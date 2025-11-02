@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<versions>
+  <!-- English Standard Version -->
+  <version 
+    id="ESV" 
+    name="English Standard Version" 
+    language="en" 
+    year="2001" 
+    publisher="Crossway" 
+    copyright="©2001 Crossway"
+    description="Word-for-word translation emphasizing literary excellence and modern readability">
+    <info>
+      <website>https://www.esv.org/</website>
+      <features>
+        <feature>Word-for-word translation philosophy</feature>
+        <feature>Literary excellence</feature>
+        <feature>Modern readability</feature>
+      </features>
+    </info>
+  </version>
+  
+  <!-- King James Version -->
+  <version 
+    id="KJV" 
+    name="King James Version" 
+    language="en" 
+    year="1611" 
+    publisher="Public Domain"
+    description="Historic English translation commissioned by King James I of England">
+    <info>
+      <features>
+        <feature>Classic Elizabethan English</feature>
+        <feature>Public domain text</feature>
+        <feature>Historic importance</feature>
+      </features>
+    </info>
+  </version>
+  
+  <!-- New International Version -->
+  <version 
+    id="NIV" 
+    name="New International Version" 
+    language="en" 
+    year="2011" 
+    publisher="Biblica" 
+    copyright="©1973, 1978, 1984, 2011 Biblica"
+    description="Thought-for-thought translation balancing accuracy and readability">
+    <info>
+      <website>https://www.biblica.com/niv-bible/</website>
+      <features>
+        <feature>Balance of precision and readability</feature>
+        <feature>Updated language and scholarship</feature>
+        <feature>Widely used for study and teaching</feature>
+      </features>
+    </info>
+  </version>
+  
+  <!-- New King James Version -->
+  <version 
+    id="NKJV" 
+    name="New King James Version" 
+    language="en" 
+    year="1982" 
+    publisher="Thomas Nelson" 
+    copyright="©1982 Thomas Nelson"
+    description="Modern update of the King James Version with updated language while maintaining style">
+    <info>
+      <website>https://www.thomasnelsonbibles.com/</website>
+      <features>
+        <feature>Updates archaic words while preserving style</feature>
+        <feature>Follows traditional text sources</feature>
+        <feature>Maintains poetic quality of KJV</feature>
+      </features>
+    </info>
+  </version>
+  
+  <!-- Amplified Bible -->
+  <version 
+    id="AMP" 
+    name="Amplified Bible" 
+    language="en" 
+    year="2015" 
+    publisher="The Lockman Foundation" 
+    copyright="©2015 The Lockman Foundation"
+    description="Translation that includes additional words and phrases to bring out nuances of the original texts">
+    <info>
+      <website>https://www.lockman.org/</website>
+      <features>
+        <feature>Expanded meanings in parentheses</feature>
+        <feature>Reveals nuances and shades of meaning</feature>
+        <feature>Amplifies implicit connections</feature>
+      </features>
+    </info>
+  </version>
+</versions>

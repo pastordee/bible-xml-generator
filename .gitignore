@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# API Keys (if stored in separate file)
+*.env
+.env
+config.py
+
+# Generated XML files (these are large and can be regenerated)
+esv/*.xml
+kjv/*.xml
+niv/*.xml
+nkjv/*.xml
+amp/*.xml
+msg/*.xml
+esv_new/*.xml
+
+# Keep directory structure but ignore XML files
+!.gitkeep
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Books directory (if generated)
+books/
+
+# State files
+state.json

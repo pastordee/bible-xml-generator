@@ -82,7 +82,7 @@ def create_detailed_chapter_xml(version, book_info, chapter_num, content):
     """Convert chapter content to XML structure matching the target format."""
     
     # Create root elements
-    root = ET.Element("crossway-bible")
+    root = ET.Element("bible", {"version": version})
     
     # Create book element with attributes
     book = ET.SubElement(root, "book", {
@@ -90,7 +90,7 @@ def create_detailed_chapter_xml(version, book_info, chapter_num, content):
         "num": str(book_info["num"]),
         "testament": book_info["testament"],
         "version": version,
-        "bookAbbr": book_info["title"]
+        "bookAbbr": book_info["abbr"]
     })
     
     # Add initial verse marker - this goes BEFORE the chapter element
@@ -104,7 +104,6 @@ def create_detailed_chapter_xml(version, book_info, chapter_num, content):
     lines = content.strip().split('\n')
     verse_pattern = re.compile(r'^(\d+)\s+(.*?)$')
     has_heading = False
-    note_counter = 1
     
     for line in lines:
         line = line.strip()
@@ -133,22 +132,27 @@ def create_detailed_chapter_xml(version, book_info, chapter_num, content):
             verse_num = match.group(1)
             verse_text = match.group(2)
             
-            # Check if this verse contains words of Christ
-            is_woc = any(pattern in verse_text.lower() for pattern in [
-                "jesus said", "jesus answered", "jesus replied", "jesus asked",
-                "he said to", "truly, truly", "i say to you", "i tell you"
-            ])
+            # Add verse element
+            v = ET.SubElement(chapter, "v", {"n": verse_num})
             
-            # Add verse element with optional woc class
-            v_attrs = {"n": verse_num}
-            if is_woc:
-                v_attrs["class"] = "woc"
-            
-            v = ET.SubElement(chapter, "v", v_attrs)
-            
-            # Process verse text with enhanced markup
-            processed_text = _process_verse_text_other(v, verse_text, verse_num, book_info['id'], chapter_num, note_counter, is_woc)
-            note_counter = processed_text.get('note_counter', note_counter)
+            # Simulate cross references and formatting based on patterns
+            # This is simplified - real cross references would come from a database
+            words = verse_text.split()
+            if len(words) > 3:
+                # Insert a crossref after the first few words for demonstration
+                v.text = " ".join(words[:2]) + " "
+                
+                # Crossref with proper attributes
+                crossref_id = f"c{book_info['id']:02d}{chapter_num:03d}{verse_num}.1"
+                crossref = ET.SubElement(v, "crossref", {
+                    "let": chr(97 + (int(verse_num) % 26)),  # a-z based on verse number
+                    "cid": crossref_id
+                })
+                
+                # Rest of text follows the crossref
+                crossref.tail = " " + " ".join(words[2:])
+            else:
+                v.text = verse_text
             
             # Add verse marker for next verse
             next_verse_num = int(verse_num) + 1
@@ -159,99 +163,6 @@ def create_detailed_chapter_xml(version, book_info, chapter_num, content):
     end_para = ET.SubElement(chapter, "end-paragraph")
     
     return ET.ElementTree(root)
-
-def _process_verse_text_other(verse_elem, verse_text, verse_num, book_id, chapter_num, note_counter, is_woc=False):
-    """Process verse text and add notes, woc tags, and quotation markers for other versions."""
-    import random
-    
-    # Split text into words for processing
-    words = verse_text.split()
-    text_so_far = ""
-    
-    for i, word in enumerate(words):
-        if i == 0:
-            text_so_far = word
-        else:
-            text_so_far += " " + word
-            
-        # Add crossref occasionally (every 6-8 words)
-        if i > 0 and i % 6 == 0 and random.random() > 0.6:
-            if verse_elem.text is None:
-                verse_elem.text = text_so_far
-            else:
-                # Find last element to add tail
-                if len(verse_elem) > 0:
-                    if verse_elem[-1].tail is None:
-                        verse_elem[-1].tail = " " + word
-                    else:
-                        verse_elem[-1].tail += " " + word
-                else:
-                    verse_elem.text += " " + word
-                    
-            # Add crossref
-            crossref = ET.SubElement(verse_elem, "crossref", {
-                "let": chr(97 + (note_counter % 26)),
-                "cid": f"c{book_id:02d}{chapter_num:03d}{verse_num}.{note_counter}"
-            })
-            text_so_far = ""
-            note_counter += 1
-            
-        # Add note occasionally
-        elif i > 0 and random.random() > 0.9:
-            # Add note element
-            note = ET.SubElement(verse_elem, "note", {
-                "nid": f"n{book_id:02d}{chapter_num:03d}{verse_num}.{note_counter}"
-            })
-            note_counter += 1
-    
-    # Handle remaining text
-    if text_so_far:
-        if verse_elem.text is None:
-            verse_elem.text = text_so_far
-        elif len(verse_elem) > 0:
-            if verse_elem[-1].tail is None:
-                verse_elem[-1].tail = text_so_far
-            else:
-                verse_elem[-1].tail += text_so_far
-        else:
-            verse_elem.text += text_so_far
-    
-    # If this is words of Christ, wrap in woc tags
-    if is_woc:
-        # Move existing content into woc element
-        original_text = verse_elem.text or ""
-        original_children = list(verse_elem)
-        
-        # Clear verse element
-        verse_elem.clear()
-        verse_elem.text = None
-        
-        # Create woc wrapper
-        woc = ET.SubElement(verse_elem, "woc")
-        
-        # Add quote markers
-        q_begin = ET.SubElement(woc, "q", {"class": "begin-double", "qid": "", "from": "", "to": ""})
-        woc.text = original_text
-        
-        # Re-add children to woc
-        for child in original_children:
-            woc.append(child)
-            
-        q_end = ET.SubElement(woc, "q", {"class": "end-double", "qid": "", "from": "", "to": ""})
-    
-    # Add quotation markers for regular speech
-    elif '"' in verse_text or "'" in verse_text:
-        # Look for quoted speech and add q markers
-        if '"' in verse_text:
-            # Add double quote markers
-            q_begin = ET.SubElement(verse_elem, "q", {"class": "begin-double", "qid": "", "from": "", "to": ""})
-            q_end = ET.SubElement(verse_elem, "q", {"class": "end-double", "qid": "", "from": "", "to": ""})
-        elif "'" in verse_text:
-            # Add single quote markers  
-            q_begin = ET.SubElement(verse_elem, "q", {"class": "begin-single", "qid": "", "from": "", "to": ""})
-            q_end = ET.SubElement(verse_elem, "q", {"class": "end-single", "qid": "", "from": "", "to": ""})
-    
-    return {"note_counter": note_counter}
 
 def save_xml_file(tree, output_path):
     """Save XML tree to file with pretty formatting."""
@@ -295,8 +206,8 @@ def main():
         {"id": 40, "num": 40, "title": "Matthew", "testament": "new", "abbr": "mat"},
         {"id": 41, "num": 41, "title": "Mark", "testament": "new", "abbr": "mrk"},
         {"id": 42, "num": 42, "title": "Luke", "testament": "new", "abbr": "luk"},
-        {"id": 43, "num": 42, "title": "John", "testament": "new", "abbr": "jhn"},
-        {"id": 44, "num": 43, "title": "Acts", "testament": "new", "abbr": "act"},
+        {"id": 43, "num": 43, "title": "John", "testament": "new", "abbr": "jhn"},
+        {"id": 44, "num": 44, "title": "Acts", "testament": "new", "abbr": "act"},
         {"id": 45, "num": 45, "title": "Romans", "testament": "new", "abbr": "rom"},
         # ... more books
     ]
@@ -304,7 +215,7 @@ def main():
     # For testing with a smaller subset
     test_books = [
         {"id": 45, "num": 45, "title": "Romans", "testament": "new", "abbr": "rom"},
-        {"id": 44, "num": 43, "title": "Acts", "testament": "new", "abbr": "act"},
+        {"id": 44, "num": 44, "title": "Acts", "testament": "new", "abbr": "act"},
     ]
     
     # Chapter counts for each book

@@ -4,7 +4,6 @@ import xml.etree.ElementTree as ET
 import xml.dom.minidom as minidom
 import time
 import re
-import random
 
 def fetch_esv_chapter_content(book_abbr, chapter, api_key):
     """Fetch Bible content from ESV API."""
@@ -31,13 +30,13 @@ def fetch_esv_chapter_content(book_abbr, chapter, api_key):
 def create_detailed_chapter_xml(book_info, chapter_num, content):
     """Create XML with detailed structure matching the target format."""
     # Create root elements
-    root = ET.Element("crossway-bible")
+    root = ET.Element("bible", {"version": "ESV"})
     book = ET.SubElement(root, "book", {
         "title": book_info["title"],
         "num": str(book_info["num"]),
         "testament": book_info["testament"],
         "version": "ESV",
-        "bookAbbr": book_info["title"]
+        "bookAbbr": book_info["abbr"]
     })
     
     # Add initial verse marker
@@ -50,7 +49,7 @@ def create_detailed_chapter_xml(book_info, chapter_num, content):
     # Process content
     lines = content.strip().split('\n')
     verse_pattern = re.compile(r'^\[?(\d+)\]?\s+(.*?)$')
-    note_counter = 1
+    heading = None
     
     for line in lines:
         line = line.strip()
@@ -75,123 +74,34 @@ def create_detailed_chapter_xml(book_info, chapter_num, content):
             marker = ET.SubElement(chapter, "marker", {"class": "begin-verse", "mid": verse_id})
             
             # Add verse element
-            v_attrs = {"n": verse_num}
+            v = ET.SubElement(chapter, "v", {"n": verse_num})
             
-            # Check if this verse contains words of Christ
-            is_woc = any(pattern in verse_text.lower() for pattern in [
-                "jesus said", "jesus answered", "jesus replied", "jesus asked",
-                "he said to", "truly, truly", "i say to you", "i tell you"
-            ])
+            # For demonstration, add a placeholder crossref at the start
+            if int(verse_num) % 2 == 1:  # Just a way to vary placement
+                v.text = verse_text[:5]
+                crossref = ET.SubElement(v, "crossref", {"let": chr(97 + (int(verse_num) % 26)), 
+                                                        "cid": f"c{book_info['id']:02d}{chapter_num:03d}{verse_num}.1"})
+                crossref.tail = verse_text[5:]
+            else:
+                v.text = verse_text
             
-            if is_woc:
-                v_attrs["class"] = "woc"
-            
-            v = ET.SubElement(chapter, "v", v_attrs)
-            
-            # Process verse text with enhanced markup
-            processed_text = _process_verse_text(v, verse_text, verse_num, book_info['id'], chapter_num, note_counter)
-            note_counter = processed_text.get('note_counter', note_counter)
+            # Handle Jesus's words specially with woc tag
+            if "Jesus said" in verse_text or "Lord said" in verse_text:
+                # Clear existing content
+                v.text = ""
+                words_before = verse_text.split('"')[0] if '"' in verse_text else ""
+                words_spoken = verse_text[len(words_before):] if words_before else verse_text
+                
+                v.text = words_before
+                woc = ET.SubElement(v, "woc")
+                q_begin = ET.SubElement(woc, "q", {"class": "begin-double", "qid": "", "from": "", "to": ""})
+                woc.text = words_spoken
+                q_end = ET.SubElement(woc, "q", {"class": "end-double", "qid": "", "from": "", "to": ""})
     
     # Final paragraph marker
     end_para = ET.SubElement(chapter, "end-paragraph")
     
     return ET.ElementTree(root)
-
-def _process_verse_text(verse_elem, verse_text, verse_num, book_id, chapter_num, note_counter):
-    """Process verse text and add notes, woc tags, and quotation markers."""
-    import random
-    
-    # Split text into parts for processing
-    text_parts = []
-    current_text = verse_text
-    
-    # Look for quotation patterns
-    quote_patterns = [
-        (r'"([^"]+)"', 'double'),  # Double quotes
-        (r"'([^']+)'", 'single'),  # Single quotes
-    ]
-    
-    # Check if this is words of Christ
-    is_christ_speaking = any(pattern in verse_text.lower() for pattern in [
-        "jesus said", "jesus answered", "jesus replied", "truly, truly", "i say to you"
-    ])
-    
-    # Simple text processing - in a real implementation, this would be more sophisticated
-    words = verse_text.split()
-    text_so_far = ""
-    
-    for i, word in enumerate(words):
-        if i == 0:
-            text_so_far = word
-        else:
-            text_so_far += " " + word
-            
-        # Add crossref occasionally (every 5-10 words)
-        if i > 0 and i % 7 == 0 and random.random() > 0.7:
-            if verse_elem.text is None:
-                verse_elem.text = text_so_far
-            else:
-                # Find last element to add tail
-                if len(verse_elem) > 0:
-                    if verse_elem[-1].tail is None:
-                        verse_elem[-1].tail = " " + word
-                    else:
-                        verse_elem[-1].tail += " " + word
-                else:
-                    verse_elem.text += " " + word
-                    
-            # Add crossref
-            crossref = ET.SubElement(verse_elem, "crossref", {
-                "let": chr(97 + (note_counter % 26)),
-                "cid": f"c{book_id:02d}{chapter_num:03d}{verse_num}.{note_counter}"
-            })
-            text_so_far = ""
-            note_counter += 1
-            
-        # Add note occasionally
-        elif i > 0 and random.random() > 0.85:
-            # Add note element
-            note = ET.SubElement(verse_elem, "note", {
-                "nid": f"n{book_id:02d}{chapter_num:03d}{verse_num}.{note_counter}"
-            })
-            note_counter += 1
-    
-    # Handle remaining text
-    if text_so_far:
-        if verse_elem.text is None:
-            verse_elem.text = text_so_far
-        elif len(verse_elem) > 0:
-            if verse_elem[-1].tail is None:
-                verse_elem[-1].tail = text_so_far
-            else:
-                verse_elem[-1].tail += text_so_far
-        else:
-            verse_elem.text += text_so_far
-    
-    # If this is words of Christ, wrap in woc tags
-    if is_christ_speaking:
-        # Move existing content into woc element
-        original_text = verse_elem.text or ""
-        original_children = list(verse_elem)
-        
-        # Clear verse element
-        verse_elem.clear()
-        verse_elem.text = None
-        
-        # Create woc wrapper
-        woc = ET.SubElement(verse_elem, "woc")
-        
-        # Add quote markers
-        q_begin = ET.SubElement(woc, "q", {"class": "begin-double", "qid": "", "from": "", "to": ""})
-        woc.text = original_text
-        
-        # Re-add children to woc
-        for child in original_children:
-            woc.append(child)
-            
-        q_end = ET.SubElement(woc, "q", {"class": "end-double", "qid": "", "from": "", "to": ""})
-    
-    return {"note_counter": note_counter}
 
 def save_xml_file(tree, output_path):
     """Save XML tree to file with pretty formatting and retain empty tags."""
@@ -260,8 +170,8 @@ def main():
         {"id": 40, "num": 40, "title": "Matthew", "testament": "new", "abbr": "mat"},
         {"id": 41, "num": 41, "title": "Mark", "testament": "new", "abbr": "mrk"},
         {"id": 42, "num": 42, "title": "Luke", "testament": "new", "abbr": "luk"},
-        {"id": 43, "num": 42, "title": "John", "testament": "new", "abbr": "jhn"},
-        {"id": 44, "num": 43, "title": "Acts", "testament": "new", "abbr": "act"},
+        {"id": 43, "num": 43, "title": "John", "testament": "new", "abbr": "jhn"},
+        {"id": 44, "num": 44, "title": "Acts", "testament": "new", "abbr": "act"},
         {"id": 45, "num": 45, "title": "Romans", "testament": "new", "abbr": "rom"},
         {"id": 46, "num": 46, "title": "1 Corinthians", "testament": "new", "abbr": "1co"},
         {"id": 47, "num": 47, "title": "2 Corinthians", "testament": "new", "abbr": "2co"},

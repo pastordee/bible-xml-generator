@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:23:05.136350</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:23:05.136358</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19123001"/>
+		<chapter num="123">
+			<heading>Prayer for Relief from ContemptA Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Unto You 
+				<crossref let="b" cid="c191231.1"/>
+				 I lift up my eyes,O You who dwell in the heavens.
+			</v>
+			<marker class="begin-verse" mid="v19123002"/>
+			<v n="2">
+				Behold, as 
+				<crossref let="c" cid="c191232.1"/>
+				 the eyes of servants look to the hand of their masters,As the eyes of a maid to the hand of her mistress,So our eyes look to the Lord our God,Until He has mercy on us.
+			</v>
+			<marker class="begin-verse" mid="v19123003"/>
+			<v n="3">
+				Have mercy 
+				<crossref let="d" cid="c191233.1"/>
+				 on us, O Lord, have mercy on us!For we are exceedingly filled with contempt.
+			</v>
+			<marker class="begin-verse" mid="v19123004"/>
+			<v n="4">
+				Our soul 
+				<crossref let="e" cid="c191234.1"/>
+				 is exceedingly filledWith the scorn of those who are at ease,With the contempt of the proud.
+			</v>
+			<marker class="begin-verse" mid="v19123005"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

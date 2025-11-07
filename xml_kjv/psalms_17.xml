@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:57:26.523800</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:57:26.523811</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19017001"/>
+		<chapter num="17">
+			<heading>A Prayer of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Hear the 
+				<crossref let="b" cid="c190171.1"/>
+				 right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips.
+			</v>
+			<marker class="begin-verse" mid="v19017002"/>
+			<v n="2">
+				Let my 
+				<crossref let="c" cid="c190172.1"/>
+				 sentence come forth from thy presence; let thine eyes behold the things that are equal.
+			</v>
+			<marker class="begin-verse" mid="v19017003"/>
+			<v n="3">
+				Thou hast 
+				<crossref let="d" cid="c190173.1"/>
+				 proved mine heart; thou hast visited me in the night; thou hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress.
+			</v>
+			<marker class="begin-verse" mid="v19017004"/>
+			<v n="4">
+				Concerning the 
+				<crossref let="e" cid="c190174.1"/>
+				 works of men, by the word of thy lips I have kept me from the paths of the destroyer.
+			</v>
+			<marker class="begin-verse" mid="v19017005"/>
+			<v n="5">
+				Hold up 
+				<crossref let="f" cid="c190175.1"/>
+				 my goings in thy paths, that my footsteps slip not.
+			</v>
+			<marker class="begin-verse" mid="v19017006"/>
+			<v n="6">
+				I have 
+				<crossref let="g" cid="c190176.1"/>
+				 called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech.
+			</v>
+			<marker class="begin-verse" mid="v19017007"/>
+			<v n="7">
+				Shew thy 
+				<crossref let="h" cid="c190177.1"/>
+				 marvellous lovingkindness, O thou that savest by thy right hand them which put their trust in thee from those that rise up against them.
+			</v>
+			<marker class="begin-verse" mid="v19017008"/>
+			<v n="8">
+				Keep me 
+				<crossref let="i" cid="c190178.1"/>
+				 as the apple of the eye, hide me under the shadow of thy wings,
+			</v>
+			<marker class="begin-verse" mid="v19017009"/>
+			<v n="9">
+				From the 
+				<crossref let="j" cid="c190179.1"/>
+				 wicked that oppress me, from my deadly enemies, who compass me about.
+			</v>
+			<marker class="begin-verse" mid="v19017010"/>
+			<v n="10">
+				They are 
+				<crossref let="k" cid="c1901710.1"/>
+				 inclosed in their own fat: with their mouth they speak proudly.
+			</v>
+			<marker class="begin-verse" mid="v19017011"/>
+			<v n="11">
+				They have 
+				<crossref let="l" cid="c1901711.1"/>
+				 now compassed us in our steps: they have set their eyes bowing down to the earth;
+			</v>
+			<marker class="begin-verse" mid="v19017012"/>
+			<v n="12">
+				Like as 
+				<crossref let="m" cid="c1901712.1"/>
+				 a lion that is greedy of his prey, and as it were a young lion lurking in secret places.
+			</v>
+			<marker class="begin-verse" mid="v19017013"/>
+			<v n="13">
+				Arise, O 
+				<crossref let="n" cid="c1901713.1"/>
+				 LORD, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:
+			</v>
+			<marker class="begin-verse" mid="v19017014"/>
+			<v n="14">
+				From men 
+				<crossref let="o" cid="c1901714.1"/>
+				 which are thy hand, O LORD, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes.
+			</v>
+			<marker class="begin-verse" mid="v19017015"/>
+			<v n="15">
+				As for 
+				<crossref let="p" cid="c1901715.1"/>
+				 me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness.
+			</v>
+			<marker class="begin-verse" mid="v19017016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:15:45.053676</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:15:45.053692</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19041001"/>
+		<chapter num="41">
+			<heading>The Blessing and Suffering of the GodlyTo the Chief Musician. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Blessed is 
+				<crossref let="b" cid="c190411.1"/>
+				 he who considers the poor;The Lord will deliver him in time of trouble.
+			</v>
+			<marker class="begin-verse" mid="v19041002"/>
+			<v n="2">
+				The Lord 
+				<crossref let="c" cid="c190412.1"/>
+				 will preserve him and keep him alive,And he will be blessed on the earth;You will not deliver him to the will of his enemies.
+			</v>
+			<marker class="begin-verse" mid="v19041003"/>
+			<v n="3">
+				The Lord 
+				<crossref let="d" cid="c190413.1"/>
+				 will strengthen him on his bed of illness;You will sustain him on his sickbed.
+			</v>
+			<marker class="begin-verse" mid="v19041004"/>
+			<v n="4">
+				I said, 
+				<crossref let="e" cid="c190414.1"/>
+				 “Lord, be merciful to me;Heal my soul, for I have sinned against You.”
+			</v>
+			<marker class="begin-verse" mid="v19041005"/>
+			<v n="5">
+				My enemies 
+				<crossref let="f" cid="c190415.1"/>
+				 speak evil of me:“When will he die, and his name perish?”
+			</v>
+			<marker class="begin-verse" mid="v19041006"/>
+			<v n="6">
+				And if 
+				<crossref let="g" cid="c190416.1"/>
+				 he comes to see me, he speaks lies;His heart gathers iniquity to itself;When he goes out, he tells it.
+			</v>
+			<marker class="begin-verse" mid="v19041007"/>
+			<v n="7">
+				All who 
+				<crossref let="h" cid="c190417.1"/>
+				 hate me whisper together against me;Against me they devise my hurt.
+			</v>
+			<marker class="begin-verse" mid="v19041008"/>
+			<v n="8">
+				“An evil 
+				<crossref let="i" cid="c190418.1"/>
+				 disease,” they say, “clings to him.And now that he lies down, he will rise up no more.”
+			</v>
+			<marker class="begin-verse" mid="v19041009"/>
+			<v n="9">
+				Even my 
+				<crossref let="j" cid="c190419.1"/>
+				 own familiar friend in whom I trusted,Who ate my bread,Has lifted up his heel against me.
+			</v>
+			<marker class="begin-verse" mid="v19041010"/>
+			<v n="10">
+				But You, 
+				<crossref let="k" cid="c1904110.1"/>
+				 O Lord, be merciful to me, and raise me up,That I may repay them.
+			</v>
+			<marker class="begin-verse" mid="v19041011"/>
+			<v n="11">
+				By this 
+				<crossref let="l" cid="c1904111.1"/>
+				 I know that You are well pleased with me,Because my enemy does not triumph over me.
+			</v>
+			<marker class="begin-verse" mid="v19041012"/>
+			<v n="12">
+				As for 
+				<crossref let="m" cid="c1904112.1"/>
+				 me, You uphold me in my integrity,And set me before Your face forever.
+			</v>
+			<marker class="begin-verse" mid="v19041013"/>
+			<v n="13">
+				Blessed be 
+				<crossref let="n" cid="c1904113.1"/>
+				 the Lord God of IsraelFrom everlasting to everlasting!Amen and Amen.
+			</v>
+			<marker class="begin-verse" mid="v19041014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

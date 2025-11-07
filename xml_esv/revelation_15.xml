@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:48.336209</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:48.336215</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" bookAbbr="rev" version="ESV">
+		<marker class="begin-verse" mid="v66015001">
+		</marker>
+		<chapter num="15">
+			<heading>
+				Revelation 15
+			</heading>
+			<heading>
+				The Seven Angels with Seven Plagues
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Then I 
+				<crossref let="b" cid="c66015001.1">
+				</crossref>
+				saw another, 
+				<crossref let="c" cid="c66015001.2">
+				</crossref>
+				sign in heaven, great and amazing, seven angels with seven plagues, which are the last, for with them the wrath of God is finished.
+			</v>
+			<marker class="begin-verse" mid="v66015002">
+			</marker>
+			<v n="2">
+				And I 
+				<crossref let="d" cid="c66015002.3">
+				</crossref>
+				saw what, 
+				<crossref let="e" cid="c66015002.4">
+				</crossref>
+				appeared to be a sea of glass mingled with fire—and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands.
+			</v>
+			<marker class="begin-verse" mid="v66015003">
+			</marker>
+			<v n="3">
+				And they 
+				<crossref let="f" cid="c66015003.5">
+				</crossref>
+				sing the, 
+				<crossref let="g" cid="c66015003.6">
+				</crossref>
+				song of Moses, the servant of God, and the song of the Lamb, saying, “Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations!(1)
+				<note nid="n66015003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v66015004">
+			</marker>
+			<v n="4">
+				Who will 
+				<crossref let="h" cid="c66015004.7">
+				</crossref>
+				not fear,, 
+				<crossref let="i" cid="c66015004.8">
+				</crossref>
+				O Lord, and glorify your name? For you alone are holy. All nations will come and worship you, for your righteous acts have been revealed.”
+			</v>
+			<marker class="begin-verse" mid="v66015005">
+			</marker>
+			<v n="5">
+				After this 
+				<crossref let="j" cid="c66015005.9">
+				</crossref>
+				I looked,, 
+				<crossref let="k" cid="c66015005.10">
+				</crossref>
+				and the sanctuary of the tent(2) of witness in heaven was opened,
+			</v>
+			<marker class="begin-verse" mid="v66015006">
+			</marker>
+			<v n="6">
+				and out 
+				<crossref let="l" cid="c66015006.11">
+				</crossref>
+				of the, 
+				<crossref let="m" cid="c66015006.12">
+				</crossref>
+				sanctuary came the seven angels with the seven plagues, clothed in pure, bright linen, with golden sashes around their chests.
+				<note nid="n66015006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v66015007">
+			</marker>
+			<v n="7">
+				And one 
+				<crossref let="n" cid="c66015007.13">
+				</crossref>
+				of the, 
+				<crossref let="o" cid="c66015007.14">
+				</crossref>
+				four living creatures gave to the seven angels seven golden bowls full of the wrath of God who lives forever and ever,
+			</v>
+			<marker class="begin-verse" mid="v66015008">
+			</marker>
+			<v n="8">
+				and the 
+				<crossref let="p" cid="c66015008.15">
+				</crossref>
+				sanctuary was, 
+				<crossref let="q" cid="c66015008.16">
+				</crossref>
+				filled with smoke from the glory of God and from his power, and no one could enter the sanctuary until the seven plagues of the seven angels were finished. Footnotes (1) 15:3 Some manuscripts *the ages* (2) 15:5 Or *tabernacle* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v66015009">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

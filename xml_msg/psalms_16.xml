@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:14:04.498256</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:14:04.498272</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19016001"/>
+		<chapter num="16">
+			<heading>A psalm (miktam) of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Take care 
+				<crossref let="b" cid="c190161.1"/>
+				 of me, Lord, for I come to you for protection.
+			</v>
+			<marker class="begin-verse" mid="v19016002"/>
+			<v n="2">
+				I tell 
+				<crossref let="c" cid="c190162.1"/>
+				 the Lord, “Apart from you Lord, I don't have anything that's good.”
+			</v>
+			<marker class="begin-verse" mid="v19016003"/>
+			<v n="3">
+				As for 
+				<crossref let="d" cid="c190163.1"/>
+				 the holy people in the land, they are the ones who are truly great. I appreciate them.
+			</v>
+			<marker class="begin-verse" mid="v19016004"/>
+			<v n="4">
+				Those who 
+				<crossref let="e" cid="c190164.1"/>
+				 run after other gods will face a lot of trouble. I will not participate in their offerings of blood, I will not even speak the names of their gods.
+			</v>
+			<marker class="begin-verse" mid="v19016005"/>
+			<v n="5">
+				Lord, you 
+				<crossref let="f" cid="c190165.1"/>
+				 alone are all I have; you give me what I need; you safeguard my future.
+			</v>
+			<marker class="begin-verse" mid="v19016006"/>
+			<v n="6">
+				The land 
+				<crossref let="g" cid="c190166.1"/>
+				 divisions have worked out in my favor—my property is wonderful!
+			</v>
+			<marker class="begin-verse" mid="v19016007"/>
+			<v n="7">
+				I will 
+				<crossref let="h" cid="c190167.1"/>
+				 bless the Lord who gives me good advice; even at night my conscience tells me what is right.
+			</v>
+			<marker class="begin-verse" mid="v19016008"/>
+			<v n="8">
+				I have 
+				<crossref let="i" cid="c190168.1"/>
+				 always kept the Lord in front of me. I will not be shaken, for he is right beside me.
+			</v>
+			<marker class="begin-verse" mid="v19016009"/>
+			<v n="9">
+				That's why 
+				<crossref let="j" cid="c190169.1"/>
+				 I'm so happy! That's why I am full of joy! That's why my body lives in hope!
+			</v>
+			<marker class="begin-verse" mid="v19016010"/>
+			<v n="10">
+				For you 
+				<crossref let="k" cid="c1901610.1"/>
+				 will not abandon me in the grave, nor will you allow your Holy One to experience decay.
+			</v>
+			<marker class="begin-verse" mid="v19016011"/>
+			<v n="11">
+				You have 
+				<crossref let="l" cid="c1901611.1"/>
+				 shown me the path of life, filling me with joy with your presence and the delight of living with you forever.
+			</v>
+			<marker class="begin-verse" mid="v19016012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:48:40.068137</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:48:40.068157</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19079001"/>
+		<chapter num="79">
+			<heading>A Psalm by Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				God, the 
+				<crossref let="b" cid="c190791.1"/>
+				 nations have come into your inheritance.They have defiled your holy temple.They have laid Jerusalem in heaps.
+			</v>
+			<marker class="begin-verse" mid="v19079002"/>
+			<v n="2">
+				They have 
+				<crossref let="c" cid="c190792.1"/>
+				 given the dead bodies of your servants to be food for the birds of the sky,the flesh of your saints to the animals of the earth.
+			</v>
+			<marker class="begin-verse" mid="v19079003"/>
+			<v n="3">
+				They have 
+				<crossref let="d" cid="c190793.1"/>
+				 shed their blood like water around Jerusalem.There was no one to bury them.
+			</v>
+			<marker class="begin-verse" mid="v19079004"/>
+			<v n="4">
+				We have 
+				<crossref let="e" cid="c190794.1"/>
+				 become a reproach to our neighbors,a scoffing and derision to those who are around us.
+			</v>
+			<marker class="begin-verse" mid="v19079005"/>
+			<v n="5">
+				How long, 
+				<crossref let="f" cid="c190795.1"/>
+				 Yahweh?Will you be angry forever?Will your jealousy burn like fire?
+			</v>
+			<marker class="begin-verse" mid="v19079006"/>
+			<v n="6">
+				Pour out 
+				<crossref let="g" cid="c190796.1"/>
+				 your wrath on the nations that don’t know you,on the kingdoms that don’t call on your name,
+			</v>
+			<marker class="begin-verse" mid="v19079007"/>
+			<v n="7">
+				for they 
+				<crossref let="h" cid="c190797.1"/>
+				 have devoured Jacob,and destroyed his homeland.
+			</v>
+			<marker class="begin-verse" mid="v19079008"/>
+			<v n="8">
+				Don’t hold 
+				<crossref let="i" cid="c190798.1"/>
+				 the iniquities of our forefathers against us.Let your tender mercies speedily meet us,for we are in desperate need.
+			</v>
+			<marker class="begin-verse" mid="v19079009"/>
+			<v n="9">
+				Help us, 
+				<crossref let="j" cid="c190799.1"/>
+				 God of our salvation, for the glory of your name.Deliver us, and forgive our sins, for your name’s sake.
+			</v>
+			<marker class="begin-verse" mid="v19079010"/>
+			<v n="10">
+				Why should 
+				<crossref let="k" cid="c1907910.1"/>
+				 the nations say, “Where is their God?”Let it be known among the nations, before our eyes,that vengeance for your servants’ blood is being poured out.
+			</v>
+			<marker class="begin-verse" mid="v19079011"/>
+			<v n="11">
+				Let the 
+				<crossref let="l" cid="c1907911.1"/>
+				 sighing of the prisoner come before you.According to the greatness of your power, preserve those who are sentenced to death.
+			</v>
+			<marker class="begin-verse" mid="v19079012"/>
+			<v n="12">
+				Pay back 
+				<crossref let="m" cid="c1907912.1"/>
+				 to our neighbors seven times into their bosomtheir reproach with which they have reproached you, Lord.
+			</v>
+			<marker class="begin-verse" mid="v19079013"/>
+			<v n="13">
+				So we, 
+				<crossref let="n" cid="c1907913.1"/>
+				 your people and sheep of your pasture,will give you thanks forever.We will praise you forever, to all generations.
+			</v>
+			<marker class="begin-verse" mid="v19079014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

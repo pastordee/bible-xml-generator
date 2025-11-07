@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:19:30.361884</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:19:30.361891</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" version="ASV" bookAbbr="2ch">
+		<marker class="begin-verse" mid="v14027001"/>
+		<chapter num="27">
+			<begin-paragraph/>
+			<v n="1">
+				Jotham was 
+				<crossref let="b" cid="c140271.1"/>
+				 twenty and five years old when he began to reign; and he reigned sixteen years in Jerusalem: and his mother’s name was Jerushah the daughter of Zadok.
+			</v>
+			<marker class="begin-verse" mid="v14027002"/>
+			<v n="2">
+				And he 
+				<crossref let="c" cid="c140272.1"/>
+				 did that which was right in the eyes of Jehovah, according to all that his father Uzziah had done: howbeit he entered not into the temple of Jehovah. And the people did yet corruptly.
+			</v>
+			<marker class="begin-verse" mid="v14027003"/>
+			<v n="3">
+				He built 
+				<crossref let="d" cid="c140273.1"/>
+				 the upper gate of the house of Jehovah, and on the wall of Ophel he built much.
+			</v>
+			<marker class="begin-verse" mid="v14027004"/>
+			<v n="4">
+				Moreover he 
+				<crossref let="e" cid="c140274.1"/>
+				 built cities in the hill-country of Judah, and in the forests he built castles and towers.
+			</v>
+			<marker class="begin-verse" mid="v14027005"/>
+			<v n="5">
+				He fought 
+				<crossref let="f" cid="c140275.1"/>
+				 also with the king of the children of Ammon, and prevailed against them. And the children of Ammon gave him the same year a hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. So much did the children of Ammon render unto him, in the second year also, and in the third.
+			</v>
+			<marker class="begin-verse" mid="v14027006"/>
+			<v n="6">
+				So Jotham 
+				<crossref let="g" cid="c140276.1"/>
+				 became mighty, because he ordered his ways before Jehovah his God.
+			</v>
+			<marker class="begin-verse" mid="v14027007"/>
+			<v n="7">
+				Now the 
+				<crossref let="h" cid="c140277.1"/>
+				 rest of the acts of Jotham, and all his wars, and his ways, behold, they are written in the book of the kings of Israel and Judah.
+			</v>
+			<marker class="begin-verse" mid="v14027008"/>
+			<v n="8">
+				He was 
+				<crossref let="i" cid="c140278.1"/>
+				 five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v14027009"/>
+			<v n="9">
+				And Jotham 
+				<crossref let="j" cid="c140279.1"/>
+				 slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.
+			</v>
+			<marker class="begin-verse" mid="v14027010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:22:54.561172</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:22:54.561178</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19121001"/>
+		<chapter num="121">
+			<heading>God the Help of Those Who Seek HimA Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I will 
+				<crossref let="b" cid="c191211.1"/>
+				 lift up my eyes to the hills—From whence comes my help?
+			</v>
+			<marker class="begin-verse" mid="v19121002"/>
+			<v n="2">
+				My help 
+				<crossref let="c" cid="c191212.1"/>
+				 comes from the Lord,Who made heaven and earth.
+			</v>
+			<marker class="begin-verse" mid="v19121003"/>
+			<v n="3">
+				He will 
+				<crossref let="d" cid="c191213.1"/>
+				 not allow your foot to be moved;He who keeps you will not slumber.
+			</v>
+			<marker class="begin-verse" mid="v19121004"/>
+			<v n="4">
+				Behold, He 
+				<crossref let="e" cid="c191214.1"/>
+				 who keeps IsraelShall neither slumber nor sleep.
+			</v>
+			<marker class="begin-verse" mid="v19121005"/>
+			<v n="5">
+				The Lord 
+				<crossref let="f" cid="c191215.1"/>
+				 is your keeper;The Lord is your shade at your right hand.
+			</v>
+			<marker class="begin-verse" mid="v19121006"/>
+			<v n="6">
+				The sun 
+				<crossref let="g" cid="c191216.1"/>
+				 shall not strike you by day,Nor the moon by night.
+			</v>
+			<marker class="begin-verse" mid="v19121007"/>
+			<v n="7">
+				The Lord 
+				<crossref let="h" cid="c191217.1"/>
+				 shall preserve you from all evil;He shall preserve your soul.
+			</v>
+			<marker class="begin-verse" mid="v19121008"/>
+			<v n="8">
+				The Lord 
+				<crossref let="i" cid="c191218.1"/>
+				 shall preserve your going out and your coming inFrom this time forth, and even forevermore.
+			</v>
+			<marker class="begin-verse" mid="v19121009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

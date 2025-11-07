@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:06.561544</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:06.561565</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				Matthew 4
+			</heading>
+			<heading>
+				The Temptation of Jesus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Then Jesus 
+				<crossref let="b" cid="c40004001.1">
+				</crossref>
+				was led, 
+				<crossref let="c" cid="c40004001.2">
+				</crossref>
+				up by the Spirit into the wilderness to be tempted by the devil.
+			</v>
+			<marker class="begin-verse" mid="v40004002">
+			</marker>
+			<v n="2">
+				And after 
+				<crossref let="d" cid="c40004002.3">
+				</crossref>
+				fasting forty, 
+				<crossref let="e" cid="c40004002.4">
+				</crossref>
+				days and forty nights, he was hungry.
+			</v>
+			<marker class="begin-verse" mid="v40004003">
+			</marker>
+			<v n="3">
+				And the 
+				<crossref let="f" cid="c40004003.5">
+				</crossref>
+				tempter came, 
+				<crossref let="g" cid="c40004003.6">
+				</crossref>
+				and said to him, “If you are the Son of God, command these stones to become loaves of bread.”
+				<note nid="n40004003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40004004">
+			</marker>
+			<v n="4">
+				But he 
+				<crossref let="h" cid="c40004004.7">
+				</crossref>
+				answered, “It, 
+				<crossref let="i" cid="c40004004.8">
+				</crossref>
+				is written, “‘Man shall not live by bread alone, but by every word that comes from the mouth of God.’”
+			</v>
+			<marker class="begin-verse" mid="v40004005">
+			</marker>
+			<v n="5">
+				Then the 
+				<crossref let="j" cid="c40004005.9">
+				</crossref>
+				devil took, 
+				<crossref let="k" cid="c40004005.10">
+				</crossref>
+				him to the holy city and set him on the pinnacle of the temple
+			</v>
+			<marker class="begin-verse" mid="v40004006">
+			</marker>
+			<v n="6">
+				and said 
+				<crossref let="l" cid="c40004006.11">
+				</crossref>
+				to him,, 
+				<crossref let="m" cid="c40004006.12">
+				</crossref>
+				“If you are the Son of God, throw yourself down, for it is written, “‘He will command his angels concerning you,’ and “‘On their hands they will bear you up, lest you strike your foot against a stone.’”
+				<note nid="n40004006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40004007">
+			</marker>
+			<v n="7" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus said 
+					<crossref let="n" cid="c40004007.13">
+				</crossref>
+					to him,, 
+					<crossref let="o" cid="c40004007.14">
+				</crossref>
+				“Again it is written, ‘You shall not put the Lord your God to the test.’”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40004008">
+			</marker>
+			<v n="8">
+				Again, the 
+				<crossref let="p" cid="c40004008.15">
+				</crossref>
+				devil took, 
+				<crossref let="q" cid="c40004008.16">
+				</crossref>
+				him to a very high mountain and showed him all the kingdoms of the world and their glory.
+			</v>
+			<marker class="begin-verse" mid="v40004009">
+			</marker>
+			<v n="9" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="r" cid="c40004009.17">
+				</crossref>
+					said to, 
+					<crossref let="s" cid="c40004009.18">
+				</crossref>
+				him, “All these I will give you, if you will fall down and worship me.”
+					<note nid="n40004009.9">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40004010">
+			</marker>
+			<v n="10" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Then Jesus 
+					<crossref let="t" cid="c40004010.19">
+				</crossref>
+					said to, 
+					<crossref let="u" cid="c40004010.20">
+				</crossref>
+				him, “Be gone, Satan! For it is written, “‘You shall worship the Lord your God and him only shall you serve.’”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40004011">
+			</marker>
+			<v n="11">
+				Then the 
+				<crossref let="v" cid="c40004011.21">
+				</crossref>
+				devil left, 
+				<crossref let="w" cid="c40004011.22">
+				</crossref>
+				him, and behold, angels came and were ministering to him. Jesus Begins His Ministry
+			</v>
+			<marker class="begin-verse" mid="v40004012">
+			</marker>
+			<v n="12">
+				Now when 
+				<crossref let="x" cid="c40004012.23">
+				</crossref>
+				he heard, 
+				<crossref let="y" cid="c40004012.24">
+				</crossref>
+				that John had been arrested, he withdrew into Galilee.
+				<note nid="n40004012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40004013">
+			</marker>
+			<v n="13">
+				And leaving 
+				<crossref let="z" cid="c40004013.25">
+				</crossref>
+				Nazareth he, 
+				<crossref let="a" cid="c40004013.26">
+				</crossref>
+				went and lived in Capernaum by the sea, in the territory of Zebulun and Naphtali,
+			</v>
+			<marker class="begin-verse" mid="v40004014">
+			</marker>
+			<v n="14">
+				so that 
+				<crossref let="b" cid="c40004014.27">
+				</crossref>
+				what was, 
+				<crossref let="c" cid="c40004014.28">
+				</crossref>
+				spoken by the prophet Isaiah might be fulfilled:
+			</v>
+			<marker class="begin-verse" mid="v40004015">
+			</marker>
+			<v n="15">
+				“The land 
+				<crossref let="d" cid="c40004015.29">
+				</crossref>
+				of Zebulun, 
+				<crossref let="e" cid="c40004015.30">
+				</crossref>
+				and the land of Naphtali, the way of the sea, beyond the Jordan, Galilee of the Gentiles—
+				<note nid="n40004015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40004016">
+			</marker>
+			<v n="16">
+				the people 
+				<crossref let="f" cid="c40004016.31">
+				</crossref>
+				dwelling in, 
+				<crossref let="g" cid="c40004016.32">
+				</crossref>
+				darkness have seen a great light, and for those dwelling in the region and shadow of death, on them a light has dawned.”
+			</v>
+			<marker class="begin-verse" mid="v40004017">
+			</marker>
+			<v n="17">
+				From that 
+				<crossref let="h" cid="c40004017.33">
+				</crossref>
+				time Jesus, 
+				<crossref let="i" cid="c40004017.34">
+				</crossref>
+				began to preach, saying, “Repent, for the kingdom of heaven is at hand.”(1) Jesus Calls the First Disciples
+			</v>
+			<marker class="begin-verse" mid="v40004018">
+			</marker>
+			<v n="18">
+				While walking 
+				<crossref let="j" cid="c40004018.35">
+				</crossref>
+				by the, 
+				<crossref let="k" cid="c40004018.36">
+				</crossref>
+				Sea of Galilee, he saw two brothers, Simon (who is called Peter) and Andrew his brother, casting a net into the sea, for they were fishermen.
+				<note nid="n40004018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40004019">
+			</marker>
+			<v n="19" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="l" cid="c40004019.37">
+				</crossref>
+					said to, 
+					<crossref let="m" cid="c40004019.38">
+				</crossref>
+				them, “Follow me, and I will make you fishers of men.”(2)
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40004020">
+			</marker>
+			<v n="20">
+				Immediately they 
+				<crossref let="n" cid="c40004020.39">
+				</crossref>
+				left their, 
+				<crossref let="o" cid="c40004020.40">
+				</crossref>
+				nets and followed him.
+			</v>
+			<marker class="begin-verse" mid="v40004021">
+			</marker>
+			<v n="21">
+				And going 
+				<crossref let="p" cid="c40004021.41">
+				</crossref>
+				on from, 
+				<crossref let="q" cid="c40004021.42">
+				</crossref>
+				there he saw two other brothers, James the son of Zebedee and John his brother, in the boat with Zebedee their father, mending their nets, and he called them.
+				<note nid="n40004021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40004022">
+			</marker>
+			<v n="22">
+				Immediately they 
+				<crossref let="r" cid="c40004022.43">
+				</crossref>
+				left the, 
+				<crossref let="s" cid="c40004022.44">
+				</crossref>
+				boat and their father and followed him. Jesus Ministers to Great Crowds
+			</v>
+			<marker class="begin-verse" mid="v40004023">
+			</marker>
+			<v n="23">
+				And he 
+				<crossref let="t" cid="c40004023.45">
+				</crossref>
+				went throughout, 
+				<crossref let="u" cid="c40004023.46">
+				</crossref>
+				all Galilee, teaching in their synagogues and proclaiming the gospel of the kingdom and healing every disease and every affliction among the people.
+			</v>
+			<marker class="begin-verse" mid="v40004024">
+			</marker>
+			<v n="24">
+				So his 
+				<crossref let="v" cid="c40004024.47">
+				</crossref>
+				fame spread, 
+				<crossref let="w" cid="c40004024.48">
+				</crossref>
+				throughout all Syria, and they brought him all the sick, those afflicted with various diseases and pains, those oppressed by demons, those having seizures, and paralytics, and he healed them.
+				<note nid="n40004024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40004025">
+			</marker>
+			<v n="25">
+				And great 
+				<crossref let="x" cid="c40004025.49">
+				</crossref>
+				crowds followed, 
+				<crossref let="y" cid="c40004025.50">
+				</crossref>
+				him from Galilee and the Decapolis, and from Jerusalem and Judea, and from beyond the Jordan. Footnotes (1) 4:17 Or *the kingdom of heaven has come near* (2) 4:19 The Greek word *anthropoi* refers here to both men and women (ESV)
+			</v>
+			<marker class="begin-verse" mid="v40004026">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

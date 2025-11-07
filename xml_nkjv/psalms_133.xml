@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:23:58.647338</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:23:58.647366</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19133001"/>
+		<chapter num="133">
+			<heading>Blessed Unity of the People of GodA Song of Ascents. Of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Behold, how 
+				<crossref let="b" cid="c191331.1"/>
+				 good and how pleasant it isFor brethren to dwell together in unity!
+			</v>
+			<marker class="begin-verse" mid="v19133002"/>
+			<v n="2">
+				It is 
+				<crossref let="c" cid="c191332.1"/>
+				 like the precious oil upon the head,Running down on the beard,The beard of Aaron,Running down on the edge of his garments.
+			</v>
+			<marker class="begin-verse" mid="v19133003"/>
+			<v n="3">
+				It is 
+				<crossref let="d" cid="c191333.1"/>
+				 like the dew of Hermon,Descending upon the mountains of Zion;For there the Lord commanded the blessing—Life forevermore.
+			</v>
+			<marker class="begin-verse" mid="v19133004"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

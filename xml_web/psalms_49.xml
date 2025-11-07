@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:45:59.201399</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:45:59.201422</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19049001"/>
+		<chapter num="49">
+			<heading>For the Chief Musician. A Psalm by the sons of Korah.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Hear this, 
+				<crossref let="b" cid="c190491.1"/>
+				 all you peoples.Listen, all you inhabitants of the world,
+			</v>
+			<marker class="begin-verse" mid="v19049002"/>
+			<v n="2">
+				both low 
+				<crossref let="c" cid="c190492.1"/>
+				 and high,rich and poor together.
+			</v>
+			<marker class="begin-verse" mid="v19049003"/>
+			<v n="3">
+				My mouth 
+				<crossref let="d" cid="c190493.1"/>
+				 will speak words of wisdom.My heart will utter understanding.
+			</v>
+			<marker class="begin-verse" mid="v19049004"/>
+			<v n="4">
+				I will 
+				<crossref let="e" cid="c190494.1"/>
+				 incline my ear to a proverb.I will solve my riddle on the harp.
+			</v>
+			<marker class="begin-verse" mid="v19049005"/>
+			<v n="5">
+				Why should 
+				<crossref let="f" cid="c190495.1"/>
+				 I fear in the days of evil,when iniquity at my heels surrounds me?
+			</v>
+			<marker class="begin-verse" mid="v19049006"/>
+			<v n="6">
+				Those who 
+				<crossref let="g" cid="c190496.1"/>
+				 trust in their wealth,and boast in the multitude of their riches—
+			</v>
+			<marker class="begin-verse" mid="v19049007"/>
+			<v n="7">
+				none of 
+				<crossref let="h" cid="c190497.1"/>
+				 them can by any means redeem his brother,nor give God a ransom for him.
+			</v>
+			<marker class="begin-verse" mid="v19049008"/>
+			<v n="8">
+				For the 
+				<crossref let="i" cid="c190498.1"/>
+				 redemption of their life is costly,no payment is ever enough,
+			</v>
+			<marker class="begin-verse" mid="v19049009"/>
+			<v n="9">
+				that he 
+				<crossref let="j" cid="c190499.1"/>
+				 should live on forever,that he should not see corruption.
+			</v>
+			<marker class="begin-verse" mid="v19049010"/>
+			<v n="10">
+				For he 
+				<crossref let="k" cid="c1904910.1"/>
+				 sees that wise men die;likewise the fool and the senseless perish,and leave their wealth to others.
+			</v>
+			<marker class="begin-verse" mid="v19049011"/>
+			<v n="11">
+				Their inward 
+				<crossref let="l" cid="c1904911.1"/>
+				 thought is that their houses will endure forever,and their dwelling places to all generations.They name their lands after themselves.
+			</v>
+			<marker class="begin-verse" mid="v19049012"/>
+			<v n="12">
+				But man, 
+				<crossref let="m" cid="c1904912.1"/>
+				 despite his riches, doesn’t endure.He is like the animals that perish.
+			</v>
+			<marker class="begin-verse" mid="v19049013"/>
+			<v n="13">
+				This is 
+				<crossref let="n" cid="c1904913.1"/>
+				 the destiny of those who are foolish,and of those who approve their sayings. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19049014"/>
+			<v n="14">
+				They are 
+				<crossref let="o" cid="c1904914.1"/>
+				 appointed as a flock for Sheol.Death shall be their shepherd.The upright shall have dominion over them in the morning.Their beauty shall decay in Sheol,far from their mansion.
+			</v>
+			<marker class="begin-verse" mid="v19049015"/>
+			<v n="15">
+				But God 
+				<crossref let="p" cid="c1904915.1"/>
+				 will redeem my soul from the power of Sheol,for he will receive me. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19049016"/>
+			<v n="16">
+				Don’t be 
+				<crossref let="q" cid="c1904916.1"/>
+				 afraid when a man is made rich,when the glory of his house is increased;
+			</v>
+			<marker class="begin-verse" mid="v19049017"/>
+			<v n="17">
+				for when 
+				<crossref let="r" cid="c1904917.1"/>
+				 he dies he will carry nothing away.His glory won’t descend after him.
+			</v>
+			<marker class="begin-verse" mid="v19049018"/>
+			<v n="18">
+				Though while 
+				<crossref let="s" cid="c1904918.1"/>
+				 he lived he blessed his soul—and men praise you when you do well for yourself—
+			</v>
+			<marker class="begin-verse" mid="v19049019"/>
+			<v n="19">
+				he shall 
+				<crossref let="t" cid="c1904919.1"/>
+				 go to the generation of his fathers.They shall never see the light.
+			</v>
+			<marker class="begin-verse" mid="v19049020"/>
+			<v n="20">
+				A man 
+				<crossref let="u" cid="c1904920.1"/>
+				 who has riches without understanding,is like the animals that perish.
+			</v>
+			<marker class="begin-verse" mid="v19049021"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

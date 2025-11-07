@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:10:21.842560</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:10:21.842580</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" version="KJV" bookAbbr="pro">
+		<marker class="begin-verse" mid="v20012001"/>
+		<chapter num="12">
+			<begin-paragraph/>
+			<v n="1">
+				Whoso loveth 
+				<crossref let="b" cid="c200121.1"/>
+				 instruction loveth knowledge: but he that hateth reproof is brutish.
+			</v>
+			<marker class="begin-verse" mid="v20012002"/>
+			<v n="2">
+				A good 
+				<crossref let="c" cid="c200122.1"/>
+				 man obtaineth favour of the LORD: but a man of wicked devices will he condemn.
+			</v>
+			<marker class="begin-verse" mid="v20012003"/>
+			<v n="3">
+				A man 
+				<crossref let="d" cid="c200123.1"/>
+				 shall not be established by wickedness: but the root of the righteous shall not be moved.
+			</v>
+			<marker class="begin-verse" mid="v20012004"/>
+			<v n="4">
+				A virtuous 
+				<crossref let="e" cid="c200124.1"/>
+				 woman is a crown to her husband: but she that maketh ashamed is as rottenness in his bones.
+			</v>
+			<marker class="begin-verse" mid="v20012005"/>
+			<v n="5">
+				The thoughts 
+				<crossref let="f" cid="c200125.1"/>
+				 of the righteous are right: but the counsels of the wicked are deceit.
+			</v>
+			<marker class="begin-verse" mid="v20012006"/>
+			<v n="6">
+				The words 
+				<crossref let="g" cid="c200126.1"/>
+				 of the wicked are to lie in wait for blood: but the mouth of the upright shall deliver them.
+			</v>
+			<marker class="begin-verse" mid="v20012007"/>
+			<v n="7">
+				The wicked 
+				<crossref let="h" cid="c200127.1"/>
+				 are overthrown, and are not: but the house of the righteous shall stand.
+			</v>
+			<marker class="begin-verse" mid="v20012008"/>
+			<v n="8">
+				A man 
+				<crossref let="i" cid="c200128.1"/>
+				 shall be commended according to his wisdom: but he that is of a perverse heart shall be despised.
+			</v>
+			<marker class="begin-verse" mid="v20012009"/>
+			<v n="9">
+				He that 
+				<crossref let="j" cid="c200129.1"/>
+				 is despised, and hath a servant, is better than he that honoureth himself, and lacketh bread.
+			</v>
+			<marker class="begin-verse" mid="v20012010"/>
+			<v n="10">
+				A righteous 
+				<crossref let="k" cid="c2001210.1"/>
+				 man regardeth the life of his beast: but the tender mercies of the wicked are cruel.
+			</v>
+			<marker class="begin-verse" mid="v20012011"/>
+			<v n="11">
+				He that 
+				<crossref let="l" cid="c2001211.1"/>
+				 tilleth his land shall be satisfied with bread: but he that followeth vain persons is void of understanding.
+			</v>
+			<marker class="begin-verse" mid="v20012012"/>
+			<v n="12">
+				The wicked 
+				<crossref let="m" cid="c2001212.1"/>
+				 desireth the net of evil men: but the root of the righteous yieldeth fruit.
+			</v>
+			<marker class="begin-verse" mid="v20012013"/>
+			<v n="13">
+				The wicked 
+				<crossref let="n" cid="c2001213.1"/>
+				 is snared by the transgression of his lips: but the just shall come out of trouble.
+			</v>
+			<marker class="begin-verse" mid="v20012014"/>
+			<v n="14">
+				A man 
+				<crossref let="o" cid="c2001214.1"/>
+				 shall be satisfied with good by the fruit of his mouth: and the recompence of a man’s hands shall be rendered unto him.
+			</v>
+			<marker class="begin-verse" mid="v20012015"/>
+			<v n="15">
+				The way 
+				<crossref let="p" cid="c2001215.1"/>
+				 of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.
+			</v>
+			<marker class="begin-verse" mid="v20012016"/>
+			<v n="16">
+				A fool’s 
+				<crossref let="q" cid="c2001216.1"/>
+				 wrath is presently known: but a prudent man covereth shame.
+			</v>
+			<marker class="begin-verse" mid="v20012017"/>
+			<v n="17">
+				He that 
+				<crossref let="r" cid="c2001217.1"/>
+				 speaketh truth sheweth forth righteousness: but a false witness deceit.
+			</v>
+			<marker class="begin-verse" mid="v20012018"/>
+			<v n="18">
+				There is 
+				<crossref let="s" cid="c2001218.1"/>
+				 that speaketh like the piercings of a sword: but the tongue of the wise is health.
+			</v>
+			<marker class="begin-verse" mid="v20012019"/>
+			<v n="19">
+				The lip 
+				<crossref let="t" cid="c2001219.1"/>
+				 of truth shall be established for ever: but a lying tongue is but for a moment.
+			</v>
+			<marker class="begin-verse" mid="v20012020"/>
+			<v n="20">
+				Deceit is 
+				<crossref let="u" cid="c2001220.1"/>
+				 in the heart of them that imagine evil: but to the counsellors of peace is joy.
+			</v>
+			<marker class="begin-verse" mid="v20012021"/>
+			<v n="21">
+				There shall 
+				<crossref let="v" cid="c2001221.1"/>
+				 no evil happen to the just: but the wicked shall be filled with mischief.
+			</v>
+			<marker class="begin-verse" mid="v20012022"/>
+			<v n="22">
+				Lying lips 
+				<crossref let="w" cid="c2001222.1"/>
+				 are abomination to the LORD: but they that deal truly are his delight.
+			</v>
+			<marker class="begin-verse" mid="v20012023"/>
+			<v n="23">
+				A prudent 
+				<crossref let="x" cid="c2001223.1"/>
+				 man concealeth knowledge: but the heart of fools proclaimeth foolishness.
+			</v>
+			<marker class="begin-verse" mid="v20012024"/>
+			<v n="24">
+				The hand 
+				<crossref let="y" cid="c2001224.1"/>
+				 of the diligent shall bear rule: but the slothful shall be under tribute.
+			</v>
+			<marker class="begin-verse" mid="v20012025"/>
+			<v n="25">
+				Heaviness in 
+				<crossref let="z" cid="c2001225.1"/>
+				 the heart of man maketh it stoop: but a good word maketh it glad.
+			</v>
+			<marker class="begin-verse" mid="v20012026"/>
+			<v n="26">
+				The righteous 
+				<crossref let="a" cid="c2001226.1"/>
+				 is more excellent than his neighbour: but the way of the wicked seduceth them.
+			</v>
+			<marker class="begin-verse" mid="v20012027"/>
+			<v n="27">
+				The slothful 
+				<crossref let="b" cid="c2001227.1"/>
+				 man roasteth not that which he took in hunting: but the substance of a diligent man is precious.
+			</v>
+			<marker class="begin-verse" mid="v20012028"/>
+			<v n="28">
+				In the 
+				<crossref let="c" cid="c2001228.1"/>
+				 way of righteousness is life; and in the pathway thereof there is no death.
+			</v>
+			<marker class="begin-verse" mid="v20012029"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

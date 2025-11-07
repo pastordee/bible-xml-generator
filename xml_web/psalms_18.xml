@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:43:14.112586</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:43:14.112593</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19018001"/>
+		<chapter num="18">
+			<heading>For the Chief Musician. By David the servant of Yahweh, who spoke to Yahweh the words of this song in the day that Yahweh delivered him from the hand of all his enemies, and from the hand of Saul. He said,</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I love 
+				<crossref let="b" cid="c190181.1"/>
+				 you, Yahweh, my strength.
+			</v>
+			<marker class="begin-verse" mid="v19018002"/>
+			<v n="2">
+				Yahweh is 
+				<crossref let="c" cid="c190182.1"/>
+				 my rock, my fortress, and my deliverer;my God, my rock, in whom I take refuge;my shield, and the horn of my salvation, my high tower.
+			</v>
+			<marker class="begin-verse" mid="v19018003"/>
+			<v n="3">
+				I call 
+				<crossref let="d" cid="c190183.1"/>
+				 on Yahweh, who is worthy to be praised;and I am saved from my enemies.
+			</v>
+			<marker class="begin-verse" mid="v19018004"/>
+			<v n="4">
+				The cords 
+				<crossref let="e" cid="c190184.1"/>
+				 of death surrounded me.The floods of ungodliness made me afraid.
+			</v>
+			<marker class="begin-verse" mid="v19018005"/>
+			<v n="5">
+				The cords 
+				<crossref let="f" cid="c190185.1"/>
+				 of Sheol were around me.The snares of death came on me.
+			</v>
+			<marker class="begin-verse" mid="v19018006"/>
+			<v n="6">
+				In my 
+				<crossref let="g" cid="c190186.1"/>
+				 distress I called on Yahweh,and cried to my God.He heard my voice out of his temple.My cry before him came into his ears.
+			</v>
+			<marker class="begin-verse" mid="v19018007"/>
+			<v n="7">
+				Then the 
+				<crossref let="h" cid="c190187.1"/>
+				 earth shook and trembled.The foundations also of the mountains quaked and were shaken,because he was angry.
+			</v>
+			<marker class="begin-verse" mid="v19018008"/>
+			<v n="8">
+				Smoke went 
+				<crossref let="i" cid="c190188.1"/>
+				 out of his nostrils.Consuming fire came out of his mouth.Coals were kindled by it.
+			</v>
+			<marker class="begin-verse" mid="v19018009"/>
+			<v n="9">
+				He bowed 
+				<crossref let="j" cid="c190189.1"/>
+				 the heavens also, and came down.Thick darkness was under his feet.
+			</v>
+			<marker class="begin-verse" mid="v19018010"/>
+			<v n="10">
+				He rode 
+				<crossref let="k" cid="c1901810.1"/>
+				 on a cherub, and flew.Yes, he soared on the wings of the wind.
+			</v>
+			<marker class="begin-verse" mid="v19018011"/>
+			<v n="11">
+				He made 
+				<crossref let="l" cid="c1901811.1"/>
+				 darkness his hiding place, his pavilion around him,darkness of waters, thick clouds of the skies.
+			</v>
+			<marker class="begin-verse" mid="v19018012"/>
+			<v n="12">
+				At the 
+				<crossref let="m" cid="c1901812.1"/>
+				 brightness before him his thick clouds passed,hailstones and coals of fire.
+			</v>
+			<marker class="begin-verse" mid="v19018013"/>
+			<v n="13">
+				Yahweh also 
+				<crossref let="n" cid="c1901813.1"/>
+				 thundered in the sky.The Most High uttered his voice:hailstones and coals of fire.
+			</v>
+			<marker class="begin-verse" mid="v19018014"/>
+			<v n="14">
+				He sent 
+				<crossref let="o" cid="c1901814.1"/>
+				 out his arrows, and scattered them.He routed them with great lightning bolts.
+			</v>
+			<marker class="begin-verse" mid="v19018015"/>
+			<v n="15">
+				Then the 
+				<crossref let="p" cid="c1901815.1"/>
+				 channels of waters appeared.The foundations of the world were laid bare at your rebuke, Yahweh,at the blast of the breath of your nostrils.
+			</v>
+			<marker class="begin-verse" mid="v19018016"/>
+			<v n="16">
+				He sent 
+				<crossref let="q" cid="c1901816.1"/>
+				 from on high.He took me.He drew me out of many waters.
+			</v>
+			<marker class="begin-verse" mid="v19018017"/>
+			<v n="17">
+				He delivered 
+				<crossref let="r" cid="c1901817.1"/>
+				 me from my strong enemy,from those who hated me; for they were too mighty for me.
+			</v>
+			<marker class="begin-verse" mid="v19018018"/>
+			<v n="18">
+				They came 
+				<crossref let="s" cid="c1901818.1"/>
+				 on me in the day of my calamity,but Yahweh was my support.
+			</v>
+			<marker class="begin-verse" mid="v19018019"/>
+			<v n="19">
+				He brought 
+				<crossref let="t" cid="c1901819.1"/>
+				 me out also into a large place.He delivered me, because he delighted in me.
+			</v>
+			<marker class="begin-verse" mid="v19018020"/>
+			<v n="20">
+				Yahweh has 
+				<crossref let="u" cid="c1901820.1"/>
+				 rewarded me according to my righteousness.According to the cleanness of my hands, he has recompensed me.
+			</v>
+			<marker class="begin-verse" mid="v19018021"/>
+			<v n="21">
+				For I 
+				<crossref let="v" cid="c1901821.1"/>
+				 have kept the ways of Yahweh,and have not wickedly departed from my God.
+			</v>
+			<marker class="begin-verse" mid="v19018022"/>
+			<v n="22">
+				For all 
+				<crossref let="w" cid="c1901822.1"/>
+				 his ordinances were before me.I didn’t put away his statutes from me.
+			</v>
+			<marker class="begin-verse" mid="v19018023"/>
+			<v n="23">
+				I was 
+				<crossref let="x" cid="c1901823.1"/>
+				 also blameless with him.I kept myself from my iniquity.
+			</v>
+			<marker class="begin-verse" mid="v19018024"/>
+			<v n="24">
+				Therefore Yahweh 
+				<crossref let="y" cid="c1901824.1"/>
+				 has rewarded me according to my righteousness,according to the cleanness of my hands in his eyesight.
+			</v>
+			<marker class="begin-verse" mid="v19018025"/>
+			<v n="25">
+				With the 
+				<crossref let="z" cid="c1901825.1"/>
+				 merciful you will show yourself merciful.With the perfect man, you will show yourself perfect.
+			</v>
+			<marker class="begin-verse" mid="v19018026"/>
+			<v n="26">
+				With the 
+				<crossref let="a" cid="c1901826.1"/>
+				 pure, you will show yourself pure.With the crooked you will show yourself shrewd.
+			</v>
+			<marker class="begin-verse" mid="v19018027"/>
+			<v n="27">
+				For you 
+				<crossref let="b" cid="c1901827.1"/>
+				 will save the afflicted people,but the arrogant eyes you will bring down.
+			</v>
+			<marker class="begin-verse" mid="v19018028"/>
+			<v n="28">
+				For you 
+				<crossref let="c" cid="c1901828.1"/>
+				 will light my lamp, Yahweh.My God will light up my darkness.
+			</v>
+			<marker class="begin-verse" mid="v19018029"/>
+			<v n="29">
+				For by 
+				<crossref let="d" cid="c1901829.1"/>
+				 you, I advance through a troop.By my God, I leap over a wall.
+			</v>
+			<marker class="begin-verse" mid="v19018030"/>
+			<v n="30">
+				As for 
+				<crossref let="e" cid="c1901830.1"/>
+				 God, his way is perfect.Yahweh’s word is tried.He is a shield to all those who take refuge in him.
+			</v>
+			<marker class="begin-verse" mid="v19018031"/>
+			<v n="31">
+				For who 
+				<crossref let="f" cid="c1901831.1"/>
+				 is God, except Yahweh?Who is a rock, besides our God,
+			</v>
+			<marker class="begin-verse" mid="v19018032"/>
+			<v n="32">
+				the God 
+				<crossref let="g" cid="c1901832.1"/>
+				 who arms me with strength, and makes my way perfect?
+			</v>
+			<marker class="begin-verse" mid="v19018033"/>
+			<v n="33">
+				He makes 
+				<crossref let="h" cid="c1901833.1"/>
+				 my feet like deer’s feet,and sets me on my high places.
+			</v>
+			<marker class="begin-verse" mid="v19018034"/>
+			<v n="34">
+				He teaches 
+				<crossref let="i" cid="c1901834.1"/>
+				 my hands to war,so that my arms bend a bow of bronze.
+			</v>
+			<marker class="begin-verse" mid="v19018035"/>
+			<v n="35">
+				You have 
+				<crossref let="j" cid="c1901835.1"/>
+				 also given me the shield of your salvation.Your right hand sustains me.Your gentleness has made me great.
+			</v>
+			<marker class="begin-verse" mid="v19018036"/>
+			<v n="36">
+				You have 
+				<crossref let="k" cid="c1901836.1"/>
+				 enlarged my steps under me,My feet have not slipped.
+			</v>
+			<marker class="begin-verse" mid="v19018037"/>
+			<v n="37">
+				I will 
+				<crossref let="l" cid="c1901837.1"/>
+				 pursue my enemies, and overtake them.I won’t turn away until they are consumed.
+			</v>
+			<marker class="begin-verse" mid="v19018038"/>
+			<v n="38">
+				I will 
+				<crossref let="m" cid="c1901838.1"/>
+				 strike them through, so that they will not be able to rise.They shall fall under my feet.
+			</v>
+			<marker class="begin-verse" mid="v19018039"/>
+			<v n="39">
+				For you 
+				<crossref let="n" cid="c1901839.1"/>
+				 have armed me with strength to the battle.You have subdued under me those who rose up against me.
+			</v>
+			<marker class="begin-verse" mid="v19018040"/>
+			<v n="40">
+				You have 
+				<crossref let="o" cid="c1901840.1"/>
+				 also made my enemies turn their backs to me,that I might cut off those who hate me.
+			</v>
+			<marker class="begin-verse" mid="v19018041"/>
+			<v n="41">
+				They cried, 
+				<crossref let="p" cid="c1901841.1"/>
+				 but there was no one to save;even to Yahweh, but he didn’t answer them.
+			</v>
+			<marker class="begin-verse" mid="v19018042"/>
+			<v n="42">
+				Then I 
+				<crossref let="q" cid="c1901842.1"/>
+				 beat them small as the dust before the wind.I cast them out as the mire of the streets.
+			</v>
+			<marker class="begin-verse" mid="v19018043"/>
+			<v n="43">
+				You have 
+				<crossref let="r" cid="c1901843.1"/>
+				 delivered me from the strivings of the people.You have made me the head of the nations.A people whom I have not known shall serve me.
+			</v>
+			<marker class="begin-verse" mid="v19018044"/>
+			<v n="44">
+				As soon 
+				<crossref let="s" cid="c1901844.1"/>
+				 as they hear of me they shall obey me.The foreigners shall submit themselves to me.
+			</v>
+			<marker class="begin-verse" mid="v19018045"/>
+			<v n="45">
+				The foreigners 
+				<crossref let="t" cid="c1901845.1"/>
+				 shall fade away,and shall come trembling out of their strongholds.
+			</v>
+			<marker class="begin-verse" mid="v19018046"/>
+			<v n="46">
+				Yahweh lives! 
+				<crossref let="u" cid="c1901846.1"/>
+				 Blessed be my rock.Exalted be the God of my salvation,
+			</v>
+			<marker class="begin-verse" mid="v19018047"/>
+			<v n="47">
+				even the 
+				<crossref let="v" cid="c1901847.1"/>
+				 God who executes vengeance for me,and subdues peoples under me.
+			</v>
+			<marker class="begin-verse" mid="v19018048"/>
+			<v n="48">
+				He rescues 
+				<crossref let="w" cid="c1901848.1"/>
+				 me from my enemies.Yes, you lift me up above those who rise up against me.You deliver me from the violent man.
+			</v>
+			<marker class="begin-verse" mid="v19018049"/>
+			<v n="49">
+				Therefore I 
+				<crossref let="x" cid="c1901849.1"/>
+				 will give thanks to you, Yahweh, among the nations,and will sing praises to your name.
+			</v>
+			<marker class="begin-verse" mid="v19018050"/>
+			<v n="50">
+				He gives 
+				<crossref let="y" cid="c1901850.1"/>
+				 great deliverance to his king,and shows loving kindness to his anointed,to David and to his offspring, forever more.
+			</v>
+			<marker class="begin-verse" mid="v19018051"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

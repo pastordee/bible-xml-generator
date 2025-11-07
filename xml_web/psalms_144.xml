@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:54:26.635600</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:54:26.635608</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19144001"/>
+		<chapter num="144">
+			<heading>By David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Blessed be 
+				<crossref let="b" cid="c191441.1"/>
+				 Yahweh, my rock,who trains my hands to war,and my fingers to battle—
+			</v>
+			<marker class="begin-verse" mid="v19144002"/>
+			<v n="2">
+				my loving 
+				<crossref let="c" cid="c191442.1"/>
+				 kindness, my fortress,my high tower, my deliverer,my shield, and he in whom I take refuge,who subdues my people under me.
+			</v>
+			<marker class="begin-verse" mid="v19144003"/>
+			<v n="3">
+				Yahweh, what 
+				<crossref let="d" cid="c191443.1"/>
+				 is man, that you care for him?Or the son of man, that you think of him?
+			</v>
+			<marker class="begin-verse" mid="v19144004"/>
+			<v n="4">
+				Man is 
+				<crossref let="e" cid="c191444.1"/>
+				 like a breath.His days are like a shadow that passes away.
+			</v>
+			<marker class="begin-verse" mid="v19144005"/>
+			<v n="5">
+				Part your 
+				<crossref let="f" cid="c191445.1"/>
+				 heavens, Yahweh, and come down.Touch the mountains, and they will smoke.
+			</v>
+			<marker class="begin-verse" mid="v19144006"/>
+			<v n="6">
+				Throw out 
+				<crossref let="g" cid="c191446.1"/>
+				 lightning, and scatter them.Send out your arrows, and rout them.
+			</v>
+			<marker class="begin-verse" mid="v19144007"/>
+			<v n="7">
+				Stretch out 
+				<crossref let="h" cid="c191447.1"/>
+				 your hand from above,rescue me, and deliver me out of great waters,out of the hands of foreigners,
+			</v>
+			<marker class="begin-verse" mid="v19144008"/>
+			<v n="8">
+				whose mouths 
+				<crossref let="i" cid="c191448.1"/>
+				 speak deceit,whose right hand is a right hand of falsehood.
+			</v>
+			<marker class="begin-verse" mid="v19144009"/>
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c191449.1"/>
+				 sing a new song to you, God.On a ten-stringed lyre, I will sing praises to you.
+			</v>
+			<marker class="begin-verse" mid="v19144010"/>
+			<v n="10">
+				You are 
+				<crossref let="k" cid="c1914410.1"/>
+				 he who gives salvation to kings,who rescues David, his servant, from the deadly sword.
+			</v>
+			<marker class="begin-verse" mid="v19144011"/>
+			<v n="11">
+				Rescue me, 
+				<crossref let="l" cid="c1914411.1"/>
+				 and deliver me out of the hands of foreigners,whose mouths speak deceit,whose right hand is a right hand of falsehood.
+			</v>
+			<marker class="begin-verse" mid="v19144012"/>
+			<v n="12">
+				Then our 
+				<crossref let="m" cid="c1914412.1"/>
+				 sons will be like well-nurtured plants,our daughters like pillars carved to adorn a palace.
+			</v>
+			<marker class="begin-verse" mid="v19144013"/>
+			<v n="13">
+				Our barns 
+				<crossref let="n" cid="c1914413.1"/>
+				 are full, filled with all kinds of provision.Our sheep produce thousands and ten thousands in our fields.
+			</v>
+			<marker class="begin-verse" mid="v19144014"/>
+			<v n="14">
+				Our oxen 
+				<crossref let="o" cid="c1914414.1"/>
+				 will pull heavy loads.There is no breaking in, and no going away,and no outcry in our streets.
+			</v>
+			<marker class="begin-verse" mid="v19144015"/>
+			<v n="15">
+				Happy are 
+				<crossref let="p" cid="c1914415.1"/>
+				 the people who are in such a situation.Happy are the people whose God is Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v19144016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

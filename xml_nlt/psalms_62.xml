@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:49:39.943500</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:49:39.943528</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19062001"/>
+		<chapter num="62">
+			<heading>For Jeduthun, the choir director: A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I wait 
+				<crossref let="b" cid="c190621.1"/>
+				 quietly before God,for my victory comes from him.
+			</v>
+			<marker class="begin-verse" mid="v19062002"/>
+			<v n="2">
+				He alone 
+				<crossref let="c" cid="c190622.1"/>
+				 is my rock and my salvation,my fortress where I will never be shaken.
+			</v>
+			<marker class="begin-verse" mid="v19062003"/>
+			<v n="3">
+				So many 
+				<crossref let="d" cid="c190623.1"/>
+				 enemies against one man—all of them trying to kill me.To them I’m just a broken-down wallor a tottering fence.
+			</v>
+			<marker class="begin-verse" mid="v19062004"/>
+			<v n="4">
+				They plan 
+				<crossref let="e" cid="c190624.1"/>
+				 to topple me from my high position.They delight in telling lies about me.They praise me to my facebut curse me in their hearts. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19062005"/>
+			<v n="5">
+				Let all 
+				<crossref let="f" cid="c190625.1"/>
+				 that I am wait quietly before God,for my hope is in him.
+			</v>
+			<marker class="begin-verse" mid="v19062006"/>
+			<v n="6">
+				He alone 
+				<crossref let="g" cid="c190626.1"/>
+				 is my rock and my salvation,my fortress where I will not be shaken.
+			</v>
+			<marker class="begin-verse" mid="v19062007"/>
+			<v n="7">
+				My victory 
+				<crossref let="h" cid="c190627.1"/>
+				 and honor come from God alone.He is my refuge, a rock where no enemy can reach me.
+			</v>
+			<marker class="begin-verse" mid="v19062008"/>
+			<v n="8">
+				O my 
+				<crossref let="i" cid="c190628.1"/>
+				 people, trust in him at all times.Pour out your heart to him,for God is our refuge. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19062009"/>
+			<v n="9">
+				Common people 
+				<crossref let="j" cid="c190629.1"/>
+				 are as worthless as a puff of wind,and the powerful are not what they appear to be.If you weigh them on the scales,together they are lighter than a breath of air.
+			</v>
+			<marker class="begin-verse" mid="v19062010"/>
+			<v n="10">
+				Don’t make 
+				<crossref let="k" cid="c1906210.1"/>
+				 your living by extortionor put your hope in stealing.And if your wealth increases,don’t make it the center of your life.
+			</v>
+			<marker class="begin-verse" mid="v19062011"/>
+			<v n="11">
+				God has 
+				<crossref let="l" cid="c1906211.1"/>
+				 spoken plainly,and I have heard it many times:Power, O God, belongs to you;
+			</v>
+			<marker class="begin-verse" mid="v19062012"/>
+			<v n="12">
+				unfailing love, 
+				<crossref let="m" cid="c1906212.1"/>
+				 O Lord, is yours.Surely you repay all peopleaccording to what they have done.
+			</v>
+			<marker class="begin-verse" mid="v19062013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

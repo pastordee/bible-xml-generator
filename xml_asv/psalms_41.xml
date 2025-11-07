@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:30:33.635196</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:30:33.635205</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19041001"/>
+		<chapter num="41">
+			<heading>For the Chief Musician. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Blessed is 
+				<crossref let="b" cid="c190411.1"/>
+				 he that considereth the poor:Jehovah will deliver him in the day of evil.
+			</v>
+			<marker class="begin-verse" mid="v19041002"/>
+			<v n="2">
+				Jehovah will 
+				<crossref let="c" cid="c190412.1"/>
+				 preserve him, and keep him alive,And he shall be blessed upon the earth;And deliver not thou him unto the will of his enemies.
+			</v>
+			<marker class="begin-verse" mid="v19041003"/>
+			<v n="3">
+				Jehovah will 
+				<crossref let="d" cid="c190413.1"/>
+				 support him upon the couch of languishing:Thou makest all his bed in his sickness.
+			</v>
+			<marker class="begin-verse" mid="v19041004"/>
+			<v n="4">
+				I said, 
+				<crossref let="e" cid="c190414.1"/>
+				 O Jehovah, have mercy upon me:Heal my soul; for I have sinned against thee.
+			</v>
+			<marker class="begin-verse" mid="v19041005"/>
+			<v n="5">
+				Mine enemies 
+				<crossref let="f" cid="c190415.1"/>
+				 speak evil against me, saying,When will he die, and his name perish?
+			</v>
+			<marker class="begin-verse" mid="v19041006"/>
+			<v n="6">
+				And if 
+				<crossref let="g" cid="c190416.1"/>
+				 he come to see me, he speaketh falsehood;His heart gathereth iniquity to itself:When he goeth abroad, he telleth it.
+			</v>
+			<marker class="begin-verse" mid="v19041007"/>
+			<v n="7">
+				All that 
+				<crossref let="h" cid="c190417.1"/>
+				 hate me whisper together against me;Against me do they devise my hurt.
+			</v>
+			<marker class="begin-verse" mid="v19041008"/>
+			<v n="8">
+				An evil 
+				<crossref let="i" cid="c190418.1"/>
+				 disease, say they, cleaveth fast unto him;And now that he lieth he shall rise up no more.
+			</v>
+			<marker class="begin-verse" mid="v19041009"/>
+			<v n="9">
+				Yea, mine 
+				<crossref let="j" cid="c190419.1"/>
+				 own familiar friend, in whom I trusted,Who did eat of my bread,Hath lifted up his heel against me.
+			</v>
+			<marker class="begin-verse" mid="v19041010"/>
+			<v n="10">
+				But thou, 
+				<crossref let="k" cid="c1904110.1"/>
+				 O Jehovah, have mercy upon me, and raise me up,That I may requite them.
+			</v>
+			<marker class="begin-verse" mid="v19041011"/>
+			<v n="11">
+				By this 
+				<crossref let="l" cid="c1904111.1"/>
+				 I know that thou delightest in me,Because mine enemy doth not triumph over me.
+			</v>
+			<marker class="begin-verse" mid="v19041012"/>
+			<v n="12">
+				And as 
+				<crossref let="m" cid="c1904112.1"/>
+				 for me, thou upholdest me in mine integrity,And settest me before thy face for ever.
+			</v>
+			<marker class="begin-verse" mid="v19041013"/>
+			<v n="13">
+				Blessed be 
+				<crossref let="n" cid="c1904113.1"/>
+				 Jehovah, the God of Israel,From everlasting and to everlasting.Amen, and Amen.
+			</v>
+			<marker class="begin-verse" mid="v19041014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

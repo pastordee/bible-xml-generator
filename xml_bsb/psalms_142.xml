@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:24:47.147811</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:24:47.147833</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19142001"/>
+		<chapter num="142">
+			<heading>I Lift My Voice to the LORD(1 Samuel 22:1–5; Psalms 57:1–11)A Maskil  of David, when he was in the cave. A prayer.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I cry 
+				<crossref let="b" cid="c191421.1"/>
+				 aloud to the LORD;I lift my voice to the LORD for mercy.
+			</v>
+			<marker class="begin-verse" mid="v19142002"/>
+			<v n="2">
+				I pour 
+				<crossref let="c" cid="c191422.1"/>
+				 out my complaint before Him;I reveal my trouble to Him.
+			</v>
+			<marker class="begin-verse" mid="v19142003"/>
+			<v n="3">
+				Although my 
+				<crossref let="d" cid="c191423.1"/>
+				 spirit grows faint within me,You know my way.Along the path I travelthey have hidden a snare for me.
+			</v>
+			<marker class="begin-verse" mid="v19142004"/>
+			<v n="4">
+				Look to 
+				<crossref let="e" cid="c191424.1"/>
+				 my right and see;no one attends to me.There is no refuge for me;no one cares for my soul.
+			</v>
+			<marker class="begin-verse" mid="v19142005"/>
+			<v n="5">
+				I cry 
+				<crossref let="f" cid="c191425.1"/>
+				 to You, O LORD: “You are my refuge,my portion in the land of the living.”
+			</v>
+			<marker class="begin-verse" mid="v19142006"/>
+			<v n="6">
+				Listen to 
+				<crossref let="g" cid="c191426.1"/>
+				 my cry,for I am brought quite low.Rescue me from my pursuers,for they are too strong for me.
+			</v>
+			<marker class="begin-verse" mid="v19142007"/>
+			<v n="7">
+				Free my 
+				<crossref let="h" cid="c191427.1"/>
+				 soul from prison,that I may praise Your name.The righteous will gather around mebecause of Your goodness to me.
+			</v>
+			<marker class="begin-verse" mid="v19142008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

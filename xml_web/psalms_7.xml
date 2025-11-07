@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:42:15.190549</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:42:15.190556</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19007001"/>
+		<chapter num="7">
+			<heading>A meditation by David, which he sang to Yahweh, concerning the words of Cush, the Benjamite.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh, my 
+				<crossref let="b" cid="c190071.1"/>
+				 God, I take refuge in you.Save me from all those who pursue me, and deliver me,
+			</v>
+			<marker class="begin-verse" mid="v19007002"/>
+			<v n="2">
+				lest they 
+				<crossref let="c" cid="c190072.1"/>
+				 tear apart my soul like a lion,ripping it in pieces, while there is no one to deliver.
+			</v>
+			<marker class="begin-verse" mid="v19007003"/>
+			<v n="3">
+				Yahweh, my 
+				<crossref let="d" cid="c190073.1"/>
+				 God, if I have done this,if there is iniquity in my hands,
+			</v>
+			<marker class="begin-verse" mid="v19007004"/>
+			<v n="4">
+				if I 
+				<crossref let="e" cid="c190074.1"/>
+				 have rewarded evil to him who was at peace with me(yes, I have delivered him who without cause was my adversary),
+			</v>
+			<marker class="begin-verse" mid="v19007005"/>
+			<v n="5">
+				let the 
+				<crossref let="f" cid="c190075.1"/>
+				 enemy pursue my soul, and overtake it;yes, let him tread my life down to the earth,and lay my glory in the dust. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19007006"/>
+			<v n="6">
+				Arise, Yahweh, 
+				<crossref let="g" cid="c190076.1"/>
+				 in your anger.Lift up yourself against the rage of my adversaries.Awake for me. You have commanded judgment.
+			</v>
+			<marker class="begin-verse" mid="v19007007"/>
+			<v n="7">
+				Let the 
+				<crossref let="h" cid="c190077.1"/>
+				 congregation of the peoples surround you.Rule over them on high.
+			</v>
+			<marker class="begin-verse" mid="v19007008"/>
+			<v n="8">
+				Yahweh administers 
+				<crossref let="i" cid="c190078.1"/>
+				 judgment to the peoples.Judge me, Yahweh, according to my righteousness,and to my integrity that is in me.
+			</v>
+			<marker class="begin-verse" mid="v19007009"/>
+			<v n="9">
+				Oh let 
+				<crossref let="j" cid="c190079.1"/>
+				 the wickedness of the wicked come to an end,but establish the righteous;their minds and hearts are searched by the righteous God.
+			</v>
+			<marker class="begin-verse" mid="v19007010"/>
+			<v n="10">
+				My shield 
+				<crossref let="k" cid="c1900710.1"/>
+				 is with God,who saves the upright in heart.
+			</v>
+			<marker class="begin-verse" mid="v19007011"/>
+			<v n="11">
+				God is 
+				<crossref let="l" cid="c1900711.1"/>
+				 a righteous judge,yes, a God who has indignation every day.
+			</v>
+			<marker class="begin-verse" mid="v19007012"/>
+			<v n="12">
+				If a 
+				<crossref let="m" cid="c1900712.1"/>
+				 man doesn’t repent, he will sharpen his sword;he has bent and strung his bow.
+			</v>
+			<marker class="begin-verse" mid="v19007013"/>
+			<v n="13">
+				He has 
+				<crossref let="n" cid="c1900713.1"/>
+				 also prepared for himself the instruments of death.He makes ready his flaming arrows.
+			</v>
+			<marker class="begin-verse" mid="v19007014"/>
+			<v n="14">
+				Behold, he 
+				<crossref let="o" cid="c1900714.1"/>
+				 travails with iniquity.Yes, he has conceived mischief,and brought out falsehood.
+			</v>
+			<marker class="begin-verse" mid="v19007015"/>
+			<v n="15">
+				He has 
+				<crossref let="p" cid="c1900715.1"/>
+				 dug a hole,and has fallen into the pit which he made.
+			</v>
+			<marker class="begin-verse" mid="v19007016"/>
+			<v n="16">
+				The trouble 
+				<crossref let="q" cid="c1900716.1"/>
+				 he causes shall return to his own head.His violence shall come down on the crown of his own head.
+			</v>
+			<marker class="begin-verse" mid="v19007017"/>
+			<v n="17">
+				I will 
+				<crossref let="r" cid="c1900717.1"/>
+				 give thanks to Yahweh according to his righteousness,and will sing praise to the name of Yahweh Most High.
+			</v>
+			<marker class="begin-verse" mid="v19007018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:33:24.083740</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:33:24.083779</next_refresh_due>
+	</generation_info>
+	<book title="1 Chronicles" num="13" testament="old" version="NLT" bookAbbr="1ch">
+		<marker class="begin-verse" mid="v13020001"/>
+		<chapter num="20">
+			<heading>David Captures Rabbah</heading>
+			<begin-paragraph/>
+			<v n="1">
+				In the 
+				<crossref let="b" cid="c130201.1"/>
+				 spring of the year, when kings normally go out to war, Joab led the Israelite army in successful attacks against the land of the Ammonites. In the process he laid siege to the city of Rabbah, attacking and destroying it. However, David stayed behind in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v13020002"/>
+			<v n="2">
+				Then David 
+				<crossref let="c" cid="c130202.1"/>
+				 went to Rabbah and removed the crown from the king’s head, and it was placed on his own head. The crown was made of gold and set with gems, and he found that it weighed seventy-five pounds. David took a vast amount of plunder from the city.
+			</v>
+			<marker class="begin-verse" mid="v13020003"/>
+			<v n="3">
+				He also 
+				<crossref let="d" cid="c130203.1"/>
+				 made slaves of the people of Rabbah and forced them to labor with saws, iron picks, and iron axes. That is how David dealt with the people of all the Ammonite towns. Then David and all the army returned to Jerusalem.Battles against Philistine Giants
+			</v>
+			<marker class="begin-verse" mid="v13020004"/>
+			<v n="4">
+				After this, 
+				<crossref let="e" cid="c130204.1"/>
+				 war broke out with the Philistines at Gezer. As they fought, Sibbecai from Hushah killed Saph, a descendant of the giants, and so the Philistines were subdued.
+			</v>
+			<marker class="begin-verse" mid="v13020005"/>
+			<v n="5">
+				During another 
+				<crossref let="f" cid="c130205.1"/>
+				 battle with the Philistines, Elhanan son of Jair killed Lahmi, the brother of Goliath of Gath. The handle of Lahmi’s spear was as thick as a weaver’s beam!
+			</v>
+			<marker class="begin-verse" mid="v13020006"/>
+			<v n="6">
+				In another 
+				<crossref let="g" cid="c130206.1"/>
+				 battle with the Philistines at Gath, they encountered a huge man with six fingers on each hand and six toes on each foot, twenty-four in all, who was also a descendant of the giants.
+			</v>
+			<marker class="begin-verse" mid="v13020007"/>
+			<v n="7">
+				But when 
+				<crossref let="h" cid="c130207.1"/>
+				 he defied and taunted Israel, he was killed by Jonathan, the son of David’s brother Shimea.
+			</v>
+			<marker class="begin-verse" mid="v13020008"/>
+			<v n="8">
+				These Philistines 
+				<crossref let="i" cid="c130208.1"/>
+				 were descendants of the giants of Gath, but David and his warriors killed them.
+			</v>
+			<marker class="begin-verse" mid="v13020009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:50:10.362174</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:50:10.362183</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19096001"/>
+		<chapter num="96">
+			<begin-paragraph/>
+			<v n="1">
+				Sing to 
+				<crossref let="b" cid="c190961.1"/>
+				 Yahweh a new song!Sing to Yahweh, all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19096002"/>
+			<v n="2">
+				Sing to 
+				<crossref let="c" cid="c190962.1"/>
+				 Yahweh!Bless his name!Proclaim his salvation from day to day!
+			</v>
+			<marker class="begin-verse" mid="v19096003"/>
+			<v n="3">
+				Declare his 
+				<crossref let="d" cid="c190963.1"/>
+				 glory among the nations,his marvelous works among all the peoples.
+			</v>
+			<marker class="begin-verse" mid="v19096004"/>
+			<v n="4">
+				For Yahweh 
+				<crossref let="e" cid="c190964.1"/>
+				 is great, and greatly to be praised!He is to be feared above all gods.
+			</v>
+			<marker class="begin-verse" mid="v19096005"/>
+			<v n="5">
+				For all 
+				<crossref let="f" cid="c190965.1"/>
+				 the gods of the peoples are idols,but Yahweh made the heavens.
+			</v>
+			<marker class="begin-verse" mid="v19096006"/>
+			<v n="6">
+				Honor and 
+				<crossref let="g" cid="c190966.1"/>
+				 majesty are before him.Strength and beauty are in his sanctuary.
+			</v>
+			<marker class="begin-verse" mid="v19096007"/>
+			<v n="7">
+				Ascribe to 
+				<crossref let="h" cid="c190967.1"/>
+				 Yahweh, you families of nations,ascribe to Yahweh glory and strength.
+			</v>
+			<marker class="begin-verse" mid="v19096008"/>
+			<v n="8">
+				Ascribe to 
+				<crossref let="i" cid="c190968.1"/>
+				 Yahweh the glory due to his name.Bring an offering, and come into his courts.
+			</v>
+			<marker class="begin-verse" mid="v19096009"/>
+			<v n="9">
+				Worship Yahweh 
+				<crossref let="j" cid="c190969.1"/>
+				 in holy array.Tremble before him, all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19096010"/>
+			<v n="10">
+				Say among 
+				<crossref let="k" cid="c1909610.1"/>
+				 the nations, “Yahweh reigns.”The world is also established.It can’t be moved.He will judge the peoples with equity.
+			</v>
+			<marker class="begin-verse" mid="v19096011"/>
+			<v n="11">
+				Let the 
+				<crossref let="l" cid="c1909611.1"/>
+				 heavens be glad, and let the earth rejoice.Let the sea roar, and its fullness!
+			</v>
+			<marker class="begin-verse" mid="v19096012"/>
+			<v n="12">
+				Let the 
+				<crossref let="m" cid="c1909612.1"/>
+				 field and all that is in it exult!Then all the trees of the woods shall sing for joy
+			</v>
+			<marker class="begin-verse" mid="v19096013"/>
+			<v n="13">
+				before Yahweh; 
+				<crossref let="n" cid="c1909613.1"/>
+				 for he comes,for he comes to judge the earth.He will judge the world with righteousness,the peoples with his truth.
+			</v>
+			<marker class="begin-verse" mid="v19096014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

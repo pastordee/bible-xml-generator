@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:34:16.496354</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:34:16.496366</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19083001"/>
+		<chapter num="83">
+			<heading>A Song, a Psalm of Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c190831.1"/>
+				 keep not thou silence:Hold not thy peace, and be not still, O God.
+			</v>
+			<marker class="begin-verse" mid="v19083002"/>
+			<v n="2">
+				For, lo, 
+				<crossref let="c" cid="c190832.1"/>
+				 thine enemies make a tumult;And they that hate thee have lifted up the head.
+			</v>
+			<marker class="begin-verse" mid="v19083003"/>
+			<v n="3">
+				They take 
+				<crossref let="d" cid="c190833.1"/>
+				 crafty counsel against thy people,And consult together against thy hidden ones.
+			</v>
+			<marker class="begin-verse" mid="v19083004"/>
+			<v n="4">
+				They have 
+				<crossref let="e" cid="c190834.1"/>
+				 said, Come, and let us cut them off from being a nation;That the name of Israel may be no more in remembrance.
+			</v>
+			<marker class="begin-verse" mid="v19083005"/>
+			<v n="5">
+				For they 
+				<crossref let="f" cid="c190835.1"/>
+				 have consulted together with one consent;Against thee do they make a covenant:
+			</v>
+			<marker class="begin-verse" mid="v19083006"/>
+			<v n="6">
+				The tents 
+				<crossref let="g" cid="c190836.1"/>
+				 of Edom and the Ishmaelites;Moab, and the Hagarenes;
+			</v>
+			<marker class="begin-verse" mid="v19083007"/>
+			<v n="7">
+				Gebal, and 
+				<crossref let="h" cid="c190837.1"/>
+				 Ammon, and Amalek;Philistia with the inhabitants of Tyre:
+			</v>
+			<marker class="begin-verse" mid="v19083008"/>
+			<v n="8">
+				Assyria also 
+				<crossref let="i" cid="c190838.1"/>
+				 is joined with them;They have helped the children of Lot. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19083009"/>
+			<v n="9">
+				Do thou 
+				<crossref let="j" cid="c190839.1"/>
+				 unto them as unto Midian,As to Sisera, as to Jabin, at the river Kishon;
+			</v>
+			<marker class="begin-verse" mid="v19083010"/>
+			<v n="10">
+				Who perished 
+				<crossref let="k" cid="c1908310.1"/>
+				 at Endor,Who became as dung for the earth.
+			</v>
+			<marker class="begin-verse" mid="v19083011"/>
+			<v n="11">
+				Make their 
+				<crossref let="l" cid="c1908311.1"/>
+				 nobles like Oreb and Zeeb;Yea, all their princes like Zebah and Zalmunna;
+			</v>
+			<marker class="begin-verse" mid="v19083012"/>
+			<v n="12">
+				Who said, 
+				<crossref let="m" cid="c1908312.1"/>
+				 Let us take to ourselves in possessionThe habitations of God.
+			</v>
+			<marker class="begin-verse" mid="v19083013"/>
+			<v n="13">
+				O my 
+				<crossref let="n" cid="c1908313.1"/>
+				 God, make them like the whirling dust;As stubble before the wind.
+			</v>
+			<marker class="begin-verse" mid="v19083014"/>
+			<v n="14">
+				As the 
+				<crossref let="o" cid="c1908314.1"/>
+				 fire that burneth the forest,And as the flame that setteth the mountains on fire,
+			</v>
+			<marker class="begin-verse" mid="v19083015"/>
+			<v n="15">
+				So pursue 
+				<crossref let="p" cid="c1908315.1"/>
+				 them with thy tempest,And terrify them with thy storm.
+			</v>
+			<marker class="begin-verse" mid="v19083016"/>
+			<v n="16">
+				Fill their 
+				<crossref let="q" cid="c1908316.1"/>
+				 faces with confusion,That they may seek thy name, O Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19083017"/>
+			<v n="17">
+				Let them 
+				<crossref let="r" cid="c1908317.1"/>
+				 be put to shame and dismayed for ever;Yea, let them be confounded and perish;
+			</v>
+			<marker class="begin-verse" mid="v19083018"/>
+			<v n="18">
+				That they 
+				<crossref let="s" cid="c1908318.1"/>
+				 may know that thou alone, whose name is Jehovah,Art the Most High over all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19083019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:31:01.865288</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:31:01.865324</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23011001"/>
+		<chapter num="11">
+			<heading>The Reign of Jesse’s Offspring</heading>
+			<begin-paragraph/>
+			<v n="1">
+				There shall 
+				<crossref let="b" cid="c230111.1"/>
+				 come forth a Rod from the stem of Jesse,And a Branch shall grow out of his roots.
+			</v>
+			<marker class="begin-verse" mid="v23011002"/>
+			<v n="2">
+				The Spirit 
+				<crossref let="c" cid="c230112.1"/>
+				 of the Lord shall rest upon Him,The Spirit of wisdom and understanding,The Spirit of counsel and might,The Spirit of knowledge and of the fear of the Lord.
+			</v>
+			<marker class="begin-verse" mid="v23011003"/>
+			<v n="3">
+				His delight 
+				<crossref let="d" cid="c230113.1"/>
+				 is in the fear of the Lord,And He shall not judge by the sight of His eyes,Nor decide by the hearing of His ears;
+			</v>
+			<marker class="begin-verse" mid="v23011004"/>
+			<v n="4">
+				But with 
+				<crossref let="e" cid="c230114.1"/>
+				 righteousness He shall judge the poor,And decide with equity for the meek of the earth;He shall strike the earth with the rod of His mouth,And with the breath of His lips He shall slay the wicked.
+			</v>
+			<marker class="begin-verse" mid="v23011005"/>
+			<v n="5">
+				Righteousness shall 
+				<crossref let="f" cid="c230115.1"/>
+				 be the belt of His loins,And faithfulness the belt of His waist.
+			</v>
+			<marker class="begin-verse" mid="v23011006"/>
+			<v n="6">
+				“Thewolf also 
+				<crossref let="g" cid="c230116.1"/>
+				 shall dwell with the lamb,The leopard shall lie down with the young goat,The calf and the young lion and the fatling together;And a little child shall lead them.
+			</v>
+			<marker class="begin-verse" mid="v23011007"/>
+			<v n="7">
+				The cow 
+				<crossref let="h" cid="c230117.1"/>
+				 and the bear shall graze;Their young ones shall lie down together;And the lion shall eat straw like the ox.
+			</v>
+			<marker class="begin-verse" mid="v23011008"/>
+			<v n="8">
+				The nursing 
+				<crossref let="i" cid="c230118.1"/>
+				 child shall play by the cobra’s hole,And the weaned child shall put his hand in the viper’s den.
+			</v>
+			<marker class="begin-verse" mid="v23011009"/>
+			<v n="9">
+				They shall 
+				<crossref let="j" cid="c230119.1"/>
+				 not hurt nor destroy in all My holy mountain,For the earth shall be full of the knowledge of the LordAs the waters cover the sea.
+			</v>
+			<marker class="begin-verse" mid="v23011010"/>
+			<v n="10">
+				“Andin that 
+				<crossref let="k" cid="c2301110.1"/>
+				 day there shall be a Root of Jesse,Who shall stand as a banner to the people;For the Gentiles shall seek Him,And His resting place shall be glorious.”
+			</v>
+			<marker class="begin-verse" mid="v23011011"/>
+			<v n="11">
+				It shall 
+				<crossref let="l" cid="c2301111.1"/>
+				 come to pass in that dayThat the Lord shall set His hand again the second timeTo recover the remnant of His people who are left,From Assyria and Egypt,From Pathros and Cush,From Elam and Shinar,From Hamath and the islands of the sea.
+			</v>
+			<marker class="begin-verse" mid="v23011012"/>
+			<v n="12">
+				He will 
+				<crossref let="m" cid="c2301112.1"/>
+				 set up a banner for the nations,And will assemble the outcasts of Israel,And gather together the dispersed of JudahFrom the four corners of the earth.
+			</v>
+			<marker class="begin-verse" mid="v23011013"/>
+			<v n="13">
+				Also the 
+				<crossref let="n" cid="c2301113.1"/>
+				 envy of Ephraim shall depart,And the adversaries of Judah shall be cut off;Ephraim shall not envy Judah,And Judah shall not harass Ephraim.
+			</v>
+			<marker class="begin-verse" mid="v23011014"/>
+			<v n="14">
+				But they 
+				<crossref let="o" cid="c2301114.1"/>
+				 shall fly down upon the shoulder of the Philistines toward the west;Together they shall plunder the people of the East;They shall lay their hand on Edom and Moab;And the people of Ammon shall obey them.
+			</v>
+			<marker class="begin-verse" mid="v23011015"/>
+			<v n="15">
+				The Lord 
+				<crossref let="p" cid="c2301115.1"/>
+				 will utterly destroy the tongue of the Sea of Egypt;With His mighty wind He will shake His fist over the River,And strike it in the seven streams,And make men cross over dry-shod.
+			</v>
+			<marker class="begin-verse" mid="v23011016"/>
+			<v n="16">
+				There will 
+				<crossref let="q" cid="c2301116.1"/>
+				 be a highway for the remnant of His peopleWho will be left from Assyria,As it was for IsraelIn the day that he came up from the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v23011017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

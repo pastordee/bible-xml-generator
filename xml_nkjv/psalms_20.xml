@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:13:52.461128</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:13:52.461144</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19020001"/>
+		<chapter num="20">
+			<heading>The Assurance of God’s Saving WorkTo the Chief Musician. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				May the 
+				<crossref let="b" cid="c190201.1"/>
+				 Lord answer you in the day of trouble;May the name of the God of Jacob defend you;
+			</v>
+			<marker class="begin-verse" mid="v19020002"/>
+			<v n="2">
+				May He 
+				<crossref let="c" cid="c190202.1"/>
+				 send you help from the sanctuary,And strengthen you out of Zion;
+			</v>
+			<marker class="begin-verse" mid="v19020003"/>
+			<v n="3">
+				May He 
+				<crossref let="d" cid="c190203.1"/>
+				 remember all your offerings,And accept your burnt sacrifice.Selah
+			</v>
+			<marker class="begin-verse" mid="v19020004"/>
+			<v n="4">
+				May He 
+				<crossref let="e" cid="c190204.1"/>
+				 grant you according to your heart’s desire,And fulfill all your purpose.
+			</v>
+			<marker class="begin-verse" mid="v19020005"/>
+			<v n="5">
+				We will 
+				<crossref let="f" cid="c190205.1"/>
+				 rejoice in your salvation,And in the name of our God we will set up our banners!May the Lord fulfill all your petitions.
+			</v>
+			<marker class="begin-verse" mid="v19020006"/>
+			<v n="6">
+				Now I 
+				<crossref let="g" cid="c190206.1"/>
+				 know that the Lord saves His anointed;He will answer him from His holy heavenWith the saving strength of His right hand.
+			</v>
+			<marker class="begin-verse" mid="v19020007"/>
+			<v n="7">
+				Some trust 
+				<crossref let="h" cid="c190207.1"/>
+				 in chariots, and some in horses;But we will remember the name of the Lord our God.
+			</v>
+			<marker class="begin-verse" mid="v19020008"/>
+			<v n="8">
+				They have 
+				<crossref let="i" cid="c190208.1"/>
+				 bowed down and fallen;But we have risen and stand upright.
+			</v>
+			<marker class="begin-verse" mid="v19020009"/>
+			<v n="9">
+				Save, Lord!May 
+				<crossref let="j" cid="c190209.1"/>
+				 the King answer us when we call.
+			</v>
+			<marker class="begin-verse" mid="v19020010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

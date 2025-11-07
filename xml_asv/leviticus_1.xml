@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:52:39.968250</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:52:39.968258</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" version="ASV" bookAbbr="lev">
+		<marker class="begin-verse" mid="v03001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				And Jehovah 
+				<crossref let="b" cid="c030011.1"/>
+				 called unto Moses, and spake unto him out of the tent of meeting, saying,
+			</v>
+			<marker class="begin-verse" mid="v03001002"/>
+			<v n="2">
+				Speak unto 
+				<crossref let="c" cid="c030012.1"/>
+				 the children of Israel, and say unto them, When any man of you offereth an oblation unto Jehovah, ye shall offer your oblation of the cattle, even of the herd and of the flock.
+			</v>
+			<marker class="begin-verse" mid="v03001003"/>
+			<v n="3">
+				If his 
+				<crossref let="d" cid="c030013.1"/>
+				 oblation be a burnt-offering of the herd, he shall offer it a male without blemish: he shall offer it at the door of the tent of meeting, that he may be accepted before Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v03001004"/>
+			<v n="4">
+				And he 
+				<crossref let="e" cid="c030014.1"/>
+				 shall lay his hand upon the head of the burnt-offering; and it shall be accepted for him to make atonement for him.
+			</v>
+			<marker class="begin-verse" mid="v03001005"/>
+			<v n="5">
+				And he 
+				<crossref let="f" cid="c030015.1"/>
+				 shall kill the bullock before Jehovah: and Aaron’s sons, the priests, shall present the blood, and sprinkle the blood round about upon the altar that is at the door of the tent of meeting.
+			</v>
+			<marker class="begin-verse" mid="v03001006"/>
+			<v n="6">
+				And he 
+				<crossref let="g" cid="c030016.1"/>
+				 shall flay the burnt-offering, and cut it into its pieces.
+			</v>
+			<marker class="begin-verse" mid="v03001007"/>
+			<v n="7">
+				And the 
+				<crossref let="h" cid="c030017.1"/>
+				 sons of Aaron the priest shall put fire upon the altar, and lay wood in order upon the fire;
+			</v>
+			<marker class="begin-verse" mid="v03001008"/>
+			<v n="8">
+				and Aaron’s 
+				<crossref let="i" cid="c030018.1"/>
+				 sons, the priests, shall lay the pieces, the head, and the fat, in order upon the wood that is on the fire which is upon the altar:
+			</v>
+			<marker class="begin-verse" mid="v03001009"/>
+			<v n="9">
+				but its 
+				<crossref let="j" cid="c030019.1"/>
+				 inwards and its legs shall he wash with water. And the priest shall burn the whole on the altar, for a burnt-offering, an offering made by fire, of a sweet savor unto Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v03001010"/>
+			<v n="10">
+				And if 
+				<crossref let="k" cid="c0300110.1"/>
+				 his oblation be of the flock, of the sheep, or of the goats, for a burnt-offering; he shall offer it a male without blemish.
+			</v>
+			<marker class="begin-verse" mid="v03001011"/>
+			<v n="11">
+				And he 
+				<crossref let="l" cid="c0300111.1"/>
+				 shall kill it on the side of the altar northward before Jehovah: and Aaron’s sons, the priests, shall sprinkle its blood upon the altar round about.
+			</v>
+			<marker class="begin-verse" mid="v03001012"/>
+			<v n="12">
+				And he 
+				<crossref let="m" cid="c0300112.1"/>
+				 shall cut it into its pieces, with its head and its fat; and the priest shall lay them in order on the wood that is on the fire which is upon the altar:
+			</v>
+			<marker class="begin-verse" mid="v03001013"/>
+			<v n="13">
+				but the 
+				<crossref let="n" cid="c0300113.1"/>
+				 inwards and the legs shall he wash with water. And the priest shall offer the whole, and burn it upon the altar: it is a burnt-offering, an offering made by fire, of a sweet savor unto Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v03001014"/>
+			<v n="14">
+				And if 
+				<crossref let="o" cid="c0300114.1"/>
+				 his oblation to Jehovah be a burnt-offering of birds, then he shall offer his oblation of turtle-doves, or of young pigeons.
+			</v>
+			<marker class="begin-verse" mid="v03001015"/>
+			<v n="15">
+				And the 
+				<crossref let="p" cid="c0300115.1"/>
+				 priest shall bring it unto the altar, and wring off its head, and burn it on the altar; and the blood thereof shall be drained out on the side of the altar;
+			</v>
+			<marker class="begin-verse" mid="v03001016"/>
+			<v n="16">
+				and he 
+				<crossref let="q" cid="c0300116.1"/>
+				 shall take away its crop with the filth thereof, and cast it beside the altar on the east part, in the place of the ashes:
+			</v>
+			<marker class="begin-verse" mid="v03001017"/>
+			<v n="17">
+				and he 
+				<crossref let="r" cid="c0300117.1"/>
+				 shall rend it by the wings thereof, but shall not divide it asunder. And the priest shall burn it upon the altar, upon the wood that is upon the fire: it is a burnt-offering, an offering made by fire, of a sweet savor unto Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v03001018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

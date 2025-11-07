@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:59.392362</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:59.392373</next_refresh_due>
+	</generation_info>
+	<book title="Joshua" num="6" testament="old" version="AMP" bookAbbr="jos">
+		<marker class="begin-verse" mid="v06020001"/>
+		<chapter num="20">
+			<heading>Six Cities of Refuge</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The Lord 
+				<crossref let="b" cid="c060201.1"/>
+				 spoke to Joshua, saying,
+			</v>
+			<marker class="begin-verse" mid="v06020002"/>
+			<v n="2">
+				“Speak to 
+				<crossref let="c" cid="c060202.1"/>
+				 the Israelites, saying, ‘Designate the cities of refuge (asylum), of which I spoke to you through Moses,
+			</v>
+			<marker class="begin-verse" mid="v06020003"/>
+			<v n="3">
+				so that 
+				<crossref let="d" cid="c060203.1"/>
+				 the person (manslayer) who kills any person unintentionally, without premeditation, may flee there, and they shall be your refuge from the blood avenger. [Num 35:10ff]
+			</v>
+			<marker class="begin-verse" mid="v06020004"/>
+			<v n="4">
+				He shall 
+				<crossref let="e" cid="c060204.1"/>
+				 flee to one of these cities, and shall stand at the entrance of the gate of the city and explain his case to the elders of that city; and they shall take him into [the protection of] the city and give him a place [to stay], so that he may live among them.
+			</v>
+			<marker class="begin-verse" mid="v06020005"/>
+			<v n="5">
+				If the 
+				<crossref let="f" cid="c060205.1"/>
+				 blood avenger pursues him, they shall not hand the offender (manslayer) over to him, because he killed his neighbor unintentionally and without premeditation and did not hate him beforehand.
+			</v>
+			<marker class="begin-verse" mid="v06020006"/>
+			<v n="6">
+				He shall 
+				<crossref let="g" cid="c060206.1"/>
+				 live in that city until he has stood before the congregation for judgment [and if acquitted of murder he must stay there], until the death of the one who is the high priest in those days. Then the offender (manslayer) shall return to his own city and his own house from which he fled.’ ”
+			</v>
+			<marker class="begin-verse" mid="v06020007"/>
+			<v n="7">
+				So they 
+				<crossref let="h" cid="c060207.1"/>
+				 set apart and consecrated Kedesh in Galilee in the hill country of Naphtali, and Shechem in the hill country of Ephraim, and Kiriath-arba (that is, Hebron) in the hill country of Judah.
+			</v>
+			<marker class="begin-verse" mid="v06020008"/>
+			<v n="8">
+				Beyond the 
+				<crossref let="i" cid="c060208.1"/>
+				 Jordan east of Jericho, they designated Bezer in the wilderness on the plain from the tribe of Reuben, and Ramoth in Gilead from the tribe of Gad, and Golan in Bashan from the tribe of Manasseh.
+			</v>
+			<marker class="begin-verse" mid="v06020009"/>
+			<v n="9">
+				These were 
+				<crossref let="j" cid="c060209.1"/>
+				 the appointed cities for all the Israelites and for the stranger sojourning (living temporarily) among them, so that whoever killed any person unintentionally may flee there, and not die by the hand of the blood avenger until he had stood before the congregation [for judgment].
+			</v>
+			<marker class="begin-verse" mid="v06020010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

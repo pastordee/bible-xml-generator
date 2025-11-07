@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:54:21.256881</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:54:21.256895</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19143001"/>
+		<chapter num="143">
+			<heading>A Psalm by David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Hear my 
+				<crossref let="b" cid="c191431.1"/>
+				 prayer, Yahweh.Listen to my petitions.In your faithfulness and righteousness, relieve me.
+			</v>
+			<marker class="begin-verse" mid="v19143002"/>
+			<v n="2">
+				Don’t enter 
+				<crossref let="c" cid="c191432.1"/>
+				 into judgment with your servant,for in your sight no man living is righteous.
+			</v>
+			<marker class="begin-verse" mid="v19143003"/>
+			<v n="3">
+				For the 
+				<crossref let="d" cid="c191433.1"/>
+				 enemy pursues my soul.He has struck my life down to the ground.He has made me live in dark places, as those who have been long dead.
+			</v>
+			<marker class="begin-verse" mid="v19143004"/>
+			<v n="4">
+				Therefore my 
+				<crossref let="e" cid="c191434.1"/>
+				 spirit is overwhelmed within me.My heart within me is desolate.
+			</v>
+			<marker class="begin-verse" mid="v19143005"/>
+			<v n="5">
+				I remember 
+				<crossref let="f" cid="c191435.1"/>
+				 the days of old.I meditate on all your doings.I contemplate the work of your hands.
+			</v>
+			<marker class="begin-verse" mid="v19143006"/>
+			<v n="6">
+				I spread 
+				<crossref let="g" cid="c191436.1"/>
+				 out my hands to you.My soul thirsts for you, like a parched land. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19143007"/>
+			<v n="7">
+				Hurry to 
+				<crossref let="h" cid="c191437.1"/>
+				 answer me, Yahweh.My spirit fails.Don’t hide your face from me,so that I don’t become like those who go down into the pit.
+			</v>
+			<marker class="begin-verse" mid="v19143008"/>
+			<v n="8">
+				Cause me 
+				<crossref let="i" cid="c191438.1"/>
+				 to hear your loving kindness in the morning,for I trust in you.Cause me to know the way in which I should walk,for I lift up my soul to you.
+			</v>
+			<marker class="begin-verse" mid="v19143009"/>
+			<v n="9">
+				Deliver me, 
+				<crossref let="j" cid="c191439.1"/>
+				 Yahweh, from my enemies.I flee to you to hide me.
+			</v>
+			<marker class="begin-verse" mid="v19143010"/>
+			<v n="10">
+				Teach me 
+				<crossref let="k" cid="c1914310.1"/>
+				 to do your will,for you are my God.Your Spirit is good.Lead me in the land of uprightness.
+			</v>
+			<marker class="begin-verse" mid="v19143011"/>
+			<v n="11">
+				Revive me, 
+				<crossref let="l" cid="c1914311.1"/>
+				 Yahweh, for your name’s sake.In your righteousness, bring my soul out of trouble.
+			</v>
+			<marker class="begin-verse" mid="v19143012"/>
+			<v n="12">
+				In your 
+				<crossref let="m" cid="c1914312.1"/>
+				 loving kindness, cut off my enemies,and destroy all those who afflict my soul,for I am your servant.
+			</v>
+			<marker class="begin-verse" mid="v19143013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

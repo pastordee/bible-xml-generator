@@ -1,0 +1,33 @@
+============================================================
+SMART RESUMABLE API.BIBLE DOWNLOADER
+============================================================
+
+📊 Current Status:
+  KJV: 🔄 1186/1189 (99%)
+  WEB: 🔄 1186/1189 (99%)
+  ASV: 🔄 1186/1189 (99%)
+  BSB: 🔄 1186/1189 (99%)
+  CEV: 🔄 155/1189 (13%)
+  FBV: 🔄 0/1189 (0%)
+  GNV: 🔄 4/1189 (0%)
+  DRA: 🔄 0/1189 (0%)
+  BRS: 🔄 0/1189 (0%)
+  LSV: 🔄 0/1189 (0%)
+  NKJV: 🔄 1185/1189 (99%)
+  AMP: 🔄 1186/1189 (99%)
+  NLT: 🔄 1186/1189 (99%)
+
+============================================================
+
+⏭️  Skipping KJV (already completed)
+
+⏭️  Skipping WEB (already completed)
+
+⏭️  Skipping ASV (already completed)
+
+📖 Processing BSB...
+Error fetching metadata for BSB: 403
+  ⚠️  Could not fetch metadata for BSB
+
+⚠️  BSB stopped (may need to resume)
+💾 Progress saved. Run again to continue.

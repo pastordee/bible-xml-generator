@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:27:23.033995</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:27:23.034005</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19005001"/>
+		<chapter num="5">
+			<heading>For the Chief Musician; with the Nehiloth. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Give ear 
+				<crossref let="b" cid="c190051.1"/>
+				 to my words, O Jehovah,Consider my meditation.
+			</v>
+			<marker class="begin-verse" mid="v19005002"/>
+			<v n="2">
+				Hearken unto 
+				<crossref let="c" cid="c190052.1"/>
+				 the voice of my cry, my King, and my God;For unto thee do I pray.
+			</v>
+			<marker class="begin-verse" mid="v19005003"/>
+			<v n="3">
+				O Jehovah, 
+				<crossref let="d" cid="c190053.1"/>
+				 in the morning shalt thou hear my voice;In the morning will I order my prayer unto thee, and will keep watch.
+			</v>
+			<marker class="begin-verse" mid="v19005004"/>
+			<v n="4">
+				For thou 
+				<crossref let="e" cid="c190054.1"/>
+				 art not a God that hath pleasure in wickedness:Evil shall not sojourn with thee.
+			</v>
+			<marker class="begin-verse" mid="v19005005"/>
+			<v n="5">
+				The arrogant 
+				<crossref let="f" cid="c190055.1"/>
+				 shall not stand in thy sight:Thou hatest all workers of iniquity.
+			</v>
+			<marker class="begin-verse" mid="v19005006"/>
+			<v n="6">
+				Thou wilt 
+				<crossref let="g" cid="c190056.1"/>
+				 destroy them that speak lies:Jehovah abhorreth the blood-thirsty and deceitful man.
+			</v>
+			<marker class="begin-verse" mid="v19005007"/>
+			<v n="7">
+				But as 
+				<crossref let="h" cid="c190057.1"/>
+				 for me, in the abundance of thy lovingkindness will I come into thy house:In thy fear will I worship toward thy holy temple.
+			</v>
+			<marker class="begin-verse" mid="v19005008"/>
+			<v n="8">
+				Lead me, 
+				<crossref let="i" cid="c190058.1"/>
+				 O Jehovah, in thy righteousness because of mine enemies;Make thy way straight before my face.
+			</v>
+			<marker class="begin-verse" mid="v19005009"/>
+			<v n="9">
+				For there 
+				<crossref let="j" cid="c190059.1"/>
+				 is no faithfulness in their mouth;Their inward part is very wickedness;Their throat is an open sepulchre;They flatter with their tongue.
+			</v>
+			<marker class="begin-verse" mid="v19005010"/>
+			<v n="10">
+				Hold them 
+				<crossref let="k" cid="c1900510.1"/>
+				 guilty, O God;Let them fall by their own counsels;Thrust them out in the multitude of their transgressions;For they have rebelled against thee.
+			</v>
+			<marker class="begin-verse" mid="v19005011"/>
+			<v n="11">
+				But let 
+				<crossref let="l" cid="c1900511.1"/>
+				 all those that take refuge in thee rejoice,Let them ever shout for joy, because thou defendest them:Let them also that love thy name be joyful in thee.
+			</v>
+			<marker class="begin-verse" mid="v19005012"/>
+			<v n="12">
+				For thou 
+				<crossref let="m" cid="c1900512.1"/>
+				 wilt bless the righteous;O Jehovah, thou wilt compass him with favor as with a shield.
+			</v>
+			<marker class="begin-verse" mid="v19005013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

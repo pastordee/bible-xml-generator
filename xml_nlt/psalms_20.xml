@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:45:54.620640</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:45:54.620649</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19020001"/>
+		<chapter num="20">
+			<heading>For the choir director: A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				In times 
+				<crossref let="b" cid="c190201.1"/>
+				 of trouble, may the Lord answer your cry.May the name of the God of Jacob keep you safe from all harm.
+			</v>
+			<marker class="begin-verse" mid="v19020002"/>
+			<v n="2">
+				May he 
+				<crossref let="c" cid="c190202.1"/>
+				 send you help from his sanctuaryand strengthen you from Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v19020003"/>
+			<v n="3">
+				May he 
+				<crossref let="d" cid="c190203.1"/>
+				 remember all your giftsand look favorably on your burnt offerings. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19020004"/>
+			<v n="4">
+				May he 
+				<crossref let="e" cid="c190204.1"/>
+				 grant your heart’s desiresand make all your plans succeed.
+			</v>
+			<marker class="begin-verse" mid="v19020005"/>
+			<v n="5">
+				May we 
+				<crossref let="f" cid="c190205.1"/>
+				 shout for joy when we hear of your victoryand raise a victory banner in the name of our God.May the Lord answer all your prayers.
+			</v>
+			<marker class="begin-verse" mid="v19020006"/>
+			<v n="6">
+				Now I 
+				<crossref let="g" cid="c190206.1"/>
+				 know that the Lord rescues his anointed king.He will answer him from his holy heavenand rescue him by his great power.
+			</v>
+			<marker class="begin-verse" mid="v19020007"/>
+			<v n="7">
+				Some nations 
+				<crossref let="h" cid="c190207.1"/>
+				 boast of their chariots and horses,but we boast in the name of the Lord our God.
+			</v>
+			<marker class="begin-verse" mid="v19020008"/>
+			<v n="8">
+				Those nations 
+				<crossref let="i" cid="c190208.1"/>
+				 will fall down and collapse,but we will rise up and stand firm.
+			</v>
+			<marker class="begin-verse" mid="v19020009"/>
+			<v n="9">
+				Give victory 
+				<crossref let="j" cid="c190209.1"/>
+				 to our king, O Lord!Answer our cry for help.
+			</v>
+			<marker class="begin-verse" mid="v19020010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

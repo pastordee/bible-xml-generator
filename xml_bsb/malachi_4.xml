@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:51:51.362776</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:51:51.362810</next_refresh_due>
+	</generation_info>
+	<book title="Malachi" num="39" testament="old" version="BSB" bookAbbr="mal">
+		<marker class="begin-verse" mid="v39004001"/>
+		<chapter num="4">
+			<heading>The Day of the LORD(Zephaniah 1:7–18; 1 Thessalonians 5:1–11; 2 Peter 3:8–13)</heading>
+			<begin-paragraph/>
+			<v n="1">
+				“For behold, 
+				<crossref let="b" cid="c390041.1"/>
+				 the day is coming, burning like a furnace, when all the arrogant and every evildoer will be stubble; the day is coming when I will set them ablaze,” says the LORD of Hosts. “Not a root or branch will be left to them.”
+			</v>
+			<marker class="begin-verse" mid="v39004002"/>
+			<v n="2">
+				“But for 
+				<crossref let="c" cid="c390042.1"/>
+				 you who fear My name, the sun of righteousness will rise with healing in its wings, and you will go out and leap like calves from the stall.
+			</v>
+			<marker class="begin-verse" mid="v39004003"/>
+			<v n="3">
+				Then you 
+				<crossref let="d" cid="c390043.1"/>
+				 will trample the wicked, for they will be ashes under the soles of your feet on the day I am preparing,” says the LORD of Hosts.
+			</v>
+			<marker class="begin-verse" mid="v39004004"/>
+			<v n="4">
+				“Remember the 
+				<crossref let="e" cid="c390044.1"/>
+				 law of My servant Moses, the statutes and ordinances I commanded him for all Israel at Horeb.
+			</v>
+			<marker class="begin-verse" mid="v39004005"/>
+			<v n="5">
+				Behold, I 
+				<crossref let="f" cid="c390045.1"/>
+				 will send you Elijah the prophet before the coming of the great and awesome Day of the LORD.
+			</v>
+			<marker class="begin-verse" mid="v39004006"/>
+			<v n="6">
+				And he 
+				<crossref let="g" cid="c390046.1"/>
+				 will turn the hearts of the fathers to their children, and the hearts of the children to their fathers. Otherwise, I will come and strike the land with a curse.”
+			</v>
+			<marker class="begin-verse" mid="v39004007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

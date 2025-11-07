@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:30:33.108257</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:30:33.108271</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" version="MSG" bookAbbr="zec">
+		<marker class="begin-verse" mid="v38003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c380031.1"/>
+				 Lord showed me Joshua the high priest standing before the angel of the Lord, and Satan standing on his right accusing him.
+			</v>
+			<marker class="begin-verse" mid="v38003002"/>
+			<v n="2">
+				And the 
+				<crossref let="c" cid="c380032.1"/>
+				 Lord said to Satan, “The Lord rebukes you Satan. I, the Lord who has chosen Jerusalem, rebuke you. Isn't he like a half-burned stick snatched from the fire?”
+			</v>
+			<marker class="begin-verse" mid="v38003003"/>
+			<v n="3">
+				Joshua was 
+				<crossref let="d" cid="c380033.1"/>
+				 wearing filthy clothes as he stood in front of the angel.
+			</v>
+			<marker class="begin-verse" mid="v38003004"/>
+			<v n="4">
+				The angel 
+				<crossref let="e" cid="c380034.1"/>
+				 said to those standing there, “Take off his filthy clothes.” Then he said to Joshua, “See how I have taken away your sins from you, and now I am dressing you with fine clothes.”
+			</v>
+			<marker class="begin-verse" mid="v38003005"/>
+			<v n="5">
+				Then I 
+				<crossref let="f" cid="c380035.1"/>
+				 said, “Wrap a clean turban around his head.” So they wrapped a clean turban around his head and put the clothes on him while the angel of the Lord stood there.
+			</v>
+			<marker class="begin-verse" mid="v38003006"/>
+			<v n="6">
+				Then the 
+				<crossref let="g" cid="c380036.1"/>
+				 angel of the Lord solemnly advised Joshua, saying,
+			</v>
+			<marker class="begin-verse" mid="v38003007"/>
+			<v n="7">
+				“This is 
+				<crossref let="h" cid="c380037.1"/>
+				 what the Lord Almighty says: If you follow my ways and observe my commands, then you will govern my Temple and its courtyards. I will allow you to walk among those standing here.
+			</v>
+			<marker class="begin-verse" mid="v38003008"/>
+			<v n="8">
+				Pay attention, 
+				<crossref let="i" cid="c380038.1"/>
+				 high priest Joshua and all your fellow-priests that you teach! You are a sign of good things to come. Look! I am going to bring my servant, the Branch.
+			</v>
+			<marker class="begin-verse" mid="v38003009"/>
+			<v n="9">
+				See that 
+				<crossref let="j" cid="c380039.1"/>
+				 I have placed a precious stone in front of Joshua, a single stone with seven faces. Watch, for I myself am going to engrave seven eyes on it, declares the Lord Almighty, and I will wipe away the sins of this land in a single day.
+			</v>
+			<marker class="begin-verse" mid="v38003010"/>
+			<v n="10">
+				On that 
+				<crossref let="k" cid="c3800310.1"/>
+				 day everyone will invite their friends to sit in peace under their vines and fig trees, says the Lord Almighty.”
+			</v>
+			<marker class="begin-verse" mid="v38003011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

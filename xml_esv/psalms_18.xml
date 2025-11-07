@@ -1,0 +1,615 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:36.134469</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:36.134491</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19018001">
+		</marker>
+		<chapter num="18">
+			<heading>
+				Psalm 18
+			</heading>
+			<heading>
+				The LORD Is My Rock and My Fortress
+			</heading>
+			<heading>
+				To the choirmaster. A Psalm of David, the servant of the LORD, who addressed the words of this song to the LORD on the day when the LORD delivered him from the hand of all his enemies, and from the hand of Saul. He said:
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				I love 
+				<crossref let="b" cid="c19018001.1">
+				</crossref>
+				you, O, 
+				<crossref let="c" cid="c19018001.2">
+				</crossref>
+				LORD, my strength.
+			</v>
+			<marker class="begin-verse" mid="v19018002">
+			</marker>
+			<v n="2">
+				The LORD 
+				<crossref let="d" cid="c19018002.3">
+				</crossref>
+				is my, 
+				<crossref let="e" cid="c19018002.4">
+				</crossref>
+				rock and my fortress and my deliverer, my God, my rock, in whom I take refuge, my shield, and the horn of my salvation, my stronghold.
+			</v>
+			<marker class="begin-verse" mid="v19018003">
+			</marker>
+			<v n="3">
+				I call 
+				<crossref let="f" cid="c19018003.5">
+				</crossref>
+				upon the, 
+				<crossref let="g" cid="c19018003.6">
+				</crossref>
+				LORD, who is worthy to be praised, and I am saved from my enemies.
+				<note nid="n19018003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018004">
+			</marker>
+			<v n="4">
+				The cords 
+				<crossref let="h" cid="c19018004.7">
+				</crossref>
+				of death, 
+				<crossref let="i" cid="c19018004.8">
+				</crossref>
+				encompassed me; the torrents of destruction assailed me;(1)
+			</v>
+			<marker class="begin-verse" mid="v19018005">
+			</marker>
+			<v n="5">
+				the cords 
+				<crossref let="j" cid="c19018005.9">
+				</crossref>
+				of Sheol, 
+				<crossref let="k" cid="c19018005.10">
+				</crossref>
+				entangled me; the snares of death confronted me.
+			</v>
+			<marker class="begin-verse" mid="v19018006">
+			</marker>
+			<v n="6">
+				In my 
+				<crossref let="l" cid="c19018006.11">
+				</crossref>
+				distress I, 
+				<crossref let="m" cid="c19018006.12">
+				</crossref>
+				called upon the LORD; to my God I cried for help. From his temple he heard my voice, and my cry to him reached his ears.
+				<note nid="n19018006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018007">
+			</marker>
+			<v n="7">
+				Then the 
+				<crossref let="n" cid="c19018007.13">
+				</crossref>
+				earth reeled, 
+				<crossref let="o" cid="c19018007.14">
+				</crossref>
+				and rocked; the foundations also of the mountains trembled and quaked, because he was angry.
+			</v>
+			<marker class="begin-verse" mid="v19018008">
+			</marker>
+			<v n="8">
+				Smoke went 
+				<crossref let="p" cid="c19018008.15">
+				</crossref>
+				up from, 
+				<crossref let="q" cid="c19018008.16">
+				</crossref>
+				his nostrils,(2) and devouring fire from his mouth; glowing coals flamed forth from him.
+			</v>
+			<marker class="begin-verse" mid="v19018009">
+			</marker>
+			<v n="9">
+				He bowed 
+				<crossref let="r" cid="c19018009.17">
+				</crossref>
+				the heavens, 
+				<crossref let="s" cid="c19018009.18">
+				</crossref>
+				and came down; thick darkness was under his feet.
+				<note nid="n19018009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018010">
+			</marker>
+			<v n="10">
+				He rode 
+				<crossref let="t" cid="c19018010.19">
+				</crossref>
+				on a, 
+				<crossref let="u" cid="c19018010.20">
+				</crossref>
+				cherub and flew; he came swiftly on the wings of the wind.
+			</v>
+			<marker class="begin-verse" mid="v19018011">
+			</marker>
+			<v n="11">
+				He made 
+				<crossref let="v" cid="c19018011.21">
+				</crossref>
+				darkness his, 
+				<crossref let="w" cid="c19018011.22">
+				</crossref>
+				covering, his canopy around him, thick clouds dark with water.
+			</v>
+			<marker class="begin-verse" mid="v19018012">
+			</marker>
+			<v n="12">
+				Out of 
+				<crossref let="x" cid="c19018012.23">
+				</crossref>
+				the brightness, 
+				<crossref let="y" cid="c19018012.24">
+				</crossref>
+				before him hailstones and coals of fire broke through his clouds.
+				<note nid="n19018012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018013">
+			</marker>
+			<v n="13">
+				The LORD 
+				<crossref let="z" cid="c19018013.25">
+				</crossref>
+				also thundered, 
+				<crossref let="a" cid="c19018013.26">
+				</crossref>
+				in the heavens, and the Most High uttered his voice, hailstones and coals of fire.
+			</v>
+			<marker class="begin-verse" mid="v19018014">
+			</marker>
+			<v n="14">
+				And he 
+				<crossref let="b" cid="c19018014.27">
+				</crossref>
+				sent out, 
+				<crossref let="c" cid="c19018014.28">
+				</crossref>
+				his arrows and scattered them; he flashed forth lightnings and routed them.
+			</v>
+			<marker class="begin-verse" mid="v19018015">
+			</marker>
+			<v n="15">
+				Then the 
+				<crossref let="d" cid="c19018015.29">
+				</crossref>
+				channels of, 
+				<crossref let="e" cid="c19018015.30">
+				</crossref>
+				the sea were seen, and the foundations of the world were laid bare at your rebuke, O LORD, at the blast of the breath of your nostrils.
+				<note nid="n19018015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018016">
+			</marker>
+			<v n="16">
+				He sent 
+				<crossref let="f" cid="c19018016.31">
+				</crossref>
+				from on, 
+				<crossref let="g" cid="c19018016.32">
+				</crossref>
+				high, he took me; he drew me out of many waters.
+			</v>
+			<marker class="begin-verse" mid="v19018017">
+			</marker>
+			<v n="17">
+				He rescued 
+				<crossref let="h" cid="c19018017.33">
+				</crossref>
+				me from, 
+				<crossref let="i" cid="c19018017.34">
+				</crossref>
+				my strong enemy and from those who hated me, for they were too mighty for me.
+			</v>
+			<marker class="begin-verse" mid="v19018018">
+			</marker>
+			<v n="18">
+				They confronted 
+				<crossref let="j" cid="c19018018.35">
+				</crossref>
+				me in, 
+				<crossref let="k" cid="c19018018.36">
+				</crossref>
+				the day of my calamity, but the LORD was my support.
+				<note nid="n19018018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018019">
+			</marker>
+			<v n="19">
+				He brought 
+				<crossref let="l" cid="c19018019.37">
+				</crossref>
+				me out, 
+				<crossref let="m" cid="c19018019.38">
+				</crossref>
+				into a broad place; he rescued me, because he delighted in me.
+			</v>
+			<marker class="begin-verse" mid="v19018020">
+			</marker>
+			<v n="20">
+				The LORD 
+				<crossref let="n" cid="c19018020.39">
+				</crossref>
+				dealt with, 
+				<crossref let="o" cid="c19018020.40">
+				</crossref>
+				me according to my righteousness; according to the cleanness of my hands he rewarded me.
+			</v>
+			<marker class="begin-verse" mid="v19018021">
+			</marker>
+			<v n="21">
+				For I 
+				<crossref let="p" cid="c19018021.41">
+				</crossref>
+				have kept, 
+				<crossref let="q" cid="c19018021.42">
+				</crossref>
+				the ways of the LORD, and have not wickedly departed from my God.
+				<note nid="n19018021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018022">
+			</marker>
+			<v n="22">
+				For all 
+				<crossref let="r" cid="c19018022.43">
+				</crossref>
+				his rules(3), 
+				<crossref let="s" cid="c19018022.44">
+				</crossref>
+				were before me, and his statutes I did not put away from me.
+			</v>
+			<marker class="begin-verse" mid="v19018023">
+			</marker>
+			<v n="23">
+				I was 
+				<crossref let="t" cid="c19018023.45">
+				</crossref>
+				blameless before, 
+				<crossref let="u" cid="c19018023.46">
+				</crossref>
+				him, and I kept myself from my guilt.
+			</v>
+			<marker class="begin-verse" mid="v19018024">
+			</marker>
+			<v n="24">
+				So the 
+				<crossref let="v" cid="c19018024.47">
+				</crossref>
+				LORD has, 
+				<crossref let="w" cid="c19018024.48">
+				</crossref>
+				rewarded me according to my righteousness, according to the cleanness of my hands in his sight.
+				<note nid="n19018024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018025">
+			</marker>
+			<v n="25">
+				With the 
+				<crossref let="x" cid="c19018025.49">
+				</crossref>
+				merciful you, 
+				<crossref let="y" cid="c19018025.50">
+				</crossref>
+				show yourself merciful; with the blameless man you show yourself blameless;
+			</v>
+			<marker class="begin-verse" mid="v19018026">
+			</marker>
+			<v n="26">
+				with the 
+				<crossref let="z" cid="c19018026.51">
+				</crossref>
+				purified you, 
+				<crossref let="a" cid="c19018026.52">
+				</crossref>
+				show yourself pure; and with the crooked you make yourself seem tortuous.
+			</v>
+			<marker class="begin-verse" mid="v19018027">
+			</marker>
+			<v n="27">
+				For you 
+				<crossref let="b" cid="c19018027.53">
+				</crossref>
+				save a, 
+				<crossref let="c" cid="c19018027.54">
+				</crossref>
+				humble people, but the haughty eyes you bring down.
+				<note nid="n19018027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018028">
+			</marker>
+			<v n="28">
+				For it 
+				<crossref let="d" cid="c19018028.55">
+				</crossref>
+				is you, 
+				<crossref let="e" cid="c19018028.56">
+				</crossref>
+				who light my lamp; the LORD my God lightens my darkness.
+			</v>
+			<marker class="begin-verse" mid="v19018029">
+			</marker>
+			<v n="29">
+				For by 
+				<crossref let="f" cid="c19018029.57">
+				</crossref>
+				you I, 
+				<crossref let="g" cid="c19018029.58">
+				</crossref>
+				can run against a troop, and by my God I can leap over a wall.
+			</v>
+			<marker class="begin-verse" mid="v19018030">
+			</marker>
+			<v n="30">
+				This God—his 
+				<crossref let="h" cid="c19018030.59">
+				</crossref>
+				way is, 
+				<crossref let="i" cid="c19018030.60">
+				</crossref>
+				perfect;(4) the word of the LORD proves true; he is a shield for all those who take refuge in him.
+				<note nid="n19018030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018031">
+			</marker>
+			<v n="31">
+				For who 
+				<crossref let="j" cid="c19018031.61">
+				</crossref>
+				is God,, 
+				<crossref let="k" cid="c19018031.62">
+				</crossref>
+				but the LORD? And who is a rock, except our God?—
+			</v>
+			<marker class="begin-verse" mid="v19018032">
+			</marker>
+			<v n="32">
+				the God 
+				<crossref let="l" cid="c19018032.63">
+				</crossref>
+				who equipped, 
+				<crossref let="m" cid="c19018032.64">
+				</crossref>
+				me with strength and made my way blameless.
+			</v>
+			<marker class="begin-verse" mid="v19018033">
+			</marker>
+			<v n="33">
+				He made 
+				<crossref let="n" cid="c19018033.65">
+				</crossref>
+				my feet, 
+				<crossref let="o" cid="c19018033.66">
+				</crossref>
+				like the feet of a deer and set me secure on the heights.
+				<note nid="n19018033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018034">
+			</marker>
+			<v n="34">
+				He trains 
+				<crossref let="p" cid="c19018034.67">
+				</crossref>
+				my hands, 
+				<crossref let="q" cid="c19018034.68">
+				</crossref>
+				for war, so that my arms can bend a bow of bronze.
+			</v>
+			<marker class="begin-verse" mid="v19018035">
+			</marker>
+			<v n="35">
+				You have 
+				<crossref let="r" cid="c19018035.69">
+				</crossref>
+				given me, 
+				<crossref let="s" cid="c19018035.70">
+				</crossref>
+				the shield of your salvation, and your right hand supported me, and your gentleness made me great.
+			</v>
+			<marker class="begin-verse" mid="v19018036">
+			</marker>
+			<v n="36">
+				You gave 
+				<crossref let="t" cid="c19018036.71">
+				</crossref>
+				a wide, 
+				<crossref let="u" cid="c19018036.72">
+				</crossref>
+				place for my steps under me, and my feet did not slip.
+				<note nid="n19018036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018037">
+			</marker>
+			<v n="37">
+				I pursued 
+				<crossref let="v" cid="c19018037.73">
+				</crossref>
+				my enemies, 
+				<crossref let="w" cid="c19018037.74">
+				</crossref>
+				and overtook them, and did not turn back till they were consumed.
+			</v>
+			<marker class="begin-verse" mid="v19018038">
+			</marker>
+			<v n="38">
+				I thrust 
+				<crossref let="x" cid="c19018038.75">
+				</crossref>
+				them through,, 
+				<crossref let="y" cid="c19018038.76">
+				</crossref>
+				so that they were not able to rise; they fell under my feet.
+			</v>
+			<marker class="begin-verse" mid="v19018039">
+			</marker>
+			<v n="39">
+				For you 
+				<crossref let="z" cid="c19018039.77">
+				</crossref>
+				equipped me, 
+				<crossref let="a" cid="c19018039.78">
+				</crossref>
+				with strength for the battle; you made those who rise against me sink under me.
+				<note nid="n19018039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018040">
+			</marker>
+			<v n="40">
+				You made 
+				<crossref let="b" cid="c19018040.79">
+				</crossref>
+				my enemies, 
+				<crossref let="c" cid="c19018040.80">
+				</crossref>
+				turn their backs to me,(5) and those who hated me I destroyed.
+			</v>
+			<marker class="begin-verse" mid="v19018041">
+			</marker>
+			<v n="41">
+				They cried 
+				<crossref let="d" cid="c19018041.81">
+				</crossref>
+				for help,, 
+				<crossref let="e" cid="c19018041.82">
+				</crossref>
+				but there was none to save; they cried to the LORD, but he did not answer them.
+			</v>
+			<marker class="begin-verse" mid="v19018042">
+			</marker>
+			<v n="42">
+				I beat 
+				<crossref let="f" cid="c19018042.83">
+				</crossref>
+				them fine, 
+				<crossref let="g" cid="c19018042.84">
+				</crossref>
+				as dust before the wind; I cast them out like the mire of the streets.
+				<note nid="n19018042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018043">
+			</marker>
+			<v n="43">
+				You delivered 
+				<crossref let="h" cid="c19018043.85">
+				</crossref>
+				me from, 
+				<crossref let="i" cid="c19018043.86">
+				</crossref>
+				strife with the people; you made me the head of the nations; people whom I had not known served me.
+			</v>
+			<marker class="begin-verse" mid="v19018044">
+			</marker>
+			<v n="44">
+				As soon 
+				<crossref let="j" cid="c19018044.87">
+				</crossref>
+				as they, 
+				<crossref let="k" cid="c19018044.88">
+				</crossref>
+				heard of me they obeyed me; foreigners came cringing to me.
+			</v>
+			<marker class="begin-verse" mid="v19018045">
+			</marker>
+			<v n="45">
+				Foreigners lost 
+				<crossref let="l" cid="c19018045.89">
+				</crossref>
+				heart and, 
+				<crossref let="m" cid="c19018045.90">
+				</crossref>
+				came trembling out of their fortresses.
+				<note nid="n19018045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018046">
+			</marker>
+			<v n="46">
+				The LORD 
+				<crossref let="n" cid="c19018046.91">
+				</crossref>
+				lives, and, 
+				<crossref let="o" cid="c19018046.92">
+				</crossref>
+				blessed be my rock, and exalted be the God of my salvation—
+			</v>
+			<marker class="begin-verse" mid="v19018047">
+			</marker>
+			<v n="47">
+				the God 
+				<crossref let="p" cid="c19018047.93">
+				</crossref>
+				who gave, 
+				<crossref let="q" cid="c19018047.94">
+				</crossref>
+				me vengeance and subdued peoples under me,
+			</v>
+			<marker class="begin-verse" mid="v19018048">
+			</marker>
+			<v n="48">
+				who rescued 
+				<crossref let="r" cid="c19018048.95">
+				</crossref>
+				me from, 
+				<crossref let="s" cid="c19018048.96">
+				</crossref>
+				my enemies; yes, you exalted me above those who rose against me; you delivered me from the man of violence.
+				<note nid="n19018048.48">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19018049">
+			</marker>
+			<v n="49">
+				For this 
+				<crossref let="t" cid="c19018049.97">
+				</crossref>
+				I will, 
+				<crossref let="u" cid="c19018049.98">
+				</crossref>
+				praise you, O LORD, among the nations, and sing to your name.
+			</v>
+			<marker class="begin-verse" mid="v19018050">
+			</marker>
+			<v n="50">
+				Great salvation 
+				<crossref let="v" cid="c19018050.99">
+				</crossref>
+				he brings, 
+				<crossref let="w" cid="c19018050.100">
+				</crossref>
+				to his king, and shows steadfast love to his anointed, to David and his offspring forever. Footnotes (1) 18:4 Or *terrified me* (2) 18:8 Or *in his wrath* (3) 18:22 Or *just decrees* (4) 18:30 Or *blameless* (5) 18:40 Or *You gave me my enemies’ necks* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19018051">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

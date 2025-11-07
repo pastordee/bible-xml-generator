@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:18:17.604143</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:18:17.604152</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="KJV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23050001"/>
+		<chapter num="50">
+			<begin-paragraph/>
+			<v n="1">
+				Thus saith 
+				<crossref let="b" cid="c230501.1"/>
+				 the LORD, Where is the bill of your mother’s divorcement, whom I have put away? or which of my creditors is it to whom I have sold you? Behold, for your iniquities have ye sold yourselves, and for your transgressions is your mother put away.
+			</v>
+			<marker class="begin-verse" mid="v23050002"/>
+			<v n="2">
+				Wherefore, when 
+				<crossref let="c" cid="c230502.1"/>
+				 I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because there is no water, and dieth for thirst.
+			</v>
+			<marker class="begin-verse" mid="v23050003"/>
+			<v n="3">
+				I clothe 
+				<crossref let="d" cid="c230503.1"/>
+				 the heavens with blackness, and I make sackcloth their covering.
+			</v>
+			<marker class="begin-verse" mid="v23050004"/>
+			<v n="4">
+				The Lord 
+				<crossref let="e" cid="c230504.1"/>
+				 GOD hath given me the tongue of the learned, that I should know how to speak a word in season to him that is weary: he wakeneth morning by morning, he wakeneth mine ear to hear as the learned.
+			</v>
+			<marker class="begin-verse" mid="v23050005"/>
+			<v n="5">
+				¶ The 
+				<crossref let="f" cid="c230505.1"/>
+				 Lord GOD hath opened mine ear, and I was not rebellious, neither turned away back.
+			</v>
+			<marker class="begin-verse" mid="v23050006"/>
+			<v n="6">
+				I gave 
+				<crossref let="g" cid="c230506.1"/>
+				 my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting.
+			</v>
+			<marker class="begin-verse" mid="v23050007"/>
+			<v n="7">
+				¶ For 
+				<crossref let="h" cid="c230507.1"/>
+				 the Lord GOD will help me; therefore shall I not be confounded: therefore have I set my face like a flint, and I know that I shall not be ashamed.
+			</v>
+			<marker class="begin-verse" mid="v23050008"/>
+			<v n="8">
+				He is 
+				<crossref let="i" cid="c230508.1"/>
+				 near that justifieth me; who will contend with me? let us stand together: who is mine adversary? let him come near to me.
+			</v>
+			<marker class="begin-verse" mid="v23050009"/>
+			<v n="9">
+				Behold, the 
+				<crossref let="j" cid="c230509.1"/>
+				 Lord GOD will help me; who is he that shall condemn me? lo, they all shall wax old as a garment; the moth shall eat them up.
+			</v>
+			<marker class="begin-verse" mid="v23050010"/>
+			<v n="10">
+				¶ Who 
+				<crossref let="k" cid="c2305010.1"/>
+				 is among you that feareth the LORD, that obeyeth the voice of his servant, that walketh in darkness, and hath no light? let him trust in the name of the LORD, and stay upon his God.
+			</v>
+			<marker class="begin-verse" mid="v23050011"/>
+			<v n="11">
+				Behold, all 
+				<crossref let="l" cid="c2305011.1"/>
+				 ye that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.
+			</v>
+			<marker class="begin-verse" mid="v23050012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

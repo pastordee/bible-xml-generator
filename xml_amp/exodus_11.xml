@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:20:54.268438</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:20:54.268465</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="AMP" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02011001"/>
+		<chapter num="11">
+			<heading>The Last Plague</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c020111.1"/>
+				 Lord said to Moses, “I will bring yet one more plague on Pharaoh and on Egypt; after that he will let you go. When he lets you go, he will most certainly drive you out of here completely.
+			</v>
+			<marker class="begin-verse" mid="v02011002"/>
+			<v n="2">
+				Speak so 
+				<crossref let="c" cid="c020112.1"/>
+				 that all of the people [of Israel] may hear, and tell every man to ask from his neighbor, and every woman to ask from her neighbor, articles of silver, and articles of gold.”
+			</v>
+			<marker class="begin-verse" mid="v02011003"/>
+			<v n="3">
+				The Lord 
+				<crossref let="d" cid="c020113.1"/>
+				 gave the people favor in the sight of the Egyptians. Moreover, the man Moses was greatly esteemed in the land of Egypt, [both] in the sight of Pharaoh’s servants and in the sight of the people.
+			</v>
+			<marker class="begin-verse" mid="v02011004"/>
+			<v n="4">
+				Then Moses 
+				<crossref let="e" cid="c020114.1"/>
+				 said, “Thus says the Lord: ‘At midnight I am going out into the midst of Egypt,
+			</v>
+			<marker class="begin-verse" mid="v02011005"/>
+			<v n="5">
+				and all 
+				<crossref let="f" cid="c020115.1"/>
+				 the firstborn in the land [the pride, hope, and joy] of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, to the firstborn of the slave girl who is behind the hand-mill, and all the firstborn of cattle as well.
+			</v>
+			<marker class="begin-verse" mid="v02011006"/>
+			<v n="6">
+				There shall 
+				<crossref let="g" cid="c020116.1"/>
+				 be a great cry [of heartache and sorrow] throughout the land of Egypt, such as has never been before and such as shall never be again.
+			</v>
+			<marker class="begin-verse" mid="v02011007"/>
+			<v n="7">
+				But not 
+				<crossref let="h" cid="c020117.1"/>
+				 even a dog will threaten any of the Israelites, whether man or animal, so that you may know [without any doubt] and acknowledge how the Lord makes a distinction between Egypt and Israel.’
+			</v>
+			<marker class="begin-verse" mid="v02011008"/>
+			<v n="8">
+				All these 
+				<crossref let="i" cid="c020118.1"/>
+				 servants of yours will come down to me and bow down before me, saying, ‘Get out, you and all the people who follow you.’ After that I will leave.” And he left Pharaoh in the heat of anger.
+			</v>
+			<marker class="begin-verse" mid="v02011009"/>
+			<v n="9">
+				Then the 
+				<crossref let="j" cid="c020119.1"/>
+				 Lord said to Moses, “Pharaoh will not listen to you, so that My wonders (miracles) may be multiplied in the land of Egypt.”
+			</v>
+			<marker class="begin-verse" mid="v02011010"/>
+			<v n="10">
+				Moses and 
+				<crossref let="k" cid="c0201110.1"/>
+				 Aaron did all these wonders (miracles) before Pharaoh; yet the Lord hardened Pharaoh’s heart, and he did not let the Israelites go out of his land.
+			</v>
+			<marker class="begin-verse" mid="v02011011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

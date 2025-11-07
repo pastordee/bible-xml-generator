@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:13:30.040685</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:13:30.040727</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19015001"/>
+		<chapter num="15">
+			<heading>Who May Dwell on Your Holy Mountain?A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O LORD, 
+				<crossref let="b" cid="c190151.1"/>
+				 who may abide in Your tent?Who may dwell on Your holy mountain?
+			</v>
+			<marker class="begin-verse" mid="v19015002"/>
+			<v n="2">
+				He who 
+				<crossref let="c" cid="c190152.1"/>
+				 walks with integrityand practices righteousness,who speaks the truth from his heart,
+			</v>
+			<marker class="begin-verse" mid="v19015003"/>
+			<v n="3">
+				who has 
+				<crossref let="d" cid="c190153.1"/>
+				 no slander on his tongue,who does no harm to his neighbor,who casts no scorn on his friend,
+			</v>
+			<marker class="begin-verse" mid="v19015004"/>
+			<v n="4">
+				who despises 
+				<crossref let="e" cid="c190154.1"/>
+				 the vilebut honors those who fear the LORD,who does not revise a costly oath,
+			</v>
+			<marker class="begin-verse" mid="v19015005"/>
+			<v n="5">
+				who lends 
+				<crossref let="f" cid="c190155.1"/>
+				 his money without interestand refuses a bribe against the innocent.He who does these thingswill never be shaken.
+			</v>
+			<marker class="begin-verse" mid="v19015006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

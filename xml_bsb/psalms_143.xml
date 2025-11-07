@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:24:52.375871</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:24:52.375905</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19143001"/>
+		<chapter num="143">
+			<heading>I Stretch Out My Hands to YouA Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O LORD, 
+				<crossref let="b" cid="c191431.1"/>
+				 hear my prayer.In Your faithfulness, give ear to my plea;in Your righteousness, answer me.
+			</v>
+			<marker class="begin-verse" mid="v19143002"/>
+			<v n="2">
+				Do not 
+				<crossref let="c" cid="c191432.1"/>
+				 bring Your servant into judgment,for no one alive is righteous before You.
+			</v>
+			<marker class="begin-verse" mid="v19143003"/>
+			<v n="3">
+				For the 
+				<crossref let="d" cid="c191433.1"/>
+				 enemy has pursued my soul,crushing my life to the ground,making me dwell in darknesslike those long since dead.
+			</v>
+			<marker class="begin-verse" mid="v19143004"/>
+			<v n="4">
+				My spirit 
+				<crossref let="e" cid="c191434.1"/>
+				 grows faint within me;my heart is dismayed inside me.
+			</v>
+			<marker class="begin-verse" mid="v19143005"/>
+			<v n="5">
+				I remember 
+				<crossref let="f" cid="c191435.1"/>
+				 the days of old;I meditate on all Your works;I consider the work of Your hands.
+			</v>
+			<marker class="begin-verse" mid="v19143006"/>
+			<v n="6">
+				I stretch 
+				<crossref let="g" cid="c191436.1"/>
+				 out my hands to You;my soul thirsts for You like a parched land.Selah
+			</v>
+			<marker class="begin-verse" mid="v19143007"/>
+			<v n="7">
+				Answer me 
+				<crossref let="h" cid="c191437.1"/>
+				 quickly, O LORD;my spirit fails.Do not hide Your face from me,or I will be like those who descend to the Pit.
+			</v>
+			<marker class="begin-verse" mid="v19143008"/>
+			<v n="8">
+				Let me 
+				<crossref let="i" cid="c191438.1"/>
+				 hear Your loving devotion in the morning,for I have put my trust in You.Teach me the way I should walk,for to You I lift up my soul.
+			</v>
+			<marker class="begin-verse" mid="v19143009"/>
+			<v n="9">
+				Deliver me 
+				<crossref let="j" cid="c191439.1"/>
+				 from my enemies, O LORD;I flee to You for refuge.
+			</v>
+			<marker class="begin-verse" mid="v19143010"/>
+			<v n="10">
+				Teach me 
+				<crossref let="k" cid="c1914310.1"/>
+				 to do Your will,for You are my God.May Your good Spirit lead meon level ground.
+			</v>
+			<marker class="begin-verse" mid="v19143011"/>
+			<v n="11">
+				For the 
+				<crossref let="l" cid="c1914311.1"/>
+				 sake of Your name, O LORD,revive me.In Your righteousness,bring my soul out of trouble.
+			</v>
+			<marker class="begin-verse" mid="v19143012"/>
+			<v n="12">
+				And in 
+				<crossref let="m" cid="c1914312.1"/>
+				 Your loving devotion,cut off my enemies.Destroy all who afflict me,for I am Your servant.
+			</v>
+			<marker class="begin-verse" mid="v19143013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

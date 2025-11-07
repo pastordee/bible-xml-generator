@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:25:08.015828</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:25:08.015838</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19146001"/>
+		<chapter num="146">
+			<heading>The Happiness of Those Whose Help Is the Lord</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c191461.1"/>
+				 Lord!Praise the Lord, O my soul!
+			</v>
+			<marker class="begin-verse" mid="v19146002"/>
+			<v n="2">
+				While I 
+				<crossref let="c" cid="c191462.1"/>
+				 live I will praise the Lord;I will sing praises to my God while I have my being.
+			</v>
+			<marker class="begin-verse" mid="v19146003"/>
+			<v n="3">
+				Do not 
+				<crossref let="d" cid="c191463.1"/>
+				 put your trust in princes,Nor in a son of man, in whom there is no help.
+			</v>
+			<marker class="begin-verse" mid="v19146004"/>
+			<v n="4">
+				His spirit 
+				<crossref let="e" cid="c191464.1"/>
+				 departs, he returns to his earth;In that very day his plans perish.
+			</v>
+			<marker class="begin-verse" mid="v19146005"/>
+			<v n="5">
+				Happy is 
+				<crossref let="f" cid="c191465.1"/>
+				 he who has the God of Jacob for his help,Whose hope is in the Lord his God,
+			</v>
+			<marker class="begin-verse" mid="v19146006"/>
+			<v n="6">
+				Who made 
+				<crossref let="g" cid="c191466.1"/>
+				 heaven and earth,The sea, and all that is in them;Who keeps truth forever,
+			</v>
+			<marker class="begin-verse" mid="v19146007"/>
+			<v n="7">
+				Who executes 
+				<crossref let="h" cid="c191467.1"/>
+				 justice for the oppressed,Who gives food to the hungry.The Lord gives freedom to the prisoners.
+			</v>
+			<marker class="begin-verse" mid="v19146008"/>
+			<v n="8">
+				The Lord 
+				<crossref let="i" cid="c191468.1"/>
+				 opens the eyes of the blind;The Lord raises those who are bowed down;The Lord loves the righteous.
+			</v>
+			<marker class="begin-verse" mid="v19146009"/>
+			<v n="9">
+				The Lord 
+				<crossref let="j" cid="c191469.1"/>
+				 watches over the strangers;He relieves the fatherless and widow;But the way of the wicked He turns upside down.
+			</v>
+			<marker class="begin-verse" mid="v19146010"/>
+			<v n="10">
+				The Lord 
+				<crossref let="k" cid="c1914610.1"/>
+				 shall reign forever—Your God, O Zion, to all generations.Praise the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19146011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

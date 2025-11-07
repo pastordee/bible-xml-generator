@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:15:10.029520</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:15:10.029582</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" version="NLT" bookAbbr="deu">
+		<marker class="begin-verse" mid="v05001001"/>
+		<chapter num="1">
+			<heading>Introduction to Moses’ First Address</heading>
+			<begin-paragraph/>
+			<v n="1">
+				These are 
+				<crossref let="b" cid="c050011.1"/>
+				 the words that Moses spoke to all the people of Israel while they were in the wilderness east of the Jordan River. They were camped in the Jordan Valley near Suph, between Paran on one side and Tophel, Laban, Hazeroth, and Di-zahab on the other.
+			</v>
+			<marker class="begin-verse" mid="v05001002"/>
+			<v n="2">
+				Normally it 
+				<crossref let="c" cid="c050012.1"/>
+				 takes only eleven days to travel from Mount Sinai to Kadesh-barnea, going by way of Mount Seir.
+			</v>
+			<marker class="begin-verse" mid="v05001003"/>
+			<v n="3">
+				But forty 
+				<crossref let="d" cid="c050013.1"/>
+				 years after the Israelites left Egypt, on the first day of the eleventh month, Moses addressed the people of Israel, telling them everything the Lord had commanded him to say.
+			</v>
+			<marker class="begin-verse" mid="v05001004"/>
+			<v n="4">
+				This took 
+				<crossref let="e" cid="c050014.1"/>
+				 place after he had defeated King Sihon of the Amorites, who ruled in Heshbon, and at Edrei had defeated King Og of Bashan, who ruled in Ashtaroth.
+			</v>
+			<marker class="begin-verse" mid="v05001005"/>
+			<v n="5">
+				While the 
+				<crossref let="f" cid="c050015.1"/>
+				 Israelites were in the land of Moab east of the Jordan River, Moses carefully explained the Lord’s instructions as follows.The Command to Leave Sinai
+			</v>
+			<marker class="begin-verse" mid="v05001006"/>
+			<v n="6">
+				“When we 
+				<crossref let="g" cid="c050016.1"/>
+				 were at Mount Sinai, the Lord our God said to us, ‘You have stayed at this mountain long enough.
+			</v>
+			<marker class="begin-verse" mid="v05001007"/>
+			<v n="7">
+				It is 
+				<crossref let="h" cid="c050017.1"/>
+				 time to break camp and move on. Go to the hill country of the Amorites and to all the neighboring regions—the Jordan Valley, the hill country, the western foothills, the Negev, and the coastal plain. Go to the land of the Canaanites and to Lebanon, and all the way to the great Euphrates River.
+			</v>
+			<marker class="begin-verse" mid="v05001008"/>
+			<v n="8">
+				Look, I 
+				<crossref let="i" cid="c050018.1"/>
+				 am giving all this land to you! Go in and occupy it, for it is the land the Lord swore to give to your ancestors Abraham, Isaac, and Jacob, and to all their descendants.’”Moses Appoints Leaders from Each Tribe
+			</v>
+			<marker class="begin-verse" mid="v05001009"/>
+			<v n="9">
+				Moses continued, 
+				<crossref let="j" cid="c050019.1"/>
+				 “At that time I told you, ‘You are too great a burden for me to carry all by myself.
+			</v>
+			<marker class="begin-verse" mid="v05001010"/>
+			<v n="10">
+				The Lord 
+				<crossref let="k" cid="c0500110.1"/>
+				 your God has increased your population, making you as numerous as the stars!
+			</v>
+			<marker class="begin-verse" mid="v05001011"/>
+			<v n="11">
+				And may 
+				<crossref let="l" cid="c0500111.1"/>
+				 the Lord, the God of your ancestors, multiply you a thousand times more and bless you as he promised!
+			</v>
+			<marker class="begin-verse" mid="v05001012"/>
+			<v n="12">
+				But you 
+				<crossref let="m" cid="c0500112.1"/>
+				 are such a heavy load to carry! How can I deal with all your problems and bickering?
+			</v>
+			<marker class="begin-verse" mid="v05001013"/>
+			<v n="13">
+				Choose some 
+				<crossref let="n" cid="c0500113.1"/>
+				 well-respected men from each tribe who are known for their wisdom and understanding, and I will appoint them as your leaders.’
+			</v>
+			<marker class="begin-verse" mid="v05001014"/>
+			<v n="14">
+				“Then you 
+				<crossref let="o" cid="c0500114.1"/>
+				 responded, ‘Your plan is a good one.’
+			</v>
+			<marker class="begin-verse" mid="v05001015"/>
+			<v n="15">
+				So I 
+				<crossref let="p" cid="c0500115.1"/>
+				 took the wise and respected men you had selected from your tribes and appointed them to serve as judges and officials over you. Some were responsible for a thousand people, some for a hundred, some for fifty, and some for ten.
+			</v>
+			<marker class="begin-verse" mid="v05001016"/>
+			<v n="16">
+				“At that 
+				<crossref let="q" cid="c0500116.1"/>
+				 time I instructed the judges, ‘You must hear the cases of your fellow Israelites and the foreigners living among you. Be perfectly fair in your decisions
+			</v>
+			<marker class="begin-verse" mid="v05001017"/>
+			<v n="17">
+				and impartial 
+				<crossref let="r" cid="c0500117.1"/>
+				 in your judgments. Hear the cases of those who are poor as well as those who are rich. Don’t be afraid of anyone’s anger, for the decision you make is God’s decision. Bring me any cases that are too difficult for you, and I will handle them.’
+			</v>
+			<marker class="begin-verse" mid="v05001018"/>
+			<v n="18">
+				“At that 
+				<crossref let="s" cid="c0500118.1"/>
+				 time I gave you instructions about everything you were to do.Scouts Explore the Land
+			</v>
+			<marker class="begin-verse" mid="v05001019"/>
+			<v n="19">
+				“Then, just 
+				<crossref let="t" cid="c0500119.1"/>
+				 as the Lord our God commanded us, we left Mount Sinai and traveled through the great and terrifying wilderness, as you yourselves remember, and headed toward the hill country of the Amorites. When we arrived at Kadesh-barnea,
+			</v>
+			<marker class="begin-verse" mid="v05001020"/>
+			<v n="20">
+				I said 
+				<crossref let="u" cid="c0500120.1"/>
+				 to you, ‘You have now reached the hill country of the Amorites that the Lord our God is giving us.
+			</v>
+			<marker class="begin-verse" mid="v05001021"/>
+			<v n="21">
+				Look! He 
+				<crossref let="v" cid="c0500121.1"/>
+				 has placed the land in front of you. Go and occupy it as the Lord, the God of your ancestors, has promised you. Don’t be afraid! Don’t be discouraged!’
+			</v>
+			<marker class="begin-verse" mid="v05001022"/>
+			<v n="22">
+				“But you 
+				<crossref let="w" cid="c0500122.1"/>
+				 all came to me and said, ‘First, let’s send out scouts to explore the land for us. They will advise us on the best route to take and which towns we should enter.’
+			</v>
+			<marker class="begin-verse" mid="v05001023"/>
+			<v n="23">
+				“This seemed 
+				<crossref let="x" cid="c0500123.1"/>
+				 like a good idea to me, so I chose twelve scouts, one from each of your tribes.
+			</v>
+			<marker class="begin-verse" mid="v05001024"/>
+			<v n="24">
+				They headed 
+				<crossref let="y" cid="c0500124.1"/>
+				 for the hill country and came to the valley of Eshcol and explored it.
+			</v>
+			<marker class="begin-verse" mid="v05001025"/>
+			<v n="25">
+				They picked 
+				<crossref let="z" cid="c0500125.1"/>
+				 some of its fruit and brought it back to us. And they reported, ‘The land the Lord our God has given us is indeed a good land.’Israel’s Rebellion against the Lord
+			</v>
+			<marker class="begin-verse" mid="v05001026"/>
+			<v n="26">
+				“But you 
+				<crossref let="a" cid="c0500126.1"/>
+				 rebelled against the command of the Lord your God and refused to go in.
+			</v>
+			<marker class="begin-verse" mid="v05001027"/>
+			<v n="27">
+				You complained 
+				<crossref let="b" cid="c0500127.1"/>
+				 in your tents and said, ‘The Lord must hate us. That’s why he has brought us here from Egypt—to hand us over to the Amorites to be slaughtered.
+			</v>
+			<marker class="begin-verse" mid="v05001028"/>
+			<v n="28">
+				Where can 
+				<crossref let="c" cid="c0500128.1"/>
+				 we go? Our brothers have demoralized us with their report. They tell us, “The people of the land are taller and more powerful than we are, and their towns are large, with walls rising high into the sky! We even saw giants there—the descendants of Anak!”’
+			</v>
+			<marker class="begin-verse" mid="v05001029"/>
+			<v n="29">
+				“But I 
+				<crossref let="d" cid="c0500129.1"/>
+				 said to you, ‘Don’t be shocked or afraid of them!
+			</v>
+			<marker class="begin-verse" mid="v05001030"/>
+			<v n="30">
+				The Lord 
+				<crossref let="e" cid="c0500130.1"/>
+				 your God is going ahead of you. He will fight for you, just as you saw him do in Egypt.
+			</v>
+			<marker class="begin-verse" mid="v05001031"/>
+			<v n="31">
+				And you 
+				<crossref let="f" cid="c0500131.1"/>
+				 saw how the Lord your God cared for you all along the way as you traveled through the wilderness, just as a father cares for his child. Now he has brought you to this place.’
+			</v>
+			<marker class="begin-verse" mid="v05001032"/>
+			<v n="32">
+				“But even 
+				<crossref let="g" cid="c0500132.1"/>
+				 after all he did, you refused to trust the Lord your God,
+			</v>
+			<marker class="begin-verse" mid="v05001033"/>
+			<v n="33">
+				who goes 
+				<crossref let="h" cid="c0500133.1"/>
+				 before you looking for the best places to camp, guiding you with a pillar of fire by night and a pillar of cloud by day.
+			</v>
+			<marker class="begin-verse" mid="v05001034"/>
+			<v n="34">
+				“When the 
+				<crossref let="i" cid="c0500134.1"/>
+				 Lord heard your complaining, he became very angry. So he solemnly swore,
+			</v>
+			<marker class="begin-verse" mid="v05001035"/>
+			<v n="35">
+				‘Not one 
+				<crossref let="j" cid="c0500135.1"/>
+				 of you from this wicked generation will live to see the good land I swore to give your ancestors,
+			</v>
+			<marker class="begin-verse" mid="v05001036"/>
+			<v n="36">
+				except Caleb 
+				<crossref let="k" cid="c0500136.1"/>
+				 son of Jephunneh. He will see this land because he has followed the Lord completely. I will give to him and his descendants some of the very land he explored during his scouting mission.’
+			</v>
+			<marker class="begin-verse" mid="v05001037"/>
+			<v n="37">
+				“And the 
+				<crossref let="l" cid="c0500137.1"/>
+				 Lord was also angry with me because of you. He said to me, ‘Moses, not even you will enter the Promised Land!
+			</v>
+			<marker class="begin-verse" mid="v05001038"/>
+			<v n="38">
+				Instead, your 
+				<crossref let="m" cid="c0500138.1"/>
+				 assistant, Joshua son of Nun, will lead the people into the land. Encourage him, for he will lead Israel as they take possession of it.
+			</v>
+			<marker class="begin-verse" mid="v05001039"/>
+			<v n="39">
+				I will 
+				<crossref let="n" cid="c0500139.1"/>
+				 give the land to your little ones—your innocent children. You were afraid they would be captured, but they will be the ones who occupy it.
+			</v>
+			<marker class="begin-verse" mid="v05001040"/>
+			<v n="40">
+				As for 
+				<crossref let="o" cid="c0500140.1"/>
+				 you, turn around now and go on back through the wilderness toward the Red Sea.’
+			</v>
+			<marker class="begin-verse" mid="v05001041"/>
+			<v n="41">
+				“Then you 
+				<crossref let="p" cid="c0500141.1"/>
+				 confessed, ‘We have sinned against the Lord! We will go into the land and fight for it, as the Lord our God has commanded us.’ So your men strapped on their weapons, thinking it would be easy to attack the hill country.
+			</v>
+			<marker class="begin-verse" mid="v05001042"/>
+			<v n="42">
+				“But the 
+				<crossref let="q" cid="c0500142.1"/>
+				 Lord told me to tell you, ‘Do not attack, for I am not with you. If you go ahead on your own, you will be crushed by your enemies.’
+			</v>
+			<marker class="begin-verse" mid="v05001043"/>
+			<v n="43">
+				“This is 
+				<crossref let="r" cid="c0500143.1"/>
+				 what I told you, but you would not listen. Instead, you again rebelled against the Lord’s command and arrogantly went into the hill country to fight.
+			</v>
+			<marker class="begin-verse" mid="v05001044"/>
+			<v n="44">
+				But the 
+				<crossref let="s" cid="c0500144.1"/>
+				 Amorites who lived there came out against you like a swarm of bees. They chased and battered you all the way from Seir to Hormah.
+			</v>
+			<marker class="begin-verse" mid="v05001045"/>
+			<v n="45">
+				Then you 
+				<crossref let="t" cid="c0500145.1"/>
+				 returned and wept before the Lord, but he refused to listen.
+			</v>
+			<marker class="begin-verse" mid="v05001046"/>
+			<v n="46">
+				So you 
+				<crossref let="u" cid="c0500146.1"/>
+				 stayed there at Kadesh for a long time.
+			</v>
+			<marker class="begin-verse" mid="v05001047"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

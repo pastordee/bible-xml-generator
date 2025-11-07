@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:15:39.507869</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:15:39.507876</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19040001"/>
+		<chapter num="40">
+			<heading>Faith Persevering in TrialTo the Chief Musician. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I waited 
+				<crossref let="b" cid="c190401.1"/>
+				 patiently for the Lord;And He inclined to me,And heard my cry.
+			</v>
+			<marker class="begin-verse" mid="v19040002"/>
+			<v n="2">
+				He also 
+				<crossref let="c" cid="c190402.1"/>
+				 brought me up out of a horrible pit,Out of the miry clay,And set my feet upon a rock,And established my steps.
+			</v>
+			<marker class="begin-verse" mid="v19040003"/>
+			<v n="3">
+				He has 
+				<crossref let="d" cid="c190403.1"/>
+				 put a new song in my mouth—Praise to our God;Many will see it and fear,And will trust in the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19040004"/>
+			<v n="4">
+				Blessed is 
+				<crossref let="e" cid="c190404.1"/>
+				 that man who makes the Lord his trust,And does not respect the proud, nor such as turn aside to lies.
+			</v>
+			<marker class="begin-verse" mid="v19040005"/>
+			<v n="5">
+				Many, O 
+				<crossref let="f" cid="c190405.1"/>
+				 Lord my God, are Your wonderful worksWhich You have done;And Your thoughts toward usCannot be recounted to You in order;If I would declare and speak of them,They are more than can be numbered.
+			</v>
+			<marker class="begin-verse" mid="v19040006"/>
+			<v n="6">
+				Sacrifice and 
+				<crossref let="g" cid="c190406.1"/>
+				 offering You did not desire;My ears You have opened.Burnt offering and sin offering You did not require.
+			</v>
+			<marker class="begin-verse" mid="v19040007"/>
+			<v n="7">
+				Then I 
+				<crossref let="h" cid="c190407.1"/>
+				 said, “Behold, I come;In the scroll of the book it is written of me.
+			</v>
+			<marker class="begin-verse" mid="v19040008"/>
+			<v n="8">
+				I delight 
+				<crossref let="i" cid="c190408.1"/>
+				 to do Your will, O my God,And Your law is within my heart.”
+			</v>
+			<marker class="begin-verse" mid="v19040009"/>
+			<v n="9">
+				I have 
+				<crossref let="j" cid="c190409.1"/>
+				 proclaimed the good news of righteousnessIn the great assembly;Indeed, I do not restrain my lips,O Lord, You Yourself know.
+			</v>
+			<marker class="begin-verse" mid="v19040010"/>
+			<v n="10">
+				I have 
+				<crossref let="k" cid="c1904010.1"/>
+				 not hidden Your righteousness within my heart;I have declared Your faithfulness and Your salvation;I have not concealed Your lovingkindness and Your truthFrom the great assembly.
+			</v>
+			<marker class="begin-verse" mid="v19040011"/>
+			<v n="11">
+				Do not 
+				<crossref let="l" cid="c1904011.1"/>
+				 withhold Your tender mercies from me, O Lord;Let Your lovingkindness and Your truth continually preserve me.
+			</v>
+			<marker class="begin-verse" mid="v19040012"/>
+			<v n="12">
+				For innumerable 
+				<crossref let="m" cid="c1904012.1"/>
+				 evils have surrounded me;My iniquities have overtaken me, so that I am not able to look up;They are more than the hairs of my head;Therefore my heart fails me.
+			</v>
+			<marker class="begin-verse" mid="v19040013"/>
+			<v n="13">
+				Be pleased, 
+				<crossref let="n" cid="c1904013.1"/>
+				 O Lord, to deliver me;O Lord, make haste to help me!
+			</v>
+			<marker class="begin-verse" mid="v19040014"/>
+			<v n="14">
+				Let them 
+				<crossref let="o" cid="c1904014.1"/>
+				 be ashamed and brought to mutual confusionWho seek to destroy my life;Let them be driven backward and brought to dishonorWho wish me evil.
+			</v>
+			<marker class="begin-verse" mid="v19040015"/>
+			<v n="15">
+				Let them 
+				<crossref let="p" cid="c1904015.1"/>
+				 be confounded because of their shame,Who say to me, “Aha, aha!”
+			</v>
+			<marker class="begin-verse" mid="v19040016"/>
+			<v n="16">
+				Let all 
+				<crossref let="q" cid="c1904016.1"/>
+				 those who seek You rejoice and be glad in You;Let such as love Your salvation say continually,“The Lord be magnified!”
+			</v>
+			<marker class="begin-verse" mid="v19040017"/>
+			<v n="17">
+				But I 
+				<crossref let="r" cid="c1904017.1"/>
+				 am poor and needy;Yet the Lord thinks upon me.You are my help and my deliverer;Do not delay, O my God.
+			</v>
+			<marker class="begin-verse" mid="v19040018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:15:59.251209</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:15:59.251229</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19064001"/>
+		<chapter num="64">
+			<heading>For the music director. A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				God, please 
+				<crossref let="b" cid="c190641.1"/>
+				 listen to my complaint. Protect me because my enemies scare me.
+			</v>
+			<marker class="begin-verse" mid="v19064002"/>
+			<v n="2">
+				Shelter me 
+				<crossref let="c" cid="c190642.1"/>
+				 from the plots of the wicked, from this evil mob.
+			</v>
+			<marker class="begin-verse" mid="v19064003"/>
+			<v n="3">
+				What they 
+				<crossref let="d" cid="c190643.1"/>
+				 say cuts like swords; they fire off poisonous words like arrows.
+			</v>
+			<marker class="begin-verse" mid="v19064004"/>
+			<v n="4">
+				They shoot 
+				<crossref let="e" cid="c190644.1"/>
+				 from their hiding places at innocent people—doing this without warning, not afraid of being caught.
+			</v>
+			<marker class="begin-verse" mid="v19064005"/>
+			<v n="5">
+				They encourage 
+				<crossref let="f" cid="c190645.1"/>
+				 one another to do evil, planning how to secretly trap people, telling themselves, “Nobody will notice.”
+			</v>
+			<marker class="begin-verse" mid="v19064006"/>
+			<v n="6">
+				They plot 
+				<crossref let="g" cid="c190646.1"/>
+				 wicked things. “What a great plan we've created!” they say. There are no limits to the depths to which human minds and thoughts can sink.
+			</v>
+			<marker class="begin-verse" mid="v19064007"/>
+			<v n="7">
+				But God 
+				<crossref let="h" cid="c190647.1"/>
+				 will shoot them with arrows; all of a sudden they will be wounded.
+			</v>
+			<marker class="begin-verse" mid="v19064008"/>
+			<v n="8">
+				What they 
+				<crossref let="i" cid="c190648.1"/>
+				 themselves say will trip them up; people who see them will mock them, shaking their heads at them.
+			</v>
+			<marker class="begin-verse" mid="v19064009"/>
+			<v n="9">
+				Then everyone 
+				<crossref let="j" cid="c190649.1"/>
+				 will be frightened. They will say that this is the work of God, and they will think about what he has done.
+			</v>
+			<marker class="begin-verse" mid="v19064010"/>
+			<v n="10">
+				Those who 
+				<crossref let="k" cid="c1906410.1"/>
+				 are right with the Lord will be happy in him, they will go to him for protection. Those who live right will praise him.
+			</v>
+			<marker class="begin-verse" mid="v19064011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

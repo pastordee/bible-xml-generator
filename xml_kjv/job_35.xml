@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:55:18.875632</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:55:18.875677</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" version="KJV" bookAbbr="job">
+		<marker class="begin-verse" mid="v18035001"/>
+		<chapter num="35">
+			<begin-paragraph/>
+			<v n="1">
+				Elihu spake 
+				<crossref let="b" cid="c180351.1"/>
+				 moreover, and said,
+			</v>
+			<marker class="begin-verse" mid="v18035002"/>
+			<v n="2">
+				Thinkest thou 
+				<crossref let="c" cid="c180352.1"/>
+				 this to be right, that thou saidst, My righteousness is more than God’s?
+			</v>
+			<marker class="begin-verse" mid="v18035003"/>
+			<v n="3">
+				For thou 
+				<crossref let="d" cid="c180353.1"/>
+				 saidst, What advantage will it be unto thee? and, What profit shall I have, if I be cleansed from my sin?
+			</v>
+			<marker class="begin-verse" mid="v18035004"/>
+			<v n="4">
+				I will 
+				<crossref let="e" cid="c180354.1"/>
+				 answer thee, and thy companions with thee.
+			</v>
+			<marker class="begin-verse" mid="v18035005"/>
+			<v n="5">
+				Look unto 
+				<crossref let="f" cid="c180355.1"/>
+				 the heavens, and see; and behold the clouds which are higher than thou.
+			</v>
+			<marker class="begin-verse" mid="v18035006"/>
+			<v n="6">
+				If thou 
+				<crossref let="g" cid="c180356.1"/>
+				 sinnest, what doest thou against him? or if thy transgressions be multiplied, what doest thou unto him?
+			</v>
+			<marker class="begin-verse" mid="v18035007"/>
+			<v n="7">
+				If thou 
+				<crossref let="h" cid="c180357.1"/>
+				 be righteous, what givest thou him? or what receiveth he of thine hand?
+			</v>
+			<marker class="begin-verse" mid="v18035008"/>
+			<v n="8">
+				Thy wickedness 
+				<crossref let="i" cid="c180358.1"/>
+				 may hurt a man as thou art; and thy righteousness may profit the son of man.
+			</v>
+			<marker class="begin-verse" mid="v18035009"/>
+			<v n="9">
+				By reason 
+				<crossref let="j" cid="c180359.1"/>
+				 of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty.
+			</v>
+			<marker class="begin-verse" mid="v18035010"/>
+			<v n="10">
+				But none 
+				<crossref let="k" cid="c1803510.1"/>
+				 saith, Where is God my maker, who giveth songs in the night;
+			</v>
+			<marker class="begin-verse" mid="v18035011"/>
+			<v n="11">
+				Who teacheth 
+				<crossref let="l" cid="c1803511.1"/>
+				 us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?
+			</v>
+			<marker class="begin-verse" mid="v18035012"/>
+			<v n="12">
+				There they 
+				<crossref let="m" cid="c1803512.1"/>
+				 cry, but none giveth answer, because of the pride of evil men.
+			</v>
+			<marker class="begin-verse" mid="v18035013"/>
+			<v n="13">
+				Surely God 
+				<crossref let="n" cid="c1803513.1"/>
+				 will not hear vanity, neither will the Almighty regard it.
+			</v>
+			<marker class="begin-verse" mid="v18035014"/>
+			<v n="14">
+				Although thou 
+				<crossref let="o" cid="c1803514.1"/>
+				 sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him.
+			</v>
+			<marker class="begin-verse" mid="v18035015"/>
+			<v n="15">
+				But now, 
+				<crossref let="p" cid="c1803515.1"/>
+				 because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:
+			</v>
+			<marker class="begin-verse" mid="v18035016"/>
+			<v n="16">
+				Therefore doth 
+				<crossref let="q" cid="c1803516.1"/>
+				 Job open his mouth in vain; he multiplieth words without knowledge.
+			</v>
+			<marker class="begin-verse" mid="v18035017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

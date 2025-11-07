@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:08:08.472233</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:08:08.472241</next_refresh_due>
+	</generation_info>
+	<book title="Ephesians" num="49" testament="new" bookAbbr="eph" version="ESV">
+		<marker class="begin-verse" mid="v49001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Ephesians 1
+			</heading>
+			<heading>
+				Greeting
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Paul, an 
+				<crossref let="b" cid="c49001001.1">
+				</crossref>
+				apostle of, 
+				<crossref let="c" cid="c49001001.2">
+				</crossref>
+				Christ Jesus by the will of God, To the saints who are in Ephesus, and are faithful(1) in Christ Jesus:
+			</v>
+			<marker class="begin-verse" mid="v49001002">
+			</marker>
+			<v n="2">
+				Grace to 
+				<crossref let="d" cid="c49001002.3">
+				</crossref>
+				you and, 
+				<crossref let="e" cid="c49001002.4">
+				</crossref>
+				peace from God our Father and the Lord Jesus Christ. Spiritual Blessings in Christ
+			</v>
+			<marker class="begin-verse" mid="v49001003">
+			</marker>
+			<v n="3">
+				Blessed be 
+				<crossref let="f" cid="c49001003.5">
+				</crossref>
+				the God, 
+				<crossref let="g" cid="c49001003.6">
+				</crossref>
+				and Father of our Lord Jesus Christ, who has blessed us in Christ with every spiritual blessing in the heavenly places,
+				<note nid="n49001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v49001004">
+			</marker>
+			<v n="4">
+				even as 
+				<crossref let="h" cid="c49001004.7">
+				</crossref>
+				he chose, 
+				<crossref let="i" cid="c49001004.8">
+				</crossref>
+				us in him before the foundation of the world, that we should be holy and blameless before him. In love
+			</v>
+			<marker class="begin-verse" mid="v49001005">
+			</marker>
+			<v n="5">
+				he predestined 
+				<crossref let="j" cid="c49001005.9">
+				</crossref>
+				us(2) for, 
+				<crossref let="k" cid="c49001005.10">
+				</crossref>
+				adoption to himself as sons through Jesus Christ, according to the purpose of his will,
+			</v>
+			<marker class="begin-verse" mid="v49001006">
+			</marker>
+			<v n="6">
+				to the 
+				<crossref let="l" cid="c49001006.11">
+				</crossref>
+				praise of, 
+				<crossref let="m" cid="c49001006.12">
+				</crossref>
+				his glorious grace, with which he has blessed us in the Beloved.
+				<note nid="n49001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v49001007">
+			</marker>
+			<v n="7">
+				In him 
+				<crossref let="n" cid="c49001007.13">
+				</crossref>
+				we have, 
+				<crossref let="o" cid="c49001007.14">
+				</crossref>
+				redemption through his blood, the forgiveness of our trespasses, according to the riches of his grace,
+			</v>
+			<marker class="begin-verse" mid="v49001008">
+			</marker>
+			<v n="8">
+				which he 
+				<crossref let="p" cid="c49001008.15">
+				</crossref>
+				lavished upon, 
+				<crossref let="q" cid="c49001008.16">
+				</crossref>
+				us, in all wisdom and insight
+			</v>
+			<marker class="begin-verse" mid="v49001009">
+			</marker>
+			<v n="9">
+				making known(3) 
+				<crossref let="r" cid="c49001009.17">
+				</crossref>
+				to us, 
+				<crossref let="s" cid="c49001009.18">
+				</crossref>
+				the mystery of his will, according to his purpose, which he set forth in Christ(4)
+				<note nid="n49001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v49001010">
+			</marker>
+			<v n="10">
+				as a 
+				<crossref let="t" cid="c49001010.19">
+				</crossref>
+				plan for, 
+				<crossref let="u" cid="c49001010.20">
+				</crossref>
+				the fullness of time, to unite all things in Christ, things in heaven and things on earth in him.
+			</v>
+			<marker class="begin-verse" mid="v49001011">
+			</marker>
+			<v n="11">
+				In him 
+				<crossref let="v" cid="c49001011.21">
+				</crossref>
+				we have, 
+				<crossref let="w" cid="c49001011.22">
+				</crossref>
+				obtained an inheritance, having been predestined according to the purpose of him who works all things according to the counsel of his will,
+			</v>
+			<marker class="begin-verse" mid="v49001012">
+			</marker>
+			<v n="12">
+				so that 
+				<crossref let="x" cid="c49001012.23">
+				</crossref>
+				we who, 
+				<crossref let="y" cid="c49001012.24">
+				</crossref>
+				were the first to hope in Christ might be to the praise of his glory.
+				<note nid="n49001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v49001013">
+			</marker>
+			<v n="13">
+				In him 
+				<crossref let="z" cid="c49001013.25">
+				</crossref>
+				you also,, 
+				<crossref let="a" cid="c49001013.26">
+				</crossref>
+				when you heard the word of truth, the gospel of your salvation, and believed in him, were sealed with the promised Holy Spirit,
+			</v>
+			<marker class="begin-verse" mid="v49001014">
+			</marker>
+			<v n="14">
+				who is 
+				<crossref let="b" cid="c49001014.27">
+				</crossref>
+				the guarantee(5), 
+				<crossref let="c" cid="c49001014.28">
+				</crossref>
+				of our inheritance until we acquire possession of it,(6) to the praise of his glory. Thanksgiving and Prayer
+			</v>
+			<marker class="begin-verse" mid="v49001015">
+			</marker>
+			<v n="15">
+				For this 
+				<crossref let="d" cid="c49001015.29">
+				</crossref>
+				reason, because, 
+				<crossref let="e" cid="c49001015.30">
+				</crossref>
+				I have heard of your faith in the Lord Jesus and your love(7) toward all the saints,
+				<note nid="n49001015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v49001016">
+			</marker>
+			<v n="16">
+				I do 
+				<crossref let="f" cid="c49001016.31">
+				</crossref>
+				not cease, 
+				<crossref let="g" cid="c49001016.32">
+				</crossref>
+				to give thanks for you, remembering you in my prayers,
+			</v>
+			<marker class="begin-verse" mid="v49001017">
+			</marker>
+			<v n="17">
+				that the 
+				<crossref let="h" cid="c49001017.33">
+				</crossref>
+				God of, 
+				<crossref let="i" cid="c49001017.34">
+				</crossref>
+				our Lord Jesus Christ, the Father of glory, may give you the Spirit of wisdom and of revelation in the knowledge of him,
+			</v>
+			<marker class="begin-verse" mid="v49001018">
+			</marker>
+			<v n="18">
+				having the 
+				<crossref let="j" cid="c49001018.35">
+				</crossref>
+				eyes of, 
+				<crossref let="k" cid="c49001018.36">
+				</crossref>
+				your hearts enlightened, that you may know what is the hope to which he has called you, what are the riches of his glorious inheritance in the saints,
+				<note nid="n49001018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v49001019">
+			</marker>
+			<v n="19">
+				and what 
+				<crossref let="l" cid="c49001019.37">
+				</crossref>
+				is the, 
+				<crossref let="m" cid="c49001019.38">
+				</crossref>
+				immeasurable greatness of his power toward us who believe, according to the working of his great might
+			</v>
+			<marker class="begin-verse" mid="v49001020">
+			</marker>
+			<v n="20">
+				that he 
+				<crossref let="n" cid="c49001020.39">
+				</crossref>
+				worked in, 
+				<crossref let="o" cid="c49001020.40">
+				</crossref>
+				Christ when he raised him from the dead and seated him at his right hand in the heavenly places,
+			</v>
+			<marker class="begin-verse" mid="v49001021">
+			</marker>
+			<v n="21">
+				far above 
+				<crossref let="p" cid="c49001021.41">
+				</crossref>
+				all rule, 
+				<crossref let="q" cid="c49001021.42">
+				</crossref>
+				and authority and power and dominion, and above every name that is named, not only in this age but also in the one to come.
+				<note nid="n49001021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v49001022">
+			</marker>
+			<v n="22">
+				And he 
+				<crossref let="r" cid="c49001022.43">
+				</crossref>
+				put all, 
+				<crossref let="s" cid="c49001022.44">
+				</crossref>
+				things under his feet and gave him as head over all things to the church,
+			</v>
+			<marker class="begin-verse" mid="v49001023">
+			</marker>
+			<v n="23">
+				which is 
+				<crossref let="t" cid="c49001023.45">
+				</crossref>
+				his body,, 
+				<crossref let="u" cid="c49001023.46">
+				</crossref>
+				the fullness of him who fills all in all. Footnotes (1) 1:1 Some manuscripts *saints who are also faithful* (omitting *in Ephesus*) (2) 1:5 Or *before him in love,
+			</v>
+			<marker class="begin-verse" mid="v49001024">
+			</marker>
+			<v n="5">
+				having predestined 
+				<crossref let="v" cid="c49001005.47">
+				</crossref>
+				us* (3), 
+				<crossref let="w" cid="c49001005.48">
+				</crossref>
+				1:9 Or *he lavished upon us in all wisdom and insight, making known* (4) 1:9 Greek *him* (5) 1:14 Or *down payment* (6) 1:14 Or *until God redeems his possession* (7) 1:15 Some manuscripts omit *your love* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v49001006">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

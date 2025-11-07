@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:22:41.487611</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:22:41.487619</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" version="KJV" bookAbbr="lev">
+		<marker class="begin-verse" mid="v03014001"/>
+		<chapter num="14">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c030141.1"/>
+				 LORD spake unto Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v03014002"/>
+			<v n="2">
+				This shall 
+				<crossref let="c" cid="c030142.1"/>
+				 be the law of the leper in the day of his cleansing: He shall be brought unto the priest:
+			</v>
+			<marker class="begin-verse" mid="v03014003"/>
+			<v n="3">
+				And the 
+				<crossref let="d" cid="c030143.1"/>
+				 priest shall go forth out of the camp; and the priest shall look, and, behold, if the plague of leprosy be healed in the leper;
+			</v>
+			<marker class="begin-verse" mid="v03014004"/>
+			<v n="4">
+				Then shall 
+				<crossref let="e" cid="c030144.1"/>
+				 the priest command to take for him that is to be cleansed two birds alive and clean, and cedar wood, and scarlet, and hyssop:
+			</v>
+			<marker class="begin-verse" mid="v03014005"/>
+			<v n="5">
+				And the 
+				<crossref let="f" cid="c030145.1"/>
+				 priest shall command that one of the birds be killed in an earthen vessel over running water:
+			</v>
+			<marker class="begin-verse" mid="v03014006"/>
+			<v n="6">
+				As for 
+				<crossref let="g" cid="c030146.1"/>
+				 the living bird, he shall take it, and the cedar wood, and the scarlet, and the hyssop, and shall dip them and the living bird in the blood of the bird that was killed over the running water:
+			</v>
+			<marker class="begin-verse" mid="v03014007"/>
+			<v n="7">
+				And he 
+				<crossref let="h" cid="c030147.1"/>
+				 shall sprinkle upon him that is to be cleansed from the leprosy seven times, and shall pronounce him clean, and shall let the living bird loose into the open field.
+			</v>
+			<marker class="begin-verse" mid="v03014008"/>
+			<v n="8">
+				And he 
+				<crossref let="i" cid="c030148.1"/>
+				 that is to be cleansed shall wash his clothes, and shave off all his hair, and wash himself in water, that he may be clean: and after that he shall come into the camp, and shall tarry abroad out of his tent seven days.
+			</v>
+			<marker class="begin-verse" mid="v03014009"/>
+			<v n="9">
+				But it 
+				<crossref let="j" cid="c030149.1"/>
+				 shall be on the seventh day, that he shall shave all his hair off his head and his beard and his eyebrows, even all his hair he shall shave off: and he shall wash his clothes, also he shall wash his flesh in water, and he shall be clean.
+			</v>
+			<marker class="begin-verse" mid="v03014010"/>
+			<v n="10">
+				And on 
+				<crossref let="k" cid="c0301410.1"/>
+				 the eighth day he shall take two he lambs without blemish, and one ewe lamb of the first year without blemish, and three tenth deals of fine flour for a meat offering, mingled with oil, and one log of oil.
+			</v>
+			<marker class="begin-verse" mid="v03014011"/>
+			<v n="11">
+				And the 
+				<crossref let="l" cid="c0301411.1"/>
+				 priest that maketh him clean shall present the man that is to be made clean, and those things, before the LORD, at the door of the tabernacle of the congregation:
+			</v>
+			<marker class="begin-verse" mid="v03014012"/>
+			<v n="12">
+				And the 
+				<crossref let="m" cid="c0301412.1"/>
+				 priest shall take one he lamb, and offer him for a trespass offering, and the log of oil, and wave them for a wave offering before the LORD:
+			</v>
+			<marker class="begin-verse" mid="v03014013"/>
+			<v n="13">
+				And he 
+				<crossref let="n" cid="c0301413.1"/>
+				 shall slay the lamb in the place where he shall kill the sin offering and the burnt offering, in the holy place: for as the sin offering is the priest’s, so is the trespass offering: it is most holy:
+			</v>
+			<marker class="begin-verse" mid="v03014014"/>
+			<v n="14">
+				And the 
+				<crossref let="o" cid="c0301414.1"/>
+				 priest shall take some of the blood of the trespass offering, and the priest shall put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:
+			</v>
+			<marker class="begin-verse" mid="v03014015"/>
+			<v n="15">
+				And the 
+				<crossref let="p" cid="c0301415.1"/>
+				 priest shall take some of the log of oil, and pour it into the palm of his own left hand:
+			</v>
+			<marker class="begin-verse" mid="v03014016"/>
+			<v n="16">
+				And the 
+				<crossref let="q" cid="c0301416.1"/>
+				 priest shall dip his right finger in the oil that is in his left hand, and shall sprinkle of the oil with his finger seven times before the LORD:
+			</v>
+			<marker class="begin-verse" mid="v03014017"/>
+			<v n="17">
+				And of 
+				<crossref let="r" cid="c0301417.1"/>
+				 the rest of the oil that is in his hand shall the priest put upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the blood of the trespass offering:
+			</v>
+			<marker class="begin-verse" mid="v03014018"/>
+			<v n="18">
+				And the 
+				<crossref let="s" cid="c0301418.1"/>
+				 remnant of the oil that is in the priest’s hand he shall pour upon the head of him that is to be cleansed: and the priest shall make an atonement for him before the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03014019"/>
+			<v n="19">
+				And the 
+				<crossref let="t" cid="c0301419.1"/>
+				 priest shall offer the sin offering, and make an atonement for him that is to be cleansed from his uncleanness; and afterward he shall kill the burnt offering:
+			</v>
+			<marker class="begin-verse" mid="v03014020"/>
+			<v n="20">
+				And the 
+				<crossref let="u" cid="c0301420.1"/>
+				 priest shall offer the burnt offering and the meat offering upon the altar: and the priest shall make an atonement for him, and he shall be clean.
+			</v>
+			<marker class="begin-verse" mid="v03014021"/>
+			<v n="21">
+				And if 
+				<crossref let="v" cid="c0301421.1"/>
+				 he be poor, and cannot get so much; then he shall take one lamb for a trespass offering to be waved, to make an atonement for him, and one tenth deal of fine flour mingled with oil for a meat offering, and a log of oil;
+			</v>
+			<marker class="begin-verse" mid="v03014022"/>
+			<v n="22">
+				And two 
+				<crossref let="w" cid="c0301422.1"/>
+				 turtledoves, or two young pigeons, such as he is able to get; and the one shall be a sin offering, and the other a burnt offering.
+			</v>
+			<marker class="begin-verse" mid="v03014023"/>
+			<v n="23">
+				And he 
+				<crossref let="x" cid="c0301423.1"/>
+				 shall bring them on the eighth day for his cleansing unto the priest, unto the door of the tabernacle of the congregation, before the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03014024"/>
+			<v n="24">
+				And the 
+				<crossref let="y" cid="c0301424.1"/>
+				 priest shall take the lamb of the trespass offering, and the log of oil, and the priest shall wave them for a wave offering before the LORD:
+			</v>
+			<marker class="begin-verse" mid="v03014025"/>
+			<v n="25">
+				And he 
+				<crossref let="z" cid="c0301425.1"/>
+				 shall kill the lamb of the trespass offering, and the priest shall take some of the blood of the trespass offering, and put it upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot:
+			</v>
+			<marker class="begin-verse" mid="v03014026"/>
+			<v n="26">
+				And the 
+				<crossref let="a" cid="c0301426.1"/>
+				 priest shall pour of the oil into the palm of his own left hand:
+			</v>
+			<marker class="begin-verse" mid="v03014027"/>
+			<v n="27">
+				And the 
+				<crossref let="b" cid="c0301427.1"/>
+				 priest shall sprinkle with his right finger some of the oil that is in his left hand seven times before the LORD:
+			</v>
+			<marker class="begin-verse" mid="v03014028"/>
+			<v n="28">
+				And the 
+				<crossref let="c" cid="c0301428.1"/>
+				 priest shall put of the oil that is in his hand upon the tip of the right ear of him that is to be cleansed, and upon the thumb of his right hand, and upon the great toe of his right foot, upon the place of the blood of the trespass offering:
+			</v>
+			<marker class="begin-verse" mid="v03014029"/>
+			<v n="29">
+				And the 
+				<crossref let="d" cid="c0301429.1"/>
+				 rest of the oil that is in the priest’s hand he shall put upon the head of him that is to be cleansed, to make an atonement for him before the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03014030"/>
+			<v n="30">
+				And he 
+				<crossref let="e" cid="c0301430.1"/>
+				 shall offer the one of the turtledoves, or of the young pigeons, such as he can get;
+			</v>
+			<marker class="begin-verse" mid="v03014031"/>
+			<v n="31">
+				Even such 
+				<crossref let="f" cid="c0301431.1"/>
+				 as he is able to get, the one for a sin offering, and the other for a burnt offering, with the meat offering: and the priest shall make an atonement for him that is to be cleansed before the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03014032"/>
+			<v n="32">
+				This is 
+				<crossref let="g" cid="c0301432.1"/>
+				 the law of him in whom is the plague of leprosy, whose hand is not able to get that which pertaineth to his cleansing.
+			</v>
+			<marker class="begin-verse" mid="v03014033"/>
+			<v n="33">
+				¶ And 
+				<crossref let="h" cid="c0301433.1"/>
+				 the LORD spake unto Moses and unto Aaron, saying,
+			</v>
+			<marker class="begin-verse" mid="v03014034"/>
+			<v n="34">
+				When ye 
+				<crossref let="i" cid="c0301434.1"/>
+				 be come into the land of Canaan, which I give to you for a possession, and I put the plague of leprosy in a house of the land of your possession;
+			</v>
+			<marker class="begin-verse" mid="v03014035"/>
+			<v n="35">
+				And he 
+				<crossref let="j" cid="c0301435.1"/>
+				 that owneth the house shall come and tell the priest, saying, It seemeth to me there is as it were a plague in the house:
+			</v>
+			<marker class="begin-verse" mid="v03014036"/>
+			<v n="36">
+				Then the 
+				<crossref let="k" cid="c0301436.1"/>
+				 priest shall command that they empty the house, before the priest go into it to see the plague, that all that is in the house be not made unclean: and afterward the priest shall go in to see the house:
+			</v>
+			<marker class="begin-verse" mid="v03014037"/>
+			<v n="37">
+				And he 
+				<crossref let="l" cid="c0301437.1"/>
+				 shall look on the plague, and, behold, if the plague be in the walls of the house with hollow strakes, greenish or reddish, which in sight are lower than the wall;
+			</v>
+			<marker class="begin-verse" mid="v03014038"/>
+			<v n="38">
+				Then the 
+				<crossref let="m" cid="c0301438.1"/>
+				 priest shall go out of the house to the door of the house, and shut up the house seven days:
+			</v>
+			<marker class="begin-verse" mid="v03014039"/>
+			<v n="39">
+				And the 
+				<crossref let="n" cid="c0301439.1"/>
+				 priest shall come again the seventh day, and shall look: and, behold, if the plague be spread in the walls of the house;
+			</v>
+			<marker class="begin-verse" mid="v03014040"/>
+			<v n="40">
+				Then the 
+				<crossref let="o" cid="c0301440.1"/>
+				 priest shall command that they take away the stones in which the plague is, and they shall cast them into an unclean place without the city:
+			</v>
+			<marker class="begin-verse" mid="v03014041"/>
+			<v n="41">
+				And he 
+				<crossref let="p" cid="c0301441.1"/>
+				 shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:
+			</v>
+			<marker class="begin-verse" mid="v03014042"/>
+			<v n="42">
+				And they 
+				<crossref let="q" cid="c0301442.1"/>
+				 shall take other stones, and put them in the place of those stones; and he shall take other morter, and shall plaister the house.
+			</v>
+			<marker class="begin-verse" mid="v03014043"/>
+			<v n="43">
+				And if 
+				<crossref let="r" cid="c0301443.1"/>
+				 the plague come again, and break out in the house, after that he hath taken away the stones, and after he hath scraped the house, and after it is plaistered;
+			</v>
+			<marker class="begin-verse" mid="v03014044"/>
+			<v n="44">
+				Then the 
+				<crossref let="s" cid="c0301444.1"/>
+				 priest shall come and look, and, behold, if the plague be spread in the house, it is a fretting leprosy in the house: it is unclean.
+			</v>
+			<marker class="begin-verse" mid="v03014045"/>
+			<v n="45">
+				And he 
+				<crossref let="t" cid="c0301445.1"/>
+				 shall break down the house, the stones of it, and the timber thereof, and all the morter of the house; and he shall carry them forth out of the city into an unclean place.
+			</v>
+			<marker class="begin-verse" mid="v03014046"/>
+			<v n="46">
+				Moreover he 
+				<crossref let="u" cid="c0301446.1"/>
+				 that goeth into the house all the while that it is shut up shall be unclean until the even.
+			</v>
+			<marker class="begin-verse" mid="v03014047"/>
+			<v n="47">
+				And he 
+				<crossref let="v" cid="c0301447.1"/>
+				 that lieth in the house shall wash his clothes; and he that eateth in the house shall wash his clothes.
+			</v>
+			<marker class="begin-verse" mid="v03014048"/>
+			<v n="48">
+				And if 
+				<crossref let="w" cid="c0301448.1"/>
+				 the priest shall come in, and look upon it, and, behold, the plague hath not spread in the house, after the house was plaistered: then the priest shall pronounce the house clean, because the plague is healed.
+			</v>
+			<marker class="begin-verse" mid="v03014049"/>
+			<v n="49">
+				And he 
+				<crossref let="x" cid="c0301449.1"/>
+				 shall take to cleanse the house two birds, and cedar wood, and scarlet, and hyssop:
+			</v>
+			<marker class="begin-verse" mid="v03014050"/>
+			<v n="50">
+				And he 
+				<crossref let="y" cid="c0301450.1"/>
+				 shall kill the one of the birds in an earthen vessel over running water:
+			</v>
+			<marker class="begin-verse" mid="v03014051"/>
+			<v n="51">
+				And he 
+				<crossref let="z" cid="c0301451.1"/>
+				 shall take the cedar wood, and the hyssop, and the scarlet, and the living bird, and dip them in the blood of the slain bird, and in the running water, and sprinkle the house seven times:
+			</v>
+			<marker class="begin-verse" mid="v03014052"/>
+			<v n="52">
+				And he 
+				<crossref let="a" cid="c0301452.1"/>
+				 shall cleanse the house with the blood of the bird, and with the running water, and with the living bird, and with the cedar wood, and with the hyssop, and with the scarlet:
+			</v>
+			<marker class="begin-verse" mid="v03014053"/>
+			<v n="53">
+				But he 
+				<crossref let="b" cid="c0301453.1"/>
+				 shall let go the living bird out of the city into the open fields, and make an atonement for the house: and it shall be clean.
+			</v>
+			<marker class="begin-verse" mid="v03014054"/>
+			<v n="54">
+				This is 
+				<crossref let="c" cid="c0301454.1"/>
+				 the law for all manner of plague of leprosy, and scall,
+			</v>
+			<marker class="begin-verse" mid="v03014055"/>
+			<v n="55">
+				And for 
+				<crossref let="d" cid="c0301455.1"/>
+				 the leprosy of a garment, and of a house,
+			</v>
+			<marker class="begin-verse" mid="v03014056"/>
+			<v n="56">
+				And for 
+				<crossref let="e" cid="c0301456.1"/>
+				 a rising, and for a scab, and for a bright spot:
+			</v>
+			<marker class="begin-verse" mid="v03014057"/>
+			<v n="57">
+				To teach 
+				<crossref let="f" cid="c0301457.1"/>
+				 when it is unclean, and when it is clean: this is the law of leprosy.
+			</v>
+			<marker class="begin-verse" mid="v03014058"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

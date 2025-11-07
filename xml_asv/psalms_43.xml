@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:30:44.235948</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:30:44.235959</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19043001"/>
+		<chapter num="43">
+			<begin-paragraph/>
+			<v n="1">
+				Judge me, 
+				<crossref let="b" cid="c190431.1"/>
+				 O God, and plead my cause against an ungodly nation:Oh deliver me from the deceitful and unjust man.
+			</v>
+			<marker class="begin-verse" mid="v19043002"/>
+			<v n="2">
+				For thou 
+				<crossref let="c" cid="c190432.1"/>
+				 art the God of my strength; why hast thou cast me off?Why go I mourning because of the oppression of the enemy?
+			</v>
+			<marker class="begin-verse" mid="v19043003"/>
+			<v n="3">
+				Oh send 
+				<crossref let="d" cid="c190433.1"/>
+				 out thy light and thy truth; let them lead me:Let them bring me unto thy holy hill,And to thy tabernacles.
+			</v>
+			<marker class="begin-verse" mid="v19043004"/>
+			<v n="4">
+				Then will 
+				<crossref let="e" cid="c190434.1"/>
+				 I go unto the altar of God,Unto God my exceeding joy;And upon the harp will I praise thee, O God, my God.
+			</v>
+			<marker class="begin-verse" mid="v19043005"/>
+			<v n="5">
+				Why art 
+				<crossref let="f" cid="c190435.1"/>
+				 thou cast down, O my soul?And why art thou disquieted within me?Hope thou in God; for I shall yet praise him,Who is the help of my countenance, and my God.
+			</v>
+			<marker class="begin-verse" mid="v19043006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

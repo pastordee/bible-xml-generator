@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:51:08.131270</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:51:08.131291</next_refresh_due>
+	</generation_info>
+	<book title="Nehemiah" num="16" testament="old" version="KJV" bookAbbr="neh">
+		<marker class="begin-verse" mid="v16011001"/>
+		<chapter num="11">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c160111.1"/>
+				 rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.
+			</v>
+			<marker class="begin-verse" mid="v16011002"/>
+			<v n="2">
+				And the 
+				<crossref let="c" cid="c160112.1"/>
+				 people blessed all the men, that willingly offered themselves to dwell at Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v16011003"/>
+			<v n="3">
+				¶ Now 
+				<crossref let="d" cid="c160113.1"/>
+				 these are the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, to wit, Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon’s servants.
+			</v>
+			<marker class="begin-verse" mid="v16011004"/>
+			<v n="4">
+				And at 
+				<crossref let="e" cid="c160114.1"/>
+				 Jerusalem dwelt certain of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;
+			</v>
+			<marker class="begin-verse" mid="v16011005"/>
+			<v n="5">
+				And Maaseiah 
+				<crossref let="f" cid="c160115.1"/>
+				 the son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.
+			</v>
+			<marker class="begin-verse" mid="v16011006"/>
+			<v n="6">
+				All the 
+				<crossref let="g" cid="c160116.1"/>
+				 sons of Perez that dwelt at Jerusalem were four hundred threescore and eight valiant men.
+			</v>
+			<marker class="begin-verse" mid="v16011007"/>
+			<v n="7">
+				And these 
+				<crossref let="h" cid="c160117.1"/>
+				 are the sons of Benjamin; Sallu the son of Meshullam, the son of Joed, the son of Pedaiah, the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jesaiah.
+			</v>
+			<marker class="begin-verse" mid="v16011008"/>
+			<v n="8">
+				And after 
+				<crossref let="i" cid="c160118.1"/>
+				 him Gabbai, Sallai, nine hundred twenty and eight.
+			</v>
+			<marker class="begin-verse" mid="v16011009"/>
+			<v n="9">
+				And Joel 
+				<crossref let="j" cid="c160119.1"/>
+				 the son of Zichri was their overseer: and Judah the son of Senuah was second over the city.
+			</v>
+			<marker class="begin-verse" mid="v16011010"/>
+			<v n="10">
+				Of the 
+				<crossref let="k" cid="c1601110.1"/>
+				 priests: Jedaiah the son of Joiarib, Jachin.
+			</v>
+			<marker class="begin-verse" mid="v16011011"/>
+			<v n="11">
+				Seraiah the 
+				<crossref let="l" cid="c1601111.1"/>
+				 son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, was the ruler of the house of God.
+			</v>
+			<marker class="begin-verse" mid="v16011012"/>
+			<v n="12">
+				And their 
+				<crossref let="m" cid="c1601112.1"/>
+				 brethren that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchiah,
+			</v>
+			<marker class="begin-verse" mid="v16011013"/>
+			<v n="13">
+				And his 
+				<crossref let="n" cid="c1601113.1"/>
+				 brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,
+			</v>
+			<marker class="begin-verse" mid="v16011014"/>
+			<v n="14">
+				And their 
+				<crossref let="o" cid="c1601114.1"/>
+				 brethren, mighty men of valour, an hundred twenty and eight: and their overseer was Zabdiel, the son of one of the great men.
+			</v>
+			<marker class="begin-verse" mid="v16011015"/>
+			<v n="15">
+				Also of 
+				<crossref let="p" cid="c1601115.1"/>
+				 the Levites: Shemaiah the son of Hashub, the son of Azrikam, the son of Hashabiah, the son of Bunni;
+			</v>
+			<marker class="begin-verse" mid="v16011016"/>
+			<v n="16">
+				And Shabbethai 
+				<crossref let="q" cid="c1601116.1"/>
+				 and Jozabad, of the chief of the Levites, had the oversight of the outward business of the house of God.
+			</v>
+			<marker class="begin-verse" mid="v16011017"/>
+			<v n="17">
+				And Mattaniah 
+				<crossref let="r" cid="c1601117.1"/>
+				 the son of Micha, the son of Zabdi, the son of Asaph, was the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun.
+			</v>
+			<marker class="begin-verse" mid="v16011018"/>
+			<v n="18">
+				All the 
+				<crossref let="s" cid="c1601118.1"/>
+				 Levites in the holy city were two hundred fourscore and four.
+			</v>
+			<marker class="begin-verse" mid="v16011019"/>
+			<v n="19">
+				Moreover the 
+				<crossref let="t" cid="c1601119.1"/>
+				 porters, Akkub, Talmon, and their brethren that kept the gates, were an hundred seventy and two.
+			</v>
+			<marker class="begin-verse" mid="v16011020"/>
+			<v n="20">
+				¶ And 
+				<crossref let="u" cid="c1601120.1"/>
+				 the residue of Israel, of the priests, and the Levites, were in all the cities of Judah, every one in his inheritance.
+			</v>
+			<marker class="begin-verse" mid="v16011021"/>
+			<v n="21">
+				But the 
+				<crossref let="v" cid="c1601121.1"/>
+				 Nethinims dwelt in Ophel: and Ziha and Gispa were over the Nethinims.
+			</v>
+			<marker class="begin-verse" mid="v16011022"/>
+			<v n="22">
+				The overseer 
+				<crossref let="w" cid="c1601122.1"/>
+				 also of the Levites at Jerusalem was Uzzi the son of Bani, the son of Hashabiah, the son of Mattaniah, the son of Micha. Of the sons of Asaph, the singers were over the business of the house of God.
+			</v>
+			<marker class="begin-verse" mid="v16011023"/>
+			<v n="23">
+				For it 
+				<crossref let="x" cid="c1601123.1"/>
+				 was the king’s commandment concerning them, that a certain portion should be for the singers, due for every day.
+			</v>
+			<marker class="begin-verse" mid="v16011024"/>
+			<v n="24">
+				And Pethahiah 
+				<crossref let="y" cid="c1601124.1"/>
+				 the son of Meshezabeel, of the children of Zerah the son of Judah, was at the king’s hand in all matters concerning the people.
+			</v>
+			<marker class="begin-verse" mid="v16011025"/>
+			<v n="25">
+				And for 
+				<crossref let="z" cid="c1601125.1"/>
+				 the villages, with their fields, some of the children of Judah dwelt at Kirjath-arba, and in the villages thereof, and at Dibon, and in the villages thereof, and at Jekabzeel, and in the villages thereof,
+			</v>
+			<marker class="begin-verse" mid="v16011026"/>
+			<v n="26">
+				And at 
+				<crossref let="a" cid="c1601126.1"/>
+				 Jeshua, and at Moladah, and at Beth-phelet,
+			</v>
+			<marker class="begin-verse" mid="v16011027"/>
+			<v n="27">
+				And at 
+				<crossref let="b" cid="c1601127.1"/>
+				 Hazar-shual, and at Beer-sheba, and in the villages thereof,
+			</v>
+			<marker class="begin-verse" mid="v16011028"/>
+			<v n="28">
+				And at 
+				<crossref let="c" cid="c1601128.1"/>
+				 Ziklag, and at Mekonah, and in the villages thereof,
+			</v>
+			<marker class="begin-verse" mid="v16011029"/>
+			<v n="29">
+				And at 
+				<crossref let="d" cid="c1601129.1"/>
+				 En-rimmon, and at Zareah, and at Jarmuth,
+			</v>
+			<marker class="begin-verse" mid="v16011030"/>
+			<v n="30">
+				Zanoah, Adullam, 
+				<crossref let="e" cid="c1601130.1"/>
+				 and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beer-sheba unto the valley of Hinnom.
+			</v>
+			<marker class="begin-verse" mid="v16011031"/>
+			<v n="31">
+				The children 
+				<crossref let="f" cid="c1601131.1"/>
+				 also of Benjamin from Geba dwelt at Michmash, and Aija, and Beth-el, and in their villages,
+			</v>
+			<marker class="begin-verse" mid="v16011032"/>
+			<v n="32">
+				And at 
+				<crossref let="g" cid="c1601132.1"/>
+				 Anathoth, Nob, Ananiah,
+			</v>
+			<marker class="begin-verse" mid="v16011033"/>
+			<v n="33">Hazor, Ramah, Gittaim,</v>
+			<marker class="begin-verse" mid="v16011034"/>
+			<v n="34">Hadid, Zeboim, Neballat,</v>
+			<marker class="begin-verse" mid="v16011035"/>
+			<v n="35">
+				Lod, and 
+				<crossref let="j" cid="c1601135.1"/>
+				 Ono, the valley of craftsmen.
+			</v>
+			<marker class="begin-verse" mid="v16011036"/>
+			<v n="36">
+				And of 
+				<crossref let="k" cid="c1601136.1"/>
+				 the Levites were divisions in Judah, and in Benjamin.
+			</v>
+			<marker class="begin-verse" mid="v16011037"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

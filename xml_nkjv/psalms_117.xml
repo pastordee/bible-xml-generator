@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:22:33.178514</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:22:33.178547</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19117001"/>
+		<chapter num="117">
+			<heading>Let All Peoples Praise the Lord</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c191171.1"/>
+				 Lord, all you Gentiles!Laud Him, all you peoples!
+			</v>
+			<marker class="begin-verse" mid="v19117002"/>
+			<v n="2">
+				For His 
+				<crossref let="c" cid="c191172.1"/>
+				 merciful kindness is great toward us,And the truth of the Lord endures forever.Praise the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19117003"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

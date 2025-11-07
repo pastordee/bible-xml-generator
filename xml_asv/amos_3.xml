@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:02:45.835311</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:02:45.835321</next_refresh_due>
+	</generation_info>
+	<book title="Amos" num="30" testament="old" version="ASV" bookAbbr="amo">
+		<marker class="begin-verse" mid="v30003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				Hear this 
+				<crossref let="b" cid="c300031.1"/>
+				 word that Jehovah hath spoken against you, O children of Israel, against the whole family which I brought up out of the land of Egypt, saying,
+			</v>
+			<marker class="begin-verse" mid="v30003002"/>
+			<v n="2">
+				You only 
+				<crossref let="c" cid="c300032.1"/>
+				 have I known of all the families of the earth: therefore I will visit upon you all your iniquities.
+			</v>
+			<marker class="begin-verse" mid="v30003003"/>
+			<v n="3">
+				Shall two 
+				<crossref let="d" cid="c300033.1"/>
+				 walk together, except they have agreed?
+			</v>
+			<marker class="begin-verse" mid="v30003004"/>
+			<v n="4">
+				Will a 
+				<crossref let="e" cid="c300034.1"/>
+				 lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?
+			</v>
+			<marker class="begin-verse" mid="v30003005"/>
+			<v n="5">
+				Can a 
+				<crossref let="f" cid="c300035.1"/>
+				 bird fall in a snare upon the earth, where no gin is set for him? shall a snare spring up from the ground, and have taken nothing at all?
+			</v>
+			<marker class="begin-verse" mid="v30003006"/>
+			<v n="6">
+				Shall the 
+				<crossref let="g" cid="c300036.1"/>
+				 trumpet be blown in a city, and the people not be afraid? shall evil befall a city, and Jehovah hath not done it?
+			</v>
+			<marker class="begin-verse" mid="v30003007"/>
+			<v n="7">
+				Surely the 
+				<crossref let="h" cid="c300037.1"/>
+				 Lord Jehovah will do nothing, except he reveal his secret unto his servants the prophets.
+			</v>
+			<marker class="begin-verse" mid="v30003008"/>
+			<v n="8">
+				The lion 
+				<crossref let="i" cid="c300038.1"/>
+				 hath roared; who will not fear? The Lord Jehovah hath spoken; who can but prophesy?
+			</v>
+			<marker class="begin-verse" mid="v30003009"/>
+			<v n="9">
+				Publish ye 
+				<crossref let="j" cid="c300039.1"/>
+				 in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold what great tumults are therein, and what oppressions in the midst thereof.
+			</v>
+			<marker class="begin-verse" mid="v30003010"/>
+			<v n="10">
+				For they 
+				<crossref let="k" cid="c3000310.1"/>
+				 know not to do right, saith Jehovah, who store up violence and robbery in their palaces.
+			</v>
+			<marker class="begin-verse" mid="v30003011"/>
+			<v n="11">
+				Therefore thus 
+				<crossref let="l" cid="c3000311.1"/>
+				 saith the Lord Jehovah: An adversary there shall be, even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be plundered.
+			</v>
+			<marker class="begin-verse" mid="v30003012"/>
+			<v n="12">
+				Thus saith 
+				<crossref let="m" cid="c3000312.1"/>
+				 Jehovah: As the shepherd rescueth out of the mouth of the lion two legs, or a piece of an ear, so shall the children of Israel be rescued that sit in Samaria in the corner of a couch, and on the silken cushions of a bed.
+			</v>
+			<marker class="begin-verse" mid="v30003013"/>
+			<v n="13">
+				Hear ye, 
+				<crossref let="n" cid="c3000313.1"/>
+				 and testify against the house of Jacob, saith the Lord Jehovah, the God of hosts.
+			</v>
+			<marker class="begin-verse" mid="v30003014"/>
+			<v n="14">
+				For in 
+				<crossref let="o" cid="c3000314.1"/>
+				 the day that I shall visit the transgressions of Israel upon him, I will also visit the altars of Beth-el; and the horns of the altar shall be cut off, and fall to the ground.
+			</v>
+			<marker class="begin-verse" mid="v30003015"/>
+			<v n="15">
+				And I 
+				<crossref let="p" cid="c3000315.1"/>
+				 will smite the winter-house with the summer-house; and the houses of ivory shall perish, and the great houses shall have an end, saith Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v30003016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

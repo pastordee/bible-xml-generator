@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:53:02.954588</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:53:02.954600</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19100001"/>
+		<chapter num="100">
+			<heading>A psalm of thanksgiving.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Shout with 
+				<crossref let="b" cid="c191001.1"/>
+				 joy to the Lord, all the earth!
+			</v>
+			<marker class="begin-verse" mid="v19100002"/>
+			<v n="2">
+				Worship the 
+				<crossref let="c" cid="c191002.1"/>
+				 Lord with gladness.Come before him, singing with joy.
+			</v>
+			<marker class="begin-verse" mid="v19100003"/>
+			<v n="3">
+				Acknowledge that 
+				<crossref let="d" cid="c191003.1"/>
+				 the Lord is God!He made us, and we are his.We are his people, the sheep of his pasture.
+			</v>
+			<marker class="begin-verse" mid="v19100004"/>
+			<v n="4">
+				Enter his 
+				<crossref let="e" cid="c191004.1"/>
+				 gates with thanksgiving;go into his courts with praise.Give thanks to him and praise his name.
+			</v>
+			<marker class="begin-verse" mid="v19100005"/>
+			<v n="5">
+				For the 
+				<crossref let="f" cid="c191005.1"/>
+				 Lord is good.His unfailing love continues forever,and his faithfulness continues to each generation.
+			</v>
+			<marker class="begin-verse" mid="v19100006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

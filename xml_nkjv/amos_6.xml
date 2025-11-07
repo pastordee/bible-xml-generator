@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:48:26.378977</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:48:26.379015</next_refresh_due>
+	</generation_info>
+	<book title="Amos" num="30" testament="old" version="NKJV" bookAbbr="amo">
+		<marker class="begin-verse" mid="v30006001"/>
+		<chapter num="6">
+			<heading>Warnings to Zion and Samaria</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Woe to 
+				<crossref let="b" cid="c300061.1"/>
+				 you who are at ease in Zion,And trust in Mount Samaria,Notable persons in the chief nation,To whom the house of Israel comes!
+			</v>
+			<marker class="begin-verse" mid="v30006002"/>
+			<v n="2">
+				Go over 
+				<crossref let="c" cid="c300062.1"/>
+				 to Calneh and see;And from there go to Hamath the great;Then go down to Gath of the Philistines.Are you better than these kingdoms?Or is their territory greater than your territory?
+			</v>
+			<marker class="begin-verse" mid="v30006003"/>
+			<v n="3">
+				Woe to 
+				<crossref let="d" cid="c300063.1"/>
+				 you who put far off the day of doom,Who cause the seat of violence to come near;
+			</v>
+			<marker class="begin-verse" mid="v30006004"/>
+			<v n="4">
+				Who lie 
+				<crossref let="e" cid="c300064.1"/>
+				 on beds of ivory,Stretch out on your couches,Eat lambs from the flockAnd calves from the midst of the stall;
+			</v>
+			<marker class="begin-verse" mid="v30006005"/>
+			<v n="5">
+				Who sing 
+				<crossref let="f" cid="c300065.1"/>
+				 idly to the sound of stringed instruments,And invent for yourselves musical instruments like David;
+			</v>
+			<marker class="begin-verse" mid="v30006006"/>
+			<v n="6">
+				Who drink 
+				<crossref let="g" cid="c300066.1"/>
+				 wine from bowls,And anoint yourselves with the best ointments,But are not grieved for the affliction of Joseph.
+			</v>
+			<marker class="begin-verse" mid="v30006007"/>
+			<v n="7">
+				Therefore they 
+				<crossref let="h" cid="c300067.1"/>
+				 shall now go captive as the first of the captives,And those who recline at banquets shall be removed.
+			</v>
+			<marker class="begin-verse" mid="v30006008"/>
+			<v n="8">
+				The Lord 
+				<crossref let="i" cid="c300068.1"/>
+				 God has sworn by Himself,The Lord God of hosts says:“I abhor the pride of Jacob,And hate his palaces;Therefore I will deliver up the cityAnd all that is in it.”
+			</v>
+			<marker class="begin-verse" mid="v30006009"/>
+			<v n="9">
+				Then it 
+				<crossref let="j" cid="c300069.1"/>
+				 shall come to pass, that if ten men remain in one house, they shall die.
+			</v>
+			<marker class="begin-verse" mid="v30006010"/>
+			<v n="10">
+				And when 
+				<crossref let="k" cid="c3000610.1"/>
+				 a relative of the dead, with one who will burn the bodies, picks up the bodies to take them out of the house, he will say to one inside the house, “Are there any more with you?”Then someone will say, “None.”And he will say, “Hold your tongue! For we dare not mention the name of the Lord.”
+			</v>
+			<marker class="begin-verse" mid="v30006011"/>
+			<v n="11">
+				For behold, 
+				<crossref let="l" cid="c3000611.1"/>
+				 the Lord gives a command:He will break the great house into bits,And the little house into pieces.
+			</v>
+			<marker class="begin-verse" mid="v30006012"/>
+			<v n="12">
+				Do horses 
+				<crossref let="m" cid="c3000612.1"/>
+				 run on rocks?Does one plow there with oxen?Yet you have turned justice into gall,And the fruit of righteousness into wormwood,
+			</v>
+			<marker class="begin-verse" mid="v30006013"/>
+			<v n="13">
+				You who 
+				<crossref let="n" cid="c3000613.1"/>
+				 rejoice over Lo Debar,Who say, “Have we not taken Karnaim for ourselvesBy our own strength?”
+			</v>
+			<marker class="begin-verse" mid="v30006014"/>
+			<v n="14">
+				“But, behold, 
+				<crossref let="o" cid="c3000614.1"/>
+				 I will raise up a nation against you,O house of Israel,”Says the Lord God of hosts;“And they will afflict you from the entrance of HamathTo the Valley of the Arabah.”
+			</v>
+			<marker class="begin-verse" mid="v30006015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:51:44.935471</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:51:44.935492</next_refresh_due>
+	</generation_info>
+	<book title="Esther" num="17" testament="old" version="KJV" bookAbbr="est">
+		<marker class="begin-verse" mid="v17005001"/>
+		<chapter num="5">
+			<begin-paragraph/>
+			<v n="1">
+				Now it 
+				<crossref let="b" cid="c170051.1"/>
+				 came to pass on the third day, that Esther put on her royal apparel, and stood in the inner court of the king’s house, over against the king’s house: and the king sat upon his royal throne in the royal house, over against the gate of the house.
+			</v>
+			<marker class="begin-verse" mid="v17005002"/>
+			<v n="2">
+				And it 
+				<crossref let="c" cid="c170052.1"/>
+				 was so, when the king saw Esther the queen standing in the court, that she obtained favour in his sight: and the king held out to Esther the golden sceptre that was in his hand. So Esther drew near, and touched the top of the sceptre.
+			</v>
+			<marker class="begin-verse" mid="v17005003"/>
+			<v n="3">
+				Then said 
+				<crossref let="d" cid="c170053.1"/>
+				 the king unto her, What wilt thou, queen Esther? and what is thy request? it shall be even given thee to the half of the kingdom.
+			</v>
+			<marker class="begin-verse" mid="v17005004"/>
+			<v n="4">
+				And Esther 
+				<crossref let="e" cid="c170054.1"/>
+				 answered, If it seem good unto the king, let the king and Haman come this day unto the banquet that I have prepared for him.
+			</v>
+			<marker class="begin-verse" mid="v17005005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c170055.1"/>
+				 king said, Cause Haman to make haste, that he may do as Esther hath said. So the king and Haman came to the banquet that Esther had prepared.
+			</v>
+			<marker class="begin-verse" mid="v17005006"/>
+			<v n="6">
+				¶ And 
+				<crossref let="g" cid="c170056.1"/>
+				 the king said unto Esther at the banquet of wine, What is thy petition? and it shall be granted thee: and what is thy request? even to the half of the kingdom it shall be performed.
+			</v>
+			<marker class="begin-verse" mid="v17005007"/>
+			<v n="7">
+				Then answered 
+				<crossref let="h" cid="c170057.1"/>
+				 Esther, and said, My petition and my request is;
+			</v>
+			<marker class="begin-verse" mid="v17005008"/>
+			<v n="8">
+				If I 
+				<crossref let="i" cid="c170058.1"/>
+				 have found favour in the sight of the king, and if it please the king to grant my petition, and to perform my request, let the king and Haman come to the banquet that I shall prepare for them, and I will do to morrow as the king hath said.
+			</v>
+			<marker class="begin-verse" mid="v17005009"/>
+			<v n="9">
+				¶ Then 
+				<crossref let="j" cid="c170059.1"/>
+				 went Haman forth that day joyful and with a glad heart: but when Haman saw Mordecai in the king’s gate, that he stood not up, nor moved for him, he was full of indignation against Mordecai.
+			</v>
+			<marker class="begin-verse" mid="v17005010"/>
+			<v n="10">
+				Nevertheless Haman 
+				<crossref let="k" cid="c1700510.1"/>
+				 refrained himself: and when he came home, he sent and called for his friends, and Zeresh his wife.
+			</v>
+			<marker class="begin-verse" mid="v17005011"/>
+			<v n="11">
+				And Haman 
+				<crossref let="l" cid="c1700511.1"/>
+				 told them of the glory of his riches, and the multitude of his children, and all the things wherein the king had promoted him, and how he had advanced him above the princes and servants of the king.
+			</v>
+			<marker class="begin-verse" mid="v17005012"/>
+			<v n="12">
+				Haman said 
+				<crossref let="m" cid="c1700512.1"/>
+				 moreover, Yea, Esther the queen did let no man come in with the king unto the banquet that she had prepared but myself; and to morrow am I invited unto her also with the king.
+			</v>
+			<marker class="begin-verse" mid="v17005013"/>
+			<v n="13">
+				Yet all 
+				<crossref let="n" cid="c1700513.1"/>
+				 this availeth me nothing, so long as I see Mordecai the Jew sitting at the king’s gate.
+			</v>
+			<marker class="begin-verse" mid="v17005014"/>
+			<v n="14">
+				¶ Then 
+				<crossref let="o" cid="c1700514.1"/>
+				 said Zeresh his wife and all his friends unto him, Let a gallows be made of fifty cubits high, and to morrow speak thou unto the king that Mordecai may be hanged thereon: then go thou in merrily with the king unto the banquet. And the thing pleased Haman; and he caused the gallows to be made.
+			</v>
+			<marker class="begin-verse" mid="v17005015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

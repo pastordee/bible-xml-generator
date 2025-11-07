@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:30:07.068254</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:30:07.068312</next_refresh_due>
+	</generation_info>
+	<book title="2 Kings" num="12" testament="old" bookAbbr="2ki" version="ESV">
+		<marker class="begin-verse" mid="v12001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				2 Kings 1
+			</heading>
+			<heading>
+				Elijah Denounces Ahaziah
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				After the 
+				<crossref let="b" cid="c12001001.1">
+				</crossref>
+				death of, 
+				<crossref let="c" cid="c12001001.2">
+				</crossref>
+				Ahab, Moab rebelled against Israel.
+			</v>
+			<marker class="begin-verse" mid="v12001002">
+			</marker>
+			<v n="2">
+				Now Ahaziah 
+				<crossref let="d" cid="c12001002.3">
+				</crossref>
+				fell through, 
+				<crossref let="e" cid="c12001002.4">
+				</crossref>
+				the lattice in his upper chamber in Samaria, and lay sick; so he sent messengers, telling them, “Go, inquire of Baal-zebub, the god of Ekron, whether I shall recover from this sickness.”
+			</v>
+			<marker class="begin-verse" mid="v12001003">
+			</marker>
+			<v n="3">
+				But the 
+				<crossref let="f" cid="c12001003.5">
+				</crossref>
+				angel of, 
+				<crossref let="g" cid="c12001003.6">
+				</crossref>
+				the LORD said to Elijah the Tishbite, “Arise, go up to meet the messengers of the king of Samaria, and say to them, ‘Is it because there is no God in Israel that you are going to inquire of Baal-zebub, the god of Ekron?
+				<note nid="n12001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v12001004">
+			</marker>
+			<v n="4">
+				Now therefore 
+				<crossref let="h" cid="c12001004.7">
+				</crossref>
+				thus says, 
+				<crossref let="i" cid="c12001004.8">
+				</crossref>
+				the LORD, You shall not come down from the bed to which you have gone up, but you shall surely die.’” So Elijah went.
+			</v>
+			<marker class="begin-verse" mid="v12001005">
+			</marker>
+			<v n="5" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					The messengers 
+					<crossref let="j" cid="c12001005.9">
+				</crossref>
+					returned to, 
+					<crossref let="k" cid="c12001005.10">
+				</crossref>
+				the king, and he said to them, “Why have you returned?”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v12001006">
+			</marker>
+			<v n="6">
+				And they 
+				<crossref let="l" cid="c12001006.11">
+				</crossref>
+				said to, 
+				<crossref let="m" cid="c12001006.12">
+				</crossref>
+				him, “There came a man to meet us, and said to us, ‘Go back to the king who sent you, and say to him, Thus says the LORD, Is it because there is no God in Israel that you are sending to inquire of Baal-zebub, the god of Ekron? Therefore you shall not come down from the bed to which you have gone up, but you shall surely die.’”
+				<note nid="n12001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v12001007">
+			</marker>
+			<v n="7" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					He said 
+					<crossref let="n" cid="c12001007.13">
+				</crossref>
+					to them,, 
+					<crossref let="o" cid="c12001007.14">
+				</crossref>
+				“What kind of man was he who came to meet you and told you these things?”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v12001008">
+			</marker>
+			<v n="8" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					They answered 
+					<crossref let="p" cid="c12001008.15">
+				</crossref>
+					him, “He, 
+					<crossref let="q" cid="c12001008.16">
+				</crossref>
+				wore a garment of hair, with a belt of leather about his waist.” And he said, “It is Elijah the Tishbite.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v12001009">
+			</marker>
+			<v n="9">
+				Then the 
+				<crossref let="r" cid="c12001009.17">
+				</crossref>
+				king sent, 
+				<crossref let="s" cid="c12001009.18">
+				</crossref>
+				to him a captain of fifty men with his fifty. He went up to Elijah, who was sitting on the top of a hill, and said to him, “O man of God, the king says, ‘Come down.’”
+				<note nid="n12001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v12001010">
+			</marker>
+			<v n="10">
+				But Elijah 
+				<crossref let="t" cid="c12001010.19">
+				</crossref>
+				answered the, 
+				<crossref let="u" cid="c12001010.20">
+				</crossref>
+				captain of fifty, “If I am a man of God, let fire come down from heaven and consume you and your fifty.” Then fire came down from heaven and consumed him and his fifty.
+			</v>
+			<marker class="begin-verse" mid="v12001011">
+			</marker>
+			<v n="11">
+				Again the 
+				<crossref let="v" cid="c12001011.21">
+				</crossref>
+				king sent, 
+				<crossref let="w" cid="c12001011.22">
+				</crossref>
+				to him another captain of fifty men with his fifty. And he answered and said to him, “O man of God, this is the king’s order, ‘Come down quickly!’”
+			</v>
+			<marker class="begin-verse" mid="v12001012">
+			</marker>
+			<v n="12">
+				But Elijah 
+				<crossref let="x" cid="c12001012.23">
+				</crossref>
+				answered them,, 
+				<crossref let="y" cid="c12001012.24">
+				</crossref>
+				“If I am a man of God, let fire come down from heaven and consume you and your fifty.” Then the fire of God came down from heaven and consumed him and his fifty.
+				<note nid="n12001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v12001013">
+			</marker>
+			<v n="13">
+				Again the 
+				<crossref let="z" cid="c12001013.25">
+				</crossref>
+				king sent, 
+				<crossref let="a" cid="c12001013.26">
+				</crossref>
+				the captain of a third fifty with his fifty. And the third captain of fifty went up and came and fell on his knees before Elijah and entreated him, “O man of God, please let my life, and the life of these fifty servants of yours, be precious in your sight.
+			</v>
+			<marker class="begin-verse" mid="v12001014">
+			</marker>
+			<v n="14">
+				Behold, fire 
+				<crossref let="b" cid="c12001014.27">
+				</crossref>
+				came down, 
+				<crossref let="c" cid="c12001014.28">
+				</crossref>
+				from heaven and consumed the two former captains of fifty men with their fifties, but now let my life be precious in your sight.”
+			</v>
+			<marker class="begin-verse" mid="v12001015">
+			</marker>
+			<v n="15">
+				Then the 
+				<crossref let="d" cid="c12001015.29">
+				</crossref>
+				angel of, 
+				<crossref let="e" cid="c12001015.30">
+				</crossref>
+				the LORD said to Elijah, “Go down with him; do not be afraid of him.” So he arose and went down with him to the king
+				<note nid="n12001015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v12001016">
+			</marker>
+			<v n="16">
+				and said 
+				<crossref let="f" cid="c12001016.31">
+				</crossref>
+				to him,, 
+				<crossref let="g" cid="c12001016.32">
+				</crossref>
+				“Thus says the LORD, ‘Because you have sent messengers to inquire of Baal-zebub, the god of Ekron—is it because there is no God in Israel to inquire of his word?—therefore you shall not come down from the bed to which you have gone up, but you shall surely die.’”
+			</v>
+			<marker class="begin-verse" mid="v12001017">
+			</marker>
+			<v n="17">
+				So he 
+				<crossref let="h" cid="c12001017.33">
+				</crossref>
+				died according, 
+				<crossref let="i" cid="c12001017.34">
+				</crossref>
+				to the word of the LORD that Elijah had spoken. Jehoram became king in his place in the second year of Jehoram the son of Jehoshaphat, king of Judah, because Ahaziah had no son.
+			</v>
+			<marker class="begin-verse" mid="v12001018">
+			</marker>
+			<v n="18">
+				Now the 
+				<crossref let="j" cid="c12001018.35">
+				</crossref>
+				rest of, 
+				<crossref let="k" cid="c12001018.36">
+				</crossref>
+				the acts of Ahaziah that he did, are they not written in the Book of the Chronicles of the Kings of Israel? (ESV)
+				<note nid="n12001018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v12001019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

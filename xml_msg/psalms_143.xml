@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:19:06.895380</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:19:06.895397</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19143001"/>
+		<chapter num="143">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Lord, please 
+				<crossref let="b" cid="c191431.1"/>
+				 hear my prayer. Because you are faithful, please listen to my appeal for mercy. Answer me because you do what is right!
+			</v>
+			<marker class="begin-verse" mid="v19143002"/>
+			<v n="2">
+				Please don't 
+				<crossref let="c" cid="c191432.1"/>
+				 place me, your servant, on trial, because nobody is innocent in your sight.
+			</v>
+			<marker class="begin-verse" mid="v19143003"/>
+			<v n="3">
+				The enemy 
+				<crossref let="d" cid="c191433.1"/>
+				 has chased me down. He crushes me to the ground. He makes me live in darkness like those who died a long time ago.
+			</v>
+			<marker class="begin-verse" mid="v19143004"/>
+			<v n="4">
+				I sense 
+				<crossref let="e" cid="c191434.1"/>
+				 myself fading away inside; I am overwhelmed by a sense of desolation.
+			</v>
+			<marker class="begin-verse" mid="v19143005"/>
+			<v n="5">
+				I think 
+				<crossref let="f" cid="c191435.1"/>
+				 of days long ago, and as I meditate I talk to myself about all you have done, I reflect on what you have accomplished.
+			</v>
+			<marker class="begin-verse" mid="v19143006"/>
+			<v n="6">
+				I stretch 
+				<crossref let="g" cid="c191436.1"/>
+				 out my hands to you, thirsting for you like dried-out land. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19143007"/>
+			<v n="7">
+				Please answer 
+				<crossref let="h" cid="c191437.1"/>
+				 me quickly, Lord! I'm dying! Don't turn away otherwise I'll be just like those who are going down into the grave.
+			</v>
+			<marker class="begin-verse" mid="v19143008"/>
+			<v n="8">
+				Tell me 
+				<crossref let="i" cid="c191438.1"/>
+				 every morning about your trustworthy love, because I put my confidence in you. Show me the way I should go, because I dedicate myself to you.
+			</v>
+			<marker class="begin-verse" mid="v19143009"/>
+			<v n="9">
+				Save me 
+				<crossref let="j" cid="c191439.1"/>
+				 from those who hate me, Lord—I run to you for protection.
+			</v>
+			<marker class="begin-verse" mid="v19143010"/>
+			<v n="10">
+				Teach me 
+				<crossref let="k" cid="c1914310.1"/>
+				 your will for you are my God. May your spirit of goodness lead me and make my way smooth.
+			</v>
+			<marker class="begin-verse" mid="v19143011"/>
+			<v n="11">
+				Because of 
+				<crossref let="l" cid="c1914311.1"/>
+				 the kind of person you are, let me go on living. Because you always do what's right, get me out of the trouble I'm in.
+			</v>
+			<marker class="begin-verse" mid="v19143012"/>
+			<v n="12">
+				In your 
+				<crossref let="m" cid="c1914312.1"/>
+				 trustworthy love, get rid of those who hate me, destroy all my enemies, for I am your servant.
+			</v>
+			<marker class="begin-verse" mid="v19143013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

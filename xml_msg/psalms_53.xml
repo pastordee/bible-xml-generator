@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:15:32.514472</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:15:32.514492</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19053001"/>
+		<chapter num="53">
+			<heading>For the music director. According to Mahalath. A psalm (maskil) of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Only fools 
+				<crossref let="b" cid="c190531.1"/>
+				 tell themselves, “God doesn't exist.” They are completely immoral, they commit terrible sins, not a single one of them does anything good.
+			</v>
+			<marker class="begin-verse" mid="v19053002"/>
+			<v n="2">
+				God watches 
+				<crossref let="c" cid="c190532.1"/>
+				 from heaven to see if anyone understands, if anyone wants to come to God.
+			</v>
+			<marker class="begin-verse" mid="v19053003"/>
+			<v n="3">
+				They have 
+				<crossref let="d" cid="c190533.1"/>
+				 all fallen away, they are totally depraved; none of them does anything good, not even one.
+			</v>
+			<marker class="begin-verse" mid="v19053004"/>
+			<v n="4">
+				“Won't these 
+				<crossref let="e" cid="c190534.1"/>
+				 people who do evil ever learn? They consume my people as if they were eating bread, and refuse to pray to me.”
+			</v>
+			<marker class="begin-verse" mid="v19053005"/>
+			<v n="5">
+				They will 
+				<crossref let="f" cid="c190535.1"/>
+				 become completely terrified, more frightened than they have ever been. God will scatter the bones of those who fight against you; you will defeat them because God has rejected them.
+			</v>
+			<marker class="begin-verse" mid="v19053006"/>
+			<v n="6">
+				If only 
+				<crossref let="g" cid="c190536.1"/>
+				 God's salvation would come from Zion! When God restores his people, the people of Jacob will celebrate, and the people of Israel will be glad.
+			</v>
+			<marker class="begin-verse" mid="v19053007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

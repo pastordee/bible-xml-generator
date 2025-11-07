@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:48:14.452592</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:48:14.452606</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19046001"/>
+		<chapter num="46">
+			<heading>For the choir director: A song of the descendants of Korah, to be sung by soprano voices.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				God is 
+				<crossref let="b" cid="c190461.1"/>
+				 our refuge and strength,always ready to help in times of trouble.
+			</v>
+			<marker class="begin-verse" mid="v19046002"/>
+			<v n="2">
+				So we 
+				<crossref let="c" cid="c190462.1"/>
+				 will not fear when earthquakes comeand the mountains crumble into the sea.
+			</v>
+			<marker class="begin-verse" mid="v19046003"/>
+			<v n="3">
+				Let the 
+				<crossref let="d" cid="c190463.1"/>
+				 oceans roar and foam.Let the mountains tremble as the waters surge! Interlude
+			</v>
+			<marker class="begin-verse" mid="v19046004"/>
+			<v n="4">
+				A river 
+				<crossref let="e" cid="c190464.1"/>
+				 brings joy to the city of our God,the sacred home of the Most High.
+			</v>
+			<marker class="begin-verse" mid="v19046005"/>
+			<v n="5">
+				God dwells 
+				<crossref let="f" cid="c190465.1"/>
+				 in that city; it cannot be destroyed.From the very break of day, God will protect it.
+			</v>
+			<marker class="begin-verse" mid="v19046006"/>
+			<v n="6">
+				The nations 
+				<crossref let="g" cid="c190466.1"/>
+				 are in chaos,and their kingdoms crumble!God’s voice thunders,and the earth melts!
+			</v>
+			<marker class="begin-verse" mid="v19046007"/>
+			<v n="7">
+				The Lord 
+				<crossref let="h" cid="c190467.1"/>
+				 of Heaven’s Armies is here among us;the God of Israel is our fortress. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19046008"/>
+			<v n="8">
+				Come, see 
+				<crossref let="i" cid="c190468.1"/>
+				 the glorious works of the Lord:See how he brings destruction upon the world.
+			</v>
+			<marker class="begin-verse" mid="v19046009"/>
+			<v n="9">
+				He causes 
+				<crossref let="j" cid="c190469.1"/>
+				 wars to end throughout the earth.He breaks the bow and snaps the spear;he burns the shields with fire.
+			</v>
+			<marker class="begin-verse" mid="v19046010"/>
+			<v n="10">
+				“Be still, 
+				<crossref let="k" cid="c1904610.1"/>
+				 and know that I am God!I will be honored by every nation.I will be honored throughout the world.”
+			</v>
+			<marker class="begin-verse" mid="v19046011"/>
+			<v n="11">
+				The Lord 
+				<crossref let="l" cid="c1904611.1"/>
+				 of Heaven’s Armies is here among us;the God of Israel is our fortress. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19046012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

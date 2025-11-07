@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:14:51.963063</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:14:51.963071</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" version="AMP" bookAbbr="ecc">
+		<marker class="begin-verse" mid="v21006001"/>
+		<chapter num="6">
+			<heading>The Futility of Life</heading>
+			<begin-paragraph/>
+			<v n="1">
+				There is 
+				<crossref let="b" cid="c210061.1"/>
+				 an evil which I have seen under the sun, and it weighs heavily on men:
+			</v>
+			<marker class="begin-verse" mid="v21006002"/>
+			<v n="2">
+				a man 
+				<crossref let="c" cid="c210062.1"/>
+				 to whom God has given riches and wealth and honor, so that he lacks nothing of all that he desires, yet God has not given him the power or capacity to enjoy them [all those things which are gifts from God], but a stranger [in whom he has no interest succeeds him and] enjoys them. This is vanity and it is a [cause of] great distress. [Luke 12:20]
+			</v>
+			<marker class="begin-verse" mid="v21006003"/>
+			<v n="3">
+				If a 
+				<crossref let="d" cid="c210063.1"/>
+				 man fathers a hundred children and lives many years, however many they may be, but his soul is not satisfied with good things and he is not respected and is not given a proper burial [he is not laid to rest in the sepulcher of his fathers], then I say, “Better the miscarriage than he, [Job 3:16]
+			</v>
+			<marker class="begin-verse" mid="v21006004"/>
+			<v n="4">
+				for the 
+				<crossref let="e" cid="c210064.1"/>
+				 miscarriage comes in futility (in vain) and passes into obscurity; and its name is covered in obscurity.
+			</v>
+			<marker class="begin-verse" mid="v21006005"/>
+			<v n="5">
+				It has 
+				<crossref let="f" cid="c210065.1"/>
+				 not seen the sun nor had any knowledge; yet it has more rest and is better off than he.
+			</v>
+			<marker class="begin-verse" mid="v21006006"/>
+			<v n="6">
+				Even if 
+				<crossref let="g" cid="c210066.1"/>
+				 the other man lives a thousand years twice over and yet has seen no good and experienced no enjoyment—do not both go to one place [the grave]?”
+			</v>
+			<marker class="begin-verse" mid="v21006007"/>
+			<v n="7">
+				All the 
+				<crossref let="h" cid="c210067.1"/>
+				 labor of man is for his mouth [for self-preservation and enjoyment], and yet the desire [of his soul] is not satisfied. [Prov 16:26]
+			</v>
+			<marker class="begin-verse" mid="v21006008"/>
+			<v n="8">
+				For what 
+				<crossref let="i" cid="c210068.1"/>
+				 advantage has the wise man over the fool [for being worldly-wise is not the secret to happiness]? What advantage has the poor man who has learned how to walk [publicly] among the living [with men’s eyes on him; for being poor is not the secret to happiness either]?
+			</v>
+			<marker class="begin-verse" mid="v21006009"/>
+			<v n="9">
+				What the 
+				<crossref let="j" cid="c210069.1"/>
+				 eyes see [enjoying what is available] is better than [craving] what the soul desires. This too is futility and chasing after the wind.
+			</v>
+			<marker class="begin-verse" mid="v21006010"/>
+			<v n="10">
+				Whatever exists 
+				<crossref let="k" cid="c2100610.1"/>
+				 has already been named [long ago], and it is known what [a frail being] man is; for he cannot dispute with Him who is mightier than he.
+			</v>
+			<marker class="begin-verse" mid="v21006011"/>
+			<v n="11">
+				For there 
+				<crossref let="l" cid="c2100611.1"/>
+				 are many other words that increase futility. What then is the advantage for a man?
+			</v>
+			<marker class="begin-verse" mid="v21006012"/>
+			<v n="12">
+				For who 
+				<crossref let="m" cid="c2100612.1"/>
+				 [limited by human wisdom] knows what is good for man during his lifetime, during the few days of his futile life? He spends them like a shadow [staying busy, but achieving nothing of lasting value]. For who can tell a man what will happen after him [to his work, his treasure, his plans] under the sun [after his life is over]?
+			</v>
+			<marker class="begin-verse" mid="v21006013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

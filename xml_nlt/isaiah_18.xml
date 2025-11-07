@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T15:03:39.747501</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T15:03:39.747517</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="NLT" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23018001"/>
+		<chapter num="18">
+			<heading>A Message about Ethiopia</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Listen, Ethiopia—land 
+				<crossref let="b" cid="c230181.1"/>
+				 of fluttering sailsthat lies at the headwaters of the Nile,
+			</v>
+			<marker class="begin-verse" mid="v23018002"/>
+			<v n="2">
+				that sends 
+				<crossref let="c" cid="c230182.1"/>
+				 ambassadorsin swift boats down the river.Go, swift messengers!Take a message to a tall, smooth-skinned people,who are feared far and widefor their conquests and destruction,and whose land is divided by rivers.
+			</v>
+			<marker class="begin-verse" mid="v23018003"/>
+			<v n="3">
+				All you 
+				<crossref let="d" cid="c230183.1"/>
+				 people of the world,everyone who lives on the earth—when I raise my battle flag on the mountain, look!When I blow the ram’s horn, listen!
+			</v>
+			<marker class="begin-verse" mid="v23018004"/>
+			<v n="4">
+				For the 
+				<crossref let="e" cid="c230184.1"/>
+				 Lord has told me this:“I will watch quietly from my dwelling place—as quietly as the heat rises on a summer day,or as the morning dew forms during the harvest.”
+			</v>
+			<marker class="begin-verse" mid="v23018005"/>
+			<v n="5">
+				Even before 
+				<crossref let="f" cid="c230185.1"/>
+				 you begin your attack,while your plans are ripening like grapes,the Lord will cut off your new growth with pruning shears.He will snip off and discard your spreading branches.
+			</v>
+			<marker class="begin-verse" mid="v23018006"/>
+			<v n="6">
+				Your mighty 
+				<crossref let="g" cid="c230186.1"/>
+				 army will be left dead in the fieldsfor the mountain vultures and wild animals.The vultures will tear at the corpses all summer.The wild animals will gnaw at the bones all winter.
+			</v>
+			<marker class="begin-verse" mid="v23018007"/>
+			<v n="7">
+				At that 
+				<crossref let="h" cid="c230187.1"/>
+				 time the Lord of Heaven’s Armies will receive giftsfrom this land divided by rivers,from this tall, smooth-skinned people,who are feared far and wide for their conquests and destruction.They will bring the gifts to Jerusalem,where the Lord of Heaven’s Armies dwells.
+			</v>
+			<marker class="begin-verse" mid="v23018008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

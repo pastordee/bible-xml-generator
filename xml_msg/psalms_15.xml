@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:14:02.102376</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:14:02.102394</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19015001"/>
+		<chapter num="15">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Who may 
+				<crossref let="b" cid="c190151.1"/>
+				 enter your sanctuary, Lord? Who may come into your presence on your holy mountain?
+			</v>
+			<marker class="begin-verse" mid="v19015002"/>
+			<v n="2">
+				Those who 
+				<crossref let="c" cid="c190152.1"/>
+				 live without fault and do what is right, those who sincerely tell the truth.
+			</v>
+			<marker class="begin-verse" mid="v19015003"/>
+			<v n="3">
+				They do 
+				<crossref let="d" cid="c190153.1"/>
+				 not slander, do not treat their neighbors badly, do not gossip about people they know.
+			</v>
+			<marker class="begin-verse" mid="v19015004"/>
+			<v n="4">
+				They reject 
+				<crossref let="e" cid="c190154.1"/>
+				 people the Lord has rejected, but honor those who follow the Lord. They keep their promises even when it's hard to do. They don't change their minds.
+			</v>
+			<marker class="begin-verse" mid="v19015005"/>
+			<v n="5">
+				They lend 
+				<crossref let="f" cid="c190155.1"/>
+				 money without charging interest. They don't take bribes to testify against the innocent. Those who act like this will never ever fall.
+			</v>
+			<marker class="begin-verse" mid="v19015006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

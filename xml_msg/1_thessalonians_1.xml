@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:38:23.581256</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:38:23.581279</next_refresh_due>
+	</generation_info>
+	<book title="1 Thessalonians" num="52" testament="new" version="MSG" bookAbbr="1th">
+		<marker class="begin-verse" mid="v52001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				This letter 
+				<crossref let="b" cid="c520011.1"/>
+				 comes from Paul, Silvanus, and Timothy to the church of the Thessalonians who belong to God the Father and the Lord Jesus Christ. May you have grace and peace!
+			</v>
+			<marker class="begin-verse" mid="v52001002"/>
+			<v n="2">
+				We are 
+				<crossref let="c" cid="c520012.1"/>
+				 always thanking God for all of you, never forgetting you in our prayers.
+			</v>
+			<marker class="begin-verse" mid="v52001003"/>
+			<v n="3">
+				We remember 
+				<crossref let="d" cid="c520013.1"/>
+				 you before our God and Father—how you put your trust in him into practice, how you work hard in love, and how you patiently wait in the hope of our Lord Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v52001004"/>
+			<v n="4">
+				Brothers and 
+				<crossref let="e" cid="c520014.1"/>
+				 sisters, we already know that you are loved by God and are very special to him.
+			</v>
+			<marker class="begin-verse" mid="v52001005"/>
+			<v n="5">
+				The good 
+				<crossref let="f" cid="c520015.1"/>
+				 news we brought to you wasn't just words, but had power too, for the Holy Spirit completely convinced you. In the same way you know what kind of men we are since we demonstrated to you that we were working for your benefit.
+			</v>
+			<marker class="begin-verse" mid="v52001006"/>
+			<v n="6">
+				You were 
+				<crossref let="g" cid="c520016.1"/>
+				 imitating us and the Lord when you received the message, for despite your troubles you experienced the joy the Holy Spirit gives.
+			</v>
+			<marker class="begin-verse" mid="v52001007"/>
+			<v n="7">
+				So you 
+				<crossref let="h" cid="c520017.1"/>
+				 have become an example to all the believers in Macedonia and Greece!
+			</v>
+			<marker class="begin-verse" mid="v52001008"/>
+			<v n="8">
+				You have 
+				<crossref let="i" cid="c520018.1"/>
+				 broadcast the Lord's message, not only in Macedonia and Greece, but everywhere people have heard of your trust in God—so there's no need for us to tell anybody about it!
+			</v>
+			<marker class="begin-verse" mid="v52001009"/>
+			<v n="9">
+				In fact 
+				<crossref let="j" cid="c520019.1"/>
+				 they talk about what a marvelous welcome you gave us, how you abandoned idols and turned to God, how you serve the true and living God,
+			</v>
+			<marker class="begin-verse" mid="v52001010"/>
+			<v n="10">
+				as you 
+				<crossref let="k" cid="c5200110.1"/>
+				 look forward to the coming of his Son from heaven—Jesus, the one God raised from the dead, who will save us from the judgment to come.
+			</v>
+			<marker class="begin-verse" mid="v52001011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

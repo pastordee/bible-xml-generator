@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:19:19.874383</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:19:19.874394</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19081001"/>
+		<chapter num="81">
+			<heading>An Appeal for Israel’s RepentanceTo the Chief Musician. On an instrument of Gath. A Psalm of Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Sing aloud 
+				<crossref let="b" cid="c190811.1"/>
+				 to God our strength;Make a joyful shout to the God of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19081002"/>
+			<v n="2">
+				Raise a 
+				<crossref let="c" cid="c190812.1"/>
+				 song and strike the timbrel,The pleasant harp with the lute.
+			</v>
+			<marker class="begin-verse" mid="v19081003"/>
+			<v n="3">
+				Blow the 
+				<crossref let="d" cid="c190813.1"/>
+				 trumpet at the time of the New Moon,At the full moon, on our solemn feast day.
+			</v>
+			<marker class="begin-verse" mid="v19081004"/>
+			<v n="4">
+				For this 
+				<crossref let="e" cid="c190814.1"/>
+				 is a statute for Israel,A law of the God of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19081005"/>
+			<v n="5">
+				This He 
+				<crossref let="f" cid="c190815.1"/>
+				 established in Joseph as a testimony,When He went throughout the land of Egypt,Where I heard a language I did not understand.
+			</v>
+			<marker class="begin-verse" mid="v19081006"/>
+			<v n="6">
+				“I removed 
+				<crossref let="g" cid="c190816.1"/>
+				 his shoulder from the burden;His hands were freed from the baskets.
+			</v>
+			<marker class="begin-verse" mid="v19081007"/>
+			<v n="7">
+				You called 
+				<crossref let="h" cid="c190817.1"/>
+				 in trouble, and I delivered you;I answered you in the secret place of thunder;I tested you at the waters of Meribah.Selah
+			</v>
+			<marker class="begin-verse" mid="v19081008"/>
+			<v n="8">
+				“Hear,O My 
+				<crossref let="i" cid="c190818.1"/>
+				 people, and I will admonish you!O Israel, if you will listen to Me!
+			</v>
+			<marker class="begin-verse" mid="v19081009"/>
+			<v n="9">
+				There shall 
+				<crossref let="j" cid="c190819.1"/>
+				 be no foreign god among you;Nor shall you worship any foreign god.
+			</v>
+			<marker class="begin-verse" mid="v19081010"/>
+			<v n="10">
+				I am 
+				<crossref let="k" cid="c1908110.1"/>
+				 the Lord your God,Who brought you out of the land of Egypt;Open your mouth wide, and I will fill it.
+			</v>
+			<marker class="begin-verse" mid="v19081011"/>
+			<v n="11">
+				“But My 
+				<crossref let="l" cid="c1908111.1"/>
+				 people would not heed My voice,And Israel would have none of Me.
+			</v>
+			<marker class="begin-verse" mid="v19081012"/>
+			<v n="12">
+				So I 
+				<crossref let="m" cid="c1908112.1"/>
+				 gave them over to their own stubborn heart,To walk in their own counsels.
+			</v>
+			<marker class="begin-verse" mid="v19081013"/>
+			<v n="13">
+				“Oh,that My 
+				<crossref let="n" cid="c1908113.1"/>
+				 people would listen to Me,That Israel would walk in My ways!
+			</v>
+			<marker class="begin-verse" mid="v19081014"/>
+			<v n="14">
+				I would 
+				<crossref let="o" cid="c1908114.1"/>
+				 soon subdue their enemies,And turn My hand against their adversaries.
+			</v>
+			<marker class="begin-verse" mid="v19081015"/>
+			<v n="15">
+				The haters 
+				<crossref let="p" cid="c1908115.1"/>
+				 of the Lord would pretend submission to Him,But their fate would endure forever.
+			</v>
+			<marker class="begin-verse" mid="v19081016"/>
+			<v n="16">
+				He would 
+				<crossref let="q" cid="c1908116.1"/>
+				 have fed them also with the finest of wheat;And with honey from the rock I would have satisfied you.”
+			</v>
+			<marker class="begin-verse" mid="v19081017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:01:27.597500</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:01:27.597513</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" bookAbbr="num" version="ESV">
+		<marker class="begin-verse" mid="v04014001">
+		</marker>
+		<chapter num="14">
+			<heading>
+				Numbers 14
+			</heading>
+			<heading>
+				The People Rebel
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Then all 
+				<crossref let="b" cid="c04014001.1">
+				</crossref>
+				the congregation, 
+				<crossref let="c" cid="c04014001.2">
+				</crossref>
+				raised a loud cry, and the people wept that night.
+			</v>
+			<marker class="begin-verse" mid="v04014002">
+			</marker>
+			<v n="2">
+				And all 
+				<crossref let="d" cid="c04014002.3">
+				</crossref>
+				the people, 
+				<crossref let="e" cid="c04014002.4">
+				</crossref>
+				of Israel grumbled against Moses and Aaron. The whole congregation said to them, “Would that we had died in the land of Egypt! Or would that we had died in this wilderness!
+			</v>
+			<marker class="begin-verse" mid="v04014003">
+			</marker>
+			<v n="3">
+				Why is 
+				<crossref let="f" cid="c04014003.5">
+				</crossref>
+				the LORD, 
+				<crossref let="g" cid="c04014003.6">
+				</crossref>
+				bringing us into this land, to fall by the sword? Our wives and our little ones will become a prey. Would it not be better for us to go back to Egypt?”
+				<note nid="n04014003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014004">
+			</marker>
+			<v n="4">
+				And they 
+				<crossref let="h" cid="c04014004.7">
+				</crossref>
+				said to, 
+				<crossref let="i" cid="c04014004.8">
+				</crossref>
+				one another, “Let us choose a leader and go back to Egypt.”
+			</v>
+			<marker class="begin-verse" mid="v04014005">
+			</marker>
+			<v n="5">
+				Then Moses 
+				<crossref let="j" cid="c04014005.9">
+				</crossref>
+				and Aaron, 
+				<crossref let="k" cid="c04014005.10">
+				</crossref>
+				fell on their faces before all the assembly of the congregation of the people of Israel.
+			</v>
+			<marker class="begin-verse" mid="v04014006">
+			</marker>
+			<v n="6">
+				And Joshua 
+				<crossref let="l" cid="c04014006.11">
+				</crossref>
+				the son, 
+				<crossref let="m" cid="c04014006.12">
+				</crossref>
+				of Nun and Caleb the son of Jephunneh, who were among those who had spied out the land, tore their clothes
+				<note nid="n04014006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014007">
+			</marker>
+			<v n="7">
+				and said 
+				<crossref let="n" cid="c04014007.13">
+				</crossref>
+				to all, 
+				<crossref let="o" cid="c04014007.14">
+				</crossref>
+				the congregation of the people of Israel, “The land, which we passed through to spy it out, is an exceedingly good land.
+			</v>
+			<marker class="begin-verse" mid="v04014008">
+			</marker>
+			<v n="8">
+				If the 
+				<crossref let="p" cid="c04014008.15">
+				</crossref>
+				LORD delights, 
+				<crossref let="q" cid="c04014008.16">
+				</crossref>
+				in us, he will bring us into this land and give it to us, a land that flows with milk and honey.
+			</v>
+			<marker class="begin-verse" mid="v04014009">
+			</marker>
+			<v n="9">
+				Only do 
+				<crossref let="r" cid="c04014009.17">
+				</crossref>
+				not rebel, 
+				<crossref let="s" cid="c04014009.18">
+				</crossref>
+				against the LORD. And do not fear the people of the land, for they are bread for us. Their protection is removed from them, and the LORD is with us; do not fear them.”
+				<note nid="n04014009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014010">
+			</marker>
+			<v n="10">
+				Then all 
+				<crossref let="t" cid="c04014010.19">
+				</crossref>
+				the congregation, 
+				<crossref let="u" cid="c04014010.20">
+				</crossref>
+				said to stone them with stones. But the glory of the LORD appeared at the tent of meeting to all the people of Israel.
+			</v>
+			<marker class="begin-verse" mid="v04014011">
+			</marker>
+			<v n="11">
+				And the 
+				<crossref let="v" cid="c04014011.21">
+				</crossref>
+				LORD said, 
+				<crossref let="w" cid="c04014011.22">
+				</crossref>
+				to Moses, “How long will this people despise me? And how long will they not believe in me, in spite of all the signs that I have done among them?
+			</v>
+			<marker class="begin-verse" mid="v04014012">
+			</marker>
+			<v n="12">
+				I will 
+				<crossref let="x" cid="c04014012.23">
+				</crossref>
+				strike them, 
+				<crossref let="y" cid="c04014012.24">
+				</crossref>
+				with the pestilence and disinherit them, and I will make of you a nation greater and mightier than they.” Moses Intercedes for the People
+				<note nid="n04014012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014013">
+			</marker>
+			<v n="13">
+				But Moses 
+				<crossref let="z" cid="c04014013.25">
+				</crossref>
+				said to, 
+				<crossref let="a" cid="c04014013.26">
+				</crossref>
+				the LORD, “Then the Egyptians will hear of it, for you brought up this people in your might from among them,
+			</v>
+			<marker class="begin-verse" mid="v04014014">
+			</marker>
+			<v n="14">
+				and they 
+				<crossref let="b" cid="c04014014.27">
+				</crossref>
+				will tell, 
+				<crossref let="c" cid="c04014014.28">
+				</crossref>
+				the inhabitants of this land. They have heard that you, O LORD, are in the midst of this people. For you, O LORD, are seen face to face, and your cloud stands over them and you go before them, in a pillar of cloud by day and in a pillar of fire by night.
+			</v>
+			<marker class="begin-verse" mid="v04014015">
+			</marker>
+			<v n="15">
+				Now if 
+				<crossref let="d" cid="c04014015.29">
+				</crossref>
+				you kill, 
+				<crossref let="e" cid="c04014015.30">
+				</crossref>
+				this people as one man, then the nations who have heard your fame will say,
+				<note nid="n04014015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014016">
+			</marker>
+			<v n="16">
+				‘It is 
+				<crossref let="f" cid="c04014016.31">
+				</crossref>
+				because the, 
+				<crossref let="g" cid="c04014016.32">
+				</crossref>
+				LORD was not able to bring this people into the land that he swore to give to them that he has killed them in the wilderness.’
+			</v>
+			<marker class="begin-verse" mid="v04014017">
+			</marker>
+			<v n="17">
+				And now, 
+				<crossref let="h" cid="c04014017.33">
+				</crossref>
+				please let, 
+				<crossref let="i" cid="c04014017.34">
+				</crossref>
+				the power of the Lord be great as you have promised, saying,
+			</v>
+			<marker class="begin-verse" mid="v04014018">
+			</marker>
+			<v n="18">
+				‘The LORD 
+				<crossref let="j" cid="c04014018.35">
+				</crossref>
+				is slow, 
+				<crossref let="k" cid="c04014018.36">
+				</crossref>
+				to anger and abounding in steadfast love, forgiving iniquity and transgression, but he will by no means clear the guilty, visiting the iniquity of the fathers on the children, to the third and the fourth generation.’
+				<note nid="n04014018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014019">
+			</marker>
+			<v n="19">
+				Please pardon 
+				<crossref let="l" cid="c04014019.37">
+				</crossref>
+				the iniquity, 
+				<crossref let="m" cid="c04014019.38">
+				</crossref>
+				of this people, according to the greatness of your steadfast love, just as you have forgiven this people, from Egypt until now.” God Promises Judgment
+			</v>
+			<marker class="begin-verse" mid="v04014020">
+			</marker>
+			<v n="20">
+				Then the 
+				<crossref let="n" cid="c04014020.39">
+				</crossref>
+				LORD said,, 
+				<crossref let="o" cid="c04014020.40">
+				</crossref>
+				“I have pardoned, according to your word.
+			</v>
+			<marker class="begin-verse" mid="v04014021">
+			</marker>
+			<v n="21">
+				But truly, 
+				<crossref let="p" cid="c04014021.41">
+				</crossref>
+				as I, 
+				<crossref let="q" cid="c04014021.42">
+				</crossref>
+				live, and as all the earth shall be filled with the glory of the LORD,
+				<note nid="n04014021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014022">
+			</marker>
+			<v n="22">
+				none of 
+				<crossref let="r" cid="c04014022.43">
+				</crossref>
+				the men, 
+				<crossref let="s" cid="c04014022.44">
+				</crossref>
+				who have seen my glory and my signs that I did in Egypt and in the wilderness, and yet have put me to the test these ten times and have not obeyed my voice,
+			</v>
+			<marker class="begin-verse" mid="v04014023">
+			</marker>
+			<v n="23">
+				shall see 
+				<crossref let="t" cid="c04014023.45">
+				</crossref>
+				the land, 
+				<crossref let="u" cid="c04014023.46">
+				</crossref>
+				that I swore to give to their fathers. And none of those who despised me shall see it.
+			</v>
+			<marker class="begin-verse" mid="v04014024">
+			</marker>
+			<v n="24">
+				But my 
+				<crossref let="v" cid="c04014024.47">
+				</crossref>
+				servant Caleb,, 
+				<crossref let="w" cid="c04014024.48">
+				</crossref>
+				because he has a different spirit and has followed me fully, I will bring into the land into which he went, and his descendants shall possess it.
+				<note nid="n04014024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014025">
+			</marker>
+			<v n="25">
+				Now, since 
+				<crossref let="x" cid="c04014025.49">
+				</crossref>
+				the Amalekites, 
+				<crossref let="y" cid="c04014025.50">
+				</crossref>
+				and the Canaanites dwell in the valleys, turn tomorrow and set out for the wilderness by the way to the Red Sea.”
+			</v>
+			<marker class="begin-verse" mid="v04014026">
+			</marker>
+			<v n="26">
+				And the 
+				<crossref let="z" cid="c04014026.51">
+				</crossref>
+				LORD spoke, 
+				<crossref let="a" cid="c04014026.52">
+				</crossref>
+				to Moses and to Aaron, saying,
+			</v>
+			<marker class="begin-verse" mid="v04014027">
+			</marker>
+			<v n="27">
+				“How long 
+				<crossref let="b" cid="c04014027.53">
+				</crossref>
+				shall this, 
+				<crossref let="c" cid="c04014027.54">
+				</crossref>
+				wicked congregation grumble against me? I have heard the grumblings of the people of Israel, which they grumble against me.
+				<note nid="n04014027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014028">
+			</marker>
+			<v n="28">
+				Say to 
+				<crossref let="d" cid="c04014028.55">
+				</crossref>
+				them, ‘As, 
+				<crossref let="e" cid="c04014028.56">
+				</crossref>
+				I live, declares the LORD, what you have said in my hearing I will do to you:
+			</v>
+			<marker class="begin-verse" mid="v04014029">
+			</marker>
+			<v n="29">
+				your dead 
+				<crossref let="f" cid="c04014029.57">
+				</crossref>
+				bodies shall, 
+				<crossref let="g" cid="c04014029.58">
+				</crossref>
+				fall in this wilderness, and of all your number, listed in the census from twenty years old and upward, who have grumbled against me,
+			</v>
+			<marker class="begin-verse" mid="v04014030">
+			</marker>
+			<v n="30">
+				not one 
+				<crossref let="h" cid="c04014030.59">
+				</crossref>
+				shall come, 
+				<crossref let="i" cid="c04014030.60">
+				</crossref>
+				into the land where I swore that I would make you dwell, except Caleb the son of Jephunneh and Joshua the son of Nun.
+				<note nid="n04014030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014031">
+			</marker>
+			<v n="31">
+				But your 
+				<crossref let="j" cid="c04014031.61">
+				</crossref>
+				little ones,, 
+				<crossref let="k" cid="c04014031.62">
+				</crossref>
+				who you said would become a prey, I will bring in, and they shall know the land that you have rejected.
+			</v>
+			<marker class="begin-verse" mid="v04014032">
+			</marker>
+			<v n="32">
+				But as 
+				<crossref let="l" cid="c04014032.63">
+				</crossref>
+				for you,, 
+				<crossref let="m" cid="c04014032.64">
+				</crossref>
+				your dead bodies shall fall in this wilderness.
+			</v>
+			<marker class="begin-verse" mid="v04014033">
+			</marker>
+			<v n="33">
+				And your 
+				<crossref let="n" cid="c04014033.65">
+				</crossref>
+				children shall, 
+				<crossref let="o" cid="c04014033.66">
+				</crossref>
+				be shepherds in the wilderness forty years and shall suffer for your faithlessness, until the last of your dead bodies lies in the wilderness.
+				<note nid="n04014033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014034">
+			</marker>
+			<v n="34">
+				According to 
+				<crossref let="p" cid="c04014034.67">
+				</crossref>
+				the number, 
+				<crossref let="q" cid="c04014034.68">
+				</crossref>
+				of the days in which you spied out the land, forty days, a year for each day, you shall bear your iniquity forty years, and you shall know my displeasure.’
+			</v>
+			<marker class="begin-verse" mid="v04014035">
+			</marker>
+			<v n="35">
+				I, the 
+				<crossref let="r" cid="c04014035.69">
+				</crossref>
+				LORD, have, 
+				<crossref let="s" cid="c04014035.70">
+				</crossref>
+				spoken. Surely this will I do to all this wicked congregation who are gathered together against me: in this wilderness they shall come to a full end, and there they shall die.”
+			</v>
+			<marker class="begin-verse" mid="v04014036">
+			</marker>
+			<v n="36">
+				And the 
+				<crossref let="t" cid="c04014036.71">
+				</crossref>
+				men whom, 
+				<crossref let="u" cid="c04014036.72">
+				</crossref>
+				Moses sent to spy out the land, who returned and made all the congregation grumble against him by bringing up a bad report about the land—
+				<note nid="n04014036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014037">
+			</marker>
+			<v n="37">
+				the men 
+				<crossref let="v" cid="c04014037.73">
+				</crossref>
+				who brought, 
+				<crossref let="w" cid="c04014037.74">
+				</crossref>
+				up a bad report of the land—died by plague before the LORD.
+			</v>
+			<marker class="begin-verse" mid="v04014038">
+			</marker>
+			<v n="38">
+				Of those 
+				<crossref let="x" cid="c04014038.75">
+				</crossref>
+				men who, 
+				<crossref let="y" cid="c04014038.76">
+				</crossref>
+				went to spy out the land, only Joshua the son of Nun and Caleb the son of Jephunneh remained alive. Israel Defeated in Battle
+			</v>
+			<marker class="begin-verse" mid="v04014039">
+			</marker>
+			<v n="39">
+				When Moses 
+				<crossref let="z" cid="c04014039.77">
+				</crossref>
+				told these, 
+				<crossref let="a" cid="c04014039.78">
+				</crossref>
+				words to all the people of Israel, the people mourned greatly.
+				<note nid="n04014039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014040">
+			</marker>
+			<v n="40">
+				And they 
+				<crossref let="b" cid="c04014040.79">
+				</crossref>
+				rose early, 
+				<crossref let="c" cid="c04014040.80">
+				</crossref>
+				in the morning and went up to the heights of the hill country, saying, “Here we are. We will go up to the place that the LORD has promised, for we have sinned.”
+			</v>
+			<marker class="begin-verse" mid="v04014041">
+			</marker>
+			<v n="41">
+				But Moses 
+				<crossref let="d" cid="c04014041.81">
+				</crossref>
+				said, “Why, 
+				<crossref let="e" cid="c04014041.82">
+				</crossref>
+				now are you transgressing the command of the LORD, when that will not succeed?
+			</v>
+			<marker class="begin-verse" mid="v04014042">
+			</marker>
+			<v n="42">
+				Do not 
+				<crossref let="f" cid="c04014042.83">
+				</crossref>
+				go up,, 
+				<crossref let="g" cid="c04014042.84">
+				</crossref>
+				for the LORD is not among you, lest you be struck down before your enemies.
+				<note nid="n04014042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014043">
+			</marker>
+			<v n="43">
+				For there 
+				<crossref let="h" cid="c04014043.85">
+				</crossref>
+				the Amalekites, 
+				<crossref let="i" cid="c04014043.86">
+				</crossref>
+				and the Canaanites are facing you, and you shall fall by the sword. Because you have turned back from following the LORD, the LORD will not be with you.”
+			</v>
+			<marker class="begin-verse" mid="v04014044">
+			</marker>
+			<v n="44">
+				But they 
+				<crossref let="j" cid="c04014044.87">
+				</crossref>
+				presumed to, 
+				<crossref let="k" cid="c04014044.88">
+				</crossref>
+				go up to the heights of the hill country, although neither the ark of the covenant of the LORD nor Moses departed out of the camp.
+			</v>
+			<marker class="begin-verse" mid="v04014045">
+			</marker>
+			<v n="45">
+				Then the 
+				<crossref let="l" cid="c04014045.89">
+				</crossref>
+				Amalekites and, 
+				<crossref let="m" cid="c04014045.90">
+				</crossref>
+				the Canaanites who lived in that hill country came down and defeated them and pursued them, even to Hormah. (ESV)
+				<note nid="n04014045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04014046">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

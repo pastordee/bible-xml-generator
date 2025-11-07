@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:07:55.921744</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:07:55.921759</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" version="ASV" bookAbbr="1sa">
+		<marker class="begin-verse" mid="v09027001"/>
+		<chapter num="27">
+			<begin-paragraph/>
+			<v n="1">
+				And David 
+				<crossref let="b" cid="c090271.1"/>
+				 said in his heart, I shall now perish one day by the hand of Saul: there is nothing better for me than that I should escape into the land of the Philistines; and Saul will despair of me, to seek me any more in all the borders of Israel: so shall I escape out of his hand.
+			</v>
+			<marker class="begin-verse" mid="v09027002"/>
+			<v n="2">
+				And David 
+				<crossref let="c" cid="c090272.1"/>
+				 arose, and passed over, he and the six hundred men that were with him, unto Achish the son of Maoch, king of Gath.
+			</v>
+			<marker class="begin-verse" mid="v09027003"/>
+			<v n="3">
+				And David 
+				<crossref let="d" cid="c090273.1"/>
+				 dwelt with Achish at Gath, he and his men, every man with his household, even David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal’s wife.
+			</v>
+			<marker class="begin-verse" mid="v09027004"/>
+			<v n="4">
+				And it 
+				<crossref let="e" cid="c090274.1"/>
+				 was told Saul that David was fled to Gath: and he sought no more again for him.
+			</v>
+			<marker class="begin-verse" mid="v09027005"/>
+			<v n="5">
+				And David 
+				<crossref let="f" cid="c090275.1"/>
+				 said unto Achish, If now I have found favor in thine eyes, let them give me a place in one of the cities in the country, that I may dwell there: for why should thy servant dwell in the royal city with thee?
+			</v>
+			<marker class="begin-verse" mid="v09027006"/>
+			<v n="6">
+				Then Achish 
+				<crossref let="g" cid="c090276.1"/>
+				 gave him Ziklag that day: wherefore Ziklag pertaineth unto the kings of Judah unto this day.
+			</v>
+			<marker class="begin-verse" mid="v09027007"/>
+			<v n="7">
+				And the 
+				<crossref let="h" cid="c090277.1"/>
+				 number of the days that David dwelt in the country of the Philistines was a full year and four months.
+			</v>
+			<marker class="begin-verse" mid="v09027008"/>
+			<v n="8">
+				And David 
+				<crossref let="i" cid="c090278.1"/>
+				 and his men went up, and made a raid upon the Geshurites, and the Girzites, and the Amalekites; for those nations were the inhabitants of the land, who were of old, as thou goest to Shur, even unto the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v09027009"/>
+			<v n="9">
+				And David 
+				<crossref let="j" cid="c090279.1"/>
+				 smote the land, and saved neither man nor woman alive, and took away the sheep, and the oxen, and the asses, and the camels, and the apparel; and he returned, and came to Achish.
+			</v>
+			<marker class="begin-verse" mid="v09027010"/>
+			<v n="10">
+				And Achish 
+				<crossref let="k" cid="c0902710.1"/>
+				 said, Against whom have ye made a raid to-day? And David said, Against the South of Judah, and against the South of the Jerahmeelites, and against the South of the Kenites.
+			</v>
+			<marker class="begin-verse" mid="v09027011"/>
+			<v n="11">
+				And David 
+				<crossref let="l" cid="c0902711.1"/>
+				 saved neither man nor woman alive, to bring them to Gath, saying, Lest they should tell of us, saying, So did David, and so hath been his manner all the while he hath dwelt in the country of the Philistines.
+			</v>
+			<marker class="begin-verse" mid="v09027012"/>
+			<v n="12">
+				And Achish 
+				<crossref let="m" cid="c0902712.1"/>
+				 believed David, saying, He hath made his people Israel utterly to abhor him; therefore he shall be my servant for ever.
+			</v>
+			<marker class="begin-verse" mid="v09027013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

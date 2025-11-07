@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:37.994847</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:37.994856</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" bookAbbr="heb" version="ESV">
+		<marker class="begin-verse" mid="v58001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Hebrews 1
+			</heading>
+			<heading>
+				The Supremacy of God’s Son
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Long ago, 
+				<crossref let="b" cid="c58001001.1">
+				</crossref>
+				at many, 
+				<crossref let="c" cid="c58001001.2">
+				</crossref>
+				times and in many ways, God spoke to our fathers by the prophets,
+			</v>
+			<marker class="begin-verse" mid="v58001002">
+			</marker>
+			<v n="2">
+				but in 
+				<crossref let="d" cid="c58001002.3">
+				</crossref>
+				these last, 
+				<crossref let="e" cid="c58001002.4">
+				</crossref>
+				days he has spoken to us by his Son, whom he appointed the heir of all things, through whom also he created the world.
+			</v>
+			<marker class="begin-verse" mid="v58001003">
+			</marker>
+			<v n="3">
+				He is 
+				<crossref let="f" cid="c58001003.5">
+				</crossref>
+				the radiance, 
+				<crossref let="g" cid="c58001003.6">
+				</crossref>
+				of the glory of God and the exact imprint of his nature, and he upholds the universe by the word of his power. After making purification for sins, he sat down at the right hand of the Majesty on high,
+				<note nid="n58001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58001004">
+			</marker>
+			<v n="4">
+				having become 
+				<crossref let="h" cid="c58001004.7">
+				</crossref>
+				as much, 
+				<crossref let="i" cid="c58001004.8">
+				</crossref>
+				superior to angels as the name he has inherited is more excellent than theirs.
+			</v>
+			<marker class="begin-verse" mid="v58001005">
+			</marker>
+			<v n="5">
+				For to 
+				<crossref let="j" cid="c58001005.9">
+				</crossref>
+				which of, 
+				<crossref let="k" cid="c58001005.10">
+				</crossref>
+				the angels did God ever say, “You are my Son, today I have begotten you”? Or again, “I will be to him a father, and he shall be to me a son”?
+			</v>
+			<marker class="begin-verse" mid="v58001006">
+			</marker>
+			<v n="6">
+				And again, 
+				<crossref let="l" cid="c58001006.11">
+				</crossref>
+				when he, 
+				<crossref let="m" cid="c58001006.12">
+				</crossref>
+				brings the firstborn into the world, he says, “Let all God’s angels worship him.”
+				<note nid="n58001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58001007">
+			</marker>
+			<v n="7">
+				Of the 
+				<crossref let="n" cid="c58001007.13">
+				</crossref>
+				angels he, 
+				<crossref let="o" cid="c58001007.14">
+				</crossref>
+				says, “He makes his angels winds, and his ministers a flame of fire.”
+			</v>
+			<marker class="begin-verse" mid="v58001008">
+			</marker>
+			<v n="8">
+				But of 
+				<crossref let="p" cid="c58001008.15">
+				</crossref>
+				the Son, 
+				<crossref let="q" cid="c58001008.16">
+				</crossref>
+				he says, “Your throne, O God, is forever and ever, the scepter of uprightness is the scepter of your kingdom.
+			</v>
+			<marker class="begin-verse" mid="v58001009">
+			</marker>
+			<v n="9">
+				You have 
+				<crossref let="r" cid="c58001009.17">
+				</crossref>
+				loved righteousness, 
+				<crossref let="s" cid="c58001009.18">
+				</crossref>
+				and hated wickedness; therefore God, your God, has anointed you with the oil of gladness beyond your companions.”
+				<note nid="n58001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58001010">
+			</marker>
+			<v n="10">
+				And, “You, 
+				<crossref let="t" cid="c58001010.19">
+				</crossref>
+				Lord, laid, 
+				<crossref let="u" cid="c58001010.20">
+				</crossref>
+				the foundation of the earth in the beginning, and the heavens are the work of your hands;
+			</v>
+			<marker class="begin-verse" mid="v58001011">
+			</marker>
+			<v n="11">
+				they will 
+				<crossref let="v" cid="c58001011.21">
+				</crossref>
+				perish, but, 
+				<crossref let="w" cid="c58001011.22">
+				</crossref>
+				you remain; they will all wear out like a garment,
+			</v>
+			<marker class="begin-verse" mid="v58001012">
+			</marker>
+			<v n="12">
+				like a 
+				<crossref let="x" cid="c58001012.23">
+				</crossref>
+				robe you, 
+				<crossref let="y" cid="c58001012.24">
+				</crossref>
+				will roll them up, like a garment they will be changed.(1) But you are the same, and your years will have no end.”
+				<note nid="n58001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58001013">
+			</marker>
+			<v n="13">
+				And to 
+				<crossref let="z" cid="c58001013.25">
+				</crossref>
+				which of, 
+				<crossref let="a" cid="c58001013.26">
+				</crossref>
+				the angels has he ever said, “Sit at my right hand until I make your enemies a footstool for your feet”?
+			</v>
+			<marker class="begin-verse" mid="v58001014">
+			</marker>
+			<v n="14">
+				Are they 
+				<crossref let="b" cid="c58001014.27">
+				</crossref>
+				not all, 
+				<crossref let="c" cid="c58001014.28">
+				</crossref>
+				ministering spirits sent out to serve for the sake of those who are to inherit salvation? Footnotes (1) 1:12 Some manuscripts omit *like a garment* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v58001015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

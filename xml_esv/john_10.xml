@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:55.362368</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:55.362378</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" bookAbbr="jhn" version="ESV">
+		<marker class="begin-verse" mid="v43010001">
+		</marker>
+		<chapter num="10">
+			<heading>
+				John 10
+			</heading>
+			<heading>
+				I Am the Good Shepherd
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					“Truly, truly, 
+					<crossref let="b" cid="c43010001.1">
+				</crossref>
+					I say, 
+					<crossref let="c" cid="c43010001.2">
+				</crossref>
+				to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010002">
+			</marker>
+			<v n="2">
+				But he 
+				<crossref let="d" cid="c43010002.3">
+				</crossref>
+				who enters, 
+				<crossref let="e" cid="c43010002.4">
+				</crossref>
+				by the door is the shepherd of the sheep.
+			</v>
+			<marker class="begin-verse" mid="v43010003">
+			</marker>
+			<v n="3">
+				To him 
+				<crossref let="f" cid="c43010003.5">
+				</crossref>
+				the gatekeeper, 
+				<crossref let="g" cid="c43010003.6">
+				</crossref>
+				opens. The sheep hear his voice, and he calls his own sheep by name and leads them out.
+				<note nid="n43010003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010004">
+			</marker>
+			<v n="4">
+				When he 
+				<crossref let="h" cid="c43010004.7">
+				</crossref>
+				has brought, 
+				<crossref let="i" cid="c43010004.8">
+				</crossref>
+				out all his own, he goes before them, and the sheep follow him, for they know his voice.
+			</v>
+			<marker class="begin-verse" mid="v43010005">
+			</marker>
+			<v n="5">
+				A stranger 
+				<crossref let="j" cid="c43010005.9">
+				</crossref>
+				they will, 
+				<crossref let="k" cid="c43010005.10">
+				</crossref>
+				not follow, but they will flee from him, for they do not know the voice of strangers.”
+			</v>
+			<marker class="begin-verse" mid="v43010006">
+			</marker>
+			<v n="6">
+				This figure 
+				<crossref let="l" cid="c43010006.11">
+				</crossref>
+				of speech, 
+				<crossref let="m" cid="c43010006.12">
+				</crossref>
+				Jesus used with them, but they did not understand what he was saying to them.
+				<note nid="n43010006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010007">
+			</marker>
+			<v n="7" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					So Jesus 
+					<crossref let="n" cid="c43010007.13">
+				</crossref>
+					again said, 
+					<crossref let="o" cid="c43010007.14">
+				</crossref>
+				to them, “Truly, truly, I say to you, I am the door of the sheep.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010008">
+			</marker>
+			<v n="8">
+				All who 
+				<crossref let="p" cid="c43010008.15">
+				</crossref>
+				came before, 
+				<crossref let="q" cid="c43010008.16">
+				</crossref>
+				me are thieves and robbers, but the sheep did not listen to them.
+			</v>
+			<marker class="begin-verse" mid="v43010009">
+			</marker>
+			<v n="9">
+				I am 
+				<crossref let="r" cid="c43010009.17">
+				</crossref>
+				the door., 
+				<crossref let="s" cid="c43010009.18">
+				</crossref>
+				If anyone enters by me, he will be saved and will go in and out and find pasture.
+				<note nid="n43010009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010010">
+			</marker>
+			<v n="10">
+				The thief 
+				<crossref let="t" cid="c43010010.19">
+				</crossref>
+				comes only, 
+				<crossref let="u" cid="c43010010.20">
+				</crossref>
+				to steal and kill and destroy. I came that they may have life and have it abundantly.
+			</v>
+			<marker class="begin-verse" mid="v43010011">
+			</marker>
+			<v n="11">
+				I am 
+				<crossref let="v" cid="c43010011.21">
+				</crossref>
+				the good, 
+				<crossref let="w" cid="c43010011.22">
+				</crossref>
+				shepherd. The good shepherd lays down his life for the sheep.
+			</v>
+			<marker class="begin-verse" mid="v43010012">
+			</marker>
+			<v n="12">
+				He who 
+				<crossref let="x" cid="c43010012.23">
+				</crossref>
+				is a, 
+				<crossref let="y" cid="c43010012.24">
+				</crossref>
+				hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them.
+				<note nid="n43010012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010013">
+			</marker>
+			<v n="13">
+				He flees 
+				<crossref let="z" cid="c43010013.25">
+				</crossref>
+				because he, 
+				<crossref let="a" cid="c43010013.26">
+				</crossref>
+				is a hired hand and cares nothing for the sheep.
+			</v>
+			<marker class="begin-verse" mid="v43010014">
+			</marker>
+			<v n="14">
+				I am 
+				<crossref let="b" cid="c43010014.27">
+				</crossref>
+				the good, 
+				<crossref let="c" cid="c43010014.28">
+				</crossref>
+				shepherd. I know my own and my own know me,
+			</v>
+			<marker class="begin-verse" mid="v43010015">
+			</marker>
+			<v n="15">
+				just as 
+				<crossref let="d" cid="c43010015.29">
+				</crossref>
+				the Father, 
+				<crossref let="e" cid="c43010015.30">
+				</crossref>
+				knows me and I know the Father; and I lay down my life for the sheep.
+				<note nid="n43010015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010016">
+			</marker>
+			<v n="16">
+				And I 
+				<crossref let="f" cid="c43010016.31">
+				</crossref>
+				have other, 
+				<crossref let="g" cid="c43010016.32">
+				</crossref>
+				sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd.
+			</v>
+			<marker class="begin-verse" mid="v43010017">
+			</marker>
+			<v n="17">
+				For this 
+				<crossref let="h" cid="c43010017.33">
+				</crossref>
+				reason the, 
+				<crossref let="i" cid="c43010017.34">
+				</crossref>
+				Father loves me, because I lay down my life that I may take it up again.
+			</v>
+			<marker class="begin-verse" mid="v43010018">
+			</marker>
+			<v n="18">
+				No one 
+				<crossref let="j" cid="c43010018.35">
+				</crossref>
+				takes it, 
+				<crossref let="k" cid="c43010018.36">
+				</crossref>
+				from me, but I lay it down of my own accord. I have authority to lay it down, and I have authority to take it up again. This charge I have received from my Father.”
+				<note nid="n43010018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010019">
+			</marker>
+			<v n="19">
+				There was 
+				<crossref let="l" cid="c43010019.37">
+				</crossref>
+				again a, 
+				<crossref let="m" cid="c43010019.38">
+				</crossref>
+				division among the Jews because of these words.
+			</v>
+			<marker class="begin-verse" mid="v43010020">
+			</marker>
+			<v n="20">
+				Many of 
+				<crossref let="n" cid="c43010020.39">
+				</crossref>
+				them said,, 
+				<crossref let="o" cid="c43010020.40">
+				</crossref>
+				“He has a demon, and is insane; why listen to him?”
+			</v>
+			<marker class="begin-verse" mid="v43010021">
+			</marker>
+			<v n="21">
+				Others said, 
+				<crossref let="p" cid="c43010021.41">
+				</crossref>
+				“These are, 
+				<crossref let="q" cid="c43010021.42">
+				</crossref>
+				not the words of one who is oppressed by a demon. Can a demon open the eyes of the blind?” I and the Father Are One
+				<note nid="n43010021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010022">
+			</marker>
+			<v n="22">
+				At that 
+				<crossref let="r" cid="c43010022.43">
+				</crossref>
+				time the, 
+				<crossref let="s" cid="c43010022.44">
+				</crossref>
+				Feast of Dedication took place at Jerusalem. It was winter,
+			</v>
+			<marker class="begin-verse" mid="v43010023">
+			</marker>
+			<v n="23">
+				and Jesus 
+				<crossref let="t" cid="c43010023.45">
+				</crossref>
+				was walking, 
+				<crossref let="u" cid="c43010023.46">
+				</crossref>
+				in the temple, in the colonnade of Solomon.
+			</v>
+			<marker class="begin-verse" mid="v43010024">
+			</marker>
+			<v n="24">
+				So the 
+				<crossref let="v" cid="c43010024.47">
+				</crossref>
+				Jews gathered, 
+				<crossref let="w" cid="c43010024.48">
+				</crossref>
+				around him and said to him, “How long will you keep us in suspense? If you are the Christ, tell us plainly.”
+				<note nid="n43010024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010025">
+			</marker>
+			<v n="25" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus answered 
+					<crossref let="x" cid="c43010025.49">
+				</crossref>
+					them, “I, 
+					<crossref let="y" cid="c43010025.50">
+				</crossref>
+				told you, and you do not believe. The works that I do in my Father’s name bear witness about me,
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010026">
+			</marker>
+			<v n="26">
+				but you 
+				<crossref let="z" cid="c43010026.51">
+				</crossref>
+				do not, 
+				<crossref let="a" cid="c43010026.52">
+				</crossref>
+				believe because you are not among my sheep.
+			</v>
+			<marker class="begin-verse" mid="v43010027">
+			</marker>
+			<v n="27">
+				My sheep 
+				<crossref let="b" cid="c43010027.53">
+				</crossref>
+				hear my, 
+				<crossref let="c" cid="c43010027.54">
+				</crossref>
+				voice, and I know them, and they follow me.
+				<note nid="n43010027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010028">
+			</marker>
+			<v n="28">
+				I give 
+				<crossref let="d" cid="c43010028.55">
+				</crossref>
+				them eternal, 
+				<crossref let="e" cid="c43010028.56">
+				</crossref>
+				life, and they will never perish, and no one will snatch them out of my hand.
+			</v>
+			<marker class="begin-verse" mid="v43010029">
+			</marker>
+			<v n="29">
+				My Father, 
+				<crossref let="f" cid="c43010029.57">
+				</crossref>
+				who has, 
+				<crossref let="g" cid="c43010029.58">
+				</crossref>
+				given them to me,(1) is greater than all, and no one is able to snatch them out of the Father’s hand.
+			</v>
+			<marker class="begin-verse" mid="v43010030">
+			</marker>
+			<v n="30">
+				I and 
+				<crossref let="h" cid="c43010030.59">
+				</crossref>
+				the Father, 
+				<crossref let="i" cid="c43010030.60">
+				</crossref>
+				are one.”
+				<note nid="n43010030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010031">
+			</marker>
+			<v n="31">
+				The Jews 
+				<crossref let="j" cid="c43010031.61">
+				</crossref>
+				picked up, 
+				<crossref let="k" cid="c43010031.62">
+				</crossref>
+				stones again to stone him.
+			</v>
+			<marker class="begin-verse" mid="v43010032">
+			</marker>
+			<v n="32" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus answered 
+					<crossref let="l" cid="c43010032.63">
+				</crossref>
+					them, “I, 
+					<crossref let="m" cid="c43010032.64">
+				</crossref>
+				have shown you many good works from the Father; for which of them are you going to stone me?”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010033">
+			</marker>
+			<v n="33">
+				The Jews 
+				<crossref let="n" cid="c43010033.65">
+				</crossref>
+				answered him,, 
+				<crossref let="o" cid="c43010033.66">
+				</crossref>
+				“It is not for a good work that we are going to stone you but for blasphemy, because you, being a man, make yourself God.”
+				<note nid="n43010033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010034">
+			</marker>
+			<v n="34" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus answered 
+					<crossref let="p" cid="c43010034.67">
+				</crossref>
+					them, “Is, 
+					<crossref let="q" cid="c43010034.68">
+				</crossref>
+				it not written in your Law, ‘I said, you are gods’?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010035">
+			</marker>
+			<v n="35">
+				If he 
+				<crossref let="r" cid="c43010035.69">
+				</crossref>
+				called them, 
+				<crossref let="s" cid="c43010035.70">
+				</crossref>
+				gods to whom the word of God came—and Scripture cannot be broken—
+			</v>
+			<marker class="begin-verse" mid="v43010036">
+			</marker>
+			<v n="36">
+				do you 
+				<crossref let="t" cid="c43010036.71">
+				</crossref>
+				say of, 
+				<crossref let="u" cid="c43010036.72">
+				</crossref>
+				him whom the Father consecrated and sent into the world, ‘You are blaspheming,’ because I said, ‘I am the Son of God’?
+				<note nid="n43010036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010037">
+			</marker>
+			<v n="37">
+				If I 
+				<crossref let="v" cid="c43010037.73">
+				</crossref>
+				am not, 
+				<crossref let="w" cid="c43010037.74">
+				</crossref>
+				doing the works of my Father, then do not believe me;
+			</v>
+			<marker class="begin-verse" mid="v43010038">
+			</marker>
+			<v n="38">
+				but if 
+				<crossref let="x" cid="c43010038.75">
+				</crossref>
+				I do, 
+				<crossref let="y" cid="c43010038.76">
+				</crossref>
+				them, even though you do not believe me, believe the works, that you may know and understand that the Father is in me and I am in the Father.”
+			</v>
+			<marker class="begin-verse" mid="v43010039">
+			</marker>
+			<v n="39">
+				Again they 
+				<crossref let="z" cid="c43010039.77">
+				</crossref>
+				sought to, 
+				<crossref let="a" cid="c43010039.78">
+				</crossref>
+				arrest him, but he escaped from their hands.
+				<note nid="n43010039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010040">
+			</marker>
+			<v n="40">
+				He went 
+				<crossref let="b" cid="c43010040.79">
+				</crossref>
+				away again, 
+				<crossref let="c" cid="c43010040.80">
+				</crossref>
+				across the Jordan to the place where John had been baptizing at first, and there he remained.
+			</v>
+			<marker class="begin-verse" mid="v43010041">
+			</marker>
+			<v n="41">
+				And many 
+				<crossref let="d" cid="c43010041.81">
+				</crossref>
+				came to, 
+				<crossref let="e" cid="c43010041.82">
+				</crossref>
+				him. And they said, “John did no sign, but everything that John said about this man was true.”
+			</v>
+			<marker class="begin-verse" mid="v43010042">
+			</marker>
+			<v n="42">
+				And many 
+				<crossref let="f" cid="c43010042.83">
+				</crossref>
+				believed in, 
+				<crossref let="g" cid="c43010042.84">
+				</crossref>
+				him there. Footnotes (1) 10:29 Some manuscripts *What my Father has given to me* (ESV)
+				<note nid="n43010042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43010043">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

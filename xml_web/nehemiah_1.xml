@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:35:56.495104</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:35:56.495112</next_refresh_due>
+	</generation_info>
+	<book title="Nehemiah" num="16" testament="old" version="WEB" bookAbbr="neh">
+		<marker class="begin-verse" mid="v16001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				The words 
+				<crossref let="b" cid="c160011.1"/>
+				 of Nehemiah the son of Hacaliah.Now in the month Chislev, in the twentieth year, as I was in Susa the palace,
+			</v>
+			<marker class="begin-verse" mid="v16001002"/>
+			<v n="2">
+				Hanani, one 
+				<crossref let="c" cid="c160012.1"/>
+				 of my brothers, came, he and certain men out of Judah; and I asked them about the Jews who had escaped, who were left of the captivity, and concerning Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v16001003"/>
+			<v n="3">
+				They said 
+				<crossref let="d" cid="c160013.1"/>
+				 to me, “The remnant who are left of the captivity there in the province are in great affliction and reproach. The wall of Jerusalem is also broken down, and its gates are burned with fire.”
+			</v>
+			<marker class="begin-verse" mid="v16001004"/>
+			<v n="4">
+				When I 
+				<crossref let="e" cid="c160014.1"/>
+				 heard these words, I sat down and wept, and mourned several days; and I fasted and prayed before the God of heaven,
+			</v>
+			<marker class="begin-verse" mid="v16001005"/>
+			<v n="5">
+				and said, 
+				<crossref let="f" cid="c160015.1"/>
+				 “I beg you, Yahweh, the God of heaven, the great and awesome God who keeps covenant and loving kindness with those who love him and keep his commandments,
+			</v>
+			<marker class="begin-verse" mid="v16001006"/>
+			<v n="6">
+				let your 
+				<crossref let="g" cid="c160016.1"/>
+				 ear now be attentive and your eyes open, that you may listen to the prayer of your servant which I pray before you at this time, day and night, for the children of Israel your servants, while I confess the sins of the children of Israel which we have sinned against you. Yes, I and my father’s house have sinned.
+			</v>
+			<marker class="begin-verse" mid="v16001007"/>
+			<v n="7">
+				We have 
+				<crossref let="h" cid="c160017.1"/>
+				 dealt very corruptly against you, and have not kept the commandments, nor the statutes, nor the ordinances, which you commanded your servant Moses.
+			</v>
+			<marker class="begin-verse" mid="v16001008"/>
+			<v n="8">
+				“Remember, I 
+				<crossref let="i" cid="c160018.1"/>
+				 beg you, the word that you commanded your servant Moses, saying, ‘If you trespass, I will scatter you among the peoples;
+			</v>
+			<marker class="begin-verse" mid="v16001009"/>
+			<v n="9">
+				but if 
+				<crossref let="j" cid="c160019.1"/>
+				 you return to me, and keep my commandments and do them, though your outcasts were in the uttermost part of the heavens, yet I will gather them from there, and will bring them to the place that I have chosen, to cause my name to dwell there.’
+			</v>
+			<marker class="begin-verse" mid="v16001010"/>
+			<v n="10">
+				“Now these 
+				<crossref let="k" cid="c1600110.1"/>
+				 are your servants and your people, whom you have redeemed by your great power and by your strong hand.
+			</v>
+			<marker class="begin-verse" mid="v16001011"/>
+			<v n="11">
+				Lord, I 
+				<crossref let="l" cid="c1600111.1"/>
+				 beg you, let your ear be attentive now to the prayer of your servant, and to the prayer of your servants who delight to fear your name; and please prosper your servant today, and grant him mercy in the sight of this man.”Now I was cup bearer to the king.
+			</v>
+			<marker class="begin-verse" mid="v16001012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

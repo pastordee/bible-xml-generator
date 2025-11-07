@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:28:14.607104</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:28:14.607111</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="ASV" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66005001"/>
+		<chapter num="5">
+			<begin-paragraph/>
+			<v n="1">
+				And I 
+				<crossref let="b" cid="c660051.1"/>
+				 saw in the right hand of him that sat on the throne a book written within and on the back, close sealed with seven seals.
+			</v>
+			<marker class="begin-verse" mid="v66005002"/>
+			<v n="2">
+				And I 
+				<crossref let="c" cid="c660052.1"/>
+				 saw a strong angel proclaiming with a great voice, Who is worthy to open the book, and to loose the seals thereof?
+			</v>
+			<marker class="begin-verse" mid="v66005003"/>
+			<v n="3">
+				And no 
+				<crossref let="d" cid="c660053.1"/>
+				 one in the heaven, or on the earth, or under the earth, was able to open the book, or to look thereon.
+			</v>
+			<marker class="begin-verse" mid="v66005004"/>
+			<v n="4">
+				And I 
+				<crossref let="e" cid="c660054.1"/>
+				 wept much, because no one was found worthy to open the book, or to look thereon:
+			</v>
+			<marker class="begin-verse" mid="v66005005"/>
+			<v n="5">
+				and one 
+				<crossref let="f" cid="c660055.1"/>
+				 of the elders saith unto me, Weep not; behold, the Lion that is of the tribe of Judah, the Root of David, hath overcome to open the book and the seven seals thereof.
+			</v>
+			<marker class="begin-verse" mid="v66005006"/>
+			<v n="6">
+				And I 
+				<crossref let="g" cid="c660056.1"/>
+				 saw in the midst of the throne and of the four living creatures, and in the midst of the elders, a Lamb standing, as though it had been slain, having seven horns, and seven eyes, which are the seven Spirits of God, sent forth into all the earth.
+			</v>
+			<marker class="begin-verse" mid="v66005007"/>
+			<v n="7">
+				And he 
+				<crossref let="h" cid="c660057.1"/>
+				 came, and he taketh it out of the right hand of him that sat on the throne.
+			</v>
+			<marker class="begin-verse" mid="v66005008"/>
+			<v n="8">
+				And when 
+				<crossref let="i" cid="c660058.1"/>
+				 he had taken the book, the four living creatures and the four and twenty elders fell down before the Lamb, having each one a harp, and golden bowls full of incense, which are the prayers of the saints.
+			</v>
+			<marker class="begin-verse" mid="v66005009"/>
+			<v n="9">
+				And they 
+				<crossref let="j" cid="c660059.1"/>
+				 sing a new song, saying,Worthy art thou to take the book, and to open the seals thereof: for thou wast slain, and didst purchase unto God with thy blood men of every tribe, and tongue, and people, and nation,
+			</v>
+			<marker class="begin-verse" mid="v66005010"/>
+			<v n="10">
+				and madest 
+				<crossref let="k" cid="c6600510.1"/>
+				 them to be unto our God a kingdom and priests; and they reign upon the earth.
+			</v>
+			<marker class="begin-verse" mid="v66005011"/>
+			<v n="11">
+				And I 
+				<crossref let="l" cid="c6600511.1"/>
+				 saw, and I heard a voice of many angels round about the throne and the living creatures and the elders; and the number of them was ten thousand times ten thousand, and thousands of thousands;
+			</v>
+			<marker class="begin-verse" mid="v66005012"/>
+			<v n="12">
+				saying with 
+				<crossref let="m" cid="c6600512.1"/>
+				 a great voice,Worthy is the Lamb that hath been slain to receive the power, and riches, and wisdom, and might, and honor, and glory, and blessing.
+			</v>
+			<marker class="begin-verse" mid="v66005013"/>
+			<v n="13">
+				And every 
+				<crossref let="n" cid="c6600513.1"/>
+				 created thing which is in the heaven, and on the earth, and under the earth, and on the sea, and all things that are in them, heard I saying,Unto him that sitteth on the throne, and unto the Lamb, be the blessing, and the honor, and the glory, and the dominion, for ever and ever.
+			</v>
+			<marker class="begin-verse" mid="v66005014"/>
+			<v n="14">
+				And the 
+				<crossref let="o" cid="c6600514.1"/>
+				 four living creatures said, Amen. And the elders fell down and worshipped.
+			</v>
+			<marker class="begin-verse" mid="v66005015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

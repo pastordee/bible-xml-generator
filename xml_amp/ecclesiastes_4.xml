@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:14:41.209203</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:14:41.209226</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" version="AMP" bookAbbr="ecc">
+		<marker class="begin-verse" mid="v21004001"/>
+		<chapter num="4">
+			<heading>The Evils of Oppression</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then I 
+				<crossref let="b" cid="c210041.1"/>
+				 looked again and considered all the acts of oppression that were being practiced under the sun. And behold I saw the tears of the oppressed and they had no one to comfort them; and on the side of their oppressors was power, but they had no one to comfort them.
+			</v>
+			<marker class="begin-verse" mid="v21004002"/>
+			<v n="2">
+				So I 
+				<crossref let="c" cid="c210042.1"/>
+				 congratulated and thought more fortunate are those who are already dead than the living who are still living.
+			</v>
+			<marker class="begin-verse" mid="v21004003"/>
+			<v n="3">
+				But better 
+				<crossref let="d" cid="c210043.1"/>
+				 off than either of them is the one who has not yet been born, who has not seen the evil deeds that are done under the sun.
+			</v>
+			<marker class="begin-verse" mid="v21004004"/>
+			<v n="4">
+				I have 
+				<crossref let="e" cid="c210044.1"/>
+				 seen that every [effort in] labor and every skill in work comes from man’s rivalry with his neighbor. This too is vanity (futility, false pride) and chasing after the wind.
+			</v>
+			<marker class="begin-verse" mid="v21004005"/>
+			<v n="5">
+				The fool 
+				<crossref let="f" cid="c210045.1"/>
+				 folds his hands [together] and consumes his own flesh [destroying himself by idleness and apathy].
+			</v>
+			<marker class="begin-verse" mid="v21004006"/>
+			<v n="6">
+				One hand 
+				<crossref let="g" cid="c210046.1"/>
+				 full of rest and patience is better than two fists full of labor and chasing after the wind.
+			</v>
+			<marker class="begin-verse" mid="v21004007"/>
+			<v n="7">
+				Then I 
+				<crossref let="h" cid="c210047.1"/>
+				 looked again at vanity under the sun [in one of its peculiar forms].
+			</v>
+			<marker class="begin-verse" mid="v21004008"/>
+			<v n="8">
+				There was 
+				<crossref let="i" cid="c210048.1"/>
+				 a certain man—without a dependent, having neither a child nor a brother, yet there was no end to all his labor. Indeed, his eyes were not satisfied with riches and he never asked, “For whom do I labor and deprive myself of pleasure?” This too is vanity (a wisp of smoke, self-conceit); yes, it is a painful effort and an unhappy task. [Prov 27:20; 1 John 2:16]
+			</v>
+			<marker class="begin-verse" mid="v21004009"/>
+			<v n="9">
+				Two are 
+				<crossref let="j" cid="c210049.1"/>
+				 better than one because they have a more satisfying return for their labor;
+			</v>
+			<marker class="begin-verse" mid="v21004010"/>
+			<v n="10">
+				for if 
+				<crossref let="k" cid="c2100410.1"/>
+				 either of them falls, the one will lift up his companion. But woe to him who is alone when he falls and does not have another to lift him up.
+			</v>
+			<marker class="begin-verse" mid="v21004011"/>
+			<v n="11">
+				Again, if 
+				<crossref let="l" cid="c2100411.1"/>
+				 two lie down together, then they keep warm; but how can one be warm alone?
+			</v>
+			<marker class="begin-verse" mid="v21004012"/>
+			<v n="12">
+				And though 
+				<crossref let="m" cid="c2100412.1"/>
+				 one can overpower him who is alone, two can resist him. A cord of three strands is not quickly broken.
+			</v>
+			<marker class="begin-verse" mid="v21004013"/>
+			<v n="13">
+				A poor 
+				<crossref let="n" cid="c2100413.1"/>
+				 yet wise youth is better than an old and foolish king who no longer knows how to receive instruction and counsel (friendly reproof, warning)—
+			</v>
+			<marker class="begin-verse" mid="v21004014"/>
+			<v n="14">
+				for the 
+				<crossref let="o" cid="c2100414.1"/>
+				 poor youth has [used his wisdom and] come out of prison to become king, even though he was born poor in his kingdom.
+			</v>
+			<marker class="begin-verse" mid="v21004015"/>
+			<v n="15">
+				I have 
+				<crossref let="p" cid="c2100415.1"/>
+				 seen all the living under the sun join with the second youth (the king’s acknowledged successor) who replaces him.
+			</v>
+			<marker class="begin-verse" mid="v21004016"/>
+			<v n="16">
+				There is 
+				<crossref let="q" cid="c2100416.1"/>
+				 no end to all the people; to all who were before them. Yet those who come later will not be happy with him. Surely this also is vanity (emptiness) and chasing after the wind.
+			</v>
+			<marker class="begin-verse" mid="v21004017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

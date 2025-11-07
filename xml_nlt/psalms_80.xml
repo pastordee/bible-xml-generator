@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:51:16.097026</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:51:16.097043</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19080001"/>
+		<chapter num="80">
+			<heading>For the choir director: A psalm of Asaph, to be sung to the tune “Lilies of the Covenant.”</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Please listen, 
+				<crossref let="b" cid="c190801.1"/>
+				 O Shepherd of Israel,you who lead Joseph’s descendants like a flock.O God, enthroned above the cherubim,display your radiant glory
+			</v>
+			<marker class="begin-verse" mid="v19080002"/>
+			<v n="2">
+				to Ephraim, 
+				<crossref let="c" cid="c190802.1"/>
+				 Benjamin, and Manasseh.Show us your mighty power.Come to rescue us!
+			</v>
+			<marker class="begin-verse" mid="v19080003"/>
+			<v n="3">
+				Turn us 
+				<crossref let="d" cid="c190803.1"/>
+				 again to yourself, O God.Make your face shine down upon us.Only then will we be saved.
+			</v>
+			<marker class="begin-verse" mid="v19080004"/>
+			<v n="4">
+				O Lord 
+				<crossref let="e" cid="c190804.1"/>
+				 God of Heaven’s Armies,how long will you be angry with our prayers?
+			</v>
+			<marker class="begin-verse" mid="v19080005"/>
+			<v n="5">
+				You have 
+				<crossref let="f" cid="c190805.1"/>
+				 fed us with sorrowand made us drink tears by the bucketful.
+			</v>
+			<marker class="begin-verse" mid="v19080006"/>
+			<v n="6">
+				You have 
+				<crossref let="g" cid="c190806.1"/>
+				 made us the scorn of neighboring nations.Our enemies treat us as a joke.
+			</v>
+			<marker class="begin-verse" mid="v19080007"/>
+			<v n="7">
+				Turn us 
+				<crossref let="h" cid="c190807.1"/>
+				 again to yourself, O God of Heaven’s Armies.Make your face shine down upon us.Only then will we be saved.
+			</v>
+			<marker class="begin-verse" mid="v19080008"/>
+			<v n="8">
+				You brought 
+				<crossref let="i" cid="c190808.1"/>
+				 us from Egypt like a grapevine;you drove away the pagan nations and transplanted us into your land.
+			</v>
+			<marker class="begin-verse" mid="v19080009"/>
+			<v n="9">
+				You cleared 
+				<crossref let="j" cid="c190809.1"/>
+				 the ground for us,and we took root and filled the land.
+			</v>
+			<marker class="begin-verse" mid="v19080010"/>
+			<v n="10">
+				Our shade 
+				<crossref let="k" cid="c1908010.1"/>
+				 covered the mountains;our branches covered the mighty cedars.
+			</v>
+			<marker class="begin-verse" mid="v19080011"/>
+			<v n="11">
+				We spread 
+				<crossref let="l" cid="c1908011.1"/>
+				 our branches west to the Mediterranean Sea;our shoots spread east to the Euphrates River.
+			</v>
+			<marker class="begin-verse" mid="v19080012"/>
+			<v n="12">
+				But now, 
+				<crossref let="m" cid="c1908012.1"/>
+				 why have you broken down our wallsso that all who pass by may steal our fruit?
+			</v>
+			<marker class="begin-verse" mid="v19080013"/>
+			<v n="13">
+				The wild 
+				<crossref let="n" cid="c1908013.1"/>
+				 boar from the forest devours it,and the wild animals feed on it.
+			</v>
+			<marker class="begin-verse" mid="v19080014"/>
+			<v n="14">
+				Come back, 
+				<crossref let="o" cid="c1908014.1"/>
+				 we beg you, O God of Heaven’s Armies.Look down from heaven and see our plight.Take care of this grapevine
+			</v>
+			<marker class="begin-verse" mid="v19080015"/>
+			<v n="15">
+				that you 
+				<crossref let="p" cid="c1908015.1"/>
+				 yourself have planted,this son you have raised for yourself.
+			</v>
+			<marker class="begin-verse" mid="v19080016"/>
+			<v n="16">
+				For we 
+				<crossref let="q" cid="c1908016.1"/>
+				 are chopped up and burned by our enemies.May they perish at the sight of your frown.
+			</v>
+			<marker class="begin-verse" mid="v19080017"/>
+			<v n="17">
+				Strengthen the 
+				<crossref let="r" cid="c1908017.1"/>
+				 man you love,the son of your choice.
+			</v>
+			<marker class="begin-verse" mid="v19080018"/>
+			<v n="18">
+				Then we 
+				<crossref let="s" cid="c1908018.1"/>
+				 will never abandon you again.Revive us so we can call on your name once more.
+			</v>
+			<marker class="begin-verse" mid="v19080019"/>
+			<v n="19">
+				Turn us 
+				<crossref let="t" cid="c1908019.1"/>
+				 again to yourself, O Lord God of Heaven’s Armies.Make your face shine down upon us.Only then will we be saved.
+			</v>
+			<marker class="begin-verse" mid="v19080020"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

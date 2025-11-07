@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:15:41.859704</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:15:41.859712</next_refresh_due>
+	</generation_info>
+	<book title="1 Chronicles" num="13" testament="old" version="ASV" bookAbbr="1ch">
+		<marker class="begin-verse" mid="v13013001"/>
+		<chapter num="13">
+			<begin-paragraph/>
+			<v n="1">
+				And David 
+				<crossref let="b" cid="c130131.1"/>
+				 consulted with the captains of thousands and of hundreds, even with every leader.
+			</v>
+			<marker class="begin-verse" mid="v13013002"/>
+			<v n="2">
+				And David 
+				<crossref let="c" cid="c130132.1"/>
+				 said unto all the assembly of Israel, If it seem good unto you, and if it be of Jehovah our God, let us send abroad every where unto our brethren that are left in all the land of Israel, with whom the priests and Levites are in their cities that have suburbs, that they may gather themselves unto us;
+			</v>
+			<marker class="begin-verse" mid="v13013003"/>
+			<v n="3">
+				and let 
+				<crossref let="d" cid="c130133.1"/>
+				 us bring again the ark of our God to us: for we sought not unto it in the days of Saul.
+			</v>
+			<marker class="begin-verse" mid="v13013004"/>
+			<v n="4">
+				And all 
+				<crossref let="e" cid="c130134.1"/>
+				 the assembly said that they would do so; for the thing was right in the eyes of all the people.
+			</v>
+			<marker class="begin-verse" mid="v13013005"/>
+			<v n="5">
+				So David 
+				<crossref let="f" cid="c130135.1"/>
+				 assembled all Israel together, from the Shihor the brook of Egypt even unto the entrance of Hamath, to bring the ark of God from Kiriath-jearim.
+			</v>
+			<marker class="begin-verse" mid="v13013006"/>
+			<v n="6">
+				And David 
+				<crossref let="g" cid="c130136.1"/>
+				 went up, and all Israel, to Baalah, that is, to Kiriath-jearim, which belonged to Judah, to bring up from thence the ark of God Jehovah that sitteth above the cherubim, that is called by the Name.
+			</v>
+			<marker class="begin-verse" mid="v13013007"/>
+			<v n="7">
+				And they 
+				<crossref let="h" cid="c130137.1"/>
+				 carried the ark of God upon a new cart, and brought it out of the house of Abinadab: and Uzza and Ahio drove the cart.
+			</v>
+			<marker class="begin-verse" mid="v13013008"/>
+			<v n="8">
+				And David 
+				<crossref let="i" cid="c130138.1"/>
+				 and all Israel played before God with all their might, even with songs, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.
+			</v>
+			<marker class="begin-verse" mid="v13013009"/>
+			<v n="9">
+				And when 
+				<crossref let="j" cid="c130139.1"/>
+				 they came unto the threshing-floor of Chidon, Uzza put forth his hand to hold the ark; for the oxen stumbled.
+			</v>
+			<marker class="begin-verse" mid="v13013010"/>
+			<v n="10">
+				And the 
+				<crossref let="k" cid="c1301310.1"/>
+				 anger of Jehovah was kindled against Uzza, and he smote him, because he put forth his hand to the ark; and there he died before God.
+			</v>
+			<marker class="begin-verse" mid="v13013011"/>
+			<v n="11">
+				And David 
+				<crossref let="l" cid="c1301311.1"/>
+				 was displeased, because Jehovah had broken forth upon Uzza: and he called that place Perez-uzza, unto this day.
+			</v>
+			<marker class="begin-verse" mid="v13013012"/>
+			<v n="12">
+				And David 
+				<crossref let="m" cid="c1301312.1"/>
+				 was afraid of God that day, saying, How shall I bring the ark of God home to me?
+			</v>
+			<marker class="begin-verse" mid="v13013013"/>
+			<v n="13">
+				So David 
+				<crossref let="n" cid="c1301313.1"/>
+				 removed not the ark unto him into the city of David, but carried it aside into the house of Obed-edom the Gittite.
+			</v>
+			<marker class="begin-verse" mid="v13013014"/>
+			<v n="14">
+				And the 
+				<crossref let="o" cid="c1301314.1"/>
+				 ark of God remained with the family of Obed-edom in his house three months: and Jehovah blessed the house of Obed-edom, and all that he had.
+			</v>
+			<marker class="begin-verse" mid="v13013015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

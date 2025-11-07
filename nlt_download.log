@@ -1,0 +1,750 @@
+============================================================
+DOWNLOADING NLT ONLY
+============================================================
+
+📊 Current Status: 989/1189 chapters (83%)
+
+📖 Fetching metadata for NLT...
+✅ New Living Translation
+
+📚 Genesis (50 chapters)
+
+📚 Exodus (40 chapters)
+
+📚 Leviticus (27 chapters)
+
+📚 Numbers (36 chapters)
+  📥 Chapter 10...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/NUM.10
+  Saved: numbers_10.xml
+ ✅
+
+📚 Deuteronomy (34 chapters)
+
+📚 Joshua (24 chapters)
+
+📚 Judges (21 chapters)
+
+📚 Ruth (4 chapters)
+
+📚 1 Samuel (31 chapters)
+
+📚 2 Samuel (24 chapters)
+
+📚 1 Kings (22 chapters)
+
+📚 2 Kings (25 chapters)
+
+📚 1 Chronicles (29 chapters)
+
+📚 2 Chronicles (36 chapters)
+
+📚 Ezra (10 chapters)
+
+📚 Nehemiah (13 chapters)
+
+📚 Esther (10 chapters)
+
+📚 Job (42 chapters)
+
+📚 Psalms (150 chapters)
+
+📚 Proverbs (31 chapters)
+
+📚 Ecclesiastes (12 chapters)
+
+📚 Song of Solomon (8 chapters)
+
+📚 Isaiah (66 chapters)
+
+📚 Jeremiah (52 chapters)
+
+📚 Lamentations (5 chapters)
+
+📚 Ezekiel (48 chapters)
+
+📚 Daniel (12 chapters)
+
+📚 Hosea (14 chapters)
+
+📚 Joel (3 chapters)
+
+📚 Amos (9 chapters)
+
+📚 Obadiah (1 chapters)
+
+📚 Jonah (4 chapters)
+
+📚 Micah (7 chapters)
+
+📚 Nahum (3 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/NAH.1
+Error: API.Bible returned status code 404
+Response: {"statusCode":404,"error":"Not Found","message":"We couldn't find a chapter that matched the provided chapterId and bibleId."}
+ ⚠️  Skipped (not available)
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/NAH.2
+Error: API.Bible returned status code 404
+Response: {"statusCode":404,"error":"Not Found","message":"We couldn't find a chapter that matched the provided chapterId and bibleId."}
+ ⚠️  Skipped (not available)
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/NAH.3
+Error: API.Bible returned status code 404
+Response: {"statusCode":404,"error":"Not Found","message":"We couldn't find a chapter that matched the provided chapterId and bibleId."}
+ ⚠️  Skipped (not available)
+
+📚 Habakkuk (3 chapters)
+
+📚 Zephaniah (3 chapters)
+
+📚 Haggai (2 chapters)
+
+📚 Zechariah (14 chapters)
+
+📚 Malachi (4 chapters)
+
+📚 Matthew (28 chapters)
+
+📚 Mark (16 chapters)
+
+📚 Luke (24 chapters)
+  📥 Chapter 21...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/LUK.21
+  Saved: luke_21.xml
+ ✅
+  📥 Chapter 22...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/LUK.22
+  Saved: luke_22.xml
+ ✅
+  📥 Chapter 23...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/LUK.23
+  Saved: luke_23.xml
+ ✅
+  📥 Chapter 24...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/LUK.24
+  Saved: luke_24.xml
+ ✅
+
+📚 John (21 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.1
+  Saved: john_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.2
+  Saved: john_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.3
+  Saved: john_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.4
+  Saved: john_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.5
+  Saved: john_5.xml
+ ✅
+  📥 Chapter 6...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.6
+  Saved: john_6.xml
+ ✅
+  📥 Chapter 7...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.7
+  Saved: john_7.xml
+ ✅
+  📥 Chapter 8...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.8
+  Saved: john_8.xml
+ ✅
+  📥 Chapter 9...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.9
+  Saved: john_9.xml
+ ✅
+  📥 Chapter 10...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.10
+  Saved: john_10.xml
+ ✅
+  📥 Chapter 11...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.11
+  Saved: john_11.xml
+ ✅
+  📥 Chapter 12...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.12
+  Saved: john_12.xml
+ ✅
+  📥 Chapter 13...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.13
+  Saved: john_13.xml
+ ✅
+  📥 Chapter 14...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.14
+  Saved: john_14.xml
+ ✅
+  📥 Chapter 15...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.15
+  Saved: john_15.xml
+ ✅
+  📥 Chapter 16...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.16
+  Saved: john_16.xml
+ ✅
+  📥 Chapter 17...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.17
+  Saved: john_17.xml
+ ✅
+  📥 Chapter 18...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.18
+  Saved: john_18.xml
+ ✅
+  📥 Chapter 19...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.19
+  Saved: john_19.xml
+ ✅
+  📥 Chapter 20...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.20
+  Saved: john_20.xml
+ ✅
+  📥 Chapter 21...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JHN.21
+  Saved: john_21.xml
+ ✅
+
+📚 Acts (28 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.1
+  Saved: acts_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.2
+  Saved: acts_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.3
+  Saved: acts_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.4
+  Saved: acts_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.5
+  Saved: acts_5.xml
+ ✅
+  📥 Chapter 6...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.6
+  Saved: acts_6.xml
+ ✅
+  📥 Chapter 7...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.7
+  Saved: acts_7.xml
+ ✅
+  📥 Chapter 8...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.8
+  Saved: acts_8.xml
+ ✅
+  📥 Chapter 9...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.9
+  Saved: acts_9.xml
+ ✅
+  📥 Chapter 10...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.10
+  Saved: acts_10.xml
+ ✅
+  📥 Chapter 11...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.11
+  Saved: acts_11.xml
+ ✅
+  📥 Chapter 12...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.12
+  Saved: acts_12.xml
+ ✅
+  📥 Chapter 13...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.13
+  Saved: acts_13.xml
+ ✅
+  📥 Chapter 14...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.14
+  Saved: acts_14.xml
+ ✅
+  📥 Chapter 15...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.15
+  Saved: acts_15.xml
+ ✅
+  📥 Chapter 16...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.16
+  Saved: acts_16.xml
+ ✅
+  📥 Chapter 17...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.17
+  Saved: acts_17.xml
+ ✅
+  📥 Chapter 18...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.18
+  Saved: acts_18.xml
+ ✅
+  📥 Chapter 19...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.19
+  Saved: acts_19.xml
+ ✅
+  📥 Chapter 20...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.20
+  Saved: acts_20.xml
+ ✅
+  📥 Chapter 21...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.21
+  Saved: acts_21.xml
+ ✅
+  📥 Chapter 22...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.22
+  Saved: acts_22.xml
+ ✅
+  📥 Chapter 23...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.23
+  Saved: acts_23.xml
+ ✅
+  📥 Chapter 24...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.24
+  Saved: acts_24.xml
+ ✅
+  📥 Chapter 25...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.25
+  Saved: acts_25.xml
+ ✅
+  📥 Chapter 26...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.26
+  Saved: acts_26.xml
+ ✅
+  📥 Chapter 27...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.27
+  Saved: acts_27.xml
+ ✅
+  📥 Chapter 28...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ACT.28
+  Saved: acts_28.xml
+ ✅
+
+📚 Romans (16 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.1
+  Saved: romans_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.2
+  Saved: romans_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.3
+  Saved: romans_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.4
+  Saved: romans_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.5
+  Saved: romans_5.xml
+ ✅
+  📥 Chapter 6...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.6
+  Saved: romans_6.xml
+ ✅
+  📥 Chapter 7...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.7
+  Saved: romans_7.xml
+ ✅
+  📥 Chapter 8...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.8
+  Saved: romans_8.xml
+ ✅
+  📥 Chapter 9...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.9
+  Saved: romans_9.xml
+ ✅
+  📥 Chapter 10...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.10
+  Saved: romans_10.xml
+ ✅
+  📥 Chapter 11...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.11
+  Saved: romans_11.xml
+ ✅
+  📥 Chapter 12...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.12
+  Saved: romans_12.xml
+ ✅
+  📥 Chapter 13...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.13
+  Saved: romans_13.xml
+ ✅
+  📥 Chapter 14...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.14
+  Saved: romans_14.xml
+ ✅
+  📥 Chapter 15...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.15
+  Saved: romans_15.xml
+ ✅
+  📥 Chapter 16...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/ROM.16
+  Saved: romans_16.xml
+ ✅
+
+📚 1 Corinthians (16 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.1
+  Saved: 1_corinthians_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.2
+  Saved: 1_corinthians_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.3
+  Saved: 1_corinthians_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.4
+  Saved: 1_corinthians_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.5
+  Saved: 1_corinthians_5.xml
+ ✅
+  📥 Chapter 6...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.6
+  Saved: 1_corinthians_6.xml
+ ✅
+  📥 Chapter 7...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.7
+  Saved: 1_corinthians_7.xml
+ ✅
+  📥 Chapter 8...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.8
+  Saved: 1_corinthians_8.xml
+ ✅
+  📥 Chapter 9...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.9
+  Saved: 1_corinthians_9.xml
+ ✅
+  📥 Chapter 10...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.10
+  Saved: 1_corinthians_10.xml
+ ✅
+  📥 Chapter 11...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.11
+  Saved: 1_corinthians_11.xml
+ ✅
+  📥 Chapter 12...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.12
+  Saved: 1_corinthians_12.xml
+ ✅
+  📥 Chapter 13...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.13
+  Saved: 1_corinthians_13.xml
+ ✅
+  📥 Chapter 14...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.14
+  Saved: 1_corinthians_14.xml
+ ✅
+  📥 Chapter 15...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.15
+  Saved: 1_corinthians_15.xml
+ ✅
+  📥 Chapter 16...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1CO.16
+  Saved: 1_corinthians_16.xml
+ ✅
+
+📚 2 Corinthians (13 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.1
+  Saved: 2_corinthians_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.2
+  Saved: 2_corinthians_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.3
+  Saved: 2_corinthians_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.4
+  Saved: 2_corinthians_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.5
+  Saved: 2_corinthians_5.xml
+ ✅
+  📥 Chapter 6...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.6
+  Saved: 2_corinthians_6.xml
+ ✅
+  📥 Chapter 7...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.7
+  Saved: 2_corinthians_7.xml
+ ✅
+  📥 Chapter 8...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.8
+  Saved: 2_corinthians_8.xml
+ ✅
+  📥 Chapter 9...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.9
+  Saved: 2_corinthians_9.xml
+ ✅
+  📥 Chapter 10...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.10
+  Saved: 2_corinthians_10.xml
+ ✅
+  📥 Chapter 11...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.11
+  Saved: 2_corinthians_11.xml
+ ✅
+  📥 Chapter 12...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.12
+  Saved: 2_corinthians_12.xml
+ ✅
+  📥 Chapter 13...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2CO.13
+  Saved: 2_corinthians_13.xml
+ ✅
+
+📚 Galatians (6 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/GAL.1
+  Saved: galatians_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/GAL.2
+  Saved: galatians_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/GAL.3
+  Saved: galatians_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/GAL.4
+  Saved: galatians_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/GAL.5
+  Saved: galatians_5.xml
+ ✅
+  📥 Chapter 6...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/GAL.6
+  Saved: galatians_6.xml
+ ✅
+
+📚 Ephesians (6 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/EPH.1
+  Saved: ephesians_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/EPH.2
+  Saved: ephesians_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/EPH.3
+  Saved: ephesians_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/EPH.4
+  Saved: ephesians_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/EPH.5
+  Saved: ephesians_5.xml
+ ✅
+  📥 Chapter 6...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/EPH.6
+  Saved: ephesians_6.xml
+ ✅
+
+📚 Philippians (4 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/PHP.1
+  Saved: philippians_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/PHP.2
+  Saved: philippians_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/PHP.3
+  Saved: philippians_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/PHP.4
+  Saved: philippians_4.xml
+ ✅
+
+📚 Colossians (4 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/COL.1
+  Saved: colossians_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/COL.2
+  Saved: colossians_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/COL.3
+  Saved: colossians_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/COL.4
+  Saved: colossians_4.xml
+ ✅
+
+📚 1 Thessalonians (5 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TH.1
+  Saved: 1_thessalonians_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TH.2
+  Saved: 1_thessalonians_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TH.3
+  Saved: 1_thessalonians_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TH.4
+  Saved: 1_thessalonians_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TH.5
+  Saved: 1_thessalonians_5.xml
+ ✅
+
+📚 2 Thessalonians (3 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2TH.1
+  Saved: 2_thessalonians_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2TH.2
+  Saved: 2_thessalonians_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2TH.3
+  Saved: 2_thessalonians_3.xml
+ ✅
+
+📚 1 Timothy (6 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TI.1
+  Saved: 1_timothy_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TI.2
+  Saved: 1_timothy_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TI.3
+  Saved: 1_timothy_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TI.4
+  Saved: 1_timothy_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TI.5
+  Saved: 1_timothy_5.xml
+ ✅
+  📥 Chapter 6...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1TI.6
+  Saved: 1_timothy_6.xml
+ ✅
+
+📚 2 Timothy (4 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2TI.1
+  Saved: 2_timothy_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2TI.2
+  Saved: 2_timothy_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2TI.3
+  Saved: 2_timothy_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2TI.4
+  Saved: 2_timothy_4.xml
+ ✅
+
+📚 Titus (3 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/TIT.1
+  Saved: titus_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/TIT.2
+  Saved: titus_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/TIT.3
+  Saved: titus_3.xml
+ ✅
+
+📚 Philemon (1 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/PHM.1
+  Saved: philemon_1.xml
+ ✅
+
+📚 Hebrews (13 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.1
+  Saved: hebrews_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.2
+  Saved: hebrews_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.3
+  Saved: hebrews_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.4
+  Saved: hebrews_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.5
+  Saved: hebrews_5.xml
+ ✅
+  📥 Chapter 6...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.6
+  Saved: hebrews_6.xml
+ ✅
+  📥 Chapter 7...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.7
+  Saved: hebrews_7.xml
+ ✅
+  📥 Chapter 8...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.8
+  Saved: hebrews_8.xml
+ ✅
+  📥 Chapter 9...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.9
+  Saved: hebrews_9.xml
+ ✅
+  📥 Chapter 10...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.10
+  Saved: hebrews_10.xml
+ ✅
+  📥 Chapter 11...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.11
+  Saved: hebrews_11.xml
+ ✅
+  📥 Chapter 12...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.12
+  Saved: hebrews_12.xml
+ ✅
+  📥 Chapter 13...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/HEB.13
+  Saved: hebrews_13.xml
+ ✅
+
+📚 James (5 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JAS.1
+  Saved: james_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JAS.2
+  Saved: james_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JAS.3
+  Saved: james_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JAS.4
+  Saved: james_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JAS.5
+  Saved: james_5.xml
+ ✅
+
+📚 1 Peter (5 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1PE.1
+  Saved: 1_peter_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1PE.2
+  Saved: 1_peter_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1PE.3
+  Saved: 1_peter_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1PE.4
+  Saved: 1_peter_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1PE.5
+  Saved: 1_peter_5.xml
+ ✅
+
+📚 2 Peter (3 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2PE.1
+  Saved: 2_peter_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2PE.2
+  Saved: 2_peter_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2PE.3
+  Saved: 2_peter_3.xml
+ ✅
+
+📚 1 John (5 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1JN.1
+  Saved: 1_john_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1JN.2
+  Saved: 1_john_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1JN.3
+  Saved: 1_john_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1JN.4
+  Saved: 1_john_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/1JN.5
+  Saved: 1_john_5.xml
+ ✅
+
+📚 2 John (1 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/2JN.1
+  Saved: 2_john_1.xml
+ ✅
+
+📚 3 John (1 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/3JN.1
+  Saved: 3_john_1.xml
+ ✅
+
+📚 Jude (1 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/JUD.1
+  Saved: jude_1.xml
+ ✅
+
+📚 Revelation (22 chapters)
+  📥 Chapter 1...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.1
+  Saved: revelation_1.xml
+ ✅
+  📥 Chapter 2...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.2
+  Saved: revelation_2.xml
+ ✅
+  📥 Chapter 3...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.3
+  Saved: revelation_3.xml
+ ✅
+  📥 Chapter 4...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.4
+  Saved: revelation_4.xml
+ ✅
+  📥 Chapter 5...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.5
+  Saved: revelation_5.xml
+ ✅
+  📥 Chapter 6...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.6
+  Saved: revelation_6.xml
+ ✅
+  📥 Chapter 7...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.7
+  Saved: revelation_7.xml
+ ✅
+  📥 Chapter 8...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.8
+  Saved: revelation_8.xml
+ ✅
+  📥 Chapter 9...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.9
+  Saved: revelation_9.xml
+ ✅
+  📥 Chapter 10...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.10
+  Saved: revelation_10.xml
+ ✅
+  📥 Chapter 11...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.11
+  Saved: revelation_11.xml
+ ✅
+  📥 Chapter 12...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.12
+  Saved: revelation_12.xml
+ ✅
+  📥 Chapter 13...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.13
+  Saved: revelation_13.xml
+ ✅
+  📥 Chapter 14...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.14
+  Saved: revelation_14.xml
+ ✅
+  📥 Chapter 15...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.15
+  Saved: revelation_15.xml
+ ✅
+  📥 Chapter 16...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.16
+  Saved: revelation_16.xml
+ ✅
+  📥 Chapter 17...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.17
+  Saved: revelation_17.xml
+ ✅
+  📥 Chapter 18...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.18
+  Saved: revelation_18.xml
+ ✅
+  📥 Chapter 19...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.19
+  Saved: revelation_19.xml
+ ✅
+  📥 Chapter 20...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.20
+  Saved: revelation_20.xml
+ ✅
+  📥 Chapter 21...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.21
+  Saved: revelation_21.xml
+ ✅
+  📥 Chapter 22...  Requesting URL: https://rest.api.bible/v1/bibles/d6e14a625393b4da-01/chapters/REV.22
+  Saved: revelation_22.xml
+ ✅
+
+============================================================
+✅ NLT Download Complete!
+   Downloaded: 197 new chapters
+   Skipped: 989 existing chapters
+   Total: 1186/1189 chapters
+============================================================

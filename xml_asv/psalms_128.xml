@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:38:15.580660</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:38:15.580672</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19128001"/>
+		<chapter num="128">
+			<heading>A Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Blessed is 
+				<crossref let="b" cid="c191281.1"/>
+				 every one that feareth Jehovah,That walketh in his ways.
+			</v>
+			<marker class="begin-verse" mid="v19128002"/>
+			<v n="2">
+				For thou 
+				<crossref let="c" cid="c191282.1"/>
+				 shalt eat the labor of thy hands:Happy shalt thou be, and it shall be well with thee.
+			</v>
+			<marker class="begin-verse" mid="v19128003"/>
+			<v n="3">
+				Thy wife 
+				<crossref let="d" cid="c191283.1"/>
+				 shall be as a fruitful vine,In the innermost parts of thy house;Thy children like olive plants,Round about thy table.
+			</v>
+			<marker class="begin-verse" mid="v19128004"/>
+			<v n="4">
+				Behold, thus 
+				<crossref let="e" cid="c191284.1"/>
+				 shall the man be blessedThat feareth Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19128005"/>
+			<v n="5">
+				Jehovah bless 
+				<crossref let="f" cid="c191285.1"/>
+				 thee out of Zion:And see thou the good of Jerusalem all the days of thy life.
+			</v>
+			<marker class="begin-verse" mid="v19128006"/>
+			<v n="6">
+				Yea, see 
+				<crossref let="g" cid="c191286.1"/>
+				 thou thy children’s children.Peace be upon Israel.
+			</v>
+			<marker class="begin-verse" mid="v19128007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

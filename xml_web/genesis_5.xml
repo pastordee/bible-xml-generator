@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:59:29.779620</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:59:29.779630</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="WEB" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01005001"/>
+		<chapter num="5">
+			<begin-paragraph/>
+			<v n="1">
+				This is 
+				<crossref let="b" cid="c010051.1"/>
+				 the book of the generations of Adam. In the day that God created man, he made him in God’s likeness.
+			</v>
+			<marker class="begin-verse" mid="v01005002"/>
+			<v n="2">
+				He created 
+				<crossref let="c" cid="c010052.1"/>
+				 them male and female, and blessed them. On the day they were created, he named them Adam.
+			</v>
+			<marker class="begin-verse" mid="v01005003"/>
+			<v n="3">
+				Adam lived 
+				<crossref let="d" cid="c010053.1"/>
+				 one hundred thirty years, and became the father of a son in his own likeness, after his image, and named him Seth.
+			</v>
+			<marker class="begin-verse" mid="v01005004"/>
+			<v n="4">
+				The days 
+				<crossref let="e" cid="c010054.1"/>
+				 of Adam after he became the father of Seth were eight hundred years, and he became the father of other sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01005005"/>
+			<v n="5">
+				All the 
+				<crossref let="f" cid="c010055.1"/>
+				 days that Adam lived were nine hundred thirty years, then he died.
+			</v>
+			<marker class="begin-verse" mid="v01005006"/>
+			<v n="6">
+				Seth lived 
+				<crossref let="g" cid="c010056.1"/>
+				 one hundred five years, then became the father of Enosh.
+			</v>
+			<marker class="begin-verse" mid="v01005007"/>
+			<v n="7">
+				Seth lived 
+				<crossref let="h" cid="c010057.1"/>
+				 after he became the father of Enosh eight hundred seven years, and became the father of other sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01005008"/>
+			<v n="8">
+				All of 
+				<crossref let="i" cid="c010058.1"/>
+				 the days of Seth were nine hundred twelve years, then he died.
+			</v>
+			<marker class="begin-verse" mid="v01005009"/>
+			<v n="9">
+				Enosh lived 
+				<crossref let="j" cid="c010059.1"/>
+				 ninety years, and became the father of Kenan.
+			</v>
+			<marker class="begin-verse" mid="v01005010"/>
+			<v n="10">
+				Enosh lived 
+				<crossref let="k" cid="c0100510.1"/>
+				 after he became the father of Kenan eight hundred fifteen years, and became the father of other sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01005011"/>
+			<v n="11">
+				All of 
+				<crossref let="l" cid="c0100511.1"/>
+				 the days of Enosh were nine hundred five years, then he died.
+			</v>
+			<marker class="begin-verse" mid="v01005012"/>
+			<v n="12">
+				Kenan lived 
+				<crossref let="m" cid="c0100512.1"/>
+				 seventy years, then became the father of Mahalalel.
+			</v>
+			<marker class="begin-verse" mid="v01005013"/>
+			<v n="13">
+				Kenan lived 
+				<crossref let="n" cid="c0100513.1"/>
+				 after he became the father of Mahalalel eight hundred forty years, and became the father of other sons and daughters
+			</v>
+			<marker class="begin-verse" mid="v01005014"/>
+			<v n="14">
+				and all 
+				<crossref let="o" cid="c0100514.1"/>
+				 of the days of Kenan were nine hundred ten years, then he died.
+			</v>
+			<marker class="begin-verse" mid="v01005015"/>
+			<v n="15">
+				Mahalalel lived 
+				<crossref let="p" cid="c0100515.1"/>
+				 sixty-five years, then became the father of Jared.
+			</v>
+			<marker class="begin-verse" mid="v01005016"/>
+			<v n="16">
+				Mahalalel lived 
+				<crossref let="q" cid="c0100516.1"/>
+				 after he became the father of Jared eight hundred thirty years, and became the father of other sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01005017"/>
+			<v n="17">
+				All of 
+				<crossref let="r" cid="c0100517.1"/>
+				 the days of Mahalalel were eight hundred ninety-five years, then he died.
+			</v>
+			<marker class="begin-verse" mid="v01005018"/>
+			<v n="18">
+				Jared lived 
+				<crossref let="s" cid="c0100518.1"/>
+				 one hundred sixty-two years, then became the father of Enoch.
+			</v>
+			<marker class="begin-verse" mid="v01005019"/>
+			<v n="19">
+				Jared lived 
+				<crossref let="t" cid="c0100519.1"/>
+				 after he became the father of Enoch eight hundred years, and became the father of other sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01005020"/>
+			<v n="20">
+				All of 
+				<crossref let="u" cid="c0100520.1"/>
+				 the days of Jared were nine hundred sixty-two years, then he died.
+			</v>
+			<marker class="begin-verse" mid="v01005021"/>
+			<v n="21">
+				Enoch lived 
+				<crossref let="v" cid="c0100521.1"/>
+				 sixty-five years, then became the father of Methuselah.
+			</v>
+			<marker class="begin-verse" mid="v01005022"/>
+			<v n="22">
+				After Methuselah’s 
+				<crossref let="w" cid="c0100522.1"/>
+				 birth, Enoch walked with God for three hundred years, and became the father of more sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01005023"/>
+			<v n="23">
+				All the 
+				<crossref let="x" cid="c0100523.1"/>
+				 days of Enoch were three hundred sixty-five years.
+			</v>
+			<marker class="begin-verse" mid="v01005024"/>
+			<v n="24">
+				Enoch walked 
+				<crossref let="y" cid="c0100524.1"/>
+				 with God, and he was not found, for God took him.
+			</v>
+			<marker class="begin-verse" mid="v01005025"/>
+			<v n="25">
+				Methuselah lived 
+				<crossref let="z" cid="c0100525.1"/>
+				 one hundred eighty-seven years, then became the father of Lamech.
+			</v>
+			<marker class="begin-verse" mid="v01005026"/>
+			<v n="26">
+				Methuselah lived 
+				<crossref let="a" cid="c0100526.1"/>
+				 after he became the father of Lamech seven hundred eighty-two years, and became the father of other sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01005027"/>
+			<v n="27">
+				All the 
+				<crossref let="b" cid="c0100527.1"/>
+				 days of Methuselah were nine hundred sixty-nine years, then he died.
+			</v>
+			<marker class="begin-verse" mid="v01005028"/>
+			<v n="28">
+				Lamech lived 
+				<crossref let="c" cid="c0100528.1"/>
+				 one hundred eighty-two years, then became the father of a son.
+			</v>
+			<marker class="begin-verse" mid="v01005029"/>
+			<v n="29">
+				He named 
+				<crossref let="d" cid="c0100529.1"/>
+				 him Noah, saying, “This one will comfort us in our work and in the toil of our hands, caused by the ground which Yahweh has cursed.”
+			</v>
+			<marker class="begin-verse" mid="v01005030"/>
+			<v n="30">
+				Lamech lived 
+				<crossref let="e" cid="c0100530.1"/>
+				 after he became the father of Noah five hundred ninety-five years, and became the father of other sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01005031"/>
+			<v n="31">
+				All the 
+				<crossref let="f" cid="c0100531.1"/>
+				 days of Lamech were seven hundred seventy-seven years, then he died.
+			</v>
+			<marker class="begin-verse" mid="v01005032"/>
+			<v n="32">
+				Noah was 
+				<crossref let="g" cid="c0100532.1"/>
+				 five hundred years old, then Noah became the father of Shem, Ham, and Japheth.
+			</v>
+			<marker class="begin-verse" mid="v01005033"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

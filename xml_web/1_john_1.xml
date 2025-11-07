@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:42:00.113786</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:42:00.113797</next_refresh_due>
+	</generation_info>
+	<book title="1 John" num="62" testament="new" version="WEB" bookAbbr="1jn">
+		<marker class="begin-verse" mid="v62001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				That which 
+				<crossref let="b" cid="c620011.1"/>
+				 was from the beginning, that which we have heard, that which we have seen with our eyes, that which we saw, and our hands touched, concerning the Word of life
+			</v>
+			<marker class="begin-verse" mid="v62001002"/>
+			<v n="2">
+				(and the 
+				<crossref let="c" cid="c620012.1"/>
+				 life was revealed, and we have seen, and testify, and declare to you the life, the eternal life, which was with the Father, and was revealed to us);
+			</v>
+			<marker class="begin-verse" mid="v62001003"/>
+			<v n="3">
+				that which 
+				<crossref let="d" cid="c620013.1"/>
+				 we have seen and heard we declare to you, that you also may have fellowship with us. Yes, and our fellowship is with the Father and with his Son, Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v62001004"/>
+			<v n="4">
+				And we 
+				<crossref let="e" cid="c620014.1"/>
+				 write these things to you, that our joy may be fulfilled.
+			</v>
+			<marker class="begin-verse" mid="v62001005"/>
+			<v n="5">
+				This is 
+				<crossref let="f" cid="c620015.1"/>
+				 the message which we have heard from him and announce to you, that God is light, and in him is no darkness at all.
+			</v>
+			<marker class="begin-verse" mid="v62001006"/>
+			<v n="6">
+				If we 
+				<crossref let="g" cid="c620016.1"/>
+				 say that we have fellowship with him and walk in the darkness, we lie and don’t tell the truth.
+			</v>
+			<marker class="begin-verse" mid="v62001007"/>
+			<v n="7">
+				But if 
+				<crossref let="h" cid="c620017.1"/>
+				 we walk in the light as he is in the light, we have fellowship with one another, and the blood of Jesus Christ his Son, cleanses us from all sin.
+			</v>
+			<marker class="begin-verse" mid="v62001008"/>
+			<v n="8">
+				If we 
+				<crossref let="i" cid="c620018.1"/>
+				 say that we have no sin, we deceive ourselves, and the truth is not in us.
+			</v>
+			<marker class="begin-verse" mid="v62001009"/>
+			<v n="9">
+				If we 
+				<crossref let="j" cid="c620019.1"/>
+				 confess our sins, he is faithful and righteous to forgive us the sins and to cleanse us from all unrighteousness.
+			</v>
+			<marker class="begin-verse" mid="v62001010"/>
+			<v n="10">
+				If we 
+				<crossref let="k" cid="c6200110.1"/>
+				 say that we haven’t sinned, we make him a liar, and his word is not in us.
+			</v>
+			<marker class="begin-verse" mid="v62001011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

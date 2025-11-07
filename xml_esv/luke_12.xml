@@ -1,0 +1,753 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:23.089362</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:23.089371</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				Luke 12
+			</heading>
+			<heading>
+				Beware of the Leaven of the Pharisees
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				In the 
+				<crossref let="b" cid="c42012001.1">
+				</crossref>
+				meantime, when, 
+				<crossref let="c" cid="c42012001.2">
+				</crossref>
+				so many thousands of the people had gathered together that they were trampling one another, he began to say to his disciples first, “Beware of the leaven of the Pharisees, which is hypocrisy.
+			</v>
+			<marker class="begin-verse" mid="v42012002">
+			</marker>
+			<v n="2">
+				Nothing is 
+				<crossref let="d" cid="c42012002.3">
+				</crossref>
+				covered up, 
+				<crossref let="e" cid="c42012002.4">
+				</crossref>
+				that will not be revealed, or hidden that will not be known.
+			</v>
+			<marker class="begin-verse" mid="v42012003">
+			</marker>
+			<v n="3">
+				Therefore whatever 
+				<crossref let="f" cid="c42012003.5">
+				</crossref>
+				you have, 
+				<crossref let="g" cid="c42012003.6">
+				</crossref>
+				said in the dark shall be heard in the light, and what you have whispered in private rooms shall be proclaimed on the housetops. Have No Fear
+				<note nid="n42012003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012004">
+			</marker>
+			<v n="4">
+				“I tell 
+				<crossref let="h" cid="c42012004.7">
+				</crossref>
+				you, my, 
+				<crossref let="i" cid="c42012004.8">
+				</crossref>
+				friends, do not fear those who kill the body, and after that have nothing more that they can do.
+			</v>
+			<marker class="begin-verse" mid="v42012005">
+			</marker>
+			<v n="5">
+				But I 
+				<crossref let="j" cid="c42012005.9">
+				</crossref>
+				will warn, 
+				<crossref let="k" cid="c42012005.10">
+				</crossref>
+				you whom to fear: fear him who, after he has killed, has authority to cast into hell.(1) Yes, I tell you, fear him!
+			</v>
+			<marker class="begin-verse" mid="v42012006">
+			</marker>
+			<v n="6">
+				Are not 
+				<crossref let="l" cid="c42012006.11">
+				</crossref>
+				five sparrows, 
+				<crossref let="m" cid="c42012006.12">
+				</crossref>
+				sold for two pennies?(2) And not one of them is forgotten before God.
+				<note nid="n42012006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012007">
+			</marker>
+			<v n="7">
+				Why, even 
+				<crossref let="n" cid="c42012007.13">
+				</crossref>
+				the hairs, 
+				<crossref let="o" cid="c42012007.14">
+				</crossref>
+				of your head are all numbered. Fear not; you are of more value than many sparrows. Acknowledge Christ Before Men
+			</v>
+			<marker class="begin-verse" mid="v42012008">
+			</marker>
+			<v n="8">
+				“And I 
+				<crossref let="p" cid="c42012008.15">
+				</crossref>
+				tell you,, 
+				<crossref let="q" cid="c42012008.16">
+				</crossref>
+				everyone who acknowledges me before men, the Son of Man also will acknowledge before the angels of God,
+			</v>
+			<marker class="begin-verse" mid="v42012009">
+			</marker>
+			<v n="9">
+				but the 
+				<crossref let="r" cid="c42012009.17">
+				</crossref>
+				one who, 
+				<crossref let="s" cid="c42012009.18">
+				</crossref>
+				denies me before men will be denied before the angels of God.
+				<note nid="n42012009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012010">
+			</marker>
+			<v n="10">
+				And everyone 
+				<crossref let="t" cid="c42012010.19">
+				</crossref>
+				who speaks, 
+				<crossref let="u" cid="c42012010.20">
+				</crossref>
+				a word against the Son of Man will be forgiven, but the one who blasphemes against the Holy Spirit will not be forgiven.
+			</v>
+			<marker class="begin-verse" mid="v42012011">
+			</marker>
+			<v n="11">
+				And when 
+				<crossref let="v" cid="c42012011.21">
+				</crossref>
+				they bring, 
+				<crossref let="w" cid="c42012011.22">
+				</crossref>
+				you before the synagogues and the rulers and the authorities, do not be anxious about how you should defend yourself or what you should say,
+			</v>
+			<marker class="begin-verse" mid="v42012012">
+			</marker>
+			<v n="12">
+				for the 
+				<crossref let="x" cid="c42012012.23">
+				</crossref>
+				Holy Spirit, 
+				<crossref let="y" cid="c42012012.24">
+				</crossref>
+				will teach you in that very hour what you ought to say.” The Parable of the Rich Fool
+				<note nid="n42012012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012013">
+			</marker>
+			<v n="13">
+				Someone in 
+				<crossref let="z" cid="c42012013.25">
+				</crossref>
+				the crowd, 
+				<crossref let="a" cid="c42012013.26">
+				</crossref>
+				said to him, “Teacher, tell my brother to divide the inheritance with me.”
+			</v>
+			<marker class="begin-verse" mid="v42012014">
+			</marker>
+			<v n="14" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But he 
+					<crossref let="b" cid="c42012014.27">
+				</crossref>
+					said to, 
+					<crossref let="c" cid="c42012014.28">
+				</crossref>
+				him, “Man, who made me a judge or arbitrator over you?”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42012015">
+			</marker>
+			<v n="15" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="d" cid="c42012015.29">
+				</crossref>
+					said to, 
+					<crossref let="e" cid="c42012015.30">
+				</crossref>
+				them, “Take care, and be on your guard against all covetousness, for one’s life does not consist in the abundance of his possessions.”
+					<note nid="n42012015.15">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42012016">
+			</marker>
+			<v n="16">
+				And he 
+				<crossref let="f" cid="c42012016.31">
+				</crossref>
+				told them, 
+				<crossref let="g" cid="c42012016.32">
+				</crossref>
+				a parable, saying, “The land of a rich man produced plentifully,
+			</v>
+			<marker class="begin-verse" mid="v42012017">
+			</marker>
+			<v n="17">
+				and he 
+				<crossref let="h" cid="c42012017.33">
+				</crossref>
+				thought to, 
+				<crossref let="i" cid="c42012017.34">
+				</crossref>
+				himself, ‘What shall I do, for I have nowhere to store my crops?’
+			</v>
+			<marker class="begin-verse" mid="v42012018">
+			</marker>
+			<v n="18" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="j" cid="c42012018.35">
+				</crossref>
+					said, ‘I, 
+					<crossref let="k" cid="c42012018.36">
+				</crossref>
+				will do this: I will tear down my barns and build larger ones, and there I will store all my grain and my goods.
+					<note nid="n42012018.18">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42012019">
+			</marker>
+			<v n="19">
+				And I 
+				<crossref let="l" cid="c42012019.37">
+				</crossref>
+				will say, 
+				<crossref let="m" cid="c42012019.38">
+				</crossref>
+				to my soul, “Soul, you have ample goods laid up for many years; relax, eat, drink, be merry.”’
+			</v>
+			<marker class="begin-verse" mid="v42012020">
+			</marker>
+			<v n="20">
+				But God 
+				<crossref let="n" cid="c42012020.39">
+				</crossref>
+				said to, 
+				<crossref let="o" cid="c42012020.40">
+				</crossref>
+				him, ‘Fool! This night your soul is required of you, and the things you have prepared, whose will they be?’
+			</v>
+			<marker class="begin-verse" mid="v42012021">
+			</marker>
+			<v n="21">
+				So is 
+				<crossref let="p" cid="c42012021.41">
+				</crossref>
+				the one, 
+				<crossref let="q" cid="c42012021.42">
+				</crossref>
+				who lays up treasure for himself and is not rich toward God.” Do Not Be Anxious
+				<note nid="n42012021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012022">
+			</marker>
+			<v n="22" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="r" cid="c42012022.43">
+				</crossref>
+					said to, 
+					<crossref let="s" cid="c42012022.44">
+				</crossref>
+				his disciples, “Therefore I tell you, do not be anxious about your life, what you will eat, nor about your body, what you will put on.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42012023">
+			</marker>
+			<v n="23">
+				For life 
+				<crossref let="t" cid="c42012023.45">
+				</crossref>
+				is more, 
+				<crossref let="u" cid="c42012023.46">
+				</crossref>
+				than food, and the body more than clothing.
+			</v>
+			<marker class="begin-verse" mid="v42012024">
+			</marker>
+			<v n="24">
+				Consider the 
+				<crossref let="v" cid="c42012024.47">
+				</crossref>
+				ravens: they, 
+				<crossref let="w" cid="c42012024.48">
+				</crossref>
+				neither sow nor reap, they have neither storehouse nor barn, and yet God feeds them. Of how much more value are you than the birds!
+				<note nid="n42012024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012025">
+			</marker>
+			<v n="25">
+				And which 
+				<crossref let="x" cid="c42012025.49">
+				</crossref>
+				of you, 
+				<crossref let="y" cid="c42012025.50">
+				</crossref>
+				by being anxious can add a single hour to his span of life?(3)
+			</v>
+			<marker class="begin-verse" mid="v42012026">
+			</marker>
+			<v n="26">
+				If then 
+				<crossref let="z" cid="c42012026.51">
+				</crossref>
+				you are, 
+				<crossref let="a" cid="c42012026.52">
+				</crossref>
+				not able to do as small a thing as that, why are you anxious about the rest?
+			</v>
+			<marker class="begin-verse" mid="v42012027">
+			</marker>
+			<v n="27">
+				Consider the 
+				<crossref let="b" cid="c42012027.53">
+				</crossref>
+				lilies, how, 
+				<crossref let="c" cid="c42012027.54">
+				</crossref>
+				they grow: they neither toil nor spin, yet I tell you, even Solomon in all his glory was not arrayed like one of these.
+				<note nid="n42012027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012028">
+			</marker>
+			<v n="28">
+				But if 
+				<crossref let="d" cid="c42012028.55">
+				</crossref>
+				God so, 
+				<crossref let="e" cid="c42012028.56">
+				</crossref>
+				clothes the grass, which is alive in the field today, and tomorrow is thrown into the oven, how much more will he clothe you, O you of little faith!
+			</v>
+			<marker class="begin-verse" mid="v42012029">
+			</marker>
+			<v n="29">
+				And do 
+				<crossref let="f" cid="c42012029.57">
+				</crossref>
+				not seek, 
+				<crossref let="g" cid="c42012029.58">
+				</crossref>
+				what you are to eat and what you are to drink, nor be worried.
+			</v>
+			<marker class="begin-verse" mid="v42012030">
+			</marker>
+			<v n="30">
+				For all 
+				<crossref let="h" cid="c42012030.59">
+				</crossref>
+				the nations, 
+				<crossref let="i" cid="c42012030.60">
+				</crossref>
+				of the world seek after these things, and your Father knows that you need them.
+				<note nid="n42012030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012031">
+			</marker>
+			<v n="31">
+				Instead, seek 
+				<crossref let="j" cid="c42012031.61">
+				</crossref>
+				his(4) kingdom,, 
+				<crossref let="k" cid="c42012031.62">
+				</crossref>
+				and these things will be added to you.
+			</v>
+			<marker class="begin-verse" mid="v42012032">
+			</marker>
+			<v n="32">
+				“Fear not, 
+				<crossref let="l" cid="c42012032.63">
+				</crossref>
+				little flock,, 
+				<crossref let="m" cid="c42012032.64">
+				</crossref>
+				for it is your Father’s good pleasure to give you the kingdom.
+			</v>
+			<marker class="begin-verse" mid="v42012033">
+			</marker>
+			<v n="33">
+				Sell your 
+				<crossref let="n" cid="c42012033.65">
+				</crossref>
+				possessions, and, 
+				<crossref let="o" cid="c42012033.66">
+				</crossref>
+				give to the needy. Provide yourselves with moneybags that do not grow old, with a treasure in the heavens that does not fail, where no thief approaches and no moth destroys.
+				<note nid="n42012033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012034">
+			</marker>
+			<v n="34">
+				For where 
+				<crossref let="p" cid="c42012034.67">
+				</crossref>
+				your treasure, 
+				<crossref let="q" cid="c42012034.68">
+				</crossref>
+				is, there will your heart be also. You Must Be Ready
+			</v>
+			<marker class="begin-verse" mid="v42012035">
+			</marker>
+			<v n="35">
+				“Stay dressed 
+				<crossref let="r" cid="c42012035.69">
+				</crossref>
+				for action(5), 
+				<crossref let="s" cid="c42012035.70">
+				</crossref>
+				and keep your lamps burning,
+			</v>
+			<marker class="begin-verse" mid="v42012036">
+			</marker>
+			<v n="36">
+				and be 
+				<crossref let="t" cid="c42012036.71">
+				</crossref>
+				like men, 
+				<crossref let="u" cid="c42012036.72">
+				</crossref>
+				who are waiting for their master to come home from the wedding feast, so that they may open the door to him at once when he comes and knocks.
+				<note nid="n42012036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012037">
+			</marker>
+			<v n="37" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Blessed are 
+					<crossref let="v" cid="c42012037.73">
+				</crossref>
+					those servants(6), 
+					<crossref let="w" cid="c42012037.74">
+				</crossref>
+				whom the master finds awake when he comes. Truly, I say to you, he will dress himself for service and have them recline at table, and he will come and serve them.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42012038">
+			</marker>
+			<v n="38">
+				If he 
+				<crossref let="x" cid="c42012038.75">
+				</crossref>
+				comes in, 
+				<crossref let="y" cid="c42012038.76">
+				</crossref>
+				the second watch, or in the third, and finds them awake, blessed are those servants!
+			</v>
+			<marker class="begin-verse" mid="v42012039">
+			</marker>
+			<v n="39">
+				But know 
+				<crossref let="z" cid="c42012039.77">
+				</crossref>
+				this, that, 
+				<crossref let="a" cid="c42012039.78">
+				</crossref>
+				if the master of the house had known at what hour the thief was coming, he(7) would not have left his house to be broken into.
+				<note nid="n42012039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012040">
+			</marker>
+			<v n="40">
+				You also 
+				<crossref let="b" cid="c42012040.79">
+				</crossref>
+				must be, 
+				<crossref let="c" cid="c42012040.80">
+				</crossref>
+				ready, for the Son of Man is coming at an hour you do not expect.”
+			</v>
+			<marker class="begin-verse" mid="v42012041">
+			</marker>
+			<v n="41">
+				Peter said, 
+				<crossref let="d" cid="c42012041.81">
+				</crossref>
+				“Lord, are, 
+				<crossref let="e" cid="c42012041.82">
+				</crossref>
+				you telling this parable for us or for all?”
+			</v>
+			<marker class="begin-verse" mid="v42012042">
+			</marker>
+			<v n="42">
+				And the 
+				<crossref let="f" cid="c42012042.83">
+				</crossref>
+				Lord said,, 
+				<crossref let="g" cid="c42012042.84">
+				</crossref>
+				“Who then is the faithful and wise manager, whom his master will set over his household, to give them their portion of food at the proper time?
+				<note nid="n42012042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012043">
+			</marker>
+			<v n="43">
+				Blessed is 
+				<crossref let="h" cid="c42012043.85">
+				</crossref>
+				that servant(8), 
+				<crossref let="i" cid="c42012043.86">
+				</crossref>
+				whom his master will find so doing when he comes.
+			</v>
+			<marker class="begin-verse" mid="v42012044">
+			</marker>
+			<v n="44" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, I 
+					<crossref let="j" cid="c42012044.87">
+				</crossref>
+					say to, 
+					<crossref let="k" cid="c42012044.88">
+				</crossref>
+				you, he will set him over all his possessions.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42012045">
+			</marker>
+			<v n="45">
+				But if 
+				<crossref let="l" cid="c42012045.89">
+				</crossref>
+				that servant, 
+				<crossref let="m" cid="c42012045.90">
+				</crossref>
+				says to himself, ‘My master is delayed in coming,’ and begins to beat the male and female servants, and to eat and drink and get drunk,
+				<note nid="n42012045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012046">
+			</marker>
+			<v n="46">
+				the master 
+				<crossref let="n" cid="c42012046.91">
+				</crossref>
+				of that, 
+				<crossref let="o" cid="c42012046.92">
+				</crossref>
+				servant will come on a day when he does not expect him and at an hour he does not know, and will cut him in pieces and put him with the unfaithful.
+			</v>
+			<marker class="begin-verse" mid="v42012047">
+			</marker>
+			<v n="47">
+				And that 
+				<crossref let="p" cid="c42012047.93">
+				</crossref>
+				servant who, 
+				<crossref let="q" cid="c42012047.94">
+				</crossref>
+				knew his master’s will but did not get ready or act according to his will, will receive a severe beating.
+			</v>
+			<marker class="begin-verse" mid="v42012048">
+			</marker>
+			<v n="48">
+				But the 
+				<crossref let="r" cid="c42012048.95">
+				</crossref>
+				one who, 
+				<crossref let="s" cid="c42012048.96">
+				</crossref>
+				did not know, and did what deserved a beating, will receive a light beating. Everyone to whom much was given, of him much will be required, and from him to whom they entrusted much, they will demand the more. Not Peace, but Division
+				<note nid="n42012048.48">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012049">
+			</marker>
+			<v n="49">
+				“I came 
+				<crossref let="t" cid="c42012049.97">
+				</crossref>
+				to cast, 
+				<crossref let="u" cid="c42012049.98">
+				</crossref>
+				fire on the earth, and would that it were already kindled!
+			</v>
+			<marker class="begin-verse" mid="v42012050">
+			</marker>
+			<v n="50">
+				I have 
+				<crossref let="v" cid="c42012050.99">
+				</crossref>
+				a baptism, 
+				<crossref let="w" cid="c42012050.100">
+				</crossref>
+				to be baptized with, and how great is my distress until it is accomplished!
+			</v>
+			<marker class="begin-verse" mid="v42012051">
+			</marker>
+			<v n="51">
+				Do you 
+				<crossref let="x" cid="c42012051.101">
+				</crossref>
+				think that, 
+				<crossref let="y" cid="c42012051.102">
+				</crossref>
+				I have come to give peace on earth? No, I tell you, but rather division.
+				<note nid="n42012051.51">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012052">
+			</marker>
+			<v n="52">
+				For from 
+				<crossref let="z" cid="c42012052.103">
+				</crossref>
+				now on, 
+				<crossref let="a" cid="c42012052.104">
+				</crossref>
+				in one house there will be five divided, three against two and two against three.
+			</v>
+			<marker class="begin-verse" mid="v42012053">
+			</marker>
+			<v n="53">
+				They will 
+				<crossref let="b" cid="c42012053.105">
+				</crossref>
+				be divided,, 
+				<crossref let="c" cid="c42012053.106">
+				</crossref>
+				father against son and son against father, mother against daughter and daughter against mother, mother-in-law against her daughter-in-law and daughter-in-law against mother-in-law.” Interpreting the Time
+			</v>
+			<marker class="begin-verse" mid="v42012054">
+			</marker>
+			<v n="54">
+				He also 
+				<crossref let="d" cid="c42012054.107">
+				</crossref>
+				said to, 
+				<crossref let="e" cid="c42012054.108">
+				</crossref>
+				the crowds, “When you see a cloud rising in the west, you say at once, ‘A shower is coming.’ And so it happens.
+				<note nid="n42012054.54">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012055">
+			</marker>
+			<v n="55">
+				And when 
+				<crossref let="f" cid="c42012055.109">
+				</crossref>
+				you see, 
+				<crossref let="g" cid="c42012055.110">
+				</crossref>
+				the south wind blowing, you say, ‘There will be scorching heat,’ and it happens.
+			</v>
+			<marker class="begin-verse" mid="v42012056">
+			</marker>
+			<v n="56">
+				You hypocrites! 
+				<crossref let="h" cid="c42012056.111">
+				</crossref>
+				You know, 
+				<crossref let="i" cid="c42012056.112">
+				</crossref>
+				how to interpret the appearance of earth and sky, but why do you not know how to interpret the present time? Settle with Your Accuser
+			</v>
+			<marker class="begin-verse" mid="v42012057">
+			</marker>
+			<v n="57">
+				“And why 
+				<crossref let="j" cid="c42012057.113">
+				</crossref>
+				do you, 
+				<crossref let="k" cid="c42012057.114">
+				</crossref>
+				not judge for yourselves what is right?
+				<note nid="n42012057.57">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42012058">
+			</marker>
+			<v n="58">
+				As you 
+				<crossref let="l" cid="c42012058.115">
+				</crossref>
+				go with, 
+				<crossref let="m" cid="c42012058.116">
+				</crossref>
+				your accuser before the magistrate, make an effort to settle with him on the way, lest he drag you to the judge, and the judge hand you over to the officer, and the officer put you in prison.
+			</v>
+			<marker class="begin-verse" mid="v42012059">
+			</marker>
+			<v n="59">
+				I tell 
+				<crossref let="n" cid="c42012059.117">
+				</crossref>
+				you, you, 
+				<crossref let="o" cid="c42012059.118">
+				</crossref>
+				will never get out until you have paid the very last penny.”(9) Footnotes (1) 12:5 Greek *Gehenna* (2) 12:6 Greek *two assaria*; an *assarion* was a Roman copper coin worth about 1/16 of a *denarius* (which was a day’s wage for a laborer) (3) 12:25 Or *a single cubit to his stature*; a *cubit* was about 18 inches or 45 centimeters (4) 12:31 Some manuscripts *God’s* (5) 12:35 Greek *Let your loins stay girded*; compare Exodus 12:11 (6) 12:37 Or *bondservants* (7) 12:39 Some manuscripts add *would have stayed awake and* (8) 12:43 Or *bondservant*; also verses 45, 46, 47 (9) 12:59 Greek *lepton*, a Jewish bronze or copper coin worth about 1/128 of a *denarius* (which was a day’s wage for a laborer) (ESV)
+			</v>
+			<marker class="begin-verse" mid="v42012060">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

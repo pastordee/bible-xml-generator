@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:32:02.940099</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:32:02.940132</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="NKJV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01032001"/>
+		<chapter num="32">
+			<heading>Esau Comes to Meet Jacob</heading>
+			<begin-paragraph/>
+			<v n="1">
+				So Jacob 
+				<crossref let="b" cid="c010321.1"/>
+				 went on his way, and the angels of God met him.
+			</v>
+			<marker class="begin-verse" mid="v01032002"/>
+			<v n="2">
+				When Jacob 
+				<crossref let="c" cid="c010322.1"/>
+				 saw them, he said, “This is God’s camp.” And he called the name of that place Mahanaim.
+			</v>
+			<marker class="begin-verse" mid="v01032003"/>
+			<v n="3">
+				Then Jacob 
+				<crossref let="d" cid="c010323.1"/>
+				 sent messengers before him to Esau his brother in the land of Seir, the country of Edom.
+			</v>
+			<marker class="begin-verse" mid="v01032004"/>
+			<v n="4">
+				And he 
+				<crossref let="e" cid="c010324.1"/>
+				 commanded them, saying, “Speak thus to my lord Esau, ‘Thus your servant Jacob says: “I have dwelt with Laban and stayed there until now.
+			</v>
+			<marker class="begin-verse" mid="v01032005"/>
+			<v n="5">
+				I have 
+				<crossref let="f" cid="c010325.1"/>
+				 oxen, donkeys, flocks, and male and female servants; and I have sent to tell my lord, that I may find favor in your sight.” ’ ”
+			</v>
+			<marker class="begin-verse" mid="v01032006"/>
+			<v n="6">
+				Then the 
+				<crossref let="g" cid="c010326.1"/>
+				 messengers returned to Jacob, saying, “We came to your brother Esau, and he also is coming to meet you, and four hundred men are with him.”
+			</v>
+			<marker class="begin-verse" mid="v01032007"/>
+			<v n="7">
+				So Jacob 
+				<crossref let="h" cid="c010327.1"/>
+				 was greatly afraid and distressed; and he divided the people that were with him, and the flocks and herds and camels, into two companies.
+			</v>
+			<marker class="begin-verse" mid="v01032008"/>
+			<v n="8">
+				And he 
+				<crossref let="i" cid="c010328.1"/>
+				 said, “If Esau comes to the one company and attacks it, then the other company which is left will escape.”
+			</v>
+			<marker class="begin-verse" mid="v01032009"/>
+			<v n="9">
+				Then Jacob 
+				<crossref let="j" cid="c010329.1"/>
+				 said, “O God of my father Abraham and God of my father Isaac, the Lord who said to me, ‘Return to your country and to your family, and I will deal well with you’:
+			</v>
+			<marker class="begin-verse" mid="v01032010"/>
+			<v n="10">
+				I am 
+				<crossref let="k" cid="c0103210.1"/>
+				 not worthy of the least of all the mercies and of all the truth which You have shown Your servant; for I crossed over this Jordan with my staff, and now I have become two companies.
+			</v>
+			<marker class="begin-verse" mid="v01032011"/>
+			<v n="11">
+				Deliver me, 
+				<crossref let="l" cid="c0103211.1"/>
+				 I pray, from the hand of my brother, from the hand of Esau; for I fear him, lest he come and attack me and the mother with the children.
+			</v>
+			<marker class="begin-verse" mid="v01032012"/>
+			<v n="12">
+				For You 
+				<crossref let="m" cid="c0103212.1"/>
+				 said, ‘I will surely treat you well, and make your descendants as the sand of the sea, which cannot be numbered for multitude.’ ”
+			</v>
+			<marker class="begin-verse" mid="v01032013"/>
+			<v n="13">
+				So he 
+				<crossref let="n" cid="c0103213.1"/>
+				 lodged there that same night, and took what came to his hand as a present for Esau his brother:
+			</v>
+			<marker class="begin-verse" mid="v01032014"/>
+			<v n="14">
+				two hundred 
+				<crossref let="o" cid="c0103214.1"/>
+				 female goats and twenty male goats, two hundred ewes and twenty rams,
+			</v>
+			<marker class="begin-verse" mid="v01032015"/>
+			<v n="15">
+				thirty milk 
+				<crossref let="p" cid="c0103215.1"/>
+				 camels with their colts, forty cows and ten bulls, twenty female donkeys and ten foals.
+			</v>
+			<marker class="begin-verse" mid="v01032016"/>
+			<v n="16">
+				Then he 
+				<crossref let="q" cid="c0103216.1"/>
+				 delivered them to the hand of his servants, every drove by itself, and said to his servants, “Pass over before me, and put some distance between successive droves.”
+			</v>
+			<marker class="begin-verse" mid="v01032017"/>
+			<v n="17">
+				And he 
+				<crossref let="r" cid="c0103217.1"/>
+				 commanded the first one, saying, “When Esau my brother meets you and asks you, saying, ‘To whom do you belong, and where are you going? Whose are these in front of you?’
+			</v>
+			<marker class="begin-verse" mid="v01032018"/>
+			<v n="18">
+				then you 
+				<crossref let="s" cid="c0103218.1"/>
+				 shall say, ‘They are your servant Jacob’s. It is a present sent to my lord Esau; and behold, he also is behind us.’ ”
+			</v>
+			<marker class="begin-verse" mid="v01032019"/>
+			<v n="19">
+				So he 
+				<crossref let="t" cid="c0103219.1"/>
+				 commanded the second, the third, and all who followed the droves, saying, “In this manner you shall speak to Esau when you find him;
+			</v>
+			<marker class="begin-verse" mid="v01032020"/>
+			<v n="20">
+				and also 
+				<crossref let="u" cid="c0103220.1"/>
+				 say, ‘Behold, your servant Jacob is behind us.’ ” For he said, “I will appease him with the present that goes before me, and afterward I will see his face; perhaps he will accept me.”
+			</v>
+			<marker class="begin-verse" mid="v01032021"/>
+			<v n="21">
+				So the 
+				<crossref let="v" cid="c0103221.1"/>
+				 present went on over before him, but he himself lodged that night in the camp.Wrestling with God
+			</v>
+			<marker class="begin-verse" mid="v01032022"/>
+			<v n="22">
+				And he 
+				<crossref let="w" cid="c0103222.1"/>
+				 arose that night and took his two wives, his two female servants, and his eleven sons, and crossed over the ford of Jabbok.
+			</v>
+			<marker class="begin-verse" mid="v01032023"/>
+			<v n="23">
+				He took 
+				<crossref let="x" cid="c0103223.1"/>
+				 them, sent them over the brook, and sent over what he had.
+			</v>
+			<marker class="begin-verse" mid="v01032024"/>
+			<v n="24">
+				Then Jacob 
+				<crossref let="y" cid="c0103224.1"/>
+				 was left alone; and a Man wrestled with him until the breaking of day.
+			</v>
+			<marker class="begin-verse" mid="v01032025"/>
+			<v n="25">
+				Now when 
+				<crossref let="z" cid="c0103225.1"/>
+				 He saw that He did not prevail against him, He touched the socket of his hip; and the socket of Jacob’s hip was out of joint as He wrestled with him.
+			</v>
+			<marker class="begin-verse" mid="v01032026"/>
+			<v n="26">
+				And He 
+				<crossref let="a" cid="c0103226.1"/>
+				 said, “Let Me go, for the day breaks.”But he said, “I will not let You go unless You bless me!”
+			</v>
+			<marker class="begin-verse" mid="v01032027"/>
+			<v n="27">
+				So He 
+				<crossref let="b" cid="c0103227.1"/>
+				 said to him, “What is your name?”He said, “Jacob.”
+			</v>
+			<marker class="begin-verse" mid="v01032028"/>
+			<v n="28">
+				And He 
+				<crossref let="c" cid="c0103228.1"/>
+				 said, “Your name shall no longer be called Jacob, but Israel; for you have struggled with God and with men, and have prevailed.”
+			</v>
+			<marker class="begin-verse" mid="v01032029"/>
+			<v n="29">
+				Then Jacob 
+				<crossref let="d" cid="c0103229.1"/>
+				 asked, saying, “Tell me Your name, I pray.”And He said, “Why is it that you ask about My name?” And He blessed him there.
+			</v>
+			<marker class="begin-verse" mid="v01032030"/>
+			<v n="30">
+				So Jacob 
+				<crossref let="e" cid="c0103230.1"/>
+				 called the name of the place Peniel: “For I have seen God face to face, and my life is preserved.”
+			</v>
+			<marker class="begin-verse" mid="v01032031"/>
+			<v n="31">
+				Just as 
+				<crossref let="f" cid="c0103231.1"/>
+				 he crossed over Penuel the sun rose on him, and he limped on his hip.
+			</v>
+			<marker class="begin-verse" mid="v01032032"/>
+			<v n="32">
+				Therefore to 
+				<crossref let="g" cid="c0103232.1"/>
+				 this day the children of Israel do not eat the muscle that shrank, which is on the hip socket, because He touched the socket of Jacob’s hip in the muscle that shrank.
+			</v>
+			<marker class="begin-verse" mid="v01032033"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

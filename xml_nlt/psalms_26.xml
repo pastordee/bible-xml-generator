@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:46:26.872404</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:46:26.872444</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19026001"/>
+		<chapter num="26">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Declare me 
+				<crossref let="b" cid="c190261.1"/>
+				 innocent, O Lord,for I have acted with integrity;I have trusted in the Lord without wavering.
+			</v>
+			<marker class="begin-verse" mid="v19026002"/>
+			<v n="2">
+				Put me 
+				<crossref let="c" cid="c190262.1"/>
+				 on trial, Lord, and cross-examine me.Test my motives and my heart.
+			</v>
+			<marker class="begin-verse" mid="v19026003"/>
+			<v n="3">
+				For I 
+				<crossref let="d" cid="c190263.1"/>
+				 am always aware of your unfailing love,and I have lived according to your truth.
+			</v>
+			<marker class="begin-verse" mid="v19026004"/>
+			<v n="4">
+				I do 
+				<crossref let="e" cid="c190264.1"/>
+				 not spend time with liarsor go along with hypocrites.
+			</v>
+			<marker class="begin-verse" mid="v19026005"/>
+			<v n="5">
+				I hate 
+				<crossref let="f" cid="c190265.1"/>
+				 the gatherings of those who do evil,and I refuse to join in with the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19026006"/>
+			<v n="6">
+				I wash 
+				<crossref let="g" cid="c190266.1"/>
+				 my hands to declare my innocence.I come to your altar, O Lord,
+			</v>
+			<marker class="begin-verse" mid="v19026007"/>
+			<v n="7">
+				singing a 
+				<crossref let="h" cid="c190267.1"/>
+				 song of thanksgivingand telling of all your wonders.
+			</v>
+			<marker class="begin-verse" mid="v19026008"/>
+			<v n="8">
+				I love 
+				<crossref let="i" cid="c190268.1"/>
+				 your sanctuary, Lord,the place where your glorious presence dwells.
+			</v>
+			<marker class="begin-verse" mid="v19026009"/>
+			<v n="9">
+				Don’t let 
+				<crossref let="j" cid="c190269.1"/>
+				 me suffer the fate of sinners.Don’t condemn me along with murderers.
+			</v>
+			<marker class="begin-verse" mid="v19026010"/>
+			<v n="10">
+				Their hands 
+				<crossref let="k" cid="c1902610.1"/>
+				 are dirty with evil schemes,and they constantly take bribes.
+			</v>
+			<marker class="begin-verse" mid="v19026011"/>
+			<v n="11">
+				But I 
+				<crossref let="l" cid="c1902611.1"/>
+				 am not like that; I live with integrity.So redeem me and show me mercy.
+			</v>
+			<marker class="begin-verse" mid="v19026012"/>
+			<v n="12">
+				Now I 
+				<crossref let="m" cid="c1902612.1"/>
+				 stand on solid ground,and I will publicly praise the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19026013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

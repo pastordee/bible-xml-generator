@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:44:28.334444</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:44:28.334474</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19032001"/>
+		<chapter num="32">
+			<heading>By David. A contemplative psalm.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Blessed is 
+				<crossref let="b" cid="c190321.1"/>
+				 he whose disobedience is forgiven,whose sin is covered.
+			</v>
+			<marker class="begin-verse" mid="v19032002"/>
+			<v n="2">
+				Blessed is 
+				<crossref let="c" cid="c190322.1"/>
+				 the man to whom Yahweh doesn’t impute iniquity,in whose spirit there is no deceit.
+			</v>
+			<marker class="begin-verse" mid="v19032003"/>
+			<v n="3">
+				When I 
+				<crossref let="d" cid="c190323.1"/>
+				 kept silence, my bones wasted away through my groaning all day long.
+			</v>
+			<marker class="begin-verse" mid="v19032004"/>
+			<v n="4">
+				For day 
+				<crossref let="e" cid="c190324.1"/>
+				 and night your hand was heavy on me.My strength was sapped in the heat of summer. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19032005"/>
+			<v n="5">
+				I acknowledged 
+				<crossref let="f" cid="c190325.1"/>
+				 my sin to you.I didn’t hide my iniquity.I said, I will confess my transgressions to Yahweh,and you forgave the iniquity of my sin. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19032006"/>
+			<v n="6">
+				For this, 
+				<crossref let="g" cid="c190326.1"/>
+				 let everyone who is godly pray to you in a time when you may be found.Surely when the great waters overflow, they shall not reach to him.
+			</v>
+			<marker class="begin-verse" mid="v19032007"/>
+			<v n="7">
+				You are 
+				<crossref let="h" cid="c190327.1"/>
+				 my hiding place.You will preserve me from trouble.You will surround me with songs of deliverance. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19032008"/>
+			<v n="8">
+				I will 
+				<crossref let="i" cid="c190328.1"/>
+				 instruct you and teach you in the way which you shall go.I will counsel you with my eye on you.
+			</v>
+			<marker class="begin-verse" mid="v19032009"/>
+			<v n="9">
+				Don’t be 
+				<crossref let="j" cid="c190329.1"/>
+				 like the horse, or like the mule, which have no understanding,who are controlled by bit and bridle, or else they will not come near to you.
+			</v>
+			<marker class="begin-verse" mid="v19032010"/>
+			<v n="10">
+				Many sorrows 
+				<crossref let="k" cid="c1903210.1"/>
+				 come to the wicked,but loving kindness shall surround him who trusts in Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v19032011"/>
+			<v n="11">
+				Be glad 
+				<crossref let="l" cid="c1903211.1"/>
+				 in Yahweh, and rejoice, you righteous!Shout for joy, all you who are upright in heart!
+			</v>
+			<marker class="begin-verse" mid="v19032012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

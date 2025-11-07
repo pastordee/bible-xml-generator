@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:22:14.538988</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:22:14.538995</next_refresh_due>
+	</generation_info>
+	<book title="Nehemiah" num="16" testament="old" version="ASV" bookAbbr="neh">
+		<marker class="begin-verse" mid="v16012001"/>
+		<chapter num="12">
+			<begin-paragraph/>
+			<v n="1">
+				Now these 
+				<crossref let="b" cid="c160121.1"/>
+				 are the priests and the Levites that went up with Zerubbabel the son of Shealtiel, and Jeshua: Seraiah, Jeremiah, Ezra,
+			</v>
+			<marker class="begin-verse" mid="v16012002"/>
+			<v n="2">Amariah, Malluch, Hattush,</v>
+			<marker class="begin-verse" mid="v16012003"/>
+			<v n="3">Shecaniah, Rehum, Meremoth,</v>
+			<marker class="begin-verse" mid="v16012004"/>
+			<v n="4">Iddo, Ginnethoi, Abijah,</v>
+			<marker class="begin-verse" mid="v16012005"/>
+			<v n="5">Mijamin, Maadiah, Bilgah,</v>
+			<marker class="begin-verse" mid="v16012006"/>
+			<v n="6">
+				Shemaiah, and 
+				<crossref let="g" cid="c160126.1"/>
+				 Joiarib, Jedaiah.
+			</v>
+			<marker class="begin-verse" mid="v16012007"/>
+			<v n="7">
+				Sallu, Amok, 
+				<crossref let="h" cid="c160127.1"/>
+				 Hilkiah, Jedaiah. These were the chiefs of the priests and of their brethren in the days of Jeshua.
+			</v>
+			<marker class="begin-verse" mid="v16012008"/>
+			<v n="8">
+				Moreover the 
+				<crossref let="i" cid="c160128.1"/>
+				 Levites: Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who was over the thanksgiving, he and his brethren.
+			</v>
+			<marker class="begin-verse" mid="v16012009"/>
+			<v n="9">
+				Also Bakbukiah 
+				<crossref let="j" cid="c160129.1"/>
+				 and Unno, their brethren, were over against them according to their offices.
+			</v>
+			<marker class="begin-verse" mid="v16012010"/>
+			<v n="10">
+				And Jeshua 
+				<crossref let="k" cid="c1601210.1"/>
+				 begat Joiakim, and Joiakim begat Eliashib, and Eliashib begat Joiada,
+			</v>
+			<marker class="begin-verse" mid="v16012011"/>
+			<v n="11">
+				and Joiada 
+				<crossref let="l" cid="c1601211.1"/>
+				 begat Jonathan, and Jonathan begat Jaddua.
+			</v>
+			<marker class="begin-verse" mid="v16012012"/>
+			<v n="12">
+				And in 
+				<crossref let="m" cid="c1601212.1"/>
+				 the days of Joiakim were priests, heads of fathers’ houses: of Seraiah, Meraiah; of Jeremiah, Hananiah;
+			</v>
+			<marker class="begin-verse" mid="v16012013"/>
+			<v n="13">
+				of Ezra, 
+				<crossref let="n" cid="c1601213.1"/>
+				 Meshullam; of Amariah, Jehohanan;
+			</v>
+			<marker class="begin-verse" mid="v16012014"/>
+			<v n="14">
+				of Malluchi, 
+				<crossref let="o" cid="c1601214.1"/>
+				 Jonathan; of Shebaniah, Joseph;
+			</v>
+			<marker class="begin-verse" mid="v16012015"/>
+			<v n="15">
+				of Harim, 
+				<crossref let="p" cid="c1601215.1"/>
+				 Adna; of Meraioth, Helkai;
+			</v>
+			<marker class="begin-verse" mid="v16012016"/>
+			<v n="16">
+				of Iddo, 
+				<crossref let="q" cid="c1601216.1"/>
+				 Zechariah; of Ginnethon, Meshullam;
+			</v>
+			<marker class="begin-verse" mid="v16012017"/>
+			<v n="17">
+				of Abijah, 
+				<crossref let="r" cid="c1601217.1"/>
+				 Zichri; of Miniamin, of Moadiah, Piltai;
+			</v>
+			<marker class="begin-verse" mid="v16012018"/>
+			<v n="18">
+				of Bilgah, 
+				<crossref let="s" cid="c1601218.1"/>
+				 Shammua; of Shemaiah, Jehonathan;
+			</v>
+			<marker class="begin-verse" mid="v16012019"/>
+			<v n="19">
+				and of 
+				<crossref let="t" cid="c1601219.1"/>
+				 Joiarib, Mattenai; of Jedaiah, Uzzi;
+			</v>
+			<marker class="begin-verse" mid="v16012020"/>
+			<v n="20">
+				of Sallai, 
+				<crossref let="u" cid="c1601220.1"/>
+				 Kallai; of Amok, Eber;
+			</v>
+			<marker class="begin-verse" mid="v16012021"/>
+			<v n="21">
+				of Hilkiah, 
+				<crossref let="v" cid="c1601221.1"/>
+				 Hashabiah; of Jedaiah, Nethanel.
+			</v>
+			<marker class="begin-verse" mid="v16012022"/>
+			<v n="22">
+				As for 
+				<crossref let="w" cid="c1601222.1"/>
+				 the Levites, in the days of Eliashib, Joiada, and Johanan, and Jaddua, there were recorded the heads of fathers’ houses; also the priests, in the reign of Darius the Persian.
+			</v>
+			<marker class="begin-verse" mid="v16012023"/>
+			<v n="23">
+				The sons 
+				<crossref let="x" cid="c1601223.1"/>
+				 of Levi, heads of fathers’ houses, were written in the book of the chronicles, even until the days of Johanan the son of Eliashib.
+			</v>
+			<marker class="begin-verse" mid="v16012024"/>
+			<v n="24">
+				And the 
+				<crossref let="y" cid="c1601224.1"/>
+				 chiefs of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and give thanks, according to the commandment of David the man of God, watch next to watch.
+			</v>
+			<marker class="begin-verse" mid="v16012025"/>
+			<v n="25">
+				Mattaniah, and 
+				<crossref let="z" cid="c1601225.1"/>
+				 Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the watch at the store-houses of the gates.
+			</v>
+			<marker class="begin-verse" mid="v16012026"/>
+			<v n="26">
+				These were 
+				<crossref let="a" cid="c1601226.1"/>
+				 in the days of Joiakim the son of Jeshua, the son of Jozadak, and in the days of Nehemiah the governor, and of Ezra the priest the scribe.
+			</v>
+			<marker class="begin-verse" mid="v16012027"/>
+			<v n="27">
+				And at 
+				<crossref let="b" cid="c1601227.1"/>
+				 the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps.
+			</v>
+			<marker class="begin-verse" mid="v16012028"/>
+			<v n="28">
+				And the 
+				<crossref let="c" cid="c1601228.1"/>
+				 sons of the singers gathered themselves together, both out of the plain round about Jerusalem, and from the villages of the Netophathites;
+			</v>
+			<marker class="begin-verse" mid="v16012029"/>
+			<v n="29">
+				also from 
+				<crossref let="d" cid="c1601229.1"/>
+				 Beth-gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v16012030"/>
+			<v n="30">
+				And the 
+				<crossref let="e" cid="c1601230.1"/>
+				 priests and the Levites purified themselves; and they purified the people, and the gates, and the wall.
+			</v>
+			<marker class="begin-verse" mid="v16012031"/>
+			<v n="31">
+				Then I 
+				<crossref let="f" cid="c1601231.1"/>
+				 brought up the princes of Judah upon the wall, and appointed two great companies that gave thanks and went in procession; whereof one went on the right hand upon the wall toward the dung gate:
+			</v>
+			<marker class="begin-verse" mid="v16012032"/>
+			<v n="32">
+				and after 
+				<crossref let="g" cid="c1601232.1"/>
+				 them went Hoshaiah, and half of the princes of Judah,
+			</v>
+			<marker class="begin-verse" mid="v16012033"/>
+			<v n="33">
+				and Azariah, 
+				<crossref let="h" cid="c1601233.1"/>
+				 Ezra, and Meshullam,
+			</v>
+			<marker class="begin-verse" mid="v16012034"/>
+			<v n="34">
+				Judah, and 
+				<crossref let="i" cid="c1601234.1"/>
+				 Benjamin, and Shemaiah, and Jeremiah,
+			</v>
+			<marker class="begin-verse" mid="v16012035"/>
+			<v n="35">
+				and certain 
+				<crossref let="j" cid="c1601235.1"/>
+				 of the priests’ sons with trumpets: Zechariah the son of Jonathan, the son of Shemaiah, the son of Mattaniah, the son of Micaiah, the son of Zaccur, the son of Asaph;
+			</v>
+			<marker class="begin-verse" mid="v16012036"/>
+			<v n="36">
+				and his 
+				<crossref let="k" cid="c1601236.1"/>
+				 brethren, Shemaiah, and Azarel, Milalai, Gilalai, Maai, Nethanel, and Judah, Hanani, with the musical instruments of David the man of God; and Ezra the scribe was before them.
+			</v>
+			<marker class="begin-verse" mid="v16012037"/>
+			<v n="37">
+				And by 
+				<crossref let="l" cid="c1601237.1"/>
+				 the fountain gate, and straight before them, they went up by the stairs of the city of David, at the ascent of the wall, above the house of David, even unto the water gate eastward.
+			</v>
+			<marker class="begin-verse" mid="v16012038"/>
+			<v n="38">
+				And the 
+				<crossref let="m" cid="c1601238.1"/>
+				 other company of them that gave thanks went to meet them, and I after them, with the half of the people, upon the wall, above the tower of the furnaces, even unto the broad wall,
+			</v>
+			<marker class="begin-verse" mid="v16012039"/>
+			<v n="39">
+				and above 
+				<crossref let="n" cid="c1601239.1"/>
+				 the gate of Ephraim, and by the old gate, and by the fish gate, and the tower of Hananel, and the tower of Hammeah, even unto the sheep gate: and they stood still in the gate of the guard.
+			</v>
+			<marker class="begin-verse" mid="v16012040"/>
+			<v n="40">
+				So stood 
+				<crossref let="o" cid="c1601240.1"/>
+				 the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me;
+			</v>
+			<marker class="begin-verse" mid="v16012041"/>
+			<v n="41">
+				and the 
+				<crossref let="p" cid="c1601241.1"/>
+				 priests, Eliakim, Maaseiah, Miniamin, Micaiah, Elioenai, Zechariah, and Hananiah, with trumpets;
+			</v>
+			<marker class="begin-verse" mid="v16012042"/>
+			<v n="42">
+				and Maaseiah, 
+				<crossref let="q" cid="c1601242.1"/>
+				 and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.
+			</v>
+			<marker class="begin-verse" mid="v16012043"/>
+			<v n="43">
+				And they 
+				<crossref let="r" cid="c1601243.1"/>
+				 offered great sacrifices that day, and rejoiced; for God had made them rejoice with great joy; and the women also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.
+			</v>
+			<marker class="begin-verse" mid="v16012044"/>
+			<v n="44">
+				And on 
+				<crossref let="s" cid="c1601244.1"/>
+				 that day were men appointed over the chambers for the treasures, for the heave-offerings, for the first-fruits, and for the tithes, to gather into them, according to the fields of the cities, the portions appointed by the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.
+			</v>
+			<marker class="begin-verse" mid="v16012045"/>
+			<v n="45">
+				And they 
+				<crossref let="t" cid="c1601245.1"/>
+				 kept the charge of their God, and the charge of the purification, and so did the singers and the porters, according to the commandment of David, and of Solomon his son.
+			</v>
+			<marker class="begin-verse" mid="v16012046"/>
+			<v n="46">
+				For in 
+				<crossref let="u" cid="c1601246.1"/>
+				 the days of David and Asaph of old there was a chief of the singers, and songs of praise and thanksgiving unto God.
+			</v>
+			<marker class="begin-verse" mid="v16012047"/>
+			<v n="47">
+				And all 
+				<crossref let="v" cid="c1601247.1"/>
+				 Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, as every day required: and they set apart that which was for the Levites; and the Levites set apart that which was for the sons of Aaron.
+			</v>
+			<marker class="begin-verse" mid="v16012048"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:25:54.166795</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:25:54.166801</next_refresh_due>
+	</generation_info>
+	<book title="Philippians" num="50" testament="new" bookAbbr="php" version="ESV">
+		<marker class="begin-verse" mid="v50001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Philippians 1
+			</heading>
+			<heading>
+				Greeting
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Paul and 
+				<crossref let="b" cid="c50001001.1">
+				</crossref>
+				Timothy, servants(1), 
+				<crossref let="c" cid="c50001001.2">
+				</crossref>
+				of Christ Jesus, To all the saints in Christ Jesus who are at Philippi, with the overseers(2) and deacons:(3)
+			</v>
+			<marker class="begin-verse" mid="v50001002">
+			</marker>
+			<v n="2">
+				Grace to 
+				<crossref let="d" cid="c50001002.3">
+				</crossref>
+				you and, 
+				<crossref let="e" cid="c50001002.4">
+				</crossref>
+				peace from God our Father and the Lord Jesus Christ. Thanksgiving and Prayer
+			</v>
+			<marker class="begin-verse" mid="v50001003">
+			</marker>
+			<v n="3">
+				I thank 
+				<crossref let="f" cid="c50001003.5">
+				</crossref>
+				my God, 
+				<crossref let="g" cid="c50001003.6">
+				</crossref>
+				in all my remembrance of you,
+				<note nid="n50001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v50001004">
+			</marker>
+			<v n="4">
+				always in 
+				<crossref let="h" cid="c50001004.7">
+				</crossref>
+				every prayer, 
+				<crossref let="i" cid="c50001004.8">
+				</crossref>
+				of mine for you all making my prayer with joy,
+			</v>
+			<marker class="begin-verse" mid="v50001005">
+			</marker>
+			<v n="5">
+				because of 
+				<crossref let="j" cid="c50001005.9">
+				</crossref>
+				your partnership, 
+				<crossref let="k" cid="c50001005.10">
+				</crossref>
+				in the gospel from the first day until now.
+			</v>
+			<marker class="begin-verse" mid="v50001006">
+			</marker>
+			<v n="6">
+				And I 
+				<crossref let="l" cid="c50001006.11">
+				</crossref>
+				am sure, 
+				<crossref let="m" cid="c50001006.12">
+				</crossref>
+				of this, that he who began a good work in you will bring it to completion at the day of Jesus Christ.
+				<note nid="n50001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v50001007">
+			</marker>
+			<v n="7">
+				It is 
+				<crossref let="n" cid="c50001007.13">
+				</crossref>
+				right for, 
+				<crossref let="o" cid="c50001007.14">
+				</crossref>
+				me to feel this way about you all, because I hold you in my heart, for you are all partakers with me of grace,(4) both in my imprisonment and in the defense and confirmation of the gospel.
+			</v>
+			<marker class="begin-verse" mid="v50001008">
+			</marker>
+			<v n="8">
+				For God 
+				<crossref let="p" cid="c50001008.15">
+				</crossref>
+				is my, 
+				<crossref let="q" cid="c50001008.16">
+				</crossref>
+				witness, how I yearn for you all with the affection of Christ Jesus.
+			</v>
+			<marker class="begin-verse" mid="v50001009">
+			</marker>
+			<v n="9">
+				And it 
+				<crossref let="r" cid="c50001009.17">
+				</crossref>
+				is my, 
+				<crossref let="s" cid="c50001009.18">
+				</crossref>
+				prayer that your love may abound more and more, with knowledge and all discernment,
+				<note nid="n50001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v50001010">
+			</marker>
+			<v n="10">
+				so that 
+				<crossref let="t" cid="c50001010.19">
+				</crossref>
+				you may, 
+				<crossref let="u" cid="c50001010.20">
+				</crossref>
+				approve what is excellent, and so be pure and blameless for the day of Christ,
+			</v>
+			<marker class="begin-verse" mid="v50001011">
+			</marker>
+			<v n="11">
+				filled with 
+				<crossref let="v" cid="c50001011.21">
+				</crossref>
+				the fruit, 
+				<crossref let="w" cid="c50001011.22">
+				</crossref>
+				of righteousness that comes through Jesus Christ, to the glory and praise of God. The Advance of the Gospel
+			</v>
+			<marker class="begin-verse" mid="v50001012">
+			</marker>
+			<v n="12">
+				I want 
+				<crossref let="x" cid="c50001012.23">
+				</crossref>
+				you to, 
+				<crossref let="y" cid="c50001012.24">
+				</crossref>
+				know, brothers,(5) that what has happened to me has really served to advance the gospel,
+				<note nid="n50001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v50001013">
+			</marker>
+			<v n="13">
+				so that 
+				<crossref let="z" cid="c50001013.25">
+				</crossref>
+				it has, 
+				<crossref let="a" cid="c50001013.26">
+				</crossref>
+				become known throughout the whole imperial guard(6) and to all the rest that my imprisonment is for Christ.
+			</v>
+			<marker class="begin-verse" mid="v50001014">
+			</marker>
+			<v n="14">
+				And most 
+				<crossref let="b" cid="c50001014.27">
+				</crossref>
+				of the, 
+				<crossref let="c" cid="c50001014.28">
+				</crossref>
+				brothers, having become confident in the Lord by my imprisonment, are much more bold to speak the word(7) without fear.
+			</v>
+			<marker class="begin-verse" mid="v50001015">
+			</marker>
+			<v n="15">
+				Some indeed 
+				<crossref let="d" cid="c50001015.29">
+				</crossref>
+				preach Christ, 
+				<crossref let="e" cid="c50001015.30">
+				</crossref>
+				from envy and rivalry, but others from good will.
+				<note nid="n50001015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v50001016">
+			</marker>
+			<v n="16">
+				The latter 
+				<crossref let="f" cid="c50001016.31">
+				</crossref>
+				do it, 
+				<crossref let="g" cid="c50001016.32">
+				</crossref>
+				out of love, knowing that I am put here for the defense of the gospel.
+			</v>
+			<marker class="begin-verse" mid="v50001017">
+			</marker>
+			<v n="17">
+				The former 
+				<crossref let="h" cid="c50001017.33">
+				</crossref>
+				proclaim Christ, 
+				<crossref let="i" cid="c50001017.34">
+				</crossref>
+				out of selfish ambition, not sincerely but thinking to afflict me in my imprisonment.
+			</v>
+			<marker class="begin-verse" mid="v50001018">
+			</marker>
+			<v n="18">
+				What then? 
+				<crossref let="j" cid="c50001018.35">
+				</crossref>
+				Only that, 
+				<crossref let="k" cid="c50001018.36">
+				</crossref>
+				in every way, whether in pretense or in truth, Christ is proclaimed, and in that I rejoice. To Live Is Christ Yes, and I will rejoice,
+				<note nid="n50001018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v50001019">
+			</marker>
+			<v n="19">
+				for I 
+				<crossref let="l" cid="c50001019.37">
+				</crossref>
+				know that, 
+				<crossref let="m" cid="c50001019.38">
+				</crossref>
+				through your prayers and the help of the Spirit of Jesus Christ this will turn out for my deliverance,
+			</v>
+			<marker class="begin-verse" mid="v50001020">
+			</marker>
+			<v n="20">
+				as it 
+				<crossref let="n" cid="c50001020.39">
+				</crossref>
+				is my, 
+				<crossref let="o" cid="c50001020.40">
+				</crossref>
+				eager expectation and hope that I will not be at all ashamed, but that with full courage now as always Christ will be honored in my body, whether by life or by death.
+			</v>
+			<marker class="begin-verse" mid="v50001021">
+			</marker>
+			<v n="21">
+				For to 
+				<crossref let="p" cid="c50001021.41">
+				</crossref>
+				me to, 
+				<crossref let="q" cid="c50001021.42">
+				</crossref>
+				live is Christ, and to die is gain.
+				<note nid="n50001021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v50001022">
+			</marker>
+			<v n="22">
+				If I 
+				<crossref let="r" cid="c50001022.43">
+				</crossref>
+				am to, 
+				<crossref let="s" cid="c50001022.44">
+				</crossref>
+				live in the flesh, that means fruitful labor for me. Yet which I shall choose I cannot tell.
+			</v>
+			<marker class="begin-verse" mid="v50001023">
+			</marker>
+			<v n="23">
+				I am 
+				<crossref let="t" cid="c50001023.45">
+				</crossref>
+				hard pressed, 
+				<crossref let="u" cid="c50001023.46">
+				</crossref>
+				between the two. My desire is to depart and be with Christ, for that is far better.
+			</v>
+			<marker class="begin-verse" mid="v50001024">
+			</marker>
+			<v n="24">
+				But to 
+				<crossref let="v" cid="c50001024.47">
+				</crossref>
+				remain in, 
+				<crossref let="w" cid="c50001024.48">
+				</crossref>
+				the flesh is more necessary on your account.
+				<note nid="n50001024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v50001025">
+			</marker>
+			<v n="25">
+				Convinced of 
+				<crossref let="x" cid="c50001025.49">
+				</crossref>
+				this, I, 
+				<crossref let="y" cid="c50001025.50">
+				</crossref>
+				know that I will remain and continue with you all, for your progress and joy in the faith,
+			</v>
+			<marker class="begin-verse" mid="v50001026">
+			</marker>
+			<v n="26">
+				so that 
+				<crossref let="z" cid="c50001026.51">
+				</crossref>
+				in me, 
+				<crossref let="a" cid="c50001026.52">
+				</crossref>
+				you may have ample cause to glory in Christ Jesus, because of my coming to you again.
+			</v>
+			<marker class="begin-verse" mid="v50001027">
+			</marker>
+			<v n="27">
+				Only let 
+				<crossref let="b" cid="c50001027.53">
+				</crossref>
+				your manner, 
+				<crossref let="c" cid="c50001027.54">
+				</crossref>
+				of life be worthy(8) of the gospel of Christ, so that whether I come and see you or am absent, I may hear of you that you are standing firm in one spirit, with one mind striving side by side for the faith of the gospel,
+				<note nid="n50001027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v50001028">
+			</marker>
+			<v n="28">
+				and not 
+				<crossref let="d" cid="c50001028.55">
+				</crossref>
+				frightened in, 
+				<crossref let="e" cid="c50001028.56">
+				</crossref>
+				anything by your opponents. This is a clear sign to them of their destruction, but of your salvation, and that from God.
+			</v>
+			<marker class="begin-verse" mid="v50001029">
+			</marker>
+			<v n="29">
+				For it 
+				<crossref let="f" cid="c50001029.57">
+				</crossref>
+				has been, 
+				<crossref let="g" cid="c50001029.58">
+				</crossref>
+				granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake,
+			</v>
+			<marker class="begin-verse" mid="v50001030">
+			</marker>
+			<v n="30">
+				engaged in 
+				<crossref let="h" cid="c50001030.59">
+				</crossref>
+				the same, 
+				<crossref let="i" cid="c50001030.60">
+				</crossref>
+				conflict that you saw I had and now hear that I still have. Footnotes (1) 1:1 For the contextual rendering of the Greek word *doulos*, see Preface (2) 1:1 Or *bishops*; Greek *episkopoi* (3) 1:1 Or *servants*, or *ministers*; Greek *diakonoi* (4) 1:7 Or *you all have fellowship with me in grace* (5) 1:12 Or *brothers and sisters*. In New Testament usage, depending on the context, the plural Greek word *adelphoi* (translated “brothers”) may refer either to *brothers* or to *brothers and sisters*; also verse 14 (6) 1:13 Greek *in the whole praetorium* (7) 1:14 Some manuscripts add *of God* (8) 1:27 Greek *Only behave as citizens worthy* (ESV)
+				<note nid="n50001030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v50001031">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

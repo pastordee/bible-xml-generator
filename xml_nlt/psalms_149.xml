@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:57:25.545995</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:57:25.546004</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19149001"/>
+		<chapter num="149">
+			<begin-paragraph/>
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c191491.1"/>
+				 Lord!Sing to the Lord a new song.Sing his praises in the assembly of the faithful.
+			</v>
+			<marker class="begin-verse" mid="v19149002"/>
+			<v n="2">
+				O Israel, 
+				<crossref let="c" cid="c191492.1"/>
+				 rejoice in your Maker.O people of Jerusalem, exult in your King.
+			</v>
+			<marker class="begin-verse" mid="v19149003"/>
+			<v n="3">
+				Praise his 
+				<crossref let="d" cid="c191493.1"/>
+				 name with dancing,accompanied by tambourine and harp.
+			</v>
+			<marker class="begin-verse" mid="v19149004"/>
+			<v n="4">
+				For the 
+				<crossref let="e" cid="c191494.1"/>
+				 Lord delights in his people;he crowns the humble with victory.
+			</v>
+			<marker class="begin-verse" mid="v19149005"/>
+			<v n="5">
+				Let the 
+				<crossref let="f" cid="c191495.1"/>
+				 faithful rejoice that he honors them.Let them sing for joy as they lie on their beds.
+			</v>
+			<marker class="begin-verse" mid="v19149006"/>
+			<v n="6">
+				Let the 
+				<crossref let="g" cid="c191496.1"/>
+				 praises of God be in their mouths,and a sharp sword in their hands—
+			</v>
+			<marker class="begin-verse" mid="v19149007"/>
+			<v n="7">
+				to execute 
+				<crossref let="h" cid="c191497.1"/>
+				 vengeance on the nationsand punishment on the peoples,
+			</v>
+			<marker class="begin-verse" mid="v19149008"/>
+			<v n="8">
+				to bind 
+				<crossref let="i" cid="c191498.1"/>
+				 their kings with shacklesand their leaders with iron chains,
+			</v>
+			<marker class="begin-verse" mid="v19149009"/>
+			<v n="9">
+				to execute 
+				<crossref let="j" cid="c191499.1"/>
+				 the judgment written against them.This is the glorious privilege of his faithful ones.Praise the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19149010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

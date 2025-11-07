@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:14:41.286050</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:14:41.286062</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" version="ASV" bookAbbr="act">
+		<marker class="begin-verse" mid="v44001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				The former 
+				<crossref let="b" cid="c440011.1"/>
+				 treatise I made, O Theophilus, concerning all that Jesus began both to do and to teach,
+			</v>
+			<marker class="begin-verse" mid="v44001002"/>
+			<v n="2">
+				until the 
+				<crossref let="c" cid="c440012.1"/>
+				 day in which he was received up, after that he had given commandment through the Holy Spirit unto the apostles whom he had chosen:
+			</v>
+			<marker class="begin-verse" mid="v44001003"/>
+			<v n="3">
+				to whom 
+				<crossref let="d" cid="c440013.1"/>
+				 he also showed himself alive after his passion by many proofs, appearing unto them by the space of forty days, and speaking the things concerning the kingdom of God:
+			</v>
+			<marker class="begin-verse" mid="v44001004"/>
+			<v n="4">
+				and, being 
+				<crossref let="e" cid="c440014.1"/>
+				 assembled together with them, he charged them not to depart from Jerusalem, but to wait for the promise of the Father, which, said he, ye heard from me:
+			</v>
+			<marker class="begin-verse" mid="v44001005"/>
+			<v n="5">
+				for John 
+				<crossref let="f" cid="c440015.1"/>
+				 indeed baptized with water; but ye shall be baptized in the Holy Spirit not many days hence.
+			</v>
+			<marker class="begin-verse" mid="v44001006"/>
+			<v n="6">
+				They therefore, 
+				<crossref let="g" cid="c440016.1"/>
+				 when they were come together, asked him, saying, Lord, dost thou at this time restore the kingdom to Israel?
+			</v>
+			<marker class="begin-verse" mid="v44001007"/>
+			<v n="7">
+				And he 
+				<crossref let="h" cid="c440017.1"/>
+				 said unto them, It is not for you to know times or seasons, which the Father hath set within his own authority.
+			</v>
+			<marker class="begin-verse" mid="v44001008"/>
+			<v n="8">
+				But ye 
+				<crossref let="i" cid="c440018.1"/>
+				 shall receive power, when the Holy Spirit is come upon you: and ye shall be my witnesses both in Jerusalem, and in all Judæa and Samaria, and unto the uttermost part of the earth.
+			</v>
+			<marker class="begin-verse" mid="v44001009"/>
+			<v n="9">
+				And when 
+				<crossref let="j" cid="c440019.1"/>
+				 he had said these things, as they were looking, he was taken up; and a cloud received him out of their sight.
+			</v>
+			<marker class="begin-verse" mid="v44001010"/>
+			<v n="10">
+				And while 
+				<crossref let="k" cid="c4400110.1"/>
+				 they were looking stedfastly into heaven as he went, behold two men stood by them in white apparel;
+			</v>
+			<marker class="begin-verse" mid="v44001011"/>
+			<v n="11">
+				who also 
+				<crossref let="l" cid="c4400111.1"/>
+				 said, Ye men of Galilee, why stand ye looking into heaven? this Jesus, who was received up from you into heaven, shall so come in like manner as ye beheld him going into heaven.
+			</v>
+			<marker class="begin-verse" mid="v44001012"/>
+			<v n="12">
+				Then returned 
+				<crossref let="m" cid="c4400112.1"/>
+				 they unto Jerusalem from the mount called Olivet, which is nigh unto Jerusalem, a sabbath day’s journey off.
+			</v>
+			<marker class="begin-verse" mid="v44001013"/>
+			<v n="13">
+				And when 
+				<crossref let="n" cid="c4400113.1"/>
+				 they were come in, they went up into the upper chamber, where they were abiding; both Peter and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James the son of Alphæus, and Simon the Zealot, and Judas the son of James.
+			</v>
+			<marker class="begin-verse" mid="v44001014"/>
+			<v n="14">
+				These all 
+				<crossref let="o" cid="c4400114.1"/>
+				 with one accord continued stedfastly in prayer, with the women, and Mary the mother of Jesus, and with his brethren.
+			</v>
+			<marker class="begin-verse" mid="v44001015"/>
+			<v n="15">
+				And in 
+				<crossref let="p" cid="c4400115.1"/>
+				 these days Peter stood up in the midst of the brethren, and said (and there was a multitude of persons gathered together, about a hundred and twenty),
+			</v>
+			<marker class="begin-verse" mid="v44001016"/>
+			<v n="16">
+				Brethren, it 
+				<crossref let="q" cid="c4400116.1"/>
+				 was needful that the scripture should be fulfilled, which the Holy Spirit spake before by the mouth of David concerning Judas, who was guide to them that took Jesus.
+			</v>
+			<marker class="begin-verse" mid="v44001017"/>
+			<v n="17">
+				For he 
+				<crossref let="r" cid="c4400117.1"/>
+				 was numbered among us, and received his portion in this ministry.
+			</v>
+			<marker class="begin-verse" mid="v44001018"/>
+			<v n="18">
+				(Now this 
+				<crossref let="s" cid="c4400118.1"/>
+				 man obtained a field with the reward of his iniquity; and falling headlong, he burst asunder in the midst, and all his bowels gushed out.
+			</v>
+			<marker class="begin-verse" mid="v44001019"/>
+			<v n="19">
+				And it 
+				<crossref let="t" cid="c4400119.1"/>
+				 became known to all the dwellers at Jerusalem; insomuch that in their language that field was called Akeldama, that is, The field of blood.)
+			</v>
+			<marker class="begin-verse" mid="v44001020"/>
+			<v n="20">
+				For it 
+				<crossref let="u" cid="c4400120.1"/>
+				 is written in the book of Psalms,Let his habitation be made desolate,And let no man dwell therein:and,His office let another take.
+			</v>
+			<marker class="begin-verse" mid="v44001021"/>
+			<v n="21">
+				Of the 
+				<crossref let="v" cid="c4400121.1"/>
+				 men therefore that have companied with us all the time that the Lord Jesus went in and went out among us,
+			</v>
+			<marker class="begin-verse" mid="v44001022"/>
+			<v n="22">
+				beginning from 
+				<crossref let="w" cid="c4400122.1"/>
+				 the baptism of John, unto the day that he was received up from us, of these must one become a witness with us of his resurrection.
+			</v>
+			<marker class="begin-verse" mid="v44001023"/>
+			<v n="23">
+				And they 
+				<crossref let="x" cid="c4400123.1"/>
+				 put forward two, Joseph called Barsabbas, who was surnamed Justus, and Matthias.
+			</v>
+			<marker class="begin-verse" mid="v44001024"/>
+			<v n="24">
+				And they 
+				<crossref let="y" cid="c4400124.1"/>
+				 prayed, and said, Thou, Lord, who knowest the hearts of all men, show of these two the one whom thou hast chosen,
+			</v>
+			<marker class="begin-verse" mid="v44001025"/>
+			<v n="25">
+				to take 
+				<crossref let="z" cid="c4400125.1"/>
+				 the place in this ministry and apostleship from which Judas fell away, that he might go to his own place.
+			</v>
+			<marker class="begin-verse" mid="v44001026"/>
+			<v n="26">
+				And they 
+				<crossref let="a" cid="c4400126.1"/>
+				 gave lots for them; and the lot fell upon Matthias; and he was numbered with the eleven apostles.
+			</v>
+			<marker class="begin-verse" mid="v44001027"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

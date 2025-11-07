@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:29:46.730271</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:29:46.730296</next_refresh_due>
+	</generation_info>
+	<book title="Jonah" num="32" testament="old" version="MSG" bookAbbr="jon">
+		<marker class="begin-verse" mid="v32003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c320031.1"/>
+				 Lord spoke to Jonah for a second time.
+			</v>
+			<marker class="begin-verse" mid="v32003002"/>
+			<v n="2">
+				“Go immediately 
+				<crossref let="c" cid="c320032.1"/>
+				 to the great city of Nineveh and announce the message I'm giving you.”
+			</v>
+			<marker class="begin-verse" mid="v32003003"/>
+			<v n="3">
+				Jonah did 
+				<crossref let="d" cid="c320033.1"/>
+				 what God told him. He set out and went to Nineveh, a city that was so big it took three days to walk through it.
+			</v>
+			<marker class="begin-verse" mid="v32003004"/>
+			<v n="4">
+				Jonah went 
+				<crossref let="e" cid="c320034.1"/>
+				 into the city, walking for one day, shouting out, “In forty days Nineveh will be destroyed!”
+			</v>
+			<marker class="begin-verse" mid="v32003005"/>
+			<v n="5">
+				The people 
+				<crossref let="f" cid="c320035.1"/>
+				 of Nineveh believed in God. They announced a fast, and all of them, from the greatest to the least, put on sackcloth.
+			</v>
+			<marker class="begin-verse" mid="v32003006"/>
+			<v n="6">
+				When the 
+				<crossref let="g" cid="c320036.1"/>
+				 news of what was happening reached the king of Nineveh he came down from his throne, took off his robe, put on sackcloth, and sat in ashes.
+			</v>
+			<marker class="begin-verse" mid="v32003007"/>
+			<v n="7">
+				Then the 
+				<crossref let="h" cid="c320037.1"/>
+				 king and the nobles issued a proclamation throughout Nineveh: “No person, no animal, no herd, and no flock, shall eat or drink anything.
+			</v>
+			<marker class="begin-verse" mid="v32003008"/>
+			<v n="8">
+				Every person 
+				<crossref let="i" cid="c320038.1"/>
+				 and every animal is to wear sackcloth. Everyone is to pray sincerely to God, give up the evil things they do, and stop using violence.
+			</v>
+			<marker class="begin-verse" mid="v32003009"/>
+			<v n="9">
+				Who knows? 
+				<crossref let="j" cid="c320039.1"/>
+				 God may change his mind and relent. He may decide not to destroy us in his fierce anger.”
+			</v>
+			<marker class="begin-verse" mid="v32003010"/>
+			<v n="10">
+				God saw 
+				<crossref let="k" cid="c3200310.1"/>
+				 what they had done—that they had given up their evil ways—so he changed his mind and did not carry out the destruction he had threatened.
+			</v>
+			<marker class="begin-verse" mid="v32003011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

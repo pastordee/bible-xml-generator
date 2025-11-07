@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:27:09.262142</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:27:09.262149</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" version="KJV" bookAbbr="deu">
+		<marker class="begin-verse" mid="v05001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				These be 
+				<crossref let="b" cid="c050011.1"/>
+				 the words which Moses spake unto all Israel on this side Jordan in the wilderness, in the plain over against the Red sea, between Paran, and Tophel, and Laban, and Hazeroth, and Dizahab.
+			</v>
+			<marker class="begin-verse" mid="v05001002"/>
+			<v n="2">
+				(There are 
+				<crossref let="c" cid="c050012.1"/>
+				 eleven days’ journey from Horeb by the way of mount Seir unto Kadesh-barnea.)
+			</v>
+			<marker class="begin-verse" mid="v05001003"/>
+			<v n="3">
+				And it 
+				<crossref let="d" cid="c050013.1"/>
+				 came to pass in the fortieth year, in the eleventh month, on the first day of the month, that Moses spake unto the children of Israel, according unto all that the LORD had given him in commandment unto them;
+			</v>
+			<marker class="begin-verse" mid="v05001004"/>
+			<v n="4">
+				After he 
+				<crossref let="e" cid="c050014.1"/>
+				 had slain Sihon the king of the Amorites, which dwelt in Heshbon, and Og the king of Bashan, which dwelt at Astaroth in Edrei:
+			</v>
+			<marker class="begin-verse" mid="v05001005"/>
+			<v n="5">
+				On this 
+				<crossref let="f" cid="c050015.1"/>
+				 side Jordan, in the land of Moab, began Moses to declare this law, saying,
+			</v>
+			<marker class="begin-verse" mid="v05001006"/>
+			<v n="6">
+				The LORD 
+				<crossref let="g" cid="c050016.1"/>
+				 our God spake unto us in Horeb, saying, Ye have dwelt long enough in this mount:
+			</v>
+			<marker class="begin-verse" mid="v05001007"/>
+			<v n="7">
+				Turn you, 
+				<crossref let="h" cid="c050017.1"/>
+				 and take your journey, and go to the mount of the Amorites, and unto all the places nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.
+			</v>
+			<marker class="begin-verse" mid="v05001008"/>
+			<v n="8">
+				Behold, I 
+				<crossref let="i" cid="c050018.1"/>
+				 have set the land before you: go in and possess the land which the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto them and to their seed after them.
+			</v>
+			<marker class="begin-verse" mid="v05001009"/>
+			<v n="9">
+				¶ And 
+				<crossref let="j" cid="c050019.1"/>
+				 I spake unto you at that time, saying, I am not able to bear you myself alone:
+			</v>
+			<marker class="begin-verse" mid="v05001010"/>
+			<v n="10">
+				The LORD 
+				<crossref let="k" cid="c0500110.1"/>
+				 your God hath multiplied you, and, behold, ye are this day as the stars of heaven for multitude.
+			</v>
+			<marker class="begin-verse" mid="v05001011"/>
+			<v n="11">
+				(The LORD 
+				<crossref let="l" cid="c0500111.1"/>
+				 God of your fathers make you a thousand times so many more as ye are, and bless you, as he hath promised you!)
+			</v>
+			<marker class="begin-verse" mid="v05001012"/>
+			<v n="12">
+				How can 
+				<crossref let="m" cid="c0500112.1"/>
+				 I myself alone bear your cumbrance, and your burden, and your strife?
+			</v>
+			<marker class="begin-verse" mid="v05001013"/>
+			<v n="13">
+				Take you 
+				<crossref let="n" cid="c0500113.1"/>
+				 wise men, and understanding, and known among your tribes, and I will make them rulers over you.
+			</v>
+			<marker class="begin-verse" mid="v05001014"/>
+			<v n="14">
+				And ye 
+				<crossref let="o" cid="c0500114.1"/>
+				 answered me, and said, The thing which thou hast spoken is good for us to do.
+			</v>
+			<marker class="begin-verse" mid="v05001015"/>
+			<v n="15">
+				So I 
+				<crossref let="p" cid="c0500115.1"/>
+				 took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes.
+			</v>
+			<marker class="begin-verse" mid="v05001016"/>
+			<v n="16">
+				And I 
+				<crossref let="q" cid="c0500116.1"/>
+				 charged your judges at that time, saying, Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him.
+			</v>
+			<marker class="begin-verse" mid="v05001017"/>
+			<v n="17">
+				Ye shall 
+				<crossref let="r" cid="c0500117.1"/>
+				 not respect persons in judgment; but ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment is God’s: and the cause that is too hard for you, bring it unto me, and I will hear it.
+			</v>
+			<marker class="begin-verse" mid="v05001018"/>
+			<v n="18">
+				And I 
+				<crossref let="s" cid="c0500118.1"/>
+				 commanded you at that time all the things which ye should do.
+			</v>
+			<marker class="begin-verse" mid="v05001019"/>
+			<v n="19">
+				¶ And 
+				<crossref let="t" cid="c0500119.1"/>
+				 when we departed from Horeb, we went through all that great and terrible wilderness, which ye saw by the way of the mountain of the Amorites, as the LORD our God commanded us; and we came to Kadesh-barnea.
+			</v>
+			<marker class="begin-verse" mid="v05001020"/>
+			<v n="20">
+				And I 
+				<crossref let="u" cid="c0500120.1"/>
+				 said unto you, Ye are come unto the mountain of the Amorites, which the LORD our God doth give unto us.
+			</v>
+			<marker class="begin-verse" mid="v05001021"/>
+			<v n="21">
+				Behold, the 
+				<crossref let="v" cid="c0500121.1"/>
+				 LORD thy God hath set the land before thee: go up and possess it, as the LORD God of thy fathers hath said unto thee; fear not, neither be discouraged.
+			</v>
+			<marker class="begin-verse" mid="v05001022"/>
+			<v n="22">
+				¶ And 
+				<crossref let="w" cid="c0500122.1"/>
+				 ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come.
+			</v>
+			<marker class="begin-verse" mid="v05001023"/>
+			<v n="23">
+				And the 
+				<crossref let="x" cid="c0500123.1"/>
+				 saying pleased me well: and I took twelve men of you, one of a tribe:
+			</v>
+			<marker class="begin-verse" mid="v05001024"/>
+			<v n="24">
+				And they 
+				<crossref let="y" cid="c0500124.1"/>
+				 turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.
+			</v>
+			<marker class="begin-verse" mid="v05001025"/>
+			<v n="25">
+				And they 
+				<crossref let="z" cid="c0500125.1"/>
+				 took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the LORD our God doth give us.
+			</v>
+			<marker class="begin-verse" mid="v05001026"/>
+			<v n="26">
+				Notwithstanding ye 
+				<crossref let="a" cid="c0500126.1"/>
+				 would not go up, but rebelled against the commandment of the LORD your God:
+			</v>
+			<marker class="begin-verse" mid="v05001027"/>
+			<v n="27">
+				And ye 
+				<crossref let="b" cid="c0500127.1"/>
+				 murmured in your tents, and said, Because the LORD hated us, he hath brought us forth out of the land of Egypt, to deliver us into the hand of the Amorites, to destroy us.
+			</v>
+			<marker class="begin-verse" mid="v05001028"/>
+			<v n="28">
+				Whither shall 
+				<crossref let="c" cid="c0500128.1"/>
+				 we go up? our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there.
+			</v>
+			<marker class="begin-verse" mid="v05001029"/>
+			<v n="29">
+				Then I 
+				<crossref let="d" cid="c0500129.1"/>
+				 said unto you, Dread not, neither be afraid of them.
+			</v>
+			<marker class="begin-verse" mid="v05001030"/>
+			<v n="30">
+				The LORD 
+				<crossref let="e" cid="c0500130.1"/>
+				 your God which goeth before you, he shall fight for you, according to all that he did for you in Egypt before your eyes;
+			</v>
+			<marker class="begin-verse" mid="v05001031"/>
+			<v n="31">
+				And in 
+				<crossref let="f" cid="c0500131.1"/>
+				 the wilderness, where thou hast seen how that the LORD thy God bare thee, as a man doth bear his son, in all the way that ye went, until ye came into this place.
+			</v>
+			<marker class="begin-verse" mid="v05001032"/>
+			<v n="32">
+				Yet in 
+				<crossref let="g" cid="c0500132.1"/>
+				 this thing ye did not believe the LORD your God,
+			</v>
+			<marker class="begin-verse" mid="v05001033"/>
+			<v n="33">
+				Who went 
+				<crossref let="h" cid="c0500133.1"/>
+				 in the way before you, to search you out a place to pitch your tents in, in fire by night, to shew you by what way ye should go, and in a cloud by day.
+			</v>
+			<marker class="begin-verse" mid="v05001034"/>
+			<v n="34">
+				And the 
+				<crossref let="i" cid="c0500134.1"/>
+				 LORD heard the voice of your words, and was wroth, and sware, saying,
+			</v>
+			<marker class="begin-verse" mid="v05001035"/>
+			<v n="35">
+				Surely there 
+				<crossref let="j" cid="c0500135.1"/>
+				 shall not one of these men of this evil generation see that good land, which I sware to give unto your fathers,
+			</v>
+			<marker class="begin-verse" mid="v05001036"/>
+			<v n="36">
+				Save Caleb 
+				<crossref let="k" cid="c0500136.1"/>
+				 the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the LORD.
+			</v>
+			<marker class="begin-verse" mid="v05001037"/>
+			<v n="37">
+				Also the 
+				<crossref let="l" cid="c0500137.1"/>
+				 LORD was angry with me for your sakes, saying, Thou also shalt not go in thither.
+			</v>
+			<marker class="begin-verse" mid="v05001038"/>
+			<v n="38">
+				But Joshua 
+				<crossref let="m" cid="c0500138.1"/>
+				 the son of Nun, which standeth before thee, he shall go in thither: encourage him: for he shall cause Israel to inherit it.
+			</v>
+			<marker class="begin-verse" mid="v05001039"/>
+			<v n="39">
+				Moreover your 
+				<crossref let="n" cid="c0500139.1"/>
+				 little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.
+			</v>
+			<marker class="begin-verse" mid="v05001040"/>
+			<v n="40">
+				But as 
+				<crossref let="o" cid="c0500140.1"/>
+				 for you, turn you, and take your journey into the wilderness by the way of the Red sea.
+			</v>
+			<marker class="begin-verse" mid="v05001041"/>
+			<v n="41">
+				Then ye 
+				<crossref let="p" cid="c0500141.1"/>
+				 answered and said unto me, We have sinned against the LORD, we will go up and fight, according to all that the LORD our God commanded us. And when ye had girded on every man his weapons of war, ye were ready to go up into the hill.
+			</v>
+			<marker class="begin-verse" mid="v05001042"/>
+			<v n="42">
+				And the 
+				<crossref let="q" cid="c0500142.1"/>
+				 LORD said unto me, Say unto them, Go not up, neither fight; for I am not among you; lest ye be smitten before your enemies.
+			</v>
+			<marker class="begin-verse" mid="v05001043"/>
+			<v n="43">
+				So I 
+				<crossref let="r" cid="c0500143.1"/>
+				 spake unto you; and ye would not hear, but rebelled against the commandment of the LORD, and went presumptuously up into the hill.
+			</v>
+			<marker class="begin-verse" mid="v05001044"/>
+			<v n="44">
+				And the 
+				<crossref let="s" cid="c0500144.1"/>
+				 Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, even unto Hormah.
+			</v>
+			<marker class="begin-verse" mid="v05001045"/>
+			<v n="45">
+				And ye 
+				<crossref let="t" cid="c0500145.1"/>
+				 returned and wept before the LORD; but the LORD would not hearken to your voice, nor give ear unto you.
+			</v>
+			<marker class="begin-verse" mid="v05001046"/>
+			<v n="46">
+				So ye 
+				<crossref let="u" cid="c0500146.1"/>
+				 abode in Kadesh many days, according unto the days that ye abode there.
+			</v>
+			<marker class="begin-verse" mid="v05001047"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

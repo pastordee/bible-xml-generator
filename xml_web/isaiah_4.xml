@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:59:52.843572</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:59:52.843584</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="WEB" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23004001"/>
+		<chapter num="4">
+			<begin-paragraph/>
+			<v n="1">
+				Seven women 
+				<crossref let="b" cid="c230041.1"/>
+				 shall take hold of one man in that day, saying, “We will eat our own bread, and wear our own clothing. Just let us be called by your name. Take away our reproach.”
+			</v>
+			<marker class="begin-verse" mid="v23004002"/>
+			<v n="2">
+				In that 
+				<crossref let="c" cid="c230042.1"/>
+				 day, Yahweh’s branch will be beautiful and glorious, and the fruit of the land will be the beauty and glory of the survivors of Israel.
+			</v>
+			<marker class="begin-verse" mid="v23004003"/>
+			<v n="3">
+				It will 
+				<crossref let="d" cid="c230043.1"/>
+				 happen that he who is left in Zion and he who remains in Jerusalem shall be called holy, even everyone who is written among the living in Jerusalem,
+			</v>
+			<marker class="begin-verse" mid="v23004004"/>
+			<v n="4">
+				when the 
+				<crossref let="e" cid="c230044.1"/>
+				 Lord shall have washed away the filth of the daughters of Zion, and shall have purged the blood of Jerusalem from within it, by the spirit of justice and by the spirit of burning.
+			</v>
+			<marker class="begin-verse" mid="v23004005"/>
+			<v n="5">
+				Yahweh will 
+				<crossref let="f" cid="c230045.1"/>
+				 create over the whole habitation of Mount Zion and over her assemblies, a cloud and smoke by day, and the shining of a flaming fire by night, for over all the glory will be a canopy.
+			</v>
+			<marker class="begin-verse" mid="v23004006"/>
+			<v n="6">
+				There will 
+				<crossref let="g" cid="c230046.1"/>
+				 be a pavilion for a shade in the daytime from the heat, and for a refuge and for a shelter from storm and from rain.
+			</v>
+			<marker class="begin-verse" mid="v23004007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

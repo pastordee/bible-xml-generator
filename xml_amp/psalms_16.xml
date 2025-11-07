@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:59:36.597298</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:59:36.597305</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19016001"/>
+		<chapter num="16">
+			<heading>Psalm 16The Lord, the Psalmist’s Portion in Life and Deliverer in Death.A Mikhtam of David [probably intended to record memorable thoughts].</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Keep and 
+				<crossref let="b" cid="c190161.1"/>
+				 protect me, O God, for in You I have placed my trust and found refuge.
+			</v>
+			<marker class="begin-verse" mid="v19016002"/>
+			<v n="2">
+				I said 
+				<crossref let="c" cid="c190162.1"/>
+				 to the Lord, “You are my Lord;I have no good besides You.”
+			</v>
+			<marker class="begin-verse" mid="v19016003"/>
+			<v n="3">
+				As for 
+				<crossref let="d" cid="c190163.1"/>
+				 the saints (godly people) who are in the land,They are the majestic and the noble and the excellent ones in whom is all my delight.
+			</v>
+			<marker class="begin-verse" mid="v19016004"/>
+			<v n="4">
+				The sorrows 
+				<crossref let="e" cid="c190164.1"/>
+				 [pain and suffering] of those who have chosen another god will be multiplied [because of their idolatry];I will not pour out their drink offerings of blood,Nor will I take their names upon my lips.
+			</v>
+			<marker class="begin-verse" mid="v19016005"/>
+			<v n="5">
+				¶The Lord 
+				<crossref let="f" cid="c190165.1"/>
+				 is the portion of my inheritance, my cup [He is all I need];You support my lot.
+			</v>
+			<marker class="begin-verse" mid="v19016006"/>
+			<v n="6">
+				The [boundary] 
+				<crossref let="g" cid="c190166.1"/>
+				 lines [of the land] have fallen for me in pleasant places;Indeed, my heritage is beautiful to me.
+			</v>
+			<marker class="begin-verse" mid="v19016007"/>
+			<v n="7">
+				¶I will 
+				<crossref let="h" cid="c190167.1"/>
+				 bless the Lord who has counseled me;Indeed, my heart (mind) instructs me in the night.
+			</v>
+			<marker class="begin-verse" mid="v19016008"/>
+			<v n="8">
+				I have 
+				<crossref let="i" cid="c190168.1"/>
+				 set the Lord continually before me;Because He is at my right hand, I will not be shaken.
+			</v>
+			<marker class="begin-verse" mid="v19016009"/>
+			<v n="9">
+				Therefore my 
+				<crossref let="j" cid="c190169.1"/>
+				 heart is glad and my glory [my innermost self] rejoices;My body too will dwell [confidently] in safety,
+			</v>
+			<marker class="begin-verse" mid="v19016010"/>
+			<v n="10">
+				For You 
+				<crossref let="k" cid="c1901610.1"/>
+				 will not abandon me to Sheol (the nether world, the place of the dead),Nor will You allow Your Holy One to undergo decay. [Acts 13:35]
+			</v>
+			<marker class="begin-verse" mid="v19016011"/>
+			<v n="11">
+				You will 
+				<crossref let="l" cid="c1901611.1"/>
+				 show me the path of life;In Your presence is fullness of joy;In Your right hand there are pleasures forevermore. [Acts 2:25-28, 31]
+			</v>
+			<marker class="begin-verse" mid="v19016012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

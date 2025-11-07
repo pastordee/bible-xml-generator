@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:56:17.800189</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:56:17.800212</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19004001"/>
+		<chapter num="4">
+			<heading>To the chief Musician on Neginoth, A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Hear me 
+				<crossref let="b" cid="c190041.1"/>
+				 when I call, O God of my righteousness: thou hast enlarged me when I was in distress; have mercy upon me, and hear my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19004002"/>
+			<v n="2">
+				O ye 
+				<crossref let="c" cid="c190042.1"/>
+				 sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.
+			</v>
+			<marker class="begin-verse" mid="v19004003"/>
+			<v n="3">
+				But know 
+				<crossref let="d" cid="c190043.1"/>
+				 that the LORD hath set apart him that is godly for himself: the LORD will hear when I call unto him.
+			</v>
+			<marker class="begin-verse" mid="v19004004"/>
+			<v n="4">
+				Stand in 
+				<crossref let="e" cid="c190044.1"/>
+				 awe, and sin not: commune with your own heart upon your bed, and be still. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19004005"/>
+			<v n="5">
+				Offer the 
+				<crossref let="f" cid="c190045.1"/>
+				 sacrifices of righteousness, and put your trust in the LORD.
+			</v>
+			<marker class="begin-verse" mid="v19004006"/>
+			<v n="6">
+				There be 
+				<crossref let="g" cid="c190046.1"/>
+				 many that say, Who will shew us any good? LORD, lift thou up the light of thy countenance upon us.
+			</v>
+			<marker class="begin-verse" mid="v19004007"/>
+			<v n="7">
+				Thou hast 
+				<crossref let="h" cid="c190047.1"/>
+				 put gladness in my heart, more than in the time that their corn and their wine increased.
+			</v>
+			<marker class="begin-verse" mid="v19004008"/>
+			<v n="8">
+				I will 
+				<crossref let="i" cid="c190048.1"/>
+				 both lay me down in peace, and sleep: for thou, LORD, only makest me dwell in safety.
+			</v>
+			<marker class="begin-verse" mid="v19004009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

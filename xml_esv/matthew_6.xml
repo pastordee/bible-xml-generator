@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:09.531388</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:09.531405</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Matthew 6
+			</heading>
+			<heading>
+				Giving to the Needy
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				“Beware of 
+				<crossref let="b" cid="c40006001.1">
+				</crossref>
+				practicing your, 
+				<crossref let="c" cid="c40006001.2">
+				</crossref>
+				righteousness before other people in order to be seen by them, for then you will have no reward from your Father who is in heaven.
+			</v>
+			<marker class="begin-verse" mid="v40006002">
+			</marker>
+			<v n="2" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					“Thus, when 
+					<crossref let="d" cid="c40006002.3">
+				</crossref>
+					you give, 
+					<crossref let="e" cid="c40006002.4">
+				</crossref>
+				to the needy, sound no trumpet before you, as the hypocrites do in the synagogues and in the streets, that they may be praised by others. Truly, I say to you, they have received their reward.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40006003">
+			</marker>
+			<v n="3">
+				But when 
+				<crossref let="f" cid="c40006003.5">
+				</crossref>
+				you give, 
+				<crossref let="g" cid="c40006003.6">
+				</crossref>
+				to the needy, do not let your left hand know what your right hand is doing,
+				<note nid="n40006003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006004">
+			</marker>
+			<v n="4">
+				so that 
+				<crossref let="h" cid="c40006004.7">
+				</crossref>
+				your giving, 
+				<crossref let="i" cid="c40006004.8">
+				</crossref>
+				may be in secret. And your Father who sees in secret will reward you. The Lord’s Prayer
+			</v>
+			<marker class="begin-verse" mid="v40006005">
+			</marker>
+			<v n="5" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					“And when 
+					<crossref let="j" cid="c40006005.9">
+				</crossref>
+					you pray,, 
+					<crossref let="k" cid="c40006005.10">
+				</crossref>
+				you must not be like the hypocrites. For they love to stand and pray in the synagogues and at the street corners, that they may be seen by others. Truly, I say to you, they have received their reward.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40006006">
+			</marker>
+			<v n="6">
+				But when 
+				<crossref let="l" cid="c40006006.11">
+				</crossref>
+				you pray,, 
+				<crossref let="m" cid="c40006006.12">
+				</crossref>
+				go into your room and shut the door and pray to your Father who is in secret. And your Father who sees in secret will reward you.
+				<note nid="n40006006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006007">
+			</marker>
+			<v n="7">
+				“And when 
+				<crossref let="n" cid="c40006007.13">
+				</crossref>
+				you pray,, 
+				<crossref let="o" cid="c40006007.14">
+				</crossref>
+				do not heap up empty phrases as the Gentiles do, for they think that they will be heard for their many words.
+			</v>
+			<marker class="begin-verse" mid="v40006008">
+			</marker>
+			<v n="8">
+				Do not 
+				<crossref let="p" cid="c40006008.15">
+				</crossref>
+				be like, 
+				<crossref let="q" cid="c40006008.16">
+				</crossref>
+				them, for your Father knows what you need before you ask him.
+			</v>
+			<marker class="begin-verse" mid="v40006009">
+			</marker>
+			<v n="9">
+				Pray then 
+				<crossref let="r" cid="c40006009.17">
+				</crossref>
+				like this:, 
+				<crossref let="s" cid="c40006009.18">
+				</crossref>
+				“Our Father in heaven, hallowed be your name.(1)
+				<note nid="n40006009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006010">
+			</marker>
+			<v n="10">
+				Your kingdom 
+				<crossref let="t" cid="c40006010.19">
+				</crossref>
+				come, your, 
+				<crossref let="u" cid="c40006010.20">
+				</crossref>
+				will be done,(2) on earth as it is in heaven.
+			</v>
+			<marker class="begin-verse" mid="v40006011">
+			</marker>
+			<v n="11">
+				Give us 
+				<crossref let="v" cid="c40006011.21">
+				</crossref>
+				this day, 
+				<crossref let="w" cid="c40006011.22">
+				</crossref>
+				our daily bread,(3)
+			</v>
+			<marker class="begin-verse" mid="v40006012">
+			</marker>
+			<v n="12">
+				and forgive 
+				<crossref let="x" cid="c40006012.23">
+				</crossref>
+				us our, 
+				<crossref let="y" cid="c40006012.24">
+				</crossref>
+				debts, as we also have forgiven our debtors.
+				<note nid="n40006012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006013">
+			</marker>
+			<v n="13">
+				And lead 
+				<crossref let="z" cid="c40006013.25">
+				</crossref>
+				us not, 
+				<crossref let="a" cid="c40006013.26">
+				</crossref>
+				into temptation, but deliver us from evil.(4)
+			</v>
+			<marker class="begin-verse" mid="v40006014">
+			</marker>
+			<v n="14">
+				For if 
+				<crossref let="b" cid="c40006014.27">
+				</crossref>
+				you forgive, 
+				<crossref let="c" cid="c40006014.28">
+				</crossref>
+				others their trespasses, your heavenly Father will also forgive you,
+			</v>
+			<marker class="begin-verse" mid="v40006015">
+			</marker>
+			<v n="15">
+				but if 
+				<crossref let="d" cid="c40006015.29">
+				</crossref>
+				you do, 
+				<crossref let="e" cid="c40006015.30">
+				</crossref>
+				not forgive others their trespasses, neither will your Father forgive your trespasses. Fasting
+				<note nid="n40006015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006016">
+			</marker>
+			<v n="16" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					“And when 
+					<crossref let="f" cid="c40006016.31">
+				</crossref>
+					you fast,, 
+					<crossref let="g" cid="c40006016.32">
+				</crossref>
+				do not look gloomy like the hypocrites, for they disfigure their faces that their fasting may be seen by others. Truly, I say to you, they have received their reward.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40006017">
+			</marker>
+			<v n="17">
+				But when 
+				<crossref let="h" cid="c40006017.33">
+				</crossref>
+				you fast,, 
+				<crossref let="i" cid="c40006017.34">
+				</crossref>
+				anoint your head and wash your face,
+			</v>
+			<marker class="begin-verse" mid="v40006018">
+			</marker>
+			<v n="18">
+				that your 
+				<crossref let="j" cid="c40006018.35">
+				</crossref>
+				fasting may, 
+				<crossref let="k" cid="c40006018.36">
+				</crossref>
+				not be seen by others but by your Father who is in secret. And your Father who sees in secret will reward you. Lay Up Treasures in Heaven
+				<note nid="n40006018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006019">
+			</marker>
+			<v n="19">
+				“Do not 
+				<crossref let="l" cid="c40006019.37">
+				</crossref>
+				lay up, 
+				<crossref let="m" cid="c40006019.38">
+				</crossref>
+				for yourselves treasures on earth, where moth and rust(5) destroy and where thieves break in and steal,
+			</v>
+			<marker class="begin-verse" mid="v40006020">
+			</marker>
+			<v n="20">
+				but lay 
+				<crossref let="n" cid="c40006020.39">
+				</crossref>
+				up for, 
+				<crossref let="o" cid="c40006020.40">
+				</crossref>
+				yourselves treasures in heaven, where neither moth nor rust destroys and where thieves do not break in and steal.
+			</v>
+			<marker class="begin-verse" mid="v40006021">
+			</marker>
+			<v n="21">
+				For where 
+				<crossref let="p" cid="c40006021.41">
+				</crossref>
+				your treasure, 
+				<crossref let="q" cid="c40006021.42">
+				</crossref>
+				is, there your heart will be also.
+				<note nid="n40006021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006022">
+			</marker>
+			<v n="22">
+				“The eye 
+				<crossref let="r" cid="c40006022.43">
+				</crossref>
+				is the, 
+				<crossref let="s" cid="c40006022.44">
+				</crossref>
+				lamp of the body. So, if your eye is healthy, your whole body will be full of light,
+			</v>
+			<marker class="begin-verse" mid="v40006023">
+			</marker>
+			<v n="23">
+				but if 
+				<crossref let="t" cid="c40006023.45">
+				</crossref>
+				your eye, 
+				<crossref let="u" cid="c40006023.46">
+				</crossref>
+				is bad, your whole body will be full of darkness. If then the light in you is darkness, how great is the darkness!
+			</v>
+			<marker class="begin-verse" mid="v40006024">
+			</marker>
+			<v n="24">
+				“No one 
+				<crossref let="v" cid="c40006024.47">
+				</crossref>
+				can serve, 
+				<crossref let="w" cid="c40006024.48">
+				</crossref>
+				two masters, for either he will hate the one and love the other, or he will be devoted to the one and despise the other. You cannot serve God and money.(6) Do Not Be Anxious
+				<note nid="n40006024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006025">
+			</marker>
+			<v n="25">
+				“Therefore I 
+				<crossref let="x" cid="c40006025.49">
+				</crossref>
+				tell you,, 
+				<crossref let="y" cid="c40006025.50">
+				</crossref>
+				do not be anxious about your life, what you will eat or what you will drink, nor about your body, what you will put on. Is not life more than food, and the body more than clothing?
+			</v>
+			<marker class="begin-verse" mid="v40006026">
+			</marker>
+			<v n="26">
+				Look at 
+				<crossref let="z" cid="c40006026.51">
+				</crossref>
+				the birds, 
+				<crossref let="a" cid="c40006026.52">
+				</crossref>
+				of the air: they neither sow nor reap nor gather into barns, and yet your heavenly Father feeds them. Are you not of more value than they?
+			</v>
+			<marker class="begin-verse" mid="v40006027">
+			</marker>
+			<v n="27">
+				And which 
+				<crossref let="b" cid="c40006027.53">
+				</crossref>
+				of you, 
+				<crossref let="c" cid="c40006027.54">
+				</crossref>
+				by being anxious can add a single hour to his span of life?(7)
+				<note nid="n40006027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006028">
+			</marker>
+			<v n="28">
+				And why 
+				<crossref let="d" cid="c40006028.55">
+				</crossref>
+				are you, 
+				<crossref let="e" cid="c40006028.56">
+				</crossref>
+				anxious about clothing? Consider the lilies of the field, how they grow: they neither toil nor spin,
+			</v>
+			<marker class="begin-verse" mid="v40006029">
+			</marker>
+			<v n="29">
+				yet I 
+				<crossref let="f" cid="c40006029.57">
+				</crossref>
+				tell you,, 
+				<crossref let="g" cid="c40006029.58">
+				</crossref>
+				even Solomon in all his glory was not arrayed like one of these.
+			</v>
+			<marker class="begin-verse" mid="v40006030">
+			</marker>
+			<v n="30">
+				But if 
+				<crossref let="h" cid="c40006030.59">
+				</crossref>
+				God so, 
+				<crossref let="i" cid="c40006030.60">
+				</crossref>
+				clothes the grass of the field, which today is alive and tomorrow is thrown into the oven, will he not much more clothe you, O you of little faith?
+				<note nid="n40006030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006031">
+			</marker>
+			<v n="31">
+				Therefore do 
+				<crossref let="j" cid="c40006031.61">
+				</crossref>
+				not be, 
+				<crossref let="k" cid="c40006031.62">
+				</crossref>
+				anxious, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’
+			</v>
+			<marker class="begin-verse" mid="v40006032">
+			</marker>
+			<v n="32">
+				For the 
+				<crossref let="l" cid="c40006032.63">
+				</crossref>
+				Gentiles seek, 
+				<crossref let="m" cid="c40006032.64">
+				</crossref>
+				after all these things, and your heavenly Father knows that you need them all.
+			</v>
+			<marker class="begin-verse" mid="v40006033">
+			</marker>
+			<v n="33">
+				But seek 
+				<crossref let="n" cid="c40006033.65">
+				</crossref>
+				first the, 
+				<crossref let="o" cid="c40006033.66">
+				</crossref>
+				kingdom of God and his righteousness, and all these things will be added to you.
+				<note nid="n40006033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40006034">
+			</marker>
+			<v n="34">
+				“Therefore do 
+				<crossref let="p" cid="c40006034.67">
+				</crossref>
+				not be, 
+				<crossref let="q" cid="c40006034.68">
+				</crossref>
+				anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble. Footnotes (1) 6:9 Or *Let your name be kept holy*, or *Let your name be treated with reverence* (2) 6:10 Or *Let your kingdom come, let your will be done* (3) 6:11 Or *our bread for tomorrow* (4) 6:13 Or *the evil one*; some manuscripts add *For yours is the kingdom and the power and the glory, forever. Amen* (5) 6:19 Or *worm*; also verse 20 (6) 6:24 Greek *mammon*, a Semitic word for money or possessions (7) 6:27 Or *a single cubit to his stature*; a *cubit* was about 18 inches or 45 centimeters (ESV)
+			</v>
+			<marker class="begin-verse" mid="v40006035">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

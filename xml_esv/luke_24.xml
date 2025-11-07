@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:40.690417</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:40.690425</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42024001">
+		</marker>
+		<chapter num="24">
+			<heading>
+				Luke 24
+			</heading>
+			<heading>
+				The Resurrection
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				But on 
+				<crossref let="b" cid="c42024001.1">
+				</crossref>
+				the first, 
+				<crossref let="c" cid="c42024001.2">
+				</crossref>
+				day of the week, at early dawn, they went to the tomb, taking the spices they had prepared.
+			</v>
+			<marker class="begin-verse" mid="v42024002">
+			</marker>
+			<v n="2">
+				And they 
+				<crossref let="d" cid="c42024002.3">
+				</crossref>
+				found the, 
+				<crossref let="e" cid="c42024002.4">
+				</crossref>
+				stone rolled away from the tomb,
+			</v>
+			<marker class="begin-verse" mid="v42024003">
+			</marker>
+			<v n="3">
+				but when 
+				<crossref let="f" cid="c42024003.5">
+				</crossref>
+				they went, 
+				<crossref let="g" cid="c42024003.6">
+				</crossref>
+				in they did not find the body of the Lord Jesus.
+				<note nid="n42024003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024004">
+			</marker>
+			<v n="4">
+				While they 
+				<crossref let="h" cid="c42024004.7">
+				</crossref>
+				were perplexed, 
+				<crossref let="i" cid="c42024004.8">
+				</crossref>
+				about this, behold, two men stood by them in dazzling apparel.
+			</v>
+			<marker class="begin-verse" mid="v42024005">
+			</marker>
+			<v n="5">
+				And as 
+				<crossref let="j" cid="c42024005.9">
+				</crossref>
+				they were, 
+				<crossref let="k" cid="c42024005.10">
+				</crossref>
+				frightened and bowed their faces to the ground, the men said to them, “Why do you seek the living among the dead?
+			</v>
+			<marker class="begin-verse" mid="v42024006">
+			</marker>
+			<v n="6">
+				He is 
+				<crossref let="l" cid="c42024006.11">
+				</crossref>
+				not here,, 
+				<crossref let="m" cid="c42024006.12">
+				</crossref>
+				but has risen. Remember how he told you, while he was still in Galilee,
+				<note nid="n42024006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024007">
+			</marker>
+			<v n="7">
+				that the 
+				<crossref let="n" cid="c42024007.13">
+				</crossref>
+				Son of, 
+				<crossref let="o" cid="c42024007.14">
+				</crossref>
+				Man must be delivered into the hands of sinful men and be crucified and on the third day rise.”
+			</v>
+			<marker class="begin-verse" mid="v42024008">
+			</marker>
+			<v n="8">
+				And they 
+				<crossref let="p" cid="c42024008.15">
+				</crossref>
+				remembered his words,
+			</v>
+			<marker class="begin-verse" mid="v42024009">
+			</marker>
+			<v n="9">
+				and returning 
+				<crossref let="r" cid="c42024009.17">
+				</crossref>
+				from the, 
+				<crossref let="s" cid="c42024009.18">
+				</crossref>
+				tomb they told all these things to the eleven and to all the rest.
+				<note nid="n42024009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024010">
+			</marker>
+			<v n="10">
+				Now it 
+				<crossref let="t" cid="c42024010.19">
+				</crossref>
+				was Mary, 
+				<crossref let="u" cid="c42024010.20">
+				</crossref>
+				Magdalene and Joanna and Mary the mother of James and the other women with them who told these things to the apostles,
+			</v>
+			<marker class="begin-verse" mid="v42024011">
+			</marker>
+			<v n="11">
+				but these 
+				<crossref let="v" cid="c42024011.21">
+				</crossref>
+				words seemed, 
+				<crossref let="w" cid="c42024011.22">
+				</crossref>
+				to them an idle tale, and they did not believe them.
+			</v>
+			<marker class="begin-verse" mid="v42024012">
+			</marker>
+			<v n="12">
+				But Peter 
+				<crossref let="x" cid="c42024012.23">
+				</crossref>
+				rose and, 
+				<crossref let="y" cid="c42024012.24">
+				</crossref>
+				ran to the tomb; stooping and looking in, he saw the linen cloths by themselves; and he went home marveling at what had happened. On the Road to Emmaus
+				<note nid="n42024012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024013">
+			</marker>
+			<v n="13">
+				That very 
+				<crossref let="z" cid="c42024013.25">
+				</crossref>
+				day two, 
+				<crossref let="a" cid="c42024013.26">
+				</crossref>
+				of them were going to a village named Emmaus, about seven miles(1) from Jerusalem,
+			</v>
+			<marker class="begin-verse" mid="v42024014">
+			</marker>
+			<v n="14">
+				and they 
+				<crossref let="b" cid="c42024014.27">
+				</crossref>
+				were talking, 
+				<crossref let="c" cid="c42024014.28">
+				</crossref>
+				with each other about all these things that had happened.
+			</v>
+			<marker class="begin-verse" mid="v42024015">
+			</marker>
+			<v n="15">
+				While they 
+				<crossref let="d" cid="c42024015.29">
+				</crossref>
+				were talking, 
+				<crossref let="e" cid="c42024015.30">
+				</crossref>
+				and discussing together, Jesus himself drew near and went with them.
+				<note nid="n42024015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024016">
+			</marker>
+			<v n="16">
+				But their 
+				<crossref let="f" cid="c42024016.31">
+				</crossref>
+				eyes were, 
+				<crossref let="g" cid="c42024016.32">
+				</crossref>
+				kept from recognizing him.
+			</v>
+			<marker class="begin-verse" mid="v42024017">
+			</marker>
+			<v n="17" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="h" cid="c42024017.33">
+				</crossref>
+					said to, 
+					<crossref let="i" cid="c42024017.34">
+				</crossref>
+				them, “What is this conversation that you are holding with each other as you walk?” And they stood still, looking sad.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42024018">
+			</marker>
+			<v n="18">
+				Then one 
+				<crossref let="j" cid="c42024018.35">
+				</crossref>
+				of them,, 
+				<crossref let="k" cid="c42024018.36">
+				</crossref>
+				named Cleopas, answered him, “Are you the only visitor to Jerusalem who does not know the things that have happened there in these days?”
+				<note nid="n42024018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024019">
+			</marker>
+			<v n="19" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="l" cid="c42024019.37">
+				</crossref>
+					said to, 
+					<crossref let="m" cid="c42024019.38">
+				</crossref>
+				them, “What things?” And they said to him, “Concerning Jesus of Nazareth, a man who was a prophet mighty in deed and word before God and all the people,
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42024020">
+			</marker>
+			<v n="20">
+				and how 
+				<crossref let="n" cid="c42024020.39">
+				</crossref>
+				our chief, 
+				<crossref let="o" cid="c42024020.40">
+				</crossref>
+				priests and rulers delivered him up to be condemned to death, and crucified him.
+			</v>
+			<marker class="begin-verse" mid="v42024021">
+			</marker>
+			<v n="21">
+				But we 
+				<crossref let="p" cid="c42024021.41">
+				</crossref>
+				had hoped, 
+				<crossref let="q" cid="c42024021.42">
+				</crossref>
+				that he was the one to redeem Israel. Yes, and besides all this, it is now the third day since these things happened.
+				<note nid="n42024021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024022">
+			</marker>
+			<v n="22">
+				Moreover, some 
+				<crossref let="r" cid="c42024022.43">
+				</crossref>
+				women of, 
+				<crossref let="s" cid="c42024022.44">
+				</crossref>
+				our company amazed us. They were at the tomb early in the morning,
+			</v>
+			<marker class="begin-verse" mid="v42024023">
+			</marker>
+			<v n="23">
+				and when 
+				<crossref let="t" cid="c42024023.45">
+				</crossref>
+				they did, 
+				<crossref let="u" cid="c42024023.46">
+				</crossref>
+				not find his body, they came back saying that they had even seen a vision of angels, who said that he was alive.
+			</v>
+			<marker class="begin-verse" mid="v42024024">
+			</marker>
+			<v n="24">
+				Some of 
+				<crossref let="v" cid="c42024024.47">
+				</crossref>
+				those who, 
+				<crossref let="w" cid="c42024024.48">
+				</crossref>
+				were with us went to the tomb and found it just as the women had said, but him they did not see.”
+				<note nid="n42024024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024025">
+			</marker>
+			<v n="25" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="x" cid="c42024025.49">
+				</crossref>
+					said to, 
+					<crossref let="y" cid="c42024025.50">
+				</crossref>
+				them, “O foolish ones, and slow of heart to believe all that the prophets have spoken!
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42024026">
+			</marker>
+			<v n="26">
+				Was it 
+				<crossref let="z" cid="c42024026.51">
+				</crossref>
+				not necessary, 
+				<crossref let="a" cid="c42024026.52">
+				</crossref>
+				that the Christ should suffer these things and enter into his glory?”
+			</v>
+			<marker class="begin-verse" mid="v42024027">
+			</marker>
+			<v n="27">
+				And beginning 
+				<crossref let="b" cid="c42024027.53">
+				</crossref>
+				with Moses, 
+				<crossref let="c" cid="c42024027.54">
+				</crossref>
+				and all the Prophets, he interpreted to them in all the Scriptures the things concerning himself.
+				<note nid="n42024027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024028">
+			</marker>
+			<v n="28">
+				So they 
+				<crossref let="d" cid="c42024028.55">
+				</crossref>
+				drew near, 
+				<crossref let="e" cid="c42024028.56">
+				</crossref>
+				to the village to which they were going. He acted as if he were going farther,
+			</v>
+			<marker class="begin-verse" mid="v42024029">
+			</marker>
+			<v n="29">
+				but they 
+				<crossref let="f" cid="c42024029.57">
+				</crossref>
+				urged him, 
+				<crossref let="g" cid="c42024029.58">
+				</crossref>
+				strongly, saying, “Stay with us, for it is toward evening and the day is now far spent.” So he went in to stay with them.
+			</v>
+			<marker class="begin-verse" mid="v42024030">
+			</marker>
+			<v n="30">
+				When he 
+				<crossref let="h" cid="c42024030.59">
+				</crossref>
+				was at, 
+				<crossref let="i" cid="c42024030.60">
+				</crossref>
+				table with them, he took the bread and blessed and broke it and gave it to them.
+				<note nid="n42024030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024031">
+			</marker>
+			<v n="31">
+				And their 
+				<crossref let="j" cid="c42024031.61">
+				</crossref>
+				eyes were, 
+				<crossref let="k" cid="c42024031.62">
+				</crossref>
+				opened, and they recognized him. And he vanished from their sight.
+			</v>
+			<marker class="begin-verse" mid="v42024032">
+			</marker>
+			<v n="32">
+				They said 
+				<crossref let="l" cid="c42024032.63">
+				</crossref>
+				to each, 
+				<crossref let="m" cid="c42024032.64">
+				</crossref>
+				other, “Did not our hearts burn within us while he talked to us on the road, while he opened to us the Scriptures?”
+			</v>
+			<marker class="begin-verse" mid="v42024033">
+			</marker>
+			<v n="33">
+				And they 
+				<crossref let="n" cid="c42024033.65">
+				</crossref>
+				rose that, 
+				<crossref let="o" cid="c42024033.66">
+				</crossref>
+				same hour and returned to Jerusalem. And they found the eleven and those who were with them gathered together,
+				<note nid="n42024033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024034">
+			</marker>
+			<v n="34">
+				saying, “The 
+				<crossref let="p" cid="c42024034.67">
+				</crossref>
+				Lord has, 
+				<crossref let="q" cid="c42024034.68">
+				</crossref>
+				risen indeed, and has appeared to Simon!”
+			</v>
+			<marker class="begin-verse" mid="v42024035">
+			</marker>
+			<v n="35">
+				Then they 
+				<crossref let="r" cid="c42024035.69">
+				</crossref>
+				told what, 
+				<crossref let="s" cid="c42024035.70">
+				</crossref>
+				had happened on the road, and how he was known to them in the breaking of the bread. Jesus Appears to His Disciples
+			</v>
+			<marker class="begin-verse" mid="v42024036">
+			</marker>
+			<v n="36">
+				As they 
+				<crossref let="t" cid="c42024036.71">
+				</crossref>
+				were talking, 
+				<crossref let="u" cid="c42024036.72">
+				</crossref>
+				about these things, Jesus himself stood among them, and said to them, “Peace to you!”
+				<note nid="n42024036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024037">
+			</marker>
+			<v n="37">
+				But they 
+				<crossref let="v" cid="c42024037.73">
+				</crossref>
+				were startled, 
+				<crossref let="w" cid="c42024037.74">
+				</crossref>
+				and frightened and thought they saw a spirit.
+			</v>
+			<marker class="begin-verse" mid="v42024038">
+			</marker>
+			<v n="38" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="x" cid="c42024038.75">
+				</crossref>
+					said to, 
+					<crossref let="y" cid="c42024038.76">
+				</crossref>
+				them, “Why are you troubled, and why do doubts arise in your hearts?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42024039">
+			</marker>
+			<v n="39">
+				See my 
+				<crossref let="z" cid="c42024039.77">
+				</crossref>
+				hands and, 
+				<crossref let="a" cid="c42024039.78">
+				</crossref>
+				my feet, that it is I myself. Touch me, and see. For a spirit does not have flesh and bones as you see that I have.”
+				<note nid="n42024039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024040">
+			</marker>
+			<v n="40">
+				And when 
+				<crossref let="b" cid="c42024040.79">
+				</crossref>
+				he had, 
+				<crossref let="c" cid="c42024040.80">
+				</crossref>
+				said this, he showed them his hands and his feet.
+			</v>
+			<marker class="begin-verse" mid="v42024041">
+			</marker>
+			<v n="41" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And while 
+					<crossref let="d" cid="c42024041.81">
+				</crossref>
+					they still, 
+					<crossref let="e" cid="c42024041.82">
+				</crossref>
+				disbelieved for joy and were marveling, he said to them, “Have you anything here to eat?”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42024042">
+			</marker>
+			<v n="42">
+				They gave 
+				<crossref let="f" cid="c42024042.83">
+				</crossref>
+				him a, 
+				<crossref let="g" cid="c42024042.84">
+				</crossref>
+				piece of broiled fish,(2)
+				<note nid="n42024042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024043">
+			</marker>
+			<v n="43">
+				and he 
+				<crossref let="h" cid="c42024043.85">
+				</crossref>
+				took it, 
+				<crossref let="i" cid="c42024043.86">
+				</crossref>
+				and ate before them.
+			</v>
+			<marker class="begin-verse" mid="v42024044">
+			</marker>
+			<v n="44" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Then he 
+					<crossref let="j" cid="c42024044.87">
+				</crossref>
+					said to, 
+					<crossref let="k" cid="c42024044.88">
+				</crossref>
+				them, “These are my words that I spoke to you while I was still with you, that everything written about me in the Law of Moses and the Prophets and the Psalms must be fulfilled.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42024045">
+			</marker>
+			<v n="45">
+				Then he 
+				<crossref let="l" cid="c42024045.89">
+				</crossref>
+				opened their, 
+				<crossref let="m" cid="c42024045.90">
+				</crossref>
+				minds to understand the Scriptures,
+				<note nid="n42024045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024046">
+			</marker>
+			<v n="46">
+				and said 
+				<crossref let="n" cid="c42024046.91">
+				</crossref>
+				to them,, 
+				<crossref let="o" cid="c42024046.92">
+				</crossref>
+				“Thus it is written, that the Christ should suffer and on the third day rise from the dead,
+			</v>
+			<marker class="begin-verse" mid="v42024047">
+			</marker>
+			<v n="47">
+				and that 
+				<crossref let="p" cid="c42024047.93">
+				</crossref>
+				repentance for(3), 
+				<crossref let="q" cid="c42024047.94">
+				</crossref>
+				the forgiveness of sins should be proclaimed in his name to all nations, beginning from Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v42024048">
+			</marker>
+			<v n="48">
+				You are 
+				<crossref let="r" cid="c42024048.95">
+				</crossref>
+				witnesses of, 
+				<crossref let="s" cid="c42024048.96">
+				</crossref>
+				these things.
+				<note nid="n42024048.48">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024049">
+			</marker>
+			<v n="49">
+				And behold, 
+				<crossref let="t" cid="c42024049.97">
+				</crossref>
+				I am, 
+				<crossref let="u" cid="c42024049.98">
+				</crossref>
+				sending the promise of my Father upon you. But stay in the city until you are clothed with power from on high.” The Ascension
+			</v>
+			<marker class="begin-verse" mid="v42024050">
+			</marker>
+			<v n="50">
+				And he 
+				<crossref let="v" cid="c42024050.99">
+				</crossref>
+				led them, 
+				<crossref let="w" cid="c42024050.100">
+				</crossref>
+				out as far as Bethany, and lifting up his hands he blessed them.
+			</v>
+			<marker class="begin-verse" mid="v42024051">
+			</marker>
+			<v n="51">
+				While he 
+				<crossref let="x" cid="c42024051.101">
+				</crossref>
+				blessed them,, 
+				<crossref let="y" cid="c42024051.102">
+				</crossref>
+				he parted from them and was carried up into heaven.
+				<note nid="n42024051.51">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42024052">
+			</marker>
+			<v n="52">
+				And they 
+				<crossref let="z" cid="c42024052.103">
+				</crossref>
+				worshiped him, 
+				<crossref let="a" cid="c42024052.104">
+				</crossref>
+				and returned to Jerusalem with great joy,
+			</v>
+			<marker class="begin-verse" mid="v42024053">
+			</marker>
+			<v n="53">
+				and were 
+				<crossref let="b" cid="c42024053.105">
+				</crossref>
+				continually in, 
+				<crossref let="c" cid="c42024053.106">
+				</crossref>
+				the temple blessing God. Footnotes (1) 24:13 Greek *sixty stadia*; a *stadion* was about 607 feet or 185 meters (2) 24:42 Some manuscripts add *and some honeycomb* (3) 24:47 Some manuscripts *and* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v42024054">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

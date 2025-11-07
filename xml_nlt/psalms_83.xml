@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:51:31.901000</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:51:31.901019</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19083001"/>
+		<chapter num="83">
+			<heading>A song. A psalm of Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c190831.1"/>
+				 do not be silent!Do not be deaf.Do not be quiet, O God.
+			</v>
+			<marker class="begin-verse" mid="v19083002"/>
+			<v n="2">
+				Don’t you 
+				<crossref let="c" cid="c190832.1"/>
+				 hear the uproar of your enemies?Don’t you see that your arrogant enemies are rising up?
+			</v>
+			<marker class="begin-verse" mid="v19083003"/>
+			<v n="3">
+				They devise 
+				<crossref let="d" cid="c190833.1"/>
+				 crafty schemes against your people;they conspire against your precious ones.
+			</v>
+			<marker class="begin-verse" mid="v19083004"/>
+			<v n="4">
+				“Come,” they 
+				<crossref let="e" cid="c190834.1"/>
+				 say, “let us wipe out Israel as a nation.We will destroy the very memory of its existence.”
+			</v>
+			<marker class="begin-verse" mid="v19083005"/>
+			<v n="5">
+				Yes, this 
+				<crossref let="f" cid="c190835.1"/>
+				 was their unanimous decision.They signed a treaty as allies against you—
+			</v>
+			<marker class="begin-verse" mid="v19083006"/>
+			<v n="6">
+				these Edomites 
+				<crossref let="g" cid="c190836.1"/>
+				 and Ishmaelites;Moabites and Hagrites;
+			</v>
+			<marker class="begin-verse" mid="v19083007"/>
+			<v n="7">
+				Gebalites, Ammonites, 
+				<crossref let="h" cid="c190837.1"/>
+				 and Amalekites;and people from Philistia and Tyre.
+			</v>
+			<marker class="begin-verse" mid="v19083008"/>
+			<v n="8">
+				Assyria has 
+				<crossref let="i" cid="c190838.1"/>
+				 joined them, too,and is allied with the descendants of Lot. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19083009"/>
+			<v n="9">
+				Do to 
+				<crossref let="j" cid="c190839.1"/>
+				 them as you did to the Midianitesand as you did to Sisera and Jabin at the Kishon River.
+			</v>
+			<marker class="begin-verse" mid="v19083010"/>
+			<v n="10">
+				They were 
+				<crossref let="k" cid="c1908310.1"/>
+				 destroyed at Endor,and their decaying corpses fertilized the soil.
+			</v>
+			<marker class="begin-verse" mid="v19083011"/>
+			<v n="11">
+				Let their 
+				<crossref let="l" cid="c1908311.1"/>
+				 mighty nobles die as Oreb and Zeeb did.Let all their princes die like Zebah and Zalmunna,
+			</v>
+			<marker class="begin-verse" mid="v19083012"/>
+			<v n="12">
+				for they 
+				<crossref let="m" cid="c1908312.1"/>
+				 said, “Let us seize for our own usethese pasturelands of God!”
+			</v>
+			<marker class="begin-verse" mid="v19083013"/>
+			<v n="13">
+				O my 
+				<crossref let="n" cid="c1908313.1"/>
+				 God, scatter them like tumbleweed,like chaff before the wind!
+			</v>
+			<marker class="begin-verse" mid="v19083014"/>
+			<v n="14">
+				As a 
+				<crossref let="o" cid="c1908314.1"/>
+				 fire burns a forestand as a flame sets mountains ablaze,
+			</v>
+			<marker class="begin-verse" mid="v19083015"/>
+			<v n="15">
+				chase them 
+				<crossref let="p" cid="c1908315.1"/>
+				 with your fierce storm;terrify them with your tempest.
+			</v>
+			<marker class="begin-verse" mid="v19083016"/>
+			<v n="16">
+				Utterly disgrace 
+				<crossref let="q" cid="c1908316.1"/>
+				 themuntil they submit to your name, O Lord.
+			</v>
+			<marker class="begin-verse" mid="v19083017"/>
+			<v n="17">
+				Let them 
+				<crossref let="r" cid="c1908317.1"/>
+				 be ashamed and terrified forever.Let them die in disgrace.
+			</v>
+			<marker class="begin-verse" mid="v19083018"/>
+			<v n="18">
+				Then they 
+				<crossref let="s" cid="c1908318.1"/>
+				 will learn that you alone are called the Lord,that you alone are the Most High,supreme over all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19083019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

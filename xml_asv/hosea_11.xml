@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:01:57.881910</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:01:57.881917</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" version="ASV" bookAbbr="hos">
+		<marker class="begin-verse" mid="v28011001"/>
+		<chapter num="11">
+			<begin-paragraph/>
+			<v n="1">
+				When Israel 
+				<crossref let="b" cid="c280111.1"/>
+				 was a child, then I loved him, and called my son out of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v28011002"/>
+			<v n="2">
+				The more 
+				<crossref let="c" cid="c280112.1"/>
+				 the prophets called them, the more they went from them: they sacrificed unto the Baalim, and burned incense to graven images.
+			</v>
+			<marker class="begin-verse" mid="v28011003"/>
+			<v n="3">
+				Yet I 
+				<crossref let="d" cid="c280113.1"/>
+				 taught Ephraim to walk; I took them on my arms; but they knew not that I healed them.
+			</v>
+			<marker class="begin-verse" mid="v28011004"/>
+			<v n="4">
+				I drew 
+				<crossref let="e" cid="c280114.1"/>
+				 them with cords of a man, with bands of love; and I was to them as they that lift up the yoke on their jaws; and I laid food before them.
+			</v>
+			<marker class="begin-verse" mid="v28011005"/>
+			<v n="5">
+				They shall 
+				<crossref let="f" cid="c280115.1"/>
+				 not return into the land of Egypt; but the Assyrian shall be their king, because they refused to return to me.
+			</v>
+			<marker class="begin-verse" mid="v28011006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c280116.1"/>
+				 sword shall fall upon their cities, and shall consume their bars, and devour them, because of their own counsels.
+			</v>
+			<marker class="begin-verse" mid="v28011007"/>
+			<v n="7">
+				And my 
+				<crossref let="h" cid="c280117.1"/>
+				 people are bent on backsliding from me: though they call them to him that is on high, none at all will exalt him.
+			</v>
+			<marker class="begin-verse" mid="v28011008"/>
+			<v n="8">
+				How shall 
+				<crossref let="i" cid="c280118.1"/>
+				 I give thee up, Ephraim? how shall I cast thee off, Israel? how shall I make thee as Admah? how shall I set thee as Zeboiim? my heart is turned within me, my compassions are kindled together.
+			</v>
+			<marker class="begin-verse" mid="v28011009"/>
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c280119.1"/>
+				 not execute the fierceness of mine anger, I will not return to destroy Ephraim: for I am God, and not man; the Holy One in the midst of thee; and I will not come in wrath.
+			</v>
+			<marker class="begin-verse" mid="v28011010"/>
+			<v n="10">
+				They shall 
+				<crossref let="k" cid="c2801110.1"/>
+				 walk after Jehovah, who will roar like a lion; for he will roar, and the children shall come trembling from the west.
+			</v>
+			<marker class="begin-verse" mid="v28011011"/>
+			<v n="11">
+				They shall 
+				<crossref let="l" cid="c2801111.1"/>
+				 come trembling as a bird out of Egypt, and as a dove out of the land of Assyria; and I will make them to dwell in their houses, saith Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v28011012"/>
+			<v n="12">
+				Ephraim compasseth 
+				<crossref let="m" cid="c2801112.1"/>
+				 me about with falsehood, and the house of Israel with deceit; but Judah yet ruleth with God, and is faithful with the Holy One.
+			</v>
+			<marker class="begin-verse" mid="v28011013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

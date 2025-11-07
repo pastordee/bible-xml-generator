@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:00.760828</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:00.760836</next_refresh_due>
+	</generation_info>
+	<book title="Esther" num="17" testament="old" bookAbbr="est" version="ESV">
+		<marker class="begin-verse" mid="v17005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				Esther 5
+			</heading>
+			<heading>
+				Esther Prepares a Banquet
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				On the 
+				<crossref let="b" cid="c17005001.1">
+				</crossref>
+				third day, 
+				<crossref let="c" cid="c17005001.2">
+				</crossref>
+				Esther put on her royal robes and stood in the inner court of the king’s palace, in front of the king’s quarters, while the king was sitting on his royal throne inside the throne room opposite the entrance to the palace.
+			</v>
+			<marker class="begin-verse" mid="v17005002">
+			</marker>
+			<v n="2">
+				And when 
+				<crossref let="d" cid="c17005002.3">
+				</crossref>
+				the king, 
+				<crossref let="e" cid="c17005002.4">
+				</crossref>
+				saw Queen Esther standing in the court, she won favor in his sight, and he held out to Esther the golden scepter that was in his hand. Then Esther approached and touched the tip of the scepter.
+			</v>
+			<marker class="begin-verse" mid="v17005003">
+			</marker>
+			<v n="3">
+				And the 
+				<crossref let="f" cid="c17005003.5">
+				</crossref>
+				king said, 
+				<crossref let="g" cid="c17005003.6">
+				</crossref>
+				to her, “What is it, Queen Esther? What is your request? It shall be given you, even to the half of my kingdom.”
+				<note nid="n17005003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v17005004">
+			</marker>
+			<v n="4">
+				And Esther 
+				<crossref let="h" cid="c17005004.7">
+				</crossref>
+				said, “If, 
+				<crossref let="i" cid="c17005004.8">
+				</crossref>
+				it please the king,(1) let the king and Haman come today to a feast that I have prepared for the king.”
+			</v>
+			<marker class="begin-verse" mid="v17005005">
+			</marker>
+			<v n="5">
+				Then the 
+				<crossref let="j" cid="c17005005.9">
+				</crossref>
+				king said,, 
+				<crossref let="k" cid="c17005005.10">
+				</crossref>
+				“Bring Haman quickly, so that we may do as Esther has asked.” So the king and Haman came to the feast that Esther had prepared.
+			</v>
+			<marker class="begin-verse" mid="v17005006">
+			</marker>
+			<v n="6">
+				And as 
+				<crossref let="l" cid="c17005006.11">
+				</crossref>
+				they were, 
+				<crossref let="m" cid="c17005006.12">
+				</crossref>
+				drinking wine after the feast, the king said to Esther, “What is your wish? It shall be granted you. And what is your request? Even to the half of my kingdom, it shall be fulfilled.”(2)
+				<note nid="n17005006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v17005007">
+			</marker>
+			<v n="7">
+				Then Esther 
+				<crossref let="n" cid="c17005007.13">
+				</crossref>
+				answered, “My, 
+				<crossref let="o" cid="c17005007.14">
+				</crossref>
+				wish and my request is:
+			</v>
+			<marker class="begin-verse" mid="v17005008">
+			</marker>
+			<v n="8">
+				If I 
+				<crossref let="p" cid="c17005008.15">
+				</crossref>
+				have found, 
+				<crossref let="q" cid="c17005008.16">
+				</crossref>
+				favor in the sight of the king, and if it please the king(3) to grant my wish and fulfill my request, let the king and Haman come to the feast that I will prepare for them, and tomorrow I will do as the king has said.” Haman Plans to Hang Mordecai
+			</v>
+			<marker class="begin-verse" mid="v17005009">
+			</marker>
+			<v n="9">
+				And Haman 
+				<crossref let="r" cid="c17005009.17">
+				</crossref>
+				went out, 
+				<crossref let="s" cid="c17005009.18">
+				</crossref>
+				that day joyful and glad of heart. But when Haman saw Mordecai in the king’s gate, that he neither rose nor trembled before him, he was filled with wrath against Mordecai.
+				<note nid="n17005009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v17005010">
+			</marker>
+			<v n="10">
+				Nevertheless, Haman 
+				<crossref let="t" cid="c17005010.19">
+				</crossref>
+				restrained himself, 
+				<crossref let="u" cid="c17005010.20">
+				</crossref>
+				and went home, and he sent and brought his friends and his wife Zeresh.
+			</v>
+			<marker class="begin-verse" mid="v17005011">
+			</marker>
+			<v n="11">
+				And Haman 
+				<crossref let="v" cid="c17005011.21">
+				</crossref>
+				recounted to, 
+				<crossref let="w" cid="c17005011.22">
+				</crossref>
+				them the splendor of his riches, the number of his sons, all the promotions with which the king had honored him, and how he had advanced him above the officials and the servants of the king.
+			</v>
+			<marker class="begin-verse" mid="v17005012">
+			</marker>
+			<v n="12">
+				Then Haman 
+				<crossref let="x" cid="c17005012.23">
+				</crossref>
+				said, “Even, 
+				<crossref let="y" cid="c17005012.24">
+				</crossref>
+				Queen Esther let no one but me come with the king to the feast she prepared. And tomorrow also I am invited by her together with the king.
+				<note nid="n17005012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v17005013">
+			</marker>
+			<v n="13">
+				Yet all 
+				<crossref let="z" cid="c17005013.25">
+				</crossref>
+				this is, 
+				<crossref let="a" cid="c17005013.26">
+				</crossref>
+				worth nothing to me, so long as I see Mordecai the Jew sitting at the king’s gate.”
+			</v>
+			<marker class="begin-verse" mid="v17005014">
+			</marker>
+			<v n="14">
+				Then his 
+				<crossref let="b" cid="c17005014.27">
+				</crossref>
+				wife Zeresh, 
+				<crossref let="c" cid="c17005014.28">
+				</crossref>
+				and all his friends said to him, “Let a gallows(4) fifty cubits(5) high be made, and in the morning tell the king to have Mordecai hanged upon it. Then go joyfully with the king to the feast.” This idea pleased Haman, and he had the gallows made. Footnotes (1) 5:4 Hebrew *If it is good to the king* (2) 5:6 Or *done* (3) 5:8 Hebrew *if it is good to the king* (4) 5:14 Or *wooden beam*; twice in this verse (see note on 2:23) (5) 5:14 A *cubit* was about 18 inches or 45 centimeters (ESV)
+			</v>
+			<marker class="begin-verse" mid="v17005015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

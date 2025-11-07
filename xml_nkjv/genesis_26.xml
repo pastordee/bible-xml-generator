@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:31:30.691749</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:31:30.691777</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="NKJV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01026001"/>
+		<chapter num="26">
+			<heading>Isaac and Abimelech</heading>
+			<begin-paragraph/>
+			<v n="1">
+				There was 
+				<crossref let="b" cid="c010261.1"/>
+				 a famine in the land, besides the first famine that was in the days of Abraham. And Isaac went to Abimelech king of the Philistines, in Gerar.
+			</v>
+			<marker class="begin-verse" mid="v01026002"/>
+			<v n="2">
+				Then the 
+				<crossref let="c" cid="c010262.1"/>
+				 Lord appeared to him and said: “Do not go down to Egypt; live in the land of which I shall tell you.
+			</v>
+			<marker class="begin-verse" mid="v01026003"/>
+			<v n="3">
+				Dwell in 
+				<crossref let="d" cid="c010263.1"/>
+				 this land, and I will be with you and bless you; for to you and your descendants I give all these lands, and I will perform the oath which I swore to Abraham your father.
+			</v>
+			<marker class="begin-verse" mid="v01026004"/>
+			<v n="4">
+				And I 
+				<crossref let="e" cid="c010264.1"/>
+				 will make your descendants multiply as the stars of heaven; I will give to your descendants all these lands; and in your seed all the nations of the earth shall be blessed;
+			</v>
+			<marker class="begin-verse" mid="v01026005"/>
+			<v n="5">
+				because Abraham 
+				<crossref let="f" cid="c010265.1"/>
+				 obeyed My voice and kept My charge, My commandments, My statutes, and My laws.”
+			</v>
+			<marker class="begin-verse" mid="v01026006"/>
+			<v n="6">
+				So Isaac 
+				<crossref let="g" cid="c010266.1"/>
+				 dwelt in Gerar.
+			</v>
+			<marker class="begin-verse" mid="v01026007"/>
+			<v n="7">
+				And the 
+				<crossref let="h" cid="c010267.1"/>
+				 men of the place asked about his wife. And he said, “She is my sister”; for he was afraid to say, “She is my wife,” because he thought, “lest the men of the place kill me for Rebekah, because she is beautiful to behold.”
+			</v>
+			<marker class="begin-verse" mid="v01026008"/>
+			<v n="8">
+				Now it 
+				<crossref let="i" cid="c010268.1"/>
+				 came to pass, when he had been there a long time, that Abimelech king of the Philistines looked through a window, and saw, and there was Isaac, showing endearment to Rebekah his wife.
+			</v>
+			<marker class="begin-verse" mid="v01026009"/>
+			<v n="9">
+				Then Abimelech 
+				<crossref let="j" cid="c010269.1"/>
+				 called Isaac and said, “Quite obviously she is your wife; so how could you say, ‘She is my sister’?”Isaac said to him, “Because I said, ‘Lest I die on account of her.’ ”
+			</v>
+			<marker class="begin-verse" mid="v01026010"/>
+			<v n="10">
+				And Abimelech 
+				<crossref let="k" cid="c0102610.1"/>
+				 said, “What is this you have done to us? One of the people might soon have lain with your wife, and you would have brought guilt on us.”
+			</v>
+			<marker class="begin-verse" mid="v01026011"/>
+			<v n="11">
+				So Abimelech 
+				<crossref let="l" cid="c0102611.1"/>
+				 charged all his people, saying, “He who touches this man or his wife shall surely be put to death.”
+			</v>
+			<marker class="begin-verse" mid="v01026012"/>
+			<v n="12">
+				Then Isaac 
+				<crossref let="m" cid="c0102612.1"/>
+				 sowed in that land, and reaped in the same year a hundredfold; and the Lord blessed him.
+			</v>
+			<marker class="begin-verse" mid="v01026013"/>
+			<v n="13">
+				The man 
+				<crossref let="n" cid="c0102613.1"/>
+				 began to prosper, and continued prospering until he became very prosperous;
+			</v>
+			<marker class="begin-verse" mid="v01026014"/>
+			<v n="14">
+				for he 
+				<crossref let="o" cid="c0102614.1"/>
+				 had possessions of flocks and possessions of herds and a great number of servants. So the Philistines envied him.
+			</v>
+			<marker class="begin-verse" mid="v01026015"/>
+			<v n="15">
+				Now the 
+				<crossref let="p" cid="c0102615.1"/>
+				 Philistines had stopped up all the wells which his father’s servants had dug in the days of Abraham his father, and they had filled them with earth.
+			</v>
+			<marker class="begin-verse" mid="v01026016"/>
+			<v n="16">
+				And Abimelech 
+				<crossref let="q" cid="c0102616.1"/>
+				 said to Isaac, “Go away from us, for you are much mightier than we.”
+			</v>
+			<marker class="begin-verse" mid="v01026017"/>
+			<v n="17">
+				Then Isaac 
+				<crossref let="r" cid="c0102617.1"/>
+				 departed from there and pitched his tent in the Valley of Gerar, and dwelt there.
+			</v>
+			<marker class="begin-verse" mid="v01026018"/>
+			<v n="18">
+				And Isaac 
+				<crossref let="s" cid="c0102618.1"/>
+				 dug again the wells of water which they had dug in the days of Abraham his father, for the Philistines had stopped them up after the death of Abraham. He called them by the names which his father had called them.
+			</v>
+			<marker class="begin-verse" mid="v01026019"/>
+			<v n="19">
+				Also Isaac’s 
+				<crossref let="t" cid="c0102619.1"/>
+				 servants dug in the valley, and found a well of running water there.
+			</v>
+			<marker class="begin-verse" mid="v01026020"/>
+			<v n="20">
+				But the 
+				<crossref let="u" cid="c0102620.1"/>
+				 herdsmen of Gerar quarreled with Isaac’s herdsmen, saying, “The water is ours.” So he called the name of the well Esek, because they quarreled with him.
+			</v>
+			<marker class="begin-verse" mid="v01026021"/>
+			<v n="21">
+				Then they 
+				<crossref let="v" cid="c0102621.1"/>
+				 dug another well, and they quarreled over that one also. So he called its name Sitnah.
+			</v>
+			<marker class="begin-verse" mid="v01026022"/>
+			<v n="22">
+				And he 
+				<crossref let="w" cid="c0102622.1"/>
+				 moved from there and dug another well, and they did not quarrel over it. So he called its name Rehoboth, because he said, “For now the Lord has made room for us, and we shall be fruitful in the land.”
+			</v>
+			<marker class="begin-verse" mid="v01026023"/>
+			<v n="23">
+				Then he 
+				<crossref let="x" cid="c0102623.1"/>
+				 went up from there to Beersheba.
+			</v>
+			<marker class="begin-verse" mid="v01026024"/>
+			<v n="24">
+				And the 
+				<crossref let="y" cid="c0102624.1"/>
+				 Lord appeared to him the same night and said, “I am the God of your father Abraham; do not fear, for I am with you. I will bless you and multiply your descendants for My servant Abraham’s sake.”
+			</v>
+			<marker class="begin-verse" mid="v01026025"/>
+			<v n="25">
+				So he 
+				<crossref let="z" cid="c0102625.1"/>
+				 built an altar there and called on the name of the Lord, and he pitched his tent there; and there Isaac’s servants dug a well.
+			</v>
+			<marker class="begin-verse" mid="v01026026"/>
+			<v n="26">
+				Then Abimelech 
+				<crossref let="a" cid="c0102626.1"/>
+				 came to him from Gerar with Ahuzzath, one of his friends, and Phichol the commander of his army.
+			</v>
+			<marker class="begin-verse" mid="v01026027"/>
+			<v n="27">
+				And Isaac 
+				<crossref let="b" cid="c0102627.1"/>
+				 said to them, “Why have you come to me, since you hate me and have sent me away from you?”
+			</v>
+			<marker class="begin-verse" mid="v01026028"/>
+			<v n="28">
+				But they 
+				<crossref let="c" cid="c0102628.1"/>
+				 said, “We have certainly seen that the Lord is with you. So we said, ‘Let there now be an oath between us, between you and us; and let us make a covenant with you,
+			</v>
+			<marker class="begin-verse" mid="v01026029"/>
+			<v n="29">
+				that you 
+				<crossref let="d" cid="c0102629.1"/>
+				 will do us no harm, since we have not touched you, and since we have done nothing to you but good and have sent you away in peace. You are now the blessed of the Lord.’ ”
+			</v>
+			<marker class="begin-verse" mid="v01026030"/>
+			<v n="30">
+				So he 
+				<crossref let="e" cid="c0102630.1"/>
+				 made them a feast, and they ate and drank.
+			</v>
+			<marker class="begin-verse" mid="v01026031"/>
+			<v n="31">
+				Then they 
+				<crossref let="f" cid="c0102631.1"/>
+				 arose early in the morning and swore an oath with one another; and Isaac sent them away, and they departed from him in peace.
+			</v>
+			<marker class="begin-verse" mid="v01026032"/>
+			<v n="32">
+				It came 
+				<crossref let="g" cid="c0102632.1"/>
+				 to pass the same day that Isaac’s servants came and told him about the well which they had dug, and said to him, “We have found water.”
+			</v>
+			<marker class="begin-verse" mid="v01026033"/>
+			<v n="33">
+				So he 
+				<crossref let="h" cid="c0102633.1"/>
+				 called it Shebah. Therefore the name of the city is Beersheba to this day.
+			</v>
+			<marker class="begin-verse" mid="v01026034"/>
+			<v n="34">
+				When Esau 
+				<crossref let="i" cid="c0102634.1"/>
+				 was forty years old, he took as wives Judith the daughter of Beeri the Hittite, and Basemath the daughter of Elon the Hittite.
+			</v>
+			<marker class="begin-verse" mid="v01026035"/>
+			<v n="35">
+				And they 
+				<crossref let="j" cid="c0102635.1"/>
+				 were a grief of mind to Isaac and Rebekah.
+			</v>
+			<marker class="begin-verse" mid="v01026036"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:01:16.772798</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:01:16.772805</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="WEB" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01025001"/>
+		<chapter num="25">
+			<begin-paragraph/>
+			<v n="1">
+				Abraham took 
+				<crossref let="b" cid="c010251.1"/>
+				 another wife, and her name was Keturah.
+			</v>
+			<marker class="begin-verse" mid="v01025002"/>
+			<v n="2">
+				She bore 
+				<crossref let="c" cid="c010252.1"/>
+				 him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
+			</v>
+			<marker class="begin-verse" mid="v01025003"/>
+			<v n="3">
+				Jokshan became 
+				<crossref let="d" cid="c010253.1"/>
+				 the father of Sheba, and Dedan. The sons of Dedan were Asshurim, Letushim, and Leummim.
+			</v>
+			<marker class="begin-verse" mid="v01025004"/>
+			<v n="4">
+				The sons 
+				<crossref let="e" cid="c010254.1"/>
+				 of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the children of Keturah.
+			</v>
+			<marker class="begin-verse" mid="v01025005"/>
+			<v n="5">
+				Abraham gave 
+				<crossref let="f" cid="c010255.1"/>
+				 all that he had to Isaac,
+			</v>
+			<marker class="begin-verse" mid="v01025006"/>
+			<v n="6">
+				but Abraham 
+				<crossref let="g" cid="c010256.1"/>
+				 gave gifts to the sons of Abraham’s concubines. While he still lived, he sent them away from Isaac his son, eastward, to the east country.
+			</v>
+			<marker class="begin-verse" mid="v01025007"/>
+			<v n="7">
+				These are 
+				<crossref let="h" cid="c010257.1"/>
+				 the days of the years of Abraham’s life which he lived: one hundred seventy-five years.
+			</v>
+			<marker class="begin-verse" mid="v01025008"/>
+			<v n="8">
+				Abraham gave 
+				<crossref let="i" cid="c010258.1"/>
+				 up his spirit, and died at a good old age, an old man, and full of years, and was gathered to his people.
+			</v>
+			<marker class="begin-verse" mid="v01025009"/>
+			<v n="9">
+				Isaac and 
+				<crossref let="j" cid="c010259.1"/>
+				 Ishmael, his sons, buried him in the cave of Machpelah, in the field of Ephron, the son of Zohar the Hittite, which is near Mamre,
+			</v>
+			<marker class="begin-verse" mid="v01025010"/>
+			<v n="10">
+				the field 
+				<crossref let="k" cid="c0102510.1"/>
+				 which Abraham purchased from the children of Heth. Abraham was buried there with Sarah, his wife.
+			</v>
+			<marker class="begin-verse" mid="v01025011"/>
+			<v n="11">
+				After the 
+				<crossref let="l" cid="c0102511.1"/>
+				 death of Abraham, God blessed Isaac, his son. Isaac lived by Beer Lahai Roi.
+			</v>
+			<marker class="begin-verse" mid="v01025012"/>
+			<v n="12">
+				Now this 
+				<crossref let="m" cid="c0102512.1"/>
+				 is the history of the generations of Ishmael, Abraham’s son, whom Hagar the Egyptian, Sarah’s servant, bore to Abraham.
+			</v>
+			<marker class="begin-verse" mid="v01025013"/>
+			<v n="13">
+				These are 
+				<crossref let="n" cid="c0102513.1"/>
+				 the names of the sons of Ishmael, by their names, according to the order of their birth: the firstborn of Ishmael, Nebaioth, then Kedar, Adbeel, Mibsam,
+			</v>
+			<marker class="begin-verse" mid="v01025014"/>
+			<v n="14">Mishma, Dumah, Massa,</v>
+			<marker class="begin-verse" mid="v01025015"/>
+			<v n="15">
+				Hadad, Tema, 
+				<crossref let="p" cid="c0102515.1"/>
+				 Jetur, Naphish, and Kedemah.
+			</v>
+			<marker class="begin-verse" mid="v01025016"/>
+			<v n="16">
+				These are 
+				<crossref let="q" cid="c0102516.1"/>
+				 the sons of Ishmael, and these are their names, by their villages, and by their encampments: twelve princes, according to their nations.
+			</v>
+			<marker class="begin-verse" mid="v01025017"/>
+			<v n="17">
+				These are 
+				<crossref let="r" cid="c0102517.1"/>
+				 the years of the life of Ishmael: one hundred thirty-seven years. He gave up his spirit and died, and was gathered to his people.
+			</v>
+			<marker class="begin-verse" mid="v01025018"/>
+			<v n="18">
+				They lived 
+				<crossref let="s" cid="c0102518.1"/>
+				 from Havilah to Shur that is before Egypt, as you go toward Assyria. He lived opposite all his relatives.
+			</v>
+			<marker class="begin-verse" mid="v01025019"/>
+			<v n="19">
+				This is 
+				<crossref let="t" cid="c0102519.1"/>
+				 the history of the generations of Isaac, Abraham’s son. Abraham became the father of Isaac.
+			</v>
+			<marker class="begin-verse" mid="v01025020"/>
+			<v n="20">
+				Isaac was 
+				<crossref let="u" cid="c0102520.1"/>
+				 forty years old when he took Rebekah, the daughter of Bethuel the Syrian of Paddan Aram, the sister of Laban the Syrian, to be his wife.
+			</v>
+			<marker class="begin-verse" mid="v01025021"/>
+			<v n="21">
+				Isaac entreated 
+				<crossref let="v" cid="c0102521.1"/>
+				 Yahweh for his wife, because she was barren. Yahweh was entreated by him, and Rebekah his wife conceived.
+			</v>
+			<marker class="begin-verse" mid="v01025022"/>
+			<v n="22">
+				The children 
+				<crossref let="w" cid="c0102522.1"/>
+				 struggled together within her. She said, “If it is like this, why do I live?” She went to inquire of Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v01025023"/>
+			<v n="23">
+				Yahweh said 
+				<crossref let="x" cid="c0102523.1"/>
+				 to her,“Two nations are in your womb.Two peoples will be separated from your body.The one people will be stronger than the other people.The elder will serve the younger.”
+			</v>
+			<marker class="begin-verse" mid="v01025024"/>
+			<v n="24">
+				When her 
+				<crossref let="y" cid="c0102524.1"/>
+				 days to be delivered were fulfilled, behold, there were twins in her womb.
+			</v>
+			<marker class="begin-verse" mid="v01025025"/>
+			<v n="25">
+				The first 
+				<crossref let="z" cid="c0102525.1"/>
+				 came out red all over, like a hairy garment. They named him Esau.
+			</v>
+			<marker class="begin-verse" mid="v01025026"/>
+			<v n="26">
+				After that, 
+				<crossref let="a" cid="c0102526.1"/>
+				 his brother came out, and his hand had hold on Esau’s heel. He was named Jacob. Isaac was sixty years old when she bore them.
+			</v>
+			<marker class="begin-verse" mid="v01025027"/>
+			<v n="27">
+				The boys 
+				<crossref let="b" cid="c0102527.1"/>
+				 grew. Esau was a skillful hunter, a man of the field. Jacob was a quiet man, living in tents.
+			</v>
+			<marker class="begin-verse" mid="v01025028"/>
+			<v n="28">
+				Now Isaac 
+				<crossref let="c" cid="c0102528.1"/>
+				 loved Esau, because he ate his venison. Rebekah loved Jacob.
+			</v>
+			<marker class="begin-verse" mid="v01025029"/>
+			<v n="29">
+				Jacob boiled 
+				<crossref let="d" cid="c0102529.1"/>
+				 stew. Esau came in from the field, and he was famished.
+			</v>
+			<marker class="begin-verse" mid="v01025030"/>
+			<v n="30">
+				Esau said 
+				<crossref let="e" cid="c0102530.1"/>
+				 to Jacob, “Please feed me with some of that red stew, for I am famished.” Therefore his name was called Edom.
+			</v>
+			<marker class="begin-verse" mid="v01025031"/>
+			<v n="31">
+				Jacob said, 
+				<crossref let="f" cid="c0102531.1"/>
+				 “First, sell me your birthright.”
+			</v>
+			<marker class="begin-verse" mid="v01025032"/>
+			<v n="32">
+				Esau said, 
+				<crossref let="g" cid="c0102532.1"/>
+				 “Behold, I am about to die. What good is the birthright to me?”
+			</v>
+			<marker class="begin-verse" mid="v01025033"/>
+			<v n="33">
+				Jacob said, 
+				<crossref let="h" cid="c0102533.1"/>
+				 “Swear to me first.”He swore to him. He sold his birthright to Jacob.
+			</v>
+			<marker class="begin-verse" mid="v01025034"/>
+			<v n="34">
+				Jacob gave 
+				<crossref let="i" cid="c0102534.1"/>
+				 Esau bread and lentil stew. He ate and drank, rose up, and went his way. So Esau despised his birthright.
+			</v>
+			<marker class="begin-verse" mid="v01025035"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:29:19.738987</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:29:19.739020</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19027001"/>
+		<chapter num="27">
+			<heading>A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Jehovah is 
+				<crossref let="b" cid="c190271.1"/>
+				 my light and my salvation;Whom shall I fear?Jehovah is the strength of my life;Of whom shall I be afraid?
+			</v>
+			<marker class="begin-verse" mid="v19027002"/>
+			<v n="2">
+				When evil-doers 
+				<crossref let="c" cid="c190272.1"/>
+				 came upon me to eat up my flesh,Even mine adversaries and my foes, they stumbled and fell.
+			</v>
+			<marker class="begin-verse" mid="v19027003"/>
+			<v n="3">
+				Though a 
+				<crossref let="d" cid="c190273.1"/>
+				 host should encamp against me,My heart shall not fear:Though war should rise against me,Even then will I be confident.
+			</v>
+			<marker class="begin-verse" mid="v19027004"/>
+			<v n="4">
+				One thing 
+				<crossref let="e" cid="c190274.1"/>
+				 have I asked of Jehovah, that will I seek after:That I may dwell in the house of Jehovah all the days of my life,To behold the beauty of Jehovah,And to inquire in his temple.
+			</v>
+			<marker class="begin-verse" mid="v19027005"/>
+			<v n="5">
+				For in 
+				<crossref let="f" cid="c190275.1"/>
+				 the day of trouble he will keep me secretly in his pavilion:In the covert of his tabernacle will he hide me;He will lift me up upon a rock.
+			</v>
+			<marker class="begin-verse" mid="v19027006"/>
+			<v n="6">
+				And now 
+				<crossref let="g" cid="c190276.1"/>
+				 shall my head be lifted up above mine enemies round about me;And I will offer in his tabernacle sacrifices of joy;I will sing, yea, I will sing praises unto Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19027007"/>
+			<v n="7">
+				Hear, O 
+				<crossref let="h" cid="c190277.1"/>
+				 Jehovah, when I cry with my voice:Have mercy also upon me, and answer me.
+			</v>
+			<marker class="begin-verse" mid="v19027008"/>
+			<v n="8">
+				When thou 
+				<crossref let="i" cid="c190278.1"/>
+				 saidst, Seek ye my face; my heart said unto thee,Thy face, Jehovah, will I seek.
+			</v>
+			<marker class="begin-verse" mid="v19027009"/>
+			<v n="9">
+				Hide not 
+				<crossref let="j" cid="c190279.1"/>
+				 thy face from me;Put not thy servant away in anger:Thou hast been my help;Cast me not off, neither forsake me, O God of my salvation.
+			</v>
+			<marker class="begin-verse" mid="v19027010"/>
+			<v n="10">
+				When my 
+				<crossref let="k" cid="c1902710.1"/>
+				 father and my mother forsake me,Then Jehovah will take me up.
+			</v>
+			<marker class="begin-verse" mid="v19027011"/>
+			<v n="11">
+				Teach me 
+				<crossref let="l" cid="c1902711.1"/>
+				 thy way, O Jehovah;And lead me in a plain path,Because of mine enemies.
+			</v>
+			<marker class="begin-verse" mid="v19027012"/>
+			<v n="12">
+				Deliver me 
+				<crossref let="m" cid="c1902712.1"/>
+				 not over unto the will of mine adversaries:For false witnesses are risen up against me,And such as breathe out cruelty.
+			</v>
+			<marker class="begin-verse" mid="v19027013"/>
+			<v n="13">
+				I had 
+				<crossref let="n" cid="c1902713.1"/>
+				 fainted, unless I had believed to see the goodness of JehovahIn the land of the living.
+			</v>
+			<marker class="begin-verse" mid="v19027014"/>
+			<v n="14">
+				Wait for 
+				<crossref let="o" cid="c1902714.1"/>
+				 Jehovah:Be strong, and let thy heart take courage;Yea, wait thou for Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19027015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

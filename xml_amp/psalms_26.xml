@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:00:29.827264</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:00:29.827289</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19026001"/>
+		<chapter num="26">
+			<heading>Psalm 26Protestation of Integrity and Prayer for Protection.A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Vindicate me, 
+				<crossref let="b" cid="c190261.1"/>
+				 O Lord, for I have walked in my integrity;I have [relied on and] trusted [confidently] in the Lord without wavering and I shall not slip.
+			</v>
+			<marker class="begin-verse" mid="v19026002"/>
+			<v n="2">
+				Examine me, 
+				<crossref let="c" cid="c190262.1"/>
+				 O Lord, and try me;Test my heart and my mind.
+			</v>
+			<marker class="begin-verse" mid="v19026003"/>
+			<v n="3">
+				For Your 
+				<crossref let="d" cid="c190263.1"/>
+				 lovingkindness is before my eyes,And I have walked [faithfully] in Your truth.
+			</v>
+			<marker class="begin-verse" mid="v19026004"/>
+			<v n="4">
+				I do 
+				<crossref let="e" cid="c190264.1"/>
+				 not sit with deceitful or unethical or worthless men,Nor seek companionship with pretenders (self-righteous hypocrites).
+			</v>
+			<marker class="begin-verse" mid="v19026005"/>
+			<v n="5">
+				I hate 
+				<crossref let="f" cid="c190265.1"/>
+				 the company of evildoers,And will not sit with the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19026006"/>
+			<v n="6">
+				I will 
+				<crossref let="g" cid="c190266.1"/>
+				 wash my hands in innocence,And I will go about Your altar, O Lord,
+			</v>
+			<marker class="begin-verse" mid="v19026007"/>
+			<v n="7">
+				That I 
+				<crossref let="h" cid="c190267.1"/>
+				 may proclaim with the voice of thanksgivingAnd declare all Your wonders.
+			</v>
+			<marker class="begin-verse" mid="v19026008"/>
+			<v n="8">
+				¶O Lord, 
+				<crossref let="i" cid="c190268.1"/>
+				 I love the habitation of Your houseAnd the place where Your glory dwells.
+			</v>
+			<marker class="begin-verse" mid="v19026009"/>
+			<v n="9">
+				Do not 
+				<crossref let="j" cid="c190269.1"/>
+				 sweep my soul away with sinners,Nor [sweep away] my life with men of bloodshed,
+			</v>
+			<marker class="begin-verse" mid="v19026010"/>
+			<v n="10">
+				In whose 
+				<crossref let="k" cid="c1902610.1"/>
+				 hands is a wicked scheme,And whose right hand is full of bribes.
+			</v>
+			<marker class="begin-verse" mid="v19026011"/>
+			<v n="11">
+				But as 
+				<crossref let="l" cid="c1902611.1"/>
+				 for me, I shall walk in my integrity;Redeem me and be merciful and gracious to me.
+			</v>
+			<marker class="begin-verse" mid="v19026012"/>
+			<v n="12">
+				My foot 
+				<crossref let="m" cid="c1902612.1"/>
+				 stands on a level place;In the congregations I will bless the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19026013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

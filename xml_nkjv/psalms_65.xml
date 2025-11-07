@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:17:53.626362</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:17:53.626378</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19065001"/>
+		<chapter num="65">
+			<heading>Praise to God for His Salvation and ProvidenceTo the Chief Musician. A Psalm of David. A Song.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Praise is 
+				<crossref let="b" cid="c190651.1"/>
+				 awaiting You, O God, in Zion;And to You the vow shall be performed.
+			</v>
+			<marker class="begin-verse" mid="v19065002"/>
+			<v n="2">
+				O You 
+				<crossref let="c" cid="c190652.1"/>
+				 who hear prayer,To You all flesh will come.
+			</v>
+			<marker class="begin-verse" mid="v19065003"/>
+			<v n="3">
+				Iniquities prevail 
+				<crossref let="d" cid="c190653.1"/>
+				 against me;As for our transgressions,You will provide atonement for them.
+			</v>
+			<marker class="begin-verse" mid="v19065004"/>
+			<v n="4">
+				Blessed is 
+				<crossref let="e" cid="c190654.1"/>
+				 the man You choose,And cause to approach You,That he may dwell in Your courts.We shall be satisfied with the goodness of Your house,Of Your holy temple.
+			</v>
+			<marker class="begin-verse" mid="v19065005"/>
+			<v n="5">
+				By awesome 
+				<crossref let="f" cid="c190655.1"/>
+				 deeds in righteousness You will answer us,O God of our salvation,You who are the confidence of all the ends of the earth,And of the far-off seas;
+			</v>
+			<marker class="begin-verse" mid="v19065006"/>
+			<v n="6">
+				Who established 
+				<crossref let="g" cid="c190656.1"/>
+				 the mountains by His strength,Being clothed with power;
+			</v>
+			<marker class="begin-verse" mid="v19065007"/>
+			<v n="7">
+				You who 
+				<crossref let="h" cid="c190657.1"/>
+				 still the noise of the seas,The noise of their waves,And the tumult of the peoples.
+			</v>
+			<marker class="begin-verse" mid="v19065008"/>
+			<v n="8">
+				They also 
+				<crossref let="i" cid="c190658.1"/>
+				 who dwell in the farthest parts are afraid of Your signs;You make the outgoings of the morning and evening rejoice.
+			</v>
+			<marker class="begin-verse" mid="v19065009"/>
+			<v n="9">
+				You visit 
+				<crossref let="j" cid="c190659.1"/>
+				 the earth and water it,You greatly enrich it;The river of God is full of water;You provide their grain,For so You have prepared it.
+			</v>
+			<marker class="begin-verse" mid="v19065010"/>
+			<v n="10">
+				You water 
+				<crossref let="k" cid="c1906510.1"/>
+				 its ridges abundantly,You settle its furrows;You make it soft with showers,You bless its growth.
+			</v>
+			<marker class="begin-verse" mid="v19065011"/>
+			<v n="11">
+				You crown 
+				<crossref let="l" cid="c1906511.1"/>
+				 the year with Your goodness,And Your paths drip with abundance.
+			</v>
+			<marker class="begin-verse" mid="v19065012"/>
+			<v n="12">
+				They drop 
+				<crossref let="m" cid="c1906512.1"/>
+				 on the pastures of the wilderness,And the little hills rejoice on every side.
+			</v>
+			<marker class="begin-verse" mid="v19065013"/>
+			<v n="13">
+				The pastures 
+				<crossref let="n" cid="c1906513.1"/>
+				 are clothed with flocks;The valleys also are covered with grain;They shout for joy, they also sing.
+			</v>
+			<marker class="begin-verse" mid="v19065014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:07:58.249153</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:07:58.249186</next_refresh_due>
+	</generation_info>
+	<book title="Esther" num="17" testament="old" version="NKJV" bookAbbr="est">
+		<marker class="begin-verse" mid="v17006001"/>
+		<chapter num="6">
+			<heading>The King Honors Mordecai</heading>
+			<begin-paragraph/>
+			<v n="1">
+				That night 
+				<crossref let="b" cid="c170061.1"/>
+				 the king could not sleep. So one was commanded to bring the book of the records of the chronicles; and they were read before the king.
+			</v>
+			<marker class="begin-verse" mid="v17006002"/>
+			<v n="2">
+				And it 
+				<crossref let="c" cid="c170062.1"/>
+				 was found written that Mordecai had told of Bigthana and Teresh, two of the king’s eunuchs, the doorkeepers who had sought to lay hands on King Ahasuerus.
+			</v>
+			<marker class="begin-verse" mid="v17006003"/>
+			<v n="3">
+				Then the 
+				<crossref let="d" cid="c170063.1"/>
+				 king said, “What honor or dignity has been bestowed on Mordecai for this?”And the king’s servants who attended him said, “Nothing has been done for him.”
+			</v>
+			<marker class="begin-verse" mid="v17006004"/>
+			<v n="4">
+				So the 
+				<crossref let="e" cid="c170064.1"/>
+				 king said, “Who is in the court?” Now Haman had just entered the outer court of the king’s palace to suggest that the king hang Mordecai on the gallows that he had prepared for him.
+			</v>
+			<marker class="begin-verse" mid="v17006005"/>
+			<v n="5">
+				The king’s 
+				<crossref let="f" cid="c170065.1"/>
+				 servants said to him, “Haman is there, standing in the court.”And the king said, “Let him come in.”
+			</v>
+			<marker class="begin-verse" mid="v17006006"/>
+			<v n="6">
+				So Haman 
+				<crossref let="g" cid="c170066.1"/>
+				 came in, and the king asked him, “What shall be done for the man whom the king delights to honor?”Now Haman thought in his heart, “Whom would the king delight to honor more than me?”
+			</v>
+			<marker class="begin-verse" mid="v17006007"/>
+			<v n="7">
+				And Haman 
+				<crossref let="h" cid="c170067.1"/>
+				 answered the king, “For the man whom the king delights to honor,
+			</v>
+			<marker class="begin-verse" mid="v17006008"/>
+			<v n="8">
+				let a 
+				<crossref let="i" cid="c170068.1"/>
+				 royal robe be brought which the king has worn, and a horse on which the king has ridden, which has a royal crest placed on its head.
+			</v>
+			<marker class="begin-verse" mid="v17006009"/>
+			<v n="9">
+				Then let 
+				<crossref let="j" cid="c170069.1"/>
+				 this robe and horse be delivered to the hand of one of the king’s most noble princes, that he may array the man whom the king delights to honor. Then parade him on horseback through the city square, and proclaim before him: ‘Thus shall it be done to the man whom the king delights to honor!’ ”
+			</v>
+			<marker class="begin-verse" mid="v17006010"/>
+			<v n="10">
+				Then the 
+				<crossref let="k" cid="c1700610.1"/>
+				 king said to Haman, “Hurry, take the robe and the horse, as you have suggested, and do so for Mordecai the Jew who sits within the king’s gate! Leave nothing undone of all that you have spoken.”
+			</v>
+			<marker class="begin-verse" mid="v17006011"/>
+			<v n="11">
+				So Haman 
+				<crossref let="l" cid="c1700611.1"/>
+				 took the robe and the horse, arrayed Mordecai and led him on horseback through the city square, and proclaimed before him, “Thus shall it be done to the man whom the king delights to honor!”
+			</v>
+			<marker class="begin-verse" mid="v17006012"/>
+			<v n="12">
+				Afterward Mordecai 
+				<crossref let="m" cid="c1700612.1"/>
+				 went back to the king’s gate. But Haman hurried to his house, mourning and with his head covered.
+			</v>
+			<marker class="begin-verse" mid="v17006013"/>
+			<v n="13">
+				When Haman 
+				<crossref let="n" cid="c1700613.1"/>
+				 told his wife Zeresh and all his friends everything that had happened to him, his wise men and his wife Zeresh said to him, “If Mordecai, before whom you have begun to fall, is of Jewish descent, you will not prevail against him but will surely fall before him.”
+			</v>
+			<marker class="begin-verse" mid="v17006014"/>
+			<v n="14">
+				While they 
+				<crossref let="o" cid="c1700614.1"/>
+				 were still talking with him, the king’s eunuchs came, and hastened to bring Haman to the banquet which Esther had prepared.
+			</v>
+			<marker class="begin-verse" mid="v17006015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

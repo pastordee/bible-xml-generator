@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:18:34.893077</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:18:34.893091</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="KJV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01010001"/>
+		<chapter num="10">
+			<begin-paragraph/>
+			<v n="1">
+				Now these 
+				<crossref let="b" cid="c010101.1"/>
+				 are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood.
+			</v>
+			<marker class="begin-verse" mid="v01010002"/>
+			<v n="2">
+				The sons 
+				<crossref let="c" cid="c010102.1"/>
+				 of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
+			</v>
+			<marker class="begin-verse" mid="v01010003"/>
+			<v n="3">
+				And the 
+				<crossref let="d" cid="c010103.1"/>
+				 sons of Gomer; Ashkenaz, and Riphath, and Togarmah.
+			</v>
+			<marker class="begin-verse" mid="v01010004"/>
+			<v n="4">
+				And the 
+				<crossref let="e" cid="c010104.1"/>
+				 sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
+			</v>
+			<marker class="begin-verse" mid="v01010005"/>
+			<v n="5">
+				By these 
+				<crossref let="f" cid="c010105.1"/>
+				 were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.
+			</v>
+			<marker class="begin-verse" mid="v01010006"/>
+			<v n="6">
+				¶ And 
+				<crossref let="g" cid="c010106.1"/>
+				 the sons of Ham; Cush, and Mizraim, and Phut, and Canaan.
+			</v>
+			<marker class="begin-verse" mid="v01010007"/>
+			<v n="7">
+				And the 
+				<crossref let="h" cid="c010107.1"/>
+				 sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha: and the sons of Raamah; Sheba, and Dedan.
+			</v>
+			<marker class="begin-verse" mid="v01010008"/>
+			<v n="8">
+				And Cush 
+				<crossref let="i" cid="c010108.1"/>
+				 begat Nimrod: he began to be a mighty one in the earth.
+			</v>
+			<marker class="begin-verse" mid="v01010009"/>
+			<v n="9">
+				He was 
+				<crossref let="j" cid="c010109.1"/>
+				 a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD.
+			</v>
+			<marker class="begin-verse" mid="v01010010"/>
+			<v n="10">
+				And the 
+				<crossref let="k" cid="c0101010.1"/>
+				 beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar.
+			</v>
+			<marker class="begin-verse" mid="v01010011"/>
+			<v n="11">
+				Out of 
+				<crossref let="l" cid="c0101011.1"/>
+				 that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,
+			</v>
+			<marker class="begin-verse" mid="v01010012"/>
+			<v n="12">
+				And Resen 
+				<crossref let="m" cid="c0101012.1"/>
+				 between Nineveh and Calah: the same is a great city.
+			</v>
+			<marker class="begin-verse" mid="v01010013"/>
+			<v n="13">
+				And Mizraim 
+				<crossref let="n" cid="c0101013.1"/>
+				 begat Ludim, and Anamim, and Lehabim, and Naphtuhim,
+			</v>
+			<marker class="begin-verse" mid="v01010014"/>
+			<v n="14">
+				And Pathrusim, 
+				<crossref let="o" cid="c0101014.1"/>
+				 and Casluhim, (out of whom came Philistim,) and Caphtorim.
+			</v>
+			<marker class="begin-verse" mid="v01010015"/>
+			<v n="15">
+				¶ And 
+				<crossref let="p" cid="c0101015.1"/>
+				 Canaan begat Sidon his firstborn, and Heth,
+			</v>
+			<marker class="begin-verse" mid="v01010016"/>
+			<v n="16">
+				And the 
+				<crossref let="q" cid="c0101016.1"/>
+				 Jebusite, and the Amorite, and the Girgasite,
+			</v>
+			<marker class="begin-verse" mid="v01010017"/>
+			<v n="17">
+				And the 
+				<crossref let="r" cid="c0101017.1"/>
+				 Hivite, and the Arkite, and the Sinite,
+			</v>
+			<marker class="begin-verse" mid="v01010018"/>
+			<v n="18">
+				And the 
+				<crossref let="s" cid="c0101018.1"/>
+				 Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad.
+			</v>
+			<marker class="begin-verse" mid="v01010019"/>
+			<v n="19">
+				And the 
+				<crossref let="t" cid="c0101019.1"/>
+				 border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha.
+			</v>
+			<marker class="begin-verse" mid="v01010020"/>
+			<v n="20">
+				These are 
+				<crossref let="u" cid="c0101020.1"/>
+				 the sons of Ham, after their families, after their tongues, in their countries, and in their nations.
+			</v>
+			<marker class="begin-verse" mid="v01010021"/>
+			<v n="21">
+				¶ Unto 
+				<crossref let="v" cid="c0101021.1"/>
+				 Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born.
+			</v>
+			<marker class="begin-verse" mid="v01010022"/>
+			<v n="22">
+				The children 
+				<crossref let="w" cid="c0101022.1"/>
+				 of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
+			</v>
+			<marker class="begin-verse" mid="v01010023"/>
+			<v n="23">
+				And the 
+				<crossref let="x" cid="c0101023.1"/>
+				 children of Aram; Uz, and Hul, and Gether, and Mash.
+			</v>
+			<marker class="begin-verse" mid="v01010024"/>
+			<v n="24">
+				And Arphaxad 
+				<crossref let="y" cid="c0101024.1"/>
+				 begat Salah; and Salah begat Eber.
+			</v>
+			<marker class="begin-verse" mid="v01010025"/>
+			<v n="25">
+				And unto 
+				<crossref let="z" cid="c0101025.1"/>
+				 Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother’s name was Joktan.
+			</v>
+			<marker class="begin-verse" mid="v01010026"/>
+			<v n="26">
+				And Joktan 
+				<crossref let="a" cid="c0101026.1"/>
+				 begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,
+			</v>
+			<marker class="begin-verse" mid="v01010027"/>
+			<v n="27">
+				And Hadoram, 
+				<crossref let="b" cid="c0101027.1"/>
+				 and Uzal, and Diklah,
+			</v>
+			<marker class="begin-verse" mid="v01010028"/>
+			<v n="28">
+				And Obal, 
+				<crossref let="c" cid="c0101028.1"/>
+				 and Abimael, and Sheba,
+			</v>
+			<marker class="begin-verse" mid="v01010029"/>
+			<v n="29">
+				And Ophir, 
+				<crossref let="d" cid="c0101029.1"/>
+				 and Havilah, and Jobab: all these were the sons of Joktan.
+			</v>
+			<marker class="begin-verse" mid="v01010030"/>
+			<v n="30">
+				And their 
+				<crossref let="e" cid="c0101030.1"/>
+				 dwelling was from Mesha, as thou goest unto Sephar a mount of the east.
+			</v>
+			<marker class="begin-verse" mid="v01010031"/>
+			<v n="31">
+				These are 
+				<crossref let="f" cid="c0101031.1"/>
+				 the sons of Shem, after their families, after their tongues, in their lands, after their nations.
+			</v>
+			<marker class="begin-verse" mid="v01010032"/>
+			<v n="32">
+				These are 
+				<crossref let="g" cid="c0101032.1"/>
+				 the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.
+			</v>
+			<marker class="begin-verse" mid="v01010033"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

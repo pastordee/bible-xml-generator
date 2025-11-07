@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:10:19.535212</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:10:19.535230</next_refresh_due>
+	</generation_info>
+	<book title="Titus" num="56" testament="new" version="NKJV" bookAbbr="tit">
+		<marker class="begin-verse" mid="v56003001"/>
+		<chapter num="3">
+			<heading>Graces of the Heirs of Grace</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Remind them 
+				<crossref let="b" cid="c560031.1"/>
+				 to be subject to rulers and authorities, to obey, to be ready for every good work,
+			</v>
+			<marker class="begin-verse" mid="v56003002"/>
+			<v n="2">
+				to speak 
+				<crossref let="c" cid="c560032.1"/>
+				 evil of no one, to be peaceable, gentle, showing all humility to all men.
+			</v>
+			<marker class="begin-verse" mid="v56003003"/>
+			<v n="3">
+				For we 
+				<crossref let="d" cid="c560033.1"/>
+				 ourselves were also once foolish, disobedient, deceived, serving various lusts and pleasures, living in malice and envy, hateful and hating one another.
+			</v>
+			<marker class="begin-verse" mid="v56003004"/>
+			<v n="4">
+				But when 
+				<crossref let="e" cid="c560034.1"/>
+				 the kindness and the love of God our Savior toward man appeared,
+			</v>
+			<marker class="begin-verse" mid="v56003005"/>
+			<v n="5">
+				not by 
+				<crossref let="f" cid="c560035.1"/>
+				 works of righteousness which we have done, but according to His mercy He saved us, through the washing of regeneration and renewing of the Holy Spirit,
+			</v>
+			<marker class="begin-verse" mid="v56003006"/>
+			<v n="6">
+				whom He 
+				<crossref let="g" cid="c560036.1"/>
+				 poured out on us abundantly through Jesus Christ our Savior,
+			</v>
+			<marker class="begin-verse" mid="v56003007"/>
+			<v n="7">
+				that having 
+				<crossref let="h" cid="c560037.1"/>
+				 been justified by His grace we should become heirs according to the hope of eternal life.
+			</v>
+			<marker class="begin-verse" mid="v56003008"/>
+			<v n="8">
+				This is 
+				<crossref let="i" cid="c560038.1"/>
+				 a faithful saying, and these things I want you to affirm constantly, that those who have believed in God should be careful to maintain good works. These things are good and profitable to men.Avoid Dissension
+			</v>
+			<marker class="begin-verse" mid="v56003009"/>
+			<v n="9">
+				But avoid 
+				<crossref let="j" cid="c560039.1"/>
+				 foolish disputes, genealogies, contentions, and strivings about the law; for they are unprofitable and useless.
+			</v>
+			<marker class="begin-verse" mid="v56003010"/>
+			<v n="10">
+				Reject a 
+				<crossref let="k" cid="c5600310.1"/>
+				 divisive man after the first and second admonition,
+			</v>
+			<marker class="begin-verse" mid="v56003011"/>
+			<v n="11">
+				knowing that 
+				<crossref let="l" cid="c5600311.1"/>
+				 such a person is warped and sinning, being self-condemned.Final Messages
+			</v>
+			<marker class="begin-verse" mid="v56003012"/>
+			<v n="12">
+				When I 
+				<crossref let="m" cid="c5600312.1"/>
+				 send Artemas to you, or Tychicus, be diligent to come to me at Nicopolis, for I have decided to spend the winter there.
+			</v>
+			<marker class="begin-verse" mid="v56003013"/>
+			<v n="13">
+				Send Zenas 
+				<crossref let="n" cid="c5600313.1"/>
+				 the lawyer and Apollos on their journey with haste, that they may lack nothing.
+			</v>
+			<marker class="begin-verse" mid="v56003014"/>
+			<v n="14">
+				And let 
+				<crossref let="o" cid="c5600314.1"/>
+				 our people also learn to maintain good works, to meet urgent needs, that they may not be unfruitful.Farewell
+			</v>
+			<marker class="begin-verse" mid="v56003015"/>
+			<v n="15">
+				All who 
+				<crossref let="p" cid="c5600315.1"/>
+				 are with me greet you. Greet those who love us in the faith.Grace be with you all. Amen.
+			</v>
+			<marker class="begin-verse" mid="v56003016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

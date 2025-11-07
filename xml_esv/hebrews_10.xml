@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:51.092784</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:51.092792</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" bookAbbr="heb" version="ESV">
+		<marker class="begin-verse" mid="v58010001">
+		</marker>
+		<chapter num="10">
+			<heading>
+				Hebrews 10
+			</heading>
+			<heading>
+				Christ’s Sacrifice Once for All
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				For since 
+				<crossref let="b" cid="c58010001.1">
+				</crossref>
+				the law, 
+				<crossref let="c" cid="c58010001.2">
+				</crossref>
+				has but a shadow of the good things to come instead of the true form of these realities, it can never, by the same sacrifices that are continually offered every year, make perfect those who draw near.
+			</v>
+			<marker class="begin-verse" mid="v58010002">
+			</marker>
+			<v n="2">
+				Otherwise, would 
+				<crossref let="d" cid="c58010002.3">
+				</crossref>
+				they not, 
+				<crossref let="e" cid="c58010002.4">
+				</crossref>
+				have ceased to be offered, since the worshipers, having once been cleansed, would no longer have any consciousness of sins?
+			</v>
+			<marker class="begin-verse" mid="v58010003">
+			</marker>
+			<v n="3">
+				But in 
+				<crossref let="f" cid="c58010003.5">
+				</crossref>
+				these sacrifices, 
+				<crossref let="g" cid="c58010003.6">
+				</crossref>
+				there is a reminder of sins every year.
+				<note nid="n58010003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010004">
+			</marker>
+			<v n="4">
+				For it 
+				<crossref let="h" cid="c58010004.7">
+				</crossref>
+				is impossible, 
+				<crossref let="i" cid="c58010004.8">
+				</crossref>
+				for the blood of bulls and goats to take away sins.
+			</v>
+			<marker class="begin-verse" mid="v58010005">
+			</marker>
+			<v n="5" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Consequently, when 
+					<crossref let="j" cid="c58010005.9">
+				</crossref>
+					Christ(1) came, 
+					<crossref let="k" cid="c58010005.10">
+				</crossref>
+				into the world, he said, “Sacrifices and offerings you have not desired, but a body have you prepared for me;
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v58010006">
+			</marker>
+			<v n="6">
+				in burnt 
+				<crossref let="l" cid="c58010006.11">
+				</crossref>
+				offerings and, 
+				<crossref let="m" cid="c58010006.12">
+				</crossref>
+				sin offerings you have taken no pleasure.
+				<note nid="n58010006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010007">
+			</marker>
+			<v n="7">
+				Then I 
+				<crossref let="n" cid="c58010007.13">
+				</crossref>
+				said, ‘Behold,, 
+				<crossref let="o" cid="c58010007.14">
+				</crossref>
+				I have come to do your will, O God, as it is written of me in the scroll of the book.’”
+			</v>
+			<marker class="begin-verse" mid="v58010008">
+			</marker>
+			<v n="8" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					When he 
+					<crossref let="p" cid="c58010008.15">
+				</crossref>
+					said above,, 
+					<crossref let="q" cid="c58010008.16">
+				</crossref>
+				“You have neither desired nor taken pleasure in sacrifices and offerings and burnt offerings and sin offerings” (these are offered according to the law),
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v58010009">
+			</marker>
+			<v n="9">
+				then he 
+				<crossref let="r" cid="c58010009.17">
+				</crossref>
+				added, “Behold,, 
+				<crossref let="s" cid="c58010009.18">
+				</crossref>
+				I have come to do your will.” He does away with the first in order to establish the second.
+				<note nid="n58010009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010010">
+			</marker>
+			<v n="10">
+				And by 
+				<crossref let="t" cid="c58010010.19">
+				</crossref>
+				that will, 
+				<crossref let="u" cid="c58010010.20">
+				</crossref>
+				we have been sanctified through the offering of the body of Jesus Christ once for all.
+			</v>
+			<marker class="begin-verse" mid="v58010011">
+			</marker>
+			<v n="11">
+				And every 
+				<crossref let="v" cid="c58010011.21">
+				</crossref>
+				priest stands, 
+				<crossref let="w" cid="c58010011.22">
+				</crossref>
+				daily at his service, offering repeatedly the same sacrifices, which can never take away sins.
+			</v>
+			<marker class="begin-verse" mid="v58010012">
+			</marker>
+			<v n="12">
+				But when 
+				<crossref let="x" cid="c58010012.23">
+				</crossref>
+				Christ(2) had, 
+				<crossref let="y" cid="c58010012.24">
+				</crossref>
+				offered for all time a single sacrifice for sins, he sat down at the right hand of God,
+				<note nid="n58010012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010013">
+			</marker>
+			<v n="13">
+				waiting from 
+				<crossref let="z" cid="c58010013.25">
+				</crossref>
+				that time, 
+				<crossref let="a" cid="c58010013.26">
+				</crossref>
+				until his enemies should be made a footstool for his feet.
+			</v>
+			<marker class="begin-verse" mid="v58010014">
+			</marker>
+			<v n="14">
+				For by 
+				<crossref let="b" cid="c58010014.27">
+				</crossref>
+				a single, 
+				<crossref let="c" cid="c58010014.28">
+				</crossref>
+				offering he has perfected for all time those who are being sanctified.
+			</v>
+			<marker class="begin-verse" mid="v58010015">
+			</marker>
+			<v n="15">
+				And the 
+				<crossref let="d" cid="c58010015.29">
+				</crossref>
+				Holy Spirit, 
+				<crossref let="e" cid="c58010015.30">
+				</crossref>
+				also bears witness to us; for after saying,
+				<note nid="n58010015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010016">
+			</marker>
+			<v n="16">
+				“This is 
+				<crossref let="f" cid="c58010016.31">
+				</crossref>
+				the covenant, 
+				<crossref let="g" cid="c58010016.32">
+				</crossref>
+				that I will make with them after those days, declares the Lord: I will put my laws on their hearts, and write them on their minds,”
+			</v>
+			<marker class="begin-verse" mid="v58010017">
+			</marker>
+			<v n="17">
+				then he 
+				<crossref let="h" cid="c58010017.33">
+				</crossref>
+				adds, “I, 
+				<crossref let="i" cid="c58010017.34">
+				</crossref>
+				will remember their sins and their lawless deeds no more.”
+			</v>
+			<marker class="begin-verse" mid="v58010018">
+			</marker>
+			<v n="18">
+				Where there 
+				<crossref let="j" cid="c58010018.35">
+				</crossref>
+				is forgiveness, 
+				<crossref let="k" cid="c58010018.36">
+				</crossref>
+				of these, there is no longer any offering for sin. The Full Assurance of Faith
+				<note nid="n58010018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010019">
+			</marker>
+			<v n="19">
+				Therefore, brothers,(3) 
+				<crossref let="l" cid="c58010019.37">
+				</crossref>
+				since we, 
+				<crossref let="m" cid="c58010019.38">
+				</crossref>
+				have confidence to enter the holy places by the blood of Jesus,
+			</v>
+			<marker class="begin-verse" mid="v58010020">
+			</marker>
+			<v n="20">
+				by the 
+				<crossref let="n" cid="c58010020.39">
+				</crossref>
+				new and, 
+				<crossref let="o" cid="c58010020.40">
+				</crossref>
+				living way that he opened for us through the curtain, that is, through his flesh,
+			</v>
+			<marker class="begin-verse" mid="v58010021">
+			</marker>
+			<v n="21">
+				and since 
+				<crossref let="p" cid="c58010021.41">
+				</crossref>
+				we have, 
+				<crossref let="q" cid="c58010021.42">
+				</crossref>
+				a great priest over the house of God,
+				<note nid="n58010021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010022">
+			</marker>
+			<v n="22">
+				let us 
+				<crossref let="r" cid="c58010022.43">
+				</crossref>
+				draw near, 
+				<crossref let="s" cid="c58010022.44">
+				</crossref>
+				with a true heart in full assurance of faith, with our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.
+			</v>
+			<marker class="begin-verse" mid="v58010023">
+			</marker>
+			<v n="23">
+				Let us 
+				<crossref let="t" cid="c58010023.45">
+				</crossref>
+				hold fast, 
+				<crossref let="u" cid="c58010023.46">
+				</crossref>
+				the confession of our hope without wavering, for he who promised is faithful.
+			</v>
+			<marker class="begin-verse" mid="v58010024">
+			</marker>
+			<v n="24">
+				And let 
+				<crossref let="v" cid="c58010024.47">
+				</crossref>
+				us consider, 
+				<crossref let="w" cid="c58010024.48">
+				</crossref>
+				how to stir up one another to love and good works,
+				<note nid="n58010024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010025">
+			</marker>
+			<v n="25">
+				not neglecting 
+				<crossref let="x" cid="c58010025.49">
+				</crossref>
+				to meet, 
+				<crossref let="y" cid="c58010025.50">
+				</crossref>
+				together, as is the habit of some, but encouraging one another, and all the more as you see the Day drawing near.
+			</v>
+			<marker class="begin-verse" mid="v58010026">
+			</marker>
+			<v n="26">
+				For if 
+				<crossref let="z" cid="c58010026.51">
+				</crossref>
+				we go, 
+				<crossref let="a" cid="c58010026.52">
+				</crossref>
+				on sinning deliberately after receiving the knowledge of the truth, there no longer remains a sacrifice for sins,
+			</v>
+			<marker class="begin-verse" mid="v58010027">
+			</marker>
+			<v n="27">
+				but a 
+				<crossref let="b" cid="c58010027.53">
+				</crossref>
+				fearful expectation, 
+				<crossref let="c" cid="c58010027.54">
+				</crossref>
+				of judgment, and a fury of fire that will consume the adversaries.
+				<note nid="n58010027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010028">
+			</marker>
+			<v n="28">
+				Anyone who 
+				<crossref let="d" cid="c58010028.55">
+				</crossref>
+				has set, 
+				<crossref let="e" cid="c58010028.56">
+				</crossref>
+				aside the law of Moses dies without mercy on the evidence of two or three witnesses.
+			</v>
+			<marker class="begin-verse" mid="v58010029">
+			</marker>
+			<v n="29">
+				How much 
+				<crossref let="f" cid="c58010029.57">
+				</crossref>
+				worse punishment,, 
+				<crossref let="g" cid="c58010029.58">
+				</crossref>
+				do you think, will be deserved by the one who has trampled underfoot the Son of God, and has profaned the blood of the covenant by which he was sanctified, and has outraged the Spirit of grace?
+			</v>
+			<marker class="begin-verse" mid="v58010030">
+			</marker>
+			<v n="30">
+				For we 
+				<crossref let="h" cid="c58010030.59">
+				</crossref>
+				know him, 
+				<crossref let="i" cid="c58010030.60">
+				</crossref>
+				who said, “Vengeance is mine; I will repay.” And again, “The Lord will judge his people.”
+				<note nid="n58010030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010031">
+			</marker>
+			<v n="31">
+				It is 
+				<crossref let="j" cid="c58010031.61">
+				</crossref>
+				a fearful, 
+				<crossref let="k" cid="c58010031.62">
+				</crossref>
+				thing to fall into the hands of the living God.
+			</v>
+			<marker class="begin-verse" mid="v58010032">
+			</marker>
+			<v n="32">
+				But recall 
+				<crossref let="l" cid="c58010032.63">
+				</crossref>
+				the former, 
+				<crossref let="m" cid="c58010032.64">
+				</crossref>
+				days when, after you were enlightened, you endured a hard struggle with sufferings,
+			</v>
+			<marker class="begin-verse" mid="v58010033">
+			</marker>
+			<v n="33">
+				sometimes being 
+				<crossref let="n" cid="c58010033.65">
+				</crossref>
+				publicly exposed, 
+				<crossref let="o" cid="c58010033.66">
+				</crossref>
+				to reproach and affliction, and sometimes being partners with those so treated.
+				<note nid="n58010033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010034">
+			</marker>
+			<v n="34">
+				For you 
+				<crossref let="p" cid="c58010034.67">
+				</crossref>
+				had compassion, 
+				<crossref let="q" cid="c58010034.68">
+				</crossref>
+				on those in prison, and you joyfully accepted the plundering of your property, since you knew that you yourselves had a better possession and an abiding one.
+			</v>
+			<marker class="begin-verse" mid="v58010035">
+			</marker>
+			<v n="35">
+				Therefore do 
+				<crossref let="r" cid="c58010035.69">
+				</crossref>
+				not throw, 
+				<crossref let="s" cid="c58010035.70">
+				</crossref>
+				away your confidence, which has a great reward.
+			</v>
+			<marker class="begin-verse" mid="v58010036">
+			</marker>
+			<v n="36">
+				For you 
+				<crossref let="t" cid="c58010036.71">
+				</crossref>
+				have need, 
+				<crossref let="u" cid="c58010036.72">
+				</crossref>
+				of endurance, so that when you have done the will of God you may receive what is promised.
+				<note nid="n58010036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010037">
+			</marker>
+			<v n="37">
+				For, “Yet 
+				<crossref let="v" cid="c58010037.73">
+				</crossref>
+				a little, 
+				<crossref let="w" cid="c58010037.74">
+				</crossref>
+				while, and the coming one will come and will not delay;
+			</v>
+			<marker class="begin-verse" mid="v58010038">
+			</marker>
+			<v n="38">
+				but my 
+				<crossref let="x" cid="c58010038.75">
+				</crossref>
+				righteous one, 
+				<crossref let="y" cid="c58010038.76">
+				</crossref>
+				shall live by faith, and if he shrinks back, my soul has no pleasure in him.”
+			</v>
+			<marker class="begin-verse" mid="v58010039">
+			</marker>
+			<v n="39">
+				But we 
+				<crossref let="z" cid="c58010039.77">
+				</crossref>
+				are not, 
+				<crossref let="a" cid="c58010039.78">
+				</crossref>
+				of those who shrink back and are destroyed, but of those who have faith and preserve their souls. Footnotes (1) 10:5 Greek *he* (2) 10:12 Greek *this one* (3) 10:19 Or *brothers and sisters* (ESV)
+				<note nid="n58010039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58010040">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

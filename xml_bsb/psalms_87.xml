@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:19:53.867695</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:19:53.867786</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19087001"/>
+		<chapter num="87">
+			<heading>The LORD Loves the Gates of ZionA Psalm of the sons of Korah. A song.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				He has 
+				<crossref let="b" cid="c190871.1"/>
+				 founded His cityon the holy mountains.
+			</v>
+			<marker class="begin-verse" mid="v19087002"/>
+			<v n="2">
+				The LORD 
+				<crossref let="c" cid="c190872.1"/>
+				 loves the gates of Zionmore than all the dwellings of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19087003"/>
+			<v n="3">
+				Glorious things 
+				<crossref let="d" cid="c190873.1"/>
+				 are ascribed to you,O city of God.Selah
+			</v>
+			<marker class="begin-verse" mid="v19087004"/>
+			<v n="4">
+				“I will 
+				<crossref let="e" cid="c190874.1"/>
+				 mention Rahab and Babylonamong those who know Me—along with Philistia, Tyre, and Cush —when I say, ‘This one was born in Zion.’”
+			</v>
+			<marker class="begin-verse" mid="v19087005"/>
+			<v n="5">
+				And it 
+				<crossref let="f" cid="c190875.1"/>
+				 will be said of Zion:“This one and that one were born in her,and the Most High Himself will establish her.”
+			</v>
+			<marker class="begin-verse" mid="v19087006"/>
+			<v n="6">
+				The LORD 
+				<crossref let="g" cid="c190876.1"/>
+				 will record in the register of the peoples:“This one was born in Zion.”Selah
+			</v>
+			<marker class="begin-verse" mid="v19087007"/>
+			<v n="7">
+				Singers and 
+				<crossref let="h" cid="c190877.1"/>
+				 pipers will proclaim,“All my springs of joy are in You.”
+			</v>
+			<marker class="begin-verse" mid="v19087008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

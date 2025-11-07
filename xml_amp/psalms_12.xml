@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:59:15.009000</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:59:15.009027</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19012001"/>
+		<chapter num="12">
+			<heading>Psalm 12God, a Helper against the Treacherous.To the Chief Musician; set an octave below. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Save and 
+				<crossref let="b" cid="c190121.1"/>
+				 help and rescue, Lord, for godly people cease to be,For the faithful vanish from among the sons of men.
+			</v>
+			<marker class="begin-verse" mid="v19012002"/>
+			<v n="2">
+				They speak 
+				<crossref let="c" cid="c190122.1"/>
+				 deceitful and worthless words to one another;With flattering lips and a double heart they speak.
+			</v>
+			<marker class="begin-verse" mid="v19012003"/>
+			<v n="3">
+				May the 
+				<crossref let="d" cid="c190123.1"/>
+				 Lord cut off all flattering lips,The tongue that speaks great things [in boasting];
+			</v>
+			<marker class="begin-verse" mid="v19012004"/>
+			<v n="4">
+				Who have 
+				<crossref let="e" cid="c190124.1"/>
+				 said, “With our tongue we will prevail;Our lips are our own; who is lord and master over us?”
+			</v>
+			<marker class="begin-verse" mid="v19012005"/>
+			<v n="5">
+				“Because of 
+				<crossref let="f" cid="c190125.1"/>
+				 the devastation of the afflicted, because of the groaning of the needy,Now I will arise,” says the Lord; “I will place him in the safety for which he longs.”
+			</v>
+			<marker class="begin-verse" mid="v19012006"/>
+			<v n="6">
+				¶The words 
+				<crossref let="g" cid="c190126.1"/>
+				 and promises of the Lord are pure words,Like silver refined in an earthen furnace, purified seven times.
+			</v>
+			<marker class="begin-verse" mid="v19012007"/>
+			<v n="7">
+				You, O 
+				<crossref let="h" cid="c190127.1"/>
+				 Lord, will preserve and keep them;You will protect him from this [evil] generation forever.
+			</v>
+			<marker class="begin-verse" mid="v19012008"/>
+			<v n="8">
+				The wicked 
+				<crossref let="i" cid="c190128.1"/>
+				 strut about [in pompous self-importance] on every side,As vileness is exalted and baseness is prized among the sons of men.
+			</v>
+			<marker class="begin-verse" mid="v19012009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

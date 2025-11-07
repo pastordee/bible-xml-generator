@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:02:45.406050</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:02:45.406077</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" bookAbbr="deu" version="ESV">
+		<marker class="begin-verse" mid="v05031001">
+		</marker>
+		<chapter num="31">
+			<heading>
+				Deuteronomy 31
+			</heading>
+			<heading>
+				Joshua to Succeed Moses
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				So Moses 
+				<crossref let="b" cid="c05031001.1">
+				</crossref>
+				continued to, 
+				<crossref let="c" cid="c05031001.2">
+				</crossref>
+				speak these words to all Israel.
+			</v>
+			<marker class="begin-verse" mid="v05031002">
+			</marker>
+			<v n="2" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="d" cid="c05031002.3">
+				</crossref>
+					said to, 
+					<crossref let="e" cid="c05031002.4">
+				</crossref>
+				them, “I am 120 years old today. I am no longer able to go out and come in. The LORD has said to me, ‘You shall not go over this Jordan.’
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v05031003">
+			</marker>
+			<v n="3">
+				The LORD 
+				<crossref let="f" cid="c05031003.5">
+				</crossref>
+				your God, 
+				<crossref let="g" cid="c05031003.6">
+				</crossref>
+				himself will go over before you. He will destroy these nations before you, so that you shall dispossess them, and Joshua will go over at your head, as the LORD has spoken.
+				<note nid="n05031003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05031004">
+			</marker>
+			<v n="4">
+				And the 
+				<crossref let="h" cid="c05031004.7">
+				</crossref>
+				LORD will, 
+				<crossref let="i" cid="c05031004.8">
+				</crossref>
+				do to them as he did to Sihon and Og, the kings of the Amorites, and to their land, when he destroyed them.
+			</v>
+			<marker class="begin-verse" mid="v05031005">
+			</marker>
+			<v n="5">
+				And the 
+				<crossref let="j" cid="c05031005.9">
+				</crossref>
+				LORD will, 
+				<crossref let="k" cid="c05031005.10">
+				</crossref>
+				give them over to you, and you shall do to them according to the whole commandment that I have commanded you.
+			</v>
+			<marker class="begin-verse" mid="v05031006">
+			</marker>
+			<v n="6">
+				Be strong 
+				<crossref let="l" cid="c05031006.11">
+				</crossref>
+				and courageous., 
+				<crossref let="m" cid="c05031006.12">
+				</crossref>
+				Do not fear or be in dread of them, for it is the LORD your God who goes with you. He will not leave you or forsake you.”
+				<note nid="n05031006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05031007">
+			</marker>
+			<v n="7">
+				Then Moses 
+				<crossref let="n" cid="c05031007.13">
+				</crossref>
+				summoned Joshua, 
+				<crossref let="o" cid="c05031007.14">
+				</crossref>
+				and said to him in the sight of all Israel, “Be strong and courageous, for you shall go with this people into the land that the LORD has sworn to their fathers to give them, and you shall put them in possession of it.
+			</v>
+			<marker class="begin-verse" mid="v05031008">
+			</marker>
+			<v n="8">
+				It is 
+				<crossref let="p" cid="c05031008.15">
+				</crossref>
+				the LORD, 
+				<crossref let="q" cid="c05031008.16">
+				</crossref>
+				who goes before you. He will be with you; he will not leave you or forsake you. Do not fear or be dismayed.” The Reading of the Law
+			</v>
+			<marker class="begin-verse" mid="v05031009">
+			</marker>
+			<v n="9">
+				Then Moses 
+				<crossref let="r" cid="c05031009.17">
+				</crossref>
+				wrote this, 
+				<crossref let="s" cid="c05031009.18">
+				</crossref>
+				law and gave it to the priests, the sons of Levi, who carried the ark of the covenant of the LORD, and to all the elders of Israel.
+				<note nid="n05031009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05031010">
+			</marker>
+			<v n="10">
+				And Moses 
+				<crossref let="t" cid="c05031010.19">
+				</crossref>
+				commanded them,, 
+				<crossref let="u" cid="c05031010.20">
+				</crossref>
+				“At the end of every seven years, at the set time in the year of release, at the Feast of Booths,
+			</v>
+			<marker class="begin-verse" mid="v05031011">
+			</marker>
+			<v n="11">
+				when all 
+				<crossref let="v" cid="c05031011.21">
+				</crossref>
+				Israel comes, 
+				<crossref let="w" cid="c05031011.22">
+				</crossref>
+				to appear before the LORD your God at the place that he will choose, you shall read this law before all Israel in their hearing.
+			</v>
+			<marker class="begin-verse" mid="v05031012">
+			</marker>
+			<v n="12">
+				Assemble the 
+				<crossref let="x" cid="c05031012.23">
+				</crossref>
+				people, men,, 
+				<crossref let="y" cid="c05031012.24">
+				</crossref>
+				women, and little ones, and the sojourner within your towns, that they may hear and learn to fear the LORD your God, and be careful to do all the words of this law,
+				<note nid="n05031012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05031013">
+			</marker>
+			<v n="13">
+				and that 
+				<crossref let="z" cid="c05031013.25">
+				</crossref>
+				their children,, 
+				<crossref let="a" cid="c05031013.26">
+				</crossref>
+				who have not known it, may hear and learn to fear the LORD your God, as long as you live in the land that you are going over the Jordan to possess.” Joshua Commissioned to Lead Israel
+			</v>
+			<marker class="begin-verse" mid="v05031014">
+			</marker>
+			<v n="14">
+				And the 
+				<crossref let="b" cid="c05031014.27">
+				</crossref>
+				LORD said, 
+				<crossref let="c" cid="c05031014.28">
+				</crossref>
+				to Moses, “Behold, the days approach when you must die. Call Joshua and present yourselves in the tent of meeting, that I may commission him.” And Moses and Joshua went and presented themselves in the tent of meeting.
+			</v>
+			<marker class="begin-verse" mid="v05031015">
+			</marker>
+			<v n="15">
+				And the 
+				<crossref let="d" cid="c05031015.29">
+				</crossref>
+				LORD appeared, 
+				<crossref let="e" cid="c05031015.30">
+				</crossref>
+				in the tent in a pillar of cloud. And the pillar of cloud stood over the entrance of the tent.
+				<note nid="n05031015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05031016">
+			</marker>
+			<v n="16">
+				And the 
+				<crossref let="f" cid="c05031016.31">
+				</crossref>
+				LORD said, 
+				<crossref let="g" cid="c05031016.32">
+				</crossref>
+				to Moses, “Behold, you are about to lie down with your fathers. Then this people will rise and whore after the foreign gods among them in the land that they are entering, and they will forsake me and break my covenant that I have made with them.
+			</v>
+			<marker class="begin-verse" mid="v05031017">
+			</marker>
+			<v n="17">
+				Then my 
+				<crossref let="h" cid="c05031017.33">
+				</crossref>
+				anger will, 
+				<crossref let="i" cid="c05031017.34">
+				</crossref>
+				be kindled against them in that day, and I will forsake them and hide my face from them, and they will be devoured. And many evils and troubles will come upon them, so that they will say in that day, ‘Have not these evils come upon us because our God is not among us?’
+			</v>
+			<marker class="begin-verse" mid="v05031018">
+			</marker>
+			<v n="18">
+				And I 
+				<crossref let="j" cid="c05031018.35">
+				</crossref>
+				will surely, 
+				<crossref let="k" cid="c05031018.36">
+				</crossref>
+				hide my face in that day because of all the evil that they have done, because they have turned to other gods.
+				<note nid="n05031018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05031019">
+			</marker>
+			<v n="19">
+				“Now therefore 
+				<crossref let="l" cid="c05031019.37">
+				</crossref>
+				write this, 
+				<crossref let="m" cid="c05031019.38">
+				</crossref>
+				song and teach it to the people of Israel. Put it in their mouths, that this song may be a witness for me against the people of Israel.
+			</v>
+			<marker class="begin-verse" mid="v05031020">
+			</marker>
+			<v n="20">
+				For when 
+				<crossref let="n" cid="c05031020.39">
+				</crossref>
+				I have, 
+				<crossref let="o" cid="c05031020.40">
+				</crossref>
+				brought them into the land flowing with milk and honey, which I swore to give to their fathers, and they have eaten and are full and grown fat, they will turn to other gods and serve them, and despise me and break my covenant.
+			</v>
+			<marker class="begin-verse" mid="v05031021">
+			</marker>
+			<v n="21">
+				And when 
+				<crossref let="p" cid="c05031021.41">
+				</crossref>
+				many evils, 
+				<crossref let="q" cid="c05031021.42">
+				</crossref>
+				and troubles have come upon them, this song shall confront them as a witness (for it will live unforgotten in the mouths of their offspring). For I know what they are inclined to do even today, before I have brought them into the land that I swore to give.”
+				<note nid="n05031021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05031022">
+			</marker>
+			<v n="22">
+				So Moses 
+				<crossref let="r" cid="c05031022.43">
+				</crossref>
+				wrote this, 
+				<crossref let="s" cid="c05031022.44">
+				</crossref>
+				song the same day and taught it to the people of Israel.
+			</v>
+			<marker class="begin-verse" mid="v05031023">
+			</marker>
+			<v n="23">
+				And the 
+				<crossref let="t" cid="c05031023.45">
+				</crossref>
+				LORD(1) commissioned, 
+				<crossref let="u" cid="c05031023.46">
+				</crossref>
+				Joshua the son of Nun and said, “Be strong and courageous, for you shall bring the people of Israel into the land that I swore to give them. I will be with you.”
+			</v>
+			<marker class="begin-verse" mid="v05031024">
+			</marker>
+			<v n="24">
+				When Moses 
+				<crossref let="v" cid="c05031024.47">
+				</crossref>
+				had finished, 
+				<crossref let="w" cid="c05031024.48">
+				</crossref>
+				writing the words of this law in a book to the very end,
+				<note nid="n05031024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05031025">
+			</marker>
+			<v n="25">
+				Moses commanded 
+				<crossref let="x" cid="c05031025.49">
+				</crossref>
+				the Levites, 
+				<crossref let="y" cid="c05031025.50">
+				</crossref>
+				who carried the ark of the covenant of the LORD,
+			</v>
+			<marker class="begin-verse" mid="v05031026">
+			</marker>
+			<v n="26">
+				“Take this 
+				<crossref let="z" cid="c05031026.51">
+				</crossref>
+				Book of, 
+				<crossref let="a" cid="c05031026.52">
+				</crossref>
+				the Law and put it by the side of the ark of the covenant of the LORD your God, that it may be there for a witness against you.
+			</v>
+			<marker class="begin-verse" mid="v05031027">
+			</marker>
+			<v n="27">
+				For I 
+				<crossref let="b" cid="c05031027.53">
+				</crossref>
+				know how, 
+				<crossref let="c" cid="c05031027.54">
+				</crossref>
+				rebellious and stubborn you are. Behold, even today while I am yet alive with you, you have been rebellious against the LORD. How much more after my death!
+				<note nid="n05031027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05031028">
+			</marker>
+			<v n="28">
+				Assemble to 
+				<crossref let="d" cid="c05031028.55">
+				</crossref>
+				me all, 
+				<crossref let="e" cid="c05031028.56">
+				</crossref>
+				the elders of your tribes and your officers, that I may speak these words in their ears and call heaven and earth to witness against them.
+			</v>
+			<marker class="begin-verse" mid="v05031029">
+			</marker>
+			<v n="29">
+				For I 
+				<crossref let="f" cid="c05031029.57">
+				</crossref>
+				know that, 
+				<crossref let="g" cid="c05031029.58">
+				</crossref>
+				after my death you will surely act corruptly and turn aside from the way that I have commanded you. And in the days to come evil will befall you, because you will do what is evil in the sight of the LORD, provoking him to anger through the work of your hands.” The Song of Moses
+			</v>
+			<marker class="begin-verse" mid="v05031030">
+			</marker>
+			<v n="30">
+				Then Moses 
+				<crossref let="h" cid="c05031030.59">
+				</crossref>
+				spoke the, 
+				<crossref let="i" cid="c05031030.60">
+				</crossref>
+				words of this song until they were finished, in the ears of all the assembly of Israel: Footnotes (1) 31:23 Hebrew *he* (ESV)
+				<note nid="n05031030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05031031">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

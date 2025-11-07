@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:58:27.129138</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:58:27.129157</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19028001"/>
+		<chapter num="28">
+			<heading>A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Unto thee 
+				<crossref let="b" cid="c190281.1"/>
+				 will I cry, O LORD my rock; be not silent to me: lest, if thou be silent to me, I become like them that go down into the pit.
+			</v>
+			<marker class="begin-verse" mid="v19028002"/>
+			<v n="2">
+				Hear the 
+				<crossref let="c" cid="c190282.1"/>
+				 voice of my supplications, when I cry unto thee, when I lift up my hands toward thy holy oracle.
+			</v>
+			<marker class="begin-verse" mid="v19028003"/>
+			<v n="3">
+				Draw me 
+				<crossref let="d" cid="c190283.1"/>
+				 not away with the wicked, and with the workers of iniquity, which speak peace to their neighbours, but mischief is in their hearts.
+			</v>
+			<marker class="begin-verse" mid="v19028004"/>
+			<v n="4">
+				Give them 
+				<crossref let="e" cid="c190284.1"/>
+				 according to their deeds, and according to the wickedness of their endeavours: give them after the work of their hands; render to them their desert.
+			</v>
+			<marker class="begin-verse" mid="v19028005"/>
+			<v n="5">
+				Because they 
+				<crossref let="f" cid="c190285.1"/>
+				 regard not the works of the LORD, nor the operation of his hands, he shall destroy them, and not build them up.
+			</v>
+			<marker class="begin-verse" mid="v19028006"/>
+			<v n="6">
+				Blessed be 
+				<crossref let="g" cid="c190286.1"/>
+				 the LORD, because he hath heard the voice of my supplications.
+			</v>
+			<marker class="begin-verse" mid="v19028007"/>
+			<v n="7">
+				The LORD 
+				<crossref let="h" cid="c190287.1"/>
+				 is my strength and my shield; my heart trusted in him, and I am helped: therefore my heart greatly rejoiceth; and with my song will I praise him.
+			</v>
+			<marker class="begin-verse" mid="v19028008"/>
+			<v n="8">
+				The LORD 
+				<crossref let="i" cid="c190288.1"/>
+				 is their strength, and he is the saving strength of his anointed.
+			</v>
+			<marker class="begin-verse" mid="v19028009"/>
+			<v n="9">
+				Save thy 
+				<crossref let="j" cid="c190289.1"/>
+				 people, and bless thine inheritance: feed them also, and lift them up for ever.
+			</v>
+			<marker class="begin-verse" mid="v19028010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

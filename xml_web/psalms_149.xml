@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:54:53.167436</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:54:53.167448</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19149001"/>
+		<chapter num="149">
+			<begin-paragraph/>
+			<v n="1">
+				Praise Yahweh!Sing 
+				<crossref let="b" cid="c191491.1"/>
+				 to Yahweh a new song,his praise in the assembly of the saints.
+			</v>
+			<marker class="begin-verse" mid="v19149002"/>
+			<v n="2">
+				Let Israel 
+				<crossref let="c" cid="c191492.1"/>
+				 rejoice in him who made them.Let the children of Zion be joyful in their King.
+			</v>
+			<marker class="begin-verse" mid="v19149003"/>
+			<v n="3">
+				Let them 
+				<crossref let="d" cid="c191493.1"/>
+				 praise his name in the dance!Let them sing praises to him with tambourine and harp!
+			</v>
+			<marker class="begin-verse" mid="v19149004"/>
+			<v n="4">
+				For Yahweh 
+				<crossref let="e" cid="c191494.1"/>
+				 takes pleasure in his people.He crowns the humble with salvation.
+			</v>
+			<marker class="begin-verse" mid="v19149005"/>
+			<v n="5">
+				Let the 
+				<crossref let="f" cid="c191495.1"/>
+				 saints rejoice in honor.Let them sing for joy on their beds.
+			</v>
+			<marker class="begin-verse" mid="v19149006"/>
+			<v n="6">
+				May the 
+				<crossref let="g" cid="c191496.1"/>
+				 high praises of God be in their mouths,and a two-edged sword in their hand,
+			</v>
+			<marker class="begin-verse" mid="v19149007"/>
+			<v n="7">
+				to execute 
+				<crossref let="h" cid="c191497.1"/>
+				 vengeance on the nations,and punishments on the peoples;
+			</v>
+			<marker class="begin-verse" mid="v19149008"/>
+			<v n="8">
+				to bind 
+				<crossref let="i" cid="c191498.1"/>
+				 their kings with chains,and their nobles with fetters of iron;
+			</v>
+			<marker class="begin-verse" mid="v19149009"/>
+			<v n="9">
+				to execute 
+				<crossref let="j" cid="c191499.1"/>
+				 on them the written judgment.All his saints have this honor.Praise Yah!
+			</v>
+			<marker class="begin-verse" mid="v19149010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

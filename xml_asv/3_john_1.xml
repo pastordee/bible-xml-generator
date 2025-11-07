@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:27:42.633194</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:27:42.633232</next_refresh_due>
+	</generation_info>
+	<book title="3 John" num="64" testament="new" version="ASV" bookAbbr="3jn">
+		<marker class="begin-verse" mid="v64001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				The elder 
+				<crossref let="b" cid="c640011.1"/>
+				 unto Gaius the beloved, whom I love in truth.
+			</v>
+			<marker class="begin-verse" mid="v64001002"/>
+			<v n="2">
+				Beloved, I 
+				<crossref let="c" cid="c640012.1"/>
+				 pray that in all things thou mayest prosper and be in health, even as thy soul prospereth.
+			</v>
+			<marker class="begin-verse" mid="v64001003"/>
+			<v n="3">
+				For I 
+				<crossref let="d" cid="c640013.1"/>
+				 rejoiced greatly, when brethren came and bare witness unto thy truth, even as thou walkest in truth.
+			</v>
+			<marker class="begin-verse" mid="v64001004"/>
+			<v n="4">
+				Greater joy 
+				<crossref let="e" cid="c640014.1"/>
+				 have I none than this, to hear of my children walking in the truth.
+			</v>
+			<marker class="begin-verse" mid="v64001005"/>
+			<v n="5">
+				Beloved, thou 
+				<crossref let="f" cid="c640015.1"/>
+				 doest a faithful work in whatsoever thou doest toward them that are brethren and strangers withal;
+			</v>
+			<marker class="begin-verse" mid="v64001006"/>
+			<v n="6">
+				who bare 
+				<crossref let="g" cid="c640016.1"/>
+				 witness to thy love before the church: whom thou wilt do well to set forward on their journey worthily of God:
+			</v>
+			<marker class="begin-verse" mid="v64001007"/>
+			<v n="7">
+				because that 
+				<crossref let="h" cid="c640017.1"/>
+				 for the sake of the Name they went forth, taking nothing of the Gentiles.
+			</v>
+			<marker class="begin-verse" mid="v64001008"/>
+			<v n="8">
+				We therefore 
+				<crossref let="i" cid="c640018.1"/>
+				 ought to welcome such, that we may be fellow-workers for the truth.
+			</v>
+			<marker class="begin-verse" mid="v64001009"/>
+			<v n="9">
+				I wrote 
+				<crossref let="j" cid="c640019.1"/>
+				 somewhat unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not.
+			</v>
+			<marker class="begin-verse" mid="v64001010"/>
+			<v n="10">
+				Therefore, if 
+				<crossref let="k" cid="c6400110.1"/>
+				 I come, I will bring to remembrance his works which he doeth, prating against us with wicked words: and not content therewith, neither doth he himself receive the brethren, and them that would he forbiddeth and casteth them out of the church.
+			</v>
+			<marker class="begin-verse" mid="v64001011"/>
+			<v n="11">
+				Beloved, imitate 
+				<crossref let="l" cid="c6400111.1"/>
+				 not that which is evil, but that which is good. He that doeth good is of God: he that doeth evil hath not seen God.
+			</v>
+			<marker class="begin-verse" mid="v64001012"/>
+			<v n="12">
+				Demetrius hath 
+				<crossref let="m" cid="c6400112.1"/>
+				 the witness of all men, and of the truth itself: yea, we also bear witness; and thou knowest that our witness is true.
+			</v>
+			<marker class="begin-verse" mid="v64001013"/>
+			<v n="13">
+				I had 
+				<crossref let="n" cid="c6400113.1"/>
+				 many things to write unto thee, but I am unwilling to write them to thee with ink and pen:
+			</v>
+			<marker class="begin-verse" mid="v64001014"/>
+			<v n="14">
+				but I 
+				<crossref let="o" cid="c6400114.1"/>
+				 hope shortly to see thee, and we shall speak face to face. Peace be unto thee. The friends salute thee. Salute the friends by name.
+			</v>
+			<marker class="begin-verse" mid="v64001015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

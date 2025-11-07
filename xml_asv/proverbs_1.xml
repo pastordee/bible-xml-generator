@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:40:18.883172</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:40:18.883180</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" version="ASV" bookAbbr="pro">
+		<marker class="begin-verse" mid="v20001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				The proverbs 
+				<crossref let="b" cid="c200011.1"/>
+				 of Solomon the son of David, king of Israel:
+			</v>
+			<marker class="begin-verse" mid="v20001002"/>
+			<v n="2">
+				To know 
+				<crossref let="c" cid="c200012.1"/>
+				 wisdom and instruction;To discern the words of understanding;
+			</v>
+			<marker class="begin-verse" mid="v20001003"/>
+			<v n="3">
+				To receive 
+				<crossref let="d" cid="c200013.1"/>
+				 instruction in wise dealing,In righteousness and justice and equity;
+			</v>
+			<marker class="begin-verse" mid="v20001004"/>
+			<v n="4">
+				To give 
+				<crossref let="e" cid="c200014.1"/>
+				 prudence to the simple,To the young man knowledge and discretion:
+			</v>
+			<marker class="begin-verse" mid="v20001005"/>
+			<v n="5">
+				That the 
+				<crossref let="f" cid="c200015.1"/>
+				 wise man may hear, and increase in learning;And that the man of understanding may attain unto sound counsels:
+			</v>
+			<marker class="begin-verse" mid="v20001006"/>
+			<v n="6">
+				To understand 
+				<crossref let="g" cid="c200016.1"/>
+				 a proverb, and a figure,The words of the wise, and their dark sayings.
+			</v>
+			<marker class="begin-verse" mid="v20001007"/>
+			<v n="7">
+				The fear 
+				<crossref let="h" cid="c200017.1"/>
+				 of Jehovah is the beginning of knowledge;But the foolish despise wisdom and instruction.
+			</v>
+			<marker class="begin-verse" mid="v20001008"/>
+			<v n="8">
+				My son, 
+				<crossref let="i" cid="c200018.1"/>
+				 hear the instruction of thy father,And forsake not the law of thy mother:
+			</v>
+			<marker class="begin-verse" mid="v20001009"/>
+			<v n="9">
+				For they 
+				<crossref let="j" cid="c200019.1"/>
+				 shall be a chaplet of grace unto thy head,And chains about thy neck.
+			</v>
+			<marker class="begin-verse" mid="v20001010"/>
+			<v n="10">
+				My son, 
+				<crossref let="k" cid="c2000110.1"/>
+				 if sinners entice thee,Consent thou not.
+			</v>
+			<marker class="begin-verse" mid="v20001011"/>
+			<v n="11">
+				If they 
+				<crossref let="l" cid="c2000111.1"/>
+				 say, Come with us,Let us lay wait for blood;Let us lurk privily for the innocent without cause;
+			</v>
+			<marker class="begin-verse" mid="v20001012"/>
+			<v n="12">
+				Let us 
+				<crossref let="m" cid="c2000112.1"/>
+				 swallow them up alive as Sheol,And whole, as those that go down into the pit;
+			</v>
+			<marker class="begin-verse" mid="v20001013"/>
+			<v n="13">
+				We shall 
+				<crossref let="n" cid="c2000113.1"/>
+				 find all precious substance;We shall fill our houses with spoil;
+			</v>
+			<marker class="begin-verse" mid="v20001014"/>
+			<v n="14">
+				Thou shalt 
+				<crossref let="o" cid="c2000114.1"/>
+				 cast thy lot among us;We will all have one purse:
+			</v>
+			<marker class="begin-verse" mid="v20001015"/>
+			<v n="15">
+				My son, 
+				<crossref let="p" cid="c2000115.1"/>
+				 walk not thou in the way with them;Refrain thy foot from their path:
+			</v>
+			<marker class="begin-verse" mid="v20001016"/>
+			<v n="16">
+				For their 
+				<crossref let="q" cid="c2000116.1"/>
+				 feet run to evil,And they make haste to shed blood.
+			</v>
+			<marker class="begin-verse" mid="v20001017"/>
+			<v n="17">
+				For in 
+				<crossref let="r" cid="c2000117.1"/>
+				 vain is the net spreadIn the sight of any bird:
+			</v>
+			<marker class="begin-verse" mid="v20001018"/>
+			<v n="18">
+				And these 
+				<crossref let="s" cid="c2000118.1"/>
+				 lay wait for their own blood;They lurk privily for their own lives.
+			</v>
+			<marker class="begin-verse" mid="v20001019"/>
+			<v n="19">
+				So are 
+				<crossref let="t" cid="c2000119.1"/>
+				 the ways of every one that is greedy of gain;It taketh away the life of the owners thereof.
+			</v>
+			<marker class="begin-verse" mid="v20001020"/>
+			<v n="20">
+				Wisdom crieth 
+				<crossref let="u" cid="c2000120.1"/>
+				 aloud in the street;She uttereth her voice in the broad places;
+			</v>
+			<marker class="begin-verse" mid="v20001021"/>
+			<v n="21">
+				She crieth 
+				<crossref let="v" cid="c2000121.1"/>
+				 in the chief place of concourse;At the entrance of the gates,In the city, she uttereth her words:
+			</v>
+			<marker class="begin-verse" mid="v20001022"/>
+			<v n="22">
+				How long, 
+				<crossref let="w" cid="c2000122.1"/>
+				 ye simple ones, will ye love simplicity?And scoffers delight them in scoffing,And fools hate knowledge?
+			</v>
+			<marker class="begin-verse" mid="v20001023"/>
+			<v n="23">
+				Turn you 
+				<crossref let="x" cid="c2000123.1"/>
+				 at my reproof:Behold, I will pour out my spirit upon you;I will make known my words unto you.
+			</v>
+			<marker class="begin-verse" mid="v20001024"/>
+			<v n="24">
+				Because I 
+				<crossref let="y" cid="c2000124.1"/>
+				 have called, and ye have refused;I have stretched out my hand, and no man hath regarded;
+			</v>
+			<marker class="begin-verse" mid="v20001025"/>
+			<v n="25">
+				But ye 
+				<crossref let="z" cid="c2000125.1"/>
+				 have set at nought all my counsel,And would none of my reproof:
+			</v>
+			<marker class="begin-verse" mid="v20001026"/>
+			<v n="26">
+				I also 
+				<crossref let="a" cid="c2000126.1"/>
+				 will laugh in the day of your calamity;I will mock when your fear cometh;
+			</v>
+			<marker class="begin-verse" mid="v20001027"/>
+			<v n="27">
+				When your 
+				<crossref let="b" cid="c2000127.1"/>
+				 fear cometh as a storm,And your calamity cometh on as a whirlwind;When distress and anguish come upon you.
+			</v>
+			<marker class="begin-verse" mid="v20001028"/>
+			<v n="28">
+				Then will 
+				<crossref let="c" cid="c2000128.1"/>
+				 they call upon me, but I will not answer;They will seek me diligently, but they shall not find me:
+			</v>
+			<marker class="begin-verse" mid="v20001029"/>
+			<v n="29">
+				For that 
+				<crossref let="d" cid="c2000129.1"/>
+				 they hated knowledge,And did not choose the fear of Jehovah,
+			</v>
+			<marker class="begin-verse" mid="v20001030"/>
+			<v n="30">
+				They would 
+				<crossref let="e" cid="c2000130.1"/>
+				 none of my counsel,They despised all my reproof.
+			</v>
+			<marker class="begin-verse" mid="v20001031"/>
+			<v n="31">
+				Therefore shall 
+				<crossref let="f" cid="c2000131.1"/>
+				 they eat of the fruit of their own way,And be filled with their own devices.
+			</v>
+			<marker class="begin-verse" mid="v20001032"/>
+			<v n="32">
+				For the 
+				<crossref let="g" cid="c2000132.1"/>
+				 backsliding of the simple shall slay them,And the careless ease of fools shall destroy them.
+			</v>
+			<marker class="begin-verse" mid="v20001033"/>
+			<v n="33">
+				But whoso 
+				<crossref let="h" cid="c2000133.1"/>
+				 hearkeneth unto me shall dwell securely,And shall be quiet without fear of evil.
+			</v>
+			<marker class="begin-verse" mid="v20001034"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

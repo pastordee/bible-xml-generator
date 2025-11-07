@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:48:36.974454</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:48:36.974480</next_refresh_due>
+	</generation_info>
+	<book title="Amos" num="30" testament="old" version="NKJV" bookAbbr="amo">
+		<marker class="begin-verse" mid="v30008001"/>
+		<chapter num="8">
+			<heading>Vision of the Summer Fruit</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Thus the 
+				<crossref let="b" cid="c300081.1"/>
+				 Lord God showed me: Behold, a basket of summer fruit.
+			</v>
+			<marker class="begin-verse" mid="v30008002"/>
+			<v n="2">
+				And He 
+				<crossref let="c" cid="c300082.1"/>
+				 said, “Amos, what do you see?”So I said, “A basket of summer fruit.”Then the Lord said to me:“The end has come upon My people Israel;I will not pass by them anymore.
+			</v>
+			<marker class="begin-verse" mid="v30008003"/>
+			<v n="3">
+				And the 
+				<crossref let="d" cid="c300083.1"/>
+				 songs of the templeShall be wailing in that day,”Says the Lord God—“Many dead bodies everywhere,They shall be thrown out in silence.”
+			</v>
+			<marker class="begin-verse" mid="v30008004"/>
+			<v n="4">
+				Hear this, 
+				<crossref let="e" cid="c300084.1"/>
+				 you who swallow up the needy,And make the poor of the land fail,
+			</v>
+			<marker class="begin-verse" mid="v30008005"/>
+			<v n="5">
+				Saying:“When will 
+				<crossref let="f" cid="c300085.1"/>
+				 the New Moon be past,That we may sell grain?And the Sabbath,That we may trade wheat?Making the ephah small and the shekel large,Falsifying the scales by deceit,
+			</v>
+			<marker class="begin-verse" mid="v30008006"/>
+			<v n="6">
+				That we 
+				<crossref let="g" cid="c300086.1"/>
+				 may buy the poor for silver,And the needy for a pair of sandals—Even sell the bad wheat?”
+			</v>
+			<marker class="begin-verse" mid="v30008007"/>
+			<v n="7">
+				The Lord 
+				<crossref let="h" cid="c300087.1"/>
+				 has sworn by the pride of Jacob:“Surely I will never forget any of their works.
+			</v>
+			<marker class="begin-verse" mid="v30008008"/>
+			<v n="8">
+				Shall the 
+				<crossref let="i" cid="c300088.1"/>
+				 land not tremble for this,And everyone mourn who dwells in it?All of it shall swell like the River,Heave and subsideLike the River of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v30008009"/>
+			<v n="9">
+				“And it 
+				<crossref let="j" cid="c300089.1"/>
+				 shall come to pass in that day,” says the Lord God,“That I will make the sun go down at noon,And I will darken the earth in broad daylight;
+			</v>
+			<marker class="begin-verse" mid="v30008010"/>
+			<v n="10">
+				I will 
+				<crossref let="k" cid="c3000810.1"/>
+				 turn your feasts into mourning,And all your songs into lamentation;I will bring sackcloth on every waist,And baldness on every head;I will make it like mourning for an only son,And its end like a bitter day.
+			</v>
+			<marker class="begin-verse" mid="v30008011"/>
+			<v n="11">
+				“Behold, the 
+				<crossref let="l" cid="c3000811.1"/>
+				 days are coming,” says the Lord God,“That I will send a famine on the land,Not a famine of bread,Nor a thirst for water,But of hearing the words of the Lord.
+			</v>
+			<marker class="begin-verse" mid="v30008012"/>
+			<v n="12">
+				They shall 
+				<crossref let="m" cid="c3000812.1"/>
+				 wander from sea to sea,And from north to east;They shall run to and fro, seeking the word of the Lord,But shall not find it.
+			</v>
+			<marker class="begin-verse" mid="v30008013"/>
+			<v n="13">
+				“In that 
+				<crossref let="n" cid="c3000813.1"/>
+				 day the fair virginsAnd strong young menShall faint from thirst.
+			</v>
+			<marker class="begin-verse" mid="v30008014"/>
+			<v n="14">
+				Those who 
+				<crossref let="o" cid="c3000814.1"/>
+				 swear by the sin of Samaria,Who say,‘As your god lives, O Dan!’And, ‘As the way of Beersheba lives!’They shall fall and never rise again.”
+			</v>
+			<marker class="begin-verse" mid="v30008015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:10:01.880883</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:10:01.880892</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19133001"/>
+		<chapter num="133">
+			<heading>Psalm 133The Excellency of Brotherly Unity.A Song of Ascents. Of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Behold, how 
+				<crossref let="b" cid="c191331.1"/>
+				 good and how pleasant it isFor brothers to dwell together in unity!
+			</v>
+			<marker class="begin-verse" mid="v19133002"/>
+			<v n="2">
+				It is 
+				<crossref let="c" cid="c191332.1"/>
+				 like the precious oil [of consecration] poured on the head,Coming down on the beard,Even the beard of Aaron,Coming down upon the edge of his [priestly] robes [consecrating the whole body]. [Ex 30:25, 30]
+			</v>
+			<marker class="begin-verse" mid="v19133003"/>
+			<v n="3">
+				It is 
+				<crossref let="d" cid="c191333.1"/>
+				 like the dew of [Mount] HermonComing down on the hills of Zion;For there the Lord has commanded the blessing: life forevermore.
+			</v>
+			<marker class="begin-verse" mid="v19133004"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

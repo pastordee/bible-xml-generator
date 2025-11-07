@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:16:44.096263</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:16:44.096281</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19083001"/>
+		<chapter num="83">
+			<heading>A song. A psalm of Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				God, please 
+				<crossref let="b" cid="c190831.1"/>
+				 do not stay silent! You can't remain unmoved! God, you must not keep quiet!
+			</v>
+			<marker class="begin-verse" mid="v19083002"/>
+			<v n="2">
+				Can't you 
+				<crossref let="c" cid="c190832.1"/>
+				 hear the roars of your enemies? Can't you see how those who hate you are defiantly lifting up their heads?
+			</v>
+			<marker class="begin-verse" mid="v19083003"/>
+			<v n="3">
+				They invent 
+				<crossref let="d" cid="c190833.1"/>
+				 cunning plans to conspire against your people; they plot against those you treasure.
+			</v>
+			<marker class="begin-verse" mid="v19083004"/>
+			<v n="4">
+				They say, 
+				<crossref let="e" cid="c190834.1"/>
+				 “Come on! Let's destroy them as a nation so the name ‘Israel’ will be completely forgotten.”
+			</v>
+			<marker class="begin-verse" mid="v19083005"/>
+			<v n="5">
+				They all 
+				<crossref let="f" cid="c190835.1"/>
+				 agree in their conspiracy; they've made a treaty together to attack you—
+			</v>
+			<marker class="begin-verse" mid="v19083006"/>
+			<v n="6">
+				the people 
+				<crossref let="g" cid="c190836.1"/>
+				 of Edom, the Ishmaelites, Moab, and the Hagirites;
+			</v>
+			<marker class="begin-verse" mid="v19083007"/>
+			<v n="7">
+				the people 
+				<crossref let="h" cid="c190837.1"/>
+				 of Gebal and Ammon and Amalek, Philistia, and the inhabitants of Tyre.
+			</v>
+			<marker class="begin-verse" mid="v19083008"/>
+			<v n="8">
+				Assyria too 
+				<crossref let="i" cid="c190838.1"/>
+				 has joined them, allied with the descendants of Lot. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19083009"/>
+			<v n="9">
+				Do to 
+				<crossref let="j" cid="c190839.1"/>
+				 them what you did to Midian, what you did to Sisera and Jabin at the Kishon River.
+			</v>
+			<marker class="begin-verse" mid="v19083010"/>
+			<v n="10">
+				They were 
+				<crossref let="k" cid="c1908310.1"/>
+				 destroyed at Endor and became like manure to fertilize the ground.
+			</v>
+			<marker class="begin-verse" mid="v19083011"/>
+			<v n="11">
+				Make their 
+				<crossref let="l" cid="c1908311.1"/>
+				 leaders like Oreb and Zeeb; all their rulers like Zebah and Zalmunna,
+			</v>
+			<marker class="begin-verse" mid="v19083012"/>
+			<v n="12">
+				for they 
+				<crossref let="m" cid="c1908312.1"/>
+				 said, “Let's take the pastures of God for ourselves!”
+			</v>
+			<marker class="begin-verse" mid="v19083013"/>
+			<v n="13">
+				My God, 
+				<crossref let="n" cid="c1908313.1"/>
+				 make them like whirling tumbleweeds, chaff blown away by the wind.
+			</v>
+			<marker class="begin-verse" mid="v19083014"/>
+			<v n="14">
+				Just like 
+				<crossref let="o" cid="c1908314.1"/>
+				 fire that burns the forest, a flame that sets fire to the mountains,
+			</v>
+			<marker class="begin-verse" mid="v19083015"/>
+			<v n="15">
+				in the 
+				<crossref let="p" cid="c1908315.1"/>
+				 same way chase them down with your storm, terrify them with your whirlwind.
+			</v>
+			<marker class="begin-verse" mid="v19083016"/>
+			<v n="16">
+				Shame them 
+				<crossref let="q" cid="c1908316.1"/>
+				 in defeat so that they come to you, Lord!
+			</v>
+			<marker class="begin-verse" mid="v19083017"/>
+			<v n="17">
+				Make them 
+				<crossref let="r" cid="c1908317.1"/>
+				 ashamed, terrify them forever so that they die in disgrace.
+			</v>
+			<marker class="begin-verse" mid="v19083018"/>
+			<v n="18">
+				Let them 
+				<crossref let="s" cid="c1908318.1"/>
+				 understand that you alone, called the Lord, are the Most High who rules over all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19083019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

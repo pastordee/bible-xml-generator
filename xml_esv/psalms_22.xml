@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:42.040946</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:42.040968</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19022001">
+		</marker>
+		<chapter num="22">
+			<heading>
+				Psalm 22
+			</heading>
+			<heading>
+				Why Have You Forsaken Me?
+			</heading>
+			<heading>
+				To the choirmaster: according to The Doe of the Dawn. A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				My God, 
+				<crossref let="b" cid="c19022001.1">
+				</crossref>
+				my God,, 
+				<crossref let="c" cid="c19022001.2">
+				</crossref>
+				why have you forsaken me? Why are you so far from saving me, from the words of my groaning?
+			</v>
+			<marker class="begin-verse" mid="v19022002">
+			</marker>
+			<v n="2">
+				O my 
+				<crossref let="d" cid="c19022002.3">
+				</crossref>
+				God, I, 
+				<crossref let="e" cid="c19022002.4">
+				</crossref>
+				cry by day, but you do not answer, and by night, but I find no rest.
+			</v>
+			<marker class="begin-verse" mid="v19022003">
+			</marker>
+			<v n="3">
+				Yet you 
+				<crossref let="f" cid="c19022003.5">
+				</crossref>
+				are holy,, 
+				<crossref let="g" cid="c19022003.6">
+				</crossref>
+				enthroned on the praises(1) of Israel.
+				<note nid="n19022003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19022004">
+			</marker>
+			<v n="4">
+				In you 
+				<crossref let="h" cid="c19022004.7">
+				</crossref>
+				our fathers, 
+				<crossref let="i" cid="c19022004.8">
+				</crossref>
+				trusted; they trusted, and you delivered them.
+			</v>
+			<marker class="begin-verse" mid="v19022005">
+			</marker>
+			<v n="5">
+				To you 
+				<crossref let="j" cid="c19022005.9">
+				</crossref>
+				they cried, 
+				<crossref let="k" cid="c19022005.10">
+				</crossref>
+				and were rescued; in you they trusted and were not put to shame.
+			</v>
+			<marker class="begin-verse" mid="v19022006">
+			</marker>
+			<v n="6">
+				But I 
+				<crossref let="l" cid="c19022006.11">
+				</crossref>
+				am a, 
+				<crossref let="m" cid="c19022006.12">
+				</crossref>
+				worm and not a man, scorned by mankind and despised by the people.
+				<note nid="n19022006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19022007">
+			</marker>
+			<v n="7">
+				All who 
+				<crossref let="n" cid="c19022007.13">
+				</crossref>
+				see me, 
+				<crossref let="o" cid="c19022007.14">
+				</crossref>
+				mock me; they make mouths at me; they wag their heads;
+			</v>
+			<marker class="begin-verse" mid="v19022008">
+			</marker>
+			<v n="8">
+				“He trusts 
+				<crossref let="p" cid="c19022008.15">
+				</crossref>
+				in the, 
+				<crossref let="q" cid="c19022008.16">
+				</crossref>
+				LORD; let him deliver him; let him rescue him, for he delights in him!”
+			</v>
+			<marker class="begin-verse" mid="v19022009">
+			</marker>
+			<v n="9">
+				Yet you 
+				<crossref let="r" cid="c19022009.17">
+				</crossref>
+				are he, 
+				<crossref let="s" cid="c19022009.18">
+				</crossref>
+				who took me from the womb; you made me trust you at my mother’s breasts.
+				<note nid="n19022009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19022010">
+			</marker>
+			<v n="10">
+				On you 
+				<crossref let="t" cid="c19022010.19">
+				</crossref>
+				was I, 
+				<crossref let="u" cid="c19022010.20">
+				</crossref>
+				cast from my birth, and from my mother’s womb you have been my God.
+			</v>
+			<marker class="begin-verse" mid="v19022011">
+			</marker>
+			<v n="11">
+				Be not 
+				<crossref let="v" cid="c19022011.21">
+				</crossref>
+				far from, 
+				<crossref let="w" cid="c19022011.22">
+				</crossref>
+				me, for trouble is near, and there is none to help.
+			</v>
+			<marker class="begin-verse" mid="v19022012">
+			</marker>
+			<v n="12">
+				Many bulls 
+				<crossref let="x" cid="c19022012.23">
+				</crossref>
+				encompass me;, 
+				<crossref let="y" cid="c19022012.24">
+				</crossref>
+				strong bulls of Bashan surround me;
+				<note nid="n19022012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19022013">
+			</marker>
+			<v n="13">
+				they open 
+				<crossref let="z" cid="c19022013.25">
+				</crossref>
+				wide their, 
+				<crossref let="a" cid="c19022013.26">
+				</crossref>
+				mouths at me, like a ravening and roaring lion.
+			</v>
+			<marker class="begin-verse" mid="v19022014">
+			</marker>
+			<v n="14">
+				I am 
+				<crossref let="b" cid="c19022014.27">
+				</crossref>
+				poured out, 
+				<crossref let="c" cid="c19022014.28">
+				</crossref>
+				like water, and all my bones are out of joint; my heart is like wax; it is melted within my breast;
+			</v>
+			<marker class="begin-verse" mid="v19022015">
+			</marker>
+			<v n="15">
+				my strength 
+				<crossref let="d" cid="c19022015.29">
+				</crossref>
+				is dried, 
+				<crossref let="e" cid="c19022015.30">
+				</crossref>
+				up like a potsherd, and my tongue sticks to my jaws; you lay me in the dust of death.
+				<note nid="n19022015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19022016">
+			</marker>
+			<v n="16">
+				For dogs 
+				<crossref let="f" cid="c19022016.31">
+				</crossref>
+				encompass me;, 
+				<crossref let="g" cid="c19022016.32">
+				</crossref>
+				a company of evildoers encircles me; they have pierced my hands and feet(2)—
+			</v>
+			<marker class="begin-verse" mid="v19022017">
+			</marker>
+			<v n="17">
+				I can 
+				<crossref let="h" cid="c19022017.33">
+				</crossref>
+				count all, 
+				<crossref let="i" cid="c19022017.34">
+				</crossref>
+				my bones— they stare and gloat over me;
+			</v>
+			<marker class="begin-verse" mid="v19022018">
+			</marker>
+			<v n="18">
+				they divide 
+				<crossref let="j" cid="c19022018.35">
+				</crossref>
+				my garments, 
+				<crossref let="k" cid="c19022018.36">
+				</crossref>
+				among them, and for my clothing they cast lots.
+				<note nid="n19022018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19022019">
+			</marker>
+			<v n="19">
+				But you, 
+				<crossref let="l" cid="c19022019.37">
+				</crossref>
+				O LORD,, 
+				<crossref let="m" cid="c19022019.38">
+				</crossref>
+				do not be far off! O you my help, come quickly to my aid!
+			</v>
+			<marker class="begin-verse" mid="v19022020">
+			</marker>
+			<v n="20">
+				Deliver my 
+				<crossref let="n" cid="c19022020.39">
+				</crossref>
+				soul from, 
+				<crossref let="o" cid="c19022020.40">
+				</crossref>
+				the sword, my precious life from the power of the dog!
+			</v>
+			<marker class="begin-verse" mid="v19022021">
+			</marker>
+			<v n="21">
+				Save me 
+				<crossref let="p" cid="c19022021.41">
+				</crossref>
+				from the, 
+				<crossref let="q" cid="c19022021.42">
+				</crossref>
+				mouth of the lion! You have rescued(3) me from the horns of the wild oxen!
+				<note nid="n19022021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19022022">
+			</marker>
+			<v n="22">
+				I will 
+				<crossref let="r" cid="c19022022.43">
+				</crossref>
+				tell of, 
+				<crossref let="s" cid="c19022022.44">
+				</crossref>
+				your name to my brothers; in the midst of the congregation I will praise you:
+			</v>
+			<marker class="begin-verse" mid="v19022023">
+			</marker>
+			<v n="23">
+				You who 
+				<crossref let="t" cid="c19022023.45">
+				</crossref>
+				fear the, 
+				<crossref let="u" cid="c19022023.46">
+				</crossref>
+				LORD, praise him! All you offspring of Jacob, glorify him, and stand in awe of him, all you offspring of Israel!
+			</v>
+			<marker class="begin-verse" mid="v19022024">
+			</marker>
+			<v n="24">
+				For he 
+				<crossref let="v" cid="c19022024.47">
+				</crossref>
+				has not, 
+				<crossref let="w" cid="c19022024.48">
+				</crossref>
+				despised or abhorred the affliction of the afflicted, and he has not hidden his face from him, but has heard, when he cried to him.
+				<note nid="n19022024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19022025">
+			</marker>
+			<v n="25">
+				From you 
+				<crossref let="x" cid="c19022025.49">
+				</crossref>
+				comes my, 
+				<crossref let="y" cid="c19022025.50">
+				</crossref>
+				praise in the great congregation; my vows I will perform before those who fear him.
+			</v>
+			<marker class="begin-verse" mid="v19022026">
+			</marker>
+			<v n="26">
+				The afflicted(4) 
+				<crossref let="z" cid="c19022026.51">
+				</crossref>
+				shall eat, 
+				<crossref let="a" cid="c19022026.52">
+				</crossref>
+				and be satisfied; those who seek him shall praise the LORD! May your hearts live forever!
+			</v>
+			<marker class="begin-verse" mid="v19022027">
+			</marker>
+			<v n="27">
+				All the 
+				<crossref let="b" cid="c19022027.53">
+				</crossref>
+				ends of, 
+				<crossref let="c" cid="c19022027.54">
+				</crossref>
+				the earth shall remember and turn to the LORD, and all the families of the nations shall worship before you.
+				<note nid="n19022027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19022028">
+			</marker>
+			<v n="28">
+				For kingship 
+				<crossref let="d" cid="c19022028.55">
+				</crossref>
+				belongs to, 
+				<crossref let="e" cid="c19022028.56">
+				</crossref>
+				the LORD, and he rules over the nations.
+			</v>
+			<marker class="begin-verse" mid="v19022029">
+			</marker>
+			<v n="29">
+				All the 
+				<crossref let="f" cid="c19022029.57">
+				</crossref>
+				prosperous of, 
+				<crossref let="g" cid="c19022029.58">
+				</crossref>
+				the earth eat and worship; before him shall bow all who go down to the dust, even the one who could not keep himself alive.
+			</v>
+			<marker class="begin-verse" mid="v19022030">
+			</marker>
+			<v n="30">
+				Posterity shall 
+				<crossref let="h" cid="c19022030.59">
+				</crossref>
+				serve him;, 
+				<crossref let="i" cid="c19022030.60">
+				</crossref>
+				it shall be told of the Lord to the coming generation;
+				<note nid="n19022030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19022031">
+			</marker>
+			<v n="31">
+				they shall 
+				<crossref let="j" cid="c19022031.61">
+				</crossref>
+				come and, 
+				<crossref let="k" cid="c19022031.62">
+				</crossref>
+				proclaim his righteousness to a people yet unborn, that he has done it. Footnotes (1) 22:3 Or *dwelling in the praises* (2) 22:16 Some Hebrew manuscripts, Septuagint, Vulgate, Syriac; most Hebrew manuscripts *like a lion* [they are at] *my hands and feet* (3) 22:21 Hebrew *answered* (4) 22:26 Or *The meek* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19022032">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:50:19.048791</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:50:19.048827</next_refresh_due>
+	</generation_info>
+	<book title="2 Corinthians" num="47" testament="new" version="KJV" bookAbbr="2co">
+		<marker class="begin-verse" mid="v47013001"/>
+		<chapter num="13">
+			<begin-paragraph/>
+			<v n="1">
+				This is 
+				<crossref let="b" cid="c470131.1"/>
+				 the third time I am coming to you. In the mouth of two or three witnesses shall every word be established.
+			</v>
+			<marker class="begin-verse" mid="v47013002"/>
+			<v n="2">
+				I told 
+				<crossref let="c" cid="c470132.1"/>
+				 you before, and foretell you, as if I were present, the second time; and being absent now I write to them which heretofore have sinned, and to all other, that, if I come again, I will not spare:
+			</v>
+			<marker class="begin-verse" mid="v47013003"/>
+			<v n="3">
+				Since ye 
+				<crossref let="d" cid="c470133.1"/>
+				 seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.
+			</v>
+			<marker class="begin-verse" mid="v47013004"/>
+			<v n="4">
+				For though 
+				<crossref let="e" cid="c470134.1"/>
+				 he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
+			</v>
+			<marker class="begin-verse" mid="v47013005"/>
+			<v n="5">
+				Examine yourselves, 
+				<crossref let="f" cid="c470135.1"/>
+				 whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
+			</v>
+			<marker class="begin-verse" mid="v47013006"/>
+			<v n="6">
+				But I 
+				<crossref let="g" cid="c470136.1"/>
+				 trust that ye shall know that we are not reprobates.
+			</v>
+			<marker class="begin-verse" mid="v47013007"/>
+			<v n="7">
+				Now I 
+				<crossref let="h" cid="c470137.1"/>
+				 pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.
+			</v>
+			<marker class="begin-verse" mid="v47013008"/>
+			<v n="8">
+				For we 
+				<crossref let="i" cid="c470138.1"/>
+				 can do nothing against the truth, but for the truth.
+			</v>
+			<marker class="begin-verse" mid="v47013009"/>
+			<v n="9">
+				For we 
+				<crossref let="j" cid="c470139.1"/>
+				 are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.
+			</v>
+			<marker class="begin-verse" mid="v47013010"/>
+			<v n="10">
+				Therefore I 
+				<crossref let="k" cid="c4701310.1"/>
+				 write these things being absent, lest being present I should use sharpness, according to the power which the Lord hath given me to edification, and not to destruction.
+			</v>
+			<marker class="begin-verse" mid="v47013011"/>
+			<v n="11">
+				Finally, brethren, 
+				<crossref let="l" cid="c4701311.1"/>
+				 farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.
+			</v>
+			<marker class="begin-verse" mid="v47013012"/>
+			<v n="12">
+				Greet one 
+				<crossref let="m" cid="c4701312.1"/>
+				 another with an holy kiss.
+			</v>
+			<marker class="begin-verse" mid="v47013013"/>
+			<v n="13">
+				All the 
+				<crossref let="n" cid="c4701313.1"/>
+				 saints salute you.
+			</v>
+			<marker class="begin-verse" mid="v47013014"/>
+			<v n="14">
+				The grace 
+				<crossref let="o" cid="c4701314.1"/>
+				 of the Lord Jesus Christ, and the love of God, and the communion of the Holy Ghost, be with you all. Amen.
+			</v>
+			<marker class="begin-verse" mid="v47013015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

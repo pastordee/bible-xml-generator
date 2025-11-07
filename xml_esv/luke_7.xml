@@ -1,0 +1,648 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:15.764548</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:15.764556</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42007001">
+		</marker>
+		<chapter num="7">
+			<heading>
+				Luke 7
+			</heading>
+			<heading>
+				Jesus Heals a Centurion’s Servant
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				After he 
+				<crossref let="b" cid="c42007001.1">
+				</crossref>
+				had finished, 
+				<crossref let="c" cid="c42007001.2">
+				</crossref>
+				all his sayings in the hearing of the people, he entered Capernaum.
+			</v>
+			<marker class="begin-verse" mid="v42007002">
+			</marker>
+			<v n="2">
+				Now a 
+				<crossref let="d" cid="c42007002.3">
+				</crossref>
+				centurion had, 
+				<crossref let="e" cid="c42007002.4">
+				</crossref>
+				a servant(1) who was sick and at the point of death, who was highly valued by him.
+			</v>
+			<marker class="begin-verse" mid="v42007003">
+			</marker>
+			<v n="3">
+				When the 
+				<crossref let="f" cid="c42007003.5">
+				</crossref>
+				centurion(2) heard, 
+				<crossref let="g" cid="c42007003.6">
+				</crossref>
+				about Jesus, he sent to him elders of the Jews, asking him to come and heal his servant.
+				<note nid="n42007003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007004">
+			</marker>
+			<v n="4">
+				And when 
+				<crossref let="h" cid="c42007004.7">
+				</crossref>
+				they came, 
+				<crossref let="i" cid="c42007004.8">
+				</crossref>
+				to Jesus, they pleaded with him earnestly, saying, “He is worthy to have you do this for him,
+			</v>
+			<marker class="begin-verse" mid="v42007005">
+			</marker>
+			<v n="5">
+				for he 
+				<crossref let="j" cid="c42007005.9">
+				</crossref>
+				loves our, 
+				<crossref let="k" cid="c42007005.10">
+				</crossref>
+				nation, and he is the one who built us our synagogue.”
+			</v>
+			<marker class="begin-verse" mid="v42007006">
+			</marker>
+			<v n="6">
+				And Jesus 
+				<crossref let="l" cid="c42007006.11">
+				</crossref>
+				went with, 
+				<crossref let="m" cid="c42007006.12">
+				</crossref>
+				them. When he was not far from the house, the centurion sent friends, saying to him, “Lord, do not trouble yourself, for I am not worthy to have you come under my roof.
+				<note nid="n42007006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007007">
+			</marker>
+			<v n="7">
+				Therefore I 
+				<crossref let="n" cid="c42007007.13">
+				</crossref>
+				did not, 
+				<crossref let="o" cid="c42007007.14">
+				</crossref>
+				presume to come to you. But say the word, and let my servant be healed.
+			</v>
+			<marker class="begin-verse" mid="v42007008">
+			</marker>
+			<v n="8">
+				For I 
+				<crossref let="p" cid="c42007008.15">
+				</crossref>
+				too am, 
+				<crossref let="q" cid="c42007008.16">
+				</crossref>
+				a man set under authority, with soldiers under me: and I say to one, ‘Go,’ and he goes; and to another, ‘Come,’ and he comes; and to my servant, ‘Do this,’ and he does it.”
+			</v>
+			<marker class="begin-verse" mid="v42007009">
+			</marker>
+			<v n="9">
+				When Jesus 
+				<crossref let="r" cid="c42007009.17">
+				</crossref>
+				heard these, 
+				<crossref let="s" cid="c42007009.18">
+				</crossref>
+				things, he marveled at him, and turning to the crowd that followed him, said, “I tell you, not even in Israel have I found such faith.”
+				<note nid="n42007009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007010">
+			</marker>
+			<v n="10">
+				And when 
+				<crossref let="t" cid="c42007010.19">
+				</crossref>
+				those who, 
+				<crossref let="u" cid="c42007010.20">
+				</crossref>
+				had been sent returned to the house, they found the servant well. Jesus Raises a Widow’s Son
+			</v>
+			<marker class="begin-verse" mid="v42007011">
+			</marker>
+			<v n="11">
+				Soon afterward(3) 
+				<crossref let="v" cid="c42007011.21">
+				</crossref>
+				he went, 
+				<crossref let="w" cid="c42007011.22">
+				</crossref>
+				to a town called Nain, and his disciples and a great crowd went with him.
+			</v>
+			<marker class="begin-verse" mid="v42007012">
+			</marker>
+			<v n="12">
+				As he 
+				<crossref let="x" cid="c42007012.23">
+				</crossref>
+				drew near, 
+				<crossref let="y" cid="c42007012.24">
+				</crossref>
+				to the gate of the town, behold, a man who had died was being carried out, the only son of his mother, and she was a widow, and a considerable crowd from the town was with her.
+				<note nid="n42007012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007013">
+			</marker>
+			<v n="13">
+				And when 
+				<crossref let="z" cid="c42007013.25">
+				</crossref>
+				the Lord, 
+				<crossref let="a" cid="c42007013.26">
+				</crossref>
+				saw her, he had compassion on her and said to her, “Do not weep.”
+			</v>
+			<marker class="begin-verse" mid="v42007014">
+			</marker>
+			<v n="14" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Then he 
+					<crossref let="b" cid="c42007014.27">
+				</crossref>
+					came up, 
+					<crossref let="c" cid="c42007014.28">
+				</crossref>
+				and touched the bier, and the bearers stood still. And he said, “Young man, I say to you, arise.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42007015">
+			</marker>
+			<v n="15">
+				And the 
+				<crossref let="d" cid="c42007015.29">
+				</crossref>
+				dead man, 
+				<crossref let="e" cid="c42007015.30">
+				</crossref>
+				sat up and began to speak, and Jesus(4) gave him to his mother.
+				<note nid="n42007015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007016">
+			</marker>
+			<v n="16">
+				Fear seized 
+				<crossref let="f" cid="c42007016.31">
+				</crossref>
+				them all,, 
+				<crossref let="g" cid="c42007016.32">
+				</crossref>
+				and they glorified God, saying, “A great prophet has arisen among us!” and “God has visited his people!”
+			</v>
+			<marker class="begin-verse" mid="v42007017">
+			</marker>
+			<v n="17">
+				And this 
+				<crossref let="h" cid="c42007017.33">
+				</crossref>
+				report about, 
+				<crossref let="i" cid="c42007017.34">
+				</crossref>
+				him spread through the whole of Judea and all the surrounding country. Messengers from John the Baptist
+			</v>
+			<marker class="begin-verse" mid="v42007018">
+			</marker>
+			<v n="18">
+				The disciples 
+				<crossref let="j" cid="c42007018.35">
+				</crossref>
+				of John, 
+				<crossref let="k" cid="c42007018.36">
+				</crossref>
+				reported all these things to him. And John,
+				<note nid="n42007018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007019">
+			</marker>
+			<v n="19">
+				calling two 
+				<crossref let="l" cid="c42007019.37">
+				</crossref>
+				of his, 
+				<crossref let="m" cid="c42007019.38">
+				</crossref>
+				disciples to him, sent them to the Lord, saying, “Are you the one who is to come, or shall we look for another?”
+			</v>
+			<marker class="begin-verse" mid="v42007020">
+			</marker>
+			<v n="20">
+				And when 
+				<crossref let="n" cid="c42007020.39">
+				</crossref>
+				the men, 
+				<crossref let="o" cid="c42007020.40">
+				</crossref>
+				had come to him, they said, “John the Baptist has sent us to you, saying, ‘Are you the one who is to come, or shall we look for another?’”
+			</v>
+			<marker class="begin-verse" mid="v42007021">
+			</marker>
+			<v n="21">
+				In that 
+				<crossref let="p" cid="c42007021.41">
+				</crossref>
+				hour he, 
+				<crossref let="q" cid="c42007021.42">
+				</crossref>
+				healed many people of diseases and plagues and evil spirits, and on many who were blind he bestowed sight.
+				<note nid="n42007021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007022">
+			</marker>
+			<v n="22">
+				And he 
+				<crossref let="r" cid="c42007022.43">
+				</crossref>
+				answered them,, 
+				<crossref let="s" cid="c42007022.44">
+				</crossref>
+				“Go and tell John what you have seen and heard: the blind receive their sight, the lame walk, lepers(5) are cleansed, and the deaf hear, the dead are raised up, the poor have good news preached to them.
+			</v>
+			<marker class="begin-verse" mid="v42007023">
+			</marker>
+			<v n="23">
+				And blessed 
+				<crossref let="t" cid="c42007023.45">
+				</crossref>
+				is the, 
+				<crossref let="u" cid="c42007023.46">
+				</crossref>
+				one who is not offended by me.”
+			</v>
+			<marker class="begin-verse" mid="v42007024">
+			</marker>
+			<v n="24">
+				When John’s 
+				<crossref let="v" cid="c42007024.47">
+				</crossref>
+				messengers had, 
+				<crossref let="w" cid="c42007024.48">
+				</crossref>
+				gone, Jesus(6) began to speak to the crowds concerning John: “What did you go out into the wilderness to see? A reed shaken by the wind?
+				<note nid="n42007024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007025">
+			</marker>
+			<v n="25">
+				What then 
+				<crossref let="x" cid="c42007025.49">
+				</crossref>
+				did you, 
+				<crossref let="y" cid="c42007025.50">
+				</crossref>
+				go out to see? A man dressed in soft clothing? Behold, those who are dressed in splendid clothing and live in luxury are in kings’ courts.
+			</v>
+			<marker class="begin-verse" mid="v42007026">
+			</marker>
+			<v n="26">
+				What then 
+				<crossref let="z" cid="c42007026.51">
+				</crossref>
+				did you, 
+				<crossref let="a" cid="c42007026.52">
+				</crossref>
+				go out to see? A prophet? Yes, I tell you, and more than a prophet.
+			</v>
+			<marker class="begin-verse" mid="v42007027">
+			</marker>
+			<v n="27">
+				This is 
+				<crossref let="b" cid="c42007027.53">
+				</crossref>
+				he of, 
+				<crossref let="c" cid="c42007027.54">
+				</crossref>
+				whom it is written, “‘Behold, I send my messenger before your face, who will prepare your way before you.’
+				<note nid="n42007027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007028">
+			</marker>
+			<v n="28">
+				I tell 
+				<crossref let="d" cid="c42007028.55">
+				</crossref>
+				you, among, 
+				<crossref let="e" cid="c42007028.56">
+				</crossref>
+				those born of women none is greater than John. Yet the one who is least in the kingdom of God is greater than he.”
+			</v>
+			<marker class="begin-verse" mid="v42007029">
+			</marker>
+			<v n="29">
+				(When all 
+				<crossref let="f" cid="c42007029.57">
+				</crossref>
+				the people, 
+				<crossref let="g" cid="c42007029.58">
+				</crossref>
+				heard this, and the tax collectors too, they declared God just,(7) having been baptized with the baptism of John,
+			</v>
+			<marker class="begin-verse" mid="v42007030">
+			</marker>
+			<v n="30">
+				but the 
+				<crossref let="h" cid="c42007030.59">
+				</crossref>
+				Pharisees and, 
+				<crossref let="i" cid="c42007030.60">
+				</crossref>
+				the lawyers rejected the purpose of God for themselves, not having been baptized by him.)
+				<note nid="n42007030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007031">
+			</marker>
+			<v n="31">
+				“To what 
+				<crossref let="j" cid="c42007031.61">
+				</crossref>
+				then shall, 
+				<crossref let="k" cid="c42007031.62">
+				</crossref>
+				I compare the people of this generation, and what are they like?
+			</v>
+			<marker class="begin-verse" mid="v42007032">
+			</marker>
+			<v n="32">
+				They are 
+				<crossref let="l" cid="c42007032.63">
+				</crossref>
+				like children, 
+				<crossref let="m" cid="c42007032.64">
+				</crossref>
+				sitting in the marketplace and calling to one another, “‘We played the flute for you, and you did not dance; we sang a dirge, and you did not weep.’
+			</v>
+			<marker class="begin-verse" mid="v42007033">
+			</marker>
+			<v n="33">
+				For John 
+				<crossref let="n" cid="c42007033.65">
+				</crossref>
+				the Baptist, 
+				<crossref let="o" cid="c42007033.66">
+				</crossref>
+				has come eating no bread and drinking no wine, and you say, ‘He has a demon.’
+				<note nid="n42007033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007034">
+			</marker>
+			<v n="34">
+				The Son 
+				<crossref let="p" cid="c42007034.67">
+				</crossref>
+				of Man, 
+				<crossref let="q" cid="c42007034.68">
+				</crossref>
+				has come eating and drinking, and you say, ‘Look at him! A glutton and a drunkard, a friend of tax collectors and sinners!’
+			</v>
+			<marker class="begin-verse" mid="v42007035">
+			</marker>
+			<v n="35">
+				Yet wisdom 
+				<crossref let="r" cid="c42007035.69">
+				</crossref>
+				is justified, 
+				<crossref let="s" cid="c42007035.70">
+				</crossref>
+				by all her children.” A Sinful Woman Forgiven
+			</v>
+			<marker class="begin-verse" mid="v42007036">
+			</marker>
+			<v n="36">
+				One of 
+				<crossref let="t" cid="c42007036.71">
+				</crossref>
+				the Pharisees, 
+				<crossref let="u" cid="c42007036.72">
+				</crossref>
+				asked him to eat with him, and he went into the Pharisee’s house and reclined at table.
+				<note nid="n42007036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007037">
+			</marker>
+			<v n="37">
+				And behold, 
+				<crossref let="v" cid="c42007037.73">
+				</crossref>
+				a woman, 
+				<crossref let="w" cid="c42007037.74">
+				</crossref>
+				of the city, who was a sinner, when she learned that he was reclining at table in the Pharisee’s house, brought an alabaster flask of ointment,
+			</v>
+			<marker class="begin-verse" mid="v42007038">
+			</marker>
+			<v n="38">
+				and standing 
+				<crossref let="x" cid="c42007038.75">
+				</crossref>
+				behind him, 
+				<crossref let="y" cid="c42007038.76">
+				</crossref>
+				at his feet, weeping, she began to wet his feet with her tears and wiped them with the hair of her head and kissed his feet and anointed them with the ointment.
+			</v>
+			<marker class="begin-verse" mid="v42007039">
+			</marker>
+			<v n="39" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Now when 
+					<crossref let="z" cid="c42007039.77">
+				</crossref>
+					the Pharisee, 
+					<crossref let="a" cid="c42007039.78">
+				</crossref>
+				who had invited him saw this, he said to himself, “If this man were a prophet, he would have known who and what sort of woman this is who is touching him, for she is a sinner.”
+					<note nid="n42007039.39">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42007040">
+			</marker>
+			<v n="40">
+				And Jesus 
+				<crossref let="b" cid="c42007040.79">
+				</crossref>
+				answering said, 
+				<crossref let="c" cid="c42007040.80">
+				</crossref>
+				to him, “Simon, I have something to say to you.” And he answered, “Say it, Teacher.”
+			</v>
+			<marker class="begin-verse" mid="v42007041">
+			</marker>
+			<v n="41">
+				“A certain 
+				<crossref let="d" cid="c42007041.81">
+				</crossref>
+				moneylender had, 
+				<crossref let="e" cid="c42007041.82">
+				</crossref>
+				two debtors. One owed five hundred denarii, and the other fifty.
+			</v>
+			<marker class="begin-verse" mid="v42007042">
+			</marker>
+			<v n="42">
+				When they 
+				<crossref let="f" cid="c42007042.83">
+				</crossref>
+				could not, 
+				<crossref let="g" cid="c42007042.84">
+				</crossref>
+				pay, he cancelled the debt of both. Now which of them will love him more?”
+				<note nid="n42007042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007043">
+			</marker>
+			<v n="43" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Simon answered, 
+					<crossref let="h" cid="c42007043.85">
+				</crossref>
+					“The one,, 
+					<crossref let="i" cid="c42007043.86">
+				</crossref>
+				I suppose, for whom he cancelled the larger debt.” And he said to him, “You have judged rightly.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42007044">
+			</marker>
+			<v n="44" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Then turning 
+					<crossref let="j" cid="c42007044.87">
+				</crossref>
+					toward the, 
+					<crossref let="k" cid="c42007044.88">
+				</crossref>
+				woman he said to Simon, “Do you see this woman? I entered your house; you gave me no water for my feet, but she has wet my feet with her tears and wiped them with her hair.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42007045">
+			</marker>
+			<v n="45">
+				You gave 
+				<crossref let="l" cid="c42007045.89">
+				</crossref>
+				me no, 
+				<crossref let="m" cid="c42007045.90">
+				</crossref>
+				kiss, but from the time I came in she has not ceased to kiss my feet.
+				<note nid="n42007045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42007046">
+			</marker>
+			<v n="46">
+				You did 
+				<crossref let="n" cid="c42007046.91">
+				</crossref>
+				not anoint, 
+				<crossref let="o" cid="c42007046.92">
+				</crossref>
+				my head with oil, but she has anointed my feet with ointment.
+			</v>
+			<marker class="begin-verse" mid="v42007047">
+			</marker>
+			<v n="47">
+				Therefore I 
+				<crossref let="p" cid="c42007047.93">
+				</crossref>
+				tell you,, 
+				<crossref let="q" cid="c42007047.94">
+				</crossref>
+				her sins, which are many, are forgiven—for she loved much. But he who is forgiven little, loves little.”
+			</v>
+			<marker class="begin-verse" mid="v42007048">
+			</marker>
+			<v n="48" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="r" cid="c42007048.95">
+				</crossref>
+					said to, 
+					<crossref let="s" cid="c42007048.96">
+				</crossref>
+				her, “Your sins are forgiven.”
+					<note nid="n42007048.48">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42007049">
+			</marker>
+			<v n="49">
+				Then those 
+				<crossref let="t" cid="c42007049.97">
+				</crossref>
+				who were, 
+				<crossref let="u" cid="c42007049.98">
+				</crossref>
+				at table with him began to say among(8) themselves, “Who is this, who even forgives sins?”
+			</v>
+			<marker class="begin-verse" mid="v42007050">
+			</marker>
+			<v n="50" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="v" cid="c42007050.99">
+				</crossref>
+					said to, 
+					<crossref let="w" cid="c42007050.100">
+				</crossref>
+				the woman, “Your faith has saved you; go in peace.” Footnotes (1) 7:2 Or *bondservant*; also verses 3, 8, 10 (2) 7:3 Greek *he* (3) 7:11 Some manuscripts *The next day* (4) 7:15 Greek *he* (5) 7:22 *Leprosy* was a term for several skin diseases; see Leviticus 13 (6) 7:24 Greek *he* (7) 7:29 Greek *they justified God* (8) 7:49 Or *to* (ESV)
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42007051">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

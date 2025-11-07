@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:44:17.649451</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:44:17.649467</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19030001"/>
+		<chapter num="30">
+			<heading>A Psalm. A Song for the Dedication of the Temple. By David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I will 
+				<crossref let="b" cid="c190301.1"/>
+				 extol you, Yahweh, for you have raised me up,and have not made my foes to rejoice over me.
+			</v>
+			<marker class="begin-verse" mid="v19030002"/>
+			<v n="2">
+				Yahweh my 
+				<crossref let="c" cid="c190302.1"/>
+				 God, I cried to you,and you have healed me.
+			</v>
+			<marker class="begin-verse" mid="v19030003"/>
+			<v n="3">
+				Yahweh, you 
+				<crossref let="d" cid="c190303.1"/>
+				 have brought up my soul from Sheol.You have kept me alive, that I should not go down to the pit.
+			</v>
+			<marker class="begin-verse" mid="v19030004"/>
+			<v n="4">
+				Sing praise 
+				<crossref let="e" cid="c190304.1"/>
+				 to Yahweh, you saints of his.Give thanks to his holy name.
+			</v>
+			<marker class="begin-verse" mid="v19030005"/>
+			<v n="5">
+				For his 
+				<crossref let="f" cid="c190305.1"/>
+				 anger is but for a moment.His favor is for a lifetime.Weeping may stay for the night,but joy comes in the morning.
+			</v>
+			<marker class="begin-verse" mid="v19030006"/>
+			<v n="6">
+				As for 
+				<crossref let="g" cid="c190306.1"/>
+				 me, I said in my prosperity,“I shall never be moved.”
+			</v>
+			<marker class="begin-verse" mid="v19030007"/>
+			<v n="7">
+				You, Yahweh, 
+				<crossref let="h" cid="c190307.1"/>
+				 when you favored me, made my mountain stand strong;but when you hid your face, I was troubled.
+			</v>
+			<marker class="begin-verse" mid="v19030008"/>
+			<v n="8">
+				I cried 
+				<crossref let="i" cid="c190308.1"/>
+				 to you, Yahweh.I made supplication to the Lord:
+			</v>
+			<marker class="begin-verse" mid="v19030009"/>
+			<v n="9">
+				“What profit 
+				<crossref let="j" cid="c190309.1"/>
+				 is there in my destruction, if I go down to the pit?Shall the dust praise you?Shall it declare your truth?
+			</v>
+			<marker class="begin-verse" mid="v19030010"/>
+			<v n="10">
+				Hear, Yahweh, 
+				<crossref let="k" cid="c1903010.1"/>
+				 and have mercy on me.Yahweh, be my helper.”
+			</v>
+			<marker class="begin-verse" mid="v19030011"/>
+			<v n="11">
+				You have 
+				<crossref let="l" cid="c1903011.1"/>
+				 turned my mourning into dancing for me.You have removed my sackcloth, and clothed me with gladness,
+			</v>
+			<marker class="begin-verse" mid="v19030012"/>
+			<v n="12">
+				to the 
+				<crossref let="m" cid="c1903012.1"/>
+				 end that my heart may sing praise to you, and not be silent.Yahweh my God, I will give thanks to you forever!
+			</v>
+			<marker class="begin-verse" mid="v19030013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

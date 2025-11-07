@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:39:57.448322</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:39:57.448402</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19147001"/>
+		<chapter num="147">
+			<begin-paragraph/>
+			<v n="1">
+				Praise ye 
+				<crossref let="b" cid="c191471.1"/>
+				 Jehovah;For it is good to sing praises unto our God;For it is pleasant, and praise is comely.
+			</v>
+			<marker class="begin-verse" mid="v19147002"/>
+			<v n="2">
+				Jehovah doth 
+				<crossref let="c" cid="c191472.1"/>
+				 build up Jerusalem;He gathereth together the outcasts of Israel.
+			</v>
+			<marker class="begin-verse" mid="v19147003"/>
+			<v n="3">
+				He healeth 
+				<crossref let="d" cid="c191473.1"/>
+				 the broken in heart,And bindeth up their wounds.
+			</v>
+			<marker class="begin-verse" mid="v19147004"/>
+			<v n="4">
+				He counteth 
+				<crossref let="e" cid="c191474.1"/>
+				 the number of the stars;He calleth them all by their names.
+			</v>
+			<marker class="begin-verse" mid="v19147005"/>
+			<v n="5">
+				Great is 
+				<crossref let="f" cid="c191475.1"/>
+				 our Lord, and mighty in power;His understanding is infinite.
+			</v>
+			<marker class="begin-verse" mid="v19147006"/>
+			<v n="6">
+				Jehovah upholdeth 
+				<crossref let="g" cid="c191476.1"/>
+				 the meek:He bringeth the wicked down to the ground.
+			</v>
+			<marker class="begin-verse" mid="v19147007"/>
+			<v n="7">
+				Sing unto 
+				<crossref let="h" cid="c191477.1"/>
+				 Jehovah with thanksgiving;Sing praises upon the harp unto our God,
+			</v>
+			<marker class="begin-verse" mid="v19147008"/>
+			<v n="8">
+				Who covereth 
+				<crossref let="i" cid="c191478.1"/>
+				 the heavens with clouds,Who prepareth rain for the earth,Who maketh grass to grow upon the mountains.
+			</v>
+			<marker class="begin-verse" mid="v19147009"/>
+			<v n="9">
+				He giveth 
+				<crossref let="j" cid="c191479.1"/>
+				 to the beast his food,And to the young ravens which cry.
+			</v>
+			<marker class="begin-verse" mid="v19147010"/>
+			<v n="10">
+				He delighteth 
+				<crossref let="k" cid="c1914710.1"/>
+				 not in the strength of the horse:He taketh no pleasure in the legs of a man.
+			</v>
+			<marker class="begin-verse" mid="v19147011"/>
+			<v n="11">
+				Jehovah taketh 
+				<crossref let="l" cid="c1914711.1"/>
+				 pleasure in them that fear him,In those that hope in his lovingkindness.
+			</v>
+			<marker class="begin-verse" mid="v19147012"/>
+			<v n="12">
+				Praise Jehovah, 
+				<crossref let="m" cid="c1914712.1"/>
+				 O Jerusalem;Praise thy God, O Zion.
+			</v>
+			<marker class="begin-verse" mid="v19147013"/>
+			<v n="13">
+				For he 
+				<crossref let="n" cid="c1914713.1"/>
+				 hath strengthened the bars of thy gates;He hath blessed thy children within thee.
+			</v>
+			<marker class="begin-verse" mid="v19147014"/>
+			<v n="14">
+				He maketh 
+				<crossref let="o" cid="c1914714.1"/>
+				 peace in thy borders;He filleth thee with the finest of the wheat.
+			</v>
+			<marker class="begin-verse" mid="v19147015"/>
+			<v n="15">
+				He sendeth 
+				<crossref let="p" cid="c1914715.1"/>
+				 out his commandment upon earth;His word runneth very swiftly.
+			</v>
+			<marker class="begin-verse" mid="v19147016"/>
+			<v n="16">
+				He giveth 
+				<crossref let="q" cid="c1914716.1"/>
+				 snow like wool;He scattereth the hoar-frost like ashes.
+			</v>
+			<marker class="begin-verse" mid="v19147017"/>
+			<v n="17">
+				He casteth 
+				<crossref let="r" cid="c1914717.1"/>
+				 forth his ice like morsels:Who can stand before his cold?
+			</v>
+			<marker class="begin-verse" mid="v19147018"/>
+			<v n="18">
+				He sendeth 
+				<crossref let="s" cid="c1914718.1"/>
+				 out his word, and melteth them:He causeth his wind to blow, and the waters flow.
+			</v>
+			<marker class="begin-verse" mid="v19147019"/>
+			<v n="19">
+				He showeth 
+				<crossref let="t" cid="c1914719.1"/>
+				 his word unto Jacob,His statutes and his ordinances unto Israel.
+			</v>
+			<marker class="begin-verse" mid="v19147020"/>
+			<v n="20">
+				He hath 
+				<crossref let="u" cid="c1914720.1"/>
+				 not dealt so with any nation;And as for his ordinances, they have not known them.Praise ye Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19147021"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

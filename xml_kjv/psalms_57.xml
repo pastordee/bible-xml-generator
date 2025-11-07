@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:01:01.506769</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:01:01.506776</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19057001"/>
+		<chapter num="57">
+			<heading>To the chief Musician, Al-taschith, Michtam of David, when he fled from Saul in the cave.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Be merciful 
+				<crossref let="b" cid="c190571.1"/>
+				 unto me, O God, be merciful unto me: for my soul trusteth in thee: yea, in the shadow of thy wings will I make my refuge, until these calamities be overpast.
+			</v>
+			<marker class="begin-verse" mid="v19057002"/>
+			<v n="2">
+				I will 
+				<crossref let="c" cid="c190572.1"/>
+				 cry unto God most high; unto God that performeth all things for me.
+			</v>
+			<marker class="begin-verse" mid="v19057003"/>
+			<v n="3">
+				He shall 
+				<crossref let="d" cid="c190573.1"/>
+				 send from heaven, and save me from the reproach of him that would swallow me up. Selah. God shall send forth his mercy and his truth.
+			</v>
+			<marker class="begin-verse" mid="v19057004"/>
+			<v n="4">
+				My soul 
+				<crossref let="e" cid="c190574.1"/>
+				 is among lions: and I lie even among them that are set on fire, even the sons of men, whose teeth are spears and arrows, and their tongue a sharp sword.
+			</v>
+			<marker class="begin-verse" mid="v19057005"/>
+			<v n="5">
+				Be thou 
+				<crossref let="f" cid="c190575.1"/>
+				 exalted, O God, above the heavens; let thy glory be above all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19057006"/>
+			<v n="6">
+				They have 
+				<crossref let="g" cid="c190576.1"/>
+				 prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen themselves. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19057007"/>
+			<v n="7">
+				My heart 
+				<crossref let="h" cid="c190577.1"/>
+				 is fixed, O God, my heart is fixed: I will sing and give praise.
+			</v>
+			<marker class="begin-verse" mid="v19057008"/>
+			<v n="8">
+				Awake up, 
+				<crossref let="i" cid="c190578.1"/>
+				 my glory; awake, psaltery and harp: I myself will awake early.
+			</v>
+			<marker class="begin-verse" mid="v19057009"/>
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c190579.1"/>
+				 praise thee, O Lord, among the people: I will sing unto thee among the nations.
+			</v>
+			<marker class="begin-verse" mid="v19057010"/>
+			<v n="10">
+				For thy 
+				<crossref let="k" cid="c1905710.1"/>
+				 mercy is great unto the heavens, and thy truth unto the clouds.
+			</v>
+			<marker class="begin-verse" mid="v19057011"/>
+			<v n="11">
+				Be thou 
+				<crossref let="l" cid="c1905711.1"/>
+				 exalted, O God, above the heavens: let thy glory be above all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19057012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

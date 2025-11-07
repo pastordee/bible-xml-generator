@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:02:37.797011</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:02:37.797044</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="WEB" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23035001"/>
+		<chapter num="35">
+			<begin-paragraph/>
+			<v n="1">
+				The wilderness 
+				<crossref let="b" cid="c230351.1"/>
+				 and the dry land will be glad.The desert will rejoice and blossom like a rose.
+			</v>
+			<marker class="begin-verse" mid="v23035002"/>
+			<v n="2">
+				It will 
+				<crossref let="c" cid="c230352.1"/>
+				 blossom abundantly,and rejoice even with joy and singing.Lebanon’s glory will be given to it,the excellence of Carmel and Sharon.They will see Yahweh’s glory,the excellence of our God.
+			</v>
+			<marker class="begin-verse" mid="v23035003"/>
+			<v n="3">
+				Strengthen the 
+				<crossref let="d" cid="c230353.1"/>
+				 weak hands,and make the feeble knees firm.
+			</v>
+			<marker class="begin-verse" mid="v23035004"/>
+			<v n="4">
+				Tell those 
+				<crossref let="e" cid="c230354.1"/>
+				 who have a fearful heart, “Be strong!Don’t be afraid!Behold, your God will come with vengeance, God’s retribution.He will come and save you.
+			</v>
+			<marker class="begin-verse" mid="v23035005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c230355.1"/>
+				 eyes of the blind will be opened,and the ears of the deaf will be unstopped.
+			</v>
+			<marker class="begin-verse" mid="v23035006"/>
+			<v n="6">
+				Then the 
+				<crossref let="g" cid="c230356.1"/>
+				 lame man will leap like a deer,and the tongue of the mute will sing;for waters will break out in the wilderness,and streams in the desert.
+			</v>
+			<marker class="begin-verse" mid="v23035007"/>
+			<v n="7">
+				The burning 
+				<crossref let="h" cid="c230357.1"/>
+				 sand will become a pool,and the thirsty ground springs of water.Grass with reeds and rushes will be in the habitation of jackals, where they lay.
+			</v>
+			<marker class="begin-verse" mid="v23035008"/>
+			<v n="8">
+				A highway 
+				<crossref let="i" cid="c230358.1"/>
+				 will be there, a road,and it will be called “The Holy Way”.The unclean shall not pass over it,but it will be for those who walk in the Way.Wicked fools shall not go there.
+			</v>
+			<marker class="begin-verse" mid="v23035009"/>
+			<v n="9">
+				No lion 
+				<crossref let="j" cid="c230359.1"/>
+				 will be there,nor will any ravenous animal go up on it.They will not be found there;but the redeemed will walk there.
+			</v>
+			<marker class="begin-verse" mid="v23035010"/>
+			<v n="10">
+				Then Yahweh’s 
+				<crossref let="k" cid="c2303510.1"/>
+				 ransomed ones will return,and come with singing to Zion;and everlasting joy will be on their heads.They will obtain gladness and joy,and sorrow and sighing will flee away.”
+			</v>
+			<marker class="begin-verse" mid="v23035011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

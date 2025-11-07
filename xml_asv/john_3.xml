@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:12:59.871525</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:12:59.871563</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" version="ASV" bookAbbr="jhn">
+		<marker class="begin-verse" mid="v43003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				Now there 
+				<crossref let="b" cid="c430031.1"/>
+				 was a man of the Pharisees, named Nicodemus, a ruler of the Jews:
+			</v>
+			<marker class="begin-verse" mid="v43003002"/>
+			<v n="2">
+				the same 
+				<crossref let="c" cid="c430032.1"/>
+				 came unto him by night, and said to him, Rabbi, we know that thou art a teacher come from God; for no one can do these signs that thou doest, except God be with him.
+			</v>
+			<marker class="begin-verse" mid="v43003003"/>
+			<v n="3">
+				Jesus answered 
+				<crossref let="d" cid="c430033.1"/>
+				 and said unto him, Verily, verily, I say unto thee, Except one be born anew, he cannot see the kingdom of God.
+			</v>
+			<marker class="begin-verse" mid="v43003004"/>
+			<v n="4">
+				Nicodemus saith 
+				<crossref let="e" cid="c430034.1"/>
+				 unto him, How can a man be born when he is old? can he enter a second time into his mother’s womb, and be born?
+			</v>
+			<marker class="begin-verse" mid="v43003005"/>
+			<v n="5">
+				Jesus answered, 
+				<crossref let="f" cid="c430035.1"/>
+				 Verily, verily, I say unto thee, Except one be born of water and the Spirit, he cannot enter into the kingdom of God.
+			</v>
+			<marker class="begin-verse" mid="v43003006"/>
+			<v n="6">
+				That which 
+				<crossref let="g" cid="c430036.1"/>
+				 is born of the flesh is flesh; and that which is born of the Spirit is spirit.
+			</v>
+			<marker class="begin-verse" mid="v43003007"/>
+			<v n="7">
+				Marvel not 
+				<crossref let="h" cid="c430037.1"/>
+				 that I said unto thee, Ye must be born anew.
+			</v>
+			<marker class="begin-verse" mid="v43003008"/>
+			<v n="8">
+				The wind 
+				<crossref let="i" cid="c430038.1"/>
+				 bloweth where it will, and thou hearest the voice thereof, but knowest not whence it cometh, and whither it goeth: so is every one that is born of the Spirit.
+			</v>
+			<marker class="begin-verse" mid="v43003009"/>
+			<v n="9">
+				Nicodemus answered 
+				<crossref let="j" cid="c430039.1"/>
+				 and said unto him, How can these things be?
+			</v>
+			<marker class="begin-verse" mid="v43003010"/>
+			<v n="10">
+				Jesus answered 
+				<crossref let="k" cid="c4300310.1"/>
+				 and said unto him, Art thou the teacher of Israel, and understandest not these things?
+			</v>
+			<marker class="begin-verse" mid="v43003011"/>
+			<v n="11">
+				Verily, verily, 
+				<crossref let="l" cid="c4300311.1"/>
+				 I say unto thee, We speak that which we know, and bear witness of that which we have seen; and ye receive not our witness.
+			</v>
+			<marker class="begin-verse" mid="v43003012"/>
+			<v n="12">
+				If I 
+				<crossref let="m" cid="c4300312.1"/>
+				 told you earthly things and ye believe not, how shall ye believe if I tell you heavenly things?
+			</v>
+			<marker class="begin-verse" mid="v43003013"/>
+			<v n="13">
+				And no 
+				<crossref let="n" cid="c4300313.1"/>
+				 one hath ascended into heaven, but he that descended out of heaven, even the Son of man, who is in heaven.
+			</v>
+			<marker class="begin-verse" mid="v43003014"/>
+			<v n="14">
+				And as 
+				<crossref let="o" cid="c4300314.1"/>
+				 Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up;
+			</v>
+			<marker class="begin-verse" mid="v43003015"/>
+			<v n="15">
+				that whosoever 
+				<crossref let="p" cid="c4300315.1"/>
+				 believeth may in him have eternal life.
+			</v>
+			<marker class="begin-verse" mid="v43003016"/>
+			<v n="16">
+				For God 
+				<crossref let="q" cid="c4300316.1"/>
+				 so loved the world, that he gave his only begotten Son, that whosoever believeth on him should not perish, but have eternal life.
+			</v>
+			<marker class="begin-verse" mid="v43003017"/>
+			<v n="17">
+				For God 
+				<crossref let="r" cid="c4300317.1"/>
+				 sent not the Son into the world to judge the world; but that the world should be saved through him.
+			</v>
+			<marker class="begin-verse" mid="v43003018"/>
+			<v n="18">
+				He that 
+				<crossref let="s" cid="c4300318.1"/>
+				 believeth on him is not judged: he that believeth not hath been judged already, because he hath not believed on the name of the only begotten Son of God.
+			</v>
+			<marker class="begin-verse" mid="v43003019"/>
+			<v n="19">
+				And this 
+				<crossref let="t" cid="c4300319.1"/>
+				 is the judgment, that the light is come into the world, and men loved the darkness rather than the light; for their works were evil.
+			</v>
+			<marker class="begin-verse" mid="v43003020"/>
+			<v n="20">
+				For every 
+				<crossref let="u" cid="c4300320.1"/>
+				 one that doeth evil hateth the light, and cometh not to the light, lest his works should be reproved.
+			</v>
+			<marker class="begin-verse" mid="v43003021"/>
+			<v n="21">
+				But he 
+				<crossref let="v" cid="c4300321.1"/>
+				 that doeth the truth cometh to the light, that his works may be made manifest, that they have been wrought in God.
+			</v>
+			<marker class="begin-verse" mid="v43003022"/>
+			<v n="22">
+				After these 
+				<crossref let="w" cid="c4300322.1"/>
+				 things came Jesus and his disciples into the land of Judæa; and there he tarried with them, and baptized.
+			</v>
+			<marker class="begin-verse" mid="v43003023"/>
+			<v n="23">
+				And John 
+				<crossref let="x" cid="c4300323.1"/>
+				 also was baptizing in Ænon near to Salim, because there was much water there: and they came, and were baptized.
+			</v>
+			<marker class="begin-verse" mid="v43003024"/>
+			<v n="24">
+				For John 
+				<crossref let="y" cid="c4300324.1"/>
+				 was not yet cast into prison.
+			</v>
+			<marker class="begin-verse" mid="v43003025"/>
+			<v n="25">
+				There arose 
+				<crossref let="z" cid="c4300325.1"/>
+				 therefore a questioning on the part of John’s disciples with a Jew about purifying.
+			</v>
+			<marker class="begin-verse" mid="v43003026"/>
+			<v n="26">
+				And they 
+				<crossref let="a" cid="c4300326.1"/>
+				 came unto John, and said to him, Rabbi, he that was with thee beyond the Jordan, to whom thou hast borne witness, behold, the same baptizeth, and all men come to him.
+			</v>
+			<marker class="begin-verse" mid="v43003027"/>
+			<v n="27">
+				John answered 
+				<crossref let="b" cid="c4300327.1"/>
+				 and said, A man can receive nothing, except it have been given him from heaven.
+			</v>
+			<marker class="begin-verse" mid="v43003028"/>
+			<v n="28">
+				Ye yourselves 
+				<crossref let="c" cid="c4300328.1"/>
+				 bear me witness, that I said, I am not the Christ, but, that I am sent before him.
+			</v>
+			<marker class="begin-verse" mid="v43003029"/>
+			<v n="29">
+				He that 
+				<crossref let="d" cid="c4300329.1"/>
+				 hath the bride is the bridegroom: but the friend of the bridegroom, that standeth and heareth him, rejoiceth greatly because of the bridegroom’s voice: this my joy therefore is made full.
+			</v>
+			<marker class="begin-verse" mid="v43003030"/>
+			<v n="30">
+				He must 
+				<crossref let="e" cid="c4300330.1"/>
+				 increase, but I must decrease.
+			</v>
+			<marker class="begin-verse" mid="v43003031"/>
+			<v n="31">
+				He that 
+				<crossref let="f" cid="c4300331.1"/>
+				 cometh from above is above all: he that is of the earth is of the earth, and of the earth he speaketh: he that cometh from heaven is above all.
+			</v>
+			<marker class="begin-verse" mid="v43003032"/>
+			<v n="32">
+				What he 
+				<crossref let="g" cid="c4300332.1"/>
+				 hath seen and heard, of that he beareth witness; and no man receiveth his witness.
+			</v>
+			<marker class="begin-verse" mid="v43003033"/>
+			<v n="33">
+				He that 
+				<crossref let="h" cid="c4300333.1"/>
+				 hath received his witness hath set his seal to this, that God is true.
+			</v>
+			<marker class="begin-verse" mid="v43003034"/>
+			<v n="34">
+				For he 
+				<crossref let="i" cid="c4300334.1"/>
+				 whom God hath sent speaketh the words of God: for he giveth not the Spirit by measure.
+			</v>
+			<marker class="begin-verse" mid="v43003035"/>
+			<v n="35">
+				The Father 
+				<crossref let="j" cid="c4300335.1"/>
+				 loveth the Son, and hath given all things into his hand.
+			</v>
+			<marker class="begin-verse" mid="v43003036"/>
+			<v n="36">
+				He that 
+				<crossref let="k" cid="c4300336.1"/>
+				 believeth on the Son hath eternal life; but he that obeyeth not the Son shall not see life, but the wrath of God abideth on him.
+			</v>
+			<marker class="begin-verse" mid="v43003037"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

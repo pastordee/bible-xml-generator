@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:40:57.293525</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:40:57.293550</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="MSG" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66010001"/>
+		<chapter num="10">
+			<begin-paragraph/>
+			<v n="1">
+				Then I 
+				<crossref let="b" cid="c660101.1"/>
+				 saw another powerful angel descending from heaven, with a cloud wrapped around him and with a rainbow over his head. His face looked like the sun, and his feet like pillars of fire.
+			</v>
+			<marker class="begin-verse" mid="v66010002"/>
+			<v n="2">
+				He was 
+				<crossref let="c" cid="c660102.1"/>
+				 holding a small scroll that had already been opened. He placed his right foot on the sea, and his left foot on the land.
+			</v>
+			<marker class="begin-verse" mid="v66010003"/>
+			<v n="3">
+				He gave 
+				<crossref let="d" cid="c660103.1"/>
+				 a great shout, like a lion roaring. When he shouted, the seven thunders responded.
+			</v>
+			<marker class="begin-verse" mid="v66010004"/>
+			<v n="4">
+				When the 
+				<crossref let="e" cid="c660104.1"/>
+				 seven thunders spoke, I was about to write down what they said when I heard a voice from heaven that told me, “Keep under seal what the seven thunders said. Don't write them down.”
+			</v>
+			<marker class="begin-verse" mid="v66010005"/>
+			<v n="5">
+				The angel 
+				<crossref let="f" cid="c660105.1"/>
+				 I saw standing on the sea and on the land held up his right hand to heaven.
+			</v>
+			<marker class="begin-verse" mid="v66010006"/>
+			<v n="6">
+				He made 
+				<crossref let="g" cid="c660106.1"/>
+				 a sacred oath by the one who lives for ever and ever, who created the heavens and everything in them, and the earth and everything in it, and the sea and everything in it. “No more delay!” he said.
+			</v>
+			<marker class="begin-verse" mid="v66010007"/>
+			<v n="7">
+				But at 
+				<crossref let="h" cid="c660107.1"/>
+				 the time when the seventh angel speaks, when he blows his trumpet, then the mystery of God will be completed—the good news he announced through his servants the prophets.
+			</v>
+			<marker class="begin-verse" mid="v66010008"/>
+			<v n="8">
+				Then I 
+				<crossref let="i" cid="c660108.1"/>
+				 heard again the voice from heaven telling me, “Go and take the scroll that is open in the hand of the angel that stands on the sea and on the land.”
+			</v>
+			<marker class="begin-verse" mid="v66010009"/>
+			<v n="9">
+				So I 
+				<crossref let="j" cid="c660109.1"/>
+				 went to the angel, and asked him to give me the little scroll. He said to me, “Take it and eat it up. It will be sour in your stomach, but sweet as honey in your mouth.”
+			</v>
+			<marker class="begin-verse" mid="v66010010"/>
+			<v n="10">
+				I took 
+				<crossref let="k" cid="c6601010.1"/>
+				 the little scroll from the angel and ate it up. In my mouth it was as sweet as honey, but it was sour in my stomach.
+			</v>
+			<marker class="begin-verse" mid="v66010011"/>
+			<v n="11">
+				I was 
+				<crossref let="l" cid="c6601011.1"/>
+				 told, “You must prophesy again regarding many peoples, nations, languages, and kings.”
+			</v>
+			<marker class="begin-verse" mid="v66010012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

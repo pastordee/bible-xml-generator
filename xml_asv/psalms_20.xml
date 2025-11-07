@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:28:42.744795</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:28:42.744809</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19020001"/>
+		<chapter num="20">
+			<heading>For the Chief Musician. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Jehovah answer 
+				<crossref let="b" cid="c190201.1"/>
+				 thee in the day of trouble;The name of the God of Jacob set thee up on high;
+			</v>
+			<marker class="begin-verse" mid="v19020002"/>
+			<v n="2">
+				Send thee 
+				<crossref let="c" cid="c190202.1"/>
+				 help from the sanctuary,And strengthen thee out of Zion;
+			</v>
+			<marker class="begin-verse" mid="v19020003"/>
+			<v n="3">
+				Remember all 
+				<crossref let="d" cid="c190203.1"/>
+				 thy offerings,And accept thy burnt-sacrifice; [Selah
+			</v>
+			<marker class="begin-verse" mid="v19020004"/>
+			<v n="4">
+				Grant thee 
+				<crossref let="e" cid="c190204.1"/>
+				 thy heart’s desire,And fulfil all thy counsel.
+			</v>
+			<marker class="begin-verse" mid="v19020005"/>
+			<v n="5">
+				We will 
+				<crossref let="f" cid="c190205.1"/>
+				 triumph in thy salvation,And in the name of our God we will set up our banners:Jehovah fulfil all thy petitions.
+			</v>
+			<marker class="begin-verse" mid="v19020006"/>
+			<v n="6">
+				Now know 
+				<crossref let="g" cid="c190206.1"/>
+				 I that Jehovah saveth his anointed;He will answer him from his holy heavenWith the saving strength of his right hand.
+			</v>
+			<marker class="begin-verse" mid="v19020007"/>
+			<v n="7">
+				Some trust 
+				<crossref let="h" cid="c190207.1"/>
+				 in chariots, and some in horses;But we will make mention of the name of Jehovah our God.
+			</v>
+			<marker class="begin-verse" mid="v19020008"/>
+			<v n="8">
+				They are 
+				<crossref let="i" cid="c190208.1"/>
+				 bowed down and fallen;But we are risen, and stand upright.
+			</v>
+			<marker class="begin-verse" mid="v19020009"/>
+			<v n="9">
+				Save, Jehovah:Let 
+				<crossref let="j" cid="c190209.1"/>
+				 the King answer us when we call.
+			</v>
+			<marker class="begin-verse" mid="v19020010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

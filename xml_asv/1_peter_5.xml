@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:26:49.099041</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:26:49.099062</next_refresh_due>
+	</generation_info>
+	<book title="1 Peter" num="60" testament="new" version="ASV" bookAbbr="1pe">
+		<marker class="begin-verse" mid="v60005001"/>
+		<chapter num="5">
+			<begin-paragraph/>
+			<v n="1">
+				The elders 
+				<crossref let="b" cid="c600051.1"/>
+				 therefore among you I exhort, who am a fellow-elder, and a witness of the sufferings of Christ, who am also a partaker of the glory that shall be revealed:
+			</v>
+			<marker class="begin-verse" mid="v60005002"/>
+			<v n="2">
+				Tend the 
+				<crossref let="c" cid="c600052.1"/>
+				 flock of God which is among you, exercising the oversight, not of constraint, but willingly, according to the will of God; nor yet for filthy lucre, but of a ready mind;
+			</v>
+			<marker class="begin-verse" mid="v60005003"/>
+			<v n="3">
+				neither as 
+				<crossref let="d" cid="c600053.1"/>
+				 lording it over the charge allotted to you, but making yourselves ensamples to the flock.
+			</v>
+			<marker class="begin-verse" mid="v60005004"/>
+			<v n="4">
+				And when 
+				<crossref let="e" cid="c600054.1"/>
+				 the chief Shepherd shall be manifested, ye shall receive the crown of glory that fadeth not away.
+			</v>
+			<marker class="begin-verse" mid="v60005005"/>
+			<v n="5">
+				Likewise, ye 
+				<crossref let="f" cid="c600055.1"/>
+				 younger, be subject unto the elder. Yea, all of you gird yourselves with humility, to serve one another: for God resisteth the proud, but giveth grace to the humble.
+			</v>
+			<marker class="begin-verse" mid="v60005006"/>
+			<v n="6">
+				Humble yourselves 
+				<crossref let="g" cid="c600056.1"/>
+				 therefore under the mighty hand of God, that he may exalt you in due time;
+			</v>
+			<marker class="begin-verse" mid="v60005007"/>
+			<v n="7">
+				casting all 
+				<crossref let="h" cid="c600057.1"/>
+				 your anxiety upon him, because he careth for you.
+			</v>
+			<marker class="begin-verse" mid="v60005008"/>
+			<v n="8">
+				Be sober, 
+				<crossref let="i" cid="c600058.1"/>
+				 be watchful: your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:
+			</v>
+			<marker class="begin-verse" mid="v60005009"/>
+			<v n="9">
+				whom withstand 
+				<crossref let="j" cid="c600059.1"/>
+				 stedfast in your faith, knowing that the same sufferings are accomplished in your brethren who are in the world.
+			</v>
+			<marker class="begin-verse" mid="v60005010"/>
+			<v n="10">
+				And the 
+				<crossref let="k" cid="c6000510.1"/>
+				 God of all grace, who called you unto his eternal glory in Christ, after that ye have suffered a little while, shall himself perfect, establish, strengthen you.
+			</v>
+			<marker class="begin-verse" mid="v60005011"/>
+			<v n="11">
+				To him 
+				<crossref let="l" cid="c6000511.1"/>
+				 be the dominion for ever and ever. Amen.
+			</v>
+			<marker class="begin-verse" mid="v60005012"/>
+			<v n="12">
+				By Silvanus, 
+				<crossref let="m" cid="c6000512.1"/>
+				 our faithful brother, as I account him, I have written unto you briefly, exhorting, and testifying that this is the true grace of God: stand ye fast therein.
+			</v>
+			<marker class="begin-verse" mid="v60005013"/>
+			<v n="13">
+				She that 
+				<crossref let="n" cid="c6000513.1"/>
+				 is in Babylon, elect together with you, saluteth you; and so doth Mark my son.
+			</v>
+			<marker class="begin-verse" mid="v60005014"/>
+			<v n="14">
+				Salute one 
+				<crossref let="o" cid="c6000514.1"/>
+				 another with a kiss of love.Peace be unto you all that are in Christ.
+			</v>
+			<marker class="begin-verse" mid="v60005015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

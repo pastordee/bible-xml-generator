@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:35:47.426175</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:35:47.426200</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23064001"/>
+		<chapter num="64">
+			<begin-paragraph/>
+			<v n="1">
+				Oh, that 
+				<crossref let="b" cid="c230641.1"/>
+				 You would rend the heavens!That You would come down!That the mountains might shake at Your presence—
+			</v>
+			<marker class="begin-verse" mid="v23064002"/>
+			<v n="2">
+				As fire 
+				<crossref let="c" cid="c230642.1"/>
+				 burns brushwood,As fire causes water to boil—To make Your name known to Your adversaries,That the nations may tremble at Your presence!
+			</v>
+			<marker class="begin-verse" mid="v23064003"/>
+			<v n="3">
+				When You 
+				<crossref let="d" cid="c230643.1"/>
+				 did awesome things for which we did not look,You came down,The mountains shook at Your presence.
+			</v>
+			<marker class="begin-verse" mid="v23064004"/>
+			<v n="4">
+				For since 
+				<crossref let="e" cid="c230644.1"/>
+				 the beginning of the worldMen have not heard nor perceived by the ear,Nor has the eye seen any God besides You,Who acts for the one who waits for Him.
+			</v>
+			<marker class="begin-verse" mid="v23064005"/>
+			<v n="5">
+				You meet 
+				<crossref let="f" cid="c230645.1"/>
+				 him who rejoices and does righteousness,Who remembers You in Your ways.You are indeed angry, for we have sinned—In these ways we continue;And we need to be saved.
+			</v>
+			<marker class="begin-verse" mid="v23064006"/>
+			<v n="6">
+				But we 
+				<crossref let="g" cid="c230646.1"/>
+				 are all like an unclean thing,And all our righteousnesses are like filthy rags;We all fade as a leaf,And our iniquities, like the wind,Have taken us away.
+			</v>
+			<marker class="begin-verse" mid="v23064007"/>
+			<v n="7">
+				And there 
+				<crossref let="h" cid="c230647.1"/>
+				 is no one who calls on Your name,Who stirs himself up to take hold of You;For You have hidden Your face from us,And have consumed us because of our iniquities.
+			</v>
+			<marker class="begin-verse" mid="v23064008"/>
+			<v n="8">
+				But now, 
+				<crossref let="i" cid="c230648.1"/>
+				 O Lord,You are our Father;We are the clay, and You our potter;And all we are the work of Your hand.
+			</v>
+			<marker class="begin-verse" mid="v23064009"/>
+			<v n="9">
+				Do not 
+				<crossref let="j" cid="c230649.1"/>
+				 be furious, O Lord,Nor remember iniquity forever;Indeed, please look—we all are Your people!
+			</v>
+			<marker class="begin-verse" mid="v23064010"/>
+			<v n="10">
+				Your holy 
+				<crossref let="k" cid="c2306410.1"/>
+				 cities are a wilderness,Zion is a wilderness,Jerusalem a desolation.
+			</v>
+			<marker class="begin-verse" mid="v23064011"/>
+			<v n="11">
+				Our holy 
+				<crossref let="l" cid="c2306411.1"/>
+				 and beautiful temple,Where our fathers praised You,Is burned up with fire;And all our pleasant things are laid waste.
+			</v>
+			<marker class="begin-verse" mid="v23064012"/>
+			<v n="12">
+				Will You 
+				<crossref let="m" cid="c2306412.1"/>
+				 restrain Yourself because of these things, O Lord?Will You hold Your peace, and afflict us very severely?
+			</v>
+			<marker class="begin-verse" mid="v23064013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

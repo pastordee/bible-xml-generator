@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:27:03.868025</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:27:03.868058</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" version="KJV" bookAbbr="num">
+		<marker class="begin-verse" mid="v04036001"/>
+		<chapter num="36">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c040361.1"/>
+				 chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
+			</v>
+			<marker class="begin-verse" mid="v04036002"/>
+			<v n="2">
+				And they 
+				<crossref let="c" cid="c040362.1"/>
+				 said, The LORD commanded my lord to give the land for an inheritance by lot to the children of Israel: and my lord was commanded by the LORD to give the inheritance of Zelophehad our brother unto his daughters.
+			</v>
+			<marker class="begin-verse" mid="v04036003"/>
+			<v n="3">
+				And if 
+				<crossref let="d" cid="c040363.1"/>
+				 they be married to any of the sons of the other tribes of the children of Israel, then shall their inheritance be taken from the inheritance of our fathers, and shall be put to the inheritance of the tribe whereunto they are received: so shall it be taken from the lot of our inheritance.
+			</v>
+			<marker class="begin-verse" mid="v04036004"/>
+			<v n="4">
+				And when 
+				<crossref let="e" cid="c040364.1"/>
+				 the jubile of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.
+			</v>
+			<marker class="begin-verse" mid="v04036005"/>
+			<v n="5">
+				And Moses 
+				<crossref let="f" cid="c040365.1"/>
+				 commanded the children of Israel according to the word of the LORD, saying, The tribe of the sons of Joseph hath said well.
+			</v>
+			<marker class="begin-verse" mid="v04036006"/>
+			<v n="6">
+				This is 
+				<crossref let="g" cid="c040366.1"/>
+				 the thing which the LORD doth command concerning the daughters of Zelophehad, saying, Let them marry to whom they think best; only to the family of the tribe of their father shall they marry.
+			</v>
+			<marker class="begin-verse" mid="v04036007"/>
+			<v n="7">
+				So shall 
+				<crossref let="h" cid="c040367.1"/>
+				 not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.
+			</v>
+			<marker class="begin-verse" mid="v04036008"/>
+			<v n="8">
+				And every 
+				<crossref let="i" cid="c040368.1"/>
+				 daughter, that possesseth an inheritance in any tribe of the children of Israel, shall be wife unto one of the family of the tribe of her father, that the children of Israel may enjoy every man the inheritance of his fathers.
+			</v>
+			<marker class="begin-verse" mid="v04036009"/>
+			<v n="9">
+				Neither shall 
+				<crossref let="j" cid="c040369.1"/>
+				 the inheritance remove from one tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance.
+			</v>
+			<marker class="begin-verse" mid="v04036010"/>
+			<v n="10">
+				Even as 
+				<crossref let="k" cid="c0403610.1"/>
+				 the LORD commanded Moses, so did the daughters of Zelophehad:
+			</v>
+			<marker class="begin-verse" mid="v04036011"/>
+			<v n="11">
+				For Mahlah, 
+				<crossref let="l" cid="c0403611.1"/>
+				 Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father’s brothers’ sons:
+			</v>
+			<marker class="begin-verse" mid="v04036012"/>
+			<v n="12">
+				And they 
+				<crossref let="m" cid="c0403612.1"/>
+				 were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.
+			</v>
+			<marker class="begin-verse" mid="v04036013"/>
+			<v n="13">
+				These are 
+				<crossref let="n" cid="c0403613.1"/>
+				 the commandments and the judgments, which the LORD commanded by the hand of Moses unto the children of Israel in the plains of Moab by Jordan near Jericho.
+			</v>
+			<marker class="begin-verse" mid="v04036014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

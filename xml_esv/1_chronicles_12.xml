@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:30:59.898243</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:30:59.898252</next_refresh_due>
+	</generation_info>
+	<book title="1 Chronicles" num="13" testament="old" bookAbbr="1ch" version="ESV">
+		<marker class="begin-verse" mid="v13012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				1 Chronicles 12
+			</heading>
+			<heading>
+				The Mighty Men Join David
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Now these 
+				<crossref let="b" cid="c13012001.1">
+				</crossref>
+				are the, 
+				<crossref let="c" cid="c13012001.2">
+				</crossref>
+				men who came to David at Ziklag, while he could not move about freely because of Saul the son of Kish. And they were among the mighty men who helped him in war.
+			</v>
+			<marker class="begin-verse" mid="v13012002">
+			</marker>
+			<v n="2">
+				They were 
+				<crossref let="d" cid="c13012002.3">
+				</crossref>
+				bowmen and, 
+				<crossref let="e" cid="c13012002.4">
+				</crossref>
+				could shoot arrows and sling stones with either the right or the left hand; they were Benjaminites, Saul’s kinsmen.
+			</v>
+			<marker class="begin-verse" mid="v13012003">
+			</marker>
+			<v n="3">
+				The chief 
+				<crossref let="f" cid="c13012003.5">
+				</crossref>
+				was Ahiezer,, 
+				<crossref let="g" cid="c13012003.6">
+				</crossref>
+				then Joash, both sons of Shemaah of Gibeah; also Jeziel and Pelet, the sons of Azmaveth; Beracah, Jehu of Anathoth,
+				<note nid="n13012003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012004">
+			</marker>
+			<v n="4">
+				Ishmaiah of 
+				<crossref let="h" cid="c13012004.7">
+				</crossref>
+				Gibeon, a, 
+				<crossref let="i" cid="c13012004.8">
+				</crossref>
+				mighty man among the thirty and a leader over the thirty; Jeremiah,(1) Jahaziel, Johanan, Jozabad of Gederah,
+			</v>
+			<marker class="begin-verse" mid="v13012005">
+			</marker>
+			<v n="5">
+				Eluzai,(2) Jerimoth, 
+				<crossref let="j" cid="c13012005.9">
+				</crossref>
+				Bealiah, Shemariah,, 
+				<crossref let="k" cid="c13012005.10">
+				</crossref>
+				Shephatiah the Haruphite;
+			</v>
+			<marker class="begin-verse" mid="v13012006">
+			</marker>
+			<v n="6">
+				Elkanah, Isshiah, 
+				<crossref let="l" cid="c13012006.11">
+				</crossref>
+				Azarel, Joezer,, 
+				<crossref let="m" cid="c13012006.12">
+				</crossref>
+				and Jashobeam, the Korahites;
+				<note nid="n13012006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012007">
+			</marker>
+			<v n="7">
+				And Joelah 
+				<crossref let="n" cid="c13012007.13">
+				</crossref>
+				and Zebadiah,, 
+				<crossref let="o" cid="c13012007.14">
+				</crossref>
+				the sons of Jeroham of Gedor.
+			</v>
+			<marker class="begin-verse" mid="v13012008">
+			</marker>
+			<v n="8">
+				From the 
+				<crossref let="p" cid="c13012008.15">
+				</crossref>
+				Gadites there, 
+				<crossref let="q" cid="c13012008.16">
+				</crossref>
+				went over to David at the stronghold in the wilderness mighty and experienced warriors, expert with shield and spear, whose faces were like the faces of lions and who were swift as gazelles upon the mountains:
+			</v>
+			<marker class="begin-verse" mid="v13012009">
+			</marker>
+			<v n="9">
+				Ezer the 
+				<crossref let="r" cid="c13012009.17">
+				</crossref>
+				chief, Obadiah, 
+				<crossref let="s" cid="c13012009.18">
+				</crossref>
+				second, Eliab third,
+				<note nid="n13012009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012010">
+			</marker>
+			<v n="10">
+				Mishmannah fourth, 
+				<crossref let="t" cid="c13012010.19">
+				</crossref>
+				Jeremiah fifth,
+			</v>
+			<marker class="begin-verse" mid="v13012011">
+			</marker>
+			<v n="11">
+				Attai sixth, 
+				<crossref let="v" cid="c13012011.21">
+				</crossref>
+				Eliel seventh,
+			</v>
+			<marker class="begin-verse" mid="v13012012">
+			</marker>
+			<v n="12">
+				Johanan eighth, 
+				<crossref let="x" cid="c13012012.23">
+				</crossref>
+				Elzabad ninth,
+				<note nid="n13012012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012013">
+			</marker>
+			<v n="13">
+				Jeremiah tenth, 
+				<crossref let="z" cid="c13012013.25">
+				</crossref>
+				Machbannai eleventh.
+			</v>
+			<marker class="begin-verse" mid="v13012014">
+			</marker>
+			<v n="14">
+				These Gadites 
+				<crossref let="b" cid="c13012014.27">
+				</crossref>
+				were officers, 
+				<crossref let="c" cid="c13012014.28">
+				</crossref>
+				of the army; the least was a match for a hundred men and the greatest for a thousand.
+			</v>
+			<marker class="begin-verse" mid="v13012015">
+			</marker>
+			<v n="15">
+				These are 
+				<crossref let="d" cid="c13012015.29">
+				</crossref>
+				the men, 
+				<crossref let="e" cid="c13012015.30">
+				</crossref>
+				who crossed the Jordan in the first month, when it was overflowing all its banks, and put to flight all those in the valleys, to the east and to the west.
+				<note nid="n13012015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012016">
+			</marker>
+			<v n="16">
+				And some 
+				<crossref let="f" cid="c13012016.31">
+				</crossref>
+				of the, 
+				<crossref let="g" cid="c13012016.32">
+				</crossref>
+				men of Benjamin and Judah came to the stronghold to David.
+			</v>
+			<marker class="begin-verse" mid="v13012017">
+			</marker>
+			<v n="17">
+				David went 
+				<crossref let="h" cid="c13012017.33">
+				</crossref>
+				out to, 
+				<crossref let="i" cid="c13012017.34">
+				</crossref>
+				meet them and said to them, “If you have come to me in friendship to help me, my heart will be joined to you; but if to betray me to my adversaries, although there is no wrong in my hands, then may the God of our fathers see and rebuke you.”
+			</v>
+			<marker class="begin-verse" mid="v13012018">
+			</marker>
+			<v n="18" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Then the 
+					<crossref let="j" cid="c13012018.35">
+				</crossref>
+					Spirit clothed, 
+					<crossref let="k" cid="c13012018.36">
+				</crossref>
+				Amasai, chief of the thirty, and he said, “We are yours, O David, and with you, O son of Jesse! Peace, peace to you, and peace to your helpers! For your God helps you.” Then David received them and made them officers of his troops.
+					<note nid="n13012018.18">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v13012019">
+			</marker>
+			<v n="19">
+				Some of 
+				<crossref let="l" cid="c13012019.37">
+				</crossref>
+				the men, 
+				<crossref let="m" cid="c13012019.38">
+				</crossref>
+				of Manasseh deserted to David when he came with the Philistines for the battle against Saul. (Yet he did not help them, for the rulers of the Philistines took counsel and sent him away, saying, “At peril to our heads he will desert to his master Saul.”)
+			</v>
+			<marker class="begin-verse" mid="v13012020">
+			</marker>
+			<v n="20">
+				As he 
+				<crossref let="n" cid="c13012020.39">
+				</crossref>
+				went to, 
+				<crossref let="o" cid="c13012020.40">
+				</crossref>
+				Ziklag, these men of Manasseh deserted to him: Adnah, Jozabad, Jediael, Michael, Jozabad, Elihu, and Zillethai, chiefs of thousands in Manasseh.
+			</v>
+			<marker class="begin-verse" mid="v13012021">
+			</marker>
+			<v n="21">
+				They helped 
+				<crossref let="p" cid="c13012021.41">
+				</crossref>
+				David against, 
+				<crossref let="q" cid="c13012021.42">
+				</crossref>
+				the band of raiders, for they were all mighty men of valor and were commanders in the army.
+				<note nid="n13012021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012022">
+			</marker>
+			<v n="22">
+				For from 
+				<crossref let="r" cid="c13012022.43">
+				</crossref>
+				day to, 
+				<crossref let="s" cid="c13012022.44">
+				</crossref>
+				day men came to David to help him, until there was a great army, like an army of God.
+			</v>
+			<marker class="begin-verse" mid="v13012023">
+			</marker>
+			<v n="23">
+				These are 
+				<crossref let="t" cid="c13012023.45">
+				</crossref>
+				the numbers, 
+				<crossref let="u" cid="c13012023.46">
+				</crossref>
+				of the divisions of the armed troops who came to David in Hebron to turn the kingdom of Saul over to him, according to the word of the LORD.
+			</v>
+			<marker class="begin-verse" mid="v13012024">
+			</marker>
+			<v n="24">
+				The men 
+				<crossref let="v" cid="c13012024.47">
+				</crossref>
+				of Judah, 
+				<crossref let="w" cid="c13012024.48">
+				</crossref>
+				bearing shield and spear were 6,800 armed troops.
+				<note nid="n13012024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012025">
+			</marker>
+			<v n="25">
+				Of the 
+				<crossref let="x" cid="c13012025.49">
+				</crossref>
+				Simeonites, mighty, 
+				<crossref let="y" cid="c13012025.50">
+				</crossref>
+				men of valor for war, 7,100.
+			</v>
+			<marker class="begin-verse" mid="v13012026">
+			</marker>
+			<v n="26">
+				Of the 
+				<crossref let="z" cid="c13012026.51">
+				</crossref>
+				Levites 4,600.
+			</v>
+			<marker class="begin-verse" mid="v13012027">
+			</marker>
+			<v n="27">
+				The prince 
+				<crossref let="b" cid="c13012027.53">
+				</crossref>
+				Jehoiada, of, 
+				<crossref let="c" cid="c13012027.54">
+				</crossref>
+				the house of Aaron, and with him 3,700.
+				<note nid="n13012027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012028">
+			</marker>
+			<v n="28">
+				Zadok, a 
+				<crossref let="d" cid="c13012028.55">
+				</crossref>
+				young man, 
+				<crossref let="e" cid="c13012028.56">
+				</crossref>
+				mighty in valor, and twenty-two commanders from his own fathers’ house.
+			</v>
+			<marker class="begin-verse" mid="v13012029">
+			</marker>
+			<v n="29">
+				Of the 
+				<crossref let="f" cid="c13012029.57">
+				</crossref>
+				Benjaminites, the, 
+				<crossref let="g" cid="c13012029.58">
+				</crossref>
+				kinsmen of Saul, 3,000, of whom the majority had to that point kept their allegiance to the house of Saul.
+			</v>
+			<marker class="begin-verse" mid="v13012030">
+			</marker>
+			<v n="30">
+				Of the 
+				<crossref let="h" cid="c13012030.59">
+				</crossref>
+				Ephraimites 20,800,, 
+				<crossref let="i" cid="c13012030.60">
+				</crossref>
+				mighty men of valor, famous men in their fathers’ houses.
+				<note nid="n13012030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012031">
+			</marker>
+			<v n="31">
+				Of the 
+				<crossref let="j" cid="c13012031.61">
+				</crossref>
+				half-tribe of, 
+				<crossref let="k" cid="c13012031.62">
+				</crossref>
+				Manasseh 18,000, who were expressly named to come and make David king.
+			</v>
+			<marker class="begin-verse" mid="v13012032">
+			</marker>
+			<v n="32">
+				Of Issachar, 
+				<crossref let="l" cid="c13012032.63">
+				</crossref>
+				men who, 
+				<crossref let="m" cid="c13012032.64">
+				</crossref>
+				had understanding of the times, to know what Israel ought to do, 200 chiefs, and all their kinsmen under their command.
+			</v>
+			<marker class="begin-verse" mid="v13012033">
+			</marker>
+			<v n="33">
+				Of Zebulun 
+				<crossref let="n" cid="c13012033.65">
+				</crossref>
+				50,000 seasoned, 
+				<crossref let="o" cid="c13012033.66">
+				</crossref>
+				troops, equipped for battle with all the weapons of war, to help David(3) with singleness of purpose.
+				<note nid="n13012033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012034">
+			</marker>
+			<v n="34">
+				Of Naphtali 
+				<crossref let="p" cid="c13012034.67">
+				</crossref>
+				1,000 commanders, 
+				<crossref let="q" cid="c13012034.68">
+				</crossref>
+				with whom were 37,000 men armed with shield and spear.
+			</v>
+			<marker class="begin-verse" mid="v13012035">
+			</marker>
+			<v n="35">
+				Of the 
+				<crossref let="r" cid="c13012035.69">
+				</crossref>
+				Danites 28,600, 
+				<crossref let="s" cid="c13012035.70">
+				</crossref>
+				men equipped for battle.
+			</v>
+			<marker class="begin-verse" mid="v13012036">
+			</marker>
+			<v n="36">
+				Of Asher 
+				<crossref let="t" cid="c13012036.71">
+				</crossref>
+				40,000 seasoned, 
+				<crossref let="u" cid="c13012036.72">
+				</crossref>
+				troops ready for battle.
+				<note nid="n13012036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012037">
+			</marker>
+			<v n="37">
+				Of the 
+				<crossref let="v" cid="c13012037.73">
+				</crossref>
+				Reubenites and, 
+				<crossref let="w" cid="c13012037.74">
+				</crossref>
+				Gadites and the half-tribe of Manasseh from beyond the Jordan, 120,000 men armed with all the weapons of war.
+			</v>
+			<marker class="begin-verse" mid="v13012038">
+			</marker>
+			<v n="38">
+				All these, 
+				<crossref let="x" cid="c13012038.75">
+				</crossref>
+				men of, 
+				<crossref let="y" cid="c13012038.76">
+				</crossref>
+				war, arrayed in battle order, came to Hebron with a whole heart to make David king over all Israel. Likewise, all the rest of Israel were of a single mind to make David king.
+			</v>
+			<marker class="begin-verse" mid="v13012039">
+			</marker>
+			<v n="39">
+				And they 
+				<crossref let="z" cid="c13012039.77">
+				</crossref>
+				were there, 
+				<crossref let="a" cid="c13012039.78">
+				</crossref>
+				with David for three days, eating and drinking, for their brothers had made preparation for them.
+				<note nid="n13012039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13012040">
+			</marker>
+			<v n="40">
+				And also 
+				<crossref let="b" cid="c13012040.79">
+				</crossref>
+				their relatives,, 
+				<crossref let="c" cid="c13012040.80">
+				</crossref>
+				from as far as Issachar and Zebulun and Naphtali, came bringing food on donkeys and on camels and on mules and on oxen, abundant provisions of flour, cakes of figs, clusters of raisins, and wine and oil, oxen and sheep, for there was joy in Israel. Footnotes (1) 12:4 Hebrew verse 5 (2) 12:5 Hebrew verse 6 (3) 12:33 Septuagint; Hebrew lacks *David* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v13012041">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:04:11.457623</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:04:11.457631</next_refresh_due>
+	</generation_info>
+	<book title="Micah" num="33" testament="old" version="ASV" bookAbbr="mic">
+		<marker class="begin-verse" mid="v33005001"/>
+		<chapter num="5">
+			<begin-paragraph/>
+			<v n="1">
+				Now shalt 
+				<crossref let="b" cid="c330051.1"/>
+				 thou gather thyself in troops, O daughter of troops: he hath laid siege against us; they shall smite the judge of Israel with a rod upon the cheek.
+			</v>
+			<marker class="begin-verse" mid="v33005002"/>
+			<v n="2">
+				But thou, 
+				<crossref let="c" cid="c330052.1"/>
+				 Beth-lehem Ephrathah, which art little to be among the thousands of Judah, out of thee shall one come forth unto me that is to be ruler in Israel; whose goings forth are from of old, from everlasting.
+			</v>
+			<marker class="begin-verse" mid="v33005003"/>
+			<v n="3">
+				Therefore will 
+				<crossref let="d" cid="c330053.1"/>
+				 he give them up, until the time that she who travaileth hath brought forth: then the residue of his brethren shall return unto the children of Israel.
+			</v>
+			<marker class="begin-verse" mid="v33005004"/>
+			<v n="4">
+				And he 
+				<crossref let="e" cid="c330054.1"/>
+				 shall stand, and shall feed his flock in the strength of Jehovah, in the majesty of the name of Jehovah his God: and they shall abide; for now shall he be great unto the ends of the earth.
+			</v>
+			<marker class="begin-verse" mid="v33005005"/>
+			<v n="5">
+				And this 
+				<crossref let="f" cid="c330055.1"/>
+				 man shall be our peace. When the Assyrian shall come into our land, and when he shall tread in our palaces, then shall we raise against him seven shepherds, and eight principal men.
+			</v>
+			<marker class="begin-verse" mid="v33005006"/>
+			<v n="6">
+				And they 
+				<crossref let="g" cid="c330056.1"/>
+				 shall waste the land of Assyria with the sword, and the land of Nimrod in the entrances thereof: and he shall deliver us from the Assyrian, when he cometh into our land, and when he treadeth within our border.
+			</v>
+			<marker class="begin-verse" mid="v33005007"/>
+			<v n="7">
+				And the 
+				<crossref let="h" cid="c330057.1"/>
+				 remnant of Jacob shall be in the midst of many peoples as dew from Jehovah, as showers upon the grass, that tarry not for man, nor wait for the sons of men.
+			</v>
+			<marker class="begin-verse" mid="v33005008"/>
+			<v n="8">
+				And the 
+				<crossref let="i" cid="c330058.1"/>
+				 remnant of Jacob shall be among the nations, in the midst of many peoples, as a lion among the beasts of the forest, as a young lion among the flocks of sheep; who, if he go through, treadeth down and teareth in pieces, and there is none to deliver.
+			</v>
+			<marker class="begin-verse" mid="v33005009"/>
+			<v n="9">
+				Let thy 
+				<crossref let="j" cid="c330059.1"/>
+				 hand be lifted up above thine adversaries, and let all thine enemies be cut off.
+			</v>
+			<marker class="begin-verse" mid="v33005010"/>
+			<v n="10">
+				And it 
+				<crossref let="k" cid="c3300510.1"/>
+				 shall come to pass in that day, saith Jehovah, that I will cut off thy horses out of the midst of thee, and will destroy thy chariots:
+			</v>
+			<marker class="begin-verse" mid="v33005011"/>
+			<v n="11">
+				and I 
+				<crossref let="l" cid="c3300511.1"/>
+				 will cut off the cities of thy land, and will throw down all thy strongholds.
+			</v>
+			<marker class="begin-verse" mid="v33005012"/>
+			<v n="12">
+				And I 
+				<crossref let="m" cid="c3300512.1"/>
+				 will cut off witchcrafts out of thy hand; and thou shalt have no more soothsayers:
+			</v>
+			<marker class="begin-verse" mid="v33005013"/>
+			<v n="13">
+				and I 
+				<crossref let="n" cid="c3300513.1"/>
+				 will cut off thy graven images and thy pillars out of the midst of thee; and thou shalt no more worship the work of thy hands;
+			</v>
+			<marker class="begin-verse" mid="v33005014"/>
+			<v n="14">
+				and I 
+				<crossref let="o" cid="c3300514.1"/>
+				 will pluck up thine Asherim out of the midst of thee; and I will destroy thy cities.
+			</v>
+			<marker class="begin-verse" mid="v33005015"/>
+			<v n="15">
+				And I 
+				<crossref let="p" cid="c3300515.1"/>
+				 will execute vengeance in anger and wrath upon the nations which hearkened not.
+			</v>
+			<marker class="begin-verse" mid="v33005016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:31.730050</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:31.730074</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19015001">
+		</marker>
+		<chapter num="15">
+			<heading>
+				Psalm 15
+			</heading>
+			<heading>
+				Who Shall Dwell on Your Holy Hill?
+			</heading>
+			<heading>
+				A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				O LORD, 
+				<crossref let="b" cid="c19015001.1">
+				</crossref>
+				who shall, 
+				<crossref let="c" cid="c19015001.2">
+				</crossref>
+				sojourn in your tent? Who shall dwell on your holy hill?
+			</v>
+			<marker class="begin-verse" mid="v19015002">
+			</marker>
+			<v n="2">
+				He who 
+				<crossref let="d" cid="c19015002.3">
+				</crossref>
+				walks blamelessly, 
+				<crossref let="e" cid="c19015002.4">
+				</crossref>
+				and does what is right and speaks truth in his heart;
+			</v>
+			<marker class="begin-verse" mid="v19015003">
+			</marker>
+			<v n="3">
+				who does 
+				<crossref let="f" cid="c19015003.5">
+				</crossref>
+				not slander, 
+				<crossref let="g" cid="c19015003.6">
+				</crossref>
+				with his tongue and does no evil to his neighbor, nor takes up a reproach against his friend;
+				<note nid="n19015003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19015004">
+			</marker>
+			<v n="4">
+				in whose 
+				<crossref let="h" cid="c19015004.7">
+				</crossref>
+				eyes a, 
+				<crossref let="i" cid="c19015004.8">
+				</crossref>
+				vile person is despised, but who honors those who fear the LORD; who swears to his own hurt and does not change;
+			</v>
+			<marker class="begin-verse" mid="v19015005">
+			</marker>
+			<v n="5">
+				who does 
+				<crossref let="j" cid="c19015005.9">
+				</crossref>
+				not put, 
+				<crossref let="k" cid="c19015005.10">
+				</crossref>
+				out his money at interest and does not take a bribe against the innocent. He who does these things shall never be moved. (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19015006">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

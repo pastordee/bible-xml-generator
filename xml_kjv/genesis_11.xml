@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:18:37.288466</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:18:37.288488</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="KJV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01011001"/>
+		<chapter num="11">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c010111.1"/>
+				 whole earth was of one language, and of one speech.
+			</v>
+			<marker class="begin-verse" mid="v01011002"/>
+			<v n="2">
+				And it 
+				<crossref let="c" cid="c010112.1"/>
+				 came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.
+			</v>
+			<marker class="begin-verse" mid="v01011003"/>
+			<v n="3">
+				And they 
+				<crossref let="d" cid="c010113.1"/>
+				 said one to another, Go to, let us make brick, and burn them throughly. And they had brick for stone, and slime had they for morter.
+			</v>
+			<marker class="begin-verse" mid="v01011004"/>
+			<v n="4">
+				And they 
+				<crossref let="e" cid="c010114.1"/>
+				 said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.
+			</v>
+			<marker class="begin-verse" mid="v01011005"/>
+			<v n="5">
+				And the 
+				<crossref let="f" cid="c010115.1"/>
+				 LORD came down to see the city and the tower, which the children of men builded.
+			</v>
+			<marker class="begin-verse" mid="v01011006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c010116.1"/>
+				 LORD said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do.
+			</v>
+			<marker class="begin-verse" mid="v01011007"/>
+			<v n="7">
+				Go to, 
+				<crossref let="h" cid="c010117.1"/>
+				 let us go down, and there confound their language, that they may not understand one another’s speech.
+			</v>
+			<marker class="begin-verse" mid="v01011008"/>
+			<v n="8">
+				So the 
+				<crossref let="i" cid="c010118.1"/>
+				 LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city.
+			</v>
+			<marker class="begin-verse" mid="v01011009"/>
+			<v n="9">
+				Therefore is 
+				<crossref let="j" cid="c010119.1"/>
+				 the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth.
+			</v>
+			<marker class="begin-verse" mid="v01011010"/>
+			<v n="10">
+				¶ These 
+				<crossref let="k" cid="c0101110.1"/>
+				 are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:
+			</v>
+			<marker class="begin-verse" mid="v01011011"/>
+			<v n="11">
+				And Shem 
+				<crossref let="l" cid="c0101111.1"/>
+				 lived after he begat Arphaxad five hundred years, and begat sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01011012"/>
+			<v n="12">
+				And Arphaxad 
+				<crossref let="m" cid="c0101112.1"/>
+				 lived five and thirty years, and begat Salah:
+			</v>
+			<marker class="begin-verse" mid="v01011013"/>
+			<v n="13">
+				And Arphaxad 
+				<crossref let="n" cid="c0101113.1"/>
+				 lived after he begat Salah four hundred and three years, and begat sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01011014"/>
+			<v n="14">
+				And Salah 
+				<crossref let="o" cid="c0101114.1"/>
+				 lived thirty years, and begat Eber:
+			</v>
+			<marker class="begin-verse" mid="v01011015"/>
+			<v n="15">
+				And Salah 
+				<crossref let="p" cid="c0101115.1"/>
+				 lived after he begat Eber four hundred and three years, and begat sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01011016"/>
+			<v n="16">
+				And Eber 
+				<crossref let="q" cid="c0101116.1"/>
+				 lived four and thirty years, and begat Peleg:
+			</v>
+			<marker class="begin-verse" mid="v01011017"/>
+			<v n="17">
+				And Eber 
+				<crossref let="r" cid="c0101117.1"/>
+				 lived after he begat Peleg four hundred and thirty years, and begat sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01011018"/>
+			<v n="18">
+				And Peleg 
+				<crossref let="s" cid="c0101118.1"/>
+				 lived thirty years, and begat Reu:
+			</v>
+			<marker class="begin-verse" mid="v01011019"/>
+			<v n="19">
+				And Peleg 
+				<crossref let="t" cid="c0101119.1"/>
+				 lived after he begat Reu two hundred and nine years, and begat sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01011020"/>
+			<v n="20">
+				And Reu 
+				<crossref let="u" cid="c0101120.1"/>
+				 lived two and thirty years, and begat Serug:
+			</v>
+			<marker class="begin-verse" mid="v01011021"/>
+			<v n="21">
+				And Reu 
+				<crossref let="v" cid="c0101121.1"/>
+				 lived after he begat Serug two hundred and seven years, and begat sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01011022"/>
+			<v n="22">
+				And Serug 
+				<crossref let="w" cid="c0101122.1"/>
+				 lived thirty years, and begat Nahor:
+			</v>
+			<marker class="begin-verse" mid="v01011023"/>
+			<v n="23">
+				And Serug 
+				<crossref let="x" cid="c0101123.1"/>
+				 lived after he begat Nahor two hundred years, and begat sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01011024"/>
+			<v n="24">
+				And Nahor 
+				<crossref let="y" cid="c0101124.1"/>
+				 lived nine and twenty years, and begat Terah:
+			</v>
+			<marker class="begin-verse" mid="v01011025"/>
+			<v n="25">
+				And Nahor 
+				<crossref let="z" cid="c0101125.1"/>
+				 lived after he begat Terah an hundred and nineteen years, and begat sons and daughters.
+			</v>
+			<marker class="begin-verse" mid="v01011026"/>
+			<v n="26">
+				And Terah 
+				<crossref let="a" cid="c0101126.1"/>
+				 lived seventy years, and begat Abram, Nahor, and Haran.
+			</v>
+			<marker class="begin-verse" mid="v01011027"/>
+			<v n="27">
+				¶ Now 
+				<crossref let="b" cid="c0101127.1"/>
+				 these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot.
+			</v>
+			<marker class="begin-verse" mid="v01011028"/>
+			<v n="28">
+				And Haran 
+				<crossref let="c" cid="c0101128.1"/>
+				 died before his father Terah in the land of his nativity, in Ur of the Chaldees.
+			</v>
+			<marker class="begin-verse" mid="v01011029"/>
+			<v n="29">
+				And Abram 
+				<crossref let="d" cid="c0101129.1"/>
+				 and Nahor took them wives: the name of Abram’s wife was Sarai; and the name of Nahor’s wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.
+			</v>
+			<marker class="begin-verse" mid="v01011030"/>
+			<v n="30">
+				But Sarai 
+				<crossref let="e" cid="c0101130.1"/>
+				 was barren; she had no child.
+			</v>
+			<marker class="begin-verse" mid="v01011031"/>
+			<v n="31">
+				And Terah 
+				<crossref let="f" cid="c0101131.1"/>
+				 took Abram his son, and Lot the son of Haran his son’s son, and Sarai his daughter in law, his son Abram’s wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there.
+			</v>
+			<marker class="begin-verse" mid="v01011032"/>
+			<v n="32">
+				And the 
+				<crossref let="g" cid="c0101132.1"/>
+				 days of Terah were two hundred and five years: and Terah died in Haran.
+			</v>
+			<marker class="begin-verse" mid="v01011033"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

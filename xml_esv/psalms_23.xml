@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:33.881797</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:33.881807</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19023001">
+		</marker>
+		<chapter num="23">
+			<heading>
+				Psalm 23
+			</heading>
+			<heading>
+				The LORD Is My Shepherd
+			</heading>
+			<heading>
+				A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c19023001.1">
+				</crossref>
+				is my, 
+				<crossref let="c" cid="c19023001.2">
+				</crossref>
+				shepherd; I shall not want.
+			</v>
+			<marker class="begin-verse" mid="v19023002">
+			</marker>
+			<v n="2">
+				He makes 
+				<crossref let="d" cid="c19023002.3">
+				</crossref>
+				me lie, 
+				<crossref let="e" cid="c19023002.4">
+				</crossref>
+				down in green pastures. He leads me beside still waters.(1)
+			</v>
+			<marker class="begin-verse" mid="v19023003">
+			</marker>
+			<v n="3">
+				He restores 
+				<crossref let="f" cid="c19023003.5">
+				</crossref>
+				my soul., 
+				<crossref let="g" cid="c19023003.6">
+				</crossref>
+				He leads me in paths of righteousness(2) for his name’s sake.
+				<note nid="n19023003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19023004">
+			</marker>
+			<v n="4">
+				Even though 
+				<crossref let="h" cid="c19023004.7">
+				</crossref>
+				I walk, 
+				<crossref let="i" cid="c19023004.8">
+				</crossref>
+				through the valley of the shadow of death,(3) I will fear no evil, for you are with me; your rod and your staff, they comfort me.
+			</v>
+			<marker class="begin-verse" mid="v19023005">
+			</marker>
+			<v n="5">
+				You prepare 
+				<crossref let="j" cid="c19023005.9">
+				</crossref>
+				a table, 
+				<crossref let="k" cid="c19023005.10">
+				</crossref>
+				before me in the presence of my enemies; you anoint my head with oil; my cup overflows.
+			</v>
+			<marker class="begin-verse" mid="v19023006">
+			</marker>
+			<v n="6">
+				Surely(4) goodness 
+				<crossref let="l" cid="c19023006.11">
+				</crossref>
+				and mercy(5), 
+				<crossref let="m" cid="c19023006.12">
+				</crossref>
+				shall follow me all the days of my life, and I shall dwell(6) in the house of the LORD forever.(7) Footnotes (1) 23:2 Hebrew *beside waters of rest* (2) 23:3 Or *in right paths* (3) 23:4 Or *the valley of deep darkness* (4) 23:6 Or *Only* (5) 23:6 Or *steadfast love* (6) 23:6 Or *shall return to dwell* (7) 23:6 Hebrew *for length of days* (ESV)
+				<note nid="n19023006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19023007">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

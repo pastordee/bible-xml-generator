@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:25:08.100899</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:25:08.100915</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19146001"/>
+		<chapter num="146">
+			<heading>Praise the LORD, O My Soul</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Hallelujah! Praise 
+				<crossref let="b" cid="c191461.1"/>
+				 the LORD, O my soul.
+			</v>
+			<marker class="begin-verse" mid="v19146002"/>
+			<v n="2">
+				I will 
+				<crossref let="c" cid="c191462.1"/>
+				 praise the LORD all my life;I will sing praises to my God while I have my being.
+			</v>
+			<marker class="begin-verse" mid="v19146003"/>
+			<v n="3">
+				Put not 
+				<crossref let="d" cid="c191463.1"/>
+				 your trust in princes,in mortal man, who cannot save.
+			</v>
+			<marker class="begin-verse" mid="v19146004"/>
+			<v n="4">
+				When his 
+				<crossref let="e" cid="c191464.1"/>
+				 spirit departs, he returns to the ground;on that very day his plans perish.
+			</v>
+			<marker class="begin-verse" mid="v19146005"/>
+			<v n="5">
+				Blessed is 
+				<crossref let="f" cid="c191465.1"/>
+				 he whose help is the God of Jacob,whose hope is in the LORD his God,
+			</v>
+			<marker class="begin-verse" mid="v19146006"/>
+			<v n="6">
+				the Maker 
+				<crossref let="g" cid="c191466.1"/>
+				 of heaven and earth,the sea, and everything in them.He remains faithful forever.
+			</v>
+			<marker class="begin-verse" mid="v19146007"/>
+			<v n="7">
+				He executes 
+				<crossref let="h" cid="c191467.1"/>
+				 justice for the oppressedand gives food to the hungry.The LORD sets the prisoners free,
+			</v>
+			<marker class="begin-verse" mid="v19146008"/>
+			<v n="8">
+				the LORD 
+				<crossref let="i" cid="c191468.1"/>
+				 opens the eyes of the blind,the LORD lifts those who are weighed down,the LORD loves the righteous.
+			</v>
+			<marker class="begin-verse" mid="v19146009"/>
+			<v n="9">
+				The LORD 
+				<crossref let="j" cid="c191469.1"/>
+				 protects foreigners;He sustains the fatherless and the widow,but the ways of the wicked He frustrates.
+			</v>
+			<marker class="begin-verse" mid="v19146010"/>
+			<v n="10">
+				The LORD 
+				<crossref let="k" cid="c1914610.1"/>
+				 reigns forever,your God, O Zion, for all generations.Hallelujah!
+			</v>
+			<marker class="begin-verse" mid="v19146011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:38:10.011690</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:38:10.011698</next_refresh_due>
+	</generation_info>
+	<book title="2 Thessalonians" num="53" testament="new" version="WEB" bookAbbr="2th">
+		<marker class="begin-verse" mid="v53001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				Paul, Silvanus, 
+				<crossref let="b" cid="c530011.1"/>
+				 and Timothy, to the assembly of the Thessalonians in God our Father and the Lord Jesus Christ:
+			</v>
+			<marker class="begin-verse" mid="v53001002"/>
+			<v n="2">
+				Grace to 
+				<crossref let="c" cid="c530012.1"/>
+				 you and peace from God our Father and the Lord Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v53001003"/>
+			<v n="3">
+				We are 
+				<crossref let="d" cid="c530013.1"/>
+				 bound to always give thanks to God for you, brothers, even as it is appropriate, because your faith grows exceedingly, and the love of each and every one of you toward one another abounds,
+			</v>
+			<marker class="begin-verse" mid="v53001004"/>
+			<v n="4">
+				so that 
+				<crossref let="e" cid="c530014.1"/>
+				 we ourselves boast about you in the assemblies of God for your perseverance and faith in all your persecutions and in the afflictions which you endure.
+			</v>
+			<marker class="begin-verse" mid="v53001005"/>
+			<v n="5">
+				This is 
+				<crossref let="f" cid="c530015.1"/>
+				 an obvious sign of the righteous judgment of God, to the end that you may be counted worthy of God’s Kingdom, for which you also suffer.
+			</v>
+			<marker class="begin-verse" mid="v53001006"/>
+			<v n="6">
+				For it 
+				<crossref let="g" cid="c530016.1"/>
+				 is a righteous thing with God to repay affliction to those who afflict you,
+			</v>
+			<marker class="begin-verse" mid="v53001007"/>
+			<v n="7">
+				and to 
+				<crossref let="h" cid="c530017.1"/>
+				 give relief to you who are afflicted with us when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire,
+			</v>
+			<marker class="begin-verse" mid="v53001008"/>
+			<v n="8">
+				punishing those 
+				<crossref let="i" cid="c530018.1"/>
+				 who don’t know God, and to those who don’t obey the Good News of our Lord Jesus,
+			</v>
+			<marker class="begin-verse" mid="v53001009"/>
+			<v n="9">
+				who will 
+				<crossref let="j" cid="c530019.1"/>
+				 pay the penalty: eternal destruction from the face of the Lord and from the glory of his might,
+			</v>
+			<marker class="begin-verse" mid="v53001010"/>
+			<v n="10">
+				when he 
+				<crossref let="k" cid="c5300110.1"/>
+				 comes in that day to be glorified in his saints and to be admired among all those who have believed, because our testimony to you was believed.
+			</v>
+			<marker class="begin-verse" mid="v53001011"/>
+			<v n="11">
+				To this 
+				<crossref let="l" cid="c5300111.1"/>
+				 end we also pray always for you that our God may count you worthy of your calling, and fulfill every desire of goodness and work of faith with power,
+			</v>
+			<marker class="begin-verse" mid="v53001012"/>
+			<v n="12">
+				that the 
+				<crossref let="m" cid="c5300112.1"/>
+				 name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v53001013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

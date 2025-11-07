@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:10:38.913717</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:10:38.913733</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19140001"/>
+		<chapter num="140">
+			<heading>Psalm 140Prayer for Protection against the Wicked.To the Chief Musician. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Rescue me, 
+				<crossref let="b" cid="c191401.1"/>
+				 O Lord, from evil men;Protect me from violent men.
+			</v>
+			<marker class="begin-verse" mid="v19140002"/>
+			<v n="2">
+				They devise 
+				<crossref let="c" cid="c191402.1"/>
+				 evil things in their hearts;They continually [gather together and] stir up wars.
+			</v>
+			<marker class="begin-verse" mid="v19140003"/>
+			<v n="3">
+				They sharpen 
+				<crossref let="d" cid="c191403.1"/>
+				 their tongues like a serpent’s;Poison of a viper is under their lips. [Rom 3:13] Selah.
+			</v>
+			<marker class="begin-verse" mid="v19140004"/>
+			<v n="4">
+				¶Keep me, 
+				<crossref let="e" cid="c191404.1"/>
+				 O Lord, from the hands of the wicked;Protect me from violent menWho intend to trip up my steps.
+			</v>
+			<marker class="begin-verse" mid="v19140005"/>
+			<v n="5">
+				The proud 
+				<crossref let="f" cid="c191405.1"/>
+				 have hidden a trap for me, and cords;They have spread a net by the wayside;They have set traps for me. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19140006"/>
+			<v n="6">
+				¶I said 
+				<crossref let="g" cid="c191406.1"/>
+				 to the Lord, “You are my God;Listen to the voice of my supplications, O Lord.
+			</v>
+			<marker class="begin-verse" mid="v19140007"/>
+			<v n="7">
+				“O God 
+				<crossref let="h" cid="c191407.1"/>
+				 the Lord, the strength of my salvation,You have covered my head in the day of battle.
+			</v>
+			<marker class="begin-verse" mid="v19140008"/>
+			<v n="8">
+				“Do not 
+				<crossref let="i" cid="c191408.1"/>
+				 grant, O Lord, the desires of the wicked;Do not further their evil device, that they not be exalted. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19140009"/>
+			<v n="9">
+				¶“Those who 
+				<crossref let="j" cid="c191409.1"/>
+				 surround me raise their heads;May the mischief of their own lips come upon them.
+			</v>
+			<marker class="begin-verse" mid="v19140010"/>
+			<v n="10">
+				“Let burning 
+				<crossref let="k" cid="c1914010.1"/>
+				 coals fall upon them;Let them be thrown into the fire,Into deep [water] pits from which they cannot rise.
+			</v>
+			<marker class="begin-verse" mid="v19140011"/>
+			<v n="11">
+				“Do not 
+				<crossref let="l" cid="c1914011.1"/>
+				 let a slanderer be established in the earth;Let evil quickly hunt the violent man [to overthrow him and stop his evil acts].”
+			</v>
+			<marker class="begin-verse" mid="v19140012"/>
+			<v n="12">
+				¶I know 
+				<crossref let="m" cid="c1914012.1"/>
+				 [with confidence] that the Lord will maintain the cause of the afflicted,And [will secure] justice for the poor.
+			</v>
+			<marker class="begin-verse" mid="v19140013"/>
+			<v n="13">
+				Surely the 
+				<crossref let="n" cid="c1914013.1"/>
+				 righteous will give thanks to Your name;The upright will dwell in Your presence.
+			</v>
+			<marker class="begin-verse" mid="v19140014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:08:59.513839</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:08:59.513849</next_refresh_due>
+	</generation_info>
+	<book title="2 Thessalonians" num="53" testament="new" version="NKJV" bookAbbr="2th">
+		<marker class="begin-verse" mid="v53001001"/>
+		<chapter num="1">
+			<heading>Greeting</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Paul, Silvanus, 
+				<crossref let="b" cid="c530011.1"/>
+				 and Timothy,To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
+			</v>
+			<marker class="begin-verse" mid="v53001002"/>
+			<v n="2">
+				Grace to 
+				<crossref let="c" cid="c530012.1"/>
+				 you and peace from God our Father and the Lord Jesus Christ.God’s Final Judgment and Glory
+			</v>
+			<marker class="begin-verse" mid="v53001003"/>
+			<v n="3">
+				We are 
+				<crossref let="d" cid="c530013.1"/>
+				 bound to thank God always for you, brethren, as it is fitting, because your faith grows exceedingly, and the love of every one of you all abounds toward each other,
+			</v>
+			<marker class="begin-verse" mid="v53001004"/>
+			<v n="4">
+				so that 
+				<crossref let="e" cid="c530014.1"/>
+				 we ourselves boast of you among the churches of God for your patience and faith in all your persecutions and tribulations that you endure,
+			</v>
+			<marker class="begin-verse" mid="v53001005"/>
+			<v n="5">
+				which is 
+				<crossref let="f" cid="c530015.1"/>
+				 manifest evidence of the righteous judgment of God, that you may be counted worthy of the kingdom of God, for which you also suffer;
+			</v>
+			<marker class="begin-verse" mid="v53001006"/>
+			<v n="6">
+				since it 
+				<crossref let="g" cid="c530016.1"/>
+				 is a righteous thing with God to repay with tribulation those who trouble you,
+			</v>
+			<marker class="begin-verse" mid="v53001007"/>
+			<v n="7">
+				and to 
+				<crossref let="h" cid="c530017.1"/>
+				 give you who are troubled rest with us when the Lord Jesus is revealed from heaven with His mighty angels,
+			</v>
+			<marker class="begin-verse" mid="v53001008"/>
+			<v n="8">
+				in flaming 
+				<crossref let="i" cid="c530018.1"/>
+				 fire taking vengeance on those who do not know God, and on those who do not obey the gospel of our Lord Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v53001009"/>
+			<v n="9">
+				These shall 
+				<crossref let="j" cid="c530019.1"/>
+				 be punished with everlasting destruction from the presence of the Lord and from the glory of His power,
+			</v>
+			<marker class="begin-verse" mid="v53001010"/>
+			<v n="10">
+				when He 
+				<crossref let="k" cid="c5300110.1"/>
+				 comes, in that Day, to be glorified in His saints and to be admired among all those who believe, because our testimony among you was believed.
+			</v>
+			<marker class="begin-verse" mid="v53001011"/>
+			<v n="11">
+				Therefore we 
+				<crossref let="l" cid="c5300111.1"/>
+				 also pray always for you that our God would count you worthy of this calling, and fulfill all the good pleasure of His goodness and the work of faith with power,
+			</v>
+			<marker class="begin-verse" mid="v53001012"/>
+			<v n="12">
+				that the 
+				<crossref let="m" cid="c5300112.1"/>
+				 name of our Lord Jesus Christ may be glorified in you, and you in Him, according to the grace of our God and the Lord Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v53001013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

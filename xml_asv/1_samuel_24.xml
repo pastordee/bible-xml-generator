@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:07:39.749376</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:07:39.749395</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" version="ASV" bookAbbr="1sa">
+		<marker class="begin-verse" mid="v09024001"/>
+		<chapter num="24">
+			<begin-paragraph/>
+			<v n="1">
+				And it 
+				<crossref let="b" cid="c090241.1"/>
+				 came to pass, when Saul was returned from following the Philistines, that it was told him, saying, Behold, David is in the wilderness of En-gedi.
+			</v>
+			<marker class="begin-verse" mid="v09024002"/>
+			<v n="2">
+				Then Saul 
+				<crossref let="c" cid="c090242.1"/>
+				 took three thousand chosen men out of all Israel, and went to seek David and his men upon the rocks of the wild goats.
+			</v>
+			<marker class="begin-verse" mid="v09024003"/>
+			<v n="3">
+				And he 
+				<crossref let="d" cid="c090243.1"/>
+				 came to the sheepcotes by the way, where was a cave; and Saul went in to cover his feet. Now David and his men were abiding in the innermost parts of the cave.
+			</v>
+			<marker class="begin-verse" mid="v09024004"/>
+			<v n="4">
+				And the 
+				<crossref let="e" cid="c090244.1"/>
+				 men of David said unto him, Behold, the day of which Jehovah said unto thee, Behold, I will deliver thine enemy into thy hand, and thou shalt do to him as it shall seem good unto thee. Then David arose, and cut off the skirt of Saul’s robe privily.
+			</v>
+			<marker class="begin-verse" mid="v09024005"/>
+			<v n="5">
+				And it 
+				<crossref let="f" cid="c090245.1"/>
+				 came to pass afterward, that David’s heart smote him, because he had cut off Saul’s skirt.
+			</v>
+			<marker class="begin-verse" mid="v09024006"/>
+			<v n="6">
+				And he 
+				<crossref let="g" cid="c090246.1"/>
+				 said unto his men, Jehovah forbid that I should do this thing unto my lord, Jehovah’s anointed, to put forth my hand against him, seeing he is Jehovah’s anointed.
+			</v>
+			<marker class="begin-verse" mid="v09024007"/>
+			<v n="7">
+				So David 
+				<crossref let="h" cid="c090247.1"/>
+				 checked his men with these words, and suffered them not to rise against Saul. And Saul rose up out of the cave, and went on his way.
+			</v>
+			<marker class="begin-verse" mid="v09024008"/>
+			<v n="8">
+				David also 
+				<crossref let="i" cid="c090248.1"/>
+				 arose afterward, and went out of the cave, and cried after Saul, saying, My lord the king. And when Saul looked behind him, David bowed with his face to the earth, and did obeisance.
+			</v>
+			<marker class="begin-verse" mid="v09024009"/>
+			<v n="9">
+				And David 
+				<crossref let="j" cid="c090249.1"/>
+				 said to Saul, Wherefore hearkenest thou to men’s words, saying, Behold, David seeketh thy hurt?
+			</v>
+			<marker class="begin-verse" mid="v09024010"/>
+			<v n="10">
+				Behold, this 
+				<crossref let="k" cid="c0902410.1"/>
+				 day thine eyes have seen how that Jehovah had delivered thee to-day into my hand in the cave: and some bade me kill thee; but mine eye spared thee; and I said, I will not put forth my hand against my lord; for he is Jehovah’s anointed.
+			</v>
+			<marker class="begin-verse" mid="v09024011"/>
+			<v n="11">
+				Moreover, my 
+				<crossref let="l" cid="c0902411.1"/>
+				 father, see, yea, see the skirt of thy robe in my hand; for in that I cut off the skirt of thy robe, and killed thee not, know thou and see that there is neither evil nor transgression in my hand, and I have not sinned against thee, though thou huntest after my life to take it.
+			</v>
+			<marker class="begin-verse" mid="v09024012"/>
+			<v n="12">
+				Jehovah judge 
+				<crossref let="m" cid="c0902412.1"/>
+				 between me and thee, and Jehovah avenge me of thee; but my hand shall not be upon thee.
+			</v>
+			<marker class="begin-verse" mid="v09024013"/>
+			<v n="13">
+				As saith 
+				<crossref let="n" cid="c0902413.1"/>
+				 the proverb of the ancients, Out of the wicked cometh forth wickedness; but my hand shall not be upon thee.
+			</v>
+			<marker class="begin-verse" mid="v09024014"/>
+			<v n="14">
+				After whom 
+				<crossref let="o" cid="c0902414.1"/>
+				 is the king of Israel come out? after whom dost thou pursue? after a dead dog, after a flea.
+			</v>
+			<marker class="begin-verse" mid="v09024015"/>
+			<v n="15">
+				Jehovah therefore 
+				<crossref let="p" cid="c0902415.1"/>
+				 be judge, and give sentence between me and thee, and see, and plead my cause, and deliver me out of thy hand.
+			</v>
+			<marker class="begin-verse" mid="v09024016"/>
+			<v n="16">
+				And it 
+				<crossref let="q" cid="c0902416.1"/>
+				 came to pass, when David had made an end of speaking these words unto Saul, that Saul said, Is this thy voice, my son David? And Saul lifted up his voice, and wept.
+			</v>
+			<marker class="begin-verse" mid="v09024017"/>
+			<v n="17">
+				And he 
+				<crossref let="r" cid="c0902417.1"/>
+				 said to David, Thou art more righteous than I; for thou hast rendered unto me good, whereas I have rendered unto thee evil.
+			</v>
+			<marker class="begin-verse" mid="v09024018"/>
+			<v n="18">
+				And thou 
+				<crossref let="s" cid="c0902418.1"/>
+				 hast declared this day how that thou hast dealt well with me, forasmuch as when Jehovah had delivered me up into thy hand, thou killedst me not.
+			</v>
+			<marker class="begin-verse" mid="v09024019"/>
+			<v n="19">
+				For if 
+				<crossref let="t" cid="c0902419.1"/>
+				 a man find his enemy, will he let him go well away? wherefore Jehovah reward thee good for that which thou hast done unto me this day.
+			</v>
+			<marker class="begin-verse" mid="v09024020"/>
+			<v n="20">
+				And now, 
+				<crossref let="u" cid="c0902420.1"/>
+				 behold, I know that thou shalt surely be king, and that the kingdom of Israel shall be established in thy hand.
+			</v>
+			<marker class="begin-verse" mid="v09024021"/>
+			<v n="21">
+				Swear now 
+				<crossref let="v" cid="c0902421.1"/>
+				 therefore unto me by Jehovah, that thou wilt not cut off my seed after me, and that thou wilt not destroy my name out of my father’s house.
+			</v>
+			<marker class="begin-verse" mid="v09024022"/>
+			<v n="22">
+				And David 
+				<crossref let="w" cid="c0902422.1"/>
+				 sware unto Saul. And Saul went home; but David and his men gat them up unto the stronghold.
+			</v>
+			<marker class="begin-verse" mid="v09024023"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

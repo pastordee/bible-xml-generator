@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:47:19.488754</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:47:19.488763</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19064001"/>
+		<chapter num="64">
+			<heading>For the Chief Musician. A Psalm by David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Hear my 
+				<crossref let="b" cid="c190641.1"/>
+				 voice, God, in my complaint.Preserve my life from fear of the enemy.
+			</v>
+			<marker class="begin-verse" mid="v19064002"/>
+			<v n="2">
+				Hide me 
+				<crossref let="c" cid="c190642.1"/>
+				 from the conspiracy of the wicked,from the noisy crowd of the ones doing evil;
+			</v>
+			<marker class="begin-verse" mid="v19064003"/>
+			<v n="3">
+				who sharpen 
+				<crossref let="d" cid="c190643.1"/>
+				 their tongue like a sword,and aim their arrows, deadly words,
+			</v>
+			<marker class="begin-verse" mid="v19064004"/>
+			<v n="4">
+				to shoot 
+				<crossref let="e" cid="c190644.1"/>
+				 innocent men from ambushes.They shoot at him suddenly and fearlessly.
+			</v>
+			<marker class="begin-verse" mid="v19064005"/>
+			<v n="5">
+				They encourage 
+				<crossref let="f" cid="c190645.1"/>
+				 themselves in evil plans.They talk about laying snares secretly.They say, “Who will see them?”
+			</v>
+			<marker class="begin-verse" mid="v19064006"/>
+			<v n="6">
+				They plot 
+				<crossref let="g" cid="c190646.1"/>
+				 injustice, saying, “We have made a perfect plan!”Surely man’s mind and heart are cunning.
+			</v>
+			<marker class="begin-verse" mid="v19064007"/>
+			<v n="7">
+				But God 
+				<crossref let="h" cid="c190647.1"/>
+				 will shoot at them.They will be suddenly struck down with an arrow.
+			</v>
+			<marker class="begin-verse" mid="v19064008"/>
+			<v n="8">
+				Their own 
+				<crossref let="i" cid="c190648.1"/>
+				 tongues shall ruin them.All who see them will shake their heads.
+			</v>
+			<marker class="begin-verse" mid="v19064009"/>
+			<v n="9">
+				All mankind 
+				<crossref let="j" cid="c190649.1"/>
+				 shall be afraid.They shall declare the work of God,and shall wisely ponder what he has done.
+			</v>
+			<marker class="begin-verse" mid="v19064010"/>
+			<v n="10">
+				The righteous 
+				<crossref let="k" cid="c1906410.1"/>
+				 shall be glad in Yahweh,and shall take refuge in him.All the upright in heart shall praise him!
+			</v>
+			<marker class="begin-verse" mid="v19064011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:09:29.829394</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:09:29.829446</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19127001"/>
+		<chapter num="127">
+			<heading>Psalm 127Prosperity Comes from the Lord.A Song of Ascents. Of Solomon.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Unless the 
+				<crossref let="b" cid="c191271.1"/>
+				 Lord builds the house,They labor in vain who build it;Unless the Lord guards the city,The watchman keeps awake in vain. [Ps 121:1, 3, 5]
+			</v>
+			<marker class="begin-verse" mid="v19127002"/>
+			<v n="2">
+				It is 
+				<crossref let="c" cid="c191272.1"/>
+				 vain for you to rise early,To retire late,To eat the bread of anxious labors—For He gives [blessings] to His beloved even in his sleep.
+			</v>
+			<marker class="begin-verse" mid="v19127003"/>
+			<v n="3">
+				¶Behold, children 
+				<crossref let="d" cid="c191273.1"/>
+				 are a heritage and gift from the Lord,The fruit of the womb a reward. [Deut 28:4]
+			</v>
+			<marker class="begin-verse" mid="v19127004"/>
+			<v n="4">
+				Like arrows 
+				<crossref let="e" cid="c191274.1"/>
+				 in the hand of a warrior,So are the children of one’s youth.
+			</v>
+			<marker class="begin-verse" mid="v19127005"/>
+			<v n="5">
+				How blessed 
+				<crossref let="f" cid="c191275.1"/>
+				 [happy and fortunate] is the man whose quiver is filled with them;They will not be ashamedWhen they speak with their enemies [in gatherings] at the [city] gate.
+			</v>
+			<marker class="begin-verse" mid="v19127006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:23:32.014030</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:23:32.014065</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19128001"/>
+		<chapter num="128">
+			<heading>Blessings of Those Who Fear the LordA Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Blessed is 
+				<crossref let="b" cid="c191281.1"/>
+				 every one who fears the Lord,Who walks in His ways.
+			</v>
+			<marker class="begin-verse" mid="v19128002"/>
+			<v n="2">
+				When you 
+				<crossref let="c" cid="c191282.1"/>
+				 eat the labor of your hands,You shall be happy, and it shall be well with you.
+			</v>
+			<marker class="begin-verse" mid="v19128003"/>
+			<v n="3">
+				Your wife 
+				<crossref let="d" cid="c191283.1"/>
+				 shall be like a fruitful vineIn the very heart of your house,Your children like olive plantsAll around your table.
+			</v>
+			<marker class="begin-verse" mid="v19128004"/>
+			<v n="4">
+				Behold, thus 
+				<crossref let="e" cid="c191284.1"/>
+				 shall the man be blessedWho fears the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19128005"/>
+			<v n="5">
+				The Lord 
+				<crossref let="f" cid="c191285.1"/>
+				 bless you out of Zion,And may you see the good of JerusalemAll the days of your life.
+			</v>
+			<marker class="begin-verse" mid="v19128006"/>
+			<v n="6">
+				Yes, may 
+				<crossref let="g" cid="c191286.1"/>
+				 you see your children’s children.Peace be upon Israel!
+			</v>
+			<marker class="begin-verse" mid="v19128007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

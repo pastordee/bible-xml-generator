@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:57:52.091677</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:57:52.091689</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" bookAbbr="hos" version="ESV">
+		<marker class="begin-verse" mid="v28002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Hosea 2
+			</heading>
+			<heading>
+				Israel’s Unfaithfulness Punished
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				(1) Say 
+				<crossref let="b" cid="c28002001.1">
+				</crossref>
+				to your, 
+				<crossref let="c" cid="c28002001.2">
+				</crossref>
+				brothers, “You are my people,”(2) and to your sisters, “You have received mercy.”(3)
+			</v>
+			<marker class="begin-verse" mid="v28002002">
+			</marker>
+			<v n="2">
+				“Plead with 
+				<crossref let="d" cid="c28002002.3">
+				</crossref>
+				your mother,, 
+				<crossref let="e" cid="c28002002.4">
+				</crossref>
+				plead— for she is not my wife, and I am not her husband— that she put away her whoring from her face, and her adultery from between her breasts;
+			</v>
+			<marker class="begin-verse" mid="v28002003">
+			</marker>
+			<v n="3">
+				lest I 
+				<crossref let="f" cid="c28002003.5">
+				</crossref>
+				strip her, 
+				<crossref let="g" cid="c28002003.6">
+				</crossref>
+				naked and make her as in the day she was born, and make her like a wilderness, and make her like a parched land, and kill her with thirst.
+				<note nid="n28002003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28002004">
+			</marker>
+			<v n="4">
+				Upon her 
+				<crossref let="h" cid="c28002004.7">
+				</crossref>
+				children also, 
+				<crossref let="i" cid="c28002004.8">
+				</crossref>
+				I will have no mercy, because they are children of whoredom.
+			</v>
+			<marker class="begin-verse" mid="v28002005">
+			</marker>
+			<v n="5" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					For their 
+					<crossref let="j" cid="c28002005.9">
+				</crossref>
+					mother has, 
+					<crossref let="k" cid="c28002005.10">
+				</crossref>
+				played the whore; she who conceived them has acted shamefully. For she said, ‘I will go after my lovers, who give me my bread and my water, my wool and my flax, my oil and my drink.’
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v28002006">
+			</marker>
+			<v n="6">
+				Therefore I 
+				<crossref let="l" cid="c28002006.11">
+				</crossref>
+				will hedge, 
+				<crossref let="m" cid="c28002006.12">
+				</crossref>
+				up her(4) way with thorns, and I will build a wall against her, so that she cannot find her paths.
+				<note nid="n28002006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28002007">
+			</marker>
+			<v n="7">
+				She shall 
+				<crossref let="n" cid="c28002007.13">
+				</crossref>
+				pursue her, 
+				<crossref let="o" cid="c28002007.14">
+				</crossref>
+				lovers but not overtake them, and she shall seek them but shall not find them. Then she shall say, ‘I will go and return to my first husband, for it was better for me then than now.’
+			</v>
+			<marker class="begin-verse" mid="v28002008">
+			</marker>
+			<v n="8">
+				And she 
+				<crossref let="p" cid="c28002008.15">
+				</crossref>
+				did not, 
+				<crossref let="q" cid="c28002008.16">
+				</crossref>
+				know that it was I who gave her the grain, the wine, and the oil, and who lavished on her silver and gold, which they used for Baal.
+			</v>
+			<marker class="begin-verse" mid="v28002009">
+			</marker>
+			<v n="9">
+				Therefore I 
+				<crossref let="r" cid="c28002009.17">
+				</crossref>
+				will take, 
+				<crossref let="s" cid="c28002009.18">
+				</crossref>
+				back my grain in its time, and my wine in its season, and I will take away my wool and my flax, which were to cover her nakedness.
+				<note nid="n28002009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28002010">
+			</marker>
+			<v n="10">
+				Now I 
+				<crossref let="t" cid="c28002010.19">
+				</crossref>
+				will uncover, 
+				<crossref let="u" cid="c28002010.20">
+				</crossref>
+				her lewdness in the sight of her lovers, and no one shall rescue her out of my hand.
+			</v>
+			<marker class="begin-verse" mid="v28002011">
+			</marker>
+			<v n="11">
+				And I 
+				<crossref let="v" cid="c28002011.21">
+				</crossref>
+				will put, 
+				<crossref let="w" cid="c28002011.22">
+				</crossref>
+				an end to all her mirth, her feasts, her new moons, her Sabbaths, and all her appointed feasts.
+			</v>
+			<marker class="begin-verse" mid="v28002012">
+			</marker>
+			<v n="12" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And I 
+					<crossref let="x" cid="c28002012.23">
+				</crossref>
+					will lay, 
+					<crossref let="y" cid="c28002012.24">
+				</crossref>
+				waste her vines and her fig trees, of which she said, ‘These are my wages, which my lovers have given me.’ I will make them a forest, and the beasts of the field shall devour them.
+					<note nid="n28002012.12">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v28002013">
+			</marker>
+			<v n="13">
+				And I 
+				<crossref let="z" cid="c28002013.25">
+				</crossref>
+				will punish, 
+				<crossref let="a" cid="c28002013.26">
+				</crossref>
+				her for the feast days of the Baals when she burned offerings to them and adorned herself with her ring and jewelry, and went after her lovers and forgot me, declares the LORD. The LORD’s Mercy on Israel
+			</v>
+			<marker class="begin-verse" mid="v28002014">
+			</marker>
+			<v n="14">
+				“Therefore, behold, 
+				<crossref let="b" cid="c28002014.27">
+				</crossref>
+				I will, 
+				<crossref let="c" cid="c28002014.28">
+				</crossref>
+				allure her, and bring her into the wilderness, and speak tenderly to her.
+			</v>
+			<marker class="begin-verse" mid="v28002015">
+			</marker>
+			<v n="15">
+				And there 
+				<crossref let="d" cid="c28002015.29">
+				</crossref>
+				I will, 
+				<crossref let="e" cid="c28002015.30">
+				</crossref>
+				give her her vineyards and make the Valley of Achor(5) a door of hope. And there she shall answer as in the days of her youth, as at the time when she came out of the land of Egypt.
+				<note nid="n28002015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28002016">
+			</marker>
+			<v n="16">
+				“And in 
+				<crossref let="f" cid="c28002016.31">
+				</crossref>
+				that day,, 
+				<crossref let="g" cid="c28002016.32">
+				</crossref>
+				declares the LORD, you will call me ‘My Husband,’ and no longer will you call me ‘My Baal.’
+			</v>
+			<marker class="begin-verse" mid="v28002017">
+			</marker>
+			<v n="17">
+				For I 
+				<crossref let="h" cid="c28002017.33">
+				</crossref>
+				will remove, 
+				<crossref let="i" cid="c28002017.34">
+				</crossref>
+				the names of the Baals from her mouth, and they shall be remembered by name no more.
+			</v>
+			<marker class="begin-verse" mid="v28002018">
+			</marker>
+			<v n="18">
+				And I 
+				<crossref let="j" cid="c28002018.35">
+				</crossref>
+				will make, 
+				<crossref let="k" cid="c28002018.36">
+				</crossref>
+				for them a covenant on that day with the beasts of the field, the birds of the heavens, and the creeping things of the ground. And I will abolish(6) the bow, the sword, and war from the land, and I will make you lie down in safety.
+				<note nid="n28002018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28002019">
+			</marker>
+			<v n="19">
+				And I 
+				<crossref let="l" cid="c28002019.37">
+				</crossref>
+				will betroth, 
+				<crossref let="m" cid="c28002019.38">
+				</crossref>
+				you to me forever. I will betroth you to me in righteousness and in justice, in steadfast love and in mercy.
+			</v>
+			<marker class="begin-verse" mid="v28002020">
+			</marker>
+			<v n="20">
+				I will 
+				<crossref let="n" cid="c28002020.39">
+				</crossref>
+				betroth you, 
+				<crossref let="o" cid="c28002020.40">
+				</crossref>
+				to me in faithfulness. And you shall know the LORD.
+			</v>
+			<marker class="begin-verse" mid="v28002021">
+			</marker>
+			<v n="21">
+				“And in 
+				<crossref let="p" cid="c28002021.41">
+				</crossref>
+				that day, 
+				<crossref let="q" cid="c28002021.42">
+				</crossref>
+				I will answer, declares the LORD, I will answer the heavens, and they shall answer the earth,
+				<note nid="n28002021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28002022">
+			</marker>
+			<v n="22">
+				and the 
+				<crossref let="r" cid="c28002022.43">
+				</crossref>
+				earth shall, 
+				<crossref let="s" cid="c28002022.44">
+				</crossref>
+				answer the grain, the wine, and the oil, and they shall answer Jezreel,(7)
+			</v>
+			<marker class="begin-verse" mid="v28002023">
+			</marker>
+			<v n="23">
+				and I 
+				<crossref let="t" cid="c28002023.45">
+				</crossref>
+				will sow, 
+				<crossref let="u" cid="c28002023.46">
+				</crossref>
+				her for myself in the land. And I will have mercy on No Mercy,(8) and I will say to Not My People,(9) ‘You are my people’; and he shall say, ‘You are my God.’” Footnotes (1) 2:1 Ch 2:3 in Hebrew (2) 2:1 Hebrew *ammi*, which means *my people* (3) 2:1 Hebrew *ruhama*, which means *she has received mercy* (4) 2:6 Hebrew *your* (5) 2:15 *Achor* means *trouble*; compare Joshua 7:26 (6) 2:18 Hebrew *break* (7) 2:22 *Jezreel* means *God will sow* (8) 2:23 Hebrew *Lo-ruhama* (9) 2:23 Hebrew *Lo-ammi* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v28002024">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

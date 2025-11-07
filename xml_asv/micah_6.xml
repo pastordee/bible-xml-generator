@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:04:17.149379</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:04:17.149386</next_refresh_due>
+	</generation_info>
+	<book title="Micah" num="33" testament="old" version="ASV" bookAbbr="mic">
+		<marker class="begin-verse" mid="v33006001"/>
+		<chapter num="6">
+			<begin-paragraph/>
+			<v n="1">
+				Hear ye 
+				<crossref let="b" cid="c330061.1"/>
+				 now what Jehovah saith: Arise, contend thou before the mountains, and let the hills hear thy voice.
+			</v>
+			<marker class="begin-verse" mid="v33006002"/>
+			<v n="2">
+				Hear, O 
+				<crossref let="c" cid="c330062.1"/>
+				 ye mountains, Jehovah’s controversy, and ye enduring foundations of the earth; for Jehovah hath a controversy with his people, and he will contend with Israel.
+			</v>
+			<marker class="begin-verse" mid="v33006003"/>
+			<v n="3">
+				O my 
+				<crossref let="d" cid="c330063.1"/>
+				 people, what have I done unto thee? and wherein have I wearied thee? testify against me.
+			</v>
+			<marker class="begin-verse" mid="v33006004"/>
+			<v n="4">
+				For I 
+				<crossref let="e" cid="c330064.1"/>
+				 brought thee up out of the land of Egypt, and redeemed thee out of the house of bondage; and I sent before thee Moses, Aaron, and Miriam.
+			</v>
+			<marker class="begin-verse" mid="v33006005"/>
+			<v n="5">
+				O my 
+				<crossref let="f" cid="c330065.1"/>
+				 people, remember now what Balak king of Moab devised, and what Balaam the son of Beor answered him; remember from Shittim unto Gilgal, that ye may know the righteous acts of Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v33006006"/>
+			<v n="6">
+				Wherewith shall 
+				<crossref let="g" cid="c330066.1"/>
+				 I come before Jehovah, and bow myself before the high God? shall I come before him with burnt-offerings, with calves a year old?
+			</v>
+			<marker class="begin-verse" mid="v33006007"/>
+			<v n="7">
+				will Jehovah 
+				<crossref let="h" cid="c330067.1"/>
+				 be pleased with thousands of rams, or with ten thousands of rivers of oil? shall I give my first-born for my transgression, the fruit of my body for the sin of my soul?
+			</v>
+			<marker class="begin-verse" mid="v33006008"/>
+			<v n="8">
+				He hath 
+				<crossref let="i" cid="c330068.1"/>
+				 showed thee, O man, what is good; and what doth Jehovah require of thee, but to do justly, and to love kindness, and to walk humbly with thy God?
+			</v>
+			<marker class="begin-verse" mid="v33006009"/>
+			<v n="9">
+				The voice 
+				<crossref let="j" cid="c330069.1"/>
+				 of Jehovah crieth unto the city, and the man of wisdom will see thy name: hear ye the rod, and who hath appointed it.
+			</v>
+			<marker class="begin-verse" mid="v33006010"/>
+			<v n="10">
+				Are there 
+				<crossref let="k" cid="c3300610.1"/>
+				 yet treasures of wickedness in the house of the wicked, and a scant measure that is abominable?
+			</v>
+			<marker class="begin-verse" mid="v33006011"/>
+			<v n="11">
+				Shall I 
+				<crossref let="l" cid="c3300611.1"/>
+				 be pure with wicked balances, and with a bag of deceitful weights?
+			</v>
+			<marker class="begin-verse" mid="v33006012"/>
+			<v n="12">
+				For the 
+				<crossref let="m" cid="c3300612.1"/>
+				 rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue is deceitful in their mouth.
+			</v>
+			<marker class="begin-verse" mid="v33006013"/>
+			<v n="13">
+				Therefore I 
+				<crossref let="n" cid="c3300613.1"/>
+				 also have smitten thee with a grievous wound; I have made thee desolate because of thy sins.
+			</v>
+			<marker class="begin-verse" mid="v33006014"/>
+			<v n="14">
+				Thou shalt 
+				<crossref let="o" cid="c3300614.1"/>
+				 eat, but not be satisfied; and thy humiliation shall be in the midst of thee: and thou shalt put away, but shalt not save; and that which thou savest will I give up to the sword.
+			</v>
+			<marker class="begin-verse" mid="v33006015"/>
+			<v n="15">
+				Thou shalt 
+				<crossref let="p" cid="c3300615.1"/>
+				 sow, but shalt not reap; thou shalt tread the olives, but shalt not anoint thee with oil; and the vintage, but shalt not drink the wine.
+			</v>
+			<marker class="begin-verse" mid="v33006016"/>
+			<v n="16">
+				For the 
+				<crossref let="q" cid="c3300616.1"/>
+				 statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I may make thee a desolation, and the inhabitants thereof a hissing: and ye shall bear the reproach of my people.
+			</v>
+			<marker class="begin-verse" mid="v33006017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

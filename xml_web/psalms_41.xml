@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:45:16.381785</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:45:16.381794</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19041001"/>
+		<chapter num="41">
+			<heading>For the Chief Musician. A Psalm by David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Blessed is 
+				<crossref let="b" cid="c190411.1"/>
+				 he who considers the poor.Yahweh will deliver him in the day of evil.
+			</v>
+			<marker class="begin-verse" mid="v19041002"/>
+			<v n="2">
+				Yahweh will 
+				<crossref let="c" cid="c190412.1"/>
+				 preserve him, and keep him alive.He shall be blessed on the earth,and he will not surrender him to the will of his enemies.
+			</v>
+			<marker class="begin-verse" mid="v19041003"/>
+			<v n="3">
+				Yahweh will 
+				<crossref let="d" cid="c190413.1"/>
+				 sustain him on his sickbed,and restore him from his bed of illness.
+			</v>
+			<marker class="begin-verse" mid="v19041004"/>
+			<v n="4">
+				I said, 
+				<crossref let="e" cid="c190414.1"/>
+				 “Yahweh, have mercy on me!Heal me, for I have sinned against you.”
+			</v>
+			<marker class="begin-verse" mid="v19041005"/>
+			<v n="5">
+				My enemies 
+				<crossref let="f" cid="c190415.1"/>
+				 speak evil against me:“When will he die, and his name perish?”
+			</v>
+			<marker class="begin-verse" mid="v19041006"/>
+			<v n="6">
+				If he 
+				<crossref let="g" cid="c190416.1"/>
+				 comes to see me, he speaks falsehood.His heart gathers iniquity to itself.When he goes abroad, he tells it.
+			</v>
+			<marker class="begin-verse" mid="v19041007"/>
+			<v n="7">
+				All who 
+				<crossref let="h" cid="c190417.1"/>
+				 hate me whisper together against me.They imagine the worst for me.
+			</v>
+			<marker class="begin-verse" mid="v19041008"/>
+			<v n="8">
+				“An evil 
+				<crossref let="i" cid="c190418.1"/>
+				 disease”, they say, “has afflicted him.Now that he lies he shall rise up no more.”
+			</v>
+			<marker class="begin-verse" mid="v19041009"/>
+			<v n="9">
+				Yes, my 
+				<crossref let="j" cid="c190419.1"/>
+				 own familiar friend, in whom I trusted,who ate bread with me,has lifted up his heel against me.
+			</v>
+			<marker class="begin-verse" mid="v19041010"/>
+			<v n="10">
+				But you, 
+				<crossref let="k" cid="c1904110.1"/>
+				 Yahweh, have mercy on me, and raise me up,that I may repay them.
+			</v>
+			<marker class="begin-verse" mid="v19041011"/>
+			<v n="11">
+				By this 
+				<crossref let="l" cid="c1904111.1"/>
+				 I know that you delight in me,because my enemy doesn’t triumph over me.
+			</v>
+			<marker class="begin-verse" mid="v19041012"/>
+			<v n="12">
+				As for 
+				<crossref let="m" cid="c1904112.1"/>
+				 me, you uphold me in my integrity,and set me in your presence forever.
+			</v>
+			<marker class="begin-verse" mid="v19041013"/>
+			<v n="13">
+				Blessed be 
+				<crossref let="n" cid="c1904113.1"/>
+				 Yahweh, the God of Israel,from everlasting and to everlasting!Amen and amen.
+			</v>
+			<marker class="begin-verse" mid="v19041014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

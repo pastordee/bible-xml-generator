@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:41:17.119877</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:41:17.119885</next_refresh_due>
+	</generation_info>
+	<book title="Ezekiel" num="26" testament="old" version="NKJV" bookAbbr="ezk">
+		<marker class="begin-verse" mid="v26002001"/>
+		<chapter num="2">
+			<begin-paragraph/>
+			<v n="1">
+				And He 
+				<crossref let="b" cid="c260021.1"/>
+				 said to me, “Son of man, stand on your feet, and I will speak to you.”
+			</v>
+			<marker class="begin-verse" mid="v26002002"/>
+			<v n="2">
+				Then the 
+				<crossref let="c" cid="c260022.1"/>
+				 Spirit entered me when He spoke to me, and set me on my feet; and I heard Him who spoke to me.
+			</v>
+			<marker class="begin-verse" mid="v26002003"/>
+			<v n="3">
+				And He 
+				<crossref let="d" cid="c260023.1"/>
+				 said to me: “Son of man, I am sending you to the children of Israel, to a rebellious nation that has rebelled against Me; they and their fathers have transgressed against Me to this very day.
+			</v>
+			<marker class="begin-verse" mid="v26002004"/>
+			<v n="4">
+				For they 
+				<crossref let="e" cid="c260024.1"/>
+				 are impudent and stubborn children. I am sending you to them, and you shall say to them, ‘Thus says the Lord God.’
+			</v>
+			<marker class="begin-verse" mid="v26002005"/>
+			<v n="5">
+				As for 
+				<crossref let="f" cid="c260025.1"/>
+				 them, whether they hear or whether they refuse—for they are a rebellious house—yet they will know that a prophet has been among them.
+			</v>
+			<marker class="begin-verse" mid="v26002006"/>
+			<v n="6">
+				“And you, 
+				<crossref let="g" cid="c260026.1"/>
+				 son of man, do not be afraid of them nor be afraid of their words, though briers and thorns are with you and you dwell among scorpions; do not be afraid of their words or dismayed by their looks, though they are a rebellious house.
+			</v>
+			<marker class="begin-verse" mid="v26002007"/>
+			<v n="7">
+				You shall 
+				<crossref let="h" cid="c260027.1"/>
+				 speak My words to them, whether they hear or whether they refuse, for they are rebellious.
+			</v>
+			<marker class="begin-verse" mid="v26002008"/>
+			<v n="8">
+				But you, 
+				<crossref let="i" cid="c260028.1"/>
+				 son of man, hear what I say to you. Do not be rebellious like that rebellious house; open your mouth and eat what I give you.”
+			</v>
+			<marker class="begin-verse" mid="v26002009"/>
+			<v n="9">
+				Now when 
+				<crossref let="j" cid="c260029.1"/>
+				 I looked, there was a hand stretched out to me; and behold, a scroll of a book was in it.
+			</v>
+			<marker class="begin-verse" mid="v26002010"/>
+			<v n="10">
+				Then He 
+				<crossref let="k" cid="c2600210.1"/>
+				 spread it before me; and there was writing on the inside and on the outside, and written on it were lamentations and mourning and woe.
+			</v>
+			<marker class="begin-verse" mid="v26002011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

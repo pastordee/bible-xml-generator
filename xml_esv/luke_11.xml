@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:21.602700</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:21.602710</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42011001">
+		</marker>
+		<chapter num="11">
+			<heading>
+				Luke 11
+			</heading>
+			<heading>
+				The Lord’s Prayer
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Now Jesus(1) 
+				<crossref let="b" cid="c42011001.1">
+				</crossref>
+				was praying, 
+				<crossref let="c" cid="c42011001.2">
+				</crossref>
+				in a certain place, and when he finished, one of his disciples said to him, “Lord, teach us to pray, as John taught his disciples.”
+			</v>
+			<marker class="begin-verse" mid="v42011002">
+			</marker>
+			<v n="2" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="d" cid="c42011002.3">
+				</crossref>
+					said to, 
+					<crossref let="e" cid="c42011002.4">
+				</crossref>
+				them, “When you pray, say: “Father, hallowed be your name. Your kingdom come.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42011003">
+			</marker>
+			<v n="3">
+				Give us 
+				<crossref let="f" cid="c42011003.5">
+				</crossref>
+				each day, 
+				<crossref let="g" cid="c42011003.6">
+				</crossref>
+				our daily bread,(2)
+				<note nid="n42011003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011004">
+			</marker>
+			<v n="4">
+				and forgive 
+				<crossref let="h" cid="c42011004.7">
+				</crossref>
+				us our, 
+				<crossref let="i" cid="c42011004.8">
+				</crossref>
+				sins, for we ourselves forgive everyone who is indebted to us. And lead us not into temptation.”
+			</v>
+			<marker class="begin-verse" mid="v42011005">
+			</marker>
+			<v n="5" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="j" cid="c42011005.9">
+				</crossref>
+					said to, 
+					<crossref let="k" cid="c42011005.10">
+				</crossref>
+				them, “Which of you who has a friend will go to him at midnight and say to him, ‘Friend, lend me three loaves,
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42011006">
+			</marker>
+			<v n="6">
+				for a 
+				<crossref let="l" cid="c42011006.11">
+				</crossref>
+				friend of, 
+				<crossref let="m" cid="c42011006.12">
+				</crossref>
+				mine has arrived on a journey, and I have nothing to set before him’;
+				<note nid="n42011006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011007">
+			</marker>
+			<v n="7">
+				and he 
+				<crossref let="n" cid="c42011007.13">
+				</crossref>
+				will answer, 
+				<crossref let="o" cid="c42011007.14">
+				</crossref>
+				from within, ‘Do not bother me; the door is now shut, and my children are with me in bed. I cannot get up and give you anything’?
+			</v>
+			<marker class="begin-verse" mid="v42011008">
+			</marker>
+			<v n="8">
+				I tell 
+				<crossref let="p" cid="c42011008.15">
+				</crossref>
+				you, though, 
+				<crossref let="q" cid="c42011008.16">
+				</crossref>
+				he will not get up and give him anything because he is his friend, yet because of his impudence(3) he will rise and give him whatever he needs.
+			</v>
+			<marker class="begin-verse" mid="v42011009">
+			</marker>
+			<v n="9">
+				And I 
+				<crossref let="r" cid="c42011009.17">
+				</crossref>
+				tell you,, 
+				<crossref let="s" cid="c42011009.18">
+				</crossref>
+				ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
+				<note nid="n42011009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011010">
+			</marker>
+			<v n="10">
+				For everyone 
+				<crossref let="t" cid="c42011010.19">
+				</crossref>
+				who asks, 
+				<crossref let="u" cid="c42011010.20">
+				</crossref>
+				receives, and the one who seeks finds, and to the one who knocks it will be opened.
+			</v>
+			<marker class="begin-verse" mid="v42011011">
+			</marker>
+			<v n="11">
+				What father 
+				<crossref let="v" cid="c42011011.21">
+				</crossref>
+				among you,, 
+				<crossref let="w" cid="c42011011.22">
+				</crossref>
+				if his son asks for(4) a fish, will instead of a fish give him a serpent;
+			</v>
+			<marker class="begin-verse" mid="v42011012">
+			</marker>
+			<v n="12">
+				or if 
+				<crossref let="x" cid="c42011012.23">
+				</crossref>
+				he asks, 
+				<crossref let="y" cid="c42011012.24">
+				</crossref>
+				for an egg, will give him a scorpion?
+				<note nid="n42011012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011013">
+			</marker>
+			<v n="13">
+				If you 
+				<crossref let="z" cid="c42011013.25">
+				</crossref>
+				then, who, 
+				<crossref let="a" cid="c42011013.26">
+				</crossref>
+				are evil, know how to give good gifts to your children, how much more will the heavenly Father give the Holy Spirit to those who ask him!” Jesus and Beelzebul
+			</v>
+			<marker class="begin-verse" mid="v42011014">
+			</marker>
+			<v n="14">
+				Now he 
+				<crossref let="b" cid="c42011014.27">
+				</crossref>
+				was casting, 
+				<crossref let="c" cid="c42011014.28">
+				</crossref>
+				out a demon that was mute. When the demon had gone out, the mute man spoke, and the people marveled.
+			</v>
+			<marker class="begin-verse" mid="v42011015">
+			</marker>
+			<v n="15">
+				But some 
+				<crossref let="d" cid="c42011015.29">
+				</crossref>
+				of them, 
+				<crossref let="e" cid="c42011015.30">
+				</crossref>
+				said, “He casts out demons by Beelzebul, the prince of demons,”
+				<note nid="n42011015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011016">
+			</marker>
+			<v n="16">
+				while others, 
+				<crossref let="f" cid="c42011016.31">
+				</crossref>
+				to test, 
+				<crossref let="g" cid="c42011016.32">
+				</crossref>
+				him, kept seeking from him a sign from heaven.
+			</v>
+			<marker class="begin-verse" mid="v42011017">
+			</marker>
+			<v n="17">
+				But he, 
+				<crossref let="h" cid="c42011017.33">
+				</crossref>
+				knowing their, 
+				<crossref let="i" cid="c42011017.34">
+				</crossref>
+				thoughts, said to them, “Every kingdom divided against itself is laid waste, and a divided household falls.
+			</v>
+			<marker class="begin-verse" mid="v42011018">
+			</marker>
+			<v n="18">
+				And if 
+				<crossref let="j" cid="c42011018.35">
+				</crossref>
+				Satan also, 
+				<crossref let="k" cid="c42011018.36">
+				</crossref>
+				is divided against himself, how will his kingdom stand? For you say that I cast out demons by Beelzebul.
+				<note nid="n42011018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011019">
+			</marker>
+			<v n="19">
+				And if 
+				<crossref let="l" cid="c42011019.37">
+				</crossref>
+				I cast, 
+				<crossref let="m" cid="c42011019.38">
+				</crossref>
+				out demons by Beelzebul, by whom do your sons cast them out? Therefore they will be your judges.
+			</v>
+			<marker class="begin-verse" mid="v42011020">
+			</marker>
+			<v n="20">
+				But if 
+				<crossref let="n" cid="c42011020.39">
+				</crossref>
+				it is, 
+				<crossref let="o" cid="c42011020.40">
+				</crossref>
+				by the finger of God that I cast out demons, then the kingdom of God has come upon you.
+			</v>
+			<marker class="begin-verse" mid="v42011021">
+			</marker>
+			<v n="21">
+				When a 
+				<crossref let="p" cid="c42011021.41">
+				</crossref>
+				strong man,, 
+				<crossref let="q" cid="c42011021.42">
+				</crossref>
+				fully armed, guards his own palace, his goods are safe;
+				<note nid="n42011021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011022">
+			</marker>
+			<v n="22">
+				but when 
+				<crossref let="r" cid="c42011022.43">
+				</crossref>
+				one stronger, 
+				<crossref let="s" cid="c42011022.44">
+				</crossref>
+				than he attacks him and overcomes him, he takes away his armor in which he trusted and divides his spoil.
+			</v>
+			<marker class="begin-verse" mid="v42011023">
+			</marker>
+			<v n="23">
+				Whoever is 
+				<crossref let="t" cid="c42011023.45">
+				</crossref>
+				not with, 
+				<crossref let="u" cid="c42011023.46">
+				</crossref>
+				me is against me, and whoever does not gather with me scatters. Return of an Unclean Spirit
+			</v>
+			<marker class="begin-verse" mid="v42011024">
+			</marker>
+			<v n="24">
+				“When the 
+				<crossref let="v" cid="c42011024.47">
+				</crossref>
+				unclean spirit, 
+				<crossref let="w" cid="c42011024.48">
+				</crossref>
+				has gone out of a person, it passes through waterless places seeking rest, and finding none it says, ‘I will return to my house from which I came.’
+				<note nid="n42011024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011025">
+			</marker>
+			<v n="25">
+				And when 
+				<crossref let="x" cid="c42011025.49">
+				</crossref>
+				it comes,, 
+				<crossref let="y" cid="c42011025.50">
+				</crossref>
+				it finds the house swept and put in order.
+			</v>
+			<marker class="begin-verse" mid="v42011026">
+			</marker>
+			<v n="26">
+				Then it 
+				<crossref let="z" cid="c42011026.51">
+				</crossref>
+				goes and, 
+				<crossref let="a" cid="c42011026.52">
+				</crossref>
+				brings seven other spirits more evil than itself, and they enter and dwell there. And the last state of that person is worse than the first.” True Blessedness
+			</v>
+			<marker class="begin-verse" mid="v42011027">
+			</marker>
+			<v n="27" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					As he 
+					<crossref let="b" cid="c42011027.53">
+				</crossref>
+					said these, 
+					<crossref let="c" cid="c42011027.54">
+				</crossref>
+				things, a woman in the crowd raised her voice and said to him, “Blessed is the womb that bore you, and the breasts at which you nursed!”
+					<note nid="n42011027.27">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42011028">
+			</marker>
+			<v n="28" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But he 
+					<crossref let="d" cid="c42011028.55">
+				</crossref>
+					said, “Blessed, 
+					<crossref let="e" cid="c42011028.56">
+				</crossref>
+				rather are those who hear the word of God and keep it!” The Sign of Jonah
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42011029">
+			</marker>
+			<v n="29">
+				When the 
+				<crossref let="f" cid="c42011029.57">
+				</crossref>
+				crowds were, 
+				<crossref let="g" cid="c42011029.58">
+				</crossref>
+				increasing, he began to say, “This generation is an evil generation. It seeks for a sign, but no sign will be given to it except the sign of Jonah.
+			</v>
+			<marker class="begin-verse" mid="v42011030">
+			</marker>
+			<v n="30">
+				For as 
+				<crossref let="h" cid="c42011030.59">
+				</crossref>
+				Jonah became, 
+				<crossref let="i" cid="c42011030.60">
+				</crossref>
+				a sign to the people of Nineveh, so will the Son of Man be to this generation.
+				<note nid="n42011030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011031">
+			</marker>
+			<v n="31">
+				The queen 
+				<crossref let="j" cid="c42011031.61">
+				</crossref>
+				of the, 
+				<crossref let="k" cid="c42011031.62">
+				</crossref>
+				South will rise up at the judgment with the men of this generation and condemn them, for she came from the ends of the earth to hear the wisdom of Solomon, and behold, something greater than Solomon is here.
+			</v>
+			<marker class="begin-verse" mid="v42011032">
+			</marker>
+			<v n="32">
+				The men 
+				<crossref let="l" cid="c42011032.63">
+				</crossref>
+				of Nineveh, 
+				<crossref let="m" cid="c42011032.64">
+				</crossref>
+				will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here. The Light in You
+			</v>
+			<marker class="begin-verse" mid="v42011033">
+			</marker>
+			<v n="33">
+				“No one 
+				<crossref let="n" cid="c42011033.65">
+				</crossref>
+				after lighting, 
+				<crossref let="o" cid="c42011033.66">
+				</crossref>
+				a lamp puts it in a cellar or under a basket, but on a stand, so that those who enter may see the light.
+				<note nid="n42011033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011034">
+			</marker>
+			<v n="34">
+				Your eye 
+				<crossref let="p" cid="c42011034.67">
+				</crossref>
+				is the, 
+				<crossref let="q" cid="c42011034.68">
+				</crossref>
+				lamp of your body. When your eye is healthy, your whole body is full of light, but when it is bad, your body is full of darkness.
+			</v>
+			<marker class="begin-verse" mid="v42011035">
+			</marker>
+			<v n="35">
+				Therefore be 
+				<crossref let="r" cid="c42011035.69">
+				</crossref>
+				careful lest, 
+				<crossref let="s" cid="c42011035.70">
+				</crossref>
+				the light in you be darkness.
+			</v>
+			<marker class="begin-verse" mid="v42011036">
+			</marker>
+			<v n="36">
+				If then 
+				<crossref let="t" cid="c42011036.71">
+				</crossref>
+				your whole, 
+				<crossref let="u" cid="c42011036.72">
+				</crossref>
+				body is full of light, having no part dark, it will be wholly bright, as when a lamp with its rays gives you light.” Woes to the Pharisees and Lawyers
+				<note nid="n42011036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011037">
+			</marker>
+			<v n="37">
+				While Jesus(5) 
+				<crossref let="v" cid="c42011037.73">
+				</crossref>
+				was speaking,, 
+				<crossref let="w" cid="c42011037.74">
+				</crossref>
+				a Pharisee asked him to dine with him, so he went in and reclined at table.
+			</v>
+			<marker class="begin-verse" mid="v42011038">
+			</marker>
+			<v n="38">
+				The Pharisee 
+				<crossref let="x" cid="c42011038.75">
+				</crossref>
+				was astonished, 
+				<crossref let="y" cid="c42011038.76">
+				</crossref>
+				to see that he did not first wash before dinner.
+			</v>
+			<marker class="begin-verse" mid="v42011039">
+			</marker>
+			<v n="39">
+				And the 
+				<crossref let="z" cid="c42011039.77">
+				</crossref>
+				Lord said, 
+				<crossref let="a" cid="c42011039.78">
+				</crossref>
+				to him, “Now you Pharisees cleanse the outside of the cup and of the dish, but inside you are full of greed and wickedness.
+				<note nid="n42011039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011040">
+			</marker>
+			<v n="40">
+				You fools! 
+				<crossref let="b" cid="c42011040.79">
+				</crossref>
+				Did not, 
+				<crossref let="c" cid="c42011040.80">
+				</crossref>
+				he who made the outside make the inside also?
+			</v>
+			<marker class="begin-verse" mid="v42011041">
+			</marker>
+			<v n="41">
+				But give 
+				<crossref let="d" cid="c42011041.81">
+				</crossref>
+				as alms, 
+				<crossref let="e" cid="c42011041.82">
+				</crossref>
+				those things that are within, and behold, everything is clean for you.
+			</v>
+			<marker class="begin-verse" mid="v42011042">
+			</marker>
+			<v n="42">
+				“But woe 
+				<crossref let="f" cid="c42011042.83">
+				</crossref>
+				to you, 
+				<crossref let="g" cid="c42011042.84">
+				</crossref>
+				Pharisees! For you tithe mint and rue and every herb, and neglect justice and the love of God. These you ought to have done, without neglecting the others.
+				<note nid="n42011042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011043">
+			</marker>
+			<v n="43">
+				Woe to 
+				<crossref let="h" cid="c42011043.85">
+				</crossref>
+				you Pharisees!, 
+				<crossref let="i" cid="c42011043.86">
+				</crossref>
+				For you love the best seat in the synagogues and greetings in the marketplaces.
+			</v>
+			<marker class="begin-verse" mid="v42011044">
+			</marker>
+			<v n="44">
+				Woe to 
+				<crossref let="j" cid="c42011044.87">
+				</crossref>
+				you! For, 
+				<crossref let="k" cid="c42011044.88">
+				</crossref>
+				you are like unmarked graves, and people walk over them without knowing it.”
+			</v>
+			<marker class="begin-verse" mid="v42011045">
+			</marker>
+			<v n="45">
+				One of 
+				<crossref let="l" cid="c42011045.89">
+				</crossref>
+				the lawyers, 
+				<crossref let="m" cid="c42011045.90">
+				</crossref>
+				answered him, “Teacher, in saying these things you insult us also.”
+				<note nid="n42011045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011046">
+			</marker>
+			<v n="46" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="n" cid="c42011046.91">
+				</crossref>
+					said, “Woe, 
+					<crossref let="o" cid="c42011046.92">
+				</crossref>
+				to you lawyers also! For you load people with burdens hard to bear, and you yourselves do not touch the burdens with one of your fingers.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42011047">
+			</marker>
+			<v n="47">
+				Woe to 
+				<crossref let="p" cid="c42011047.93">
+				</crossref>
+				you! For, 
+				<crossref let="q" cid="c42011047.94">
+				</crossref>
+				you build the tombs of the prophets whom your fathers killed.
+			</v>
+			<marker class="begin-verse" mid="v42011048">
+			</marker>
+			<v n="48">
+				So you 
+				<crossref let="r" cid="c42011048.95">
+				</crossref>
+				are witnesses, 
+				<crossref let="s" cid="c42011048.96">
+				</crossref>
+				and you consent to the deeds of your fathers, for they killed them, and you build their tombs.
+				<note nid="n42011048.48">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011049">
+			</marker>
+			<v n="49">
+				Therefore also 
+				<crossref let="t" cid="c42011049.97">
+				</crossref>
+				the Wisdom, 
+				<crossref let="u" cid="c42011049.98">
+				</crossref>
+				of God said, ‘I will send them prophets and apostles, some of whom they will kill and persecute,’
+			</v>
+			<marker class="begin-verse" mid="v42011050">
+			</marker>
+			<v n="50">
+				so that 
+				<crossref let="v" cid="c42011050.99">
+				</crossref>
+				the blood, 
+				<crossref let="w" cid="c42011050.100">
+				</crossref>
+				of all the prophets, shed from the foundation of the world, may be charged against this generation,
+			</v>
+			<marker class="begin-verse" mid="v42011051">
+			</marker>
+			<v n="51">
+				from the 
+				<crossref let="x" cid="c42011051.101">
+				</crossref>
+				blood of, 
+				<crossref let="y" cid="c42011051.102">
+				</crossref>
+				Abel to the blood of Zechariah, who perished between the altar and the sanctuary. Yes, I tell you, it will be required of this generation.
+				<note nid="n42011051.51">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011052">
+			</marker>
+			<v n="52">
+				Woe to 
+				<crossref let="z" cid="c42011052.103">
+				</crossref>
+				you lawyers!, 
+				<crossref let="a" cid="c42011052.104">
+				</crossref>
+				For you have taken away the key of knowledge. You did not enter yourselves, and you hindered those who were entering.”
+			</v>
+			<marker class="begin-verse" mid="v42011053">
+			</marker>
+			<v n="53">
+				As he 
+				<crossref let="b" cid="c42011053.105">
+				</crossref>
+				went away, 
+				<crossref let="c" cid="c42011053.106">
+				</crossref>
+				from there, the scribes and the Pharisees began to press him hard and to provoke him to speak about many things,
+			</v>
+			<marker class="begin-verse" mid="v42011054">
+			</marker>
+			<v n="54">
+				lying in 
+				<crossref let="d" cid="c42011054.107">
+				</crossref>
+				wait for, 
+				<crossref let="e" cid="c42011054.108">
+				</crossref>
+				him, to catch him in something he might say. Footnotes (1) 11:1 Greek *he* (2) 11:3 Or *our bread for tomorrow* (3) 11:8 Or *persistence* (4) 11:11 Some manuscripts insert *bread, will give him a stone; or if he asks for* (5) 11:37 Greek *he* (ESV)
+				<note nid="n42011054.54">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42011055">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

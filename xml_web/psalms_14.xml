@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:42:52.681606</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:42:52.681640</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19014001"/>
+		<chapter num="14">
+			<heading>For the Chief Musician. By David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The fool 
+				<crossref let="b" cid="c190141.1"/>
+				 has said in his heart, “There is no God.”They are corrupt.They have done abominable deeds.There is no one who does good.
+			</v>
+			<marker class="begin-verse" mid="v19014002"/>
+			<v n="2">
+				Yahweh looked 
+				<crossref let="c" cid="c190142.1"/>
+				 down from heaven on the children of men,to see if there were any who understood,who sought after God.
+			</v>
+			<marker class="begin-verse" mid="v19014003"/>
+			<v n="3">
+				They have 
+				<crossref let="d" cid="c190143.1"/>
+				 all gone aside.They have together become corrupt.There is no one who does good, no, not one.
+			</v>
+			<marker class="begin-verse" mid="v19014004"/>
+			<v n="4">
+				Have all 
+				<crossref let="e" cid="c190144.1"/>
+				 the workers of iniquity no knowledge,who eat up my people as they eat bread,and don’t call on Yahweh?
+			</v>
+			<marker class="begin-verse" mid="v19014005"/>
+			<v n="5">
+				There they 
+				<crossref let="f" cid="c190145.1"/>
+				 were in great fear,for God is in the generation of the righteous.
+			</v>
+			<marker class="begin-verse" mid="v19014006"/>
+			<v n="6">
+				You frustrate 
+				<crossref let="g" cid="c190146.1"/>
+				 the plan of the poor,because Yahweh is his refuge.
+			</v>
+			<marker class="begin-verse" mid="v19014007"/>
+			<v n="7">
+				Oh that 
+				<crossref let="h" cid="c190147.1"/>
+				 the salvation of Israel would come out of Zion!When Yahweh restores the fortunes of his people,then Jacob shall rejoice, and Israel shall be glad.
+			</v>
+			<marker class="begin-verse" mid="v19014008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

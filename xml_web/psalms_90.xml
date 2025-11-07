@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:49:38.193205</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:49:38.193231</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19090001"/>
+		<chapter num="90">
+			<heading>BOOK 4A Prayer by Moses, the man of God.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Lord, you 
+				<crossref let="b" cid="c190901.1"/>
+				 have been our dwelling place for all generations.
+			</v>
+			<marker class="begin-verse" mid="v19090002"/>
+			<v n="2">
+				Before the 
+				<crossref let="c" cid="c190902.1"/>
+				 mountains were born,before you had formed the earth and the world,even from everlasting to everlasting, you are God.
+			</v>
+			<marker class="begin-verse" mid="v19090003"/>
+			<v n="3">
+				You turn 
+				<crossref let="d" cid="c190903.1"/>
+				 man to destruction, saying,“Return, you children of men.”
+			</v>
+			<marker class="begin-verse" mid="v19090004"/>
+			<v n="4">
+				For a 
+				<crossref let="e" cid="c190904.1"/>
+				 thousand years in your sight are just like yesterday when it is past,like a watch in the night.
+			</v>
+			<marker class="begin-verse" mid="v19090005"/>
+			<v n="5">
+				You sweep 
+				<crossref let="f" cid="c190905.1"/>
+				 them away as they sleep.In the morning they sprout like new grass.
+			</v>
+			<marker class="begin-verse" mid="v19090006"/>
+			<v n="6">
+				In the 
+				<crossref let="g" cid="c190906.1"/>
+				 morning it sprouts and springs up.By evening, it is withered and dry.
+			</v>
+			<marker class="begin-verse" mid="v19090007"/>
+			<v n="7">
+				For we 
+				<crossref let="h" cid="c190907.1"/>
+				 are consumed in your anger.We are troubled in your wrath.
+			</v>
+			<marker class="begin-verse" mid="v19090008"/>
+			<v n="8">
+				You have 
+				<crossref let="i" cid="c190908.1"/>
+				 set our iniquities before you,our secret sins in the light of your presence.
+			</v>
+			<marker class="begin-verse" mid="v19090009"/>
+			<v n="9">
+				For all 
+				<crossref let="j" cid="c190909.1"/>
+				 our days have passed away in your wrath.We bring our years to an end as a sigh.
+			</v>
+			<marker class="begin-verse" mid="v19090010"/>
+			<v n="10">
+				The days 
+				<crossref let="k" cid="c1909010.1"/>
+				 of our years are seventy,or even by reason of strength eighty years;yet their pride is but labor and sorrow,for it passes quickly, and we fly away.
+			</v>
+			<marker class="begin-verse" mid="v19090011"/>
+			<v n="11">
+				Who knows 
+				<crossref let="l" cid="c1909011.1"/>
+				 the power of your anger,your wrath according to the fear that is due to you?
+			</v>
+			<marker class="begin-verse" mid="v19090012"/>
+			<v n="12">
+				So teach 
+				<crossref let="m" cid="c1909012.1"/>
+				 us to count our days,that we may gain a heart of wisdom.
+			</v>
+			<marker class="begin-verse" mid="v19090013"/>
+			<v n="13">
+				Relent, Yahweh!How 
+				<crossref let="n" cid="c1909013.1"/>
+				 long?Have compassion on your servants!
+			</v>
+			<marker class="begin-verse" mid="v19090014"/>
+			<v n="14">
+				Satisfy us 
+				<crossref let="o" cid="c1909014.1"/>
+				 in the morning with your loving kindness,that we may rejoice and be glad all our days.
+			</v>
+			<marker class="begin-verse" mid="v19090015"/>
+			<v n="15">
+				Make us 
+				<crossref let="p" cid="c1909015.1"/>
+				 glad for as many days as you have afflicted us,for as many years as we have seen evil.
+			</v>
+			<marker class="begin-verse" mid="v19090016"/>
+			<v n="16">
+				Let your 
+				<crossref let="q" cid="c1909016.1"/>
+				 work appear to your servants,your glory to their children.
+			</v>
+			<marker class="begin-verse" mid="v19090017"/>
+			<v n="17">
+				Let the 
+				<crossref let="r" cid="c1909017.1"/>
+				 favor of the Lord our God be on us.Establish the work of our hands for us.Yes, establish the work of our hands.
+			</v>
+			<marker class="begin-verse" mid="v19090018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

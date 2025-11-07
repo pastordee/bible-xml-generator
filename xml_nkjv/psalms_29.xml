@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:14:41.124656</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:14:41.124664</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19029001"/>
+		<chapter num="29">
+			<heading>Praise to God in His Holiness and MajestyA Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Give unto 
+				<crossref let="b" cid="c190291.1"/>
+				 the Lord, O you mighty ones,Give unto the Lord glory and strength.
+			</v>
+			<marker class="begin-verse" mid="v19029002"/>
+			<v n="2">
+				Give unto 
+				<crossref let="c" cid="c190292.1"/>
+				 the Lord the glory due to His name;Worship the Lord in the beauty of holiness.
+			</v>
+			<marker class="begin-verse" mid="v19029003"/>
+			<v n="3">
+				The voice 
+				<crossref let="d" cid="c190293.1"/>
+				 of the Lord is over the waters;The God of glory thunders;The Lord is over many waters.
+			</v>
+			<marker class="begin-verse" mid="v19029004"/>
+			<v n="4">
+				The voice 
+				<crossref let="e" cid="c190294.1"/>
+				 of the Lord is powerful;The voice of the Lord is full of majesty.
+			</v>
+			<marker class="begin-verse" mid="v19029005"/>
+			<v n="5">
+				The voice 
+				<crossref let="f" cid="c190295.1"/>
+				 of the Lord breaks the cedars,Yes, the Lord splinters the cedars of Lebanon.
+			</v>
+			<marker class="begin-verse" mid="v19029006"/>
+			<v n="6">
+				He makes 
+				<crossref let="g" cid="c190296.1"/>
+				 them also skip like a calf,Lebanon and Sirion like a young wild ox.
+			</v>
+			<marker class="begin-verse" mid="v19029007"/>
+			<v n="7">
+				The voice 
+				<crossref let="h" cid="c190297.1"/>
+				 of the Lord divides the flames of fire.
+			</v>
+			<marker class="begin-verse" mid="v19029008"/>
+			<v n="8">
+				The voice 
+				<crossref let="i" cid="c190298.1"/>
+				 of the Lord shakes the wilderness;The Lord shakes the Wilderness of Kadesh.
+			</v>
+			<marker class="begin-verse" mid="v19029009"/>
+			<v n="9">
+				The voice 
+				<crossref let="j" cid="c190299.1"/>
+				 of the Lord makes the deer give birth,And strips the forests bare;And in His temple everyone says, “Glory!”
+			</v>
+			<marker class="begin-verse" mid="v19029010"/>
+			<v n="10">
+				The Lord 
+				<crossref let="k" cid="c1902910.1"/>
+				 sat enthroned at the Flood,And the Lord sits as King forever.
+			</v>
+			<marker class="begin-verse" mid="v19029011"/>
+			<v n="11">
+				The Lord 
+				<crossref let="l" cid="c1902911.1"/>
+				 will give strength to His people;The Lord will bless His people with peace.
+			</v>
+			<marker class="begin-verse" mid="v19029012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

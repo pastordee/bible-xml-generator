@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:39:39.850073</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:39:39.850082</next_refresh_due>
+	</generation_info>
+	<book title="1 Kings" num="11" testament="old" version="KJV" bookAbbr="1ki">
+		<marker class="begin-verse" mid="v11004001"/>
+		<chapter num="4">
+			<begin-paragraph/>
+			<v n="1">
+				So king 
+				<crossref let="b" cid="c110041.1"/>
+				 Solomon was king over all Israel.
+			</v>
+			<marker class="begin-verse" mid="v11004002"/>
+			<v n="2">
+				And these 
+				<crossref let="c" cid="c110042.1"/>
+				 were the princes which he had; Azariah the son of Zadok the priest,
+			</v>
+			<marker class="begin-verse" mid="v11004003"/>
+			<v n="3">
+				Elihoreph and 
+				<crossref let="d" cid="c110043.1"/>
+				 Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.
+			</v>
+			<marker class="begin-verse" mid="v11004004"/>
+			<v n="4">
+				And Benaiah 
+				<crossref let="e" cid="c110044.1"/>
+				 the son of Jehoiada was over the host: and Zadok and Abiathar were the priests:
+			</v>
+			<marker class="begin-verse" mid="v11004005"/>
+			<v n="5">
+				And Azariah 
+				<crossref let="f" cid="c110045.1"/>
+				 the son of Nathan was over the officers: and Zabud the son of Nathan was principal officer, and the king’s friend:
+			</v>
+			<marker class="begin-verse" mid="v11004006"/>
+			<v n="6">
+				And Ahishar 
+				<crossref let="g" cid="c110046.1"/>
+				 was over the household: and Adoniram the son of Abda was over the tribute.
+			</v>
+			<marker class="begin-verse" mid="v11004007"/>
+			<v n="7">
+				¶ And 
+				<crossref let="h" cid="c110047.1"/>
+				 Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.
+			</v>
+			<marker class="begin-verse" mid="v11004008"/>
+			<v n="8">
+				And these 
+				<crossref let="i" cid="c110048.1"/>
+				 are their names: The son of Hur, in mount Ephraim:
+			</v>
+			<marker class="begin-verse" mid="v11004009"/>
+			<v n="9">
+				The son 
+				<crossref let="j" cid="c110049.1"/>
+				 of Dekar, in Makaz, and in Shaalbim, and Beth-shemesh, and Elon-beth-hanan:
+			</v>
+			<marker class="begin-verse" mid="v11004010"/>
+			<v n="10">
+				The son 
+				<crossref let="k" cid="c1100410.1"/>
+				 of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:
+			</v>
+			<marker class="begin-verse" mid="v11004011"/>
+			<v n="11">
+				The son 
+				<crossref let="l" cid="c1100411.1"/>
+				 of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:
+			</v>
+			<marker class="begin-verse" mid="v11004012"/>
+			<v n="12">
+				Baana the 
+				<crossref let="m" cid="c1100412.1"/>
+				 son of Ahilud; to him pertained Taanach and Megiddo, and all Beth-shean, which is by Zartanah beneath Jezreel, from Beth-shean to Abel-meholah, even unto the place that is beyond Jokneam:
+			</v>
+			<marker class="begin-verse" mid="v11004013"/>
+			<v n="13">
+				The son 
+				<crossref let="n" cid="c1100413.1"/>
+				 of Geber, in Ramoth-gilead; to him pertained the towns of Jair the son of Manasseh, which are in Gilead; to him also pertained the region of Argob, which is in Bashan, threescore great cities with walls and brasen bars:
+			</v>
+			<marker class="begin-verse" mid="v11004014"/>
+			<v n="14">
+				Ahinadab the 
+				<crossref let="o" cid="c1100414.1"/>
+				 son of Iddo had Mahanaim:
+			</v>
+			<marker class="begin-verse" mid="v11004015"/>
+			<v n="15">
+				Ahimaaz was 
+				<crossref let="p" cid="c1100415.1"/>
+				 in Naphtali; he also took Basmath the daughter of Solomon to wife:
+			</v>
+			<marker class="begin-verse" mid="v11004016"/>
+			<v n="16">
+				Baanah the 
+				<crossref let="q" cid="c1100416.1"/>
+				 son of Hushai was in Asher and in Aloth:
+			</v>
+			<marker class="begin-verse" mid="v11004017"/>
+			<v n="17">
+				Jehoshaphat the 
+				<crossref let="r" cid="c1100417.1"/>
+				 son of Paruah, in Issachar:
+			</v>
+			<marker class="begin-verse" mid="v11004018"/>
+			<v n="18">
+				Shimei the 
+				<crossref let="s" cid="c1100418.1"/>
+				 son of Elah, in Benjamin:
+			</v>
+			<marker class="begin-verse" mid="v11004019"/>
+			<v n="19">
+				Geber the 
+				<crossref let="t" cid="c1100419.1"/>
+				 son of Uri was in the country of Gilead, in the country of Sihon king of the Amorites, and of Og king of Bashan; and he was the only officer which was in the land.
+			</v>
+			<marker class="begin-verse" mid="v11004020"/>
+			<v n="20">
+				¶ Judah 
+				<crossref let="u" cid="c1100420.1"/>
+				 and Israel were many, as the sand which is by the sea in multitude, eating and drinking, and making merry.
+			</v>
+			<marker class="begin-verse" mid="v11004021"/>
+			<v n="21">
+				And Solomon 
+				<crossref let="v" cid="c1100421.1"/>
+				 reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.
+			</v>
+			<marker class="begin-verse" mid="v11004022"/>
+			<v n="22">
+				¶ And 
+				<crossref let="w" cid="c1100422.1"/>
+				 Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,
+			</v>
+			<marker class="begin-verse" mid="v11004023"/>
+			<v n="23">
+				Ten fat 
+				<crossref let="x" cid="c1100423.1"/>
+				 oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl.
+			</v>
+			<marker class="begin-verse" mid="v11004024"/>
+			<v n="24">
+				For he 
+				<crossref let="y" cid="c1100424.1"/>
+				 had dominion over all the region on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him.
+			</v>
+			<marker class="begin-verse" mid="v11004025"/>
+			<v n="25">
+				And Judah 
+				<crossref let="z" cid="c1100425.1"/>
+				 and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beer-sheba, all the days of Solomon.
+			</v>
+			<marker class="begin-verse" mid="v11004026"/>
+			<v n="26">
+				¶ And 
+				<crossref let="a" cid="c1100426.1"/>
+				 Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen.
+			</v>
+			<marker class="begin-verse" mid="v11004027"/>
+			<v n="27">
+				And those 
+				<crossref let="b" cid="c1100427.1"/>
+				 officers provided victual for king Solomon, and for all that came unto king Solomon’s table, every man in his month: they lacked nothing.
+			</v>
+			<marker class="begin-verse" mid="v11004028"/>
+			<v n="28">
+				Barley also 
+				<crossref let="c" cid="c1100428.1"/>
+				 and straw for the horses and dromedaries brought they unto the place where the officers were, every man according to his charge.
+			</v>
+			<marker class="begin-verse" mid="v11004029"/>
+			<v n="29">
+				¶ And 
+				<crossref let="d" cid="c1100429.1"/>
+				 God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea shore.
+			</v>
+			<marker class="begin-verse" mid="v11004030"/>
+			<v n="30">
+				And Solomon’s 
+				<crossref let="e" cid="c1100430.1"/>
+				 wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v11004031"/>
+			<v n="31">
+				For he 
+				<crossref let="f" cid="c1100431.1"/>
+				 was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about.
+			</v>
+			<marker class="begin-verse" mid="v11004032"/>
+			<v n="32">
+				And he 
+				<crossref let="g" cid="c1100432.1"/>
+				 spake three thousand proverbs: and his songs were a thousand and five.
+			</v>
+			<marker class="begin-verse" mid="v11004033"/>
+			<v n="33">
+				And he 
+				<crossref let="h" cid="c1100433.1"/>
+				 spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes.
+			</v>
+			<marker class="begin-verse" mid="v11004034"/>
+			<v n="34">
+				And there 
+				<crossref let="i" cid="c1100434.1"/>
+				 came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom.
+			</v>
+			<marker class="begin-verse" mid="v11004035"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

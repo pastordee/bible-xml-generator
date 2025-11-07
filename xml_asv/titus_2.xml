@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:24:37.568576</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:24:37.568585</next_refresh_due>
+	</generation_info>
+	<book title="Titus" num="56" testament="new" version="ASV" bookAbbr="tit">
+		<marker class="begin-verse" mid="v56002001"/>
+		<chapter num="2">
+			<begin-paragraph/>
+			<v n="1">
+				But speak 
+				<crossref let="b" cid="c560021.1"/>
+				 thou the things which befit the sound doctrine:
+			</v>
+			<marker class="begin-verse" mid="v56002002"/>
+			<v n="2">
+				that aged 
+				<crossref let="c" cid="c560022.1"/>
+				 men be temperate, grave, sober-minded, sound in faith, in love, in patience:
+			</v>
+			<marker class="begin-verse" mid="v56002003"/>
+			<v n="3">
+				that aged 
+				<crossref let="d" cid="c560023.1"/>
+				 women likewise be reverent in demeanor, not slanderers nor enslaved to much wine, teachers of that which is good;
+			</v>
+			<marker class="begin-verse" mid="v56002004"/>
+			<v n="4">
+				that they 
+				<crossref let="e" cid="c560024.1"/>
+				 may train the young women to love their husbands, to love their children,
+			</v>
+			<marker class="begin-verse" mid="v56002005"/>
+			<v n="5">
+				to be 
+				<crossref let="f" cid="c560025.1"/>
+				 sober-minded, chaste, workers at home, kind, being in subjection to their own husbands, that the word of God be not blasphemed:
+			</v>
+			<marker class="begin-verse" mid="v56002006"/>
+			<v n="6">
+				the younger 
+				<crossref let="g" cid="c560026.1"/>
+				 men likewise exhort to be sober-minded:
+			</v>
+			<marker class="begin-verse" mid="v56002007"/>
+			<v n="7">
+				in all 
+				<crossref let="h" cid="c560027.1"/>
+				 things showing thyself an ensample of good works; in thy doctrine showing uncorruptness, gravity,
+			</v>
+			<marker class="begin-verse" mid="v56002008"/>
+			<v n="8">
+				sound speech, 
+				<crossref let="i" cid="c560028.1"/>
+				 that cannot be condemned; that he that is of the contrary part may be ashamed, having no evil thing to say of us.
+			</v>
+			<marker class="begin-verse" mid="v56002009"/>
+			<v n="9">
+				Exhort servants 
+				<crossref let="j" cid="c560029.1"/>
+				 to be in subjection to their own masters, and to be well-pleasing to them in all things; not gainsaying;
+			</v>
+			<marker class="begin-verse" mid="v56002010"/>
+			<v n="10">
+				not purloining, 
+				<crossref let="k" cid="c5600210.1"/>
+				 but showing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
+			</v>
+			<marker class="begin-verse" mid="v56002011"/>
+			<v n="11">
+				For the 
+				<crossref let="l" cid="c5600211.1"/>
+				 grace of God hath appeared, bringing salvation to all men,
+			</v>
+			<marker class="begin-verse" mid="v56002012"/>
+			<v n="12">
+				instructing us, 
+				<crossref let="m" cid="c5600212.1"/>
+				 to the intent that, denying ungodliness and worldly lusts, we should live soberly and righteously and godly in this present world;
+			</v>
+			<marker class="begin-verse" mid="v56002013"/>
+			<v n="13">
+				looking for 
+				<crossref let="n" cid="c5600213.1"/>
+				 the blessed hope and appearing of the glory of the great God and our Saviour Jesus Christ;
+			</v>
+			<marker class="begin-verse" mid="v56002014"/>
+			<v n="14">
+				who gave 
+				<crossref let="o" cid="c5600214.1"/>
+				 himself for us, that he might redeem us from all iniquity, and purify unto himself a people for his own possession, zealous of good works.
+			</v>
+			<marker class="begin-verse" mid="v56002015"/>
+			<v n="15">
+				These things 
+				<crossref let="p" cid="c5600215.1"/>
+				 speak and exhort and reprove with all authority. Let no man despise thee.
+			</v>
+			<marker class="begin-verse" mid="v56002016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:02.490840</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:02.490859</next_refresh_due>
+	</generation_info>
+	<book title="Mark" num="41" testament="new" bookAbbr="mrk" version="ESV">
+		<marker class="begin-verse" mid="v41014001">
+		</marker>
+		<chapter num="14">
+			<heading>
+				Mark 14
+			</heading>
+			<heading>
+				The Plot to Kill Jesus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				It was 
+				<crossref let="b" cid="c41014001.1">
+				</crossref>
+				now two, 
+				<crossref let="c" cid="c41014001.2">
+				</crossref>
+				days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him,
+			</v>
+			<marker class="begin-verse" mid="v41014002">
+			</marker>
+			<v n="2">
+				for they 
+				<crossref let="d" cid="c41014002.3">
+				</crossref>
+				said, “Not, 
+				<crossref let="e" cid="c41014002.4">
+				</crossref>
+				during the feast, lest there be an uproar from the people.” Jesus Anointed at Bethany
+			</v>
+			<marker class="begin-verse" mid="v41014003">
+			</marker>
+			<v n="3">
+				And while 
+				<crossref let="f" cid="c41014003.5">
+				</crossref>
+				he was, 
+				<crossref let="g" cid="c41014003.6">
+				</crossref>
+				at Bethany in the house of Simon the leper,(1) as he was reclining at table, a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head.
+				<note nid="n41014003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014004">
+			</marker>
+			<v n="4">
+				There were 
+				<crossref let="h" cid="c41014004.7">
+				</crossref>
+				some who, 
+				<crossref let="i" cid="c41014004.8">
+				</crossref>
+				said to themselves indignantly, “Why was the ointment wasted like that?
+			</v>
+			<marker class="begin-verse" mid="v41014005">
+			</marker>
+			<v n="5">
+				For this 
+				<crossref let="j" cid="c41014005.9">
+				</crossref>
+				ointment could, 
+				<crossref let="k" cid="c41014005.10">
+				</crossref>
+				have been sold for more than three hundred denarii(2) and given to the poor.” And they scolded her.
+			</v>
+			<marker class="begin-verse" mid="v41014006">
+			</marker>
+			<v n="6" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But Jesus 
+					<crossref let="l" cid="c41014006.11">
+				</crossref>
+					said, “Leave, 
+					<crossref let="m" cid="c41014006.12">
+				</crossref>
+				her alone. Why do you trouble her? She has done a beautiful thing to me.
+					<note nid="n41014006.6">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014007">
+			</marker>
+			<v n="7">
+				For you 
+				<crossref let="n" cid="c41014007.13">
+				</crossref>
+				always have, 
+				<crossref let="o" cid="c41014007.14">
+				</crossref>
+				the poor with you, and whenever you want, you can do good for them. But you will not always have me.
+			</v>
+			<marker class="begin-verse" mid="v41014008">
+			</marker>
+			<v n="8">
+				She has 
+				<crossref let="p" cid="c41014008.15">
+				</crossref>
+				done what, 
+				<crossref let="q" cid="c41014008.16">
+				</crossref>
+				she could; she has anointed my body beforehand for burial.
+			</v>
+			<marker class="begin-verse" mid="v41014009">
+			</marker>
+			<v n="9" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And truly, 
+					<crossref let="r" cid="c41014009.17">
+				</crossref>
+					I say, 
+					<crossref let="s" cid="c41014009.18">
+				</crossref>
+				to you, wherever the gospel is proclaimed in the whole world, what she has done will be told in memory of her.” Judas to Betray Jesus
+					<note nid="n41014009.9">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014010">
+			</marker>
+			<v n="10">
+				Then Judas 
+				<crossref let="t" cid="c41014010.19">
+				</crossref>
+				Iscariot, who, 
+				<crossref let="u" cid="c41014010.20">
+				</crossref>
+				was one of the twelve, went to the chief priests in order to betray him to them.
+			</v>
+			<marker class="begin-verse" mid="v41014011">
+			</marker>
+			<v n="11">
+				And when 
+				<crossref let="v" cid="c41014011.21">
+				</crossref>
+				they heard, 
+				<crossref let="w" cid="c41014011.22">
+				</crossref>
+				it, they were glad and promised to give him money. And he sought an opportunity to betray him. The Passover with the Disciples
+			</v>
+			<marker class="begin-verse" mid="v41014012">
+			</marker>
+			<v n="12">
+				And on 
+				<crossref let="x" cid="c41014012.23">
+				</crossref>
+				the first, 
+				<crossref let="y" cid="c41014012.24">
+				</crossref>
+				day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, “Where will you have us go and prepare for you to eat the Passover?”
+				<note nid="n41014012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014013">
+			</marker>
+			<v n="13">
+				And he 
+				<crossref let="z" cid="c41014013.25">
+				</crossref>
+				sent two, 
+				<crossref let="a" cid="c41014013.26">
+				</crossref>
+				of his disciples and said to them, “Go into the city, and a man carrying a jar of water will meet you. Follow him,
+			</v>
+			<marker class="begin-verse" mid="v41014014">
+			</marker>
+			<v n="14">
+				and wherever 
+				<crossref let="b" cid="c41014014.27">
+				</crossref>
+				he enters,, 
+				<crossref let="c" cid="c41014014.28">
+				</crossref>
+				say to the master of the house, ‘The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?’
+			</v>
+			<marker class="begin-verse" mid="v41014015">
+			</marker>
+			<v n="15">
+				And he 
+				<crossref let="d" cid="c41014015.29">
+				</crossref>
+				will show, 
+				<crossref let="e" cid="c41014015.30">
+				</crossref>
+				you a large upper room furnished and ready; there prepare for us.”
+				<note nid="n41014015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014016">
+			</marker>
+			<v n="16">
+				And the 
+				<crossref let="f" cid="c41014016.31">
+				</crossref>
+				disciples set, 
+				<crossref let="g" cid="c41014016.32">
+				</crossref>
+				out and went to the city and found it just as he had told them, and they prepared the Passover.
+			</v>
+			<marker class="begin-verse" mid="v41014017">
+			</marker>
+			<v n="17">
+				And when 
+				<crossref let="h" cid="c41014017.33">
+				</crossref>
+				it was, 
+				<crossref let="i" cid="c41014017.34">
+				</crossref>
+				evening, he came with the twelve.
+			</v>
+			<marker class="begin-verse" mid="v41014018">
+			</marker>
+			<v n="18" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And as 
+					<crossref let="j" cid="c41014018.35">
+				</crossref>
+					they were, 
+					<crossref let="k" cid="c41014018.36">
+				</crossref>
+				reclining at table and eating, Jesus said, “Truly, I say to you, one of you will betray me, one who is eating with me.”
+					<note nid="n41014018.18">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014019">
+			</marker>
+			<v n="19">
+				They began 
+				<crossref let="l" cid="c41014019.37">
+				</crossref>
+				to be, 
+				<crossref let="m" cid="c41014019.38">
+				</crossref>
+				sorrowful and to say to him one after another, “Is it I?”
+			</v>
+			<marker class="begin-verse" mid="v41014020">
+			</marker>
+			<v n="20" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					He said 
+					<crossref let="n" cid="c41014020.39">
+				</crossref>
+					to them,, 
+					<crossref let="o" cid="c41014020.40">
+				</crossref>
+				“It is one of the twelve, one who is dipping bread into the dish with me.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014021">
+			</marker>
+			<v n="21">
+				For the 
+				<crossref let="p" cid="c41014021.41">
+				</crossref>
+				Son of, 
+				<crossref let="q" cid="c41014021.42">
+				</crossref>
+				Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born.” Institution of the Lord’s Supper
+				<note nid="n41014021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014022">
+			</marker>
+			<v n="22">
+				And as 
+				<crossref let="r" cid="c41014022.43">
+				</crossref>
+				they were, 
+				<crossref let="s" cid="c41014022.44">
+				</crossref>
+				eating, he took bread, and after blessing it broke it and gave it to them, and said, “Take; this is my body.”
+			</v>
+			<marker class="begin-verse" mid="v41014023">
+			</marker>
+			<v n="23">
+				And he 
+				<crossref let="t" cid="c41014023.45">
+				</crossref>
+				took a, 
+				<crossref let="u" cid="c41014023.46">
+				</crossref>
+				cup, and when he had given thanks he gave it to them, and they all drank of it.
+			</v>
+			<marker class="begin-verse" mid="v41014024">
+			</marker>
+			<v n="24" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="v" cid="c41014024.47">
+				</crossref>
+					said to, 
+					<crossref let="w" cid="c41014024.48">
+				</crossref>
+				them, “This is my blood of the(3) covenant, which is poured out for many.
+					<note nid="n41014024.24">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014025">
+			</marker>
+			<v n="25" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, I 
+					<crossref let="x" cid="c41014025.49">
+				</crossref>
+					say to, 
+					<crossref let="y" cid="c41014025.50">
+				</crossref>
+				you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God.” Jesus Foretells Peter’s Denial
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014026">
+			</marker>
+			<v n="26">
+				And when 
+				<crossref let="z" cid="c41014026.51">
+				</crossref>
+				they had, 
+				<crossref let="a" cid="c41014026.52">
+				</crossref>
+				sung a hymn, they went out to the Mount of Olives.
+			</v>
+			<marker class="begin-verse" mid="v41014027">
+			</marker>
+			<v n="27" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And Jesus 
+					<crossref let="b" cid="c41014027.53">
+				</crossref>
+					said to, 
+					<crossref let="c" cid="c41014027.54">
+				</crossref>
+				them, “You will all fall away, for it is written, ‘I will strike the shepherd, and the sheep will be scattered.’
+					<note nid="n41014027.27">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014028">
+			</marker>
+			<v n="28">
+				But after 
+				<crossref let="d" cid="c41014028.55">
+				</crossref>
+				I am, 
+				<crossref let="e" cid="c41014028.56">
+				</crossref>
+				raised up, I will go before you to Galilee.”
+			</v>
+			<marker class="begin-verse" mid="v41014029">
+			</marker>
+			<v n="29">
+				Peter said 
+				<crossref let="f" cid="c41014029.57">
+				</crossref>
+				to him,, 
+				<crossref let="g" cid="c41014029.58">
+				</crossref>
+				“Even though they all fall away, I will not.”
+			</v>
+			<marker class="begin-verse" mid="v41014030">
+			</marker>
+			<v n="30" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And Jesus 
+					<crossref let="h" cid="c41014030.59">
+				</crossref>
+					said to, 
+					<crossref let="i" cid="c41014030.60">
+				</crossref>
+				him, “Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times.”
+					<note nid="n41014030.30">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014031">
+			</marker>
+			<v n="31" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But he 
+					<crossref let="j" cid="c41014031.61">
+				</crossref>
+					said emphatically,, 
+					<crossref let="k" cid="c41014031.62">
+				</crossref>
+				“If I must die with you, I will not deny you.” And they all said the same. Jesus Prays in Gethsemane
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014032">
+			</marker>
+			<v n="32" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And they 
+					<crossref let="l" cid="c41014032.63">
+				</crossref>
+					went to, 
+					<crossref let="m" cid="c41014032.64">
+				</crossref>
+				a place called Gethsemane. And he said to his disciples, “Sit here while I pray.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014033">
+			</marker>
+			<v n="33">
+				And he 
+				<crossref let="n" cid="c41014033.65">
+				</crossref>
+				took with, 
+				<crossref let="o" cid="c41014033.66">
+				</crossref>
+				him Peter and James and John, and began to be greatly distressed and troubled.
+				<note nid="n41014033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014034">
+			</marker>
+			<v n="34" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="p" cid="c41014034.67">
+				</crossref>
+					said to, 
+					<crossref let="q" cid="c41014034.68">
+				</crossref>
+				them, “My soul is very sorrowful, even to death. Remain here and watch.”(4)
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014035">
+			</marker>
+			<v n="35">
+				And going 
+				<crossref let="r" cid="c41014035.69">
+				</crossref>
+				a little, 
+				<crossref let="s" cid="c41014035.70">
+				</crossref>
+				farther, he fell on the ground and prayed that, if it were possible, the hour might pass from him.
+			</v>
+			<marker class="begin-verse" mid="v41014036">
+			</marker>
+			<v n="36" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="t" cid="c41014036.71">
+				</crossref>
+					said, “Abba,, 
+					<crossref let="u" cid="c41014036.72">
+				</crossref>
+				Father, all things are possible for you. Remove this cup from me. Yet not what I will, but what you will.”
+					<note nid="n41014036.36">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014037">
+			</marker>
+			<v n="37" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="v" cid="c41014037.73">
+				</crossref>
+					came and, 
+					<crossref let="w" cid="c41014037.74">
+				</crossref>
+				found them sleeping, and he said to Peter, “Simon, are you asleep? Could you not watch one hour?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014038">
+			</marker>
+			<v n="38">
+				Watch and 
+				<crossref let="x" cid="c41014038.75">
+				</crossref>
+				pray that, 
+				<crossref let="y" cid="c41014038.76">
+				</crossref>
+				you may not enter into temptation. The spirit indeed is willing, but the flesh is weak.”
+			</v>
+			<marker class="begin-verse" mid="v41014039">
+			</marker>
+			<v n="39">
+				And again 
+				<crossref let="z" cid="c41014039.77">
+				</crossref>
+				he went, 
+				<crossref let="a" cid="c41014039.78">
+				</crossref>
+				away and prayed, saying the same words.
+				<note nid="n41014039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014040">
+			</marker>
+			<v n="40">
+				And again 
+				<crossref let="b" cid="c41014040.79">
+				</crossref>
+				he came, 
+				<crossref let="c" cid="c41014040.80">
+				</crossref>
+				and found them sleeping, for their eyes were very heavy, and they did not know what to answer him.
+			</v>
+			<marker class="begin-verse" mid="v41014041">
+			</marker>
+			<v n="41">
+				And he 
+				<crossref let="d" cid="c41014041.81">
+				</crossref>
+				came the, 
+				<crossref let="e" cid="c41014041.82">
+				</crossref>
+				third time and said to them, “Are you still sleeping and taking your rest? It is enough; the hour has come. The Son of Man is betrayed into the hands of sinners.
+			</v>
+			<marker class="begin-verse" mid="v41014042">
+			</marker>
+			<v n="42">
+				Rise, let 
+				<crossref let="f" cid="c41014042.83">
+				</crossref>
+				us be, 
+				<crossref let="g" cid="c41014042.84">
+				</crossref>
+				going; see, my betrayer is at hand.” Betrayal and Arrest of Jesus
+				<note nid="n41014042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014043">
+			</marker>
+			<v n="43">
+				And immediately, 
+				<crossref let="h" cid="c41014043.85">
+				</crossref>
+				while he, 
+				<crossref let="i" cid="c41014043.86">
+				</crossref>
+				was still speaking, Judas came, one of the twelve, and with him a crowd with swords and clubs, from the chief priests and the scribes and the elders.
+			</v>
+			<marker class="begin-verse" mid="v41014044">
+			</marker>
+			<v n="44">
+				Now the 
+				<crossref let="j" cid="c41014044.87">
+				</crossref>
+				betrayer had, 
+				<crossref let="k" cid="c41014044.88">
+				</crossref>
+				given them a sign, saying, “The one I will kiss is the man. Seize him and lead him away under guard.”
+			</v>
+			<marker class="begin-verse" mid="v41014045">
+			</marker>
+			<v n="45">
+				And when 
+				<crossref let="l" cid="c41014045.89">
+				</crossref>
+				he came,, 
+				<crossref let="m" cid="c41014045.90">
+				</crossref>
+				he went up to him at once and said, “Rabbi!” And he kissed him.
+				<note nid="n41014045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014046">
+			</marker>
+			<v n="46">
+				And they 
+				<crossref let="n" cid="c41014046.91">
+				</crossref>
+				laid hands, 
+				<crossref let="o" cid="c41014046.92">
+				</crossref>
+				on him and seized him.
+			</v>
+			<marker class="begin-verse" mid="v41014047">
+			</marker>
+			<v n="47">
+				But one 
+				<crossref let="p" cid="c41014047.93">
+				</crossref>
+				of those, 
+				<crossref let="q" cid="c41014047.94">
+				</crossref>
+				who stood by drew his sword and struck the servant(5) of the high priest and cut off his ear.
+			</v>
+			<marker class="begin-verse" mid="v41014048">
+			</marker>
+			<v n="48" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And Jesus 
+					<crossref let="r" cid="c41014048.95">
+				</crossref>
+					said to, 
+					<crossref let="s" cid="c41014048.96">
+				</crossref>
+				them, “Have you come out as against a robber, with swords and clubs to capture me?
+					<note nid="n41014048.48">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014049">
+			</marker>
+			<v n="49">
+				Day after 
+				<crossref let="t" cid="c41014049.97">
+				</crossref>
+				day I, 
+				<crossref let="u" cid="c41014049.98">
+				</crossref>
+				was with you in the temple teaching, and you did not seize me. But let the Scriptures be fulfilled.”
+			</v>
+			<marker class="begin-verse" mid="v41014050">
+			</marker>
+			<v n="50">
+				And they 
+				<crossref let="v" cid="c41014050.99">
+				</crossref>
+				all left, 
+				<crossref let="w" cid="c41014050.100">
+				</crossref>
+				him and fled. A Young Man Flees
+			</v>
+			<marker class="begin-verse" mid="v41014051">
+			</marker>
+			<v n="51">
+				And a 
+				<crossref let="x" cid="c41014051.101">
+				</crossref>
+				young man, 
+				<crossref let="y" cid="c41014051.102">
+				</crossref>
+				followed him, with nothing but a linen cloth about his body. And they seized him,
+				<note nid="n41014051.51">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014052">
+			</marker>
+			<v n="52">
+				but he 
+				<crossref let="z" cid="c41014052.103">
+				</crossref>
+				left the, 
+				<crossref let="a" cid="c41014052.104">
+				</crossref>
+				linen cloth and ran away naked. Jesus Before the Council
+			</v>
+			<marker class="begin-verse" mid="v41014053">
+			</marker>
+			<v n="53">
+				And they 
+				<crossref let="b" cid="c41014053.105">
+				</crossref>
+				led Jesus, 
+				<crossref let="c" cid="c41014053.106">
+				</crossref>
+				to the high priest. And all the chief priests and the elders and the scribes came together.
+			</v>
+			<marker class="begin-verse" mid="v41014054">
+			</marker>
+			<v n="54">
+				And Peter 
+				<crossref let="d" cid="c41014054.107">
+				</crossref>
+				had followed, 
+				<crossref let="e" cid="c41014054.108">
+				</crossref>
+				him at a distance, right into the courtyard of the high priest. And he was sitting with the guards and warming himself at the fire.
+				<note nid="n41014054.54">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014055">
+			</marker>
+			<v n="55">
+				Now the 
+				<crossref let="f" cid="c41014055.109">
+				</crossref>
+				chief priests, 
+				<crossref let="g" cid="c41014055.110">
+				</crossref>
+				and the whole council(6) were seeking testimony against Jesus to put him to death, but they found none.
+			</v>
+			<marker class="begin-verse" mid="v41014056">
+			</marker>
+			<v n="56">
+				For many 
+				<crossref let="h" cid="c41014056.111">
+				</crossref>
+				bore false, 
+				<crossref let="i" cid="c41014056.112">
+				</crossref>
+				witness against him, but their testimony did not agree.
+			</v>
+			<marker class="begin-verse" mid="v41014057">
+			</marker>
+			<v n="57">
+				And some 
+				<crossref let="j" cid="c41014057.113">
+				</crossref>
+				stood up, 
+				<crossref let="k" cid="c41014057.114">
+				</crossref>
+				and bore false witness against him, saying,
+				<note nid="n41014057.57">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014058">
+			</marker>
+			<v n="58">
+				“We heard 
+				<crossref let="l" cid="c41014058.115">
+				</crossref>
+				him say,, 
+				<crossref let="m" cid="c41014058.116">
+				</crossref>
+				‘I will destroy this temple that is made with hands, and in three days I will build another, not made with hands.’”
+			</v>
+			<marker class="begin-verse" mid="v41014059">
+			</marker>
+			<v n="59">
+				Yet even 
+				<crossref let="n" cid="c41014059.117">
+				</crossref>
+				about this, 
+				<crossref let="o" cid="c41014059.118">
+				</crossref>
+				their testimony did not agree.
+			</v>
+			<marker class="begin-verse" mid="v41014060">
+			</marker>
+			<v n="60">
+				And the 
+				<crossref let="p" cid="c41014060.119">
+				</crossref>
+				high priest, 
+				<crossref let="q" cid="c41014060.120">
+				</crossref>
+				stood up in the midst and asked Jesus, “Have you no answer to make? What is it that these men testify against you?”(7)
+				<note nid="n41014060.60">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014061">
+			</marker>
+			<v n="61">
+				But he 
+				<crossref let="r" cid="c41014061.121">
+				</crossref>
+				remained silent, 
+				<crossref let="s" cid="c41014061.122">
+				</crossref>
+				and made no answer. Again the high priest asked him, “Are you the Christ, the Son of the Blessed?”
+			</v>
+			<marker class="begin-verse" mid="v41014062">
+			</marker>
+			<v n="62" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And Jesus 
+					<crossref let="t" cid="c41014062.123">
+				</crossref>
+					said, “I, 
+					<crossref let="u" cid="c41014062.124">
+				</crossref>
+				am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v41014063">
+			</marker>
+			<v n="63">
+				And the 
+				<crossref let="v" cid="c41014063.125">
+				</crossref>
+				high priest, 
+				<crossref let="w" cid="c41014063.126">
+				</crossref>
+				tore his garments and said, “What further witnesses do we need?
+				<note nid="n41014063.63">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014064">
+			</marker>
+			<v n="64">
+				You have 
+				<crossref let="x" cid="c41014064.127">
+				</crossref>
+				heard his, 
+				<crossref let="y" cid="c41014064.128">
+				</crossref>
+				blasphemy. What is your decision?” And they all condemned him as deserving death.
+			</v>
+			<marker class="begin-verse" mid="v41014065">
+			</marker>
+			<v n="65">
+				And some 
+				<crossref let="z" cid="c41014065.129">
+				</crossref>
+				began to, 
+				<crossref let="a" cid="c41014065.130">
+				</crossref>
+				spit on him and to cover his face and to strike him, saying to him, “Prophesy!” And the guards received him with blows. Peter Denies Jesus
+			</v>
+			<marker class="begin-verse" mid="v41014066">
+			</marker>
+			<v n="66">
+				And as 
+				<crossref let="b" cid="c41014066.131">
+				</crossref>
+				Peter was, 
+				<crossref let="c" cid="c41014066.132">
+				</crossref>
+				below in the courtyard, one of the servant girls of the high priest came,
+				<note nid="n41014066.66">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014067">
+			</marker>
+			<v n="67">
+				and seeing 
+				<crossref let="d" cid="c41014067.133">
+				</crossref>
+				Peter warming, 
+				<crossref let="e" cid="c41014067.134">
+				</crossref>
+				himself, she looked at him and said, “You also were with the Nazarene, Jesus.”
+			</v>
+			<marker class="begin-verse" mid="v41014068">
+			</marker>
+			<v n="68">
+				But he 
+				<crossref let="f" cid="c41014068.135">
+				</crossref>
+				denied it,, 
+				<crossref let="g" cid="c41014068.136">
+				</crossref>
+				saying, “I neither know nor understand what you mean.” And he went out into the gateway(8) and the rooster crowed.(9)
+			</v>
+			<marker class="begin-verse" mid="v41014069">
+			</marker>
+			<v n="69">
+				And the 
+				<crossref let="h" cid="c41014069.137">
+				</crossref>
+				servant girl, 
+				<crossref let="i" cid="c41014069.138">
+				</crossref>
+				saw him and began again to say to the bystanders, “This man is one of them.”
+				<note nid="n41014069.69">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014070">
+			</marker>
+			<v n="70">
+				But again 
+				<crossref let="j" cid="c41014070.139">
+				</crossref>
+				he denied, 
+				<crossref let="k" cid="c41014070.140">
+				</crossref>
+				it. And after a little while the bystanders again said to Peter, “Certainly you are one of them, for you are a Galilean.”
+			</v>
+			<marker class="begin-verse" mid="v41014071">
+			</marker>
+			<v n="71">
+				But he 
+				<crossref let="l" cid="c41014071.141">
+				</crossref>
+				began to, 
+				<crossref let="m" cid="c41014071.142">
+				</crossref>
+				invoke a curse on himself and to swear, “I do not know this man of whom you speak.”
+			</v>
+			<marker class="begin-verse" mid="v41014072">
+			</marker>
+			<v n="72">
+				And immediately 
+				<crossref let="n" cid="c41014072.143">
+				</crossref>
+				the rooster, 
+				<crossref let="o" cid="c41014072.144">
+				</crossref>
+				crowed a second time. And Peter remembered how Jesus had said to him, “Before the rooster crows twice, you will deny me three times.” And he broke down and wept.(10) Footnotes (1) 14:3 *Leprosy* was a term for several skin diseases; see Leviticus 13 (2) 14:5 A *denarius* was a day’s wage for a laborer (3) 14:24 Some manuscripts insert *new* (4) 14:34 Or *keep awake*; also verses 37, 38 (5) 14:47 Or *bondservant* (6) 14:55 Greek *Sanhedrin* (7) 14:60 Or *Have you no answer to what these men testify against you?* (8) 14:68 Or *forecourt* (9) 14:68 Some manuscripts omit *and the rooster crowed* (10) 14:72 Or *And when he had thought about it, he wept* (ESV)
+				<note nid="n41014072.72">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v41014073">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

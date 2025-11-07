@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:57:43.925061</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:57:43.925085</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19020001"/>
+		<chapter num="20">
+			<heading>To the chief Musician, A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c190201.1"/>
+				 hear thee in the day of trouble; the name of the God of Jacob defend thee;
+			</v>
+			<marker class="begin-verse" mid="v19020002"/>
+			<v n="2">
+				Send thee 
+				<crossref let="c" cid="c190202.1"/>
+				 help from the sanctuary, and strengthen thee out of Zion;
+			</v>
+			<marker class="begin-verse" mid="v19020003"/>
+			<v n="3">
+				Remember all 
+				<crossref let="d" cid="c190203.1"/>
+				 thy offerings, and accept thy burnt sacrifice; Selah.
+			</v>
+			<marker class="begin-verse" mid="v19020004"/>
+			<v n="4">
+				Grant thee 
+				<crossref let="e" cid="c190204.1"/>
+				 according to thine own heart, and fulfil all thy counsel.
+			</v>
+			<marker class="begin-verse" mid="v19020005"/>
+			<v n="5">
+				We will 
+				<crossref let="f" cid="c190205.1"/>
+				 rejoice in thy salvation, and in the name of our God we will set up our banners: the LORD fulfil all thy petitions.
+			</v>
+			<marker class="begin-verse" mid="v19020006"/>
+			<v n="6">
+				Now know 
+				<crossref let="g" cid="c190206.1"/>
+				 I that the LORD saveth his anointed; he will hear him from his holy heaven with the saving strength of his right hand.
+			</v>
+			<marker class="begin-verse" mid="v19020007"/>
+			<v n="7">
+				Some trust 
+				<crossref let="h" cid="c190207.1"/>
+				 in chariots, and some in horses: but we will remember the name of the LORD our God.
+			</v>
+			<marker class="begin-verse" mid="v19020008"/>
+			<v n="8">
+				They are 
+				<crossref let="i" cid="c190208.1"/>
+				 brought down and fallen: but we are risen, and stand upright.
+			</v>
+			<marker class="begin-verse" mid="v19020009"/>
+			<v n="9">
+				Save, LORD: 
+				<crossref let="j" cid="c190209.1"/>
+				 let the king hear us when we call.
+			</v>
+			<marker class="begin-verse" mid="v19020010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:35:37.569320</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:35:37.569337</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="BSB" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02016001"/>
+		<chapter num="16">
+			<heading>Manna and Quail from Heaven</heading>
+			<begin-paragraph/>
+			<v n="1">
+				On the 
+				<crossref let="b" cid="c020161.1"/>
+				 fifteenth day of the second month after they had left the land of Egypt, the whole congregation of Israel set out from Elim and came to the Desert of Sin, which is between Elim and Sinai.
+			</v>
+			<marker class="begin-verse" mid="v02016002"/>
+			<v n="2">
+				And there 
+				<crossref let="c" cid="c020162.1"/>
+				 in the desert they all grumbled against Moses and Aaron.
+			</v>
+			<marker class="begin-verse" mid="v02016003"/>
+			<v n="3">
+				“If only 
+				<crossref let="d" cid="c020163.1"/>
+				 we had died by the LORD’s hand in the land of Egypt!” they said. “There we sat by pots of meat and ate our fill of bread, but you have brought us into this desert to starve this whole assembly to death!”
+			</v>
+			<marker class="begin-verse" mid="v02016004"/>
+			<v n="4">
+				Then the 
+				<crossref let="e" cid="c020164.1"/>
+				 LORD said to Moses, “Behold, I will rain down bread from heaven for you. Each day the people are to go out and gather enough for that day. In this way I will test whether or not they will follow My instructions.
+			</v>
+			<marker class="begin-verse" mid="v02016005"/>
+			<v n="5">
+				Then on 
+				<crossref let="f" cid="c020165.1"/>
+				 the sixth day, when they prepare what they bring in, it will be twice as much as they gather on the other days.”
+			</v>
+			<marker class="begin-verse" mid="v02016006"/>
+			<v n="6">
+				So Moses 
+				<crossref let="g" cid="c020166.1"/>
+				 and Aaron said to all the Israelites, “This evening you will know that it was the LORD who brought you out of the land of Egypt,
+			</v>
+			<marker class="begin-verse" mid="v02016007"/>
+			<v n="7">
+				and in 
+				<crossref let="h" cid="c020167.1"/>
+				 the morning you will see the LORD’s glory, because He has heard your grumbling against Him. For who are we that you should grumble against us?”
+			</v>
+			<marker class="begin-verse" mid="v02016008"/>
+			<v n="8">
+				And Moses 
+				<crossref let="i" cid="c020168.1"/>
+				 added, “The LORD will give you meat to eat this evening and bread to fill you in the morning, for He has heard your grumbling against Him. Who are we? Your grumblings are not against us but against the LORD.”
+			</v>
+			<marker class="begin-verse" mid="v02016009"/>
+			<v n="9">
+				Then Moses 
+				<crossref let="j" cid="c020169.1"/>
+				 said to Aaron, “Tell the whole congregation of Israel, ‘Come before the LORD, for He has heard your grumbling.’”
+			</v>
+			<marker class="begin-verse" mid="v02016010"/>
+			<v n="10">
+				And as 
+				<crossref let="k" cid="c0201610.1"/>
+				 Aaron was speaking to the whole congregation of Israel, they looked toward the desert, and there in a cloud the glory of the LORD appeared.
+			</v>
+			<marker class="begin-verse" mid="v02016011"/>
+			<v n="11">
+				Then the 
+				<crossref let="l" cid="c0201611.1"/>
+				 LORD said to Moses,
+			</v>
+			<marker class="begin-verse" mid="v02016012"/>
+			<v n="12">
+				“I have 
+				<crossref let="m" cid="c0201612.1"/>
+				 heard the grumbling of the Israelites. Tell them, ‘At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the LORD your God.’”
+			</v>
+			<marker class="begin-verse" mid="v02016013"/>
+			<v n="13">
+				That evening 
+				<crossref let="n" cid="c0201613.1"/>
+				 quail came and covered the camp, and in the morning there was a layer of dew around the camp.
+			</v>
+			<marker class="begin-verse" mid="v02016014"/>
+			<v n="14">
+				When the 
+				<crossref let="o" cid="c0201614.1"/>
+				 layer of dew had evaporated, there were thin flakes on the desert floor, as fine as frost on the ground.
+			</v>
+			<marker class="begin-verse" mid="v02016015"/>
+			<v n="15">
+				When the 
+				<crossref let="p" cid="c0201615.1"/>
+				 Israelites saw it, they asked one another, “What is it?” For they did not know what it was.So Moses told them, “It is the bread that the LORD has given you to eat.
+			</v>
+			<marker class="begin-verse" mid="v02016016"/>
+			<v n="16">
+				This is 
+				<crossref let="q" cid="c0201616.1"/>
+				 what the LORD has commanded: ‘Each one is to gather as much as he needs. You may take an omer for each person in your tent.’”
+			</v>
+			<marker class="begin-verse" mid="v02016017"/>
+			<v n="17">
+				So the 
+				<crossref let="r" cid="c0201617.1"/>
+				 Israelites did this. Some gathered more, and some less.
+			</v>
+			<marker class="begin-verse" mid="v02016018"/>
+			<v n="18">
+				When they 
+				<crossref let="s" cid="c0201618.1"/>
+				 measured it by the omer, he who gathered much had no excess, and he who gathered little had no shortfall. Each one gathered as much as he needed to eat.
+			</v>
+			<marker class="begin-verse" mid="v02016019"/>
+			<v n="19">
+				Then Moses 
+				<crossref let="t" cid="c0201619.1"/>
+				 said to them, “No one may keep any of it until morning.”
+			</v>
+			<marker class="begin-verse" mid="v02016020"/>
+			<v n="20">
+				But they 
+				<crossref let="u" cid="c0201620.1"/>
+				 did not listen to Moses; some people left part of it until morning, and it became infested with maggots and began to smell. So Moses was angry with them.
+			</v>
+			<marker class="begin-verse" mid="v02016021"/>
+			<v n="21">
+				Every morning 
+				<crossref let="v" cid="c0201621.1"/>
+				 each one gathered as much as was needed, and when the sun grew hot, it melted away.The Sabbath Observed(Genesis 2:1–3; Hebrews 4:1–11)
+			</v>
+			<marker class="begin-verse" mid="v02016022"/>
+			<v n="22">
+				On the 
+				<crossref let="w" cid="c0201622.1"/>
+				 sixth day, they gathered twice as much food—two omers per person —and all the leaders of the congregation came and reported this to Moses.
+			</v>
+			<marker class="begin-verse" mid="v02016023"/>
+			<v n="23">
+				He told 
+				<crossref let="x" cid="c0201623.1"/>
+				 them, “This is what the LORD has said: ‘Tomorrow is to be a day of complete rest, a holy Sabbath to the LORD. So bake what you want to bake, and boil what you want to boil. Then set aside whatever remains and keep it until morning.’”
+			</v>
+			<marker class="begin-verse" mid="v02016024"/>
+			<v n="24">
+				So they 
+				<crossref let="y" cid="c0201624.1"/>
+				 set it aside until morning as Moses had commanded, and it did not smell or contain any maggots.
+			</v>
+			<marker class="begin-verse" mid="v02016025"/>
+			<v n="25">
+				“Eat it 
+				<crossref let="z" cid="c0201625.1"/>
+				 today,” Moses said, “because today is a Sabbath to the LORD. Today you will not find anything in the field.
+			</v>
+			<marker class="begin-verse" mid="v02016026"/>
+			<v n="26">
+				For six 
+				<crossref let="a" cid="c0201626.1"/>
+				 days you may gather, but on the seventh day, the Sabbath, it will not be there.”
+			</v>
+			<marker class="begin-verse" mid="v02016027"/>
+			<v n="27">
+				Yet on 
+				<crossref let="b" cid="c0201627.1"/>
+				 the seventh day some of the people went out to gather, but they did not find anything.
+			</v>
+			<marker class="begin-verse" mid="v02016028"/>
+			<v n="28">
+				Then the 
+				<crossref let="c" cid="c0201628.1"/>
+				 LORD said to Moses, “How long will you refuse to keep My commandments and instructions?
+			</v>
+			<marker class="begin-verse" mid="v02016029"/>
+			<v n="29">
+				Understand that 
+				<crossref let="d" cid="c0201629.1"/>
+				 the LORD has given you the Sabbath; that is why on the sixth day He will give you bread for two days. On the seventh day, everyone must stay where he is; no one may leave his place.”
+			</v>
+			<marker class="begin-verse" mid="v02016030"/>
+			<v n="30">
+				So the 
+				<crossref let="e" cid="c0201630.1"/>
+				 people rested on the seventh day.The Jar of Manna
+			</v>
+			<marker class="begin-verse" mid="v02016031"/>
+			<v n="31">
+				Now the 
+				<crossref let="f" cid="c0201631.1"/>
+				 house of Israel called the bread manna. It was white like coriander seed and tasted like wafers made with honey.
+			</v>
+			<marker class="begin-verse" mid="v02016032"/>
+			<v n="32">
+				Moses said, 
+				<crossref let="g" cid="c0201632.1"/>
+				 “This is what the LORD has commanded: ‘Keep an omer of manna for the generations to come, so that they may see the bread I fed you in the wilderness when I brought you out of the land of Egypt.’”
+			</v>
+			<marker class="begin-verse" mid="v02016033"/>
+			<v n="33">
+				So Moses 
+				<crossref let="h" cid="c0201633.1"/>
+				 told Aaron, “Take a jar and fill it with an omer of manna. Then place it before the LORD to be preserved for the generations to come.”
+			</v>
+			<marker class="begin-verse" mid="v02016034"/>
+			<v n="34">
+				And Aaron 
+				<crossref let="i" cid="c0201634.1"/>
+				 placed it in front of the Testimony, to be preserved just as the LORD had commanded Moses.
+			</v>
+			<marker class="begin-verse" mid="v02016035"/>
+			<v n="35">
+				The Israelites 
+				<crossref let="j" cid="c0201635.1"/>
+				 ate manna forty years, until they came to a land where they could settle; they ate manna until they reached the border of Canaan.
+			</v>
+			<marker class="begin-verse" mid="v02016036"/>
+			<v n="36">
+				(Now an 
+				<crossref let="k" cid="c0201636.1"/>
+				 omer is a tenth of an ephah.)
+			</v>
+			<marker class="begin-verse" mid="v02016037"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

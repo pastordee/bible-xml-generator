@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:45:11.899195</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:45:11.899203</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19012001"/>
+		<chapter num="12">
+			<heading>For the choir director: A psalm of David, to be accompanied by an eight-stringed instrument.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Help, O 
+				<crossref let="b" cid="c190121.1"/>
+				 Lord, for the godly are fast disappearing!The faithful have vanished from the earth!
+			</v>
+			<marker class="begin-verse" mid="v19012002"/>
+			<v n="2">
+				Neighbors lie 
+				<crossref let="c" cid="c190122.1"/>
+				 to each other,speaking with flattering lips and deceitful hearts.
+			</v>
+			<marker class="begin-verse" mid="v19012003"/>
+			<v n="3">
+				May the 
+				<crossref let="d" cid="c190123.1"/>
+				 Lord cut off their flattering lipsand silence their boastful tongues.
+			</v>
+			<marker class="begin-verse" mid="v19012004"/>
+			<v n="4">
+				They say, 
+				<crossref let="e" cid="c190124.1"/>
+				 “We will lie to our hearts’ content.Our lips are our own—who can stop us?”
+			</v>
+			<marker class="begin-verse" mid="v19012005"/>
+			<v n="5">
+				The Lord 
+				<crossref let="f" cid="c190125.1"/>
+				 replies, “I have seen violence done to the helpless,and I have heard the groans of the poor.Now I will rise up to rescue them,as they have longed for me to do.”
+			</v>
+			<marker class="begin-verse" mid="v19012006"/>
+			<v n="6">
+				The Lord’s 
+				<crossref let="g" cid="c190126.1"/>
+				 promises are pure,like silver refined in a furnace,purified seven times over.
+			</v>
+			<marker class="begin-verse" mid="v19012007"/>
+			<v n="7">
+				Therefore, Lord, 
+				<crossref let="h" cid="c190127.1"/>
+				 we know you will protect the oppressed,preserving them forever from this lying generation,
+			</v>
+			<marker class="begin-verse" mid="v19012008"/>
+			<v n="8">
+				even though 
+				<crossref let="i" cid="c190128.1"/>
+				 the wicked strut about,and evil is praised throughout the land.
+			</v>
+			<marker class="begin-verse" mid="v19012009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:42:09.962194</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:42:09.962207</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19006001"/>
+		<chapter num="6">
+			<heading>For the Chief Musician; on stringed instruments, upon the eight-stringed lyre. A Psalm by David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh, don’t 
+				<crossref let="b" cid="c190061.1"/>
+				 rebuke me in your anger,neither discipline me in your wrath.
+			</v>
+			<marker class="begin-verse" mid="v19006002"/>
+			<v n="2">
+				Have mercy 
+				<crossref let="c" cid="c190062.1"/>
+				 on me, Yahweh, for I am faint.Yahweh, heal me, for my bones are troubled.
+			</v>
+			<marker class="begin-verse" mid="v19006003"/>
+			<v n="3">
+				My soul 
+				<crossref let="d" cid="c190063.1"/>
+				 is also in great anguish.But you, Yahweh—how long?
+			</v>
+			<marker class="begin-verse" mid="v19006004"/>
+			<v n="4">
+				Return, Yahweh. 
+				<crossref let="e" cid="c190064.1"/>
+				 Deliver my soul,and save me for your loving kindness’ sake.
+			</v>
+			<marker class="begin-verse" mid="v19006005"/>
+			<v n="5">
+				For in 
+				<crossref let="f" cid="c190065.1"/>
+				 death there is no memory of you.In Sheol, who shall give you thanks?
+			</v>
+			<marker class="begin-verse" mid="v19006006"/>
+			<v n="6">
+				I am 
+				<crossref let="g" cid="c190066.1"/>
+				 weary with my groaning.Every night I flood my bed.I drench my couch with my tears.
+			</v>
+			<marker class="begin-verse" mid="v19006007"/>
+			<v n="7">
+				My eye 
+				<crossref let="h" cid="c190067.1"/>
+				 wastes away because of grief.It grows old because of all my adversaries.
+			</v>
+			<marker class="begin-verse" mid="v19006008"/>
+			<v n="8">
+				Depart from 
+				<crossref let="i" cid="c190068.1"/>
+				 me, all you workers of iniquity,for Yahweh has heard the voice of my weeping.
+			</v>
+			<marker class="begin-verse" mid="v19006009"/>
+			<v n="9">
+				Yahweh has 
+				<crossref let="j" cid="c190069.1"/>
+				 heard my supplication.Yahweh accepts my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19006010"/>
+			<v n="10">
+				May all 
+				<crossref let="k" cid="c1900610.1"/>
+				 my enemies be ashamed and dismayed.They shall turn back, they shall be disgraced suddenly.
+			</v>
+			<marker class="begin-verse" mid="v19006011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

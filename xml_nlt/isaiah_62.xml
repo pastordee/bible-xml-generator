@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T15:07:35.784705</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T15:07:35.784738</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="NLT" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23062001"/>
+		<chapter num="62">
+			<heading>Isaiah’s Prayer for Jerusalem</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Because I 
+				<crossref let="b" cid="c230621.1"/>
+				 love Zion,I will not keep still.Because my heart yearns for Jerusalem,I cannot remain silent.I will not stop praying for heruntil her righteousness shines like the dawn,and her salvation blazes like a burning torch.
+			</v>
+			<marker class="begin-verse" mid="v23062002"/>
+			<v n="2">
+				The nations 
+				<crossref let="c" cid="c230622.1"/>
+				 will see your righteousness.World leaders will be blinded by your glory.And you will be given a new nameby the Lord’s own mouth.
+			</v>
+			<marker class="begin-verse" mid="v23062003"/>
+			<v n="3">
+				The Lord 
+				<crossref let="d" cid="c230623.1"/>
+				 will hold you in his hand for all to see—a splendid crown in the hand of God.
+			</v>
+			<marker class="begin-verse" mid="v23062004"/>
+			<v n="4">
+				Never again 
+				<crossref let="e" cid="c230624.1"/>
+				 will you be called “The Forsaken City”or “The Desolate Land.”Your new name will be “The City of God’s Delight”and “The Bride of God,”for the Lord delights in youand will claim you as his bride.
+			</v>
+			<marker class="begin-verse" mid="v23062005"/>
+			<v n="5">
+				Your children 
+				<crossref let="f" cid="c230625.1"/>
+				 will commit themselves to you, O Jerusalem,just as a young man commits himself to his bride.Then God will rejoice over youas a bridegroom rejoices over his bride.
+			</v>
+			<marker class="begin-verse" mid="v23062006"/>
+			<v n="6">
+				O Jerusalem, 
+				<crossref let="g" cid="c230626.1"/>
+				 I have posted watchmen on your walls;they will pray day and night, continually.Take no rest, all you who pray to the Lord.
+			</v>
+			<marker class="begin-verse" mid="v23062007"/>
+			<v n="7">
+				Give the 
+				<crossref let="h" cid="c230627.1"/>
+				 Lord no rest until he completes his work,until he makes Jerusalem the pride of the earth.
+			</v>
+			<marker class="begin-verse" mid="v23062008"/>
+			<v n="8">
+				The Lord 
+				<crossref let="i" cid="c230628.1"/>
+				 has sworn to Jerusalem by his own strength:“I will never again hand you over to your enemies.Never again will foreign warriors comeand take away your grain and new wine.
+			</v>
+			<marker class="begin-verse" mid="v23062009"/>
+			<v n="9">
+				You raised 
+				<crossref let="j" cid="c230629.1"/>
+				 the grain, and you will eat it,praising the Lord.Within the courtyards of the Temple,you yourselves will drink the wine you have pressed.”
+			</v>
+			<marker class="begin-verse" mid="v23062010"/>
+			<v n="10">
+				Go out 
+				<crossref let="k" cid="c2306210.1"/>
+				 through the gates!Prepare the highway for my people to return!Smooth out the road; pull out the boulders;raise a flag for all the nations to see.
+			</v>
+			<marker class="begin-verse" mid="v23062011"/>
+			<v n="11">
+				The Lord 
+				<crossref let="l" cid="c2306211.1"/>
+				 has sent this message to every land:“Tell the people of Israel,‘Look, your Savior is coming.See, he brings his reward with him as he comes.’”
+			</v>
+			<marker class="begin-verse" mid="v23062012"/>
+			<v n="12">
+				They will 
+				<crossref let="m" cid="c2306212.1"/>
+				 be called “The Holy People”and “The People Redeemed by the Lord.”And Jerusalem will be known as “The Desirable Place”and “The City No Longer Forsaken.”
+			</v>
+			<marker class="begin-verse" mid="v23062013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

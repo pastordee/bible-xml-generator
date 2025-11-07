@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:18:14.169726</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:18:14.169744</next_refresh_due>
+	</generation_info>
+	<book title="Romans" num="45" testament="new" version="ASV" bookAbbr="rom">
+		<marker class="begin-verse" mid="v45013001"/>
+		<chapter num="13">
+			<begin-paragraph/>
+			<v n="1">
+				Let every 
+				<crossref let="b" cid="c450131.1"/>
+				 soul be in subjection to the higher powers: for there is no power but of God; and the powers that be are ordained of God.
+			</v>
+			<marker class="begin-verse" mid="v45013002"/>
+			<v n="2">
+				Therefore he 
+				<crossref let="c" cid="c450132.1"/>
+				 that resisteth the power, withstandeth the ordinance of God: and they that withstand shall receive to themselves judgment.
+			</v>
+			<marker class="begin-verse" mid="v45013003"/>
+			<v n="3">
+				For rulers 
+				<crossref let="d" cid="c450133.1"/>
+				 are not a terror to the good work, but to the evil. And wouldest thou have no fear of the power? do that which is good, and thou shalt have praise from the same:
+			</v>
+			<marker class="begin-verse" mid="v45013004"/>
+			<v n="4">
+				for he 
+				<crossref let="e" cid="c450134.1"/>
+				 is a minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is a minister of God, an avenger for wrath to him that doeth evil.
+			</v>
+			<marker class="begin-verse" mid="v45013005"/>
+			<v n="5">
+				Wherefore ye 
+				<crossref let="f" cid="c450135.1"/>
+				 must needs be in subjection, not only because of the wrath, but also for conscience’ sake.
+			</v>
+			<marker class="begin-verse" mid="v45013006"/>
+			<v n="6">
+				For for 
+				<crossref let="g" cid="c450136.1"/>
+				 this cause ye pay tribute also; for they are ministers of God’s service, attending continually upon this very thing.
+			</v>
+			<marker class="begin-verse" mid="v45013007"/>
+			<v n="7">
+				Render to 
+				<crossref let="h" cid="c450137.1"/>
+				 all their dues: tribute to whom tribute is due; custom to whom custom; fear to whom fear; honor to whom honor.
+			</v>
+			<marker class="begin-verse" mid="v45013008"/>
+			<v n="8">
+				Owe no 
+				<crossref let="i" cid="c450138.1"/>
+				 man anything, save to love one another: for he that loveth his neighbor hath fulfilled the law.
+			</v>
+			<marker class="begin-verse" mid="v45013009"/>
+			<v n="9">
+				For this, 
+				<crossref let="j" cid="c450139.1"/>
+				 Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not covet, and if there be any other commandment, it is summed up in this word, namely, Thou shalt love thy neighbor as thyself.
+			</v>
+			<marker class="begin-verse" mid="v45013010"/>
+			<v n="10">
+				Love worketh 
+				<crossref let="k" cid="c4501310.1"/>
+				 no ill to his neighbor: love therefore is the fulfilment of the law.
+			</v>
+			<marker class="begin-verse" mid="v45013011"/>
+			<v n="11">
+				And this, 
+				<crossref let="l" cid="c4501311.1"/>
+				 knowing the season, that already it is time for you to awake out of sleep: for now is salvation nearer to us than when we first believed.
+			</v>
+			<marker class="begin-verse" mid="v45013012"/>
+			<v n="12">
+				The night 
+				<crossref let="m" cid="c4501312.1"/>
+				 is far spent, and the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light.
+			</v>
+			<marker class="begin-verse" mid="v45013013"/>
+			<v n="13">
+				Let us 
+				<crossref let="n" cid="c4501313.1"/>
+				 walk becomingly, as in the day; not in revelling and drunkenness, not in chambering and wantonness, not in strife and jealousy.
+			</v>
+			<marker class="begin-verse" mid="v45013014"/>
+			<v n="14">
+				But put 
+				<crossref let="o" cid="c4501314.1"/>
+				 ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.
+			</v>
+			<marker class="begin-verse" mid="v45013015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

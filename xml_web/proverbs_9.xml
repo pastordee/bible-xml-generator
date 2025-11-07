@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:55:47.219052</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:55:47.219081</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" version="WEB" bookAbbr="pro">
+		<marker class="begin-verse" mid="v20009001"/>
+		<chapter num="9">
+			<begin-paragraph/>
+			<v n="1">
+				Wisdom has 
+				<crossref let="b" cid="c200091.1"/>
+				 built her house.She has carved out her seven pillars.
+			</v>
+			<marker class="begin-verse" mid="v20009002"/>
+			<v n="2">
+				She has 
+				<crossref let="c" cid="c200092.1"/>
+				 prepared her meat.She has mixed her wine.She has also set her table.
+			</v>
+			<marker class="begin-verse" mid="v20009003"/>
+			<v n="3">
+				She has 
+				<crossref let="d" cid="c200093.1"/>
+				 sent out her maidens.She cries from the highest places of the city:
+			</v>
+			<marker class="begin-verse" mid="v20009004"/>
+			<v n="4">
+				“Whoever is 
+				<crossref let="e" cid="c200094.1"/>
+				 simple, let him turn in here!”As for him who is void of understanding, she says to him,
+			</v>
+			<marker class="begin-verse" mid="v20009005"/>
+			<v n="5">
+				“Come, eat 
+				<crossref let="f" cid="c200095.1"/>
+				 some of my bread,Drink some of the wine which I have mixed!
+			</v>
+			<marker class="begin-verse" mid="v20009006"/>
+			<v n="6">
+				Leave your 
+				<crossref let="g" cid="c200096.1"/>
+				 simple ways, and live.Walk in the way of understanding.”
+			</v>
+			<marker class="begin-verse" mid="v20009007"/>
+			<v n="7">
+				One who 
+				<crossref let="h" cid="c200097.1"/>
+				 corrects a mocker invites insult.One who reproves a wicked man invites abuse.
+			</v>
+			<marker class="begin-verse" mid="v20009008"/>
+			<v n="8">
+				Don’t reprove 
+				<crossref let="i" cid="c200098.1"/>
+				 a scoffer, lest he hate you.Reprove a wise person, and he will love you.
+			</v>
+			<marker class="begin-verse" mid="v20009009"/>
+			<v n="9">
+				Instruct a 
+				<crossref let="j" cid="c200099.1"/>
+				 wise person, and he will be still wiser.Teach a righteous person, and he will increase in learning.
+			</v>
+			<marker class="begin-verse" mid="v20009010"/>
+			<v n="10">
+				The fear 
+				<crossref let="k" cid="c2000910.1"/>
+				 of Yahweh is the beginning of wisdom.The knowledge of the Holy One is understanding.
+			</v>
+			<marker class="begin-verse" mid="v20009011"/>
+			<v n="11">
+				For by 
+				<crossref let="l" cid="c2000911.1"/>
+				 me your days will be multiplied.The years of your life will be increased.
+			</v>
+			<marker class="begin-verse" mid="v20009012"/>
+			<v n="12">
+				If you 
+				<crossref let="m" cid="c2000912.1"/>
+				 are wise, you are wise for yourself.If you mock, you alone will bear it.
+			</v>
+			<marker class="begin-verse" mid="v20009013"/>
+			<v n="13">
+				The foolish 
+				<crossref let="n" cid="c2000913.1"/>
+				 woman is loud,undisciplined, and knows nothing.
+			</v>
+			<marker class="begin-verse" mid="v20009014"/>
+			<v n="14">
+				She sits 
+				<crossref let="o" cid="c2000914.1"/>
+				 at the door of her house,on a seat in the high places of the city,
+			</v>
+			<marker class="begin-verse" mid="v20009015"/>
+			<v n="15">
+				to call 
+				<crossref let="p" cid="c2000915.1"/>
+				 to those who pass by,who go straight on their ways,
+			</v>
+			<marker class="begin-verse" mid="v20009016"/>
+			<v n="16">
+				“Whoever is 
+				<crossref let="q" cid="c2000916.1"/>
+				 simple, let him turn in here.”As for him who is void of understanding, she says to him,
+			</v>
+			<marker class="begin-verse" mid="v20009017"/>
+			<v n="17">
+				“Stolen water 
+				<crossref let="r" cid="c2000917.1"/>
+				 is sweet.Food eaten in secret is pleasant.”
+			</v>
+			<marker class="begin-verse" mid="v20009018"/>
+			<v n="18">
+				But he 
+				<crossref let="s" cid="c2000918.1"/>
+				 doesn’t know that the departed spirits are there,that her guests are in the depths of Sheol.
+			</v>
+			<marker class="begin-verse" mid="v20009019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:05:50.584299</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:05:50.584305</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19111001"/>
+		<chapter num="111">
+			<begin-paragraph/>
+			<v n="1">
+				Praise ye 
+				<crossref let="b" cid="c191111.1"/>
+				 the LORD. I will praise the LORD with my whole heart, in the assembly of the upright, and in the congregation.
+			</v>
+			<marker class="begin-verse" mid="v19111002"/>
+			<v n="2">
+				The works 
+				<crossref let="c" cid="c191112.1"/>
+				 of the LORD are great, sought out of all them that have pleasure therein.
+			</v>
+			<marker class="begin-verse" mid="v19111003"/>
+			<v n="3">
+				His work 
+				<crossref let="d" cid="c191113.1"/>
+				 is honourable and glorious: and his righteousness endureth for ever.
+			</v>
+			<marker class="begin-verse" mid="v19111004"/>
+			<v n="4">
+				He hath 
+				<crossref let="e" cid="c191114.1"/>
+				 made his wonderful works to be remembered: the LORD is gracious and full of compassion.
+			</v>
+			<marker class="begin-verse" mid="v19111005"/>
+			<v n="5">
+				He hath 
+				<crossref let="f" cid="c191115.1"/>
+				 given meat unto them that fear him: he will ever be mindful of his covenant.
+			</v>
+			<marker class="begin-verse" mid="v19111006"/>
+			<v n="6">
+				He hath 
+				<crossref let="g" cid="c191116.1"/>
+				 shewed his people the power of his works, that he may give them the heritage of the heathen.
+			</v>
+			<marker class="begin-verse" mid="v19111007"/>
+			<v n="7">
+				The works 
+				<crossref let="h" cid="c191117.1"/>
+				 of his hands are verity and judgment; all his commandments are sure.
+			</v>
+			<marker class="begin-verse" mid="v19111008"/>
+			<v n="8">
+				They stand 
+				<crossref let="i" cid="c191118.1"/>
+				 fast for ever and ever, and are done in truth and uprightness.
+			</v>
+			<marker class="begin-verse" mid="v19111009"/>
+			<v n="9">
+				He sent 
+				<crossref let="j" cid="c191119.1"/>
+				 redemption unto his people: he hath commanded his covenant for ever: holy and reverend is his name.
+			</v>
+			<marker class="begin-verse" mid="v19111010"/>
+			<v n="10">
+				The fear 
+				<crossref let="k" cid="c1911110.1"/>
+				 of the LORD is the beginning of wisdom: a good understanding have all they that do his commandments: his praise endureth for ever.
+			</v>
+			<marker class="begin-verse" mid="v19111011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

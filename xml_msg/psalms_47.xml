@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:15:18.088771</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:15:18.088787</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19047001"/>
+		<chapter num="47">
+			<heading>For the music director. A psalm of the sons of Korah.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Everyone, clap 
+				<crossref let="b" cid="c190471.1"/>
+				 your hands! Shout with joy to the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19047002"/>
+			<v n="2">
+				For the 
+				<crossref let="c" cid="c190472.1"/>
+				 Lord Most High is awe-inspiring; he is the great King of all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19047003"/>
+			<v n="3">
+				He subdues 
+				<crossref let="d" cid="c190473.1"/>
+				 other peoples under us; he puts nations under our feet.
+			</v>
+			<marker class="begin-verse" mid="v19047004"/>
+			<v n="4">
+				He chose 
+				<crossref let="e" cid="c190474.1"/>
+				 the land for us to own; the proud possession of Jacob's descendants whom he loves. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19047005"/>
+			<v n="5">
+				God ascends 
+				<crossref let="f" cid="c190475.1"/>
+				 his throne with a great shout, the Lord is accompanied by the sound of the trumpet.
+			</v>
+			<marker class="begin-verse" mid="v19047006"/>
+			<v n="6">
+				Sing praises 
+				<crossref let="g" cid="c190476.1"/>
+				 to God, sing praises; sing praises to our King, sing praises!
+			</v>
+			<marker class="begin-verse" mid="v19047007"/>
+			<v n="7">
+				For God 
+				<crossref let="h" cid="c190477.1"/>
+				 is King of all the earth; sing praises with a psalm!
+			</v>
+			<marker class="begin-verse" mid="v19047008"/>
+			<v n="8">
+				God rules 
+				<crossref let="i" cid="c190478.1"/>
+				 over the nations; he sits on his holy throne.
+			</v>
+			<marker class="begin-verse" mid="v19047009"/>
+			<v n="9">
+				The rulers 
+				<crossref let="j" cid="c190479.1"/>
+				 of the nations gather together with the people of the God of Abraham, for the defenders of the earth belong to God. He is highly honored everywhere.
+			</v>
+			<marker class="begin-verse" mid="v19047010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

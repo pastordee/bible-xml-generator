@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:18.438197</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:18.438215</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Psalm 6
+			</heading>
+			<heading>
+				O LORD, Deliver My Life
+			</heading>
+			<heading>
+				To the choirmaster: with stringed instruments; according to The Sheminith.(1) A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				O LORD, 
+				<crossref let="b" cid="c19006001.1">
+				</crossref>
+				rebuke me, 
+				<crossref let="c" cid="c19006001.2">
+				</crossref>
+				not in your anger, nor discipline me in your wrath.
+			</v>
+			<marker class="begin-verse" mid="v19006002">
+			</marker>
+			<v n="2">
+				Be gracious 
+				<crossref let="d" cid="c19006002.3">
+				</crossref>
+				to me,, 
+				<crossref let="e" cid="c19006002.4">
+				</crossref>
+				O LORD, for I am languishing; heal me, O LORD, for my bones are troubled.
+			</v>
+			<marker class="begin-verse" mid="v19006003">
+			</marker>
+			<v n="3">
+				My soul 
+				<crossref let="f" cid="c19006003.5">
+				</crossref>
+				also is, 
+				<crossref let="g" cid="c19006003.6">
+				</crossref>
+				greatly troubled. But you, O LORD—how long?
+				<note nid="n19006003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19006004">
+			</marker>
+			<v n="4">
+				Turn, O 
+				<crossref let="h" cid="c19006004.7">
+				</crossref>
+				LORD, deliver, 
+				<crossref let="i" cid="c19006004.8">
+				</crossref>
+				my life; save me for the sake of your steadfast love.
+			</v>
+			<marker class="begin-verse" mid="v19006005">
+			</marker>
+			<v n="5">
+				For in 
+				<crossref let="j" cid="c19006005.9">
+				</crossref>
+				death there, 
+				<crossref let="k" cid="c19006005.10">
+				</crossref>
+				is no remembrance of you; in Sheol who will give you praise?
+			</v>
+			<marker class="begin-verse" mid="v19006006">
+			</marker>
+			<v n="6">
+				I am 
+				<crossref let="l" cid="c19006006.11">
+				</crossref>
+				weary with, 
+				<crossref let="m" cid="c19006006.12">
+				</crossref>
+				my moaning; every night I flood my bed with tears; I drench my couch with my weeping.
+				<note nid="n19006006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19006007">
+			</marker>
+			<v n="7">
+				My eye 
+				<crossref let="n" cid="c19006007.13">
+				</crossref>
+				wastes away, 
+				<crossref let="o" cid="c19006007.14">
+				</crossref>
+				because of grief; it grows weak because of all my foes.
+			</v>
+			<marker class="begin-verse" mid="v19006008">
+			</marker>
+			<v n="8">
+				Depart from 
+				<crossref let="p" cid="c19006008.15">
+				</crossref>
+				me, all, 
+				<crossref let="q" cid="c19006008.16">
+				</crossref>
+				you workers of evil, for the LORD has heard the sound of my weeping.
+			</v>
+			<marker class="begin-verse" mid="v19006009">
+			</marker>
+			<v n="9">
+				The LORD 
+				<crossref let="r" cid="c19006009.17">
+				</crossref>
+				has heard, 
+				<crossref let="s" cid="c19006009.18">
+				</crossref>
+				my plea; the LORD accepts my prayer.
+				<note nid="n19006009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19006010">
+			</marker>
+			<v n="10">
+				All my 
+				<crossref let="t" cid="c19006010.19">
+				</crossref>
+				enemies shall, 
+				<crossref let="u" cid="c19006010.20">
+				</crossref>
+				be ashamed and greatly troubled; they shall turn back and be put to shame in a moment. Footnotes (1) 6:1 Probably a musical or liturgical term (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19006011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

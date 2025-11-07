@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:55:00.813933</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:55:00.813940</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19122001"/>
+		<chapter num="122">
+			<heading>A song for pilgrims ascending to Jerusalem. A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I was 
+				<crossref let="b" cid="c191221.1"/>
+				 glad when they said to me,“Let us go to the house of the Lord.”
+			</v>
+			<marker class="begin-verse" mid="v19122002"/>
+			<v n="2">
+				And now 
+				<crossref let="c" cid="c191222.1"/>
+				 here we are,standing inside your gates, O Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v19122003"/>
+			<v n="3">
+				Jerusalem is 
+				<crossref let="d" cid="c191223.1"/>
+				 a well-built city;its seamless walls cannot be breached.
+			</v>
+			<marker class="begin-verse" mid="v19122004"/>
+			<v n="4">
+				All the 
+				<crossref let="e" cid="c191224.1"/>
+				 tribes of Israel—the Lord’s people—make their pilgrimage here.They come to give thanks to the name of the Lord,as the law requires of Israel.
+			</v>
+			<marker class="begin-verse" mid="v19122005"/>
+			<v n="5">
+				Here stand 
+				<crossref let="f" cid="c191225.1"/>
+				 the thrones where judgment is given,the thrones of the dynasty of David.
+			</v>
+			<marker class="begin-verse" mid="v19122006"/>
+			<v n="6">
+				Pray for 
+				<crossref let="g" cid="c191226.1"/>
+				 peace in Jerusalem.May all who love this city prosper.
+			</v>
+			<marker class="begin-verse" mid="v19122007"/>
+			<v n="7">
+				O Jerusalem, 
+				<crossref let="h" cid="c191227.1"/>
+				 may there be peace within your wallsand prosperity in your palaces.
+			</v>
+			<marker class="begin-verse" mid="v19122008"/>
+			<v n="8">
+				For the 
+				<crossref let="i" cid="c191228.1"/>
+				 sake of my family and friends, I will say,“May you have peace.”
+			</v>
+			<marker class="begin-verse" mid="v19122009"/>
+			<v n="9">
+				For the 
+				<crossref let="j" cid="c191229.1"/>
+				 sake of the house of the Lord our God,I will seek what is best for you, O Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v19122010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

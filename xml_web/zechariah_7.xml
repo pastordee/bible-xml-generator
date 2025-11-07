@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:20:31.037807</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:20:31.037815</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" version="WEB" bookAbbr="zec">
+		<marker class="begin-verse" mid="v38007001"/>
+		<chapter num="7">
+			<begin-paragraph/>
+			<v n="1">
+				In the 
+				<crossref let="b" cid="c380071.1"/>
+				 fourth year of King Darius, Yahweh’s word came to Zechariah in the fourth day of the ninth month, the month of Chislev.
+			</v>
+			<marker class="begin-verse" mid="v38007002"/>
+			<v n="2">
+				The people 
+				<crossref let="c" cid="c380072.1"/>
+				 of Bethel sent Sharezer and Regem Melech and their men to entreat Yahweh’s favor,
+			</v>
+			<marker class="begin-verse" mid="v38007003"/>
+			<v n="3">
+				and to 
+				<crossref let="d" cid="c380073.1"/>
+				 speak to the priests of the house of Yahweh of Armies and to the prophets, saying, “Should I weep in the fifth month, separating myself, as I have done these so many years?”
+			</v>
+			<marker class="begin-verse" mid="v38007004"/>
+			<v n="4">
+				Then the 
+				<crossref let="e" cid="c380074.1"/>
+				 word of Yahweh of Armies came to me, saying,
+			</v>
+			<marker class="begin-verse" mid="v38007005"/>
+			<v n="5">
+				“Speak to 
+				<crossref let="f" cid="c380075.1"/>
+				 all the people of the land and to the priests, saying, ‘When you fasted and mourned in the fifth and in the seventh month for these seventy years, did you at all fast to me, really to me?
+			</v>
+			<marker class="begin-verse" mid="v38007006"/>
+			<v n="6">
+				When you 
+				<crossref let="g" cid="c380076.1"/>
+				 eat and when you drink, don’t you eat for yourselves and drink for yourselves?
+			</v>
+			<marker class="begin-verse" mid="v38007007"/>
+			<v n="7">
+				Aren’t these 
+				<crossref let="h" cid="c380077.1"/>
+				 the words which Yahweh proclaimed by the former prophets when Jerusalem was inhabited and in prosperity, and its cities around her, and the South and the lowland were inhabited?’”
+			</v>
+			<marker class="begin-verse" mid="v38007008"/>
+			<v n="8">
+				Yahweh’s word 
+				<crossref let="i" cid="c380078.1"/>
+				 came to Zechariah, saying,
+			</v>
+			<marker class="begin-verse" mid="v38007009"/>
+			<v n="9">
+				“Thus has 
+				<crossref let="j" cid="c380079.1"/>
+				 Yahweh of Armies spoken, saying, ‘Execute true judgment, and show kindness and compassion every man to his brother.
+			</v>
+			<marker class="begin-verse" mid="v38007010"/>
+			<v n="10">
+				Don’t oppress 
+				<crossref let="k" cid="c3800710.1"/>
+				 the widow, the fatherless, the foreigner, nor the poor; and let none of you devise evil against his brother in your heart.’
+			</v>
+			<marker class="begin-verse" mid="v38007011"/>
+			<v n="11">
+				But they 
+				<crossref let="l" cid="c3800711.1"/>
+				 refused to listen, and turned their backs, and stopped their ears, that they might not hear.
+			</v>
+			<marker class="begin-verse" mid="v38007012"/>
+			<v n="12">
+				Yes, they 
+				<crossref let="m" cid="c3800712.1"/>
+				 made their hearts as hard as flint, lest they might hear the law and the words which Yahweh of Armies had sent by his Spirit by the former prophets. Therefore great wrath came from Yahweh of Armies.
+			</v>
+			<marker class="begin-verse" mid="v38007013"/>
+			<v n="13">
+				It has 
+				<crossref let="n" cid="c3800713.1"/>
+				 come to pass that, as he called and they refused to listen, so they will call and I will not listen,” said Yahweh of Armies;
+			</v>
+			<marker class="begin-verse" mid="v38007014"/>
+			<v n="14">
+				“but I 
+				<crossref let="o" cid="c3800714.1"/>
+				 will scatter them with a whirlwind among all the nations which they have not known. Thus the land was desolate after them, so that no man passed through nor returned; for they made the pleasant land desolate.”
+			</v>
+			<marker class="begin-verse" mid="v38007015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

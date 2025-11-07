@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:43:40.763365</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:43:40.763377</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" version="ASV" bookAbbr="ecc">
+		<marker class="begin-verse" mid="v21008001"/>
+		<chapter num="8">
+			<begin-paragraph/>
+			<v n="1">
+				Who is 
+				<crossref let="b" cid="c210081.1"/>
+				 as the wise man? and who knoweth the interpretation of a thing? A man’s wisdom maketh his face to shine, and the hardness of his face is changed.
+			</v>
+			<marker class="begin-verse" mid="v21008002"/>
+			<v n="2">
+				I counsel 
+				<crossref let="c" cid="c210082.1"/>
+				 thee, Keep the king’s command, and that in regard of the oath of God.
+			</v>
+			<marker class="begin-verse" mid="v21008003"/>
+			<v n="3">
+				Be not 
+				<crossref let="d" cid="c210083.1"/>
+				 hasty to go out of his presence; persist not in an evil thing: for he doeth whatsoever pleaseth him.
+			</v>
+			<marker class="begin-verse" mid="v21008004"/>
+			<v n="4">
+				For the 
+				<crossref let="e" cid="c210084.1"/>
+				 king’s word hath power; and who may say unto him, What doest thou?
+			</v>
+			<marker class="begin-verse" mid="v21008005"/>
+			<v n="5">
+				Whoso keepeth 
+				<crossref let="f" cid="c210085.1"/>
+				 the commandment shall know no evil thing; and a wise man’s heart discerneth time and judgment:
+			</v>
+			<marker class="begin-verse" mid="v21008006"/>
+			<v n="6">
+				for to 
+				<crossref let="g" cid="c210086.1"/>
+				 every purpose there is a time and judgment; because the misery of man is great upon him:
+			</v>
+			<marker class="begin-verse" mid="v21008007"/>
+			<v n="7">
+				for he 
+				<crossref let="h" cid="c210087.1"/>
+				 knoweth not that which shall be; for who can tell him how it shall be?
+			</v>
+			<marker class="begin-verse" mid="v21008008"/>
+			<v n="8">
+				There is 
+				<crossref let="i" cid="c210088.1"/>
+				 no man that hath power over the spirit to retain the spirit; neither hath he power over the day of death; and there is no discharge in war: neither shall wickedness deliver him that is given to it.
+			</v>
+			<marker class="begin-verse" mid="v21008009"/>
+			<v n="9">
+				All this 
+				<crossref let="j" cid="c210089.1"/>
+				 have I seen, and applied my heart unto every work that is done under the sun: there is a time wherein one man hath power over another to his hurt.
+			</v>
+			<marker class="begin-verse" mid="v21008010"/>
+			<v n="10">
+				So I 
+				<crossref let="k" cid="c2100810.1"/>
+				 saw the wicked buried, and they came to the grave; and they that had done right went away from the holy place, and were forgotten in the city: this also is vanity.
+			</v>
+			<marker class="begin-verse" mid="v21008011"/>
+			<v n="11">
+				Because sentence 
+				<crossref let="l" cid="c2100811.1"/>
+				 against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
+			</v>
+			<marker class="begin-verse" mid="v21008012"/>
+			<v n="12">
+				Though a 
+				<crossref let="m" cid="c2100812.1"/>
+				 sinner do evil a hundred times, and prolong his days, yet surely I know that it shall be well with them that fear God, that fear before him:
+			</v>
+			<marker class="begin-verse" mid="v21008013"/>
+			<v n="13">
+				but it 
+				<crossref let="n" cid="c2100813.1"/>
+				 shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God.
+			</v>
+			<marker class="begin-verse" mid="v21008014"/>
+			<v n="14">
+				There is 
+				<crossref let="o" cid="c2100814.1"/>
+				 a vanity which is done upon the earth, that there are righteous men unto whom it happeneth according to the work of the wicked; again, there are wicked men to whom it happeneth according to the work of the righteous: I said that this also is vanity.
+			</v>
+			<marker class="begin-verse" mid="v21008015"/>
+			<v n="15">
+				Then I 
+				<crossref let="p" cid="c2100815.1"/>
+				 commended mirth, because a man hath no better thing under the sun, than to eat, and to drink, and to be joyful: for that shall abide with him in his labor all the days of his life which God hath given him under the sun.
+			</v>
+			<marker class="begin-verse" mid="v21008016"/>
+			<v n="16">
+				When I 
+				<crossref let="q" cid="c2100816.1"/>
+				 applied my heart to know wisdom, and to see the business that is done upon the earth (for also there is that neither day nor night seeth sleep with his eyes),
+			</v>
+			<marker class="begin-verse" mid="v21008017"/>
+			<v n="17">
+				then I 
+				<crossref let="r" cid="c2100817.1"/>
+				 beheld all the work of God, that man cannot find out the work that is done under the sun: because however much a man labor to seek it out, yet he shall not find it; yea moreover, though a wise man think to know it, yet shall he not be able to find it.
+			</v>
+			<marker class="begin-verse" mid="v21008018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

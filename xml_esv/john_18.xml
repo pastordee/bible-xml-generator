@@ -1,0 +1,550 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:06:07.138206</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:06:07.138243</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" bookAbbr="jhn" version="ESV">
+		<marker class="begin-verse" mid="v43018001">
+		</marker>
+		<chapter num="18">
+			<heading>
+				John 18
+			</heading>
+			<heading>
+				Betrayal and Arrest of Jesus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				When Jesus 
+				<crossref let="b" cid="c43018001.1">
+				</crossref>
+				had spoken, 
+				<crossref let="c" cid="c43018001.2">
+				</crossref>
+				these words, he went out with his disciples across the brook Kidron, where there was a garden, which he and his disciples entered.
+			</v>
+			<marker class="begin-verse" mid="v43018002">
+			</marker>
+			<v n="2">
+				Now Judas, 
+				<crossref let="d" cid="c43018002.3">
+				</crossref>
+				who betrayed, 
+				<crossref let="e" cid="c43018002.4">
+				</crossref>
+				him, also knew the place, for Jesus often met there with his disciples.
+			</v>
+			<marker class="begin-verse" mid="v43018003">
+			</marker>
+			<v n="3">
+				So Judas, 
+				<crossref let="f" cid="c43018003.5">
+				</crossref>
+				having procured, 
+				<crossref let="g" cid="c43018003.6">
+				</crossref>
+				a band of soldiers and some officers from the chief priests and the Pharisees, went there with lanterns and torches and weapons.
+				<note nid="n43018003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018004">
+			</marker>
+			<v n="4">
+				Then Jesus, 
+				<crossref let="h" cid="c43018004.7">
+				</crossref>
+				knowing all, 
+				<crossref let="i" cid="c43018004.8">
+				</crossref>
+				that would happen to him, came forward and said to them, “Whom do you seek?”
+			</v>
+			<marker class="begin-verse" mid="v43018005">
+			</marker>
+			<v n="5" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					They answered 
+					<crossref let="j" cid="c43018005.9">
+				</crossref>
+					him, “Jesus, 
+					<crossref let="k" cid="c43018005.10">
+				</crossref>
+				of Nazareth.” Jesus said to them, “I am he.”(1) Judas, who betrayed him, was standing with them.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43018006">
+			</marker>
+			<v n="6">
+				When Jesus(2) 
+				<crossref let="l" cid="c43018006.11">
+				</crossref>
+				said to, 
+				<crossref let="m" cid="c43018006.12">
+				</crossref>
+				them, “I am he,” they drew back and fell to the ground.
+				<note nid="n43018006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018007">
+			</marker>
+			<v n="7">
+				So he 
+				<crossref let="n" cid="c43018007.13">
+				</crossref>
+				asked them, 
+				<crossref let="o" cid="c43018007.14">
+				</crossref>
+				again, “Whom do you seek?” And they said, “Jesus of Nazareth.”
+			</v>
+			<marker class="begin-verse" mid="v43018008">
+			</marker>
+			<v n="8" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus answered, 
+					<crossref let="p" cid="c43018008.15">
+				</crossref>
+					“I told, 
+					<crossref let="q" cid="c43018008.16">
+				</crossref>
+				you that I am he. So, if you seek me, let these men go.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43018009">
+			</marker>
+			<v n="9">
+				This was 
+				<crossref let="r" cid="c43018009.17">
+				</crossref>
+				to fulfill, 
+				<crossref let="s" cid="c43018009.18">
+				</crossref>
+				the word that he had spoken: “Of those whom you gave me I have lost not one.”
+				<note nid="n43018009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018010">
+			</marker>
+			<v n="10">
+				Then Simon 
+				<crossref let="t" cid="c43018010.19">
+				</crossref>
+				Peter, having, 
+				<crossref let="u" cid="c43018010.20">
+				</crossref>
+				a sword, drew it and struck the high priest’s servant(3) and cut off his right ear. (The servant’s name was Malchus.)
+			</v>
+			<marker class="begin-verse" mid="v43018011">
+			</marker>
+			<v n="11" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					So Jesus 
+					<crossref let="v" cid="c43018011.21">
+				</crossref>
+					said to, 
+					<crossref let="w" cid="c43018011.22">
+				</crossref>
+				Peter, “Put your sword into its sheath; shall I not drink the cup that the Father has given me?” Jesus Faces Annas and Caiaphas
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43018012">
+			</marker>
+			<v n="12">
+				So the 
+				<crossref let="x" cid="c43018012.23">
+				</crossref>
+				band of, 
+				<crossref let="y" cid="c43018012.24">
+				</crossref>
+				soldiers and their captain and the officers of the Jews(4) arrested Jesus and bound him.
+				<note nid="n43018012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018013">
+			</marker>
+			<v n="13">
+				First they 
+				<crossref let="z" cid="c43018013.25">
+				</crossref>
+				led him, 
+				<crossref let="a" cid="c43018013.26">
+				</crossref>
+				to Annas, for he was the father-in-law of Caiaphas, who was high priest that year.
+			</v>
+			<marker class="begin-verse" mid="v43018014">
+			</marker>
+			<v n="14">
+				It was 
+				<crossref let="b" cid="c43018014.27">
+				</crossref>
+				Caiaphas who, 
+				<crossref let="c" cid="c43018014.28">
+				</crossref>
+				had advised the Jews that it would be expedient that one man should die for the people. Peter Denies Jesus
+			</v>
+			<marker class="begin-verse" mid="v43018015">
+			</marker>
+			<v n="15">
+				Simon Peter 
+				<crossref let="d" cid="c43018015.29">
+				</crossref>
+				followed Jesus,, 
+				<crossref let="e" cid="c43018015.30">
+				</crossref>
+				and so did another disciple. Since that disciple was known to the high priest, he entered with Jesus into the courtyard of the high priest,
+				<note nid="n43018015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018016">
+			</marker>
+			<v n="16">
+				but Peter 
+				<crossref let="f" cid="c43018016.31">
+				</crossref>
+				stood outside, 
+				<crossref let="g" cid="c43018016.32">
+				</crossref>
+				at the door. So the other disciple, who was known to the high priest, went out and spoke to the servant girl who kept watch at the door, and brought Peter in.
+			</v>
+			<marker class="begin-verse" mid="v43018017">
+			</marker>
+			<v n="17" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					The servant 
+					<crossref let="h" cid="c43018017.33">
+				</crossref>
+					girl at, 
+					<crossref let="i" cid="c43018017.34">
+				</crossref>
+				the door said to Peter, “You also are not one of this man’s disciples, are you?” He said, “I am not.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43018018">
+			</marker>
+			<v n="18">
+				Now the 
+				<crossref let="j" cid="c43018018.35">
+				</crossref>
+				servants(5) and, 
+				<crossref let="k" cid="c43018018.36">
+				</crossref>
+				officers had made a charcoal fire, because it was cold, and they were standing and warming themselves. Peter also was with them, standing and warming himself. The High Priest Questions Jesus
+				<note nid="n43018018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018019">
+			</marker>
+			<v n="19">
+				The high 
+				<crossref let="l" cid="c43018019.37">
+				</crossref>
+				priest then, 
+				<crossref let="m" cid="c43018019.38">
+				</crossref>
+				questioned Jesus about his disciples and his teaching.
+			</v>
+			<marker class="begin-verse" mid="v43018020">
+			</marker>
+			<v n="20" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus answered 
+					<crossref let="n" cid="c43018020.39">
+				</crossref>
+					him, “I, 
+					<crossref let="o" cid="c43018020.40">
+				</crossref>
+				have spoken openly to the world. I have always taught in synagogues and in the temple, where all Jews come together. I have said nothing in secret.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43018021">
+			</marker>
+			<v n="21">
+				Why do 
+				<crossref let="p" cid="c43018021.41">
+				</crossref>
+				you ask, 
+				<crossref let="q" cid="c43018021.42">
+				</crossref>
+				me? Ask those who have heard me what I said to them; they know what I said.”
+				<note nid="n43018021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018022">
+			</marker>
+			<v n="22">
+				When he 
+				<crossref let="r" cid="c43018022.43">
+				</crossref>
+				had said, 
+				<crossref let="s" cid="c43018022.44">
+				</crossref>
+				these things, one of the officers standing by struck Jesus with his hand, saying, “Is that how you answer the high priest?”
+			</v>
+			<marker class="begin-verse" mid="v43018023">
+			</marker>
+			<v n="23" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus answered 
+					<crossref let="t" cid="c43018023.45">
+				</crossref>
+					him, “If, 
+					<crossref let="u" cid="c43018023.46">
+				</crossref>
+				what I said is wrong, bear witness about the wrong; but if what I said is right, why do you strike me?”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43018024">
+			</marker>
+			<v n="24">
+				Annas then 
+				<crossref let="v" cid="c43018024.47">
+				</crossref>
+				sent him, 
+				<crossref let="w" cid="c43018024.48">
+				</crossref>
+				bound to Caiaphas the high priest. Peter Denies Jesus Again
+				<note nid="n43018024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018025">
+			</marker>
+			<v n="25">
+				Now Simon 
+				<crossref let="x" cid="c43018025.49">
+				</crossref>
+				Peter was, 
+				<crossref let="y" cid="c43018025.50">
+				</crossref>
+				standing and warming himself. So they said to him, “You also are not one of his disciples, are you?” He denied it and said, “I am not.”
+			</v>
+			<marker class="begin-verse" mid="v43018026">
+			</marker>
+			<v n="26">
+				One of 
+				<crossref let="z" cid="c43018026.51">
+				</crossref>
+				the servants, 
+				<crossref let="a" cid="c43018026.52">
+				</crossref>
+				of the high priest, a relative of the man whose ear Peter had cut off, asked, “Did I not see you in the garden with him?”
+			</v>
+			<marker class="begin-verse" mid="v43018027">
+			</marker>
+			<v n="27">
+				Peter again 
+				<crossref let="b" cid="c43018027.53">
+				</crossref>
+				denied it,, 
+				<crossref let="c" cid="c43018027.54">
+				</crossref>
+				and at once a rooster crowed. Jesus Before Pilate
+				<note nid="n43018027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018028">
+			</marker>
+			<v n="28">
+				Then they 
+				<crossref let="d" cid="c43018028.55">
+				</crossref>
+				led Jesus, 
+				<crossref let="e" cid="c43018028.56">
+				</crossref>
+				from the house of Caiaphas to the governor’s headquarters.(6) It was early morning. They themselves did not enter the governor’s headquarters, so that they would not be defiled, but could eat the Passover.
+			</v>
+			<marker class="begin-verse" mid="v43018029">
+			</marker>
+			<v n="29">
+				So Pilate 
+				<crossref let="f" cid="c43018029.57">
+				</crossref>
+				went outside, 
+				<crossref let="g" cid="c43018029.58">
+				</crossref>
+				to them and said, “What accusation do you bring against this man?”
+			</v>
+			<marker class="begin-verse" mid="v43018030">
+			</marker>
+			<v n="30">
+				They answered 
+				<crossref let="h" cid="c43018030.59">
+				</crossref>
+				him, “If, 
+				<crossref let="i" cid="c43018030.60">
+				</crossref>
+				this man were not doing evil, we would not have delivered him over to you.”
+				<note nid="n43018030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018031">
+			</marker>
+			<v n="31">
+				Pilate said 
+				<crossref let="j" cid="c43018031.61">
+				</crossref>
+				to them,, 
+				<crossref let="k" cid="c43018031.62">
+				</crossref>
+				“Take him yourselves and judge him by your own law.” The Jews said to him, “It is not lawful for us to put anyone to death.”
+			</v>
+			<marker class="begin-verse" mid="v43018032">
+			</marker>
+			<v n="32">
+				This was 
+				<crossref let="l" cid="c43018032.63">
+				</crossref>
+				to fulfill, 
+				<crossref let="m" cid="c43018032.64">
+				</crossref>
+				the word that Jesus had spoken to show by what kind of death he was going to die. My Kingdom Is Not of This World
+			</v>
+			<marker class="begin-verse" mid="v43018033">
+			</marker>
+			<v n="33">
+				So Pilate 
+				<crossref let="n" cid="c43018033.65">
+				</crossref>
+				entered his, 
+				<crossref let="o" cid="c43018033.66">
+				</crossref>
+				headquarters again and called Jesus and said to him, “Are you the King of the Jews?”
+				<note nid="n43018033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018034">
+			</marker>
+			<v n="34" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus answered, 
+					<crossref let="p" cid="c43018034.67">
+				</crossref>
+					“Do you, 
+					<crossref let="q" cid="c43018034.68">
+				</crossref>
+				say this of your own accord, or did others say it to you about me?”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43018035">
+			</marker>
+			<v n="35">
+				Pilate answered, 
+				<crossref let="r" cid="c43018035.69">
+				</crossref>
+				“Am I, 
+				<crossref let="s" cid="c43018035.70">
+				</crossref>
+				a Jew? Your own nation and the chief priests have delivered you over to me. What have you done?”
+			</v>
+			<marker class="begin-verse" mid="v43018036">
+			</marker>
+			<v n="36" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus answered, 
+					<crossref let="t" cid="c43018036.71">
+				</crossref>
+					“My kingdom, 
+					<crossref let="u" cid="c43018036.72">
+				</crossref>
+				is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world.”
+					<note nid="n43018036.36">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43018037">
+			</marker>
+			<v n="37" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Then Pilate 
+					<crossref let="v" cid="c43018037.73">
+				</crossref>
+					said to, 
+					<crossref let="w" cid="c43018037.74">
+				</crossref>
+				him, “So you are a king?” Jesus answered, “You say that I am a king. For this purpose I was born and for this purpose I have come into the world—to bear witness to the truth. Everyone who is of the truth listens to my voice.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43018038">
+			</marker>
+			<v n="38">
+				Pilate said 
+				<crossref let="x" cid="c43018038.75">
+				</crossref>
+				to him,, 
+				<crossref let="y" cid="c43018038.76">
+				</crossref>
+				“What is truth?” After he had said this, he went back outside to the Jews and told them, “I find no guilt in him.
+			</v>
+			<marker class="begin-verse" mid="v43018039">
+			</marker>
+			<v n="39">
+				But you 
+				<crossref let="z" cid="c43018039.77">
+				</crossref>
+				have a, 
+				<crossref let="a" cid="c43018039.78">
+				</crossref>
+				custom that I should release one man for you at the Passover. So do you want me to release to you the King of the Jews?”
+				<note nid="n43018039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43018040">
+			</marker>
+			<v n="40">
+				They cried 
+				<crossref let="b" cid="c43018040.79">
+				</crossref>
+				out again,, 
+				<crossref let="c" cid="c43018040.80">
+				</crossref>
+				“Not this man, but Barabbas!” Now Barabbas was a robber.(7) Footnotes (1) 18:5 Greek *I am*; also verses 6, 8 (2) 18:6 Greek *he* (3) 18:10 Or *bondservant*; twice in this verse (4) 18:12 Greek *Ioudaioi* probably refers here to Jewish religious leaders, and others under their influence, in that time; also verses 14, 31, 36, 38 (5) 18:18 Or *bondservants*; also verse 26 (6) 18:28 Greek *the praetorium* (7) 18:40 Or *an insurrectionist* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v43018041">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

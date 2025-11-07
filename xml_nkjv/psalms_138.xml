@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:24:25.421058</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:24:25.421097</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19138001"/>
+		<chapter num="138">
+			<heading>The Lord’s Goodness to the FaithfulA Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I will 
+				<crossref let="b" cid="c191381.1"/>
+				 praise You with my whole heart;Before the gods I will sing praises to You.
+			</v>
+			<marker class="begin-verse" mid="v19138002"/>
+			<v n="2">
+				I will 
+				<crossref let="c" cid="c191382.1"/>
+				 worship toward Your holy temple,And praise Your nameFor Your lovingkindness and Your truth;For You have magnified Your word above all Your name.
+			</v>
+			<marker class="begin-verse" mid="v19138003"/>
+			<v n="3">
+				In the 
+				<crossref let="d" cid="c191383.1"/>
+				 day when I cried out, You answered me,And made me bold with strength in my soul.
+			</v>
+			<marker class="begin-verse" mid="v19138004"/>
+			<v n="4">
+				All the 
+				<crossref let="e" cid="c191384.1"/>
+				 kings of the earth shall praise You, O Lord,When they hear the words of Your mouth.
+			</v>
+			<marker class="begin-verse" mid="v19138005"/>
+			<v n="5">
+				Yes, they 
+				<crossref let="f" cid="c191385.1"/>
+				 shall sing of the ways of the Lord,For great is the glory of the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19138006"/>
+			<v n="6">
+				Though the 
+				<crossref let="g" cid="c191386.1"/>
+				 Lord is on high,Yet He regards the lowly;But the proud He knows from afar.
+			</v>
+			<marker class="begin-verse" mid="v19138007"/>
+			<v n="7">
+				Though I 
+				<crossref let="h" cid="c191387.1"/>
+				 walk in the midst of trouble, You will revive me;You will stretch out Your handAgainst the wrath of my enemies,And Your right hand will save me.
+			</v>
+			<marker class="begin-verse" mid="v19138008"/>
+			<v n="8">
+				The Lord 
+				<crossref let="i" cid="c191388.1"/>
+				 will perfect that which concerns me;Your mercy, O Lord, endures forever;Do not forsake the works of Your hands.
+			</v>
+			<marker class="begin-verse" mid="v19138009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

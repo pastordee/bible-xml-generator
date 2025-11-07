@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:47:20.070672</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:47:20.070679</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19036001"/>
+		<chapter num="36">
+			<heading>For the choir director: A psalm of David, the servant of the Lord.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Sin whispers 
+				<crossref let="b" cid="c190361.1"/>
+				 to the wicked, deep within their hearts.They have no fear of God at all.
+			</v>
+			<marker class="begin-verse" mid="v19036002"/>
+			<v n="2">
+				In their 
+				<crossref let="c" cid="c190362.1"/>
+				 blind conceit,they cannot see how wicked they really are.
+			</v>
+			<marker class="begin-verse" mid="v19036003"/>
+			<v n="3">
+				Everything they 
+				<crossref let="d" cid="c190363.1"/>
+				 say is crooked and deceitful.They refuse to act wisely or do good.
+			</v>
+			<marker class="begin-verse" mid="v19036004"/>
+			<v n="4">
+				They lie 
+				<crossref let="e" cid="c190364.1"/>
+				 awake at night, hatching sinful plots.Their actions are never good.They make no attempt to turn from evil.
+			</v>
+			<marker class="begin-verse" mid="v19036005"/>
+			<v n="5">
+				Your unfailing 
+				<crossref let="f" cid="c190365.1"/>
+				 love, O Lord, is as vast as the heavens;your faithfulness reaches beyond the clouds.
+			</v>
+			<marker class="begin-verse" mid="v19036006"/>
+			<v n="6">
+				Your righteousness 
+				<crossref let="g" cid="c190366.1"/>
+				 is like the mighty mountains,your justice like the ocean depths.You care for people and animals alike, O Lord.
+			</v>
+			<marker class="begin-verse" mid="v19036007"/>
+			<v n="7">
+				How precious 
+				<crossref let="h" cid="c190367.1"/>
+				 is your unfailing love, O God!All humanity finds shelterin the shadow of your wings.
+			</v>
+			<marker class="begin-verse" mid="v19036008"/>
+			<v n="8">
+				You feed 
+				<crossref let="i" cid="c190368.1"/>
+				 them from the abundance of your own house,letting them drink from your river of delights.
+			</v>
+			<marker class="begin-verse" mid="v19036009"/>
+			<v n="9">
+				For you 
+				<crossref let="j" cid="c190369.1"/>
+				 are the fountain of life,the light by which we see.
+			</v>
+			<marker class="begin-verse" mid="v19036010"/>
+			<v n="10">
+				Pour out 
+				<crossref let="k" cid="c1903610.1"/>
+				 your unfailing love on those who love you;give justice to those with honest hearts.
+			</v>
+			<marker class="begin-verse" mid="v19036011"/>
+			<v n="11">
+				Don’t let 
+				<crossref let="l" cid="c1903611.1"/>
+				 the proud trample meor the wicked push me around.
+			</v>
+			<marker class="begin-verse" mid="v19036012"/>
+			<v n="12">
+				Look! Those 
+				<crossref let="m" cid="c1903612.1"/>
+				 who do evil have fallen!They are thrown down, never to rise again.
+			</v>
+			<marker class="begin-verse" mid="v19036013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

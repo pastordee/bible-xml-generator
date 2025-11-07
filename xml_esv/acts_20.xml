@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:06:40.784858</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:06:40.784865</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" bookAbbr="act" version="ESV">
+		<marker class="begin-verse" mid="v44020001">
+		</marker>
+		<chapter num="20">
+			<heading>
+				Acts 20
+			</heading>
+			<heading>
+				Paul in Macedonia and Greece
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					After the 
+					<crossref let="b" cid="c44020001.1">
+				</crossref>
+					uproar ceased,, 
+					<crossref let="c" cid="c44020001.2">
+				</crossref>
+				Paul sent for the disciples, and after encouraging them, he said farewell and departed for Macedonia.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v44020002">
+			</marker>
+			<v n="2">
+				When he 
+				<crossref let="d" cid="c44020002.3">
+				</crossref>
+				had gone, 
+				<crossref let="e" cid="c44020002.4">
+				</crossref>
+				through those regions and had given them much encouragement, he came to Greece.
+			</v>
+			<marker class="begin-verse" mid="v44020003">
+			</marker>
+			<v n="3">
+				There he 
+				<crossref let="f" cid="c44020003.5">
+				</crossref>
+				spent three, 
+				<crossref let="g" cid="c44020003.6">
+				</crossref>
+				months, and when a plot was made against him by the Jews(1) as he was about to set sail for Syria, he decided to return through Macedonia.
+				<note nid="n44020003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020004">
+			</marker>
+			<v n="4">
+				Sopater the 
+				<crossref let="h" cid="c44020004.7">
+				</crossref>
+				Berean, son, 
+				<crossref let="i" cid="c44020004.8">
+				</crossref>
+				of Pyrrhus, accompanied him; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timothy; and the Asians, Tychicus and Trophimus.
+			</v>
+			<marker class="begin-verse" mid="v44020005">
+			</marker>
+			<v n="5">
+				These went 
+				<crossref let="j" cid="c44020005.9">
+				</crossref>
+				on ahead, 
+				<crossref let="k" cid="c44020005.10">
+				</crossref>
+				and were waiting for us at Troas,
+			</v>
+			<marker class="begin-verse" mid="v44020006">
+			</marker>
+			<v n="6">
+				but we 
+				<crossref let="l" cid="c44020006.11">
+				</crossref>
+				sailed away, 
+				<crossref let="m" cid="c44020006.12">
+				</crossref>
+				from Philippi after the days of Unleavened Bread, and in five days we came to them at Troas, where we stayed for seven days. Eutychus Raised from the Dead
+				<note nid="n44020006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020007">
+			</marker>
+			<v n="7">
+				On the 
+				<crossref let="n" cid="c44020007.13">
+				</crossref>
+				first day, 
+				<crossref let="o" cid="c44020007.14">
+				</crossref>
+				of the week, when we were gathered together to break bread, Paul talked with them, intending to depart on the next day, and he prolonged his speech until midnight.
+			</v>
+			<marker class="begin-verse" mid="v44020008">
+			</marker>
+			<v n="8">
+				There were 
+				<crossref let="p" cid="c44020008.15">
+				</crossref>
+				many lamps, 
+				<crossref let="q" cid="c44020008.16">
+				</crossref>
+				in the upper room where we were gathered.
+			</v>
+			<marker class="begin-verse" mid="v44020009">
+			</marker>
+			<v n="9">
+				And a 
+				<crossref let="r" cid="c44020009.17">
+				</crossref>
+				young man, 
+				<crossref let="s" cid="c44020009.18">
+				</crossref>
+				named Eutychus, sitting at the window, sank into a deep sleep as Paul talked still longer. And being overcome by sleep, he fell down from the third story and was taken up dead.
+				<note nid="n44020009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020010">
+			</marker>
+			<v n="10">
+				But Paul 
+				<crossref let="t" cid="c44020010.19">
+				</crossref>
+				went down, 
+				<crossref let="u" cid="c44020010.20">
+				</crossref>
+				and bent over him, and taking him in his arms, said, “Do not be alarmed, for his life is in him.”
+			</v>
+			<marker class="begin-verse" mid="v44020011">
+			</marker>
+			<v n="11">
+				And when 
+				<crossref let="v" cid="c44020011.21">
+				</crossref>
+				Paul had, 
+				<crossref let="w" cid="c44020011.22">
+				</crossref>
+				gone up and had broken bread and eaten, he conversed with them a long while, until daybreak, and so departed.
+			</v>
+			<marker class="begin-verse" mid="v44020012">
+			</marker>
+			<v n="12">
+				And they 
+				<crossref let="x" cid="c44020012.23">
+				</crossref>
+				took the, 
+				<crossref let="y" cid="c44020012.24">
+				</crossref>
+				youth away alive, and were not a little comforted.
+				<note nid="n44020012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020013">
+			</marker>
+			<v n="13">
+				But going 
+				<crossref let="z" cid="c44020013.25">
+				</crossref>
+				ahead to, 
+				<crossref let="a" cid="c44020013.26">
+				</crossref>
+				the ship, we set sail for Assos, intending to take Paul aboard there, for so he had arranged, intending himself to go by land.
+			</v>
+			<marker class="begin-verse" mid="v44020014">
+			</marker>
+			<v n="14">
+				And when 
+				<crossref let="b" cid="c44020014.27">
+				</crossref>
+				he met, 
+				<crossref let="c" cid="c44020014.28">
+				</crossref>
+				us at Assos, we took him on board and went to Mitylene.
+			</v>
+			<marker class="begin-verse" mid="v44020015">
+			</marker>
+			<v n="15">
+				And sailing 
+				<crossref let="d" cid="c44020015.29">
+				</crossref>
+				from there, 
+				<crossref let="e" cid="c44020015.30">
+				</crossref>
+				we came the following day opposite Chios; the next day we touched at Samos; and(2) the day after that we went to Miletus.
+				<note nid="n44020015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020016">
+			</marker>
+			<v n="16">
+				For Paul 
+				<crossref let="f" cid="c44020016.31">
+				</crossref>
+				had decided, 
+				<crossref let="g" cid="c44020016.32">
+				</crossref>
+				to sail past Ephesus, so that he might not have to spend time in Asia, for he was hastening to be at Jerusalem, if possible, on the day of Pentecost. Paul Speaks to the Ephesian Elders
+			</v>
+			<marker class="begin-verse" mid="v44020017">
+			</marker>
+			<v n="17">
+				Now from 
+				<crossref let="h" cid="c44020017.33">
+				</crossref>
+				Miletus he, 
+				<crossref let="i" cid="c44020017.34">
+				</crossref>
+				sent to Ephesus and called the elders of the church to come to him.
+			</v>
+			<marker class="begin-verse" mid="v44020018">
+			</marker>
+			<v n="18" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And when 
+					<crossref let="j" cid="c44020018.35">
+				</crossref>
+					they came, 
+					<crossref let="k" cid="c44020018.36">
+				</crossref>
+				to him, he said to them: “You yourselves know how I lived among you the whole time from the first day that I set foot in Asia,
+					<note nid="n44020018.18">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v44020019">
+			</marker>
+			<v n="19">
+				serving the 
+				<crossref let="l" cid="c44020019.37">
+				</crossref>
+				Lord with, 
+				<crossref let="m" cid="c44020019.38">
+				</crossref>
+				all humility and with tears and with trials that happened to me through the plots of the Jews;
+			</v>
+			<marker class="begin-verse" mid="v44020020">
+			</marker>
+			<v n="20">
+				how I 
+				<crossref let="n" cid="c44020020.39">
+				</crossref>
+				did not, 
+				<crossref let="o" cid="c44020020.40">
+				</crossref>
+				shrink from declaring to you anything that was profitable, and teaching you in public and from house to house,
+			</v>
+			<marker class="begin-verse" mid="v44020021">
+			</marker>
+			<v n="21">
+				testifying both 
+				<crossref let="p" cid="c44020021.41">
+				</crossref>
+				to Jews, 
+				<crossref let="q" cid="c44020021.42">
+				</crossref>
+				and to Greeks of repentance toward God and of faith in our Lord Jesus Christ.(3)
+				<note nid="n44020021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020022">
+			</marker>
+			<v n="22">
+				And now, 
+				<crossref let="r" cid="c44020022.43">
+				</crossref>
+				behold, I, 
+				<crossref let="s" cid="c44020022.44">
+				</crossref>
+				am going to Jerusalem, constrained by(4) the Spirit, not knowing what will happen to me there,
+			</v>
+			<marker class="begin-verse" mid="v44020023">
+			</marker>
+			<v n="23">
+				except that 
+				<crossref let="t" cid="c44020023.45">
+				</crossref>
+				the Holy, 
+				<crossref let="u" cid="c44020023.46">
+				</crossref>
+				Spirit testifies to me in every city that imprisonment and afflictions await me.
+			</v>
+			<marker class="begin-verse" mid="v44020024">
+			</marker>
+			<v n="24">
+				But I 
+				<crossref let="v" cid="c44020024.47">
+				</crossref>
+				do not, 
+				<crossref let="w" cid="c44020024.48">
+				</crossref>
+				account my life of any value nor as precious to myself, if only I may finish my course and the ministry that I received from the Lord Jesus, to testify to the gospel of the grace of God.
+				<note nid="n44020024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020025">
+			</marker>
+			<v n="25">
+				And now, 
+				<crossref let="x" cid="c44020025.49">
+				</crossref>
+				behold, I, 
+				<crossref let="y" cid="c44020025.50">
+				</crossref>
+				know that none of you among whom I have gone about proclaiming the kingdom will see my face again.
+			</v>
+			<marker class="begin-verse" mid="v44020026">
+			</marker>
+			<v n="26">
+				Therefore I 
+				<crossref let="z" cid="c44020026.51">
+				</crossref>
+				testify to, 
+				<crossref let="a" cid="c44020026.52">
+				</crossref>
+				you this day that I am innocent of the blood of all,
+			</v>
+			<marker class="begin-verse" mid="v44020027">
+			</marker>
+			<v n="27">
+				for I 
+				<crossref let="b" cid="c44020027.53">
+				</crossref>
+				did not, 
+				<crossref let="c" cid="c44020027.54">
+				</crossref>
+				shrink from declaring to you the whole counsel of God.
+				<note nid="n44020027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020028">
+			</marker>
+			<v n="28">
+				Pay careful 
+				<crossref let="d" cid="c44020028.55">
+				</crossref>
+				attention to, 
+				<crossref let="e" cid="c44020028.56">
+				</crossref>
+				yourselves and to all the flock, in which the Holy Spirit has made you overseers, to care for the church of God,(5) which he obtained with his own blood.(6)
+			</v>
+			<marker class="begin-verse" mid="v44020029">
+			</marker>
+			<v n="29">
+				I know 
+				<crossref let="f" cid="c44020029.57">
+				</crossref>
+				that after, 
+				<crossref let="g" cid="c44020029.58">
+				</crossref>
+				my departure fierce wolves will come in among you, not sparing the flock;
+			</v>
+			<marker class="begin-verse" mid="v44020030">
+			</marker>
+			<v n="30">
+				and from 
+				<crossref let="h" cid="c44020030.59">
+				</crossref>
+				among your, 
+				<crossref let="i" cid="c44020030.60">
+				</crossref>
+				own selves will arise men speaking twisted things, to draw away the disciples after them.
+				<note nid="n44020030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020031">
+			</marker>
+			<v n="31">
+				Therefore be 
+				<crossref let="j" cid="c44020031.61">
+				</crossref>
+				alert, remembering, 
+				<crossref let="k" cid="c44020031.62">
+				</crossref>
+				that for three years I did not cease night or day to admonish every one with tears.
+			</v>
+			<marker class="begin-verse" mid="v44020032">
+			</marker>
+			<v n="32">
+				And now 
+				<crossref let="l" cid="c44020032.63">
+				</crossref>
+				I commend, 
+				<crossref let="m" cid="c44020032.64">
+				</crossref>
+				you to God and to the word of his grace, which is able to build you up and to give you the inheritance among all those who are sanctified.
+			</v>
+			<marker class="begin-verse" mid="v44020033">
+			</marker>
+			<v n="33">
+				I coveted 
+				<crossref let="n" cid="c44020033.65">
+				</crossref>
+				no one’s, 
+				<crossref let="o" cid="c44020033.66">
+				</crossref>
+				silver or gold or apparel.
+				<note nid="n44020033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020034">
+			</marker>
+			<v n="34">
+				You yourselves 
+				<crossref let="p" cid="c44020034.67">
+				</crossref>
+				know that, 
+				<crossref let="q" cid="c44020034.68">
+				</crossref>
+				these hands ministered to my necessities and to those who were with me.
+			</v>
+			<marker class="begin-verse" mid="v44020035">
+			</marker>
+			<v n="35">
+				In all 
+				<crossref let="r" cid="c44020035.69">
+				</crossref>
+				things I, 
+				<crossref let="s" cid="c44020035.70">
+				</crossref>
+				have shown you that by working hard in this way we must help the weak and remember the words of the Lord Jesus, how he himself said, ‘It is more blessed to give than to receive.’”
+			</v>
+			<marker class="begin-verse" mid="v44020036">
+			</marker>
+			<v n="36">
+				And when 
+				<crossref let="t" cid="c44020036.71">
+				</crossref>
+				he had, 
+				<crossref let="u" cid="c44020036.72">
+				</crossref>
+				said these things, he knelt down and prayed with them all.
+				<note nid="n44020036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44020037">
+			</marker>
+			<v n="37">
+				And there 
+				<crossref let="v" cid="c44020037.73">
+				</crossref>
+				was much, 
+				<crossref let="w" cid="c44020037.74">
+				</crossref>
+				weeping on the part of all; they embraced Paul and kissed him,
+			</v>
+			<marker class="begin-verse" mid="v44020038">
+			</marker>
+			<v n="38">
+				being sorrowful 
+				<crossref let="x" cid="c44020038.75">
+				</crossref>
+				most of, 
+				<crossref let="y" cid="c44020038.76">
+				</crossref>
+				all because of the word he had spoken, that they would not see his face again. And they accompanied him to the ship. Footnotes (1) 20:3 Greek *Ioudaioi* probably refers here to Jewish religious leaders, and others under their influence, in that time; also verse 19 (2) 20:15 Some manuscripts add *after remaining at Trogyllium* (3) 20:21 Some manuscripts omit *Christ* (4) 20:22 Or *bound in* (5) 20:28 Some manuscripts *of the Lord* (6) 20:28 Or *with the blood of his Own* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v44020039">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

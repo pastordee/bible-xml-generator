@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:16.759252</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:16.759259</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Job 6
+			</heading>
+			<heading>
+				Job Replies: My Complaint Is Just
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Then Job 
+				<crossref let="b" cid="c18006001.1">
+				</crossref>
+				answered and said:
+			</v>
+			<marker class="begin-verse" mid="v18006002">
+			</marker>
+			<v n="2">
+				“Oh that 
+				<crossref let="d" cid="c18006002.3">
+				</crossref>
+				my vexation, 
+				<crossref let="e" cid="c18006002.4">
+				</crossref>
+				were weighed, and all my calamity laid in the balances!
+			</v>
+			<marker class="begin-verse" mid="v18006003">
+			</marker>
+			<v n="3">
+				For then 
+				<crossref let="f" cid="c18006003.5">
+				</crossref>
+				it would, 
+				<crossref let="g" cid="c18006003.6">
+				</crossref>
+				be heavier than the sand of the sea; therefore my words have been rash.
+				<note nid="n18006003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18006004">
+			</marker>
+			<v n="4">
+				For the 
+				<crossref let="h" cid="c18006004.7">
+				</crossref>
+				arrows of, 
+				<crossref let="i" cid="c18006004.8">
+				</crossref>
+				the Almighty are in me; my spirit drinks their poison; the terrors of God are arrayed against me.
+			</v>
+			<marker class="begin-verse" mid="v18006005">
+			</marker>
+			<v n="5">
+				Does the 
+				<crossref let="j" cid="c18006005.9">
+				</crossref>
+				wild donkey, 
+				<crossref let="k" cid="c18006005.10">
+				</crossref>
+				bray when he has grass, or the ox low over his fodder?
+			</v>
+			<marker class="begin-verse" mid="v18006006">
+			</marker>
+			<v n="6">
+				Can that 
+				<crossref let="l" cid="c18006006.11">
+				</crossref>
+				which is, 
+				<crossref let="m" cid="c18006006.12">
+				</crossref>
+				tasteless be eaten without salt, or is there any taste in the juice of the mallow?(1)
+				<note nid="n18006006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18006007">
+			</marker>
+			<v n="7">
+				My appetite 
+				<crossref let="n" cid="c18006007.13">
+				</crossref>
+				refuses to, 
+				<crossref let="o" cid="c18006007.14">
+				</crossref>
+				touch them; they are as food that is loathsome to me.(2)
+			</v>
+			<marker class="begin-verse" mid="v18006008">
+			</marker>
+			<v n="8">
+				“Oh that 
+				<crossref let="p" cid="c18006008.15">
+				</crossref>
+				I might, 
+				<crossref let="q" cid="c18006008.16">
+				</crossref>
+				have my request, and that God would fulfill my hope,
+			</v>
+			<marker class="begin-verse" mid="v18006009">
+			</marker>
+			<v n="9">
+				that it 
+				<crossref let="r" cid="c18006009.17">
+				</crossref>
+				would please, 
+				<crossref let="s" cid="c18006009.18">
+				</crossref>
+				God to crush me, that he would let loose his hand and cut me off!
+				<note nid="n18006009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18006010">
+			</marker>
+			<v n="10">
+				This would 
+				<crossref let="t" cid="c18006010.19">
+				</crossref>
+				be my, 
+				<crossref let="u" cid="c18006010.20">
+				</crossref>
+				comfort; I would even exult(3) in pain unsparing, for I have not denied the words of the Holy One.
+			</v>
+			<marker class="begin-verse" mid="v18006011">
+			</marker>
+			<v n="11">
+				What is 
+				<crossref let="v" cid="c18006011.21">
+				</crossref>
+				my strength,, 
+				<crossref let="w" cid="c18006011.22">
+				</crossref>
+				that I should wait? And what is my end, that I should be patient?
+			</v>
+			<marker class="begin-verse" mid="v18006012">
+			</marker>
+			<v n="12">
+				Is my 
+				<crossref let="x" cid="c18006012.23">
+				</crossref>
+				strength the, 
+				<crossref let="y" cid="c18006012.24">
+				</crossref>
+				strength of stones, or is my flesh bronze?
+				<note nid="n18006012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18006013">
+			</marker>
+			<v n="13">
+				Have I 
+				<crossref let="z" cid="c18006013.25">
+				</crossref>
+				any help, 
+				<crossref let="a" cid="c18006013.26">
+				</crossref>
+				in me, when resource is driven from me?
+			</v>
+			<marker class="begin-verse" mid="v18006014">
+			</marker>
+			<v n="14">
+				“He who 
+				<crossref let="b" cid="c18006014.27">
+				</crossref>
+				withholds(4) kindness, 
+				<crossref let="c" cid="c18006014.28">
+				</crossref>
+				from a friend forsakes the fear of the Almighty.
+			</v>
+			<marker class="begin-verse" mid="v18006015">
+			</marker>
+			<v n="15">
+				My brothers 
+				<crossref let="d" cid="c18006015.29">
+				</crossref>
+				are treacherous, 
+				<crossref let="e" cid="c18006015.30">
+				</crossref>
+				as a torrent-bed, as torrential streams that pass away,
+				<note nid="n18006015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18006016">
+			</marker>
+			<v n="16">
+				which are 
+				<crossref let="f" cid="c18006016.31">
+				</crossref>
+				dark with, 
+				<crossref let="g" cid="c18006016.32">
+				</crossref>
+				ice, and where the snow hides itself.
+			</v>
+			<marker class="begin-verse" mid="v18006017">
+			</marker>
+			<v n="17">
+				When they 
+				<crossref let="h" cid="c18006017.33">
+				</crossref>
+				melt, they, 
+				<crossref let="i" cid="c18006017.34">
+				</crossref>
+				disappear; when it is hot, they vanish from their place.
+			</v>
+			<marker class="begin-verse" mid="v18006018">
+			</marker>
+			<v n="18">
+				The caravans 
+				<crossref let="j" cid="c18006018.35">
+				</crossref>
+				turn aside, 
+				<crossref let="k" cid="c18006018.36">
+				</crossref>
+				from their course; they go up into the waste and perish.
+				<note nid="n18006018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18006019">
+			</marker>
+			<v n="19">
+				The caravans 
+				<crossref let="l" cid="c18006019.37">
+				</crossref>
+				of Tema, 
+				<crossref let="m" cid="c18006019.38">
+				</crossref>
+				look, the travelers of Sheba hope.
+			</v>
+			<marker class="begin-verse" mid="v18006020">
+			</marker>
+			<v n="20">
+				They are 
+				<crossref let="n" cid="c18006020.39">
+				</crossref>
+				ashamed because, 
+				<crossref let="o" cid="c18006020.40">
+				</crossref>
+				they were confident; they come there and are disappointed.
+			</v>
+			<marker class="begin-verse" mid="v18006021">
+			</marker>
+			<v n="21">
+				For you 
+				<crossref let="p" cid="c18006021.41">
+				</crossref>
+				have now, 
+				<crossref let="q" cid="c18006021.42">
+				</crossref>
+				become nothing; you see my calamity and are afraid.
+				<note nid="n18006021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18006022">
+			</marker>
+			<v n="22">
+				Have I 
+				<crossref let="r" cid="c18006022.43">
+				</crossref>
+				said, ‘Make, 
+				<crossref let="s" cid="c18006022.44">
+				</crossref>
+				me a gift’? Or, ‘From your wealth offer a bribe for me’?
+			</v>
+			<marker class="begin-verse" mid="v18006023">
+			</marker>
+			<v n="23">
+				Or, ‘Deliver 
+				<crossref let="t" cid="c18006023.45">
+				</crossref>
+				me from, 
+				<crossref let="u" cid="c18006023.46">
+				</crossref>
+				the adversary’s hand’? Or, ‘Redeem me from the hand of the ruthless’?
+			</v>
+			<marker class="begin-verse" mid="v18006024">
+			</marker>
+			<v n="24">
+				“Teach me, 
+				<crossref let="v" cid="c18006024.47">
+				</crossref>
+				and I, 
+				<crossref let="w" cid="c18006024.48">
+				</crossref>
+				will be silent; make me understand how I have gone astray.
+				<note nid="n18006024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18006025">
+			</marker>
+			<v n="25">
+				How forceful 
+				<crossref let="x" cid="c18006025.49">
+				</crossref>
+				are upright, 
+				<crossref let="y" cid="c18006025.50">
+				</crossref>
+				words! But what does reproof from you reprove?
+			</v>
+			<marker class="begin-verse" mid="v18006026">
+			</marker>
+			<v n="26">
+				Do you 
+				<crossref let="z" cid="c18006026.51">
+				</crossref>
+				think that, 
+				<crossref let="a" cid="c18006026.52">
+				</crossref>
+				you can reprove words, when the speech of a despairing man is wind?
+			</v>
+			<marker class="begin-verse" mid="v18006027">
+			</marker>
+			<v n="27">
+				You would 
+				<crossref let="b" cid="c18006027.53">
+				</crossref>
+				even cast, 
+				<crossref let="c" cid="c18006027.54">
+				</crossref>
+				lots over the fatherless, and bargain over your friend.
+				<note nid="n18006027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18006028">
+			</marker>
+			<v n="28">
+				“But now, 
+				<crossref let="d" cid="c18006028.55">
+				</crossref>
+				be pleased, 
+				<crossref let="e" cid="c18006028.56">
+				</crossref>
+				to look at me, for I will not lie to your face.
+			</v>
+			<marker class="begin-verse" mid="v18006029">
+			</marker>
+			<v n="29">
+				Please turn; 
+				<crossref let="f" cid="c18006029.57">
+				</crossref>
+				let no, 
+				<crossref let="g" cid="c18006029.58">
+				</crossref>
+				injustice be done. Turn now; my vindication is at stake.
+			</v>
+			<marker class="begin-verse" mid="v18006030">
+			</marker>
+			<v n="30">
+				Is there 
+				<crossref let="h" cid="c18006030.59">
+				</crossref>
+				any injustice, 
+				<crossref let="i" cid="c18006030.60">
+				</crossref>
+				on my tongue? Cannot my palate discern the cause of calamity? Footnotes (1) 6:6 The meaning of the Hebrew word is uncertain (2) 6:7 The meaning of the Hebrew is uncertain (3) 6:10 The meaning of the Hebrew word is uncertain (4) 6:14 Syriac, Vulgate (compare Targum); the meaning of the Hebrew word is uncertain (ESV)
+				<note nid="n18006030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18006031">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:35.334783</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:35.334804</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19024001">
+		</marker>
+		<chapter num="24">
+			<heading>
+				Psalm 24
+			</heading>
+			<heading>
+				The King of Glory
+			</heading>
+			<heading>
+				A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The earth 
+				<crossref let="b" cid="c19024001.1">
+				</crossref>
+				is the, 
+				<crossref let="c" cid="c19024001.2">
+				</crossref>
+				LORD’s and the fullness thereof,(1) the world and those who dwell therein,
+			</v>
+			<marker class="begin-verse" mid="v19024002">
+			</marker>
+			<v n="2">
+				for he 
+				<crossref let="d" cid="c19024002.3">
+				</crossref>
+				has founded, 
+				<crossref let="e" cid="c19024002.4">
+				</crossref>
+				it upon the seas and established it upon the rivers.
+			</v>
+			<marker class="begin-verse" mid="v19024003">
+			</marker>
+			<v n="3">
+				Who shall 
+				<crossref let="f" cid="c19024003.5">
+				</crossref>
+				ascend the, 
+				<crossref let="g" cid="c19024003.6">
+				</crossref>
+				hill of the LORD? And who shall stand in his holy place?
+				<note nid="n19024003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19024004">
+			</marker>
+			<v n="4">
+				He who 
+				<crossref let="h" cid="c19024004.7">
+				</crossref>
+				has clean, 
+				<crossref let="i" cid="c19024004.8">
+				</crossref>
+				hands and a pure heart, who does not lift up his soul to what is false and does not swear deceitfully.
+			</v>
+			<marker class="begin-verse" mid="v19024005">
+			</marker>
+			<v n="5">
+				He will 
+				<crossref let="j" cid="c19024005.9">
+				</crossref>
+				receive blessing, 
+				<crossref let="k" cid="c19024005.10">
+				</crossref>
+				from the LORD and righteousness from the God of his salvation.
+			</v>
+			<marker class="begin-verse" mid="v19024006">
+			</marker>
+			<v n="6">
+				Such is 
+				<crossref let="l" cid="c19024006.11">
+				</crossref>
+				the generation, 
+				<crossref let="m" cid="c19024006.12">
+				</crossref>
+				of those who seek him, who seek the face of the God of Jacob.(2) Selah
+				<note nid="n19024006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19024007">
+			</marker>
+			<v n="7">
+				Lift up 
+				<crossref let="n" cid="c19024007.13">
+				</crossref>
+				your heads,, 
+				<crossref let="o" cid="c19024007.14">
+				</crossref>
+				O gates! And be lifted up, O ancient doors, that the King of glory may come in.
+			</v>
+			<marker class="begin-verse" mid="v19024008">
+			</marker>
+			<v n="8">
+				Who is 
+				<crossref let="p" cid="c19024008.15">
+				</crossref>
+				this King, 
+				<crossref let="q" cid="c19024008.16">
+				</crossref>
+				of glory? The LORD, strong and mighty, the LORD, mighty in battle!
+			</v>
+			<marker class="begin-verse" mid="v19024009">
+			</marker>
+			<v n="9">
+				Lift up 
+				<crossref let="r" cid="c19024009.17">
+				</crossref>
+				your heads,, 
+				<crossref let="s" cid="c19024009.18">
+				</crossref>
+				O gates! And lift them up, O ancient doors, that the King of glory may come in.
+				<note nid="n19024009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19024010">
+			</marker>
+			<v n="10">
+				Who is 
+				<crossref let="t" cid="c19024010.19">
+				</crossref>
+				this King, 
+				<crossref let="u" cid="c19024010.20">
+				</crossref>
+				of glory? The LORD of hosts, he is the King of glory! Selah Footnotes (1) 24:1 Or *and all that fills it* (2) 24:6 Septuagint, Syriac, and two Hebrew manuscripts; Masoretic Text *who seek your face, Jacob* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19024011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

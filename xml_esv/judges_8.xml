@@ -1,0 +1,479 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:24:48.920271</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:24:48.920278</next_refresh_due>
+	</generation_info>
+	<book title="Judges" num="7" testament="old" bookAbbr="jdg" version="ESV">
+		<marker class="begin-verse" mid="v07008001">
+		</marker>
+		<chapter num="8">
+			<heading>
+				Judges 8
+			</heading>
+			<heading>
+				Gideon Defeats Zebah and Zalmunna
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c07008001.1">
+				</crossref>
+				men of, 
+				<crossref let="c" cid="c07008001.2">
+				</crossref>
+				Ephraim said to him, “What is this that you have done to us, not to call us when you went to fight against Midian?” And they accused him fiercely.
+			</v>
+			<marker class="begin-verse" mid="v07008002">
+			</marker>
+			<v n="2" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="d" cid="c07008002.3">
+				</crossref>
+					said to, 
+					<crossref let="e" cid="c07008002.4">
+				</crossref>
+				them, “What have I done now in comparison with you? Is not the gleaning of the grapes of Ephraim better than the grape harvest of Abiezer?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v07008003">
+			</marker>
+			<v n="3" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					God has 
+					<crossref let="f" cid="c07008003.5">
+				</crossref>
+					given into, 
+					<crossref let="g" cid="c07008003.6">
+				</crossref>
+				your hands the princes of Midian, Oreb and Zeeb. What have I been able to do in comparison with you?” Then their anger(1) against him subsided when he said this.
+					<note nid="n07008003.3">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v07008004">
+			</marker>
+			<v n="4">
+				And Gideon 
+				<crossref let="h" cid="c07008004.7">
+				</crossref>
+				came to, 
+				<crossref let="i" cid="c07008004.8">
+				</crossref>
+				the Jordan and crossed over, he and the 300 men who were with him, exhausted yet pursuing.
+			</v>
+			<marker class="begin-verse" mid="v07008005">
+			</marker>
+			<v n="5" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					So he 
+					<crossref let="j" cid="c07008005.9">
+				</crossref>
+					said to, 
+					<crossref let="k" cid="c07008005.10">
+				</crossref>
+				the men of Succoth, “Please give loaves of bread to the people who follow me, for they are exhausted, and I am pursuing after Zebah and Zalmunna, the kings of Midian.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v07008006">
+			</marker>
+			<v n="6">
+				And the 
+				<crossref let="l" cid="c07008006.11">
+				</crossref>
+				officials of, 
+				<crossref let="m" cid="c07008006.12">
+				</crossref>
+				Succoth said, “Are the hands of Zebah and Zalmunna already in your hand, that we should give bread to your army?”
+				<note nid="n07008006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v07008007">
+			</marker>
+			<v n="7">
+				So Gideon 
+				<crossref let="n" cid="c07008007.13">
+				</crossref>
+				said, “Well, 
+				<crossref let="o" cid="c07008007.14">
+				</crossref>
+				then, when the LORD has given Zebah and Zalmunna into my hand, I will flail your flesh with the thorns of the wilderness and with briers.”
+			</v>
+			<marker class="begin-verse" mid="v07008008">
+			</marker>
+			<v n="8">
+				And from 
+				<crossref let="p" cid="c07008008.15">
+				</crossref>
+				there he, 
+				<crossref let="q" cid="c07008008.16">
+				</crossref>
+				went up to Penuel, and spoke to them in the same way, and the men of Penuel answered him as the men of Succoth had answered.
+			</v>
+			<marker class="begin-verse" mid="v07008009">
+			</marker>
+			<v n="9" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="r" cid="c07008009.17">
+				</crossref>
+					said to, 
+					<crossref let="s" cid="c07008009.18">
+				</crossref>
+				the men of Penuel, “When I come again in peace, I will break down this tower.”
+					<note nid="n07008009.9">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v07008010">
+			</marker>
+			<v n="10">
+				Now Zebah 
+				<crossref let="t" cid="c07008010.19">
+				</crossref>
+				and Zalmunna, 
+				<crossref let="u" cid="c07008010.20">
+				</crossref>
+				were in Karkor with their army, about 15,000 men, all who were left of all the army of the people of the East, for there had fallen 120,000 men who drew the sword.
+			</v>
+			<marker class="begin-verse" mid="v07008011">
+			</marker>
+			<v n="11">
+				And Gideon 
+				<crossref let="v" cid="c07008011.21">
+				</crossref>
+				went up, 
+				<crossref let="w" cid="c07008011.22">
+				</crossref>
+				by the way of the tent dwellers east of Nobah and Jogbehah and attacked the army, for the army felt secure.
+			</v>
+			<marker class="begin-verse" mid="v07008012">
+			</marker>
+			<v n="12">
+				And Zebah 
+				<crossref let="x" cid="c07008012.23">
+				</crossref>
+				and Zalmunna, 
+				<crossref let="y" cid="c07008012.24">
+				</crossref>
+				fled, and he pursued them and captured the two kings of Midian, Zebah and Zalmunna, and he threw all the army into a panic.
+				<note nid="n07008012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v07008013">
+			</marker>
+			<v n="13">
+				Then Gideon 
+				<crossref let="z" cid="c07008013.25">
+				</crossref>
+				the son, 
+				<crossref let="a" cid="c07008013.26">
+				</crossref>
+				of Joash returned from the battle by the ascent of Heres.
+			</v>
+			<marker class="begin-verse" mid="v07008014">
+			</marker>
+			<v n="14">
+				And he 
+				<crossref let="b" cid="c07008014.27">
+				</crossref>
+				captured a, 
+				<crossref let="c" cid="c07008014.28">
+				</crossref>
+				young man of Succoth and questioned him. And he wrote down for him the officials and elders of Succoth, seventy-seven men.
+			</v>
+			<marker class="begin-verse" mid="v07008015">
+			</marker>
+			<v n="15">
+				And he 
+				<crossref let="d" cid="c07008015.29">
+				</crossref>
+				came to, 
+				<crossref let="e" cid="c07008015.30">
+				</crossref>
+				the men of Succoth and said, “Behold Zebah and Zalmunna, about whom you taunted me, saying, ‘Are the hands of Zebah and Zalmunna already in your hand, that we should give bread to your men who are exhausted?’”
+				<note nid="n07008015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v07008016">
+			</marker>
+			<v n="16">
+				And he 
+				<crossref let="f" cid="c07008016.31">
+				</crossref>
+				took the, 
+				<crossref let="g" cid="c07008016.32">
+				</crossref>
+				elders of the city, and he took thorns of the wilderness and briers and with them taught the men of Succoth a lesson.
+			</v>
+			<marker class="begin-verse" mid="v07008017">
+			</marker>
+			<v n="17">
+				And he 
+				<crossref let="h" cid="c07008017.33">
+				</crossref>
+				broke down, 
+				<crossref let="i" cid="c07008017.34">
+				</crossref>
+				the tower of Penuel and killed the men of the city.
+			</v>
+			<marker class="begin-verse" mid="v07008018">
+			</marker>
+			<v n="18" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Then he 
+					<crossref let="j" cid="c07008018.35">
+				</crossref>
+					said to, 
+					<crossref let="k" cid="c07008018.36">
+				</crossref>
+				Zebah and Zalmunna, “Where are the men whom you killed at Tabor?” They answered, “As you are, so were they. Every one of them resembled the son of a king.”
+					<note nid="n07008018.18">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v07008019">
+			</marker>
+			<v n="19" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="l" cid="c07008019.37">
+				</crossref>
+					said, “They, 
+					<crossref let="m" cid="c07008019.38">
+				</crossref>
+				were my brothers, the sons of my mother. As the LORD lives, if you had saved them alive, I would not kill you.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v07008020">
+			</marker>
+			<v n="20" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					So he 
+					<crossref let="n" cid="c07008020.39">
+				</crossref>
+					said to, 
+					<crossref let="o" cid="c07008020.40">
+				</crossref>
+				Jether his firstborn, “Rise and kill them!” But the young man did not draw his sword, for he was afraid, because he was still a young man.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v07008021">
+			</marker>
+			<v n="21">
+				Then Zebah 
+				<crossref let="p" cid="c07008021.41">
+				</crossref>
+				and Zalmunna, 
+				<crossref let="q" cid="c07008021.42">
+				</crossref>
+				said, “Rise yourself and fall upon us, for as the man is, so is his strength.” And Gideon arose and killed Zebah and Zalmunna, and he took the crescent ornaments that were on the necks of their camels. Gideon’s Ephod
+				<note nid="n07008021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v07008022">
+			</marker>
+			<v n="22">
+				Then the 
+				<crossref let="r" cid="c07008022.43">
+				</crossref>
+				men of, 
+				<crossref let="s" cid="c07008022.44">
+				</crossref>
+				Israel said to Gideon, “Rule over us, you and your son and your grandson also, for you have saved us from the hand of Midian.”
+			</v>
+			<marker class="begin-verse" mid="v07008023">
+			</marker>
+			<v n="23">
+				Gideon said 
+				<crossref let="t" cid="c07008023.45">
+				</crossref>
+				to them,, 
+				<crossref let="u" cid="c07008023.46">
+				</crossref>
+				“I will not rule over you, and my son will not rule over you; the LORD will rule over you.”
+			</v>
+			<marker class="begin-verse" mid="v07008024">
+			</marker>
+			<v n="24">
+				And Gideon 
+				<crossref let="v" cid="c07008024.47">
+				</crossref>
+				said to, 
+				<crossref let="w" cid="c07008024.48">
+				</crossref>
+				them, “Let me make a request of you: every one of you give me the earrings from his spoil.” (For they had golden earrings, because they were Ishmaelites.)
+				<note nid="n07008024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v07008025">
+			</marker>
+			<v n="25">
+				And they 
+				<crossref let="x" cid="c07008025.49">
+				</crossref>
+				answered, “We, 
+				<crossref let="y" cid="c07008025.50">
+				</crossref>
+				will willingly give them.” And they spread a cloak, and every man threw in it the earrings of his spoil.
+			</v>
+			<marker class="begin-verse" mid="v07008026">
+			</marker>
+			<v n="26">
+				And the 
+				<crossref let="z" cid="c07008026.51">
+				</crossref>
+				weight of, 
+				<crossref let="a" cid="c07008026.52">
+				</crossref>
+				the golden earrings that he requested was 1,700 shekels(2) of gold, besides the crescent ornaments and the pendants and the purple garments worn by the kings of Midian, and besides the collars that were around the necks of their camels.
+			</v>
+			<marker class="begin-verse" mid="v07008027">
+			</marker>
+			<v n="27">
+				And Gideon 
+				<crossref let="b" cid="c07008027.53">
+				</crossref>
+				made an, 
+				<crossref let="c" cid="c07008027.54">
+				</crossref>
+				ephod of it and put it in his city, in Ophrah. And all Israel whored after it there, and it became a snare to Gideon and to his family.
+				<note nid="n07008027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v07008028">
+			</marker>
+			<v n="28">
+				So Midian 
+				<crossref let="d" cid="c07008028.55">
+				</crossref>
+				was subdued, 
+				<crossref let="e" cid="c07008028.56">
+				</crossref>
+				before the people of Israel, and they raised their heads no more. And the land had rest for forty years in the days of Gideon. The Death of Gideon
+			</v>
+			<marker class="begin-verse" mid="v07008029">
+			</marker>
+			<v n="29">
+				Jerubbaal the 
+				<crossref let="f" cid="c07008029.57">
+				</crossref>
+				son of, 
+				<crossref let="g" cid="c07008029.58">
+				</crossref>
+				Joash went and lived in his own house.
+			</v>
+			<marker class="begin-verse" mid="v07008030">
+			</marker>
+			<v n="30">
+				Now Gideon 
+				<crossref let="h" cid="c07008030.59">
+				</crossref>
+				had seventy, 
+				<crossref let="i" cid="c07008030.60">
+				</crossref>
+				sons, his own offspring,(3) for he had many wives.
+				<note nid="n07008030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v07008031">
+			</marker>
+			<v n="31">
+				And his 
+				<crossref let="j" cid="c07008031.61">
+				</crossref>
+				concubine who, 
+				<crossref let="k" cid="c07008031.62">
+				</crossref>
+				was in Shechem also bore him a son, and he called his name Abimelech.
+			</v>
+			<marker class="begin-verse" mid="v07008032">
+			</marker>
+			<v n="32">
+				And Gideon 
+				<crossref let="l" cid="c07008032.63">
+				</crossref>
+				the son, 
+				<crossref let="m" cid="c07008032.64">
+				</crossref>
+				of Joash died in a good old age and was buried in the tomb of Joash his father, at Ophrah of the Abiezrites.
+			</v>
+			<marker class="begin-verse" mid="v07008033">
+			</marker>
+			<v n="33">
+				As soon 
+				<crossref let="n" cid="c07008033.65">
+				</crossref>
+				as Gideon, 
+				<crossref let="o" cid="c07008033.66">
+				</crossref>
+				died, the people of Israel turned again and whored after the Baals and made Baal-berith their god.
+				<note nid="n07008033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v07008034">
+			</marker>
+			<v n="34">
+				And the 
+				<crossref let="p" cid="c07008034.67">
+				</crossref>
+				people of, 
+				<crossref let="q" cid="c07008034.68">
+				</crossref>
+				Israel did not remember the LORD their God, who had delivered them from the hand of all their enemies on every side,
+			</v>
+			<marker class="begin-verse" mid="v07008035">
+			</marker>
+			<v n="35">
+				and they 
+				<crossref let="r" cid="c07008035.69">
+				</crossref>
+				did not, 
+				<crossref let="s" cid="c07008035.70">
+				</crossref>
+				show steadfast love to the family of Jerubbaal (that is, Gideon) in return for all the good that he had done to Israel. Footnotes (1) 8:3 Hebrew *their spirit* (2) 8:26 A *shekel* was about 2/5 ounce or 11 grams (3) 8:30 Hebrew *who came from his own loins* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v07008036">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

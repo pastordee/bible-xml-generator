@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:31:49.990710</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:31:49.990717</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23020001"/>
+		<chapter num="20">
+			<heading>The Sign Against Egypt and Ethiopia</heading>
+			<begin-paragraph/>
+			<v n="1">
+				In the 
+				<crossref let="b" cid="c230201.1"/>
+				 year that Tartan came to Ashdod, when Sargon the king of Assyria sent him, and he fought against Ashdod and took it,
+			</v>
+			<marker class="begin-verse" mid="v23020002"/>
+			<v n="2">
+				at the 
+				<crossref let="c" cid="c230202.1"/>
+				 same time the Lord spoke by Isaiah the son of Amoz, saying, “Go, and remove the sackcloth from your body, and take your sandals off your feet.” And he did so, walking naked and barefoot.
+			</v>
+			<marker class="begin-verse" mid="v23020003"/>
+			<v n="3">
+				Then the 
+				<crossref let="d" cid="c230203.1"/>
+				 Lord said, “Just as My servant Isaiah has walked naked and barefoot three years for a sign and a wonder against Egypt and Ethiopia,
+			</v>
+			<marker class="begin-verse" mid="v23020004"/>
+			<v n="4">
+				so shall 
+				<crossref let="e" cid="c230204.1"/>
+				 the king of Assyria lead away the Egyptians as prisoners and the Ethiopians as captives, young and old, naked and barefoot, with their buttocks uncovered, to the shame of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v23020005"/>
+			<v n="5">
+				Then they 
+				<crossref let="f" cid="c230205.1"/>
+				 shall be afraid and ashamed of Ethiopia their expectation and Egypt their glory.
+			</v>
+			<marker class="begin-verse" mid="v23020006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c230206.1"/>
+				 inhabitant of this territory will say in that day, ‘Surely such is our expectation, wherever we flee for help to be delivered from the king of Assyria; and how shall we escape?’ ”
+			</v>
+			<marker class="begin-verse" mid="v23020007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

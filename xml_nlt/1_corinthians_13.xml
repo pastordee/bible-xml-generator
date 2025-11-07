@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:45:41.473570</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:45:41.473586</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" version="NLT" bookAbbr="1co">
+		<marker class="begin-verse" mid="v46013001"/>
+		<chapter num="13">
+			<heading>Love Is the Greatest</heading>
+			<begin-paragraph/>
+			<v n="1">
+				If I 
+				<crossref let="b" cid="c460131.1"/>
+				 could speak all the languages of earth and of angels, but didn’t love others, I would only be a noisy gong or a clanging cymbal.
+			</v>
+			<marker class="begin-verse" mid="v46013002"/>
+			<v n="2">
+				If I 
+				<crossref let="c" cid="c460132.1"/>
+				 had the gift of prophecy, and if I understood all of God’s secret plans and possessed all knowledge, and if I had such faith that I could move mountains, but didn’t love others, I would be nothing.
+			</v>
+			<marker class="begin-verse" mid="v46013003"/>
+			<v n="3">
+				If I 
+				<crossref let="d" cid="c460133.1"/>
+				 gave everything I have to the poor and even sacrificed my body, I could boast about it; but if I didn’t love others, I would have gained nothing.
+			</v>
+			<marker class="begin-verse" mid="v46013004"/>
+			<v n="4">
+				Love is 
+				<crossref let="e" cid="c460134.1"/>
+				 patient and kind. Love is not jealous or boastful or proud
+			</v>
+			<marker class="begin-verse" mid="v46013005"/>
+			<v n="5">
+				or rude. 
+				<crossref let="f" cid="c460135.1"/>
+				 It does not demand its own way. It is not irritable, and it keeps no record of being wronged.
+			</v>
+			<marker class="begin-verse" mid="v46013006"/>
+			<v n="6">
+				It does 
+				<crossref let="g" cid="c460136.1"/>
+				 not rejoice about injustice but rejoices whenever the truth wins out.
+			</v>
+			<marker class="begin-verse" mid="v46013007"/>
+			<v n="7">
+				Love never 
+				<crossref let="h" cid="c460137.1"/>
+				 gives up, never loses faith, is always hopeful, and endures through every circumstance.
+			</v>
+			<marker class="begin-verse" mid="v46013008"/>
+			<v n="8">
+				Prophecy and 
+				<crossref let="i" cid="c460138.1"/>
+				 speaking in unknown languages and special knowledge will become useless. But love will last forever!
+			</v>
+			<marker class="begin-verse" mid="v46013009"/>
+			<v n="9">
+				Now our 
+				<crossref let="j" cid="c460139.1"/>
+				 knowledge is partial and incomplete, and even the gift of prophecy reveals only part of the whole picture!
+			</v>
+			<marker class="begin-verse" mid="v46013010"/>
+			<v n="10">
+				But when 
+				<crossref let="k" cid="c4601310.1"/>
+				 the time of perfection comes, these partial things will become useless.
+			</v>
+			<marker class="begin-verse" mid="v46013011"/>
+			<v n="11">
+				When I 
+				<crossref let="l" cid="c4601311.1"/>
+				 was a child, I spoke and thought and reasoned as a child. But when I grew up, I put away childish things.
+			</v>
+			<marker class="begin-verse" mid="v46013012"/>
+			<v n="12">
+				Now we 
+				<crossref let="m" cid="c4601312.1"/>
+				 see things imperfectly, like puzzling reflections in a mirror, but then we will see everything with perfect clarity. All that I know now is partial and incomplete, but then I will know everything completely, just as God now knows me completely.
+			</v>
+			<marker class="begin-verse" mid="v46013013"/>
+			<v n="13">
+				Three things 
+				<crossref let="n" cid="c4601313.1"/>
+				 will last forever—faith, hope, and love—and the greatest of these is love.
+			</v>
+			<marker class="begin-verse" mid="v46013014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

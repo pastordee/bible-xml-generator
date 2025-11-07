@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:41:54.467145</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:41:54.467180</next_refresh_due>
+	</generation_info>
+	<book title="Ezekiel" num="26" testament="old" version="NKJV" bookAbbr="ezk">
+		<marker class="begin-verse" mid="v26009001"/>
+		<chapter num="9">
+			<heading>The Wicked Are Slain</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then He 
+				<crossref let="b" cid="c260091.1"/>
+				 called out in my hearing with a loud voice, saying, “Let those who have charge over the city draw near, each with a deadly weapon in his hand.”
+			</v>
+			<marker class="begin-verse" mid="v26009002"/>
+			<v n="2">
+				And suddenly 
+				<crossref let="c" cid="c260092.1"/>
+				 six men came from the direction of the upper gate, which faces north, each with his battle-ax in his hand. One man among them was clothed with linen and had a writer’s inkhorn at his side. They went in and stood beside the bronze altar.
+			</v>
+			<marker class="begin-verse" mid="v26009003"/>
+			<v n="3">
+				Now the 
+				<crossref let="d" cid="c260093.1"/>
+				 glory of the God of Israel had gone up from the cherub, where it had been, to the threshold of the temple. And He called to the man clothed with linen, who had the writer’s inkhorn at his side;
+			</v>
+			<marker class="begin-verse" mid="v26009004"/>
+			<v n="4">
+				and the 
+				<crossref let="e" cid="c260094.1"/>
+				 Lord said to him, “Go through the midst of the city, through the midst of Jerusalem, and put a mark on the foreheads of the men who sigh and cry over all the abominations that are done within it.”
+			</v>
+			<marker class="begin-verse" mid="v26009005"/>
+			<v n="5">
+				To the 
+				<crossref let="f" cid="c260095.1"/>
+				 others He said in my hearing, “Go after him through the city and kill; do not let your eye spare, nor have any pity.
+			</v>
+			<marker class="begin-verse" mid="v26009006"/>
+			<v n="6">
+				Utterly slay 
+				<crossref let="g" cid="c260096.1"/>
+				 old and young men, maidens and little children and women; but do not come near anyone on whom is the mark; and begin at My sanctuary.” So they began with the elders who were before the temple.
+			</v>
+			<marker class="begin-verse" mid="v26009007"/>
+			<v n="7">
+				Then He 
+				<crossref let="h" cid="c260097.1"/>
+				 said to them, “Defile the temple, and fill the courts with the slain. Go out!” And they went out and killed in the city.
+			</v>
+			<marker class="begin-verse" mid="v26009008"/>
+			<v n="8">
+				So it 
+				<crossref let="i" cid="c260098.1"/>
+				 was, that while they were killing them, I was left alone; and I fell on my face and cried out, and said, “Ah, Lord God! Will You destroy all the remnant of Israel in pouring out Your fury on Jerusalem?”
+			</v>
+			<marker class="begin-verse" mid="v26009009"/>
+			<v n="9">
+				Then He 
+				<crossref let="j" cid="c260099.1"/>
+				 said to me, “The iniquity of the house of Israel and Judah is exceedingly great, and the land is full of bloodshed, and the city full of perversity; for they say, ‘The Lord has forsaken the land, and the Lord does not see!’
+			</v>
+			<marker class="begin-verse" mid="v26009010"/>
+			<v n="10">
+				And as 
+				<crossref let="k" cid="c2600910.1"/>
+				 for Me also, My eye will neither spare, nor will I have pity, but I will recompense their deeds on their own head.”
+			</v>
+			<marker class="begin-verse" mid="v26009011"/>
+			<v n="11">
+				Just then, 
+				<crossref let="l" cid="c2600911.1"/>
+				 the man clothed with linen, who had the inkhorn at his side, reported back and said, “I have done as You commanded me.”
+			</v>
+			<marker class="begin-verse" mid="v26009012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

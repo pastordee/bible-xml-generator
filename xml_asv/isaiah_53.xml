@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:49:27.277518</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:49:27.277550</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="ASV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23053001"/>
+		<chapter num="53">
+			<begin-paragraph/>
+			<v n="1">
+				Who hath 
+				<crossref let="b" cid="c230531.1"/>
+				 believed our message? and to whom hath the arm of Jehovah been revealed?
+			</v>
+			<marker class="begin-verse" mid="v23053002"/>
+			<v n="2">
+				For he 
+				<crossref let="c" cid="c230532.1"/>
+				 grew up before him as a tender plant, and as a root out of a dry ground: he hath no form nor comeliness; and when we see him, there is no beauty that we should desire him.
+			</v>
+			<marker class="begin-verse" mid="v23053003"/>
+			<v n="3">
+				He was 
+				<crossref let="d" cid="c230533.1"/>
+				 despised, and rejected of men; a man of sorrows, and acquainted with grief: and as one from whom men hide their face he was despised; and we esteemed him not.
+			</v>
+			<marker class="begin-verse" mid="v23053004"/>
+			<v n="4">
+				Surely he 
+				<crossref let="e" cid="c230534.1"/>
+				 hath borne our griefs, and carried our sorrows; yet we did esteem him stricken, smitten of God, and afflicted.
+			</v>
+			<marker class="begin-verse" mid="v23053005"/>
+			<v n="5">
+				But he 
+				<crossref let="f" cid="c230535.1"/>
+				 was wounded for our transgressions, he was bruised for our iniquities; the chastisement of our peace was upon him; and with his stripes we are healed.
+			</v>
+			<marker class="begin-verse" mid="v23053006"/>
+			<v n="6">
+				All we 
+				<crossref let="g" cid="c230536.1"/>
+				 like sheep have gone astray; we have turned every one to his own way; and Jehovah hath laid on him the iniquity of us all.
+			</v>
+			<marker class="begin-verse" mid="v23053007"/>
+			<v n="7">
+				He was 
+				<crossref let="h" cid="c230537.1"/>
+				 oppressed, yet when he was afflicted he opened not his mouth; as a lamb that is led to the slaughter, and as a sheep that before its shearers is dumb, so he opened not his mouth.
+			</v>
+			<marker class="begin-verse" mid="v23053008"/>
+			<v n="8">
+				By oppression 
+				<crossref let="i" cid="c230538.1"/>
+				 and judgment he was taken away; and as for his generation, who among them considered that he was cut off out of the land of the living for the transgression of my people to whom the stroke was due?
+			</v>
+			<marker class="begin-verse" mid="v23053009"/>
+			<v n="9">
+				And they 
+				<crossref let="j" cid="c230539.1"/>
+				 made his grave with the wicked, and with a rich man in his death; although he had done no violence, neither was any deceit in his mouth.
+			</v>
+			<marker class="begin-verse" mid="v23053010"/>
+			<v n="10">
+				Yet it 
+				<crossref let="k" cid="c2305310.1"/>
+				 pleased Jehovah to bruise him; he hath put him to grief: when thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days, and the pleasure of Jehovah shall prosper in his hand.
+			</v>
+			<marker class="begin-verse" mid="v23053011"/>
+			<v n="11">
+				He shall 
+				<crossref let="l" cid="c2305311.1"/>
+				 see of the travail of his soul, and shall be satisfied: by the knowledge of himself shall my righteous servant justify many; and he shall bear their iniquities.
+			</v>
+			<marker class="begin-verse" mid="v23053012"/>
+			<v n="12">
+				Therefore will 
+				<crossref let="m" cid="c2305312.1"/>
+				 I divide him a portion with the great, and he shall divide the spoil with the strong; because he poured out his soul unto death, and was numbered with the transgressors: yet he bare the sin of many, and made intercession for the transgressors.
+			</v>
+			<marker class="begin-verse" mid="v23053013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

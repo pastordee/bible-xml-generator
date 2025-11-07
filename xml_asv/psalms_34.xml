@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:29:56.807780</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:29:56.807794</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19034001"/>
+		<chapter num="34">
+			<heading>A Psalm of David; when he changed his behavior before Abimelech, who drove him away, and he departed.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I will 
+				<crossref let="b" cid="c190341.1"/>
+				 bless Jehovah at all times:His praise shall continually be in my mouth.
+			</v>
+			<marker class="begin-verse" mid="v19034002"/>
+			<v n="2">
+				My soul 
+				<crossref let="c" cid="c190342.1"/>
+				 shall make her boast in Jehovah:The meek shall hear thereof, and be glad.
+			</v>
+			<marker class="begin-verse" mid="v19034003"/>
+			<v n="3">
+				Oh magnify 
+				<crossref let="d" cid="c190343.1"/>
+				 Jehovah with me,And let us exalt his name together.
+			</v>
+			<marker class="begin-verse" mid="v19034004"/>
+			<v n="4">
+				I sought 
+				<crossref let="e" cid="c190344.1"/>
+				 Jehovah, and he answered me,And delivered me from all my fears.
+			</v>
+			<marker class="begin-verse" mid="v19034005"/>
+			<v n="5">
+				They looked 
+				<crossref let="f" cid="c190345.1"/>
+				 unto him, and were radiant;And their faces shall never be confounded.
+			</v>
+			<marker class="begin-verse" mid="v19034006"/>
+			<v n="6">
+				This poor 
+				<crossref let="g" cid="c190346.1"/>
+				 man cried, and Jehovah heard him,And saved him out of all his troubles.
+			</v>
+			<marker class="begin-verse" mid="v19034007"/>
+			<v n="7">
+				The angel 
+				<crossref let="h" cid="c190347.1"/>
+				 of Jehovah encampeth round about them that fear him,And delivereth them.
+			</v>
+			<marker class="begin-verse" mid="v19034008"/>
+			<v n="8">
+				Oh taste 
+				<crossref let="i" cid="c190348.1"/>
+				 and see that Jehovah is good:Blessed is the man that taketh refuge in him.
+			</v>
+			<marker class="begin-verse" mid="v19034009"/>
+			<v n="9">
+				Oh fear 
+				<crossref let="j" cid="c190349.1"/>
+				 Jehovah, ye his saints;For there is no want to them that fear him.
+			</v>
+			<marker class="begin-verse" mid="v19034010"/>
+			<v n="10">
+				The young 
+				<crossref let="k" cid="c1903410.1"/>
+				 lions do lack, and suffer hunger;But they that seek Jehovah shall not want any good thing.
+			</v>
+			<marker class="begin-verse" mid="v19034011"/>
+			<v n="11">
+				Come, ye 
+				<crossref let="l" cid="c1903411.1"/>
+				 children, hearken unto me:I will teach you the fear of Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19034012"/>
+			<v n="12">
+				What man 
+				<crossref let="m" cid="c1903412.1"/>
+				 is he that desireth life,And loveth many days, that he may see good?
+			</v>
+			<marker class="begin-verse" mid="v19034013"/>
+			<v n="13">
+				Keep thy 
+				<crossref let="n" cid="c1903413.1"/>
+				 tongue from evil,And thy lips from speaking guile.
+			</v>
+			<marker class="begin-verse" mid="v19034014"/>
+			<v n="14">
+				Depart from 
+				<crossref let="o" cid="c1903414.1"/>
+				 evil, and do good;Seek peace, and pursue it.
+			</v>
+			<marker class="begin-verse" mid="v19034015"/>
+			<v n="15">
+				The eyes 
+				<crossref let="p" cid="c1903415.1"/>
+				 of Jehovah are toward the righteous,And his ears are open unto their cry.
+			</v>
+			<marker class="begin-verse" mid="v19034016"/>
+			<v n="16">
+				The face 
+				<crossref let="q" cid="c1903416.1"/>
+				 of Jehovah is against them that do evil,To cut off the remembrance of them from the earth.
+			</v>
+			<marker class="begin-verse" mid="v19034017"/>
+			<v n="17">
+				The righteous 
+				<crossref let="r" cid="c1903417.1"/>
+				 cried, and Jehovah heard,And delivered them out of all their troubles.
+			</v>
+			<marker class="begin-verse" mid="v19034018"/>
+			<v n="18">
+				Jehovah is 
+				<crossref let="s" cid="c1903418.1"/>
+				 nigh unto them that are of a broken heart,And saveth such as are of a contrite spirit.
+			</v>
+			<marker class="begin-verse" mid="v19034019"/>
+			<v n="19">
+				Many are 
+				<crossref let="t" cid="c1903419.1"/>
+				 the afflictions of the righteous;But Jehovah delivereth him out of them all.
+			</v>
+			<marker class="begin-verse" mid="v19034020"/>
+			<v n="20">
+				He keepeth 
+				<crossref let="u" cid="c1903420.1"/>
+				 all his bones:Not one of them is broken.
+			</v>
+			<marker class="begin-verse" mid="v19034021"/>
+			<v n="21">
+				Evil shall 
+				<crossref let="v" cid="c1903421.1"/>
+				 slay the wicked;And they that hate the righteous shall be condemned.
+			</v>
+			<marker class="begin-verse" mid="v19034022"/>
+			<v n="22">
+				Jehovah redeemeth 
+				<crossref let="w" cid="c1903422.1"/>
+				 the soul of his servants;And none of them that take refuge in him shall be condemned.
+			</v>
+			<marker class="begin-verse" mid="v19034023"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

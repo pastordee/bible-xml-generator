@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:30:57.543044</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:30:57.543067</next_refresh_due>
+	</generation_info>
+	<book title="1 Chronicles" num="13" testament="old" version="WEB" bookAbbr="1ch">
+		<marker class="begin-verse" mid="v13020001"/>
+		<chapter num="20">
+			<begin-paragraph/>
+			<v n="1">
+				At the 
+				<crossref let="b" cid="c130201.1"/>
+				 time of the return of the year, at the time when kings go out, Joab led out the army and wasted the country of the children of Ammon, and came and besieged Rabbah. But David stayed at Jerusalem. Joab struck Rabbah, and overthrew it.
+			</v>
+			<marker class="begin-verse" mid="v13020002"/>
+			<v n="2">
+				David took 
+				<crossref let="c" cid="c130202.1"/>
+				 the crown of their king from off his head, and found it to weigh a talent of gold, and there were precious stones in it. It was set on David’s head, and he brought very much plunder out of the city.
+			</v>
+			<marker class="begin-verse" mid="v13020003"/>
+			<v n="3">
+				He brought 
+				<crossref let="d" cid="c130203.1"/>
+				 out the people who were in it, and had them cut with saws, with iron picks, and with axes. David did so to all the cities of the children of Ammon. Then David and all the people returned to Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v13020004"/>
+			<v n="4">
+				After this, 
+				<crossref let="e" cid="c130204.1"/>
+				 war arose at Gezer with the Philistines. Then Sibbecai the Hushathite killed Sippai, of the sons of the giant; and they were subdued.
+			</v>
+			<marker class="begin-verse" mid="v13020005"/>
+			<v n="5">
+				Again there 
+				<crossref let="f" cid="c130205.1"/>
+				 was war with the Philistines; and Elhanan the son of Jair killed Lahmi the brother of Goliath the Gittite, the staff of whose spear was like a weaver’s beam.
+			</v>
+			<marker class="begin-verse" mid="v13020006"/>
+			<v n="6">
+				There was 
+				<crossref let="g" cid="c130206.1"/>
+				 again war at Gath, where there was a man of great stature, who had twenty-four fingers and toes, six on each hand and six on each foot; and he also was born to the giant.
+			</v>
+			<marker class="begin-verse" mid="v13020007"/>
+			<v n="7">
+				When he 
+				<crossref let="h" cid="c130207.1"/>
+				 defied Israel, Jonathan the son of Shimea, David’s brother, killed him.
+			</v>
+			<marker class="begin-verse" mid="v13020008"/>
+			<v n="8">
+				These were 
+				<crossref let="i" cid="c130208.1"/>
+				 born to the giant in Gath; and they fell by the hand of David and by the hand of his servants.
+			</v>
+			<marker class="begin-verse" mid="v13020009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

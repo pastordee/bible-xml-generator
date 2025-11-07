@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:22:49.195504</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:22:49.195511</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19120001"/>
+		<chapter num="120">
+			<heading>Plea for Relief from Bitter FoesA Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				In my 
+				<crossref let="b" cid="c191201.1"/>
+				 distress I cried to the Lord,And He heard me.
+			</v>
+			<marker class="begin-verse" mid="v19120002"/>
+			<v n="2">
+				Deliver my 
+				<crossref let="c" cid="c191202.1"/>
+				 soul, O Lord, from lying lipsAnd from a deceitful tongue.
+			</v>
+			<marker class="begin-verse" mid="v19120003"/>
+			<v n="3">
+				What shall 
+				<crossref let="d" cid="c191203.1"/>
+				 be given to you,Or what shall be done to you,You false tongue?
+			</v>
+			<marker class="begin-verse" mid="v19120004"/>
+			<v n="4">
+				Sharp arrows 
+				<crossref let="e" cid="c191204.1"/>
+				 of the warrior,With coals of the broom tree!
+			</v>
+			<marker class="begin-verse" mid="v19120005"/>
+			<v n="5">
+				Woe is 
+				<crossref let="f" cid="c191205.1"/>
+				 me, that I dwell in Meshech,That I dwell among the tents of Kedar!
+			</v>
+			<marker class="begin-verse" mid="v19120006"/>
+			<v n="6">
+				My soul 
+				<crossref let="g" cid="c191206.1"/>
+				 has dwelt too longWith one who hates peace.
+			</v>
+			<marker class="begin-verse" mid="v19120007"/>
+			<v n="7">
+				I am 
+				<crossref let="h" cid="c191207.1"/>
+				 for peace;But when I speak, they are for war.
+			</v>
+			<marker class="begin-verse" mid="v19120008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

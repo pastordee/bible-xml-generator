@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:52:45.318973</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:52:45.318986</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19125001"/>
+		<chapter num="125">
+			<heading>A Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Those who 
+				<crossref let="b" cid="c191251.1"/>
+				 trust in Yahweh are as Mount Zion,which can’t be moved, but remains forever.
+			</v>
+			<marker class="begin-verse" mid="v19125002"/>
+			<v n="2">
+				As the 
+				<crossref let="c" cid="c191252.1"/>
+				 mountains surround Jerusalem,so Yahweh surrounds his people from this time forward and forever more.
+			</v>
+			<marker class="begin-verse" mid="v19125003"/>
+			<v n="3">
+				For the 
+				<crossref let="d" cid="c191253.1"/>
+				 scepter of wickedness won’t remain over the allotment of the righteous,so that the righteous won’t use their hands to do evil.
+			</v>
+			<marker class="begin-verse" mid="v19125004"/>
+			<v n="4">
+				Do good, 
+				<crossref let="e" cid="c191254.1"/>
+				 Yahweh, to those who are good,to those who are upright in their hearts.
+			</v>
+			<marker class="begin-verse" mid="v19125005"/>
+			<v n="5">
+				But as 
+				<crossref let="f" cid="c191255.1"/>
+				 for those who turn away to their crooked ways,Yahweh will lead them away with the workers of iniquity.Peace be on Israel.
+			</v>
+			<marker class="begin-verse" mid="v19125006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

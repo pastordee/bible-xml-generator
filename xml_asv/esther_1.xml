@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:22:25.208854</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:22:25.208863</next_refresh_due>
+	</generation_info>
+	<book title="Esther" num="17" testament="old" version="ASV" bookAbbr="est">
+		<marker class="begin-verse" mid="v17001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				Now it 
+				<crossref let="b" cid="c170011.1"/>
+				 came to pass in the days of Ahasuerus (this is Ahasuerus who reigned from India even unto Ethiopia, over a hundred and seven and twenty provinces),
+			</v>
+			<marker class="begin-verse" mid="v17001002"/>
+			<v n="2">
+				that in 
+				<crossref let="c" cid="c170012.1"/>
+				 those days, when the king Ahasuerus sat on the throne of his kingdom, which was in Shushan the palace,
+			</v>
+			<marker class="begin-verse" mid="v17001003"/>
+			<v n="3">
+				in the 
+				<crossref let="d" cid="c170013.1"/>
+				 third year of his reign, he made a feast unto all his princes and his servants; the power of Persia and Media, the nobles and princes of the provinces, being before him;
+			</v>
+			<marker class="begin-verse" mid="v17001004"/>
+			<v n="4">
+				when he 
+				<crossref let="e" cid="c170014.1"/>
+				 showed the riches of his glorious kingdom and the honor of his excellent majesty many days, even a hundred and fourscore days.
+			</v>
+			<marker class="begin-verse" mid="v17001005"/>
+			<v n="5">
+				And when 
+				<crossref let="f" cid="c170015.1"/>
+				 these days were fulfilled, the king made a feast unto all the people that were present in Shushan the palace, both great and small, seven days, in the court of the garden of the king’s palace.
+			</v>
+			<marker class="begin-verse" mid="v17001006"/>
+			<v n="6">
+				There were 
+				<crossref let="g" cid="c170016.1"/>
+				 hangings of white cloth, of green, and of blue, fastened with cords of fine linen and purple to silver rings and pillars of marble: the couches were of gold and silver, upon a pavement of red, and white, and yellow, and black marble.
+			</v>
+			<marker class="begin-verse" mid="v17001007"/>
+			<v n="7">
+				And they 
+				<crossref let="h" cid="c170017.1"/>
+				 gave them drink in vessels of gold (the vessels being diverse one from another), and royal wine in abundance, according to the bounty of the king.
+			</v>
+			<marker class="begin-verse" mid="v17001008"/>
+			<v n="8">
+				And the 
+				<crossref let="i" cid="c170018.1"/>
+				 drinking was according to the law; none could compel: for so the king had appointed to all the officers of his house, that they should do according to every man’s pleasure.
+			</v>
+			<marker class="begin-verse" mid="v17001009"/>
+			<v n="9">
+				Also Vashti 
+				<crossref let="j" cid="c170019.1"/>
+				 the queen made a feast for the women in the royal house which belonged to king Ahasuerus.
+			</v>
+			<marker class="begin-verse" mid="v17001010"/>
+			<v n="10">
+				On the 
+				<crossref let="k" cid="c1700110.1"/>
+				 seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, and Abagtha, Zethar, and Carcas, the seven chamberlains that ministered in the presence of Ahasuerus the king,
+			</v>
+			<marker class="begin-verse" mid="v17001011"/>
+			<v n="11">
+				to bring 
+				<crossref let="l" cid="c1700111.1"/>
+				 Vashti the queen before the king with the crown royal, to show the peoples and the princes her beauty; for she was fair to look on.
+			</v>
+			<marker class="begin-verse" mid="v17001012"/>
+			<v n="12">
+				But the 
+				<crossref let="m" cid="c1700112.1"/>
+				 queen Vashti refused to come at the king’s commandment by the chamberlains: therefore was the king very wroth, and his anger burned in him.
+			</v>
+			<marker class="begin-verse" mid="v17001013"/>
+			<v n="13">
+				Then the 
+				<crossref let="n" cid="c1700113.1"/>
+				 king said to the wise men, who knew the times (for so was the king’s manner toward all that knew law and judgment;
+			</v>
+			<marker class="begin-verse" mid="v17001014"/>
+			<v n="14">
+				and the 
+				<crossref let="o" cid="c1700114.1"/>
+				 next unto him were Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who saw the king’s face, and sat first in the kingdom),
+			</v>
+			<marker class="begin-verse" mid="v17001015"/>
+			<v n="15">
+				What shall 
+				<crossref let="p" cid="c1700115.1"/>
+				 we do unto the queen Vashti according to law, because she hath not done the bidding of the king Ahasuerus by the chamberlains?
+			</v>
+			<marker class="begin-verse" mid="v17001016"/>
+			<v n="16">
+				And Memucan 
+				<crossref let="q" cid="c1700116.1"/>
+				 answered before the king and the princes, Vashti the queen hath not done wrong to the king only, but also to all the princes, and to all the peoples that are in all the provinces of the king Ahasuerus.
+			</v>
+			<marker class="begin-verse" mid="v17001017"/>
+			<v n="17">
+				For this 
+				<crossref let="r" cid="c1700117.1"/>
+				 deed of the queen will come abroad unto all women, to make their husbands contemptible in their eyes, when it shall be reported, The king Ahasuerus commanded Vashti the queen to be brought in before him, but she came not.
+			</v>
+			<marker class="begin-verse" mid="v17001018"/>
+			<v n="18">
+				And this 
+				<crossref let="s" cid="c1700118.1"/>
+				 day will the princesses of Persia and Media who have heard of the deed of the queen say the like unto all the king’s princes. So will there arise much contempt and wrath.
+			</v>
+			<marker class="begin-verse" mid="v17001019"/>
+			<v n="19">
+				If it 
+				<crossref let="t" cid="c1700119.1"/>
+				 please the king, let there go forth a royal commandment from him, and let it be written among the laws of the Persians and the Medes, that it be not altered, that Vashti come no more before king Ahasuerus; and let the king give her royal estate unto another that is better than she.
+			</v>
+			<marker class="begin-verse" mid="v17001020"/>
+			<v n="20">
+				And when 
+				<crossref let="u" cid="c1700120.1"/>
+				 the king’s decree which he shall make shall be published throughout all his kingdom (for it is great), all the wives will give to their husbands honor, both to great and small.
+			</v>
+			<marker class="begin-verse" mid="v17001021"/>
+			<v n="21">
+				And the 
+				<crossref let="v" cid="c1700121.1"/>
+				 saying pleased the king and the princes; and the king did according to the word of Memucan:
+			</v>
+			<marker class="begin-verse" mid="v17001022"/>
+			<v n="22">
+				for he 
+				<crossref let="w" cid="c1700122.1"/>
+				 sent letters into all the king’s provinces, into every province according to the writing thereof, and to every people after their language, that every man should bear rule in his own house, and should speak according to the language of his people.
+			</v>
+			<marker class="begin-verse" mid="v17001023"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

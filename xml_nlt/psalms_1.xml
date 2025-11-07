@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:44:13.284384</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:44:13.284396</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19001001"/>
+		<chapter num="1">
+			<heading>Book One (Psalms 1–41)</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Oh, the 
+				<crossref let="b" cid="c190011.1"/>
+				 joys of those who do notfollow the advice of the wicked,or stand around with sinners,or join in with mockers.
+			</v>
+			<marker class="begin-verse" mid="v19001002"/>
+			<v n="2">
+				But they 
+				<crossref let="c" cid="c190012.1"/>
+				 delight in the law of the Lord,meditating on it day and night.
+			</v>
+			<marker class="begin-verse" mid="v19001003"/>
+			<v n="3">
+				They are 
+				<crossref let="d" cid="c190013.1"/>
+				 like trees planted along the riverbank,bearing fruit each season.Their leaves never wither,and they prosper in all they do.
+			</v>
+			<marker class="begin-verse" mid="v19001004"/>
+			<v n="4">
+				But not 
+				<crossref let="e" cid="c190014.1"/>
+				 the wicked!They are like worthless chaff, scattered by the wind.
+			</v>
+			<marker class="begin-verse" mid="v19001005"/>
+			<v n="5">
+				They will 
+				<crossref let="f" cid="c190015.1"/>
+				 be condemned at the time of judgment.Sinners will have no place among the godly.
+			</v>
+			<marker class="begin-verse" mid="v19001006"/>
+			<v n="6">
+				For the 
+				<crossref let="g" cid="c190016.1"/>
+				 Lord watches over the path of the godly,but the path of the wicked leads to destruction.
+			</v>
+			<marker class="begin-verse" mid="v19001007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

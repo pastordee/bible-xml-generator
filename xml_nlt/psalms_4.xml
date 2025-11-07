@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:44:29.299713</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:44:29.299726</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19004001"/>
+		<chapter num="4">
+			<heading>For the choir director: A psalm of David, to be accompanied by stringed instruments.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Answer me 
+				<crossref let="b" cid="c190041.1"/>
+				 when I call to you,O God who declares me innocent.Free me from my troubles.Have mercy on me and hear my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19004002"/>
+			<v n="2">
+				How long 
+				<crossref let="c" cid="c190042.1"/>
+				 will you people ruin my reputation?How long will you make groundless accusations?How long will you continue your lies? Interlude
+			</v>
+			<marker class="begin-verse" mid="v19004003"/>
+			<v n="3">
+				You can 
+				<crossref let="d" cid="c190043.1"/>
+				 be sure of this:The Lord set apart the godly for himself.The Lord will answer when I call to him.
+			</v>
+			<marker class="begin-verse" mid="v19004004"/>
+			<v n="4">
+				Don’t sin 
+				<crossref let="e" cid="c190044.1"/>
+				 by letting anger control you.Think about it overnight and remain silent. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19004005"/>
+			<v n="5">
+				Offer sacrifices 
+				<crossref let="f" cid="c190045.1"/>
+				 in the right spirit,and trust the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19004006"/>
+			<v n="6">
+				Many people 
+				<crossref let="g" cid="c190046.1"/>
+				 say, “Who will show us better times?”Let your face smile on us, Lord.
+			</v>
+			<marker class="begin-verse" mid="v19004007"/>
+			<v n="7">
+				You have 
+				<crossref let="h" cid="c190047.1"/>
+				 given me greater joythan those who have abundant harvests of grain and new wine.
+			</v>
+			<marker class="begin-verse" mid="v19004008"/>
+			<v n="8">
+				In peace 
+				<crossref let="i" cid="c190048.1"/>
+				 I will lie down and sleep,for you alone, O Lord, will keep me safe.
+			</v>
+			<marker class="begin-verse" mid="v19004009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

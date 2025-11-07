@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:43:30.268546</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:43:30.268556</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" version="ASV" bookAbbr="ecc">
+		<marker class="begin-verse" mid="v21006001"/>
+		<chapter num="6">
+			<begin-paragraph/>
+			<v n="1">
+				There is 
+				<crossref let="b" cid="c210061.1"/>
+				 an evil which I have seen under the sun, and it is heavy upon men:
+			</v>
+			<marker class="begin-verse" mid="v21006002"/>
+			<v n="2">
+				a man 
+				<crossref let="c" cid="c210062.1"/>
+				 to whom God giveth riches, wealth, and honor, so that he lacketh nothing for his soul of all that he desireth, yet God giveth him not power to eat thereof, but an alien eateth it; this is vanity, and it is an evil disease.
+			</v>
+			<marker class="begin-verse" mid="v21006003"/>
+			<v n="3">
+				If a 
+				<crossref let="d" cid="c210063.1"/>
+				 man beget a hundred children, and live many years, so that the days of his years are many, but his soul be not filled with good, and moreover he have no burial; I say, that an untimely birth is better than he:
+			</v>
+			<marker class="begin-verse" mid="v21006004"/>
+			<v n="4">
+				for it 
+				<crossref let="e" cid="c210064.1"/>
+				 cometh in vanity, and departeth in darkness, and the name thereof is covered with darkness;
+			</v>
+			<marker class="begin-verse" mid="v21006005"/>
+			<v n="5">
+				moreover it 
+				<crossref let="f" cid="c210065.1"/>
+				 hath not seen the sun nor known it; this hath rest rather than the other:
+			</v>
+			<marker class="begin-verse" mid="v21006006"/>
+			<v n="6">
+				yea, though 
+				<crossref let="g" cid="c210066.1"/>
+				 he live a thousand years twice told, and yet enjoy no good, do not all go to one place?
+			</v>
+			<marker class="begin-verse" mid="v21006007"/>
+			<v n="7">
+				All the 
+				<crossref let="h" cid="c210067.1"/>
+				 labor of man is for his mouth, and yet the appetite is not filled.
+			</v>
+			<marker class="begin-verse" mid="v21006008"/>
+			<v n="8">
+				For what 
+				<crossref let="i" cid="c210068.1"/>
+				 advantage hath the wise more than the fool? or what hath the poor man, that knoweth how to walk before the living?
+			</v>
+			<marker class="begin-verse" mid="v21006009"/>
+			<v n="9">
+				Better is 
+				<crossref let="j" cid="c210069.1"/>
+				 the sight of the eyes than the wandering of the desire: this also is vanity and a striving after wind.
+			</v>
+			<marker class="begin-verse" mid="v21006010"/>
+			<v n="10">
+				Whatsoever hath 
+				<crossref let="k" cid="c2100610.1"/>
+				 been, the name thereof was given long ago; and it is known what man is; neither can he contend with him that is mightier than he.
+			</v>
+			<marker class="begin-verse" mid="v21006011"/>
+			<v n="11">
+				Seeing there 
+				<crossref let="l" cid="c2100611.1"/>
+				 are many things that increase vanity, what is man the better?
+			</v>
+			<marker class="begin-verse" mid="v21006012"/>
+			<v n="12">
+				For who 
+				<crossref let="m" cid="c2100612.1"/>
+				 knoweth what is good for man in his life, all the days of his vain life which he spendeth as a shadow? for who can tell a man what shall be after him under the sun?
+			</v>
+			<marker class="begin-verse" mid="v21006013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

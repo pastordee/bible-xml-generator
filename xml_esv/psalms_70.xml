@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:42.937468</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:42.937499</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19070001">
+		</marker>
+		<chapter num="70">
+			<heading>
+				Psalm 70
+			</heading>
+			<heading>
+				O LORD, Do Not Delay
+			</heading>
+			<heading>
+				To the choirmaster. Of David, for the memorial offering.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Make haste, 
+				<crossref let="b" cid="c19070001.1">
+				</crossref>
+				O God,, 
+				<crossref let="c" cid="c19070001.2">
+				</crossref>
+				to deliver me! O LORD, make haste to help me!
+			</v>
+			<marker class="begin-verse" mid="v19070002">
+			</marker>
+			<v n="2">
+				Let them 
+				<crossref let="d" cid="c19070002.3">
+				</crossref>
+				be put, 
+				<crossref let="e" cid="c19070002.4">
+				</crossref>
+				to shame and confusion who seek my life! Let them be turned back and brought to dishonor who delight in my hurt!
+			</v>
+			<marker class="begin-verse" mid="v19070003">
+			</marker>
+			<v n="3">
+				Let them 
+				<crossref let="f" cid="c19070003.5">
+				</crossref>
+				turn back, 
+				<crossref let="g" cid="c19070003.6">
+				</crossref>
+				because of their shame who say, “Aha, Aha!”
+				<note nid="n19070003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19070004">
+			</marker>
+			<v n="4">
+				May all 
+				<crossref let="h" cid="c19070004.7">
+				</crossref>
+				who seek, 
+				<crossref let="i" cid="c19070004.8">
+				</crossref>
+				you rejoice and be glad in you! May those who love your salvation say evermore, “God is great!”
+			</v>
+			<marker class="begin-verse" mid="v19070005">
+			</marker>
+			<v n="5">
+				But I 
+				<crossref let="j" cid="c19070005.9">
+				</crossref>
+				am poor, 
+				<crossref let="k" cid="c19070005.10">
+				</crossref>
+				and needy; hasten to me, O God! You are my help and my deliverer; O LORD, do not delay! (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19070006">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

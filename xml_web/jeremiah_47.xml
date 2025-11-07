@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:09:35.377938</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:09:35.377948</next_refresh_due>
+	</generation_info>
+	<book title="Jeremiah" num="24" testament="old" version="WEB" bookAbbr="jer">
+		<marker class="begin-verse" mid="v24047001"/>
+		<chapter num="47">
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh’s word 
+				<crossref let="b" cid="c240471.1"/>
+				 that came to Jeremiah the prophet concerning the Philistines, before Pharaoh struck Gaza.
+			</v>
+			<marker class="begin-verse" mid="v24047002"/>
+			<v n="2">
+				Yahweh says:“Behold, 
+				<crossref let="c" cid="c240472.1"/>
+				 waters rise up out of the north,and will become an overflowing stream,and will overflow the land and all that is therein,the city and those who dwell therein.The men will cry,and all the inhabitants of the land will wail.
+			</v>
+			<marker class="begin-verse" mid="v24047003"/>
+			<v n="3">
+				At the 
+				<crossref let="d" cid="c240473.1"/>
+				 noise of the stamping of the hoofs of his strong ones,at the rushing of his chariots,at the rumbling of his wheels,the fathers don’t look back for their childrenbecause their hands are so feeble,
+			</v>
+			<marker class="begin-verse" mid="v24047004"/>
+			<v n="4">
+				because of 
+				<crossref let="e" cid="c240474.1"/>
+				 the day that comes to destroy all the Philistines,to cut off from Tyre and Sidon every helper who remains;for Yahweh will destroy the Philistines,the remnant of the isle of Caphtor.
+			</v>
+			<marker class="begin-verse" mid="v24047005"/>
+			<v n="5">
+				Baldness has 
+				<crossref let="f" cid="c240475.1"/>
+				 come on Gaza;Ashkelon is brought to nothing.You remnant of their valley,how long will you cut yourself?
+			</v>
+			<marker class="begin-verse" mid="v24047006"/>
+			<v n="6">
+				“‘You sword 
+				<crossref let="g" cid="c240476.1"/>
+				 of Yahweh, how long will it be before you are quiet?Put yourself back into your scabbard;rest, and be still.’
+			</v>
+			<marker class="begin-verse" mid="v24047007"/>
+			<v n="7">
+				“How can 
+				<crossref let="h" cid="c240477.1"/>
+				 you be quiet,since Yahweh has given you a command?Against Ashkelon, and against the seashore,there he has appointed it.”
+			</v>
+			<marker class="begin-verse" mid="v24047008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

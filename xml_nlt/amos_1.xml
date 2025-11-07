@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:06:15.064275</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:06:15.064283</next_refresh_due>
+	</generation_info>
+	<book title="Amos" num="30" testament="old" version="NLT" bookAbbr="amo">
+		<marker class="begin-verse" mid="v30001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				This message 
+				<crossref let="b" cid="c300011.1"/>
+				 was given to Amos, a shepherd from the town of Tekoa in Judah. He received this message in visions two years before the earthquake, when Uzziah was king of Judah and Jeroboam II, the son of Jehoash, was king of Israel.
+			</v>
+			<marker class="begin-verse" mid="v30001002"/>
+			<v n="2">
+				This is 
+				<crossref let="c" cid="c300012.1"/>
+				 what he saw and heard:“The Lord’s voice will roar from Zionand thunder from Jerusalem!The lush pastures of the shepherds will dry up;the grass on Mount Carmel will wither and die.”God’s Judgment on Israel’s Neighbors
+			</v>
+			<marker class="begin-verse" mid="v30001003"/>
+			<v n="3">
+				This is 
+				<crossref let="d" cid="c300013.1"/>
+				 what the Lord says:“The people of Damascus have sinned again and again,and I will not let them go unpunished!They beat down my people in Gileadas grain is threshed with iron sledges.
+			</v>
+			<marker class="begin-verse" mid="v30001004"/>
+			<v n="4">
+				So I 
+				<crossref let="e" cid="c300014.1"/>
+				 will send down fire on King Hazael’s palace,and the fortresses of King Ben-hadad will be destroyed.
+			</v>
+			<marker class="begin-verse" mid="v30001005"/>
+			<v n="5">
+				I will 
+				<crossref let="f" cid="c300015.1"/>
+				 break down the gates of Damascusand slaughter the people in the valley of Aven.I will destroy the ruler in Beth-eden,and the people of Aram will go as captives to Kir,”says the Lord.
+			</v>
+			<marker class="begin-verse" mid="v30001006"/>
+			<v n="6">
+				This is 
+				<crossref let="g" cid="c300016.1"/>
+				 what the Lord says:“The people of Gaza have sinned again and again,and I will not let them go unpunished!They sent whole villages into exile,selling them as slaves to Edom.
+			</v>
+			<marker class="begin-verse" mid="v30001007"/>
+			<v n="7">
+				So I 
+				<crossref let="h" cid="c300017.1"/>
+				 will send down fire on the walls of Gaza,and all its fortresses will be destroyed.
+			</v>
+			<marker class="begin-verse" mid="v30001008"/>
+			<v n="8">
+				I will 
+				<crossref let="i" cid="c300018.1"/>
+				 slaughter the people of Ashdodand destroy the king of Ashkelon.Then I will turn to attack Ekron,and the few Philistines still left will be killed,”says the Sovereign Lord.
+			</v>
+			<marker class="begin-verse" mid="v30001009"/>
+			<v n="9">
+				This is 
+				<crossref let="j" cid="c300019.1"/>
+				 what the Lord says:“The people of Tyre have sinned again and again,and I will not let them go unpunished!They broke their treaty of brotherhood with Israel,selling whole villages as slaves to Edom.
+			</v>
+			<marker class="begin-verse" mid="v30001010"/>
+			<v n="10">
+				So I 
+				<crossref let="k" cid="c3000110.1"/>
+				 will send down fire on the walls of Tyre,and all its fortresses will be destroyed.”
+			</v>
+			<marker class="begin-verse" mid="v30001011"/>
+			<v n="11">
+				This is 
+				<crossref let="l" cid="c3000111.1"/>
+				 what the Lord says:“The people of Edom have sinned again and again,and I will not let them go unpunished!They chased down their relatives, the Israelites, with swords,showing them no mercy.In their rage, they slashed them continuallyand were unrelenting in their anger.
+			</v>
+			<marker class="begin-verse" mid="v30001012"/>
+			<v n="12">
+				So I 
+				<crossref let="m" cid="c3000112.1"/>
+				 will send down fire on Teman,and the fortresses of Bozrah will be destroyed.”
+			</v>
+			<marker class="begin-verse" mid="v30001013"/>
+			<v n="13">
+				This is 
+				<crossref let="n" cid="c3000113.1"/>
+				 what the Lord says:“The people of Ammon have sinned again and again,and I will not let them go unpunished!When they attacked Gilead to extend their borders,they ripped open pregnant women with their swords.
+			</v>
+			<marker class="begin-verse" mid="v30001014"/>
+			<v n="14">
+				So I 
+				<crossref let="o" cid="c3000114.1"/>
+				 will send down fire on the walls of Rabbah,and all its fortresses will be destroyed.The battle will come upon them with shouts,like a whirlwind in a mighty storm.
+			</v>
+			<marker class="begin-verse" mid="v30001015"/>
+			<v n="15">
+				And their 
+				<crossref let="p" cid="c3000115.1"/>
+				 king and his princes will go into exile together,”says the Lord.
+			</v>
+			<marker class="begin-verse" mid="v30001016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

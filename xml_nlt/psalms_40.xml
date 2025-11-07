@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:47:41.307796</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:47:41.307816</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19040001"/>
+		<chapter num="40">
+			<heading>For the choir director: A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I waited 
+				<crossref let="b" cid="c190401.1"/>
+				 patiently for the Lord to help me,and he turned to me and heard my cry.
+			</v>
+			<marker class="begin-verse" mid="v19040002"/>
+			<v n="2">
+				He lifted 
+				<crossref let="c" cid="c190402.1"/>
+				 me out of the pit of despair,out of the mud and the mire.He set my feet on solid groundand steadied me as I walked along.
+			</v>
+			<marker class="begin-verse" mid="v19040003"/>
+			<v n="3">
+				He has 
+				<crossref let="d" cid="c190403.1"/>
+				 given me a new song to sing,a hymn of praise to our God.Many will see what he has done and be amazed.They will put their trust in the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19040004"/>
+			<v n="4">
+				Oh, the 
+				<crossref let="e" cid="c190404.1"/>
+				 joys of those who trust the Lord,who have no confidence in the proudor in those who worship idols.
+			</v>
+			<marker class="begin-verse" mid="v19040005"/>
+			<v n="5">
+				O Lord 
+				<crossref let="f" cid="c190405.1"/>
+				 my God, you have performed many wonders for us.Your plans for us are too numerous to list.You have no equal.If I tried to recite all your wonderful deeds,I would never come to the end of them.
+			</v>
+			<marker class="begin-verse" mid="v19040006"/>
+			<v n="6">
+				You take 
+				<crossref let="g" cid="c190406.1"/>
+				 no delight in sacrifices or offerings.Now that you have made me listen, I finally understand—you don’t require burnt offerings or sin offerings.
+			</v>
+			<marker class="begin-verse" mid="v19040007"/>
+			<v n="7">
+				Then I 
+				<crossref let="h" cid="c190407.1"/>
+				 said, “Look, I have come.As is written about me in the Scriptures:
+			</v>
+			<marker class="begin-verse" mid="v19040008"/>
+			<v n="8">
+				I take 
+				<crossref let="i" cid="c190408.1"/>
+				 joy in doing your will, my God,for your instructions are written on my heart.”
+			</v>
+			<marker class="begin-verse" mid="v19040009"/>
+			<v n="9">
+				I have 
+				<crossref let="j" cid="c190409.1"/>
+				 told all your people about your justice.I have not been afraid to speak out,as you, O Lord, well know.
+			</v>
+			<marker class="begin-verse" mid="v19040010"/>
+			<v n="10">
+				I have 
+				<crossref let="k" cid="c1904010.1"/>
+				 not kept the good news of your justice hidden in my heart;I have talked about your faithfulness and saving power.I have told everyone in the great assemblyof your unfailing love and faithfulness.
+			</v>
+			<marker class="begin-verse" mid="v19040011"/>
+			<v n="11">
+				Lord, don’t 
+				<crossref let="l" cid="c1904011.1"/>
+				 hold back your tender mercies from me.Let your unfailing love and faithfulness always protect me.
+			</v>
+			<marker class="begin-verse" mid="v19040012"/>
+			<v n="12">
+				For troubles 
+				<crossref let="m" cid="c1904012.1"/>
+				 surround me—too many to count!My sins pile up so highI can’t see my way out.They outnumber the hairs on my head.I have lost all courage.
+			</v>
+			<marker class="begin-verse" mid="v19040013"/>
+			<v n="13">
+				Please, Lord, 
+				<crossref let="n" cid="c1904013.1"/>
+				 rescue me!Come quickly, Lord, and help me.
+			</v>
+			<marker class="begin-verse" mid="v19040014"/>
+			<v n="14">
+				May those 
+				<crossref let="o" cid="c1904014.1"/>
+				 who try to destroy mebe humiliated and put to shame.May those who take delight in my troublebe turned back in disgrace.
+			</v>
+			<marker class="begin-verse" mid="v19040015"/>
+			<v n="15">
+				Let them 
+				<crossref let="p" cid="c1904015.1"/>
+				 be horrified by their shame,for they said, “Aha! We’ve got him now!”
+			</v>
+			<marker class="begin-verse" mid="v19040016"/>
+			<v n="16">
+				But may 
+				<crossref let="q" cid="c1904016.1"/>
+				 all who search for yoube filled with joy and gladness in you.May those who love your salvationrepeatedly shout, “The Lord is great!”
+			</v>
+			<marker class="begin-verse" mid="v19040017"/>
+			<v n="17">
+				As for 
+				<crossref let="r" cid="c1904017.1"/>
+				 me, since I am poor and needy,let the Lord keep me in his thoughts.You are my helper and my savior.O my God, do not delay.
+			</v>
+			<marker class="begin-verse" mid="v19040018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

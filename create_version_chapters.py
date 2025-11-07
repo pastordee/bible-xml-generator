@@ -107,7 +107,7 @@ def create_chapter_xml(version, book_info, chapter_num, content):
     """Convert chapter content to XML structure."""
     
     # Create root elements
-    root = ET.Element("bible", {"version": version})
+    root = ET.Element("crossway-bible")
     
     # Create book element with attributes
     book = ET.SubElement(root, "book", {
@@ -204,7 +204,7 @@ def main():
     # API keys for Bible APIs
     api_keys = {
         'esv': "635f6f76a32703e82f372ce2f26a99db76896e07",          # Get from https://api.esv.org/
-        'api_bible': "eda8d089ac7412a2a1ae966d18da3628"   # Get from https://scripture.api.bible/
+        'api_bible': "pyExkJPN1XXpoJ39Xa8Xi"  # Premium API.Bible key with NIV, NKJV, AMP access
     }
     
     # Versions to process

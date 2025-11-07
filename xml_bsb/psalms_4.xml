@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:12:31.357954</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:12:31.357995</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19004001"/>
+		<chapter num="4">
+			<heading>Answer Me When I Call!For the choirmaster. With stringed instruments. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Answer me 
+				<crossref let="b" cid="c190041.1"/>
+				 when I call,O God of my righteousness!You have relieved my distress;show me grace and hear my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19004002"/>
+			<v n="2">
+				How long, 
+				<crossref let="c" cid="c190042.1"/>
+				 O men, will my honor be maligned?How long will you love vanity and seek after lies ?Selah
+			</v>
+			<marker class="begin-verse" mid="v19004003"/>
+			<v n="3">
+				Know that 
+				<crossref let="d" cid="c190043.1"/>
+				 the LORD has set apart the godly for Himself;the LORD hears when I call to Him.
+			</v>
+			<marker class="begin-verse" mid="v19004004"/>
+			<v n="4">
+				Be angry, 
+				<crossref let="e" cid="c190044.1"/>
+				 yet do not sin;on your bed, search your heart and be still.Selah
+			</v>
+			<marker class="begin-verse" mid="v19004005"/>
+			<v n="5">
+				Offer the 
+				<crossref let="f" cid="c190045.1"/>
+				 sacrifices of the righteousand trust in the LORD.
+			</v>
+			<marker class="begin-verse" mid="v19004006"/>
+			<v n="6">
+				Many ask, 
+				<crossref let="g" cid="c190046.1"/>
+				 “Who can show us the good?”Shine the light of Your face upon us, O LORD.
+			</v>
+			<marker class="begin-verse" mid="v19004007"/>
+			<v n="7">
+				You have 
+				<crossref let="h" cid="c190047.1"/>
+				 filled my heart with more joythan when grain and new wine abound.
+			</v>
+			<marker class="begin-verse" mid="v19004008"/>
+			<v n="8">
+				I will 
+				<crossref let="i" cid="c190048.1"/>
+				 lie down and sleep in peace,for You alone, O LORD, make me dwell in safety.
+			</v>
+			<marker class="begin-verse" mid="v19004009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

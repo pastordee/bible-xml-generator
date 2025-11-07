@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:28.250240</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:28.250254</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19060001">
+		</marker>
+		<chapter num="60">
+			<heading>
+				Psalm 60
+			</heading>
+			<heading>
+				He Will Tread Down Our Foes
+			</heading>
+			<heading>
+				To the choirmaster: according to Shushan Eduth. A Miktam(1) of David; for instruction; when he strove with Aram-naharaim and with Aram-zobah, and when Joab on his return struck down twelve thousand of Edom in the Valley of Salt.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c19060001.1">
+				</crossref>
+				you have, 
+				<crossref let="c" cid="c19060001.2">
+				</crossref>
+				rejected us, broken our defenses; you have been angry; oh, restore us.
+			</v>
+			<marker class="begin-verse" mid="v19060002">
+			</marker>
+			<v n="2">
+				You have 
+				<crossref let="d" cid="c19060002.3">
+				</crossref>
+				made the, 
+				<crossref let="e" cid="c19060002.4">
+				</crossref>
+				land to quake; you have torn it open; repair its breaches, for it totters.
+			</v>
+			<marker class="begin-verse" mid="v19060003">
+			</marker>
+			<v n="3">
+				You have 
+				<crossref let="f" cid="c19060003.5">
+				</crossref>
+				made your, 
+				<crossref let="g" cid="c19060003.6">
+				</crossref>
+				people see hard things; you have given us wine to drink that made us stagger.
+				<note nid="n19060003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19060004">
+			</marker>
+			<v n="4">
+				You have 
+				<crossref let="h" cid="c19060004.7">
+				</crossref>
+				set up, 
+				<crossref let="i" cid="c19060004.8">
+				</crossref>
+				a banner for those who fear you, that they may flee to it from the bow.(2) Selah
+			</v>
+			<marker class="begin-verse" mid="v19060005">
+			</marker>
+			<v n="5">
+				That your 
+				<crossref let="j" cid="c19060005.9">
+				</crossref>
+				beloved ones, 
+				<crossref let="k" cid="c19060005.10">
+				</crossref>
+				may be delivered, give salvation by your right hand and answer us!
+			</v>
+			<marker class="begin-verse" mid="v19060006">
+			</marker>
+			<v n="6">
+				God has 
+				<crossref let="l" cid="c19060006.11">
+				</crossref>
+				spoken in, 
+				<crossref let="m" cid="c19060006.12">
+				</crossref>
+				his holiness:(3) “With exultation I will divide up Shechem and portion out the Vale of Succoth.
+				<note nid="n19060006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19060007">
+			</marker>
+			<v n="7">
+				Gilead is 
+				<crossref let="n" cid="c19060007.13">
+				</crossref>
+				mine; Manasseh, 
+				<crossref let="o" cid="c19060007.14">
+				</crossref>
+				is mine; Ephraim is my helmet; Judah is my scepter.
+			</v>
+			<marker class="begin-verse" mid="v19060008">
+			</marker>
+			<v n="8">
+				Moab is 
+				<crossref let="p" cid="c19060008.15">
+				</crossref>
+				my washbasin;, 
+				<crossref let="q" cid="c19060008.16">
+				</crossref>
+				upon Edom I cast my shoe; over Philistia I shout in triumph.”(4)
+			</v>
+			<marker class="begin-verse" mid="v19060009">
+			</marker>
+			<v n="9">
+				Who will 
+				<crossref let="r" cid="c19060009.17">
+				</crossref>
+				bring me, 
+				<crossref let="s" cid="c19060009.18">
+				</crossref>
+				to the fortified city? Who will lead me to Edom?
+				<note nid="n19060009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19060010">
+			</marker>
+			<v n="10">
+				Have you 
+				<crossref let="t" cid="c19060010.19">
+				</crossref>
+				not rejected, 
+				<crossref let="u" cid="c19060010.20">
+				</crossref>
+				us, O God? You do not go forth, O God, with our armies.
+			</v>
+			<marker class="begin-verse" mid="v19060011">
+			</marker>
+			<v n="11">
+				Oh, grant 
+				<crossref let="v" cid="c19060011.21">
+				</crossref>
+				us help, 
+				<crossref let="w" cid="c19060011.22">
+				</crossref>
+				against the foe, for vain is the salvation of man!
+			</v>
+			<marker class="begin-verse" mid="v19060012">
+			</marker>
+			<v n="12">
+				With God 
+				<crossref let="x" cid="c19060012.23">
+				</crossref>
+				we shall, 
+				<crossref let="y" cid="c19060012.24">
+				</crossref>
+				do valiantly; it is he who will tread down our foes. Footnotes (1) 60:1 Probably musical or liturgical terms (2) 60:4 Or *that it may be displayed because of truth* (3) 60:6 Or *sanctuary* (4) 60:8 Revocalization (compare Psalm 108:10); Masoretic Text *over me, O Philistia, shout in triumph* (ESV)
+				<note nid="n19060012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19060013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

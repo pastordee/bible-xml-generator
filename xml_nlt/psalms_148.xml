@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:57:20.174810</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:57:20.174819</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19148001"/>
+		<chapter num="148">
+			<begin-paragraph/>
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c191481.1"/>
+				 Lord!Praise the Lord from the heavens!Praise him from the skies!
+			</v>
+			<marker class="begin-verse" mid="v19148002"/>
+			<v n="2">
+				Praise him, 
+				<crossref let="c" cid="c191482.1"/>
+				 all his angels!Praise him, all the armies of heaven!
+			</v>
+			<marker class="begin-verse" mid="v19148003"/>
+			<v n="3">
+				Praise him, 
+				<crossref let="d" cid="c191483.1"/>
+				 sun and moon!Praise him, all you twinkling stars!
+			</v>
+			<marker class="begin-verse" mid="v19148004"/>
+			<v n="4">
+				Praise him, 
+				<crossref let="e" cid="c191484.1"/>
+				 skies above!Praise him, vapors high above the clouds!
+			</v>
+			<marker class="begin-verse" mid="v19148005"/>
+			<v n="5">
+				Let every 
+				<crossref let="f" cid="c191485.1"/>
+				 created thing give praise to the Lord,for he issued his command, and they came into being.
+			</v>
+			<marker class="begin-verse" mid="v19148006"/>
+			<v n="6">
+				He set 
+				<crossref let="g" cid="c191486.1"/>
+				 them in place forever and ever.His decree will never be revoked.
+			</v>
+			<marker class="begin-verse" mid="v19148007"/>
+			<v n="7">
+				Praise the 
+				<crossref let="h" cid="c191487.1"/>
+				 Lord from the earth,you creatures of the ocean depths,
+			</v>
+			<marker class="begin-verse" mid="v19148008"/>
+			<v n="8">
+				fire and 
+				<crossref let="i" cid="c191488.1"/>
+				 hail, snow and clouds,wind and weather that obey him,
+			</v>
+			<marker class="begin-verse" mid="v19148009"/>
+			<v n="9">
+				mountains and 
+				<crossref let="j" cid="c191489.1"/>
+				 all hills,fruit trees and all cedars,
+			</v>
+			<marker class="begin-verse" mid="v19148010"/>
+			<v n="10">
+				wild animals 
+				<crossref let="k" cid="c1914810.1"/>
+				 and all livestock,small scurrying animals and birds,
+			</v>
+			<marker class="begin-verse" mid="v19148011"/>
+			<v n="11">
+				kings of 
+				<crossref let="l" cid="c1914811.1"/>
+				 the earth and all people,rulers and judges of the earth,
+			</v>
+			<marker class="begin-verse" mid="v19148012"/>
+			<v n="12">
+				young men 
+				<crossref let="m" cid="c1914812.1"/>
+				 and young women,old men and children.
+			</v>
+			<marker class="begin-verse" mid="v19148013"/>
+			<v n="13">
+				Let them 
+				<crossref let="n" cid="c1914813.1"/>
+				 all praise the name of the Lord.For his name is very great;his glory towers over the earth and heaven!
+			</v>
+			<marker class="begin-verse" mid="v19148014"/>
+			<v n="14">
+				He has 
+				<crossref let="o" cid="c1914814.1"/>
+				 made his people strong,honoring his faithful ones—the people of Israel who are close to him.Praise the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19148015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:48:53.205016</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:48:53.205024</next_refresh_due>
+	</generation_info>
+	<book title="1 Peter" num="60" testament="new" version="NLT" bookAbbr="1pe">
+		<marker class="begin-verse" mid="v60005001"/>
+		<chapter num="5">
+			<heading>Advice for Elders and Young Men</heading>
+			<begin-paragraph/>
+			<v n="1">
+				And now, 
+				<crossref let="b" cid="c600051.1"/>
+				 a word to you who are elders in the churches. I, too, am an elder and a witness to the sufferings of Christ. And I, too, will share in his glory when he is revealed to the whole world. As a fellow elder, I appeal to you:
+			</v>
+			<marker class="begin-verse" mid="v60005002"/>
+			<v n="2">
+				Care for 
+				<crossref let="c" cid="c600052.1"/>
+				 the flock that God has entrusted to you. Watch over it willingly, not grudgingly—not for what you will get out of it, but because you are eager to serve God.
+			</v>
+			<marker class="begin-verse" mid="v60005003"/>
+			<v n="3">
+				Don’t lord 
+				<crossref let="d" cid="c600053.1"/>
+				 it over the people assigned to your care, but lead them by your own good example.
+			</v>
+			<marker class="begin-verse" mid="v60005004"/>
+			<v n="4">
+				And when 
+				<crossref let="e" cid="c600054.1"/>
+				 the Great Shepherd appears, you will receive a crown of never-ending glory and honor.
+			</v>
+			<marker class="begin-verse" mid="v60005005"/>
+			<v n="5">
+				In the 
+				<crossref let="f" cid="c600055.1"/>
+				 same way, you who are younger must accept the authority of the elders. And all of you, dress yourselves in humility as you relate to one another, for“God opposes the proudbut gives grace to the humble.”
+			</v>
+			<marker class="begin-verse" mid="v60005006"/>
+			<v n="6">
+				So humble 
+				<crossref let="g" cid="c600056.1"/>
+				 yourselves under the mighty power of God, and at the right time he will lift you up in honor.
+			</v>
+			<marker class="begin-verse" mid="v60005007"/>
+			<v n="7">
+				Give all 
+				<crossref let="h" cid="c600057.1"/>
+				 your worries and cares to God, for he cares about you.
+			</v>
+			<marker class="begin-verse" mid="v60005008"/>
+			<v n="8">
+				Stay alert! 
+				<crossref let="i" cid="c600058.1"/>
+				 Watch out for your great enemy, the devil. He prowls around like a roaring lion, looking for someone to devour.
+			</v>
+			<marker class="begin-verse" mid="v60005009"/>
+			<v n="9">
+				Stand firm 
+				<crossref let="j" cid="c600059.1"/>
+				 against him, and be strong in your faith. Remember that your family of believers all over the world is going through the same kind of suffering you are.
+			</v>
+			<marker class="begin-verse" mid="v60005010"/>
+			<v n="10">
+				In his 
+				<crossref let="k" cid="c6000510.1"/>
+				 kindness God called you to share in his eternal glory by means of Christ Jesus. So after you have suffered a little while, he will restore, support, and strengthen you, and he will place you on a firm foundation.
+			</v>
+			<marker class="begin-verse" mid="v60005011"/>
+			<v n="11">
+				All power 
+				<crossref let="l" cid="c6000511.1"/>
+				 to him forever! Amen.Peter’s Final Greetings
+			</v>
+			<marker class="begin-verse" mid="v60005012"/>
+			<v n="12">
+				I have 
+				<crossref let="m" cid="c6000512.1"/>
+				 written and sent this short letter to you with the help of Silas, whom I commend to you as a faithful brother. My purpose in writing is to encourage you and assure you that what you are experiencing is truly part of God’s grace for you. Stand firm in this grace.
+			</v>
+			<marker class="begin-verse" mid="v60005013"/>
+			<v n="13">
+				Your sister 
+				<crossref let="n" cid="c6000513.1"/>
+				 church here in Babylon sends you greetings, and so does my son Mark.
+			</v>
+			<marker class="begin-verse" mid="v60005014"/>
+			<v n="14">
+				Greet each 
+				<crossref let="o" cid="c6000514.1"/>
+				 other with a kiss of love.Peace be with all of you who are in Christ.
+			</v>
+			<marker class="begin-verse" mid="v60005015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

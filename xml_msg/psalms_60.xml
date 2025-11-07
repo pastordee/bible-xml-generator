@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:15:49.649254</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:15:49.649273</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19060001"/>
+		<chapter num="60">
+			<heading>For the music director. According to “Lily of the Testimony.” A psalm (miktam) of David, useful for teaching, about the time he fought against Aram-naharaim and Aram-zobah, and then Joab returned and killed 12,000 Edomites in the Valley of Salt.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				You, God, 
+				<crossref let="b" cid="c190601.1"/>
+				 have rejected us! You have broken us; you have been angry with us; but now you have to welcome us back!
+			</v>
+			<marker class="begin-verse" mid="v19060002"/>
+			<v n="2">
+				You have 
+				<crossref let="c" cid="c190602.1"/>
+				 sent earthquakes on our land and split it apart. Now heal the cracks, for the land is still having tremors.
+			</v>
+			<marker class="begin-verse" mid="v19060003"/>
+			<v n="3">
+				You have 
+				<crossref let="d" cid="c190603.1"/>
+				 been very hard on your people; you gave us wine that made us stagger around.
+			</v>
+			<marker class="begin-verse" mid="v19060004"/>
+			<v n="4">
+				But you 
+				<crossref let="e" cid="c190604.1"/>
+				 have given those who respect you the banner of truth to unfurl and rally around. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19060005"/>
+			<v n="5">
+				Rescue those 
+				<crossref let="f" cid="c190605.1"/>
+				 you love! Answer us, and save us by your power!
+			</v>
+			<marker class="begin-verse" mid="v19060006"/>
+			<v n="6">
+				God has 
+				<crossref let="g" cid="c190606.1"/>
+				 spoken from his Temple: “Triumphantly I divide up Shechem, and portion out the Valley of Succoth.
+			</v>
+			<marker class="begin-verse" mid="v19060007"/>
+			<v n="7">
+				Both Gilead 
+				<crossref let="h" cid="c190607.1"/>
+				 and Manasseh belong to me. Ephraim is my helmet, and Judah is my scepter.
+			</v>
+			<marker class="begin-verse" mid="v19060008"/>
+			<v n="8">
+				I will 
+				<crossref let="i" cid="c190608.1"/>
+				 treat Moab as my washbasin; I will place my sandal on Edom; I will shout in triumph over Philistia.”
+			</v>
+			<marker class="begin-verse" mid="v19060009"/>
+			<v n="9">
+				Who will 
+				<crossref let="j" cid="c190609.1"/>
+				 bring me into the fortified city? Who will lead me into Edom?
+			</v>
+			<marker class="begin-verse" mid="v19060010"/>
+			<v n="10">
+				Have you 
+				<crossref let="k" cid="c1906010.1"/>
+				 rejected us, God? Won't you lead our armies?
+			</v>
+			<marker class="begin-verse" mid="v19060011"/>
+			<v n="11">
+				Please give 
+				<crossref let="l" cid="c1906011.1"/>
+				 us help against our enemies, for human help is worthless.
+			</v>
+			<marker class="begin-verse" mid="v19060012"/>
+			<v n="12">
+				Our strength 
+				<crossref let="m" cid="c1906012.1"/>
+				 is in God, and he will crush our enemies.
+			</v>
+			<marker class="begin-verse" mid="v19060013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

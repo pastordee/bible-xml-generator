@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:00.454203</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:00.454212</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19099001"/>
+		<chapter num="99">
+			<heading>Psalm 99Praise to the Lord for His Fidelity to Israel.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The Lord 
+				<crossref let="b" cid="c190991.1"/>
+				 reigns, let the peoples tremble [with submissive wonder]!He sits enthroned above the cherubim, let the earth shake!
+			</v>
+			<marker class="begin-verse" mid="v19099002"/>
+			<v n="2">
+				The Lord 
+				<crossref let="c" cid="c190992.1"/>
+				 is great in Zion,And He is exalted and magnified above all the peoples.
+			</v>
+			<marker class="begin-verse" mid="v19099003"/>
+			<v n="3">
+				Let them 
+				<crossref let="d" cid="c190993.1"/>
+				 [reverently] praise Your great and awesome name;Holy is He. [Rev 15:4]
+			</v>
+			<marker class="begin-verse" mid="v19099004"/>
+			<v n="4">
+				The strength 
+				<crossref let="e" cid="c190994.1"/>
+				 of the King loves justice and righteous judgment;You have established fairness;You have executed justice and righteousness in Jacob (Israel).
+			</v>
+			<marker class="begin-verse" mid="v19099005"/>
+			<v n="5">
+				Exalt the 
+				<crossref let="f" cid="c190995.1"/>
+				 Lord our GodAnd worship at His footstool;Holy is He.
+			</v>
+			<marker class="begin-verse" mid="v19099006"/>
+			<v n="6">
+				¶Moses and 
+				<crossref let="g" cid="c190996.1"/>
+				 Aaron were among His priests,And Samuel was among those who called on His name;They called upon the Lord and He answered them.
+			</v>
+			<marker class="begin-verse" mid="v19099007"/>
+			<v n="7">
+				He spoke 
+				<crossref let="h" cid="c190997.1"/>
+				 to them in the pillar of cloud;They kept His testimoniesAnd the statutes that He gave them. [Ps 105:9, 10]
+			</v>
+			<marker class="begin-verse" mid="v19099008"/>
+			<v n="8">
+				You answered 
+				<crossref let="i" cid="c190998.1"/>
+				 them, O Lord our God;You were a forgiving God to them,And yet an avenger of their evil practices.
+			</v>
+			<marker class="begin-verse" mid="v19099009"/>
+			<v n="9">
+				Exalt the 
+				<crossref let="j" cid="c190999.1"/>
+				 Lord our GodAnd worship at His holy hill [Zion, the temple mount],For the Lord our God is holy.
+			</v>
+			<marker class="begin-verse" mid="v19099010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

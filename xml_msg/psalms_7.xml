@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:13:42.913371</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:13:42.913393</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19007001"/>
+		<chapter num="7">
+			<heading>A psalm (shiggaion) of David, which he sang to the Lord concerning Cush, from the tribe of Benjamin.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Lord my 
+				<crossref let="b" cid="c190071.1"/>
+				 God, you are my protection. Save me from those who persecute me; please rescue me!
+			</v>
+			<marker class="begin-verse" mid="v19007002"/>
+			<v n="2">
+				Otherwise they 
+				<crossref let="c" cid="c190072.1"/>
+				 will tear me apart like a lion, ripping me to pieces with no one to save me.
+			</v>
+			<marker class="begin-verse" mid="v19007003"/>
+			<v n="3">
+				If I 
+				<crossref let="d" cid="c190073.1"/>
+				 have done what I'm accused of, if my hands are guilty,
+			</v>
+			<marker class="begin-verse" mid="v19007004"/>
+			<v n="4">
+				If I 
+				<crossref let="e" cid="c190074.1"/>
+				 have paid back a friend with evil, if I have robbed my enemy for no reason,
+			</v>
+			<marker class="begin-verse" mid="v19007005"/>
+			<v n="5">
+				Then let 
+				<crossref let="f" cid="c190075.1"/>
+				 my enemies chase me down; let them trample me in the dust and drag my reputation through the dirt. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19007006"/>
+			<v n="6">
+				Stand up, 
+				<crossref let="g" cid="c190076.1"/>
+				 Lord, in your anger, rise up against the fury of my enemies; wake up, Lord, and bring me justice!
+			</v>
+			<marker class="begin-verse" mid="v19007007"/>
+			<v n="7">
+				Bring together 
+				<crossref let="h" cid="c190077.1"/>
+				 the nations before you; rule them from your throne on high.
+			</v>
+			<marker class="begin-verse" mid="v19007008"/>
+			<v n="8">
+				The Lord 
+				<crossref let="i" cid="c190078.1"/>
+				 judges all people. Defend me, Lord, because I do what is right, because of my integrity.
+			</v>
+			<marker class="begin-verse" mid="v19007009"/>
+			<v n="9">
+				Please bring 
+				<crossref let="j" cid="c190079.1"/>
+				 an end to the evil done by the wicked; vindicate those who do good, for you are the God of right who examines hearts and minds.
+			</v>
+			<marker class="begin-verse" mid="v19007010"/>
+			<v n="10">
+				The Most 
+				<crossref let="k" cid="c1900710.1"/>
+				 High God is my defense, the one who saves those who live right.
+			</v>
+			<marker class="begin-verse" mid="v19007011"/>
+			<v n="11">
+				God is 
+				<crossref let="l" cid="c1900711.1"/>
+				 a fair judge who is always hostile to evil.
+			</v>
+			<marker class="begin-verse" mid="v19007012"/>
+			<v n="12">
+				If people 
+				<crossref let="m" cid="c1900712.1"/>
+				 do not change their minds, he will sharpen his sword. He has bent and strung his bow.
+			</v>
+			<marker class="begin-verse" mid="v19007013"/>
+			<v n="13">
+				He has 
+				<crossref let="n" cid="c1900713.1"/>
+				 prepared weapons of death, he has his flaming arrows ready.
+			</v>
+			<marker class="begin-verse" mid="v19007014"/>
+			<v n="14">
+				See how 
+				<crossref let="o" cid="c1900714.1"/>
+				 the wicked conceive evil! They are pregnant with trouble. They give birth to dishonesty.
+			</v>
+			<marker class="begin-verse" mid="v19007015"/>
+			<v n="15">
+				They dig 
+				<crossref let="p" cid="c1900715.1"/>
+				 a deep hole to catch people, but then fall into it themselves.
+			</v>
+			<marker class="begin-verse" mid="v19007016"/>
+			<v n="16">
+				The trouble 
+				<crossref let="q" cid="c1900716.1"/>
+				 they cause rebounds to hit them on the head; their violence against others comes down on their own skulls.
+			</v>
+			<marker class="begin-verse" mid="v19007017"/>
+			<v n="17">
+				I will 
+				<crossref let="r" cid="c1900717.1"/>
+				 thank the Lord because he does what is right; I will sing praises to the name of the Lord Most High.
+			</v>
+			<marker class="begin-verse" mid="v19007018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

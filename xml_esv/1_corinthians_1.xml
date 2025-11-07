@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:17.218588</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:17.218612</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" bookAbbr="1co" version="ESV">
+		<marker class="begin-verse" mid="v46001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				1 Corinthians 1
+			</heading>
+			<heading>
+				Greeting
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Paul, called 
+				<crossref let="b" cid="c46001001.1">
+				</crossref>
+				by the, 
+				<crossref let="c" cid="c46001001.2">
+				</crossref>
+				will of God to be an apostle of Christ Jesus, and our brother Sosthenes,
+			</v>
+			<marker class="begin-verse" mid="v46001002">
+			</marker>
+			<v n="2">
+				To the 
+				<crossref let="d" cid="c46001002.3">
+				</crossref>
+				church of, 
+				<crossref let="e" cid="c46001002.4">
+				</crossref>
+				God that is in Corinth, to those sanctified in Christ Jesus, called to be saints together with all those who in every place call upon the name of our Lord Jesus Christ, both their Lord and ours:
+			</v>
+			<marker class="begin-verse" mid="v46001003">
+			</marker>
+			<v n="3">
+				Grace to 
+				<crossref let="f" cid="c46001003.5">
+				</crossref>
+				you and, 
+				<crossref let="g" cid="c46001003.6">
+				</crossref>
+				peace from God our Father and the Lord Jesus Christ. Thanksgiving
+				<note nid="n46001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46001004">
+			</marker>
+			<v n="4">
+				I give 
+				<crossref let="h" cid="c46001004.7">
+				</crossref>
+				thanks to, 
+				<crossref let="i" cid="c46001004.8">
+				</crossref>
+				my God always for you because of the grace of God that was given you in Christ Jesus,
+			</v>
+			<marker class="begin-verse" mid="v46001005">
+			</marker>
+			<v n="5">
+				that in 
+				<crossref let="j" cid="c46001005.9">
+				</crossref>
+				every way, 
+				<crossref let="k" cid="c46001005.10">
+				</crossref>
+				you were enriched in him in all speech and all knowledge—
+			</v>
+			<marker class="begin-verse" mid="v46001006">
+			</marker>
+			<v n="6">
+				even as 
+				<crossref let="l" cid="c46001006.11">
+				</crossref>
+				the testimony, 
+				<crossref let="m" cid="c46001006.12">
+				</crossref>
+				about Christ was confirmed among you—
+				<note nid="n46001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46001007">
+			</marker>
+			<v n="7">
+				so that 
+				<crossref let="n" cid="c46001007.13">
+				</crossref>
+				you are, 
+				<crossref let="o" cid="c46001007.14">
+				</crossref>
+				not lacking in any gift, as you wait for the revealing of our Lord Jesus Christ,
+			</v>
+			<marker class="begin-verse" mid="v46001008">
+			</marker>
+			<v n="8">
+				who will 
+				<crossref let="p" cid="c46001008.15">
+				</crossref>
+				sustain you, 
+				<crossref let="q" cid="c46001008.16">
+				</crossref>
+				to the end, guiltless in the day of our Lord Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v46001009">
+			</marker>
+			<v n="9">
+				God is 
+				<crossref let="r" cid="c46001009.17">
+				</crossref>
+				faithful, by, 
+				<crossref let="s" cid="c46001009.18">
+				</crossref>
+				whom you were called into the fellowship of his Son, Jesus Christ our Lord. Divisions in the Church
+				<note nid="n46001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46001010">
+			</marker>
+			<v n="10">
+				I appeal 
+				<crossref let="t" cid="c46001010.19">
+				</crossref>
+				to you,, 
+				<crossref let="u" cid="c46001010.20">
+				</crossref>
+				brothers,(1) by the name of our Lord Jesus Christ, that all of you agree, and that there be no divisions among you, but that you be united in the same mind and the same judgment.
+			</v>
+			<marker class="begin-verse" mid="v46001011">
+			</marker>
+			<v n="11">
+				For it 
+				<crossref let="v" cid="c46001011.21">
+				</crossref>
+				has been, 
+				<crossref let="w" cid="c46001011.22">
+				</crossref>
+				reported to me by Chloe’s people that there is quarreling among you, my brothers.
+			</v>
+			<marker class="begin-verse" mid="v46001012">
+			</marker>
+			<v n="12">
+				What I 
+				<crossref let="x" cid="c46001012.23">
+				</crossref>
+				mean is, 
+				<crossref let="y" cid="c46001012.24">
+				</crossref>
+				that each one of you says, “I follow Paul,” or “I follow Apollos,” or “I follow Cephas,” or “I follow Christ.”
+				<note nid="n46001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46001013">
+			</marker>
+			<v n="13">
+				Is Christ 
+				<crossref let="z" cid="c46001013.25">
+				</crossref>
+				divided? Was, 
+				<crossref let="a" cid="c46001013.26">
+				</crossref>
+				Paul crucified for you? Or were you baptized in the name of Paul?
+			</v>
+			<marker class="begin-verse" mid="v46001014">
+			</marker>
+			<v n="14">
+				I thank 
+				<crossref let="b" cid="c46001014.27">
+				</crossref>
+				God that, 
+				<crossref let="c" cid="c46001014.28">
+				</crossref>
+				I baptized none of you except Crispus and Gaius,
+			</v>
+			<marker class="begin-verse" mid="v46001015">
+			</marker>
+			<v n="15">
+				so that 
+				<crossref let="d" cid="c46001015.29">
+				</crossref>
+				no one, 
+				<crossref let="e" cid="c46001015.30">
+				</crossref>
+				may say that you were baptized in my name.
+				<note nid="n46001015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46001016">
+			</marker>
+			<v n="16">
+				(I did 
+				<crossref let="f" cid="c46001016.31">
+				</crossref>
+				baptize also, 
+				<crossref let="g" cid="c46001016.32">
+				</crossref>
+				the household of Stephanas. Beyond that, I do not know whether I baptized anyone else.)
+			</v>
+			<marker class="begin-verse" mid="v46001017">
+			</marker>
+			<v n="17">
+				For Christ 
+				<crossref let="h" cid="c46001017.33">
+				</crossref>
+				did not, 
+				<crossref let="i" cid="c46001017.34">
+				</crossref>
+				send me to baptize but to preach the gospel, and not with words of eloquent wisdom, lest the cross of Christ be emptied of its power. Christ the Wisdom and Power of God
+			</v>
+			<marker class="begin-verse" mid="v46001018">
+			</marker>
+			<v n="18">
+				For the 
+				<crossref let="j" cid="c46001018.35">
+				</crossref>
+				word of, 
+				<crossref let="k" cid="c46001018.36">
+				</crossref>
+				the cross is folly to those who are perishing, but to us who are being saved it is the power of God.
+				<note nid="n46001018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46001019">
+			</marker>
+			<v n="19">
+				For it 
+				<crossref let="l" cid="c46001019.37">
+				</crossref>
+				is written,, 
+				<crossref let="m" cid="c46001019.38">
+				</crossref>
+				“I will destroy the wisdom of the wise, and the discernment of the discerning I will thwart.”
+			</v>
+			<marker class="begin-verse" mid="v46001020">
+			</marker>
+			<v n="20">
+				Where is 
+				<crossref let="n" cid="c46001020.39">
+				</crossref>
+				the one, 
+				<crossref let="o" cid="c46001020.40">
+				</crossref>
+				who is wise? Where is the scribe? Where is the debater of this age? Has not God made foolish the wisdom of the world?
+			</v>
+			<marker class="begin-verse" mid="v46001021">
+			</marker>
+			<v n="21">
+				For since, 
+				<crossref let="p" cid="c46001021.41">
+				</crossref>
+				in the, 
+				<crossref let="q" cid="c46001021.42">
+				</crossref>
+				wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach(2) to save those who believe.
+				<note nid="n46001021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46001022">
+			</marker>
+			<v n="22">
+				For Jews 
+				<crossref let="r" cid="c46001022.43">
+				</crossref>
+				demand signs, 
+				<crossref let="s" cid="c46001022.44">
+				</crossref>
+				and Greeks seek wisdom,
+			</v>
+			<marker class="begin-verse" mid="v46001023">
+			</marker>
+			<v n="23">
+				but we 
+				<crossref let="t" cid="c46001023.45">
+				</crossref>
+				preach Christ, 
+				<crossref let="u" cid="c46001023.46">
+				</crossref>
+				crucified, a stumbling block to Jews and folly to Gentiles,
+			</v>
+			<marker class="begin-verse" mid="v46001024">
+			</marker>
+			<v n="24">
+				but to 
+				<crossref let="v" cid="c46001024.47">
+				</crossref>
+				those who, 
+				<crossref let="w" cid="c46001024.48">
+				</crossref>
+				are called, both Jews and Greeks, Christ the power of God and the wisdom of God.
+				<note nid="n46001024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46001025">
+			</marker>
+			<v n="25">
+				For the 
+				<crossref let="x" cid="c46001025.49">
+				</crossref>
+				foolishness of, 
+				<crossref let="y" cid="c46001025.50">
+				</crossref>
+				God is wiser than men, and the weakness of God is stronger than men.
+			</v>
+			<marker class="begin-verse" mid="v46001026">
+			</marker>
+			<v n="26">
+				For consider 
+				<crossref let="z" cid="c46001026.51">
+				</crossref>
+				your calling,, 
+				<crossref let="a" cid="c46001026.52">
+				</crossref>
+				brothers: not many of you were wise according to worldly standards,(3) not many were powerful, not many were of noble birth.
+			</v>
+			<marker class="begin-verse" mid="v46001027">
+			</marker>
+			<v n="27">
+				But God 
+				<crossref let="b" cid="c46001027.53">
+				</crossref>
+				chose what, 
+				<crossref let="c" cid="c46001027.54">
+				</crossref>
+				is foolish in the world to shame the wise; God chose what is weak in the world to shame the strong;
+				<note nid="n46001027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46001028">
+			</marker>
+			<v n="28">
+				God chose 
+				<crossref let="d" cid="c46001028.55">
+				</crossref>
+				what is, 
+				<crossref let="e" cid="c46001028.56">
+				</crossref>
+				low and despised in the world, even things that are not, to bring to nothing things that are,
+			</v>
+			<marker class="begin-verse" mid="v46001029">
+			</marker>
+			<v n="29">
+				so that 
+				<crossref let="f" cid="c46001029.57">
+				</crossref>
+				no human, 
+				<crossref let="g" cid="c46001029.58">
+				</crossref>
+				being(4) might boast in the presence of God.
+			</v>
+			<marker class="begin-verse" mid="v46001030">
+			</marker>
+			<v n="30">
+				And because 
+				<crossref let="h" cid="c46001030.59">
+				</crossref>
+				of him(5), 
+				<crossref let="i" cid="c46001030.60">
+				</crossref>
+				you are in Christ Jesus, who became to us wisdom from God, righteousness and sanctification and redemption,
+				<note nid="n46001030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46001031">
+			</marker>
+			<v n="31">
+				so that, 
+				<crossref let="j" cid="c46001031.61">
+				</crossref>
+				as it, 
+				<crossref let="k" cid="c46001031.62">
+				</crossref>
+				is written, “Let the one who boasts, boast in the Lord.” Footnotes (1) 1:10 Or *brothers and sisters*. In New Testament usage, depending on the context, the plural Greek word *adelphoi* (translated “brothers”) may refer either to *brothers* or to *brothers and sisters*; also verses 11, 26 (2) 1:21 Or *the folly of preaching* (3) 1:26 Greek *according to the flesh* (4) 1:29 Greek *no flesh* (5) 1:30 Greek *And from him* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v46001032">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

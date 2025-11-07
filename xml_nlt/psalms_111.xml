@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:54:02.052217</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:54:02.052225</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19111001"/>
+		<chapter num="111">
+			<begin-paragraph/>
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c191111.1"/>
+				 Lord!I will thank the Lord with all my heartas I meet with his godly people.
+			</v>
+			<marker class="begin-verse" mid="v19111002"/>
+			<v n="2">
+				How amazing 
+				<crossref let="c" cid="c191112.1"/>
+				 are the deeds of the Lord!All who delight in him should ponder them.
+			</v>
+			<marker class="begin-verse" mid="v19111003"/>
+			<v n="3">
+				Everything he 
+				<crossref let="d" cid="c191113.1"/>
+				 does reveals his glory and majesty.His righteousness never fails.
+			</v>
+			<marker class="begin-verse" mid="v19111004"/>
+			<v n="4">
+				He causes 
+				<crossref let="e" cid="c191114.1"/>
+				 us to remember his wonderful works.How gracious and merciful is our Lord!
+			</v>
+			<marker class="begin-verse" mid="v19111005"/>
+			<v n="5">
+				He gives 
+				<crossref let="f" cid="c191115.1"/>
+				 food to those who fear him;he always remembers his covenant.
+			</v>
+			<marker class="begin-verse" mid="v19111006"/>
+			<v n="6">
+				He has 
+				<crossref let="g" cid="c191116.1"/>
+				 shown his great power to his peopleby giving them the lands of other nations.
+			</v>
+			<marker class="begin-verse" mid="v19111007"/>
+			<v n="7">
+				All he 
+				<crossref let="h" cid="c191117.1"/>
+				 does is just and good,and all his commandments are trustworthy.
+			</v>
+			<marker class="begin-verse" mid="v19111008"/>
+			<v n="8">
+				They are 
+				<crossref let="i" cid="c191118.1"/>
+				 forever true,to be obeyed faithfully and with integrity.
+			</v>
+			<marker class="begin-verse" mid="v19111009"/>
+			<v n="9">
+				He has 
+				<crossref let="j" cid="c191119.1"/>
+				 paid a full ransom for his people.He has guaranteed his covenant with them forever.What a holy, awe-inspiring name he has!
+			</v>
+			<marker class="begin-verse" mid="v19111010"/>
+			<v n="10">
+				Fear of 
+				<crossref let="k" cid="c1911110.1"/>
+				 the Lord is the foundation of true wisdom.All who obey his commandments will grow in wisdom.Praise him forever!
+			</v>
+			<marker class="begin-verse" mid="v19111011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:01:01.237586</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:01:01.237607</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" bookAbbr="lev" version="ESV">
+		<marker class="begin-verse" mid="v03023001">
+		</marker>
+		<chapter num="23">
+			<heading>
+				Leviticus 23
+			</heading>
+			<heading>
+				Feasts of the LORD
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c03023001.1">
+				</crossref>
+				spoke to, 
+				<crossref let="c" cid="c03023001.2">
+				</crossref>
+				Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v03023002">
+			</marker>
+			<v n="2">
+				“Speak to 
+				<crossref let="d" cid="c03023002.3">
+				</crossref>
+				the people, 
+				<crossref let="e" cid="c03023002.4">
+				</crossref>
+				of Israel and say to them, These are the appointed feasts of the LORD that you shall proclaim as holy convocations; they are my appointed feasts. The Sabbath
+			</v>
+			<marker class="begin-verse" mid="v03023003">
+			</marker>
+			<v n="3">
+				“Six days 
+				<crossref let="f" cid="c03023003.5">
+				</crossref>
+				shall work, 
+				<crossref let="g" cid="c03023003.6">
+				</crossref>
+				be done, but on the seventh day is a Sabbath of solemn rest, a holy convocation. You shall do no work. It is a Sabbath to the LORD in all your dwelling places. The Passover
+				<note nid="n03023003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023004">
+			</marker>
+			<v n="4">
+				“These are 
+				<crossref let="h" cid="c03023004.7">
+				</crossref>
+				the appointed, 
+				<crossref let="i" cid="c03023004.8">
+				</crossref>
+				feasts of the LORD, the holy convocations, which you shall proclaim at the time appointed for them.
+			</v>
+			<marker class="begin-verse" mid="v03023005">
+			</marker>
+			<v n="5">
+				In the 
+				<crossref let="j" cid="c03023005.9">
+				</crossref>
+				first month,, 
+				<crossref let="k" cid="c03023005.10">
+				</crossref>
+				on the fourteenth day of the month at twilight,(1) is the LORD’s Passover.
+			</v>
+			<marker class="begin-verse" mid="v03023006">
+			</marker>
+			<v n="6">
+				And on 
+				<crossref let="l" cid="c03023006.11">
+				</crossref>
+				the fifteenth, 
+				<crossref let="m" cid="c03023006.12">
+				</crossref>
+				day of the same month is the Feast of Unleavened Bread to the LORD; for seven days you shall eat unleavened bread.
+				<note nid="n03023006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023007">
+			</marker>
+			<v n="7">
+				On the 
+				<crossref let="n" cid="c03023007.13">
+				</crossref>
+				first day, 
+				<crossref let="o" cid="c03023007.14">
+				</crossref>
+				you shall have a holy convocation; you shall not do any ordinary work.
+			</v>
+			<marker class="begin-verse" mid="v03023008">
+			</marker>
+			<v n="8">
+				But you 
+				<crossref let="p" cid="c03023008.15">
+				</crossref>
+				shall present, 
+				<crossref let="q" cid="c03023008.16">
+				</crossref>
+				a food offering to the LORD for seven days. On the seventh day is a holy convocation; you shall not do any ordinary work.” The Feast of Firstfruits
+			</v>
+			<marker class="begin-verse" mid="v03023009">
+			</marker>
+			<v n="9">
+				And the 
+				<crossref let="r" cid="c03023009.17">
+				</crossref>
+				LORD spoke, 
+				<crossref let="s" cid="c03023009.18">
+				</crossref>
+				to Moses, saying,
+				<note nid="n03023009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023010">
+			</marker>
+			<v n="10">
+				“Speak to 
+				<crossref let="t" cid="c03023010.19">
+				</crossref>
+				the people, 
+				<crossref let="u" cid="c03023010.20">
+				</crossref>
+				of Israel and say to them, When you come into the land that I give you and reap its harvest, you shall bring the sheaf of the firstfruits of your harvest to the priest,
+			</v>
+			<marker class="begin-verse" mid="v03023011">
+			</marker>
+			<v n="11">
+				and he 
+				<crossref let="v" cid="c03023011.21">
+				</crossref>
+				shall wave, 
+				<crossref let="w" cid="c03023011.22">
+				</crossref>
+				the sheaf before the LORD, so that you may be accepted. On the day after the Sabbath the priest shall wave it.
+			</v>
+			<marker class="begin-verse" mid="v03023012">
+			</marker>
+			<v n="12">
+				And on 
+				<crossref let="x" cid="c03023012.23">
+				</crossref>
+				the day, 
+				<crossref let="y" cid="c03023012.24">
+				</crossref>
+				when you wave the sheaf, you shall offer a male lamb a year old without blemish as a burnt offering to the LORD.
+				<note nid="n03023012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023013">
+			</marker>
+			<v n="13">
+				And the 
+				<crossref let="z" cid="c03023013.25">
+				</crossref>
+				grain offering, 
+				<crossref let="a" cid="c03023013.26">
+				</crossref>
+				with it shall be two tenths of an ephah(2) of fine flour mixed with oil, a food offering to the LORD with a pleasing aroma, and the drink offering with it shall be of wine, a fourth of a hin.(3)
+			</v>
+			<marker class="begin-verse" mid="v03023014">
+			</marker>
+			<v n="14">
+				And you 
+				<crossref let="b" cid="c03023014.27">
+				</crossref>
+				shall eat, 
+				<crossref let="c" cid="c03023014.28">
+				</crossref>
+				neither bread nor grain parched or fresh until this same day, until you have brought the offering of your God: it is a statute forever throughout your generations in all your dwellings. The Feast of Weeks
+			</v>
+			<marker class="begin-verse" mid="v03023015">
+			</marker>
+			<v n="15">
+				“You shall 
+				<crossref let="d" cid="c03023015.29">
+				</crossref>
+				count seven, 
+				<crossref let="e" cid="c03023015.30">
+				</crossref>
+				full weeks from the day after the Sabbath, from the day that you brought the sheaf of the wave offering.
+				<note nid="n03023015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023016">
+			</marker>
+			<v n="16">
+				You shall 
+				<crossref let="f" cid="c03023016.31">
+				</crossref>
+				count fifty, 
+				<crossref let="g" cid="c03023016.32">
+				</crossref>
+				days to the day after the seventh Sabbath. Then you shall present a grain offering of new grain to the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03023017">
+			</marker>
+			<v n="17">
+				You shall 
+				<crossref let="h" cid="c03023017.33">
+				</crossref>
+				bring from, 
+				<crossref let="i" cid="c03023017.34">
+				</crossref>
+				your dwelling places two loaves of bread to be waved, made of two tenths of an ephah. They shall be of fine flour, and they shall be baked with leaven, as firstfruits to the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03023018">
+			</marker>
+			<v n="18">
+				And you 
+				<crossref let="j" cid="c03023018.35">
+				</crossref>
+				shall present, 
+				<crossref let="k" cid="c03023018.36">
+				</crossref>
+				with the bread seven lambs a year old without blemish, and one bull from the herd and two rams. They shall be a burnt offering to the LORD, with their grain offering and their drink offerings, a food offering with a pleasing aroma to the LORD.
+				<note nid="n03023018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023019">
+			</marker>
+			<v n="19">
+				And you 
+				<crossref let="l" cid="c03023019.37">
+				</crossref>
+				shall offer, 
+				<crossref let="m" cid="c03023019.38">
+				</crossref>
+				one male goat for a sin offering, and two male lambs a year old as a sacrifice of peace offerings.
+			</v>
+			<marker class="begin-verse" mid="v03023020">
+			</marker>
+			<v n="20">
+				And the 
+				<crossref let="n" cid="c03023020.39">
+				</crossref>
+				priest shall, 
+				<crossref let="o" cid="c03023020.40">
+				</crossref>
+				wave them with the bread of the firstfruits as a wave offering before the LORD, with the two lambs. They shall be holy to the LORD for the priest.
+			</v>
+			<marker class="begin-verse" mid="v03023021">
+			</marker>
+			<v n="21">
+				And you 
+				<crossref let="p" cid="c03023021.41">
+				</crossref>
+				shall make, 
+				<crossref let="q" cid="c03023021.42">
+				</crossref>
+				a proclamation on the same day. You shall hold a holy convocation. You shall not do any ordinary work. It is a statute forever in all your dwelling places throughout your generations.
+				<note nid="n03023021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023022">
+			</marker>
+			<v n="22">
+				“And when 
+				<crossref let="r" cid="c03023022.43">
+				</crossref>
+				you reap, 
+				<crossref let="s" cid="c03023022.44">
+				</crossref>
+				the harvest of your land, you shall not reap your field right up to its edge, nor shall you gather the gleanings after your harvest. You shall leave them for the poor and for the sojourner: I am the LORD your God.” The Feast of Trumpets
+			</v>
+			<marker class="begin-verse" mid="v03023023">
+			</marker>
+			<v n="23">
+				And the 
+				<crossref let="t" cid="c03023023.45">
+				</crossref>
+				LORD spoke, 
+				<crossref let="u" cid="c03023023.46">
+				</crossref>
+				to Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v03023024">
+			</marker>
+			<v n="24">
+				“Speak to 
+				<crossref let="v" cid="c03023024.47">
+				</crossref>
+				the people, 
+				<crossref let="w" cid="c03023024.48">
+				</crossref>
+				of Israel, saying, In the seventh month, on the first day of the month, you shall observe a day of solemn rest, a memorial proclaimed with blast of trumpets, a holy convocation.
+				<note nid="n03023024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023025">
+			</marker>
+			<v n="25">
+				You shall 
+				<crossref let="x" cid="c03023025.49">
+				</crossref>
+				not do, 
+				<crossref let="y" cid="c03023025.50">
+				</crossref>
+				any ordinary work, and you shall present a food offering to the LORD.” The Day of Atonement
+			</v>
+			<marker class="begin-verse" mid="v03023026">
+			</marker>
+			<v n="26">
+				And the 
+				<crossref let="z" cid="c03023026.51">
+				</crossref>
+				LORD spoke, 
+				<crossref let="a" cid="c03023026.52">
+				</crossref>
+				to Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v03023027">
+			</marker>
+			<v n="27">
+				“Now on 
+				<crossref let="b" cid="c03023027.53">
+				</crossref>
+				the tenth, 
+				<crossref let="c" cid="c03023027.54">
+				</crossref>
+				day of this seventh month is the Day of Atonement. It shall be for you a time of holy convocation, and you shall afflict yourselves(4) and present a food offering to the LORD.
+				<note nid="n03023027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023028">
+			</marker>
+			<v n="28">
+				And you 
+				<crossref let="d" cid="c03023028.55">
+				</crossref>
+				shall not, 
+				<crossref let="e" cid="c03023028.56">
+				</crossref>
+				do any work on that very day, for it is a Day of Atonement, to make atonement for you before the LORD your God.
+			</v>
+			<marker class="begin-verse" mid="v03023029">
+			</marker>
+			<v n="29">
+				For whoever 
+				<crossref let="f" cid="c03023029.57">
+				</crossref>
+				is not, 
+				<crossref let="g" cid="c03023029.58">
+				</crossref>
+				afflicted(5) on that very day shall be cut off from his people.
+			</v>
+			<marker class="begin-verse" mid="v03023030">
+			</marker>
+			<v n="30">
+				And whoever 
+				<crossref let="h" cid="c03023030.59">
+				</crossref>
+				does any, 
+				<crossref let="i" cid="c03023030.60">
+				</crossref>
+				work on that very day, that person I will destroy from among his people.
+				<note nid="n03023030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023031">
+			</marker>
+			<v n="31">
+				You shall 
+				<crossref let="j" cid="c03023031.61">
+				</crossref>
+				not do, 
+				<crossref let="k" cid="c03023031.62">
+				</crossref>
+				any work. It is a statute forever throughout your generations in all your dwelling places.
+			</v>
+			<marker class="begin-verse" mid="v03023032">
+			</marker>
+			<v n="32">
+				It shall 
+				<crossref let="l" cid="c03023032.63">
+				</crossref>
+				be to, 
+				<crossref let="m" cid="c03023032.64">
+				</crossref>
+				you a Sabbath of solemn rest, and you shall afflict yourselves. On the ninth day of the month beginning at evening, from evening to evening shall you keep your Sabbath.” The Feast of Booths
+			</v>
+			<marker class="begin-verse" mid="v03023033">
+			</marker>
+			<v n="33">
+				And the 
+				<crossref let="n" cid="c03023033.65">
+				</crossref>
+				LORD spoke, 
+				<crossref let="o" cid="c03023033.66">
+				</crossref>
+				to Moses, saying,
+				<note nid="n03023033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023034">
+			</marker>
+			<v n="34">
+				“Speak to 
+				<crossref let="p" cid="c03023034.67">
+				</crossref>
+				the people, 
+				<crossref let="q" cid="c03023034.68">
+				</crossref>
+				of Israel, saying, On the fifteenth day of this seventh month and for seven days is the Feast of Booths(6) to the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03023035">
+			</marker>
+			<v n="35">
+				On the 
+				<crossref let="r" cid="c03023035.69">
+				</crossref>
+				first day, 
+				<crossref let="s" cid="c03023035.70">
+				</crossref>
+				shall be a holy convocation; you shall not do any ordinary work.
+			</v>
+			<marker class="begin-verse" mid="v03023036">
+			</marker>
+			<v n="36">
+				For seven 
+				<crossref let="t" cid="c03023036.71">
+				</crossref>
+				days you, 
+				<crossref let="u" cid="c03023036.72">
+				</crossref>
+				shall present food offerings to the LORD. On the eighth day you shall hold a holy convocation and present a food offering to the LORD. It is a solemn assembly; you shall not do any ordinary work.
+				<note nid="n03023036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023037">
+			</marker>
+			<v n="37">
+				“These are 
+				<crossref let="v" cid="c03023037.73">
+				</crossref>
+				the appointed, 
+				<crossref let="w" cid="c03023037.74">
+				</crossref>
+				feasts of the LORD, which you shall proclaim as times of holy convocation, for presenting to the LORD food offerings, burnt offerings and grain offerings, sacrifices and drink offerings, each on its proper day,
+			</v>
+			<marker class="begin-verse" mid="v03023038">
+			</marker>
+			<v n="38">
+				besides the 
+				<crossref let="x" cid="c03023038.75">
+				</crossref>
+				LORD’s Sabbaths, 
+				<crossref let="y" cid="c03023038.76">
+				</crossref>
+				and besides your gifts and besides all your vow offerings and besides all your freewill offerings, which you give to the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03023039">
+			</marker>
+			<v n="39">
+				“On the 
+				<crossref let="z" cid="c03023039.77">
+				</crossref>
+				fifteenth day, 
+				<crossref let="a" cid="c03023039.78">
+				</crossref>
+				of the seventh month, when you have gathered in the produce of the land, you shall celebrate the feast of the LORD seven days. On the first day shall be a solemn rest, and on the eighth day shall be a solemn rest.
+				<note nid="n03023039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023040">
+			</marker>
+			<v n="40">
+				And you 
+				<crossref let="b" cid="c03023040.79">
+				</crossref>
+				shall take, 
+				<crossref let="c" cid="c03023040.80">
+				</crossref>
+				on the first day the fruit of splendid trees, branches of palm trees and boughs of leafy trees and willows of the brook, and you shall rejoice before the LORD your God seven days.
+			</v>
+			<marker class="begin-verse" mid="v03023041">
+			</marker>
+			<v n="41">
+				You shall 
+				<crossref let="d" cid="c03023041.81">
+				</crossref>
+				celebrate it, 
+				<crossref let="e" cid="c03023041.82">
+				</crossref>
+				as a feast to the LORD for seven days in the year. It is a statute forever throughout your generations; you shall celebrate it in the seventh month.
+			</v>
+			<marker class="begin-verse" mid="v03023042">
+			</marker>
+			<v n="42">
+				You shall 
+				<crossref let="f" cid="c03023042.83">
+				</crossref>
+				dwell in, 
+				<crossref let="g" cid="c03023042.84">
+				</crossref>
+				booths for seven days. All native Israelites shall dwell in booths,
+				<note nid="n03023042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03023043">
+			</marker>
+			<v n="43">
+				that your 
+				<crossref let="h" cid="c03023043.85">
+				</crossref>
+				generations may, 
+				<crossref let="i" cid="c03023043.86">
+				</crossref>
+				know that I made the people of Israel dwell in booths when I brought them out of the land of Egypt: I am the LORD your God.”
+			</v>
+			<marker class="begin-verse" mid="v03023044">
+			</marker>
+			<v n="44">
+				Thus Moses 
+				<crossref let="j" cid="c03023044.87">
+				</crossref>
+				declared to, 
+				<crossref let="k" cid="c03023044.88">
+				</crossref>
+				the people of Israel the appointed feasts of the LORD. Footnotes (1) 23:5 Hebrew *between the two evenings* (2) 23:13 An *ephah* was about 3/5 bushel or 22 liters (3) 23:13 A *hin* was about 4 quarts or 3.5 liters (4) 23:27 Or *shall fast*; also verse 32 (5) 23:29 Or *is not fasting* (6) 23:34 Or *Tabernacles* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v03023045">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

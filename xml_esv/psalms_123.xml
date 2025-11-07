@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:01.003120</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:01.003128</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19123001">
+		</marker>
+		<chapter num="123">
+			<heading>
+				Psalm 123
+			</heading>
+			<heading>
+				Our Eyes Look to the LORD Our God
+			</heading>
+			<heading>
+				A Song of Ascents.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				To you 
+				<crossref let="b" cid="c19123001.1">
+				</crossref>
+				I lift, 
+				<crossref let="c" cid="c19123001.2">
+				</crossref>
+				up my eyes, O you who are enthroned in the heavens!
+			</v>
+			<marker class="begin-verse" mid="v19123002">
+			</marker>
+			<v n="2">
+				Behold, as 
+				<crossref let="d" cid="c19123002.3">
+				</crossref>
+				the eyes, 
+				<crossref let="e" cid="c19123002.4">
+				</crossref>
+				of servants look to the hand of their master, as the eyes of a maidservant to the hand of her mistress, so our eyes look to the LORD our God, till he has mercy upon us.
+			</v>
+			<marker class="begin-verse" mid="v19123003">
+			</marker>
+			<v n="3">
+				Have mercy 
+				<crossref let="f" cid="c19123003.5">
+				</crossref>
+				upon us,, 
+				<crossref let="g" cid="c19123003.6">
+				</crossref>
+				O LORD, have mercy upon us, for we have had more than enough of contempt.
+				<note nid="n19123003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19123004">
+			</marker>
+			<v n="4">
+				Our soul 
+				<crossref let="h" cid="c19123004.7">
+				</crossref>
+				has had, 
+				<crossref let="i" cid="c19123004.8">
+				</crossref>
+				more than enough of the scorn of those who are at ease, of the contempt of the proud. (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19123005">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

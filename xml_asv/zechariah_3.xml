@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:05:22.461916</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:05:22.461923</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" version="ASV" bookAbbr="zec">
+		<marker class="begin-verse" mid="v38003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				And he 
+				<crossref let="b" cid="c380031.1"/>
+				 showed me Joshua the high priest standing before the angel of Jehovah, and Satan standing at his right hand to be his adversary.
+			</v>
+			<marker class="begin-verse" mid="v38003002"/>
+			<v n="2">
+				And Jehovah 
+				<crossref let="c" cid="c380032.1"/>
+				 said unto Satan, Jehovah rebuke thee, O Satan; yea, Jehovah that hath chosen Jerusalem rebuke thee: is not this a brand plucked out of the fire?
+			</v>
+			<marker class="begin-verse" mid="v38003003"/>
+			<v n="3">
+				Now Joshua 
+				<crossref let="d" cid="c380033.1"/>
+				 was clothed with filthy garments, and was standing before the angel.
+			</v>
+			<marker class="begin-verse" mid="v38003004"/>
+			<v n="4">
+				And he 
+				<crossref let="e" cid="c380034.1"/>
+				 answered and spake unto those that stood before him, saying, Take the filthy garments from off him. And unto him he said, Behold, I have caused thine iniquity to pass from thee, and I will clothe thee with rich apparel.
+			</v>
+			<marker class="begin-verse" mid="v38003005"/>
+			<v n="5">
+				And I 
+				<crossref let="f" cid="c380035.1"/>
+				 said, Let them set a clean mitre upon his head. So they set a clean mitre upon his head, and clothed him with garments; and the angel of Jehovah was standing by.
+			</v>
+			<marker class="begin-verse" mid="v38003006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c380036.1"/>
+				 angel of Jehovah protested unto Joshua, saying,
+			</v>
+			<marker class="begin-verse" mid="v38003007"/>
+			<v n="7">
+				Thus saith 
+				<crossref let="h" cid="c380037.1"/>
+				 Jehovah of hosts: If thou wilt walk in my ways, and if thou wilt keep my charge, then thou also shalt judge my house, and shalt also keep my courts, and I will give thee a place of access among these that stand by.
+			</v>
+			<marker class="begin-verse" mid="v38003008"/>
+			<v n="8">
+				Hear now, 
+				<crossref let="i" cid="c380038.1"/>
+				 O Joshua the high priest, thou and thy fellows that sit before thee; for they are men that are a sign: for, behold, I will bring forth my servant the Branch.
+			</v>
+			<marker class="begin-verse" mid="v38003009"/>
+			<v n="9">
+				For, behold, 
+				<crossref let="j" cid="c380039.1"/>
+				 the stone that I have set before Joshua; upon one stone are seven eyes: behold, I will engrave the graving thereof, saith Jehovah of hosts, and I will remove the iniquity of that land in one day.
+			</v>
+			<marker class="begin-verse" mid="v38003010"/>
+			<v n="10">
+				In that 
+				<crossref let="k" cid="c3800310.1"/>
+				 day, saith Jehovah of hosts, shall ye invite every man his neighbor under the vine and under the fig-tree.
+			</v>
+			<marker class="begin-verse" mid="v38003011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:55:48.415729</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:55:48.415750</next_refresh_due>
+	</generation_info>
+	<book title="Ruth" num="8" testament="old" version="ASV" bookAbbr="rut">
+		<marker class="begin-verse" mid="v08001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				And it 
+				<crossref let="b" cid="c080011.1"/>
+				 came to pass in the days when the judges judged, that there was a famine in the land. And a certain man of Beth-lehem-judah went to sojourn in the country of Moab, he, and his wife, and his two sons.
+			</v>
+			<marker class="begin-verse" mid="v08001002"/>
+			<v n="2">
+				And the 
+				<crossref let="c" cid="c080012.1"/>
+				 name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth-lehem-judah. And they came into the country of Moab, and continued there.
+			</v>
+			<marker class="begin-verse" mid="v08001003"/>
+			<v n="3">
+				And Elimelech, 
+				<crossref let="d" cid="c080013.1"/>
+				 Naomi’s husband, died; and she was left, and her two sons.
+			</v>
+			<marker class="begin-verse" mid="v08001004"/>
+			<v n="4">
+				And they 
+				<crossref let="e" cid="c080014.1"/>
+				 took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelt there about ten years.
+			</v>
+			<marker class="begin-verse" mid="v08001005"/>
+			<v n="5">
+				And Mahlon 
+				<crossref let="f" cid="c080015.1"/>
+				 and Chilion died both of them; and the woman was left of her two children and of her husband.
+			</v>
+			<marker class="begin-verse" mid="v08001006"/>
+			<v n="6">
+				Then she 
+				<crossref let="g" cid="c080016.1"/>
+				 arose with her daughters-in-law, that she might return from the country of Moab: for she had heard in the country of Moab how that Jehovah had visited his people in giving them bread.
+			</v>
+			<marker class="begin-verse" mid="v08001007"/>
+			<v n="7">
+				And she 
+				<crossref let="h" cid="c080017.1"/>
+				 went forth out of the place where she was, and her two daughters-in-law with her; and they went on the way to return unto the land of Judah.
+			</v>
+			<marker class="begin-verse" mid="v08001008"/>
+			<v n="8">
+				And Naomi 
+				<crossref let="i" cid="c080018.1"/>
+				 said unto her two daughters-in-law, Go, return each of you to her mother’s house: Jehovah deal kindly with you, as ye have dealt with the dead, and with me.
+			</v>
+			<marker class="begin-verse" mid="v08001009"/>
+			<v n="9">
+				Jehovah grant 
+				<crossref let="j" cid="c080019.1"/>
+				 you that ye may find rest, each of you in the house of her husband. Then she kissed them, and they lifted up their voice, and wept.
+			</v>
+			<marker class="begin-verse" mid="v08001010"/>
+			<v n="10">
+				And they 
+				<crossref let="k" cid="c0800110.1"/>
+				 said unto her, Nay, but we will return with thee unto thy people.
+			</v>
+			<marker class="begin-verse" mid="v08001011"/>
+			<v n="11">
+				And Naomi 
+				<crossref let="l" cid="c0800111.1"/>
+				 said, Turn again, my daughters: why will ye go with me? have I yet sons in my womb, that they may be your husbands?
+			</v>
+			<marker class="begin-verse" mid="v08001012"/>
+			<v n="12">
+				Turn again, 
+				<crossref let="m" cid="c0800112.1"/>
+				 my daughters, go your way; for I am too old to have a husband. If I should say, I have hope, if I should even have a husband to-night, and should also bear sons;
+			</v>
+			<marker class="begin-verse" mid="v08001013"/>
+			<v n="13">
+				would ye 
+				<crossref let="n" cid="c0800113.1"/>
+				 therefore tarry till they were grown? would ye therefore stay from having husbands? nay, my daughters, for it grieveth me much for your sakes, for the hand of Jehovah is gone forth against me.
+			</v>
+			<marker class="begin-verse" mid="v08001014"/>
+			<v n="14">
+				And they 
+				<crossref let="o" cid="c0800114.1"/>
+				 lifted up their voice, and wept again: and Orpah kissed her mother-in-law, but Ruth clave unto her.
+			</v>
+			<marker class="begin-verse" mid="v08001015"/>
+			<v n="15">
+				And she 
+				<crossref let="p" cid="c0800115.1"/>
+				 said, Behold, thy sister-in-law is gone back unto her people, and unto her god: return thou after thy sister-in-law.
+			</v>
+			<marker class="begin-verse" mid="v08001016"/>
+			<v n="16">
+				And Ruth 
+				<crossref let="q" cid="c0800116.1"/>
+				 said, Entreat me not to leave thee, and to return from following after thee, for whither thou goest, I will go; and where thou lodgest, I will lodge; thy people shall be my people, and thy God my God;
+			</v>
+			<marker class="begin-verse" mid="v08001017"/>
+			<v n="17">
+				where thou 
+				<crossref let="r" cid="c0800117.1"/>
+				 diest, will I die, and there will I be buried: Jehovah do so to me, and more also, if aught but death part thee and me.
+			</v>
+			<marker class="begin-verse" mid="v08001018"/>
+			<v n="18">
+				And when 
+				<crossref let="s" cid="c0800118.1"/>
+				 she saw that she was stedfastly minded to go with her, she left off speaking unto her.
+			</v>
+			<marker class="begin-verse" mid="v08001019"/>
+			<v n="19">
+				So they 
+				<crossref let="t" cid="c0800119.1"/>
+				 two went until they came to Beth-lehem. And it came to pass, when they were come to Beth-lehem, that all the city was moved about them, and the women said, Is this Naomi?
+			</v>
+			<marker class="begin-verse" mid="v08001020"/>
+			<v n="20">
+				And she 
+				<crossref let="u" cid="c0800120.1"/>
+				 said unto them, Call me not Naomi, call me Mara; for the Almighty hath dealt very bitterly with me.
+			</v>
+			<marker class="begin-verse" mid="v08001021"/>
+			<v n="21">
+				I went 
+				<crossref let="v" cid="c0800121.1"/>
+				 out full, and Jehovah hath brought me home again empty; why call ye me Naomi, seeing Jehovah hath testified against me, and the Almighty hath afflicted me?
+			</v>
+			<marker class="begin-verse" mid="v08001022"/>
+			<v n="22">
+				So Naomi 
+				<crossref let="w" cid="c0800122.1"/>
+				 returned, and Ruth the Moabitess, her daughter-in-law, with her, who returned out of the country of Moab: and they came to Beth-lehem in the beginning of barley harvest.
+			</v>
+			<marker class="begin-verse" mid="v08001023"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:17:24.595337</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:17:24.595356</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19100001"/>
+		<chapter num="100">
+			<heading>A psalm of thanksgiving.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Everyone on 
+				<crossref let="b" cid="c191001.1"/>
+				 earth shout for joy to the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19100002"/>
+			<v n="2">
+				Worship the 
+				<crossref let="c" cid="c191002.1"/>
+				 Lord with gladness; come into his presence with joyful songs!
+			</v>
+			<marker class="begin-verse" mid="v19100003"/>
+			<v n="3">
+				Know that 
+				<crossref let="d" cid="c191003.1"/>
+				 the Lord is God! He made us, so we belong to him. We are his people, the flock he cares for.
+			</v>
+			<marker class="begin-verse" mid="v19100004"/>
+			<v n="4">
+				Go in 
+				<crossref let="e" cid="c191004.1"/>
+				 through his gate with thanks; enter his courts with praise. Thank him; praise him for who he is.
+			</v>
+			<marker class="begin-verse" mid="v19100005"/>
+			<v n="5">
+				For the 
+				<crossref let="f" cid="c191005.1"/>
+				 Lord is good. His trustworthy love lasts forever; his faithfulness continues for all generations.
+			</v>
+			<marker class="begin-verse" mid="v19100006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

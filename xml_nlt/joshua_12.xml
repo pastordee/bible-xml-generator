@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:19:11.223669</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:19:11.223688</next_refresh_due>
+	</generation_info>
+	<book title="Joshua" num="6" testament="old" version="NLT" bookAbbr="jos">
+		<marker class="begin-verse" mid="v06012001"/>
+		<chapter num="12">
+			<heading>Kings Defeated East of the Jordan</heading>
+			<begin-paragraph/>
+			<v n="1">
+				These are 
+				<crossref let="b" cid="c060121.1"/>
+				 the kings east of the Jordan River who had been killed by the Israelites and whose land was taken. Their territory extended from the Arnon Gorge to Mount Hermon and included all the land east of the Jordan Valley.
+			</v>
+			<marker class="begin-verse" mid="v06012002"/>
+			<v n="2">
+				King Sihon 
+				<crossref let="c" cid="c060122.1"/>
+				 of the Amorites, who lived in Heshbon, was defeated. His kingdom included Aroer, on the edge of the Arnon Gorge, and extended from the middle of the Arnon Gorge to the Jabbok River, which serves as a border for the Ammonites. This territory included the southern half of the territory of Gilead.
+			</v>
+			<marker class="begin-verse" mid="v06012003"/>
+			<v n="3">
+				Sihon also 
+				<crossref let="d" cid="c060123.1"/>
+				 controlled the Jordan Valley and regions to the east—from as far north as the Sea of Galilee to as far south as the Dead Sea, including the road to Beth-jeshimoth and southward to the slopes of Pisgah.
+			</v>
+			<marker class="begin-verse" mid="v06012004"/>
+			<v n="4">
+				King Og 
+				<crossref let="e" cid="c060124.1"/>
+				 of Bashan, the last of the Rephaites, lived at Ashtaroth and Edrei.
+			</v>
+			<marker class="begin-verse" mid="v06012005"/>
+			<v n="5">
+				He ruled 
+				<crossref let="f" cid="c060125.1"/>
+				 a territory stretching from Mount Hermon to Salecah in the north and to all of Bashan in the east, and westward to the borders of the kingdoms of Geshur and Maacah. This territory included the northern half of Gilead, as far as the boundary of King Sihon of Heshbon.
+			</v>
+			<marker class="begin-verse" mid="v06012006"/>
+			<v n="6">
+				Moses, the 
+				<crossref let="g" cid="c060126.1"/>
+				 servant of the Lord, and the Israelites had destroyed the people of King Sihon and King Og. And Moses gave their land as a possession to the tribes of Reuben, Gad, and the half-tribe of Manasseh.Kings Defeated West of the Jordan
+			</v>
+			<marker class="begin-verse" mid="v06012007"/>
+			<v n="7">
+				The following 
+				<crossref let="h" cid="c060127.1"/>
+				 is a list of the kings that Joshua and the Israelite armies defeated on the west side of the Jordan, from Baal-gad in the valley of Lebanon to Mount Halak, which leads up to Seir. (Joshua gave this land to the tribes of Israel as their possession,
+			</v>
+			<marker class="begin-verse" mid="v06012008"/>
+			<v n="8">
+				including the 
+				<crossref let="i" cid="c060128.1"/>
+				 hill country, the western foothills, the Jordan Valley, the mountain slopes, the Judean wilderness, and the Negev. The people who lived in this region were the Hittites, the Amorites, the Canaanites, the Perizzites, the Hivites, and the Jebusites.) These are the kings Israel defeated:
+			</v>
+			<marker class="begin-verse" mid="v06012009"/>
+			<v n="9">
+				The king 
+				<crossref let="j" cid="c060129.1"/>
+				 of JerichoThe king of Ai, near Bethel
+			</v>
+			<marker class="begin-verse" mid="v06012010"/>
+			<v n="10">
+				The king 
+				<crossref let="k" cid="c0601210.1"/>
+				 of JerusalemThe king of Hebron
+			</v>
+			<marker class="begin-verse" mid="v06012011"/>
+			<v n="11">
+				The king 
+				<crossref let="l" cid="c0601211.1"/>
+				 of JarmuthThe king of Lachish
+			</v>
+			<marker class="begin-verse" mid="v06012012"/>
+			<v n="12">
+				The king 
+				<crossref let="m" cid="c0601212.1"/>
+				 of EglonThe king of Gezer
+			</v>
+			<marker class="begin-verse" mid="v06012013"/>
+			<v n="13">
+				The king 
+				<crossref let="n" cid="c0601213.1"/>
+				 of DebirThe king of Geder
+			</v>
+			<marker class="begin-verse" mid="v06012014"/>
+			<v n="14">
+				The king 
+				<crossref let="o" cid="c0601214.1"/>
+				 of HormahThe king of Arad
+			</v>
+			<marker class="begin-verse" mid="v06012015"/>
+			<v n="15">
+				The king 
+				<crossref let="p" cid="c0601215.1"/>
+				 of LibnahThe king of Adullam
+			</v>
+			<marker class="begin-verse" mid="v06012016"/>
+			<v n="16">
+				The king 
+				<crossref let="q" cid="c0601216.1"/>
+				 of MakkedahThe king of Bethel
+			</v>
+			<marker class="begin-verse" mid="v06012017"/>
+			<v n="17">
+				The king 
+				<crossref let="r" cid="c0601217.1"/>
+				 of TappuahThe king of Hepher
+			</v>
+			<marker class="begin-verse" mid="v06012018"/>
+			<v n="18">
+				The king 
+				<crossref let="s" cid="c0601218.1"/>
+				 of AphekThe king of Lasharon
+			</v>
+			<marker class="begin-verse" mid="v06012019"/>
+			<v n="19">
+				The king 
+				<crossref let="t" cid="c0601219.1"/>
+				 of MadonThe king of Hazor
+			</v>
+			<marker class="begin-verse" mid="v06012020"/>
+			<v n="20">
+				The king 
+				<crossref let="u" cid="c0601220.1"/>
+				 of Shimron-meronThe king of Acshaph
+			</v>
+			<marker class="begin-verse" mid="v06012021"/>
+			<v n="21">
+				The king 
+				<crossref let="v" cid="c0601221.1"/>
+				 of TaanachThe king of Megiddo
+			</v>
+			<marker class="begin-verse" mid="v06012022"/>
+			<v n="22">
+				The king 
+				<crossref let="w" cid="c0601222.1"/>
+				 of KedeshThe king of Jokneam in Carmel
+			</v>
+			<marker class="begin-verse" mid="v06012023"/>
+			<v n="23">
+				The king 
+				<crossref let="x" cid="c0601223.1"/>
+				 of Dor in the town of Naphoth-dorThe king of Goyim in Gilgal
+			</v>
+			<marker class="begin-verse" mid="v06012024"/>
+			<v n="24">
+				The king 
+				<crossref let="y" cid="c0601224.1"/>
+				 of Tirzah.In all, thirty-one kings were defeated.
+			</v>
+			<marker class="begin-verse" mid="v06012025"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

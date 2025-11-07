@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:04:13.303539</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:04:13.303551</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="WEB" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23053001"/>
+		<chapter num="53">
+			<begin-paragraph/>
+			<v n="1">
+				Who has 
+				<crossref let="b" cid="c230531.1"/>
+				 believed our message?To whom has Yahweh’s arm been revealed?
+			</v>
+			<marker class="begin-verse" mid="v23053002"/>
+			<v n="2">
+				For he 
+				<crossref let="c" cid="c230532.1"/>
+				 grew up before him as a tender plant,and as a root out of dry ground.He has no good looks or majesty.When we see him, there is no beauty that we should desire him.
+			</v>
+			<marker class="begin-verse" mid="v23053003"/>
+			<v n="3">
+				He was 
+				<crossref let="d" cid="c230533.1"/>
+				 despisedand rejected by men,a man of sufferingand acquainted with disease.He was despised as one from whom men hide their face;and we didn’t respect him.
+			</v>
+			<marker class="begin-verse" mid="v23053004"/>
+			<v n="4">
+				Surely he 
+				<crossref let="e" cid="c230534.1"/>
+				 has borne our sicknessand carried our suffering;yet we considered him plagued,struck by God, and afflicted.
+			</v>
+			<marker class="begin-verse" mid="v23053005"/>
+			<v n="5">
+				But he 
+				<crossref let="f" cid="c230535.1"/>
+				 was pierced for our transgressions.He was crushed for our iniquities.The punishment that brought our peace was on him;and by his wounds we are healed.
+			</v>
+			<marker class="begin-verse" mid="v23053006"/>
+			<v n="6">
+				All we 
+				<crossref let="g" cid="c230536.1"/>
+				 like sheep have gone astray.Everyone has turned to his own way;and Yahweh has laid on him the iniquity of us all.
+			</v>
+			<marker class="begin-verse" mid="v23053007"/>
+			<v n="7">
+				He was 
+				<crossref let="h" cid="c230537.1"/>
+				 oppressed,yet when he was afflicted he didn’t open his mouth.As a lamb that is led to the slaughter,and as a sheep that before its shearers is silent,so he didn’t open his mouth.
+			</v>
+			<marker class="begin-verse" mid="v23053008"/>
+			<v n="8">
+				He was 
+				<crossref let="i" cid="c230538.1"/>
+				 taken away by oppression and judgment.As for his generation,who considered that he was cut off out of the land of the livingand stricken for the disobedience of my people?
+			</v>
+			<marker class="begin-verse" mid="v23053009"/>
+			<v n="9">
+				They made 
+				<crossref let="j" cid="c230539.1"/>
+				 his grave with the wicked,and with a rich man in his death,although he had done no violence,nor was any deceit in his mouth.
+			</v>
+			<marker class="begin-verse" mid="v23053010"/>
+			<v n="10">
+				Yet it 
+				<crossref let="k" cid="c2305310.1"/>
+				 pleased Yahweh to bruise him.He has caused him to suffer.When you make his soul an offering for sin,he will see his offspring.He will prolong his daysand Yahweh’s pleasure will prosper in his hand.
+			</v>
+			<marker class="begin-verse" mid="v23053011"/>
+			<v n="11">
+				After the 
+				<crossref let="l" cid="c2305311.1"/>
+				 suffering of his soul,he will see the light and be satisfied.My righteous servant will justify many by the knowledge of himself;and he will bear their iniquities.
+			</v>
+			<marker class="begin-verse" mid="v23053012"/>
+			<v n="12">
+				Therefore I 
+				<crossref let="m" cid="c2305312.1"/>
+				 will give him a portion with the great.He will divide the plunder with the strong,because he poured out his soul to deathand was counted with the transgressors;yet he bore the sins of manyand made intercession for the transgressors.
+			</v>
+			<marker class="begin-verse" mid="v23053013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

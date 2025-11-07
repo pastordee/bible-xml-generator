@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:38.521041</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:38.521068</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19067001">
+		</marker>
+		<chapter num="67">
+			<heading>
+				Psalm 67
+			</heading>
+			<heading>
+				Make Your Face Shine upon Us
+			</heading>
+			<heading>
+				To the choirmaster: with stringed instruments. A Psalm. A Song.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				May God 
+				<crossref let="b" cid="c19067001.1">
+				</crossref>
+				be gracious, 
+				<crossref let="c" cid="c19067001.2">
+				</crossref>
+				to us and bless us and make his face to shine upon us, Selah
+			</v>
+			<marker class="begin-verse" mid="v19067002">
+			</marker>
+			<v n="2">
+				that your 
+				<crossref let="d" cid="c19067002.3">
+				</crossref>
+				way may, 
+				<crossref let="e" cid="c19067002.4">
+				</crossref>
+				be known on earth, your saving power among all nations.
+			</v>
+			<marker class="begin-verse" mid="v19067003">
+			</marker>
+			<v n="3">
+				Let the 
+				<crossref let="f" cid="c19067003.5">
+				</crossref>
+				peoples praise, 
+				<crossref let="g" cid="c19067003.6">
+				</crossref>
+				you, O God; let all the peoples praise you!
+				<note nid="n19067003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19067004">
+			</marker>
+			<v n="4">
+				Let the 
+				<crossref let="h" cid="c19067004.7">
+				</crossref>
+				nations be, 
+				<crossref let="i" cid="c19067004.8">
+				</crossref>
+				glad and sing for joy, for you judge the peoples with equity and guide the nations upon earth. Selah
+			</v>
+			<marker class="begin-verse" mid="v19067005">
+			</marker>
+			<v n="5">
+				Let the 
+				<crossref let="j" cid="c19067005.9">
+				</crossref>
+				peoples praise, 
+				<crossref let="k" cid="c19067005.10">
+				</crossref>
+				you, O God; let all the peoples praise you!
+			</v>
+			<marker class="begin-verse" mid="v19067006">
+			</marker>
+			<v n="6">
+				The earth 
+				<crossref let="l" cid="c19067006.11">
+				</crossref>
+				has yielded, 
+				<crossref let="m" cid="c19067006.12">
+				</crossref>
+				its increase; God, our God, shall bless us.
+				<note nid="n19067006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19067007">
+			</marker>
+			<v n="7">
+				God shall 
+				<crossref let="n" cid="c19067007.13">
+				</crossref>
+				bless us;, 
+				<crossref let="o" cid="c19067007.14">
+				</crossref>
+				let all the ends of the earth fear him! (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19067008">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

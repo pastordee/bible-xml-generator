@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:01:06.895108</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:01:06.895117</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19058001"/>
+		<chapter num="58">
+			<heading>To the chief Musician, Al-taschith, Michtam of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Do ye 
+				<crossref let="b" cid="c190581.1"/>
+				 indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?
+			</v>
+			<marker class="begin-verse" mid="v19058002"/>
+			<v n="2">
+				Yea, in 
+				<crossref let="c" cid="c190582.1"/>
+				 heart ye work wickedness; ye weigh the violence of your hands in the earth.
+			</v>
+			<marker class="begin-verse" mid="v19058003"/>
+			<v n="3">
+				The wicked 
+				<crossref let="d" cid="c190583.1"/>
+				 are estranged from the womb: they go astray as soon as they be born, speaking lies.
+			</v>
+			<marker class="begin-verse" mid="v19058004"/>
+			<v n="4">
+				Their poison 
+				<crossref let="e" cid="c190584.1"/>
+				 is like the poison of a serpent: they are like the deaf adder that stoppeth her ear;
+			</v>
+			<marker class="begin-verse" mid="v19058005"/>
+			<v n="5">
+				Which will 
+				<crossref let="f" cid="c190585.1"/>
+				 not hearken to the voice of charmers, charming never so wisely.
+			</v>
+			<marker class="begin-verse" mid="v19058006"/>
+			<v n="6">
+				Break their 
+				<crossref let="g" cid="c190586.1"/>
+				 teeth, O God, in their mouth: break out the great teeth of the young lions, O LORD.
+			</v>
+			<marker class="begin-verse" mid="v19058007"/>
+			<v n="7">
+				Let them 
+				<crossref let="h" cid="c190587.1"/>
+				 melt away as waters which run continually: when he bendeth his bow to shoot his arrows, let them be as cut in pieces.
+			</v>
+			<marker class="begin-verse" mid="v19058008"/>
+			<v n="8">
+				As a 
+				<crossref let="i" cid="c190588.1"/>
+				 snail which melteth, let every one of them pass away: like the untimely birth of a woman, that they may not see the sun.
+			</v>
+			<marker class="begin-verse" mid="v19058009"/>
+			<v n="9">
+				Before your 
+				<crossref let="j" cid="c190589.1"/>
+				 pots can feel the thorns, he shall take them away as with a whirlwind, both living, and in his wrath.
+			</v>
+			<marker class="begin-verse" mid="v19058010"/>
+			<v n="10">
+				The righteous 
+				<crossref let="k" cid="c1905810.1"/>
+				 shall rejoice when he seeth the vengeance: he shall wash his feet in the blood of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19058011"/>
+			<v n="11">
+				So that 
+				<crossref let="l" cid="c1905811.1"/>
+				 a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth.
+			</v>
+			<marker class="begin-verse" mid="v19058012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

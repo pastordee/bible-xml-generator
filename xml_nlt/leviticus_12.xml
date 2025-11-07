@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:10:36.584342</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:10:36.584354</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" version="NLT" bookAbbr="lev">
+		<marker class="begin-verse" mid="v03012001"/>
+		<chapter num="12">
+			<heading>Purification after Childbirth</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The Lord 
+				<crossref let="b" cid="c030121.1"/>
+				 said to Moses,
+			</v>
+			<marker class="begin-verse" mid="v03012002"/>
+			<v n="2">
+				“Give the 
+				<crossref let="c" cid="c030122.1"/>
+				 following instructions to the people of Israel. If a woman becomes pregnant and gives birth to a son, she will be ceremonially unclean for seven days, just as she is unclean during her menstrual period.
+			</v>
+			<marker class="begin-verse" mid="v03012003"/>
+			<v n="3">
+				On the 
+				<crossref let="d" cid="c030123.1"/>
+				 eighth day the boy’s foreskin must be circumcised.
+			</v>
+			<marker class="begin-verse" mid="v03012004"/>
+			<v n="4">
+				After waiting 
+				<crossref let="e" cid="c030124.1"/>
+				 thirty-three days, she will be purified from the bleeding of childbirth. During this time of purification, she must not touch anything that is set apart as holy. And she must not enter the sanctuary until her time of purification is over.
+			</v>
+			<marker class="begin-verse" mid="v03012005"/>
+			<v n="5">
+				If a 
+				<crossref let="f" cid="c030125.1"/>
+				 woman gives birth to a daughter, she will be ceremonially unclean for two weeks, just as she is unclean during her menstrual period. After waiting sixty-six days, she will be purified from the bleeding of childbirth.
+			</v>
+			<marker class="begin-verse" mid="v03012006"/>
+			<v n="6">
+				“When the 
+				<crossref let="g" cid="c030126.1"/>
+				 time of purification is completed for either a son or a daughter, the woman must bring a one-year-old lamb for a burnt offering and a young pigeon or turtledove for a purification offering. She must bring her offerings to the priest at the entrance of the Tabernacle.
+			</v>
+			<marker class="begin-verse" mid="v03012007"/>
+			<v n="7">
+				The priest 
+				<crossref let="h" cid="c030127.1"/>
+				 will then present them to the Lord to purify her. Then she will be ceremonially clean again after her bleeding at childbirth. These are the instructions for a woman after the birth of a son or a daughter.
+			</v>
+			<marker class="begin-verse" mid="v03012008"/>
+			<v n="8">
+				“If a 
+				<crossref let="i" cid="c030128.1"/>
+				 woman cannot afford to bring a lamb, she must bring two turtledoves or two young pigeons. One will be for the burnt offering and the other for the purification offering. The priest will sacrifice them to purify her, and she will be ceremonially clean.”
+			</v>
+			<marker class="begin-verse" mid="v03012009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

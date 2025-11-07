@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:31.678367</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:31.678379</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19103001">
+		</marker>
+		<chapter num="103">
+			<heading>
+				Psalm 103
+			</heading>
+			<heading>
+				Bless the LORD, O My Soul
+			</heading>
+			<heading>
+				Of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Bless the 
+				<crossref let="b" cid="c19103001.1">
+				</crossref>
+				LORD, O, 
+				<crossref let="c" cid="c19103001.2">
+				</crossref>
+				my soul, and all that is within me, bless his holy name!
+			</v>
+			<marker class="begin-verse" mid="v19103002">
+			</marker>
+			<v n="2">
+				Bless the 
+				<crossref let="d" cid="c19103002.3">
+				</crossref>
+				LORD, O, 
+				<crossref let="e" cid="c19103002.4">
+				</crossref>
+				my soul, and forget not all his benefits,
+			</v>
+			<marker class="begin-verse" mid="v19103003">
+			</marker>
+			<v n="3">
+				who forgives 
+				<crossref let="f" cid="c19103003.5">
+				</crossref>
+				all your, 
+				<crossref let="g" cid="c19103003.6">
+				</crossref>
+				iniquity, who heals all your diseases,
+				<note nid="n19103003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19103004">
+			</marker>
+			<v n="4">
+				who redeems 
+				<crossref let="h" cid="c19103004.7">
+				</crossref>
+				your life, 
+				<crossref let="i" cid="c19103004.8">
+				</crossref>
+				from the pit, who crowns you with steadfast love and mercy,
+			</v>
+			<marker class="begin-verse" mid="v19103005">
+			</marker>
+			<v n="5">
+				who satisfies 
+				<crossref let="j" cid="c19103005.9">
+				</crossref>
+				you with, 
+				<crossref let="k" cid="c19103005.10">
+				</crossref>
+				good so that your youth is renewed like the eagle’s.
+			</v>
+			<marker class="begin-verse" mid="v19103006">
+			</marker>
+			<v n="6">
+				The LORD 
+				<crossref let="l" cid="c19103006.11">
+				</crossref>
+				works righteousness, 
+				<crossref let="m" cid="c19103006.12">
+				</crossref>
+				and justice for all who are oppressed.
+				<note nid="n19103006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19103007">
+			</marker>
+			<v n="7">
+				He made 
+				<crossref let="n" cid="c19103007.13">
+				</crossref>
+				known his, 
+				<crossref let="o" cid="c19103007.14">
+				</crossref>
+				ways to Moses, his acts to the people of Israel.
+			</v>
+			<marker class="begin-verse" mid="v19103008">
+			</marker>
+			<v n="8">
+				The LORD 
+				<crossref let="p" cid="c19103008.15">
+				</crossref>
+				is merciful, 
+				<crossref let="q" cid="c19103008.16">
+				</crossref>
+				and gracious, slow to anger and abounding in steadfast love.
+			</v>
+			<marker class="begin-verse" mid="v19103009">
+			</marker>
+			<v n="9">
+				He will 
+				<crossref let="r" cid="c19103009.17">
+				</crossref>
+				not always, 
+				<crossref let="s" cid="c19103009.18">
+				</crossref>
+				chide, nor will he keep his anger forever.
+				<note nid="n19103009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19103010">
+			</marker>
+			<v n="10">
+				He does 
+				<crossref let="t" cid="c19103010.19">
+				</crossref>
+				not deal, 
+				<crossref let="u" cid="c19103010.20">
+				</crossref>
+				with us according to our sins, nor repay us according to our iniquities.
+			</v>
+			<marker class="begin-verse" mid="v19103011">
+			</marker>
+			<v n="11">
+				For as 
+				<crossref let="v" cid="c19103011.21">
+				</crossref>
+				high as, 
+				<crossref let="w" cid="c19103011.22">
+				</crossref>
+				the heavens are above the earth, so great is his steadfast love toward those who fear him;
+			</v>
+			<marker class="begin-verse" mid="v19103012">
+			</marker>
+			<v n="12">
+				as far 
+				<crossref let="x" cid="c19103012.23">
+				</crossref>
+				as the, 
+				<crossref let="y" cid="c19103012.24">
+				</crossref>
+				east is from the west, so far does he remove our transgressions from us.
+				<note nid="n19103012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19103013">
+			</marker>
+			<v n="13">
+				As a 
+				<crossref let="z" cid="c19103013.25">
+				</crossref>
+				father shows, 
+				<crossref let="a" cid="c19103013.26">
+				</crossref>
+				compassion to his children, so the LORD shows compassion to those who fear him.
+			</v>
+			<marker class="begin-verse" mid="v19103014">
+			</marker>
+			<v n="14">
+				For he 
+				<crossref let="b" cid="c19103014.27">
+				</crossref>
+				knows our, 
+				<crossref let="c" cid="c19103014.28">
+				</crossref>
+				frame;(1) he remembers that we are dust.
+			</v>
+			<marker class="begin-verse" mid="v19103015">
+			</marker>
+			<v n="15">
+				As for 
+				<crossref let="d" cid="c19103015.29">
+				</crossref>
+				man, his, 
+				<crossref let="e" cid="c19103015.30">
+				</crossref>
+				days are like grass; he flourishes like a flower of the field;
+				<note nid="n19103015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19103016">
+			</marker>
+			<v n="16">
+				for the 
+				<crossref let="f" cid="c19103016.31">
+				</crossref>
+				wind passes, 
+				<crossref let="g" cid="c19103016.32">
+				</crossref>
+				over it, and it is gone, and its place knows it no more.
+			</v>
+			<marker class="begin-verse" mid="v19103017">
+			</marker>
+			<v n="17">
+				But the 
+				<crossref let="h" cid="c19103017.33">
+				</crossref>
+				steadfast love, 
+				<crossref let="i" cid="c19103017.34">
+				</crossref>
+				of the LORD is from everlasting to everlasting on those who fear him, and his righteousness to children’s children,
+			</v>
+			<marker class="begin-verse" mid="v19103018">
+			</marker>
+			<v n="18">
+				to those 
+				<crossref let="j" cid="c19103018.35">
+				</crossref>
+				who keep, 
+				<crossref let="k" cid="c19103018.36">
+				</crossref>
+				his covenant and remember to do his commandments.
+				<note nid="n19103018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19103019">
+			</marker>
+			<v n="19">
+				The LORD 
+				<crossref let="l" cid="c19103019.37">
+				</crossref>
+				has established, 
+				<crossref let="m" cid="c19103019.38">
+				</crossref>
+				his throne in the heavens, and his kingdom rules over all.
+			</v>
+			<marker class="begin-verse" mid="v19103020">
+			</marker>
+			<v n="20">
+				Bless the 
+				<crossref let="n" cid="c19103020.39">
+				</crossref>
+				LORD, O, 
+				<crossref let="o" cid="c19103020.40">
+				</crossref>
+				you his angels, you mighty ones who do his word, obeying the voice of his word!
+			</v>
+			<marker class="begin-verse" mid="v19103021">
+			</marker>
+			<v n="21">
+				Bless the 
+				<crossref let="p" cid="c19103021.41">
+				</crossref>
+				LORD, all, 
+				<crossref let="q" cid="c19103021.42">
+				</crossref>
+				his hosts, his ministers, who do his will!
+				<note nid="n19103021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19103022">
+			</marker>
+			<v n="22">
+				Bless the 
+				<crossref let="r" cid="c19103022.43">
+				</crossref>
+				LORD, all, 
+				<crossref let="s" cid="c19103022.44">
+				</crossref>
+				his works, in all places of his dominion. Bless the LORD, O my soul! Footnotes (1) 103:14 Or *knows how we are formed* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19103023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

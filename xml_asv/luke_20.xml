@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:12:22.734004</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:12:22.734044</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" version="ASV" bookAbbr="luk">
+		<marker class="begin-verse" mid="v42020001"/>
+		<chapter num="20">
+			<begin-paragraph/>
+			<v n="1">
+				And it 
+				<crossref let="b" cid="c420201.1"/>
+				 came to pass, on one of the days, as he was teaching the people in the temple, and preaching the gospel, there came upon him the chief priests and the scribes with the elders;
+			</v>
+			<marker class="begin-verse" mid="v42020002"/>
+			<v n="2">
+				and they 
+				<crossref let="c" cid="c420202.1"/>
+				 spake, saying unto him, Tell us: By what authority doest thou these things? or who is he that gave thee this authority?
+			</v>
+			<marker class="begin-verse" mid="v42020003"/>
+			<v n="3">
+				And he 
+				<crossref let="d" cid="c420203.1"/>
+				 answered and said unto them, I also will ask you a question; and tell me:
+			</v>
+			<marker class="begin-verse" mid="v42020004"/>
+			<v n="4">
+				The baptism 
+				<crossref let="e" cid="c420204.1"/>
+				 of John, was it from heaven, or from men?
+			</v>
+			<marker class="begin-verse" mid="v42020005"/>
+			<v n="5">
+				And they 
+				<crossref let="f" cid="c420205.1"/>
+				 reasoned with themselves, saying, If we shall say, From heaven; he will say, Why did ye not believe him?
+			</v>
+			<marker class="begin-verse" mid="v42020006"/>
+			<v n="6">
+				But if 
+				<crossref let="g" cid="c420206.1"/>
+				 we shall say, From men; all the people will stone us: for they are persuaded that John was a prophet.
+			</v>
+			<marker class="begin-verse" mid="v42020007"/>
+			<v n="7">
+				And they 
+				<crossref let="h" cid="c420207.1"/>
+				 answered, that they knew not whence it was.
+			</v>
+			<marker class="begin-verse" mid="v42020008"/>
+			<v n="8">
+				And Jesus 
+				<crossref let="i" cid="c420208.1"/>
+				 said unto them, Neither tell I you by what authority I do these things.
+			</v>
+			<marker class="begin-verse" mid="v42020009"/>
+			<v n="9">
+				And he 
+				<crossref let="j" cid="c420209.1"/>
+				 began to speak unto the people this parable: A man planted a vineyard, and let it out to husbandmen, and went into another country for a long time.
+			</v>
+			<marker class="begin-verse" mid="v42020010"/>
+			<v n="10">
+				And at 
+				<crossref let="k" cid="c4202010.1"/>
+				 the season he sent unto the husbandmen a servant, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty.
+			</v>
+			<marker class="begin-verse" mid="v42020011"/>
+			<v n="11">
+				And he 
+				<crossref let="l" cid="c4202011.1"/>
+				 sent yet another servant: and him also they beat, and handled him shamefully, and sent him away empty.
+			</v>
+			<marker class="begin-verse" mid="v42020012"/>
+			<v n="12">
+				And he 
+				<crossref let="m" cid="c4202012.1"/>
+				 sent yet a third: and him also they wounded, and cast him forth.
+			</v>
+			<marker class="begin-verse" mid="v42020013"/>
+			<v n="13">
+				And the 
+				<crossref let="n" cid="c4202013.1"/>
+				 lord of the vineyard said, What shall I do? I will send my beloved son; it may be they will reverence him.
+			</v>
+			<marker class="begin-verse" mid="v42020014"/>
+			<v n="14">
+				But when 
+				<crossref let="o" cid="c4202014.1"/>
+				 the husbandmen saw him, they reasoned one with another, saying, This is the heir; let us kill him, that the inheritance may be ours.
+			</v>
+			<marker class="begin-verse" mid="v42020015"/>
+			<v n="15">
+				And they 
+				<crossref let="p" cid="c4202015.1"/>
+				 cast him forth out of the vineyard, and killed him. What therefore will the lord of the vineyard do unto them?
+			</v>
+			<marker class="begin-verse" mid="v42020016"/>
+			<v n="16">
+				He will 
+				<crossref let="q" cid="c4202016.1"/>
+				 come and destroy these husbandmen, and will give the vineyard unto others. And when they heard it, they said, God forbid.
+			</v>
+			<marker class="begin-verse" mid="v42020017"/>
+			<v n="17">
+				But he 
+				<crossref let="r" cid="c4202017.1"/>
+				 looked upon them, and said, What then is this that is written,The stone which the builders rejected,The same was made the head of the corner?
+			</v>
+			<marker class="begin-verse" mid="v42020018"/>
+			<v n="18">
+				Every one 
+				<crossref let="s" cid="c4202018.1"/>
+				 that falleth on that stone shall be broken to pieces; but on whomsoever it shall fall, it will scatter him as dust.
+			</v>
+			<marker class="begin-verse" mid="v42020019"/>
+			<v n="19">
+				And the 
+				<crossref let="t" cid="c4202019.1"/>
+				 scribes and the chief priests sought to lay hands on him in that very hour; and they feared the people: for they perceived that he spake this parable against them.
+			</v>
+			<marker class="begin-verse" mid="v42020020"/>
+			<v n="20">
+				And they 
+				<crossref let="u" cid="c4202020.1"/>
+				 watched him, and sent forth spies, who feigned themselves to be righteous, that they might take hold of his speech, so as to deliver him up to the rule and to the authority of the governor.
+			</v>
+			<marker class="begin-verse" mid="v42020021"/>
+			<v n="21">
+				And they 
+				<crossref let="v" cid="c4202021.1"/>
+				 asked him, saying, Teacher, we know that thou sayest and teachest rightly, and acceptest not the person of any, but of a truth teachest the way of God:
+			</v>
+			<marker class="begin-verse" mid="v42020022"/>
+			<v n="22">
+				Is it 
+				<crossref let="w" cid="c4202022.1"/>
+				 lawful for us to give tribute unto Cæsar, or not?
+			</v>
+			<marker class="begin-verse" mid="v42020023"/>
+			<v n="23">
+				But he 
+				<crossref let="x" cid="c4202023.1"/>
+				 perceived their craftiness, and said unto them,
+			</v>
+			<marker class="begin-verse" mid="v42020024"/>
+			<v n="24">
+				Show me 
+				<crossref let="y" cid="c4202024.1"/>
+				 a denarius. Whose image and superscription hath it? And they said, Cæsar’s.
+			</v>
+			<marker class="begin-verse" mid="v42020025"/>
+			<v n="25">
+				And he 
+				<crossref let="z" cid="c4202025.1"/>
+				 said unto them, Then render unto Cæsar the things that are Cæsar’s, and unto God the things that are God’s.
+			</v>
+			<marker class="begin-verse" mid="v42020026"/>
+			<v n="26">
+				And they 
+				<crossref let="a" cid="c4202026.1"/>
+				 were not able to take hold of the saying before the people: and they marvelled at his answer, and held their peace.
+			</v>
+			<marker class="begin-verse" mid="v42020027"/>
+			<v n="27">
+				And there 
+				<crossref let="b" cid="c4202027.1"/>
+				 came to him certain of the Sadducees, they that say that there is no resurrection;
+			</v>
+			<marker class="begin-verse" mid="v42020028"/>
+			<v n="28">
+				and they 
+				<crossref let="c" cid="c4202028.1"/>
+				 asked him, saying, Teacher, Moses wrote unto us, that if a man’s brother die, having a wife, and he be childless, his brother should take the wife, and raise up seed unto his brother.
+			</v>
+			<marker class="begin-verse" mid="v42020029"/>
+			<v n="29">
+				There were 
+				<crossref let="d" cid="c4202029.1"/>
+				 therefore seven brethren: and the first took a wife, and died childless;
+			</v>
+			<marker class="begin-verse" mid="v42020030"/>
+			<v n="30">and the second:</v>
+			<marker class="begin-verse" mid="v42020031"/>
+			<v n="31">
+				and the 
+				<crossref let="f" cid="c4202031.1"/>
+				 third took her; and likewise the seven also left no children, and died.
+			</v>
+			<marker class="begin-verse" mid="v42020032"/>
+			<v n="32">
+				Afterward the 
+				<crossref let="g" cid="c4202032.1"/>
+				 woman also died.
+			</v>
+			<marker class="begin-verse" mid="v42020033"/>
+			<v n="33">
+				In the 
+				<crossref let="h" cid="c4202033.1"/>
+				 resurrection therefore whose wife of them shall she be? for the seven had her to wife.
+			</v>
+			<marker class="begin-verse" mid="v42020034"/>
+			<v n="34">
+				And Jesus 
+				<crossref let="i" cid="c4202034.1"/>
+				 said unto them, The sons of this world marry, and are given in marriage:
+			</v>
+			<marker class="begin-verse" mid="v42020035"/>
+			<v n="35">
+				but they 
+				<crossref let="j" cid="c4202035.1"/>
+				 that are accounted worthy to attain to that world, and the resurrection from the dead, neither marry, nor are given in marriage:
+			</v>
+			<marker class="begin-verse" mid="v42020036"/>
+			<v n="36">
+				for neither 
+				<crossref let="k" cid="c4202036.1"/>
+				 can they die any more: for they are equal unto the angels; and are sons of God, being sons of the resurrection.
+			</v>
+			<marker class="begin-verse" mid="v42020037"/>
+			<v n="37">
+				But that 
+				<crossref let="l" cid="c4202037.1"/>
+				 the dead are raised, even Moses showed, in the place concerning the Bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v42020038"/>
+			<v n="38">
+				Now he 
+				<crossref let="m" cid="c4202038.1"/>
+				 is not the God of the dead, but of the living: for all live unto him.
+			</v>
+			<marker class="begin-verse" mid="v42020039"/>
+			<v n="39">
+				And certain 
+				<crossref let="n" cid="c4202039.1"/>
+				 of the scribes answering said, Teacher, thou hast well said.
+			</v>
+			<marker class="begin-verse" mid="v42020040"/>
+			<v n="40">
+				For they 
+				<crossref let="o" cid="c4202040.1"/>
+				 durst not any more ask him any question.
+			</v>
+			<marker class="begin-verse" mid="v42020041"/>
+			<v n="41">
+				And he 
+				<crossref let="p" cid="c4202041.1"/>
+				 said unto them, How say they that the Christ is David’s son?
+			</v>
+			<marker class="begin-verse" mid="v42020042"/>
+			<v n="42">
+				For David 
+				<crossref let="q" cid="c4202042.1"/>
+				 himself saith in the book of Psalms,The Lord said unto my Lord,Sit thou on my right hand,
+			</v>
+			<marker class="begin-verse" mid="v42020043"/>
+			<v n="43">
+				Till I 
+				<crossref let="r" cid="c4202043.1"/>
+				 make thine enemies the footstool of thy feet.
+			</v>
+			<marker class="begin-verse" mid="v42020044"/>
+			<v n="44">
+				David therefore 
+				<crossref let="s" cid="c4202044.1"/>
+				 calleth him Lord, and how is he his son?
+			</v>
+			<marker class="begin-verse" mid="v42020045"/>
+			<v n="45">
+				And in 
+				<crossref let="t" cid="c4202045.1"/>
+				 the hearing of all the people he said unto his disciples,
+			</v>
+			<marker class="begin-verse" mid="v42020046"/>
+			<v n="46">
+				Beware of 
+				<crossref let="u" cid="c4202046.1"/>
+				 the scribes, who desire to walk in long robes, and love salutations in the marketplaces, and chief seats in the synagogues, and chief places at feasts;
+			</v>
+			<marker class="begin-verse" mid="v42020047"/>
+			<v n="47">
+				who devour 
+				<crossref let="v" cid="c4202047.1"/>
+				 widows’ houses, and for a pretence make long prayers: these shall receive greater condemnation.
+			</v>
+			<marker class="begin-verse" mid="v42020048"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:03:37.259509</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:03:37.259543</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19061001"/>
+		<chapter num="61">
+			<heading>Psalm 61Confidence in God’s Protection.To the Chief Musician; on stringed instruments. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Hear my 
+				<crossref let="b" cid="c190611.1"/>
+				 cry, O God;Listen to my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19061002"/>
+			<v n="2">
+				From the 
+				<crossref let="c" cid="c190612.1"/>
+				 end of the earth I call to You, when my heart is overwhelmed and weak;Lead me to the rock that is higher than I [a rock that is too high to reach without Your help].
+			</v>
+			<marker class="begin-verse" mid="v19061003"/>
+			<v n="3">
+				For You 
+				<crossref let="d" cid="c190613.1"/>
+				 have been a shelter and a refuge for me,A strong tower against the enemy.
+			</v>
+			<marker class="begin-verse" mid="v19061004"/>
+			<v n="4">
+				Let me 
+				<crossref let="e" cid="c190614.1"/>
+				 dwell in Your tent forever;Let me take refuge in the shelter of Your wings. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19061005"/>
+			<v n="5">
+				¶For You 
+				<crossref let="f" cid="c190615.1"/>
+				 have heard my vows, O God;You have given me the inheritance of those who fear Your name [with reverence].
+			</v>
+			<marker class="begin-verse" mid="v19061006"/>
+			<v n="6">
+				You will 
+				<crossref let="g" cid="c190616.1"/>
+				 prolong the king’s life [adding days upon days];His years will be like many generations.
+			</v>
+			<marker class="begin-verse" mid="v19061007"/>
+			<v n="7">
+				He will 
+				<crossref let="h" cid="c190617.1"/>
+				 sit enthroned forever before [the face of] God;Appoint lovingkindness and truth to watch over and preserve him.
+			</v>
+			<marker class="begin-verse" mid="v19061008"/>
+			<v n="8">
+				So I 
+				<crossref let="i" cid="c190618.1"/>
+				 will sing praise to Your name forever,Paying my vows day by day.
+			</v>
+			<marker class="begin-verse" mid="v19061009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

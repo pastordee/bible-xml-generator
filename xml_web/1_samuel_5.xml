@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:20:33.052761</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:20:33.052767</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" version="WEB" bookAbbr="1sa">
+		<marker class="begin-verse" mid="v09005001"/>
+		<chapter num="5">
+			<begin-paragraph/>
+			<v n="1">
+				Now the 
+				<crossref let="b" cid="c090051.1"/>
+				 Philistines had taken God’s ark, and they brought it from Ebenezer to Ashdod.
+			</v>
+			<marker class="begin-verse" mid="v09005002"/>
+			<v n="2">
+				The Philistines 
+				<crossref let="c" cid="c090052.1"/>
+				 took God’s ark, and brought it into the house of Dagon and set it by Dagon.
+			</v>
+			<marker class="begin-verse" mid="v09005003"/>
+			<v n="3">
+				When the 
+				<crossref let="d" cid="c090053.1"/>
+				 people of Ashdod arose early on the next day, behold, Dagon had fallen on his face to the ground before Yahweh’s ark. They took Dagon and set him in his place again.
+			</v>
+			<marker class="begin-verse" mid="v09005004"/>
+			<v n="4">
+				When they 
+				<crossref let="e" cid="c090054.1"/>
+				 arose early on the following morning, behold, Dagon had fallen on his face to the ground before Yahweh’s ark; and the head of Dagon and both the palms of his hands were cut off on the threshold. Only Dagon’s torso was intact.
+			</v>
+			<marker class="begin-verse" mid="v09005005"/>
+			<v n="5">
+				Therefore neither 
+				<crossref let="f" cid="c090055.1"/>
+				 the priests of Dagon nor any who come into Dagon’s house step on the threshold of Dagon in Ashdod to this day.
+			</v>
+			<marker class="begin-verse" mid="v09005006"/>
+			<v n="6">
+				But Yahweh’s 
+				<crossref let="g" cid="c090056.1"/>
+				 hand was heavy on the people of Ashdod, and he destroyed them and struck them with tumors, even Ashdod and its borders.
+			</v>
+			<marker class="begin-verse" mid="v09005007"/>
+			<v n="7">
+				When the 
+				<crossref let="h" cid="c090057.1"/>
+				 men of Ashdod saw that it was so, they said, “The ark of the God of Israel shall not stay with us, for his hand is severe on us and on Dagon our god.”
+			</v>
+			<marker class="begin-verse" mid="v09005008"/>
+			<v n="8">
+				They sent 
+				<crossref let="i" cid="c090058.1"/>
+				 therefore and gathered together all the lords of the Philistines, and said, “What shall we do with the ark of the God of Israel?”They answered, “Let the ark of the God of Israel be carried over to Gath.” They carried the ark of the God of Israel there.
+			</v>
+			<marker class="begin-verse" mid="v09005009"/>
+			<v n="9">
+				It was 
+				<crossref let="j" cid="c090059.1"/>
+				 so, that after they had carried it there, Yahweh’s hand was against the city with a very great confusion; and he struck the men of the city, both small and great, so that tumors broke out on them.
+			</v>
+			<marker class="begin-verse" mid="v09005010"/>
+			<v n="10">
+				So they 
+				<crossref let="k" cid="c0900510.1"/>
+				 sent God’s ark to Ekron.As God’s ark came to Ekron, the Ekronites cried out, saying, “They have brought the ark of the God of Israel here to us, to kill us and our people.”
+			</v>
+			<marker class="begin-verse" mid="v09005011"/>
+			<v n="11">
+				They sent 
+				<crossref let="l" cid="c0900511.1"/>
+				 therefore and gathered together all the lords of the Philistines, and they said, “Send the ark of the God of Israel away, and let it go again to its own place, that it not kill us and our people.” For there was a deadly panic throughout all the city. The hand of God was very heavy there.
+			</v>
+			<marker class="begin-verse" mid="v09005012"/>
+			<v n="12">
+				The men 
+				<crossref let="m" cid="c0900512.1"/>
+				 who didn’t die were struck with the tumors; and the cry of the city went up to heaven.
+			</v>
+			<marker class="begin-verse" mid="v09005013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

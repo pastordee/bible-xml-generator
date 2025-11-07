@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:53:22.561213</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:53:22.561231</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19132001"/>
+		<chapter num="132">
+			<heading>A Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh, remember 
+				<crossref let="b" cid="c191321.1"/>
+				 David and all his affliction,
+			</v>
+			<marker class="begin-verse" mid="v19132002"/>
+			<v n="2">
+				how he 
+				<crossref let="c" cid="c191322.1"/>
+				 swore to Yahweh,and vowed to the Mighty One of Jacob:
+			</v>
+			<marker class="begin-verse" mid="v19132003"/>
+			<v n="3">
+				“Surely I 
+				<crossref let="d" cid="c191323.1"/>
+				 will not come into the structure of my house,nor go up into my bed;
+			</v>
+			<marker class="begin-verse" mid="v19132004"/>
+			<v n="4">
+				I will 
+				<crossref let="e" cid="c191324.1"/>
+				 not give sleep to my eyes,or slumber to my eyelids,
+			</v>
+			<marker class="begin-verse" mid="v19132005"/>
+			<v n="5">
+				until I 
+				<crossref let="f" cid="c191325.1"/>
+				 find out a place for Yahweh,a dwelling for the Mighty One of Jacob.”
+			</v>
+			<marker class="begin-verse" mid="v19132006"/>
+			<v n="6">
+				Behold, we 
+				<crossref let="g" cid="c191326.1"/>
+				 heard of it in Ephrathah.We found it in the field of Jaar.
+			</v>
+			<marker class="begin-verse" mid="v19132007"/>
+			<v n="7">
+				“We will 
+				<crossref let="h" cid="c191327.1"/>
+				 go into his dwelling place.We will worship at his footstool.”
+			</v>
+			<marker class="begin-verse" mid="v19132008"/>
+			<v n="8">
+				Arise, Yahweh, 
+				<crossref let="i" cid="c191328.1"/>
+				 into your resting place,you, and the ark of your strength.
+			</v>
+			<marker class="begin-verse" mid="v19132009"/>
+			<v n="9">
+				Let your 
+				<crossref let="j" cid="c191329.1"/>
+				 priests be clothed with righteousness.Let your saints shout for joy!
+			</v>
+			<marker class="begin-verse" mid="v19132010"/>
+			<v n="10">
+				For your 
+				<crossref let="k" cid="c1913210.1"/>
+				 servant David’s sake,don’t turn away the face of your anointed one.
+			</v>
+			<marker class="begin-verse" mid="v19132011"/>
+			<v n="11">
+				Yahweh has 
+				<crossref let="l" cid="c1913211.1"/>
+				 sworn to David in truth.He will not turn from it:“I will set the fruit of your body on your throne.
+			</v>
+			<marker class="begin-verse" mid="v19132012"/>
+			<v n="12">
+				If your 
+				<crossref let="m" cid="c1913212.1"/>
+				 children will keep my covenant,my testimony that I will teach them,their children also will sit on your throne forever more.”
+			</v>
+			<marker class="begin-verse" mid="v19132013"/>
+			<v n="13">
+				For Yahweh 
+				<crossref let="n" cid="c1913213.1"/>
+				 has chosen Zion.He has desired it for his habitation.
+			</v>
+			<marker class="begin-verse" mid="v19132014"/>
+			<v n="14">
+				“This is 
+				<crossref let="o" cid="c1913214.1"/>
+				 my resting place forever.I will live here, for I have desired it.
+			</v>
+			<marker class="begin-verse" mid="v19132015"/>
+			<v n="15">
+				I will 
+				<crossref let="p" cid="c1913215.1"/>
+				 abundantly bless her provision.I will satisfy her poor with bread.
+			</v>
+			<marker class="begin-verse" mid="v19132016"/>
+			<v n="16">
+				I will 
+				<crossref let="q" cid="c1913216.1"/>
+				 also clothe her priests with salvation.Her saints will shout aloud for joy.
+			</v>
+			<marker class="begin-verse" mid="v19132017"/>
+			<v n="17">
+				I will 
+				<crossref let="r" cid="c1913217.1"/>
+				 make the horn of David to bud there.I have ordained a lamp for my anointed.
+			</v>
+			<marker class="begin-verse" mid="v19132018"/>
+			<v n="18">
+				I will 
+				<crossref let="s" cid="c1913218.1"/>
+				 clothe his enemies with shame,but on himself, his crown will shine.”
+			</v>
+			<marker class="begin-verse" mid="v19132019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

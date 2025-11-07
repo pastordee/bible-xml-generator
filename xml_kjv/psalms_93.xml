@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:04:14.193878</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:04:14.193908</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19093001"/>
+		<chapter num="93">
+			<begin-paragraph/>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c190931.1"/>
+				 reigneth, he is clothed with majesty; the LORD is clothed with strength, wherewith he hath girded himself: the world also is stablished, that it cannot be moved.
+			</v>
+			<marker class="begin-verse" mid="v19093002"/>
+			<v n="2">
+				Thy throne 
+				<crossref let="c" cid="c190932.1"/>
+				 is established of old: thou art from everlasting.
+			</v>
+			<marker class="begin-verse" mid="v19093003"/>
+			<v n="3">
+				The floods 
+				<crossref let="d" cid="c190933.1"/>
+				 have lifted up, O LORD, the floods have lifted up their voice; the floods lift up their waves.
+			</v>
+			<marker class="begin-verse" mid="v19093004"/>
+			<v n="4">
+				The LORD 
+				<crossref let="e" cid="c190934.1"/>
+				 on high is mightier than the noise of many waters, yea, than the mighty waves of the sea.
+			</v>
+			<marker class="begin-verse" mid="v19093005"/>
+			<v n="5">
+				Thy testimonies 
+				<crossref let="f" cid="c190935.1"/>
+				 are very sure: holiness becometh thine house, O LORD, for ever.
+			</v>
+			<marker class="begin-verse" mid="v19093006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

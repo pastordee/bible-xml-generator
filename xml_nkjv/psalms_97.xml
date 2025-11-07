@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:20:45.408149</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:20:45.408156</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19097001"/>
+		<chapter num="97">
+			<heading>A Song of Praise to the Sovereign Lord</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The Lord 
+				<crossref let="b" cid="c190971.1"/>
+				 reigns;Let the earth rejoice;Let the multitude of isles be glad!
+			</v>
+			<marker class="begin-verse" mid="v19097002"/>
+			<v n="2">
+				Clouds and 
+				<crossref let="c" cid="c190972.1"/>
+				 darkness surround Him;Righteousness and justice are the foundation of His throne.
+			</v>
+			<marker class="begin-verse" mid="v19097003"/>
+			<v n="3">
+				A fire 
+				<crossref let="d" cid="c190973.1"/>
+				 goes before Him,And burns up His enemies round about.
+			</v>
+			<marker class="begin-verse" mid="v19097004"/>
+			<v n="4">
+				His lightnings 
+				<crossref let="e" cid="c190974.1"/>
+				 light the world;The earth sees and trembles.
+			</v>
+			<marker class="begin-verse" mid="v19097005"/>
+			<v n="5">
+				The mountains 
+				<crossref let="f" cid="c190975.1"/>
+				 melt like wax at the presence of the Lord,At the presence of the Lord of the whole earth.
+			</v>
+			<marker class="begin-verse" mid="v19097006"/>
+			<v n="6">
+				The heavens 
+				<crossref let="g" cid="c190976.1"/>
+				 declare His righteousness,And all the peoples see His glory.
+			</v>
+			<marker class="begin-verse" mid="v19097007"/>
+			<v n="7">
+				Let all 
+				<crossref let="h" cid="c190977.1"/>
+				 be put to shame who serve carved images,Who boast of idols.Worship Him, all you gods.
+			</v>
+			<marker class="begin-verse" mid="v19097008"/>
+			<v n="8">
+				Zion hears 
+				<crossref let="i" cid="c190978.1"/>
+				 and is glad,And the daughters of Judah rejoiceBecause of Your judgments, O Lord.
+			</v>
+			<marker class="begin-verse" mid="v19097009"/>
+			<v n="9">
+				For You, 
+				<crossref let="j" cid="c190979.1"/>
+				 Lord, are most high above all the earth;You are exalted far above all gods.
+			</v>
+			<marker class="begin-verse" mid="v19097010"/>
+			<v n="10">
+				You who 
+				<crossref let="k" cid="c1909710.1"/>
+				 love the Lord, hate evil!He preserves the souls of His saints;He delivers them out of the hand of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19097011"/>
+			<v n="11">
+				Light is 
+				<crossref let="l" cid="c1909711.1"/>
+				 sown for the righteous,And gladness for the upright in heart.
+			</v>
+			<marker class="begin-verse" mid="v19097012"/>
+			<v n="12">
+				Rejoice in 
+				<crossref let="m" cid="c1909712.1"/>
+				 the Lord, you righteous,And give thanks at the remembrance of His holy name.
+			</v>
+			<marker class="begin-verse" mid="v19097013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

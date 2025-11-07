@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:48:29.488366</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:48:29.488382</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19077001"/>
+		<chapter num="77">
+			<heading>For the Chief Musician. To Jeduthun. A Psalm by Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				My cry 
+				<crossref let="b" cid="c190771.1"/>
+				 goes to God!Indeed, I cry to God for help,and for him to listen to me.
+			</v>
+			<marker class="begin-verse" mid="v19077002"/>
+			<v n="2">
+				In the 
+				<crossref let="c" cid="c190772.1"/>
+				 day of my trouble I sought the Lord.My hand was stretched out in the night, and didn’t get tired.My soul refused to be comforted.
+			</v>
+			<marker class="begin-verse" mid="v19077003"/>
+			<v n="3">
+				I remember 
+				<crossref let="d" cid="c190773.1"/>
+				 God, and I groan.I complain, and my spirit is overwhelmed. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19077004"/>
+			<v n="4">
+				You hold 
+				<crossref let="e" cid="c190774.1"/>
+				 my eyelids open.I am so troubled that I can’t speak.
+			</v>
+			<marker class="begin-verse" mid="v19077005"/>
+			<v n="5">
+				I have 
+				<crossref let="f" cid="c190775.1"/>
+				 considered the days of old,the years of ancient times.
+			</v>
+			<marker class="begin-verse" mid="v19077006"/>
+			<v n="6">
+				I remember 
+				<crossref let="g" cid="c190776.1"/>
+				 my song in the night.I consider in my own heart;my spirit diligently inquires:
+			</v>
+			<marker class="begin-verse" mid="v19077007"/>
+			<v n="7">
+				“Will the 
+				<crossref let="h" cid="c190777.1"/>
+				 Lord reject us forever?Will he be favorable no more?
+			</v>
+			<marker class="begin-verse" mid="v19077008"/>
+			<v n="8">
+				Has his 
+				<crossref let="i" cid="c190778.1"/>
+				 loving kindness vanished forever?Does his promise fail for generations?
+			</v>
+			<marker class="begin-verse" mid="v19077009"/>
+			<v n="9">
+				Has God 
+				<crossref let="j" cid="c190779.1"/>
+				 forgotten to be gracious?Has he, in anger, withheld his compassion?” Selah.
+			</v>
+			<marker class="begin-verse" mid="v19077010"/>
+			<v n="10">
+				Then I 
+				<crossref let="k" cid="c1907710.1"/>
+				 thought, “I will appeal to this:the years of the right hand of the Most High.”
+			</v>
+			<marker class="begin-verse" mid="v19077011"/>
+			<v n="11">
+				I will 
+				<crossref let="l" cid="c1907711.1"/>
+				 remember Yah’s deeds;for I will remember your wonders of old.
+			</v>
+			<marker class="begin-verse" mid="v19077012"/>
+			<v n="12">
+				I will 
+				<crossref let="m" cid="c1907712.1"/>
+				 also meditate on all your work,and consider your doings.
+			</v>
+			<marker class="begin-verse" mid="v19077013"/>
+			<v n="13">
+				Your way, 
+				<crossref let="n" cid="c1907713.1"/>
+				 God, is in the sanctuary.What god is great like God?
+			</v>
+			<marker class="begin-verse" mid="v19077014"/>
+			<v n="14">
+				You are 
+				<crossref let="o" cid="c1907714.1"/>
+				 the God who does wonders.You have made your strength known among the peoples.
+			</v>
+			<marker class="begin-verse" mid="v19077015"/>
+			<v n="15">
+				You have 
+				<crossref let="p" cid="c1907715.1"/>
+				 redeemed your people with your arm,the sons of Jacob and Joseph. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19077016"/>
+			<v n="16">
+				The waters 
+				<crossref let="q" cid="c1907716.1"/>
+				 saw you, God.The waters saw you, and they writhed.The depths also convulsed.
+			</v>
+			<marker class="begin-verse" mid="v19077017"/>
+			<v n="17">
+				The clouds 
+				<crossref let="r" cid="c1907717.1"/>
+				 poured out water.The skies resounded with thunder.Your arrows also flashed around.
+			</v>
+			<marker class="begin-verse" mid="v19077018"/>
+			<v n="18">
+				The voice 
+				<crossref let="s" cid="c1907718.1"/>
+				 of your thunder was in the whirlwind.The lightnings lit up the world.The earth trembled and shook.
+			</v>
+			<marker class="begin-verse" mid="v19077019"/>
+			<v n="19">
+				Your way 
+				<crossref let="t" cid="c1907719.1"/>
+				 was through the sea,your paths through the great waters.Your footsteps were not known.
+			</v>
+			<marker class="begin-verse" mid="v19077020"/>
+			<v n="20">
+				You led 
+				<crossref let="u" cid="c1907720.1"/>
+				 your people like a flock,by the hand of Moses and Aaron.
+			</v>
+			<marker class="begin-verse" mid="v19077021"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

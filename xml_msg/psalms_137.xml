@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:18:52.430741</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:18:52.430762</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19137001"/>
+		<chapter num="137">
+			<begin-paragraph/>
+			<v n="1">
+				When we 
+				<crossref let="b" cid="c191371.1"/>
+				 sat down by the rivers of Babylon we wept as we remembered Zion.
+			</v>
+			<marker class="begin-verse" mid="v19137002"/>
+			<v n="2">
+				We hung 
+				<crossref let="c" cid="c191372.1"/>
+				 up our harps on the willow trees.
+			</v>
+			<marker class="begin-verse" mid="v19137003"/>
+			<v n="3">
+				For those 
+				<crossref let="d" cid="c191373.1"/>
+				 who had taken us captive asked us for a song—our tormentors wanted us to sing a happy song from Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v19137004"/>
+			<v n="4">
+				But how 
+				<crossref let="e" cid="c191374.1"/>
+				 could we sing a song dedicated to the Lord in a pagan land?
+			</v>
+			<marker class="begin-verse" mid="v19137005"/>
+			<v n="5">
+				If I 
+				<crossref let="f" cid="c191375.1"/>
+				 forget Jerusalem, may my right hand forget how to play;
+			</v>
+			<marker class="begin-verse" mid="v19137006"/>
+			<v n="6">
+				May my 
+				<crossref let="g" cid="c191376.1"/>
+				 tongue stick to the roof of my mouth if I don't remember you—if I don't consider Jerusalem my greatest joy.
+			</v>
+			<marker class="begin-verse" mid="v19137007"/>
+			<v n="7">
+				Lord, please 
+				<crossref let="h" cid="c191377.1"/>
+				 remember what the people of Edom did on the day Jerusalem fell, the ones who said “Tear it down! Destroy it down to its foundations!”
+			</v>
+			<marker class="begin-verse" mid="v19137008"/>
+			<v n="8">
+				Daughter of 
+				<crossref let="i" cid="c191378.1"/>
+				 Babylon, you will be destroyed! Happy is the one who pays you back, who does to you what you did to us!
+			</v>
+			<marker class="begin-verse" mid="v19137009"/>
+			<v n="9">
+				Happy is 
+				<crossref let="j" cid="c191379.1"/>
+				 the one who grabs your children and smashes them against the rocks!
+			</v>
+			<marker class="begin-verse" mid="v19137010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

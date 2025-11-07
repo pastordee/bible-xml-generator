@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:19:39.236365</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:19:39.236373</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" version="ASV" bookAbbr="1co">
+		<marker class="begin-verse" mid="v46013001"/>
+		<chapter num="13">
+			<begin-paragraph/>
+			<v n="1">
+				If I 
+				<crossref let="b" cid="c460131.1"/>
+				 speak with the tongues of men and of angels, but have not love, I am become sounding brass, or a clanging cymbal.
+			</v>
+			<marker class="begin-verse" mid="v46013002"/>
+			<v n="2">
+				And if 
+				<crossref let="c" cid="c460132.1"/>
+				 I have the gift of prophecy, and know all mysteries and all knowledge; and if I have all faith, so as to remove mountains, but have not love, I am nothing.
+			</v>
+			<marker class="begin-verse" mid="v46013003"/>
+			<v n="3">
+				And if 
+				<crossref let="d" cid="c460133.1"/>
+				 I bestow all my goods to feed the poor, and if I give my body to be burned, but have not love, it profiteth me nothing.
+			</v>
+			<marker class="begin-verse" mid="v46013004"/>
+			<v n="4">
+				Love suffereth 
+				<crossref let="e" cid="c460134.1"/>
+				 long, and is kind; love envieth not; love vaunteth not itself, is not puffed up,
+			</v>
+			<marker class="begin-verse" mid="v46013005"/>
+			<v n="5">
+				doth not 
+				<crossref let="f" cid="c460135.1"/>
+				 behave itself unseemly, seeketh not its own, is not provoked, taketh not account of evil;
+			</v>
+			<marker class="begin-verse" mid="v46013006"/>
+			<v n="6">
+				rejoiceth not 
+				<crossref let="g" cid="c460136.1"/>
+				 in unrighteousness, but rejoiceth with the truth;
+			</v>
+			<marker class="begin-verse" mid="v46013007"/>
+			<v n="7">
+				beareth all 
+				<crossref let="h" cid="c460137.1"/>
+				 things, believeth all things, hopeth all things, endureth all things.
+			</v>
+			<marker class="begin-verse" mid="v46013008"/>
+			<v n="8">
+				Love never 
+				<crossref let="i" cid="c460138.1"/>
+				 faileth: but whether there be prophecies, they shall be done away; whether there be tongues, they shall cease; whether there be knowledge, it shall be done away.
+			</v>
+			<marker class="begin-verse" mid="v46013009"/>
+			<v n="9">
+				For we 
+				<crossref let="j" cid="c460139.1"/>
+				 know in part, and we prophesy in part;
+			</v>
+			<marker class="begin-verse" mid="v46013010"/>
+			<v n="10">
+				but when 
+				<crossref let="k" cid="c4601310.1"/>
+				 that which is perfect is come, that which is in part shall be done away.
+			</v>
+			<marker class="begin-verse" mid="v46013011"/>
+			<v n="11">
+				When I 
+				<crossref let="l" cid="c4601311.1"/>
+				 was a child, I spake as a child, I felt as a child, I thought as a child: now that I am become a man, I have put away childish things.
+			</v>
+			<marker class="begin-verse" mid="v46013012"/>
+			<v n="12">
+				For now 
+				<crossref let="m" cid="c4601312.1"/>
+				 we see in a mirror, darkly; but then face to face: now I know in part; but then shall I know fully even as also I was fully known.
+			</v>
+			<marker class="begin-verse" mid="v46013013"/>
+			<v n="13">
+				But now 
+				<crossref let="n" cid="c4601313.1"/>
+				 abideth faith, hope, love, these three; and the greatest of these is love.
+			</v>
+			<marker class="begin-verse" mid="v46013014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

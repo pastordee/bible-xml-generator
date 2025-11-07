@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:26.373509</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:26.373518</next_refresh_due>
+	</generation_info>
+	<book title="2 Timothy" num="55" testament="new" bookAbbr="2ti" version="ESV">
+		<marker class="begin-verse" mid="v55001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				2 Timothy 1
+			</heading>
+			<heading>
+				Greeting
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Paul, an 
+				<crossref let="b" cid="c55001001.1">
+				</crossref>
+				apostle of, 
+				<crossref let="c" cid="c55001001.2">
+				</crossref>
+				Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,
+			</v>
+			<marker class="begin-verse" mid="v55001002">
+			</marker>
+			<v n="2">
+				To Timothy, 
+				<crossref let="d" cid="c55001002.3">
+				</crossref>
+				my beloved, 
+				<crossref let="e" cid="c55001002.4">
+				</crossref>
+				child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord. Guard the Deposit Entrusted to You
+			</v>
+			<marker class="begin-verse" mid="v55001003">
+			</marker>
+			<v n="3">
+				I thank 
+				<crossref let="f" cid="c55001003.5">
+				</crossref>
+				God whom, 
+				<crossref let="g" cid="c55001003.6">
+				</crossref>
+				I serve, as did my ancestors, with a clear conscience, as I remember you constantly in my prayers night and day.
+				<note nid="n55001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v55001004">
+			</marker>
+			<v n="4">
+				As I 
+				<crossref let="h" cid="c55001004.7">
+				</crossref>
+				remember your, 
+				<crossref let="i" cid="c55001004.8">
+				</crossref>
+				tears, I long to see you, that I may be filled with joy.
+			</v>
+			<marker class="begin-verse" mid="v55001005">
+			</marker>
+			<v n="5">
+				I am 
+				<crossref let="j" cid="c55001005.9">
+				</crossref>
+				reminded of, 
+				<crossref let="k" cid="c55001005.10">
+				</crossref>
+				your sincere faith, a faith that dwelt first in your grandmother Lois and your mother Eunice and now, I am sure, dwells in you as well.
+			</v>
+			<marker class="begin-verse" mid="v55001006">
+			</marker>
+			<v n="6">
+				For this 
+				<crossref let="l" cid="c55001006.11">
+				</crossref>
+				reason I, 
+				<crossref let="m" cid="c55001006.12">
+				</crossref>
+				remind you to fan into flame the gift of God, which is in you through the laying on of my hands,
+				<note nid="n55001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v55001007">
+			</marker>
+			<v n="7">
+				for God 
+				<crossref let="n" cid="c55001007.13">
+				</crossref>
+				gave us, 
+				<crossref let="o" cid="c55001007.14">
+				</crossref>
+				a spirit not of fear but of power and love and self-control.
+			</v>
+			<marker class="begin-verse" mid="v55001008">
+			</marker>
+			<v n="8">
+				Therefore do 
+				<crossref let="p" cid="c55001008.15">
+				</crossref>
+				not be, 
+				<crossref let="q" cid="c55001008.16">
+				</crossref>
+				ashamed of the testimony about our Lord, nor of me his prisoner, but share in suffering for the gospel by the power of God,
+			</v>
+			<marker class="begin-verse" mid="v55001009">
+			</marker>
+			<v n="9">
+				who saved 
+				<crossref let="r" cid="c55001009.17">
+				</crossref>
+				us and, 
+				<crossref let="s" cid="c55001009.18">
+				</crossref>
+				called us to(1) a holy calling, not because of our works but because of his own purpose and grace, which he gave us in Christ Jesus before the ages began,(2)
+				<note nid="n55001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v55001010">
+			</marker>
+			<v n="10">
+				and which 
+				<crossref let="t" cid="c55001010.19">
+				</crossref>
+				now has, 
+				<crossref let="u" cid="c55001010.20">
+				</crossref>
+				been manifested through the appearing of our Savior Christ Jesus, who abolished death and brought life and immortality to light through the gospel,
+			</v>
+			<marker class="begin-verse" mid="v55001011">
+			</marker>
+			<v n="11">
+				for which 
+				<crossref let="v" cid="c55001011.21">
+				</crossref>
+				I was, 
+				<crossref let="w" cid="c55001011.22">
+				</crossref>
+				appointed a preacher and apostle and teacher,
+			</v>
+			<marker class="begin-verse" mid="v55001012">
+			</marker>
+			<v n="12">
+				which is 
+				<crossref let="x" cid="c55001012.23">
+				</crossref>
+				why I, 
+				<crossref let="y" cid="c55001012.24">
+				</crossref>
+				suffer as I do. But I am not ashamed, for I know whom I have believed, and I am convinced that he is able to guard until that day what has been entrusted to me.(3)
+				<note nid="n55001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v55001013">
+			</marker>
+			<v n="13">
+				Follow the 
+				<crossref let="z" cid="c55001013.25">
+				</crossref>
+				pattern of, 
+				<crossref let="a" cid="c55001013.26">
+				</crossref>
+				the sound(4) words that you have heard from me, in the faith and love that are in Christ Jesus.
+			</v>
+			<marker class="begin-verse" mid="v55001014">
+			</marker>
+			<v n="14">
+				By the 
+				<crossref let="b" cid="c55001014.27">
+				</crossref>
+				Holy Spirit, 
+				<crossref let="c" cid="c55001014.28">
+				</crossref>
+				who dwells within us, guard the good deposit entrusted to you.
+			</v>
+			<marker class="begin-verse" mid="v55001015">
+			</marker>
+			<v n="15">
+				You are 
+				<crossref let="d" cid="c55001015.29">
+				</crossref>
+				aware that, 
+				<crossref let="e" cid="c55001015.30">
+				</crossref>
+				all who are in Asia turned away from me, among whom are Phygelus and Hermogenes.
+				<note nid="n55001015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v55001016">
+			</marker>
+			<v n="16">
+				May the 
+				<crossref let="f" cid="c55001016.31">
+				</crossref>
+				Lord grant, 
+				<crossref let="g" cid="c55001016.32">
+				</crossref>
+				mercy to the household of Onesiphorus, for he often refreshed me and was not ashamed of my chains,
+			</v>
+			<marker class="begin-verse" mid="v55001017">
+			</marker>
+			<v n="17">
+				but when 
+				<crossref let="h" cid="c55001017.33">
+				</crossref>
+				he arrived, 
+				<crossref let="i" cid="c55001017.34">
+				</crossref>
+				in Rome he searched for me earnestly and found me—
+			</v>
+			<marker class="begin-verse" mid="v55001018">
+			</marker>
+			<v n="18">
+				may the 
+				<crossref let="j" cid="c55001018.35">
+				</crossref>
+				Lord grant, 
+				<crossref let="k" cid="c55001018.36">
+				</crossref>
+				him to find mercy from the Lord on that day!—and you well know all the service he rendered at Ephesus. Footnotes (1) 1:9 Or *with* (2) 1:9 Greek *before times eternal* (3) 1:12 Or *what I have entrusted to him*; Greek *my deposit* (4) 1:13 Or *healthy* (ESV)
+				<note nid="n55001018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v55001019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

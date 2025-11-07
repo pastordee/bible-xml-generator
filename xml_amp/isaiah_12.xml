@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:17:11.028229</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:17:11.028261</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="AMP" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23012001"/>
+		<chapter num="12">
+			<heading>Thanksgiving Expressed</heading>
+			<begin-paragraph/>
+			<v n="1">
+				And on 
+				<crossref let="b" cid="c230121.1"/>
+				 that day you will say,“I will give thanks to You, O Lord;For though You were angry with me,Your anger has turned away,And You comfort me.
+			</v>
+			<marker class="begin-verse" mid="v23012002"/>
+			<v n="2">
+				“Behold, God, 
+				<crossref let="c" cid="c230122.1"/>
+				 my salvation!I will trust and not be afraid,For the Lord God is my strength and song;Yes, He has become my salvation.”
+			</v>
+			<marker class="begin-verse" mid="v23012003"/>
+			<v n="3">
+				Therefore with 
+				<crossref let="d" cid="c230123.1"/>
+				 joy you will draw waterFrom the springs of salvation.
+			</v>
+			<marker class="begin-verse" mid="v23012004"/>
+			<v n="4">
+				And in 
+				<crossref let="e" cid="c230124.1"/>
+				 that day you will say,“Give thanks to the Lord, call on His name [in prayer].Make His deeds known among the peoples [of the earth];Proclaim [to them] that His name is exalted!”
+			</v>
+			<marker class="begin-verse" mid="v23012005"/>
+			<v n="5">
+				Sing praises 
+				<crossref let="f" cid="c230125.1"/>
+				 to the Lord, for He has done excellent and glorious things;Let this be known throughout the earth.
+			</v>
+			<marker class="begin-verse" mid="v23012006"/>
+			<v n="6">
+				Rejoice and 
+				<crossref let="g" cid="c230126.1"/>
+				 shout for joy, O inhabitant of Zion,For great in your midst is the Holy One of Israel.
+			</v>
+			<marker class="begin-verse" mid="v23012007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:15:08.670587</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:15:08.670618</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19043001"/>
+		<chapter num="43">
+			<heading>(Psalm 42 and 43 were originally one psalm.)</heading>
+			<begin-paragraph/>
+			<v n="1">
+				God, please 
+				<crossref let="b" cid="c190431.1"/>
+				 vindicate me! Plead my case against an unfaithful nation; save me from these wicked and dishonest people.
+			</v>
+			<marker class="begin-verse" mid="v19043002"/>
+			<v n="2">
+				For you, 
+				<crossref let="c" cid="c190432.1"/>
+				 God, are my protection—so why have you turned your back on me? Why must I go around weeping because of the attacks of my enemies?
+			</v>
+			<marker class="begin-verse" mid="v19043003"/>
+			<v n="3">
+				Send your 
+				<crossref let="d" cid="c190433.1"/>
+				 light and your truth so they can guide me; let them lead me to your holy mountain, to the place where you live.
+			</v>
+			<marker class="begin-verse" mid="v19043004"/>
+			<v n="4">
+				I will 
+				<crossref let="e" cid="c190434.1"/>
+				 go to God's altar, to God who makes me truly happy. I will praise you on the harp, God, my God.
+			</v>
+			<marker class="begin-verse" mid="v19043005"/>
+			<v n="5">
+				Why am 
+				<crossref let="f" cid="c190435.1"/>
+				 I so discouraged? Why do I feel so sad? I will hope in God; I will praise him because he is the one who saves me—my God!
+			</v>
+			<marker class="begin-verse" mid="v19043006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

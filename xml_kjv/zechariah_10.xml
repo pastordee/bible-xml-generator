@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:35:09.648856</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:35:09.648863</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" version="KJV" bookAbbr="zec">
+		<marker class="begin-verse" mid="v38010001"/>
+		<chapter num="10">
+			<begin-paragraph/>
+			<v n="1">
+				Ask ye 
+				<crossref let="b" cid="c380101.1"/>
+				 of the LORD rain in the time of the latter rain; so the LORD shall make bright clouds, and give them showers of rain, to every one grass in the field.
+			</v>
+			<marker class="begin-verse" mid="v38010002"/>
+			<v n="2">
+				For the 
+				<crossref let="c" cid="c380102.1"/>
+				 idols have spoken vanity, and the diviners have seen a lie, and have told false dreams; they comfort in vain: therefore they went their way as a flock, they were troubled, because there was no shepherd.
+			</v>
+			<marker class="begin-verse" mid="v38010003"/>
+			<v n="3">
+				Mine anger 
+				<crossref let="d" cid="c380103.1"/>
+				 was kindled against the shepherds, and I punished the goats: for the LORD of hosts hath visited his flock the house of Judah, and hath made them as his goodly horse in the battle.
+			</v>
+			<marker class="begin-verse" mid="v38010004"/>
+			<v n="4">
+				Out of 
+				<crossref let="e" cid="c380104.1"/>
+				 him came forth the corner, out of him the nail, out of him the battle bow, out of him every oppressor together.
+			</v>
+			<marker class="begin-verse" mid="v38010005"/>
+			<v n="5">
+				¶ And 
+				<crossref let="f" cid="c380105.1"/>
+				 they shall be as mighty men, which tread down their enemies in the mire of the streets in the battle: and they shall fight, because the LORD is with them, and the riders on horses shall be confounded.
+			</v>
+			<marker class="begin-verse" mid="v38010006"/>
+			<v n="6">
+				And I 
+				<crossref let="g" cid="c380106.1"/>
+				 will strengthen the house of Judah, and I will save the house of Joseph, and I will bring them again to place them; for I have mercy upon them: and they shall be as though I had not cast them off: for I am the LORD their God, and will hear them.
+			</v>
+			<marker class="begin-verse" mid="v38010007"/>
+			<v n="7">
+				And they 
+				<crossref let="h" cid="c380107.1"/>
+				 of Ephraim shall be like a mighty man, and their heart shall rejoice as through wine: yea, their children shall see it, and be glad; their heart shall rejoice in the LORD.
+			</v>
+			<marker class="begin-verse" mid="v38010008"/>
+			<v n="8">
+				I will 
+				<crossref let="i" cid="c380108.1"/>
+				 hiss for them, and gather them; for I have redeemed them: and they shall increase as they have increased.
+			</v>
+			<marker class="begin-verse" mid="v38010009"/>
+			<v n="9">
+				And I 
+				<crossref let="j" cid="c380109.1"/>
+				 will sow them among the people: and they shall remember me in far countries; and they shall live with their children, and turn again.
+			</v>
+			<marker class="begin-verse" mid="v38010010"/>
+			<v n="10">
+				I will 
+				<crossref let="k" cid="c3801010.1"/>
+				 bring them again also out of the land of Egypt, and gather them out of Assyria; and I will bring them into the land of Gilead and Lebanon; and place shall not be found for them.
+			</v>
+			<marker class="begin-verse" mid="v38010011"/>
+			<v n="11">
+				And he 
+				<crossref let="l" cid="c3801011.1"/>
+				 shall pass through the sea with affliction, and shall smite the waves in the sea, and all the deeps of the river shall dry up: and the pride of Assyria shall be brought down, and the sceptre of Egypt shall depart away.
+			</v>
+			<marker class="begin-verse" mid="v38010012"/>
+			<v n="12">
+				And I 
+				<crossref let="m" cid="c3801012.1"/>
+				 will strengthen them in the LORD; and they shall walk up and down in his name, saith the LORD.
+			</v>
+			<marker class="begin-verse" mid="v38010013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

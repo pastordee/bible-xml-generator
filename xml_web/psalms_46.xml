@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:45:42.941224</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:45:42.941230</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19046001"/>
+		<chapter num="46">
+			<heading>For the Chief Musician. By the sons of Korah. According to Alamoth.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				God is 
+				<crossref let="b" cid="c190461.1"/>
+				 our refuge and strength,a very present help in trouble.
+			</v>
+			<marker class="begin-verse" mid="v19046002"/>
+			<v n="2">
+				Therefore we 
+				<crossref let="c" cid="c190462.1"/>
+				 won’t be afraid, though the earth changes,though the mountains are shaken into the heart of the seas;
+			</v>
+			<marker class="begin-verse" mid="v19046003"/>
+			<v n="3">
+				though its 
+				<crossref let="d" cid="c190463.1"/>
+				 waters roar and are troubled,though the mountains tremble with their swelling. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19046004"/>
+			<v n="4">
+				There is 
+				<crossref let="e" cid="c190464.1"/>
+				 a river, the streams of which make the city of God glad,the holy place of the tents of the Most High.
+			</v>
+			<marker class="begin-verse" mid="v19046005"/>
+			<v n="5">
+				God is 
+				<crossref let="f" cid="c190465.1"/>
+				 within her. She shall not be moved.God will help her at dawn.
+			</v>
+			<marker class="begin-verse" mid="v19046006"/>
+			<v n="6">
+				The nations 
+				<crossref let="g" cid="c190466.1"/>
+				 raged. The kingdoms were moved.He lifted his voice and the earth melted.
+			</v>
+			<marker class="begin-verse" mid="v19046007"/>
+			<v n="7">
+				Yahweh of 
+				<crossref let="h" cid="c190467.1"/>
+				 Armies is with us.The God of Jacob is our refuge. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19046008"/>
+			<v n="8">
+				Come, see 
+				<crossref let="i" cid="c190468.1"/>
+				 Yahweh’s works,what desolations he has made in the earth.
+			</v>
+			<marker class="begin-verse" mid="v19046009"/>
+			<v n="9">
+				He makes 
+				<crossref let="j" cid="c190469.1"/>
+				 wars cease to the end of the earth.He breaks the bow, and shatters the spear.He burns the chariots in the fire.
+			</v>
+			<marker class="begin-verse" mid="v19046010"/>
+			<v n="10">
+				“Be still, 
+				<crossref let="k" cid="c1904610.1"/>
+				 and know that I am God.I will be exalted among the nations.I will be exalted in the earth.”
+			</v>
+			<marker class="begin-verse" mid="v19046011"/>
+			<v n="11">
+				Yahweh of 
+				<crossref let="l" cid="c1904611.1"/>
+				 Armies is with us.The God of Jacob is our refuge. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19046012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:23:13.677481</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:23:13.677490</next_refresh_due>
+	</generation_info>
+	<book title="Esther" num="17" testament="old" version="ASV" bookAbbr="est">
+		<marker class="begin-verse" mid="v17010001"/>
+		<chapter num="10">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c170101.1"/>
+				 king Ahasuerus laid a tribute upon the land, and upon the isles of the sea.
+			</v>
+			<marker class="begin-verse" mid="v17010002"/>
+			<v n="2">
+				And all 
+				<crossref let="c" cid="c170102.1"/>
+				 the acts of his power and of his might, and the full account of the greatness of Mordecai, whereunto the king advanced him, are they not written in the book of the chronicles of the kings of Media and Persia?
+			</v>
+			<marker class="begin-verse" mid="v17010003"/>
+			<v n="3">
+				For Mordecai 
+				<crossref let="d" cid="c170103.1"/>
+				 the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the good of his people, and speaking peace to all his seed.
+			</v>
+			<marker class="begin-verse" mid="v17010004"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:49:16.864770</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:49:16.864778</next_refresh_due>
+	</generation_info>
+	<book title="3 John" num="64" testament="new" version="NLT" bookAbbr="3jn">
+		<marker class="begin-verse" mid="v64001001"/>
+		<chapter num="1">
+			<heading>Greetings</heading>
+			<begin-paragraph/>
+			<v n="1">
+				This letter 
+				<crossref let="b" cid="c640011.1"/>
+				 is from John, the elder.I am writing to Gaius, my dear friend, whom I love in the truth.
+			</v>
+			<marker class="begin-verse" mid="v64001002"/>
+			<v n="2">
+				Dear friend, 
+				<crossref let="c" cid="c640012.1"/>
+				 I hope all is well with you and that you are as healthy in body as you are strong in spirit.
+			</v>
+			<marker class="begin-verse" mid="v64001003"/>
+			<v n="3">
+				Some of 
+				<crossref let="d" cid="c640013.1"/>
+				 the traveling teachers recently returned and made me very happy by telling me about your faithfulness and that you are living according to the truth.
+			</v>
+			<marker class="begin-verse" mid="v64001004"/>
+			<v n="4">
+				I could 
+				<crossref let="e" cid="c640014.1"/>
+				 have no greater joy than to hear that my children are following the truth.Caring for the Lord’s Workers
+			</v>
+			<marker class="begin-verse" mid="v64001005"/>
+			<v n="5">
+				Dear friend, 
+				<crossref let="f" cid="c640015.1"/>
+				 you are being faithful to God when you care for the traveling teachers who pass through, even though they are strangers to you.
+			</v>
+			<marker class="begin-verse" mid="v64001006"/>
+			<v n="6">
+				They have 
+				<crossref let="g" cid="c640016.1"/>
+				 told the church here of your loving friendship. Please continue providing for such teachers in a manner that pleases God.
+			</v>
+			<marker class="begin-verse" mid="v64001007"/>
+			<v n="7">
+				For they 
+				<crossref let="h" cid="c640017.1"/>
+				 are traveling for the Lord, and they accept nothing from people who are not believers.
+			</v>
+			<marker class="begin-verse" mid="v64001008"/>
+			<v n="8">
+				So we 
+				<crossref let="i" cid="c640018.1"/>
+				 ourselves should support them so that we can be their partners as they teach the truth.
+			</v>
+			<marker class="begin-verse" mid="v64001009"/>
+			<v n="9">
+				I wrote 
+				<crossref let="j" cid="c640019.1"/>
+				 to the church about this, but Diotrephes, who loves to be the leader, refuses to have anything to do with us.
+			</v>
+			<marker class="begin-verse" mid="v64001010"/>
+			<v n="10">
+				When I 
+				<crossref let="k" cid="c6400110.1"/>
+				 come, I will report some of the things he is doing and the evil accusations he is making against us. Not only does he refuse to welcome the traveling teachers, he also tells others not to help them. And when they do help, he puts them out of the church.
+			</v>
+			<marker class="begin-verse" mid="v64001011"/>
+			<v n="11">
+				Dear friend, 
+				<crossref let="l" cid="c6400111.1"/>
+				 don’t let this bad example influence you. Follow only what is good. Remember that those who do good prove that they are God’s children, and those who do evil prove that they do not know God.
+			</v>
+			<marker class="begin-verse" mid="v64001012"/>
+			<v n="12">
+				Everyone speaks 
+				<crossref let="m" cid="c6400112.1"/>
+				 highly of Demetrius, as does the truth itself. We ourselves can say the same for him, and you know we speak the truth.Conclusion
+			</v>
+			<marker class="begin-verse" mid="v64001013"/>
+			<v n="13">
+				I have 
+				<crossref let="n" cid="c6400113.1"/>
+				 much more to say to you, but I don’t want to write it with pen and ink.
+			</v>
+			<marker class="begin-verse" mid="v64001014"/>
+			<v n="14">
+				For I 
+				<crossref let="o" cid="c6400114.1"/>
+				 hope to see you soon, and then we will talk face to face.
+			</v>
+			<marker class="begin-verse" mid="v64001015"/>
+			<v n="15">
+				Peace be 
+				<crossref let="p" cid="c6400115.1"/>
+				 with you.Your friends here send you their greetings. Please give my personal greetings to each of our friends there.
+			</v>
+			<marker class="begin-verse" mid="v64001016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

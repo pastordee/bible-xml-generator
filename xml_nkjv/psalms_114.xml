@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:22:16.754351</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:22:16.754360</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19114001"/>
+		<chapter num="114">
+			<heading>The Power of God in His Deliverance of Israel</heading>
+			<begin-paragraph/>
+			<v n="1">
+				When Israel 
+				<crossref let="b" cid="c191141.1"/>
+				 went out of Egypt,The house of Jacob from a people of strange language,
+			</v>
+			<marker class="begin-verse" mid="v19114002"/>
+			<v n="2">
+				Judah became 
+				<crossref let="c" cid="c191142.1"/>
+				 His sanctuary,And Israel His dominion.
+			</v>
+			<marker class="begin-verse" mid="v19114003"/>
+			<v n="3">
+				The sea 
+				<crossref let="d" cid="c191143.1"/>
+				 saw it and fled;Jordan turned back.
+			</v>
+			<marker class="begin-verse" mid="v19114004"/>
+			<v n="4">
+				The mountains 
+				<crossref let="e" cid="c191144.1"/>
+				 skipped like rams,The little hills like lambs.
+			</v>
+			<marker class="begin-verse" mid="v19114005"/>
+			<v n="5">
+				What ails 
+				<crossref let="f" cid="c191145.1"/>
+				 you, O sea, that you fled?O Jordan, that you turned back?
+			</v>
+			<marker class="begin-verse" mid="v19114006"/>
+			<v n="6">
+				O mountains, 
+				<crossref let="g" cid="c191146.1"/>
+				 that you skipped like rams?O little hills, like lambs?
+			</v>
+			<marker class="begin-verse" mid="v19114007"/>
+			<v n="7">
+				Tremble, O 
+				<crossref let="h" cid="c191147.1"/>
+				 earth, at the presence of the Lord,At the presence of the God of Jacob,
+			</v>
+			<marker class="begin-verse" mid="v19114008"/>
+			<v n="8">
+				Who turned 
+				<crossref let="i" cid="c191148.1"/>
+				 the rock into a pool of water,The flint into a fountain of waters.
+			</v>
+			<marker class="begin-verse" mid="v19114009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

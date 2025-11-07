@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T16:59:41.882210</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T16:59:41.882248</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" version="NLT" bookAbbr="hos">
+		<marker class="begin-verse" mid="v28006001"/>
+		<chapter num="6">
+			<heading>A Call to Repentance</heading>
+			<begin-paragraph/>
+			<v n="1">
+				“Come, let 
+				<crossref let="b" cid="c280061.1"/>
+				 us return to the Lord.He has torn us to pieces;now he will heal us.He has injured us;now he will bandage our wounds.
+			</v>
+			<marker class="begin-verse" mid="v28006002"/>
+			<v n="2">
+				In just 
+				<crossref let="c" cid="c280062.1"/>
+				 a short time he will restore us,so that we may live in his presence.
+			</v>
+			<marker class="begin-verse" mid="v28006003"/>
+			<v n="3">
+				Oh, that 
+				<crossref let="d" cid="c280063.1"/>
+				 we might know the Lord!Let us press on to know him.He will respond to us as surely as the arrival of dawnor the coming of rains in early spring.”
+			</v>
+			<marker class="begin-verse" mid="v28006004"/>
+			<v n="4">
+				“O Israel 
+				<crossref let="e" cid="c280064.1"/>
+				 and Judah,what should I do with you?” asks the Lord.“For your love vanishes like the morning mistand disappears like dew in the sunlight.
+			</v>
+			<marker class="begin-verse" mid="v28006005"/>
+			<v n="5">
+				I sent 
+				<crossref let="f" cid="c280065.1"/>
+				 my prophets to cut you to pieces—to slaughter you with my words,with judgments as inescapable as light.
+			</v>
+			<marker class="begin-verse" mid="v28006006"/>
+			<v n="6">
+				I want 
+				<crossref let="g" cid="c280066.1"/>
+				 you to show love,not offer sacrifices.I want you to know memore than I want burnt offerings.
+			</v>
+			<marker class="begin-verse" mid="v28006007"/>
+			<v n="7">
+				But like 
+				<crossref let="h" cid="c280067.1"/>
+				 Adam, you broke my covenantand betrayed my trust.
+			</v>
+			<marker class="begin-verse" mid="v28006008"/>
+			<v n="8">
+				“Gilead is 
+				<crossref let="i" cid="c280068.1"/>
+				 a city of sinners,tracked with footprints of blood.
+			</v>
+			<marker class="begin-verse" mid="v28006009"/>
+			<v n="9">
+				Priests form 
+				<crossref let="j" cid="c280069.1"/>
+				 bands of robbers,waiting in ambush for their victims.They murder travelers along the road to Shechemand practice every kind of sin.
+			</v>
+			<marker class="begin-verse" mid="v28006010"/>
+			<v n="10">
+				Yes, I 
+				<crossref let="k" cid="c2800610.1"/>
+				 have seen something horrible in Ephraim and Israel:My people are defiled by prostituting themselves with other gods!
+			</v>
+			<marker class="begin-verse" mid="v28006011"/>
+			<v n="11">
+				“O Judah, 
+				<crossref let="l" cid="c2800611.1"/>
+				 a harvest of punishment is also waiting for you,though I wanted to restore the fortunes of my people.
+			</v>
+			<marker class="begin-verse" mid="v28006012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

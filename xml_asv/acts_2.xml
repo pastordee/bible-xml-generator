@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:14:46.674354</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:14:46.674361</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" version="ASV" bookAbbr="act">
+		<marker class="begin-verse" mid="v44002001"/>
+		<chapter num="2">
+			<begin-paragraph/>
+			<v n="1">
+				And when 
+				<crossref let="b" cid="c440021.1"/>
+				 the day of Pentecost was now come, they were all together in one place.
+			</v>
+			<marker class="begin-verse" mid="v44002002"/>
+			<v n="2">
+				And suddenly 
+				<crossref let="c" cid="c440022.1"/>
+				 there came from heaven a sound as of the rushing of a mighty wind, and it filled all the house where they were sitting.
+			</v>
+			<marker class="begin-verse" mid="v44002003"/>
+			<v n="3">
+				And there 
+				<crossref let="d" cid="c440023.1"/>
+				 appeared unto them tongues parting asunder, like as of fire; and it sat upon each one of them.
+			</v>
+			<marker class="begin-verse" mid="v44002004"/>
+			<v n="4">
+				And they 
+				<crossref let="e" cid="c440024.1"/>
+				 were all filled with the Holy Spirit, and began to speak with other tongues, as the Spirit gave them utterance.
+			</v>
+			<marker class="begin-verse" mid="v44002005"/>
+			<v n="5">
+				Now there 
+				<crossref let="f" cid="c440025.1"/>
+				 were dwelling at Jerusalem Jews, devout men, from every nation under heaven.
+			</v>
+			<marker class="begin-verse" mid="v44002006"/>
+			<v n="6">
+				And when 
+				<crossref let="g" cid="c440026.1"/>
+				 this sound was heard, the multitude came together, and were confounded, because that every man heard them speaking in his own language.
+			</v>
+			<marker class="begin-verse" mid="v44002007"/>
+			<v n="7">
+				And they 
+				<crossref let="h" cid="c440027.1"/>
+				 were all amazed and marvelled, saying, Behold, are not all these that speak Galilæans?
+			</v>
+			<marker class="begin-verse" mid="v44002008"/>
+			<v n="8">
+				And how 
+				<crossref let="i" cid="c440028.1"/>
+				 hear we, every man in our own language wherein we were born?
+			</v>
+			<marker class="begin-verse" mid="v44002009"/>
+			<v n="9">
+				Parthians and 
+				<crossref let="j" cid="c440029.1"/>
+				 Medes and Elamites, and the dwellers in Mesopotamia, in Judæa and Cappadocia, in Pontus and Asia,
+			</v>
+			<marker class="begin-verse" mid="v44002010"/>
+			<v n="10">
+				in Phrygia 
+				<crossref let="k" cid="c4400210.1"/>
+				 and Pamphylia, in Egypt and the parts of Libya about Cyrene, and sojourners from Rome, both Jews and proselytes,
+			</v>
+			<marker class="begin-verse" mid="v44002011"/>
+			<v n="11">
+				Cretans and 
+				<crossref let="l" cid="c4400211.1"/>
+				 Arabians, we hear them speaking in our tongues the mighty works of God.
+			</v>
+			<marker class="begin-verse" mid="v44002012"/>
+			<v n="12">
+				And they 
+				<crossref let="m" cid="c4400212.1"/>
+				 were all amazed, and were perplexed, saying one to another, What meaneth this?
+			</v>
+			<marker class="begin-verse" mid="v44002013"/>
+			<v n="13">
+				But others 
+				<crossref let="n" cid="c4400213.1"/>
+				 mocking said, They are filled with new wine.
+			</v>
+			<marker class="begin-verse" mid="v44002014"/>
+			<v n="14">
+				But Peter, 
+				<crossref let="o" cid="c4400214.1"/>
+				 standing up with the eleven, lifted up his voice, and spake forth unto them, saying, Ye men of Judæa, and all ye that dwell at Jerusalem, be this known unto you, and give ear unto my words.
+			</v>
+			<marker class="begin-verse" mid="v44002015"/>
+			<v n="15">
+				For these 
+				<crossref let="p" cid="c4400215.1"/>
+				 are not drunken, as ye suppose; seeing it is but the third hour of the day;
+			</v>
+			<marker class="begin-verse" mid="v44002016"/>
+			<v n="16">
+				but this 
+				<crossref let="q" cid="c4400216.1"/>
+				 is that which hath been spoken through the prophet Joel:
+			</v>
+			<marker class="begin-verse" mid="v44002017"/>
+			<v n="17">
+				And it 
+				<crossref let="r" cid="c4400217.1"/>
+				 shall be in the last days, saith God,I will pour forth of my Spirit upon all flesh:And your sons and your daughters shall prophesy,And your young men shall see visions,And your old men shall dream dreams:
+			</v>
+			<marker class="begin-verse" mid="v44002018"/>
+			<v n="18">
+				Yea and 
+				<crossref let="s" cid="c4400218.1"/>
+				 on my servants and on my handmaidens in those daysWill I pour forth of my Spirit; and they shall prophesy.
+			</v>
+			<marker class="begin-verse" mid="v44002019"/>
+			<v n="19">
+				And I 
+				<crossref let="t" cid="c4400219.1"/>
+				 will show wonders in the heaven above,And signs on the earth beneath;Blood, and fire, and vapor of smoke:
+			</v>
+			<marker class="begin-verse" mid="v44002020"/>
+			<v n="20">
+				The sun 
+				<crossref let="u" cid="c4400220.1"/>
+				 shall be turned into darkness,And the moon into blood,Before the day of the Lord come,That great and notable day:
+			</v>
+			<marker class="begin-verse" mid="v44002021"/>
+			<v n="21">
+				And it 
+				<crossref let="v" cid="c4400221.1"/>
+				 shall be, that whosoever shall call on the name of the Lord shall be saved.
+			</v>
+			<marker class="begin-verse" mid="v44002022"/>
+			<v n="22">
+				Ye men 
+				<crossref let="w" cid="c4400222.1"/>
+				 of Israel, hear these words: Jesus of Nazareth, a man approved of God unto you by mighty works and wonders and signs which God did by him in the midst of you, even as ye yourselves know;
+			</v>
+			<marker class="begin-verse" mid="v44002023"/>
+			<v n="23">
+				him, being 
+				<crossref let="x" cid="c4400223.1"/>
+				 delivered up by the determinate counsel and foreknowledge of God, ye by the hand of lawless men did crucify and slay:
+			</v>
+			<marker class="begin-verse" mid="v44002024"/>
+			<v n="24">
+				whom God 
+				<crossref let="y" cid="c4400224.1"/>
+				 raised up, having loosed the pangs of death: because it was not possible that he should be holden of it.
+			</v>
+			<marker class="begin-verse" mid="v44002025"/>
+			<v n="25">
+				For David 
+				<crossref let="z" cid="c4400225.1"/>
+				 saith concerning him,I beheld the Lord always before my face;For he is on my right hand, that I should not be moved:
+			</v>
+			<marker class="begin-verse" mid="v44002026"/>
+			<v n="26">
+				Therefore my 
+				<crossref let="a" cid="c4400226.1"/>
+				 heart was glad, and my tongue rejoiced;Moreover my flesh also shall dwell in hope:
+			</v>
+			<marker class="begin-verse" mid="v44002027"/>
+			<v n="27">
+				Because thou 
+				<crossref let="b" cid="c4400227.1"/>
+				 wilt not leave my soul unto Hades,Neither wilt thou give thy Holy One to see corruption.
+			</v>
+			<marker class="begin-verse" mid="v44002028"/>
+			<v n="28">
+				Thou madest 
+				<crossref let="c" cid="c4400228.1"/>
+				 known unto me the ways of life;Thou shalt make me full of gladness with thy countenance.
+			</v>
+			<marker class="begin-verse" mid="v44002029"/>
+			<v n="29">
+				Brethren, I 
+				<crossref let="d" cid="c4400229.1"/>
+				 may say unto you freely of the patriarch David, that he both died and was buried, and his tomb is with us unto this day.
+			</v>
+			<marker class="begin-verse" mid="v44002030"/>
+			<v n="30">
+				Being therefore 
+				<crossref let="e" cid="c4400230.1"/>
+				 a prophet, and knowing that God had sworn with an oath to him, that of the fruit of his loins he would set one upon his throne;
+			</v>
+			<marker class="begin-verse" mid="v44002031"/>
+			<v n="31">
+				he foreseeing 
+				<crossref let="f" cid="c4400231.1"/>
+				 this spake of the resurrection of the Christ, that neither was he left unto Hades, nor did his flesh see corruption.
+			</v>
+			<marker class="begin-verse" mid="v44002032"/>
+			<v n="32">
+				This Jesus 
+				<crossref let="g" cid="c4400232.1"/>
+				 did God raise up, whereof we all are witnesses.
+			</v>
+			<marker class="begin-verse" mid="v44002033"/>
+			<v n="33">
+				Being therefore 
+				<crossref let="h" cid="c4400233.1"/>
+				 by the right hand of God exalted, and having received of the Father the promise of the Holy Spirit, he hath poured forth this, which ye see and hear.
+			</v>
+			<marker class="begin-verse" mid="v44002034"/>
+			<v n="34">
+				For David 
+				<crossref let="i" cid="c4400234.1"/>
+				 ascended not into the heavens: but he saith himself,The Lord said unto my Lord, Sit thou on my right hand,
+			</v>
+			<marker class="begin-verse" mid="v44002035"/>
+			<v n="35">
+				Till I 
+				<crossref let="j" cid="c4400235.1"/>
+				 make thine enemies the footstool of thy feet.
+			</v>
+			<marker class="begin-verse" mid="v44002036"/>
+			<v n="36">
+				Let all 
+				<crossref let="k" cid="c4400236.1"/>
+				 the house of Israel therefore know assuredly, that God hath made him both Lord and Christ, this Jesus whom ye crucified.
+			</v>
+			<marker class="begin-verse" mid="v44002037"/>
+			<v n="37">
+				Now when 
+				<crossref let="l" cid="c4400237.1"/>
+				 they heard this, they were pricked in their heart, and said unto Peter and the rest of the apostles, Brethren, what shall we do?
+			</v>
+			<marker class="begin-verse" mid="v44002038"/>
+			<v n="38">
+				And Peter 
+				<crossref let="m" cid="c4400238.1"/>
+				 said unto them, Repent ye, and be baptized every one of you in the name of Jesus Christ unto the remission of your sins; and ye shall receive the gift of the Holy Spirit.
+			</v>
+			<marker class="begin-verse" mid="v44002039"/>
+			<v n="39">
+				For to 
+				<crossref let="n" cid="c4400239.1"/>
+				 you is the promise, and to your children, and to all that are afar off, even as many as the Lord our God shall call unto him.
+			</v>
+			<marker class="begin-verse" mid="v44002040"/>
+			<v n="40">
+				And with 
+				<crossref let="o" cid="c4400240.1"/>
+				 many other words he testified, and exhorted them, saying, Save yourselves from this crooked generation.
+			</v>
+			<marker class="begin-verse" mid="v44002041"/>
+			<v n="41">
+				They then 
+				<crossref let="p" cid="c4400241.1"/>
+				 that received his word were baptized: and there were added unto them in that day about three thousand souls.
+			</v>
+			<marker class="begin-verse" mid="v44002042"/>
+			<v n="42">
+				And they 
+				<crossref let="q" cid="c4400242.1"/>
+				 continued stedfastly in the apostles’ teaching and fellowship, in the breaking of bread and the prayers.
+			</v>
+			<marker class="begin-verse" mid="v44002043"/>
+			<v n="43">
+				And fear 
+				<crossref let="r" cid="c4400243.1"/>
+				 came upon every soul: and many wonders and signs were done through the apostles.
+			</v>
+			<marker class="begin-verse" mid="v44002044"/>
+			<v n="44">
+				And all 
+				<crossref let="s" cid="c4400244.1"/>
+				 that believed were together, and had all things common;
+			</v>
+			<marker class="begin-verse" mid="v44002045"/>
+			<v n="45">
+				and they 
+				<crossref let="t" cid="c4400245.1"/>
+				 sold their possessions and goods, and parted them to all, according as any man had need.
+			</v>
+			<marker class="begin-verse" mid="v44002046"/>
+			<v n="46">
+				And day 
+				<crossref let="u" cid="c4400246.1"/>
+				 by day, continuing stedfastly with one accord in the temple, and breaking bread at home, they took their food with gladness and singleness of heart,
+			</v>
+			<marker class="begin-verse" mid="v44002047"/>
+			<v n="47">
+				praising God, 
+				<crossref let="v" cid="c4400247.1"/>
+				 and having favor with all the people. And the Lord added to them day by day those that were saved.
+			</v>
+			<marker class="begin-verse" mid="v44002048"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:06:26.159367</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:06:26.159377</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" bookAbbr="act" version="ESV">
+		<marker class="begin-verse" mid="v44010001">
+		</marker>
+		<chapter num="10">
+			<heading>
+				Acts 10
+			</heading>
+			<heading>
+				Peter and Cornelius
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				At Caesarea 
+				<crossref let="b" cid="c44010001.1">
+				</crossref>
+				there was, 
+				<crossref let="c" cid="c44010001.2">
+				</crossref>
+				a man named Cornelius, a centurion of what was known as the Italian Cohort,
+			</v>
+			<marker class="begin-verse" mid="v44010002">
+			</marker>
+			<v n="2">
+				a devout 
+				<crossref let="d" cid="c44010002.3">
+				</crossref>
+				man who, 
+				<crossref let="e" cid="c44010002.4">
+				</crossref>
+				feared God with all his household, gave alms generously to the people, and prayed continually to God.
+			</v>
+			<marker class="begin-verse" mid="v44010003">
+			</marker>
+			<v n="3">
+				About the 
+				<crossref let="f" cid="c44010003.5">
+				</crossref>
+				ninth hour, 
+				<crossref let="g" cid="c44010003.6">
+				</crossref>
+				of the day(1) he saw clearly in a vision an angel of God come in and say to him, “Cornelius.”
+				<note nid="n44010003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010004">
+			</marker>
+			<v n="4" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="h" cid="c44010004.7">
+				</crossref>
+					stared at, 
+					<crossref let="i" cid="c44010004.8">
+				</crossref>
+				him in terror and said, “What is it, Lord?” And he said to him, “Your prayers and your alms have ascended as a memorial before God.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v44010005">
+			</marker>
+			<v n="5">
+				And now 
+				<crossref let="j" cid="c44010005.9">
+				</crossref>
+				send men, 
+				<crossref let="k" cid="c44010005.10">
+				</crossref>
+				to Joppa and bring one Simon who is called Peter.
+			</v>
+			<marker class="begin-verse" mid="v44010006">
+			</marker>
+			<v n="6">
+				He is 
+				<crossref let="l" cid="c44010006.11">
+				</crossref>
+				lodging with, 
+				<crossref let="m" cid="c44010006.12">
+				</crossref>
+				one Simon, a tanner, whose house is by the sea.”
+				<note nid="n44010006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010007">
+			</marker>
+			<v n="7">
+				When the 
+				<crossref let="n" cid="c44010007.13">
+				</crossref>
+				angel who, 
+				<crossref let="o" cid="c44010007.14">
+				</crossref>
+				spoke to him had departed, he called two of his servants and a devout soldier from among those who attended him,
+			</v>
+			<marker class="begin-verse" mid="v44010008">
+			</marker>
+			<v n="8">
+				and having 
+				<crossref let="p" cid="c44010008.15">
+				</crossref>
+				related everything, 
+				<crossref let="q" cid="c44010008.16">
+				</crossref>
+				to them, he sent them to Joppa. Peter’s Vision
+			</v>
+			<marker class="begin-verse" mid="v44010009">
+			</marker>
+			<v n="9">
+				The next 
+				<crossref let="r" cid="c44010009.17">
+				</crossref>
+				day, as, 
+				<crossref let="s" cid="c44010009.18">
+				</crossref>
+				they were on their journey and approaching the city, Peter went up on the housetop about the sixth hour(2) to pray.
+				<note nid="n44010009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010010">
+			</marker>
+			<v n="10">
+				And he 
+				<crossref let="t" cid="c44010010.19">
+				</crossref>
+				became hungry, 
+				<crossref let="u" cid="c44010010.20">
+				</crossref>
+				and wanted something to eat, but while they were preparing it, he fell into a trance
+			</v>
+			<marker class="begin-verse" mid="v44010011">
+			</marker>
+			<v n="11">
+				and saw 
+				<crossref let="v" cid="c44010011.21">
+				</crossref>
+				the heavens, 
+				<crossref let="w" cid="c44010011.22">
+				</crossref>
+				opened and something like a great sheet descending, being let down by its four corners upon the earth.
+			</v>
+			<marker class="begin-verse" mid="v44010012">
+			</marker>
+			<v n="12">
+				In it 
+				<crossref let="x" cid="c44010012.23">
+				</crossref>
+				were all, 
+				<crossref let="y" cid="c44010012.24">
+				</crossref>
+				kinds of animals and reptiles and birds of the air.
+				<note nid="n44010012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010013">
+			</marker>
+			<v n="13">
+				And there 
+				<crossref let="z" cid="c44010013.25">
+				</crossref>
+				came a, 
+				<crossref let="a" cid="c44010013.26">
+				</crossref>
+				voice to him: “Rise, Peter; kill and eat.”
+			</v>
+			<marker class="begin-verse" mid="v44010014">
+			</marker>
+			<v n="14">
+				But Peter 
+				<crossref let="b" cid="c44010014.27">
+				</crossref>
+				said, “By, 
+				<crossref let="c" cid="c44010014.28">
+				</crossref>
+				no means, Lord; for I have never eaten anything that is common or unclean.”
+			</v>
+			<marker class="begin-verse" mid="v44010015">
+			</marker>
+			<v n="15">
+				And the 
+				<crossref let="d" cid="c44010015.29">
+				</crossref>
+				voice came, 
+				<crossref let="e" cid="c44010015.30">
+				</crossref>
+				to him again a second time, “What God has made clean, do not call common.”
+				<note nid="n44010015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010016">
+			</marker>
+			<v n="16">
+				This happened 
+				<crossref let="f" cid="c44010016.31">
+				</crossref>
+				three times,, 
+				<crossref let="g" cid="c44010016.32">
+				</crossref>
+				and the thing was taken up at once to heaven.
+			</v>
+			<marker class="begin-verse" mid="v44010017">
+			</marker>
+			<v n="17">
+				Now while 
+				<crossref let="h" cid="c44010017.33">
+				</crossref>
+				Peter was, 
+				<crossref let="i" cid="c44010017.34">
+				</crossref>
+				inwardly perplexed as to what the vision that he had seen might mean, behold, the men who were sent by Cornelius, having made inquiry for Simon’s house, stood at the gate
+			</v>
+			<marker class="begin-verse" mid="v44010018">
+			</marker>
+			<v n="18">
+				and called 
+				<crossref let="j" cid="c44010018.35">
+				</crossref>
+				out to, 
+				<crossref let="k" cid="c44010018.36">
+				</crossref>
+				ask whether Simon who was called Peter was lodging there.
+				<note nid="n44010018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010019">
+			</marker>
+			<v n="19">
+				And while 
+				<crossref let="l" cid="c44010019.37">
+				</crossref>
+				Peter was, 
+				<crossref let="m" cid="c44010019.38">
+				</crossref>
+				pondering the vision, the Spirit said to him, “Behold, three men are looking for you.
+			</v>
+			<marker class="begin-verse" mid="v44010020">
+			</marker>
+			<v n="20">
+				Rise and 
+				<crossref let="n" cid="c44010020.39">
+				</crossref>
+				go down, 
+				<crossref let="o" cid="c44010020.40">
+				</crossref>
+				and accompany them without hesitation,(3) for I have sent them.”
+			</v>
+			<marker class="begin-verse" mid="v44010021">
+			</marker>
+			<v n="21">
+				And Peter 
+				<crossref let="p" cid="c44010021.41">
+				</crossref>
+				went down, 
+				<crossref let="q" cid="c44010021.42">
+				</crossref>
+				to the men and said, “I am the one you are looking for. What is the reason for your coming?”
+				<note nid="n44010021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010022">
+			</marker>
+			<v n="22">
+				And they 
+				<crossref let="r" cid="c44010022.43">
+				</crossref>
+				said, “Cornelius,, 
+				<crossref let="s" cid="c44010022.44">
+				</crossref>
+				a centurion, an upright and God-fearing man, who is well spoken of by the whole Jewish nation, was directed by a holy angel to send for you to come to his house and to hear what you have to say.”
+			</v>
+			<marker class="begin-verse" mid="v44010023">
+			</marker>
+			<v n="23">
+				So he 
+				<crossref let="t" cid="c44010023.45">
+				</crossref>
+				invited them, 
+				<crossref let="u" cid="c44010023.46">
+				</crossref>
+				in to be his guests. The next day he rose and went away with them, and some of the brothers from Joppa accompanied him.
+			</v>
+			<marker class="begin-verse" mid="v44010024">
+			</marker>
+			<v n="24">
+				And on 
+				<crossref let="v" cid="c44010024.47">
+				</crossref>
+				the following, 
+				<crossref let="w" cid="c44010024.48">
+				</crossref>
+				day they entered Caesarea. Cornelius was expecting them and had called together his relatives and close friends.
+				<note nid="n44010024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010025">
+			</marker>
+			<v n="25">
+				When Peter 
+				<crossref let="x" cid="c44010025.49">
+				</crossref>
+				entered, Cornelius, 
+				<crossref let="y" cid="c44010025.50">
+				</crossref>
+				met him and fell down at his feet and worshiped him.
+			</v>
+			<marker class="begin-verse" mid="v44010026">
+			</marker>
+			<v n="26">
+				But Peter 
+				<crossref let="z" cid="c44010026.51">
+				</crossref>
+				lifted him, 
+				<crossref let="a" cid="c44010026.52">
+				</crossref>
+				up, saying, “Stand up; I too am a man.”
+			</v>
+			<marker class="begin-verse" mid="v44010027">
+			</marker>
+			<v n="27">
+				And as 
+				<crossref let="b" cid="c44010027.53">
+				</crossref>
+				he talked, 
+				<crossref let="c" cid="c44010027.54">
+				</crossref>
+				with him, he went in and found many persons gathered.
+				<note nid="n44010027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010028">
+			</marker>
+			<v n="28" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="d" cid="c44010028.55">
+				</crossref>
+					said to, 
+					<crossref let="e" cid="c44010028.56">
+				</crossref>
+				them, “You yourselves know how unlawful it is for a Jew to associate with or to visit anyone of another nation, but God has shown me that I should not call any person common or unclean.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v44010029">
+			</marker>
+			<v n="29">
+				So when 
+				<crossref let="f" cid="c44010029.57">
+				</crossref>
+				I was, 
+				<crossref let="g" cid="c44010029.58">
+				</crossref>
+				sent for, I came without objection. I ask then why you sent for me.”
+			</v>
+			<marker class="begin-verse" mid="v44010030">
+			</marker>
+			<v n="30">
+				And Cornelius 
+				<crossref let="h" cid="c44010030.59">
+				</crossref>
+				said, “Four, 
+				<crossref let="i" cid="c44010030.60">
+				</crossref>
+				days ago, about this hour, I was praying in my house at the ninth hour,(4) and behold, a man stood before me in bright clothing
+				<note nid="n44010030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010031">
+			</marker>
+			<v n="31">
+				and said, 
+				<crossref let="j" cid="c44010031.61">
+				</crossref>
+				‘Cornelius, your, 
+				<crossref let="k" cid="c44010031.62">
+				</crossref>
+				prayer has been heard and your alms have been remembered before God.
+			</v>
+			<marker class="begin-verse" mid="v44010032">
+			</marker>
+			<v n="32">
+				Send therefore 
+				<crossref let="l" cid="c44010032.63">
+				</crossref>
+				to Joppa, 
+				<crossref let="m" cid="c44010032.64">
+				</crossref>
+				and ask for Simon who is called Peter. He is lodging in the house of Simon, a tanner, by the sea.’
+			</v>
+			<marker class="begin-verse" mid="v44010033">
+			</marker>
+			<v n="33">
+				So I 
+				<crossref let="n" cid="c44010033.65">
+				</crossref>
+				sent for, 
+				<crossref let="o" cid="c44010033.66">
+				</crossref>
+				you at once, and you have been kind enough to come. Now therefore we are all here in the presence of God to hear all that you have been commanded by the Lord.” Gentiles Hear the Good News
+				<note nid="n44010033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010034">
+			</marker>
+			<v n="34">
+				So Peter 
+				<crossref let="p" cid="c44010034.67">
+				</crossref>
+				opened his, 
+				<crossref let="q" cid="c44010034.68">
+				</crossref>
+				mouth and said: “Truly I understand that God shows no partiality,
+			</v>
+			<marker class="begin-verse" mid="v44010035">
+			</marker>
+			<v n="35">
+				but in 
+				<crossref let="r" cid="c44010035.69">
+				</crossref>
+				every nation, 
+				<crossref let="s" cid="c44010035.70">
+				</crossref>
+				anyone who fears him and does what is right is acceptable to him.
+			</v>
+			<marker class="begin-verse" mid="v44010036">
+			</marker>
+			<v n="36">
+				As for 
+				<crossref let="t" cid="c44010036.71">
+				</crossref>
+				the word, 
+				<crossref let="u" cid="c44010036.72">
+				</crossref>
+				that he sent to Israel, preaching good news of peace through Jesus Christ (he is Lord of all),
+				<note nid="n44010036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010037">
+			</marker>
+			<v n="37">
+				you yourselves 
+				<crossref let="v" cid="c44010037.73">
+				</crossref>
+				know what, 
+				<crossref let="w" cid="c44010037.74">
+				</crossref>
+				happened throughout all Judea, beginning from Galilee after the baptism that John proclaimed:
+			</v>
+			<marker class="begin-verse" mid="v44010038">
+			</marker>
+			<v n="38">
+				how God 
+				<crossref let="x" cid="c44010038.75">
+				</crossref>
+				anointed Jesus, 
+				<crossref let="y" cid="c44010038.76">
+				</crossref>
+				of Nazareth with the Holy Spirit and with power. He went about doing good and healing all who were oppressed by the devil, for God was with him.
+			</v>
+			<marker class="begin-verse" mid="v44010039">
+			</marker>
+			<v n="39">
+				And we 
+				<crossref let="z" cid="c44010039.77">
+				</crossref>
+				are witnesses, 
+				<crossref let="a" cid="c44010039.78">
+				</crossref>
+				of all that he did both in the country of the Jews and in Jerusalem. They put him to death by hanging him on a tree,
+				<note nid="n44010039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010040">
+			</marker>
+			<v n="40">
+				but God 
+				<crossref let="b" cid="c44010040.79">
+				</crossref>
+				raised him, 
+				<crossref let="c" cid="c44010040.80">
+				</crossref>
+				on the third day and made him to appear,
+			</v>
+			<marker class="begin-verse" mid="v44010041">
+			</marker>
+			<v n="41">
+				not to 
+				<crossref let="d" cid="c44010041.81">
+				</crossref>
+				all the, 
+				<crossref let="e" cid="c44010041.82">
+				</crossref>
+				people but to us who had been chosen by God as witnesses, who ate and drank with him after he rose from the dead.
+			</v>
+			<marker class="begin-verse" mid="v44010042">
+			</marker>
+			<v n="42">
+				And he 
+				<crossref let="f" cid="c44010042.83">
+				</crossref>
+				commanded us, 
+				<crossref let="g" cid="c44010042.84">
+				</crossref>
+				to preach to the people and to testify that he is the one appointed by God to be judge of the living and the dead.
+				<note nid="n44010042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010043">
+			</marker>
+			<v n="43">
+				To him 
+				<crossref let="h" cid="c44010043.85">
+				</crossref>
+				all the, 
+				<crossref let="i" cid="c44010043.86">
+				</crossref>
+				prophets bear witness that everyone who believes in him receives forgiveness of sins through his name.” The Holy Spirit Falls on the Gentiles
+			</v>
+			<marker class="begin-verse" mid="v44010044">
+			</marker>
+			<v n="44">
+				While Peter 
+				<crossref let="j" cid="c44010044.87">
+				</crossref>
+				was still, 
+				<crossref let="k" cid="c44010044.88">
+				</crossref>
+				saying these things, the Holy Spirit fell on all who heard the word.
+			</v>
+			<marker class="begin-verse" mid="v44010045">
+			</marker>
+			<v n="45">
+				And the 
+				<crossref let="l" cid="c44010045.89">
+				</crossref>
+				believers from, 
+				<crossref let="m" cid="c44010045.90">
+				</crossref>
+				among the circumcised who had come with Peter were amazed, because the gift of the Holy Spirit was poured out even on the Gentiles.
+				<note nid="n44010045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010046">
+			</marker>
+			<v n="46">
+				For they 
+				<crossref let="n" cid="c44010046.91">
+				</crossref>
+				were hearing, 
+				<crossref let="o" cid="c44010046.92">
+				</crossref>
+				them speaking in tongues and extolling God. Then Peter declared,
+			</v>
+			<marker class="begin-verse" mid="v44010047">
+			</marker>
+			<v n="47">
+				“Can anyone 
+				<crossref let="p" cid="c44010047.93">
+				</crossref>
+				withhold water, 
+				<crossref let="q" cid="c44010047.94">
+				</crossref>
+				for baptizing these people, who have received the Holy Spirit just as we have?”
+			</v>
+			<marker class="begin-verse" mid="v44010048">
+			</marker>
+			<v n="48">
+				And he 
+				<crossref let="r" cid="c44010048.95">
+				</crossref>
+				commanded them, 
+				<crossref let="s" cid="c44010048.96">
+				</crossref>
+				to be baptized in the name of Jesus Christ. Then they asked him to remain for some days. Footnotes (1) 10:3 That is, 3 p.m. (2) 10:9 That is, noon (3) 10:20 Or *accompany them, making no distinction* (4) 10:30 That is, 3 p.m. (ESV)
+				<note nid="n44010048.48">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44010049">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

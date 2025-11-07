@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:14:39.444790</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:14:39.444836</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19028001"/>
+		<chapter num="28">
+			<heading>The LORD Is My StrengthOf David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				To You, 
+				<crossref let="b" cid="c190281.1"/>
+				 O LORD, I call;be not deaf to me, O my Rock.For if You remain silent,I will be like those descending to the Pit.
+			</v>
+			<marker class="begin-verse" mid="v19028002"/>
+			<v n="2">
+				Hear my 
+				<crossref let="c" cid="c190282.1"/>
+				 cry for mercywhen I call to You for help,when I lift up my handstoward Your holy sanctuary.
+			</v>
+			<marker class="begin-verse" mid="v19028003"/>
+			<v n="3">
+				Do not 
+				<crossref let="d" cid="c190283.1"/>
+				 drag me away with the wicked,and with the workers of iniquity,who speak peace to their neighborswhile malice is in their hearts.
+			</v>
+			<marker class="begin-verse" mid="v19028004"/>
+			<v n="4">
+				Repay them 
+				<crossref let="e" cid="c190284.1"/>
+				 according to their deedsand for their works of evil.Repay them for what their hands have done;bring back on them what they deserve.
+			</v>
+			<marker class="begin-verse" mid="v19028005"/>
+			<v n="5">
+				Since they 
+				<crossref let="f" cid="c190285.1"/>
+				 show no regard for the works of the LORDor what His hands have done,He will tear them downand never rebuild them.
+			</v>
+			<marker class="begin-verse" mid="v19028006"/>
+			<v n="6">
+				Blessed be 
+				<crossref let="g" cid="c190286.1"/>
+				 the LORD,for He has heard my cry for mercy.
+			</v>
+			<marker class="begin-verse" mid="v19028007"/>
+			<v n="7">
+				The LORD 
+				<crossref let="h" cid="c190287.1"/>
+				 is my strength and my shield;my heart trusts in Him, and I am helped.Therefore my heart rejoices,and I give thanks to Him with my song.
+			</v>
+			<marker class="begin-verse" mid="v19028008"/>
+			<v n="8">
+				The LORD 
+				<crossref let="i" cid="c190288.1"/>
+				 is the strength of His people,a stronghold of salvation for His anointed.
+			</v>
+			<marker class="begin-verse" mid="v19028009"/>
+			<v n="9">
+				Save Your 
+				<crossref let="j" cid="c190289.1"/>
+				 people and bless Your inheritance;shepherd them and carry them forever.
+			</v>
+			<marker class="begin-verse" mid="v19028010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

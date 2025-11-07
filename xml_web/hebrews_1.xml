@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:39:40.058854</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:39:40.058863</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" version="WEB" bookAbbr="heb">
+		<marker class="begin-verse" mid="v58001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				God, having 
+				<crossref let="b" cid="c580011.1"/>
+				 in the past spoken to the fathers through the prophets at many times and in various ways,
+			</v>
+			<marker class="begin-verse" mid="v58001002"/>
+			<v n="2">
+				has at 
+				<crossref let="c" cid="c580012.1"/>
+				 the end of these days spoken to us by his Son, whom he appointed heir of all things, through whom also he made the worlds.
+			</v>
+			<marker class="begin-verse" mid="v58001003"/>
+			<v n="3">
+				His Son 
+				<crossref let="d" cid="c580013.1"/>
+				 is the radiance of his glory, the very image of his substance, and upholding all things by the word of his power, who, when he had by himself purified us of our sins, sat down on the right hand of the Majesty on high,
+			</v>
+			<marker class="begin-verse" mid="v58001004"/>
+			<v n="4">
+				having become 
+				<crossref let="e" cid="c580014.1"/>
+				 as much better than the angels as the more excellent name he has inherited is better than theirs.
+			</v>
+			<marker class="begin-verse" mid="v58001005"/>
+			<v n="5">
+				For to 
+				<crossref let="f" cid="c580015.1"/>
+				 which of the angels did he say at any time,“You are my Son.Today I have become your father?”and again,“I will be to him a Father,and he will be to me a Son?”
+			</v>
+			<marker class="begin-verse" mid="v58001006"/>
+			<v n="6">
+				When he 
+				<crossref let="g" cid="c580016.1"/>
+				 again brings in the firstborn into the world he says, “Let all the angels of God worship him.”
+			</v>
+			<marker class="begin-verse" mid="v58001007"/>
+			<v n="7">
+				Of the 
+				<crossref let="h" cid="c580017.1"/>
+				 angels he says,“He makes his angels winds,and his servants a flame of fire.”
+			</v>
+			<marker class="begin-verse" mid="v58001008"/>
+			<v n="8">
+				But of 
+				<crossref let="i" cid="c580018.1"/>
+				 the Son he says,“Your throne, O God, is forever and ever.The scepter of uprightness is the scepter of your Kingdom.
+			</v>
+			<marker class="begin-verse" mid="v58001009"/>
+			<v n="9">
+				You have 
+				<crossref let="j" cid="c580019.1"/>
+				 loved righteousness and hated iniquity;therefore God, your God, has anointed you with the oil of gladness above your fellows.”
+			</v>
+			<marker class="begin-verse" mid="v58001010"/>
+			<v n="10">
+				And,“You, Lord, 
+				<crossref let="k" cid="c5800110.1"/>
+				 in the beginning, laid the foundation of the earth.The heavens are the works of your hands.
+			</v>
+			<marker class="begin-verse" mid="v58001011"/>
+			<v n="11">
+				They will 
+				<crossref let="l" cid="c5800111.1"/>
+				 perish, but you continue.They all will grow old like a garment does.
+			</v>
+			<marker class="begin-verse" mid="v58001012"/>
+			<v n="12">
+				You will 
+				<crossref let="m" cid="c5800112.1"/>
+				 roll them up like a mantle,and they will be changed;but you are the same.Your years won’t fail.”
+			</v>
+			<marker class="begin-verse" mid="v58001013"/>
+			<v n="13">
+				But which 
+				<crossref let="n" cid="c5800113.1"/>
+				 of the angels has he told at any time,“Sit at my right hand,until I make your enemies the footstool of your feet?”
+			</v>
+			<marker class="begin-verse" mid="v58001014"/>
+			<v n="14">
+				Aren’t they 
+				<crossref let="o" cid="c5800114.1"/>
+				 all serving spirits, sent out to do service for the sake of those who will inherit salvation?
+			</v>
+			<marker class="begin-verse" mid="v58001015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

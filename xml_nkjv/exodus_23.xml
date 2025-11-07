@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:35:44.031052</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:35:44.031061</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="NKJV" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02023001"/>
+		<chapter num="23">
+			<heading>Justice for All</heading>
+			<begin-paragraph/>
+			<v n="1">
+				“You shall 
+				<crossref let="b" cid="c020231.1"/>
+				 not circulate a false report. Do not put your hand with the wicked to be an unrighteous witness.
+			</v>
+			<marker class="begin-verse" mid="v02023002"/>
+			<v n="2">
+				You shall 
+				<crossref let="c" cid="c020232.1"/>
+				 not follow a crowd to do evil; nor shall you testify in a dispute so as to turn aside after many to pervert justice.
+			</v>
+			<marker class="begin-verse" mid="v02023003"/>
+			<v n="3">
+				You shall 
+				<crossref let="d" cid="c020233.1"/>
+				 not show partiality to a poor man in his dispute.
+			</v>
+			<marker class="begin-verse" mid="v02023004"/>
+			<v n="4">
+				“If you 
+				<crossref let="e" cid="c020234.1"/>
+				 meet your enemy’s ox or his donkey going astray, you shall surely bring it back to him again.
+			</v>
+			<marker class="begin-verse" mid="v02023005"/>
+			<v n="5">
+				If you 
+				<crossref let="f" cid="c020235.1"/>
+				 see the donkey of one who hates you lying under its burden, and you would refrain from helping it, you shall surely help him with it.
+			</v>
+			<marker class="begin-verse" mid="v02023006"/>
+			<v n="6">
+				“You shall 
+				<crossref let="g" cid="c020236.1"/>
+				 not pervert the judgment of your poor in his dispute.
+			</v>
+			<marker class="begin-verse" mid="v02023007"/>
+			<v n="7">
+				Keep yourself 
+				<crossref let="h" cid="c020237.1"/>
+				 far from a false matter; do not kill the innocent and righteous. For I will not justify the wicked.
+			</v>
+			<marker class="begin-verse" mid="v02023008"/>
+			<v n="8">
+				And you 
+				<crossref let="i" cid="c020238.1"/>
+				 shall take no bribe, for a bribe blinds the discerning and perverts the words of the righteous.
+			</v>
+			<marker class="begin-verse" mid="v02023009"/>
+			<v n="9">
+				“Also you 
+				<crossref let="j" cid="c020239.1"/>
+				 shall not oppress a stranger, for you know the heart of a stranger, because you were strangers in the land of Egypt.The Law of Sabbaths
+			</v>
+			<marker class="begin-verse" mid="v02023010"/>
+			<v n="10">
+				“Six years 
+				<crossref let="k" cid="c0202310.1"/>
+				 you shall sow your land and gather in its produce,
+			</v>
+			<marker class="begin-verse" mid="v02023011"/>
+			<v n="11">
+				but the 
+				<crossref let="l" cid="c0202311.1"/>
+				 seventh year you shall let it rest and lie fallow, that the poor of your people may eat; and what they leave, the beasts of the field may eat. In like manner you shall do with your vineyard and your olive grove.
+			</v>
+			<marker class="begin-verse" mid="v02023012"/>
+			<v n="12">
+				Six days 
+				<crossref let="m" cid="c0202312.1"/>
+				 you shall do your work, and on the seventh day you shall rest, that your ox and your donkey may rest, and the son of your female servant and the stranger may be refreshed.
+			</v>
+			<marker class="begin-verse" mid="v02023013"/>
+			<v n="13">
+				“And in 
+				<crossref let="n" cid="c0202313.1"/>
+				 all that I have said to you, be circumspect and make no mention of the name of other gods, nor let it be heard from your mouth.Three Annual Feasts
+			</v>
+			<marker class="begin-verse" mid="v02023014"/>
+			<v n="14">
+				“Three times 
+				<crossref let="o" cid="c0202314.1"/>
+				 you shall keep a feast to Me in the year:
+			</v>
+			<marker class="begin-verse" mid="v02023015"/>
+			<v n="15">
+				You shall 
+				<crossref let="p" cid="c0202315.1"/>
+				 keep the Feast of Unleavened Bread (you shall eat unleavened bread seven days, as I commanded you, at the time appointed in the month of Abib, for in it you came out of Egypt; none shall appear before Me empty);
+			</v>
+			<marker class="begin-verse" mid="v02023016"/>
+			<v n="16">
+				and the 
+				<crossref let="q" cid="c0202316.1"/>
+				 Feast of Harvest, the firstfruits of your labors which you have sown in the field; and the Feast of Ingathering at the end of the year, when you have gathered in the fruit of your labors from the field.
+			</v>
+			<marker class="begin-verse" mid="v02023017"/>
+			<v n="17">
+				“Three times 
+				<crossref let="r" cid="c0202317.1"/>
+				 in the year all your males shall appear before the Lord God.
+			</v>
+			<marker class="begin-verse" mid="v02023018"/>
+			<v n="18">
+				“You shall 
+				<crossref let="s" cid="c0202318.1"/>
+				 not offer the blood of My sacrifice with leavened bread; nor shall the fat of My sacrifice remain until morning.
+			</v>
+			<marker class="begin-verse" mid="v02023019"/>
+			<v n="19">
+				The first 
+				<crossref let="t" cid="c0202319.1"/>
+				 of the firstfruits of your land you shall bring into the house of the Lord your God. You shall not boil a young goat in its mother’s milk.The Angel and the Promises
+			</v>
+			<marker class="begin-verse" mid="v02023020"/>
+			<v n="20">
+				“Behold, I 
+				<crossref let="u" cid="c0202320.1"/>
+				 send an Angel before you to keep you in the way and to bring you into the place which I have prepared.
+			</v>
+			<marker class="begin-verse" mid="v02023021"/>
+			<v n="21">
+				Beware of 
+				<crossref let="v" cid="c0202321.1"/>
+				 Him and obey His voice; do not provoke Him, for He will not pardon your transgressions; for My name is in Him.
+			</v>
+			<marker class="begin-verse" mid="v02023022"/>
+			<v n="22">
+				But if 
+				<crossref let="w" cid="c0202322.1"/>
+				 you indeed obey His voice and do all that I speak, then I will be an enemy to your enemies and an adversary to your adversaries.
+			</v>
+			<marker class="begin-verse" mid="v02023023"/>
+			<v n="23">
+				For My 
+				<crossref let="x" cid="c0202323.1"/>
+				 Angel will go before you and bring you in to the Amorites and the Hittites and the Perizzites and the Canaanites and the Hivites and the Jebusites; and I will cut them off.
+			</v>
+			<marker class="begin-verse" mid="v02023024"/>
+			<v n="24">
+				You shall 
+				<crossref let="y" cid="c0202324.1"/>
+				 not bow down to their gods, nor serve them, nor do according to their works; but you shall utterly overthrow them and completely break down their sacred pillars.
+			</v>
+			<marker class="begin-verse" mid="v02023025"/>
+			<v n="25">
+				“So you 
+				<crossref let="z" cid="c0202325.1"/>
+				 shall serve the Lord your God, and He will bless your bread and your water. And I will take sickness away from the midst of you.
+			</v>
+			<marker class="begin-verse" mid="v02023026"/>
+			<v n="26">
+				No one 
+				<crossref let="a" cid="c0202326.1"/>
+				 shall suffer miscarriage or be barren in your land; I will fulfill the number of your days.
+			</v>
+			<marker class="begin-verse" mid="v02023027"/>
+			<v n="27">
+				“I will 
+				<crossref let="b" cid="c0202327.1"/>
+				 send My fear before you, I will cause confusion among all the people to whom you come, and will make all your enemies turn their backs to you.
+			</v>
+			<marker class="begin-verse" mid="v02023028"/>
+			<v n="28">
+				And I 
+				<crossref let="c" cid="c0202328.1"/>
+				 will send hornets before you, which shall drive out the Hivite, the Canaanite, and the Hittite from before you.
+			</v>
+			<marker class="begin-verse" mid="v02023029"/>
+			<v n="29">
+				I will 
+				<crossref let="d" cid="c0202329.1"/>
+				 not drive them out from before you in one year, lest the land become desolate and the beasts of the field become too numerous for you.
+			</v>
+			<marker class="begin-verse" mid="v02023030"/>
+			<v n="30">
+				Little by 
+				<crossref let="e" cid="c0202330.1"/>
+				 little I will drive them out from before you, until you have increased, and you inherit the land.
+			</v>
+			<marker class="begin-verse" mid="v02023031"/>
+			<v n="31">
+				And I 
+				<crossref let="f" cid="c0202331.1"/>
+				 will set your bounds from the Red Sea to the sea, Philistia, and from the desert to the River. For I will deliver the inhabitants of the land into your hand, and you shall drive them out before you.
+			</v>
+			<marker class="begin-verse" mid="v02023032"/>
+			<v n="32">
+				You shall 
+				<crossref let="g" cid="c0202332.1"/>
+				 make no covenant with them, nor with their gods.
+			</v>
+			<marker class="begin-verse" mid="v02023033"/>
+			<v n="33">
+				They shall 
+				<crossref let="h" cid="c0202333.1"/>
+				 not dwell in your land, lest they make you sin against Me. For if you serve their gods, it will surely be a snare to you.”
+			</v>
+			<marker class="begin-verse" mid="v02023034"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

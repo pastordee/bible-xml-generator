@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:30:55.504057</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:30:55.504086</next_refresh_due>
+	</generation_info>
+	<book title="1 Chronicles" num="13" testament="old" bookAbbr="1ch" version="ESV">
+		<marker class="begin-verse" mid="v13009001">
+		</marker>
+		<chapter num="9">
+			<heading>
+				1 Chronicles 9
+			</heading>
+			<heading>
+				A Genealogy of the Returned Exiles
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				So all 
+				<crossref let="b" cid="c13009001.1">
+				</crossref>
+				Israel was, 
+				<crossref let="c" cid="c13009001.2">
+				</crossref>
+				recorded in genealogies, and these are written in the Book of the Kings of Israel. And Judah was taken into exile in Babylon because of their breach of faith.
+			</v>
+			<marker class="begin-verse" mid="v13009002">
+			</marker>
+			<v n="2">
+				Now the 
+				<crossref let="d" cid="c13009002.3">
+				</crossref>
+				first to, 
+				<crossref let="e" cid="c13009002.4">
+				</crossref>
+				dwell again in their possessions in their cities were Israel, the priests, the Levites, and the temple servants.
+			</v>
+			<marker class="begin-verse" mid="v13009003">
+			</marker>
+			<v n="3">
+				And some 
+				<crossref let="f" cid="c13009003.5">
+				</crossref>
+				of the, 
+				<crossref let="g" cid="c13009003.6">
+				</crossref>
+				people of Judah, Benjamin, Ephraim, and Manasseh lived in Jerusalem:
+				<note nid="n13009003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009004">
+			</marker>
+			<v n="4">
+				Uthai the 
+				<crossref let="h" cid="c13009004.7">
+				</crossref>
+				son of, 
+				<crossref let="i" cid="c13009004.8">
+				</crossref>
+				Ammihud, son of Omri, son of Imri, son of Bani, from the sons of Perez the son of Judah.
+			</v>
+			<marker class="begin-verse" mid="v13009005">
+			</marker>
+			<v n="5">
+				And of 
+				<crossref let="j" cid="c13009005.9">
+				</crossref>
+				the Shilonites:, 
+				<crossref let="k" cid="c13009005.10">
+				</crossref>
+				Asaiah the firstborn, and his sons.
+			</v>
+			<marker class="begin-verse" mid="v13009006">
+			</marker>
+			<v n="6">
+				Of the 
+				<crossref let="l" cid="c13009006.11">
+				</crossref>
+				sons of, 
+				<crossref let="m" cid="c13009006.12">
+				</crossref>
+				Zerah: Jeuel and their kinsmen, 690.
+				<note nid="n13009006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009007">
+			</marker>
+			<v n="7">
+				Of the 
+				<crossref let="n" cid="c13009007.13">
+				</crossref>
+				Benjaminites: Sallu, 
+				<crossref let="o" cid="c13009007.14">
+				</crossref>
+				the son of Meshullam, son of Hodaviah, son of Hassenuah,
+			</v>
+			<marker class="begin-verse" mid="v13009008">
+			</marker>
+			<v n="8">
+				Ibneiah the 
+				<crossref let="p" cid="c13009008.15">
+				</crossref>
+				son of, 
+				<crossref let="q" cid="c13009008.16">
+				</crossref>
+				Jeroham, Elah the son of Uzzi, son of Michri, and Meshullam the son of Shephatiah, son of Reuel, son of Ibnijah;
+			</v>
+			<marker class="begin-verse" mid="v13009009">
+			</marker>
+			<v n="9">
+				and their 
+				<crossref let="r" cid="c13009009.17">
+				</crossref>
+				kinsmen according, 
+				<crossref let="s" cid="c13009009.18">
+				</crossref>
+				to their generations, 956. All these were heads of fathers’ houses according to their fathers’ houses.
+				<note nid="n13009009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009010">
+			</marker>
+			<v n="10">
+				Of the 
+				<crossref let="t" cid="c13009010.19">
+				</crossref>
+				priests: Jedaiah,, 
+				<crossref let="u" cid="c13009010.20">
+				</crossref>
+				Jehoiarib, Jachin,
+			</v>
+			<marker class="begin-verse" mid="v13009011">
+			</marker>
+			<v n="11">
+				and Azariah 
+				<crossref let="v" cid="c13009011.21">
+				</crossref>
+				the son, 
+				<crossref let="w" cid="c13009011.22">
+				</crossref>
+				of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, the chief officer of the house of God;
+			</v>
+			<marker class="begin-verse" mid="v13009012">
+			</marker>
+			<v n="12">
+				and Adaiah 
+				<crossref let="x" cid="c13009012.23">
+				</crossref>
+				the son, 
+				<crossref let="y" cid="c13009012.24">
+				</crossref>
+				of Jeroham, son of Pashhur, son of Malchijah, and Maasai the son of Adiel, son of Jahzerah, son of Meshullam, son of Meshillemith, son of Immer;
+				<note nid="n13009012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009013">
+			</marker>
+			<v n="13">
+				besides their 
+				<crossref let="z" cid="c13009013.25">
+				</crossref>
+				kinsmen, heads, 
+				<crossref let="a" cid="c13009013.26">
+				</crossref>
+				of their fathers’ houses, 1,760, mighty men for the work of the service of the house of God.
+			</v>
+			<marker class="begin-verse" mid="v13009014">
+			</marker>
+			<v n="14">
+				Of the 
+				<crossref let="b" cid="c13009014.27">
+				</crossref>
+				Levites: Shemaiah, 
+				<crossref let="c" cid="c13009014.28">
+				</crossref>
+				the son of Hasshub, son of Azrikam, son of Hashabiah, of the sons of Merari;
+			</v>
+			<marker class="begin-verse" mid="v13009015">
+			</marker>
+			<v n="15">
+				and Bakbakkar, 
+				<crossref let="d" cid="c13009015.29">
+				</crossref>
+				Heresh, Galal, 
+				<crossref let="e" cid="c13009015.30">
+				</crossref>
+				and Mattaniah the son of Mica, son of Zichri, son of Asaph;
+				<note nid="n13009015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009016">
+			</marker>
+			<v n="16">
+				and Obadiah 
+				<crossref let="f" cid="c13009016.31">
+				</crossref>
+				the son, 
+				<crossref let="g" cid="c13009016.32">
+				</crossref>
+				of Shemaiah, son of Galal, son of Jeduthun, and Berechiah the son of Asa, son of Elkanah, who lived in the villages of the Netophathites.
+			</v>
+			<marker class="begin-verse" mid="v13009017">
+			</marker>
+			<v n="17">
+				The gatekeepers 
+				<crossref let="h" cid="c13009017.33">
+				</crossref>
+				were Shallum,, 
+				<crossref let="i" cid="c13009017.34">
+				</crossref>
+				Akkub, Talmon, Ahiman, and their kinsmen (Shallum was the chief);
+			</v>
+			<marker class="begin-verse" mid="v13009018">
+			</marker>
+			<v n="18">
+				until then 
+				<crossref let="j" cid="c13009018.35">
+				</crossref>
+				they were, 
+				<crossref let="k" cid="c13009018.36">
+				</crossref>
+				in the king’s gate on the east side as the gatekeepers of the camps of the Levites.
+				<note nid="n13009018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009019">
+			</marker>
+			<v n="19">
+				Shallum the 
+				<crossref let="l" cid="c13009019.37">
+				</crossref>
+				son of, 
+				<crossref let="m" cid="c13009019.38">
+				</crossref>
+				Kore, son of Ebiasaph, son of Korah, and his kinsmen of his fathers’ house, the Korahites, were in charge of the work of the service, keepers of the thresholds of the tent, as their fathers had been in charge of the camp of the LORD, keepers of the entrance.
+			</v>
+			<marker class="begin-verse" mid="v13009020">
+			</marker>
+			<v n="20">
+				And Phinehas 
+				<crossref let="n" cid="c13009020.39">
+				</crossref>
+				the son, 
+				<crossref let="o" cid="c13009020.40">
+				</crossref>
+				of Eleazar was the chief officer over them in time past; the LORD was with him.
+			</v>
+			<marker class="begin-verse" mid="v13009021">
+			</marker>
+			<v n="21">
+				Zechariah the 
+				<crossref let="p" cid="c13009021.41">
+				</crossref>
+				son of, 
+				<crossref let="q" cid="c13009021.42">
+				</crossref>
+				Meshelemiah was gatekeeper at the entrance of the tent of meeting.
+				<note nid="n13009021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009022">
+			</marker>
+			<v n="22">
+				All these, 
+				<crossref let="r" cid="c13009022.43">
+				</crossref>
+				who were, 
+				<crossref let="s" cid="c13009022.44">
+				</crossref>
+				chosen as gatekeepers at the thresholds, were 212. They were enrolled by genealogies in their villages. David and Samuel the seer established them in their office of trust.
+			</v>
+			<marker class="begin-verse" mid="v13009023">
+			</marker>
+			<v n="23">
+				So they 
+				<crossref let="t" cid="c13009023.45">
+				</crossref>
+				and their, 
+				<crossref let="u" cid="c13009023.46">
+				</crossref>
+				sons were in charge of the gates of the house of the LORD, that is, the house of the tent, as guards.
+			</v>
+			<marker class="begin-verse" mid="v13009024">
+			</marker>
+			<v n="24">
+				The gatekeepers 
+				<crossref let="v" cid="c13009024.47">
+				</crossref>
+				were on, 
+				<crossref let="w" cid="c13009024.48">
+				</crossref>
+				the four sides, east, west, north, and south.
+				<note nid="n13009024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009025">
+			</marker>
+			<v n="25">
+				And their 
+				<crossref let="x" cid="c13009025.49">
+				</crossref>
+				kinsmen who, 
+				<crossref let="y" cid="c13009025.50">
+				</crossref>
+				were in their villages were obligated to come in every seven days, in turn, to be with these,
+			</v>
+			<marker class="begin-verse" mid="v13009026">
+			</marker>
+			<v n="26">
+				for the 
+				<crossref let="z" cid="c13009026.51">
+				</crossref>
+				four chief, 
+				<crossref let="a" cid="c13009026.52">
+				</crossref>
+				gatekeepers, who were Levites, were entrusted to be over the chambers and the treasures of the house of God.
+			</v>
+			<marker class="begin-verse" mid="v13009027">
+			</marker>
+			<v n="27">
+				And they 
+				<crossref let="b" cid="c13009027.53">
+				</crossref>
+				lodged around, 
+				<crossref let="c" cid="c13009027.54">
+				</crossref>
+				the house of God, for on them lay the duty of watching, and they had charge of opening it every morning.
+				<note nid="n13009027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009028">
+			</marker>
+			<v n="28">
+				Some of 
+				<crossref let="d" cid="c13009028.55">
+				</crossref>
+				them had, 
+				<crossref let="e" cid="c13009028.56">
+				</crossref>
+				charge of the utensils of service, for they were required to count them when they were brought in and taken out.
+			</v>
+			<marker class="begin-verse" mid="v13009029">
+			</marker>
+			<v n="29">
+				Others of 
+				<crossref let="f" cid="c13009029.57">
+				</crossref>
+				them were, 
+				<crossref let="g" cid="c13009029.58">
+				</crossref>
+				appointed over the furniture and over all the holy utensils, also over the fine flour, the wine, the oil, the incense, and the spices.
+			</v>
+			<marker class="begin-verse" mid="v13009030">
+			</marker>
+			<v n="30">
+				Others, of 
+				<crossref let="h" cid="c13009030.59">
+				</crossref>
+				the sons, 
+				<crossref let="i" cid="c13009030.60">
+				</crossref>
+				of the priests, prepared the mixing of the spices,
+				<note nid="n13009030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009031">
+			</marker>
+			<v n="31">
+				and Mattithiah, 
+				<crossref let="j" cid="c13009031.61">
+				</crossref>
+				one of, 
+				<crossref let="k" cid="c13009031.62">
+				</crossref>
+				the Levites, the firstborn of Shallum the Korahite, was entrusted with making the flat cakes.
+			</v>
+			<marker class="begin-verse" mid="v13009032">
+			</marker>
+			<v n="32">
+				Also some 
+				<crossref let="l" cid="c13009032.63">
+				</crossref>
+				of their, 
+				<crossref let="m" cid="c13009032.64">
+				</crossref>
+				kinsmen of the Kohathites had charge of the showbread, to prepare it every Sabbath.
+			</v>
+			<marker class="begin-verse" mid="v13009033">
+			</marker>
+			<v n="33">
+				Now these, 
+				<crossref let="n" cid="c13009033.65">
+				</crossref>
+				the singers,, 
+				<crossref let="o" cid="c13009033.66">
+				</crossref>
+				the heads of fathers’ houses of the Levites, were in the chambers of the temple free from other service, for they were on duty day and night.
+				<note nid="n13009033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009034">
+			</marker>
+			<v n="34">
+				These were 
+				<crossref let="p" cid="c13009034.67">
+				</crossref>
+				heads of, 
+				<crossref let="q" cid="c13009034.68">
+				</crossref>
+				fathers’ houses of the Levites, according to their generations, leaders. These lived in Jerusalem. Saul’s Genealogy Repeated
+			</v>
+			<marker class="begin-verse" mid="v13009035">
+			</marker>
+			<v n="35">
+				In Gibeon 
+				<crossref let="r" cid="c13009035.69">
+				</crossref>
+				lived the, 
+				<crossref let="s" cid="c13009035.70">
+				</crossref>
+				father of Gibeon, Jeiel, and the name of his wife was Maacah,
+			</v>
+			<marker class="begin-verse" mid="v13009036">
+			</marker>
+			<v n="36">
+				and his 
+				<crossref let="t" cid="c13009036.71">
+				</crossref>
+				firstborn son, 
+				<crossref let="u" cid="c13009036.72">
+				</crossref>
+				Abdon, then Zur, Kish, Baal, Ner, Nadab,
+				<note nid="n13009036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009037">
+			</marker>
+			<v n="37">
+				Gedor, Ahio, 
+				<crossref let="v" cid="c13009037.73">
+				</crossref>
+				Zechariah, and Mikloth;
+			</v>
+			<marker class="begin-verse" mid="v13009038">
+			</marker>
+			<v n="38">
+				and Mikloth 
+				<crossref let="x" cid="c13009038.75">
+				</crossref>
+				was the, 
+				<crossref let="y" cid="c13009038.76">
+				</crossref>
+				father of Shimeam; and these also lived opposite their kinsmen in Jerusalem, with their kinsmen.
+			</v>
+			<marker class="begin-verse" mid="v13009039">
+			</marker>
+			<v n="39">
+				Ner fathered 
+				<crossref let="z" cid="c13009039.77">
+				</crossref>
+				Kish, Kish, 
+				<crossref let="a" cid="c13009039.78">
+				</crossref>
+				fathered Saul, Saul fathered Jonathan, Malchi-shua, Abinadab, and Eshbaal.
+				<note nid="n13009039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009040">
+			</marker>
+			<v n="40">
+				And the 
+				<crossref let="b" cid="c13009040.79">
+				</crossref>
+				son of, 
+				<crossref let="c" cid="c13009040.80">
+				</crossref>
+				Jonathan was Merib-baal, and Merib-baal fathered Micah.
+			</v>
+			<marker class="begin-verse" mid="v13009041">
+			</marker>
+			<v n="41">
+				The sons 
+				<crossref let="d" cid="c13009041.81">
+				</crossref>
+				of Micah:, 
+				<crossref let="e" cid="c13009041.82">
+				</crossref>
+				Pithon, Melech, Tahrea, and Ahaz.(1)
+			</v>
+			<marker class="begin-verse" mid="v13009042">
+			</marker>
+			<v n="42">
+				And Ahaz 
+				<crossref let="f" cid="c13009042.83">
+				</crossref>
+				fathered Jarah,, 
+				<crossref let="g" cid="c13009042.84">
+				</crossref>
+				and Jarah fathered Alemeth, Azmaveth, and Zimri. And Zimri fathered Moza.
+				<note nid="n13009042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13009043">
+			</marker>
+			<v n="43">
+				Moza fathered 
+				<crossref let="h" cid="c13009043.85">
+				</crossref>
+				Binea, and, 
+				<crossref let="i" cid="c13009043.86">
+				</crossref>
+				Rephaiah was his son, Eleasah his son, Azel his son.
+			</v>
+			<marker class="begin-verse" mid="v13009044">
+			</marker>
+			<v n="44">
+				Azel had 
+				<crossref let="j" cid="c13009044.87">
+				</crossref>
+				six sons, 
+				<crossref let="k" cid="c13009044.88">
+				</crossref>
+				and these are their names: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan; these were the sons of Azel. Footnotes (1) 9:41 Compare 8:35; Hebrew lacks *and Ahaz* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v13009045">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

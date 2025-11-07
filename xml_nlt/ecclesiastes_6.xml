@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T15:00:48.646726</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T15:00:48.646764</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" version="NLT" bookAbbr="ecc">
+		<marker class="begin-verse" mid="v21006001"/>
+		<chapter num="6">
+			<begin-paragraph/>
+			<v n="1">
+				There is 
+				<crossref let="b" cid="c210061.1"/>
+				 another serious tragedy I have seen under the sun, and it weighs heavily on humanity.
+			</v>
+			<marker class="begin-verse" mid="v21006002"/>
+			<v n="2">
+				God gives 
+				<crossref let="c" cid="c210062.1"/>
+				 some people great wealth and honor and everything they could ever want, but then he doesn’t give them the chance to enjoy these things. They die, and someone else, even a stranger, ends up enjoying their wealth! This is meaningless—a sickening tragedy.
+			</v>
+			<marker class="begin-verse" mid="v21006003"/>
+			<v n="3">
+				A man 
+				<crossref let="d" cid="c210063.1"/>
+				 might have a hundred children and live to be very old. But if he finds no satisfaction in life and doesn’t even get a decent burial, it would have been better for him to be born dead.
+			</v>
+			<marker class="begin-verse" mid="v21006004"/>
+			<v n="4">
+				His birth 
+				<crossref let="e" cid="c210064.1"/>
+				 would have been meaningless, and he would have ended in darkness. He wouldn’t even have had a name,
+			</v>
+			<marker class="begin-verse" mid="v21006005"/>
+			<v n="5">
+				and he 
+				<crossref let="f" cid="c210065.1"/>
+				 would never have seen the sun or known of its existence. Yet he would have had more peace than in growing up to be an unhappy man.
+			</v>
+			<marker class="begin-verse" mid="v21006006"/>
+			<v n="6">
+				He might 
+				<crossref let="g" cid="c210066.1"/>
+				 live a thousand years twice over but still not find contentment. And since he must die like everyone else—well, what’s the use?
+			</v>
+			<marker class="begin-verse" mid="v21006007"/>
+			<v n="7">
+				All people 
+				<crossref let="h" cid="c210067.1"/>
+				 spend their lives scratching for food, but they never seem to have enough.
+			</v>
+			<marker class="begin-verse" mid="v21006008"/>
+			<v n="8">
+				So are 
+				<crossref let="i" cid="c210068.1"/>
+				 wise people really better off than fools? Do poor people gain anything by being wise and knowing how to act in front of others?
+			</v>
+			<marker class="begin-verse" mid="v21006009"/>
+			<v n="9">
+				Enjoy what 
+				<crossref let="j" cid="c210069.1"/>
+				 you have rather than desiring what you don’t have. Just dreaming about nice things is meaningless—like chasing the wind.The Future—Determined and Unknown
+			</v>
+			<marker class="begin-verse" mid="v21006010"/>
+			<v n="10">
+				Everything has 
+				<crossref let="k" cid="c2100610.1"/>
+				 already been decided. It was known long ago what each person would be. So there’s no use arguing with God about your destiny.
+			</v>
+			<marker class="begin-verse" mid="v21006011"/>
+			<v n="11">
+				The more 
+				<crossref let="l" cid="c2100611.1"/>
+				 words you speak, the less they mean. So what good are they?
+			</v>
+			<marker class="begin-verse" mid="v21006012"/>
+			<v n="12">
+				In the 
+				<crossref let="m" cid="c2100612.1"/>
+				 few days of our meaningless lives, who knows how our days can best be spent? Our lives are like a shadow. Who can tell what will happen on this earth after we are gone?
+			</v>
+			<marker class="begin-verse" mid="v21006013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

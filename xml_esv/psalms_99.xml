@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:25.627549</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:25.627561</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19099001">
+		</marker>
+		<chapter num="99">
+			<heading>
+				Psalm 99
+			</heading>
+			<heading>
+				The LORD Our God Is Holy
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c19099001.1">
+				</crossref>
+				reigns; let, 
+				<crossref let="c" cid="c19099001.2">
+				</crossref>
+				the peoples tremble! He sits enthroned upon the cherubim; let the earth quake!
+			</v>
+			<marker class="begin-verse" mid="v19099002">
+			</marker>
+			<v n="2">
+				The LORD 
+				<crossref let="d" cid="c19099002.3">
+				</crossref>
+				is great, 
+				<crossref let="e" cid="c19099002.4">
+				</crossref>
+				in Zion; he is exalted over all the peoples.
+			</v>
+			<marker class="begin-verse" mid="v19099003">
+			</marker>
+			<v n="3">
+				Let them 
+				<crossref let="f" cid="c19099003.5">
+				</crossref>
+				praise your, 
+				<crossref let="g" cid="c19099003.6">
+				</crossref>
+				great and awesome name! Holy is he!
+				<note nid="n19099003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19099004">
+			</marker>
+			<v n="4">
+				The King 
+				<crossref let="h" cid="c19099004.7">
+				</crossref>
+				in his, 
+				<crossref let="i" cid="c19099004.8">
+				</crossref>
+				might loves justice.(1) You have established equity; you have executed justice and righteousness in Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19099005">
+			</marker>
+			<v n="5">
+				Exalt the 
+				<crossref let="j" cid="c19099005.9">
+				</crossref>
+				LORD our, 
+				<crossref let="k" cid="c19099005.10">
+				</crossref>
+				God; worship at his footstool! Holy is he!
+			</v>
+			<marker class="begin-verse" mid="v19099006">
+			</marker>
+			<v n="6">
+				Moses and 
+				<crossref let="l" cid="c19099006.11">
+				</crossref>
+				Aaron were, 
+				<crossref let="m" cid="c19099006.12">
+				</crossref>
+				among his priests, Samuel also was among those who called upon his name. They called to the LORD, and he answered them.
+				<note nid="n19099006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19099007">
+			</marker>
+			<v n="7">
+				In the 
+				<crossref let="n" cid="c19099007.13">
+				</crossref>
+				pillar of, 
+				<crossref let="o" cid="c19099007.14">
+				</crossref>
+				the cloud he spoke to them; they kept his testimonies and the statute that he gave them.
+			</v>
+			<marker class="begin-verse" mid="v19099008">
+			</marker>
+			<v n="8">
+				O LORD 
+				<crossref let="p" cid="c19099008.15">
+				</crossref>
+				our God,, 
+				<crossref let="q" cid="c19099008.16">
+				</crossref>
+				you answered them; you were a forgiving God to them, but an avenger of their wrongdoings.
+			</v>
+			<marker class="begin-verse" mid="v19099009">
+			</marker>
+			<v n="9">
+				Exalt the 
+				<crossref let="r" cid="c19099009.17">
+				</crossref>
+				LORD our, 
+				<crossref let="s" cid="c19099009.18">
+				</crossref>
+				God, and worship at his holy mountain; for the LORD our God is holy! Footnotes (1) 99:4 Or *The might of the King loves justice* (ESV)
+				<note nid="n19099009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19099010">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

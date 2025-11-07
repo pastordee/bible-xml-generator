@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:24:07.142569</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:24:07.142590</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" version="KJV" bookAbbr="num">
+		<marker class="begin-verse" mid="v04003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				These also 
+				<crossref let="b" cid="c040031.1"/>
+				 are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai.
+			</v>
+			<marker class="begin-verse" mid="v04003002"/>
+			<v n="2">
+				And these 
+				<crossref let="c" cid="c040032.1"/>
+				 are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.
+			</v>
+			<marker class="begin-verse" mid="v04003003"/>
+			<v n="3">
+				These are 
+				<crossref let="d" cid="c040033.1"/>
+				 the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office.
+			</v>
+			<marker class="begin-verse" mid="v04003004"/>
+			<v n="4">
+				And Nadab 
+				<crossref let="e" cid="c040034.1"/>
+				 and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father.
+			</v>
+			<marker class="begin-verse" mid="v04003005"/>
+			<v n="5">
+				¶ And 
+				<crossref let="f" cid="c040035.1"/>
+				 the LORD spake unto Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v04003006"/>
+			<v n="6">
+				Bring the 
+				<crossref let="g" cid="c040036.1"/>
+				 tribe of Levi near, and present them before Aaron the priest, that they may minister unto him.
+			</v>
+			<marker class="begin-verse" mid="v04003007"/>
+			<v n="7">
+				And they 
+				<crossref let="h" cid="c040037.1"/>
+				 shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.
+			</v>
+			<marker class="begin-verse" mid="v04003008"/>
+			<v n="8">
+				And they 
+				<crossref let="i" cid="c040038.1"/>
+				 shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.
+			</v>
+			<marker class="begin-verse" mid="v04003009"/>
+			<v n="9">
+				And thou 
+				<crossref let="j" cid="c040039.1"/>
+				 shalt give the Levites unto Aaron and to his sons: they are wholly given unto him out of the children of Israel.
+			</v>
+			<marker class="begin-verse" mid="v04003010"/>
+			<v n="10">
+				And thou 
+				<crossref let="k" cid="c0400310.1"/>
+				 shalt appoint Aaron and his sons, and they shall wait on their priest’s office: and the stranger that cometh nigh shall be put to death.
+			</v>
+			<marker class="begin-verse" mid="v04003011"/>
+			<v n="11">
+				And the 
+				<crossref let="l" cid="c0400311.1"/>
+				 LORD spake unto Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v04003012"/>
+			<v n="12">
+				And I, 
+				<crossref let="m" cid="c0400312.1"/>
+				 behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;
+			</v>
+			<marker class="begin-verse" mid="v04003013"/>
+			<v n="13">
+				Because all 
+				<crossref let="n" cid="c0400313.1"/>
+				 the firstborn are mine; for on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I am the LORD.
+			</v>
+			<marker class="begin-verse" mid="v04003014"/>
+			<v n="14">
+				¶ And 
+				<crossref let="o" cid="c0400314.1"/>
+				 the LORD spake unto Moses in the wilderness of Sinai, saying,
+			</v>
+			<marker class="begin-verse" mid="v04003015"/>
+			<v n="15">
+				Number the 
+				<crossref let="p" cid="c0400315.1"/>
+				 children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them.
+			</v>
+			<marker class="begin-verse" mid="v04003016"/>
+			<v n="16">
+				And Moses 
+				<crossref let="q" cid="c0400316.1"/>
+				 numbered them according to the word of the LORD, as he was commanded.
+			</v>
+			<marker class="begin-verse" mid="v04003017"/>
+			<v n="17">
+				And these 
+				<crossref let="r" cid="c0400317.1"/>
+				 were the sons of Levi by their names; Gershon, and Kohath, and Merari.
+			</v>
+			<marker class="begin-verse" mid="v04003018"/>
+			<v n="18">
+				And these 
+				<crossref let="s" cid="c0400318.1"/>
+				 are the names of the sons of Gershon by their families; Libni, and Shimei.
+			</v>
+			<marker class="begin-verse" mid="v04003019"/>
+			<v n="19">
+				And the 
+				<crossref let="t" cid="c0400319.1"/>
+				 sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.
+			</v>
+			<marker class="begin-verse" mid="v04003020"/>
+			<v n="20">
+				And the 
+				<crossref let="u" cid="c0400320.1"/>
+				 sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers.
+			</v>
+			<marker class="begin-verse" mid="v04003021"/>
+			<v n="21">
+				Of Gershon 
+				<crossref let="v" cid="c0400321.1"/>
+				 was the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites.
+			</v>
+			<marker class="begin-verse" mid="v04003022"/>
+			<v n="22">
+				Those that 
+				<crossref let="w" cid="c0400322.1"/>
+				 were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred.
+			</v>
+			<marker class="begin-verse" mid="v04003023"/>
+			<v n="23">
+				The families 
+				<crossref let="x" cid="c0400323.1"/>
+				 of the Gershonites shall pitch behind the tabernacle westward.
+			</v>
+			<marker class="begin-verse" mid="v04003024"/>
+			<v n="24">
+				And the 
+				<crossref let="y" cid="c0400324.1"/>
+				 chief of the house of the father of the Gershonites shall be Eliasaph the son of Lael.
+			</v>
+			<marker class="begin-verse" mid="v04003025"/>
+			<v n="25">
+				And the 
+				<crossref let="z" cid="c0400325.1"/>
+				 charge of the sons of Gershon in the tabernacle of the congregation shall be the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,
+			</v>
+			<marker class="begin-verse" mid="v04003026"/>
+			<v n="26">
+				And the 
+				<crossref let="a" cid="c0400326.1"/>
+				 hangings of the court, and the curtain for the door of the court, which is by the tabernacle, and by the altar round about, and the cords of it for all the service thereof.
+			</v>
+			<marker class="begin-verse" mid="v04003027"/>
+			<v n="27">
+				¶ And 
+				<crossref let="b" cid="c0400327.1"/>
+				 of Kohath was the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites.
+			</v>
+			<marker class="begin-verse" mid="v04003028"/>
+			<v n="28">
+				In the 
+				<crossref let="c" cid="c0400328.1"/>
+				 number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary.
+			</v>
+			<marker class="begin-verse" mid="v04003029"/>
+			<v n="29">
+				The families 
+				<crossref let="d" cid="c0400329.1"/>
+				 of the sons of Kohath shall pitch on the side of the tabernacle southward.
+			</v>
+			<marker class="begin-verse" mid="v04003030"/>
+			<v n="30">
+				And the 
+				<crossref let="e" cid="c0400330.1"/>
+				 chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel.
+			</v>
+			<marker class="begin-verse" mid="v04003031"/>
+			<v n="31">
+				And their 
+				<crossref let="f" cid="c0400331.1"/>
+				 charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof.
+			</v>
+			<marker class="begin-verse" mid="v04003032"/>
+			<v n="32">
+				And Eleazar 
+				<crossref let="g" cid="c0400332.1"/>
+				 the son of Aaron the priest shall be chief over the chief of the Levites, and have the oversight of them that keep the charge of the sanctuary.
+			</v>
+			<marker class="begin-verse" mid="v04003033"/>
+			<v n="33">
+				¶ Of 
+				<crossref let="h" cid="c0400333.1"/>
+				 Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari.
+			</v>
+			<marker class="begin-verse" mid="v04003034"/>
+			<v n="34">
+				And those 
+				<crossref let="i" cid="c0400334.1"/>
+				 that were numbered of them, according to the number of all the males, from a month old and upward, were six thousand and two hundred.
+			</v>
+			<marker class="begin-verse" mid="v04003035"/>
+			<v n="35">
+				And the 
+				<crossref let="j" cid="c0400335.1"/>
+				 chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward.
+			</v>
+			<marker class="begin-verse" mid="v04003036"/>
+			<v n="36">
+				And under 
+				<crossref let="k" cid="c0400336.1"/>
+				 the custody and charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,
+			</v>
+			<marker class="begin-verse" mid="v04003037"/>
+			<v n="37">
+				And the 
+				<crossref let="l" cid="c0400337.1"/>
+				 pillars of the court round about, and their sockets, and their pins, and their cords.
+			</v>
+			<marker class="begin-verse" mid="v04003038"/>
+			<v n="38">
+				¶ But 
+				<crossref let="m" cid="c0400338.1"/>
+				 those that encamp before the tabernacle toward the east, even before the tabernacle of the congregation eastward, shall be Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death.
+			</v>
+			<marker class="begin-verse" mid="v04003039"/>
+			<v n="39">
+				All that 
+				<crossref let="n" cid="c0400339.1"/>
+				 were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, were twenty and two thousand.
+			</v>
+			<marker class="begin-verse" mid="v04003040"/>
+			<v n="40">
+				¶ And 
+				<crossref let="o" cid="c0400340.1"/>
+				 the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names.
+			</v>
+			<marker class="begin-verse" mid="v04003041"/>
+			<v n="41">
+				And thou 
+				<crossref let="p" cid="c0400341.1"/>
+				 shalt take the Levites for me (I am the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel.
+			</v>
+			<marker class="begin-verse" mid="v04003042"/>
+			<v n="42">
+				And Moses 
+				<crossref let="q" cid="c0400342.1"/>
+				 numbered, as the LORD commanded him, all the firstborn among the children of Israel.
+			</v>
+			<marker class="begin-verse" mid="v04003043"/>
+			<v n="43">
+				And all 
+				<crossref let="r" cid="c0400343.1"/>
+				 the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen.
+			</v>
+			<marker class="begin-verse" mid="v04003044"/>
+			<v n="44">
+				¶ And 
+				<crossref let="s" cid="c0400344.1"/>
+				 the LORD spake unto Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v04003045"/>
+			<v n="45">
+				Take the 
+				<crossref let="t" cid="c0400345.1"/>
+				 Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am the LORD.
+			</v>
+			<marker class="begin-verse" mid="v04003046"/>
+			<v n="46">
+				And for 
+				<crossref let="u" cid="c0400346.1"/>
+				 those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;
+			</v>
+			<marker class="begin-verse" mid="v04003047"/>
+			<v n="47">
+				Thou shalt 
+				<crossref let="v" cid="c0400347.1"/>
+				 even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take them: (the shekel is twenty gerahs:)
+			</v>
+			<marker class="begin-verse" mid="v04003048"/>
+			<v n="48">
+				And thou 
+				<crossref let="w" cid="c0400348.1"/>
+				 shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons.
+			</v>
+			<marker class="begin-verse" mid="v04003049"/>
+			<v n="49">
+				And Moses 
+				<crossref let="x" cid="c0400349.1"/>
+				 took the redemption money of them that were over and above them that were redeemed by the Levites:
+			</v>
+			<marker class="begin-verse" mid="v04003050"/>
+			<v n="50">
+				Of the 
+				<crossref let="y" cid="c0400350.1"/>
+				 firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary:
+			</v>
+			<marker class="begin-verse" mid="v04003051"/>
+			<v n="51">
+				And Moses 
+				<crossref let="z" cid="c0400351.1"/>
+				 gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses.
+			</v>
+			<marker class="begin-verse" mid="v04003052"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

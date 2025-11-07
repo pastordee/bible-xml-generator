@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:24:42.967111</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:24:42.967151</next_refresh_due>
+	</generation_info>
+	<book title="Titus" num="56" testament="new" version="ASV" bookAbbr="tit">
+		<marker class="begin-verse" mid="v56003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				Put them 
+				<crossref let="b" cid="c560031.1"/>
+				 in mind to be in subjection to rulers, to authorities, to be obedient, to be ready unto every good work,
+			</v>
+			<marker class="begin-verse" mid="v56003002"/>
+			<v n="2">
+				to speak 
+				<crossref let="c" cid="c560032.1"/>
+				 evil of no man, not to be contentious, to be gentle, showing all meekness toward all men.
+			</v>
+			<marker class="begin-verse" mid="v56003003"/>
+			<v n="3">
+				For we 
+				<crossref let="d" cid="c560033.1"/>
+				 also once were foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, hating one another.
+			</v>
+			<marker class="begin-verse" mid="v56003004"/>
+			<v n="4">
+				But when 
+				<crossref let="e" cid="c560034.1"/>
+				 the kindness of God our Saviour, and his love toward man, appeared,
+			</v>
+			<marker class="begin-verse" mid="v56003005"/>
+			<v n="5">
+				not by 
+				<crossref let="f" cid="c560035.1"/>
+				 works done in righteousness, which we did ourselves, but according to his mercy he saved us, through the washing of regeneration and renewing of the Holy Spirit,
+			</v>
+			<marker class="begin-verse" mid="v56003006"/>
+			<v n="6">
+				which he 
+				<crossref let="g" cid="c560036.1"/>
+				 poured out upon us richly, through Jesus Christ our Saviour;
+			</v>
+			<marker class="begin-verse" mid="v56003007"/>
+			<v n="7">
+				that, being 
+				<crossref let="h" cid="c560037.1"/>
+				 justified by his grace, we might be made heirs according to the hope of eternal life.
+			</v>
+			<marker class="begin-verse" mid="v56003008"/>
+			<v n="8">
+				Faithful is 
+				<crossref let="i" cid="c560038.1"/>
+				 the saying, and concerning these things I desire that thou affirm confidently, to the end that they who have believed God may be careful to maintain good works. These things are good and profitable unto men:
+			</v>
+			<marker class="begin-verse" mid="v56003009"/>
+			<v n="9">
+				but shun 
+				<crossref let="j" cid="c560039.1"/>
+				 foolish questionings, and genealogies, and strifes, and fightings about the law; for they are unprofitable and vain.
+			</v>
+			<marker class="begin-verse" mid="v56003010"/>
+			<v n="10">
+				A factious 
+				<crossref let="k" cid="c5600310.1"/>
+				 man after a first and second admonition refuse;
+			</v>
+			<marker class="begin-verse" mid="v56003011"/>
+			<v n="11">
+				knowing that 
+				<crossref let="l" cid="c5600311.1"/>
+				 such a one is perverted, and sinneth, being self-condemned.
+			</v>
+			<marker class="begin-verse" mid="v56003012"/>
+			<v n="12">
+				When I 
+				<crossref let="m" cid="c5600312.1"/>
+				 shall send Artemas unto thee, or Tychicus, give diligence to come unto me to Nicopolis: for there I have determined to winter.
+			</v>
+			<marker class="begin-verse" mid="v56003013"/>
+			<v n="13">
+				Set forward 
+				<crossref let="n" cid="c5600313.1"/>
+				 Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them.
+			</v>
+			<marker class="begin-verse" mid="v56003014"/>
+			<v n="14">
+				And let 
+				<crossref let="o" cid="c5600314.1"/>
+				 our people also learn to maintain good works for necessary uses, that they be not unfruitful.
+			</v>
+			<marker class="begin-verse" mid="v56003015"/>
+			<v n="15">
+				All that 
+				<crossref let="p" cid="c5600315.1"/>
+				 are with me salute thee. Salute them that love us in faith.Grace be with you all.
+			</v>
+			<marker class="begin-verse" mid="v56003016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

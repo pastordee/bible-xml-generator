@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T10:14:18.201920</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T10:14:18.201963</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="BSB" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66015001"/>
+		<chapter num="15">
+			<heading>The Song of Moses and the Lamb(Deuteronomy 32:1–47)</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then I 
+				<crossref let="b" cid="c660151.1"/>
+				 saw another great and marvelous sign in heaven: seven angels with the seven final plagues, with which the wrath of God is completed.
+			</v>
+			<marker class="begin-verse" mid="v66015002"/>
+			<v n="2">
+				And I 
+				<crossref let="c" cid="c660152.1"/>
+				 saw something like a sea of glass mixed with fire, beside which stood those who had conquered the beast and its image and the number of its name. They were holding harps from God,
+			</v>
+			<marker class="begin-verse" mid="v66015003"/>
+			<v n="3">
+				and they 
+				<crossref let="d" cid="c660153.1"/>
+				 sang the song of God’s servant Moses and of the Lamb:“Great and wonderful are Your works,O Lord God Almighty!Just and true are Your ways,O King of the nations!
+			</v>
+			<marker class="begin-verse" mid="v66015004"/>
+			<v n="4">
+				Who will 
+				<crossref let="e" cid="c660154.1"/>
+				 not fear You, O Lord,and glorify Your name?For You alone are holy.All nations will come and worship before You,for Your righteous acts have been revealed.”Preparation for Judgment
+			</v>
+			<marker class="begin-verse" mid="v66015005"/>
+			<v n="5">
+				After this 
+				<crossref let="f" cid="c660155.1"/>
+				 I looked, and the temple—the tabernacle of the Testimony—was opened in heaven.
+			</v>
+			<marker class="begin-verse" mid="v66015006"/>
+			<v n="6">
+				And out 
+				<crossref let="g" cid="c660156.1"/>
+				 of the temple came the seven angels with the seven plagues, dressed in clean and bright linen and girded with golden sashes around their chests.
+			</v>
+			<marker class="begin-verse" mid="v66015007"/>
+			<v n="7">
+				Then one 
+				<crossref let="h" cid="c660157.1"/>
+				 of the four living creatures gave the seven angels seven golden bowls full of the wrath of God, who lives forever and ever.
+			</v>
+			<marker class="begin-verse" mid="v66015008"/>
+			<v n="8">
+				And the 
+				<crossref let="i" cid="c660158.1"/>
+				 temple was filled with smoke from the glory of God and from His power; and no one could enter the temple until the seven plagues of the seven angels were completed.
+			</v>
+			<marker class="begin-verse" mid="v66015009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

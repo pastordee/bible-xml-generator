@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:09:08.463665</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:09:08.463674</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19123001"/>
+		<chapter num="123">
+			<heading>Psalm 123Prayer for the Lord’s Help.A Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Unto you 
+				<crossref let="b" cid="c191231.1"/>
+				 I lift up my eyes,O You who are enthroned in the heavens!
+			</v>
+			<marker class="begin-verse" mid="v19123002"/>
+			<v n="2">
+				Behold, as 
+				<crossref let="c" cid="c191232.1"/>
+				 the eyes of servants look to the hand of their master,And as the eyes of a maid to the hand of her mistress,So our eyes look to the Lord our God,Until He is gracious and favorable toward us.
+			</v>
+			<marker class="begin-verse" mid="v19123003"/>
+			<v n="3">
+				¶Be gracious 
+				<crossref let="d" cid="c191233.1"/>
+				 to us, O Lord, be gracious and favorable toward us,For we are greatly filled with contempt.
+			</v>
+			<marker class="begin-verse" mid="v19123004"/>
+			<v n="4">
+				Our soul 
+				<crossref let="e" cid="c191234.1"/>
+				 is greatly filledWith the scoffing of those who are at ease,And with the contempt of the proud [who disregard God’s law].
+			</v>
+			<marker class="begin-verse" mid="v19123005"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

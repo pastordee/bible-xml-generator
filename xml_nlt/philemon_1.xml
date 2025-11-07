@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:47:58.896268</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:47:58.896277</next_refresh_due>
+	</generation_info>
+	<book title="Philemon" num="57" testament="new" version="NLT" bookAbbr="phm">
+		<marker class="begin-verse" mid="v57001001"/>
+		<chapter num="1">
+			<heading>Greetings from Paul</heading>
+			<begin-paragraph/>
+			<v n="1">
+				This letter 
+				<crossref let="b" cid="c570011.1"/>
+				 is from Paul, a prisoner for preaching the Good News about Christ Jesus, and from our brother Timothy.I am writing to Philemon, our beloved co-worker,
+			</v>
+			<marker class="begin-verse" mid="v57001002"/>
+			<v n="2">
+				and to 
+				<crossref let="c" cid="c570012.1"/>
+				 our sister Apphia, and to our fellow soldier Archippus, and to the church that meets in your house.
+			</v>
+			<marker class="begin-verse" mid="v57001003"/>
+			<v n="3">
+				May God 
+				<crossref let="d" cid="c570013.1"/>
+				 our Father and the Lord Jesus Christ give you grace and peace.Paul’s Thanksgiving and Prayer
+			</v>
+			<marker class="begin-verse" mid="v57001004"/>
+			<v n="4">
+				I always 
+				<crossref let="e" cid="c570014.1"/>
+				 thank my God when I pray for you, Philemon,
+			</v>
+			<marker class="begin-verse" mid="v57001005"/>
+			<v n="5">
+				because I 
+				<crossref let="f" cid="c570015.1"/>
+				 keep hearing about your faith in the Lord Jesus and your love for all of God’s people.
+			</v>
+			<marker class="begin-verse" mid="v57001006"/>
+			<v n="6">
+				And I 
+				<crossref let="g" cid="c570016.1"/>
+				 am praying that you will put into action the generosity that comes from your faith as you understand and experience all the good things we have in Christ.
+			</v>
+			<marker class="begin-verse" mid="v57001007"/>
+			<v n="7">
+				Your love 
+				<crossref let="h" cid="c570017.1"/>
+				 has given me much joy and comfort, my brother, for your kindness has often refreshed the hearts of God’s people.Paul’s Appeal for Onesimus
+			</v>
+			<marker class="begin-verse" mid="v57001008"/>
+			<v n="8">
+				That is 
+				<crossref let="i" cid="c570018.1"/>
+				 why I am boldly asking a favor of you. I could demand it in the name of Christ because it is the right thing for you to do.
+			</v>
+			<marker class="begin-verse" mid="v57001009"/>
+			<v n="9">
+				But because 
+				<crossref let="j" cid="c570019.1"/>
+				 of our love, I prefer simply to ask you. Consider this as a request from me—Paul, an old man and now also a prisoner for the sake of Christ Jesus.
+			</v>
+			<marker class="begin-verse" mid="v57001010"/>
+			<v n="10">
+				I appeal 
+				<crossref let="k" cid="c5700110.1"/>
+				 to you to show kindness to my child, Onesimus. I became his father in the faith while here in prison.
+			</v>
+			<marker class="begin-verse" mid="v57001011"/>
+			<v n="11">
+				Onesimus hasn’t 
+				<crossref let="l" cid="c5700111.1"/>
+				 been of much use to you in the past, but now he is very useful to both of us.
+			</v>
+			<marker class="begin-verse" mid="v57001012"/>
+			<v n="12">
+				I am 
+				<crossref let="m" cid="c5700112.1"/>
+				 sending him back to you, and with him comes my own heart.
+			</v>
+			<marker class="begin-verse" mid="v57001013"/>
+			<v n="13">
+				I wanted 
+				<crossref let="n" cid="c5700113.1"/>
+				 to keep him here with me while I am in these chains for preaching the Good News, and he would have helped me on your behalf.
+			</v>
+			<marker class="begin-verse" mid="v57001014"/>
+			<v n="14">
+				But I 
+				<crossref let="o" cid="c5700114.1"/>
+				 didn’t want to do anything without your consent. I wanted you to help because you were willing, not because you were forced.
+			</v>
+			<marker class="begin-verse" mid="v57001015"/>
+			<v n="15">
+				It seems 
+				<crossref let="p" cid="c5700115.1"/>
+				 you lost Onesimus for a little while so that you could have him back forever.
+			</v>
+			<marker class="begin-verse" mid="v57001016"/>
+			<v n="16">
+				He is 
+				<crossref let="q" cid="c5700116.1"/>
+				 no longer like a slave to you. He is more than a slave, for he is a beloved brother, especially to me. Now he will mean much more to you, both as a man and as a brother in the Lord.
+			</v>
+			<marker class="begin-verse" mid="v57001017"/>
+			<v n="17">
+				So if 
+				<crossref let="r" cid="c5700117.1"/>
+				 you consider me your partner, welcome him as you would welcome me.
+			</v>
+			<marker class="begin-verse" mid="v57001018"/>
+			<v n="18">
+				If he 
+				<crossref let="s" cid="c5700118.1"/>
+				 has wronged you in any way or owes you anything, charge it to me.
+			</v>
+			<marker class="begin-verse" mid="v57001019"/>
+			<v n="19">
+				I, Paul, 
+				<crossref let="t" cid="c5700119.1"/>
+				 write this with my own hand: I will repay it. And I won’t mention that you owe me your very soul!
+			</v>
+			<marker class="begin-verse" mid="v57001020"/>
+			<v n="20">
+				Yes, my 
+				<crossref let="u" cid="c5700120.1"/>
+				 brother, please do me this favor for the Lord’s sake. Give me this encouragement in Christ.
+			</v>
+			<marker class="begin-verse" mid="v57001021"/>
+			<v n="21">
+				I am 
+				<crossref let="v" cid="c5700121.1"/>
+				 confident as I write this letter that you will do what I ask and even more!
+			</v>
+			<marker class="begin-verse" mid="v57001022"/>
+			<v n="22">
+				One more 
+				<crossref let="w" cid="c5700122.1"/>
+				 thing—please prepare a guest room for me, for I am hoping that God will answer your prayers and let me return to you soon.Paul’s Final Greetings
+			</v>
+			<marker class="begin-verse" mid="v57001023"/>
+			<v n="23">
+				Epaphras, my 
+				<crossref let="x" cid="c5700123.1"/>
+				 fellow prisoner in Christ Jesus, sends you his greetings.
+			</v>
+			<marker class="begin-verse" mid="v57001024"/>
+			<v n="24">
+				So do 
+				<crossref let="y" cid="c5700124.1"/>
+				 Mark, Aristarchus, Demas, and Luke, my co-workers.
+			</v>
+			<marker class="begin-verse" mid="v57001025"/>
+			<v n="25">
+				May the 
+				<crossref let="z" cid="c5700125.1"/>
+				 grace of the Lord Jesus Christ be with your spirit.
+			</v>
+			<marker class="begin-verse" mid="v57001026"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

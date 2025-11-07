@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:43:49.238057</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:43:49.238066</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" version="NLT" bookAbbr="act">
+		<marker class="begin-verse" mid="v44010001"/>
+		<chapter num="10">
+			<heading>Cornelius Calls for Peter</heading>
+			<begin-paragraph/>
+			<v n="1">
+				In Caesarea 
+				<crossref let="b" cid="c440101.1"/>
+				 there lived a Roman army officer named Cornelius, who was a captain of the Italian Regiment.
+			</v>
+			<marker class="begin-verse" mid="v44010002"/>
+			<v n="2">
+				He was 
+				<crossref let="c" cid="c440102.1"/>
+				 a devout, God-fearing man, as was everyone in his household. He gave generously to the poor and prayed regularly to God.
+			</v>
+			<marker class="begin-verse" mid="v44010003"/>
+			<v n="3">
+				One afternoon 
+				<crossref let="d" cid="c440103.1"/>
+				 about three o’clock, he had a vision in which he saw an angel of God coming toward him. “Cornelius!” the angel said.
+			</v>
+			<marker class="begin-verse" mid="v44010004"/>
+			<v n="4">
+				Cornelius stared 
+				<crossref let="e" cid="c440104.1"/>
+				 at him in terror. “What is it, sir?” he asked the angel.And the angel replied, “Your prayers and gifts to the poor have been received by God as an offering!
+			</v>
+			<marker class="begin-verse" mid="v44010005"/>
+			<v n="5">
+				Now send 
+				<crossref let="f" cid="c440105.1"/>
+				 some men to Joppa, and summon a man named Simon Peter.
+			</v>
+			<marker class="begin-verse" mid="v44010006"/>
+			<v n="6">
+				He is 
+				<crossref let="g" cid="c440106.1"/>
+				 staying with Simon, a tanner who lives near the seashore.”
+			</v>
+			<marker class="begin-verse" mid="v44010007"/>
+			<v n="7">
+				As soon 
+				<crossref let="h" cid="c440107.1"/>
+				 as the angel was gone, Cornelius called two of his household servants and a devout soldier, one of his personal attendants.
+			</v>
+			<marker class="begin-verse" mid="v44010008"/>
+			<v n="8">
+				He told 
+				<crossref let="i" cid="c440108.1"/>
+				 them what had happened and sent them off to Joppa.Peter Visits Cornelius
+			</v>
+			<marker class="begin-verse" mid="v44010009"/>
+			<v n="9">
+				The next 
+				<crossref let="j" cid="c440109.1"/>
+				 day as Cornelius’s messengers were nearing the town, Peter went up on the flat roof to pray. It was about noon,
+			</v>
+			<marker class="begin-verse" mid="v44010010"/>
+			<v n="10">
+				and he 
+				<crossref let="k" cid="c4401010.1"/>
+				 was hungry. But while a meal was being prepared, he fell into a trance.
+			</v>
+			<marker class="begin-verse" mid="v44010011"/>
+			<v n="11">
+				He saw 
+				<crossref let="l" cid="c4401011.1"/>
+				 the sky open, and something like a large sheet was let down by its four corners.
+			</v>
+			<marker class="begin-verse" mid="v44010012"/>
+			<v n="12">
+				In the 
+				<crossref let="m" cid="c4401012.1"/>
+				 sheet were all sorts of animals, reptiles, and birds.
+			</v>
+			<marker class="begin-verse" mid="v44010013"/>
+			<v n="13">
+				Then a 
+				<crossref let="n" cid="c4401013.1"/>
+				 voice said to him, “Get up, Peter; kill and eat them.”
+			</v>
+			<marker class="begin-verse" mid="v44010014"/>
+			<v n="14">
+				“No, Lord,” 
+				<crossref let="o" cid="c4401014.1"/>
+				 Peter declared. “I have never eaten anything that our Jewish laws have declared impure and unclean.”
+			</v>
+			<marker class="begin-verse" mid="v44010015"/>
+			<v n="15">
+				But the 
+				<crossref let="p" cid="c4401015.1"/>
+				 voice spoke again: “Do not call something unclean if God has made it clean.”
+			</v>
+			<marker class="begin-verse" mid="v44010016"/>
+			<v n="16">
+				The same 
+				<crossref let="q" cid="c4401016.1"/>
+				 vision was repeated three times. Then the sheet was suddenly pulled up to heaven.
+			</v>
+			<marker class="begin-verse" mid="v44010017"/>
+			<v n="17">
+				Peter was 
+				<crossref let="r" cid="c4401017.1"/>
+				 very perplexed. What could the vision mean? Just then the men sent by Cornelius found Simon’s house. Standing outside the gate,
+			</v>
+			<marker class="begin-verse" mid="v44010018"/>
+			<v n="18">
+				they asked 
+				<crossref let="s" cid="c4401018.1"/>
+				 if a man named Simon Peter was staying there.
+			</v>
+			<marker class="begin-verse" mid="v44010019"/>
+			<v n="19">
+				Meanwhile, as 
+				<crossref let="t" cid="c4401019.1"/>
+				 Peter was puzzling over the vision, the Holy Spirit said to him, “Three men have come looking for you.
+			</v>
+			<marker class="begin-verse" mid="v44010020"/>
+			<v n="20">
+				Get up, 
+				<crossref let="u" cid="c4401020.1"/>
+				 go downstairs, and go with them without hesitation. Don’t worry, for I have sent them.”
+			</v>
+			<marker class="begin-verse" mid="v44010021"/>
+			<v n="21">
+				So Peter 
+				<crossref let="v" cid="c4401021.1"/>
+				 went down and said, “I’m the man you are looking for. Why have you come?”
+			</v>
+			<marker class="begin-verse" mid="v44010022"/>
+			<v n="22">
+				They said, 
+				<crossref let="w" cid="c4401022.1"/>
+				 “We were sent by Cornelius, a Roman officer. He is a devout and God-fearing man, well respected by all the Jews. A holy angel instructed him to summon you to his house so that he can hear your message.”
+			</v>
+			<marker class="begin-verse" mid="v44010023"/>
+			<v n="23">
+				So Peter 
+				<crossref let="x" cid="c4401023.1"/>
+				 invited the men to stay for the night. The next day he went with them, accompanied by some of the brothers from Joppa.
+			</v>
+			<marker class="begin-verse" mid="v44010024"/>
+			<v n="24">
+				They arrived 
+				<crossref let="y" cid="c4401024.1"/>
+				 in Caesarea the following day. Cornelius was waiting for them and had called together his relatives and close friends.
+			</v>
+			<marker class="begin-verse" mid="v44010025"/>
+			<v n="25">
+				As Peter 
+				<crossref let="z" cid="c4401025.1"/>
+				 entered his home, Cornelius fell at his feet and worshiped him.
+			</v>
+			<marker class="begin-verse" mid="v44010026"/>
+			<v n="26">
+				But Peter 
+				<crossref let="a" cid="c4401026.1"/>
+				 pulled him up and said, “Stand up! I’m a human being just like you!”
+			</v>
+			<marker class="begin-verse" mid="v44010027"/>
+			<v n="27">
+				So they 
+				<crossref let="b" cid="c4401027.1"/>
+				 talked together and went inside, where many others were assembled.
+			</v>
+			<marker class="begin-verse" mid="v44010028"/>
+			<v n="28">
+				Peter told 
+				<crossref let="c" cid="c4401028.1"/>
+				 them, “You know it is against our laws for a Jewish man to enter a Gentile home like this or to associate with you. But God has shown me that I should no longer think of anyone as impure or unclean.
+			</v>
+			<marker class="begin-verse" mid="v44010029"/>
+			<v n="29">
+				So I 
+				<crossref let="d" cid="c4401029.1"/>
+				 came without objection as soon as I was sent for. Now tell me why you sent for me.”
+			</v>
+			<marker class="begin-verse" mid="v44010030"/>
+			<v n="30">
+				Cornelius replied, 
+				<crossref let="e" cid="c4401030.1"/>
+				 “Four days ago I was praying in my house about this same time, three o’clock in the afternoon. Suddenly, a man in dazzling clothes was standing in front of me.
+			</v>
+			<marker class="begin-verse" mid="v44010031"/>
+			<v n="31">
+				He told 
+				<crossref let="f" cid="c4401031.1"/>
+				 me, ‘Cornelius, your prayer has been heard, and your gifts to the poor have been noticed by God!
+			</v>
+			<marker class="begin-verse" mid="v44010032"/>
+			<v n="32">
+				Now send 
+				<crossref let="g" cid="c4401032.1"/>
+				 messengers to Joppa, and summon a man named Simon Peter. He is staying in the home of Simon, a tanner who lives near the seashore.’
+			</v>
+			<marker class="begin-verse" mid="v44010033"/>
+			<v n="33">
+				So I 
+				<crossref let="h" cid="c4401033.1"/>
+				 sent for you at once, and it was good of you to come. Now we are all here, waiting before God to hear the message the Lord has given you.”The Gentiles Hear the Good News
+			</v>
+			<marker class="begin-verse" mid="v44010034"/>
+			<v n="34">
+				Then Peter 
+				<crossref let="i" cid="c4401034.1"/>
+				 replied, “I see very clearly that God shows no favoritism.
+			</v>
+			<marker class="begin-verse" mid="v44010035"/>
+			<v n="35">
+				In every 
+				<crossref let="j" cid="c4401035.1"/>
+				 nation he accepts those who fear him and do what is right.
+			</v>
+			<marker class="begin-verse" mid="v44010036"/>
+			<v n="36">
+				This is 
+				<crossref let="k" cid="c4401036.1"/>
+				 the message of Good News for the people of Israel—that there is peace with God through Jesus Christ, who is Lord of all.
+			</v>
+			<marker class="begin-verse" mid="v44010037"/>
+			<v n="37">
+				You know 
+				<crossref let="l" cid="c4401037.1"/>
+				 what happened throughout Judea, beginning in Galilee, after John began preaching his message of baptism.
+			</v>
+			<marker class="begin-verse" mid="v44010038"/>
+			<v n="38">
+				And you 
+				<crossref let="m" cid="c4401038.1"/>
+				 know that God anointed Jesus of Nazareth with the Holy Spirit and with power. Then Jesus went around doing good and healing all who were oppressed by the devil, for God was with him.
+			</v>
+			<marker class="begin-verse" mid="v44010039"/>
+			<v n="39">
+				“And we 
+				<crossref let="n" cid="c4401039.1"/>
+				 apostles are witnesses of all he did throughout Judea and in Jerusalem. They put him to death by hanging him on a cross,
+			</v>
+			<marker class="begin-verse" mid="v44010040"/>
+			<v n="40">
+				but God 
+				<crossref let="o" cid="c4401040.1"/>
+				 raised him to life on the third day. Then God allowed him to appear,
+			</v>
+			<marker class="begin-verse" mid="v44010041"/>
+			<v n="41">
+				not to 
+				<crossref let="p" cid="c4401041.1"/>
+				 the general public, but to us whom God had chosen in advance to be his witnesses. We were those who ate and drank with him after he rose from the dead.
+			</v>
+			<marker class="begin-verse" mid="v44010042"/>
+			<v n="42">
+				And he 
+				<crossref let="q" cid="c4401042.1"/>
+				 ordered us to preach everywhere and to testify that Jesus is the one appointed by God to be the judge of all—the living and the dead.
+			</v>
+			<marker class="begin-verse" mid="v44010043"/>
+			<v n="43">
+				He is 
+				<crossref let="r" cid="c4401043.1"/>
+				 the one all the prophets testified about, saying that everyone who believes in him will have their sins forgiven through his name.”The Gentiles Receive the Holy Spirit
+			</v>
+			<marker class="begin-verse" mid="v44010044"/>
+			<v n="44">
+				Even as 
+				<crossref let="s" cid="c4401044.1"/>
+				 Peter was saying these things, the Holy Spirit fell upon all who were listening to the message.
+			</v>
+			<marker class="begin-verse" mid="v44010045"/>
+			<v n="45">
+				The Jewish 
+				<crossref let="t" cid="c4401045.1"/>
+				 believers who came with Peter were amazed that the gift of the Holy Spirit had been poured out on the Gentiles, too.
+			</v>
+			<marker class="begin-verse" mid="v44010046"/>
+			<v n="46">
+				For they 
+				<crossref let="u" cid="c4401046.1"/>
+				 heard them speaking in other tongues and praising God.Then Peter asked,
+			</v>
+			<marker class="begin-verse" mid="v44010047"/>
+			<v n="47">
+				“Can anyone 
+				<crossref let="v" cid="c4401047.1"/>
+				 object to their being baptized, now that they have received the Holy Spirit just as we did?”
+			</v>
+			<marker class="begin-verse" mid="v44010048"/>
+			<v n="48">
+				So he 
+				<crossref let="w" cid="c4401048.1"/>
+				 gave orders for them to be baptized in the name of Jesus Christ. Afterward Cornelius asked him to stay with them for several days.
+			</v>
+			<marker class="begin-verse" mid="v44010049"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

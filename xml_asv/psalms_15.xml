@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:28:15.984466</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:28:15.984474</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19015001"/>
+		<chapter num="15">
+			<heading>A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Jehovah, who 
+				<crossref let="b" cid="c190151.1"/>
+				 shall sojourn in thy tabernacle?Who shall dwell in thy holy hill?
+			</v>
+			<marker class="begin-verse" mid="v19015002"/>
+			<v n="2">
+				He that 
+				<crossref let="c" cid="c190152.1"/>
+				 walketh uprightly, and worketh righteousness,And speaketh truth in his heart;
+			</v>
+			<marker class="begin-verse" mid="v19015003"/>
+			<v n="3">
+				He that 
+				<crossref let="d" cid="c190153.1"/>
+				 slandereth not with his tongue,Nor doeth evil to his friend,Nor taketh up a reproach against his neighbor;
+			</v>
+			<marker class="begin-verse" mid="v19015004"/>
+			<v n="4">
+				In whose 
+				<crossref let="e" cid="c190154.1"/>
+				 eyes a reprobate is despised,But who honoreth them that fear Jehovah;He that sweareth to his own hurt, and changeth not;
+			</v>
+			<marker class="begin-verse" mid="v19015005"/>
+			<v n="5">
+				He that 
+				<crossref let="f" cid="c190155.1"/>
+				 putteth not out his money to interest,Nor taketh reward against the innocent.He that doeth these things shall never be moved.
+			</v>
+			<marker class="begin-verse" mid="v19015006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

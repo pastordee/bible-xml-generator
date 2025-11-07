@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:20:13.549308</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:20:13.549331</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19091001"/>
+		<chapter num="91">
+			<heading>Safety of Abiding in the Presence of God</heading>
+			<begin-paragraph/>
+			<v n="1">
+				He who 
+				<crossref let="b" cid="c190911.1"/>
+				 dwells in the secret place of the Most HighShall abide under the shadow of the Almighty.
+			</v>
+			<marker class="begin-verse" mid="v19091002"/>
+			<v n="2">
+				I will 
+				<crossref let="c" cid="c190912.1"/>
+				 say of the Lord, “He is my refuge and my fortress;My God, in Him I will trust.”
+			</v>
+			<marker class="begin-verse" mid="v19091003"/>
+			<v n="3">
+				Surely He 
+				<crossref let="d" cid="c190913.1"/>
+				 shall deliver you from the snare of the fowlerAnd from the perilous pestilence.
+			</v>
+			<marker class="begin-verse" mid="v19091004"/>
+			<v n="4">
+				He shall 
+				<crossref let="e" cid="c190914.1"/>
+				 cover you with His feathers,And under His wings you shall take refuge;His truth shall be your shield and buckler.
+			</v>
+			<marker class="begin-verse" mid="v19091005"/>
+			<v n="5">
+				You shall 
+				<crossref let="f" cid="c190915.1"/>
+				 not be afraid of the terror by night,Nor of the arrow that flies by day,
+			</v>
+			<marker class="begin-verse" mid="v19091006"/>
+			<v n="6">
+				Nor of 
+				<crossref let="g" cid="c190916.1"/>
+				 the pestilence that walks in darkness,Nor of the destruction that lays waste at noonday.
+			</v>
+			<marker class="begin-verse" mid="v19091007"/>
+			<v n="7">
+				A thousand 
+				<crossref let="h" cid="c190917.1"/>
+				 may fall at your side,And ten thousand at your right hand;But it shall not come near you.
+			</v>
+			<marker class="begin-verse" mid="v19091008"/>
+			<v n="8">
+				Only with 
+				<crossref let="i" cid="c190918.1"/>
+				 your eyes shall you look,And see the reward of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19091009"/>
+			<v n="9">
+				Because you 
+				<crossref let="j" cid="c190919.1"/>
+				 have made the Lord, who is my refuge,Even the Most High, your dwelling place,
+			</v>
+			<marker class="begin-verse" mid="v19091010"/>
+			<v n="10">
+				No evil 
+				<crossref let="k" cid="c1909110.1"/>
+				 shall befall you,Nor shall any plague come near your dwelling;
+			</v>
+			<marker class="begin-verse" mid="v19091011"/>
+			<v n="11">
+				For He 
+				<crossref let="l" cid="c1909111.1"/>
+				 shall give His angels charge over you,To keep you in all your ways.
+			</v>
+			<marker class="begin-verse" mid="v19091012"/>
+			<v n="12">
+				In their 
+				<crossref let="m" cid="c1909112.1"/>
+				 hands they shall bear you up,Lest you dash your foot against a stone.
+			</v>
+			<marker class="begin-verse" mid="v19091013"/>
+			<v n="13">
+				You shall 
+				<crossref let="n" cid="c1909113.1"/>
+				 tread upon the lion and the cobra,The young lion and the serpent you shall trample underfoot.
+			</v>
+			<marker class="begin-verse" mid="v19091014"/>
+			<v n="14">
+				“Because he 
+				<crossref let="o" cid="c1909114.1"/>
+				 has set his love upon Me, therefore I will deliver him;I will set him on high, because he has known My name.
+			</v>
+			<marker class="begin-verse" mid="v19091015"/>
+			<v n="15">
+				He shall 
+				<crossref let="p" cid="c1909115.1"/>
+				 call upon Me, and I will answer him;I will be with him in trouble;I will deliver him and honor him.
+			</v>
+			<marker class="begin-verse" mid="v19091016"/>
+			<v n="16">
+				With long 
+				<crossref let="q" cid="c1909116.1"/>
+				 life I will satisfy him,And show him My salvation.”
+			</v>
+			<marker class="begin-verse" mid="v19091017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

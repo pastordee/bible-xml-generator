@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:50:14.057954</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:50:14.058002</next_refresh_due>
+	</generation_info>
+	<book title="Nehemiah" num="16" testament="old" version="KJV" bookAbbr="neh">
+		<marker class="begin-verse" mid="v16001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				The words 
+				<crossref let="b" cid="c160011.1"/>
+				 of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,
+			</v>
+			<marker class="begin-verse" mid="v16001002"/>
+			<v n="2">
+				That Hanani, 
+				<crossref let="c" cid="c160012.1"/>
+				 one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v16001003"/>
+			<v n="3">
+				And they 
+				<crossref let="d" cid="c160013.1"/>
+				 said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire.
+			</v>
+			<marker class="begin-verse" mid="v16001004"/>
+			<v n="4">
+				¶ And 
+				<crossref let="e" cid="c160014.1"/>
+				 it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,
+			</v>
+			<marker class="begin-verse" mid="v16001005"/>
+			<v n="5">
+				And said, 
+				<crossref let="f" cid="c160015.1"/>
+				 I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:
+			</v>
+			<marker class="begin-verse" mid="v16001006"/>
+			<v n="6">
+				Let thine 
+				<crossref let="g" cid="c160016.1"/>
+				 ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father’s house have sinned.
+			</v>
+			<marker class="begin-verse" mid="v16001007"/>
+			<v n="7">
+				We have 
+				<crossref let="h" cid="c160017.1"/>
+				 dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses.
+			</v>
+			<marker class="begin-verse" mid="v16001008"/>
+			<v n="8">
+				Remember, I 
+				<crossref let="i" cid="c160018.1"/>
+				 beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:
+			</v>
+			<marker class="begin-verse" mid="v16001009"/>
+			<v n="9">
+				But if 
+				<crossref let="j" cid="c160019.1"/>
+				 ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there.
+			</v>
+			<marker class="begin-verse" mid="v16001010"/>
+			<v n="10">
+				Now these 
+				<crossref let="k" cid="c1600110.1"/>
+				 are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand.
+			</v>
+			<marker class="begin-verse" mid="v16001011"/>
+			<v n="11">
+				O Lord, 
+				<crossref let="l" cid="c1600111.1"/>
+				 I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king’s cupbearer.
+			</v>
+			<marker class="begin-verse" mid="v16001012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

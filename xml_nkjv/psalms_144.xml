@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:24:57.372620</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:24:57.372656</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19144001"/>
+		<chapter num="144">
+			<heading>A Song to the Lord Who Preserves and Prospers His PeopleA Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Blessed be 
+				<crossref let="b" cid="c191441.1"/>
+				 the Lord my Rock,Who trains my hands for war,And my fingers for battle—
+			</v>
+			<marker class="begin-verse" mid="v19144002"/>
+			<v n="2">
+				My lovingkindness 
+				<crossref let="c" cid="c191442.1"/>
+				 and my fortress,My high tower and my deliverer,My shield and the One in whom I take refuge,Who subdues my people under me.
+			</v>
+			<marker class="begin-verse" mid="v19144003"/>
+			<v n="3">
+				Lord, what 
+				<crossref let="d" cid="c191443.1"/>
+				 is man, that You take knowledge of him?Or the son of man, that You are mindful of him?
+			</v>
+			<marker class="begin-verse" mid="v19144004"/>
+			<v n="4">
+				Man is 
+				<crossref let="e" cid="c191444.1"/>
+				 like a breath;His days are like a passing shadow.
+			</v>
+			<marker class="begin-verse" mid="v19144005"/>
+			<v n="5">
+				Bow down 
+				<crossref let="f" cid="c191445.1"/>
+				 Your heavens, O Lord, and come down;Touch the mountains, and they shall smoke.
+			</v>
+			<marker class="begin-verse" mid="v19144006"/>
+			<v n="6">
+				Flash forth 
+				<crossref let="g" cid="c191446.1"/>
+				 lightning and scatter them;Shoot out Your arrows and destroy them.
+			</v>
+			<marker class="begin-verse" mid="v19144007"/>
+			<v n="7">
+				Stretch out 
+				<crossref let="h" cid="c191447.1"/>
+				 Your hand from above;Rescue me and deliver me out of great waters,From the hand of foreigners,
+			</v>
+			<marker class="begin-verse" mid="v19144008"/>
+			<v n="8">
+				Whose mouth 
+				<crossref let="i" cid="c191448.1"/>
+				 speaks lying words,And whose right hand is a right hand of falsehood.
+			</v>
+			<marker class="begin-verse" mid="v19144009"/>
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c191449.1"/>
+				 sing a new song to You, O God;On a harp of ten strings I will sing praises to You,
+			</v>
+			<marker class="begin-verse" mid="v19144010"/>
+			<v n="10">
+				The One 
+				<crossref let="k" cid="c1914410.1"/>
+				 who gives salvation to kings,Who delivers David His servantFrom the deadly sword.
+			</v>
+			<marker class="begin-verse" mid="v19144011"/>
+			<v n="11">
+				Rescue me 
+				<crossref let="l" cid="c1914411.1"/>
+				 and deliver me from the hand of foreigners,Whose mouth speaks lying words,And whose right hand is a right hand of falsehood—
+			</v>
+			<marker class="begin-verse" mid="v19144012"/>
+			<v n="12">
+				That our 
+				<crossref let="m" cid="c1914412.1"/>
+				 sons may be as plants grown up in their youth;That our daughters may be as pillars,Sculptured in palace style;
+			</v>
+			<marker class="begin-verse" mid="v19144013"/>
+			<v n="13">
+				That our 
+				<crossref let="n" cid="c1914413.1"/>
+				 barns may be full,Supplying all kinds of produce;That our sheep may bring forth thousandsAnd ten thousands in our fields;
+			</v>
+			<marker class="begin-verse" mid="v19144014"/>
+			<v n="14">
+				That our 
+				<crossref let="o" cid="c1914414.1"/>
+				 oxen may be well laden;That there be no breaking in or going out;That there be no outcry in our streets.
+			</v>
+			<marker class="begin-verse" mid="v19144015"/>
+			<v n="15">
+				Happy are 
+				<crossref let="p" cid="c1914415.1"/>
+				 the people who are in such a state;Happy are the people whose God is the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19144016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

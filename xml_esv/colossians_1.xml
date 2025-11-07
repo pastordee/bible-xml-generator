@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:00.047658</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:00.047691</next_refresh_due>
+	</generation_info>
+	<book title="Colossians" num="51" testament="new" bookAbbr="col" version="ESV">
+		<marker class="begin-verse" mid="v51001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Colossians 1
+			</heading>
+			<heading>
+				Greeting
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Paul, an 
+				<crossref let="b" cid="c51001001.1">
+				</crossref>
+				apostle of, 
+				<crossref let="c" cid="c51001001.2">
+				</crossref>
+				Christ Jesus by the will of God, and Timothy our brother,
+			</v>
+			<marker class="begin-verse" mid="v51001002">
+			</marker>
+			<v n="2">
+				To the 
+				<crossref let="d" cid="c51001002.3">
+				</crossref>
+				saints and, 
+				<crossref let="e" cid="c51001002.4">
+				</crossref>
+				faithful brothers(1) in Christ at Colossae: Grace to you and peace from God our Father. Thanksgiving and Prayer
+			</v>
+			<marker class="begin-verse" mid="v51001003">
+			</marker>
+			<v n="3">
+				We always 
+				<crossref let="f" cid="c51001003.5">
+				</crossref>
+				thank God,, 
+				<crossref let="g" cid="c51001003.6">
+				</crossref>
+				the Father of our Lord Jesus Christ, when we pray for you,
+				<note nid="n51001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v51001004">
+			</marker>
+			<v n="4">
+				since we 
+				<crossref let="h" cid="c51001004.7">
+				</crossref>
+				heard of, 
+				<crossref let="i" cid="c51001004.8">
+				</crossref>
+				your faith in Christ Jesus and of the love that you have for all the saints,
+			</v>
+			<marker class="begin-verse" mid="v51001005">
+			</marker>
+			<v n="5">
+				because of 
+				<crossref let="j" cid="c51001005.9">
+				</crossref>
+				the hope, 
+				<crossref let="k" cid="c51001005.10">
+				</crossref>
+				laid up for you in heaven. Of this you have heard before in the word of the truth, the gospel,
+			</v>
+			<marker class="begin-verse" mid="v51001006">
+			</marker>
+			<v n="6">
+				which has 
+				<crossref let="l" cid="c51001006.11">
+				</crossref>
+				come to, 
+				<crossref let="m" cid="c51001006.12">
+				</crossref>
+				you, as indeed in the whole world it is bearing fruit and increasing—as it also does among you, since the day you heard it and understood the grace of God in truth,
+				<note nid="n51001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v51001007">
+			</marker>
+			<v n="7">
+				just as 
+				<crossref let="n" cid="c51001007.13">
+				</crossref>
+				you learned, 
+				<crossref let="o" cid="c51001007.14">
+				</crossref>
+				it from Epaphras our beloved fellow servant.(2) He is a faithful minister of Christ on your(3) behalf
+			</v>
+			<marker class="begin-verse" mid="v51001008">
+			</marker>
+			<v n="8">
+				and has 
+				<crossref let="p" cid="c51001008.15">
+				</crossref>
+				made known, 
+				<crossref let="q" cid="c51001008.16">
+				</crossref>
+				to us your love in the Spirit.
+			</v>
+			<marker class="begin-verse" mid="v51001009">
+			</marker>
+			<v n="9">
+				And so, 
+				<crossref let="r" cid="c51001009.17">
+				</crossref>
+				from the, 
+				<crossref let="s" cid="c51001009.18">
+				</crossref>
+				day we heard, we have not ceased to pray for you, asking that you may be filled with the knowledge of his will in all spiritual wisdom and understanding,
+				<note nid="n51001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v51001010">
+			</marker>
+			<v n="10">
+				so as 
+				<crossref let="t" cid="c51001010.19">
+				</crossref>
+				to walk, 
+				<crossref let="u" cid="c51001010.20">
+				</crossref>
+				in a manner worthy of the Lord, fully pleasing to him: bearing fruit in every good work and increasing in the knowledge of God;
+			</v>
+			<marker class="begin-verse" mid="v51001011">
+			</marker>
+			<v n="11">
+				being strengthened 
+				<crossref let="v" cid="c51001011.21">
+				</crossref>
+				with all, 
+				<crossref let="w" cid="c51001011.22">
+				</crossref>
+				power, according to his glorious might, for all endurance and patience with joy;
+			</v>
+			<marker class="begin-verse" mid="v51001012">
+			</marker>
+			<v n="12">
+				giving thanks(4) 
+				<crossref let="x" cid="c51001012.23">
+				</crossref>
+				to the, 
+				<crossref let="y" cid="c51001012.24">
+				</crossref>
+				Father, who has qualified you(5) to share in the inheritance of the saints in light.
+				<note nid="n51001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v51001013">
+			</marker>
+			<v n="13">
+				He has 
+				<crossref let="z" cid="c51001013.25">
+				</crossref>
+				delivered us, 
+				<crossref let="a" cid="c51001013.26">
+				</crossref>
+				from the domain of darkness and transferred us to the kingdom of his beloved Son,
+			</v>
+			<marker class="begin-verse" mid="v51001014">
+			</marker>
+			<v n="14">
+				in whom 
+				<crossref let="b" cid="c51001014.27">
+				</crossref>
+				we have, 
+				<crossref let="c" cid="c51001014.28">
+				</crossref>
+				redemption, the forgiveness of sins. The Preeminence of Christ
+			</v>
+			<marker class="begin-verse" mid="v51001015">
+			</marker>
+			<v n="15">
+				He is 
+				<crossref let="d" cid="c51001015.29">
+				</crossref>
+				the image, 
+				<crossref let="e" cid="c51001015.30">
+				</crossref>
+				of the invisible God, the firstborn of all creation.
+				<note nid="n51001015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v51001016">
+			</marker>
+			<v n="16">
+				For by(6) 
+				<crossref let="f" cid="c51001016.31">
+				</crossref>
+				him all, 
+				<crossref let="g" cid="c51001016.32">
+				</crossref>
+				things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him.
+			</v>
+			<marker class="begin-verse" mid="v51001017">
+			</marker>
+			<v n="17">
+				And he 
+				<crossref let="h" cid="c51001017.33">
+				</crossref>
+				is before, 
+				<crossref let="i" cid="c51001017.34">
+				</crossref>
+				all things, and in him all things hold together.
+			</v>
+			<marker class="begin-verse" mid="v51001018">
+			</marker>
+			<v n="18">
+				And he 
+				<crossref let="j" cid="c51001018.35">
+				</crossref>
+				is the, 
+				<crossref let="k" cid="c51001018.36">
+				</crossref>
+				head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent.
+				<note nid="n51001018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v51001019">
+			</marker>
+			<v n="19">
+				For in 
+				<crossref let="l" cid="c51001019.37">
+				</crossref>
+				him all, 
+				<crossref let="m" cid="c51001019.38">
+				</crossref>
+				the fullness of God was pleased to dwell,
+			</v>
+			<marker class="begin-verse" mid="v51001020">
+			</marker>
+			<v n="20">
+				and through 
+				<crossref let="n" cid="c51001020.39">
+				</crossref>
+				him to, 
+				<crossref let="o" cid="c51001020.40">
+				</crossref>
+				reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross.
+			</v>
+			<marker class="begin-verse" mid="v51001021">
+			</marker>
+			<v n="21">
+				And you, 
+				<crossref let="p" cid="c51001021.41">
+				</crossref>
+				who once, 
+				<crossref let="q" cid="c51001021.42">
+				</crossref>
+				were alienated and hostile in mind, doing evil deeds,
+				<note nid="n51001021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v51001022">
+			</marker>
+			<v n="22">
+				he has 
+				<crossref let="r" cid="c51001022.43">
+				</crossref>
+				now reconciled, 
+				<crossref let="s" cid="c51001022.44">
+				</crossref>
+				in his body of flesh by his death, in order to present you holy and blameless and above reproach before him,
+			</v>
+			<marker class="begin-verse" mid="v51001023">
+			</marker>
+			<v n="23">
+				if indeed 
+				<crossref let="t" cid="c51001023.45">
+				</crossref>
+				you continue, 
+				<crossref let="u" cid="c51001023.46">
+				</crossref>
+				in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard, which has been proclaimed in all creation(7) under heaven, and of which I, Paul, became a minister. Paul’s Ministry to the Church
+			</v>
+			<marker class="begin-verse" mid="v51001024">
+			</marker>
+			<v n="24">
+				Now I 
+				<crossref let="v" cid="c51001024.47">
+				</crossref>
+				rejoice in, 
+				<crossref let="w" cid="c51001024.48">
+				</crossref>
+				my sufferings for your sake, and in my flesh I am filling up what is lacking in Christ’s afflictions for the sake of his body, that is, the church,
+				<note nid="n51001024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v51001025">
+			</marker>
+			<v n="25">
+				of which 
+				<crossref let="x" cid="c51001025.49">
+				</crossref>
+				I became, 
+				<crossref let="y" cid="c51001025.50">
+				</crossref>
+				a minister according to the stewardship from God that was given to me for you, to make the word of God fully known,
+			</v>
+			<marker class="begin-verse" mid="v51001026">
+			</marker>
+			<v n="26">
+				the mystery 
+				<crossref let="z" cid="c51001026.51">
+				</crossref>
+				hidden for, 
+				<crossref let="a" cid="c51001026.52">
+				</crossref>
+				ages and generations but now revealed to his saints.
+			</v>
+			<marker class="begin-verse" mid="v51001027">
+			</marker>
+			<v n="27">
+				To them 
+				<crossref let="b" cid="c51001027.53">
+				</crossref>
+				God chose, 
+				<crossref let="c" cid="c51001027.54">
+				</crossref>
+				to make known how great among the Gentiles are the riches of the glory of this mystery, which is Christ in you, the hope of glory.
+				<note nid="n51001027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v51001028">
+			</marker>
+			<v n="28">
+				Him we 
+				<crossref let="d" cid="c51001028.55">
+				</crossref>
+				proclaim, warning, 
+				<crossref let="e" cid="c51001028.56">
+				</crossref>
+				everyone and teaching everyone with all wisdom, that we may present everyone mature in Christ.
+			</v>
+			<marker class="begin-verse" mid="v51001029">
+			</marker>
+			<v n="29">
+				For this 
+				<crossref let="f" cid="c51001029.57">
+				</crossref>
+				I toil,, 
+				<crossref let="g" cid="c51001029.58">
+				</crossref>
+				struggling with all his energy that he powerfully works within me. Footnotes (1) 1:2 Or *brothers and sisters*. In New Testament usage, depending on the context, the plural Greek word *adelphoi* (translated “brothers”) may refer either to *brothers* or to *brothers and sisters* (2) 1:7 For the contextual rendering of the Greek word *sundoulos*, see Preface (3) 1:7 Some manuscripts *our* (4) 1:12 Or *patience, with joy giving thanks* (5) 1:12 Some manuscripts *us* (6) 1:16 That is, by means of; or *in* (7) 1:23 Or *to every creature* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v51001030">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

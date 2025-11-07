@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:47:19.999614</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:47:19.999622</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="ASV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01031001"/>
+		<chapter num="31">
+			<begin-paragraph/>
+			<v n="1">
+				And he 
+				<crossref let="b" cid="c010311.1"/>
+				 heard the words of Laban’s sons, saying, Jacob hath taken away all that was our father’s; and of that which was our father’s hath he gotten all this glory.
+			</v>
+			<marker class="begin-verse" mid="v01031002"/>
+			<v n="2">
+				And Jacob 
+				<crossref let="c" cid="c010312.1"/>
+				 beheld the countenance of Laban, and, behold, it was not toward him as beforetime.
+			</v>
+			<marker class="begin-verse" mid="v01031003"/>
+			<v n="3">
+				And Jehovah 
+				<crossref let="d" cid="c010313.1"/>
+				 said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.
+			</v>
+			<marker class="begin-verse" mid="v01031004"/>
+			<v n="4">
+				And Jacob 
+				<crossref let="e" cid="c010314.1"/>
+				 sent and called Rachel and Leah to the field unto his flock,
+			</v>
+			<marker class="begin-verse" mid="v01031005"/>
+			<v n="5">
+				and said 
+				<crossref let="f" cid="c010315.1"/>
+				 unto them, I see your father’s countenance, that it is not toward me as beforetime; but the God of my father hath been with me.
+			</v>
+			<marker class="begin-verse" mid="v01031006"/>
+			<v n="6">
+				And ye 
+				<crossref let="g" cid="c010316.1"/>
+				 know that with all my power I have served your father.
+			</v>
+			<marker class="begin-verse" mid="v01031007"/>
+			<v n="7">
+				And your 
+				<crossref let="h" cid="c010317.1"/>
+				 father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.
+			</v>
+			<marker class="begin-verse" mid="v01031008"/>
+			<v n="8">
+				If he 
+				<crossref let="i" cid="c010318.1"/>
+				 said thus, The speckled shall be thy wages; then all the flock bare speckled: and if he said thus, The ringstreaked shall be thy wages; then bare all the flock ringstreaked.
+			</v>
+			<marker class="begin-verse" mid="v01031009"/>
+			<v n="9">
+				Thus God 
+				<crossref let="j" cid="c010319.1"/>
+				 hath taken away the cattle of your father, and given them to me.
+			</v>
+			<marker class="begin-verse" mid="v01031010"/>
+			<v n="10">
+				And it 
+				<crossref let="k" cid="c0103110.1"/>
+				 came to pass at the time that the flock conceive, that I lifted up mine eyes, and saw in a dream, and, behold, the he-goats which leaped upon the flock were ringstreaked, speckled, and grizzled.
+			</v>
+			<marker class="begin-verse" mid="v01031011"/>
+			<v n="11">
+				And the 
+				<crossref let="l" cid="c0103111.1"/>
+				 angel of God said unto me in the dream, Jacob: and I said, Here am I.
+			</v>
+			<marker class="begin-verse" mid="v01031012"/>
+			<v n="12">
+				And he 
+				<crossref let="m" cid="c0103112.1"/>
+				 said, Lift up now thine eyes, and see: all the he-goats which leap upon the flock are ringstreaked, speckled, and grizzled: for I have seen all that Laban doeth unto thee.
+			</v>
+			<marker class="begin-verse" mid="v01031013"/>
+			<v n="13">
+				I am 
+				<crossref let="n" cid="c0103113.1"/>
+				 the God of Beth-el, where thou anointedst a pillar, where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy nativity.
+			</v>
+			<marker class="begin-verse" mid="v01031014"/>
+			<v n="14">
+				And Rachel 
+				<crossref let="o" cid="c0103114.1"/>
+				 and Leah answered and said unto him, Is there yet any portion or inheritance for us in our father’s house?
+			</v>
+			<marker class="begin-verse" mid="v01031015"/>
+			<v n="15">
+				Are we 
+				<crossref let="p" cid="c0103115.1"/>
+				 not accounted by him as foreigners? for he hath sold us, and hath also quite devoured our money.
+			</v>
+			<marker class="begin-verse" mid="v01031016"/>
+			<v n="16">
+				For all 
+				<crossref let="q" cid="c0103116.1"/>
+				 the riches which God hath taken away from our father, that is ours and our children’s: now then, whatsoever God hath said unto thee, do.
+			</v>
+			<marker class="begin-verse" mid="v01031017"/>
+			<v n="17">
+				Then Jacob 
+				<crossref let="r" cid="c0103117.1"/>
+				 rose up, and set his sons and his wives upon the camels;
+			</v>
+			<marker class="begin-verse" mid="v01031018"/>
+			<v n="18">
+				and he 
+				<crossref let="s" cid="c0103118.1"/>
+				 carried away all his cattle, and all his substance which he had gathered, the cattle of his getting, which he had gathered in Paddan-aram, to go to Isaac his father unto the land of Canaan.
+			</v>
+			<marker class="begin-verse" mid="v01031019"/>
+			<v n="19">
+				Now Laban 
+				<crossref let="t" cid="c0103119.1"/>
+				 was gone to shear his sheep: and Rachel stole the teraphim that were her father’s.
+			</v>
+			<marker class="begin-verse" mid="v01031020"/>
+			<v n="20">
+				And Jacob 
+				<crossref let="u" cid="c0103120.1"/>
+				 stole away unawares to Laban the Syrian, in that he told him not that he fled.
+			</v>
+			<marker class="begin-verse" mid="v01031021"/>
+			<v n="21">
+				So he 
+				<crossref let="v" cid="c0103121.1"/>
+				 fled with all that he had; and he rose up, and passed over the River, and set his face toward the mountain of Gilead.
+			</v>
+			<marker class="begin-verse" mid="v01031022"/>
+			<v n="22">
+				And it 
+				<crossref let="w" cid="c0103122.1"/>
+				 was told Laban on the third day that Jacob was fled.
+			</v>
+			<marker class="begin-verse" mid="v01031023"/>
+			<v n="23">
+				And he 
+				<crossref let="x" cid="c0103123.1"/>
+				 took his brethren with him, and pursued after him seven days’ journey; and he overtook him in the mountain of Gilead.
+			</v>
+			<marker class="begin-verse" mid="v01031024"/>
+			<v n="24">
+				And God 
+				<crossref let="y" cid="c0103124.1"/>
+				 came to Laban the Syrian in a dream of the night, and said unto him, Take heed to thyself that thou speak not to Jacob either good or bad.
+			</v>
+			<marker class="begin-verse" mid="v01031025"/>
+			<v n="25">
+				And Laban 
+				<crossref let="z" cid="c0103125.1"/>
+				 came up with Jacob. Now Jacob had pitched his tent in the mountain: and Laban with his brethren encamped in the mountain of Gilead.
+			</v>
+			<marker class="begin-verse" mid="v01031026"/>
+			<v n="26">
+				And Laban 
+				<crossref let="a" cid="c0103126.1"/>
+				 said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters as captives of the sword?
+			</v>
+			<marker class="begin-verse" mid="v01031027"/>
+			<v n="27">
+				Wherefore didst 
+				<crossref let="b" cid="c0103127.1"/>
+				 thou flee secretly, and steal away from me, and didst not tell me, that I might have sent thee away with mirth and with songs, with tabret and with harp;
+			</v>
+			<marker class="begin-verse" mid="v01031028"/>
+			<v n="28">
+				and didst 
+				<crossref let="c" cid="c0103128.1"/>
+				 not suffer me to kiss my sons and my daughters? now hast thou done foolishly.
+			</v>
+			<marker class="begin-verse" mid="v01031029"/>
+			<v n="29">
+				It is 
+				<crossref let="d" cid="c0103129.1"/>
+				 in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take heed to thyself that thou speak not to Jacob either good or bad.
+			</v>
+			<marker class="begin-verse" mid="v01031030"/>
+			<v n="30">
+				And now, 
+				<crossref let="e" cid="c0103130.1"/>
+				 though thou wouldest needs be gone, because thou sore longedst after thy father’s house, yet wherefore hast thou stolen my gods?
+			</v>
+			<marker class="begin-verse" mid="v01031031"/>
+			<v n="31">
+				And Jacob 
+				<crossref let="f" cid="c0103131.1"/>
+				 answered and said to Laban, Because I was afraid: for I said, Lest thou shouldest take thy daughters from me by force.
+			</v>
+			<marker class="begin-verse" mid="v01031032"/>
+			<v n="32">
+				With whomsoever 
+				<crossref let="g" cid="c0103132.1"/>
+				 thou findest thy gods, he shall not live: before our brethren discern thou what is thine with me, and take it to thee. For Jacob knew not that Rachel had stolen them.
+			</v>
+			<marker class="begin-verse" mid="v01031033"/>
+			<v n="33">
+				And Laban 
+				<crossref let="h" cid="c0103133.1"/>
+				 went into Jacob’s tent, and into Leah’s tent, and into the tent of the two maid-servants; but he found them not. And he went out of Leah’s tent, and entered into Rachel’s tent.
+			</v>
+			<marker class="begin-verse" mid="v01031034"/>
+			<v n="34">
+				Now Rachel 
+				<crossref let="i" cid="c0103134.1"/>
+				 had taken the teraphim, and put them in the camel’s saddle, and sat upon them. And Laban felt about all the tent, but found them not.
+			</v>
+			<marker class="begin-verse" mid="v01031035"/>
+			<v n="35">
+				And she 
+				<crossref let="j" cid="c0103135.1"/>
+				 said to her father, Let not my lord be angry that I cannot rise up before thee; for the manner of women is upon me. And he searched, but found not the teraphim.
+			</v>
+			<marker class="begin-verse" mid="v01031036"/>
+			<v n="36">
+				And Jacob 
+				<crossref let="k" cid="c0103136.1"/>
+				 was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that thou hast hotly pursued after me?
+			</v>
+			<marker class="begin-verse" mid="v01031037"/>
+			<v n="37">
+				Whereas thou 
+				<crossref let="l" cid="c0103137.1"/>
+				 hast felt about all my stuff, what hast thou found of all thy household stuff? Set it here before my brethren and thy brethren, that they may judge betwixt us two.
+			</v>
+			<marker class="begin-verse" mid="v01031038"/>
+			<v n="38">
+				These twenty 
+				<crossref let="m" cid="c0103138.1"/>
+				 years have I been with thee; thy ewes and thy she-goats have not cast their young, and the rams of thy flocks have I not eaten.
+			</v>
+			<marker class="begin-verse" mid="v01031039"/>
+			<v n="39">
+				That which 
+				<crossref let="n" cid="c0103139.1"/>
+				 was torn of beasts I brought not unto thee; I bare the loss of it; of my hand didst thou require it, whether stolen by day or stolen by night.
+			</v>
+			<marker class="begin-verse" mid="v01031040"/>
+			<v n="40">
+				Thus I 
+				<crossref let="o" cid="c0103140.1"/>
+				 was; in the day the drought consumed me, and the frost by night; and my sleep fled from mine eyes.
+			</v>
+			<marker class="begin-verse" mid="v01031041"/>
+			<v n="41">
+				These twenty 
+				<crossref let="p" cid="c0103141.1"/>
+				 years have I been in thy house; I served thee fourteen years for thy two daughters, and six years for thy flock: and thou hast changed my wages ten times.
+			</v>
+			<marker class="begin-verse" mid="v01031042"/>
+			<v n="42">
+				Except the 
+				<crossref let="q" cid="c0103142.1"/>
+				 God of my father, the God of Abraham, and the Fear of Isaac, had been with me, surely now hadst thou sent me away empty. God hath seen mine affliction and the labor of my hands, and rebuked thee yesternight.
+			</v>
+			<marker class="begin-verse" mid="v01031043"/>
+			<v n="43">
+				And Laban 
+				<crossref let="r" cid="c0103143.1"/>
+				 answered and said unto Jacob, The daughters are my daughters, and the children are my children, and the flocks are my flocks, and all that thou seest is mine: and what can I do this day unto these my daughters, or unto their children whom they have borne?
+			</v>
+			<marker class="begin-verse" mid="v01031044"/>
+			<v n="44">
+				And now 
+				<crossref let="s" cid="c0103144.1"/>
+				 come, let us make a covenant, I and thou; and let it be for a witness between me and thee.
+			</v>
+			<marker class="begin-verse" mid="v01031045"/>
+			<v n="45">
+				And Jacob 
+				<crossref let="t" cid="c0103145.1"/>
+				 took a stone, and set it up for a pillar.
+			</v>
+			<marker class="begin-verse" mid="v01031046"/>
+			<v n="46">
+				And Jacob 
+				<crossref let="u" cid="c0103146.1"/>
+				 said unto his brethren, Gather stones; and they took stones, and made a heap: and they did eat there by the heap.
+			</v>
+			<marker class="begin-verse" mid="v01031047"/>
+			<v n="47">
+				And Laban 
+				<crossref let="v" cid="c0103147.1"/>
+				 called it Jegar-saha-dutha: but Jacob called it Galeed.
+			</v>
+			<marker class="begin-verse" mid="v01031048"/>
+			<v n="48">
+				And Laban 
+				<crossref let="w" cid="c0103148.1"/>
+				 said, This heap is witness between me and thee this day. Therefore was the name of it called Galeed:
+			</v>
+			<marker class="begin-verse" mid="v01031049"/>
+			<v n="49">
+				and Mizpah, 
+				<crossref let="x" cid="c0103149.1"/>
+				 for he said, Jehovah watch between me and thee, when we are absent one from another.
+			</v>
+			<marker class="begin-verse" mid="v01031050"/>
+			<v n="50">
+				If thou 
+				<crossref let="y" cid="c0103150.1"/>
+				 shalt afflict my daughters, and if thou shalt take wives besides my daughters, no man is with us; see, God is witness betwixt me and thee.
+			</v>
+			<marker class="begin-verse" mid="v01031051"/>
+			<v n="51">
+				And Laban 
+				<crossref let="z" cid="c0103151.1"/>
+				 said to Jacob, Behold this heap, and behold the pillar, which I have set betwixt me and thee.
+			</v>
+			<marker class="begin-verse" mid="v01031052"/>
+			<v n="52">
+				This heap 
+				<crossref let="a" cid="c0103152.1"/>
+				 be witness, and the pillar be witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm.
+			</v>
+			<marker class="begin-verse" mid="v01031053"/>
+			<v n="53">
+				The God 
+				<crossref let="b" cid="c0103153.1"/>
+				 of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the Fear of his father Isaac.
+			</v>
+			<marker class="begin-verse" mid="v01031054"/>
+			<v n="54">
+				And Jacob 
+				<crossref let="c" cid="c0103154.1"/>
+				 offered a sacrifice in the mountain, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mountain.
+			</v>
+			<marker class="begin-verse" mid="v01031055"/>
+			<v n="55">
+				And early 
+				<crossref let="d" cid="c0103155.1"/>
+				 in the morning Laban rose up, and kissed his sons and his daughters, and blessed them: and Laban departed, and returned unto his place.
+			</v>
+			<marker class="begin-verse" mid="v01031056"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

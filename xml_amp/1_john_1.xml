@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:58:53.072314</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:58:53.072342</next_refresh_due>
+	</generation_info>
+	<book title="1 John" num="62" testament="new" version="AMP" bookAbbr="1jn">
+		<marker class="begin-verse" mid="v62001001"/>
+		<chapter num="1">
+			<heading>Introduction, The Incarnate Word</heading>
+			<begin-paragraph/>
+			<v n="1">
+				[I am 
+				<crossref let="b" cid="c620011.1"/>
+				 writing about] what existed from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and touched with our hands, concerning the Word of Life [the One who existed even before the beginning of the world, Christ]—
+			</v>
+			<marker class="begin-verse" mid="v62001002"/>
+			<v n="2">
+				and the 
+				<crossref let="c" cid="c620012.1"/>
+				 Life [an aspect of His being] was manifested, and we have seen [it as eyewitnesses] and testify and declare to you [the Life], the eternal Life who was [already existing] with the Father and was [actually] made visible to us [His followers]—
+			</v>
+			<marker class="begin-verse" mid="v62001003"/>
+			<v n="3">
+				what we 
+				<crossref let="d" cid="c620013.1"/>
+				 have seen and heard we also proclaim to you, so that you too may have fellowship [as partners] with us. And indeed our fellowship [which is a distinguishing mark of born-again believers] is with the Father, and with His Son Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v62001004"/>
+			<v n="4">
+				We are 
+				<crossref let="e" cid="c620014.1"/>
+				 writing these things to you so that our joy [in seeing you included] may be made complete [by having you share in the joy of salvation].God Is Light
+			</v>
+			<marker class="begin-verse" mid="v62001005"/>
+			<v n="5">
+				This is 
+				<crossref let="f" cid="c620015.1"/>
+				 the message [of God’s promised revelation] which we have heard from Him and now announce to you, that God is Light [He is holy, His message is truthful, He is perfect in righteousness], and in Him there is no darkness at all [no sin, no wickedness, no imperfection].
+			</v>
+			<marker class="begin-verse" mid="v62001006"/>
+			<v n="6">
+				If we 
+				<crossref let="g" cid="c620016.1"/>
+				 say that we have fellowship with Him and yet walk in the darkness [of sin], we lie and do not practice the truth;
+			</v>
+			<marker class="begin-verse" mid="v62001007"/>
+			<v n="7">
+				but if 
+				<crossref let="h" cid="c620017.1"/>
+				 we [really] walk in the Light [that is, live each and every day in conformity with the precepts of God], as He Himself is in the Light, we have [true, unbroken] fellowship with one another [He with us, and we with Him], and the blood of Jesus His Son cleanses us from all sin [by erasing the stain of sin, keeping us cleansed from sin in all its forms and manifestations].
+			</v>
+			<marker class="begin-verse" mid="v62001008"/>
+			<v n="8">
+				If we 
+				<crossref let="i" cid="c620018.1"/>
+				 say we have no sin [refusing to admit that we are sinners], we delude ourselves and the truth is not in us. [His word does not live in our hearts.]
+			</v>
+			<marker class="begin-verse" mid="v62001009"/>
+			<v n="9">
+				If we 
+				<crossref let="j" cid="c620019.1"/>
+				 [freely] admit that we have sinned and confess our sins, He is faithful and just [true to His own nature and promises], and will forgive our sins and cleanse us continually from all unrighteousness [our wrongdoing, everything not in conformity with His will and purpose].
+			</v>
+			<marker class="begin-verse" mid="v62001010"/>
+			<v n="10">
+				If we 
+				<crossref let="k" cid="c6200110.1"/>
+				 say that we have not sinned [refusing to admit acts of sin], we make Him [out to be] a liar [by contradicting Him] and His word is not in us.
+			</v>
+			<marker class="begin-verse" mid="v62001011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

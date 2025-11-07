@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:08.360764</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:08.360773</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" bookAbbr="pro" version="ESV">
+		<marker class="begin-verse" mid="v20019001">
+		</marker>
+		<chapter num="19">
+			<heading>
+				Proverbs 19
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Better is 
+				<crossref let="b" cid="c20019001.1">
+				</crossref>
+				a poor, 
+				<crossref let="c" cid="c20019001.2">
+				</crossref>
+				person who walks in his integrity than one who is crooked in speech and is a fool.
+			</v>
+			<marker class="begin-verse" mid="v20019002">
+			</marker>
+			<v n="2">
+				Desire(1) without 
+				<crossref let="d" cid="c20019002.3">
+				</crossref>
+				knowledge is, 
+				<crossref let="e" cid="c20019002.4">
+				</crossref>
+				not good, and whoever makes haste with his feet misses his way.
+			</v>
+			<marker class="begin-verse" mid="v20019003">
+			</marker>
+			<v n="3">
+				When a 
+				<crossref let="f" cid="c20019003.5">
+				</crossref>
+				man’s folly, 
+				<crossref let="g" cid="c20019003.6">
+				</crossref>
+				brings his way to ruin, his heart rages against the LORD.
+				<note nid="n20019003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v20019004">
+			</marker>
+			<v n="4">
+				Wealth brings 
+				<crossref let="h" cid="c20019004.7">
+				</crossref>
+				many new, 
+				<crossref let="i" cid="c20019004.8">
+				</crossref>
+				friends, but a poor man is deserted by his friend.
+			</v>
+			<marker class="begin-verse" mid="v20019005">
+			</marker>
+			<v n="5">
+				A false 
+				<crossref let="j" cid="c20019005.9">
+				</crossref>
+				witness will, 
+				<crossref let="k" cid="c20019005.10">
+				</crossref>
+				not go unpunished, and he who breathes out lies will not escape.
+			</v>
+			<marker class="begin-verse" mid="v20019006">
+			</marker>
+			<v n="6">
+				Many seek 
+				<crossref let="l" cid="c20019006.11">
+				</crossref>
+				the favor, 
+				<crossref let="m" cid="c20019006.12">
+				</crossref>
+				of a generous man,(2) and everyone is a friend to a man who gives gifts.
+				<note nid="n20019006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v20019007">
+			</marker>
+			<v n="7">
+				All a 
+				<crossref let="n" cid="c20019007.13">
+				</crossref>
+				poor man’s, 
+				<crossref let="o" cid="c20019007.14">
+				</crossref>
+				brothers hate him; how much more do his friends go far from him! He pursues them with words, but does not have them.(3)
+			</v>
+			<marker class="begin-verse" mid="v20019008">
+			</marker>
+			<v n="8">
+				Whoever gets 
+				<crossref let="p" cid="c20019008.15">
+				</crossref>
+				sense loves, 
+				<crossref let="q" cid="c20019008.16">
+				</crossref>
+				his own soul; he who keeps understanding will discover good.
+			</v>
+			<marker class="begin-verse" mid="v20019009">
+			</marker>
+			<v n="9">
+				A false 
+				<crossref let="r" cid="c20019009.17">
+				</crossref>
+				witness will, 
+				<crossref let="s" cid="c20019009.18">
+				</crossref>
+				not go unpunished, and he who breathes out lies will perish.
+				<note nid="n20019009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v20019010">
+			</marker>
+			<v n="10">
+				It is 
+				<crossref let="t" cid="c20019010.19">
+				</crossref>
+				not fitting, 
+				<crossref let="u" cid="c20019010.20">
+				</crossref>
+				for a fool to live in luxury, much less for a slave to rule over princes.
+			</v>
+			<marker class="begin-verse" mid="v20019011">
+			</marker>
+			<v n="11">
+				Good sense 
+				<crossref let="v" cid="c20019011.21">
+				</crossref>
+				makes one, 
+				<crossref let="w" cid="c20019011.22">
+				</crossref>
+				slow to anger, and it is his glory to overlook an offense.
+			</v>
+			<marker class="begin-verse" mid="v20019012">
+			</marker>
+			<v n="12">
+				A king’s 
+				<crossref let="x" cid="c20019012.23">
+				</crossref>
+				wrath is, 
+				<crossref let="y" cid="c20019012.24">
+				</crossref>
+				like the growling of a lion, but his favor is like dew on the grass.
+				<note nid="n20019012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v20019013">
+			</marker>
+			<v n="13">
+				A foolish 
+				<crossref let="z" cid="c20019013.25">
+				</crossref>
+				son is, 
+				<crossref let="a" cid="c20019013.26">
+				</crossref>
+				ruin to his father, and a wife’s quarreling is a continual dripping of rain.
+			</v>
+			<marker class="begin-verse" mid="v20019014">
+			</marker>
+			<v n="14">
+				House and 
+				<crossref let="b" cid="c20019014.27">
+				</crossref>
+				wealth are, 
+				<crossref let="c" cid="c20019014.28">
+				</crossref>
+				inherited from fathers, but a prudent wife is from the LORD.
+			</v>
+			<marker class="begin-verse" mid="v20019015">
+			</marker>
+			<v n="15">
+				Slothfulness casts 
+				<crossref let="d" cid="c20019015.29">
+				</crossref>
+				into a, 
+				<crossref let="e" cid="c20019015.30">
+				</crossref>
+				deep sleep, and an idle person will suffer hunger.
+				<note nid="n20019015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v20019016">
+			</marker>
+			<v n="16">
+				Whoever keeps 
+				<crossref let="f" cid="c20019016.31">
+				</crossref>
+				the commandment, 
+				<crossref let="g" cid="c20019016.32">
+				</crossref>
+				keeps his life; he who despises his ways will die.
+			</v>
+			<marker class="begin-verse" mid="v20019017">
+			</marker>
+			<v n="17">
+				Whoever is 
+				<crossref let="h" cid="c20019017.33">
+				</crossref>
+				generous to, 
+				<crossref let="i" cid="c20019017.34">
+				</crossref>
+				the poor lends to the LORD, and he will repay him for his deed.
+			</v>
+			<marker class="begin-verse" mid="v20019018">
+			</marker>
+			<v n="18">
+				Discipline your 
+				<crossref let="j" cid="c20019018.35">
+				</crossref>
+				son, for, 
+				<crossref let="k" cid="c20019018.36">
+				</crossref>
+				there is hope; do not set your heart on putting him to death.
+				<note nid="n20019018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v20019019">
+			</marker>
+			<v n="19">
+				A man 
+				<crossref let="l" cid="c20019019.37">
+				</crossref>
+				of great, 
+				<crossref let="m" cid="c20019019.38">
+				</crossref>
+				wrath will pay the penalty, for if you deliver him, you will only have to do it again.
+			</v>
+			<marker class="begin-verse" mid="v20019020">
+			</marker>
+			<v n="20">
+				Listen to 
+				<crossref let="n" cid="c20019020.39">
+				</crossref>
+				advice and, 
+				<crossref let="o" cid="c20019020.40">
+				</crossref>
+				accept instruction, that you may gain wisdom in the future.
+			</v>
+			<marker class="begin-verse" mid="v20019021">
+			</marker>
+			<v n="21">
+				Many are 
+				<crossref let="p" cid="c20019021.41">
+				</crossref>
+				the plans, 
+				<crossref let="q" cid="c20019021.42">
+				</crossref>
+				in the mind of a man, but it is the purpose of the LORD that will stand.
+				<note nid="n20019021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v20019022">
+			</marker>
+			<v n="22">
+				What is 
+				<crossref let="r" cid="c20019022.43">
+				</crossref>
+				desired in, 
+				<crossref let="s" cid="c20019022.44">
+				</crossref>
+				a man is steadfast love, and a poor man is better than a liar.
+			</v>
+			<marker class="begin-verse" mid="v20019023">
+			</marker>
+			<v n="23">
+				The fear 
+				<crossref let="t" cid="c20019023.45">
+				</crossref>
+				of the, 
+				<crossref let="u" cid="c20019023.46">
+				</crossref>
+				LORD leads to life, and whoever has it rests satisfied; he will not be visited by harm.
+			</v>
+			<marker class="begin-verse" mid="v20019024">
+			</marker>
+			<v n="24">
+				The sluggard 
+				<crossref let="v" cid="c20019024.47">
+				</crossref>
+				buries his, 
+				<crossref let="w" cid="c20019024.48">
+				</crossref>
+				hand in the dish and will not even bring it back to his mouth.
+				<note nid="n20019024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v20019025">
+			</marker>
+			<v n="25">
+				Strike a 
+				<crossref let="x" cid="c20019025.49">
+				</crossref>
+				scoffer, and, 
+				<crossref let="y" cid="c20019025.50">
+				</crossref>
+				the simple will learn prudence; reprove a man of understanding, and he will gain knowledge.
+			</v>
+			<marker class="begin-verse" mid="v20019026">
+			</marker>
+			<v n="26">
+				He who 
+				<crossref let="z" cid="c20019026.51">
+				</crossref>
+				does violence, 
+				<crossref let="a" cid="c20019026.52">
+				</crossref>
+				to his father and chases away his mother is a son who brings shame and reproach.
+			</v>
+			<marker class="begin-verse" mid="v20019027">
+			</marker>
+			<v n="27">
+				Cease to 
+				<crossref let="b" cid="c20019027.53">
+				</crossref>
+				hear instruction,, 
+				<crossref let="c" cid="c20019027.54">
+				</crossref>
+				my son, and you will stray from the words of knowledge.
+				<note nid="n20019027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v20019028">
+			</marker>
+			<v n="28">
+				A worthless 
+				<crossref let="d" cid="c20019028.55">
+				</crossref>
+				witness mocks, 
+				<crossref let="e" cid="c20019028.56">
+				</crossref>
+				at justice, and the mouth of the wicked devours iniquity.
+			</v>
+			<marker class="begin-verse" mid="v20019029">
+			</marker>
+			<v n="29">
+				Condemnation is 
+				<crossref let="f" cid="c20019029.57">
+				</crossref>
+				ready for, 
+				<crossref let="g" cid="c20019029.58">
+				</crossref>
+				scoffers, and beating for the backs of fools. Footnotes (1) 19:2 Or *A soul* (2) 19:6 Or *of a noble* (3) 19:7 The meaning of the Hebrew sentence is uncertain (ESV)
+			</v>
+			<marker class="begin-verse" mid="v20019030">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

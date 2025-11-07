@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:53:56.659015</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:53:56.659036</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19110001"/>
+		<chapter num="110">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The Lord 
+				<crossref let="b" cid="c191101.1"/>
+				 said to my Lord,“Sit in the place of honor at my right handuntil I humble your enemies,making them a footstool under your feet.”
+			</v>
+			<marker class="begin-verse" mid="v19110002"/>
+			<v n="2">
+				The Lord 
+				<crossref let="c" cid="c191102.1"/>
+				 will extend your powerful kingdom from Jerusalem;you will rule over your enemies.
+			</v>
+			<marker class="begin-verse" mid="v19110003"/>
+			<v n="3">
+				When you 
+				<crossref let="d" cid="c191103.1"/>
+				 go to war,your people will serve you willingly.You are arrayed in holy garments,and your strength will be renewed each day like the morning dew.
+			</v>
+			<marker class="begin-verse" mid="v19110004"/>
+			<v n="4">
+				The Lord 
+				<crossref let="e" cid="c191104.1"/>
+				 has taken an oath and will not break his vow:“You are a priest forever in the order of Melchizedek.”
+			</v>
+			<marker class="begin-verse" mid="v19110005"/>
+			<v n="5">
+				The Lord 
+				<crossref let="f" cid="c191105.1"/>
+				 stands at your right hand to protect you.He will strike down many kings when his anger erupts.
+			</v>
+			<marker class="begin-verse" mid="v19110006"/>
+			<v n="6">
+				He will 
+				<crossref let="g" cid="c191106.1"/>
+				 punish the nationsand fill their lands with corpses;he will shatter heads over the whole earth.
+			</v>
+			<marker class="begin-verse" mid="v19110007"/>
+			<v n="7">
+				But he 
+				<crossref let="h" cid="c191107.1"/>
+				 himself will be refreshed from brooks along the way.He will be victorious.
+			</v>
+			<marker class="begin-verse" mid="v19110008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -7,16 +7,70 @@ import json
 import re
 from html import unescape
 
+def fetch_bible_metadata(version, api_key):
+    """Fetch Bible metadata including copyright information from API.Bible."""
+    
+    # Map of API.Bible IDs for different versions
+    bible_ids = {
+        "KJV": "de4e12af7f28f599-02",  # King James (Authorized) Version
+        "NKJV": "63097d2a0a2f7db3-01",  # New King James Version ✅ CORRECT ID
+        "NIV": "78a9f6124f344018-01",   # New International Version (NOT AVAILABLE via API.Bible)
+        "AMP": "a81b73293d3080c9-01",   # Amplified Bible ✅ CORRECT ID
+        "NLT": "d6e14a625393b4da-01",   # New Living Translation ✅ PREMIUM ACCESS
+        "MSG": "65eec8e0b60e656b-01",   # The Message Bible (may require subscription)
+        "WEB": "9879dbb7cfe39e4d-01",   # World English Bible (Free)
+        "ASV": "06125adad2d5898a-01",   # American Standard Version (Free)
+        "BSB": "bba9f40183526463-01",   # Berean Standard Bible (Free)
+        "CEV": "555fef9a6cb31151-01",   # Contemporary English Version (Free)
+        "FBV": "65eec8e0b60e656b-01",   # Free Bible Version (Free)
+        "GNV": "c315fa9f71d4af3a-01",   # Geneva Bible (Free)
+        "DRA": "179568874c45066f-01",   # Douay-Rheims American 1899 (Free)
+        "BRS": "6bab4d6c61b31b80-01",   # Brenton English Septuagint (Free)
+        "LSV": "01b29f4b342acc35-01"    # Literal Standard Version (Free)
+    }
+    
+    bible_id = bible_ids.get(version)
+    if not bible_id:
+        return None
+    
+    url = f"https://rest.api.bible/v1/bibles/{bible_id}"
+    headers = {"api-key": api_key}
+    
+    response = requests.get(url, headers=headers)
+    if response.status_code == 200:
+        data = response.json()
+        bible_info = data["data"]
+        return {
+            "name": bible_info.get("name", ""),
+            "abbreviation": bible_info.get("abbreviation", version),
+            "copyright": bible_info.get("copyright", ""),
+            "description": bible_info.get("description", ""),
+            "updated_at": bible_info.get("updatedAt", "")
+        }
+    else:
+        print(f"Error fetching metadata for {version}: {response.status_code}")
+        return None
+
 def fetch_api_bible_chapter_content(version, book_abbr, chapter, api_key):
     """Fetch Bible content from API.Bible."""
     
     # Map of API.Bible IDs for different versions
     bible_ids = {
         "KJV": "de4e12af7f28f599-02",  # King James (Authorized) Version
-        "NKJV": "19d8628a61a1936c-01", # New King James Version
-        "NIV": "78a9f6124f344018-01",  # New International Version
-        "AMP": "08a79c72d7abd6e8-01",  # Amplified Bible
-        "MSG": "65eec8e0b60e656b-01"   # The Message Bible
+        "NKJV": "63097d2a0a2f7db3-01",  # New King James Version ✅ CORRECT ID
+        "NIV": "78a9f6124f344018-01",   # New International Version (NOT AVAILABLE via API.Bible)
+        "AMP": "a81b73293d3080c9-01",   # Amplified Bible ✅ CORRECT ID
+        "NLT": "d6e14a625393b4da-01",   # New Living Translation ✅ PREMIUM ACCESS
+        "MSG": "65eec8e0b60e656b-01",   # The Message Bible (may require subscription)
+        "WEB": "9879dbb7cfe39e4d-01",   # World English Bible (Free)
+        "ASV": "06125adad2d5898a-01",   # American Standard Version (Free)
+        "BSB": "bba9f40183526463-01",   # Berean Standard Bible (Free)
+        "CEV": "555fef9a6cb31151-01",   # Contemporary English Version (Free)
+        "FBV": "65eec8e0b60e656b-01",   # Free Bible Version (Free)
+        "GNV": "c315fa9f71d4af3a-01",   # Geneva Bible (Free)
+        "DRA": "179568874c45066f-01",   # Douay-Rheims American 1899 (Free)
+        "BRS": "6bab4d6c61b31b80-01",   # Brenton English Septuagint (Free)
+        "LSV": "01b29f4b342acc35-01"    # Literal Standard Version (Free)
     }
     
     bible_id = bible_ids.get(version)
@@ -51,7 +105,7 @@ def fetch_api_bible_chapter_content(version, book_abbr, chapter, api_key):
     
     # IMPORTANT: API.Bible uses a different URL format than what you're using
     # The correct format is /bibles/{bibleId}/chapters/{bookId}.{chapter}
-    url = f"https://api.scripture.api.bible/v1/bibles/{bible_id}/chapters/{book_id}.{chapter}"
+    url = f"https://rest.api.bible/v1/bibles/{bible_id}/chapters/{book_id}.{chapter}"
     
     headers = {
         "api-key": api_key
@@ -66,8 +120,8 @@ def fetch_api_bible_chapter_content(version, book_abbr, chapter, api_key):
         content = data["data"]["content"]
         
         # API.Bible returns HTML content that needs to be parsed
-        # Remove HTML tags but keep verse numbers
-        content = re.sub(r'<span data-number="(\d+)" class="v">(\d+)</span>', r'\1 ', content)
+        # Convert span verse markers to numbered lines
+        content = re.sub(r'<span[^>]*data-number="(\d+)"[^>]*class="v"[^>]*>\d+</span>', r'\n\1 ', content)
         content = re.sub(r'<h3[^>]*>(.*?)</h3>', r'\1\n', content)
         content = re.sub(r'<[^>]+>', '', content)
         content = unescape(content)
@@ -78,11 +132,44 @@ def fetch_api_bible_chapter_content(version, book_abbr, chapter, api_key):
         print(f"Response: {response.text}")  # Print full error response
         return None
 
-def create_detailed_chapter_xml(version, book_info, chapter_num, content):
+def create_detailed_chapter_xml(version, book_info, chapter_num, content, bible_metadata=None):
     """Convert chapter content to XML structure matching the target format."""
     
     # Create root elements
-    root = ET.Element("bible", {"version": version})
+    root = ET.Element("bible")
+    
+    # Add copyright attribution if metadata is available
+    if bible_metadata and bible_metadata.get("copyright"):
+        copyright_elem = ET.SubElement(root, "copyright")
+        copyright_text = bible_metadata["copyright"]
+        # Format according to API.Bible Terms of Service requirements
+        if "PUBLIC DOMAIN" not in copyright_text.upper():
+            formatted_copyright = f"Scripture quotations marked {version} are taken from {bible_metadata.get('name', version)}. {copyright_text}"
+        else:
+            formatted_copyright = f"{bible_metadata.get('name', version)} - {copyright_text}"
+        copyright_elem.text = formatted_copyright
+        
+        # Add metadata elements
+        metadata_elem = ET.SubElement(root, "metadata")
+        if bible_metadata.get("name"):
+            name_elem = ET.SubElement(metadata_elem, "name")
+            name_elem.text = bible_metadata["name"]
+        if bible_metadata.get("abbreviation"):
+            abbr_elem = ET.SubElement(metadata_elem, "abbreviation")
+            abbr_elem.text = bible_metadata["abbreviation"]
+        if bible_metadata.get("updated_at"):
+            updated_elem = ET.SubElement(metadata_elem, "last_updated")
+            updated_elem.text = bible_metadata["updated_at"]
+    
+    # Add generation info for compliance tracking
+    import datetime
+    generation_elem = ET.SubElement(root, "generation_info")
+    gen_date_elem = ET.SubElement(generation_elem, "generated_date")
+    gen_date_elem.text = datetime.datetime.now().isoformat()
+    compliance_elem = ET.SubElement(generation_elem, "api_compliance")
+    compliance_elem.text = "API.Bible Terms of Service - 30-day refresh requirement"
+    next_refresh_elem = ET.SubElement(generation_elem, "next_refresh_due")
+    next_refresh_elem.text = (datetime.datetime.now() + datetime.timedelta(days=30)).isoformat()
     
     # Create book element with attributes
     book = ET.SubElement(root, "book", {
@@ -181,7 +268,7 @@ def save_xml_file(tree, output_path):
     print(f"  Saved: {os.path.basename(output_path)}")
 
 def get_available_bibles(api_key):
-    url = "https://api.scripture.api.bible/v1/bibles"
+    url = "https://rest.api.bible/v1/bibles"
     headers = {"api-key": api_key}
     response = requests.get(url, headers=headers)
     if response.status_code == 200:
@@ -192,16 +279,53 @@ def get_available_bibles(api_key):
 
 def main():
     # API.Bible API key
-    api_bible_key = "8c29820374c66aa96f914a9376b808e2"
+    api_bible_key = "pyExkJPN1XXpoJ39Xa8Xi"  # Premium API key with access to NKJV, AMP, NLT
     
-    # Versions to process
-    versions = ["KJV", "NIV", "NKJV", "AMP", 'MSG']
+    # Versions to process - 11 free versions + 3 premium (NKJV, AMP, NLT). Note: NIV not available via API.Bible
+    versions = ["KJV", "WEB", "ASV", "BSB", "CEV", "FBV", "GNV", "DRA", "BRS", "LSV", "MSG", "NKJV", "AMP", "NLT"]
     
-    # Complete Bible book information
+    # Complete Bible book information (all 66 books)
     books = [
         # Old Testament
         {"id": 1, "num": 1, "title": "Genesis", "testament": "old", "abbr": "gen"},
         {"id": 2, "num": 2, "title": "Exodus", "testament": "old", "abbr": "exo"},
+        {"id": 3, "num": 3, "title": "Leviticus", "testament": "old", "abbr": "lev"},
+        {"id": 4, "num": 4, "title": "Numbers", "testament": "old", "abbr": "num"},
+        {"id": 5, "num": 5, "title": "Deuteronomy", "testament": "old", "abbr": "deu"},
+        {"id": 6, "num": 6, "title": "Joshua", "testament": "old", "abbr": "jos"},
+        {"id": 7, "num": 7, "title": "Judges", "testament": "old", "abbr": "jdg"},
+        {"id": 8, "num": 8, "title": "Ruth", "testament": "old", "abbr": "rut"},
+        {"id": 9, "num": 9, "title": "1 Samuel", "testament": "old", "abbr": "1sa"},
+        {"id": 10, "num": 10, "title": "2 Samuel", "testament": "old", "abbr": "2sa"},
+        {"id": 11, "num": 11, "title": "1 Kings", "testament": "old", "abbr": "1ki"},
+        {"id": 12, "num": 12, "title": "2 Kings", "testament": "old", "abbr": "2ki"},
+        {"id": 13, "num": 13, "title": "1 Chronicles", "testament": "old", "abbr": "1ch"},
+        {"id": 14, "num": 14, "title": "2 Chronicles", "testament": "old", "abbr": "2ch"},
+        {"id": 15, "num": 15, "title": "Ezra", "testament": "old", "abbr": "ezr"},
+        {"id": 16, "num": 16, "title": "Nehemiah", "testament": "old", "abbr": "neh"},
+        {"id": 17, "num": 17, "title": "Esther", "testament": "old", "abbr": "est"},
+        {"id": 18, "num": 18, "title": "Job", "testament": "old", "abbr": "job"},
+        {"id": 19, "num": 19, "title": "Psalms", "testament": "old", "abbr": "psa"},
+        {"id": 20, "num": 20, "title": "Proverbs", "testament": "old", "abbr": "pro"},
+        {"id": 21, "num": 21, "title": "Ecclesiastes", "testament": "old", "abbr": "ecc"},
+        {"id": 22, "num": 22, "title": "Song of Solomon", "testament": "old", "abbr": "sng"},
+        {"id": 23, "num": 23, "title": "Isaiah", "testament": "old", "abbr": "isa"},
+        {"id": 24, "num": 24, "title": "Jeremiah", "testament": "old", "abbr": "jer"},
+        {"id": 25, "num": 25, "title": "Lamentations", "testament": "old", "abbr": "lam"},
+        {"id": 26, "num": 26, "title": "Ezekiel", "testament": "old", "abbr": "ezk"},
+        {"id": 27, "num": 27, "title": "Daniel", "testament": "old", "abbr": "dan"},
+        {"id": 28, "num": 28, "title": "Hosea", "testament": "old", "abbr": "hos"},
+        {"id": 29, "num": 29, "title": "Joel", "testament": "old", "abbr": "jol"},
+        {"id": 30, "num": 30, "title": "Amos", "testament": "old", "abbr": "amo"},
+        {"id": 31, "num": 31, "title": "Obadiah", "testament": "old", "abbr": "oba"},
+        {"id": 32, "num": 32, "title": "Jonah", "testament": "old", "abbr": "jon"},
+        {"id": 33, "num": 33, "title": "Micah", "testament": "old", "abbr": "mic"},
+        {"id": 34, "num": 34, "title": "Nahum", "testament": "old", "abbr": "nah"},
+        {"id": 35, "num": 35, "title": "Habakkuk", "testament": "old", "abbr": "hab"},
+        {"id": 36, "num": 36, "title": "Zephaniah", "testament": "old", "abbr": "zep"},
+        {"id": 37, "num": 37, "title": "Haggai", "testament": "old", "abbr": "hag"},
+        {"id": 38, "num": 38, "title": "Zechariah", "testament": "old", "abbr": "zec"},
+        {"id": 39, "num": 39, "title": "Malachi", "testament": "old", "abbr": "mal"},
         # New Testament
         {"id": 40, "num": 40, "title": "Matthew", "testament": "new", "abbr": "mat"},
         {"id": 41, "num": 41, "title": "Mark", "testament": "new", "abbr": "mrk"},
@@ -209,7 +333,27 @@ def main():
         {"id": 43, "num": 43, "title": "John", "testament": "new", "abbr": "jhn"},
         {"id": 44, "num": 44, "title": "Acts", "testament": "new", "abbr": "act"},
         {"id": 45, "num": 45, "title": "Romans", "testament": "new", "abbr": "rom"},
-        # ... more books
+        {"id": 46, "num": 46, "title": "1 Corinthians", "testament": "new", "abbr": "1co"},
+        {"id": 47, "num": 47, "title": "2 Corinthians", "testament": "new", "abbr": "2co"},
+        {"id": 48, "num": 48, "title": "Galatians", "testament": "new", "abbr": "gal"},
+        {"id": 49, "num": 49, "title": "Ephesians", "testament": "new", "abbr": "eph"},
+        {"id": 50, "num": 50, "title": "Philippians", "testament": "new", "abbr": "php"},
+        {"id": 51, "num": 51, "title": "Colossians", "testament": "new", "abbr": "col"},
+        {"id": 52, "num": 52, "title": "1 Thessalonians", "testament": "new", "abbr": "1th"},
+        {"id": 53, "num": 53, "title": "2 Thessalonians", "testament": "new", "abbr": "2th"},
+        {"id": 54, "num": 54, "title": "1 Timothy", "testament": "new", "abbr": "1ti"},
+        {"id": 55, "num": 55, "title": "2 Timothy", "testament": "new", "abbr": "2ti"},
+        {"id": 56, "num": 56, "title": "Titus", "testament": "new", "abbr": "tit"},
+        {"id": 57, "num": 57, "title": "Philemon", "testament": "new", "abbr": "phm"},
+        {"id": 58, "num": 58, "title": "Hebrews", "testament": "new", "abbr": "heb"},
+        {"id": 59, "num": 59, "title": "James", "testament": "new", "abbr": "jas"},
+        {"id": 60, "num": 60, "title": "1 Peter", "testament": "new", "abbr": "1pe"},
+        {"id": 61, "num": 61, "title": "2 Peter", "testament": "new", "abbr": "2pe"},
+        {"id": 62, "num": 62, "title": "1 John", "testament": "new", "abbr": "1jn"},
+        {"id": 63, "num": 63, "title": "2 John", "testament": "new", "abbr": "2jn"},
+        {"id": 64, "num": 64, "title": "3 John", "testament": "new", "abbr": "3jn"},
+        {"id": 65, "num": 65, "title": "Jude", "testament": "new", "abbr": "jud"},
+        {"id": 66, "num": 66, "title": "Revelation", "testament": "new", "abbr": "rev"}
     ]
     
     # For testing with a smaller subset
@@ -260,7 +404,10 @@ def main():
         selected_books = test_books
     
     # Ask user which versions to process
-    print("\nAvailable versions: KJV, NIV, NKJV, AMP")
+    print("\nAvailable versions:")
+    print("FREE: KJV, WEB, ASV, BSB, CEV, FBV, GNV, DRA, BRS, LSV, MSG")
+    print("PREMIUM (with subscription): NKJV, AMP, NLT")
+    print("NOTE: NIV is not available through API.Bible")
     selected_versions = input("Enter versions to process (comma-separated, or 'all'): ")
     if selected_versions.lower() == 'all':
         selected_versions = versions
@@ -281,6 +428,14 @@ def main():
         version_dir = os.path.join(base_dir, version.lower())
         os.makedirs(version_dir, exist_ok=True)
         
+        # Fetch Bible metadata once per version for copyright compliance
+        print(f"\nFetching metadata for {version}...")
+        bible_metadata = fetch_bible_metadata(version, api_bible_key)
+        if bible_metadata:
+            print(f"  {bible_metadata['name']}")
+            if bible_metadata['copyright']:
+                print(f"  Copyright: {bible_metadata['copyright'][:100]}...")
+        
         for book in selected_books:
             print(f"\nProcessing {book['title']} for {version}...")
             
@@ -295,16 +450,16 @@ def main():
                 content = fetch_api_bible_chapter_content(version, book['abbr'], chapter_num, api_bible_key)
                 
                 if content:
-                    # Create XML structure using the updated detailed function
-                    xml_tree = create_detailed_chapter_xml(version, book, chapter_num, content)
+                    # Create XML structure with copyright metadata
+                    xml_tree = create_detailed_chapter_xml(version, book, chapter_num, content, bible_metadata)
                     
                     # Save to file - use lowercase title instead of abbreviation
                     safe_title = book['title'].lower().replace(' ', '_')
                     output_file = os.path.join(version_dir, f"{safe_title}_{chapter_num}.xml")
                     save_xml_file(xml_tree, output_file)
                     
-                    # Be nice to the API - don't hammer it with requests
-                    time.sleep(5)
+                    # Be nice to the API - don't hammer it with requests (reduced to 2 seconds)
+                    time.sleep(2)
                 else:
                     print(f"  Failed to fetch content for {book['title']} {chapter_num}")
         

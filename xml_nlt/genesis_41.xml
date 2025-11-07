@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:05:07.916698</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:05:07.916712</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="NLT" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01041001"/>
+		<chapter num="41">
+			<heading>Pharaoh’s Dreams</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Two full 
+				<crossref let="b" cid="c010411.1"/>
+				 years later, Pharaoh dreamed that he was standing on the bank of the Nile River.
+			</v>
+			<marker class="begin-verse" mid="v01041002"/>
+			<v n="2">
+				In his 
+				<crossref let="c" cid="c010412.1"/>
+				 dream he saw seven fat, healthy cows come up out of the river and begin grazing in the marsh grass.
+			</v>
+			<marker class="begin-verse" mid="v01041003"/>
+			<v n="3">
+				Then he 
+				<crossref let="d" cid="c010413.1"/>
+				 saw seven more cows come up behind them from the Nile, but these were scrawny and thin. These cows stood beside the fat cows on the riverbank.
+			</v>
+			<marker class="begin-verse" mid="v01041004"/>
+			<v n="4">
+				Then the 
+				<crossref let="e" cid="c010414.1"/>
+				 scrawny, thin cows ate the seven healthy, fat cows! At this point in the dream, Pharaoh woke up.
+			</v>
+			<marker class="begin-verse" mid="v01041005"/>
+			<v n="5">
+				But he 
+				<crossref let="f" cid="c010415.1"/>
+				 fell asleep again and had a second dream. This time he saw seven heads of grain, plump and beautiful, growing on a single stalk.
+			</v>
+			<marker class="begin-verse" mid="v01041006"/>
+			<v n="6">
+				Then seven 
+				<crossref let="g" cid="c010416.1"/>
+				 more heads of grain appeared, but these were shriveled and withered by the east wind.
+			</v>
+			<marker class="begin-verse" mid="v01041007"/>
+			<v n="7">
+				And these 
+				<crossref let="h" cid="c010417.1"/>
+				 thin heads swallowed up the seven plump, well-formed heads! Then Pharaoh woke up again and realized it was a dream.
+			</v>
+			<marker class="begin-verse" mid="v01041008"/>
+			<v n="8">
+				The next 
+				<crossref let="i" cid="c010418.1"/>
+				 morning Pharaoh was very disturbed by the dreams. So he called for all the magicians and wise men of Egypt. When Pharaoh told them his dreams, not one of them could tell him what they meant.
+			</v>
+			<marker class="begin-verse" mid="v01041009"/>
+			<v n="9">
+				Finally, the 
+				<crossref let="j" cid="c010419.1"/>
+				 king’s chief cup-bearer spoke up. “Today I have been reminded of my failure,” he told Pharaoh.
+			</v>
+			<marker class="begin-verse" mid="v01041010"/>
+			<v n="10">
+				“Some time 
+				<crossref let="k" cid="c0104110.1"/>
+				 ago, you were angry with the chief baker and me, and you imprisoned us in the palace of the captain of the guard.
+			</v>
+			<marker class="begin-verse" mid="v01041011"/>
+			<v n="11">
+				One night 
+				<crossref let="l" cid="c0104111.1"/>
+				 the chief baker and I each had a dream, and each dream had its own meaning.
+			</v>
+			<marker class="begin-verse" mid="v01041012"/>
+			<v n="12">
+				There was 
+				<crossref let="m" cid="c0104112.1"/>
+				 a young Hebrew man with us in the prison who was a slave of the captain of the guard. We told him our dreams, and he told us what each of our dreams meant.
+			</v>
+			<marker class="begin-verse" mid="v01041013"/>
+			<v n="13">
+				And everything 
+				<crossref let="n" cid="c0104113.1"/>
+				 happened just as he had predicted. I was restored to my position as cup-bearer, and the chief baker was executed and impaled on a pole.”
+			</v>
+			<marker class="begin-verse" mid="v01041014"/>
+			<v n="14">
+				Pharaoh sent 
+				<crossref let="o" cid="c0104114.1"/>
+				 for Joseph at once, and he was quickly brought from the prison. After he shaved and changed his clothes, he went in and stood before Pharaoh.
+			</v>
+			<marker class="begin-verse" mid="v01041015"/>
+			<v n="15">
+				Then Pharaoh 
+				<crossref let="p" cid="c0104115.1"/>
+				 said to Joseph, “I had a dream last night, and no one here can tell me what it means. But I have heard that when you hear about a dream you can interpret it.”
+			</v>
+			<marker class="begin-verse" mid="v01041016"/>
+			<v n="16">
+				“It is 
+				<crossref let="q" cid="c0104116.1"/>
+				 beyond my power to do this,” Joseph replied. “But God can tell you what it means and set you at ease.”
+			</v>
+			<marker class="begin-verse" mid="v01041017"/>
+			<v n="17">
+				So Pharaoh 
+				<crossref let="r" cid="c0104117.1"/>
+				 told Joseph his dream. “In my dream,” he said, “I was standing on the bank of the Nile River,
+			</v>
+			<marker class="begin-verse" mid="v01041018"/>
+			<v n="18">
+				and I 
+				<crossref let="s" cid="c0104118.1"/>
+				 saw seven fat, healthy cows come up out of the river and begin grazing in the marsh grass.
+			</v>
+			<marker class="begin-verse" mid="v01041019"/>
+			<v n="19">
+				But then 
+				<crossref let="t" cid="c0104119.1"/>
+				 I saw seven sick-looking cows, scrawny and thin, come up after them. I’ve never seen such sorry-looking animals in all the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v01041020"/>
+			<v n="20">
+				These thin, 
+				<crossref let="u" cid="c0104120.1"/>
+				 scrawny cows ate the seven fat cows.
+			</v>
+			<marker class="begin-verse" mid="v01041021"/>
+			<v n="21">
+				But afterward 
+				<crossref let="v" cid="c0104121.1"/>
+				 you wouldn’t have known it, for they were still as thin and scrawny as before! Then I woke up.
+			</v>
+			<marker class="begin-verse" mid="v01041022"/>
+			<v n="22">
+				“In my 
+				<crossref let="w" cid="c0104122.1"/>
+				 dream I also saw seven heads of grain, full and beautiful, growing on a single stalk.
+			</v>
+			<marker class="begin-verse" mid="v01041023"/>
+			<v n="23">
+				Then seven 
+				<crossref let="x" cid="c0104123.1"/>
+				 more heads of grain appeared, but these were blighted, shriveled, and withered by the east wind.
+			</v>
+			<marker class="begin-verse" mid="v01041024"/>
+			<v n="24">
+				And the 
+				<crossref let="y" cid="c0104124.1"/>
+				 shriveled heads swallowed the seven healthy heads. I told these dreams to the magicians, but no one could tell me what they mean.”
+			</v>
+			<marker class="begin-verse" mid="v01041025"/>
+			<v n="25">
+				Joseph responded, 
+				<crossref let="z" cid="c0104125.1"/>
+				 “Both of Pharaoh’s dreams mean the same thing. God is telling Pharaoh in advance what he is about to do.
+			</v>
+			<marker class="begin-verse" mid="v01041026"/>
+			<v n="26">
+				The seven 
+				<crossref let="a" cid="c0104126.1"/>
+				 healthy cows and the seven healthy heads of grain both represent seven years of prosperity.
+			</v>
+			<marker class="begin-verse" mid="v01041027"/>
+			<v n="27">
+				The seven 
+				<crossref let="b" cid="c0104127.1"/>
+				 thin, scrawny cows that came up later and the seven thin heads of grain, withered by the east wind, represent seven years of famine.
+			</v>
+			<marker class="begin-verse" mid="v01041028"/>
+			<v n="28">
+				“This will 
+				<crossref let="c" cid="c0104128.1"/>
+				 happen just as I have described it, for God has revealed to Pharaoh in advance what he is about to do.
+			</v>
+			<marker class="begin-verse" mid="v01041029"/>
+			<v n="29">
+				The next 
+				<crossref let="d" cid="c0104129.1"/>
+				 seven years will be a period of great prosperity throughout the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v01041030"/>
+			<v n="30">
+				But afterward 
+				<crossref let="e" cid="c0104130.1"/>
+				 there will be seven years of famine so great that all the prosperity will be forgotten in Egypt. Famine will destroy the land.
+			</v>
+			<marker class="begin-verse" mid="v01041031"/>
+			<v n="31">
+				This famine 
+				<crossref let="f" cid="c0104131.1"/>
+				 will be so severe that even the memory of the good years will be erased.
+			</v>
+			<marker class="begin-verse" mid="v01041032"/>
+			<v n="32">
+				As for 
+				<crossref let="g" cid="c0104132.1"/>
+				 having two similar dreams, it means that these events have been decreed by God, and he will soon make them happen.
+			</v>
+			<marker class="begin-verse" mid="v01041033"/>
+			<v n="33">
+				“Therefore, Pharaoh 
+				<crossref let="h" cid="c0104133.1"/>
+				 should find an intelligent and wise man and put him in charge of the entire land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v01041034"/>
+			<v n="34">
+				Then Pharaoh 
+				<crossref let="i" cid="c0104134.1"/>
+				 should appoint supervisors over the land and let them collect one-fifth of all the crops during the seven good years.
+			</v>
+			<marker class="begin-verse" mid="v01041035"/>
+			<v n="35">
+				Have them 
+				<crossref let="j" cid="c0104135.1"/>
+				 gather all the food produced in the good years that are just ahead and bring it to Pharaoh’s storehouses. Store it away, and guard it so there will be food in the cities.
+			</v>
+			<marker class="begin-verse" mid="v01041036"/>
+			<v n="36">
+				That way 
+				<crossref let="k" cid="c0104136.1"/>
+				 there will be enough to eat when the seven years of famine come to the land of Egypt. Otherwise this famine will destroy the land.”Joseph Made Ruler of Egypt
+			</v>
+			<marker class="begin-verse" mid="v01041037"/>
+			<v n="37">
+				Joseph’s suggestions 
+				<crossref let="l" cid="c0104137.1"/>
+				 were well received by Pharaoh and his officials.
+			</v>
+			<marker class="begin-verse" mid="v01041038"/>
+			<v n="38">
+				So Pharaoh 
+				<crossref let="m" cid="c0104138.1"/>
+				 asked his officials, “Can we find anyone else like this man so obviously filled with the spirit of God?”
+			</v>
+			<marker class="begin-verse" mid="v01041039"/>
+			<v n="39">
+				Then Pharaoh 
+				<crossref let="n" cid="c0104139.1"/>
+				 said to Joseph, “Since God has revealed the meaning of the dreams to you, clearly no one else is as intelligent or wise as you are.
+			</v>
+			<marker class="begin-verse" mid="v01041040"/>
+			<v n="40">
+				You will 
+				<crossref let="o" cid="c0104140.1"/>
+				 be in charge of my court, and all my people will take orders from you. Only I, sitting on my throne, will have a rank higher than yours.”
+			</v>
+			<marker class="begin-verse" mid="v01041041"/>
+			<v n="41">
+				Pharaoh said 
+				<crossref let="p" cid="c0104141.1"/>
+				 to Joseph, “I hereby put you in charge of the entire land of Egypt.”
+			</v>
+			<marker class="begin-verse" mid="v01041042"/>
+			<v n="42">
+				Then Pharaoh 
+				<crossref let="q" cid="c0104142.1"/>
+				 removed his signet ring from his hand and placed it on Joseph’s finger. He dressed him in fine linen clothing and hung a gold chain around his neck.
+			</v>
+			<marker class="begin-verse" mid="v01041043"/>
+			<v n="43">
+				Then he 
+				<crossref let="r" cid="c0104143.1"/>
+				 had Joseph ride in the chariot reserved for his second-in-command. And wherever Joseph went, the command was shouted, “Kneel down!” So Pharaoh put Joseph in charge of all Egypt.
+			</v>
+			<marker class="begin-verse" mid="v01041044"/>
+			<v n="44">
+				And Pharaoh 
+				<crossref let="s" cid="c0104144.1"/>
+				 said to him, “I am Pharaoh, but no one will lift a hand or foot in the entire land of Egypt without your approval.”
+			</v>
+			<marker class="begin-verse" mid="v01041045"/>
+			<v n="45">
+				Then Pharaoh 
+				<crossref let="t" cid="c0104145.1"/>
+				 gave Joseph a new Egyptian name, Zaphenath-paneah. He also gave him a wife, whose name was Asenath. She was the daughter of Potiphera, the priest of On. So Joseph took charge of the entire land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v01041046"/>
+			<v n="46">
+				He was 
+				<crossref let="u" cid="c0104146.1"/>
+				 thirty years old when he began serving in the court of Pharaoh, the king of Egypt. And when Joseph left Pharaoh’s presence, he inspected the entire land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v01041047"/>
+			<v n="47">
+				As predicted, 
+				<crossref let="v" cid="c0104147.1"/>
+				 for seven years the land produced bumper crops.
+			</v>
+			<marker class="begin-verse" mid="v01041048"/>
+			<v n="48">
+				During those 
+				<crossref let="w" cid="c0104148.1"/>
+				 years, Joseph gathered all the crops grown in Egypt and stored the grain from the surrounding fields in the cities.
+			</v>
+			<marker class="begin-verse" mid="v01041049"/>
+			<v n="49">
+				He piled 
+				<crossref let="x" cid="c0104149.1"/>
+				 up huge amounts of grain like sand on the seashore. Finally, he stopped keeping records because there was too much to measure.
+			</v>
+			<marker class="begin-verse" mid="v01041050"/>
+			<v n="50">
+				During this 
+				<crossref let="y" cid="c0104150.1"/>
+				 time, before the first of the famine years, two sons were born to Joseph and his wife, Asenath, the daughter of Potiphera, the priest of On.
+			</v>
+			<marker class="begin-verse" mid="v01041051"/>
+			<v n="51">
+				Joseph named 
+				<crossref let="z" cid="c0104151.1"/>
+				 his older son Manasseh, for he said, “God has made me forget all my troubles and everyone in my father’s family.”
+			</v>
+			<marker class="begin-verse" mid="v01041052"/>
+			<v n="52">
+				Joseph named 
+				<crossref let="a" cid="c0104152.1"/>
+				 his second son Ephraim, for he said, “God has made me fruitful in this land of my grief.”
+			</v>
+			<marker class="begin-verse" mid="v01041053"/>
+			<v n="53">
+				At last 
+				<crossref let="b" cid="c0104153.1"/>
+				 the seven years of bumper crops throughout the land of Egypt came to an end.
+			</v>
+			<marker class="begin-verse" mid="v01041054"/>
+			<v n="54">
+				Then the 
+				<crossref let="c" cid="c0104154.1"/>
+				 seven years of famine began, just as Joseph had predicted. The famine also struck all the surrounding countries, but throughout Egypt there was plenty of food.
+			</v>
+			<marker class="begin-verse" mid="v01041055"/>
+			<v n="55">
+				Eventually, however, 
+				<crossref let="d" cid="c0104155.1"/>
+				 the famine spread throughout the land of Egypt as well. And when the people cried out to Pharaoh for food, he told them, “Go to Joseph, and do whatever he tells you.”
+			</v>
+			<marker class="begin-verse" mid="v01041056"/>
+			<v n="56">
+				So with 
+				<crossref let="e" cid="c0104156.1"/>
+				 severe famine everywhere, Joseph opened up the storehouses and distributed grain to the Egyptians, for the famine was severe throughout the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v01041057"/>
+			<v n="57">
+				And people 
+				<crossref let="f" cid="c0104157.1"/>
+				 from all around came to Egypt to buy grain from Joseph because the famine was severe throughout the world.
+			</v>
+			<marker class="begin-verse" mid="v01041058"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

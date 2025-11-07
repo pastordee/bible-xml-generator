@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:16:48.735823</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:16:48.735841</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19085001"/>
+		<chapter num="85">
+			<heading>For the music director. A psalm of the descendants of Korah</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Lord, you 
+				<crossref let="b" cid="c190851.1"/>
+				 have shown your kindness to your land; you have restored Jacob's prosperity.
+			</v>
+			<marker class="begin-verse" mid="v19085002"/>
+			<v n="2">
+				You took 
+				<crossref let="c" cid="c190852.1"/>
+				 away your people's guilt; you forgave all their sins. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19085003"/>
+			<v n="3">
+				You took 
+				<crossref let="d" cid="c190853.1"/>
+				 back your fury; you turned away from your fierce anger.
+			</v>
+			<marker class="begin-verse" mid="v19085004"/>
+			<v n="4">
+				Bring us 
+				<crossref let="e" cid="c190854.1"/>
+				 back to you, God of our salvation! Take away your anger towards us.
+			</v>
+			<marker class="begin-verse" mid="v19085005"/>
+			<v n="5">
+				Are you 
+				<crossref let="f" cid="c190855.1"/>
+				 going to be furious with us forever? Will you stay angry with us for all future generations?
+			</v>
+			<marker class="begin-verse" mid="v19085006"/>
+			<v n="6">
+				Won't you 
+				<crossref let="g" cid="c190856.1"/>
+				 restore our lives so your people can find happiness in you?
+			</v>
+			<marker class="begin-verse" mid="v19085007"/>
+			<v n="7">
+				Show us 
+				<crossref let="h" cid="c190857.1"/>
+				 your trustworthy love, Lord! Give us your salvation!
+			</v>
+			<marker class="begin-verse" mid="v19085008"/>
+			<v n="8">
+				Let me 
+				<crossref let="i" cid="c190858.1"/>
+				 hear what God has to say. God speaks peace to his people, to those who trust in him. But they must not return to their foolish ways.
+			</v>
+			<marker class="begin-verse" mid="v19085009"/>
+			<v n="9">
+				Truly God's 
+				<crossref let="j" cid="c190859.1"/>
+				 salvation is with those who do as he says. His glorious presence will live with us in our land.
+			</v>
+			<marker class="begin-verse" mid="v19085010"/>
+			<v n="10">
+				Trustworthiness and 
+				<crossref let="k" cid="c1908510.1"/>
+				 faithful love join together; goodness and peace have kissed each other.
+			</v>
+			<marker class="begin-verse" mid="v19085011"/>
+			<v n="11">
+				What is 
+				<crossref let="l" cid="c1908511.1"/>
+				 true grows up from the earth; what is right looks down from heaven.
+			</v>
+			<marker class="begin-verse" mid="v19085012"/>
+			<v n="12">
+				The Lord 
+				<crossref let="m" cid="c1908512.1"/>
+				 will certainly give us all that is good, and our land will produce fine crops.
+			</v>
+			<marker class="begin-verse" mid="v19085013"/>
+			<v n="13">
+				Truth and 
+				<crossref let="n" cid="c1908513.1"/>
+				 right go ahead of him to prepare a path for him to walk on.
+			</v>
+			<marker class="begin-verse" mid="v19085014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

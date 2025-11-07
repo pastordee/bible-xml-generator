@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:38:04.903932</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:38:04.903941</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19126001"/>
+		<chapter num="126">
+			<heading>A Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				When Jehovah 
+				<crossref let="b" cid="c191261.1"/>
+				 brought back those that returned to Zion,We were like unto them that dream.
+			</v>
+			<marker class="begin-verse" mid="v19126002"/>
+			<v n="2">
+				Then was 
+				<crossref let="c" cid="c191262.1"/>
+				 our mouth filled with laughter,And our tongue with singing:Then said they among the nations,Jehovah hath done great things for them.
+			</v>
+			<marker class="begin-verse" mid="v19126003"/>
+			<v n="3">
+				Jehovah hath 
+				<crossref let="d" cid="c191263.1"/>
+				 done great things for us,Whereof we are glad.
+			</v>
+			<marker class="begin-verse" mid="v19126004"/>
+			<v n="4">
+				Turn again 
+				<crossref let="e" cid="c191264.1"/>
+				 our captivity, O Jehovah,As the streams in the South.
+			</v>
+			<marker class="begin-verse" mid="v19126005"/>
+			<v n="5">
+				They that 
+				<crossref let="f" cid="c191265.1"/>
+				 sow in tears shall reap in joy.
+			</v>
+			<marker class="begin-verse" mid="v19126006"/>
+			<v n="6">
+				He that 
+				<crossref let="g" cid="c191266.1"/>
+				 goeth forth and weepeth, bearing seed for sowing,Shall doubtless come again with joy, bringing his sheaves with him.
+			</v>
+			<marker class="begin-verse" mid="v19126007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

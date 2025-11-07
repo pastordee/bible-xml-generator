@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:47:23.545692</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:47:23.545703</next_refresh_due>
+	</generation_info>
+	<book title="Romans" num="45" testament="new" version="KJV" bookAbbr="rom">
+		<marker class="begin-verse" mid="v45012001"/>
+		<chapter num="12">
+			<begin-paragraph/>
+			<v n="1">
+				I beseech 
+				<crossref let="b" cid="c450121.1"/>
+				 you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
+			</v>
+			<marker class="begin-verse" mid="v45012002"/>
+			<v n="2">
+				And be 
+				<crossref let="c" cid="c450122.1"/>
+				 not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+			</v>
+			<marker class="begin-verse" mid="v45012003"/>
+			<v n="3">
+				For I 
+				<crossref let="d" cid="c450123.1"/>
+				 say, through the grace given unto me, to every man that is among you, not to think of himself more highly than he ought to think; but to think soberly, according as God hath dealt to every man the measure of faith.
+			</v>
+			<marker class="begin-verse" mid="v45012004"/>
+			<v n="4">
+				For as 
+				<crossref let="e" cid="c450124.1"/>
+				 we have many members in one body, and all members have not the same office:
+			</v>
+			<marker class="begin-verse" mid="v45012005"/>
+			<v n="5">
+				So we, 
+				<crossref let="f" cid="c450125.1"/>
+				 being many, are one body in Christ, and every one members one of another.
+			</v>
+			<marker class="begin-verse" mid="v45012006"/>
+			<v n="6">
+				Having then 
+				<crossref let="g" cid="c450126.1"/>
+				 gifts differing according to the grace that is given to us, whether prophecy, let us prophesy according to the proportion of faith;
+			</v>
+			<marker class="begin-verse" mid="v45012007"/>
+			<v n="7">
+				Or ministry, 
+				<crossref let="h" cid="c450127.1"/>
+				 let us wait on our ministering: or he that teacheth, on teaching;
+			</v>
+			<marker class="begin-verse" mid="v45012008"/>
+			<v n="8">
+				Or he 
+				<crossref let="i" cid="c450128.1"/>
+				 that exhorteth, on exhortation: he that giveth, let him do it with simplicity; he that ruleth, with diligence; he that sheweth mercy, with cheerfulness.
+			</v>
+			<marker class="begin-verse" mid="v45012009"/>
+			<v n="9">
+				Let love 
+				<crossref let="j" cid="c450129.1"/>
+				 be without dissimulation. Abhor that which is evil; cleave to that which is good.
+			</v>
+			<marker class="begin-verse" mid="v45012010"/>
+			<v n="10">
+				Be kindly 
+				<crossref let="k" cid="c4501210.1"/>
+				 affectioned one to another with brotherly love; in honour preferring one another;
+			</v>
+			<marker class="begin-verse" mid="v45012011"/>
+			<v n="11">
+				Not slothful 
+				<crossref let="l" cid="c4501211.1"/>
+				 in business; fervent in spirit; serving the Lord;
+			</v>
+			<marker class="begin-verse" mid="v45012012"/>
+			<v n="12">
+				Rejoicing in 
+				<crossref let="m" cid="c4501212.1"/>
+				 hope; patient in tribulation; continuing instant in prayer;
+			</v>
+			<marker class="begin-verse" mid="v45012013"/>
+			<v n="13">
+				Distributing to 
+				<crossref let="n" cid="c4501213.1"/>
+				 the necessity of saints; given to hospitality.
+			</v>
+			<marker class="begin-verse" mid="v45012014"/>
+			<v n="14">
+				Bless them 
+				<crossref let="o" cid="c4501214.1"/>
+				 which persecute you: bless, and curse not.
+			</v>
+			<marker class="begin-verse" mid="v45012015"/>
+			<v n="15">
+				Rejoice with 
+				<crossref let="p" cid="c4501215.1"/>
+				 them that do rejoice, and weep with them that weep.
+			</v>
+			<marker class="begin-verse" mid="v45012016"/>
+			<v n="16">
+				Be of 
+				<crossref let="q" cid="c4501216.1"/>
+				 the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
+			</v>
+			<marker class="begin-verse" mid="v45012017"/>
+			<v n="17">
+				Recompense to 
+				<crossref let="r" cid="c4501217.1"/>
+				 no man evil for evil. Provide things honest in the sight of all men.
+			</v>
+			<marker class="begin-verse" mid="v45012018"/>
+			<v n="18">
+				If it 
+				<crossref let="s" cid="c4501218.1"/>
+				 be possible, as much as lieth in you, live peaceably with all men.
+			</v>
+			<marker class="begin-verse" mid="v45012019"/>
+			<v n="19">
+				Dearly beloved, 
+				<crossref let="t" cid="c4501219.1"/>
+				 avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.
+			</v>
+			<marker class="begin-verse" mid="v45012020"/>
+			<v n="20">
+				Therefore if 
+				<crossref let="u" cid="c4501220.1"/>
+				 thine enemy hunger, feed him; if he thirst, give him drink: for in so doing thou shalt heap coals of fire on his head.
+			</v>
+			<marker class="begin-verse" mid="v45012021"/>
+			<v n="21">
+				Be not 
+				<crossref let="v" cid="c4501221.1"/>
+				 overcome of evil, but overcome evil with good.
+			</v>
+			<marker class="begin-verse" mid="v45012022"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

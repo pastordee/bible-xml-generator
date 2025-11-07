@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:16:53.548459</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:16:53.548484</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19087001"/>
+		<chapter num="87">
+			<heading>A song. A psalm of the descendants of Korah.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The Lord 
+				<crossref let="b" cid="c190871.1"/>
+				 founded the city on his holy mountain.
+			</v>
+			<marker class="begin-verse" mid="v19087002"/>
+			<v n="2">
+				Jerusalem is 
+				<crossref let="c" cid="c190872.1"/>
+				 the city that the Lord loves more than any other city in Israel.
+			</v>
+			<marker class="begin-verse" mid="v19087003"/>
+			<v n="3">
+				Many wonderful 
+				<crossref let="d" cid="c190873.1"/>
+				 things are said of you, city of God! Selah.
+			</v>
+			<marker class="begin-verse" mid="v19087004"/>
+			<v n="4">
+				I mention 
+				<crossref let="e" cid="c190874.1"/>
+				 Egypt and Babylon as those who know me, and in addition Philistia, Tyre, and Ethiopia—“this man was born there.”
+			</v>
+			<marker class="begin-verse" mid="v19087005"/>
+			<v n="5">
+				It will 
+				<crossref let="f" cid="c190875.1"/>
+				 be said concerning Jerusalem, “Everyone was born there,” and the Most High will make it secure.
+			</v>
+			<marker class="begin-verse" mid="v19087006"/>
+			<v n="6">
+				When the 
+				<crossref let="g" cid="c190876.1"/>
+				 Lord registers the nations, he will write, “They were born there.” Selah.
+			</v>
+			<marker class="begin-verse" mid="v19087007"/>
+			<v n="7">
+				Singers and 
+				<crossref let="h" cid="c190877.1"/>
+				 dancers alike say, “Living here I am at home.”
+			</v>
+			<marker class="begin-verse" mid="v19087008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

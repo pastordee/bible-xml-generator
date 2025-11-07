@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:18:48.417055</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:18:48.417070</next_refresh_due>
+	</generation_info>
+	<book title="Micah" num="33" testament="old" version="WEB" bookAbbr="mic">
+		<marker class="begin-verse" mid="v33003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				I said,“Please 
+				<crossref let="b" cid="c330031.1"/>
+				 listen, you heads of Jacob,and rulers of the house of Israel:Isn’t it for you to know justice?
+			</v>
+			<marker class="begin-verse" mid="v33003002"/>
+			<v n="2">
+				You who 
+				<crossref let="c" cid="c330032.1"/>
+				 hate the good,and love the evil;who tear off their skin,and their flesh from off their bones;
+			</v>
+			<marker class="begin-verse" mid="v33003003"/>
+			<v n="3">
+				who also 
+				<crossref let="d" cid="c330033.1"/>
+				 eat the flesh of my people,and peel their skin from off them,and break their bones,and chop them in pieces, as for the pot,and as meat within the cauldron.
+			</v>
+			<marker class="begin-verse" mid="v33003004"/>
+			<v n="4">
+				Then they 
+				<crossref let="e" cid="c330034.1"/>
+				 will cry to Yahweh,but he will not answer them.Yes, he will hide his face from them at that time,because they made their deeds evil.”
+			</v>
+			<marker class="begin-verse" mid="v33003005"/>
+			<v n="5">
+				Yahweh says 
+				<crossref let="f" cid="c330035.1"/>
+				 concerning the prophets who lead my people astray—for those who feed their teeth, they proclaim, “Peace!” and whoever doesn’t provide for their mouths, they prepare war against him:
+			</v>
+			<marker class="begin-verse" mid="v33003006"/>
+			<v n="6">
+				“Therefore night 
+				<crossref let="g" cid="c330036.1"/>
+				 is over you, with no vision,and it is dark to you, that you may not divine;and the sun will go down on the prophets,and the day will be black over them.
+			</v>
+			<marker class="begin-verse" mid="v33003007"/>
+			<v n="7">
+				The seers 
+				<crossref let="h" cid="c330037.1"/>
+				 shall be disappointed,and the diviners confounded.Yes, they shall all cover their lips,for there is no answer from God.”
+			</v>
+			<marker class="begin-verse" mid="v33003008"/>
+			<v n="8">
+				But as 
+				<crossref let="i" cid="c330038.1"/>
+				 for me, I am full of power by Yahweh’s Spirit,and of judgment, and of might,to declare to Jacob his disobedience,and to Israel his sin.
+			</v>
+			<marker class="begin-verse" mid="v33003009"/>
+			<v n="9">
+				Please listen 
+				<crossref let="j" cid="c330039.1"/>
+				 to this, you heads of the house of Jacob,and rulers of the house of Israel,who abhor justice,and pervert all equity,
+			</v>
+			<marker class="begin-verse" mid="v33003010"/>
+			<v n="10">
+				who build 
+				<crossref let="k" cid="c3300310.1"/>
+				 up Zion with blood,and Jerusalem with iniquity.
+			</v>
+			<marker class="begin-verse" mid="v33003011"/>
+			<v n="11">
+				Her leaders 
+				<crossref let="l" cid="c3300311.1"/>
+				 judge for bribes,and her priests teach for a price,and her prophets of it tell fortunes for money;yet they lean on Yahweh, and say,“Isn’t Yahweh among us?No disaster will come on us.”
+			</v>
+			<marker class="begin-verse" mid="v33003012"/>
+			<v n="12">
+				Therefore Zion 
+				<crossref let="m" cid="c3300312.1"/>
+				 for your sake will be plowed like a field,and Jerusalem will become heaps of rubble,and the mountain of the temple like the high places of a forest.
+			</v>
+			<marker class="begin-verse" mid="v33003013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

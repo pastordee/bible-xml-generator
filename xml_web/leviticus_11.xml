@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:08:02.772690</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:08:02.772696</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" version="WEB" bookAbbr="lev">
+		<marker class="begin-verse" mid="v03011001"/>
+		<chapter num="11">
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh spoke 
+				<crossref let="b" cid="c030111.1"/>
+				 to Moses and to Aaron, saying to them,
+			</v>
+			<marker class="begin-verse" mid="v03011002"/>
+			<v n="2">
+				“Speak to 
+				<crossref let="c" cid="c030112.1"/>
+				 the children of Israel, saying, ‘These are the living things which you may eat among all the animals that are on the earth.
+			</v>
+			<marker class="begin-verse" mid="v03011003"/>
+			<v n="3">
+				Whatever parts 
+				<crossref let="d" cid="c030113.1"/>
+				 the hoof, and is cloven-footed, and chews the cud among the animals, that you may eat.
+			</v>
+			<marker class="begin-verse" mid="v03011004"/>
+			<v n="4">
+				“‘Nevertheless these 
+				<crossref let="e" cid="c030114.1"/>
+				 you shall not eat of those that chew the cud, or of those who part the hoof: the camel, because it chews the cud but doesn’t have a parted hoof, is unclean to you.
+			</v>
+			<marker class="begin-verse" mid="v03011005"/>
+			<v n="5">
+				The hyrax, 
+				<crossref let="f" cid="c030115.1"/>
+				 because it chews the cud but doesn’t have a parted hoof, is unclean to you.
+			</v>
+			<marker class="begin-verse" mid="v03011006"/>
+			<v n="6">
+				The hare, 
+				<crossref let="g" cid="c030116.1"/>
+				 because it chews the cud but doesn’t have a parted hoof, is unclean to you.
+			</v>
+			<marker class="begin-verse" mid="v03011007"/>
+			<v n="7">
+				The pig, 
+				<crossref let="h" cid="c030117.1"/>
+				 because it has a split hoof, and is cloven-footed, but doesn’t chew the cud, is unclean to you.
+			</v>
+			<marker class="begin-verse" mid="v03011008"/>
+			<v n="8">
+				You shall 
+				<crossref let="i" cid="c030118.1"/>
+				 not eat their meat. You shall not touch their carcasses. They are unclean to you.
+			</v>
+			<marker class="begin-verse" mid="v03011009"/>
+			<v n="9">
+				“‘You may 
+				<crossref let="j" cid="c030119.1"/>
+				 eat of all these that are in the waters: whatever has fins and scales in the waters, in the seas, and in the rivers, that you may eat.
+			</v>
+			<marker class="begin-verse" mid="v03011010"/>
+			<v n="10">
+				All that 
+				<crossref let="k" cid="c0301110.1"/>
+				 don’t have fins and scales in the seas and rivers, all that move in the waters, and all the living creatures that are in the waters, they are an abomination to you,
+			</v>
+			<marker class="begin-verse" mid="v03011011"/>
+			<v n="11">
+				and you 
+				<crossref let="l" cid="c0301111.1"/>
+				 shall detest them. You shall not eat of their meat, and you shall detest their carcasses.
+			</v>
+			<marker class="begin-verse" mid="v03011012"/>
+			<v n="12">
+				Whatever has 
+				<crossref let="m" cid="c0301112.1"/>
+				 no fins nor scales in the waters is an abomination to you.
+			</v>
+			<marker class="begin-verse" mid="v03011013"/>
+			<v n="13">
+				“‘You shall 
+				<crossref let="n" cid="c0301113.1"/>
+				 detest these among the birds; they shall not be eaten because they are an abomination: the eagle, the vulture, the black vulture,
+			</v>
+			<marker class="begin-verse" mid="v03011014"/>
+			<v n="14">
+				the red 
+				<crossref let="o" cid="c0301114.1"/>
+				 kite, any kind of black kite,
+			</v>
+			<marker class="begin-verse" mid="v03011015"/>
+			<v n="15">
+				any kind 
+				<crossref let="p" cid="c0301115.1"/>
+				 of raven,
+			</v>
+			<marker class="begin-verse" mid="v03011016"/>
+			<v n="16">
+				the horned 
+				<crossref let="q" cid="c0301116.1"/>
+				 owl, the screech owl, the gull, any kind of hawk,
+			</v>
+			<marker class="begin-verse" mid="v03011017"/>
+			<v n="17">
+				the little 
+				<crossref let="r" cid="c0301117.1"/>
+				 owl, the cormorant, the great owl,
+			</v>
+			<marker class="begin-verse" mid="v03011018"/>
+			<v n="18">
+				the white 
+				<crossref let="s" cid="c0301118.1"/>
+				 owl, the desert owl, the osprey,
+			</v>
+			<marker class="begin-verse" mid="v03011019"/>
+			<v n="19">
+				the stork, 
+				<crossref let="t" cid="c0301119.1"/>
+				 any kind of heron, the hoopoe, and the bat.
+			</v>
+			<marker class="begin-verse" mid="v03011020"/>
+			<v n="20">
+				“‘All flying 
+				<crossref let="u" cid="c0301120.1"/>
+				 insects that walk on all fours are an abomination to you.
+			</v>
+			<marker class="begin-verse" mid="v03011021"/>
+			<v n="21">
+				Yet you 
+				<crossref let="v" cid="c0301121.1"/>
+				 may eat these: of all winged creeping things that go on all fours, which have long, jointed legs for hopping on the earth.
+			</v>
+			<marker class="begin-verse" mid="v03011022"/>
+			<v n="22">
+				Even of 
+				<crossref let="w" cid="c0301122.1"/>
+				 these you may eat: any kind of locust, any kind of katydid, any kind of cricket, and any kind of grasshopper.
+			</v>
+			<marker class="begin-verse" mid="v03011023"/>
+			<v n="23">
+				But all 
+				<crossref let="x" cid="c0301123.1"/>
+				 winged creeping things which have four feet are an abomination to you.
+			</v>
+			<marker class="begin-verse" mid="v03011024"/>
+			<v n="24">
+				“‘By these 
+				<crossref let="y" cid="c0301124.1"/>
+				 you will become unclean: whoever touches their carcass shall be unclean until the evening.
+			</v>
+			<marker class="begin-verse" mid="v03011025"/>
+			<v n="25">
+				Whoever carries 
+				<crossref let="z" cid="c0301125.1"/>
+				 any part of their carcass shall wash his clothes, and be unclean until the evening.
+			</v>
+			<marker class="begin-verse" mid="v03011026"/>
+			<v n="26">
+				“‘Every animal 
+				<crossref let="a" cid="c0301126.1"/>
+				 which has a split hoof that isn’t completely divided, or doesn’t chew the cud, is unclean to you. Everyone who touches them shall be unclean.
+			</v>
+			<marker class="begin-verse" mid="v03011027"/>
+			<v n="27">
+				Whatever goes 
+				<crossref let="b" cid="c0301127.1"/>
+				 on its paws, among all animals that go on all fours, they are unclean to you. Whoever touches their carcass shall be unclean until the evening.
+			</v>
+			<marker class="begin-verse" mid="v03011028"/>
+			<v n="28">
+				He who 
+				<crossref let="c" cid="c0301128.1"/>
+				 carries their carcass shall wash his clothes, and be unclean until the evening. They are unclean to you.
+			</v>
+			<marker class="begin-verse" mid="v03011029"/>
+			<v n="29">
+				“‘These are 
+				<crossref let="d" cid="c0301129.1"/>
+				 they which are unclean to you among the creeping things that creep on the earth: the weasel, the rat, any kind of great lizard,
+			</v>
+			<marker class="begin-verse" mid="v03011030"/>
+			<v n="30">
+				the gecko, 
+				<crossref let="e" cid="c0301130.1"/>
+				 and the monitor lizard, the wall lizard, the skink, and the chameleon.
+			</v>
+			<marker class="begin-verse" mid="v03011031"/>
+			<v n="31">
+				These are 
+				<crossref let="f" cid="c0301131.1"/>
+				 they which are unclean to you among all that creep. Whoever touches them when they are dead shall be unclean until the evening.
+			</v>
+			<marker class="begin-verse" mid="v03011032"/>
+			<v n="32">
+				Anything they 
+				<crossref let="g" cid="c0301132.1"/>
+				 fall on when they are dead shall be unclean; whether it is any vessel of wood, or clothing, or skin, or sack, whatever vessel it is, with which any work is done, it must be put into water, and it shall be unclean until the evening. Then it will be clean.
+			</v>
+			<marker class="begin-verse" mid="v03011033"/>
+			<v n="33">
+				Every earthen 
+				<crossref let="h" cid="c0301133.1"/>
+				 vessel into which any of them falls and all that is in it shall be unclean. You shall break it.
+			</v>
+			<marker class="begin-verse" mid="v03011034"/>
+			<v n="34">
+				All food 
+				<crossref let="i" cid="c0301134.1"/>
+				 which may be eaten which is soaked in water shall be unclean. All drink that may be drunk in every such vessel shall be unclean.
+			</v>
+			<marker class="begin-verse" mid="v03011035"/>
+			<v n="35">
+				Everything whereupon 
+				<crossref let="j" cid="c0301135.1"/>
+				 part of their carcass falls shall be unclean; whether oven, or range for pots, it shall be broken in pieces. They are unclean, and shall be unclean to you.
+			</v>
+			<marker class="begin-verse" mid="v03011036"/>
+			<v n="36">
+				Nevertheless a 
+				<crossref let="k" cid="c0301136.1"/>
+				 spring or a cistern in which water is gathered shall be clean, but that which touches their carcass shall be unclean.
+			</v>
+			<marker class="begin-verse" mid="v03011037"/>
+			<v n="37">
+				If part 
+				<crossref let="l" cid="c0301137.1"/>
+				 of their carcass falls on any sowing seed which is to be sown, it is clean.
+			</v>
+			<marker class="begin-verse" mid="v03011038"/>
+			<v n="38">
+				But if 
+				<crossref let="m" cid="c0301138.1"/>
+				 water is put on the seed, and part of their carcass falls on it, it is unclean to you.
+			</v>
+			<marker class="begin-verse" mid="v03011039"/>
+			<v n="39">
+				“‘If any 
+				<crossref let="n" cid="c0301139.1"/>
+				 animal of which you may eat dies, he who touches its carcass shall be unclean until the evening.
+			</v>
+			<marker class="begin-verse" mid="v03011040"/>
+			<v n="40">
+				He who 
+				<crossref let="o" cid="c0301140.1"/>
+				 eats of its carcass shall wash his clothes, and be unclean until the evening. He also who carries its carcass shall wash his clothes, and be unclean until the evening.
+			</v>
+			<marker class="begin-verse" mid="v03011041"/>
+			<v n="41">
+				“‘Every creeping 
+				<crossref let="p" cid="c0301141.1"/>
+				 thing that creeps on the earth is an abomination. It shall not be eaten.
+			</v>
+			<marker class="begin-verse" mid="v03011042"/>
+			<v n="42">
+				Whatever goes 
+				<crossref let="q" cid="c0301142.1"/>
+				 on its belly, and whatever goes on all fours, or whatever has many feet, even all creeping things that creep on the earth, them you shall not eat; for they are an abomination.
+			</v>
+			<marker class="begin-verse" mid="v03011043"/>
+			<v n="43">
+				You shall 
+				<crossref let="r" cid="c0301143.1"/>
+				 not make yourselves abominable with any creeping thing that creeps. You shall not make yourselves unclean with them, that you should be defiled by them.
+			</v>
+			<marker class="begin-verse" mid="v03011044"/>
+			<v n="44">
+				For I 
+				<crossref let="s" cid="c0301144.1"/>
+				 am Yahweh your God. Sanctify yourselves therefore, and be holy; for I am holy. You shall not defile yourselves with any kind of creeping thing that moves on the earth.
+			</v>
+			<marker class="begin-verse" mid="v03011045"/>
+			<v n="45">
+				For I 
+				<crossref let="t" cid="c0301145.1"/>
+				 am Yahweh who brought you up out of the land of Egypt, to be your God. You shall therefore be holy, for I am holy.
+			</v>
+			<marker class="begin-verse" mid="v03011046"/>
+			<v n="46">
+				“‘This is 
+				<crossref let="u" cid="c0301146.1"/>
+				 the law of the animal, and of the bird, and of every living creature that moves in the waters, and of every creature that creeps on the earth,
+			</v>
+			<marker class="begin-verse" mid="v03011047"/>
+			<v n="47">
+				to make 
+				<crossref let="v" cid="c0301147.1"/>
+				 a distinction between the unclean and the clean, and between the living thing that may be eaten and the living thing that may not be eaten.’”
+			</v>
+			<marker class="begin-verse" mid="v03011048"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

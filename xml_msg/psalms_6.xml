@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:13:40.522251</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:13:40.522269</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19006001"/>
+		<chapter num="6">
+			<heading>For the music director. To be accompanied by stringed instruments, according to the sheminith. A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Lord, please 
+				<crossref let="b" cid="c190061.1"/>
+				 don't condemn me because you're angry with me; please don't punish me because you're angry with me!
+			</v>
+			<marker class="begin-verse" mid="v19006002"/>
+			<v n="2">
+				Have mercy 
+				<crossref let="c" cid="c190062.1"/>
+				 on me, Lord, for I am weak; heal me, Lord, for I am sick to the bone.
+			</v>
+			<marker class="begin-verse" mid="v19006003"/>
+			<v n="3">
+				I'm shaking 
+				<crossref let="d" cid="c190063.1"/>
+				 all over in fear. How long will it be, Lord, before you do something?
+			</v>
+			<marker class="begin-verse" mid="v19006004"/>
+			<v n="4">
+				Turn, Lord, 
+				<crossref let="e" cid="c190064.1"/>
+				 and rescue me! Save me because of your trustworthy love!
+			</v>
+			<marker class="begin-verse" mid="v19006005"/>
+			<v n="5">
+				For no 
+				<crossref let="f" cid="c190065.1"/>
+				 one remembers you when they're dead. Who is able to praise you from the grave?
+			</v>
+			<marker class="begin-verse" mid="v19006006"/>
+			<v n="6">
+				My groaning 
+				<crossref let="g" cid="c190066.1"/>
+				 has exhausted me. Every night I soak my bed with my crying; I drench my couch with my tears.
+			</v>
+			<marker class="begin-verse" mid="v19006007"/>
+			<v n="7">
+				With all 
+				<crossref let="h" cid="c190067.1"/>
+				 my crying I can hardly see; my eyes grow weak because of the trouble my enemies cause me.
+			</v>
+			<marker class="begin-verse" mid="v19006008"/>
+			<v n="8">
+				Leave me 
+				<crossref let="i" cid="c190068.1"/>
+				 alone, all you people who do evil, for the Lord has heard me crying!
+			</v>
+			<marker class="begin-verse" mid="v19006009"/>
+			<v n="9">
+				The Lord 
+				<crossref let="j" cid="c190069.1"/>
+				 has heard me calling out for help; the Lord answers my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19006010"/>
+			<v n="10">
+				All who 
+				<crossref let="k" cid="c1900610.1"/>
+				 hate me will be shamefully defeated and terrified; they will run away in disgrace.
+			</v>
+			<marker class="begin-verse" mid="v19006011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

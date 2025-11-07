@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:15.724166</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:15.724182</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19133001">
+		</marker>
+		<chapter num="133">
+			<heading>
+				Psalm 133
+			</heading>
+			<heading>
+				When Brothers Dwell in Unity
+			</heading>
+			<heading>
+				A Song of Ascents. Of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Behold, how 
+				<crossref let="b" cid="c19133001.1">
+				</crossref>
+				good and, 
+				<crossref let="c" cid="c19133001.2">
+				</crossref>
+				pleasant it is when brothers dwell in unity!(1)
+			</v>
+			<marker class="begin-verse" mid="v19133002">
+			</marker>
+			<v n="2">
+				It is 
+				<crossref let="d" cid="c19133002.3">
+				</crossref>
+				like the, 
+				<crossref let="e" cid="c19133002.4">
+				</crossref>
+				precious oil on the head, running down on the beard, on the beard of Aaron, running down on the collar of his robes!
+			</v>
+			<marker class="begin-verse" mid="v19133003">
+			</marker>
+			<v n="3">
+				It is 
+				<crossref let="f" cid="c19133003.5">
+				</crossref>
+				like the, 
+				<crossref let="g" cid="c19133003.6">
+				</crossref>
+				dew of Hermon, which falls on the mountains of Zion! For there the LORD has commanded the blessing, life forevermore. Footnotes (1) 133:1 Or *dwell together* (ESV)
+				<note nid="n19133003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19133004">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

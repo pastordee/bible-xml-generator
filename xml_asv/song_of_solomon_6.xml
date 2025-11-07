@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:44:33.679521</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:44:33.679528</next_refresh_due>
+	</generation_info>
+	<book title="Song of Solomon" num="22" testament="old" version="ASV" bookAbbr="sng">
+		<marker class="begin-verse" mid="v22006001"/>
+		<chapter num="6">
+			<begin-paragraph/>
+			<v n="1">
+				Whither is 
+				<crossref let="b" cid="c220061.1"/>
+				 thy beloved gone,O thou fairest among women?Whither hath thy beloved turned him,That we may seek him with thee?
+			</v>
+			<marker class="begin-verse" mid="v22006002"/>
+			<v n="2">
+				My beloved 
+				<crossref let="c" cid="c220062.1"/>
+				 is gone down to his garden,To the beds of spices,To feed in the gardens, and to gather lilies.
+			</v>
+			<marker class="begin-verse" mid="v22006003"/>
+			<v n="3">
+				I am 
+				<crossref let="d" cid="c220063.1"/>
+				 my beloved’s, and my beloved is mine:He feedeth his flock among the lilies.
+			</v>
+			<marker class="begin-verse" mid="v22006004"/>
+			<v n="4">
+				Thou art 
+				<crossref let="e" cid="c220064.1"/>
+				 fair, O my love, as Tirzah,Comely as Jerusalem,Terrible as an army with banners.
+			</v>
+			<marker class="begin-verse" mid="v22006005"/>
+			<v n="5">
+				Turn away 
+				<crossref let="f" cid="c220065.1"/>
+				 thine eyes from me,For they have overcome me.Thy hair is as a flock of goats,That lie along the side of Gilead.
+			</v>
+			<marker class="begin-verse" mid="v22006006"/>
+			<v n="6">
+				Thy teeth 
+				<crossref let="g" cid="c220066.1"/>
+				 are like a flock of ewes,Which are come up from the washing;Whereof every one hath twins,And none is bereaved among them.
+			</v>
+			<marker class="begin-verse" mid="v22006007"/>
+			<v n="7">
+				Thy temples 
+				<crossref let="h" cid="c220067.1"/>
+				 are like a piece of a pomegranateBehind thy veil.
+			</v>
+			<marker class="begin-verse" mid="v22006008"/>
+			<v n="8">
+				There are 
+				<crossref let="i" cid="c220068.1"/>
+				 threescore queens, and fourscore concubines,And virgins without number.
+			</v>
+			<marker class="begin-verse" mid="v22006009"/>
+			<v n="9">
+				My dove, 
+				<crossref let="j" cid="c220069.1"/>
+				 my undefiled, is but one;She is the only one of her mother;She is the choice one of her that bare her.The daughters saw her, and called her blessed;Yea, the queens and the concubines, and they praised her.
+			</v>
+			<marker class="begin-verse" mid="v22006010"/>
+			<v n="10">
+				Who is 
+				<crossref let="k" cid="c2200610.1"/>
+				 she that looketh forth as the morning,Fair as the moon,Clear as the sun,Terrible as an army with banners?
+			</v>
+			<marker class="begin-verse" mid="v22006011"/>
+			<v n="11">
+				I went 
+				<crossref let="l" cid="c2200611.1"/>
+				 down into the garden of nuts,To see the green plants of the valley,To see whether the vine budded,And the pomegranates were in flower.
+			</v>
+			<marker class="begin-verse" mid="v22006012"/>
+			<v n="12">
+				Before I 
+				<crossref let="m" cid="c2200612.1"/>
+				 was aware, my soul set meAmong the chariots of my princely people.
+			</v>
+			<marker class="begin-verse" mid="v22006013"/>
+			<v n="13">
+				Return, return, 
+				<crossref let="n" cid="c2200613.1"/>
+				 O Shulammite;Return, return, that we may look upon thee.Why will ye look upon the Shulammite,As upon the dance of Mahanaim?
+			</v>
+			<marker class="begin-verse" mid="v22006014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

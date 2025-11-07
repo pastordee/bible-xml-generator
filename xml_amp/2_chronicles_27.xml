@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:50:41.038379</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:50:41.038386</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" version="AMP" bookAbbr="2ch">
+		<marker class="begin-verse" mid="v14027001"/>
+		<chapter num="27">
+			<heading>Jotham Succeeds Uzziah in Judah</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Jotham was 
+				<crossref let="b" cid="c140271.1"/>
+				 twenty-five years old when he became king, and he reigned for sixteen years in Jerusalem. His mother’s name was Jerushah the daughter of Zadok.
+			</v>
+			<marker class="begin-verse" mid="v14027002"/>
+			<v n="2">
+				He did 
+				<crossref let="c" cid="c140272.1"/>
+				 right in the sight of the Lord, in accordance with everything that his father Uzziah had done; however, he did not enter the temple of the Lord. But the people continued behaving corruptly.
+			</v>
+			<marker class="begin-verse" mid="v14027003"/>
+			<v n="3">
+				He built 
+				<crossref let="d" cid="c140273.1"/>
+				 the upper gate of the house of the Lord, and did extensive building on the wall of Ophel.
+			</v>
+			<marker class="begin-verse" mid="v14027004"/>
+			<v n="4">
+				Moreover, he 
+				<crossref let="e" cid="c140274.1"/>
+				 built cities in the hill country of Judah, and in the forests he built fortresses and towers.
+			</v>
+			<marker class="begin-verse" mid="v14027005"/>
+			<v n="5">
+				He also 
+				<crossref let="f" cid="c140275.1"/>
+				 fought with the king of the Ammonites and prevailed over them. As a result the Ammonites gave him during that year a hundred talents of silver and ten thousand measures each of wheat and of barley. The Ammonites also paid him that much in the second year and third year.
+			</v>
+			<marker class="begin-verse" mid="v14027006"/>
+			<v n="6">
+				So Jotham 
+				<crossref let="g" cid="c140276.1"/>
+				 grew powerful, because he directed his ways before the Lord his God.
+			</v>
+			<marker class="begin-verse" mid="v14027007"/>
+			<v n="7">
+				Now the 
+				<crossref let="h" cid="c140277.1"/>
+				 rest of the acts of Jotham, and all his wars and his ways, behold, they are written in the Book of the Kings of Israel and Judah.
+			</v>
+			<marker class="begin-verse" mid="v14027008"/>
+			<v n="8">
+				He was 
+				<crossref let="i" cid="c140278.1"/>
+				 twenty-five years old when he became king, and he reigned for sixteen years in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v14027009"/>
+			<v n="9">
+				And Jotham 
+				<crossref let="j" cid="c140279.1"/>
+				 slept with his fathers [in death], and they buried him in the City of David. Ahaz his son became king in his place.
+			</v>
+			<marker class="begin-verse" mid="v14027010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:56:44.387556</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:56:44.387563</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" bookAbbr="gen" version="ESV">
+		<marker class="begin-verse" mid="v01002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Genesis 2
+			</heading>
+			<heading>
+				The Seventh Day, God Rests
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Thus the 
+				<crossref let="b" cid="c01002001.1">
+				</crossref>
+				heavens and, 
+				<crossref let="c" cid="c01002001.2">
+				</crossref>
+				the earth were finished, and all the host of them.
+			</v>
+			<marker class="begin-verse" mid="v01002002">
+			</marker>
+			<v n="2">
+				And on 
+				<crossref let="d" cid="c01002002.3">
+				</crossref>
+				the seventh, 
+				<crossref let="e" cid="c01002002.4">
+				</crossref>
+				day God finished his work that he had done, and he rested on the seventh day from all his work that he had done.
+			</v>
+			<marker class="begin-verse" mid="v01002003">
+			</marker>
+			<v n="3">
+				So God 
+				<crossref let="f" cid="c01002003.5">
+				</crossref>
+				blessed the, 
+				<crossref let="g" cid="c01002003.6">
+				</crossref>
+				seventh day and made it holy, because on it God rested from all his work that he had done in creation. The Creation of Man and Woman
+				<note nid="n01002003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01002004">
+			</marker>
+			<v n="4">
+				These are 
+				<crossref let="h" cid="c01002004.7">
+				</crossref>
+				the generations, 
+				<crossref let="i" cid="c01002004.8">
+				</crossref>
+				of the heavens and the earth when they were created, in the day that the LORD God made the earth and the heavens.
+			</v>
+			<marker class="begin-verse" mid="v01002005">
+			</marker>
+			<v n="5">
+				When no 
+				<crossref let="j" cid="c01002005.9">
+				</crossref>
+				bush of, 
+				<crossref let="k" cid="c01002005.10">
+				</crossref>
+				the field(1) was yet in the land(2) and no small plant of the field had yet sprung up—for the LORD God had not caused it to rain on the land, and there was no man to work the ground,
+			</v>
+			<marker class="begin-verse" mid="v01002006">
+			</marker>
+			<v n="6">
+				and a 
+				<crossref let="l" cid="c01002006.11">
+				</crossref>
+				mist(3) was, 
+				<crossref let="m" cid="c01002006.12">
+				</crossref>
+				going up from the land and was watering the whole face of the ground—
+				<note nid="n01002006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01002007">
+			</marker>
+			<v n="7">
+				then the 
+				<crossref let="n" cid="c01002007.13">
+				</crossref>
+				LORD God, 
+				<crossref let="o" cid="c01002007.14">
+				</crossref>
+				formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature.
+			</v>
+			<marker class="begin-verse" mid="v01002008">
+			</marker>
+			<v n="8">
+				And the 
+				<crossref let="p" cid="c01002008.15">
+				</crossref>
+				LORD God, 
+				<crossref let="q" cid="c01002008.16">
+				</crossref>
+				planted a garden in Eden, in the east, and there he put the man whom he had formed.
+			</v>
+			<marker class="begin-verse" mid="v01002009">
+			</marker>
+			<v n="9">
+				And out 
+				<crossref let="r" cid="c01002009.17">
+				</crossref>
+				of the, 
+				<crossref let="s" cid="c01002009.18">
+				</crossref>
+				ground the LORD God made to spring up every tree that is pleasant to the sight and good for food. The tree of life was in the midst of the garden, and the tree of the knowledge of good and evil.
+				<note nid="n01002009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01002010">
+			</marker>
+			<v n="10">
+				A river 
+				<crossref let="t" cid="c01002010.19">
+				</crossref>
+				flowed out, 
+				<crossref let="u" cid="c01002010.20">
+				</crossref>
+				of Eden to water the garden, and there it divided and became four rivers.
+			</v>
+			<marker class="begin-verse" mid="v01002011">
+			</marker>
+			<v n="11">
+				The name 
+				<crossref let="v" cid="c01002011.21">
+				</crossref>
+				of the, 
+				<crossref let="w" cid="c01002011.22">
+				</crossref>
+				first is the Pishon. It is the one that flowed around the whole land of Havilah, where there is gold.
+			</v>
+			<marker class="begin-verse" mid="v01002012">
+			</marker>
+			<v n="12">
+				And the 
+				<crossref let="x" cid="c01002012.23">
+				</crossref>
+				gold of, 
+				<crossref let="y" cid="c01002012.24">
+				</crossref>
+				that land is good; bdellium and onyx stone are there.
+				<note nid="n01002012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01002013">
+			</marker>
+			<v n="13">
+				The name 
+				<crossref let="z" cid="c01002013.25">
+				</crossref>
+				of the, 
+				<crossref let="a" cid="c01002013.26">
+				</crossref>
+				second river is the Gihon. It is the one that flowed around the whole land of Cush.
+			</v>
+			<marker class="begin-verse" mid="v01002014">
+			</marker>
+			<v n="14">
+				And the 
+				<crossref let="b" cid="c01002014.27">
+				</crossref>
+				name of, 
+				<crossref let="c" cid="c01002014.28">
+				</crossref>
+				the third river is the Tigris, which flows east of Assyria.(4) And the fourth river is the Euphrates.
+			</v>
+			<marker class="begin-verse" mid="v01002015">
+			</marker>
+			<v n="15">
+				The LORD 
+				<crossref let="d" cid="c01002015.29">
+				</crossref>
+				God took, 
+				<crossref let="e" cid="c01002015.30">
+				</crossref>
+				the man and put him in the garden of Eden to work it and keep it.
+				<note nid="n01002015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01002016">
+			</marker>
+			<v n="16">
+				And the 
+				<crossref let="f" cid="c01002016.31">
+				</crossref>
+				LORD God, 
+				<crossref let="g" cid="c01002016.32">
+				</crossref>
+				commanded the man, saying, “You may surely eat of every tree of the garden,
+			</v>
+			<marker class="begin-verse" mid="v01002017">
+			</marker>
+			<v n="17">
+				but of 
+				<crossref let="h" cid="c01002017.33">
+				</crossref>
+				the tree, 
+				<crossref let="i" cid="c01002017.34">
+				</crossref>
+				of the knowledge of good and evil you shall not eat, for in the day that you eat(5) of it you shall surely die.”
+			</v>
+			<marker class="begin-verse" mid="v01002018">
+			</marker>
+			<v n="18">
+				Then the 
+				<crossref let="j" cid="c01002018.35">
+				</crossref>
+				LORD God, 
+				<crossref let="k" cid="c01002018.36">
+				</crossref>
+				said, “It is not good that the man should be alone; I will make him a helper fit for(6) him.”
+				<note nid="n01002018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01002019">
+			</marker>
+			<v n="19">
+				Now out 
+				<crossref let="l" cid="c01002019.37">
+				</crossref>
+				of the, 
+				<crossref let="m" cid="c01002019.38">
+				</crossref>
+				ground the LORD God had formed(7) every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name.
+			</v>
+			<marker class="begin-verse" mid="v01002020">
+			</marker>
+			<v n="20">
+				The man 
+				<crossref let="n" cid="c01002020.39">
+				</crossref>
+				gave names, 
+				<crossref let="o" cid="c01002020.40">
+				</crossref>
+				to all livestock and to the birds of the heavens and to every beast of the field. But for Adam(8) there was not found a helper fit for him.
+			</v>
+			<marker class="begin-verse" mid="v01002021">
+			</marker>
+			<v n="21">
+				So the 
+				<crossref let="p" cid="c01002021.41">
+				</crossref>
+				LORD God, 
+				<crossref let="q" cid="c01002021.42">
+				</crossref>
+				caused a deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh.
+				<note nid="n01002021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01002022">
+			</marker>
+			<v n="22">
+				And the 
+				<crossref let="r" cid="c01002022.43">
+				</crossref>
+				rib that, 
+				<crossref let="s" cid="c01002022.44">
+				</crossref>
+				the LORD God had taken from the man he made(9) into a woman and brought her to the man.
+			</v>
+			<marker class="begin-verse" mid="v01002023">
+			</marker>
+			<v n="23">
+				Then the 
+				<crossref let="t" cid="c01002023.45">
+				</crossref>
+				man said,, 
+				<crossref let="u" cid="c01002023.46">
+				</crossref>
+				“This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man.”(10)
+			</v>
+			<marker class="begin-verse" mid="v01002024">
+			</marker>
+			<v n="24">
+				Therefore a 
+				<crossref let="v" cid="c01002024.47">
+				</crossref>
+				man shall, 
+				<crossref let="w" cid="c01002024.48">
+				</crossref>
+				leave his father and his mother and hold fast to his wife, and they shall become one flesh.
+				<note nid="n01002024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01002025">
+			</marker>
+			<v n="25">
+				And the 
+				<crossref let="x" cid="c01002025.49">
+				</crossref>
+				man and, 
+				<crossref let="y" cid="c01002025.50">
+				</crossref>
+				his wife were both naked and were not ashamed. Footnotes (1) 2:5 Or *open country* (2) 2:5 Or *earth*; also verse 6 (3) 2:6 Or *spring* (4) 2:14 Or *Asshur* (5) 2:17 Or *when you eat* (6) 2:18 Or *corresponding to*; also verse 20 (7) 2:19 Or *And out of the ground the Lord God formed* (8) 2:20 Or *the man* (9) 2:22 Hebrew *built* (10) 2:23 The Hebrew words for *woman* (*ishshah*) and *man* (*ish*) sound alike (ESV)
+			</v>
+			<marker class="begin-verse" mid="v01002026">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:42:42.063407</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:42:42.063415</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" version="NLT" bookAbbr="job">
+		<marker class="begin-verse" mid="v18026001"/>
+		<chapter num="26">
+			<heading>Job’s Ninth Speech: A Response to Bildad</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then Job 
+				<crossref let="b" cid="c180261.1"/>
+				 spoke again:
+			</v>
+			<marker class="begin-verse" mid="v18026002"/>
+			<v n="2">
+				“How you 
+				<crossref let="c" cid="c180262.1"/>
+				 have helped the powerless!How you have saved the weak!
+			</v>
+			<marker class="begin-verse" mid="v18026003"/>
+			<v n="3">
+				How you 
+				<crossref let="d" cid="c180263.1"/>
+				 have enlightened my stupidity!What wise advice you have offered!
+			</v>
+			<marker class="begin-verse" mid="v18026004"/>
+			<v n="4">
+				Where have 
+				<crossref let="e" cid="c180264.1"/>
+				 you gotten all these wise sayings?Whose spirit speaks through you?
+			</v>
+			<marker class="begin-verse" mid="v18026005"/>
+			<v n="5">
+				“The dead 
+				<crossref let="f" cid="c180265.1"/>
+				 tremble—those who live beneath the waters.
+			</v>
+			<marker class="begin-verse" mid="v18026006"/>
+			<v n="6">
+				The underworld 
+				<crossref let="g" cid="c180266.1"/>
+				 is naked in God’s presence.The place of destruction is uncovered.
+			</v>
+			<marker class="begin-verse" mid="v18026007"/>
+			<v n="7">
+				God stretches 
+				<crossref let="h" cid="c180267.1"/>
+				 the northern sky over empty spaceand hangs the earth on nothing.
+			</v>
+			<marker class="begin-verse" mid="v18026008"/>
+			<v n="8">
+				He wraps 
+				<crossref let="i" cid="c180268.1"/>
+				 the rain in his thick clouds,and the clouds don’t burst with the weight.
+			</v>
+			<marker class="begin-verse" mid="v18026009"/>
+			<v n="9">
+				He covers 
+				<crossref let="j" cid="c180269.1"/>
+				 the face of the moon,shrouding it with his clouds.
+			</v>
+			<marker class="begin-verse" mid="v18026010"/>
+			<v n="10">
+				He created 
+				<crossref let="k" cid="c1802610.1"/>
+				 the horizon when he separated the waters;he set the boundary between day and night.
+			</v>
+			<marker class="begin-verse" mid="v18026011"/>
+			<v n="11">
+				The foundations 
+				<crossref let="l" cid="c1802611.1"/>
+				 of heaven tremble;they shudder at his rebuke.
+			</v>
+			<marker class="begin-verse" mid="v18026012"/>
+			<v n="12">
+				By his 
+				<crossref let="m" cid="c1802612.1"/>
+				 power the sea grew calm.By his skill he crushed the great sea monster.
+			</v>
+			<marker class="begin-verse" mid="v18026013"/>
+			<v n="13">
+				His Spirit 
+				<crossref let="n" cid="c1802613.1"/>
+				 made the heavens beautiful,and his power pierced the gliding serpent.
+			</v>
+			<marker class="begin-verse" mid="v18026014"/>
+			<v n="14">
+				These are 
+				<crossref let="o" cid="c1802614.1"/>
+				 just the beginning of all that he does,merely a whisper of his power.Who, then, can comprehend the thunder of his power?”
+			</v>
+			<marker class="begin-verse" mid="v18026015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

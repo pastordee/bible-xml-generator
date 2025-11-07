@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:42:58.046829</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:42:58.046838</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19015001"/>
+		<chapter num="15">
+			<heading>A Psalm by David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh, who 
+				<crossref let="b" cid="c190151.1"/>
+				 shall dwell in your sanctuary?Who shall live on your holy hill?
+			</v>
+			<marker class="begin-verse" mid="v19015002"/>
+			<v n="2">
+				He who 
+				<crossref let="c" cid="c190152.1"/>
+				 walks blamelessly and does what is right,and speaks truth in his heart;
+			</v>
+			<marker class="begin-verse" mid="v19015003"/>
+			<v n="3">
+				he who 
+				<crossref let="d" cid="c190153.1"/>
+				 doesn’t slander with his tongue,nor does evil to his friend,nor casts slurs against his fellow man;
+			</v>
+			<marker class="begin-verse" mid="v19015004"/>
+			<v n="4">
+				in whose 
+				<crossref let="e" cid="c190154.1"/>
+				 eyes a vile man is despised,but who honors those who fear Yahweh;he who keeps an oath even when it hurts, and doesn’t change;
+			</v>
+			<marker class="begin-verse" mid="v19015005"/>
+			<v n="5">
+				he who 
+				<crossref let="f" cid="c190155.1"/>
+				 doesn’t lend out his money for usury,nor take a bribe against the innocent.He who does these things shall never be shaken.
+			</v>
+			<marker class="begin-verse" mid="v19015006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:18:19.037244</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:18:19.037260</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19123001"/>
+		<chapter num="123">
+			<heading>A song for pilgrims going up to Jerusalem.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I look 
+				<crossref let="b" cid="c191231.1"/>
+				 up to you, the one who rules from heaven.
+			</v>
+			<marker class="begin-verse" mid="v19123002"/>
+			<v n="2">
+				Just as 
+				<crossref let="c" cid="c191232.1"/>
+				 servants look to their master, or a maid looks to her mistress, so we keep our eyes on you, Lord our God, waiting for you to be merciful to us.
+			</v>
+			<marker class="begin-verse" mid="v19123003"/>
+			<v n="3">
+				Please have 
+				<crossref let="d" cid="c191233.1"/>
+				 mercy on us, Lord, have mercy. We've had enough of people's contempt.
+			</v>
+			<marker class="begin-verse" mid="v19123004"/>
+			<v n="4">
+				We've had 
+				<crossref let="e" cid="c191234.1"/>
+				 more than enough of the scorn of the proud, and the contempt of the arrogant.
+			</v>
+			<marker class="begin-verse" mid="v19123005"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:46:20.736408</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:46:20.736448</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" version="BSB" bookAbbr="deu">
+		<marker class="begin-verse" mid="v05034001"/>
+		<chapter num="34">
+			<heading>The Death of Moses</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then Moses 
+				<crossref let="b" cid="c050341.1"/>
+				 went up from the plains of Moab to Mount Nebo, to the top of Pisgah, which faces Jericho. And the LORD showed him the whole land—from Gilead as far as Dan,
+			</v>
+			<marker class="begin-verse" mid="v05034002"/>
+			<v n="2">
+				all of 
+				<crossref let="c" cid="c050342.1"/>
+				 Naphtali, the land of Ephraim and Manasseh, all the land of Judah as far as the Western Sea,
+			</v>
+			<marker class="begin-verse" mid="v05034003"/>
+			<v n="3">
+				the Negev, 
+				<crossref let="d" cid="c050343.1"/>
+				 and the region from the Valley of Jericho (the City of Palms) all the way to Zoar.
+			</v>
+			<marker class="begin-verse" mid="v05034004"/>
+			<v n="4">
+				And the 
+				<crossref let="e" cid="c050344.1"/>
+				 LORD said to him, “This is the land that I swore to give Abraham, Isaac, and Jacob when I said, ‘I will give it to your descendants.’ I have let you see it with your own eyes, but you will not cross into it.”
+			</v>
+			<marker class="begin-verse" mid="v05034005"/>
+			<v n="5">
+				So Moses 
+				<crossref let="f" cid="c050345.1"/>
+				 the servant of the LORD died there in the land of Moab, as the LORD had said.
+			</v>
+			<marker class="begin-verse" mid="v05034006"/>
+			<v n="6">
+				And He 
+				<crossref let="g" cid="c050346.1"/>
+				 buried him in a valley in the land of Moab facing Beth-peor, and no one to this day knows the location of his grave.
+			</v>
+			<marker class="begin-verse" mid="v05034007"/>
+			<v n="7">
+				Moses was 
+				<crossref let="h" cid="c050347.1"/>
+				 a hundred and twenty years old when he died, yet his eyes were not weak, and his vitality had not diminished.
+			</v>
+			<marker class="begin-verse" mid="v05034008"/>
+			<v n="8">
+				The Israelites 
+				<crossref let="i" cid="c050348.1"/>
+				 grieved for Moses in the plains of Moab thirty days, until the time of weeping and mourning for Moses came to an end.
+			</v>
+			<marker class="begin-verse" mid="v05034009"/>
+			<v n="9">
+				Now Joshua 
+				<crossref let="j" cid="c050349.1"/>
+				 son of Nun was filled with the spirit of wisdom because Moses had laid his hands on him. So the Israelites obeyed him and did as the LORD had commanded Moses.
+			</v>
+			<marker class="begin-verse" mid="v05034010"/>
+			<v n="10">
+				Since that 
+				<crossref let="k" cid="c0503410.1"/>
+				 time, no prophet has risen in Israel like Moses, whom the LORD knew face to face—
+			</v>
+			<marker class="begin-verse" mid="v05034011"/>
+			<v n="11">
+				no prophet 
+				<crossref let="l" cid="c0503411.1"/>
+				 who did all the signs and wonders that the LORD sent Moses to do in the land of Egypt to Pharaoh and to all his officials and all his land,
+			</v>
+			<marker class="begin-verse" mid="v05034012"/>
+			<v n="12">
+				and no 
+				<crossref let="m" cid="c0503412.1"/>
+				 prophet who performed all the mighty acts of power and awesome deeds that Moses did in the sight of all Israel.
+			</v>
+			<marker class="begin-verse" mid="v05034013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

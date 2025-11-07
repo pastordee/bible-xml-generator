@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:00:38.964136</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:00:38.964172</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" version="NKJV" bookAbbr="act">
+		<marker class="begin-verse" mid="v44006001"/>
+		<chapter num="6">
+			<heading>Seven Chosen to Serve</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Now in 
+				<crossref let="b" cid="c440061.1"/>
+				 those days, when the number of the disciples was multiplying, there arose a complaint against the Hebrews by the Hellenists, because their widows were neglected in the daily distribution.
+			</v>
+			<marker class="begin-verse" mid="v44006002"/>
+			<v n="2">
+				Then the 
+				<crossref let="c" cid="c440062.1"/>
+				 twelve summoned the multitude of the disciples and said, “It is not desirable that we should leave the word of God and serve tables.
+			</v>
+			<marker class="begin-verse" mid="v44006003"/>
+			<v n="3">
+				Therefore, brethren, 
+				<crossref let="d" cid="c440063.1"/>
+				 seek out from among you seven men of good reputation, full of the Holy Spirit and wisdom, whom we may appoint over this business;
+			</v>
+			<marker class="begin-verse" mid="v44006004"/>
+			<v n="4">
+				but we 
+				<crossref let="e" cid="c440064.1"/>
+				 will give ourselves continually to prayer and to the ministry of the word.”
+			</v>
+			<marker class="begin-verse" mid="v44006005"/>
+			<v n="5">
+				And the 
+				<crossref let="f" cid="c440065.1"/>
+				 saying pleased the whole multitude. And they chose Stephen, a man full of faith and the Holy Spirit, and Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolas, a proselyte from Antioch,
+			</v>
+			<marker class="begin-verse" mid="v44006006"/>
+			<v n="6">
+				whom they 
+				<crossref let="g" cid="c440066.1"/>
+				 set before the apostles; and when they had prayed, they laid hands on them.
+			</v>
+			<marker class="begin-verse" mid="v44006007"/>
+			<v n="7">
+				Then the 
+				<crossref let="h" cid="c440067.1"/>
+				 word of God spread, and the number of the disciples multiplied greatly in Jerusalem, and a great many of the priests were obedient to the faith.Stephen Accused of Blasphemy
+			</v>
+			<marker class="begin-verse" mid="v44006008"/>
+			<v n="8">
+				And Stephen, 
+				<crossref let="i" cid="c440068.1"/>
+				 full of faith and power, did great wonders and signs among the people.
+			</v>
+			<marker class="begin-verse" mid="v44006009"/>
+			<v n="9">
+				Then there 
+				<crossref let="j" cid="c440069.1"/>
+				 arose some from what is called the Synagogue of the Freedmen (Cyrenians, Alexandrians, and those from Cilicia and Asia), disputing with Stephen.
+			</v>
+			<marker class="begin-verse" mid="v44006010"/>
+			<v n="10">
+				And they 
+				<crossref let="k" cid="c4400610.1"/>
+				 were not able to resist the wisdom and the Spirit by which he spoke.
+			</v>
+			<marker class="begin-verse" mid="v44006011"/>
+			<v n="11">
+				Then they 
+				<crossref let="l" cid="c4400611.1"/>
+				 secretly induced men to say, “We have heard him speak blasphemous words against Moses and God.”
+			</v>
+			<marker class="begin-verse" mid="v44006012"/>
+			<v n="12">
+				And they 
+				<crossref let="m" cid="c4400612.1"/>
+				 stirred up the people, the elders, and the scribes; and they came upon him, seized him, and brought him to the council.
+			</v>
+			<marker class="begin-verse" mid="v44006013"/>
+			<v n="13">
+				They also 
+				<crossref let="n" cid="c4400613.1"/>
+				 set up false witnesses who said, “This man does not cease to speak blasphemous words against this holy place and the law;
+			</v>
+			<marker class="begin-verse" mid="v44006014"/>
+			<v n="14">
+				for we 
+				<crossref let="o" cid="c4400614.1"/>
+				 have heard him say that this Jesus of Nazareth will destroy this place and change the customs which Moses delivered to us.”
+			</v>
+			<marker class="begin-verse" mid="v44006015"/>
+			<v n="15">
+				And all 
+				<crossref let="p" cid="c4400615.1"/>
+				 who sat in the council, looking steadfastly at him, saw his face as the face of an angel.
+			</v>
+			<marker class="begin-verse" mid="v44006016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

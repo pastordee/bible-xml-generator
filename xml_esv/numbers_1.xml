@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:01:08.583318</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:01:08.583327</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" bookAbbr="num" version="ESV">
+		<marker class="begin-verse" mid="v04001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Numbers 1
+			</heading>
+			<heading>
+				A Census of Israel’s Warriors
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c04001001.1">
+				</crossref>
+				spoke to, 
+				<crossref let="c" cid="c04001001.2">
+				</crossref>
+				Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month, in the second year after they had come out of the land of Egypt, saying,
+			</v>
+			<marker class="begin-verse" mid="v04001002">
+			</marker>
+			<v n="2">
+				“Take a 
+				<crossref let="d" cid="c04001002.3">
+				</crossref>
+				census of, 
+				<crossref let="e" cid="c04001002.4">
+				</crossref>
+				all the congregation of the people of Israel, by clans, by fathers’ houses, according to the number of names, every male, head by head.
+			</v>
+			<marker class="begin-verse" mid="v04001003">
+			</marker>
+			<v n="3">
+				From twenty 
+				<crossref let="f" cid="c04001003.5">
+				</crossref>
+				years old, 
+				<crossref let="g" cid="c04001003.6">
+				</crossref>
+				and upward, all in Israel who are able to go to war, you and Aaron shall list them, company by company.
+				<note nid="n04001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001004">
+			</marker>
+			<v n="4">
+				And there 
+				<crossref let="h" cid="c04001004.7">
+				</crossref>
+				shall be, 
+				<crossref let="i" cid="c04001004.8">
+				</crossref>
+				with you a man from each tribe, each man being the head of the house of his fathers.
+			</v>
+			<marker class="begin-verse" mid="v04001005">
+			</marker>
+			<v n="5">
+				And these 
+				<crossref let="j" cid="c04001005.9">
+				</crossref>
+				are the, 
+				<crossref let="k" cid="c04001005.10">
+				</crossref>
+				names of the men who shall assist you. From Reuben, Elizur the son of Shedeur;
+			</v>
+			<marker class="begin-verse" mid="v04001006">
+			</marker>
+			<v n="6">
+				from Simeon, 
+				<crossref let="l" cid="c04001006.11">
+				</crossref>
+				Shelumiel the, 
+				<crossref let="m" cid="c04001006.12">
+				</crossref>
+				son of Zurishaddai;
+				<note nid="n04001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001007">
+			</marker>
+			<v n="7">
+				from Judah, 
+				<crossref let="n" cid="c04001007.13">
+				</crossref>
+				Nahshon the, 
+				<crossref let="o" cid="c04001007.14">
+				</crossref>
+				son of Amminadab;
+			</v>
+			<marker class="begin-verse" mid="v04001008">
+			</marker>
+			<v n="8">
+				from Issachar, 
+				<crossref let="p" cid="c04001008.15">
+				</crossref>
+				Nethanel the, 
+				<crossref let="q" cid="c04001008.16">
+				</crossref>
+				son of Zuar;
+			</v>
+			<marker class="begin-verse" mid="v04001009">
+			</marker>
+			<v n="9">
+				from Zebulun, 
+				<crossref let="r" cid="c04001009.17">
+				</crossref>
+				Eliab the, 
+				<crossref let="s" cid="c04001009.18">
+				</crossref>
+				son of Helon;
+				<note nid="n04001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001010">
+			</marker>
+			<v n="10">
+				from the 
+				<crossref let="t" cid="c04001010.19">
+				</crossref>
+				sons of, 
+				<crossref let="u" cid="c04001010.20">
+				</crossref>
+				Joseph, from Ephraim, Elishama the son of Ammihud, and from Manasseh, Gamaliel the son of Pedahzur;
+			</v>
+			<marker class="begin-verse" mid="v04001011">
+			</marker>
+			<v n="11">
+				from Benjamin, 
+				<crossref let="v" cid="c04001011.21">
+				</crossref>
+				Abidan the, 
+				<crossref let="w" cid="c04001011.22">
+				</crossref>
+				son of Gideoni;
+			</v>
+			<marker class="begin-verse" mid="v04001012">
+			</marker>
+			<v n="12">
+				from Dan, 
+				<crossref let="x" cid="c04001012.23">
+				</crossref>
+				Ahiezer the, 
+				<crossref let="y" cid="c04001012.24">
+				</crossref>
+				son of Ammishaddai;
+				<note nid="n04001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001013">
+			</marker>
+			<v n="13">
+				from Asher, 
+				<crossref let="z" cid="c04001013.25">
+				</crossref>
+				Pagiel the, 
+				<crossref let="a" cid="c04001013.26">
+				</crossref>
+				son of Ochran;
+			</v>
+			<marker class="begin-verse" mid="v04001014">
+			</marker>
+			<v n="14">
+				from Gad, 
+				<crossref let="b" cid="c04001014.27">
+				</crossref>
+				Eliasaph the, 
+				<crossref let="c" cid="c04001014.28">
+				</crossref>
+				son of Deuel;
+			</v>
+			<marker class="begin-verse" mid="v04001015">
+			</marker>
+			<v n="15">
+				from Naphtali, 
+				<crossref let="d" cid="c04001015.29">
+				</crossref>
+				Ahira the, 
+				<crossref let="e" cid="c04001015.30">
+				</crossref>
+				son of Enan.”
+				<note nid="n04001015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001016">
+			</marker>
+			<v n="16">
+				These were 
+				<crossref let="f" cid="c04001016.31">
+				</crossref>
+				the ones, 
+				<crossref let="g" cid="c04001016.32">
+				</crossref>
+				chosen from the congregation, the chiefs of their ancestral tribes, the heads of the clans of Israel.
+			</v>
+			<marker class="begin-verse" mid="v04001017">
+			</marker>
+			<v n="17">
+				Moses and 
+				<crossref let="h" cid="c04001017.33">
+				</crossref>
+				Aaron took, 
+				<crossref let="i" cid="c04001017.34">
+				</crossref>
+				these men who had been named,
+			</v>
+			<marker class="begin-verse" mid="v04001018">
+			</marker>
+			<v n="18">
+				and on 
+				<crossref let="j" cid="c04001018.35">
+				</crossref>
+				the first, 
+				<crossref let="k" cid="c04001018.36">
+				</crossref>
+				day of the second month, they assembled the whole congregation together, who registered themselves by clans, by fathers’ houses, according to the number of names from twenty years old and upward, head by head,
+				<note nid="n04001018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001019">
+			</marker>
+			<v n="19">
+				as the 
+				<crossref let="l" cid="c04001019.37">
+				</crossref>
+				LORD commanded, 
+				<crossref let="m" cid="c04001019.38">
+				</crossref>
+				Moses. So he listed them in the wilderness of Sinai.
+			</v>
+			<marker class="begin-verse" mid="v04001020">
+			</marker>
+			<v n="20">
+				The people 
+				<crossref let="n" cid="c04001020.39">
+				</crossref>
+				of Reuben,, 
+				<crossref let="o" cid="c04001020.40">
+				</crossref>
+				Israel’s firstborn, their generations, by their clans, by their fathers’ houses, according to the number of names, head by head, every male from twenty years old and upward, all who were able to go to war:
+			</v>
+			<marker class="begin-verse" mid="v04001021">
+			</marker>
+			<v n="21">
+				those listed 
+				<crossref let="p" cid="c04001021.41">
+				</crossref>
+				of the, 
+				<crossref let="q" cid="c04001021.42">
+				</crossref>
+				tribe of Reuben were 46,500.
+				<note nid="n04001021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001022">
+			</marker>
+			<v n="22">
+				Of the 
+				<crossref let="r" cid="c04001022.43">
+				</crossref>
+				people of, 
+				<crossref let="s" cid="c04001022.44">
+				</crossref>
+				Simeon, their generations, by their clans, by their fathers’ houses, those of them who were listed, according to the number of names, head by head, every male from twenty years old and upward, all who were able to go to war:
+			</v>
+			<marker class="begin-verse" mid="v04001023">
+			</marker>
+			<v n="23">
+				those listed 
+				<crossref let="t" cid="c04001023.45">
+				</crossref>
+				of the, 
+				<crossref let="u" cid="c04001023.46">
+				</crossref>
+				tribe of Simeon were 59,300.
+			</v>
+			<marker class="begin-verse" mid="v04001024">
+			</marker>
+			<v n="24">
+				Of the 
+				<crossref let="v" cid="c04001024.47">
+				</crossref>
+				people of, 
+				<crossref let="w" cid="c04001024.48">
+				</crossref>
+				Gad, their generations, by their clans, by their fathers’ houses, according to the number of the names, from twenty years old and upward, all who were able to go to war:
+				<note nid="n04001024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001025">
+			</marker>
+			<v n="25">
+				those listed 
+				<crossref let="x" cid="c04001025.49">
+				</crossref>
+				of the, 
+				<crossref let="y" cid="c04001025.50">
+				</crossref>
+				tribe of Gad were 45,650.
+			</v>
+			<marker class="begin-verse" mid="v04001026">
+			</marker>
+			<v n="26">
+				Of the 
+				<crossref let="z" cid="c04001026.51">
+				</crossref>
+				people of, 
+				<crossref let="a" cid="c04001026.52">
+				</crossref>
+				Judah, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
+			</v>
+			<marker class="begin-verse" mid="v04001027">
+			</marker>
+			<v n="27">
+				those listed 
+				<crossref let="b" cid="c04001027.53">
+				</crossref>
+				of the, 
+				<crossref let="c" cid="c04001027.54">
+				</crossref>
+				tribe of Judah were 74,600.
+				<note nid="n04001027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001028">
+			</marker>
+			<v n="28">
+				Of the 
+				<crossref let="d" cid="c04001028.55">
+				</crossref>
+				people of, 
+				<crossref let="e" cid="c04001028.56">
+				</crossref>
+				Issachar, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
+			</v>
+			<marker class="begin-verse" mid="v04001029">
+			</marker>
+			<v n="29">
+				those listed 
+				<crossref let="f" cid="c04001029.57">
+				</crossref>
+				of the, 
+				<crossref let="g" cid="c04001029.58">
+				</crossref>
+				tribe of Issachar were 54,400.
+			</v>
+			<marker class="begin-verse" mid="v04001030">
+			</marker>
+			<v n="30">
+				Of the 
+				<crossref let="h" cid="c04001030.59">
+				</crossref>
+				people of, 
+				<crossref let="i" cid="c04001030.60">
+				</crossref>
+				Zebulun, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
+				<note nid="n04001030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001031">
+			</marker>
+			<v n="31">
+				those listed 
+				<crossref let="j" cid="c04001031.61">
+				</crossref>
+				of the, 
+				<crossref let="k" cid="c04001031.62">
+				</crossref>
+				tribe of Zebulun were 57,400.
+			</v>
+			<marker class="begin-verse" mid="v04001032">
+			</marker>
+			<v n="32">
+				Of the 
+				<crossref let="l" cid="c04001032.63">
+				</crossref>
+				people of, 
+				<crossref let="m" cid="c04001032.64">
+				</crossref>
+				Joseph, namely, of the people of Ephraim, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
+			</v>
+			<marker class="begin-verse" mid="v04001033">
+			</marker>
+			<v n="33">
+				those listed 
+				<crossref let="n" cid="c04001033.65">
+				</crossref>
+				of the, 
+				<crossref let="o" cid="c04001033.66">
+				</crossref>
+				tribe of Ephraim were 40,500.
+				<note nid="n04001033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001034">
+			</marker>
+			<v n="34">
+				Of the 
+				<crossref let="p" cid="c04001034.67">
+				</crossref>
+				people of, 
+				<crossref let="q" cid="c04001034.68">
+				</crossref>
+				Manasseh, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
+			</v>
+			<marker class="begin-verse" mid="v04001035">
+			</marker>
+			<v n="35">
+				those listed 
+				<crossref let="r" cid="c04001035.69">
+				</crossref>
+				of the, 
+				<crossref let="s" cid="c04001035.70">
+				</crossref>
+				tribe of Manasseh were 32,200.
+			</v>
+			<marker class="begin-verse" mid="v04001036">
+			</marker>
+			<v n="36">
+				Of the 
+				<crossref let="t" cid="c04001036.71">
+				</crossref>
+				people of, 
+				<crossref let="u" cid="c04001036.72">
+				</crossref>
+				Benjamin, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
+				<note nid="n04001036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001037">
+			</marker>
+			<v n="37">
+				those listed 
+				<crossref let="v" cid="c04001037.73">
+				</crossref>
+				of the, 
+				<crossref let="w" cid="c04001037.74">
+				</crossref>
+				tribe of Benjamin were 35,400.
+			</v>
+			<marker class="begin-verse" mid="v04001038">
+			</marker>
+			<v n="38">
+				Of the 
+				<crossref let="x" cid="c04001038.75">
+				</crossref>
+				people of, 
+				<crossref let="y" cid="c04001038.76">
+				</crossref>
+				Dan, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
+			</v>
+			<marker class="begin-verse" mid="v04001039">
+			</marker>
+			<v n="39">
+				those listed 
+				<crossref let="z" cid="c04001039.77">
+				</crossref>
+				of the, 
+				<crossref let="a" cid="c04001039.78">
+				</crossref>
+				tribe of Dan were 62,700.
+				<note nid="n04001039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001040">
+			</marker>
+			<v n="40">
+				Of the 
+				<crossref let="b" cid="c04001040.79">
+				</crossref>
+				people of, 
+				<crossref let="c" cid="c04001040.80">
+				</crossref>
+				Asher, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
+			</v>
+			<marker class="begin-verse" mid="v04001041">
+			</marker>
+			<v n="41">
+				those listed 
+				<crossref let="d" cid="c04001041.81">
+				</crossref>
+				of the, 
+				<crossref let="e" cid="c04001041.82">
+				</crossref>
+				tribe of Asher were 41,500.
+			</v>
+			<marker class="begin-verse" mid="v04001042">
+			</marker>
+			<v n="42">
+				Of the 
+				<crossref let="f" cid="c04001042.83">
+				</crossref>
+				people of, 
+				<crossref let="g" cid="c04001042.84">
+				</crossref>
+				Naphtali, their generations, by their clans, by their fathers’ houses, according to the number of names, from twenty years old and upward, every man able to go to war:
+				<note nid="n04001042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001043">
+			</marker>
+			<v n="43">
+				those listed 
+				<crossref let="h" cid="c04001043.85">
+				</crossref>
+				of the, 
+				<crossref let="i" cid="c04001043.86">
+				</crossref>
+				tribe of Naphtali were 53,400.
+			</v>
+			<marker class="begin-verse" mid="v04001044">
+			</marker>
+			<v n="44">
+				These are 
+				<crossref let="j" cid="c04001044.87">
+				</crossref>
+				those who, 
+				<crossref let="k" cid="c04001044.88">
+				</crossref>
+				were listed, whom Moses and Aaron listed with the help of the chiefs of Israel, twelve men, each representing his fathers’ house.
+			</v>
+			<marker class="begin-verse" mid="v04001045">
+			</marker>
+			<v n="45">
+				So all 
+				<crossref let="l" cid="c04001045.89">
+				</crossref>
+				those listed, 
+				<crossref let="m" cid="c04001045.90">
+				</crossref>
+				of the people of Israel, by their fathers’ houses, from twenty years old and upward, every man able to go to war in Israel—
+				<note nid="n04001045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001046">
+			</marker>
+			<v n="46">
+				all those 
+				<crossref let="n" cid="c04001046.91">
+				</crossref>
+				listed were, 
+				<crossref let="o" cid="c04001046.92">
+				</crossref>
+				603,550. Levites Exempted
+			</v>
+			<marker class="begin-verse" mid="v04001047">
+			</marker>
+			<v n="47">
+				But the 
+				<crossref let="p" cid="c04001047.93">
+				</crossref>
+				Levites were, 
+				<crossref let="q" cid="c04001047.94">
+				</crossref>
+				not listed along with them by their ancestral tribe.
+			</v>
+			<marker class="begin-verse" mid="v04001048">
+			</marker>
+			<v n="48">
+				For the 
+				<crossref let="r" cid="c04001048.95">
+				</crossref>
+				LORD spoke, 
+				<crossref let="s" cid="c04001048.96">
+				</crossref>
+				to Moses, saying,
+				<note nid="n04001048.48">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001049">
+			</marker>
+			<v n="49">
+				“Only the 
+				<crossref let="t" cid="c04001049.97">
+				</crossref>
+				tribe of, 
+				<crossref let="u" cid="c04001049.98">
+				</crossref>
+				Levi you shall not list, and you shall not take a census of them among the people of Israel.
+			</v>
+			<marker class="begin-verse" mid="v04001050">
+			</marker>
+			<v n="50">
+				But appoint 
+				<crossref let="v" cid="c04001050.99">
+				</crossref>
+				the Levites, 
+				<crossref let="w" cid="c04001050.100">
+				</crossref>
+				over the tabernacle of the testimony, and over all its furnishings, and over all that belongs to it. They are to carry the tabernacle and all its furnishings, and they shall take care of it and shall camp around the tabernacle.
+			</v>
+			<marker class="begin-verse" mid="v04001051">
+			</marker>
+			<v n="51">
+				When the 
+				<crossref let="x" cid="c04001051.101">
+				</crossref>
+				tabernacle is, 
+				<crossref let="y" cid="c04001051.102">
+				</crossref>
+				to set out, the Levites shall take it down, and when the tabernacle is to be pitched, the Levites shall set it up. And if any outsider comes near, he shall be put to death.
+				<note nid="n04001051.51">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001052">
+			</marker>
+			<v n="52">
+				The people 
+				<crossref let="z" cid="c04001052.103">
+				</crossref>
+				of Israel, 
+				<crossref let="a" cid="c04001052.104">
+				</crossref>
+				shall pitch their tents by their companies, each man in his own camp and each man by his own standard.
+			</v>
+			<marker class="begin-verse" mid="v04001053">
+			</marker>
+			<v n="53">
+				But the 
+				<crossref let="b" cid="c04001053.105">
+				</crossref>
+				Levites shall, 
+				<crossref let="c" cid="c04001053.106">
+				</crossref>
+				camp around the tabernacle of the testimony, so that there may be no wrath on the congregation of the people of Israel. And the Levites shall keep guard over the tabernacle of the testimony.”
+			</v>
+			<marker class="begin-verse" mid="v04001054">
+			</marker>
+			<v n="54">
+				Thus did 
+				<crossref let="d" cid="c04001054.107">
+				</crossref>
+				the people, 
+				<crossref let="e" cid="c04001054.108">
+				</crossref>
+				of Israel; they did according to all that the LORD commanded Moses. (ESV)
+				<note nid="n04001054.54">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v04001055">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

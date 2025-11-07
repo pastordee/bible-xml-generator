@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:50:15.249595</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:50:15.249604</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="ASV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23062001"/>
+		<chapter num="62">
+			<begin-paragraph/>
+			<v n="1">
+				For Zion’s 
+				<crossref let="b" cid="c230621.1"/>
+				 sake will I not hold my peace, and for Jerusalem’s sake I will not rest, until her righteousness go forth as brightness, and her salvation as a lamp that burneth.
+			</v>
+			<marker class="begin-verse" mid="v23062002"/>
+			<v n="2">
+				And the 
+				<crossref let="c" cid="c230622.1"/>
+				 nations shall see thy righteousness, and all kings thy glory, and thou shalt be called by a new name, which the mouth of Jehovah shall name.
+			</v>
+			<marker class="begin-verse" mid="v23062003"/>
+			<v n="3">
+				Thou shalt 
+				<crossref let="d" cid="c230623.1"/>
+				 also be a crown of beauty in the hand of Jehovah, and a royal diadem in the hand of thy God.
+			</v>
+			<marker class="begin-verse" mid="v23062004"/>
+			<v n="4">
+				Thou shalt 
+				<crossref let="e" cid="c230624.1"/>
+				 no more be termed Forsaken; neither shall thy land any more be termed Desolate: but thou shalt be called Hephzi-bah, and thy land Beulah; for Jehovah delighteth in thee, and thy land shall be married.
+			</v>
+			<marker class="begin-verse" mid="v23062005"/>
+			<v n="5">
+				For as 
+				<crossref let="f" cid="c230625.1"/>
+				 a young man marrieth a virgin, so shall thy sons marry thee; and as the bridegroom rejoiceth over the bride, so shall thy God rejoice over thee.
+			</v>
+			<marker class="begin-verse" mid="v23062006"/>
+			<v n="6">
+				I have 
+				<crossref let="g" cid="c230626.1"/>
+				 set watchmen upon thy walls, O Jerusalem; they shall never hold their peace day nor night: ye that are Jehovah’s remembrancers, take ye no rest,
+			</v>
+			<marker class="begin-verse" mid="v23062007"/>
+			<v n="7">
+				and give 
+				<crossref let="h" cid="c230627.1"/>
+				 him no rest, till he establish, and till he make Jerusalem a praise in the earth.
+			</v>
+			<marker class="begin-verse" mid="v23062008"/>
+			<v n="8">
+				Jehovah hath 
+				<crossref let="i" cid="c230628.1"/>
+				 sworn by his right hand, and by the arm of his strength, Surely I will no more give thy grain to be food for thine enemies; and foreigners shall not drink thy new wine, for which thou hast labored:
+			</v>
+			<marker class="begin-verse" mid="v23062009"/>
+			<v n="9">
+				but they 
+				<crossref let="j" cid="c230629.1"/>
+				 that have garnered it shall eat it, and praise Jehovah; and they that have gathered it shall drink it in the courts of my sanctuary.
+			</v>
+			<marker class="begin-verse" mid="v23062010"/>
+			<v n="10">
+				Go through, 
+				<crossref let="k" cid="c2306210.1"/>
+				 go through the gates; prepare ye the way of the people; cast up, cast up the highway; gather out the stones; lift up an ensign for the peoples.
+			</v>
+			<marker class="begin-verse" mid="v23062011"/>
+			<v n="11">
+				Behold, Jehovah 
+				<crossref let="l" cid="c2306211.1"/>
+				 hath proclaimed unto the end of the earth, Say ye to the daughter of Zion, Behold, thy salvation cometh; behold, his reward is with him, and his recompense before him.
+			</v>
+			<marker class="begin-verse" mid="v23062012"/>
+			<v n="12">
+				And they 
+				<crossref let="m" cid="c2306212.1"/>
+				 shall call them The holy people, The redeemed of Jehovah: and thou shalt be called Sought out, A city not forsaken.
+			</v>
+			<marker class="begin-verse" mid="v23062013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

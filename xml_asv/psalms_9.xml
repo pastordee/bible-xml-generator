@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:27:44.165782</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:27:44.165793</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19009001"/>
+		<chapter num="9">
+			<heading>For the Chief Musician; set to Muth-labben. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I will 
+				<crossref let="b" cid="c190091.1"/>
+				 give thanks unto Jehovah with my whole heart;I will show forth all thy marvellous works.
+			</v>
+			<marker class="begin-verse" mid="v19009002"/>
+			<v n="2">
+				I will 
+				<crossref let="c" cid="c190092.1"/>
+				 be glad and exult in thee;I will sing praise to thy name, O thou Most High.
+			</v>
+			<marker class="begin-verse" mid="v19009003"/>
+			<v n="3">
+				When mine 
+				<crossref let="d" cid="c190093.1"/>
+				 enemies turn back,They stumble and perish at thy presence.
+			</v>
+			<marker class="begin-verse" mid="v19009004"/>
+			<v n="4">
+				For thou 
+				<crossref let="e" cid="c190094.1"/>
+				 hast maintained my right and my cause;Thou sittest in the throne judging righteously.
+			</v>
+			<marker class="begin-verse" mid="v19009005"/>
+			<v n="5">
+				Thou hast 
+				<crossref let="f" cid="c190095.1"/>
+				 rebuked the nations, thou hast destroyed the wicked;Thou hast blotted out their name for ever and ever.
+			</v>
+			<marker class="begin-verse" mid="v19009006"/>
+			<v n="6">
+				The enemy 
+				<crossref let="g" cid="c190096.1"/>
+				 are come to an end, they are desolate for ever;And the cities which thou hast overthrown,The very remembrance of them is perished.
+			</v>
+			<marker class="begin-verse" mid="v19009007"/>
+			<v n="7">
+				But Jehovah 
+				<crossref let="h" cid="c190097.1"/>
+				 sitteth as king for ever:He hath prepared his throne for judgment;
+			</v>
+			<marker class="begin-verse" mid="v19009008"/>
+			<v n="8">
+				And he 
+				<crossref let="i" cid="c190098.1"/>
+				 will judge the world in righteousness,He will minister judgment to the peoples in uprightness.
+			</v>
+			<marker class="begin-verse" mid="v19009009"/>
+			<v n="9">
+				Jehovah also 
+				<crossref let="j" cid="c190099.1"/>
+				 will be a high tower for the oppressed,A high tower in times of trouble;
+			</v>
+			<marker class="begin-verse" mid="v19009010"/>
+			<v n="10">
+				And they 
+				<crossref let="k" cid="c1900910.1"/>
+				 that know thy name will put their trust in thee;For thou, Jehovah, hast not forsaken them that seek thee.
+			</v>
+			<marker class="begin-verse" mid="v19009011"/>
+			<v n="11">
+				Sing praises 
+				<crossref let="l" cid="c1900911.1"/>
+				 to Jehovah, who dwelleth in Zion:Declare among the people his doings.
+			</v>
+			<marker class="begin-verse" mid="v19009012"/>
+			<v n="12">
+				For he 
+				<crossref let="m" cid="c1900912.1"/>
+				 that maketh inquisition for blood remembereth them;He forgetteth not the cry of the poor.
+			</v>
+			<marker class="begin-verse" mid="v19009013"/>
+			<v n="13">
+				Have mercy 
+				<crossref let="n" cid="c1900913.1"/>
+				 upon me, O Jehovah;Behold my affliction which I suffer of them that hate me,Thou that liftest me up from the gates of death;
+			</v>
+			<marker class="begin-verse" mid="v19009014"/>
+			<v n="14">
+				That I 
+				<crossref let="o" cid="c1900914.1"/>
+				 may show forth all thy praise.In the gates of the daughter of ZionI will rejoice in thy salvation.
+			</v>
+			<marker class="begin-verse" mid="v19009015"/>
+			<v n="15">
+				The nations 
+				<crossref let="p" cid="c1900915.1"/>
+				 are sunk down in the pit that they made:In the net which they hid is their own foot taken.
+			</v>
+			<marker class="begin-verse" mid="v19009016"/>
+			<v n="16">
+				Jehovah hath 
+				<crossref let="q" cid="c1900916.1"/>
+				 made himself known, he hath executed judgment:The wicked is snared in the work of his own hands. [Higgaion. Selah
+			</v>
+			<marker class="begin-verse" mid="v19009017"/>
+			<v n="17">
+				The wicked 
+				<crossref let="r" cid="c1900917.1"/>
+				 shall be turned back unto Sheol,Even all the nations that forget God.
+			</v>
+			<marker class="begin-verse" mid="v19009018"/>
+			<v n="18">
+				For the 
+				<crossref let="s" cid="c1900918.1"/>
+				 needy shall not alway be forgotten,Nor the expectation of the poor perish for ever.
+			</v>
+			<marker class="begin-verse" mid="v19009019"/>
+			<v n="19">
+				Arise, O 
+				<crossref let="t" cid="c1900919.1"/>
+				 Jehovah; let not man prevail:Let the nations be judged in thy sight.
+			</v>
+			<marker class="begin-verse" mid="v19009020"/>
+			<v n="20">
+				Put them 
+				<crossref let="u" cid="c1900920.1"/>
+				 in fear, O Jehovah:Let the nations know themselves to be but men. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19009021"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

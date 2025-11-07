@@ -1,0 +1,577 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:06:14.493617</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:06:14.493629</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" bookAbbr="act" version="ESV">
+		<marker class="begin-verse" mid="v44002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Acts 2
+			</heading>
+			<heading>
+				The Coming of the Holy Spirit
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				When the 
+				<crossref let="b" cid="c44002001.1">
+				</crossref>
+				day of, 
+				<crossref let="c" cid="c44002001.2">
+				</crossref>
+				Pentecost arrived, they were all together in one place.
+			</v>
+			<marker class="begin-verse" mid="v44002002">
+			</marker>
+			<v n="2">
+				And suddenly 
+				<crossref let="d" cid="c44002002.3">
+				</crossref>
+				there came, 
+				<crossref let="e" cid="c44002002.4">
+				</crossref>
+				from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting.
+			</v>
+			<marker class="begin-verse" mid="v44002003">
+			</marker>
+			<v n="3">
+				And divided 
+				<crossref let="f" cid="c44002003.5">
+				</crossref>
+				tongues as, 
+				<crossref let="g" cid="c44002003.6">
+				</crossref>
+				of fire appeared to them and rested(1) on each one of them.
+				<note nid="n44002003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002004">
+			</marker>
+			<v n="4">
+				And they 
+				<crossref let="h" cid="c44002004.7">
+				</crossref>
+				were all, 
+				<crossref let="i" cid="c44002004.8">
+				</crossref>
+				filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.
+			</v>
+			<marker class="begin-verse" mid="v44002005">
+			</marker>
+			<v n="5">
+				Now there 
+				<crossref let="j" cid="c44002005.9">
+				</crossref>
+				were dwelling, 
+				<crossref let="k" cid="c44002005.10">
+				</crossref>
+				in Jerusalem Jews, devout men from every nation under heaven.
+			</v>
+			<marker class="begin-verse" mid="v44002006">
+			</marker>
+			<v n="6">
+				And at 
+				<crossref let="l" cid="c44002006.11">
+				</crossref>
+				this sound, 
+				<crossref let="m" cid="c44002006.12">
+				</crossref>
+				the multitude came together, and they were bewildered, because each one was hearing them speak in his own language.
+				<note nid="n44002006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002007">
+			</marker>
+			<v n="7">
+				And they 
+				<crossref let="n" cid="c44002007.13">
+				</crossref>
+				were amazed, 
+				<crossref let="o" cid="c44002007.14">
+				</crossref>
+				and astonished, saying, “Are not all these who are speaking Galileans?
+			</v>
+			<marker class="begin-verse" mid="v44002008">
+			</marker>
+			<v n="8">
+				And how 
+				<crossref let="p" cid="c44002008.15">
+				</crossref>
+				is it, 
+				<crossref let="q" cid="c44002008.16">
+				</crossref>
+				that we hear, each of us in his own native language?
+			</v>
+			<marker class="begin-verse" mid="v44002009">
+			</marker>
+			<v n="9">
+				Parthians and 
+				<crossref let="r" cid="c44002009.17">
+				</crossref>
+				Medes and, 
+				<crossref let="s" cid="c44002009.18">
+				</crossref>
+				Elamites and residents of Mesopotamia, Judea and Cappadocia, Pontus and Asia,
+				<note nid="n44002009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002010">
+			</marker>
+			<v n="10">
+				Phrygia and 
+				<crossref let="t" cid="c44002010.19">
+				</crossref>
+				Pamphylia, Egypt, 
+				<crossref let="u" cid="c44002010.20">
+				</crossref>
+				and the parts of Libya belonging to Cyrene, and visitors from Rome,
+			</v>
+			<marker class="begin-verse" mid="v44002011">
+			</marker>
+			<v n="11">
+				both Jews 
+				<crossref let="v" cid="c44002011.21">
+				</crossref>
+				and proselytes,, 
+				<crossref let="w" cid="c44002011.22">
+				</crossref>
+				Cretans and Arabians—we hear them telling in our own tongues the mighty works of God.”
+			</v>
+			<marker class="begin-verse" mid="v44002012">
+			</marker>
+			<v n="12">
+				And all 
+				<crossref let="x" cid="c44002012.23">
+				</crossref>
+				were amazed, 
+				<crossref let="y" cid="c44002012.24">
+				</crossref>
+				and perplexed, saying to one another, “What does this mean?”
+				<note nid="n44002012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002013">
+			</marker>
+			<v n="13">
+				But others 
+				<crossref let="z" cid="c44002013.25">
+				</crossref>
+				mocking said,, 
+				<crossref let="a" cid="c44002013.26">
+				</crossref>
+				“They are filled with new wine.” Peter’s Sermon at Pentecost
+			</v>
+			<marker class="begin-verse" mid="v44002014">
+			</marker>
+			<v n="14">
+				But Peter, 
+				<crossref let="b" cid="c44002014.27">
+				</crossref>
+				standing with, 
+				<crossref let="c" cid="c44002014.28">
+				</crossref>
+				the eleven, lifted up his voice and addressed them: “Men of Judea and all who dwell in Jerusalem, let this be known to you, and give ear to my words.
+			</v>
+			<marker class="begin-verse" mid="v44002015">
+			</marker>
+			<v n="15">
+				For these 
+				<crossref let="d" cid="c44002015.29">
+				</crossref>
+				people are, 
+				<crossref let="e" cid="c44002015.30">
+				</crossref>
+				not drunk, as you suppose, since it is only the third hour of the day.(2)
+				<note nid="n44002015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002016">
+			</marker>
+			<v n="16">
+				But this 
+				<crossref let="f" cid="c44002016.31">
+				</crossref>
+				is what, 
+				<crossref let="g" cid="c44002016.32">
+				</crossref>
+				was uttered through the prophet Joel:
+			</v>
+			<marker class="begin-verse" mid="v44002017">
+			</marker>
+			<v n="17">
+				“‘And in 
+				<crossref let="h" cid="c44002017.33">
+				</crossref>
+				the last, 
+				<crossref let="i" cid="c44002017.34">
+				</crossref>
+				days it shall be, God declares, that I will pour out my Spirit on all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams;
+			</v>
+			<marker class="begin-verse" mid="v44002018">
+			</marker>
+			<v n="18">
+				even on 
+				<crossref let="j" cid="c44002018.35">
+				</crossref>
+				my male, 
+				<crossref let="k" cid="c44002018.36">
+				</crossref>
+				servants and female servants in those days I will pour out my Spirit, and they shall prophesy.
+				<note nid="n44002018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002019">
+			</marker>
+			<v n="19">
+				And I 
+				<crossref let="l" cid="c44002019.37">
+				</crossref>
+				will show, 
+				<crossref let="m" cid="c44002019.38">
+				</crossref>
+				wonders in the heavens above and signs on the earth below, blood, and fire, and vapor of smoke;
+			</v>
+			<marker class="begin-verse" mid="v44002020">
+			</marker>
+			<v n="20">
+				the sun 
+				<crossref let="n" cid="c44002020.39">
+				</crossref>
+				shall be, 
+				<crossref let="o" cid="c44002020.40">
+				</crossref>
+				turned to darkness and the moon to blood, before the day of the Lord comes, the great and magnificent day.
+			</v>
+			<marker class="begin-verse" mid="v44002021">
+			</marker>
+			<v n="21">
+				And it 
+				<crossref let="p" cid="c44002021.41">
+				</crossref>
+				shall come, 
+				<crossref let="q" cid="c44002021.42">
+				</crossref>
+				to pass that everyone who calls upon the name of the Lord shall be saved.’
+				<note nid="n44002021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002022">
+			</marker>
+			<v n="22">
+				“Men of 
+				<crossref let="r" cid="c44002022.43">
+				</crossref>
+				Israel, hear, 
+				<crossref let="s" cid="c44002022.44">
+				</crossref>
+				these words: Jesus of Nazareth, a man attested to you by God with mighty works and wonders and signs that God did through him in your midst, as you yourselves know—
+			</v>
+			<marker class="begin-verse" mid="v44002023">
+			</marker>
+			<v n="23">
+				this Jesus,(3) 
+				<crossref let="t" cid="c44002023.45">
+				</crossref>
+				delivered up, 
+				<crossref let="u" cid="c44002023.46">
+				</crossref>
+				according to the definite plan and foreknowledge of God, you crucified and killed by the hands of lawless men.
+			</v>
+			<marker class="begin-verse" mid="v44002024">
+			</marker>
+			<v n="24">
+				God raised 
+				<crossref let="v" cid="c44002024.47">
+				</crossref>
+				him up,, 
+				<crossref let="w" cid="c44002024.48">
+				</crossref>
+				loosing the pangs of death, because it was not possible for him to be held by it.
+				<note nid="n44002024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002025">
+			</marker>
+			<v n="25">
+				For David 
+				<crossref let="x" cid="c44002025.49">
+				</crossref>
+				says concerning, 
+				<crossref let="y" cid="c44002025.50">
+				</crossref>
+				him, “‘I saw the Lord always before me, for he is at my right hand that I may not be shaken;
+			</v>
+			<marker class="begin-verse" mid="v44002026">
+			</marker>
+			<v n="26">
+				therefore my 
+				<crossref let="z" cid="c44002026.51">
+				</crossref>
+				heart was, 
+				<crossref let="a" cid="c44002026.52">
+				</crossref>
+				glad, and my tongue rejoiced; my flesh also will dwell in hope.
+			</v>
+			<marker class="begin-verse" mid="v44002027">
+			</marker>
+			<v n="27">
+				For you 
+				<crossref let="b" cid="c44002027.53">
+				</crossref>
+				will not, 
+				<crossref let="c" cid="c44002027.54">
+				</crossref>
+				abandon my soul to Hades, or let your Holy One see corruption.
+				<note nid="n44002027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002028">
+			</marker>
+			<v n="28">
+				You have 
+				<crossref let="d" cid="c44002028.55">
+				</crossref>
+				made known, 
+				<crossref let="e" cid="c44002028.56">
+				</crossref>
+				to me the paths of life; you will make me full of gladness with your presence.’
+			</v>
+			<marker class="begin-verse" mid="v44002029">
+			</marker>
+			<v n="29">
+				“Brothers, I 
+				<crossref let="f" cid="c44002029.57">
+				</crossref>
+				may say, 
+				<crossref let="g" cid="c44002029.58">
+				</crossref>
+				to you with confidence about the patriarch David that he both died and was buried, and his tomb is with us to this day.
+			</v>
+			<marker class="begin-verse" mid="v44002030">
+			</marker>
+			<v n="30">
+				Being therefore 
+				<crossref let="h" cid="c44002030.59">
+				</crossref>
+				a prophet,, 
+				<crossref let="i" cid="c44002030.60">
+				</crossref>
+				and knowing that God had sworn with an oath to him that he would set one of his descendants on his throne,
+				<note nid="n44002030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002031">
+			</marker>
+			<v n="31">
+				he foresaw 
+				<crossref let="j" cid="c44002031.61">
+				</crossref>
+				and spoke, 
+				<crossref let="k" cid="c44002031.62">
+				</crossref>
+				about the resurrection of the Christ, that he was not abandoned to Hades, nor did his flesh see corruption.
+			</v>
+			<marker class="begin-verse" mid="v44002032">
+			</marker>
+			<v n="32">
+				This Jesus 
+				<crossref let="l" cid="c44002032.63">
+				</crossref>
+				God raised, 
+				<crossref let="m" cid="c44002032.64">
+				</crossref>
+				up, and of that we all are witnesses.
+			</v>
+			<marker class="begin-verse" mid="v44002033">
+			</marker>
+			<v n="33">
+				Being therefore 
+				<crossref let="n" cid="c44002033.65">
+				</crossref>
+				exalted at, 
+				<crossref let="o" cid="c44002033.66">
+				</crossref>
+				the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing.
+				<note nid="n44002033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002034">
+			</marker>
+			<v n="34">
+				For David 
+				<crossref let="p" cid="c44002034.67">
+				</crossref>
+				did not, 
+				<crossref let="q" cid="c44002034.68">
+				</crossref>
+				ascend into the heavens, but he himself says, “‘The Lord said to my Lord, “Sit at my right hand,
+			</v>
+			<marker class="begin-verse" mid="v44002035">
+			</marker>
+			<v n="35">
+				until I 
+				<crossref let="r" cid="c44002035.69">
+				</crossref>
+				make your, 
+				<crossref let="s" cid="c44002035.70">
+				</crossref>
+				enemies your footstool.”’
+			</v>
+			<marker class="begin-verse" mid="v44002036">
+			</marker>
+			<v n="36">
+				Let all 
+				<crossref let="t" cid="c44002036.71">
+				</crossref>
+				the house, 
+				<crossref let="u" cid="c44002036.72">
+				</crossref>
+				of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified.”
+				<note nid="n44002036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002037">
+			</marker>
+			<v n="37">
+				Now when 
+				<crossref let="v" cid="c44002037.73">
+				</crossref>
+				they heard, 
+				<crossref let="w" cid="c44002037.74">
+				</crossref>
+				this they were cut to the heart, and said to Peter and the rest of the apostles, “Brothers, what shall we do?”
+			</v>
+			<marker class="begin-verse" mid="v44002038">
+			</marker>
+			<v n="38">
+				And Peter 
+				<crossref let="x" cid="c44002038.75">
+				</crossref>
+				said to, 
+				<crossref let="y" cid="c44002038.76">
+				</crossref>
+				them, “Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit.
+			</v>
+			<marker class="begin-verse" mid="v44002039">
+			</marker>
+			<v n="39">
+				For the 
+				<crossref let="z" cid="c44002039.77">
+				</crossref>
+				promise is, 
+				<crossref let="a" cid="c44002039.78">
+				</crossref>
+				for you and for your children and for all who are far off, everyone whom the Lord our God calls to himself.”
+				<note nid="n44002039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002040">
+			</marker>
+			<v n="40">
+				And with 
+				<crossref let="b" cid="c44002040.79">
+				</crossref>
+				many other, 
+				<crossref let="c" cid="c44002040.80">
+				</crossref>
+				words he bore witness and continued to exhort them, saying, “Save yourselves from this crooked generation.”
+			</v>
+			<marker class="begin-verse" mid="v44002041">
+			</marker>
+			<v n="41">
+				So those 
+				<crossref let="d" cid="c44002041.81">
+				</crossref>
+				who received, 
+				<crossref let="e" cid="c44002041.82">
+				</crossref>
+				his word were baptized, and there were added that day about three thousand souls. The Fellowship of the Believers
+			</v>
+			<marker class="begin-verse" mid="v44002042">
+			</marker>
+			<v n="42">
+				And they 
+				<crossref let="f" cid="c44002042.83">
+				</crossref>
+				devoted themselves, 
+				<crossref let="g" cid="c44002042.84">
+				</crossref>
+				to the apostles’ teaching and the fellowship, to the breaking of bread and the prayers.
+				<note nid="n44002042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002043">
+			</marker>
+			<v n="43">
+				And awe(4) 
+				<crossref let="h" cid="c44002043.85">
+				</crossref>
+				came upon, 
+				<crossref let="i" cid="c44002043.86">
+				</crossref>
+				every soul, and many wonders and signs were being done through the apostles.
+			</v>
+			<marker class="begin-verse" mid="v44002044">
+			</marker>
+			<v n="44">
+				And all 
+				<crossref let="j" cid="c44002044.87">
+				</crossref>
+				who believed, 
+				<crossref let="k" cid="c44002044.88">
+				</crossref>
+				were together and had all things in common.
+			</v>
+			<marker class="begin-verse" mid="v44002045">
+			</marker>
+			<v n="45">
+				And they 
+				<crossref let="l" cid="c44002045.89">
+				</crossref>
+				were selling, 
+				<crossref let="m" cid="c44002045.90">
+				</crossref>
+				their possessions and belongings and distributing the proceeds to all, as any had need.
+				<note nid="n44002045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v44002046">
+			</marker>
+			<v n="46">
+				And day 
+				<crossref let="n" cid="c44002046.91">
+				</crossref>
+				by day,, 
+				<crossref let="o" cid="c44002046.92">
+				</crossref>
+				attending the temple together and breaking bread in their homes, they received their food with glad and generous hearts,
+			</v>
+			<marker class="begin-verse" mid="v44002047">
+			</marker>
+			<v n="47">
+				praising God 
+				<crossref let="p" cid="c44002047.93">
+				</crossref>
+				and having, 
+				<crossref let="q" cid="c44002047.94">
+				</crossref>
+				favor with all the people. And the Lord added to their number day by day those who were being saved. Footnotes (1) 2:3 Or *And tongues as of fire appeared to them, distributed among them, and rested* (2) 2:15 That is, 9 a.m. (3) 2:23 Greek *this one* (4) 2:43 Or *fear* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v44002048">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

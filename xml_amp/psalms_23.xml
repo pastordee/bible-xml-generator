@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:00:13.802975</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:00:13.802983</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19023001"/>
+		<chapter num="23">
+			<heading>Psalm 23The Lord, the Psalmist’s Shepherd.A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The Lord 
+				<crossref let="b" cid="c190231.1"/>
+				 is my Shepherd [to feed, to guide and to shield me], [Ezek 34:11-31]I shall not want.
+			</v>
+			<marker class="begin-verse" mid="v19023002"/>
+			<v n="2">
+				He lets 
+				<crossref let="c" cid="c190232.1"/>
+				 me lie down in green pastures;He leads me beside the still and quiet waters. [Rev 7:17]
+			</v>
+			<marker class="begin-verse" mid="v19023003"/>
+			<v n="3">
+				He refreshes 
+				<crossref let="d" cid="c190233.1"/>
+				 and restores my soul (life);He leads me in the paths of righteousnessfor His name’s sake.
+			</v>
+			<marker class="begin-verse" mid="v19023004"/>
+			<v n="4">
+				¶Even though 
+				<crossref let="e" cid="c190234.1"/>
+				 I walk through the [sunless] valley of the shadow of death,I fear no evil, for You are with me;Your rod [to protect] and Your staff [to guide], they comfort and console me.
+			</v>
+			<marker class="begin-verse" mid="v19023005"/>
+			<v n="5">
+				You prepare 
+				<crossref let="f" cid="c190235.1"/>
+				 a table before me in the presence of my enemies.You have anointed and refreshed my head with oil;My cup overflows.
+			</v>
+			<marker class="begin-verse" mid="v19023006"/>
+			<v n="6">
+				Surely goodness 
+				<crossref let="g" cid="c190236.1"/>
+				 and mercy and unfailing love shall follow me all the days of my life,And I shall dwell forever [throughout all my days] in the house and in the presence of the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19023007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

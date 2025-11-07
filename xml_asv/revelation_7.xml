@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:28:25.265687</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:28:25.265695</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="ASV" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66007001"/>
+		<chapter num="7">
+			<begin-paragraph/>
+			<v n="1">
+				After this 
+				<crossref let="b" cid="c660071.1"/>
+				 I saw four angels standing at the four corners of the earth, holding the four winds of the earth, that no wind should blow on the earth, or on the sea, or upon any tree.
+			</v>
+			<marker class="begin-verse" mid="v66007002"/>
+			<v n="2">
+				And I 
+				<crossref let="c" cid="c660072.1"/>
+				 saw another angel ascend from the sunrising, having the seal of the living God: and he cried with a great voice to the four angels to whom it was given to hurt the earth and the sea,
+			</v>
+			<marker class="begin-verse" mid="v66007003"/>
+			<v n="3">
+				saying, Hurt 
+				<crossref let="d" cid="c660073.1"/>
+				 not the earth, neither the sea, nor the trees, till we shall have sealed the servants of our God on their foreheads.
+			</v>
+			<marker class="begin-verse" mid="v66007004"/>
+			<v n="4">
+				And I 
+				<crossref let="e" cid="c660074.1"/>
+				 heard the number of them that were sealed, a hundred and forty and four thousand, sealed out of every tribe of the children of Israel:
+			</v>
+			<marker class="begin-verse" mid="v66007005"/>
+			<v n="5">
+				Of the 
+				<crossref let="f" cid="c660075.1"/>
+				 tribe of Judah were sealed twelve thousand;Of the tribe of Reuben twelve thousand;Of the tribe of Gad twelve thousand;
+			</v>
+			<marker class="begin-verse" mid="v66007006"/>
+			<v n="6">
+				Of the 
+				<crossref let="g" cid="c660076.1"/>
+				 tribe of Asher twelve thousand;Of the tribe of Naphtali twelve thousand;Of the tribe of Manasseh twelve thousand;
+			</v>
+			<marker class="begin-verse" mid="v66007007"/>
+			<v n="7">
+				Of the 
+				<crossref let="h" cid="c660077.1"/>
+				 tribe of Simeon twelve thousand;Of the tribe of Levi twelve thousand;Of the tribe of Issachar twelve thousand;
+			</v>
+			<marker class="begin-verse" mid="v66007008"/>
+			<v n="8">
+				Of the 
+				<crossref let="i" cid="c660078.1"/>
+				 tribe of Zebulun twelve thousand;Of the tribe of Joseph twelve thousand;Of the tribe of Benjamin were sealed twelve thousand.
+			</v>
+			<marker class="begin-verse" mid="v66007009"/>
+			<v n="9">
+				After these 
+				<crossref let="j" cid="c660079.1"/>
+				 things I saw, and behold, a great multitude, which no man could number, out of every nation and of all tribes and peoples and tongues, standing before the throne and before the Lamb, arrayed in white robes, and palms in their hands;
+			</v>
+			<marker class="begin-verse" mid="v66007010"/>
+			<v n="10">
+				and they 
+				<crossref let="k" cid="c6600710.1"/>
+				 cry with a great voice, saying,Salvation unto our God who sitteth on the throne, and unto the Lamb.
+			</v>
+			<marker class="begin-verse" mid="v66007011"/>
+			<v n="11">
+				And all 
+				<crossref let="l" cid="c6600711.1"/>
+				 the angels were standing round about the throne, and about the elders and the four living creatures; and they fell before the throne on their faces, and worshipped God,
+			</v>
+			<marker class="begin-verse" mid="v66007012"/>
+			<v n="12">
+				saying,Amen: Blessing, 
+				<crossref let="m" cid="c6600712.1"/>
+				 and glory, and wisdom, and thanksgiving, and honor, and power, and might, be unto our God for ever and ever. Amen.
+			</v>
+			<marker class="begin-verse" mid="v66007013"/>
+			<v n="13">
+				And one 
+				<crossref let="n" cid="c6600713.1"/>
+				 of the elders answered, saying unto me, These that are arrayed in the white robes, who are they, and whence came they?
+			</v>
+			<marker class="begin-verse" mid="v66007014"/>
+			<v n="14">
+				And I 
+				<crossref let="o" cid="c6600714.1"/>
+				 say unto him, My lord, thou knowest. And he said to me, These are they that come out of the great tribulation, and they washed their robes, and made them white in the blood of the Lamb.
+			</v>
+			<marker class="begin-verse" mid="v66007015"/>
+			<v n="15">
+				Therefore are 
+				<crossref let="p" cid="c6600715.1"/>
+				 they before the throne of God; and they serve him day and night in his temple: and he that sitteth on the throne shall spread his tabernacle over them.
+			</v>
+			<marker class="begin-verse" mid="v66007016"/>
+			<v n="16">
+				They shall 
+				<crossref let="q" cid="c6600716.1"/>
+				 hunger no more, neither thirst any more; neither shall the sun strike upon them, nor any heat:
+			</v>
+			<marker class="begin-verse" mid="v66007017"/>
+			<v n="17">
+				for the 
+				<crossref let="r" cid="c6600717.1"/>
+				 Lamb that is in the midst of the throne shall be their shepherd, and shall guide them unto fountains of waters of life: and God shall wipe away every tear from their eyes.
+			</v>
+			<marker class="begin-verse" mid="v66007018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

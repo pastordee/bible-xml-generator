@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:21:35.030513</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:21:35.030523</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="WEB" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				The book 
+				<crossref let="b" cid="c400011.1"/>
+				 of the genealogy of Jesus Christ, the son of David, the son of Abraham.
+			</v>
+			<marker class="begin-verse" mid="v40001002"/>
+			<v n="2">
+				Abraham became 
+				<crossref let="c" cid="c400012.1"/>
+				 the father of Isaac. Isaac became the father of Jacob. Jacob became the father of Judah and his brothers.
+			</v>
+			<marker class="begin-verse" mid="v40001003"/>
+			<v n="3">
+				Judah became 
+				<crossref let="d" cid="c400013.1"/>
+				 the father of Perez and Zerah by Tamar. Perez became the father of Hezron. Hezron became the father of Ram.
+			</v>
+			<marker class="begin-verse" mid="v40001004"/>
+			<v n="4">
+				Ram became 
+				<crossref let="e" cid="c400014.1"/>
+				 the father of Amminadab. Amminadab became the father of Nahshon. Nahshon became the father of Salmon.
+			</v>
+			<marker class="begin-verse" mid="v40001005"/>
+			<v n="5">
+				Salmon became 
+				<crossref let="f" cid="c400015.1"/>
+				 the father of Boaz by Rahab. Boaz became the father of Obed by Ruth. Obed became the father of Jesse.
+			</v>
+			<marker class="begin-verse" mid="v40001006"/>
+			<v n="6">
+				Jesse became 
+				<crossref let="g" cid="c400016.1"/>
+				 the father of King David. David the king became the father of Solomon by her who had been Uriah’s wife.
+			</v>
+			<marker class="begin-verse" mid="v40001007"/>
+			<v n="7">
+				Solomon became 
+				<crossref let="h" cid="c400017.1"/>
+				 the father of Rehoboam. Rehoboam became the father of Abijah. Abijah became the father of Asa.
+			</v>
+			<marker class="begin-verse" mid="v40001008"/>
+			<v n="8">
+				Asa became 
+				<crossref let="i" cid="c400018.1"/>
+				 the father of Jehoshaphat. Jehoshaphat became the father of Joram. Joram became the father of Uzziah.
+			</v>
+			<marker class="begin-verse" mid="v40001009"/>
+			<v n="9">
+				Uzziah became 
+				<crossref let="j" cid="c400019.1"/>
+				 the father of Jotham. Jotham became the father of Ahaz. Ahaz became the father of Hezekiah.
+			</v>
+			<marker class="begin-verse" mid="v40001010"/>
+			<v n="10">
+				Hezekiah became 
+				<crossref let="k" cid="c4000110.1"/>
+				 the father of Manasseh. Manasseh became the father of Amon. Amon became the father of Josiah.
+			</v>
+			<marker class="begin-verse" mid="v40001011"/>
+			<v n="11">
+				Josiah became 
+				<crossref let="l" cid="c4000111.1"/>
+				 the father of Jechoniah and his brothers at the time of the exile to Babylon.
+			</v>
+			<marker class="begin-verse" mid="v40001012"/>
+			<v n="12">
+				After the 
+				<crossref let="m" cid="c4000112.1"/>
+				 exile to Babylon, Jechoniah became the father of Shealtiel. Shealtiel became the father of Zerubbabel.
+			</v>
+			<marker class="begin-verse" mid="v40001013"/>
+			<v n="13">
+				Zerubbabel became 
+				<crossref let="n" cid="c4000113.1"/>
+				 the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor.
+			</v>
+			<marker class="begin-verse" mid="v40001014"/>
+			<v n="14">
+				Azor became 
+				<crossref let="o" cid="c4000114.1"/>
+				 the father of Zadok. Zadok became the father of Achim. Achim became the father of Eliud.
+			</v>
+			<marker class="begin-verse" mid="v40001015"/>
+			<v n="15">
+				Eliud became 
+				<crossref let="p" cid="c4000115.1"/>
+				 the father of Eleazar. Eleazar became the father of Matthan. Matthan became the father of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v40001016"/>
+			<v n="16">
+				Jacob became 
+				<crossref let="q" cid="c4000116.1"/>
+				 the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ.
+			</v>
+			<marker class="begin-verse" mid="v40001017"/>
+			<v n="17">
+				So all 
+				<crossref let="r" cid="c4000117.1"/>
+				 the generations from Abraham to David are fourteen generations; from David to the exile to Babylon fourteen generations; and from the carrying away to Babylon to the Christ, fourteen generations.
+			</v>
+			<marker class="begin-verse" mid="v40001018"/>
+			<v n="18">
+				Now the 
+				<crossref let="s" cid="c4000118.1"/>
+				 birth of Jesus Christ was like this: After his mother, Mary, was engaged to Joseph, before they came together, she was found pregnant by the Holy Spirit.
+			</v>
+			<marker class="begin-verse" mid="v40001019"/>
+			<v n="19">
+				Joseph, her 
+				<crossref let="t" cid="c4000119.1"/>
+				 husband, being a righteous man, and not willing to make her a public example, intended to put her away secretly.
+			</v>
+			<marker class="begin-verse" mid="v40001020"/>
+			<v n="20">
+				But when 
+				<crossref let="u" cid="c4000120.1"/>
+				 he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, don’t be afraid to take to yourself Mary as your wife, for that which is conceived in her is of the Holy Spirit.
+			</v>
+			<marker class="begin-verse" mid="v40001021"/>
+			<v n="21">
+				She shall 
+				<crossref let="v" cid="c4000121.1"/>
+				 give birth to a son. You shall name him Jesus, for it is he who shall save his people from their sins.”
+			</v>
+			<marker class="begin-verse" mid="v40001022"/>
+			<v n="22">
+				Now all 
+				<crossref let="w" cid="c4000122.1"/>
+				 this has happened that it might be fulfilled which was spoken by the Lord through the prophet, saying,
+			</v>
+			<marker class="begin-verse" mid="v40001023"/>
+			<v n="23">
+				“Behold, the 
+				<crossref let="x" cid="c4000123.1"/>
+				 virgin shall be with child,and shall give birth to a son.They shall call his name Immanuel,”which is, being interpreted, “God with us.”
+			</v>
+			<marker class="begin-verse" mid="v40001024"/>
+			<v n="24">
+				Joseph arose 
+				<crossref let="y" cid="c4000124.1"/>
+				 from his sleep, and did as the angel of the Lord commanded him, and took his wife to himself;
+			</v>
+			<marker class="begin-verse" mid="v40001025"/>
+			<v n="25">
+				and didn’t 
+				<crossref let="z" cid="c4000125.1"/>
+				 know her sexually until she had given birth to her firstborn son. He named him Jesus.
+			</v>
+			<marker class="begin-verse" mid="v40001026"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

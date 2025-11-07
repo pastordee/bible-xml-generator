@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:40:45.989405</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:40:45.989415</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" version="NKJV" bookAbbr="num">
+		<marker class="begin-verse" mid="v04012001"/>
+		<chapter num="12">
+			<heading>Dissension of Aaron and Miriam</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then Miriam 
+				<crossref let="b" cid="c040121.1"/>
+				 and Aaron spoke against Moses because of the Ethiopian woman whom he had married; for he had married an Ethiopian woman.
+			</v>
+			<marker class="begin-verse" mid="v04012002"/>
+			<v n="2">
+				So they 
+				<crossref let="c" cid="c040122.1"/>
+				 said, “Has the Lord indeed spoken only through Moses? Has He not spoken through us also?” And the Lord heard it.
+			</v>
+			<marker class="begin-verse" mid="v04012003"/>
+			<v n="3">
+				(Now the 
+				<crossref let="d" cid="c040123.1"/>
+				 man Moses was very humble, more than all men who were on the face of the earth.)
+			</v>
+			<marker class="begin-verse" mid="v04012004"/>
+			<v n="4">
+				Suddenly the 
+				<crossref let="e" cid="c040124.1"/>
+				 Lord said to Moses, Aaron, and Miriam, “Come out, you three, to the tabernacle of meeting!” So the three came out.
+			</v>
+			<marker class="begin-verse" mid="v04012005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c040125.1"/>
+				 Lord came down in the pillar of cloud and stood in the door of the tabernacle, and called Aaron and Miriam. And they both went forward.
+			</v>
+			<marker class="begin-verse" mid="v04012006"/>
+			<v n="6">
+				Then He 
+				<crossref let="g" cid="c040126.1"/>
+				 said,“Hear now My words:If there is a prophet among you,I, the Lord, make Myself known to him in a vision;I speak to him in a dream.
+			</v>
+			<marker class="begin-verse" mid="v04012007"/>
+			<v n="7">
+				Not so 
+				<crossref let="h" cid="c040127.1"/>
+				 with My servant Moses;He is faithful in all My house.
+			</v>
+			<marker class="begin-verse" mid="v04012008"/>
+			<v n="8">
+				I speak 
+				<crossref let="i" cid="c040128.1"/>
+				 with him face to face,Even plainly, and not in dark sayings;And he sees the form of the Lord.Why then were you not afraidTo speak against My servant Moses?”
+			</v>
+			<marker class="begin-verse" mid="v04012009"/>
+			<v n="9">
+				So the 
+				<crossref let="j" cid="c040129.1"/>
+				 anger of the Lord was aroused against them, and He departed.
+			</v>
+			<marker class="begin-verse" mid="v04012010"/>
+			<v n="10">
+				And when 
+				<crossref let="k" cid="c0401210.1"/>
+				 the cloud departed from above the tabernacle, suddenly Miriam became leprous, as white as snow. Then Aaron turned toward Miriam, and there she was, a leper.
+			</v>
+			<marker class="begin-verse" mid="v04012011"/>
+			<v n="11">
+				So Aaron 
+				<crossref let="l" cid="c0401211.1"/>
+				 said to Moses, “Oh, my lord! Please do not lay this sin on us, in which we have done foolishly and in which we have sinned.
+			</v>
+			<marker class="begin-verse" mid="v04012012"/>
+			<v n="12">
+				Please do 
+				<crossref let="m" cid="c0401212.1"/>
+				 not let her be as one dead, whose flesh is half consumed when he comes out of his mother’s womb!”
+			</v>
+			<marker class="begin-verse" mid="v04012013"/>
+			<v n="13">
+				So Moses 
+				<crossref let="n" cid="c0401213.1"/>
+				 cried out to the Lord, saying, “Please heal her, O God, I pray!”
+			</v>
+			<marker class="begin-verse" mid="v04012014"/>
+			<v n="14">
+				Then the 
+				<crossref let="o" cid="c0401214.1"/>
+				 Lord said to Moses, “If her father had but spit in her face, would she not be shamed seven days? Let her be shut out of the camp seven days, and afterward she may be received again.”
+			</v>
+			<marker class="begin-verse" mid="v04012015"/>
+			<v n="15">
+				So Miriam 
+				<crossref let="p" cid="c0401215.1"/>
+				 was shut out of the camp seven days, and the people did not journey till Miriam was brought in again.
+			</v>
+			<marker class="begin-verse" mid="v04012016"/>
+			<v n="16">
+				And afterward 
+				<crossref let="q" cid="c0401216.1"/>
+				 the people moved from Hazeroth and camped in the Wilderness of Paran.
+			</v>
+			<marker class="begin-verse" mid="v04012017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

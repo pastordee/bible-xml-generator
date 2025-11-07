@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:32:51.305450</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:32:51.305458</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19067001"/>
+		<chapter num="67">
+			<heading>For the Chief Musician; on stringed instruments. A Psalm, a Song.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				God be 
+				<crossref let="b" cid="c190671.1"/>
+				 merciful unto us, and bless us,And cause his face to shine upon us; [Selah
+			</v>
+			<marker class="begin-verse" mid="v19067002"/>
+			<v n="2">
+				That thy 
+				<crossref let="c" cid="c190672.1"/>
+				 way may be known upon earth,Thy salvation among all nations.
+			</v>
+			<marker class="begin-verse" mid="v19067003"/>
+			<v n="3">
+				Let the 
+				<crossref let="d" cid="c190673.1"/>
+				 peoples praise thee, O God;Let all the peoples praise thee.
+			</v>
+			<marker class="begin-verse" mid="v19067004"/>
+			<v n="4">
+				Oh let 
+				<crossref let="e" cid="c190674.1"/>
+				 the nations be glad and sing for joy;For thou wilt judge the peoples with equity,And govern the nations upon earth. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19067005"/>
+			<v n="5">
+				Let the 
+				<crossref let="f" cid="c190675.1"/>
+				 peoples praise thee, O God;Let all the peoples praise thee.
+			</v>
+			<marker class="begin-verse" mid="v19067006"/>
+			<v n="6">
+				The earth 
+				<crossref let="g" cid="c190676.1"/>
+				 hath yielded its increase:God, even our own God, will bless us.
+			</v>
+			<marker class="begin-verse" mid="v19067007"/>
+			<v n="7">
+				God will 
+				<crossref let="h" cid="c190677.1"/>
+				 bless us;And all the ends of the earth shall fear him.
+			</v>
+			<marker class="begin-verse" mid="v19067008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:00:45.086973</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:00:45.086982</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" bookAbbr="lev" version="ESV">
+		<marker class="begin-verse" mid="v03012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				Leviticus 12
+			</heading>
+			<heading>
+				Purification After Childbirth
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c03012001.1">
+				</crossref>
+				spoke to, 
+				<crossref let="c" cid="c03012001.2">
+				</crossref>
+				Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v03012002">
+			</marker>
+			<v n="2">
+				“Speak to 
+				<crossref let="d" cid="c03012002.3">
+				</crossref>
+				the people, 
+				<crossref let="e" cid="c03012002.4">
+				</crossref>
+				of Israel, saying, If a woman conceives and bears a male child, then she shall be unclean seven days. As at the time of her menstruation, she shall be unclean.
+			</v>
+			<marker class="begin-verse" mid="v03012003">
+			</marker>
+			<v n="3">
+				And on 
+				<crossref let="f" cid="c03012003.5">
+				</crossref>
+				the eighth, 
+				<crossref let="g" cid="c03012003.6">
+				</crossref>
+				day the flesh of his foreskin shall be circumcised.
+				<note nid="n03012003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03012004">
+			</marker>
+			<v n="4">
+				Then she 
+				<crossref let="h" cid="c03012004.7">
+				</crossref>
+				shall continue, 
+				<crossref let="i" cid="c03012004.8">
+				</crossref>
+				for thirty-three days in the blood of her purifying. She shall not touch anything holy, nor come into the sanctuary, until the days of her purifying are completed.
+			</v>
+			<marker class="begin-verse" mid="v03012005">
+			</marker>
+			<v n="5">
+				But if 
+				<crossref let="j" cid="c03012005.9">
+				</crossref>
+				she bears, 
+				<crossref let="k" cid="c03012005.10">
+				</crossref>
+				a female child, then she shall be unclean two weeks, as in her menstruation. And she shall continue in the blood of her purifying for sixty-six days.
+			</v>
+			<marker class="begin-verse" mid="v03012006">
+			</marker>
+			<v n="6">
+				“And when 
+				<crossref let="l" cid="c03012006.11">
+				</crossref>
+				the days, 
+				<crossref let="m" cid="c03012006.12">
+				</crossref>
+				of her purifying are completed, whether for a son or for a daughter, she shall bring to the priest at the entrance of the tent of meeting a lamb a year old for a burnt offering, and a pigeon or a turtledove for a sin offering,
+				<note nid="n03012006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03012007">
+			</marker>
+			<v n="7">
+				and he 
+				<crossref let="n" cid="c03012007.13">
+				</crossref>
+				shall offer, 
+				<crossref let="o" cid="c03012007.14">
+				</crossref>
+				it before the LORD and make atonement for her. Then she shall be clean from the flow of her blood. This is the law for her who bears a child, either male or female.
+			</v>
+			<marker class="begin-verse" mid="v03012008">
+			</marker>
+			<v n="8">
+				And if 
+				<crossref let="p" cid="c03012008.15">
+				</crossref>
+				she cannot, 
+				<crossref let="q" cid="c03012008.16">
+				</crossref>
+				afford a lamb, then she shall take two turtledoves or two pigeons,(1) one for a burnt offering and the other for a sin offering. And the priest shall make atonement for her, and she shall be clean.” Footnotes (1) 12:8 Septuagint *two young pigeons* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v03012009">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

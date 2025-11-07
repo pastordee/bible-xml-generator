@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:26:22.709562</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:26:22.709587</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" version="NKJV" bookAbbr="pro">
+		<marker class="begin-verse" mid="v20010001"/>
+		<chapter num="10">
+			<heading>Wise Sayings of Solomon</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The proverbs 
+				<crossref let="b" cid="c200101.1"/>
+				 of Solomon:A wise son makes a glad father,But a foolish son is the grief of his mother.
+			</v>
+			<marker class="begin-verse" mid="v20010002"/>
+			<v n="2">
+				Treasures of 
+				<crossref let="c" cid="c200102.1"/>
+				 wickedness profit nothing,But righteousness delivers from death.
+			</v>
+			<marker class="begin-verse" mid="v20010003"/>
+			<v n="3">
+				The Lord 
+				<crossref let="d" cid="c200103.1"/>
+				 will not allow the righteous soul to famish,But He casts away the desire of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v20010004"/>
+			<v n="4">
+				He who 
+				<crossref let="e" cid="c200104.1"/>
+				 has a slack hand becomes poor,But the hand of the diligent makes rich.
+			</v>
+			<marker class="begin-verse" mid="v20010005"/>
+			<v n="5">
+				He who 
+				<crossref let="f" cid="c200105.1"/>
+				 gathers in summer is a wise son;He who sleeps in harvest is a son who causes shame.
+			</v>
+			<marker class="begin-verse" mid="v20010006"/>
+			<v n="6">
+				Blessings are 
+				<crossref let="g" cid="c200106.1"/>
+				 on the head of the righteous,But violence covers the mouth of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v20010007"/>
+			<v n="7">
+				The memory 
+				<crossref let="h" cid="c200107.1"/>
+				 of the righteous is blessed,But the name of the wicked will rot.
+			</v>
+			<marker class="begin-verse" mid="v20010008"/>
+			<v n="8">
+				The wise 
+				<crossref let="i" cid="c200108.1"/>
+				 in heart will receive commands,But a prating fool will fall.
+			</v>
+			<marker class="begin-verse" mid="v20010009"/>
+			<v n="9">
+				He who 
+				<crossref let="j" cid="c200109.1"/>
+				 walks with integrity walks securely,But he who perverts his ways will become known.
+			</v>
+			<marker class="begin-verse" mid="v20010010"/>
+			<v n="10">
+				He who 
+				<crossref let="k" cid="c2001010.1"/>
+				 winks with the eye causes trouble,But a prating fool will fall.
+			</v>
+			<marker class="begin-verse" mid="v20010011"/>
+			<v n="11">
+				The mouth 
+				<crossref let="l" cid="c2001011.1"/>
+				 of the righteous is a well of life,But violence covers the mouth of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v20010012"/>
+			<v n="12">
+				Hatred stirs 
+				<crossref let="m" cid="c2001012.1"/>
+				 up strife,But love covers all sins.
+			</v>
+			<marker class="begin-verse" mid="v20010013"/>
+			<v n="13">
+				Wisdom is 
+				<crossref let="n" cid="c2001013.1"/>
+				 found on the lips of him who has understanding,But a rod is for the back of him who is devoid of understanding.
+			</v>
+			<marker class="begin-verse" mid="v20010014"/>
+			<v n="14">
+				Wise people 
+				<crossref let="o" cid="c2001014.1"/>
+				 store up knowledge,But the mouth of the foolish is near destruction.
+			</v>
+			<marker class="begin-verse" mid="v20010015"/>
+			<v n="15">
+				The rich 
+				<crossref let="p" cid="c2001015.1"/>
+				 man’s wealth is his strong city;The destruction of the poor is their poverty.
+			</v>
+			<marker class="begin-verse" mid="v20010016"/>
+			<v n="16">
+				The labor 
+				<crossref let="q" cid="c2001016.1"/>
+				 of the righteous leads to life,The wages of the wicked to sin.
+			</v>
+			<marker class="begin-verse" mid="v20010017"/>
+			<v n="17">
+				He who 
+				<crossref let="r" cid="c2001017.1"/>
+				 keeps instruction is in the way of life,But he who refuses correction goes astray.
+			</v>
+			<marker class="begin-verse" mid="v20010018"/>
+			<v n="18">
+				Whoever hides 
+				<crossref let="s" cid="c2001018.1"/>
+				 hatred has lying lips,And whoever spreads slander is a fool.
+			</v>
+			<marker class="begin-verse" mid="v20010019"/>
+			<v n="19">
+				In the 
+				<crossref let="t" cid="c2001019.1"/>
+				 multitude of words sin is not lacking,But he who restrains his lips is wise.
+			</v>
+			<marker class="begin-verse" mid="v20010020"/>
+			<v n="20">
+				The tongue 
+				<crossref let="u" cid="c2001020.1"/>
+				 of the righteous is choice silver;The heart of the wicked is worth little.
+			</v>
+			<marker class="begin-verse" mid="v20010021"/>
+			<v n="21">
+				The lips 
+				<crossref let="v" cid="c2001021.1"/>
+				 of the righteous feed many,But fools die for lack of wisdom.
+			</v>
+			<marker class="begin-verse" mid="v20010022"/>
+			<v n="22">
+				The blessing 
+				<crossref let="w" cid="c2001022.1"/>
+				 of the Lord makes one rich,And He adds no sorrow with it.
+			</v>
+			<marker class="begin-verse" mid="v20010023"/>
+			<v n="23">
+				To do 
+				<crossref let="x" cid="c2001023.1"/>
+				 evil is like sport to a fool,But a man of understanding has wisdom.
+			</v>
+			<marker class="begin-verse" mid="v20010024"/>
+			<v n="24">
+				The fear 
+				<crossref let="y" cid="c2001024.1"/>
+				 of the wicked will come upon him,And the desire of the righteous will be granted.
+			</v>
+			<marker class="begin-verse" mid="v20010025"/>
+			<v n="25">
+				When the 
+				<crossref let="z" cid="c2001025.1"/>
+				 whirlwind passes by, the wicked is no more,But the righteous has an everlasting foundation.
+			</v>
+			<marker class="begin-verse" mid="v20010026"/>
+			<v n="26">
+				As vinegar 
+				<crossref let="a" cid="c2001026.1"/>
+				 to the teeth and smoke to the eyes,So is the lazy man to those who send him.
+			</v>
+			<marker class="begin-verse" mid="v20010027"/>
+			<v n="27">
+				The fear 
+				<crossref let="b" cid="c2001027.1"/>
+				 of the Lord prolongs days,But the years of the wicked will be shortened.
+			</v>
+			<marker class="begin-verse" mid="v20010028"/>
+			<v n="28">
+				The hope 
+				<crossref let="c" cid="c2001028.1"/>
+				 of the righteous will be gladness,But the expectation of the wicked will perish.
+			</v>
+			<marker class="begin-verse" mid="v20010029"/>
+			<v n="29">
+				The way 
+				<crossref let="d" cid="c2001029.1"/>
+				 of the Lord is strength for the upright,But destruction will come to the workers of iniquity.
+			</v>
+			<marker class="begin-verse" mid="v20010030"/>
+			<v n="30">
+				The righteous 
+				<crossref let="e" cid="c2001030.1"/>
+				 will never be removed,But the wicked will not inhabit the earth.
+			</v>
+			<marker class="begin-verse" mid="v20010031"/>
+			<v n="31">
+				The mouth 
+				<crossref let="f" cid="c2001031.1"/>
+				 of the righteous brings forth wisdom,But the perverse tongue will be cut out.
+			</v>
+			<marker class="begin-verse" mid="v20010032"/>
+			<v n="32">
+				The lips 
+				<crossref let="g" cid="c2001032.1"/>
+				 of the righteous know what is acceptable,But the mouth of the wicked what is perverse.
+			</v>
+			<marker class="begin-verse" mid="v20010033"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

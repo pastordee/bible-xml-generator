@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:03:10.213675</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:03:10.213683</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19081001"/>
+		<chapter num="81">
+			<heading>To the chief Musician upon Gittith, A Psalm of Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Sing aloud 
+				<crossref let="b" cid="c190811.1"/>
+				 unto God our strength: make a joyful noise unto the God of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19081002"/>
+			<v n="2">
+				Take a 
+				<crossref let="c" cid="c190812.1"/>
+				 psalm, and bring hither the timbrel, the pleasant harp with the psaltery.
+			</v>
+			<marker class="begin-verse" mid="v19081003"/>
+			<v n="3">
+				Blow up 
+				<crossref let="d" cid="c190813.1"/>
+				 the trumpet in the new moon, in the time appointed, on our solemn feast day.
+			</v>
+			<marker class="begin-verse" mid="v19081004"/>
+			<v n="4">
+				For this 
+				<crossref let="e" cid="c190814.1"/>
+				 was a statute for Israel, and a law of the God of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19081005"/>
+			<v n="5">
+				This he 
+				<crossref let="f" cid="c190815.1"/>
+				 ordained in Joseph for a testimony, when he went out through the land of Egypt: where I heard a language that I understood not.
+			</v>
+			<marker class="begin-verse" mid="v19081006"/>
+			<v n="6">
+				I removed 
+				<crossref let="g" cid="c190816.1"/>
+				 his shoulder from the burden: his hands were delivered from the pots.
+			</v>
+			<marker class="begin-verse" mid="v19081007"/>
+			<v n="7">
+				Thou calledst 
+				<crossref let="h" cid="c190817.1"/>
+				 in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19081008"/>
+			<v n="8">
+				Hear, O 
+				<crossref let="i" cid="c190818.1"/>
+				 my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;
+			</v>
+			<marker class="begin-verse" mid="v19081009"/>
+			<v n="9">
+				There shall 
+				<crossref let="j" cid="c190819.1"/>
+				 no strange god be in thee; neither shalt thou worship any strange god.
+			</v>
+			<marker class="begin-verse" mid="v19081010"/>
+			<v n="10">
+				I am 
+				<crossref let="k" cid="c1908110.1"/>
+				 the LORD thy God, which brought thee out of the land of Egypt: open thy mouth wide, and I will fill it.
+			</v>
+			<marker class="begin-verse" mid="v19081011"/>
+			<v n="11">
+				But my 
+				<crossref let="l" cid="c1908111.1"/>
+				 people would not hearken to my voice; and Israel would none of me.
+			</v>
+			<marker class="begin-verse" mid="v19081012"/>
+			<v n="12">
+				So I 
+				<crossref let="m" cid="c1908112.1"/>
+				 gave them up unto their own hearts’ lust: and they walked in their own counsels.
+			</v>
+			<marker class="begin-verse" mid="v19081013"/>
+			<v n="13">
+				Oh that 
+				<crossref let="n" cid="c1908113.1"/>
+				 my people had hearkened unto me, and Israel had walked in my ways!
+			</v>
+			<marker class="begin-verse" mid="v19081014"/>
+			<v n="14">
+				I should 
+				<crossref let="o" cid="c1908114.1"/>
+				 soon have subdued their enemies, and turned my hand against their adversaries.
+			</v>
+			<marker class="begin-verse" mid="v19081015"/>
+			<v n="15">
+				The haters 
+				<crossref let="p" cid="c1908115.1"/>
+				 of the LORD should have submitted themselves unto him: but their time should have endured for ever.
+			</v>
+			<marker class="begin-verse" mid="v19081016"/>
+			<v n="16">
+				He should 
+				<crossref let="q" cid="c1908116.1"/>
+				 have fed them also with the finest of the wheat: and with honey out of the rock should I have satisfied thee.
+			</v>
+			<marker class="begin-verse" mid="v19081017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:09:40.617745</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:09:40.617769</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19129001"/>
+		<chapter num="129">
+			<heading>Psalm 129Prayer for the Overthrow of Zion’s Enemies.A Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				“Many times 
+				<crossref let="b" cid="c191291.1"/>
+				 they have persecuted me (Israel) from my youth,”Let Israel now say,
+			</v>
+			<marker class="begin-verse" mid="v19129002"/>
+			<v n="2">
+				“Many times 
+				<crossref let="c" cid="c191292.1"/>
+				 they have persecuted me from my youth,Yet they have not prevailed against me.
+			</v>
+			<marker class="begin-verse" mid="v19129003"/>
+			<v n="3">
+				“The [enemies, 
+				<crossref let="d" cid="c191293.1"/>
+				 like] plowers plowed on my back;They made their furrows [of suffering] long [in Israel].”
+			</v>
+			<marker class="begin-verse" mid="v19129004"/>
+			<v n="4">
+				The Lord 
+				<crossref let="e" cid="c191294.1"/>
+				 is righteous;He has cut in two the [thick] cords of the wicked [which enslaved the people of Israel].
+			</v>
+			<marker class="begin-verse" mid="v19129005"/>
+			<v n="5">
+				¶May all 
+				<crossref let="f" cid="c191295.1"/>
+				 who hate ZionBe put to shame and turned backward [in defeat].
+			</v>
+			<marker class="begin-verse" mid="v19129006"/>
+			<v n="6">
+				Let them 
+				<crossref let="g" cid="c191296.1"/>
+				 be like the grass on the housetops,Which withers before it grows up,
+			</v>
+			<marker class="begin-verse" mid="v19129007"/>
+			<v n="7">
+				With which 
+				<crossref let="h" cid="c191297.1"/>
+				 the reaper does not fill his hand,Nor the binder of sheaves his arms,
+			</v>
+			<marker class="begin-verse" mid="v19129008"/>
+			<v n="8">
+				Nor do 
+				<crossref let="i" cid="c191298.1"/>
+				 those who pass by say,“The blessing of the Lord be upon you;We bless you in the name of the Lord.”
+			</v>
+			<marker class="begin-verse" mid="v19129009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

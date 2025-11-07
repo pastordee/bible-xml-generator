@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:19:09.243796</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:19:09.243804</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19079001"/>
+		<chapter num="79">
+			<heading>A Dirge and a Prayer for Israel, Destroyed by EnemiesA Psalm of Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c190791.1"/>
+				 the nations have come into Your inheritance;Your holy temple they have defiled;They have laid Jerusalem in heaps.
+			</v>
+			<marker class="begin-verse" mid="v19079002"/>
+			<v n="2">
+				The dead 
+				<crossref let="c" cid="c190792.1"/>
+				 bodies of Your servantsThey have given as food for the birds of the heavens,The flesh of Your saints to the beasts of the earth.
+			</v>
+			<marker class="begin-verse" mid="v19079003"/>
+			<v n="3">
+				Their blood 
+				<crossref let="d" cid="c190793.1"/>
+				 they have shed like water all around Jerusalem,And there was no one to bury them.
+			</v>
+			<marker class="begin-verse" mid="v19079004"/>
+			<v n="4">
+				We have 
+				<crossref let="e" cid="c190794.1"/>
+				 become a reproach to our neighbors,A scorn and derision to those who are around us.
+			</v>
+			<marker class="begin-verse" mid="v19079005"/>
+			<v n="5">
+				How long, 
+				<crossref let="f" cid="c190795.1"/>
+				 Lord?Will You be angry forever?Will Your jealousy burn like fire?
+			</v>
+			<marker class="begin-verse" mid="v19079006"/>
+			<v n="6">
+				Pour out 
+				<crossref let="g" cid="c190796.1"/>
+				 Your wrath on the nations that do not know You,And on the kingdoms that do not call on Your name.
+			</v>
+			<marker class="begin-verse" mid="v19079007"/>
+			<v n="7">
+				For they 
+				<crossref let="h" cid="c190797.1"/>
+				 have devoured Jacob,And laid waste his dwelling place.
+			</v>
+			<marker class="begin-verse" mid="v19079008"/>
+			<v n="8">
+				Oh, do 
+				<crossref let="i" cid="c190798.1"/>
+				 not remember former iniquities against us!Let Your tender mercies come speedily to meet us,For we have been brought very low.
+			</v>
+			<marker class="begin-verse" mid="v19079009"/>
+			<v n="9">
+				Help us, 
+				<crossref let="j" cid="c190799.1"/>
+				 O God of our salvation,For the glory of Your name;And deliver us, and provide atonement for our sins,For Your name’s sake!
+			</v>
+			<marker class="begin-verse" mid="v19079010"/>
+			<v n="10">
+				Why should 
+				<crossref let="k" cid="c1907910.1"/>
+				 the nations say,“Where is their God?”Let there be known among the nations in our sightThe avenging of the blood of Your servants which has been shed.
+			</v>
+			<marker class="begin-verse" mid="v19079011"/>
+			<v n="11">
+				Let the 
+				<crossref let="l" cid="c1907911.1"/>
+				 groaning of the prisoner come before You;According to the greatness of Your powerPreserve those who are appointed to die;
+			</v>
+			<marker class="begin-verse" mid="v19079012"/>
+			<v n="12">
+				And return 
+				<crossref let="m" cid="c1907912.1"/>
+				 to our neighbors sevenfold into their bosomTheir reproach with which they have reproached You, O Lord.
+			</v>
+			<marker class="begin-verse" mid="v19079013"/>
+			<v n="13">
+				So we, 
+				<crossref let="n" cid="c1907913.1"/>
+				 Your people and sheep of Your pasture,Will give You thanks forever;We will show forth Your praise to all generations.
+			</v>
+			<marker class="begin-verse" mid="v19079014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

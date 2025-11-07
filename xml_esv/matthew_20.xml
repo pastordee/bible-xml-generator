@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:30.104984</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:30.105004</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40020001">
+		</marker>
+		<chapter num="20">
+			<heading>
+				Matthew 20
+			</heading>
+			<heading>
+				Laborers in the Vineyard
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				“For the 
+				<crossref let="b" cid="c40020001.1">
+				</crossref>
+				kingdom of, 
+				<crossref let="c" cid="c40020001.2">
+				</crossref>
+				heaven is like a master of a house who went out early in the morning to hire laborers for his vineyard.
+			</v>
+			<marker class="begin-verse" mid="v40020002">
+			</marker>
+			<v n="2">
+				After agreeing 
+				<crossref let="d" cid="c40020002.3">
+				</crossref>
+				with the, 
+				<crossref let="e" cid="c40020002.4">
+				</crossref>
+				laborers for a denarius(1) a day, he sent them into his vineyard.
+			</v>
+			<marker class="begin-verse" mid="v40020003">
+			</marker>
+			<v n="3">
+				And going 
+				<crossref let="f" cid="c40020003.5">
+				</crossref>
+				out about, 
+				<crossref let="g" cid="c40020003.6">
+				</crossref>
+				the third hour he saw others standing idle in the marketplace,
+				<note nid="n40020003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40020004">
+			</marker>
+			<v n="4" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					and to 
+					<crossref let="h" cid="c40020004.7">
+				</crossref>
+					them he, 
+					<crossref let="i" cid="c40020004.8">
+				</crossref>
+				said, ‘You go into the vineyard too, and whatever is right I will give you.’
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020005">
+			</marker>
+			<v n="5">
+				So they 
+				<crossref let="j" cid="c40020005.9">
+				</crossref>
+				went. Going, 
+				<crossref let="k" cid="c40020005.10">
+				</crossref>
+				out again about the sixth hour and the ninth hour, he did the same.
+			</v>
+			<marker class="begin-verse" mid="v40020006">
+			</marker>
+			<v n="6" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And about 
+					<crossref let="l" cid="c40020006.11">
+				</crossref>
+					the eleventh, 
+					<crossref let="m" cid="c40020006.12">
+				</crossref>
+				hour he went out and found others standing. And he said to them, ‘Why do you stand here idle all day?’
+					<note nid="n40020006.6">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020007">
+			</marker>
+			<v n="7" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					They said 
+					<crossref let="n" cid="c40020007.13">
+				</crossref>
+					to him,, 
+					<crossref let="o" cid="c40020007.14">
+				</crossref>
+				‘Because no one has hired us.’ He said to them, ‘You go into the vineyard too.’
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020008">
+			</marker>
+			<v n="8">
+				And when 
+				<crossref let="p" cid="c40020008.15">
+				</crossref>
+				evening came,, 
+				<crossref let="q" cid="c40020008.16">
+				</crossref>
+				the owner of the vineyard said to his foreman, ‘Call the laborers and pay them their wages, beginning with the last, up to the first.’
+			</v>
+			<marker class="begin-verse" mid="v40020009">
+			</marker>
+			<v n="9">
+				And when 
+				<crossref let="r" cid="c40020009.17">
+				</crossref>
+				those hired, 
+				<crossref let="s" cid="c40020009.18">
+				</crossref>
+				about the eleventh hour came, each of them received a denarius.
+				<note nid="n40020009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40020010">
+			</marker>
+			<v n="10">
+				Now when 
+				<crossref let="t" cid="c40020010.19">
+				</crossref>
+				those hired, 
+				<crossref let="u" cid="c40020010.20">
+				</crossref>
+				first came, they thought they would receive more, but each of them also received a denarius.
+			</v>
+			<marker class="begin-verse" mid="v40020011">
+			</marker>
+			<v n="11">
+				And on 
+				<crossref let="v" cid="c40020011.21">
+				</crossref>
+				receiving it, 
+				<crossref let="w" cid="c40020011.22">
+				</crossref>
+				they grumbled at the master of the house,
+			</v>
+			<marker class="begin-verse" mid="v40020012">
+			</marker>
+			<v n="12">
+				saying, ‘These 
+				<crossref let="x" cid="c40020012.23">
+				</crossref>
+				last worked, 
+				<crossref let="y" cid="c40020012.24">
+				</crossref>
+				only one hour, and you have made them equal to us who have borne the burden of the day and the scorching heat.’
+				<note nid="n40020012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40020013">
+			</marker>
+			<v n="13">
+				But he 
+				<crossref let="z" cid="c40020013.25">
+				</crossref>
+				replied to, 
+				<crossref let="a" cid="c40020013.26">
+				</crossref>
+				one of them, ‘Friend, I am doing you no wrong. Did you not agree with me for a denarius?
+			</v>
+			<marker class="begin-verse" mid="v40020014">
+			</marker>
+			<v n="14">
+				Take what 
+				<crossref let="b" cid="c40020014.27">
+				</crossref>
+				belongs to, 
+				<crossref let="c" cid="c40020014.28">
+				</crossref>
+				you and go. I choose to give to this last worker as I give to you.
+			</v>
+			<marker class="begin-verse" mid="v40020015">
+			</marker>
+			<v n="15">
+				Am I 
+				<crossref let="d" cid="c40020015.29">
+				</crossref>
+				not allowed, 
+				<crossref let="e" cid="c40020015.30">
+				</crossref>
+				to do what I choose with what belongs to me? Or do you begrudge my generosity?’(2)
+				<note nid="n40020015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40020016">
+			</marker>
+			<v n="16">
+				So the 
+				<crossref let="f" cid="c40020016.31">
+				</crossref>
+				last will, 
+				<crossref let="g" cid="c40020016.32">
+				</crossref>
+				be first, and the first last.” Jesus Foretells His Death a Third Time
+			</v>
+			<marker class="begin-verse" mid="v40020017">
+			</marker>
+			<v n="17" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And as 
+					<crossref let="h" cid="c40020017.33">
+				</crossref>
+					Jesus was, 
+					<crossref let="i" cid="c40020017.34">
+				</crossref>
+				going up to Jerusalem, he took the twelve disciples aside, and on the way he said to them,
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020018">
+			</marker>
+			<v n="18">
+				“See, we 
+				<crossref let="j" cid="c40020018.35">
+				</crossref>
+				are going, 
+				<crossref let="k" cid="c40020018.36">
+				</crossref>
+				up to Jerusalem. And the Son of Man will be delivered over to the chief priests and scribes, and they will condemn him to death
+				<note nid="n40020018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40020019">
+			</marker>
+			<v n="19">
+				and deliver 
+				<crossref let="l" cid="c40020019.37">
+				</crossref>
+				him over, 
+				<crossref let="m" cid="c40020019.38">
+				</crossref>
+				to the Gentiles to be mocked and flogged and crucified, and he will be raised on the third day.” A Mother’s Request
+			</v>
+			<marker class="begin-verse" mid="v40020020">
+			</marker>
+			<v n="20">
+				Then the 
+				<crossref let="n" cid="c40020020.39">
+				</crossref>
+				mother of, 
+				<crossref let="o" cid="c40020020.40">
+				</crossref>
+				the sons of Zebedee came up to him with her sons, and kneeling before him she asked him for something.
+			</v>
+			<marker class="begin-verse" mid="v40020021">
+			</marker>
+			<v n="21" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="p" cid="c40020021.41">
+				</crossref>
+					said to, 
+					<crossref let="q" cid="c40020021.42">
+				</crossref>
+				her, “What do you want?” She said to him, “Say that these two sons of mine are to sit, one at your right hand and one at your left, in your kingdom.”
+					<note nid="n40020021.21">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020022">
+			</marker>
+			<v n="22" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus answered, 
+					<crossref let="r" cid="c40020022.43">
+				</crossref>
+					“You do, 
+					<crossref let="s" cid="c40020022.44">
+				</crossref>
+				not know what you are asking. Are you able to drink the cup that I am to drink?” They said to him, “We are able.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020023">
+			</marker>
+			<v n="23" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					He said 
+					<crossref let="t" cid="c40020023.45">
+				</crossref>
+					to them,, 
+					<crossref let="u" cid="c40020023.46">
+				</crossref>
+				“You will drink my cup, but to sit at my right hand and at my left is not mine to grant, but it is for those for whom it has been prepared by my Father.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020024">
+			</marker>
+			<v n="24">
+				And when 
+				<crossref let="v" cid="c40020024.47">
+				</crossref>
+				the ten, 
+				<crossref let="w" cid="c40020024.48">
+				</crossref>
+				heard it, they were indignant at the two brothers.
+				<note nid="n40020024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40020025">
+			</marker>
+			<v n="25">
+				But Jesus 
+				<crossref let="x" cid="c40020025.49">
+				</crossref>
+				called them, 
+				<crossref let="y" cid="c40020025.50">
+				</crossref>
+				to him and said, “You know that the rulers of the Gentiles lord it over them, and their great ones exercise authority over them.
+			</v>
+			<marker class="begin-verse" mid="v40020026">
+			</marker>
+			<v n="26">
+				It shall 
+				<crossref let="z" cid="c40020026.51">
+				</crossref>
+				not be, 
+				<crossref let="a" cid="c40020026.52">
+				</crossref>
+				so among you. But whoever would be great among you must be your servant,(3)
+			</v>
+			<marker class="begin-verse" mid="v40020027">
+			</marker>
+			<v n="27">
+				and whoever 
+				<crossref let="b" cid="c40020027.53">
+				</crossref>
+				would be, 
+				<crossref let="c" cid="c40020027.54">
+				</crossref>
+				first among you must be your slave,(4)
+				<note nid="n40020027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40020028">
+			</marker>
+			<v n="28">
+				even as 
+				<crossref let="d" cid="c40020028.55">
+				</crossref>
+				the Son, 
+				<crossref let="e" cid="c40020028.56">
+				</crossref>
+				of Man came not to be served but to serve, and to give his life as a ransom for many.” Jesus Heals Two Blind Men
+			</v>
+			<marker class="begin-verse" mid="v40020029">
+			</marker>
+			<v n="29">
+				And as 
+				<crossref let="f" cid="c40020029.57">
+				</crossref>
+				they went, 
+				<crossref let="g" cid="c40020029.58">
+				</crossref>
+				out of Jericho, a great crowd followed him.
+			</v>
+			<marker class="begin-verse" mid="v40020030">
+			</marker>
+			<v n="30">
+				And behold, 
+				<crossref let="h" cid="c40020030.59">
+				</crossref>
+				there were, 
+				<crossref let="i" cid="c40020030.60">
+				</crossref>
+				two blind men sitting by the roadside, and when they heard that Jesus was passing by, they cried out, “Lord,(5) have mercy on us, Son of David!”
+				<note nid="n40020030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40020031">
+			</marker>
+			<v n="31">
+				The crowd 
+				<crossref let="j" cid="c40020031.61">
+				</crossref>
+				rebuked them,, 
+				<crossref let="k" cid="c40020031.62">
+				</crossref>
+				telling them to be silent, but they cried out all the more, “Lord, have mercy on us, Son of David!”
+			</v>
+			<marker class="begin-verse" mid="v40020032">
+			</marker>
+			<v n="32">
+				And stopping, 
+				<crossref let="l" cid="c40020032.63">
+				</crossref>
+				Jesus called, 
+				<crossref let="m" cid="c40020032.64">
+				</crossref>
+				them and said, “What do you want me to do for you?”
+			</v>
+			<marker class="begin-verse" mid="v40020033">
+			</marker>
+			<v n="33">
+				They said 
+				<crossref let="n" cid="c40020033.65">
+				</crossref>
+				to him,, 
+				<crossref let="o" cid="c40020033.66">
+				</crossref>
+				“Lord, let our eyes be opened.”
+				<note nid="n40020033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40020034">
+			</marker>
+			<v n="34">
+				And Jesus 
+				<crossref let="p" cid="c40020034.67">
+				</crossref>
+				in pity, 
+				<crossref let="q" cid="c40020034.68">
+				</crossref>
+				touched their eyes, and immediately they recovered their sight and followed him. Footnotes (1) 20:2 A *denarius* was a day’s wage for a laborer (2) 20:15 Or *is your eye bad because I am good?* (3) 20:26 Greek *diakonos* (4) 20:27 Or *bondservant*, or *servant* (for the contextual rendering of the Greek word *doulos*, see Preface) (5) 20:30 Some manuscripts omit *Lord* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v40020035">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

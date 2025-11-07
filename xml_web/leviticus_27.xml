@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:09:28.324227</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:09:28.324252</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" version="WEB" bookAbbr="lev">
+		<marker class="begin-verse" mid="v03027001"/>
+		<chapter num="27">
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh spoke 
+				<crossref let="b" cid="c030271.1"/>
+				 to Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v03027002"/>
+			<v n="2">
+				“Speak to 
+				<crossref let="c" cid="c030272.1"/>
+				 the children of Israel, and say to them, ‘When a man consecrates a person to Yahweh in a vow, according to your valuation,
+			</v>
+			<marker class="begin-verse" mid="v03027003"/>
+			<v n="3">
+				your valuation 
+				<crossref let="d" cid="c030273.1"/>
+				 of a male from twenty years old to sixty years old shall be fifty shekels of silver, according to the shekel of the sanctuary.
+			</v>
+			<marker class="begin-verse" mid="v03027004"/>
+			<v n="4">
+				If she 
+				<crossref let="e" cid="c030274.1"/>
+				 is a female, then your valuation shall be thirty shekels.
+			</v>
+			<marker class="begin-verse" mid="v03027005"/>
+			<v n="5">
+				If the 
+				<crossref let="f" cid="c030275.1"/>
+				 person is from five years old to twenty years old, then your valuation shall be for a male twenty shekels, and for a female ten shekels.
+			</v>
+			<marker class="begin-verse" mid="v03027006"/>
+			<v n="6">
+				If the 
+				<crossref let="g" cid="c030276.1"/>
+				 person is from a month old to five years old, then your valuation shall be for a male five shekels of silver, and for a female your valuation shall be three shekels of silver.
+			</v>
+			<marker class="begin-verse" mid="v03027007"/>
+			<v n="7">
+				If the 
+				<crossref let="h" cid="c030277.1"/>
+				 person is from sixty years old and upward; if he is a male, then your valuation shall be fifteen shekels, and for a female ten shekels.
+			</v>
+			<marker class="begin-verse" mid="v03027008"/>
+			<v n="8">
+				But if 
+				<crossref let="i" cid="c030278.1"/>
+				 he is poorer than your valuation, then he shall be set before the priest, and the priest shall assign a value to him. The priest shall assign a value according to his ability to pay.
+			</v>
+			<marker class="begin-verse" mid="v03027009"/>
+			<v n="9">
+				“‘If it 
+				<crossref let="j" cid="c030279.1"/>
+				 is an animal of which men offer an offering to Yahweh, all that any man gives of such to Yahweh becomes holy.
+			</v>
+			<marker class="begin-verse" mid="v03027010"/>
+			<v n="10">
+				He shall 
+				<crossref let="k" cid="c0302710.1"/>
+				 not alter it, nor exchange it, a good for a bad, or a bad for a good. If he shall at all exchange animal for animal, then both it and that for which it is exchanged shall be holy.
+			</v>
+			<marker class="begin-verse" mid="v03027011"/>
+			<v n="11">
+				If it 
+				<crossref let="l" cid="c0302711.1"/>
+				 is any unclean animal, of which they do not offer as an offering to Yahweh, then he shall set the animal before the priest;
+			</v>
+			<marker class="begin-verse" mid="v03027012"/>
+			<v n="12">
+				and the 
+				<crossref let="m" cid="c0302712.1"/>
+				 priest shall evaluate it, whether it is good or bad. As the priest evaluates it, so it shall be.
+			</v>
+			<marker class="begin-verse" mid="v03027013"/>
+			<v n="13">
+				But if 
+				<crossref let="n" cid="c0302713.1"/>
+				 he will indeed redeem it, then he shall add the fifth part of it to its valuation.
+			</v>
+			<marker class="begin-verse" mid="v03027014"/>
+			<v n="14">
+				“‘When a 
+				<crossref let="o" cid="c0302714.1"/>
+				 man dedicates his house to be holy to Yahweh, then the priest shall evaluate it, whether it is good or bad. As the priest evaluates it, so it shall stand.
+			</v>
+			<marker class="begin-verse" mid="v03027015"/>
+			<v n="15">
+				If he 
+				<crossref let="p" cid="c0302715.1"/>
+				 who dedicates it will redeem his house, then he shall add the fifth part of the money of your valuation to it, and it shall be his.
+			</v>
+			<marker class="begin-verse" mid="v03027016"/>
+			<v n="16">
+				“‘If a 
+				<crossref let="q" cid="c0302716.1"/>
+				 man dedicates to Yahweh part of the field of his possession, then your valuation shall be according to the seed for it. The sowing of a homer of barley shall be valued at fifty shekels of silver.
+			</v>
+			<marker class="begin-verse" mid="v03027017"/>
+			<v n="17">
+				If he 
+				<crossref let="r" cid="c0302717.1"/>
+				 dedicates his field from the Year of Jubilee, according to your valuation it shall stand.
+			</v>
+			<marker class="begin-verse" mid="v03027018"/>
+			<v n="18">
+				But if 
+				<crossref let="s" cid="c0302718.1"/>
+				 he dedicates his field after the Jubilee, then the priest shall reckon to him the money according to the years that remain to the Year of Jubilee; and an abatement shall be made from your valuation.
+			</v>
+			<marker class="begin-verse" mid="v03027019"/>
+			<v n="19">
+				If he 
+				<crossref let="t" cid="c0302719.1"/>
+				 who dedicated the field will indeed redeem it, then he shall add the fifth part of the money of your valuation to it, and it shall remain his.
+			</v>
+			<marker class="begin-verse" mid="v03027020"/>
+			<v n="20">
+				If he 
+				<crossref let="u" cid="c0302720.1"/>
+				 will not redeem the field, or if he has sold the field to another man, it shall not be redeemed any more;
+			</v>
+			<marker class="begin-verse" mid="v03027021"/>
+			<v n="21">
+				but the 
+				<crossref let="v" cid="c0302721.1"/>
+				 field, when it goes out in the Jubilee, shall be holy to Yahweh, as a devoted field. It shall be owned by the priests.
+			</v>
+			<marker class="begin-verse" mid="v03027022"/>
+			<v n="22">
+				“‘If he 
+				<crossref let="w" cid="c0302722.1"/>
+				 dedicates a field to Yahweh which he has bought, which is not of the field of his possession,
+			</v>
+			<marker class="begin-verse" mid="v03027023"/>
+			<v n="23">
+				then the 
+				<crossref let="x" cid="c0302723.1"/>
+				 priest shall reckon to him the worth of your valuation up to the Year of Jubilee; and he shall give your valuation on that day, as a holy thing to Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v03027024"/>
+			<v n="24">
+				In the 
+				<crossref let="y" cid="c0302724.1"/>
+				 Year of Jubilee the field shall return to him from whom it was bought, even to him to whom the possession of the land belongs.
+			</v>
+			<marker class="begin-verse" mid="v03027025"/>
+			<v n="25">
+				All your 
+				<crossref let="z" cid="c0302725.1"/>
+				 valuations shall be according to the shekel of the sanctuary: twenty gerahs to the shekel.
+			</v>
+			<marker class="begin-verse" mid="v03027026"/>
+			<v n="26">
+				“‘However the 
+				<crossref let="a" cid="c0302726.1"/>
+				 firstborn among animals, which belongs to Yahweh as a firstborn, no man may dedicate, whether an ox or a sheep. It is Yahweh’s.
+			</v>
+			<marker class="begin-verse" mid="v03027027"/>
+			<v n="27">
+				If it 
+				<crossref let="b" cid="c0302727.1"/>
+				 is an unclean animal, then he shall buy it back according to your valuation, and shall add to it the fifth part of it; or if it isn’t redeemed, then it shall be sold according to your valuation.
+			</v>
+			<marker class="begin-verse" mid="v03027028"/>
+			<v n="28">
+				“‘Notwithstanding, no 
+				<crossref let="c" cid="c0302728.1"/>
+				 devoted thing that a man devotes to Yahweh of all that he has, whether of man or animal, or of the field of his possession, shall be sold or redeemed. Everything that is permanently devoted is most holy to Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v03027029"/>
+			<v n="29">
+				“‘No one 
+				<crossref let="d" cid="c0302729.1"/>
+				 devoted to destruction, who shall be devoted from among men, shall be ransomed. He shall surely be put to death.
+			</v>
+			<marker class="begin-verse" mid="v03027030"/>
+			<v n="30">
+				“‘All the 
+				<crossref let="e" cid="c0302730.1"/>
+				 tithe of the land, whether of the seed of the land or of the fruit of the trees, is Yahweh’s. It is holy to Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v03027031"/>
+			<v n="31">
+				If a 
+				<crossref let="f" cid="c0302731.1"/>
+				 man redeems anything of his tithe, he shall add a fifth part to it.
+			</v>
+			<marker class="begin-verse" mid="v03027032"/>
+			<v n="32">
+				All the 
+				<crossref let="g" cid="c0302732.1"/>
+				 tithe of the herds or the flocks, whatever passes under the rod, the tenth shall be holy to Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v03027033"/>
+			<v n="33">
+				He shall 
+				<crossref let="h" cid="c0302733.1"/>
+				 not examine whether it is good or bad, neither shall he exchange it. If he exchanges it at all, then both it and that for which it is exchanged shall be holy. It shall not be redeemed.’”
+			</v>
+			<marker class="begin-verse" mid="v03027034"/>
+			<v n="34">
+				These are 
+				<crossref let="i" cid="c0302734.1"/>
+				 the commandments which Yahweh commanded Moses for the children of Israel on Mount Sinai.
+			</v>
+			<marker class="begin-verse" mid="v03027035"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

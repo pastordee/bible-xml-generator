@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:48:46.547169</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:48:46.547176</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19052001"/>
+		<chapter num="52">
+			<heading>For the choir director: A psalm of David, regarding the time Doeg the Edomite said to Saul, “David has gone to see Ahimelech.”</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Why do 
+				<crossref let="b" cid="c190521.1"/>
+				 you boast about your crimes, great warrior?Don’t you realize God’s justice continues forever?
+			</v>
+			<marker class="begin-verse" mid="v19052002"/>
+			<v n="2">
+				All day 
+				<crossref let="c" cid="c190522.1"/>
+				 long you plot destruction.Your tongue cuts like a sharp razor;you’re an expert at telling lies.
+			</v>
+			<marker class="begin-verse" mid="v19052003"/>
+			<v n="3">
+				You love 
+				<crossref let="d" cid="c190523.1"/>
+				 evil more than goodand lies more than truth. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19052004"/>
+			<v n="4">
+				You love 
+				<crossref let="e" cid="c190524.1"/>
+				 to destroy others with your words,you liar!
+			</v>
+			<marker class="begin-verse" mid="v19052005"/>
+			<v n="5">
+				But God 
+				<crossref let="f" cid="c190525.1"/>
+				 will strike you down once and for all.He will pull you from your homeand uproot you from the land of the living. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19052006"/>
+			<v n="6">
+				The righteous 
+				<crossref let="g" cid="c190526.1"/>
+				 will see it and be amazed.They will laugh and say,
+			</v>
+			<marker class="begin-verse" mid="v19052007"/>
+			<v n="7">
+				“Look what 
+				<crossref let="h" cid="c190527.1"/>
+				 happens to mighty warriorswho do not trust in God.They trust their wealth insteadand grow more and more bold in their wickedness.”
+			</v>
+			<marker class="begin-verse" mid="v19052008"/>
+			<v n="8">
+				But I 
+				<crossref let="i" cid="c190528.1"/>
+				 am like an olive tree, thriving in the house of God.I will always trust in God’s unfailing love.
+			</v>
+			<marker class="begin-verse" mid="v19052009"/>
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c190529.1"/>
+				 praise you forever, O God,for what you have done.I will trust in your good namein the presence of your faithful people.
+			</v>
+			<marker class="begin-verse" mid="v19052010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

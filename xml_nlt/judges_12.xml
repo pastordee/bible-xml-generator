@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:21:19.944910</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:21:19.944926</next_refresh_due>
+	</generation_info>
+	<book title="Judges" num="7" testament="old" version="NLT" bookAbbr="jdg">
+		<marker class="begin-verse" mid="v07012001"/>
+		<chapter num="12">
+			<heading>Ephraim Fights with Jephthah</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c070121.1"/>
+				 people of Ephraim mobilized an army and crossed over the Jordan River to Zaphon. They sent this message to Jephthah: “Why didn’t you call for us to help you fight against the Ammonites? We are going to burn down your house with you in it!”
+			</v>
+			<marker class="begin-verse" mid="v07012002"/>
+			<v n="2">
+				Jephthah replied, 
+				<crossref let="c" cid="c070122.1"/>
+				 “I summoned you at the beginning of the dispute, but you refused to come! You failed to help us in our struggle against Ammon.
+			</v>
+			<marker class="begin-verse" mid="v07012003"/>
+			<v n="3">
+				So when 
+				<crossref let="d" cid="c070123.1"/>
+				 I realized you weren’t coming, I risked my life and went to battle without you, and the Lord gave me victory over the Ammonites. So why have you now come to fight me?”
+			</v>
+			<marker class="begin-verse" mid="v07012004"/>
+			<v n="4">
+				The people 
+				<crossref let="e" cid="c070124.1"/>
+				 of Ephraim responded, “You men of Gilead are nothing more than fugitives from Ephraim and Manasseh.” So Jephthah gathered all the men of Gilead and attacked the men of Ephraim and defeated them.
+			</v>
+			<marker class="begin-verse" mid="v07012005"/>
+			<v n="5">
+				Jephthah captured 
+				<crossref let="f" cid="c070125.1"/>
+				 the shallow crossings of the Jordan River, and whenever a fugitive from Ephraim tried to go back across, the men of Gilead would challenge him. “Are you a member of the tribe of Ephraim?” they would ask. If the man said, “No, I’m not,”
+			</v>
+			<marker class="begin-verse" mid="v07012006"/>
+			<v n="6">
+				they would 
+				<crossref let="g" cid="c070126.1"/>
+				 tell him to say “Shibboleth.” If he was from Ephraim, he would say “Sibboleth,” because people from Ephraim cannot pronounce the word correctly. Then they would take him and kill him at the shallow crossings of the Jordan. In all, 42,000 Ephraimites were killed at that time.
+			</v>
+			<marker class="begin-verse" mid="v07012007"/>
+			<v n="7">
+				Jephthah judged 
+				<crossref let="h" cid="c070127.1"/>
+				 Israel for six years. When he died, he was buried in one of the towns of Gilead.Ibzan Becomes Israel’s Judge
+			</v>
+			<marker class="begin-verse" mid="v07012008"/>
+			<v n="8">
+				After Jephthah 
+				<crossref let="i" cid="c070128.1"/>
+				 died, Ibzan from Bethlehem judged Israel.
+			</v>
+			<marker class="begin-verse" mid="v07012009"/>
+			<v n="9">
+				He had 
+				<crossref let="j" cid="c070129.1"/>
+				 thirty sons and thirty daughters. He sent his daughters to marry men outside his clan, and he brought in thirty young women from outside his clan to marry his sons. Ibzan judged Israel for seven years.
+			</v>
+			<marker class="begin-verse" mid="v07012010"/>
+			<v n="10">
+				When he 
+				<crossref let="k" cid="c0701210.1"/>
+				 died, he was buried at Bethlehem.Elon Becomes Israel’s Judge
+			</v>
+			<marker class="begin-verse" mid="v07012011"/>
+			<v n="11">
+				After Ibzan 
+				<crossref let="l" cid="c0701211.1"/>
+				 died, Elon from the tribe of Zebulun judged Israel for ten years.
+			</v>
+			<marker class="begin-verse" mid="v07012012"/>
+			<v n="12">
+				When he 
+				<crossref let="m" cid="c0701212.1"/>
+				 died, he was buried at Aijalon in Zebulun.Abdon Becomes Israel’s Judge
+			</v>
+			<marker class="begin-verse" mid="v07012013"/>
+			<v n="13">
+				After Elon 
+				<crossref let="n" cid="c0701213.1"/>
+				 died, Abdon son of Hillel, from Pirathon, judged Israel.
+			</v>
+			<marker class="begin-verse" mid="v07012014"/>
+			<v n="14">
+				He had 
+				<crossref let="o" cid="c0701214.1"/>
+				 forty sons and thirty grandsons, who rode on seventy donkeys. He judged Israel for eight years.
+			</v>
+			<marker class="begin-verse" mid="v07012015"/>
+			<v n="15">
+				When he 
+				<crossref let="p" cid="c0701215.1"/>
+				 died, he was buried at Pirathon in Ephraim, in the hill country of the Amalekites.
+			</v>
+			<marker class="begin-verse" mid="v07012016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

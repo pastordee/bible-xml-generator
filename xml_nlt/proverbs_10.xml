@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:58:24.093265</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:58:24.093272</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" version="NLT" bookAbbr="pro">
+		<marker class="begin-verse" mid="v20010001"/>
+		<chapter num="10">
+			<heading>The Proverbs of Solomon</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The proverbs 
+				<crossref let="b" cid="c200101.1"/>
+				 of Solomon:A wise child brings joy to a father;a foolish child brings grief to a mother.
+			</v>
+			<marker class="begin-verse" mid="v20010002"/>
+			<v n="2">
+				Tainted wealth 
+				<crossref let="c" cid="c200102.1"/>
+				 has no lasting value,but right living can save your life.
+			</v>
+			<marker class="begin-verse" mid="v20010003"/>
+			<v n="3">
+				The Lord 
+				<crossref let="d" cid="c200103.1"/>
+				 will not let the godly go hungry,but he refuses to satisfy the craving of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v20010004"/>
+			<v n="4">
+				Lazy people 
+				<crossref let="e" cid="c200104.1"/>
+				 are soon poor;hard workers get rich.
+			</v>
+			<marker class="begin-verse" mid="v20010005"/>
+			<v n="5">
+				A wise 
+				<crossref let="f" cid="c200105.1"/>
+				 youth harvests in the summer,but one who sleeps during harvest is a disgrace.
+			</v>
+			<marker class="begin-verse" mid="v20010006"/>
+			<v n="6">
+				The godly 
+				<crossref let="g" cid="c200106.1"/>
+				 are showered with blessings;the words of the wicked conceal violent intentions.
+			</v>
+			<marker class="begin-verse" mid="v20010007"/>
+			<v n="7">
+				We have 
+				<crossref let="h" cid="c200107.1"/>
+				 happy memories of the godly,but the name of a wicked person rots away.
+			</v>
+			<marker class="begin-verse" mid="v20010008"/>
+			<v n="8">
+				The wise 
+				<crossref let="i" cid="c200108.1"/>
+				 are glad to be instructed,but babbling fools fall flat on their faces.
+			</v>
+			<marker class="begin-verse" mid="v20010009"/>
+			<v n="9">
+				People with 
+				<crossref let="j" cid="c200109.1"/>
+				 integrity walk safely,but those who follow crooked paths will be exposed.
+			</v>
+			<marker class="begin-verse" mid="v20010010"/>
+			<v n="10">
+				People who 
+				<crossref let="k" cid="c2001010.1"/>
+				 wink at wrong cause trouble,but a bold reproof promotes peace.
+			</v>
+			<marker class="begin-verse" mid="v20010011"/>
+			<v n="11">
+				The words 
+				<crossref let="l" cid="c2001011.1"/>
+				 of the godly are a life-giving fountain;the words of the wicked conceal violent intentions.
+			</v>
+			<marker class="begin-verse" mid="v20010012"/>
+			<v n="12">
+				Hatred stirs 
+				<crossref let="m" cid="c2001012.1"/>
+				 up quarrels,but love makes up for all offenses.
+			</v>
+			<marker class="begin-verse" mid="v20010013"/>
+			<v n="13">
+				Wise words 
+				<crossref let="n" cid="c2001013.1"/>
+				 come from the lips of people with understanding,but those lacking sense will be beaten with a rod.
+			</v>
+			<marker class="begin-verse" mid="v20010014"/>
+			<v n="14">
+				Wise people 
+				<crossref let="o" cid="c2001014.1"/>
+				 treasure knowledge,but the babbling of a fool invites disaster.
+			</v>
+			<marker class="begin-verse" mid="v20010015"/>
+			<v n="15">
+				The wealth 
+				<crossref let="p" cid="c2001015.1"/>
+				 of the rich is their fortress;the poverty of the poor is their destruction.
+			</v>
+			<marker class="begin-verse" mid="v20010016"/>
+			<v n="16">
+				The earnings 
+				<crossref let="q" cid="c2001016.1"/>
+				 of the godly enhance their lives,but evil people squander their money on sin.
+			</v>
+			<marker class="begin-verse" mid="v20010017"/>
+			<v n="17">
+				People who 
+				<crossref let="r" cid="c2001017.1"/>
+				 accept discipline are on the pathway to life,but those who ignore correction will go astray.
+			</v>
+			<marker class="begin-verse" mid="v20010018"/>
+			<v n="18">
+				Hiding hatred 
+				<crossref let="s" cid="c2001018.1"/>
+				 makes you a liar;slandering others makes you a fool.
+			</v>
+			<marker class="begin-verse" mid="v20010019"/>
+			<v n="19">
+				Too much 
+				<crossref let="t" cid="c2001019.1"/>
+				 talk leads to sin.Be sensible and keep your mouth shut.
+			</v>
+			<marker class="begin-verse" mid="v20010020"/>
+			<v n="20">
+				The words 
+				<crossref let="u" cid="c2001020.1"/>
+				 of the godly are like sterling silver;the heart of a fool is worthless.
+			</v>
+			<marker class="begin-verse" mid="v20010021"/>
+			<v n="21">
+				The words 
+				<crossref let="v" cid="c2001021.1"/>
+				 of the godly encourage many,but fools are destroyed by their lack of common sense.
+			</v>
+			<marker class="begin-verse" mid="v20010022"/>
+			<v n="22">
+				The blessing 
+				<crossref let="w" cid="c2001022.1"/>
+				 of the Lord makes a person rich,and he adds no sorrow with it.
+			</v>
+			<marker class="begin-verse" mid="v20010023"/>
+			<v n="23">
+				Doing wrong 
+				<crossref let="x" cid="c2001023.1"/>
+				 is fun for a fool,but living wisely brings pleasure to the sensible.
+			</v>
+			<marker class="begin-verse" mid="v20010024"/>
+			<v n="24">
+				The fears 
+				<crossref let="y" cid="c2001024.1"/>
+				 of the wicked will be fulfilled;the hopes of the godly will be granted.
+			</v>
+			<marker class="begin-verse" mid="v20010025"/>
+			<v n="25">
+				When the 
+				<crossref let="z" cid="c2001025.1"/>
+				 storms of life come, the wicked are whirled away,but the godly have a lasting foundation.
+			</v>
+			<marker class="begin-verse" mid="v20010026"/>
+			<v n="26">
+				Lazy people 
+				<crossref let="a" cid="c2001026.1"/>
+				 irritate their employers,like vinegar to the teeth or smoke in the eyes.
+			</v>
+			<marker class="begin-verse" mid="v20010027"/>
+			<v n="27">
+				Fear of 
+				<crossref let="b" cid="c2001027.1"/>
+				 the Lord lengthens one’s life,but the years of the wicked are cut short.
+			</v>
+			<marker class="begin-verse" mid="v20010028"/>
+			<v n="28">
+				The hopes 
+				<crossref let="c" cid="c2001028.1"/>
+				 of the godly result in happiness,but the expectations of the wicked come to nothing.
+			</v>
+			<marker class="begin-verse" mid="v20010029"/>
+			<v n="29">
+				The way 
+				<crossref let="d" cid="c2001029.1"/>
+				 of the Lord is a stronghold to those with integrity,but it destroys the wicked.
+			</v>
+			<marker class="begin-verse" mid="v20010030"/>
+			<v n="30">
+				The godly 
+				<crossref let="e" cid="c2001030.1"/>
+				 will never be disturbed,but the wicked will be removed from the land.
+			</v>
+			<marker class="begin-verse" mid="v20010031"/>
+			<v n="31">
+				The mouth 
+				<crossref let="f" cid="c2001031.1"/>
+				 of the godly person gives wise advice,but the tongue that deceives will be cut off.
+			</v>
+			<marker class="begin-verse" mid="v20010032"/>
+			<v n="32">
+				The lips 
+				<crossref let="g" cid="c2001032.1"/>
+				 of the godly speak helpful words,but the mouth of the wicked speaks perverse words.
+			</v>
+			<marker class="begin-verse" mid="v20010033"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

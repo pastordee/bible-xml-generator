@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:19:52.146529</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:19:52.146560</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19087001"/>
+		<chapter num="87">
+			<heading>The Glories of the City of GodA Psalm of the sons of Korah. A Song.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				His foundation 
+				<crossref let="b" cid="c190871.1"/>
+				 is in the holy mountains.
+			</v>
+			<marker class="begin-verse" mid="v19087002"/>
+			<v n="2">
+				The Lord 
+				<crossref let="c" cid="c190872.1"/>
+				 loves the gates of ZionMore than all the dwellings of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19087003"/>
+			<v n="3">
+				Glorious things 
+				<crossref let="d" cid="c190873.1"/>
+				 are spoken of you,O city of God!Selah
+			</v>
+			<marker class="begin-verse" mid="v19087004"/>
+			<v n="4">
+				“I will 
+				<crossref let="e" cid="c190874.1"/>
+				 make mention of Rahab and Babylon to those who know Me;Behold, O Philistia and Tyre, with Ethiopia:‘This one was born there.’ ”
+			</v>
+			<marker class="begin-verse" mid="v19087005"/>
+			<v n="5">
+				And of 
+				<crossref let="f" cid="c190875.1"/>
+				 Zion it will be said,“This one and that one were born in her;And the Most High Himself shall establish her.”
+			</v>
+			<marker class="begin-verse" mid="v19087006"/>
+			<v n="6">
+				The Lord 
+				<crossref let="g" cid="c190876.1"/>
+				 will record,When He registers the peoples:“This one was born there.”Selah
+			</v>
+			<marker class="begin-verse" mid="v19087007"/>
+			<v n="7">
+				Both the 
+				<crossref let="h" cid="c190877.1"/>
+				 singers and the players on instruments say,“All my springs are in you.”
+			</v>
+			<marker class="begin-verse" mid="v19087008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

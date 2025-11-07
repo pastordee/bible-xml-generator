@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:05:40.648356</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:05:40.648395</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" version="BSB" bookAbbr="ezr">
+		<marker class="begin-verse" mid="v15002001"/>
+		<chapter num="2">
+			<heading>The List of Returning Exiles(Nehemiah 7:4–69)</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Now these 
+				<crossref let="b" cid="c150021.1"/>
+				 are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,
+			</v>
+			<marker class="begin-verse" mid="v15002002"/>
+			<v n="2">
+				accompanied by 
+				<crossref let="c" cid="c150022.1"/>
+				 Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.This is the count of the men of Israel:
+			</v>
+			<marker class="begin-verse" mid="v15002003"/>
+			<v n="3">
+				the descendants 
+				<crossref let="d" cid="c150023.1"/>
+				 of Parosh, 2,172;
+			</v>
+			<marker class="begin-verse" mid="v15002004"/>
+			<v n="4">
+				the descendants 
+				<crossref let="e" cid="c150024.1"/>
+				 of Shephatiah, 372;
+			</v>
+			<marker class="begin-verse" mid="v15002005"/>
+			<v n="5">
+				the descendants 
+				<crossref let="f" cid="c150025.1"/>
+				 of Arah, 775;
+			</v>
+			<marker class="begin-verse" mid="v15002006"/>
+			<v n="6">
+				the descendants 
+				<crossref let="g" cid="c150026.1"/>
+				 of Pahath-moab (through the line of Jeshua and Joab), 2,812;
+			</v>
+			<marker class="begin-verse" mid="v15002007"/>
+			<v n="7">
+				the descendants 
+				<crossref let="h" cid="c150027.1"/>
+				 of Elam, 1,254;
+			</v>
+			<marker class="begin-verse" mid="v15002008"/>
+			<v n="8">
+				the descendants 
+				<crossref let="i" cid="c150028.1"/>
+				 of Zattu, 945;
+			</v>
+			<marker class="begin-verse" mid="v15002009"/>
+			<v n="9">
+				the descendants 
+				<crossref let="j" cid="c150029.1"/>
+				 of Zaccai, 760;
+			</v>
+			<marker class="begin-verse" mid="v15002010"/>
+			<v n="10">
+				the descendants 
+				<crossref let="k" cid="c1500210.1"/>
+				 of Bani, 642;
+			</v>
+			<marker class="begin-verse" mid="v15002011"/>
+			<v n="11">
+				the descendants 
+				<crossref let="l" cid="c1500211.1"/>
+				 of Bebai, 623;
+			</v>
+			<marker class="begin-verse" mid="v15002012"/>
+			<v n="12">
+				the descendants 
+				<crossref let="m" cid="c1500212.1"/>
+				 of Azgad, 1,222;
+			</v>
+			<marker class="begin-verse" mid="v15002013"/>
+			<v n="13">
+				the descendants 
+				<crossref let="n" cid="c1500213.1"/>
+				 of Adonikam, 666;
+			</v>
+			<marker class="begin-verse" mid="v15002014"/>
+			<v n="14">
+				the descendants 
+				<crossref let="o" cid="c1500214.1"/>
+				 of Bigvai, 2,056;
+			</v>
+			<marker class="begin-verse" mid="v15002015"/>
+			<v n="15">
+				the descendants 
+				<crossref let="p" cid="c1500215.1"/>
+				 of Adin, 454;
+			</v>
+			<marker class="begin-verse" mid="v15002016"/>
+			<v n="16">
+				the descendants 
+				<crossref let="q" cid="c1500216.1"/>
+				 of Ater (through Hezekiah), 98;
+			</v>
+			<marker class="begin-verse" mid="v15002017"/>
+			<v n="17">
+				the descendants 
+				<crossref let="r" cid="c1500217.1"/>
+				 of Bezai, 323;
+			</v>
+			<marker class="begin-verse" mid="v15002018"/>
+			<v n="18">
+				the descendants 
+				<crossref let="s" cid="c1500218.1"/>
+				 of Jorah, 112;
+			</v>
+			<marker class="begin-verse" mid="v15002019"/>
+			<v n="19">
+				the descendants 
+				<crossref let="t" cid="c1500219.1"/>
+				 of Hashum, 223;
+			</v>
+			<marker class="begin-verse" mid="v15002020"/>
+			<v n="20">
+				the descendants 
+				<crossref let="u" cid="c1500220.1"/>
+				 of Gibbar, 95;
+			</v>
+			<marker class="begin-verse" mid="v15002021"/>
+			<v n="21">
+				the men 
+				<crossref let="v" cid="c1500221.1"/>
+				 of Bethlehem, 123;
+			</v>
+			<marker class="begin-verse" mid="v15002022"/>
+			<v n="22">
+				the men 
+				<crossref let="w" cid="c1500222.1"/>
+				 of Netophah, 56;
+			</v>
+			<marker class="begin-verse" mid="v15002023"/>
+			<v n="23">
+				the men 
+				<crossref let="x" cid="c1500223.1"/>
+				 of Anathoth, 128;
+			</v>
+			<marker class="begin-verse" mid="v15002024"/>
+			<v n="24">
+				the descendants 
+				<crossref let="y" cid="c1500224.1"/>
+				 of Azmaveth, 42;
+			</v>
+			<marker class="begin-verse" mid="v15002025"/>
+			<v n="25">
+				the men 
+				<crossref let="z" cid="c1500225.1"/>
+				 of Kiriath-jearim, Chephirah, and Beeroth, 743;
+			</v>
+			<marker class="begin-verse" mid="v15002026"/>
+			<v n="26">
+				the men 
+				<crossref let="a" cid="c1500226.1"/>
+				 of Ramah and Geba, 621;
+			</v>
+			<marker class="begin-verse" mid="v15002027"/>
+			<v n="27">
+				the men 
+				<crossref let="b" cid="c1500227.1"/>
+				 of Michmash, 122;
+			</v>
+			<marker class="begin-verse" mid="v15002028"/>
+			<v n="28">
+				the men 
+				<crossref let="c" cid="c1500228.1"/>
+				 of Bethel and Ai, 223;
+			</v>
+			<marker class="begin-verse" mid="v15002029"/>
+			<v n="29">
+				the descendants 
+				<crossref let="d" cid="c1500229.1"/>
+				 of Nebo, 52;
+			</v>
+			<marker class="begin-verse" mid="v15002030"/>
+			<v n="30">
+				the descendants 
+				<crossref let="e" cid="c1500230.1"/>
+				 of Magbish, 156;
+			</v>
+			<marker class="begin-verse" mid="v15002031"/>
+			<v n="31">
+				the descendants 
+				<crossref let="f" cid="c1500231.1"/>
+				 of the other Elam, 1,254;
+			</v>
+			<marker class="begin-verse" mid="v15002032"/>
+			<v n="32">
+				the descendants 
+				<crossref let="g" cid="c1500232.1"/>
+				 of Harim, 320;
+			</v>
+			<marker class="begin-verse" mid="v15002033"/>
+			<v n="33">
+				the men 
+				<crossref let="h" cid="c1500233.1"/>
+				 of Lod, Hadid, and Ono, 725;
+			</v>
+			<marker class="begin-verse" mid="v15002034"/>
+			<v n="34">
+				the men 
+				<crossref let="i" cid="c1500234.1"/>
+				 of Jericho, 345;
+			</v>
+			<marker class="begin-verse" mid="v15002035"/>
+			<v n="35">
+				and the 
+				<crossref let="j" cid="c1500235.1"/>
+				 descendants of Senaah, 3,630.
+			</v>
+			<marker class="begin-verse" mid="v15002036"/>
+			<v n="36">
+				The priests:The 
+				<crossref let="k" cid="c1500236.1"/>
+				 descendants of Jedaiah (through the house of Jeshua), 973;
+			</v>
+			<marker class="begin-verse" mid="v15002037"/>
+			<v n="37">
+				the descendants 
+				<crossref let="l" cid="c1500237.1"/>
+				 of Immer, 1,052;
+			</v>
+			<marker class="begin-verse" mid="v15002038"/>
+			<v n="38">
+				the descendants 
+				<crossref let="m" cid="c1500238.1"/>
+				 of Pashhur, 1,247;
+			</v>
+			<marker class="begin-verse" mid="v15002039"/>
+			<v n="39">
+				and the 
+				<crossref let="n" cid="c1500239.1"/>
+				 descendants of Harim, 1,017.
+			</v>
+			<marker class="begin-verse" mid="v15002040"/>
+			<v n="40">
+				The Levites:the 
+				<crossref let="o" cid="c1500240.1"/>
+				 descendants of Jeshua and Kadmiel (through the line of Hodaviah ), 74.
+			</v>
+			<marker class="begin-verse" mid="v15002041"/>
+			<v n="41">
+				The singers:the 
+				<crossref let="p" cid="c1500241.1"/>
+				 descendants of Asaph, 128.
+			</v>
+			<marker class="begin-verse" mid="v15002042"/>
+			<v n="42">
+				The gatekeepers:the 
+				<crossref let="q" cid="c1500242.1"/>
+				 descendants of Shallum,the descendants of Ater,the descendants of Talmon,the descendants of Akkub,the descendants of Hatita,and the descendants of Shobai,139 in all.
+			</v>
+			<marker class="begin-verse" mid="v15002043"/>
+			<v n="43">
+				The temple 
+				<crossref let="r" cid="c1500243.1"/>
+				 servants:the descendants of Ziha,the descendants of Hasupha,the descendants of Tabbaoth,
+			</v>
+			<marker class="begin-verse" mid="v15002044"/>
+			<v n="44">
+				the descendants 
+				<crossref let="s" cid="c1500244.1"/>
+				 of Keros,the descendants of Siaha,the descendants of Padon,
+			</v>
+			<marker class="begin-verse" mid="v15002045"/>
+			<v n="45">
+				the descendants 
+				<crossref let="t" cid="c1500245.1"/>
+				 of Lebanah,the descendants of Hagabah,the descendants of Akkub,
+			</v>
+			<marker class="begin-verse" mid="v15002046"/>
+			<v n="46">
+				the descendants 
+				<crossref let="u" cid="c1500246.1"/>
+				 of Hagab,the descendants of Shalmai,the descendants of Hanan,
+			</v>
+			<marker class="begin-verse" mid="v15002047"/>
+			<v n="47">
+				the descendants 
+				<crossref let="v" cid="c1500247.1"/>
+				 of Giddel,the descendants of Gahar,the descendants of Reaiah,
+			</v>
+			<marker class="begin-verse" mid="v15002048"/>
+			<v n="48">
+				the descendants 
+				<crossref let="w" cid="c1500248.1"/>
+				 of Rezin,the descendants of Nekoda,the descendants of Gazzam,
+			</v>
+			<marker class="begin-verse" mid="v15002049"/>
+			<v n="49">
+				the descendants 
+				<crossref let="x" cid="c1500249.1"/>
+				 of Uzza,the descendants of Paseah,the descendants of Besai,
+			</v>
+			<marker class="begin-verse" mid="v15002050"/>
+			<v n="50">
+				the descendants 
+				<crossref let="y" cid="c1500250.1"/>
+				 of Asnah,the descendants of Meunim,the descendants of Nephusim,
+			</v>
+			<marker class="begin-verse" mid="v15002051"/>
+			<v n="51">
+				the descendants 
+				<crossref let="z" cid="c1500251.1"/>
+				 of Bakbuk,the descendants of Hakupha,the descendants of Harhur,
+			</v>
+			<marker class="begin-verse" mid="v15002052"/>
+			<v n="52">
+				the descendants 
+				<crossref let="a" cid="c1500252.1"/>
+				 of Bazluth,the descendants of Mehida,the descendants of Harsha,
+			</v>
+			<marker class="begin-verse" mid="v15002053"/>
+			<v n="53">
+				the descendants 
+				<crossref let="b" cid="c1500253.1"/>
+				 of Barkos,the descendants of Sisera,the descendants of Temah,
+			</v>
+			<marker class="begin-verse" mid="v15002054"/>
+			<v n="54">
+				the descendants 
+				<crossref let="c" cid="c1500254.1"/>
+				 of Neziah,and the descendants of Hatipha.
+			</v>
+			<marker class="begin-verse" mid="v15002055"/>
+			<v n="55">
+				The descendants 
+				<crossref let="d" cid="c1500255.1"/>
+				 of the servants of Solomon:the descendants of Sotai,the descendants of Sophereth,the descendants of Peruda,
+			</v>
+			<marker class="begin-verse" mid="v15002056"/>
+			<v n="56">
+				the descendants 
+				<crossref let="e" cid="c1500256.1"/>
+				 of Jaala,the descendants of Darkon,the descendants of Giddel,
+			</v>
+			<marker class="begin-verse" mid="v15002057"/>
+			<v n="57">
+				the descendants 
+				<crossref let="f" cid="c1500257.1"/>
+				 of Shephatiah,the descendants of Hattil,the descendants of Pochereth-hazzebaim,and the descendants of Ami.
+			</v>
+			<marker class="begin-verse" mid="v15002058"/>
+			<v n="58">
+				The temple 
+				<crossref let="g" cid="c1500258.1"/>
+				 servants and descendants of the servants of Solomon numbered 392 in all.
+			</v>
+			<marker class="begin-verse" mid="v15002059"/>
+			<v n="59">
+				The following 
+				<crossref let="h" cid="c1500259.1"/>
+				 came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, but could not prove that their families were descended from Israel:
+			</v>
+			<marker class="begin-verse" mid="v15002060"/>
+			<v n="60">
+				the descendants 
+				<crossref let="i" cid="c1500260.1"/>
+				 of Delaiah,the descendants of Tobiah,and the descendants of Nekoda,652 in all.
+			</v>
+			<marker class="begin-verse" mid="v15002061"/>
+			<v n="61">
+				And from 
+				<crossref let="j" cid="c1500261.1"/>
+				 among the priests: the descendants of Hobaiah,the descendants of Hakkoz,and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name).
+			</v>
+			<marker class="begin-verse" mid="v15002062"/>
+			<v n="62">
+				These men 
+				<crossref let="k" cid="c1500262.1"/>
+				 searched for their family records, but they could not find them and so were excluded from the priesthood as unclean.
+			</v>
+			<marker class="begin-verse" mid="v15002063"/>
+			<v n="63">
+				The governor 
+				<crossref let="l" cid="c1500263.1"/>
+				 ordered them not to eat the most holy things until there was a priest to consult the Urim and Thummim.
+			</v>
+			<marker class="begin-verse" mid="v15002064"/>
+			<v n="64">
+				The whole 
+				<crossref let="m" cid="c1500264.1"/>
+				 assembly numbered 42,360,
+			</v>
+			<marker class="begin-verse" mid="v15002065"/>
+			<v n="65">
+				in addition 
+				<crossref let="n" cid="c1500265.1"/>
+				 to their 7,337 menservants and maidservants, as well as their 200 male and female singers.
+			</v>
+			<marker class="begin-verse" mid="v15002066"/>
+			<v n="66">
+				They had 
+				<crossref let="o" cid="c1500266.1"/>
+				 736 horses, 245 mules,
+			</v>
+			<marker class="begin-verse" mid="v15002067"/>
+			<v n="67">
+				435 camels, 
+				<crossref let="p" cid="c1500267.1"/>
+				 and 6,720 donkeys.Offerings by the Exiles(Exodus 38:21–31; Nehemiah 7:70–73)
+			</v>
+			<marker class="begin-verse" mid="v15002068"/>
+			<v n="68">
+				When they 
+				<crossref let="q" cid="c1500268.1"/>
+				 arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings to rebuild the house of God on its original site.
+			</v>
+			<marker class="begin-verse" mid="v15002069"/>
+			<v n="69">
+				According to 
+				<crossref let="r" cid="c1500269.1"/>
+				 their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments.
+			</v>
+			<marker class="begin-verse" mid="v15002070"/>
+			<v n="70">
+				So the 
+				<crossref let="s" cid="c1500270.1"/>
+				 priests, the Levites, the singers, the gatekeepers, and the temple servants, along with some of the people, settled in their own towns; and the rest of the Israelites settled in their towns.
+			</v>
+			<marker class="begin-verse" mid="v15002071"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

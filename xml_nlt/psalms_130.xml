@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:55:43.836746</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:55:43.836756</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19130001"/>
+		<chapter num="130">
+			<heading>A song for pilgrims ascending to Jerusalem.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				From the 
+				<crossref let="b" cid="c191301.1"/>
+				 depths of despair, O Lord,I call for your help.
+			</v>
+			<marker class="begin-verse" mid="v19130002"/>
+			<v n="2">
+				Hear my 
+				<crossref let="c" cid="c191302.1"/>
+				 cry, O Lord.Pay attention to my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19130003"/>
+			<v n="3">
+				Lord, if 
+				<crossref let="d" cid="c191303.1"/>
+				 you kept a record of our sins,who, O Lord, could ever survive?
+			</v>
+			<marker class="begin-verse" mid="v19130004"/>
+			<v n="4">
+				But you 
+				<crossref let="e" cid="c191304.1"/>
+				 offer forgiveness,that we might learn to fear you.
+			</v>
+			<marker class="begin-verse" mid="v19130005"/>
+			<v n="5">
+				I am 
+				<crossref let="f" cid="c191305.1"/>
+				 counting on the Lord;yes, I am counting on him.I have put my hope in his word.
+			</v>
+			<marker class="begin-verse" mid="v19130006"/>
+			<v n="6">
+				I long 
+				<crossref let="g" cid="c191306.1"/>
+				 for the Lordmore than sentries long for the dawn,yes, more than sentries long for the dawn.
+			</v>
+			<marker class="begin-verse" mid="v19130007"/>
+			<v n="7">
+				O Israel, 
+				<crossref let="h" cid="c191307.1"/>
+				 hope in the Lord;for with the Lord there is unfailing love.His redemption overflows.
+			</v>
+			<marker class="begin-verse" mid="v19130008"/>
+			<v n="8">
+				He himself 
+				<crossref let="i" cid="c191308.1"/>
+				 will redeem Israelfrom every kind of sin.
+			</v>
+			<marker class="begin-verse" mid="v19130009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

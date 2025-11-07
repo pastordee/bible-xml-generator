@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:27.468625</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:27.468636</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19141001">
+		</marker>
+		<chapter num="141">
+			<heading>
+				Psalm 141
+			</heading>
+			<heading>
+				Give Ear to My Voice
+			</heading>
+			<heading>
+				A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				O LORD, 
+				<crossref let="b" cid="c19141001.1">
+				</crossref>
+				I call, 
+				<crossref let="c" cid="c19141001.2">
+				</crossref>
+				upon you; hasten to me! Give ear to my voice when I call to you!
+			</v>
+			<marker class="begin-verse" mid="v19141002">
+			</marker>
+			<v n="2">
+				Let my 
+				<crossref let="d" cid="c19141002.3">
+				</crossref>
+				prayer be, 
+				<crossref let="e" cid="c19141002.4">
+				</crossref>
+				counted as incense before you, and the lifting up of my hands as the evening sacrifice!
+			</v>
+			<marker class="begin-verse" mid="v19141003">
+			</marker>
+			<v n="3">
+				Set a 
+				<crossref let="f" cid="c19141003.5">
+				</crossref>
+				guard, O, 
+				<crossref let="g" cid="c19141003.6">
+				</crossref>
+				LORD, over my mouth; keep watch over the door of my lips!
+				<note nid="n19141003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19141004">
+			</marker>
+			<v n="4">
+				Do not 
+				<crossref let="h" cid="c19141004.7">
+				</crossref>
+				let my, 
+				<crossref let="i" cid="c19141004.8">
+				</crossref>
+				heart incline to any evil, to busy myself with wicked deeds in company with men who work iniquity, and let me not eat of their delicacies!
+			</v>
+			<marker class="begin-verse" mid="v19141005">
+			</marker>
+			<v n="5">
+				Let a 
+				<crossref let="j" cid="c19141005.9">
+				</crossref>
+				righteous man, 
+				<crossref let="k" cid="c19141005.10">
+				</crossref>
+				strike me—it is a kindness; let him rebuke me—it is oil for my head; let my head not refuse it. Yet my prayer is continually against their evil deeds.
+			</v>
+			<marker class="begin-verse" mid="v19141006">
+			</marker>
+			<v n="6">
+				When their 
+				<crossref let="l" cid="c19141006.11">
+				</crossref>
+				judges are, 
+				<crossref let="m" cid="c19141006.12">
+				</crossref>
+				thrown over the cliff,(1) then they shall hear my words, for they are pleasant.
+				<note nid="n19141006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19141007">
+			</marker>
+			<v n="7">
+				As when 
+				<crossref let="n" cid="c19141007.13">
+				</crossref>
+				one plows, 
+				<crossref let="o" cid="c19141007.14">
+				</crossref>
+				and breaks up the earth, so shall our bones be scattered at the mouth of Sheol.(2)
+			</v>
+			<marker class="begin-verse" mid="v19141008">
+			</marker>
+			<v n="8">
+				But my 
+				<crossref let="p" cid="c19141008.15">
+				</crossref>
+				eyes are, 
+				<crossref let="q" cid="c19141008.16">
+				</crossref>
+				toward you, O GOD, my Lord; in you I seek refuge; leave me not defenseless!(3)
+			</v>
+			<marker class="begin-verse" mid="v19141009">
+			</marker>
+			<v n="9">
+				Keep me 
+				<crossref let="r" cid="c19141009.17">
+				</crossref>
+				from the, 
+				<crossref let="s" cid="c19141009.18">
+				</crossref>
+				trap that they have laid for me and from the snares of evildoers!
+				<note nid="n19141009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19141010">
+			</marker>
+			<v n="10">
+				Let the 
+				<crossref let="t" cid="c19141010.19">
+				</crossref>
+				wicked fall, 
+				<crossref let="u" cid="c19141010.20">
+				</crossref>
+				into their own nets, while I pass by safely. Footnotes (1) 141:6 Or *When their judges fall into the hands of the Rock* (2) 141:7 The meaning of the Hebrew in verses 6, 7 is uncertain (3) 141:8 Hebrew *refuge; do not pour out my life!* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19141011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

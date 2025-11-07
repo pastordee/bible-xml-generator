@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:03:26.520253</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:03:26.520261</next_refresh_due>
+	</generation_info>
+	<book title="Habakkuk" num="35" testament="old" bookAbbr="hab" version="ESV">
+		<marker class="begin-verse" mid="v35003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Habakkuk 3
+			</heading>
+			<heading>
+				Habakkuk’s Prayer
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				A prayer 
+				<crossref let="b" cid="c35003001.1">
+				</crossref>
+				of Habakkuk, 
+				<crossref let="c" cid="c35003001.2">
+				</crossref>
+				the prophet, according to Shigionoth.
+			</v>
+			<marker class="begin-verse" mid="v35003002">
+			</marker>
+			<v n="2">
+				O LORD, 
+				<crossref let="d" cid="c35003002.3">
+				</crossref>
+				I have, 
+				<crossref let="e" cid="c35003002.4">
+				</crossref>
+				heard the report of you, and your work, O LORD, do I fear. In the midst of the years revive it; in the midst of the years make it known; in wrath remember mercy.
+			</v>
+			<marker class="begin-verse" mid="v35003003">
+			</marker>
+			<v n="3">
+				God came 
+				<crossref let="f" cid="c35003003.5">
+				</crossref>
+				from Teman,, 
+				<crossref let="g" cid="c35003003.6">
+				</crossref>
+				and the Holy One from Mount Paran. Selah His splendor covered the heavens, and the earth was full of his praise.
+				<note nid="n35003003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v35003004">
+			</marker>
+			<v n="4">
+				His brightness 
+				<crossref let="h" cid="c35003004.7">
+				</crossref>
+				was like, 
+				<crossref let="i" cid="c35003004.8">
+				</crossref>
+				the light; rays flashed from his hand; and there he veiled his power.
+			</v>
+			<marker class="begin-verse" mid="v35003005">
+			</marker>
+			<v n="5">
+				Before him 
+				<crossref let="j" cid="c35003005.9">
+				</crossref>
+				went pestilence,, 
+				<crossref let="k" cid="c35003005.10">
+				</crossref>
+				and plague followed at his heels.(1)
+			</v>
+			<marker class="begin-verse" mid="v35003006">
+			</marker>
+			<v n="6">
+				He stood 
+				<crossref let="l" cid="c35003006.11">
+				</crossref>
+				and measured, 
+				<crossref let="m" cid="c35003006.12">
+				</crossref>
+				the earth; he looked and shook the nations; then the eternal mountains were scattered; the everlasting hills sank low. His were the everlasting ways.
+				<note nid="n35003006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v35003007">
+			</marker>
+			<v n="7">
+				I saw 
+				<crossref let="n" cid="c35003007.13">
+				</crossref>
+				the tents, 
+				<crossref let="o" cid="c35003007.14">
+				</crossref>
+				of Cushan in affliction; the curtains of the land of Midian did tremble.
+			</v>
+			<marker class="begin-verse" mid="v35003008">
+			</marker>
+			<v n="8">
+				Was your 
+				<crossref let="p" cid="c35003008.15">
+				</crossref>
+				wrath against, 
+				<crossref let="q" cid="c35003008.16">
+				</crossref>
+				the rivers, O LORD? Was your anger against the rivers, or your indignation against the sea, when you rode on your horses, on your chariot of salvation?
+			</v>
+			<marker class="begin-verse" mid="v35003009">
+			</marker>
+			<v n="9">
+				You stripped 
+				<crossref let="r" cid="c35003009.17">
+				</crossref>
+				the sheath, 
+				<crossref let="s" cid="c35003009.18">
+				</crossref>
+				from your bow, calling for many arrows.(2) Selah You split the earth with rivers.
+				<note nid="n35003009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v35003010">
+			</marker>
+			<v n="10">
+				The mountains 
+				<crossref let="t" cid="c35003010.19">
+				</crossref>
+				saw you, 
+				<crossref let="u" cid="c35003010.20">
+				</crossref>
+				and writhed; the raging waters swept on; the deep gave forth its voice; it lifted its hands on high.
+			</v>
+			<marker class="begin-verse" mid="v35003011">
+			</marker>
+			<v n="11">
+				The sun 
+				<crossref let="v" cid="c35003011.21">
+				</crossref>
+				and moon, 
+				<crossref let="w" cid="c35003011.22">
+				</crossref>
+				stood still in their place at the light of your arrows as they sped, at the flash of your glittering spear.
+			</v>
+			<marker class="begin-verse" mid="v35003012">
+			</marker>
+			<v n="12">
+				You marched 
+				<crossref let="x" cid="c35003012.23">
+				</crossref>
+				through the, 
+				<crossref let="y" cid="c35003012.24">
+				</crossref>
+				earth in fury; you threshed the nations in anger.
+				<note nid="n35003012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v35003013">
+			</marker>
+			<v n="13">
+				You went 
+				<crossref let="z" cid="c35003013.25">
+				</crossref>
+				out for, 
+				<crossref let="a" cid="c35003013.26">
+				</crossref>
+				the salvation of your people, for the salvation of your anointed. You crushed the head of the house of the wicked, laying him bare from thigh to neck.(3) Selah
+			</v>
+			<marker class="begin-verse" mid="v35003014">
+			</marker>
+			<v n="14">
+				You pierced 
+				<crossref let="b" cid="c35003014.27">
+				</crossref>
+				with his, 
+				<crossref let="c" cid="c35003014.28">
+				</crossref>
+				own arrows the heads of his warriors, who came like a whirlwind to scatter me, rejoicing as if to devour the poor in secret.
+			</v>
+			<marker class="begin-verse" mid="v35003015">
+			</marker>
+			<v n="15">
+				You trampled 
+				<crossref let="d" cid="c35003015.29">
+				</crossref>
+				the sea, 
+				<crossref let="e" cid="c35003015.30">
+				</crossref>
+				with your horses, the surging of mighty waters.
+				<note nid="n35003015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v35003016">
+			</marker>
+			<v n="16">
+				I hear, 
+				<crossref let="f" cid="c35003016.31">
+				</crossref>
+				and my, 
+				<crossref let="g" cid="c35003016.32">
+				</crossref>
+				body trembles; my lips quiver at the sound; rottenness enters into my bones; my legs tremble beneath me. Yet I will quietly wait for the day of trouble to come upon people who invade us. Habakkuk Rejoices in the LORD
+			</v>
+			<marker class="begin-verse" mid="v35003017">
+			</marker>
+			<v n="17">
+				Though the 
+				<crossref let="h" cid="c35003017.33">
+				</crossref>
+				fig tree, 
+				<crossref let="i" cid="c35003017.34">
+				</crossref>
+				should not blossom, nor fruit be on the vines, the produce of the olive fail and the fields yield no food, the flock be cut off from the fold and there be no herd in the stalls,
+			</v>
+			<marker class="begin-verse" mid="v35003018">
+			</marker>
+			<v n="18">
+				yet I 
+				<crossref let="j" cid="c35003018.35">
+				</crossref>
+				will rejoice, 
+				<crossref let="k" cid="c35003018.36">
+				</crossref>
+				in the LORD; I will take joy in the God of my salvation.
+				<note nid="n35003018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v35003019">
+			</marker>
+			<v n="19">
+				GOD, the 
+				<crossref let="l" cid="c35003019.37">
+				</crossref>
+				Lord, is, 
+				<crossref let="m" cid="c35003019.38">
+				</crossref>
+				my strength; he makes my feet like the deer’s; he makes me tread on my high places. To the choirmaster: with stringed(4) instruments. Footnotes (1) 3:5 Hebrew *feet* (2) 3:9 The meaning of the Hebrew line is uncertain (3) 3:13 The meaning of the Hebrew line is uncertain (4) 3:19 Hebrew *my stringed* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v35003020">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:54:06.829528</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:54:06.829536</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23031001">
+		</marker>
+		<chapter num="31">
+			<heading>
+				Isaiah 31
+			</heading>
+			<heading>
+				Woe to Those Who Go Down to Egypt
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Woe(1) to 
+				<crossref let="b" cid="c23031001.1">
+				</crossref>
+				those who, 
+				<crossref let="c" cid="c23031001.2">
+				</crossref>
+				go down to Egypt for help and rely on horses, who trust in chariots because they are many and in horsemen because they are very strong, but do not look to the Holy One of Israel or consult the LORD!
+			</v>
+			<marker class="begin-verse" mid="v23031002">
+			</marker>
+			<v n="2">
+				And yet 
+				<crossref let="d" cid="c23031002.3">
+				</crossref>
+				he is, 
+				<crossref let="e" cid="c23031002.4">
+				</crossref>
+				wise and brings disaster; he does not call back his words, but will arise against the house of the evildoers and against the helpers of those who work iniquity.
+			</v>
+			<marker class="begin-verse" mid="v23031003">
+			</marker>
+			<v n="3">
+				The Egyptians 
+				<crossref let="f" cid="c23031003.5">
+				</crossref>
+				are man,, 
+				<crossref let="g" cid="c23031003.6">
+				</crossref>
+				and not God, and their horses are flesh, and not spirit. When the LORD stretches out his hand, the helper will stumble, and he who is helped will fall, and they will all perish together.
+				<note nid="n23031003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v23031004">
+			</marker>
+			<v n="4">
+				For thus 
+				<crossref let="h" cid="c23031004.7">
+				</crossref>
+				the LORD, 
+				<crossref let="i" cid="c23031004.8">
+				</crossref>
+				said to me, “As a lion or a young lion growls over his prey, and when a band of shepherds is called out against him he is not terrified by their shouting or daunted at their noise, so the LORD of hosts will come down to fight(2) on Mount Zion and on its hill.
+			</v>
+			<marker class="begin-verse" mid="v23031005">
+			</marker>
+			<v n="5">
+				Like birds 
+				<crossref let="j" cid="c23031005.9">
+				</crossref>
+				hovering, so, 
+				<crossref let="k" cid="c23031005.10">
+				</crossref>
+				the LORD of hosts will protect Jerusalem; he will protect and deliver it; he will spare and rescue it.”
+			</v>
+			<marker class="begin-verse" mid="v23031006">
+			</marker>
+			<v n="6">
+				Turn to 
+				<crossref let="l" cid="c23031006.11">
+				</crossref>
+				him from, 
+				<crossref let="m" cid="c23031006.12">
+				</crossref>
+				whom people(3) have deeply revolted, O children of Israel.
+				<note nid="n23031006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v23031007">
+			</marker>
+			<v n="7">
+				For in 
+				<crossref let="n" cid="c23031007.13">
+				</crossref>
+				that day, 
+				<crossref let="o" cid="c23031007.14">
+				</crossref>
+				everyone shall cast away his idols of silver and his idols of gold, which your hands have sinfully made for you.
+			</v>
+			<marker class="begin-verse" mid="v23031008">
+			</marker>
+			<v n="8">
+				“And the 
+				<crossref let="p" cid="c23031008.15">
+				</crossref>
+				Assyrian shall, 
+				<crossref let="q" cid="c23031008.16">
+				</crossref>
+				fall by a sword, not of man; and a sword, not of man, shall devour him; and he shall flee from the sword, and his young men shall be put to forced labor.
+			</v>
+			<marker class="begin-verse" mid="v23031009">
+			</marker>
+			<v n="9">
+				His rock 
+				<crossref let="r" cid="c23031009.17">
+				</crossref>
+				shall pass, 
+				<crossref let="s" cid="c23031009.18">
+				</crossref>
+				away in terror, and his officers desert the standard in panic,” declares the LORD, whose fire is in Zion, and whose furnace is in Jerusalem. Footnotes (1) 31:1 Or *Ah,* (2) 31:4 The Hebrew words for *hosts* and *to fight* sound alike (3) 31:6 Hebrew *they* (ESV)
+				<note nid="n23031009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v23031010">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

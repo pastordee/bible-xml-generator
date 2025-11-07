@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:03:31.899620</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:03:31.899700</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19060001"/>
+		<chapter num="60">
+			<heading>Psalm 60Lament over Defeat in Battle, and Prayer for Help.To the Chief Musician; set to [the tune of] “The Lily of the Testimony.” A Mikhtam of David [intended to record memorable thoughts and] to teach; when he struggled with the Arameans of Mesopotamia and the Arameans of Zobah, and when Joab returned and struck twelve thousand Edomites in the Valley of Salt.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c190601.1"/>
+				 You have rejected us and cast us off. You have broken [down our defenses and scattered] us;You have been angry; O restore us and turn again to us.
+			</v>
+			<marker class="begin-verse" mid="v19060002"/>
+			<v n="2">
+				You have 
+				<crossref let="c" cid="c190602.1"/>
+				 made the land quake, You have split it open;Heal its rifts, for it shakes and totters.
+			</v>
+			<marker class="begin-verse" mid="v19060003"/>
+			<v n="3">
+				You have 
+				<crossref let="d" cid="c190603.1"/>
+				 made Your people experience hardship;You have given us wine to drink that makes us stagger and fall.
+			</v>
+			<marker class="begin-verse" mid="v19060004"/>
+			<v n="4">
+				You have 
+				<crossref let="e" cid="c190604.1"/>
+				 set up a banner for those who fear You [with awe-inspired reverence and submissive wonder—a banner to shield them from attack],A banner that may be displayed because of the truth. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19060005"/>
+			<v n="5">
+				That Your 
+				<crossref let="f" cid="c190605.1"/>
+				 beloved ones may be rescued,Save with Your right hand and answer us.
+			</v>
+			<marker class="begin-verse" mid="v19060006"/>
+			<v n="6">
+				¶God has 
+				<crossref let="g" cid="c190606.1"/>
+				 spoken in His holiness [in His promises]:“I will rejoice, I will divide [the land of] Shechem and measure out the Valley of Succoth [west to east].
+			</v>
+			<marker class="begin-verse" mid="v19060007"/>
+			<v n="7">
+				“Gilead is 
+				<crossref let="h" cid="c190607.1"/>
+				 Mine, and Manasseh is Mine;Ephraim is My helmet;Judah is My scepter.
+			</v>
+			<marker class="begin-verse" mid="v19060008"/>
+			<v n="8">
+				“Moab is 
+				<crossref let="i" cid="c190608.1"/>
+				 My washbowl;Over Edom I shall throw My shoe [in triumph];Over Philistia I raise the shout [of victory].”
+			</v>
+			<marker class="begin-verse" mid="v19060009"/>
+			<v n="9">
+				¶Who will 
+				<crossref let="j" cid="c190609.1"/>
+				 bring me into the besieged city [of Petra]?Who will lead me to Edom?
+			</v>
+			<marker class="begin-verse" mid="v19060010"/>
+			<v n="10">
+				Have You 
+				<crossref let="k" cid="c1906010.1"/>
+				 not rejected us, O God?And will You not go out with our armies?
+			</v>
+			<marker class="begin-verse" mid="v19060011"/>
+			<v n="11">
+				Give us 
+				<crossref let="l" cid="c1906011.1"/>
+				 help against the enemy,For the help of man is worthless (ineffectual, without purpose).
+			</v>
+			<marker class="begin-verse" mid="v19060012"/>
+			<v n="12">
+				Through God 
+				<crossref let="m" cid="c1906012.1"/>
+				 we will have victory,For He will trample down our enemies.
+			</v>
+			<marker class="begin-verse" mid="v19060013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

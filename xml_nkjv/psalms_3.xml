@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:12:21.026030</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:12:21.026054</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19003001"/>
+		<chapter num="3">
+			<heading>The Lord Helps His Troubled PeopleA Psalm of David when he fled from Absalom his son.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Lord, how 
+				<crossref let="b" cid="c190031.1"/>
+				 they have increased who trouble me!Many are they who rise up against me.
+			</v>
+			<marker class="begin-verse" mid="v19003002"/>
+			<v n="2">
+				Many are 
+				<crossref let="c" cid="c190032.1"/>
+				 they who say of me,“There is no help for him in God.”Selah
+			</v>
+			<marker class="begin-verse" mid="v19003003"/>
+			<v n="3">
+				But You, 
+				<crossref let="d" cid="c190033.1"/>
+				 O Lord, are a shield for me,My glory and the One who lifts up my head.
+			</v>
+			<marker class="begin-verse" mid="v19003004"/>
+			<v n="4">
+				I cried 
+				<crossref let="e" cid="c190034.1"/>
+				 to the Lord with my voice,And He heard me from His holy hill.Selah
+			</v>
+			<marker class="begin-verse" mid="v19003005"/>
+			<v n="5">
+				I lay 
+				<crossref let="f" cid="c190035.1"/>
+				 down and slept;I awoke, for the Lord sustained me.
+			</v>
+			<marker class="begin-verse" mid="v19003006"/>
+			<v n="6">
+				I will 
+				<crossref let="g" cid="c190036.1"/>
+				 not be afraid of ten thousands of peopleWho have set themselves against me all around.
+			</v>
+			<marker class="begin-verse" mid="v19003007"/>
+			<v n="7">
+				Arise, O 
+				<crossref let="h" cid="c190037.1"/>
+				 Lord;Save me, O my God!For You have struck all my enemies on the cheekbone;You have broken the teeth of the ungodly.
+			</v>
+			<marker class="begin-verse" mid="v19003008"/>
+			<v n="8">
+				Salvation belongs 
+				<crossref let="i" cid="c190038.1"/>
+				 to the Lord.Your blessing is upon Your people.Selah
+			</v>
+			<marker class="begin-verse" mid="v19003009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:15.671539</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:15.671546</next_refresh_due>
+	</generation_info>
+	<book title="Amos" num="30" testament="old" bookAbbr="amo" version="ESV">
+		<marker class="begin-verse" mid="v30001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Amos 1
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The words 
+				<crossref let="b" cid="c30001001.1">
+				</crossref>
+				of Amos,, 
+				<crossref let="c" cid="c30001001.2">
+				</crossref>
+				who was among the shepherds(1) of Tekoa, which he saw concerning Israel in the days of Uzziah king of Judah and in the days of Jeroboam the son of Joash, king of Israel, two years(2) before the earthquake. Judgment on Israel’s Neighbors
+			</v>
+			<marker class="begin-verse" mid="v30001002">
+			</marker>
+			<v n="2" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="d" cid="c30001002.3">
+				</crossref>
+					said: “The, 
+					<crossref let="e" cid="c30001002.4">
+				</crossref>
+				LORD roars from Zion and utters his voice from Jerusalem; the pastures of the shepherds mourn, and the top of Carmel withers.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v30001003">
+			</marker>
+			<v n="3">
+				Thus says 
+				<crossref let="f" cid="c30001003.5">
+				</crossref>
+				the LORD:, 
+				<crossref let="g" cid="c30001003.6">
+				</crossref>
+				“For three transgressions of Damascus, and for four, I will not revoke the punishment,(3) because they have threshed Gilead with threshing sledges of iron.
+				<note nid="n30001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v30001004">
+			</marker>
+			<v n="4">
+				So I 
+				<crossref let="h" cid="c30001004.7">
+				</crossref>
+				will send, 
+				<crossref let="i" cid="c30001004.8">
+				</crossref>
+				a fire upon the house of Hazael, and it shall devour the strongholds of Ben-hadad.
+			</v>
+			<marker class="begin-verse" mid="v30001005">
+			</marker>
+			<v n="5">
+				I will 
+				<crossref let="j" cid="c30001005.9">
+				</crossref>
+				break the, 
+				<crossref let="k" cid="c30001005.10">
+				</crossref>
+				gate-bar of Damascus, and cut off the inhabitants from the Valley of Aven,(4) and him who holds the scepter from Beth-eden; and the people of Syria shall go into exile to Kir,” says the LORD.
+			</v>
+			<marker class="begin-verse" mid="v30001006">
+			</marker>
+			<v n="6">
+				Thus says 
+				<crossref let="l" cid="c30001006.11">
+				</crossref>
+				the LORD:, 
+				<crossref let="m" cid="c30001006.12">
+				</crossref>
+				“For three transgressions of Gaza, and for four, I will not revoke the punishment, because they carried into exile a whole people to deliver them up to Edom.
+				<note nid="n30001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v30001007">
+			</marker>
+			<v n="7">
+				So I 
+				<crossref let="n" cid="c30001007.13">
+				</crossref>
+				will send, 
+				<crossref let="o" cid="c30001007.14">
+				</crossref>
+				a fire upon the wall of Gaza, and it shall devour her strongholds.
+			</v>
+			<marker class="begin-verse" mid="v30001008">
+			</marker>
+			<v n="8">
+				I will 
+				<crossref let="p" cid="c30001008.15">
+				</crossref>
+				cut off, 
+				<crossref let="q" cid="c30001008.16">
+				</crossref>
+				the inhabitants from Ashdod, and him who holds the scepter from Ashkelon; I will turn my hand against Ekron, and the remnant of the Philistines shall perish,” says the Lord GOD.
+			</v>
+			<marker class="begin-verse" mid="v30001009">
+			</marker>
+			<v n="9">
+				Thus says 
+				<crossref let="r" cid="c30001009.17">
+				</crossref>
+				the LORD:, 
+				<crossref let="s" cid="c30001009.18">
+				</crossref>
+				“For three transgressions of Tyre, and for four, I will not revoke the punishment, because they delivered up a whole people to Edom, and did not remember the covenant of brotherhood.
+				<note nid="n30001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v30001010">
+			</marker>
+			<v n="10">
+				So I 
+				<crossref let="t" cid="c30001010.19">
+				</crossref>
+				will send, 
+				<crossref let="u" cid="c30001010.20">
+				</crossref>
+				a fire upon the wall of Tyre, and it shall devour her strongholds.”
+			</v>
+			<marker class="begin-verse" mid="v30001011">
+			</marker>
+			<v n="11">
+				Thus says 
+				<crossref let="v" cid="c30001011.21">
+				</crossref>
+				the LORD:, 
+				<crossref let="w" cid="c30001011.22">
+				</crossref>
+				“For three transgressions of Edom, and for four, I will not revoke the punishment, because he pursued his brother with the sword and cast off all pity, and his anger tore perpetually, and he kept his wrath forever.
+			</v>
+			<marker class="begin-verse" mid="v30001012">
+			</marker>
+			<v n="12">
+				So I 
+				<crossref let="x" cid="c30001012.23">
+				</crossref>
+				will send, 
+				<crossref let="y" cid="c30001012.24">
+				</crossref>
+				a fire upon Teman, and it shall devour the strongholds of Bozrah.”
+				<note nid="n30001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v30001013">
+			</marker>
+			<v n="13">
+				Thus says 
+				<crossref let="z" cid="c30001013.25">
+				</crossref>
+				the LORD:, 
+				<crossref let="a" cid="c30001013.26">
+				</crossref>
+				“For three transgressions of the Ammonites, and for four, I will not revoke the punishment, because they have ripped open pregnant women in Gilead, that they might enlarge their border.
+			</v>
+			<marker class="begin-verse" mid="v30001014">
+			</marker>
+			<v n="14">
+				So I 
+				<crossref let="b" cid="c30001014.27">
+				</crossref>
+				will kindle, 
+				<crossref let="c" cid="c30001014.28">
+				</crossref>
+				a fire in the wall of Rabbah, and it shall devour her strongholds, with shouting on the day of battle, with a tempest in the day of the whirlwind;
+			</v>
+			<marker class="begin-verse" mid="v30001015">
+			</marker>
+			<v n="15">
+				and their 
+				<crossref let="d" cid="c30001015.29">
+				</crossref>
+				king shall, 
+				<crossref let="e" cid="c30001015.30">
+				</crossref>
+				go into exile, he and his princes(5) together,” says the LORD. Footnotes (1) 1:1 Or *sheep breeders* (2) 1:1 Or *during two years* (3) 1:3 Hebrew *I will not turn it back*; also verses 6, 9, 11, 13 (4) 1:5 Or *On* (5) 1:15 Or *officials* (ESV)
+				<note nid="n30001015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v30001016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

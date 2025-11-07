@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:46:55.145543</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:46:55.145583</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" version="NKJV" bookAbbr="hos">
+		<marker class="begin-verse" mid="v28006001"/>
+		<chapter num="6">
+			<heading>A Call to Repentance</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Come,and let 
+				<crossref let="b" cid="c280061.1"/>
+				 us return to the Lord;For He has torn, but He will heal us;He has stricken, but He will bind us up.
+			</v>
+			<marker class="begin-verse" mid="v28006002"/>
+			<v n="2">
+				After two 
+				<crossref let="c" cid="c280062.1"/>
+				 days He will revive us;On the third day He will raise us up,That we may live in His sight.
+			</v>
+			<marker class="begin-verse" mid="v28006003"/>
+			<v n="3">
+				Let us 
+				<crossref let="d" cid="c280063.1"/>
+				 know,Let us pursue the knowledge of the Lord.His going forth is established as the morning;He will come to us like the rain,Like the latter and former rain to the earth.Impenitence of Israel and Judah
+			</v>
+			<marker class="begin-verse" mid="v28006004"/>
+			<v n="4">
+				“O Ephraim, 
+				<crossref let="e" cid="c280064.1"/>
+				 what shall I do to you?O Judah, what shall I do to you?For your faithfulness is like a morning cloud,And like the early dew it goes away.
+			</v>
+			<marker class="begin-verse" mid="v28006005"/>
+			<v n="5">
+				Therefore I 
+				<crossref let="f" cid="c280065.1"/>
+				 have hewn them by the prophets,I have slain them by the words of My mouth;And your judgments are like light that goes forth.
+			</v>
+			<marker class="begin-verse" mid="v28006006"/>
+			<v n="6">
+				For I 
+				<crossref let="g" cid="c280066.1"/>
+				 desire mercy and not sacrifice,And the knowledge of God more than burnt offerings.
+			</v>
+			<marker class="begin-verse" mid="v28006007"/>
+			<v n="7">
+				“But like 
+				<crossref let="h" cid="c280067.1"/>
+				 men they transgressed the covenant;There they dealt treacherously with Me.
+			</v>
+			<marker class="begin-verse" mid="v28006008"/>
+			<v n="8">
+				Gilead is 
+				<crossref let="i" cid="c280068.1"/>
+				 a city of evildoersAnd defiled with blood.
+			</v>
+			<marker class="begin-verse" mid="v28006009"/>
+			<v n="9">
+				As bands 
+				<crossref let="j" cid="c280069.1"/>
+				 of robbers lie in wait for a man,So the company of priests murder on the way to Shechem;Surely they commit lewdness.
+			</v>
+			<marker class="begin-verse" mid="v28006010"/>
+			<v n="10">
+				I have 
+				<crossref let="k" cid="c2800610.1"/>
+				 seen a horrible thing in the house of Israel:There is the harlotry of Ephraim;Israel is defiled.
+			</v>
+			<marker class="begin-verse" mid="v28006011"/>
+			<v n="11">
+				Also, O 
+				<crossref let="l" cid="c2800611.1"/>
+				 Judah, a harvest is appointed for you,When I return the captives of My people.
+			</v>
+			<marker class="begin-verse" mid="v28006012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

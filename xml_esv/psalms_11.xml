@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:25.775111</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:25.775134</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19011001">
+		</marker>
+		<chapter num="11">
+			<heading>
+				Psalm 11
+			</heading>
+			<heading>
+				The LORD Is in His Holy Temple
+			</heading>
+			<heading>
+				To the choirmaster. Of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				In the 
+				<crossref let="b" cid="c19011001.1">
+				</crossref>
+				LORD I, 
+				<crossref let="c" cid="c19011001.2">
+				</crossref>
+				take refuge; how can you say to my soul, Flee like a bird to your mountain,
+			</v>
+			<marker class="begin-verse" mid="v19011002">
+			</marker>
+			<v n="2">
+				for behold, 
+				<crossref let="d" cid="c19011002.3">
+				</crossref>
+				the wicked, 
+				<crossref let="e" cid="c19011002.4">
+				</crossref>
+				bend the bow; they have fitted their arrow to the string to shoot in the dark at the upright in heart;
+			</v>
+			<marker class="begin-verse" mid="v19011003">
+			</marker>
+			<v n="3">
+				if the 
+				<crossref let="f" cid="c19011003.5">
+				</crossref>
+				foundations are, 
+				<crossref let="g" cid="c19011003.6">
+				</crossref>
+				destroyed, what can the righteous do?(1)
+				<note nid="n19011003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19011004">
+			</marker>
+			<v n="4">
+				The LORD 
+				<crossref let="h" cid="c19011004.7">
+				</crossref>
+				is in, 
+				<crossref let="i" cid="c19011004.8">
+				</crossref>
+				his holy temple; the LORD’s throne is in heaven; his eyes see, his eyelids test the children of man.
+			</v>
+			<marker class="begin-verse" mid="v19011005">
+			</marker>
+			<v n="5">
+				The LORD 
+				<crossref let="j" cid="c19011005.9">
+				</crossref>
+				tests the, 
+				<crossref let="k" cid="c19011005.10">
+				</crossref>
+				righteous, but his soul hates the wicked and the one who loves violence.
+			</v>
+			<marker class="begin-verse" mid="v19011006">
+			</marker>
+			<v n="6">
+				Let him 
+				<crossref let="l" cid="c19011006.11">
+				</crossref>
+				rain coals, 
+				<crossref let="m" cid="c19011006.12">
+				</crossref>
+				on the wicked; fire and sulfur and a scorching wind shall be the portion of their cup.
+				<note nid="n19011006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19011007">
+			</marker>
+			<v n="7">
+				For the 
+				<crossref let="n" cid="c19011007.13">
+				</crossref>
+				LORD is, 
+				<crossref let="o" cid="c19011007.14">
+				</crossref>
+				righteous; he loves righteous deeds; the upright shall behold his face. Footnotes (1) 11:3 Or *for the foundations will be destroyed; what has the righteous done?* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19011008">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

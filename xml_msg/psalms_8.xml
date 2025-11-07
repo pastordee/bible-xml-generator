@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:13:45.301482</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:13:45.301498</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19008001"/>
+		<chapter num="8">
+			<heading>For the music director. On the gittith. A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Lord, our 
+				<crossref let="b" cid="c190081.1"/>
+				 Lord, your magnificent reputation fills the earth! Your majesty is greater than the heavens above,
+			</v>
+			<marker class="begin-verse" mid="v19008002"/>
+			<v n="2">
+				and is 
+				<crossref let="c" cid="c190082.1"/>
+				 sung by the voices of children and infants. Your strength counters your opponents, silencing the enemy and the avenger.
+			</v>
+			<marker class="begin-verse" mid="v19008003"/>
+			<v n="3">
+				When I 
+				<crossref let="d" cid="c190083.1"/>
+				 contemplate the heavens that your hands made, the moon and stars that you placed there,
+			</v>
+			<marker class="begin-verse" mid="v19008004"/>
+			<v n="4">
+				What are 
+				<crossref let="e" cid="c190084.1"/>
+				 human beings that you should concern yourself with them? What are people that you should care for them?
+			</v>
+			<marker class="begin-verse" mid="v19008005"/>
+			<v n="5">
+				You created 
+				<crossref let="f" cid="c190085.1"/>
+				 them a little lower than God, crowning them with glory and majesty.
+			</v>
+			<marker class="begin-verse" mid="v19008006"/>
+			<v n="6">
+				You put 
+				<crossref let="g" cid="c190086.1"/>
+				 them in charge of all that you made, giving them authority over everything:
+			</v>
+			<marker class="begin-verse" mid="v19008007"/>
+			<v n="7">
+				the sheep, 
+				<crossref let="h" cid="c190087.1"/>
+				 the cattle, and the wild animals,
+			</v>
+			<marker class="begin-verse" mid="v19008008"/>
+			<v n="8">
+				the birds 
+				<crossref let="i" cid="c190088.1"/>
+				 in the sky, and the fish in the sea—everything that swims in the ocean.
+			</v>
+			<marker class="begin-verse" mid="v19008009"/>
+			<v n="9">
+				Lord, our 
+				<crossref let="j" cid="c190089.1"/>
+				 Lord, your magnificent reputation fills the earth!
+			</v>
+			<marker class="begin-verse" mid="v19008010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

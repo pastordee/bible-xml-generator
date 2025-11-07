@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:25.268138</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:25.268156</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19070001"/>
+		<chapter num="70">
+			<heading>Psalm 70Prayer for Help against Persecutors.To the Chief Musician. A Psalm of David, to bring to remembrance.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c190701.1"/>
+				 come quickly to save me;O Lord, come quickly to help me!
+			</v>
+			<marker class="begin-verse" mid="v19070002"/>
+			<v n="2">
+				Let those 
+				<crossref let="c" cid="c190702.1"/>
+				 be ashamed and humiliatedWho seek my life;Let them be turned back and humiliatedWho delight in my hurt.
+			</v>
+			<marker class="begin-verse" mid="v19070003"/>
+			<v n="3">
+				Let them 
+				<crossref let="d" cid="c190703.1"/>
+				 be turned back because of their shame and disgraceWho say, “Aha, aha!”
+			</v>
+			<marker class="begin-verse" mid="v19070004"/>
+			<v n="4">
+				¶May all 
+				<crossref let="e" cid="c190704.1"/>
+				 those who seek You [as life’s first priority] rejoice and be glad in You;May those who love Your salvation say continually,“Let God be magnified!”
+			</v>
+			<marker class="begin-verse" mid="v19070005"/>
+			<v n="5">
+				But I 
+				<crossref let="f" cid="c190705.1"/>
+				 am afflicted and needy;Come quickly to me, O God!You are my help and my rescuer;O Lord, do not delay.
+			</v>
+			<marker class="begin-verse" mid="v19070006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

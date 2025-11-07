@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:52:41.672535</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:52:41.672571</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19096001"/>
+		<chapter num="96">
+			<begin-paragraph/>
+			<v n="1">
+				Sing a 
+				<crossref let="b" cid="c190961.1"/>
+				 new song to the Lord!Let the whole earth sing to the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19096002"/>
+			<v n="2">
+				Sing to 
+				<crossref let="c" cid="c190962.1"/>
+				 the Lord; praise his name.Each day proclaim the good news that he saves.
+			</v>
+			<marker class="begin-verse" mid="v19096003"/>
+			<v n="3">
+				Publish his 
+				<crossref let="d" cid="c190963.1"/>
+				 glorious deeds among the nations.Tell everyone about the amazing things he does.
+			</v>
+			<marker class="begin-verse" mid="v19096004"/>
+			<v n="4">
+				Great is 
+				<crossref let="e" cid="c190964.1"/>
+				 the Lord! He is most worthy of praise!He is to be feared above all gods.
+			</v>
+			<marker class="begin-verse" mid="v19096005"/>
+			<v n="5">
+				The gods 
+				<crossref let="f" cid="c190965.1"/>
+				 of other nations are mere idols,but the Lord made the heavens!
+			</v>
+			<marker class="begin-verse" mid="v19096006"/>
+			<v n="6">
+				Honor and 
+				<crossref let="g" cid="c190966.1"/>
+				 majesty surround him;strength and beauty fill his sanctuary.
+			</v>
+			<marker class="begin-verse" mid="v19096007"/>
+			<v n="7">
+				O nations 
+				<crossref let="h" cid="c190967.1"/>
+				 of the world, recognize the Lord;recognize that the Lord is glorious and strong.
+			</v>
+			<marker class="begin-verse" mid="v19096008"/>
+			<v n="8">
+				Give to 
+				<crossref let="i" cid="c190968.1"/>
+				 the Lord the glory he deserves!Bring your offering and come into his courts.
+			</v>
+			<marker class="begin-verse" mid="v19096009"/>
+			<v n="9">
+				Worship the 
+				<crossref let="j" cid="c190969.1"/>
+				 Lord in all his holy splendor.Let all the earth tremble before him.
+			</v>
+			<marker class="begin-verse" mid="v19096010"/>
+			<v n="10">
+				Tell all 
+				<crossref let="k" cid="c1909610.1"/>
+				 the nations, “The Lord reigns!”The world stands firm and cannot be shaken.He will judge all peoples fairly.
+			</v>
+			<marker class="begin-verse" mid="v19096011"/>
+			<v n="11">
+				Let the 
+				<crossref let="l" cid="c1909611.1"/>
+				 heavens be glad, and the earth rejoice!Let the sea and everything in it shout his praise!
+			</v>
+			<marker class="begin-verse" mid="v19096012"/>
+			<v n="12">
+				Let the 
+				<crossref let="m" cid="c1909612.1"/>
+				 fields and their crops burst out with joy!Let the trees of the forest sing for joy
+			</v>
+			<marker class="begin-verse" mid="v19096013"/>
+			<v n="13">
+				before the 
+				<crossref let="n" cid="c1909613.1"/>
+				 Lord, for he is coming!He is coming to judge the earth.He will judge the world with justice,and the nations with his truth.
+			</v>
+			<marker class="begin-verse" mid="v19096014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

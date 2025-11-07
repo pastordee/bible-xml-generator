@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:51:39.965053</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:51:39.965062</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" version="AMP" bookAbbr="ezr">
+		<marker class="begin-verse" mid="v15002001"/>
+		<chapter num="2">
+			<heading>Number of Those Returning</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Now these 
+				<crossref let="b" cid="c150021.1"/>
+				 are the people of the province [of Judah] who came up from the captivity of the exiles, whom Nebuchadnezzar the king of Babylon had deported to Babylon, and who returned to Jerusalem and Judah, each to his own city.
+			</v>
+			<marker class="begin-verse" mid="v15002002"/>
+			<v n="2">
+				These came 
+				<crossref let="c" cid="c150022.1"/>
+				 with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, Baanah.The number of the men of the people of Israel:
+			</v>
+			<marker class="begin-verse" mid="v15002003"/>
+			<v n="3">
+				the sons 
+				<crossref let="d" cid="c150023.1"/>
+				 (descendants) of Parosh, 2,172;
+			</v>
+			<marker class="begin-verse" mid="v15002004"/>
+			<v n="4">
+				the sons 
+				<crossref let="e" cid="c150024.1"/>
+				 of Shephatiah, 372;
+			</v>
+			<marker class="begin-verse" mid="v15002005"/>
+			<v n="5">
+				the sons 
+				<crossref let="f" cid="c150025.1"/>
+				 of Arah, 775;
+			</v>
+			<marker class="begin-verse" mid="v15002006"/>
+			<v n="6">
+				the sons 
+				<crossref let="g" cid="c150026.1"/>
+				 of Pahath-moab of the sons of Jeshua and Joab, 2,812;
+			</v>
+			<marker class="begin-verse" mid="v15002007"/>
+			<v n="7">
+				the sons 
+				<crossref let="h" cid="c150027.1"/>
+				 of Elam, 1,254;
+			</v>
+			<marker class="begin-verse" mid="v15002008"/>
+			<v n="8">
+				the sons 
+				<crossref let="i" cid="c150028.1"/>
+				 of Zattu, 945;
+			</v>
+			<marker class="begin-verse" mid="v15002009"/>
+			<v n="9">
+				the sons 
+				<crossref let="j" cid="c150029.1"/>
+				 of Zaccai, 760;
+			</v>
+			<marker class="begin-verse" mid="v15002010"/>
+			<v n="10">
+				the sons 
+				<crossref let="k" cid="c1500210.1"/>
+				 of Bani, 642;
+			</v>
+			<marker class="begin-verse" mid="v15002011"/>
+			<v n="11">
+				the sons 
+				<crossref let="l" cid="c1500211.1"/>
+				 of Bebai, 623;
+			</v>
+			<marker class="begin-verse" mid="v15002012"/>
+			<v n="12">
+				the sons 
+				<crossref let="m" cid="c1500212.1"/>
+				 of Azgad, 1,222;
+			</v>
+			<marker class="begin-verse" mid="v15002013"/>
+			<v n="13">
+				the sons 
+				<crossref let="n" cid="c1500213.1"/>
+				 of Adonikam, 666;
+			</v>
+			<marker class="begin-verse" mid="v15002014"/>
+			<v n="14">
+				the sons 
+				<crossref let="o" cid="c1500214.1"/>
+				 of Bigvai, 2,056;
+			</v>
+			<marker class="begin-verse" mid="v15002015"/>
+			<v n="15">
+				the sons 
+				<crossref let="p" cid="c1500215.1"/>
+				 of Adin, 454;
+			</v>
+			<marker class="begin-verse" mid="v15002016"/>
+			<v n="16">
+				the sons 
+				<crossref let="q" cid="c1500216.1"/>
+				 of Ater of Hezekiah, 98;
+			</v>
+			<marker class="begin-verse" mid="v15002017"/>
+			<v n="17">
+				the sons 
+				<crossref let="r" cid="c1500217.1"/>
+				 of Bezai, 323;
+			</v>
+			<marker class="begin-verse" mid="v15002018"/>
+			<v n="18">
+				the sons 
+				<crossref let="s" cid="c1500218.1"/>
+				 of Jorah, 112;
+			</v>
+			<marker class="begin-verse" mid="v15002019"/>
+			<v n="19">
+				the sons 
+				<crossref let="t" cid="c1500219.1"/>
+				 of Hashum, 223;
+			</v>
+			<marker class="begin-verse" mid="v15002020"/>
+			<v n="20">
+				the sons 
+				<crossref let="u" cid="c1500220.1"/>
+				 of Gibbar, 95;
+			</v>
+			<marker class="begin-verse" mid="v15002021"/>
+			<v n="21">
+				the men 
+				<crossref let="v" cid="c1500221.1"/>
+				 of Bethlehem, 123;
+			</v>
+			<marker class="begin-verse" mid="v15002022"/>
+			<v n="22">
+				the men 
+				<crossref let="w" cid="c1500222.1"/>
+				 of Netophah, 56;
+			</v>
+			<marker class="begin-verse" mid="v15002023"/>
+			<v n="23">
+				the men 
+				<crossref let="x" cid="c1500223.1"/>
+				 of Anathoth, 128;
+			</v>
+			<marker class="begin-verse" mid="v15002024"/>
+			<v n="24">
+				the sons 
+				<crossref let="y" cid="c1500224.1"/>
+				 of Azmaveth, 42;
+			</v>
+			<marker class="begin-verse" mid="v15002025"/>
+			<v n="25">
+				the sons 
+				<crossref let="z" cid="c1500225.1"/>
+				 of Kiriath-arim, Chephirah and Beeroth, 743;
+			</v>
+			<marker class="begin-verse" mid="v15002026"/>
+			<v n="26">
+				the sons 
+				<crossref let="a" cid="c1500226.1"/>
+				 of Ramah and Geba, 621;
+			</v>
+			<marker class="begin-verse" mid="v15002027"/>
+			<v n="27">
+				the men 
+				<crossref let="b" cid="c1500227.1"/>
+				 of Michmas, 122;
+			</v>
+			<marker class="begin-verse" mid="v15002028"/>
+			<v n="28">
+				the men 
+				<crossref let="c" cid="c1500228.1"/>
+				 of Bethel and Ai, 223;
+			</v>
+			<marker class="begin-verse" mid="v15002029"/>
+			<v n="29">
+				the sons 
+				<crossref let="d" cid="c1500229.1"/>
+				 of Nebo, 52;
+			</v>
+			<marker class="begin-verse" mid="v15002030"/>
+			<v n="30">
+				the sons 
+				<crossref let="e" cid="c1500230.1"/>
+				 of Magbish, 156;
+			</v>
+			<marker class="begin-verse" mid="v15002031"/>
+			<v n="31">
+				the sons 
+				<crossref let="f" cid="c1500231.1"/>
+				 of the other Elam, 1,254;
+			</v>
+			<marker class="begin-verse" mid="v15002032"/>
+			<v n="32">
+				the sons 
+				<crossref let="g" cid="c1500232.1"/>
+				 of Harim, 320;
+			</v>
+			<marker class="begin-verse" mid="v15002033"/>
+			<v n="33">
+				the sons 
+				<crossref let="h" cid="c1500233.1"/>
+				 of Lod, Hadid and Ono, 725;
+			</v>
+			<marker class="begin-verse" mid="v15002034"/>
+			<v n="34">
+				the men 
+				<crossref let="i" cid="c1500234.1"/>
+				 of Jericho, 345;
+			</v>
+			<marker class="begin-verse" mid="v15002035"/>
+			<v n="35">
+				the sons 
+				<crossref let="j" cid="c1500235.1"/>
+				 of Senaah, 3,630.Priests Returning
+			</v>
+			<marker class="begin-verse" mid="v15002036"/>
+			<v n="36">
+				The priests: 
+				<crossref let="k" cid="c1500236.1"/>
+				 the sons of Jedaiah of the house of Jeshua, 973;
+			</v>
+			<marker class="begin-verse" mid="v15002037"/>
+			<v n="37">
+				the sons 
+				<crossref let="l" cid="c1500237.1"/>
+				 of Immer, 1,052;
+			</v>
+			<marker class="begin-verse" mid="v15002038"/>
+			<v n="38">
+				the sons 
+				<crossref let="m" cid="c1500238.1"/>
+				 of Pashhur, 1,247;
+			</v>
+			<marker class="begin-verse" mid="v15002039"/>
+			<v n="39">
+				the sons 
+				<crossref let="n" cid="c1500239.1"/>
+				 of Harim, 1,017.Levites Returning
+			</v>
+			<marker class="begin-verse" mid="v15002040"/>
+			<v n="40">
+				The Levites: 
+				<crossref let="o" cid="c1500240.1"/>
+				 the sons of Jeshua and Kadmiel, of the sons of Hodaviah, 74.
+			</v>
+			<marker class="begin-verse" mid="v15002041"/>
+			<v n="41">
+				The singers: 
+				<crossref let="p" cid="c1500241.1"/>
+				 the sons of Asaph, 128.
+			</v>
+			<marker class="begin-verse" mid="v15002042"/>
+			<v n="42">
+				The sons 
+				<crossref let="q" cid="c1500242.1"/>
+				 of the gatekeepers: of Shallum, Ater, Talmon, Akkub, Hatita, and Shobai, in all 139.
+			</v>
+			<marker class="begin-verse" mid="v15002043"/>
+			<v n="43">
+				The temple 
+				<crossref let="r" cid="c1500243.1"/>
+				 servants: the sons of Ziha, Hasupha, Tabbaoth,
+			</v>
+			<marker class="begin-verse" mid="v15002044"/>
+			<v n="44">
+				the sons 
+				<crossref let="s" cid="c1500244.1"/>
+				 of Keros, Siaha, Padon,
+			</v>
+			<marker class="begin-verse" mid="v15002045"/>
+			<v n="45">
+				the sons 
+				<crossref let="t" cid="c1500245.1"/>
+				 of Lebanah, Hagabah, Akkub,
+			</v>
+			<marker class="begin-verse" mid="v15002046"/>
+			<v n="46">
+				the sons 
+				<crossref let="u" cid="c1500246.1"/>
+				 of Hagab, Shalmai, Hanan,
+			</v>
+			<marker class="begin-verse" mid="v15002047"/>
+			<v n="47">
+				the sons 
+				<crossref let="v" cid="c1500247.1"/>
+				 of Giddel, Gahar, Reaiah,
+			</v>
+			<marker class="begin-verse" mid="v15002048"/>
+			<v n="48">
+				the sons 
+				<crossref let="w" cid="c1500248.1"/>
+				 of Rezin, Nekoda, Gazzam,
+			</v>
+			<marker class="begin-verse" mid="v15002049"/>
+			<v n="49">
+				the sons 
+				<crossref let="x" cid="c1500249.1"/>
+				 of Uzza, Paseah, Besai,
+			</v>
+			<marker class="begin-verse" mid="v15002050"/>
+			<v n="50">
+				the sons 
+				<crossref let="y" cid="c1500250.1"/>
+				 of Asnah, Meunim, Nephisim,
+			</v>
+			<marker class="begin-verse" mid="v15002051"/>
+			<v n="51">
+				the sons 
+				<crossref let="z" cid="c1500251.1"/>
+				 of Bakbuk, Hakupha, Harhur,
+			</v>
+			<marker class="begin-verse" mid="v15002052"/>
+			<v n="52">
+				the sons 
+				<crossref let="a" cid="c1500252.1"/>
+				 of Bazluth, Mehida, Harsha,
+			</v>
+			<marker class="begin-verse" mid="v15002053"/>
+			<v n="53">
+				the sons 
+				<crossref let="b" cid="c1500253.1"/>
+				 of Barkos, Sisera, Temah,
+			</v>
+			<marker class="begin-verse" mid="v15002054"/>
+			<v n="54">
+				the sons 
+				<crossref let="c" cid="c1500254.1"/>
+				 of Neziah, Hatipha.
+			</v>
+			<marker class="begin-verse" mid="v15002055"/>
+			<v n="55">
+				The sons 
+				<crossref let="d" cid="c1500255.1"/>
+				 of [King] Solomon’s servants: the sons of Sotai, Hassophereth (Sophereth), Peruda,
+			</v>
+			<marker class="begin-verse" mid="v15002056"/>
+			<v n="56">
+				the sons 
+				<crossref let="e" cid="c1500256.1"/>
+				 of Jaalah, Darkon, Giddel,
+			</v>
+			<marker class="begin-verse" mid="v15002057"/>
+			<v n="57">
+				the sons 
+				<crossref let="f" cid="c1500257.1"/>
+				 of Shephatiah, Hattil, Pochereth-hazzebaim, Ami.
+			</v>
+			<marker class="begin-verse" mid="v15002058"/>
+			<v n="58">
+				All the 
+				<crossref let="g" cid="c1500258.1"/>
+				 temple servants and the sons of Solomon’s servants totaled 392.
+			</v>
+			<marker class="begin-verse" mid="v15002059"/>
+			<v n="59">
+				Now these 
+				<crossref let="h" cid="c1500259.1"/>
+				 are the ones who came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, but they could not provide evidence of their fathers’ households and their descendants, whether they were of Israel:
+			</v>
+			<marker class="begin-verse" mid="v15002060"/>
+			<v n="60">
+				the sons 
+				<crossref let="i" cid="c1500260.1"/>
+				 of Delaiah, Tobiah, and Nekoda, 652.Priests Removed
+			</v>
+			<marker class="begin-verse" mid="v15002061"/>
+			<v n="61">
+				Of the 
+				<crossref let="j" cid="c1500261.1"/>
+				 sons of the priests: the sons of Hobaiah, of Hakkoz, and of Barzillai, who took a wife from the daughters of Barzillai the Gileadite, and he was known by their name. [2 Sam 17:27, 28; 19:31-39]
+			</v>
+			<marker class="begin-verse" mid="v15002062"/>
+			<v n="62">
+				These searched 
+				<crossref let="k" cid="c1500262.1"/>
+				 [for their names] among those registered in the genealogies, but they were not found; so they were excluded from the priesthood as [ceremonially] unclean.
+			</v>
+			<marker class="begin-verse" mid="v15002063"/>
+			<v n="63">
+				The governor 
+				<crossref let="l" cid="c1500263.1"/>
+				 told them that they should not eat of the most holy things [the priests’ food] until a priest stood up with Urim and Thummim [who by consulting these articles in his breastplate could determine God’s will in the matter].
+			</v>
+			<marker class="begin-verse" mid="v15002064"/>
+			<v n="64">
+				The whole 
+				<crossref let="m" cid="c1500264.1"/>
+				 assembly totaled 42,360,
+			</v>
+			<marker class="begin-verse" mid="v15002065"/>
+			<v n="65">
+				besides their 
+				<crossref let="n" cid="c1500265.1"/>
+				 male and female servants who numbered 7,337; and [among them] they had 200 male and female singers.
+			</v>
+			<marker class="begin-verse" mid="v15002066"/>
+			<v n="66">
+				Their horses 
+				<crossref let="o" cid="c1500266.1"/>
+				 totaled 736; their mules, 245;
+			</v>
+			<marker class="begin-verse" mid="v15002067"/>
+			<v n="67">
+				their camels 
+				<crossref let="p" cid="c1500267.1"/>
+				 totaled 435; their donkeys, 6,720.
+			</v>
+			<marker class="begin-verse" mid="v15002068"/>
+			<v n="68">
+				Some of 
+				<crossref let="q" cid="c1500268.1"/>
+				 the heads of the fathers’ households (extended families), when they arrived at the house of the Lord in Jerusalem, made voluntary contributions for the house of God to rebuild it on its [old] foundation.
+			</v>
+			<marker class="begin-verse" mid="v15002069"/>
+			<v n="69">
+				They gave 
+				<crossref let="r" cid="c1500269.1"/>
+				 according to their ability to the treasury for the work, 61,000 drachmas of gold, 5,000 minas of silver, and 100 priestly [linen] garments.
+			</v>
+			<marker class="begin-verse" mid="v15002070"/>
+			<v n="70">
+				So the 
+				<crossref let="s" cid="c1500270.1"/>
+				 priests, the Levites, some of the people, the singers, the gatekeepers, and the temple servants settled in their [own] cities, and all Israel [gradually settled] into their cities.
+			</v>
+			<marker class="begin-verse" mid="v15002071"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T15:00:37.872968</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T15:00:37.873001</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" version="NLT" bookAbbr="ecc">
+		<marker class="begin-verse" mid="v21004001"/>
+		<chapter num="4">
+			<begin-paragraph/>
+			<v n="1">
+				Again, I 
+				<crossref let="b" cid="c210041.1"/>
+				 observed all the oppression that takes place under the sun. I saw the tears of the oppressed, with no one to comfort them. The oppressors have great power, and their victims are helpless.
+			</v>
+			<marker class="begin-verse" mid="v21004002"/>
+			<v n="2">
+				So I 
+				<crossref let="c" cid="c210042.1"/>
+				 concluded that the dead are better off than the living.
+			</v>
+			<marker class="begin-verse" mid="v21004003"/>
+			<v n="3">
+				But most 
+				<crossref let="d" cid="c210043.1"/>
+				 fortunate of all are those who are not yet born. For they have not seen all the evil that is done under the sun.
+			</v>
+			<marker class="begin-verse" mid="v21004004"/>
+			<v n="4">
+				Then I 
+				<crossref let="e" cid="c210044.1"/>
+				 observed that most people are motivated to success because they envy their neighbors. But this, too, is meaningless—like chasing the wind.
+			</v>
+			<marker class="begin-verse" mid="v21004005"/>
+			<v n="5">
+				“Fools fold 
+				<crossref let="f" cid="c210045.1"/>
+				 their idle hands,leading them to ruin.”
+			</v>
+			<marker class="begin-verse" mid="v21004006"/>
+			<v n="6">
+				And yet,“Better 
+				<crossref let="g" cid="c210046.1"/>
+				 to have one handful with quietnessthan two handfuls with hard workand chasing the wind.”The Advantages of Companionship
+			</v>
+			<marker class="begin-verse" mid="v21004007"/>
+			<v n="7">
+				I observed 
+				<crossref let="h" cid="c210047.1"/>
+				 yet another example of something meaningless under the sun.
+			</v>
+			<marker class="begin-verse" mid="v21004008"/>
+			<v n="8">
+				This is 
+				<crossref let="i" cid="c210048.1"/>
+				 the case of a man who is all alone, without a child or a brother, yet who works hard to gain as much wealth as he can. But then he asks himself, “Who am I working for? Why am I giving up so much pleasure now?” It is all so meaningless and depressing.
+			</v>
+			<marker class="begin-verse" mid="v21004009"/>
+			<v n="9">
+				Two people 
+				<crossref let="j" cid="c210049.1"/>
+				 are better off than one, for they can help each other succeed.
+			</v>
+			<marker class="begin-verse" mid="v21004010"/>
+			<v n="10">
+				If one 
+				<crossref let="k" cid="c2100410.1"/>
+				 person falls, the other can reach out and help. But someone who falls alone is in real trouble.
+			</v>
+			<marker class="begin-verse" mid="v21004011"/>
+			<v n="11">
+				Likewise, two 
+				<crossref let="l" cid="c2100411.1"/>
+				 people lying close together can keep each other warm. But how can one be warm alone?
+			</v>
+			<marker class="begin-verse" mid="v21004012"/>
+			<v n="12">
+				A person 
+				<crossref let="m" cid="c2100412.1"/>
+				 standing alone can be attacked and defeated, but two can stand back-to-back and conquer. Three are even better, for a triple-braided cord is not easily broken.The Futility of Political Power
+			</v>
+			<marker class="begin-verse" mid="v21004013"/>
+			<v n="13">
+				It is 
+				<crossref let="n" cid="c2100413.1"/>
+				 better to be a poor but wise youth than an old and foolish king who refuses all advice.
+			</v>
+			<marker class="begin-verse" mid="v21004014"/>
+			<v n="14">
+				Such a 
+				<crossref let="o" cid="c2100414.1"/>
+				 youth could rise from poverty and succeed. He might even become king, though he has been in prison.
+			</v>
+			<marker class="begin-verse" mid="v21004015"/>
+			<v n="15">
+				But then 
+				<crossref let="p" cid="c2100415.1"/>
+				 everyone rushes to the side of yet another youth who replaces him.
+			</v>
+			<marker class="begin-verse" mid="v21004016"/>
+			<v n="16">
+				Endless crowds 
+				<crossref let="q" cid="c2100416.1"/>
+				 stand around him, but then another generation grows up and rejects him, too. So it is all meaningless—like chasing the wind.
+			</v>
+			<marker class="begin-verse" mid="v21004017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

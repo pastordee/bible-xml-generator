@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:37.800041</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:37.800050</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" bookAbbr="1co" version="ESV">
+		<marker class="begin-verse" mid="v46015001">
+		</marker>
+		<chapter num="15">
+			<heading>
+				1 Corinthians 15
+			</heading>
+			<heading>
+				The Resurrection of Christ
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Now I 
+				<crossref let="b" cid="c46015001.1">
+				</crossref>
+				would remind, 
+				<crossref let="c" cid="c46015001.2">
+				</crossref>
+				you, brothers,(1) of the gospel I preached to you, which you received, in which you stand,
+			</v>
+			<marker class="begin-verse" mid="v46015002">
+			</marker>
+			<v n="2">
+				and by 
+				<crossref let="d" cid="c46015002.3">
+				</crossref>
+				which you, 
+				<crossref let="e" cid="c46015002.4">
+				</crossref>
+				are being saved, if you hold fast to the word I preached to you—unless you believed in vain.
+			</v>
+			<marker class="begin-verse" mid="v46015003">
+			</marker>
+			<v n="3">
+				For I 
+				<crossref let="f" cid="c46015003.5">
+				</crossref>
+				delivered to, 
+				<crossref let="g" cid="c46015003.6">
+				</crossref>
+				you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures,
+				<note nid="n46015003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015004">
+			</marker>
+			<v n="4">
+				that he 
+				<crossref let="h" cid="c46015004.7">
+				</crossref>
+				was buried,, 
+				<crossref let="i" cid="c46015004.8">
+				</crossref>
+				that he was raised on the third day in accordance with the Scriptures,
+			</v>
+			<marker class="begin-verse" mid="v46015005">
+			</marker>
+			<v n="5">
+				and that 
+				<crossref let="j" cid="c46015005.9">
+				</crossref>
+				he appeared, 
+				<crossref let="k" cid="c46015005.10">
+				</crossref>
+				to Cephas, then to the twelve.
+			</v>
+			<marker class="begin-verse" mid="v46015006">
+			</marker>
+			<v n="6">
+				Then he 
+				<crossref let="l" cid="c46015006.11">
+				</crossref>
+				appeared to, 
+				<crossref let="m" cid="c46015006.12">
+				</crossref>
+				more than five hundred brothers at one time, most of whom are still alive, though some have fallen asleep.
+				<note nid="n46015006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015007">
+			</marker>
+			<v n="7">
+				Then he 
+				<crossref let="n" cid="c46015007.13">
+				</crossref>
+				appeared to, 
+				<crossref let="o" cid="c46015007.14">
+				</crossref>
+				James, then to all the apostles.
+			</v>
+			<marker class="begin-verse" mid="v46015008">
+			</marker>
+			<v n="8">
+				Last of 
+				<crossref let="p" cid="c46015008.15">
+				</crossref>
+				all, as, 
+				<crossref let="q" cid="c46015008.16">
+				</crossref>
+				to one untimely born, he appeared also to me.
+			</v>
+			<marker class="begin-verse" mid="v46015009">
+			</marker>
+			<v n="9">
+				For I 
+				<crossref let="r" cid="c46015009.17">
+				</crossref>
+				am the, 
+				<crossref let="s" cid="c46015009.18">
+				</crossref>
+				least of the apostles, unworthy to be called an apostle, because I persecuted the church of God.
+				<note nid="n46015009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015010">
+			</marker>
+			<v n="10">
+				But by 
+				<crossref let="t" cid="c46015010.19">
+				</crossref>
+				the grace, 
+				<crossref let="u" cid="c46015010.20">
+				</crossref>
+				of God I am what I am, and his grace toward me was not in vain. On the contrary, I worked harder than any of them, though it was not I, but the grace of God that is with me.
+			</v>
+			<marker class="begin-verse" mid="v46015011">
+			</marker>
+			<v n="11">
+				Whether then 
+				<crossref let="v" cid="c46015011.21">
+				</crossref>
+				it was, 
+				<crossref let="w" cid="c46015011.22">
+				</crossref>
+				I or they, so we preach and so you believed. The Resurrection of the Dead
+			</v>
+			<marker class="begin-verse" mid="v46015012">
+			</marker>
+			<v n="12">
+				Now if 
+				<crossref let="x" cid="c46015012.23">
+				</crossref>
+				Christ is, 
+				<crossref let="y" cid="c46015012.24">
+				</crossref>
+				proclaimed as raised from the dead, how can some of you say that there is no resurrection of the dead?
+				<note nid="n46015012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015013">
+			</marker>
+			<v n="13">
+				But if 
+				<crossref let="z" cid="c46015013.25">
+				</crossref>
+				there is, 
+				<crossref let="a" cid="c46015013.26">
+				</crossref>
+				no resurrection of the dead, then not even Christ has been raised.
+			</v>
+			<marker class="begin-verse" mid="v46015014">
+			</marker>
+			<v n="14">
+				And if 
+				<crossref let="b" cid="c46015014.27">
+				</crossref>
+				Christ has, 
+				<crossref let="c" cid="c46015014.28">
+				</crossref>
+				not been raised, then our preaching is in vain and your faith is in vain.
+			</v>
+			<marker class="begin-verse" mid="v46015015">
+			</marker>
+			<v n="15">
+				We are 
+				<crossref let="d" cid="c46015015.29">
+				</crossref>
+				even found, 
+				<crossref let="e" cid="c46015015.30">
+				</crossref>
+				to be misrepresenting God, because we testified about God that he raised Christ, whom he did not raise if it is true that the dead are not raised.
+				<note nid="n46015015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015016">
+			</marker>
+			<v n="16">
+				For if 
+				<crossref let="f" cid="c46015016.31">
+				</crossref>
+				the dead, 
+				<crossref let="g" cid="c46015016.32">
+				</crossref>
+				are not raised, not even Christ has been raised.
+			</v>
+			<marker class="begin-verse" mid="v46015017">
+			</marker>
+			<v n="17">
+				And if 
+				<crossref let="h" cid="c46015017.33">
+				</crossref>
+				Christ has, 
+				<crossref let="i" cid="c46015017.34">
+				</crossref>
+				not been raised, your faith is futile and you are still in your sins.
+			</v>
+			<marker class="begin-verse" mid="v46015018">
+			</marker>
+			<v n="18">
+				Then those 
+				<crossref let="j" cid="c46015018.35">
+				</crossref>
+				also who, 
+				<crossref let="k" cid="c46015018.36">
+				</crossref>
+				have fallen asleep in Christ have perished.
+				<note nid="n46015018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015019">
+			</marker>
+			<v n="19">
+				If in 
+				<crossref let="l" cid="c46015019.37">
+				</crossref>
+				Christ we, 
+				<crossref let="m" cid="c46015019.38">
+				</crossref>
+				have hope(2) in this life only, we are of all people most to be pitied.
+			</v>
+			<marker class="begin-verse" mid="v46015020">
+			</marker>
+			<v n="20">
+				But in 
+				<crossref let="n" cid="c46015020.39">
+				</crossref>
+				fact Christ, 
+				<crossref let="o" cid="c46015020.40">
+				</crossref>
+				has been raised from the dead, the firstfruits of those who have fallen asleep.
+			</v>
+			<marker class="begin-verse" mid="v46015021">
+			</marker>
+			<v n="21">
+				For as 
+				<crossref let="p" cid="c46015021.41">
+				</crossref>
+				by a, 
+				<crossref let="q" cid="c46015021.42">
+				</crossref>
+				man came death, by a man has come also the resurrection of the dead.
+				<note nid="n46015021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015022">
+			</marker>
+			<v n="22">
+				For as 
+				<crossref let="r" cid="c46015022.43">
+				</crossref>
+				in Adam, 
+				<crossref let="s" cid="c46015022.44">
+				</crossref>
+				all die, so also in Christ shall all be made alive.
+			</v>
+			<marker class="begin-verse" mid="v46015023">
+			</marker>
+			<v n="23">
+				But each 
+				<crossref let="t" cid="c46015023.45">
+				</crossref>
+				in his, 
+				<crossref let="u" cid="c46015023.46">
+				</crossref>
+				own order: Christ the firstfruits, then at his coming those who belong to Christ.
+			</v>
+			<marker class="begin-verse" mid="v46015024">
+			</marker>
+			<v n="24">
+				Then comes 
+				<crossref let="v" cid="c46015024.47">
+				</crossref>
+				the end,, 
+				<crossref let="w" cid="c46015024.48">
+				</crossref>
+				when he delivers the kingdom to God the Father after destroying every rule and every authority and power.
+				<note nid="n46015024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015025">
+			</marker>
+			<v n="25">
+				For he 
+				<crossref let="x" cid="c46015025.49">
+				</crossref>
+				must reign, 
+				<crossref let="y" cid="c46015025.50">
+				</crossref>
+				until he has put all his enemies under his feet.
+			</v>
+			<marker class="begin-verse" mid="v46015026">
+			</marker>
+			<v n="26">
+				The last 
+				<crossref let="z" cid="c46015026.51">
+				</crossref>
+				enemy to, 
+				<crossref let="a" cid="c46015026.52">
+				</crossref>
+				be destroyed is death.
+			</v>
+			<marker class="begin-verse" mid="v46015027">
+			</marker>
+			<v n="27">
+				For “God(3) 
+				<crossref let="b" cid="c46015027.53">
+				</crossref>
+				has put, 
+				<crossref let="c" cid="c46015027.54">
+				</crossref>
+				all things in subjection under his feet.” But when it says, “all things are put in subjection,” it is plain that he is excepted who put all things in subjection under him.
+				<note nid="n46015027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015028">
+			</marker>
+			<v n="28">
+				When all 
+				<crossref let="d" cid="c46015028.55">
+				</crossref>
+				things are, 
+				<crossref let="e" cid="c46015028.56">
+				</crossref>
+				subjected to him, then the Son himself will also be subjected to him who put all things in subjection under him, that God may be all in all.
+			</v>
+			<marker class="begin-verse" mid="v46015029">
+			</marker>
+			<v n="29">
+				Otherwise, what 
+				<crossref let="f" cid="c46015029.57">
+				</crossref>
+				do people, 
+				<crossref let="g" cid="c46015029.58">
+				</crossref>
+				mean by being baptized on behalf of the dead? If the dead are not raised at all, why are people baptized on their behalf?
+			</v>
+			<marker class="begin-verse" mid="v46015030">
+			</marker>
+			<v n="30">
+				Why are 
+				<crossref let="h" cid="c46015030.59">
+				</crossref>
+				we in, 
+				<crossref let="i" cid="c46015030.60">
+				</crossref>
+				danger every hour?
+				<note nid="n46015030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015031">
+			</marker>
+			<v n="31">
+				I protest, 
+				<crossref let="j" cid="c46015031.61">
+				</crossref>
+				brothers, by, 
+				<crossref let="k" cid="c46015031.62">
+				</crossref>
+				my pride in you, which I have in Christ Jesus our Lord, I die every day!
+			</v>
+			<marker class="begin-verse" mid="v46015032">
+			</marker>
+			<v n="32">
+				What do 
+				<crossref let="l" cid="c46015032.63">
+				</crossref>
+				I gain, 
+				<crossref let="m" cid="c46015032.64">
+				</crossref>
+				if, humanly speaking, I fought with beasts at Ephesus? If the dead are not raised, “Let us eat and drink, for tomorrow we die.”
+			</v>
+			<marker class="begin-verse" mid="v46015033">
+			</marker>
+			<v n="33">
+				Do not 
+				<crossref let="n" cid="c46015033.65">
+				</crossref>
+				be deceived:, 
+				<crossref let="o" cid="c46015033.66">
+				</crossref>
+				“Bad company ruins good morals.”(4)
+				<note nid="n46015033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015034">
+			</marker>
+			<v n="34">
+				Wake up 
+				<crossref let="p" cid="c46015034.67">
+				</crossref>
+				from your, 
+				<crossref let="q" cid="c46015034.68">
+				</crossref>
+				drunken stupor, as is right, and do not go on sinning. For some have no knowledge of God. I say this to your shame. The Resurrection Body
+			</v>
+			<marker class="begin-verse" mid="v46015035">
+			</marker>
+			<v n="35">
+				But someone 
+				<crossref let="r" cid="c46015035.69">
+				</crossref>
+				will ask,, 
+				<crossref let="s" cid="c46015035.70">
+				</crossref>
+				“How are the dead raised? With what kind of body do they come?”
+			</v>
+			<marker class="begin-verse" mid="v46015036">
+			</marker>
+			<v n="36">
+				You foolish 
+				<crossref let="t" cid="c46015036.71">
+				</crossref>
+				person! What, 
+				<crossref let="u" cid="c46015036.72">
+				</crossref>
+				you sow does not come to life unless it dies.
+				<note nid="n46015036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015037">
+			</marker>
+			<v n="37">
+				And what 
+				<crossref let="v" cid="c46015037.73">
+				</crossref>
+				you sow, 
+				<crossref let="w" cid="c46015037.74">
+				</crossref>
+				is not the body that is to be, but a bare kernel, perhaps of wheat or of some other grain.
+			</v>
+			<marker class="begin-verse" mid="v46015038">
+			</marker>
+			<v n="38">
+				But God 
+				<crossref let="x" cid="c46015038.75">
+				</crossref>
+				gives it, 
+				<crossref let="y" cid="c46015038.76">
+				</crossref>
+				a body as he has chosen, and to each kind of seed its own body.
+			</v>
+			<marker class="begin-verse" mid="v46015039">
+			</marker>
+			<v n="39">
+				For not 
+				<crossref let="z" cid="c46015039.77">
+				</crossref>
+				all flesh, 
+				<crossref let="a" cid="c46015039.78">
+				</crossref>
+				is the same, but there is one kind for humans, another for animals, another for birds, and another for fish.
+				<note nid="n46015039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015040">
+			</marker>
+			<v n="40">
+				There are 
+				<crossref let="b" cid="c46015040.79">
+				</crossref>
+				heavenly bodies, 
+				<crossref let="c" cid="c46015040.80">
+				</crossref>
+				and earthly bodies, but the glory of the heavenly is of one kind, and the glory of the earthly is of another.
+			</v>
+			<marker class="begin-verse" mid="v46015041">
+			</marker>
+			<v n="41">
+				There is 
+				<crossref let="d" cid="c46015041.81">
+				</crossref>
+				one glory, 
+				<crossref let="e" cid="c46015041.82">
+				</crossref>
+				of the sun, and another glory of the moon, and another glory of the stars; for star differs from star in glory.
+			</v>
+			<marker class="begin-verse" mid="v46015042">
+			</marker>
+			<v n="42">
+				So is 
+				<crossref let="f" cid="c46015042.83">
+				</crossref>
+				it with, 
+				<crossref let="g" cid="c46015042.84">
+				</crossref>
+				the resurrection of the dead. What is sown is perishable; what is raised is imperishable.
+				<note nid="n46015042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015043">
+			</marker>
+			<v n="43">
+				It is 
+				<crossref let="h" cid="c46015043.85">
+				</crossref>
+				sown in, 
+				<crossref let="i" cid="c46015043.86">
+				</crossref>
+				dishonor; it is raised in glory. It is sown in weakness; it is raised in power.
+			</v>
+			<marker class="begin-verse" mid="v46015044">
+			</marker>
+			<v n="44">
+				It is 
+				<crossref let="j" cid="c46015044.87">
+				</crossref>
+				sown a, 
+				<crossref let="k" cid="c46015044.88">
+				</crossref>
+				natural body; it is raised a spiritual body. If there is a natural body, there is also a spiritual body.
+			</v>
+			<marker class="begin-verse" mid="v46015045">
+			</marker>
+			<v n="45">
+				Thus it 
+				<crossref let="l" cid="c46015045.89">
+				</crossref>
+				is written,, 
+				<crossref let="m" cid="c46015045.90">
+				</crossref>
+				“The first man Adam became a living being”;(5) the last Adam became a life-giving spirit.
+				<note nid="n46015045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015046">
+			</marker>
+			<v n="46">
+				But it 
+				<crossref let="n" cid="c46015046.91">
+				</crossref>
+				is not, 
+				<crossref let="o" cid="c46015046.92">
+				</crossref>
+				the spiritual that is first but the natural, and then the spiritual.
+			</v>
+			<marker class="begin-verse" mid="v46015047">
+			</marker>
+			<v n="47">
+				The first 
+				<crossref let="p" cid="c46015047.93">
+				</crossref>
+				man was, 
+				<crossref let="q" cid="c46015047.94">
+				</crossref>
+				from the earth, a man of dust; the second man is from heaven.
+			</v>
+			<marker class="begin-verse" mid="v46015048">
+			</marker>
+			<v n="48">
+				As was 
+				<crossref let="r" cid="c46015048.95">
+				</crossref>
+				the man, 
+				<crossref let="s" cid="c46015048.96">
+				</crossref>
+				of dust, so also are those who are of the dust, and as is the man of heaven, so also are those who are of heaven.
+				<note nid="n46015048.48">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015049">
+			</marker>
+			<v n="49">
+				Just as 
+				<crossref let="t" cid="c46015049.97">
+				</crossref>
+				we have, 
+				<crossref let="u" cid="c46015049.98">
+				</crossref>
+				borne the image of the man of dust, we shall(6) also bear the image of the man of heaven. Mystery and Victory
+			</v>
+			<marker class="begin-verse" mid="v46015050">
+			</marker>
+			<v n="50">
+				I tell 
+				<crossref let="v" cid="c46015050.99">
+				</crossref>
+				you this,, 
+				<crossref let="w" cid="c46015050.100">
+				</crossref>
+				brothers: flesh and blood cannot inherit the kingdom of God, nor does the perishable inherit the imperishable.
+			</v>
+			<marker class="begin-verse" mid="v46015051">
+			</marker>
+			<v n="51">
+				Behold! I 
+				<crossref let="x" cid="c46015051.101">
+				</crossref>
+				tell you, 
+				<crossref let="y" cid="c46015051.102">
+				</crossref>
+				a mystery. We shall not all sleep, but we shall all be changed,
+				<note nid="n46015051.51">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015052">
+			</marker>
+			<v n="52">
+				in a 
+				<crossref let="z" cid="c46015052.103">
+				</crossref>
+				moment, in, 
+				<crossref let="a" cid="c46015052.104">
+				</crossref>
+				the twinkling of an eye, at the last trumpet. For the trumpet will sound, and the dead will be raised imperishable, and we shall be changed.
+			</v>
+			<marker class="begin-verse" mid="v46015053">
+			</marker>
+			<v n="53">
+				For this 
+				<crossref let="b" cid="c46015053.105">
+				</crossref>
+				perishable body, 
+				<crossref let="c" cid="c46015053.106">
+				</crossref>
+				must put on the imperishable, and this mortal body must put on immortality.
+			</v>
+			<marker class="begin-verse" mid="v46015054">
+			</marker>
+			<v n="54">
+				When the 
+				<crossref let="d" cid="c46015054.107">
+				</crossref>
+				perishable puts, 
+				<crossref let="e" cid="c46015054.108">
+				</crossref>
+				on the imperishable, and the mortal puts on immortality, then shall come to pass the saying that is written: “Death is swallowed up in victory.”
+				<note nid="n46015054.54">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015055">
+			</marker>
+			<v n="55">
+				“O death, 
+				<crossref let="f" cid="c46015055.109">
+				</crossref>
+				where is, 
+				<crossref let="g" cid="c46015055.110">
+				</crossref>
+				your victory? O death, where is your sting?”
+			</v>
+			<marker class="begin-verse" mid="v46015056">
+			</marker>
+			<v n="56">
+				The sting 
+				<crossref let="h" cid="c46015056.111">
+				</crossref>
+				of death, 
+				<crossref let="i" cid="c46015056.112">
+				</crossref>
+				is sin, and the power of sin is the law.
+			</v>
+			<marker class="begin-verse" mid="v46015057">
+			</marker>
+			<v n="57">
+				But thanks 
+				<crossref let="j" cid="c46015057.113">
+				</crossref>
+				be to, 
+				<crossref let="k" cid="c46015057.114">
+				</crossref>
+				God, who gives us the victory through our Lord Jesus Christ.
+				<note nid="n46015057.57">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v46015058">
+			</marker>
+			<v n="58">
+				Therefore, my 
+				<crossref let="l" cid="c46015058.115">
+				</crossref>
+				beloved brothers,, 
+				<crossref let="m" cid="c46015058.116">
+				</crossref>
+				be steadfast, immovable, always abounding in the work of the Lord, knowing that in the Lord your labor is not in vain. Footnotes (1) 15:1 Or *brothers and sisters*; also verses 6, 31, 50, 58 (2) 15:19 Or *we have hoped* (3) 15:27 Greek *he* (4) 15:33 Probably from Menander’s comedy *Thais* (5) 15:45 Greek *a living soul* (6) 15:49 Some manuscripts *let us* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v46015059">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:48:41.146400</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:48:41.146418</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19051001"/>
+		<chapter num="51">
+			<heading>For the choir director: A psalm of David, regarding the time Nathan the prophet came to him after David had committed adultery with Bathsheba.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Have mercy 
+				<crossref let="b" cid="c190511.1"/>
+				 on me, O God,because of your unfailing love.Because of your great compassion,blot out the stain of my sins.
+			</v>
+			<marker class="begin-verse" mid="v19051002"/>
+			<v n="2">
+				Wash me 
+				<crossref let="c" cid="c190512.1"/>
+				 clean from my guilt.Purify me from my sin.
+			</v>
+			<marker class="begin-verse" mid="v19051003"/>
+			<v n="3">
+				For I 
+				<crossref let="d" cid="c190513.1"/>
+				 recognize my rebellion;it haunts me day and night.
+			</v>
+			<marker class="begin-verse" mid="v19051004"/>
+			<v n="4">
+				Against you, 
+				<crossref let="e" cid="c190514.1"/>
+				 and you alone, have I sinned;I have done what is evil in your sight.You will be proved right in what you say,and your judgment against me is just.
+			</v>
+			<marker class="begin-verse" mid="v19051005"/>
+			<v n="5">
+				For I 
+				<crossref let="f" cid="c190515.1"/>
+				 was born a sinner—yes, from the moment my mother conceived me.
+			</v>
+			<marker class="begin-verse" mid="v19051006"/>
+			<v n="6">
+				But you 
+				<crossref let="g" cid="c190516.1"/>
+				 desire honesty from the womb,teaching me wisdom even there.
+			</v>
+			<marker class="begin-verse" mid="v19051007"/>
+			<v n="7">
+				Purify me 
+				<crossref let="h" cid="c190517.1"/>
+				 from my sins, and I will be clean;wash me, and I will be whiter than snow.
+			</v>
+			<marker class="begin-verse" mid="v19051008"/>
+			<v n="8">
+				Oh, give 
+				<crossref let="i" cid="c190518.1"/>
+				 me back my joy again;you have broken me—now let me rejoice.
+			</v>
+			<marker class="begin-verse" mid="v19051009"/>
+			<v n="9">
+				Don’t keep 
+				<crossref let="j" cid="c190519.1"/>
+				 looking at my sins.Remove the stain of my guilt.
+			</v>
+			<marker class="begin-verse" mid="v19051010"/>
+			<v n="10">
+				Create in 
+				<crossref let="k" cid="c1905110.1"/>
+				 me a clean heart, O God.Renew a loyal spirit within me.
+			</v>
+			<marker class="begin-verse" mid="v19051011"/>
+			<v n="11">
+				Do not 
+				<crossref let="l" cid="c1905111.1"/>
+				 banish me from your presence,and don’t take your Holy Spirit from me.
+			</v>
+			<marker class="begin-verse" mid="v19051012"/>
+			<v n="12">
+				Restore to 
+				<crossref let="m" cid="c1905112.1"/>
+				 me the joy of your salvation,and make me willing to obey you.
+			</v>
+			<marker class="begin-verse" mid="v19051013"/>
+			<v n="13">
+				Then I 
+				<crossref let="n" cid="c1905113.1"/>
+				 will teach your ways to rebels,and they will return to you.
+			</v>
+			<marker class="begin-verse" mid="v19051014"/>
+			<v n="14">
+				Forgive me 
+				<crossref let="o" cid="c1905114.1"/>
+				 for shedding blood, O God who saves;then I will joyfully sing of your forgiveness.
+			</v>
+			<marker class="begin-verse" mid="v19051015"/>
+			<v n="15">
+				Unseal my 
+				<crossref let="p" cid="c1905115.1"/>
+				 lips, O Lord,that my mouth may praise you.
+			</v>
+			<marker class="begin-verse" mid="v19051016"/>
+			<v n="16">
+				You do 
+				<crossref let="q" cid="c1905116.1"/>
+				 not desire a sacrifice, or I would offer one.You do not want a burnt offering.
+			</v>
+			<marker class="begin-verse" mid="v19051017"/>
+			<v n="17">
+				The sacrifice 
+				<crossref let="r" cid="c1905117.1"/>
+				 you desire is a broken spirit.You will not reject a broken and repentant heart, O God.
+			</v>
+			<marker class="begin-verse" mid="v19051018"/>
+			<v n="18">
+				Look with 
+				<crossref let="s" cid="c1905118.1"/>
+				 favor on Zion and help her;rebuild the walls of Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v19051019"/>
+			<v n="19">
+				Then you 
+				<crossref let="t" cid="c1905119.1"/>
+				 will be pleased with sacrifices offered in the right spirit—with burnt offerings and whole burnt offerings.Then bulls will again be sacrificed on your altar.
+			</v>
+			<marker class="begin-verse" mid="v19051020"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

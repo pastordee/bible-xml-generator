@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:43:02.906252</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:43:02.906258</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" version="BSB" bookAbbr="num">
+		<marker class="begin-verse" mid="v04033001"/>
+		<chapter num="33">
+			<heading>Forty-Two Journeys of the Israelites</heading>
+			<begin-paragraph/>
+			<v n="1">
+				These are 
+				<crossref let="b" cid="c040331.1"/>
+				 the journeys of the Israelites when they came out of the land of Egypt by their divisions under the leadership of Moses and Aaron.
+			</v>
+			<marker class="begin-verse" mid="v04033002"/>
+			<v n="2">
+				At the 
+				<crossref let="c" cid="c040332.1"/>
+				 LORD’s command, Moses recorded the stages of their journey. These are the stages listed by their starting points:
+			</v>
+			<marker class="begin-verse" mid="v04033003"/>
+			<v n="3">
+				On the 
+				<crossref let="d" cid="c040333.1"/>
+				 fifteenth day of the first month, on the day after the Passover, the Israelites set out from Rameses. They marched out defiantly in full view of all the Egyptians,
+			</v>
+			<marker class="begin-verse" mid="v04033004"/>
+			<v n="4">
+				who were 
+				<crossref let="e" cid="c040334.1"/>
+				 burying all their firstborn, whom the LORD had struck down among them; for the LORD had executed judgment against their gods.
+			</v>
+			<marker class="begin-verse" mid="v04033005"/>
+			<v n="5">
+				The Israelites 
+				<crossref let="f" cid="c040335.1"/>
+				 set out from Rameses and camped at Succoth.
+			</v>
+			<marker class="begin-verse" mid="v04033006"/>
+			<v n="6">
+				They set 
+				<crossref let="g" cid="c040336.1"/>
+				 out from Succoth and camped at Etham, on the edge of the wilderness.
+			</v>
+			<marker class="begin-verse" mid="v04033007"/>
+			<v n="7">
+				They set 
+				<crossref let="h" cid="c040337.1"/>
+				 out from Etham and turned back to Pi-hahiroth, opposite Baal-zephon, and they camped near Migdol.
+			</v>
+			<marker class="begin-verse" mid="v04033008"/>
+			<v n="8">
+				They set 
+				<crossref let="i" cid="c040338.1"/>
+				 out from Pi-hahiroth and crossed through the sea, into the wilderness, and they journeyed three days into the Wilderness of Etham and camped at Marah.
+			</v>
+			<marker class="begin-verse" mid="v04033009"/>
+			<v n="9">
+				They set 
+				<crossref let="j" cid="c040339.1"/>
+				 out from Marah and came to Elim, where there were twelve springs and seventy palm trees, and they camped there.
+			</v>
+			<marker class="begin-verse" mid="v04033010"/>
+			<v n="10">
+				They set 
+				<crossref let="k" cid="c0403310.1"/>
+				 out from Elim and camped by the Red Sea.
+			</v>
+			<marker class="begin-verse" mid="v04033011"/>
+			<v n="11">
+				They set 
+				<crossref let="l" cid="c0403311.1"/>
+				 out from the Red Sea and camped in the Desert of Sin.
+			</v>
+			<marker class="begin-verse" mid="v04033012"/>
+			<v n="12">
+				They set 
+				<crossref let="m" cid="c0403312.1"/>
+				 out from the Desert of Sin and camped at Dophkah.
+			</v>
+			<marker class="begin-verse" mid="v04033013"/>
+			<v n="13">
+				They set 
+				<crossref let="n" cid="c0403313.1"/>
+				 out from Dophkah and camped at Alush.
+			</v>
+			<marker class="begin-verse" mid="v04033014"/>
+			<v n="14">
+				They set 
+				<crossref let="o" cid="c0403314.1"/>
+				 out from Alush and camped at Rephidim, where there was no water for the people to drink.
+			</v>
+			<marker class="begin-verse" mid="v04033015"/>
+			<v n="15">
+				They set 
+				<crossref let="p" cid="c0403315.1"/>
+				 out from Rephidim and camped in the Wilderness of Sinai.
+			</v>
+			<marker class="begin-verse" mid="v04033016"/>
+			<v n="16">
+				They set 
+				<crossref let="q" cid="c0403316.1"/>
+				 out from the Wilderness of Sinai and camped at Kibroth-hattaavah.
+			</v>
+			<marker class="begin-verse" mid="v04033017"/>
+			<v n="17">
+				They set 
+				<crossref let="r" cid="c0403317.1"/>
+				 out from Kibroth-hattaavah and camped at Hazeroth.
+			</v>
+			<marker class="begin-verse" mid="v04033018"/>
+			<v n="18">
+				They set 
+				<crossref let="s" cid="c0403318.1"/>
+				 out from Hazeroth and camped at Rithmah.
+			</v>
+			<marker class="begin-verse" mid="v04033019"/>
+			<v n="19">
+				They set 
+				<crossref let="t" cid="c0403319.1"/>
+				 out from Rithmah and camped at Rimmon-perez.
+			</v>
+			<marker class="begin-verse" mid="v04033020"/>
+			<v n="20">
+				They set 
+				<crossref let="u" cid="c0403320.1"/>
+				 out from Rimmon-perez and camped at Libnah.
+			</v>
+			<marker class="begin-verse" mid="v04033021"/>
+			<v n="21">
+				They set 
+				<crossref let="v" cid="c0403321.1"/>
+				 out from Libnah and camped at Rissah.
+			</v>
+			<marker class="begin-verse" mid="v04033022"/>
+			<v n="22">
+				They set 
+				<crossref let="w" cid="c0403322.1"/>
+				 out from Rissah and camped at Kehelathah.
+			</v>
+			<marker class="begin-verse" mid="v04033023"/>
+			<v n="23">
+				They set 
+				<crossref let="x" cid="c0403323.1"/>
+				 out from Kehelathah and camped at Mount Shepher.
+			</v>
+			<marker class="begin-verse" mid="v04033024"/>
+			<v n="24">
+				They set 
+				<crossref let="y" cid="c0403324.1"/>
+				 out from Mount Shepher and camped at Haradah.
+			</v>
+			<marker class="begin-verse" mid="v04033025"/>
+			<v n="25">
+				They set 
+				<crossref let="z" cid="c0403325.1"/>
+				 out from Haradah and camped at Makheloth.
+			</v>
+			<marker class="begin-verse" mid="v04033026"/>
+			<v n="26">
+				They set 
+				<crossref let="a" cid="c0403326.1"/>
+				 out from Makheloth and camped at Tahath.
+			</v>
+			<marker class="begin-verse" mid="v04033027"/>
+			<v n="27">
+				They set 
+				<crossref let="b" cid="c0403327.1"/>
+				 out from Tahath and camped at Terah.
+			</v>
+			<marker class="begin-verse" mid="v04033028"/>
+			<v n="28">
+				They set 
+				<crossref let="c" cid="c0403328.1"/>
+				 out from Terah and camped at Mithkah.
+			</v>
+			<marker class="begin-verse" mid="v04033029"/>
+			<v n="29">
+				They set 
+				<crossref let="d" cid="c0403329.1"/>
+				 out from Mithkah and camped at Hashmonah.
+			</v>
+			<marker class="begin-verse" mid="v04033030"/>
+			<v n="30">
+				They set 
+				<crossref let="e" cid="c0403330.1"/>
+				 out from Hashmonah and camped at Moseroth.
+			</v>
+			<marker class="begin-verse" mid="v04033031"/>
+			<v n="31">
+				They set 
+				<crossref let="f" cid="c0403331.1"/>
+				 out from Moseroth and camped at Bene-jaakan.
+			</v>
+			<marker class="begin-verse" mid="v04033032"/>
+			<v n="32">
+				They set 
+				<crossref let="g" cid="c0403332.1"/>
+				 out from Bene-jaakan and camped at Hor-haggidgad.
+			</v>
+			<marker class="begin-verse" mid="v04033033"/>
+			<v n="33">
+				They set 
+				<crossref let="h" cid="c0403333.1"/>
+				 out from Hor-haggidgad and camped at Jotbathah.
+			</v>
+			<marker class="begin-verse" mid="v04033034"/>
+			<v n="34">
+				They set 
+				<crossref let="i" cid="c0403334.1"/>
+				 out from Jotbathah and camped at Abronah.
+			</v>
+			<marker class="begin-verse" mid="v04033035"/>
+			<v n="35">
+				They set 
+				<crossref let="j" cid="c0403335.1"/>
+				 out from Abronah and camped at Ezion-geber.
+			</v>
+			<marker class="begin-verse" mid="v04033036"/>
+			<v n="36">
+				They set 
+				<crossref let="k" cid="c0403336.1"/>
+				 out from Ezion-geber and camped at Kadesh in the Wilderness of Zin.
+			</v>
+			<marker class="begin-verse" mid="v04033037"/>
+			<v n="37">
+				They set 
+				<crossref let="l" cid="c0403337.1"/>
+				 out from Kadesh and camped at Mount Hor, on the outskirts of the land of Edom.
+			</v>
+			<marker class="begin-verse" mid="v04033038"/>
+			<v n="38">
+				At the 
+				<crossref let="m" cid="c0403338.1"/>
+				 LORD’s command, Aaron the priest climbed Mount Hor and died there on the first day of the fifth month, in the fortieth year after the Israelites had come out of the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v04033039"/>
+			<v n="39">
+				Aaron was 
+				<crossref let="n" cid="c0403339.1"/>
+				 123 years old when he died on Mount Hor.
+			</v>
+			<marker class="begin-verse" mid="v04033040"/>
+			<v n="40">
+				Now the 
+				<crossref let="o" cid="c0403340.1"/>
+				 Canaanite king of Arad, who lived in the Negev in the land of Canaan, heard that the Israelites were coming.
+			</v>
+			<marker class="begin-verse" mid="v04033041"/>
+			<v n="41">
+				And the 
+				<crossref let="p" cid="c0403341.1"/>
+				 Israelites set out from Mount Hor and camped at Zalmonah.
+			</v>
+			<marker class="begin-verse" mid="v04033042"/>
+			<v n="42">
+				They set 
+				<crossref let="q" cid="c0403342.1"/>
+				 out from Zalmonah and camped at Punon.
+			</v>
+			<marker class="begin-verse" mid="v04033043"/>
+			<v n="43">
+				They set 
+				<crossref let="r" cid="c0403343.1"/>
+				 out from Punon and camped at Oboth.
+			</v>
+			<marker class="begin-verse" mid="v04033044"/>
+			<v n="44">
+				They set 
+				<crossref let="s" cid="c0403344.1"/>
+				 out from Oboth and camped at Iye-abarim on the border of Moab.
+			</v>
+			<marker class="begin-verse" mid="v04033045"/>
+			<v n="45">
+				They set 
+				<crossref let="t" cid="c0403345.1"/>
+				 out from Iyim and camped at Dibon-gad.
+			</v>
+			<marker class="begin-verse" mid="v04033046"/>
+			<v n="46">
+				They set 
+				<crossref let="u" cid="c0403346.1"/>
+				 out from Dibon-gad and camped at Almon-diblathaim.
+			</v>
+			<marker class="begin-verse" mid="v04033047"/>
+			<v n="47">
+				They set 
+				<crossref let="v" cid="c0403347.1"/>
+				 out from Almon-diblathaim and camped in the mountains of Abarim facing Nebo.
+			</v>
+			<marker class="begin-verse" mid="v04033048"/>
+			<v n="48">
+				They set 
+				<crossref let="w" cid="c0403348.1"/>
+				 out from the mountains of Abarim and camped on the plains of Moab by the Jordan across from Jericho.
+			</v>
+			<marker class="begin-verse" mid="v04033049"/>
+			<v n="49">
+				And there 
+				<crossref let="x" cid="c0403349.1"/>
+				 on the plains of Moab they camped by the Jordan, from Beth-jeshimoth to Abel-shittim.Instructions for Occupying Canaan
+			</v>
+			<marker class="begin-verse" mid="v04033050"/>
+			<v n="50">
+				On the 
+				<crossref let="y" cid="c0403350.1"/>
+				 plains of Moab by the Jordan across from Jericho, the LORD said to Moses,
+			</v>
+			<marker class="begin-verse" mid="v04033051"/>
+			<v n="51">
+				“Speak to 
+				<crossref let="z" cid="c0403351.1"/>
+				 the Israelites and tell them: When you cross the Jordan into the land of Canaan,
+			</v>
+			<marker class="begin-verse" mid="v04033052"/>
+			<v n="52">
+				you must 
+				<crossref let="a" cid="c0403352.1"/>
+				 drive out before you all the inhabitants of the land, destroy all their carved images and cast idols, and demolish all their high places.
+			</v>
+			<marker class="begin-verse" mid="v04033053"/>
+			<v n="53">
+				You are 
+				<crossref let="b" cid="c0403353.1"/>
+				 to take possession of the land and settle in it, for I have given you the land to possess.
+			</v>
+			<marker class="begin-verse" mid="v04033054"/>
+			<v n="54">
+				And you 
+				<crossref let="c" cid="c0403354.1"/>
+				 are to divide the land by lot according to your clans. Give a larger inheritance to a larger clan and a smaller inheritance to a smaller one. Whatever falls to each one by lot will be his. You will receive an inheritance according to the tribes of your fathers.
+			</v>
+			<marker class="begin-verse" mid="v04033055"/>
+			<v n="55">
+				But if 
+				<crossref let="d" cid="c0403355.1"/>
+				 you do not drive out the inhabitants of the land before you, those you allow to remain will become barbs in your eyes and thorns in your sides; they will harass you in the land where you settle.
+			</v>
+			<marker class="begin-verse" mid="v04033056"/>
+			<v n="56">
+				And then 
+				<crossref let="e" cid="c0403356.1"/>
+				 I will do to you what I had planned to do to them.”
+			</v>
+			<marker class="begin-verse" mid="v04033057"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

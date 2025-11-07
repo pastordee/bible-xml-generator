@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:33:16.518180</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:33:16.518207</next_refresh_due>
+	</generation_info>
+	<book title="Judges" num="7" testament="old" version="KJV" bookAbbr="jdg">
+		<marker class="begin-verse" mid="v07012001"/>
+		<chapter num="12">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c070121.1"/>
+				 men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.
+			</v>
+			<marker class="begin-verse" mid="v07012002"/>
+			<v n="2">
+				And Jephthah 
+				<crossref let="c" cid="c070122.1"/>
+				 said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands.
+			</v>
+			<marker class="begin-verse" mid="v07012003"/>
+			<v n="3">
+				And when 
+				<crossref let="d" cid="c070123.1"/>
+				 I saw that ye delivered me not, I put my life in my hands, and passed over against the children of Ammon, and the LORD delivered them into my hand: wherefore then are ye come up unto me this day, to fight against me?
+			</v>
+			<marker class="begin-verse" mid="v07012004"/>
+			<v n="4">
+				Then Jephthah 
+				<crossref let="e" cid="c070124.1"/>
+				 gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites are fugitives of Ephraim among the Ephraimites, and among the Manassites.
+			</v>
+			<marker class="begin-verse" mid="v07012005"/>
+			<v n="5">
+				And the 
+				<crossref let="f" cid="c070125.1"/>
+				 Gileadites took the passages of Jordan before the Ephraimites: and it was so, that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay;
+			</v>
+			<marker class="begin-verse" mid="v07012006"/>
+			<v n="6">
+				Then said 
+				<crossref let="g" cid="c070126.1"/>
+				 they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce it right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites forty and two thousand.
+			</v>
+			<marker class="begin-verse" mid="v07012007"/>
+			<v n="7">
+				And Jephthah 
+				<crossref let="h" cid="c070127.1"/>
+				 judged Israel six years. Then died Jephthah the Gileadite, and was buried in one of the cities of Gilead.
+			</v>
+			<marker class="begin-verse" mid="v07012008"/>
+			<v n="8">
+				¶ And 
+				<crossref let="i" cid="c070128.1"/>
+				 after him Ibzan of Beth-lehem judged Israel.
+			</v>
+			<marker class="begin-verse" mid="v07012009"/>
+			<v n="9">
+				And he 
+				<crossref let="j" cid="c070129.1"/>
+				 had thirty sons, and thirty daughters, whom he sent abroad, and took in thirty daughters from abroad for his sons. And he judged Israel seven years.
+			</v>
+			<marker class="begin-verse" mid="v07012010"/>
+			<v n="10">
+				Then died 
+				<crossref let="k" cid="c0701210.1"/>
+				 Ibzan, and was buried at Beth-lehem.
+			</v>
+			<marker class="begin-verse" mid="v07012011"/>
+			<v n="11">
+				¶ And 
+				<crossref let="l" cid="c0701211.1"/>
+				 after him Elon, a Zebulonite, judged Israel; and he judged Israel ten years.
+			</v>
+			<marker class="begin-verse" mid="v07012012"/>
+			<v n="12">
+				And Elon 
+				<crossref let="m" cid="c0701212.1"/>
+				 the Zebulonite died, and was buried in Aijalon in the country of Zebulun.
+			</v>
+			<marker class="begin-verse" mid="v07012013"/>
+			<v n="13">
+				¶ And 
+				<crossref let="n" cid="c0701213.1"/>
+				 after him Abdon the son of Hillel, a Pirathonite, judged Israel.
+			</v>
+			<marker class="begin-verse" mid="v07012014"/>
+			<v n="14">
+				And he 
+				<crossref let="o" cid="c0701214.1"/>
+				 had forty sons and thirty nephews, that rode on threescore and ten ass colts: and he judged Israel eight years.
+			</v>
+			<marker class="begin-verse" mid="v07012015"/>
+			<v n="15">
+				And Abdon 
+				<crossref let="p" cid="c0701215.1"/>
+				 the son of Hillel the Pirathonite died, and was buried in Pirathon in the land of Ephraim, in the mount of the Amalekites.
+			</v>
+			<marker class="begin-verse" mid="v07012016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

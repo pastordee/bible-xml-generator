@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:55:09.644408</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:55:09.644416</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" version="WEB" bookAbbr="pro">
+		<marker class="begin-verse" mid="v20002001"/>
+		<chapter num="2">
+			<begin-paragraph/>
+			<v n="1">
+				My son, 
+				<crossref let="b" cid="c200021.1"/>
+				 if you will receive my words,and store up my commandments within you,
+			</v>
+			<marker class="begin-verse" mid="v20002002"/>
+			<v n="2">
+				so as 
+				<crossref let="c" cid="c200022.1"/>
+				 to turn your ear to wisdom,and apply your heart to understanding;
+			</v>
+			<marker class="begin-verse" mid="v20002003"/>
+			<v n="3">
+				yes, if 
+				<crossref let="d" cid="c200023.1"/>
+				 you call out for discernment,and lift up your voice for understanding;
+			</v>
+			<marker class="begin-verse" mid="v20002004"/>
+			<v n="4">
+				if you 
+				<crossref let="e" cid="c200024.1"/>
+				 seek her as silver,and search for her as for hidden treasures;
+			</v>
+			<marker class="begin-verse" mid="v20002005"/>
+			<v n="5">
+				then you 
+				<crossref let="f" cid="c200025.1"/>
+				 will understand the fear of Yahweh,and find the knowledge of God.
+			</v>
+			<marker class="begin-verse" mid="v20002006"/>
+			<v n="6">
+				For Yahweh 
+				<crossref let="g" cid="c200026.1"/>
+				 gives wisdom.Out of his mouth comes knowledge and understanding.
+			</v>
+			<marker class="begin-verse" mid="v20002007"/>
+			<v n="7">
+				He lays 
+				<crossref let="h" cid="c200027.1"/>
+				 up sound wisdom for the upright.He is a shield to those who walk in integrity,
+			</v>
+			<marker class="begin-verse" mid="v20002008"/>
+			<v n="8">
+				that he 
+				<crossref let="i" cid="c200028.1"/>
+				 may guard the paths of justice,and preserve the way of his saints.
+			</v>
+			<marker class="begin-verse" mid="v20002009"/>
+			<v n="9">
+				Then you 
+				<crossref let="j" cid="c200029.1"/>
+				 will understand righteousness and justice,equity and every good path.
+			</v>
+			<marker class="begin-verse" mid="v20002010"/>
+			<v n="10">
+				For wisdom 
+				<crossref let="k" cid="c2000210.1"/>
+				 will enter into your heart.Knowledge will be pleasant to your soul.
+			</v>
+			<marker class="begin-verse" mid="v20002011"/>
+			<v n="11">
+				Discretion will 
+				<crossref let="l" cid="c2000211.1"/>
+				 watch over you.Understanding will keep you,
+			</v>
+			<marker class="begin-verse" mid="v20002012"/>
+			<v n="12">
+				to deliver 
+				<crossref let="m" cid="c2000212.1"/>
+				 you from the way of evil,from the men who speak perverse things,
+			</v>
+			<marker class="begin-verse" mid="v20002013"/>
+			<v n="13">
+				who forsake 
+				<crossref let="n" cid="c2000213.1"/>
+				 the paths of uprightness,to walk in the ways of darkness,
+			</v>
+			<marker class="begin-verse" mid="v20002014"/>
+			<v n="14">
+				who rejoice 
+				<crossref let="o" cid="c2000214.1"/>
+				 to do evil,and delight in the perverseness of evil,
+			</v>
+			<marker class="begin-verse" mid="v20002015"/>
+			<v n="15">
+				who are 
+				<crossref let="p" cid="c2000215.1"/>
+				 crooked in their ways,and wayward in their paths,
+			</v>
+			<marker class="begin-verse" mid="v20002016"/>
+			<v n="16">
+				to deliver 
+				<crossref let="q" cid="c2000216.1"/>
+				 you from the strange woman,even from the foreigner who flatters with her words,
+			</v>
+			<marker class="begin-verse" mid="v20002017"/>
+			<v n="17">
+				who forsakes 
+				<crossref let="r" cid="c2000217.1"/>
+				 the friend of her youth,and forgets the covenant of her God;
+			</v>
+			<marker class="begin-verse" mid="v20002018"/>
+			<v n="18">
+				for her 
+				<crossref let="s" cid="c2000218.1"/>
+				 house leads down to death,her paths to the departed spirits.
+			</v>
+			<marker class="begin-verse" mid="v20002019"/>
+			<v n="19">
+				None who 
+				<crossref let="t" cid="c2000219.1"/>
+				 go to her return again,neither do they attain to the paths of life.
+			</v>
+			<marker class="begin-verse" mid="v20002020"/>
+			<v n="20">
+				Therefore walk 
+				<crossref let="u" cid="c2000220.1"/>
+				 in the way of good men,and keep the paths of the righteous.
+			</v>
+			<marker class="begin-verse" mid="v20002021"/>
+			<v n="21">
+				For the 
+				<crossref let="v" cid="c2000221.1"/>
+				 upright will dwell in the land.The perfect will remain in it.
+			</v>
+			<marker class="begin-verse" mid="v20002022"/>
+			<v n="22">
+				But the 
+				<crossref let="w" cid="c2000222.1"/>
+				 wicked will be cut off from the land.The treacherous will be rooted out of it.
+			</v>
+			<marker class="begin-verse" mid="v20002023"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

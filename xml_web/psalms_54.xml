@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:46:25.996902</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:46:25.996927</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19054001"/>
+		<chapter num="54">
+			<heading>For the Chief Musician. On stringed instruments. A contemplation by David, when the Ziphites came and said to Saul, “Isn’t David hiding himself among us?”</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Save me, 
+				<crossref let="b" cid="c190541.1"/>
+				 God, by your name.Vindicate me in your might.
+			</v>
+			<marker class="begin-verse" mid="v19054002"/>
+			<v n="2">
+				Hear my 
+				<crossref let="c" cid="c190542.1"/>
+				 prayer, God.Listen to the words of my mouth.
+			</v>
+			<marker class="begin-verse" mid="v19054003"/>
+			<v n="3">
+				For strangers 
+				<crossref let="d" cid="c190543.1"/>
+				 have risen up against me.Violent men have sought after my soul.They haven’t set God before them. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19054004"/>
+			<v n="4">
+				Behold, God 
+				<crossref let="e" cid="c190544.1"/>
+				 is my helper.The Lord is the one who sustains my soul.
+			</v>
+			<marker class="begin-verse" mid="v19054005"/>
+			<v n="5">
+				He will 
+				<crossref let="f" cid="c190545.1"/>
+				 repay the evil to my enemies.Destroy them in your truth.
+			</v>
+			<marker class="begin-verse" mid="v19054006"/>
+			<v n="6">
+				With a 
+				<crossref let="g" cid="c190546.1"/>
+				 free will offering, I will sacrifice to you.I will give thanks to your name, Yahweh, for it is good.
+			</v>
+			<marker class="begin-verse" mid="v19054007"/>
+			<v n="7">
+				For he 
+				<crossref let="h" cid="c190547.1"/>
+				 has delivered me out of all trouble.My eye has seen triumph over my enemies.
+			</v>
+			<marker class="begin-verse" mid="v19054008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

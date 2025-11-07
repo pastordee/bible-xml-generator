@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:16:01.630323</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:16:01.630331</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19065001"/>
+		<chapter num="65">
+			<heading>For the music director. A psalm of David. A song.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				God, you 
+				<crossref let="b" cid="c190651.1"/>
+				 deserve to be praised, and in Zion we will keep our promises to you.
+			</v>
+			<marker class="begin-verse" mid="v19065002"/>
+			<v n="2">
+				You hear 
+				<crossref let="c" cid="c190652.1"/>
+				 our prayers; everyone comes to you.
+			</v>
+			<marker class="begin-verse" mid="v19065003"/>
+			<v n="3">
+				Even though 
+				<crossref let="d" cid="c190653.1"/>
+				 we're drowning in our sins and our disobedience, you forgive us.
+			</v>
+			<marker class="begin-verse" mid="v19065004"/>
+			<v n="4">
+				Happy are 
+				<crossref let="e" cid="c190654.1"/>
+				 those you choose to keep close to you, those who live in your courts! We are delighted with the blessings we receive in your house, your holy Temple!
+			</v>
+			<marker class="begin-verse" mid="v19065005"/>
+			<v n="5">
+				In your 
+				<crossref let="f" cid="c190655.1"/>
+				 goodness you answer us through the wonderful things you do, God of our salvation. You can be trusted by everyone on earth, including those sailing distant oceans.
+			</v>
+			<marker class="begin-verse" mid="v19065006"/>
+			<v n="6">
+				You made 
+				<crossref let="g" cid="c190656.1"/>
+				 the mountains by your power, for you have great strength.
+			</v>
+			<marker class="begin-verse" mid="v19065007"/>
+			<v n="7">
+				You calm 
+				<crossref let="h" cid="c190657.1"/>
+				 the raging seas and crashing waves, you silence the noisy shouts of the nations.
+			</v>
+			<marker class="begin-verse" mid="v19065008"/>
+			<v n="8">
+				Everyone, even 
+				<crossref let="i" cid="c190658.1"/>
+				 those in distant lands, are amazed by the wonderful things you do, from the east to the west they sing for joy.
+			</v>
+			<marker class="begin-verse" mid="v19065009"/>
+			<v n="9">
+				You care 
+				<crossref let="j" cid="c190659.1"/>
+				 for the earth and water it; you make it very productive. God, your river is full of water to grow the grain—this is what you have planned.
+			</v>
+			<marker class="begin-verse" mid="v19065010"/>
+			<v n="10">
+				You fill 
+				<crossref let="k" cid="c1906510.1"/>
+				 the plowed furrows with water, you soften the ridges; you bless the growing crops.
+			</v>
+			<marker class="begin-verse" mid="v19065011"/>
+			<v n="11">
+				You make 
+				<crossref let="l" cid="c1906511.1"/>
+				 the high point of the year a wonderful harvest, filling the wagons with good things.
+			</v>
+			<marker class="begin-verse" mid="v19065012"/>
+			<v n="12">
+				The pastures 
+				<crossref let="m" cid="c1906512.1"/>
+				 in the wilderness grow lush; the hillsides are clothed in bright flowers.
+			</v>
+			<marker class="begin-verse" mid="v19065013"/>
+			<v n="13">
+				The meadows 
+				<crossref let="n" cid="c1906513.1"/>
+				 are covered with flocks of sheep, and the valleys with fields of grain. Everything triumphantly sings for joy.
+			</v>
+			<marker class="begin-verse" mid="v19065014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

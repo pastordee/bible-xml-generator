@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:36:36.663829</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:36:36.663837</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" version="NLT" bookAbbr="2ch">
+		<marker class="begin-verse" mid="v14027001"/>
+		<chapter num="27">
+			<heading>Jotham Rules in Judah</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Jotham was 
+				<crossref let="b" cid="c140271.1"/>
+				 twenty-five years old when he became king, and he reigned in Jerusalem sixteen years. His mother was Jerusha, the daughter of Zadok.
+			</v>
+			<marker class="begin-verse" mid="v14027002"/>
+			<v n="2">
+				Jotham did 
+				<crossref let="c" cid="c140272.1"/>
+				 what was pleasing in the Lord’s sight. He did everything his father, Uzziah, had done, except that Jotham did not sin by entering the Temple of the Lord. But the people continued in their corrupt ways.
+			</v>
+			<marker class="begin-verse" mid="v14027003"/>
+			<v n="3">
+				Jotham rebuilt 
+				<crossref let="d" cid="c140273.1"/>
+				 the upper gate of the Temple of the Lord. He also did extensive rebuilding on the wall at the hill of Ophel.
+			</v>
+			<marker class="begin-verse" mid="v14027004"/>
+			<v n="4">
+				He built 
+				<crossref let="e" cid="c140274.1"/>
+				 towns in the hill country of Judah and constructed fortresses and towers in the wooded areas.
+			</v>
+			<marker class="begin-verse" mid="v14027005"/>
+			<v n="5">
+				Jotham went 
+				<crossref let="f" cid="c140275.1"/>
+				 to war against the Ammonites and conquered them. Over the next three years he received from them an annual tribute of 7,500 pounds of silver, 50,000 bushels of wheat, and 50,000 bushels of barley.
+			</v>
+			<marker class="begin-verse" mid="v14027006"/>
+			<v n="6">
+				King Jotham 
+				<crossref let="g" cid="c140276.1"/>
+				 became powerful because he was careful to live in obedience to the Lord his God.
+			</v>
+			<marker class="begin-verse" mid="v14027007"/>
+			<v n="7">
+				The rest 
+				<crossref let="h" cid="c140277.1"/>
+				 of the events of Jotham’s reign, including all his wars and other activities, are recorded in The Book of the Kings of Israel and Judah.
+			</v>
+			<marker class="begin-verse" mid="v14027008"/>
+			<v n="8">
+				He was 
+				<crossref let="i" cid="c140278.1"/>
+				 twenty-five years old when he became king, and he reigned in Jerusalem sixteen years.
+			</v>
+			<marker class="begin-verse" mid="v14027009"/>
+			<v n="9">
+				When Jotham 
+				<crossref let="j" cid="c140279.1"/>
+				 died, he was buried in the City of David. And his son Ahaz became the next king.
+			</v>
+			<marker class="begin-verse" mid="v14027010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

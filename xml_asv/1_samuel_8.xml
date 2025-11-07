@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:06:15.032069</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:06:15.032104</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" version="ASV" bookAbbr="1sa">
+		<marker class="begin-verse" mid="v09008001"/>
+		<chapter num="8">
+			<begin-paragraph/>
+			<v n="1">
+				And it 
+				<crossref let="b" cid="c090081.1"/>
+				 came to pass, when Samuel was old, that he made his sons judges over Israel.
+			</v>
+			<marker class="begin-verse" mid="v09008002"/>
+			<v n="2">
+				Now the 
+				<crossref let="c" cid="c090082.1"/>
+				 name of his first-born was Joel; and the name of his second, Abijah: they were judges in Beer-sheba.
+			</v>
+			<marker class="begin-verse" mid="v09008003"/>
+			<v n="3">
+				And his 
+				<crossref let="d" cid="c090083.1"/>
+				 sons walked not in his ways, but turned aside after lucre, and took bribes, and perverted justice.
+			</v>
+			<marker class="begin-verse" mid="v09008004"/>
+			<v n="4">
+				Then all 
+				<crossref let="e" cid="c090084.1"/>
+				 the elders of Israel gathered themselves together, and came to Samuel unto Ramah;
+			</v>
+			<marker class="begin-verse" mid="v09008005"/>
+			<v n="5">
+				and they 
+				<crossref let="f" cid="c090085.1"/>
+				 said unto him, Behold, thou art old, and thy sons walk not in thy ways: now make us a king to judge us like all the nations.
+			</v>
+			<marker class="begin-verse" mid="v09008006"/>
+			<v n="6">
+				But the 
+				<crossref let="g" cid="c090086.1"/>
+				 thing displeased Samuel, when they said, Give us a king to judge us. And Samuel prayed unto Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v09008007"/>
+			<v n="7">
+				And Jehovah 
+				<crossref let="h" cid="c090087.1"/>
+				 said unto Samuel, Hearken unto the voice of the people in all that they say unto thee; for they have not rejected thee, but they have rejected me, that I should not be king over them.
+			</v>
+			<marker class="begin-verse" mid="v09008008"/>
+			<v n="8">
+				According to 
+				<crossref let="i" cid="c090088.1"/>
+				 all the works which they have done since the day that I brought them up out of Egypt even unto this day, in that they have forsaken me, and served other gods, so do they also unto thee.
+			</v>
+			<marker class="begin-verse" mid="v09008009"/>
+			<v n="9">
+				Now therefore 
+				<crossref let="j" cid="c090089.1"/>
+				 hearken unto their voice: howbeit thou shalt protest solemnly unto them, and shalt show them the manner of the king that shall reign over them.
+			</v>
+			<marker class="begin-verse" mid="v09008010"/>
+			<v n="10">
+				And Samuel 
+				<crossref let="k" cid="c0900810.1"/>
+				 told all the words of Jehovah unto the people that asked of him a king.
+			</v>
+			<marker class="begin-verse" mid="v09008011"/>
+			<v n="11">
+				And he 
+				<crossref let="l" cid="c0900811.1"/>
+				 said, This will be the manner of the king that shall reign over you: he will take your sons, and appoint them unto him, for his chariots, and to be his horsemen; and they shall run before his chariots;
+			</v>
+			<marker class="begin-verse" mid="v09008012"/>
+			<v n="12">
+				and he 
+				<crossref let="m" cid="c0900812.1"/>
+				 will appoint them unto him for captains of thousands, and captains of fifties; and he will set some to plow his ground, and to reap his harvest, and to make his instruments of war, and the instruments of his chariots.
+			</v>
+			<marker class="begin-verse" mid="v09008013"/>
+			<v n="13">
+				And he 
+				<crossref let="n" cid="c0900813.1"/>
+				 will take your daughters to be perfumers, and to be cooks, and to be bakers.
+			</v>
+			<marker class="begin-verse" mid="v09008014"/>
+			<v n="14">
+				And he 
+				<crossref let="o" cid="c0900814.1"/>
+				 will take your fields, and your vineyards, and your oliveyards, even the best of them, and give them to his servants.
+			</v>
+			<marker class="begin-verse" mid="v09008015"/>
+			<v n="15">
+				And he 
+				<crossref let="p" cid="c0900815.1"/>
+				 will take the tenth of your seed, and of your vineyards, and give to his officers, and to his servants.
+			</v>
+			<marker class="begin-verse" mid="v09008016"/>
+			<v n="16">
+				And he 
+				<crossref let="q" cid="c0900816.1"/>
+				 will take your men-servants, and your maid-servants, and your goodliest young men, and your asses, and put them to his work.
+			</v>
+			<marker class="begin-verse" mid="v09008017"/>
+			<v n="17">
+				He will 
+				<crossref let="r" cid="c0900817.1"/>
+				 take the tenth of your flocks: and ye shall be his servants.
+			</v>
+			<marker class="begin-verse" mid="v09008018"/>
+			<v n="18">
+				And ye 
+				<crossref let="s" cid="c0900818.1"/>
+				 shall cry out in that day because of your king whom ye shall have chosen you; and Jehovah will not answer you in that day.
+			</v>
+			<marker class="begin-verse" mid="v09008019"/>
+			<v n="19">
+				But the 
+				<crossref let="t" cid="c0900819.1"/>
+				 people refused to hearken unto the voice of Samuel; and they said, Nay: but we will have a king over us,
+			</v>
+			<marker class="begin-verse" mid="v09008020"/>
+			<v n="20">
+				that we 
+				<crossref let="u" cid="c0900820.1"/>
+				 also may be like all the nations, and that our king may judge us, and go out before us, and fight our battles.
+			</v>
+			<marker class="begin-verse" mid="v09008021"/>
+			<v n="21">
+				And Samuel 
+				<crossref let="v" cid="c0900821.1"/>
+				 heard all the words of the people, and he rehearsed them in the ears of Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v09008022"/>
+			<v n="22">
+				And Jehovah 
+				<crossref let="w" cid="c0900822.1"/>
+				 said to Samuel, Hearken unto their voice, and make them a king. And Samuel said unto the men of Israel, Go ye every man unto his city.
+			</v>
+			<marker class="begin-verse" mid="v09008023"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

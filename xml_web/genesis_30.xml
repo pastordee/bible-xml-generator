@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:01:43.589779</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:01:43.589787</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="WEB" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01030001"/>
+		<chapter num="30">
+			<begin-paragraph/>
+			<v n="1">
+				When Rachel 
+				<crossref let="b" cid="c010301.1"/>
+				 saw that she bore Jacob no children, Rachel envied her sister. She said to Jacob, “Give me children, or else I will die.”
+			</v>
+			<marker class="begin-verse" mid="v01030002"/>
+			<v n="2">
+				Jacob’s anger 
+				<crossref let="c" cid="c010302.1"/>
+				 burned against Rachel, and he said, “Am I in God’s place, who has withheld from you the fruit of the womb?”
+			</v>
+			<marker class="begin-verse" mid="v01030003"/>
+			<v n="3">
+				She said, 
+				<crossref let="d" cid="c010303.1"/>
+				 “Behold, my maid Bilhah. Go in to her, that she may bear on my knees, and I also may obtain children by her.”
+			</v>
+			<marker class="begin-verse" mid="v01030004"/>
+			<v n="4">
+				She gave 
+				<crossref let="e" cid="c010304.1"/>
+				 him Bilhah her servant as wife, and Jacob went in to her.
+			</v>
+			<marker class="begin-verse" mid="v01030005"/>
+			<v n="5">
+				Bilhah conceived, 
+				<crossref let="f" cid="c010305.1"/>
+				 and bore Jacob a son.
+			</v>
+			<marker class="begin-verse" mid="v01030006"/>
+			<v n="6">
+				Rachel said, 
+				<crossref let="g" cid="c010306.1"/>
+				 “God has judged me, and has also heard my voice, and has given me a son.” Therefore she called his name Dan.
+			</v>
+			<marker class="begin-verse" mid="v01030007"/>
+			<v n="7">
+				Bilhah, Rachel’s 
+				<crossref let="h" cid="c010307.1"/>
+				 servant, conceived again, and bore Jacob a second son.
+			</v>
+			<marker class="begin-verse" mid="v01030008"/>
+			<v n="8">
+				Rachel said, 
+				<crossref let="i" cid="c010308.1"/>
+				 “I have wrestled with my sister with mighty wrestlings, and have prevailed.” She named him Naphtali.
+			</v>
+			<marker class="begin-verse" mid="v01030009"/>
+			<v n="9">
+				When Leah 
+				<crossref let="j" cid="c010309.1"/>
+				 saw that she had finished bearing, she took Zilpah, her servant, and gave her to Jacob as a wife.
+			</v>
+			<marker class="begin-verse" mid="v01030010"/>
+			<v n="10">
+				Zilpah, Leah’s 
+				<crossref let="k" cid="c0103010.1"/>
+				 servant, bore Jacob a son.
+			</v>
+			<marker class="begin-verse" mid="v01030011"/>
+			<v n="11">
+				Leah said, 
+				<crossref let="l" cid="c0103011.1"/>
+				 “How fortunate!” She named him Gad.
+			</v>
+			<marker class="begin-verse" mid="v01030012"/>
+			<v n="12">
+				Zilpah, Leah’s 
+				<crossref let="m" cid="c0103012.1"/>
+				 servant, bore Jacob a second son.
+			</v>
+			<marker class="begin-verse" mid="v01030013"/>
+			<v n="13">
+				Leah said, 
+				<crossref let="n" cid="c0103013.1"/>
+				 “Happy am I, for the daughters will call me happy.” She named him Asher.
+			</v>
+			<marker class="begin-verse" mid="v01030014"/>
+			<v n="14">
+				Reuben went 
+				<crossref let="o" cid="c0103014.1"/>
+				 in the days of wheat harvest, and found mandrakes in the field, and brought them to his mother, Leah. Then Rachel said to Leah, “Please give me some of your son’s mandrakes.”
+			</v>
+			<marker class="begin-verse" mid="v01030015"/>
+			<v n="15">
+				Leah said 
+				<crossref let="p" cid="c0103015.1"/>
+				 to her, “Is it a small matter that you have taken away my husband? Would you take away my son’s mandrakes, also?”Rachel said, “Therefore he will lie with you tonight for your son’s mandrakes.”
+			</v>
+			<marker class="begin-verse" mid="v01030016"/>
+			<v n="16">
+				Jacob came 
+				<crossref let="q" cid="c0103016.1"/>
+				 from the field in the evening, and Leah went out to meet him, and said, “You must come in to me; for I have surely hired you with my son’s mandrakes.”He lay with her that night.
+			</v>
+			<marker class="begin-verse" mid="v01030017"/>
+			<v n="17">
+				God listened 
+				<crossref let="r" cid="c0103017.1"/>
+				 to Leah, and she conceived, and bore Jacob a fifth son.
+			</v>
+			<marker class="begin-verse" mid="v01030018"/>
+			<v n="18">
+				Leah said, 
+				<crossref let="s" cid="c0103018.1"/>
+				 “God has given me my hire, because I gave my servant to my husband.” She named him Issachar.
+			</v>
+			<marker class="begin-verse" mid="v01030019"/>
+			<v n="19">
+				Leah conceived 
+				<crossref let="t" cid="c0103019.1"/>
+				 again, and bore a sixth son to Jacob.
+			</v>
+			<marker class="begin-verse" mid="v01030020"/>
+			<v n="20">
+				Leah said, 
+				<crossref let="u" cid="c0103020.1"/>
+				 “God has endowed me with a good dowry. Now my husband will live with me, because I have borne him six sons.” She named him Zebulun.
+			</v>
+			<marker class="begin-verse" mid="v01030021"/>
+			<v n="21">
+				Afterwards, she 
+				<crossref let="v" cid="c0103021.1"/>
+				 bore a daughter, and named her Dinah.
+			</v>
+			<marker class="begin-verse" mid="v01030022"/>
+			<v n="22">
+				God remembered 
+				<crossref let="w" cid="c0103022.1"/>
+				 Rachel, and God listened to her, and opened her womb.
+			</v>
+			<marker class="begin-verse" mid="v01030023"/>
+			<v n="23">
+				She conceived, 
+				<crossref let="x" cid="c0103023.1"/>
+				 bore a son, and said, “God has taken away my reproach.”
+			</v>
+			<marker class="begin-verse" mid="v01030024"/>
+			<v n="24">
+				She named 
+				<crossref let="y" cid="c0103024.1"/>
+				 him Joseph, saying, “May Yahweh add another son to me.”
+			</v>
+			<marker class="begin-verse" mid="v01030025"/>
+			<v n="25">
+				When Rachel 
+				<crossref let="z" cid="c0103025.1"/>
+				 had borne Joseph, Jacob said to Laban, “Send me away, that I may go to my own place, and to my country.
+			</v>
+			<marker class="begin-verse" mid="v01030026"/>
+			<v n="26">
+				Give me 
+				<crossref let="a" cid="c0103026.1"/>
+				 my wives and my children for whom I have served you, and let me go; for you know my service with which I have served you.”
+			</v>
+			<marker class="begin-verse" mid="v01030027"/>
+			<v n="27">
+				Laban said 
+				<crossref let="b" cid="c0103027.1"/>
+				 to him, “If now I have found favor in your eyes, stay here, for I have divined that Yahweh has blessed me for your sake.”
+			</v>
+			<marker class="begin-verse" mid="v01030028"/>
+			<v n="28">
+				He said, 
+				<crossref let="c" cid="c0103028.1"/>
+				 “Appoint me your wages, and I will give it.”
+			</v>
+			<marker class="begin-verse" mid="v01030029"/>
+			<v n="29">
+				Jacob said 
+				<crossref let="d" cid="c0103029.1"/>
+				 to him, “You know how I have served you, and how your livestock have fared with me.
+			</v>
+			<marker class="begin-verse" mid="v01030030"/>
+			<v n="30">
+				For it 
+				<crossref let="e" cid="c0103030.1"/>
+				 was little which you had before I came, and it has increased to a multitude. Yahweh has blessed you wherever I turned. Now when will I provide for my own house also?”
+			</v>
+			<marker class="begin-verse" mid="v01030031"/>
+			<v n="31">
+				Laban said, 
+				<crossref let="f" cid="c0103031.1"/>
+				 “What shall I give you?”Jacob said, “You shall not give me anything. If you will do this thing for me, I will again feed your flock and keep it.
+			</v>
+			<marker class="begin-verse" mid="v01030032"/>
+			<v n="32">
+				I will 
+				<crossref let="g" cid="c0103032.1"/>
+				 pass through all your flock today, removing from there every speckled and spotted one, and every black one among the sheep, and the spotted and speckled among the goats. This will be my hire.
+			</v>
+			<marker class="begin-verse" mid="v01030033"/>
+			<v n="33">
+				So my 
+				<crossref let="h" cid="c0103033.1"/>
+				 righteousness will answer for me hereafter, when you come concerning my hire that is before you. Every one that is not speckled and spotted among the goats, and black among the sheep, that might be with me, will be considered stolen.”
+			</v>
+			<marker class="begin-verse" mid="v01030034"/>
+			<v n="34">
+				Laban said, 
+				<crossref let="i" cid="c0103034.1"/>
+				 “Behold, let it be according to your word.”
+			</v>
+			<marker class="begin-verse" mid="v01030035"/>
+			<v n="35">
+				That day, 
+				<crossref let="j" cid="c0103035.1"/>
+				 he removed the male goats that were streaked and spotted, and all the female goats that were speckled and spotted, every one that had white in it, and all the black ones among the sheep, and gave them into the hand of his sons.
+			</v>
+			<marker class="begin-verse" mid="v01030036"/>
+			<v n="36">
+				He set 
+				<crossref let="k" cid="c0103036.1"/>
+				 three days’ journey between himself and Jacob, and Jacob fed the rest of Laban’s flocks.
+			</v>
+			<marker class="begin-verse" mid="v01030037"/>
+			<v n="37">
+				Jacob took 
+				<crossref let="l" cid="c0103037.1"/>
+				 to himself rods of fresh poplar, almond, and plane tree, peeled white streaks in them, and made the white appear which was in the rods.
+			</v>
+			<marker class="begin-verse" mid="v01030038"/>
+			<v n="38">
+				He set 
+				<crossref let="m" cid="c0103038.1"/>
+				 the rods which he had peeled opposite the flocks in the watering troughs where the flocks came to drink. They conceived when they came to drink.
+			</v>
+			<marker class="begin-verse" mid="v01030039"/>
+			<v n="39">
+				The flocks 
+				<crossref let="n" cid="c0103039.1"/>
+				 conceived before the rods, and the flocks produced streaked, speckled, and spotted.
+			</v>
+			<marker class="begin-verse" mid="v01030040"/>
+			<v n="40">
+				Jacob separated 
+				<crossref let="o" cid="c0103040.1"/>
+				 the lambs, and set the faces of the flocks toward the streaked and all the black in Laban’s flock. He put his own droves apart, and didn’t put them into Laban’s flock.
+			</v>
+			<marker class="begin-verse" mid="v01030041"/>
+			<v n="41">
+				Whenever the 
+				<crossref let="p" cid="c0103041.1"/>
+				 stronger of the flock conceived, Jacob laid the rods in front of the eyes of the flock in the watering troughs, that they might conceive among the rods;
+			</v>
+			<marker class="begin-verse" mid="v01030042"/>
+			<v n="42">
+				but when 
+				<crossref let="q" cid="c0103042.1"/>
+				 the flock were feeble, he didn’t put them in. So the feebler were Laban’s, and the stronger Jacob’s.
+			</v>
+			<marker class="begin-verse" mid="v01030043"/>
+			<v n="43">
+				The man 
+				<crossref let="r" cid="c0103043.1"/>
+				 increased exceedingly, and had large flocks, female servants and male servants, and camels and donkeys.
+			</v>
+			<marker class="begin-verse" mid="v01030044"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

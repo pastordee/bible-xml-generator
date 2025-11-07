@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:48:59.233468</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:48:59.233496</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" version="KJV" bookAbbr="1co">
+		<marker class="begin-verse" mid="v46014001"/>
+		<chapter num="14">
+			<begin-paragraph/>
+			<v n="1">
+				Follow after 
+				<crossref let="b" cid="c460141.1"/>
+				 charity, and desire spiritual gifts, but rather that ye may prophesy.
+			</v>
+			<marker class="begin-verse" mid="v46014002"/>
+			<v n="2">
+				For he 
+				<crossref let="c" cid="c460142.1"/>
+				 that speaketh in an unknown tongue speaketh not unto men, but unto God: for no man understandeth him; howbeit in the spirit he speaketh mysteries.
+			</v>
+			<marker class="begin-verse" mid="v46014003"/>
+			<v n="3">
+				But he 
+				<crossref let="d" cid="c460143.1"/>
+				 that prophesieth speaketh unto men to edification, and exhortation, and comfort.
+			</v>
+			<marker class="begin-verse" mid="v46014004"/>
+			<v n="4">
+				He that 
+				<crossref let="e" cid="c460144.1"/>
+				 speaketh in an unknown tongue edifieth himself; but he that prophesieth edifieth the church.
+			</v>
+			<marker class="begin-verse" mid="v46014005"/>
+			<v n="5">
+				I would 
+				<crossref let="f" cid="c460145.1"/>
+				 that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying.
+			</v>
+			<marker class="begin-verse" mid="v46014006"/>
+			<v n="6">
+				Now, brethren, 
+				<crossref let="g" cid="c460146.1"/>
+				 if I come unto you speaking with tongues, what shall I profit you, except I shall speak to you either by revelation, or by knowledge, or by prophesying, or by doctrine?
+			</v>
+			<marker class="begin-verse" mid="v46014007"/>
+			<v n="7">
+				And even 
+				<crossref let="h" cid="c460147.1"/>
+				 things without life giving sound, whether pipe or harp, except they give a distinction in the sounds, how shall it be known what is piped or harped?
+			</v>
+			<marker class="begin-verse" mid="v46014008"/>
+			<v n="8">
+				For if 
+				<crossref let="i" cid="c460148.1"/>
+				 the trumpet give an uncertain sound, who shall prepare himself to the battle?
+			</v>
+			<marker class="begin-verse" mid="v46014009"/>
+			<v n="9">
+				So likewise 
+				<crossref let="j" cid="c460149.1"/>
+				 ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air.
+			</v>
+			<marker class="begin-verse" mid="v46014010"/>
+			<v n="10">
+				There are, 
+				<crossref let="k" cid="c4601410.1"/>
+				 it may be, so many kinds of voices in the world, and none of them is without signification.
+			</v>
+			<marker class="begin-verse" mid="v46014011"/>
+			<v n="11">
+				Therefore if 
+				<crossref let="l" cid="c4601411.1"/>
+				 I know not the meaning of the voice, I shall be unto him that speaketh a barbarian, and he that speaketh shall be a barbarian unto me.
+			</v>
+			<marker class="begin-verse" mid="v46014012"/>
+			<v n="12">
+				Even so 
+				<crossref let="m" cid="c4601412.1"/>
+				 ye, forasmuch as ye are zealous of spiritual gifts, seek that ye may excel to the edifying of the church.
+			</v>
+			<marker class="begin-verse" mid="v46014013"/>
+			<v n="13">
+				Wherefore let 
+				<crossref let="n" cid="c4601413.1"/>
+				 him that speaketh in an unknown tongue pray that he may interpret.
+			</v>
+			<marker class="begin-verse" mid="v46014014"/>
+			<v n="14">
+				For if 
+				<crossref let="o" cid="c4601414.1"/>
+				 I pray in an unknown tongue, my spirit prayeth, but my understanding is unfruitful.
+			</v>
+			<marker class="begin-verse" mid="v46014015"/>
+			<v n="15">
+				What is 
+				<crossref let="p" cid="c4601415.1"/>
+				 it then? I will pray with the spirit, and I will pray with the understanding also: I will sing with the spirit, and I will sing with the understanding also.
+			</v>
+			<marker class="begin-verse" mid="v46014016"/>
+			<v n="16">
+				Else when 
+				<crossref let="q" cid="c4601416.1"/>
+				 thou shalt bless with the spirit, how shall he that occupieth the room of the unlearned say Amen at thy giving of thanks, seeing he understandeth not what thou sayest?
+			</v>
+			<marker class="begin-verse" mid="v46014017"/>
+			<v n="17">
+				For thou 
+				<crossref let="r" cid="c4601417.1"/>
+				 verily givest thanks well, but the other is not edified.
+			</v>
+			<marker class="begin-verse" mid="v46014018"/>
+			<v n="18">
+				I thank 
+				<crossref let="s" cid="c4601418.1"/>
+				 my God, I speak with tongues more than ye all:
+			</v>
+			<marker class="begin-verse" mid="v46014019"/>
+			<v n="19">
+				Yet in 
+				<crossref let="t" cid="c4601419.1"/>
+				 the church I had rather speak five words with my understanding, that by my voice I might teach others also, than ten thousand words in an unknown tongue.
+			</v>
+			<marker class="begin-verse" mid="v46014020"/>
+			<v n="20">
+				Brethren, be 
+				<crossref let="u" cid="c4601420.1"/>
+				 not children in understanding: howbeit in malice be ye children, but in understanding be men.
+			</v>
+			<marker class="begin-verse" mid="v46014021"/>
+			<v n="21">
+				In the 
+				<crossref let="v" cid="c4601421.1"/>
+				 law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.
+			</v>
+			<marker class="begin-verse" mid="v46014022"/>
+			<v n="22">
+				Wherefore tongues 
+				<crossref let="w" cid="c4601422.1"/>
+				 are for a sign, not to them that believe, but to them that believe not: but prophesying serveth not for them that believe not, but for them which believe.
+			</v>
+			<marker class="begin-verse" mid="v46014023"/>
+			<v n="23">
+				If therefore 
+				<crossref let="x" cid="c4601423.1"/>
+				 the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that ye are mad?
+			</v>
+			<marker class="begin-verse" mid="v46014024"/>
+			<v n="24">
+				But if 
+				<crossref let="y" cid="c4601424.1"/>
+				 all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all:
+			</v>
+			<marker class="begin-verse" mid="v46014025"/>
+			<v n="25">
+				And thus 
+				<crossref let="z" cid="c4601425.1"/>
+				 are the secrets of his heart made manifest; and so falling down on his face he will worship God, and report that God is in you of a truth.
+			</v>
+			<marker class="begin-verse" mid="v46014026"/>
+			<v n="26">
+				How is 
+				<crossref let="a" cid="c4601426.1"/>
+				 it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying.
+			</v>
+			<marker class="begin-verse" mid="v46014027"/>
+			<v n="27">
+				If any 
+				<crossref let="b" cid="c4601427.1"/>
+				 man speak in an unknown tongue, let it be by two, or at the most by three, and that by course; and let one interpret.
+			</v>
+			<marker class="begin-verse" mid="v46014028"/>
+			<v n="28">
+				But if 
+				<crossref let="c" cid="c4601428.1"/>
+				 there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God.
+			</v>
+			<marker class="begin-verse" mid="v46014029"/>
+			<v n="29">
+				Let the 
+				<crossref let="d" cid="c4601429.1"/>
+				 prophets speak two or three, and let the other judge.
+			</v>
+			<marker class="begin-verse" mid="v46014030"/>
+			<v n="30">
+				If any 
+				<crossref let="e" cid="c4601430.1"/>
+				 thing be revealed to another that sitteth by, let the first hold his peace.
+			</v>
+			<marker class="begin-verse" mid="v46014031"/>
+			<v n="31">
+				For ye 
+				<crossref let="f" cid="c4601431.1"/>
+				 may all prophesy one by one, that all may learn, and all may be comforted.
+			</v>
+			<marker class="begin-verse" mid="v46014032"/>
+			<v n="32">
+				And the 
+				<crossref let="g" cid="c4601432.1"/>
+				 spirits of the prophets are subject to the prophets.
+			</v>
+			<marker class="begin-verse" mid="v46014033"/>
+			<v n="33">
+				For God 
+				<crossref let="h" cid="c4601433.1"/>
+				 is not the author of confusion, but of peace, as in all churches of the saints.
+			</v>
+			<marker class="begin-verse" mid="v46014034"/>
+			<v n="34">
+				Let your 
+				<crossref let="i" cid="c4601434.1"/>
+				 women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience, as also saith the law.
+			</v>
+			<marker class="begin-verse" mid="v46014035"/>
+			<v n="35">
+				And if 
+				<crossref let="j" cid="c4601435.1"/>
+				 they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.
+			</v>
+			<marker class="begin-verse" mid="v46014036"/>
+			<v n="36">
+				What? came 
+				<crossref let="k" cid="c4601436.1"/>
+				 the word of God out from you? or came it unto you only?
+			</v>
+			<marker class="begin-verse" mid="v46014037"/>
+			<v n="37">
+				If any 
+				<crossref let="l" cid="c4601437.1"/>
+				 man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.
+			</v>
+			<marker class="begin-verse" mid="v46014038"/>
+			<v n="38">
+				But if 
+				<crossref let="m" cid="c4601438.1"/>
+				 any man be ignorant, let him be ignorant.
+			</v>
+			<marker class="begin-verse" mid="v46014039"/>
+			<v n="39">
+				Wherefore, brethren, 
+				<crossref let="n" cid="c4601439.1"/>
+				 covet to prophesy, and forbid not to speak with tongues.
+			</v>
+			<marker class="begin-verse" mid="v46014040"/>
+			<v n="40">
+				Let all 
+				<crossref let="o" cid="c4601440.1"/>
+				 things be done decently and in order.
+			</v>
+			<marker class="begin-verse" mid="v46014041"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

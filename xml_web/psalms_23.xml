@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:43:40.744507</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:43:40.744515</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19023001"/>
+		<chapter num="23">
+			<heading>A Psalm by David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh is 
+				<crossref let="b" cid="c190231.1"/>
+				 my shepherd;I shall lack nothing.
+			</v>
+			<marker class="begin-verse" mid="v19023002"/>
+			<v n="2">
+				He makes 
+				<crossref let="c" cid="c190232.1"/>
+				 me lie down in green pastures.He leads me beside still waters.
+			</v>
+			<marker class="begin-verse" mid="v19023003"/>
+			<v n="3">
+				He restores 
+				<crossref let="d" cid="c190233.1"/>
+				 my soul.He guides me in the paths of righteousness for his name’s sake.
+			</v>
+			<marker class="begin-verse" mid="v19023004"/>
+			<v n="4">
+				Even though 
+				<crossref let="e" cid="c190234.1"/>
+				 I walk through the valley of the shadow of death,I will fear no evil, for you are with me.Your rod and your staff,they comfort me.
+			</v>
+			<marker class="begin-verse" mid="v19023005"/>
+			<v n="5">
+				You prepare 
+				<crossref let="f" cid="c190235.1"/>
+				 a table before mein the presence of my enemies.You anoint my head with oil.My cup runs over.
+			</v>
+			<marker class="begin-verse" mid="v19023006"/>
+			<v n="6">
+				Surely goodness 
+				<crossref let="g" cid="c190236.1"/>
+				 and loving kindness shall follow me all the days of my life,and I will dwell in Yahweh’s house forever.
+			</v>
+			<marker class="begin-verse" mid="v19023007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:49:31.348306</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:49:31.348317</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="NLT" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66005001"/>
+		<chapter num="5">
+			<heading>The Lamb Opens the Scroll</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then I 
+				<crossref let="b" cid="c660051.1"/>
+				 saw a scroll in the right hand of the one who was sitting on the throne. There was writing on the inside and the outside of the scroll, and it was sealed with seven seals.
+			</v>
+			<marker class="begin-verse" mid="v66005002"/>
+			<v n="2">
+				And I 
+				<crossref let="c" cid="c660052.1"/>
+				 saw a strong angel, who shouted with a loud voice: “Who is worthy to break the seals on this scroll and open it?”
+			</v>
+			<marker class="begin-verse" mid="v66005003"/>
+			<v n="3">
+				But no 
+				<crossref let="d" cid="c660053.1"/>
+				 one in heaven or on earth or under the earth was able to open the scroll and read it.
+			</v>
+			<marker class="begin-verse" mid="v66005004"/>
+			<v n="4">
+				Then I 
+				<crossref let="e" cid="c660054.1"/>
+				 began to weep bitterly because no one was found worthy to open the scroll and read it.
+			</v>
+			<marker class="begin-verse" mid="v66005005"/>
+			<v n="5">
+				But one 
+				<crossref let="f" cid="c660055.1"/>
+				 of the twenty-four elders said to me, “Stop weeping! Look, the Lion of the tribe of Judah, the heir to David’s throne, has won the victory. He is worthy to open the scroll and its seven seals.”
+			</v>
+			<marker class="begin-verse" mid="v66005006"/>
+			<v n="6">
+				Then I 
+				<crossref let="g" cid="c660056.1"/>
+				 saw a Lamb that looked as if it had been slaughtered, but it was now standing between the throne and the four living beings and among the twenty-four elders. He had seven horns and seven eyes, which represent the sevenfold Spirit of God that is sent out into every part of the earth.
+			</v>
+			<marker class="begin-verse" mid="v66005007"/>
+			<v n="7">
+				He stepped 
+				<crossref let="h" cid="c660057.1"/>
+				 forward and took the scroll from the right hand of the one sitting on the throne.
+			</v>
+			<marker class="begin-verse" mid="v66005008"/>
+			<v n="8">
+				And when 
+				<crossref let="i" cid="c660058.1"/>
+				 he took the scroll, the four living beings and the twenty-four elders fell down before the Lamb. Each one had a harp, and they held gold bowls filled with incense, which are the prayers of God’s people.
+			</v>
+			<marker class="begin-verse" mid="v66005009"/>
+			<v n="9">
+				And they 
+				<crossref let="j" cid="c660059.1"/>
+				 sang a new song with these words:“You are worthy to take the scrolland break its seals and open it.For you were slaughtered, and your blood has ransomed people for Godfrom every tribe and language and people and nation.
+			</v>
+			<marker class="begin-verse" mid="v66005010"/>
+			<v n="10">
+				And you 
+				<crossref let="k" cid="c6600510.1"/>
+				 have caused them to becomea Kingdom of priests for our God.And they will reign on the earth.”
+			</v>
+			<marker class="begin-verse" mid="v66005011"/>
+			<v n="11">
+				Then I 
+				<crossref let="l" cid="c6600511.1"/>
+				 looked again, and I heard the voices of thousands and millions of angels around the throne and of the living beings and the elders.
+			</v>
+			<marker class="begin-verse" mid="v66005012"/>
+			<v n="12">
+				And they 
+				<crossref let="m" cid="c6600512.1"/>
+				 sang in a mighty chorus:“Worthy is the Lamb who was slaughtered—to receive power and richesand wisdom and strengthand honor and glory and blessing.”
+			</v>
+			<marker class="begin-verse" mid="v66005013"/>
+			<v n="13">
+				And then 
+				<crossref let="n" cid="c6600513.1"/>
+				 I heard every creature in heaven and on earth and under the earth and in the sea. They sang:“Blessing and honor and glory and powerbelong to the one sitting on the throneand to the Lamb forever and ever.”
+			</v>
+			<marker class="begin-verse" mid="v66005014"/>
+			<v n="14">
+				And the 
+				<crossref let="o" cid="c6600514.1"/>
+				 four living beings said, “Amen!” And the twenty-four elders fell down and worshiped the Lamb.
+			</v>
+			<marker class="begin-verse" mid="v66005015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

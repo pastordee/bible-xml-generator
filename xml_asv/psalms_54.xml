@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:31:42.664597</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:31:42.664604</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19054001"/>
+		<chapter num="54">
+			<heading>For the Chief Musician; on stringed instruments. Maschil of David; when the Ziphites came and said to Saul, Doth not David hide himself with us?</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Save me, 
+				<crossref let="b" cid="c190541.1"/>
+				 O God, by thy name,And judge me in thy might.
+			</v>
+			<marker class="begin-verse" mid="v19054002"/>
+			<v n="2">
+				Hear my 
+				<crossref let="c" cid="c190542.1"/>
+				 prayer, O God;Give ear to the words of my mouth.
+			</v>
+			<marker class="begin-verse" mid="v19054003"/>
+			<v n="3">
+				For strangers 
+				<crossref let="d" cid="c190543.1"/>
+				 are risen up against me,And violent men have sought after my soul:They have not set God before them. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19054004"/>
+			<v n="4">
+				Behold, God 
+				<crossref let="e" cid="c190544.1"/>
+				 is my helper:The Lord is of them that uphold my soul.
+			</v>
+			<marker class="begin-verse" mid="v19054005"/>
+			<v n="5">
+				He will 
+				<crossref let="f" cid="c190545.1"/>
+				 requite the evil unto mine enemies:Destroy thou them in thy truth.
+			</v>
+			<marker class="begin-verse" mid="v19054006"/>
+			<v n="6">
+				With a 
+				<crossref let="g" cid="c190546.1"/>
+				 freewill-offering will I sacrifice unto thee:I will give thanks unto thy name, O Jehovah, for it is good.
+			</v>
+			<marker class="begin-verse" mid="v19054007"/>
+			<v n="7">
+				For he 
+				<crossref let="h" cid="c190547.1"/>
+				 hath delivered me out of all trouble;And mine eye hath seen my desire upon mine enemies.
+			</v>
+			<marker class="begin-verse" mid="v19054008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

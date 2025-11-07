@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:03:26.176553</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:03:26.176569</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19084001"/>
+		<chapter num="84">
+			<heading>To the chief Musician upon Gittith, A Psalm for the sons of Korah.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				How amiable 
+				<crossref let="b" cid="c190841.1"/>
+				 are thy tabernacles, O LORD of hosts!
+			</v>
+			<marker class="begin-verse" mid="v19084002"/>
+			<v n="2">
+				My soul 
+				<crossref let="c" cid="c190842.1"/>
+				 longeth, yea, even fainteth for the courts of the LORD: my heart and my flesh crieth out for the living God.
+			</v>
+			<marker class="begin-verse" mid="v19084003"/>
+			<v n="3">
+				Yea, the 
+				<crossref let="d" cid="c190843.1"/>
+				 sparrow hath found an house, and the swallow a nest for herself, where she may lay her young, even thine altars, O LORD of hosts, my King, and my God.
+			</v>
+			<marker class="begin-verse" mid="v19084004"/>
+			<v n="4">
+				Blessed are 
+				<crossref let="e" cid="c190844.1"/>
+				 they that dwell in thy house: they will be still praising thee. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19084005"/>
+			<v n="5">
+				Blessed is 
+				<crossref let="f" cid="c190845.1"/>
+				 the man whose strength is in thee; in whose heart are the ways of them.
+			</v>
+			<marker class="begin-verse" mid="v19084006"/>
+			<v n="6">
+				Who passing 
+				<crossref let="g" cid="c190846.1"/>
+				 through the valley of Baca make it a well; the rain also filleth the pools.
+			</v>
+			<marker class="begin-verse" mid="v19084007"/>
+			<v n="7">
+				They go 
+				<crossref let="h" cid="c190847.1"/>
+				 from strength to strength, every one of them in Zion appeareth before God.
+			</v>
+			<marker class="begin-verse" mid="v19084008"/>
+			<v n="8">
+				O LORD 
+				<crossref let="i" cid="c190848.1"/>
+				 God of hosts, hear my prayer: give ear, O God of Jacob. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19084009"/>
+			<v n="9">
+				Behold, O 
+				<crossref let="j" cid="c190849.1"/>
+				 God our shield, and look upon the face of thine anointed.
+			</v>
+			<marker class="begin-verse" mid="v19084010"/>
+			<v n="10">
+				For a 
+				<crossref let="k" cid="c1908410.1"/>
+				 day in thy courts is better than a thousand. I had rather be a doorkeeper in the house of my God, than to dwell in the tents of wickedness.
+			</v>
+			<marker class="begin-verse" mid="v19084011"/>
+			<v n="11">
+				For the 
+				<crossref let="l" cid="c1908411.1"/>
+				 LORD God is a sun and shield: the LORD will give grace and glory: no good thing will he withhold from them that walk uprightly.
+			</v>
+			<marker class="begin-verse" mid="v19084012"/>
+			<v n="12">
+				O LORD 
+				<crossref let="m" cid="c1908412.1"/>
+				 of hosts, blessed is the man that trusteth in thee.
+			</v>
+			<marker class="begin-verse" mid="v19084013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:18:37.974364</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:18:37.974400</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19131001"/>
+		<chapter num="131">
+			<heading>A song for pilgrims going up to Jerusalem. A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Lord, I'm 
+				<crossref let="b" cid="c191311.1"/>
+				 not proud or arrogant. I don't worry about things that are beyond me, matters that are far beyond my experience.
+			</v>
+			<marker class="begin-verse" mid="v19131002"/>
+			<v n="2">
+				On the 
+				<crossref let="c" cid="c191312.1"/>
+				 contrary, I have chosen to be calm and quiet, like a weaned child with its mother. I am like a weaned child with its mother.
+			</v>
+			<marker class="begin-verse" mid="v19131003"/>
+			<v n="3">
+				Israel, hope 
+				<crossref let="d" cid="c191313.1"/>
+				 in the Lord, now and forever!
+			</v>
+			<marker class="begin-verse" mid="v19131004"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

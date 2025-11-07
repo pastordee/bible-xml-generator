@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:51:56.608864</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:51:56.608878</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="BSB" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40001001"/>
+		<chapter num="1">
+			<heading>The Genealogy of Jesus(Ruth 4:18–22; Luke 3:23–38)</heading>
+			<begin-paragraph/>
+			<v n="1">
+				This is 
+				<crossref let="b" cid="c400011.1"/>
+				 the record of the genealogy of Jesus Christ, the son of David, the son of Abraham:
+			</v>
+			<marker class="begin-verse" mid="v40001002"/>
+			<v n="2">
+				Abraham was 
+				<crossref let="c" cid="c400012.1"/>
+				 the father of Isaac,Isaac the father of Jacob,and Jacob the father of Judah and his brothers.
+			</v>
+			<marker class="begin-verse" mid="v40001003"/>
+			<v n="3">
+				Judah was 
+				<crossref let="d" cid="c400013.1"/>
+				 the father of Perez and Zerah by Tamar,Perez the father of Hezron,and Hezron the father of Ram.
+			</v>
+			<marker class="begin-verse" mid="v40001004"/>
+			<v n="4">
+				Ram was 
+				<crossref let="e" cid="c400014.1"/>
+				 the father of Amminadab,Amminadab the father of Nahshon,and Nahshon the father of Salmon.
+			</v>
+			<marker class="begin-verse" mid="v40001005"/>
+			<v n="5">
+				Salmon was 
+				<crossref let="f" cid="c400015.1"/>
+				 the father of Boaz by Rahab,Boaz the father of Obed by Ruth,Obed the father of Jesse,
+			</v>
+			<marker class="begin-verse" mid="v40001006"/>
+			<v n="6">
+				and Jesse 
+				<crossref let="g" cid="c400016.1"/>
+				 the father of David the king.Next:David was the father of Solomon by Uriah’s wife,
+			</v>
+			<marker class="begin-verse" mid="v40001007"/>
+			<v n="7">
+				Solomon the 
+				<crossref let="h" cid="c400017.1"/>
+				 father of Rehoboam,Rehoboam the father of Abijah,and Abijah the father of Asa.
+			</v>
+			<marker class="begin-verse" mid="v40001008"/>
+			<v n="8">
+				Asa was 
+				<crossref let="i" cid="c400018.1"/>
+				 the father of Jehoshaphat,Jehoshaphat the father of Joram,and Joram the father of Uzziah.
+			</v>
+			<marker class="begin-verse" mid="v40001009"/>
+			<v n="9">
+				Uzziah was 
+				<crossref let="j" cid="c400019.1"/>
+				 the father of Jotham,Jotham the father of Ahaz,and Ahaz the father of Hezekiah.
+			</v>
+			<marker class="begin-verse" mid="v40001010"/>
+			<v n="10">
+				Hezekiah was 
+				<crossref let="k" cid="c4000110.1"/>
+				 the father of Manasseh,Manasseh the father of Amon,Amon the father of Josiah,
+			</v>
+			<marker class="begin-verse" mid="v40001011"/>
+			<v n="11">
+				and Josiah 
+				<crossref let="l" cid="c4000111.1"/>
+				 the father of Jeconiah and his brothersat the time of the exile to Babylon.
+			</v>
+			<marker class="begin-verse" mid="v40001012"/>
+			<v n="12">
+				After the 
+				<crossref let="m" cid="c4000112.1"/>
+				 exile to Babylon:Jeconiah was the father of Shealtiel,Shealtiel the father of Zerubbabel,
+			</v>
+			<marker class="begin-verse" mid="v40001013"/>
+			<v n="13">
+				Zerubbabel the 
+				<crossref let="n" cid="c4000113.1"/>
+				 father of Abiud,Abiud the father of Eliakim,and Eliakim the father of Azor.
+			</v>
+			<marker class="begin-verse" mid="v40001014"/>
+			<v n="14">
+				Azor was 
+				<crossref let="o" cid="c4000114.1"/>
+				 the father of Zadok,Zadok the father of Achim,and Achim the father of Eliud.
+			</v>
+			<marker class="begin-verse" mid="v40001015"/>
+			<v n="15">
+				Eliud was 
+				<crossref let="p" cid="c4000115.1"/>
+				 the father of Eleazar,Eleazar the father of Matthan,Matthan the father of Jacob,
+			</v>
+			<marker class="begin-verse" mid="v40001016"/>
+			<v n="16">
+				and Jacob 
+				<crossref let="q" cid="c4000116.1"/>
+				 the father of Joseph, the husband of Mary,of whom was born Jesus, who is called Christ.
+			</v>
+			<marker class="begin-verse" mid="v40001017"/>
+			<v n="17">
+				In all, 
+				<crossref let="r" cid="c4000117.1"/>
+				 then, there were fourteen generations from Abraham to David, fourteen from David to the exile to Babylon, and fourteen from the exile to the Christ.The Birth of Jesus(Isaiah 7:10–16; Luke 2:1–7)
+			</v>
+			<marker class="begin-verse" mid="v40001018"/>
+			<v n="18">
+				This is 
+				<crossref let="s" cid="c4000118.1"/>
+				 how the birth of Jesus Christ came about: His mother Mary was pledged in marriage to Joseph, but before they came together, she was found to be with child through the Holy Spirit.
+			</v>
+			<marker class="begin-verse" mid="v40001019"/>
+			<v n="19">
+				Because Joseph 
+				<crossref let="t" cid="c4000119.1"/>
+				 her husband was a righteous man and was unwilling to disgrace her publicly, he resolved to divorce her quietly.
+			</v>
+			<marker class="begin-verse" mid="v40001020"/>
+			<v n="20">
+				But after 
+				<crossref let="u" cid="c4000120.1"/>
+				 he had pondered these things, an angel of the Lord appeared to him in a dream and said, “Joseph, son of David, do not be afraid to embrace Mary as your wife, for the One conceived in her is from the Holy Spirit.
+			</v>
+			<marker class="begin-verse" mid="v40001021"/>
+			<v n="21">
+				She will 
+				<crossref let="v" cid="c4000121.1"/>
+				 give birth to a Son, and you are to give Him the name Jesus, because He will save His people from their sins.”
+			</v>
+			<marker class="begin-verse" mid="v40001022"/>
+			<v n="22">
+				All this 
+				<crossref let="w" cid="c4000122.1"/>
+				 took place to fulfill what the Lord had said through the prophet:
+			</v>
+			<marker class="begin-verse" mid="v40001023"/>
+			<v n="23">
+				“Behold, the 
+				<crossref let="x" cid="c4000123.1"/>
+				 virgin will be with childand will give birth to a son,and they will call Him Immanuel”(which means, “God with us”).
+			</v>
+			<marker class="begin-verse" mid="v40001024"/>
+			<v n="24">
+				When Joseph 
+				<crossref let="y" cid="c4000124.1"/>
+				 woke up, he did as the angel of the Lord had commanded him, and embraced Mary as his wife.
+			</v>
+			<marker class="begin-verse" mid="v40001025"/>
+			<v n="25">
+				But he 
+				<crossref let="z" cid="c4000125.1"/>
+				 had no union with her until she gave birth to a Son. And he gave Him the name Jesus.
+			</v>
+			<marker class="begin-verse" mid="v40001026"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

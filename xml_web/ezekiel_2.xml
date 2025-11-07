@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:10:39.426633</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:10:39.426646</next_refresh_due>
+	</generation_info>
+	<book title="Ezekiel" num="26" testament="old" version="WEB" bookAbbr="ezk">
+		<marker class="begin-verse" mid="v26002001"/>
+		<chapter num="2">
+			<begin-paragraph/>
+			<v n="1">
+				He said 
+				<crossref let="b" cid="c260021.1"/>
+				 to me, “Son of man, stand on your feet, and I will speak with you.”
+			</v>
+			<marker class="begin-verse" mid="v26002002"/>
+			<v n="2">
+				The Spirit 
+				<crossref let="c" cid="c260022.1"/>
+				 entered into me when he spoke to me, and set me on my feet; and I heard him who spoke to me.
+			</v>
+			<marker class="begin-verse" mid="v26002003"/>
+			<v n="3">
+				He said 
+				<crossref let="d" cid="c260023.1"/>
+				 to me, “Son of man, I send you to the children of Israel, to a nation of rebels who have rebelled against me. They and their fathers have transgressed against me even to this very day.
+			</v>
+			<marker class="begin-verse" mid="v26002004"/>
+			<v n="4">
+				The children 
+				<crossref let="e" cid="c260024.1"/>
+				 are impudent and stiff-hearted. I am sending you to them, and you shall tell them, ‘This is what the Lord Yahweh says.’
+			</v>
+			<marker class="begin-verse" mid="v26002005"/>
+			<v n="5">
+				They, whether 
+				<crossref let="f" cid="c260025.1"/>
+				 they will hear, or whether they will refuse—for they are a rebellious house—yet they will know that there has been a prophet among them.
+			</v>
+			<marker class="begin-verse" mid="v26002006"/>
+			<v n="6">
+				You, son 
+				<crossref let="g" cid="c260026.1"/>
+				 of man, don’t be afraid of them, neither be afraid of their words, though briers and thorns are with you, and you dwell among scorpions. Don’t be afraid of their words, nor be dismayed at their looks, though they are a rebellious house.
+			</v>
+			<marker class="begin-verse" mid="v26002007"/>
+			<v n="7">
+				You shall 
+				<crossref let="h" cid="c260027.1"/>
+				 speak my words to them, whether they will hear or whether they will refuse; for they are most rebellious.
+			</v>
+			<marker class="begin-verse" mid="v26002008"/>
+			<v n="8">
+				But you, 
+				<crossref let="i" cid="c260028.1"/>
+				 son of man, hear what I tell you. Don’t be rebellious like that rebellious house. Open your mouth, and eat that which I give you.”
+			</v>
+			<marker class="begin-verse" mid="v26002009"/>
+			<v n="9">
+				When I 
+				<crossref let="j" cid="c260029.1"/>
+				 looked, behold, a hand was stretched out to me; and behold, a scroll of a book was in it.
+			</v>
+			<marker class="begin-verse" mid="v26002010"/>
+			<v n="10">
+				He spread 
+				<crossref let="k" cid="c2600210.1"/>
+				 it before me. It was written within and without; and lamentations, mourning, and woe were written in it.
+			</v>
+			<marker class="begin-verse" mid="v26002011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:41:53.928580</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:41:53.928616</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19003001"/>
+		<chapter num="3">
+			<heading>A Psalm by David, when he fled from Absalom his son.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh, how 
+				<crossref let="b" cid="c190031.1"/>
+				 my adversaries have increased!Many are those who rise up against me.
+			</v>
+			<marker class="begin-verse" mid="v19003002"/>
+			<v n="2">
+				Many there 
+				<crossref let="c" cid="c190032.1"/>
+				 are who say of my soul,“There is no help for him in God.” Selah.
+			</v>
+			<marker class="begin-verse" mid="v19003003"/>
+			<v n="3">
+				But you, 
+				<crossref let="d" cid="c190033.1"/>
+				 Yahweh, are a shield around me,my glory, and the one who lifts up my head.
+			</v>
+			<marker class="begin-verse" mid="v19003004"/>
+			<v n="4">
+				I cry 
+				<crossref let="e" cid="c190034.1"/>
+				 to Yahweh with my voice,and he answers me out of his holy hill. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19003005"/>
+			<v n="5">
+				I laid 
+				<crossref let="f" cid="c190035.1"/>
+				 myself down and slept.I awakened, for Yahweh sustains me.
+			</v>
+			<marker class="begin-verse" mid="v19003006"/>
+			<v n="6">
+				I will 
+				<crossref let="g" cid="c190036.1"/>
+				 not be afraid of tens of thousands of peoplewho have set themselves against me on every side.
+			</v>
+			<marker class="begin-verse" mid="v19003007"/>
+			<v n="7">
+				Arise, Yahweh!Save 
+				<crossref let="h" cid="c190037.1"/>
+				 me, my God!For you have struck all of my enemies on the cheek bone.You have broken the teeth of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19003008"/>
+			<v n="8">
+				Salvation belongs 
+				<crossref let="i" cid="c190038.1"/>
+				 to Yahweh.May your blessing be on your people. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19003009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

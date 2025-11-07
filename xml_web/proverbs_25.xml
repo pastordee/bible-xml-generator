@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:57:12.833545</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:57:12.833569</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" version="WEB" bookAbbr="pro">
+		<marker class="begin-verse" mid="v20025001"/>
+		<chapter num="25">
+			<begin-paragraph/>
+			<v n="1">
+				These also 
+				<crossref let="b" cid="c200251.1"/>
+				 are proverbs of Solomon, which the men of Hezekiah king of Judah copied out.
+			</v>
+			<marker class="begin-verse" mid="v20025002"/>
+			<v n="2">
+				It is 
+				<crossref let="c" cid="c200252.1"/>
+				 the glory of God to conceal a thing,but the glory of kings is to search out a matter.
+			</v>
+			<marker class="begin-verse" mid="v20025003"/>
+			<v n="3">
+				As the 
+				<crossref let="d" cid="c200253.1"/>
+				 heavens for height, and the earth for depth,so the hearts of kings are unsearchable.
+			</v>
+			<marker class="begin-verse" mid="v20025004"/>
+			<v n="4">
+				Take away 
+				<crossref let="e" cid="c200254.1"/>
+				 the dross from the silver,and material comes out for the refiner.
+			</v>
+			<marker class="begin-verse" mid="v20025005"/>
+			<v n="5">
+				Take away 
+				<crossref let="f" cid="c200255.1"/>
+				 the wicked from the king’s presence,and his throne will be established in righteousness.
+			</v>
+			<marker class="begin-verse" mid="v20025006"/>
+			<v n="6">
+				Don’t exalt 
+				<crossref let="g" cid="c200256.1"/>
+				 yourself in the presence of the king,or claim a place among great men;
+			</v>
+			<marker class="begin-verse" mid="v20025007"/>
+			<v n="7">
+				for it 
+				<crossref let="h" cid="c200257.1"/>
+				 is better that it be said to you, “Come up here,”than that you should be put lower in the presence of the prince,whom your eyes have seen.
+			</v>
+			<marker class="begin-verse" mid="v20025008"/>
+			<v n="8">
+				Don’t be 
+				<crossref let="i" cid="c200258.1"/>
+				 hasty in bringing charges to court.What will you do in the end when your neighbor shames you?
+			</v>
+			<marker class="begin-verse" mid="v20025009"/>
+			<v n="9">
+				Debate your 
+				<crossref let="j" cid="c200259.1"/>
+				 case with your neighbor,and don’t betray the confidence of another,
+			</v>
+			<marker class="begin-verse" mid="v20025010"/>
+			<v n="10">
+				lest one 
+				<crossref let="k" cid="c2002510.1"/>
+				 who hears it put you to shame,and your bad reputation never depart.
+			</v>
+			<marker class="begin-verse" mid="v20025011"/>
+			<v n="11">
+				A word 
+				<crossref let="l" cid="c2002511.1"/>
+				 fitly spokenis like apples of gold in settings of silver.
+			</v>
+			<marker class="begin-verse" mid="v20025012"/>
+			<v n="12">
+				As an 
+				<crossref let="m" cid="c2002512.1"/>
+				 earring of gold, and an ornament of fine gold,so is a wise reprover to an obedient ear.
+			</v>
+			<marker class="begin-verse" mid="v20025013"/>
+			<v n="13">
+				As the 
+				<crossref let="n" cid="c2002513.1"/>
+				 cold of snow in the time of harvest,so is a faithful messenger to those who send him;for he refreshes the soul of his masters.
+			</v>
+			<marker class="begin-verse" mid="v20025014"/>
+			<v n="14">
+				As clouds 
+				<crossref let="o" cid="c2002514.1"/>
+				 and wind without rain,so is he who boasts of gifts deceptively.
+			</v>
+			<marker class="begin-verse" mid="v20025015"/>
+			<v n="15">
+				By patience 
+				<crossref let="p" cid="c2002515.1"/>
+				 a ruler is persuaded.A soft tongue breaks the bone.
+			</v>
+			<marker class="begin-verse" mid="v20025016"/>
+			<v n="16">
+				Have you 
+				<crossref let="q" cid="c2002516.1"/>
+				 found honey?Eat as much as is sufficient for you,lest you eat too much, and vomit it.
+			</v>
+			<marker class="begin-verse" mid="v20025017"/>
+			<v n="17">
+				Let your 
+				<crossref let="r" cid="c2002517.1"/>
+				 foot be seldom in your neighbor’s house,lest he be weary of you, and hate you.
+			</v>
+			<marker class="begin-verse" mid="v20025018"/>
+			<v n="18">
+				A man 
+				<crossref let="s" cid="c2002518.1"/>
+				 who gives false testimony against his neighboris like a club, a sword, or a sharp arrow.
+			</v>
+			<marker class="begin-verse" mid="v20025019"/>
+			<v n="19">
+				Confidence in 
+				<crossref let="t" cid="c2002519.1"/>
+				 someone unfaithful in time of troubleis like a bad tooth or a lame foot.
+			</v>
+			<marker class="begin-verse" mid="v20025020"/>
+			<v n="20">
+				As one 
+				<crossref let="u" cid="c2002520.1"/>
+				 who takes away a garment in cold weather,or vinegar on soda,so is one who sings songs to a heavy heart.
+			</v>
+			<marker class="begin-verse" mid="v20025021"/>
+			<v n="21">
+				If your 
+				<crossref let="v" cid="c2002521.1"/>
+				 enemy is hungry, give him food to eat.If he is thirsty, give him water to drink;
+			</v>
+			<marker class="begin-verse" mid="v20025022"/>
+			<v n="22">
+				for you 
+				<crossref let="w" cid="c2002522.1"/>
+				 will heap coals of fire on his head,and Yahweh will reward you.
+			</v>
+			<marker class="begin-verse" mid="v20025023"/>
+			<v n="23">
+				The north 
+				<crossref let="x" cid="c2002523.1"/>
+				 wind produces rain;so a backbiting tongue brings an angry face.
+			</v>
+			<marker class="begin-verse" mid="v20025024"/>
+			<v n="24">
+				It is 
+				<crossref let="y" cid="c2002524.1"/>
+				 better to dwell in the corner of the housetopthan to share a house with a contentious woman.
+			</v>
+			<marker class="begin-verse" mid="v20025025"/>
+			<v n="25">
+				Like cold 
+				<crossref let="z" cid="c2002525.1"/>
+				 water to a thirsty soul,so is good news from a far country.
+			</v>
+			<marker class="begin-verse" mid="v20025026"/>
+			<v n="26">
+				Like a 
+				<crossref let="a" cid="c2002526.1"/>
+				 muddied spring and a polluted well,so is a righteous man who gives way before the wicked.
+			</v>
+			<marker class="begin-verse" mid="v20025027"/>
+			<v n="27">
+				It is 
+				<crossref let="b" cid="c2002527.1"/>
+				 not good to eat much honey,nor is it honorable to seek one’s own honor.
+			</v>
+			<marker class="begin-verse" mid="v20025028"/>
+			<v n="28">
+				Like a 
+				<crossref let="c" cid="c2002528.1"/>
+				 city that is broken down and without wallsis a man whose spirit is without restraint.
+			</v>
+			<marker class="begin-verse" mid="v20025029"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:44:49.797709</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:44:49.797724</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19036001"/>
+		<chapter num="36">
+			<heading>For the Chief Musician. By David, the servant of Yahweh.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				A revelation 
+				<crossref let="b" cid="c190361.1"/>
+				 is within my heart about the disobedience of the wicked:There is no fear of God before his eyes.
+			</v>
+			<marker class="begin-verse" mid="v19036002"/>
+			<v n="2">
+				For he 
+				<crossref let="c" cid="c190362.1"/>
+				 flatters himself in his own eyes,too much to detect and hate his sin.
+			</v>
+			<marker class="begin-verse" mid="v19036003"/>
+			<v n="3">
+				The words 
+				<crossref let="d" cid="c190363.1"/>
+				 of his mouth are iniquity and deceit.He has ceased to be wise and to do good.
+			</v>
+			<marker class="begin-verse" mid="v19036004"/>
+			<v n="4">
+				He plots 
+				<crossref let="e" cid="c190364.1"/>
+				 iniquity on his bed.He sets himself in a way that is not good.He doesn’t abhor evil.
+			</v>
+			<marker class="begin-verse" mid="v19036005"/>
+			<v n="5">
+				Your loving 
+				<crossref let="f" cid="c190365.1"/>
+				 kindness, Yahweh, is in the heavens.Your faithfulness reaches to the skies.
+			</v>
+			<marker class="begin-verse" mid="v19036006"/>
+			<v n="6">
+				Your righteousness 
+				<crossref let="g" cid="c190366.1"/>
+				 is like the mountains of God.Your judgments are like a great deep.Yahweh, you preserve man and animal.
+			</v>
+			<marker class="begin-verse" mid="v19036007"/>
+			<v n="7">
+				How precious 
+				<crossref let="h" cid="c190367.1"/>
+				 is your loving kindness, God!The children of men take refuge under the shadow of your wings.
+			</v>
+			<marker class="begin-verse" mid="v19036008"/>
+			<v n="8">
+				They shall 
+				<crossref let="i" cid="c190368.1"/>
+				 be abundantly satisfied with the abundance of your house.You will make them drink of the river of your pleasures.
+			</v>
+			<marker class="begin-verse" mid="v19036009"/>
+			<v n="9">
+				For with 
+				<crossref let="j" cid="c190369.1"/>
+				 you is the spring of life.In your light we will see light.
+			</v>
+			<marker class="begin-verse" mid="v19036010"/>
+			<v n="10">
+				Oh continue 
+				<crossref let="k" cid="c1903610.1"/>
+				 your loving kindness to those who know you,your righteousness to the upright in heart.
+			</v>
+			<marker class="begin-verse" mid="v19036011"/>
+			<v n="11">
+				Don’t let 
+				<crossref let="l" cid="c1903611.1"/>
+				 the foot of pride come against me.Don’t let the hand of the wicked drive me away.
+			</v>
+			<marker class="begin-verse" mid="v19036012"/>
+			<v n="12">
+				There the 
+				<crossref let="m" cid="c1903612.1"/>
+				 workers of iniquity are fallen.They are thrust down, and shall not be able to rise.
+			</v>
+			<marker class="begin-verse" mid="v19036013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:04:35.572622</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:04:35.572630</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19097001"/>
+		<chapter num="97">
+			<begin-paragraph/>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c190971.1"/>
+				 reigneth; let the earth rejoice; let the multitude of isles be glad thereof.
+			</v>
+			<marker class="begin-verse" mid="v19097002"/>
+			<v n="2">
+				Clouds and 
+				<crossref let="c" cid="c190972.1"/>
+				 darkness are round about him: righteousness and judgment are the habitation of his throne.
+			</v>
+			<marker class="begin-verse" mid="v19097003"/>
+			<v n="3">
+				A fire 
+				<crossref let="d" cid="c190973.1"/>
+				 goeth before him, and burneth up his enemies round about.
+			</v>
+			<marker class="begin-verse" mid="v19097004"/>
+			<v n="4">
+				His lightnings 
+				<crossref let="e" cid="c190974.1"/>
+				 enlightened the world: the earth saw, and trembled.
+			</v>
+			<marker class="begin-verse" mid="v19097005"/>
+			<v n="5">
+				The hills 
+				<crossref let="f" cid="c190975.1"/>
+				 melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth.
+			</v>
+			<marker class="begin-verse" mid="v19097006"/>
+			<v n="6">
+				The heavens 
+				<crossref let="g" cid="c190976.1"/>
+				 declare his righteousness, and all the people see his glory.
+			</v>
+			<marker class="begin-verse" mid="v19097007"/>
+			<v n="7">
+				Confounded be 
+				<crossref let="h" cid="c190977.1"/>
+				 all they that serve graven images, that boast themselves of idols: worship him, all ye gods.
+			</v>
+			<marker class="begin-verse" mid="v19097008"/>
+			<v n="8">
+				Zion heard, 
+				<crossref let="i" cid="c190978.1"/>
+				 and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD.
+			</v>
+			<marker class="begin-verse" mid="v19097009"/>
+			<v n="9">
+				For thou, 
+				<crossref let="j" cid="c190979.1"/>
+				 LORD, art high above all the earth: thou art exalted far above all gods.
+			</v>
+			<marker class="begin-verse" mid="v19097010"/>
+			<v n="10">
+				Ye that 
+				<crossref let="k" cid="c1909710.1"/>
+				 love the LORD, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19097011"/>
+			<v n="11">
+				Light is 
+				<crossref let="l" cid="c1909711.1"/>
+				 sown for the righteous, and gladness for the upright in heart.
+			</v>
+			<marker class="begin-verse" mid="v19097012"/>
+			<v n="12">
+				Rejoice in 
+				<crossref let="m" cid="c1909712.1"/>
+				 the LORD, ye righteous; and give thanks at the remembrance of his holiness.
+			</v>
+			<marker class="begin-verse" mid="v19097013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

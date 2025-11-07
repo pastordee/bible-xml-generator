@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:54.655751</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:54.655774</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19078001">
+		</marker>
+		<chapter num="78">
+			<heading>
+				Psalm 78
+			</heading>
+			<heading>
+				Tell the Coming Generation
+			</heading>
+			<heading>
+				A Maskil(1) of Asaph.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Give ear, 
+				<crossref let="b" cid="c19078001.1">
+				</crossref>
+				O my, 
+				<crossref let="c" cid="c19078001.2">
+				</crossref>
+				people, to my teaching; incline your ears to the words of my mouth!
+			</v>
+			<marker class="begin-verse" mid="v19078002">
+			</marker>
+			<v n="2">
+				I will 
+				<crossref let="d" cid="c19078002.3">
+				</crossref>
+				open my, 
+				<crossref let="e" cid="c19078002.4">
+				</crossref>
+				mouth in a parable; I will utter dark sayings from of old,
+			</v>
+			<marker class="begin-verse" mid="v19078003">
+			</marker>
+			<v n="3">
+				things that 
+				<crossref let="f" cid="c19078003.5">
+				</crossref>
+				we have, 
+				<crossref let="g" cid="c19078003.6">
+				</crossref>
+				heard and known, that our fathers have told us.
+				<note nid="n19078003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078004">
+			</marker>
+			<v n="4">
+				We will 
+				<crossref let="h" cid="c19078004.7">
+				</crossref>
+				not hide, 
+				<crossref let="i" cid="c19078004.8">
+				</crossref>
+				them from their children, but tell to the coming generation the glorious deeds of the LORD, and his might, and the wonders that he has done.
+			</v>
+			<marker class="begin-verse" mid="v19078005">
+			</marker>
+			<v n="5">
+				He established 
+				<crossref let="j" cid="c19078005.9">
+				</crossref>
+				a testimony, 
+				<crossref let="k" cid="c19078005.10">
+				</crossref>
+				in Jacob and appointed a law in Israel, which he commanded our fathers to teach to their children,
+			</v>
+			<marker class="begin-verse" mid="v19078006">
+			</marker>
+			<v n="6">
+				that the 
+				<crossref let="l" cid="c19078006.11">
+				</crossref>
+				next generation, 
+				<crossref let="m" cid="c19078006.12">
+				</crossref>
+				might know them, the children yet unborn, and arise and tell them to their children,
+				<note nid="n19078006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078007">
+			</marker>
+			<v n="7">
+				so that 
+				<crossref let="n" cid="c19078007.13">
+				</crossref>
+				they should, 
+				<crossref let="o" cid="c19078007.14">
+				</crossref>
+				set their hope in God and not forget the works of God, but keep his commandments;
+			</v>
+			<marker class="begin-verse" mid="v19078008">
+			</marker>
+			<v n="8">
+				and that 
+				<crossref let="p" cid="c19078008.15">
+				</crossref>
+				they should, 
+				<crossref let="q" cid="c19078008.16">
+				</crossref>
+				not be like their fathers, a stubborn and rebellious generation, a generation whose heart was not steadfast, whose spirit was not faithful to God.
+			</v>
+			<marker class="begin-verse" mid="v19078009">
+			</marker>
+			<v n="9">
+				The Ephraimites, 
+				<crossref let="r" cid="c19078009.17">
+				</crossref>
+				armed with(2), 
+				<crossref let="s" cid="c19078009.18">
+				</crossref>
+				the bow, turned back on the day of battle.
+				<note nid="n19078009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078010">
+			</marker>
+			<v n="10">
+				They did 
+				<crossref let="t" cid="c19078010.19">
+				</crossref>
+				not keep, 
+				<crossref let="u" cid="c19078010.20">
+				</crossref>
+				God’s covenant, but refused to walk according to his law.
+			</v>
+			<marker class="begin-verse" mid="v19078011">
+			</marker>
+			<v n="11">
+				They forgot 
+				<crossref let="v" cid="c19078011.21">
+				</crossref>
+				his works, 
+				<crossref let="w" cid="c19078011.22">
+				</crossref>
+				and the wonders that he had shown them.
+			</v>
+			<marker class="begin-verse" mid="v19078012">
+			</marker>
+			<v n="12">
+				In the 
+				<crossref let="x" cid="c19078012.23">
+				</crossref>
+				sight of, 
+				<crossref let="y" cid="c19078012.24">
+				</crossref>
+				their fathers he performed wonders in the land of Egypt, in the fields of Zoan.
+				<note nid="n19078012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078013">
+			</marker>
+			<v n="13">
+				He divided 
+				<crossref let="z" cid="c19078013.25">
+				</crossref>
+				the sea, 
+				<crossref let="a" cid="c19078013.26">
+				</crossref>
+				and let them pass through it, and made the waters stand like a heap.
+			</v>
+			<marker class="begin-verse" mid="v19078014">
+			</marker>
+			<v n="14">
+				In the 
+				<crossref let="b" cid="c19078014.27">
+				</crossref>
+				daytime he, 
+				<crossref let="c" cid="c19078014.28">
+				</crossref>
+				led them with a cloud, and all the night with a fiery light.
+			</v>
+			<marker class="begin-verse" mid="v19078015">
+			</marker>
+			<v n="15">
+				He split 
+				<crossref let="d" cid="c19078015.29">
+				</crossref>
+				rocks in, 
+				<crossref let="e" cid="c19078015.30">
+				</crossref>
+				the wilderness and gave them drink abundantly as from the deep.
+				<note nid="n19078015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078016">
+			</marker>
+			<v n="16">
+				He made 
+				<crossref let="f" cid="c19078016.31">
+				</crossref>
+				streams come, 
+				<crossref let="g" cid="c19078016.32">
+				</crossref>
+				out of the rock and caused waters to flow down like rivers.
+			</v>
+			<marker class="begin-verse" mid="v19078017">
+			</marker>
+			<v n="17">
+				Yet they 
+				<crossref let="h" cid="c19078017.33">
+				</crossref>
+				sinned still, 
+				<crossref let="i" cid="c19078017.34">
+				</crossref>
+				more against him, rebelling against the Most High in the desert.
+			</v>
+			<marker class="begin-verse" mid="v19078018">
+			</marker>
+			<v n="18">
+				They tested 
+				<crossref let="j" cid="c19078018.35">
+				</crossref>
+				God in, 
+				<crossref let="k" cid="c19078018.36">
+				</crossref>
+				their heart by demanding the food they craved.
+				<note nid="n19078018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078019">
+			</marker>
+			<v n="19">
+				They spoke 
+				<crossref let="l" cid="c19078019.37">
+				</crossref>
+				against God,, 
+				<crossref let="m" cid="c19078019.38">
+				</crossref>
+				saying, “Can God spread a table in the wilderness?
+			</v>
+			<marker class="begin-verse" mid="v19078020">
+			</marker>
+			<v n="20">
+				He struck 
+				<crossref let="n" cid="c19078020.39">
+				</crossref>
+				the rock, 
+				<crossref let="o" cid="c19078020.40">
+				</crossref>
+				so that water gushed out and streams overflowed. Can he also give bread or provide meat for his people?”
+			</v>
+			<marker class="begin-verse" mid="v19078021">
+			</marker>
+			<v n="21">
+				Therefore, when 
+				<crossref let="p" cid="c19078021.41">
+				</crossref>
+				the LORD, 
+				<crossref let="q" cid="c19078021.42">
+				</crossref>
+				heard, he was full of wrath; a fire was kindled against Jacob; his anger rose against Israel,
+				<note nid="n19078021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078022">
+			</marker>
+			<v n="22">
+				because they 
+				<crossref let="r" cid="c19078022.43">
+				</crossref>
+				did not, 
+				<crossref let="s" cid="c19078022.44">
+				</crossref>
+				believe in God and did not trust his saving power.
+			</v>
+			<marker class="begin-verse" mid="v19078023">
+			</marker>
+			<v n="23">
+				Yet he 
+				<crossref let="t" cid="c19078023.45">
+				</crossref>
+				commanded the, 
+				<crossref let="u" cid="c19078023.46">
+				</crossref>
+				skies above and opened the doors of heaven,
+			</v>
+			<marker class="begin-verse" mid="v19078024">
+			</marker>
+			<v n="24">
+				and he 
+				<crossref let="v" cid="c19078024.47">
+				</crossref>
+				rained down, 
+				<crossref let="w" cid="c19078024.48">
+				</crossref>
+				on them manna to eat and gave them the grain of heaven.
+				<note nid="n19078024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078025">
+			</marker>
+			<v n="25">
+				Man ate 
+				<crossref let="x" cid="c19078025.49">
+				</crossref>
+				of the, 
+				<crossref let="y" cid="c19078025.50">
+				</crossref>
+				bread of the angels; he sent them food in abundance.
+			</v>
+			<marker class="begin-verse" mid="v19078026">
+			</marker>
+			<v n="26">
+				He caused 
+				<crossref let="z" cid="c19078026.51">
+				</crossref>
+				the east, 
+				<crossref let="a" cid="c19078026.52">
+				</crossref>
+				wind to blow in the heavens, and by his power he led out the south wind;
+			</v>
+			<marker class="begin-verse" mid="v19078027">
+			</marker>
+			<v n="27">
+				he rained 
+				<crossref let="b" cid="c19078027.53">
+				</crossref>
+				meat on, 
+				<crossref let="c" cid="c19078027.54">
+				</crossref>
+				them like dust, winged birds like the sand of the seas;
+				<note nid="n19078027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078028">
+			</marker>
+			<v n="28">
+				he let 
+				<crossref let="d" cid="c19078028.55">
+				</crossref>
+				them fall, 
+				<crossref let="e" cid="c19078028.56">
+				</crossref>
+				in the midst of their camp, all around their dwellings.
+			</v>
+			<marker class="begin-verse" mid="v19078029">
+			</marker>
+			<v n="29">
+				And they 
+				<crossref let="f" cid="c19078029.57">
+				</crossref>
+				ate and, 
+				<crossref let="g" cid="c19078029.58">
+				</crossref>
+				were well filled, for he gave them what they craved.
+			</v>
+			<marker class="begin-verse" mid="v19078030">
+			</marker>
+			<v n="30">
+				But before 
+				<crossref let="h" cid="c19078030.59">
+				</crossref>
+				they had, 
+				<crossref let="i" cid="c19078030.60">
+				</crossref>
+				satisfied their craving, while the food was still in their mouths,
+				<note nid="n19078030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078031">
+			</marker>
+			<v n="31">
+				the anger 
+				<crossref let="j" cid="c19078031.61">
+				</crossref>
+				of God, 
+				<crossref let="k" cid="c19078031.62">
+				</crossref>
+				rose against them, and he killed the strongest of them and laid low the young men of Israel.
+			</v>
+			<marker class="begin-verse" mid="v19078032">
+			</marker>
+			<v n="32">
+				In spite 
+				<crossref let="l" cid="c19078032.63">
+				</crossref>
+				of all, 
+				<crossref let="m" cid="c19078032.64">
+				</crossref>
+				this, they still sinned; despite his wonders, they did not believe.
+			</v>
+			<marker class="begin-verse" mid="v19078033">
+			</marker>
+			<v n="33">
+				So he 
+				<crossref let="n" cid="c19078033.65">
+				</crossref>
+				made their, 
+				<crossref let="o" cid="c19078033.66">
+				</crossref>
+				days vanish like(3) a breath,(4) and their years in terror.
+				<note nid="n19078033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078034">
+			</marker>
+			<v n="34">
+				When he 
+				<crossref let="p" cid="c19078034.67">
+				</crossref>
+				killed them,, 
+				<crossref let="q" cid="c19078034.68">
+				</crossref>
+				they sought him; they repented and sought God earnestly.
+			</v>
+			<marker class="begin-verse" mid="v19078035">
+			</marker>
+			<v n="35">
+				They remembered 
+				<crossref let="r" cid="c19078035.69">
+				</crossref>
+				that God, 
+				<crossref let="s" cid="c19078035.70">
+				</crossref>
+				was their rock, the Most High God their redeemer.
+			</v>
+			<marker class="begin-verse" mid="v19078036">
+			</marker>
+			<v n="36">
+				But they 
+				<crossref let="t" cid="c19078036.71">
+				</crossref>
+				flattered him, 
+				<crossref let="u" cid="c19078036.72">
+				</crossref>
+				with their mouths; they lied to him with their tongues.
+				<note nid="n19078036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078037">
+			</marker>
+			<v n="37">
+				Their heart 
+				<crossref let="v" cid="c19078037.73">
+				</crossref>
+				was not, 
+				<crossref let="w" cid="c19078037.74">
+				</crossref>
+				steadfast toward him; they were not faithful to his covenant.
+			</v>
+			<marker class="begin-verse" mid="v19078038">
+			</marker>
+			<v n="38">
+				Yet he, 
+				<crossref let="x" cid="c19078038.75">
+				</crossref>
+				being compassionate,, 
+				<crossref let="y" cid="c19078038.76">
+				</crossref>
+				atoned for their iniquity and did not destroy them; he restrained his anger often and did not stir up all his wrath.
+			</v>
+			<marker class="begin-verse" mid="v19078039">
+			</marker>
+			<v n="39">
+				He remembered 
+				<crossref let="z" cid="c19078039.77">
+				</crossref>
+				that they, 
+				<crossref let="a" cid="c19078039.78">
+				</crossref>
+				were but flesh, a wind that passes and comes not again.
+				<note nid="n19078039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078040">
+			</marker>
+			<v n="40">
+				How often 
+				<crossref let="b" cid="c19078040.79">
+				</crossref>
+				they rebelled, 
+				<crossref let="c" cid="c19078040.80">
+				</crossref>
+				against him in the wilderness and grieved him in the desert!
+			</v>
+			<marker class="begin-verse" mid="v19078041">
+			</marker>
+			<v n="41">
+				They tested 
+				<crossref let="d" cid="c19078041.81">
+				</crossref>
+				God again, 
+				<crossref let="e" cid="c19078041.82">
+				</crossref>
+				and again and provoked the Holy One of Israel.
+			</v>
+			<marker class="begin-verse" mid="v19078042">
+			</marker>
+			<v n="42">
+				They did 
+				<crossref let="f" cid="c19078042.83">
+				</crossref>
+				not remember, 
+				<crossref let="g" cid="c19078042.84">
+				</crossref>
+				his power(5) or the day when he redeemed them from the foe,
+				<note nid="n19078042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078043">
+			</marker>
+			<v n="43">
+				when he 
+				<crossref let="h" cid="c19078043.85">
+				</crossref>
+				performed his, 
+				<crossref let="i" cid="c19078043.86">
+				</crossref>
+				signs in Egypt and his marvels in the fields of Zoan.
+			</v>
+			<marker class="begin-verse" mid="v19078044">
+			</marker>
+			<v n="44">
+				He turned 
+				<crossref let="j" cid="c19078044.87">
+				</crossref>
+				their rivers, 
+				<crossref let="k" cid="c19078044.88">
+				</crossref>
+				to blood, so that they could not drink of their streams.
+			</v>
+			<marker class="begin-verse" mid="v19078045">
+			</marker>
+			<v n="45">
+				He sent 
+				<crossref let="l" cid="c19078045.89">
+				</crossref>
+				among them, 
+				<crossref let="m" cid="c19078045.90">
+				</crossref>
+				swarms of flies, which devoured them, and frogs, which destroyed them.
+				<note nid="n19078045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078046">
+			</marker>
+			<v n="46">
+				He gave 
+				<crossref let="n" cid="c19078046.91">
+				</crossref>
+				their crops, 
+				<crossref let="o" cid="c19078046.92">
+				</crossref>
+				to the destroying locust and the fruit of their labor to the locust.
+			</v>
+			<marker class="begin-verse" mid="v19078047">
+			</marker>
+			<v n="47">
+				He destroyed 
+				<crossref let="p" cid="c19078047.93">
+				</crossref>
+				their vines, 
+				<crossref let="q" cid="c19078047.94">
+				</crossref>
+				with hail and their sycamores with frost.
+			</v>
+			<marker class="begin-verse" mid="v19078048">
+			</marker>
+			<v n="48">
+				He gave 
+				<crossref let="r" cid="c19078048.95">
+				</crossref>
+				over their, 
+				<crossref let="s" cid="c19078048.96">
+				</crossref>
+				cattle to the hail and their flocks to thunderbolts.
+				<note nid="n19078048.48">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078049">
+			</marker>
+			<v n="49">
+				He let 
+				<crossref let="t" cid="c19078049.97">
+				</crossref>
+				loose on, 
+				<crossref let="u" cid="c19078049.98">
+				</crossref>
+				them his burning anger, wrath, indignation, and distress, a company of destroying angels.
+			</v>
+			<marker class="begin-verse" mid="v19078050">
+			</marker>
+			<v n="50">
+				He made 
+				<crossref let="v" cid="c19078050.99">
+				</crossref>
+				a path, 
+				<crossref let="w" cid="c19078050.100">
+				</crossref>
+				for his anger; he did not spare them from death, but gave their lives over to the plague.
+			</v>
+			<marker class="begin-verse" mid="v19078051">
+			</marker>
+			<v n="51">
+				He struck 
+				<crossref let="x" cid="c19078051.101">
+				</crossref>
+				down every, 
+				<crossref let="y" cid="c19078051.102">
+				</crossref>
+				firstborn in Egypt, the firstfruits of their strength in the tents of Ham.
+				<note nid="n19078051.51">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078052">
+			</marker>
+			<v n="52">
+				Then he 
+				<crossref let="z" cid="c19078052.103">
+				</crossref>
+				led out, 
+				<crossref let="a" cid="c19078052.104">
+				</crossref>
+				his people like sheep and guided them in the wilderness like a flock.
+			</v>
+			<marker class="begin-verse" mid="v19078053">
+			</marker>
+			<v n="53">
+				He led 
+				<crossref let="b" cid="c19078053.105">
+				</crossref>
+				them in, 
+				<crossref let="c" cid="c19078053.106">
+				</crossref>
+				safety, so that they were not afraid, but the sea overwhelmed their enemies.
+			</v>
+			<marker class="begin-verse" mid="v19078054">
+			</marker>
+			<v n="54">
+				And he 
+				<crossref let="d" cid="c19078054.107">
+				</crossref>
+				brought them, 
+				<crossref let="e" cid="c19078054.108">
+				</crossref>
+				to his holy land, to the mountain which his right hand had won.
+				<note nid="n19078054.54">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078055">
+			</marker>
+			<v n="55">
+				He drove 
+				<crossref let="f" cid="c19078055.109">
+				</crossref>
+				out nations, 
+				<crossref let="g" cid="c19078055.110">
+				</crossref>
+				before them; he apportioned them for a possession and settled the tribes of Israel in their tents.
+			</v>
+			<marker class="begin-verse" mid="v19078056">
+			</marker>
+			<v n="56">
+				Yet they 
+				<crossref let="h" cid="c19078056.111">
+				</crossref>
+				tested and, 
+				<crossref let="i" cid="c19078056.112">
+				</crossref>
+				rebelled against the Most High God and did not keep his testimonies,
+			</v>
+			<marker class="begin-verse" mid="v19078057">
+			</marker>
+			<v n="57">
+				but turned 
+				<crossref let="j" cid="c19078057.113">
+				</crossref>
+				away and, 
+				<crossref let="k" cid="c19078057.114">
+				</crossref>
+				acted treacherously like their fathers; they twisted like a deceitful bow.
+				<note nid="n19078057.57">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078058">
+			</marker>
+			<v n="58">
+				For they 
+				<crossref let="l" cid="c19078058.115">
+				</crossref>
+				provoked him, 
+				<crossref let="m" cid="c19078058.116">
+				</crossref>
+				to anger with their high places; they moved him to jealousy with their idols.
+			</v>
+			<marker class="begin-verse" mid="v19078059">
+			</marker>
+			<v n="59">
+				When God 
+				<crossref let="n" cid="c19078059.117">
+				</crossref>
+				heard, he, 
+				<crossref let="o" cid="c19078059.118">
+				</crossref>
+				was full of wrath, and he utterly rejected Israel.
+			</v>
+			<marker class="begin-verse" mid="v19078060">
+			</marker>
+			<v n="60">
+				He forsook 
+				<crossref let="p" cid="c19078060.119">
+				</crossref>
+				his dwelling, 
+				<crossref let="q" cid="c19078060.120">
+				</crossref>
+				at Shiloh, the tent where he dwelt among mankind,
+				<note nid="n19078060.60">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078061">
+			</marker>
+			<v n="61">
+				and delivered 
+				<crossref let="r" cid="c19078061.121">
+				</crossref>
+				his power, 
+				<crossref let="s" cid="c19078061.122">
+				</crossref>
+				to captivity, his glory to the hand of the foe.
+			</v>
+			<marker class="begin-verse" mid="v19078062">
+			</marker>
+			<v n="62">
+				He gave 
+				<crossref let="t" cid="c19078062.123">
+				</crossref>
+				his people, 
+				<crossref let="u" cid="c19078062.124">
+				</crossref>
+				over to the sword and vented his wrath on his heritage.
+			</v>
+			<marker class="begin-verse" mid="v19078063">
+			</marker>
+			<v n="63">
+				Fire devoured 
+				<crossref let="v" cid="c19078063.125">
+				</crossref>
+				their young, 
+				<crossref let="w" cid="c19078063.126">
+				</crossref>
+				men, and their young women had no marriage song.
+				<note nid="n19078063.63">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078064">
+			</marker>
+			<v n="64">
+				Their priests 
+				<crossref let="x" cid="c19078064.127">
+				</crossref>
+				fell by, 
+				<crossref let="y" cid="c19078064.128">
+				</crossref>
+				the sword, and their widows made no lamentation.
+			</v>
+			<marker class="begin-verse" mid="v19078065">
+			</marker>
+			<v n="65">
+				Then the 
+				<crossref let="z" cid="c19078065.129">
+				</crossref>
+				Lord awoke, 
+				<crossref let="a" cid="c19078065.130">
+				</crossref>
+				as from sleep, like a strong man shouting because of wine.
+			</v>
+			<marker class="begin-verse" mid="v19078066">
+			</marker>
+			<v n="66">
+				And he 
+				<crossref let="b" cid="c19078066.131">
+				</crossref>
+				put his, 
+				<crossref let="c" cid="c19078066.132">
+				</crossref>
+				adversaries to rout; he put them to everlasting shame.
+				<note nid="n19078066.66">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078067">
+			</marker>
+			<v n="67">
+				He rejected 
+				<crossref let="d" cid="c19078067.133">
+				</crossref>
+				the tent, 
+				<crossref let="e" cid="c19078067.134">
+				</crossref>
+				of Joseph; he did not choose the tribe of Ephraim,
+			</v>
+			<marker class="begin-verse" mid="v19078068">
+			</marker>
+			<v n="68">
+				but he 
+				<crossref let="f" cid="c19078068.135">
+				</crossref>
+				chose the, 
+				<crossref let="g" cid="c19078068.136">
+				</crossref>
+				tribe of Judah, Mount Zion, which he loves.
+			</v>
+			<marker class="begin-verse" mid="v19078069">
+			</marker>
+			<v n="69">
+				He built 
+				<crossref let="h" cid="c19078069.137">
+				</crossref>
+				his sanctuary, 
+				<crossref let="i" cid="c19078069.138">
+				</crossref>
+				like the high heavens, like the earth, which he has founded forever.
+				<note nid="n19078069.69">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078070">
+			</marker>
+			<v n="70">
+				He chose 
+				<crossref let="j" cid="c19078070.139">
+				</crossref>
+				David his, 
+				<crossref let="k" cid="c19078070.140">
+				</crossref>
+				servant and took him from the sheepfolds;
+			</v>
+			<marker class="begin-verse" mid="v19078071">
+			</marker>
+			<v n="71">
+				from following 
+				<crossref let="l" cid="c19078071.141">
+				</crossref>
+				the nursing, 
+				<crossref let="m" cid="c19078071.142">
+				</crossref>
+				ewes he brought him to shepherd Jacob his people, Israel his inheritance.
+			</v>
+			<marker class="begin-verse" mid="v19078072">
+			</marker>
+			<v n="72">
+				With upright 
+				<crossref let="n" cid="c19078072.143">
+				</crossref>
+				heart he, 
+				<crossref let="o" cid="c19078072.144">
+				</crossref>
+				shepherded them and guided them with his skillful hand. Footnotes (1) 78:1 Probably a musical or liturgical term (2) 78:9 Hebrew *armed and shooting* (3) 78:33 Hebrew *in* (4) 78:33 Or *vapor* (5) 78:42 Hebrew *hand* (ESV)
+				<note nid="n19078072.72">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19078073">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,538 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:15.435546</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:15.435555</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40010001">
+		</marker>
+		<chapter num="10">
+			<heading>
+				Matthew 10
+			</heading>
+			<heading>
+				The Twelve Apostles
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				And he 
+				<crossref let="b" cid="c40010001.1">
+				</crossref>
+				called to, 
+				<crossref let="c" cid="c40010001.2">
+				</crossref>
+				him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction.
+			</v>
+			<marker class="begin-verse" mid="v40010002">
+			</marker>
+			<v n="2">
+				The names 
+				<crossref let="d" cid="c40010002.3">
+				</crossref>
+				of the, 
+				<crossref let="e" cid="c40010002.4">
+				</crossref>
+				twelve apostles are these: first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;
+			</v>
+			<marker class="begin-verse" mid="v40010003">
+			</marker>
+			<v n="3">
+				Philip and 
+				<crossref let="f" cid="c40010003.5">
+				</crossref>
+				Bartholomew; Thomas, 
+				<crossref let="g" cid="c40010003.6">
+				</crossref>
+				and Matthew the tax collector; James the son of Alphaeus, and Thaddaeus;(1)
+				<note nid="n40010003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010004">
+			</marker>
+			<v n="4">
+				Simon the 
+				<crossref let="h" cid="c40010004.7">
+				</crossref>
+				Zealot,(2) and, 
+				<crossref let="i" cid="c40010004.8">
+				</crossref>
+				Judas Iscariot, who betrayed him. Jesus Sends Out the Twelve Apostles
+			</v>
+			<marker class="begin-verse" mid="v40010005">
+			</marker>
+			<v n="5">
+				These twelve 
+				<crossref let="j" cid="c40010005.9">
+				</crossref>
+				Jesus sent, 
+				<crossref let="k" cid="c40010005.10">
+				</crossref>
+				out, instructing them, “Go nowhere among the Gentiles and enter no town of the Samaritans,
+			</v>
+			<marker class="begin-verse" mid="v40010006">
+			</marker>
+			<v n="6">
+				but go 
+				<crossref let="l" cid="c40010006.11">
+				</crossref>
+				rather to, 
+				<crossref let="m" cid="c40010006.12">
+				</crossref>
+				the lost sheep of the house of Israel.
+				<note nid="n40010006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010007">
+			</marker>
+			<v n="7">
+				And proclaim 
+				<crossref let="n" cid="c40010007.13">
+				</crossref>
+				as you, 
+				<crossref let="o" cid="c40010007.14">
+				</crossref>
+				go, saying, ‘The kingdom of heaven is at hand.’(3)
+			</v>
+			<marker class="begin-verse" mid="v40010008">
+			</marker>
+			<v n="8">
+				Heal the 
+				<crossref let="p" cid="c40010008.15">
+				</crossref>
+				sick, raise, 
+				<crossref let="q" cid="c40010008.16">
+				</crossref>
+				the dead, cleanse lepers,(4) cast out demons. You received without paying; give without pay.
+			</v>
+			<marker class="begin-verse" mid="v40010009">
+			</marker>
+			<v n="9">
+				Acquire no 
+				<crossref let="r" cid="c40010009.17">
+				</crossref>
+				gold or, 
+				<crossref let="s" cid="c40010009.18">
+				</crossref>
+				silver or copper for your belts,
+				<note nid="n40010009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010010">
+			</marker>
+			<v n="10">
+				no bag 
+				<crossref let="t" cid="c40010010.19">
+				</crossref>
+				for your, 
+				<crossref let="u" cid="c40010010.20">
+				</crossref>
+				journey, or two tunics(5) or sandals or a staff, for the laborer deserves his food.
+			</v>
+			<marker class="begin-verse" mid="v40010011">
+			</marker>
+			<v n="11">
+				And whatever 
+				<crossref let="v" cid="c40010011.21">
+				</crossref>
+				town or, 
+				<crossref let="w" cid="c40010011.22">
+				</crossref>
+				village you enter, find out who is worthy in it and stay there until you depart.
+			</v>
+			<marker class="begin-verse" mid="v40010012">
+			</marker>
+			<v n="12">
+				As you 
+				<crossref let="x" cid="c40010012.23">
+				</crossref>
+				enter the, 
+				<crossref let="y" cid="c40010012.24">
+				</crossref>
+				house, greet it.
+				<note nid="n40010012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010013">
+			</marker>
+			<v n="13">
+				And if 
+				<crossref let="z" cid="c40010013.25">
+				</crossref>
+				the house, 
+				<crossref let="a" cid="c40010013.26">
+				</crossref>
+				is worthy, let your peace come upon it, but if it is not worthy, let your peace return to you.
+			</v>
+			<marker class="begin-verse" mid="v40010014">
+			</marker>
+			<v n="14">
+				And if 
+				<crossref let="b" cid="c40010014.27">
+				</crossref>
+				anyone will, 
+				<crossref let="c" cid="c40010014.28">
+				</crossref>
+				not receive you or listen to your words, shake off the dust from your feet when you leave that house or town.
+			</v>
+			<marker class="begin-verse" mid="v40010015">
+			</marker>
+			<v n="15" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, I 
+					<crossref let="d" cid="c40010015.29">
+				</crossref>
+					say to, 
+					<crossref let="e" cid="c40010015.30">
+				</crossref>
+				you, it will be more bearable on the day of judgment for the land of Sodom and Gomorrah than for that town. Persecution Will Come
+					<note nid="n40010015.15">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010016">
+			</marker>
+			<v n="16">
+				“Behold, I 
+				<crossref let="f" cid="c40010016.31">
+				</crossref>
+				am sending, 
+				<crossref let="g" cid="c40010016.32">
+				</crossref>
+				you out as sheep in the midst of wolves, so be wise as serpents and innocent as doves.
+			</v>
+			<marker class="begin-verse" mid="v40010017">
+			</marker>
+			<v n="17">
+				Beware of 
+				<crossref let="h" cid="c40010017.33">
+				</crossref>
+				men, for, 
+				<crossref let="i" cid="c40010017.34">
+				</crossref>
+				they will deliver you over to courts and flog you in their synagogues,
+			</v>
+			<marker class="begin-verse" mid="v40010018">
+			</marker>
+			<v n="18">
+				and you 
+				<crossref let="j" cid="c40010018.35">
+				</crossref>
+				will be, 
+				<crossref let="k" cid="c40010018.36">
+				</crossref>
+				dragged before governors and kings for my sake, to bear witness before them and the Gentiles.
+				<note nid="n40010018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010019">
+			</marker>
+			<v n="19">
+				When they 
+				<crossref let="l" cid="c40010019.37">
+				</crossref>
+				deliver you, 
+				<crossref let="m" cid="c40010019.38">
+				</crossref>
+				over, do not be anxious how you are to speak or what you are to say, for what you are to say will be given to you in that hour.
+			</v>
+			<marker class="begin-verse" mid="v40010020">
+			</marker>
+			<v n="20">
+				For it 
+				<crossref let="n" cid="c40010020.39">
+				</crossref>
+				is not, 
+				<crossref let="o" cid="c40010020.40">
+				</crossref>
+				you who speak, but the Spirit of your Father speaking through you.
+			</v>
+			<marker class="begin-verse" mid="v40010021">
+			</marker>
+			<v n="21">
+				Brother will 
+				<crossref let="p" cid="c40010021.41">
+				</crossref>
+				deliver brother, 
+				<crossref let="q" cid="c40010021.42">
+				</crossref>
+				over to death, and the father his child, and children will rise against parents and have them put to death,
+				<note nid="n40010021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010022">
+			</marker>
+			<v n="22">
+				and you 
+				<crossref let="r" cid="c40010022.43">
+				</crossref>
+				will be, 
+				<crossref let="s" cid="c40010022.44">
+				</crossref>
+				hated by all for my name’s sake. But the one who endures to the end will be saved.
+			</v>
+			<marker class="begin-verse" mid="v40010023">
+			</marker>
+			<v n="23" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					When they 
+					<crossref let="t" cid="c40010023.45">
+				</crossref>
+					persecute you, 
+					<crossref let="u" cid="c40010023.46">
+				</crossref>
+				in one town, flee to the next, for truly, I say to you, you will not have gone through all the towns of Israel before the Son of Man comes.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010024">
+			</marker>
+			<v n="24">
+				“A disciple 
+				<crossref let="v" cid="c40010024.47">
+				</crossref>
+				is not, 
+				<crossref let="w" cid="c40010024.48">
+				</crossref>
+				above his teacher, nor a servant(6) above his master.
+				<note nid="n40010024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010025">
+			</marker>
+			<v n="25">
+				It is 
+				<crossref let="x" cid="c40010025.49">
+				</crossref>
+				enough for, 
+				<crossref let="y" cid="c40010025.50">
+				</crossref>
+				the disciple to be like his teacher, and the servant like his master. If they have called the master of the house Beelzebul, how much more will they malign(7) those of his household. Have No Fear
+			</v>
+			<marker class="begin-verse" mid="v40010026">
+			</marker>
+			<v n="26">
+				“So have 
+				<crossref let="z" cid="c40010026.51">
+				</crossref>
+				no fear, 
+				<crossref let="a" cid="c40010026.52">
+				</crossref>
+				of them, for nothing is covered that will not be revealed, or hidden that will not be known.
+			</v>
+			<marker class="begin-verse" mid="v40010027">
+			</marker>
+			<v n="27">
+				What I 
+				<crossref let="b" cid="c40010027.53">
+				</crossref>
+				tell you, 
+				<crossref let="c" cid="c40010027.54">
+				</crossref>
+				in the dark, say in the light, and what you hear whispered, proclaim on the housetops.
+				<note nid="n40010027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010028">
+			</marker>
+			<v n="28">
+				And do 
+				<crossref let="d" cid="c40010028.55">
+				</crossref>
+				not fear, 
+				<crossref let="e" cid="c40010028.56">
+				</crossref>
+				those who kill the body but cannot kill the soul. Rather fear him who can destroy both soul and body in hell.(8)
+			</v>
+			<marker class="begin-verse" mid="v40010029">
+			</marker>
+			<v n="29">
+				Are not 
+				<crossref let="f" cid="c40010029.57">
+				</crossref>
+				two sparrows, 
+				<crossref let="g" cid="c40010029.58">
+				</crossref>
+				sold for a penny?(9) And not one of them will fall to the ground apart from your Father.
+			</v>
+			<marker class="begin-verse" mid="v40010030">
+			</marker>
+			<v n="30">
+				But even 
+				<crossref let="h" cid="c40010030.59">
+				</crossref>
+				the hairs, 
+				<crossref let="i" cid="c40010030.60">
+				</crossref>
+				of your head are all numbered.
+				<note nid="n40010030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010031">
+			</marker>
+			<v n="31">
+				Fear not, 
+				<crossref let="j" cid="c40010031.61">
+				</crossref>
+				therefore; you, 
+				<crossref let="k" cid="c40010031.62">
+				</crossref>
+				are of more value than many sparrows.
+			</v>
+			<marker class="begin-verse" mid="v40010032">
+			</marker>
+			<v n="32">
+				So everyone 
+				<crossref let="l" cid="c40010032.63">
+				</crossref>
+				who acknowledges, 
+				<crossref let="m" cid="c40010032.64">
+				</crossref>
+				me before men, I also will acknowledge before my Father who is in heaven,
+			</v>
+			<marker class="begin-verse" mid="v40010033">
+			</marker>
+			<v n="33">
+				but whoever 
+				<crossref let="n" cid="c40010033.65">
+				</crossref>
+				denies me, 
+				<crossref let="o" cid="c40010033.66">
+				</crossref>
+				before men, I also will deny before my Father who is in heaven. Not Peace, but a Sword
+				<note nid="n40010033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010034">
+			</marker>
+			<v n="34">
+				“Do not 
+				<crossref let="p" cid="c40010034.67">
+				</crossref>
+				think that, 
+				<crossref let="q" cid="c40010034.68">
+				</crossref>
+				I have come to bring peace to the earth. I have not come to bring peace, but a sword.
+			</v>
+			<marker class="begin-verse" mid="v40010035">
+			</marker>
+			<v n="35">
+				For I 
+				<crossref let="r" cid="c40010035.69">
+				</crossref>
+				have come, 
+				<crossref let="s" cid="c40010035.70">
+				</crossref>
+				to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.
+			</v>
+			<marker class="begin-verse" mid="v40010036">
+			</marker>
+			<v n="36">
+				And a 
+				<crossref let="t" cid="c40010036.71">
+				</crossref>
+				person’s enemies, 
+				<crossref let="u" cid="c40010036.72">
+				</crossref>
+				will be those of his own household.
+				<note nid="n40010036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010037">
+			</marker>
+			<v n="37">
+				Whoever loves 
+				<crossref let="v" cid="c40010037.73">
+				</crossref>
+				father or, 
+				<crossref let="w" cid="c40010037.74">
+				</crossref>
+				mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me.
+			</v>
+			<marker class="begin-verse" mid="v40010038">
+			</marker>
+			<v n="38">
+				And whoever 
+				<crossref let="x" cid="c40010038.75">
+				</crossref>
+				does not, 
+				<crossref let="y" cid="c40010038.76">
+				</crossref>
+				take his cross and follow me is not worthy of me.
+			</v>
+			<marker class="begin-verse" mid="v40010039">
+			</marker>
+			<v n="39">
+				Whoever finds 
+				<crossref let="z" cid="c40010039.77">
+				</crossref>
+				his life, 
+				<crossref let="a" cid="c40010039.78">
+				</crossref>
+				will lose it, and whoever loses his life for my sake will find it. Rewards
+				<note nid="n40010039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40010040">
+			</marker>
+			<v n="40">
+				“Whoever receives 
+				<crossref let="b" cid="c40010040.79">
+				</crossref>
+				you receives, 
+				<crossref let="c" cid="c40010040.80">
+				</crossref>
+				me, and whoever receives me receives him who sent me.
+			</v>
+			<marker class="begin-verse" mid="v40010041">
+			</marker>
+			<v n="41">
+				The one 
+				<crossref let="d" cid="c40010041.81">
+				</crossref>
+				who receives, 
+				<crossref let="e" cid="c40010041.82">
+				</crossref>
+				a prophet because he is a prophet will receive a prophet’s reward, and the one who receives a righteous person because he is a righteous person will receive a righteous person’s reward.
+			</v>
+			<marker class="begin-verse" mid="v40010042">
+			</marker>
+			<v n="42" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And whoever 
+					<crossref let="f" cid="c40010042.83">
+				</crossref>
+					gives one, 
+					<crossref let="g" cid="c40010042.84">
+				</crossref>
+				of these little ones even a cup of cold water because he is a disciple, truly, I say to you, he will by no means lose his reward.” Footnotes (1) 10:3 Some manuscripts *Lebbaeus*, or *Lebbaeus called Thaddaeus* (2) 10:4 Greek *kananaios*, meaning *zealot* (3) 10:7 Or *The kingdom of heaven has come near* (4) 10:8 *Leprosy* was a term for several skin diseases; see Leviticus 13 (5) 10:10 Greek *chiton*, a long garment worn under the cloak next to the skin (6) 10:24 Or *bondservant*; also verse 25 (7) 10:25 Greek lacks *will they malign* (8) 10:28 Greek *Gehenna* (9) 10:29 Greek *assarion*, Roman copper coin worth about 1/16 of a *denarius* (which was a day’s wage for a laborer) (ESV)
+					<note nid="n40010042.42">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010043">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

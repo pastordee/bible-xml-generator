@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:49:02.619092</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:49:02.619099</next_refresh_due>
+	</generation_info>
+	<book title="1 John" num="62" testament="new" version="NLT" bookAbbr="1jn">
+		<marker class="begin-verse" mid="v62001001"/>
+		<chapter num="1">
+			<heading>Introduction</heading>
+			<begin-paragraph/>
+			<v n="1">
+				We proclaim 
+				<crossref let="b" cid="c620011.1"/>
+				 to you the one who existed from the beginning, whom we have heard and seen. We saw him with our own eyes and touched him with our own hands. He is the Word of life.
+			</v>
+			<marker class="begin-verse" mid="v62001002"/>
+			<v n="2">
+				This one 
+				<crossref let="c" cid="c620012.1"/>
+				 who is life itself was revealed to us, and we have seen him. And now we testify and proclaim to you that he is the one who is eternal life. He was with the Father, and then he was revealed to us.
+			</v>
+			<marker class="begin-verse" mid="v62001003"/>
+			<v n="3">
+				We proclaim 
+				<crossref let="d" cid="c620013.1"/>
+				 to you what we ourselves have actually seen and heard so that you may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v62001004"/>
+			<v n="4">
+				We are 
+				<crossref let="e" cid="c620014.1"/>
+				 writing these things so that you may fully share our joy.Living in the Light
+			</v>
+			<marker class="begin-verse" mid="v62001005"/>
+			<v n="5">
+				This is 
+				<crossref let="f" cid="c620015.1"/>
+				 the message we heard from Jesus and now declare to you: God is light, and there is no darkness in him at all.
+			</v>
+			<marker class="begin-verse" mid="v62001006"/>
+			<v n="6">
+				So we 
+				<crossref let="g" cid="c620016.1"/>
+				 are lying if we say we have fellowship with God but go on living in spiritual darkness; we are not practicing the truth.
+			</v>
+			<marker class="begin-verse" mid="v62001007"/>
+			<v n="7">
+				But if 
+				<crossref let="h" cid="c620017.1"/>
+				 we are living in the light, as God is in the light, then we have fellowship with each other, and the blood of Jesus, his Son, cleanses us from all sin.
+			</v>
+			<marker class="begin-verse" mid="v62001008"/>
+			<v n="8">
+				If we 
+				<crossref let="i" cid="c620018.1"/>
+				 claim we have no sin, we are only fooling ourselves and not living in the truth.
+			</v>
+			<marker class="begin-verse" mid="v62001009"/>
+			<v n="9">
+				But if 
+				<crossref let="j" cid="c620019.1"/>
+				 we confess our sins to him, he is faithful and just to forgive us our sins and to cleanse us from all wickedness.
+			</v>
+			<marker class="begin-verse" mid="v62001010"/>
+			<v n="10">
+				If we 
+				<crossref let="k" cid="c6200110.1"/>
+				 claim we have not sinned, we are calling God a liar and showing that his word has no place in our hearts.
+			</v>
+			<marker class="begin-verse" mid="v62001011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

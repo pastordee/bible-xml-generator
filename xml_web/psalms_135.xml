@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:53:38.578180</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:53:38.578199</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19135001"/>
+		<chapter num="135">
+			<begin-paragraph/>
+			<v n="1">
+				Praise Yah!Praise 
+				<crossref let="b" cid="c191351.1"/>
+				 Yahweh’s name!Praise him, you servants of Yahweh,
+			</v>
+			<marker class="begin-verse" mid="v19135002"/>
+			<v n="2">
+				you who 
+				<crossref let="c" cid="c191352.1"/>
+				 stand in Yahweh’s house,in the courts of our God’s house.
+			</v>
+			<marker class="begin-verse" mid="v19135003"/>
+			<v n="3">
+				Praise Yah, 
+				<crossref let="d" cid="c191353.1"/>
+				 for Yahweh is good.Sing praises to his name, for that is pleasant.
+			</v>
+			<marker class="begin-verse" mid="v19135004"/>
+			<v n="4">
+				For Yah 
+				<crossref let="e" cid="c191354.1"/>
+				 has chosen Jacob for himself,Israel for his own possession.
+			</v>
+			<marker class="begin-verse" mid="v19135005"/>
+			<v n="5">
+				For I 
+				<crossref let="f" cid="c191355.1"/>
+				 know that Yahweh is great,that our Lord is above all gods.
+			</v>
+			<marker class="begin-verse" mid="v19135006"/>
+			<v n="6">
+				Whatever Yahweh 
+				<crossref let="g" cid="c191356.1"/>
+				 pleased, that he has done,in heaven and in earth, in the seas and in all deeps.
+			</v>
+			<marker class="begin-verse" mid="v19135007"/>
+			<v n="7">
+				He causes 
+				<crossref let="h" cid="c191357.1"/>
+				 the clouds to rise from the ends of the earth.He makes lightnings with the rain.He brings the wind out of his treasuries.
+			</v>
+			<marker class="begin-verse" mid="v19135008"/>
+			<v n="8">
+				He struck 
+				<crossref let="i" cid="c191358.1"/>
+				 the firstborn of Egypt,both of man and animal.
+			</v>
+			<marker class="begin-verse" mid="v19135009"/>
+			<v n="9">
+				He sent 
+				<crossref let="j" cid="c191359.1"/>
+				 signs and wonders into the middle of you, Egypt,on Pharaoh, and on all his servants.
+			</v>
+			<marker class="begin-verse" mid="v19135010"/>
+			<v n="10">
+				He struck 
+				<crossref let="k" cid="c1913510.1"/>
+				 many nations,and killed mighty kings—
+			</v>
+			<marker class="begin-verse" mid="v19135011"/>
+			<v n="11">
+				Sihon king 
+				<crossref let="l" cid="c1913511.1"/>
+				 of the Amorites,Og king of Bashan,and all the kingdoms of Canaan—
+			</v>
+			<marker class="begin-verse" mid="v19135012"/>
+			<v n="12">
+				and gave 
+				<crossref let="m" cid="c1913512.1"/>
+				 their land for a heritage,a heritage to Israel, his people.
+			</v>
+			<marker class="begin-verse" mid="v19135013"/>
+			<v n="13">
+				Your name, 
+				<crossref let="n" cid="c1913513.1"/>
+				 Yahweh, endures forever;your renown, Yahweh, throughout all generations.
+			</v>
+			<marker class="begin-verse" mid="v19135014"/>
+			<v n="14">
+				For Yahweh 
+				<crossref let="o" cid="c1913514.1"/>
+				 will judge his peopleand have compassion on his servants.
+			</v>
+			<marker class="begin-verse" mid="v19135015"/>
+			<v n="15">
+				The idols 
+				<crossref let="p" cid="c1913515.1"/>
+				 of the nations are silver and gold,the work of men’s hands.
+			</v>
+			<marker class="begin-verse" mid="v19135016"/>
+			<v n="16">
+				They have 
+				<crossref let="q" cid="c1913516.1"/>
+				 mouths, but they can’t speak.They have eyes, but they can’t see.
+			</v>
+			<marker class="begin-verse" mid="v19135017"/>
+			<v n="17">
+				They have 
+				<crossref let="r" cid="c1913517.1"/>
+				 ears, but they can’t hear,neither is there any breath in their mouths.
+			</v>
+			<marker class="begin-verse" mid="v19135018"/>
+			<v n="18">
+				Those who 
+				<crossref let="s" cid="c1913518.1"/>
+				 make them will be like them,yes, everyone who trusts in them.
+			</v>
+			<marker class="begin-verse" mid="v19135019"/>
+			<v n="19">
+				House of 
+				<crossref let="t" cid="c1913519.1"/>
+				 Israel, praise Yahweh!House of Aaron, praise Yahweh!
+			</v>
+			<marker class="begin-verse" mid="v19135020"/>
+			<v n="20">
+				House of 
+				<crossref let="u" cid="c1913520.1"/>
+				 Levi, praise Yahweh!You who fear Yahweh, praise Yahweh!
+			</v>
+			<marker class="begin-verse" mid="v19135021"/>
+			<v n="21">
+				Blessed be 
+				<crossref let="v" cid="c1913521.1"/>
+				 Yahweh from Zion,who dwells in Jerusalem.Praise Yah!
+			</v>
+			<marker class="begin-verse" mid="v19135022"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

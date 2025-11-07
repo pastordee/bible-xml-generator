@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:03.475897</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:03.475907</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19084001">
+		</marker>
+		<chapter num="84">
+			<heading>
+				Psalm 84
+			</heading>
+			<heading>
+				My Soul Longs for the Courts of the LORD
+			</heading>
+			<heading>
+				To the choirmaster: according to The Gittith.(1) A Psalm of the Sons of Korah.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				How lovely 
+				<crossref let="b" cid="c19084001.1">
+				</crossref>
+				is your, 
+				<crossref let="c" cid="c19084001.2">
+				</crossref>
+				dwelling place, O LORD of hosts!
+			</v>
+			<marker class="begin-verse" mid="v19084002">
+			</marker>
+			<v n="2">
+				My soul 
+				<crossref let="d" cid="c19084002.3">
+				</crossref>
+				longs, yes,, 
+				<crossref let="e" cid="c19084002.4">
+				</crossref>
+				faints for the courts of the LORD; my heart and flesh sing for joy to the living God.
+			</v>
+			<marker class="begin-verse" mid="v19084003">
+			</marker>
+			<v n="3">
+				Even the 
+				<crossref let="f" cid="c19084003.5">
+				</crossref>
+				sparrow finds, 
+				<crossref let="g" cid="c19084003.6">
+				</crossref>
+				a home, and the swallow a nest for herself, where she may lay her young, at your altars, O LORD of hosts, my King and my God.
+				<note nid="n19084003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19084004">
+			</marker>
+			<v n="4">
+				Blessed are 
+				<crossref let="h" cid="c19084004.7">
+				</crossref>
+				those who, 
+				<crossref let="i" cid="c19084004.8">
+				</crossref>
+				dwell in your house, ever singing your praise! Selah
+			</v>
+			<marker class="begin-verse" mid="v19084005">
+			</marker>
+			<v n="5">
+				Blessed are 
+				<crossref let="j" cid="c19084005.9">
+				</crossref>
+				those whose, 
+				<crossref let="k" cid="c19084005.10">
+				</crossref>
+				strength is in you, in whose heart are the highways to Zion.(2)
+			</v>
+			<marker class="begin-verse" mid="v19084006">
+			</marker>
+			<v n="6">
+				As they 
+				<crossref let="l" cid="c19084006.11">
+				</crossref>
+				go through, 
+				<crossref let="m" cid="c19084006.12">
+				</crossref>
+				the Valley of Baca they make it a place of springs; the early rain also covers it with pools.
+				<note nid="n19084006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19084007">
+			</marker>
+			<v n="7">
+				They go 
+				<crossref let="n" cid="c19084007.13">
+				</crossref>
+				from strength, 
+				<crossref let="o" cid="c19084007.14">
+				</crossref>
+				to strength; each one appears before God in Zion.
+			</v>
+			<marker class="begin-verse" mid="v19084008">
+			</marker>
+			<v n="8">
+				O LORD 
+				<crossref let="p" cid="c19084008.15">
+				</crossref>
+				God of, 
+				<crossref let="q" cid="c19084008.16">
+				</crossref>
+				hosts, hear my prayer; give ear, O God of Jacob! Selah
+			</v>
+			<marker class="begin-verse" mid="v19084009">
+			</marker>
+			<v n="9">
+				Behold our 
+				<crossref let="r" cid="c19084009.17">
+				</crossref>
+				shield, O, 
+				<crossref let="s" cid="c19084009.18">
+				</crossref>
+				God; look on the face of your anointed!
+				<note nid="n19084009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19084010">
+			</marker>
+			<v n="10">
+				For a 
+				<crossref let="t" cid="c19084010.19">
+				</crossref>
+				day in, 
+				<crossref let="u" cid="c19084010.20">
+				</crossref>
+				your courts is better than a thousand elsewhere. I would rather be a doorkeeper in the house of my God than dwell in the tents of wickedness.
+			</v>
+			<marker class="begin-verse" mid="v19084011">
+			</marker>
+			<v n="11">
+				For the 
+				<crossref let="v" cid="c19084011.21">
+				</crossref>
+				LORD God, 
+				<crossref let="w" cid="c19084011.22">
+				</crossref>
+				is a sun and shield; the LORD bestows favor and honor. No good thing does he withhold from those who walk uprightly.
+			</v>
+			<marker class="begin-verse" mid="v19084012">
+			</marker>
+			<v n="12">
+				O LORD 
+				<crossref let="x" cid="c19084012.23">
+				</crossref>
+				of hosts,, 
+				<crossref let="y" cid="c19084012.24">
+				</crossref>
+				blessed is the one who trusts in you! Footnotes (1) 84:1 Probably a musical or liturgical term (2) 84:5 Hebrew lacks *to Zion* (ESV)
+				<note nid="n19084012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19084013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

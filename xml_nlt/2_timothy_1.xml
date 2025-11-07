@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:47:42.519271</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:47:42.519280</next_refresh_due>
+	</generation_info>
+	<book title="2 Timothy" num="55" testament="new" version="NLT" bookAbbr="2ti">
+		<marker class="begin-verse" mid="v55001001"/>
+		<chapter num="1">
+			<heading>Greetings from Paul</heading>
+			<begin-paragraph/>
+			<v n="1">
+				This letter 
+				<crossref let="b" cid="c550011.1"/>
+				 is from Paul, chosen by the will of God to be an apostle of Christ Jesus. I have been sent out to tell others about the life he has promised through faith in Christ Jesus.
+			</v>
+			<marker class="begin-verse" mid="v55001002"/>
+			<v n="2">
+				I am 
+				<crossref let="c" cid="c550012.1"/>
+				 writing to Timothy, my dear son.May God the Father and Christ Jesus our Lord give you grace, mercy, and peace.Encouragement to Be Faithful
+			</v>
+			<marker class="begin-verse" mid="v55001003"/>
+			<v n="3">
+				Timothy, I 
+				<crossref let="d" cid="c550013.1"/>
+				 thank God for you—the God I serve with a clear conscience, just as my ancestors did. Night and day I constantly remember you in my prayers.
+			</v>
+			<marker class="begin-verse" mid="v55001004"/>
+			<v n="4">
+				I long 
+				<crossref let="e" cid="c550014.1"/>
+				 to see you again, for I remember your tears as we parted. And I will be filled with joy when we are together again.
+			</v>
+			<marker class="begin-verse" mid="v55001005"/>
+			<v n="5">
+				I remember 
+				<crossref let="f" cid="c550015.1"/>
+				 your genuine faith, for you share the faith that first filled your grandmother Lois and your mother, Eunice. And I know that same faith continues strong in you.
+			</v>
+			<marker class="begin-verse" mid="v55001006"/>
+			<v n="6">
+				This is 
+				<crossref let="g" cid="c550016.1"/>
+				 why I remind you to fan into flames the spiritual gift God gave you when I laid my hands on you.
+			</v>
+			<marker class="begin-verse" mid="v55001007"/>
+			<v n="7">
+				For God 
+				<crossref let="h" cid="c550017.1"/>
+				 has not given us a spirit of fear and timidity, but of power, love, and self-discipline.
+			</v>
+			<marker class="begin-verse" mid="v55001008"/>
+			<v n="8">
+				So never 
+				<crossref let="i" cid="c550018.1"/>
+				 be ashamed to tell others about our Lord. And don’t be ashamed of me, either, even though I’m in prison for him. With the strength God gives you, be ready to suffer with me for the sake of the Good News.
+			</v>
+			<marker class="begin-verse" mid="v55001009"/>
+			<v n="9">
+				For God 
+				<crossref let="j" cid="c550019.1"/>
+				 saved us and called us to live a holy life. He did this, not because we deserved it, but because that was his plan from before the beginning of time—to show us his grace through Christ Jesus.
+			</v>
+			<marker class="begin-verse" mid="v55001010"/>
+			<v n="10">
+				And now 
+				<crossref let="k" cid="c5500110.1"/>
+				 he has made all of this plain to us by the appearing of Christ Jesus, our Savior. He broke the power of death and illuminated the way to life and immortality through the Good News.
+			</v>
+			<marker class="begin-verse" mid="v55001011"/>
+			<v n="11">
+				And God 
+				<crossref let="l" cid="c5500111.1"/>
+				 chose me to be a preacher, an apostle, and a teacher of this Good News.
+			</v>
+			<marker class="begin-verse" mid="v55001012"/>
+			<v n="12">
+				That is 
+				<crossref let="m" cid="c5500112.1"/>
+				 why I am suffering here in prison. But I am not ashamed of it, for I know the one in whom I trust, and I am sure that he is able to guard what I have entrusted to him until the day of his return.
+			</v>
+			<marker class="begin-verse" mid="v55001013"/>
+			<v n="13">
+				Hold on 
+				<crossref let="n" cid="c5500113.1"/>
+				 to the pattern of wholesome teaching you learned from me—a pattern shaped by the faith and love that you have in Christ Jesus.
+			</v>
+			<marker class="begin-verse" mid="v55001014"/>
+			<v n="14">
+				Through the 
+				<crossref let="o" cid="c5500114.1"/>
+				 power of the Holy Spirit who lives within us, carefully guard the precious truth that has been entrusted to you.
+			</v>
+			<marker class="begin-verse" mid="v55001015"/>
+			<v n="15">
+				As you 
+				<crossref let="p" cid="c5500115.1"/>
+				 know, everyone from the province of Asia has deserted me—even Phygelus and Hermogenes.
+			</v>
+			<marker class="begin-verse" mid="v55001016"/>
+			<v n="16">
+				May the 
+				<crossref let="q" cid="c5500116.1"/>
+				 Lord show special kindness to Onesiphorus and all his family because he often visited and encouraged me. He was never ashamed of me because I was in chains.
+			</v>
+			<marker class="begin-verse" mid="v55001017"/>
+			<v n="17">
+				When he 
+				<crossref let="r" cid="c5500117.1"/>
+				 came to Rome, he searched everywhere until he found me.
+			</v>
+			<marker class="begin-verse" mid="v55001018"/>
+			<v n="18">
+				May the 
+				<crossref let="s" cid="c5500118.1"/>
+				 Lord show him special kindness on the day of Christ’s return. And you know very well how helpful he was in Ephesus.
+			</v>
+			<marker class="begin-verse" mid="v55001019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

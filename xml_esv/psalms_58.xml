@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:25.302492</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:25.302517</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19058001">
+		</marker>
+		<chapter num="58">
+			<heading>
+				Psalm 58
+			</heading>
+			<heading>
+				God Who Judges the Earth
+			</heading>
+			<heading>
+				To the choirmaster: according to Do Not Destroy. A Miktam(1) of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Do you 
+				<crossref let="b" cid="c19058001.1">
+				</crossref>
+				indeed decree, 
+				<crossref let="c" cid="c19058001.2">
+				</crossref>
+				what is right, you gods?(2) Do you judge the children of man uprightly?
+			</v>
+			<marker class="begin-verse" mid="v19058002">
+			</marker>
+			<v n="2">
+				No, in 
+				<crossref let="d" cid="c19058002.3">
+				</crossref>
+				your hearts, 
+				<crossref let="e" cid="c19058002.4">
+				</crossref>
+				you devise wrongs; your hands deal out violence on earth.
+			</v>
+			<marker class="begin-verse" mid="v19058003">
+			</marker>
+			<v n="3">
+				The wicked 
+				<crossref let="f" cid="c19058003.5">
+				</crossref>
+				are estranged, 
+				<crossref let="g" cid="c19058003.6">
+				</crossref>
+				from the womb; they go astray from birth, speaking lies.
+				<note nid="n19058003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19058004">
+			</marker>
+			<v n="4">
+				They have 
+				<crossref let="h" cid="c19058004.7">
+				</crossref>
+				venom like, 
+				<crossref let="i" cid="c19058004.8">
+				</crossref>
+				the venom of a serpent, like the deaf adder that stops its ear,
+			</v>
+			<marker class="begin-verse" mid="v19058005">
+			</marker>
+			<v n="5">
+				so that 
+				<crossref let="j" cid="c19058005.9">
+				</crossref>
+				it does, 
+				<crossref let="k" cid="c19058005.10">
+				</crossref>
+				not hear the voice of charmers or of the cunning enchanter.
+			</v>
+			<marker class="begin-verse" mid="v19058006">
+			</marker>
+			<v n="6">
+				O God, 
+				<crossref let="l" cid="c19058006.11">
+				</crossref>
+				break the, 
+				<crossref let="m" cid="c19058006.12">
+				</crossref>
+				teeth in their mouths; tear out the fangs of the young lions, O LORD!
+				<note nid="n19058006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19058007">
+			</marker>
+			<v n="7">
+				Let them 
+				<crossref let="n" cid="c19058007.13">
+				</crossref>
+				vanish like, 
+				<crossref let="o" cid="c19058007.14">
+				</crossref>
+				water that runs away; when he aims his arrows, let them be blunted.
+			</v>
+			<marker class="begin-verse" mid="v19058008">
+			</marker>
+			<v n="8">
+				Let them 
+				<crossref let="p" cid="c19058008.15">
+				</crossref>
+				be like, 
+				<crossref let="q" cid="c19058008.16">
+				</crossref>
+				the snail that dissolves into slime, like the stillborn child who never sees the sun.
+			</v>
+			<marker class="begin-verse" mid="v19058009">
+			</marker>
+			<v n="9">
+				Sooner than 
+				<crossref let="r" cid="c19058009.17">
+				</crossref>
+				your pots, 
+				<crossref let="s" cid="c19058009.18">
+				</crossref>
+				can feel the heat of thorns, whether green or ablaze, may he sweep them away!(3)
+				<note nid="n19058009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19058010">
+			</marker>
+			<v n="10">
+				The righteous 
+				<crossref let="t" cid="c19058010.19">
+				</crossref>
+				will rejoice, 
+				<crossref let="u" cid="c19058010.20">
+				</crossref>
+				when he sees the vengeance; he will bathe his feet in the blood of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19058011">
+			</marker>
+			<v n="11">
+				Mankind will 
+				<crossref let="v" cid="c19058011.21">
+				</crossref>
+				say, “Surely, 
+				<crossref let="w" cid="c19058011.22">
+				</crossref>
+				there is a reward for the righteous; surely there is a God who judges on earth.” Footnotes (1) 58:1 Probably a musical or liturgical term (2) 58:1 Or *you mighty lords* (by revocalization; Hebrew *in silence*) (3) 58:9 The meaning of the Hebrew verse is uncertain (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19058012">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

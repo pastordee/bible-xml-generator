@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:10:53.795811</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:10:53.795834</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="NLT" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40005001"/>
+		<chapter num="5">
+			<heading>The Sermon on the Mount</heading>
+			<begin-paragraph/>
+			<v n="1">
+				One day 
+				<crossref let="b" cid="c400051.1"/>
+				 as he saw the crowds gathering, Jesus went up on the mountainside and sat down. His disciples gathered around him,
+			</v>
+			<marker class="begin-verse" mid="v40005002"/>
+			<v n="2">
+				and he 
+				<crossref let="c" cid="c400052.1"/>
+				 began to teach them.The Beatitudes
+			</v>
+			<marker class="begin-verse" mid="v40005003"/>
+			<v n="3">
+				“God blesses 
+				<crossref let="d" cid="c400053.1"/>
+				 those who are poor and realize their need for him,for the Kingdom of Heaven is theirs.
+			</v>
+			<marker class="begin-verse" mid="v40005004"/>
+			<v n="4">
+				God blesses 
+				<crossref let="e" cid="c400054.1"/>
+				 those who mourn,for they will be comforted.
+			</v>
+			<marker class="begin-verse" mid="v40005005"/>
+			<v n="5">
+				God blesses 
+				<crossref let="f" cid="c400055.1"/>
+				 those who are humble,for they will inherit the whole earth.
+			</v>
+			<marker class="begin-verse" mid="v40005006"/>
+			<v n="6">
+				God blesses 
+				<crossref let="g" cid="c400056.1"/>
+				 those who hunger and thirst for justice,for they will be satisfied.
+			</v>
+			<marker class="begin-verse" mid="v40005007"/>
+			<v n="7">
+				God blesses 
+				<crossref let="h" cid="c400057.1"/>
+				 those who are merciful,for they will be shown mercy.
+			</v>
+			<marker class="begin-verse" mid="v40005008"/>
+			<v n="8">
+				God blesses 
+				<crossref let="i" cid="c400058.1"/>
+				 those whose hearts are pure,for they will see God.
+			</v>
+			<marker class="begin-verse" mid="v40005009"/>
+			<v n="9">
+				God blesses 
+				<crossref let="j" cid="c400059.1"/>
+				 those who work for peace,for they will be called the children of God.
+			</v>
+			<marker class="begin-verse" mid="v40005010"/>
+			<v n="10">
+				God blesses 
+				<crossref let="k" cid="c4000510.1"/>
+				 those who are persecuted for doing right,for the Kingdom of Heaven is theirs.
+			</v>
+			<marker class="begin-verse" mid="v40005011"/>
+			<v n="11">
+				“God blesses 
+				<crossref let="l" cid="c4000511.1"/>
+				 you when people mock you and persecute you and lie about you and say all sorts of evil things against you because you are my followers.
+			</v>
+			<marker class="begin-verse" mid="v40005012"/>
+			<v n="12">
+				Be happy 
+				<crossref let="m" cid="c4000512.1"/>
+				 about it! Be very glad! For a great reward awaits you in heaven. And remember, the ancient prophets were persecuted in the same way.Teaching about Salt and Light
+			</v>
+			<marker class="begin-verse" mid="v40005013"/>
+			<v n="13">
+				“You are 
+				<crossref let="n" cid="c4000513.1"/>
+				 the salt of the earth. But what good is salt if it has lost its flavor? Can you make it salty again? It will be thrown out and trampled underfoot as worthless.
+			</v>
+			<marker class="begin-verse" mid="v40005014"/>
+			<v n="14">
+				“You are 
+				<crossref let="o" cid="c4000514.1"/>
+				 the light of the world—like a city on a hilltop that cannot be hidden.
+			</v>
+			<marker class="begin-verse" mid="v40005015"/>
+			<v n="15">
+				No one 
+				<crossref let="p" cid="c4000515.1"/>
+				 lights a lamp and then puts it under a basket. Instead, a lamp is placed on a stand, where it gives light to everyone in the house.
+			</v>
+			<marker class="begin-verse" mid="v40005016"/>
+			<v n="16">
+				In the 
+				<crossref let="q" cid="c4000516.1"/>
+				 same way, let your good deeds shine out for all to see, so that everyone will praise your heavenly Father.Teaching about the Law
+			</v>
+			<marker class="begin-verse" mid="v40005017"/>
+			<v n="17">
+				“Don’t misunderstand 
+				<crossref let="r" cid="c4000517.1"/>
+				 why I have come. I did not come to abolish the law of Moses or the writings of the prophets. No, I came to accomplish their purpose.
+			</v>
+			<marker class="begin-verse" mid="v40005018"/>
+			<v n="18">
+				I tell 
+				<crossref let="s" cid="c4000518.1"/>
+				 you the truth, until heaven and earth disappear, not even the smallest detail of God’s law will disappear until its purpose is achieved.
+			</v>
+			<marker class="begin-verse" mid="v40005019"/>
+			<v n="19">
+				So if 
+				<crossref let="t" cid="c4000519.1"/>
+				 you ignore the least commandment and teach others to do the same, you will be called the least in the Kingdom of Heaven. But anyone who obeys God’s laws and teaches them will be called great in the Kingdom of Heaven.
+			</v>
+			<marker class="begin-verse" mid="v40005020"/>
+			<v n="20">
+				“But I 
+				<crossref let="u" cid="c4000520.1"/>
+				 warn you—unless your righteousness is better than the righteousness of the teachers of religious law and the Pharisees, you will never enter the Kingdom of Heaven!Teaching about Anger
+			</v>
+			<marker class="begin-verse" mid="v40005021"/>
+			<v n="21">
+				“You have 
+				<crossref let="v" cid="c4000521.1"/>
+				 heard that our ancestors were told, ‘You must not murder. If you commit murder, you are subject to judgment.’
+			</v>
+			<marker class="begin-verse" mid="v40005022"/>
+			<v n="22">
+				But I 
+				<crossref let="w" cid="c4000522.1"/>
+				 say, if you are even angry with someone, you are subject to judgment! If you call someone an idiot, you are in danger of being brought before the court. And if you curse someone, you are in danger of the fires of hell.
+			</v>
+			<marker class="begin-verse" mid="v40005023"/>
+			<v n="23">
+				“So if 
+				<crossref let="x" cid="c4000523.1"/>
+				 you are presenting a sacrifice at the altar in the Temple and you suddenly remember that someone has something against you,
+			</v>
+			<marker class="begin-verse" mid="v40005024"/>
+			<v n="24">
+				leave your 
+				<crossref let="y" cid="c4000524.1"/>
+				 sacrifice there at the altar. Go and be reconciled to that person. Then come and offer your sacrifice to God.
+			</v>
+			<marker class="begin-verse" mid="v40005025"/>
+			<v n="25">
+				“When you 
+				<crossref let="z" cid="c4000525.1"/>
+				 are on the way to court with your adversary, settle your differences quickly. Otherwise, your accuser may hand you over to the judge, who will hand you over to an officer, and you will be thrown into prison.
+			</v>
+			<marker class="begin-verse" mid="v40005026"/>
+			<v n="26">
+				And if 
+				<crossref let="a" cid="c4000526.1"/>
+				 that happens, you surely won’t be free again until you have paid the last penny.Teaching about Adultery
+			</v>
+			<marker class="begin-verse" mid="v40005027"/>
+			<v n="27">
+				“You have 
+				<crossref let="b" cid="c4000527.1"/>
+				 heard the commandment that says, ‘You must not commit adultery.’
+			</v>
+			<marker class="begin-verse" mid="v40005028"/>
+			<v n="28">
+				But I 
+				<crossref let="c" cid="c4000528.1"/>
+				 say, anyone who even looks at a woman with lust has already committed adultery with her in his heart.
+			</v>
+			<marker class="begin-verse" mid="v40005029"/>
+			<v n="29">
+				So if 
+				<crossref let="d" cid="c4000529.1"/>
+				 your eye—even your good eye—causes you to lust, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.
+			</v>
+			<marker class="begin-verse" mid="v40005030"/>
+			<v n="30">
+				And if 
+				<crossref let="e" cid="c4000530.1"/>
+				 your hand—even your stronger hand—causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.Teaching about Divorce
+			</v>
+			<marker class="begin-verse" mid="v40005031"/>
+			<v n="31">
+				“You have 
+				<crossref let="f" cid="c4000531.1"/>
+				 heard the law that says, ‘A man can divorce his wife by merely giving her a written notice of divorce.’
+			</v>
+			<marker class="begin-verse" mid="v40005032"/>
+			<v n="32">
+				But I 
+				<crossref let="g" cid="c4000532.1"/>
+				 say that a man who divorces his wife, unless she has been unfaithful, causes her to commit adultery. And anyone who marries a divorced woman also commits adultery.Teaching about Vows
+			</v>
+			<marker class="begin-verse" mid="v40005033"/>
+			<v n="33">
+				“You have 
+				<crossref let="h" cid="c4000533.1"/>
+				 also heard that our ancestors were told, ‘You must not break your vows; you must carry out the vows you make to the Lord.’
+			</v>
+			<marker class="begin-verse" mid="v40005034"/>
+			<v n="34">
+				But I 
+				<crossref let="i" cid="c4000534.1"/>
+				 say, do not make any vows! Do not say, ‘By heaven!’ because heaven is God’s throne.
+			</v>
+			<marker class="begin-verse" mid="v40005035"/>
+			<v n="35">
+				And do 
+				<crossref let="j" cid="c4000535.1"/>
+				 not say, ‘By the earth!’ because the earth is his footstool. And do not say, ‘By Jerusalem!’ for Jerusalem is the city of the great King.
+			</v>
+			<marker class="begin-verse" mid="v40005036"/>
+			<v n="36">
+				Do not 
+				<crossref let="k" cid="c4000536.1"/>
+				 even say, ‘By my head!’ for you can’t turn one hair white or black.
+			</v>
+			<marker class="begin-verse" mid="v40005037"/>
+			<v n="37">
+				Just say 
+				<crossref let="l" cid="c4000537.1"/>
+				 a simple, ‘Yes, I will,’ or ‘No, I won’t.’ Anything beyond this is from the evil one.Teaching about Revenge
+			</v>
+			<marker class="begin-verse" mid="v40005038"/>
+			<v n="38">
+				“You have 
+				<crossref let="m" cid="c4000538.1"/>
+				 heard the law that says the punishment must match the injury: ‘An eye for an eye, and a tooth for a tooth.’
+			</v>
+			<marker class="begin-verse" mid="v40005039"/>
+			<v n="39">
+				But I 
+				<crossref let="n" cid="c4000539.1"/>
+				 say, do not resist an evil person! If someone slaps you on the right cheek, offer the other cheek also.
+			</v>
+			<marker class="begin-verse" mid="v40005040"/>
+			<v n="40">
+				If you 
+				<crossref let="o" cid="c4000540.1"/>
+				 are sued in court and your shirt is taken from you, give your coat, too.
+			</v>
+			<marker class="begin-verse" mid="v40005041"/>
+			<v n="41">
+				If a 
+				<crossref let="p" cid="c4000541.1"/>
+				 soldier demands that you carry his gear for a mile, carry it two miles.
+			</v>
+			<marker class="begin-verse" mid="v40005042"/>
+			<v n="42">
+				Give to 
+				<crossref let="q" cid="c4000542.1"/>
+				 those who ask, and don’t turn away from those who want to borrow.Teaching about Love for Enemies
+			</v>
+			<marker class="begin-verse" mid="v40005043"/>
+			<v n="43">
+				“You have 
+				<crossref let="r" cid="c4000543.1"/>
+				 heard the law that says, ‘Love your neighbor’ and hate your enemy.
+			</v>
+			<marker class="begin-verse" mid="v40005044"/>
+			<v n="44">
+				But I 
+				<crossref let="s" cid="c4000544.1"/>
+				 say, love your enemies! Pray for those who persecute you!
+			</v>
+			<marker class="begin-verse" mid="v40005045"/>
+			<v n="45">
+				In that 
+				<crossref let="t" cid="c4000545.1"/>
+				 way, you will be acting as true children of your Father in heaven. For he gives his sunlight to both the evil and the good, and he sends rain on the just and the unjust alike.
+			</v>
+			<marker class="begin-verse" mid="v40005046"/>
+			<v n="46">
+				If you 
+				<crossref let="u" cid="c4000546.1"/>
+				 love only those who love you, what reward is there for that? Even corrupt tax collectors do that much.
+			</v>
+			<marker class="begin-verse" mid="v40005047"/>
+			<v n="47">
+				If you 
+				<crossref let="v" cid="c4000547.1"/>
+				 are kind only to your friends, how are you different from anyone else? Even pagans do that.
+			</v>
+			<marker class="begin-verse" mid="v40005048"/>
+			<v n="48">
+				But you 
+				<crossref let="w" cid="c4000548.1"/>
+				 are to be perfect, even as your Father in heaven is perfect.
+			</v>
+			<marker class="begin-verse" mid="v40005049"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

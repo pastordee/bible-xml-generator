@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:14:32.478161</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:14:32.478169</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" version="NLT" bookAbbr="num">
+		<marker class="begin-verse" mid="v04030001"/>
+		<chapter num="30">
+			<heading>Laws concerning Vows</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then Moses 
+				<crossref let="b" cid="c040301.1"/>
+				 summoned the leaders of the tribes of Israel and told them, “This is what the Lord has commanded:
+			</v>
+			<marker class="begin-verse" mid="v04030002"/>
+			<v n="2">
+				A man 
+				<crossref let="c" cid="c040302.1"/>
+				 who makes a vow to the Lord or makes a pledge under oath must never break it. He must do exactly what he said he would do.
+			</v>
+			<marker class="begin-verse" mid="v04030003"/>
+			<v n="3">
+				“If a 
+				<crossref let="d" cid="c040303.1"/>
+				 young woman makes a vow to the Lord or a pledge under oath while she is still living at her father’s home,
+			</v>
+			<marker class="begin-verse" mid="v04030004"/>
+			<v n="4">
+				and her 
+				<crossref let="e" cid="c040304.1"/>
+				 father hears of the vow or pledge and does not object to it, then all her vows and pledges will stand.
+			</v>
+			<marker class="begin-verse" mid="v04030005"/>
+			<v n="5">
+				But if 
+				<crossref let="f" cid="c040305.1"/>
+				 her father refuses to let her fulfill the vow or pledge on the day he hears of it, then all her vows and pledges will become invalid. The Lord will forgive her because her father would not let her fulfill them.
+			</v>
+			<marker class="begin-verse" mid="v04030006"/>
+			<v n="6">
+				“Now suppose 
+				<crossref let="g" cid="c040306.1"/>
+				 a young woman makes a vow or binds herself with an impulsive pledge and later marries.
+			</v>
+			<marker class="begin-verse" mid="v04030007"/>
+			<v n="7">
+				If her 
+				<crossref let="h" cid="c040307.1"/>
+				 husband learns of her vow or pledge and does not object on the day he hears of it, her vows and pledges will stand.
+			</v>
+			<marker class="begin-verse" mid="v04030008"/>
+			<v n="8">
+				But if 
+				<crossref let="i" cid="c040308.1"/>
+				 her husband refuses to accept her vow or impulsive pledge on the day he hears of it, he nullifies her commitments, and the Lord will forgive her.
+			</v>
+			<marker class="begin-verse" mid="v04030009"/>
+			<v n="9">
+				If, however, 
+				<crossref let="j" cid="c040309.1"/>
+				 a woman is a widow or is divorced, she must fulfill all her vows and pledges.
+			</v>
+			<marker class="begin-verse" mid="v04030010"/>
+			<v n="10">
+				“But suppose 
+				<crossref let="k" cid="c0403010.1"/>
+				 a woman is married and living in her husband’s home when she makes a vow or binds herself with a pledge.
+			</v>
+			<marker class="begin-verse" mid="v04030011"/>
+			<v n="11">
+				If her 
+				<crossref let="l" cid="c0403011.1"/>
+				 husband hears of it and does not object to it, her vow or pledge will stand.
+			</v>
+			<marker class="begin-verse" mid="v04030012"/>
+			<v n="12">
+				But if 
+				<crossref let="m" cid="c0403012.1"/>
+				 her husband refuses to accept it on the day he hears of it, her vow or pledge will be nullified, and the Lord will forgive her.
+			</v>
+			<marker class="begin-verse" mid="v04030013"/>
+			<v n="13">
+				So her 
+				<crossref let="n" cid="c0403013.1"/>
+				 husband may either confirm or nullify any vows or pledges she makes to deny herself.
+			</v>
+			<marker class="begin-verse" mid="v04030014"/>
+			<v n="14">
+				But if 
+				<crossref let="o" cid="c0403014.1"/>
+				 he does not object on the day he hears of it, then he is agreeing to all her vows and pledges.
+			</v>
+			<marker class="begin-verse" mid="v04030015"/>
+			<v n="15">
+				If he 
+				<crossref let="p" cid="c0403015.1"/>
+				 waits more than a day and then tries to nullify a vow or pledge, he will be punished for her guilt.”
+			</v>
+			<marker class="begin-verse" mid="v04030016"/>
+			<v n="16">
+				These are 
+				<crossref let="q" cid="c0403016.1"/>
+				 the regulations the Lord gave Moses concerning relationships between a man and his wife, and between a father and a young daughter who still lives at home.
+			</v>
+			<marker class="begin-verse" mid="v04030017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

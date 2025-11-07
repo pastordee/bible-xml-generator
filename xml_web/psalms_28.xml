@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:44:07.049906</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:44:07.049920</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19028001"/>
+		<chapter num="28">
+			<heading>By David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				To you, 
+				<crossref let="b" cid="c190281.1"/>
+				 Yahweh, I call.My rock, don’t be deaf to me,lest, if you are silent to me,I would become like those who go down into the pit.
+			</v>
+			<marker class="begin-verse" mid="v19028002"/>
+			<v n="2">
+				Hear the 
+				<crossref let="c" cid="c190282.1"/>
+				 voice of my petitions, when I cry to you,when I lift up my hands toward your Most Holy Place.
+			</v>
+			<marker class="begin-verse" mid="v19028003"/>
+			<v n="3">
+				Don’t draw 
+				<crossref let="d" cid="c190283.1"/>
+				 me away with the wicked,with the workers of iniquity who speak peace with their neighbors,but mischief is in their hearts.
+			</v>
+			<marker class="begin-verse" mid="v19028004"/>
+			<v n="4">
+				Give them 
+				<crossref let="e" cid="c190284.1"/>
+				 according to their work, and according to the wickedness of their doings.Give them according to the operation of their hands.Bring back on them what they deserve.
+			</v>
+			<marker class="begin-verse" mid="v19028005"/>
+			<v n="5">
+				Because they 
+				<crossref let="f" cid="c190285.1"/>
+				 don’t respect the works of Yahweh,nor the operation of his hands,he will break them down and not build them up.
+			</v>
+			<marker class="begin-verse" mid="v19028006"/>
+			<v n="6">
+				Blessed be 
+				<crossref let="g" cid="c190286.1"/>
+				 Yahweh,because he has heard the voice of my petitions.
+			</v>
+			<marker class="begin-verse" mid="v19028007"/>
+			<v n="7">
+				Yahweh is 
+				<crossref let="h" cid="c190287.1"/>
+				 my strength and my shield.My heart has trusted in him, and I am helped.Therefore my heart greatly rejoices.With my song I will thank him.
+			</v>
+			<marker class="begin-verse" mid="v19028008"/>
+			<v n="8">
+				Yahweh is 
+				<crossref let="i" cid="c190288.1"/>
+				 their strength.He is a stronghold of salvation to his anointed.
+			</v>
+			<marker class="begin-verse" mid="v19028009"/>
+			<v n="9">
+				Save your 
+				<crossref let="j" cid="c190289.1"/>
+				 people,and bless your inheritance.Be their shepherd also,and bear them up forever.
+			</v>
+			<marker class="begin-verse" mid="v19028010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

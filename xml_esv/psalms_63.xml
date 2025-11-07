@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:32.659532</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:32.659540</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19063001">
+		</marker>
+		<chapter num="63">
+			<heading>
+				Psalm 63
+			</heading>
+			<heading>
+				My Soul Thirsts for You
+			</heading>
+			<heading>
+				A Psalm of David, when he was in the wilderness of Judah.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c19063001.1">
+				</crossref>
+				you are, 
+				<crossref let="c" cid="c19063001.2">
+				</crossref>
+				my God; earnestly I seek you; my soul thirsts for you; my flesh faints for you, as in a dry and weary land where there is no water.
+			</v>
+			<marker class="begin-verse" mid="v19063002">
+			</marker>
+			<v n="2">
+				So I 
+				<crossref let="d" cid="c19063002.3">
+				</crossref>
+				have looked, 
+				<crossref let="e" cid="c19063002.4">
+				</crossref>
+				upon you in the sanctuary, beholding your power and glory.
+			</v>
+			<marker class="begin-verse" mid="v19063003">
+			</marker>
+			<v n="3">
+				Because your 
+				<crossref let="f" cid="c19063003.5">
+				</crossref>
+				steadfast love, 
+				<crossref let="g" cid="c19063003.6">
+				</crossref>
+				is better than life, my lips will praise you.
+				<note nid="n19063003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19063004">
+			</marker>
+			<v n="4">
+				So I 
+				<crossref let="h" cid="c19063004.7">
+				</crossref>
+				will bless, 
+				<crossref let="i" cid="c19063004.8">
+				</crossref>
+				you as long as I live; in your name I will lift up my hands.
+			</v>
+			<marker class="begin-verse" mid="v19063005">
+			</marker>
+			<v n="5">
+				My soul 
+				<crossref let="j" cid="c19063005.9">
+				</crossref>
+				will be, 
+				<crossref let="k" cid="c19063005.10">
+				</crossref>
+				satisfied as with fat and rich food, and my mouth will praise you with joyful lips,
+			</v>
+			<marker class="begin-verse" mid="v19063006">
+			</marker>
+			<v n="6">
+				when I 
+				<crossref let="l" cid="c19063006.11">
+				</crossref>
+				remember you, 
+				<crossref let="m" cid="c19063006.12">
+				</crossref>
+				upon my bed, and meditate on you in the watches of the night;
+				<note nid="n19063006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19063007">
+			</marker>
+			<v n="7">
+				for you 
+				<crossref let="n" cid="c19063007.13">
+				</crossref>
+				have been, 
+				<crossref let="o" cid="c19063007.14">
+				</crossref>
+				my help, and in the shadow of your wings I will sing for joy.
+			</v>
+			<marker class="begin-verse" mid="v19063008">
+			</marker>
+			<v n="8">
+				My soul 
+				<crossref let="p" cid="c19063008.15">
+				</crossref>
+				clings to, 
+				<crossref let="q" cid="c19063008.16">
+				</crossref>
+				you; your right hand upholds me.
+			</v>
+			<marker class="begin-verse" mid="v19063009">
+			</marker>
+			<v n="9">
+				But those 
+				<crossref let="r" cid="c19063009.17">
+				</crossref>
+				who seek, 
+				<crossref let="s" cid="c19063009.18">
+				</crossref>
+				to destroy my life shall go down into the depths of the earth;
+				<note nid="n19063009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19063010">
+			</marker>
+			<v n="10">
+				they shall 
+				<crossref let="t" cid="c19063010.19">
+				</crossref>
+				be given, 
+				<crossref let="u" cid="c19063010.20">
+				</crossref>
+				over to the power of the sword; they shall be a portion for jackals.
+			</v>
+			<marker class="begin-verse" mid="v19063011">
+			</marker>
+			<v n="11">
+				But the 
+				<crossref let="v" cid="c19063011.21">
+				</crossref>
+				king shall, 
+				<crossref let="w" cid="c19063011.22">
+				</crossref>
+				rejoice in God; all who swear by him shall exult, for the mouths of liars will be stopped. (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19063012">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

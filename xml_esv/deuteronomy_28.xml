@@ -1,0 +1,822 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:02:40.992130</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:02:40.992141</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" bookAbbr="deu" version="ESV">
+		<marker class="begin-verse" mid="v05028001">
+		</marker>
+		<chapter num="28">
+			<heading>
+				Deuteronomy 28
+			</heading>
+			<heading>
+				Blessings for Obedience
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				“And if 
+				<crossref let="b" cid="c05028001.1">
+				</crossref>
+				you faithfully, 
+				<crossref let="c" cid="c05028001.2">
+				</crossref>
+				obey the voice of the LORD your God, being careful to do all his commandments that I command you today, the LORD your God will set you high above all the nations of the earth.
+			</v>
+			<marker class="begin-verse" mid="v05028002">
+			</marker>
+			<v n="2">
+				And all 
+				<crossref let="d" cid="c05028002.3">
+				</crossref>
+				these blessings, 
+				<crossref let="e" cid="c05028002.4">
+				</crossref>
+				shall come upon you and overtake you, if you obey the voice of the LORD your God.
+			</v>
+			<marker class="begin-verse" mid="v05028003">
+			</marker>
+			<v n="3">
+				Blessed shall 
+				<crossref let="f" cid="c05028003.5">
+				</crossref>
+				you be, 
+				<crossref let="g" cid="c05028003.6">
+				</crossref>
+				in the city, and blessed shall you be in the field.
+				<note nid="n05028003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028004">
+			</marker>
+			<v n="4">
+				Blessed shall 
+				<crossref let="h" cid="c05028004.7">
+				</crossref>
+				be the, 
+				<crossref let="i" cid="c05028004.8">
+				</crossref>
+				fruit of your womb and the fruit of your ground and the fruit of your cattle, the increase of your herds and the young of your flock.
+			</v>
+			<marker class="begin-verse" mid="v05028005">
+			</marker>
+			<v n="5">
+				Blessed shall 
+				<crossref let="j" cid="c05028005.9">
+				</crossref>
+				be your, 
+				<crossref let="k" cid="c05028005.10">
+				</crossref>
+				basket and your kneading bowl.
+			</v>
+			<marker class="begin-verse" mid="v05028006">
+			</marker>
+			<v n="6">
+				Blessed shall 
+				<crossref let="l" cid="c05028006.11">
+				</crossref>
+				you be, 
+				<crossref let="m" cid="c05028006.12">
+				</crossref>
+				when you come in, and blessed shall you be when you go out.
+				<note nid="n05028006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028007">
+			</marker>
+			<v n="7">
+				“The LORD 
+				<crossref let="n" cid="c05028007.13">
+				</crossref>
+				will cause, 
+				<crossref let="o" cid="c05028007.14">
+				</crossref>
+				your enemies who rise against you to be defeated before you. They shall come out against you one way and flee before you seven ways.
+			</v>
+			<marker class="begin-verse" mid="v05028008">
+			</marker>
+			<v n="8">
+				The LORD 
+				<crossref let="p" cid="c05028008.15">
+				</crossref>
+				will command, 
+				<crossref let="q" cid="c05028008.16">
+				</crossref>
+				the blessing on you in your barns and in all that you undertake. And he will bless you in the land that the LORD your God is giving you.
+			</v>
+			<marker class="begin-verse" mid="v05028009">
+			</marker>
+			<v n="9">
+				The LORD 
+				<crossref let="r" cid="c05028009.17">
+				</crossref>
+				will establish, 
+				<crossref let="s" cid="c05028009.18">
+				</crossref>
+				you as a people holy to himself, as he has sworn to you, if you keep the commandments of the LORD your God and walk in his ways.
+				<note nid="n05028009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028010">
+			</marker>
+			<v n="10">
+				And all 
+				<crossref let="t" cid="c05028010.19">
+				</crossref>
+				the peoples, 
+				<crossref let="u" cid="c05028010.20">
+				</crossref>
+				of the earth shall see that you are called by the name of the LORD, and they shall be afraid of you.
+			</v>
+			<marker class="begin-verse" mid="v05028011">
+			</marker>
+			<v n="11">
+				And the 
+				<crossref let="v" cid="c05028011.21">
+				</crossref>
+				LORD will, 
+				<crossref let="w" cid="c05028011.22">
+				</crossref>
+				make you abound in prosperity, in the fruit of your womb and in the fruit of your livestock and in the fruit of your ground, within the land that the LORD swore to your fathers to give you.
+			</v>
+			<marker class="begin-verse" mid="v05028012">
+			</marker>
+			<v n="12">
+				The LORD 
+				<crossref let="x" cid="c05028012.23">
+				</crossref>
+				will open, 
+				<crossref let="y" cid="c05028012.24">
+				</crossref>
+				to you his good treasury, the heavens, to give the rain to your land in its season and to bless all the work of your hands. And you shall lend to many nations, but you shall not borrow.
+				<note nid="n05028012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028013">
+			</marker>
+			<v n="13">
+				And the 
+				<crossref let="z" cid="c05028013.25">
+				</crossref>
+				LORD will, 
+				<crossref let="a" cid="c05028013.26">
+				</crossref>
+				make you the head and not the tail, and you shall only go up and not down, if you obey the commandments of the LORD your God, which I command you today, being careful to do them,
+			</v>
+			<marker class="begin-verse" mid="v05028014">
+			</marker>
+			<v n="14">
+				and if 
+				<crossref let="b" cid="c05028014.27">
+				</crossref>
+				you do, 
+				<crossref let="c" cid="c05028014.28">
+				</crossref>
+				not turn aside from any of the words that I command you today, to the right hand or to the left, to go after other gods to serve them. Curses for Disobedience
+			</v>
+			<marker class="begin-verse" mid="v05028015">
+			</marker>
+			<v n="15">
+				“But if 
+				<crossref let="d" cid="c05028015.29">
+				</crossref>
+				you will, 
+				<crossref let="e" cid="c05028015.30">
+				</crossref>
+				not obey the voice of the LORD your God or be careful to do all his commandments and his statutes that I command you today, then all these curses shall come upon you and overtake you.
+				<note nid="n05028015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028016">
+			</marker>
+			<v n="16">
+				Cursed shall 
+				<crossref let="f" cid="c05028016.31">
+				</crossref>
+				you be, 
+				<crossref let="g" cid="c05028016.32">
+				</crossref>
+				in the city, and cursed shall you be in the field.
+			</v>
+			<marker class="begin-verse" mid="v05028017">
+			</marker>
+			<v n="17">
+				Cursed shall 
+				<crossref let="h" cid="c05028017.33">
+				</crossref>
+				be your, 
+				<crossref let="i" cid="c05028017.34">
+				</crossref>
+				basket and your kneading bowl.
+			</v>
+			<marker class="begin-verse" mid="v05028018">
+			</marker>
+			<v n="18">
+				Cursed shall 
+				<crossref let="j" cid="c05028018.35">
+				</crossref>
+				be the, 
+				<crossref let="k" cid="c05028018.36">
+				</crossref>
+				fruit of your womb and the fruit of your ground, the increase of your herds and the young of your flock.
+				<note nid="n05028018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028019">
+			</marker>
+			<v n="19">
+				Cursed shall 
+				<crossref let="l" cid="c05028019.37">
+				</crossref>
+				you be, 
+				<crossref let="m" cid="c05028019.38">
+				</crossref>
+				when you come in, and cursed shall you be when you go out.
+			</v>
+			<marker class="begin-verse" mid="v05028020">
+			</marker>
+			<v n="20">
+				“The LORD 
+				<crossref let="n" cid="c05028020.39">
+				</crossref>
+				will send, 
+				<crossref let="o" cid="c05028020.40">
+				</crossref>
+				on you curses, confusion, and frustration in all that you undertake to do, until you are destroyed and perish quickly on account of the evil of your deeds, because you have forsaken me.
+			</v>
+			<marker class="begin-verse" mid="v05028021">
+			</marker>
+			<v n="21">
+				The LORD 
+				<crossref let="p" cid="c05028021.41">
+				</crossref>
+				will make, 
+				<crossref let="q" cid="c05028021.42">
+				</crossref>
+				the pestilence stick to you until he has consumed you off the land that you are entering to take possession of it.
+				<note nid="n05028021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028022">
+			</marker>
+			<v n="22">
+				The LORD 
+				<crossref let="r" cid="c05028022.43">
+				</crossref>
+				will strike, 
+				<crossref let="s" cid="c05028022.44">
+				</crossref>
+				you with wasting disease and with fever, inflammation and fiery heat, and with drought(1) and with blight and with mildew. They shall pursue you until you perish.
+			</v>
+			<marker class="begin-verse" mid="v05028023">
+			</marker>
+			<v n="23">
+				And the 
+				<crossref let="t" cid="c05028023.45">
+				</crossref>
+				heavens over, 
+				<crossref let="u" cid="c05028023.46">
+				</crossref>
+				your head shall be bronze, and the earth under you shall be iron.
+			</v>
+			<marker class="begin-verse" mid="v05028024">
+			</marker>
+			<v n="24">
+				The LORD 
+				<crossref let="v" cid="c05028024.47">
+				</crossref>
+				will make, 
+				<crossref let="w" cid="c05028024.48">
+				</crossref>
+				the rain of your land powder. From heaven dust shall come down on you until you are destroyed.
+				<note nid="n05028024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028025">
+			</marker>
+			<v n="25">
+				“The LORD 
+				<crossref let="x" cid="c05028025.49">
+				</crossref>
+				will cause, 
+				<crossref let="y" cid="c05028025.50">
+				</crossref>
+				you to be defeated before your enemies. You shall go out one way against them and flee seven ways before them. And you shall be a horror to all the kingdoms of the earth.
+			</v>
+			<marker class="begin-verse" mid="v05028026">
+			</marker>
+			<v n="26">
+				And your 
+				<crossref let="z" cid="c05028026.51">
+				</crossref>
+				dead body, 
+				<crossref let="a" cid="c05028026.52">
+				</crossref>
+				shall be food for all birds of the air and for the beasts of the earth, and there shall be no one to frighten them away.
+			</v>
+			<marker class="begin-verse" mid="v05028027">
+			</marker>
+			<v n="27">
+				The LORD 
+				<crossref let="b" cid="c05028027.53">
+				</crossref>
+				will strike, 
+				<crossref let="c" cid="c05028027.54">
+				</crossref>
+				you with the boils of Egypt, and with tumors and scabs and itch, of which you cannot be healed.
+				<note nid="n05028027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028028">
+			</marker>
+			<v n="28">
+				The LORD 
+				<crossref let="d" cid="c05028028.55">
+				</crossref>
+				will strike, 
+				<crossref let="e" cid="c05028028.56">
+				</crossref>
+				you with madness and blindness and confusion of mind,
+			</v>
+			<marker class="begin-verse" mid="v05028029">
+			</marker>
+			<v n="29">
+				and you 
+				<crossref let="f" cid="c05028029.57">
+				</crossref>
+				shall grope, 
+				<crossref let="g" cid="c05028029.58">
+				</crossref>
+				at noonday, as the blind grope in darkness, and you shall not prosper in your ways.(2) And you shall be only oppressed and robbed continually, and there shall be no one to help you.
+			</v>
+			<marker class="begin-verse" mid="v05028030">
+			</marker>
+			<v n="30">
+				You shall 
+				<crossref let="h" cid="c05028030.59">
+				</crossref>
+				betroth a, 
+				<crossref let="i" cid="c05028030.60">
+				</crossref>
+				wife, but another man shall ravish her. You shall build a house, but you shall not dwell in it. You shall plant a vineyard, but you shall not enjoy its fruit.
+				<note nid="n05028030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028031">
+			</marker>
+			<v n="31">
+				Your ox 
+				<crossref let="j" cid="c05028031.61">
+				</crossref>
+				shall be, 
+				<crossref let="k" cid="c05028031.62">
+				</crossref>
+				slaughtered before your eyes, but you shall not eat any of it. Your donkey shall be seized before your face, but shall not be restored to you. Your sheep shall be given to your enemies, but there shall be no one to help you.
+			</v>
+			<marker class="begin-verse" mid="v05028032">
+			</marker>
+			<v n="32">
+				Your sons 
+				<crossref let="l" cid="c05028032.63">
+				</crossref>
+				and your, 
+				<crossref let="m" cid="c05028032.64">
+				</crossref>
+				daughters shall be given to another people, while your eyes look on and fail with longing for them all day long, but you shall be helpless.
+			</v>
+			<marker class="begin-verse" mid="v05028033">
+			</marker>
+			<v n="33">
+				A nation 
+				<crossref let="n" cid="c05028033.65">
+				</crossref>
+				that you, 
+				<crossref let="o" cid="c05028033.66">
+				</crossref>
+				have not known shall eat up the fruit of your ground and of all your labors, and you shall be only oppressed and crushed continually,
+				<note nid="n05028033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028034">
+			</marker>
+			<v n="34">
+				so that 
+				<crossref let="p" cid="c05028034.67">
+				</crossref>
+				you are, 
+				<crossref let="q" cid="c05028034.68">
+				</crossref>
+				driven mad by the sights that your eyes see.
+			</v>
+			<marker class="begin-verse" mid="v05028035">
+			</marker>
+			<v n="35">
+				The LORD 
+				<crossref let="r" cid="c05028035.69">
+				</crossref>
+				will strike, 
+				<crossref let="s" cid="c05028035.70">
+				</crossref>
+				you on the knees and on the legs with grievous boils of which you cannot be healed, from the sole of your foot to the crown of your head.
+			</v>
+			<marker class="begin-verse" mid="v05028036">
+			</marker>
+			<v n="36">
+				“The LORD 
+				<crossref let="t" cid="c05028036.71">
+				</crossref>
+				will bring, 
+				<crossref let="u" cid="c05028036.72">
+				</crossref>
+				you and your king whom you set over you to a nation that neither you nor your fathers have known. And there you shall serve other gods of wood and stone.
+				<note nid="n05028036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028037">
+			</marker>
+			<v n="37">
+				And you 
+				<crossref let="v" cid="c05028037.73">
+				</crossref>
+				shall become, 
+				<crossref let="w" cid="c05028037.74">
+				</crossref>
+				a horror, a proverb, and a byword among all the peoples where the LORD will lead you away.
+			</v>
+			<marker class="begin-verse" mid="v05028038">
+			</marker>
+			<v n="38">
+				You shall 
+				<crossref let="x" cid="c05028038.75">
+				</crossref>
+				carry much, 
+				<crossref let="y" cid="c05028038.76">
+				</crossref>
+				seed into the field and shall gather in little, for the locust shall consume it.
+			</v>
+			<marker class="begin-verse" mid="v05028039">
+			</marker>
+			<v n="39">
+				You shall 
+				<crossref let="z" cid="c05028039.77">
+				</crossref>
+				plant vineyards, 
+				<crossref let="a" cid="c05028039.78">
+				</crossref>
+				and dress them, but you shall neither drink of the wine nor gather the grapes, for the worm shall eat them.
+				<note nid="n05028039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028040">
+			</marker>
+			<v n="40">
+				You shall 
+				<crossref let="b" cid="c05028040.79">
+				</crossref>
+				have olive, 
+				<crossref let="c" cid="c05028040.80">
+				</crossref>
+				trees throughout all your territory, but you shall not anoint yourself with the oil, for your olives shall drop off.
+			</v>
+			<marker class="begin-verse" mid="v05028041">
+			</marker>
+			<v n="41">
+				You shall 
+				<crossref let="d" cid="c05028041.81">
+				</crossref>
+				father sons, 
+				<crossref let="e" cid="c05028041.82">
+				</crossref>
+				and daughters, but they shall not be yours, for they shall go into captivity.
+			</v>
+			<marker class="begin-verse" mid="v05028042">
+			</marker>
+			<v n="42">
+				The cricket(3) 
+				<crossref let="f" cid="c05028042.83">
+				</crossref>
+				shall possess, 
+				<crossref let="g" cid="c05028042.84">
+				</crossref>
+				all your trees and the fruit of your ground.
+				<note nid="n05028042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028043">
+			</marker>
+			<v n="43">
+				The sojourner 
+				<crossref let="h" cid="c05028043.85">
+				</crossref>
+				who is, 
+				<crossref let="i" cid="c05028043.86">
+				</crossref>
+				among you shall rise higher and higher above you, and you shall come down lower and lower.
+			</v>
+			<marker class="begin-verse" mid="v05028044">
+			</marker>
+			<v n="44">
+				He shall 
+				<crossref let="j" cid="c05028044.87">
+				</crossref>
+				lend to, 
+				<crossref let="k" cid="c05028044.88">
+				</crossref>
+				you, and you shall not lend to him. He shall be the head, and you shall be the tail.
+			</v>
+			<marker class="begin-verse" mid="v05028045">
+			</marker>
+			<v n="45">
+				“All these 
+				<crossref let="l" cid="c05028045.89">
+				</crossref>
+				curses shall, 
+				<crossref let="m" cid="c05028045.90">
+				</crossref>
+				come upon you and pursue you and overtake you till you are destroyed, because you did not obey the voice of the LORD your God, to keep his commandments and his statutes that he commanded you.
+				<note nid="n05028045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028046">
+			</marker>
+			<v n="46">
+				They shall 
+				<crossref let="n" cid="c05028046.91">
+				</crossref>
+				be a, 
+				<crossref let="o" cid="c05028046.92">
+				</crossref>
+				sign and a wonder against you and your offspring forever.
+			</v>
+			<marker class="begin-verse" mid="v05028047">
+			</marker>
+			<v n="47">
+				Because you 
+				<crossref let="p" cid="c05028047.93">
+				</crossref>
+				did not, 
+				<crossref let="q" cid="c05028047.94">
+				</crossref>
+				serve the LORD your God with joyfulness and gladness of heart, because of the abundance of all things,
+			</v>
+			<marker class="begin-verse" mid="v05028048">
+			</marker>
+			<v n="48">
+				therefore you 
+				<crossref let="r" cid="c05028048.95">
+				</crossref>
+				shall serve, 
+				<crossref let="s" cid="c05028048.96">
+				</crossref>
+				your enemies whom the LORD will send against you, in hunger and thirst, in nakedness, and lacking everything. And he will put a yoke of iron on your neck until he has destroyed you.
+				<note nid="n05028048.48">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028049">
+			</marker>
+			<v n="49">
+				The LORD 
+				<crossref let="t" cid="c05028049.97">
+				</crossref>
+				will bring, 
+				<crossref let="u" cid="c05028049.98">
+				</crossref>
+				a nation against you from far away, from the end of the earth, swooping down like the eagle, a nation whose language you do not understand,
+			</v>
+			<marker class="begin-verse" mid="v05028050">
+			</marker>
+			<v n="50">
+				a hard-faced 
+				<crossref let="v" cid="c05028050.99">
+				</crossref>
+				nation who, 
+				<crossref let="w" cid="c05028050.100">
+				</crossref>
+				shall not respect the old or show mercy to the young.
+			</v>
+			<marker class="begin-verse" mid="v05028051">
+			</marker>
+			<v n="51">
+				It shall 
+				<crossref let="x" cid="c05028051.101">
+				</crossref>
+				eat the, 
+				<crossref let="y" cid="c05028051.102">
+				</crossref>
+				offspring of your cattle and the fruit of your ground, until you are destroyed; it also shall not leave you grain, wine, or oil, the increase of your herds or the young of your flock, until they have caused you to perish.
+				<note nid="n05028051.51">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028052">
+			</marker>
+			<v n="52">
+				“They shall 
+				<crossref let="z" cid="c05028052.103">
+				</crossref>
+				besiege you, 
+				<crossref let="a" cid="c05028052.104">
+				</crossref>
+				in all your towns, until your high and fortified walls, in which you trusted, come down throughout all your land. And they shall besiege you in all your towns throughout all your land, which the LORD your God has given you.
+			</v>
+			<marker class="begin-verse" mid="v05028053">
+			</marker>
+			<v n="53">
+				And you 
+				<crossref let="b" cid="c05028053.105">
+				</crossref>
+				shall eat, 
+				<crossref let="c" cid="c05028053.106">
+				</crossref>
+				the fruit of your womb, the flesh of your sons and daughters, whom the LORD your God has given you, in the siege and in the distress with which your enemies shall distress you.
+			</v>
+			<marker class="begin-verse" mid="v05028054">
+			</marker>
+			<v n="54">
+				The man 
+				<crossref let="d" cid="c05028054.107">
+				</crossref>
+				who is, 
+				<crossref let="e" cid="c05028054.108">
+				</crossref>
+				the most tender and refined among you will begrudge food to his brother, to the wife he embraces,(4) and to the last of the children whom he has left,
+				<note nid="n05028054.54">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028055">
+			</marker>
+			<v n="55">
+				so that 
+				<crossref let="f" cid="c05028055.109">
+				</crossref>
+				he will, 
+				<crossref let="g" cid="c05028055.110">
+				</crossref>
+				not give to any of them any of the flesh of his children whom he is eating, because he has nothing else left, in the siege and in the distress with which your enemy shall distress you in all your towns.
+			</v>
+			<marker class="begin-verse" mid="v05028056">
+			</marker>
+			<v n="56">
+				The most 
+				<crossref let="h" cid="c05028056.111">
+				</crossref>
+				tender and, 
+				<crossref let="i" cid="c05028056.112">
+				</crossref>
+				refined woman among you, who would not venture to set the sole of her foot on the ground because she is so delicate and tender, will begrudge to the husband she embraces,(5) to her son and to her daughter,
+			</v>
+			<marker class="begin-verse" mid="v05028057">
+			</marker>
+			<v n="57">
+				her afterbirth 
+				<crossref let="j" cid="c05028057.113">
+				</crossref>
+				that comes, 
+				<crossref let="k" cid="c05028057.114">
+				</crossref>
+				out from between her feet and her children whom she bears, because lacking everything she will eat them secretly, in the siege and in the distress with which your enemy shall distress you in your towns.
+				<note nid="n05028057.57">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028058">
+			</marker>
+			<v n="58">
+				“If you 
+				<crossref let="l" cid="c05028058.115">
+				</crossref>
+				are not, 
+				<crossref let="m" cid="c05028058.116">
+				</crossref>
+				careful to do all the words of this law that are written in this book, that you may fear this glorious and awesome name, the LORD your God,
+			</v>
+			<marker class="begin-verse" mid="v05028059">
+			</marker>
+			<v n="59">
+				then the 
+				<crossref let="n" cid="c05028059.117">
+				</crossref>
+				LORD will, 
+				<crossref let="o" cid="c05028059.118">
+				</crossref>
+				bring on you and your offspring extraordinary afflictions, afflictions severe and lasting, and sicknesses grievous and lasting.
+			</v>
+			<marker class="begin-verse" mid="v05028060">
+			</marker>
+			<v n="60">
+				And he 
+				<crossref let="p" cid="c05028060.119">
+				</crossref>
+				will bring, 
+				<crossref let="q" cid="c05028060.120">
+				</crossref>
+				upon you again all the diseases of Egypt, of which you were afraid, and they shall cling to you.
+				<note nid="n05028060.60">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028061">
+			</marker>
+			<v n="61">
+				Every sickness 
+				<crossref let="r" cid="c05028061.121">
+				</crossref>
+				also and, 
+				<crossref let="s" cid="c05028061.122">
+				</crossref>
+				every affliction that is not recorded in the book of this law, the LORD will bring upon you, until you are destroyed.
+			</v>
+			<marker class="begin-verse" mid="v05028062">
+			</marker>
+			<v n="62">
+				Whereas you 
+				<crossref let="t" cid="c05028062.123">
+				</crossref>
+				were as, 
+				<crossref let="u" cid="c05028062.124">
+				</crossref>
+				numerous as the stars of heaven, you shall be left few in number, because you did not obey the voice of the LORD your God.
+			</v>
+			<marker class="begin-verse" mid="v05028063">
+			</marker>
+			<v n="63">
+				And as 
+				<crossref let="v" cid="c05028063.125">
+				</crossref>
+				the LORD, 
+				<crossref let="w" cid="c05028063.126">
+				</crossref>
+				took delight in doing you good and multiplying you, so the LORD will take delight in bringing ruin upon you and destroying you. And you shall be plucked off the land that you are entering to take possession of it.
+				<note nid="n05028063.63">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028064">
+			</marker>
+			<v n="64">
+				“And the 
+				<crossref let="x" cid="c05028064.127">
+				</crossref>
+				LORD will, 
+				<crossref let="y" cid="c05028064.128">
+				</crossref>
+				scatter you among all peoples, from one end of the earth to the other, and there you shall serve other gods of wood and stone, which neither you nor your fathers have known.
+			</v>
+			<marker class="begin-verse" mid="v05028065">
+			</marker>
+			<v n="65">
+				And among 
+				<crossref let="z" cid="c05028065.129">
+				</crossref>
+				these nations, 
+				<crossref let="a" cid="c05028065.130">
+				</crossref>
+				you shall find no respite, and there shall be no resting place for the sole of your foot, but the LORD will give you there a trembling heart and failing eyes and a languishing soul.
+			</v>
+			<marker class="begin-verse" mid="v05028066">
+			</marker>
+			<v n="66">
+				Your life 
+				<crossref let="b" cid="c05028066.131">
+				</crossref>
+				shall hang, 
+				<crossref let="c" cid="c05028066.132">
+				</crossref>
+				in doubt before you. Night and day you shall be in dread and have no assurance of your life.
+				<note nid="n05028066.66">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05028067">
+			</marker>
+			<v n="67">
+				In the 
+				<crossref let="d" cid="c05028067.133">
+				</crossref>
+				morning you, 
+				<crossref let="e" cid="c05028067.134">
+				</crossref>
+				shall say, ‘If only it were evening!’ and at evening you shall say, ‘If only it were morning!’ because of the dread that your heart shall feel, and the sights that your eyes shall see.
+			</v>
+			<marker class="begin-verse" mid="v05028068">
+			</marker>
+			<v n="68">
+				And the 
+				<crossref let="f" cid="c05028068.135">
+				</crossref>
+				LORD will, 
+				<crossref let="g" cid="c05028068.136">
+				</crossref>
+				bring you back in ships to Egypt, a journey that I promised that you should never make again; and there you shall offer yourselves for sale to your enemies as male and female slaves, but there will be no buyer.” Footnotes (1) 28:22 Or *sword* (2) 28:29 Or *shall not succeed in finding your ways* (3) 28:42 Identity uncertain (4) 28:54 Hebrew *the wife of his bosom* (5) 28:56 Hebrew *the husband of her bosom* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v05028069">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

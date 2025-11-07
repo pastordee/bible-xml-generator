@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:18:23.224528</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:18:23.224562</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19070001"/>
+		<chapter num="70">
+			<heading>Hurry, O LORD, to Help Me!(Psalms 40:1–17; Psalms 141:1–10)For the choirmaster. Of David. To bring remembrance.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Make haste, 
+				<crossref let="b" cid="c190701.1"/>
+				 O God, to deliver me!Hurry, O LORD, to help me!
+			</v>
+			<marker class="begin-verse" mid="v19070002"/>
+			<v n="2">
+				May those 
+				<crossref let="c" cid="c190702.1"/>
+				 who seek my lifebe ashamed and confounded;may those who wish me harmbe repelled and humiliated.
+			</v>
+			<marker class="begin-verse" mid="v19070003"/>
+			<v n="3">
+				May those 
+				<crossref let="d" cid="c190703.1"/>
+				 who say, “Aha, aha!”retreat because of their shame.
+			</v>
+			<marker class="begin-verse" mid="v19070004"/>
+			<v n="4">
+				May all 
+				<crossref let="e" cid="c190704.1"/>
+				 who seek Yourejoice and be glad in You;may those who love Your salvation always say,“Let God be magnified!”
+			</v>
+			<marker class="begin-verse" mid="v19070005"/>
+			<v n="5">
+				But I 
+				<crossref let="f" cid="c190705.1"/>
+				 am poor and needy;hurry to me, O God.You are my help and my deliverer;O LORD, do not delay.
+			</v>
+			<marker class="begin-verse" mid="v19070006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

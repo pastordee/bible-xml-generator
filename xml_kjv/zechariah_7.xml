@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:34:53.439914</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:34:53.439931</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" version="KJV" bookAbbr="zec">
+		<marker class="begin-verse" mid="v38007001"/>
+		<chapter num="7">
+			<begin-paragraph/>
+			<v n="1">
+				And it 
+				<crossref let="b" cid="c380071.1"/>
+				 came to pass in the fourth year of king Darius, that the word of the LORD came unto Zechariah in the fourth day of the ninth month, even in Chisleu;
+			</v>
+			<marker class="begin-verse" mid="v38007002"/>
+			<v n="2">
+				When they 
+				<crossref let="c" cid="c380072.1"/>
+				 had sent unto the house of God Sherezer and Regem-melech, and their men, to pray before the LORD,
+			</v>
+			<marker class="begin-verse" mid="v38007003"/>
+			<v n="3">
+				And to 
+				<crossref let="d" cid="c380073.1"/>
+				 speak unto the priests which were in the house of the LORD of hosts, and to the prophets, saying, Should I weep in the fifth month, separating myself, as I have done these so many years?
+			</v>
+			<marker class="begin-verse" mid="v38007004"/>
+			<v n="4">
+				¶ Then 
+				<crossref let="e" cid="c380074.1"/>
+				 came the word of the LORD of hosts unto me, saying,
+			</v>
+			<marker class="begin-verse" mid="v38007005"/>
+			<v n="5">
+				Speak unto 
+				<crossref let="f" cid="c380075.1"/>
+				 all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me?
+			</v>
+			<marker class="begin-verse" mid="v38007006"/>
+			<v n="6">
+				And when 
+				<crossref let="g" cid="c380076.1"/>
+				 ye did eat, and when ye did drink, did not ye eat for yourselves, and drink for yourselves?
+			</v>
+			<marker class="begin-verse" mid="v38007007"/>
+			<v n="7">
+				Should ye 
+				<crossref let="h" cid="c380077.1"/>
+				 not hear the words which the LORD hath cried by the former prophets, when Jerusalem was inhabited and in prosperity, and the cities thereof round about her, when men inhabited the south and the plain?
+			</v>
+			<marker class="begin-verse" mid="v38007008"/>
+			<v n="8">
+				¶ And 
+				<crossref let="i" cid="c380078.1"/>
+				 the word of the LORD came unto Zechariah, saying,
+			</v>
+			<marker class="begin-verse" mid="v38007009"/>
+			<v n="9">
+				Thus speaketh 
+				<crossref let="j" cid="c380079.1"/>
+				 the LORD of hosts, saying, Execute true judgment, and shew mercy and compassions every man to his brother:
+			</v>
+			<marker class="begin-verse" mid="v38007010"/>
+			<v n="10">
+				And oppress 
+				<crossref let="k" cid="c3800710.1"/>
+				 not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.
+			</v>
+			<marker class="begin-verse" mid="v38007011"/>
+			<v n="11">
+				But they 
+				<crossref let="l" cid="c3800711.1"/>
+				 refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear.
+			</v>
+			<marker class="begin-verse" mid="v38007012"/>
+			<v n="12">
+				Yea, they 
+				<crossref let="m" cid="c3800712.1"/>
+				 made their hearts as an adamant stone, lest they should hear the law, and the words which the LORD of hosts hath sent in his spirit by the former prophets: therefore came a great wrath from the LORD of hosts.
+			</v>
+			<marker class="begin-verse" mid="v38007013"/>
+			<v n="13">
+				Therefore it 
+				<crossref let="n" cid="c3800713.1"/>
+				 is come to pass, that as he cried, and they would not hear; so they cried, and I would not hear, saith the LORD of hosts:
+			</v>
+			<marker class="begin-verse" mid="v38007014"/>
+			<v n="14">
+				But I 
+				<crossref let="o" cid="c3800714.1"/>
+				 scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate.
+			</v>
+			<marker class="begin-verse" mid="v38007015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

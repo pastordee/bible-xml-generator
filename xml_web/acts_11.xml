@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:30:22.624509</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:30:22.624541</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" version="WEB" bookAbbr="act">
+		<marker class="begin-verse" mid="v44011001"/>
+		<chapter num="11">
+			<begin-paragraph/>
+			<v n="1">
+				Now the 
+				<crossref let="b" cid="c440111.1"/>
+				 apostles and the brothers who were in Judea heard that the Gentiles had also received the word of God.
+			</v>
+			<marker class="begin-verse" mid="v44011002"/>
+			<v n="2">
+				When Peter 
+				<crossref let="c" cid="c440112.1"/>
+				 had come up to Jerusalem, those who were of the circumcision contended with him,
+			</v>
+			<marker class="begin-verse" mid="v44011003"/>
+			<v n="3">
+				saying, “You 
+				<crossref let="d" cid="c440113.1"/>
+				 went in to uncircumcised men and ate with them!”
+			</v>
+			<marker class="begin-verse" mid="v44011004"/>
+			<v n="4">
+				But Peter 
+				<crossref let="e" cid="c440114.1"/>
+				 began, and explained to them in order, saying,
+			</v>
+			<marker class="begin-verse" mid="v44011005"/>
+			<v n="5">
+				“I was 
+				<crossref let="f" cid="c440115.1"/>
+				 in the city of Joppa praying, and in a trance I saw a vision: a certain container descending, like it was a great sheet let down from heaven by four corners. It came as far as me.
+			</v>
+			<marker class="begin-verse" mid="v44011006"/>
+			<v n="6">
+				When I 
+				<crossref let="g" cid="c440116.1"/>
+				 had looked intently at it, I considered, and saw the four-footed animals of the earth, wild animals, creeping things, and birds of the sky.
+			</v>
+			<marker class="begin-verse" mid="v44011007"/>
+			<v n="7">
+				I also 
+				<crossref let="h" cid="c440117.1"/>
+				 heard a voice saying to me, ‘Rise, Peter, kill and eat!’
+			</v>
+			<marker class="begin-verse" mid="v44011008"/>
+			<v n="8">
+				But I 
+				<crossref let="i" cid="c440118.1"/>
+				 said, ‘Not so, Lord, for nothing unholy or unclean has ever entered into my mouth.’
+			</v>
+			<marker class="begin-verse" mid="v44011009"/>
+			<v n="9">
+				But a 
+				<crossref let="j" cid="c440119.1"/>
+				 voice answered me the second time out of heaven, ‘What God has cleansed, don’t you call unclean.’
+			</v>
+			<marker class="begin-verse" mid="v44011010"/>
+			<v n="10">
+				This was 
+				<crossref let="k" cid="c4401110.1"/>
+				 done three times, and all were drawn up again into heaven.
+			</v>
+			<marker class="begin-verse" mid="v44011011"/>
+			<v n="11">
+				Behold, immediately 
+				<crossref let="l" cid="c4401111.1"/>
+				 three men stood before the house where I was, having been sent from Caesarea to me.
+			</v>
+			<marker class="begin-verse" mid="v44011012"/>
+			<v n="12">
+				The Spirit 
+				<crossref let="m" cid="c4401112.1"/>
+				 told me to go with them without discriminating. These six brothers also accompanied me, and we entered into the man’s house.
+			</v>
+			<marker class="begin-verse" mid="v44011013"/>
+			<v n="13">
+				He told 
+				<crossref let="n" cid="c4401113.1"/>
+				 us how he had seen the angel standing in his house and saying to him, ‘Send to Joppa and get Simon, who is called Peter,
+			</v>
+			<marker class="begin-verse" mid="v44011014"/>
+			<v n="14">
+				who will 
+				<crossref let="o" cid="c4401114.1"/>
+				 speak to you words by which you will be saved, you and all your house.’
+			</v>
+			<marker class="begin-verse" mid="v44011015"/>
+			<v n="15">
+				As I 
+				<crossref let="p" cid="c4401115.1"/>
+				 began to speak, the Holy Spirit fell on them, even as on us at the beginning.
+			</v>
+			<marker class="begin-verse" mid="v44011016"/>
+			<v n="16">
+				I remembered 
+				<crossref let="q" cid="c4401116.1"/>
+				 the word of the Lord, how he said, ‘John indeed baptized in water, but you will be baptized in the Holy Spirit.’
+			</v>
+			<marker class="begin-verse" mid="v44011017"/>
+			<v n="17">
+				If then 
+				<crossref let="r" cid="c4401117.1"/>
+				 God gave to them the same gift as us when we believed in the Lord Jesus Christ, who was I, that I could withstand God?”
+			</v>
+			<marker class="begin-verse" mid="v44011018"/>
+			<v n="18">
+				When they 
+				<crossref let="s" cid="c4401118.1"/>
+				 heard these things, they held their peace and glorified God, saying, “Then God has also granted to the Gentiles repentance to life!”
+			</v>
+			<marker class="begin-verse" mid="v44011019"/>
+			<v n="19">
+				They therefore 
+				<crossref let="t" cid="c4401119.1"/>
+				 who were scattered abroad by the oppression that arose about Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the word to no one except to Jews only.
+			</v>
+			<marker class="begin-verse" mid="v44011020"/>
+			<v n="20">
+				But there 
+				<crossref let="u" cid="c4401120.1"/>
+				 were some of them, men of Cyprus and Cyrene, who, when they had come to Antioch, spoke to the Hellenists, preaching the Lord Jesus.
+			</v>
+			<marker class="begin-verse" mid="v44011021"/>
+			<v n="21">
+				The hand 
+				<crossref let="v" cid="c4401121.1"/>
+				 of the Lord was with them, and a great number believed and turned to the Lord.
+			</v>
+			<marker class="begin-verse" mid="v44011022"/>
+			<v n="22">
+				The report 
+				<crossref let="w" cid="c4401122.1"/>
+				 concerning them came to the ears of the assembly which was in Jerusalem. They sent out Barnabas to go as far as Antioch,
+			</v>
+			<marker class="begin-verse" mid="v44011023"/>
+			<v n="23">
+				who, when 
+				<crossref let="x" cid="c4401123.1"/>
+				 he had come, and had seen the grace of God, was glad. He exhorted them all, that with purpose of heart they should remain near to the Lord.
+			</v>
+			<marker class="begin-verse" mid="v44011024"/>
+			<v n="24">
+				For he 
+				<crossref let="y" cid="c4401124.1"/>
+				 was a good man, and full of the Holy Spirit and of faith, and many people were added to the Lord.
+			</v>
+			<marker class="begin-verse" mid="v44011025"/>
+			<v n="25">
+				Barnabas went 
+				<crossref let="z" cid="c4401125.1"/>
+				 out to Tarsus to look for Saul.
+			</v>
+			<marker class="begin-verse" mid="v44011026"/>
+			<v n="26">
+				When he 
+				<crossref let="a" cid="c4401126.1"/>
+				 had found him, he brought him to Antioch. For a whole year they were gathered together with the assembly, and taught many people. The disciples were first called Christians in Antioch.
+			</v>
+			<marker class="begin-verse" mid="v44011027"/>
+			<v n="27">
+				Now in 
+				<crossref let="b" cid="c4401127.1"/>
+				 these days, prophets came down from Jerusalem to Antioch.
+			</v>
+			<marker class="begin-verse" mid="v44011028"/>
+			<v n="28">
+				One of 
+				<crossref let="c" cid="c4401128.1"/>
+				 them named Agabus stood up and indicated by the Spirit that there should be a great famine all over the world, which also happened in the days of Claudius.
+			</v>
+			<marker class="begin-verse" mid="v44011029"/>
+			<v n="29">
+				As any 
+				<crossref let="d" cid="c4401129.1"/>
+				 of the disciples had plenty, each determined to send relief to the brothers who lived in Judea;
+			</v>
+			<marker class="begin-verse" mid="v44011030"/>
+			<v n="30">
+				which they 
+				<crossref let="e" cid="c4401130.1"/>
+				 also did, sending it to the elders by the hands of Barnabas and Saul.
+			</v>
+			<marker class="begin-verse" mid="v44011031"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

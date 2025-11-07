@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:14:14.078970</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:14:14.078990</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19020001"/>
+		<chapter num="20">
+			<heading>For the music director. A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				May the 
+				<crossref let="b" cid="c190201.1"/>
+				 Lord answer you when you are in trouble; may the name of the God of Jacob protect you.
+			</v>
+			<marker class="begin-verse" mid="v19020002"/>
+			<v n="2">
+				May the 
+				<crossref let="c" cid="c190202.1"/>
+				 Lord send you help from the sanctuary, and may he support you from Zion.
+			</v>
+			<marker class="begin-verse" mid="v19020003"/>
+			<v n="3">
+				May the 
+				<crossref let="d" cid="c190203.1"/>
+				 Lord remember all your offerings, and accept all your burnt sacrifices. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19020004"/>
+			<v n="4">
+				May the 
+				<crossref let="e" cid="c190204.1"/>
+				 Lord give you whatever you really want; may he make all your plans successful.
+			</v>
+			<marker class="begin-verse" mid="v19020005"/>
+			<v n="5">
+				May we 
+				<crossref let="f" cid="c190205.1"/>
+				 shout for joy over your victory, and set up banners in the name of our God. May the Lord answer all your requests.
+			</v>
+			<marker class="begin-verse" mid="v19020006"/>
+			<v n="6">
+				Now I 
+				<crossref let="g" cid="c190206.1"/>
+				 know that the Lord saves the one he has anointed. He will answer him from his holy heaven, and save his anointed by his powerful right hand.
+			</v>
+			<marker class="begin-verse" mid="v19020007"/>
+			<v n="7">
+				Some trust 
+				<crossref let="h" cid="c190207.1"/>
+				 in chariots and some in war horses, but we trust in who the Lord our God is.
+			</v>
+			<marker class="begin-verse" mid="v19020008"/>
+			<v n="8">
+				They collapse 
+				<crossref let="i" cid="c190208.1"/>
+				 and fall down, but we rise and stand up.
+			</v>
+			<marker class="begin-verse" mid="v19020009"/>
+			<v n="9">
+				May the 
+				<crossref let="j" cid="c190209.1"/>
+				 Lord save the king! Please answer us when we call for help!
+			</v>
+			<marker class="begin-verse" mid="v19020010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

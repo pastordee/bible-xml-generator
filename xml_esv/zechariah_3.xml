@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:03:38.368475</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:03:38.368511</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" bookAbbr="zec" version="ESV">
+		<marker class="begin-verse" mid="v38003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Zechariah 3
+			</heading>
+			<heading>
+				A Vision of Joshua the High Priest
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Then he 
+				<crossref let="b" cid="c38003001.1">
+				</crossref>
+				showed me, 
+				<crossref let="c" cid="c38003001.2">
+				</crossref>
+				Joshua the high priest standing before the angel of the LORD, and Satan(1) standing at his right hand to accuse him.
+			</v>
+			<marker class="begin-verse" mid="v38003002">
+			</marker>
+			<v n="2">
+				And the 
+				<crossref let="d" cid="c38003002.3">
+				</crossref>
+				LORD said, 
+				<crossref let="e" cid="c38003002.4">
+				</crossref>
+				to Satan, “The LORD rebuke you, O Satan! The LORD who has chosen Jerusalem rebuke you! Is not this a brand(2) plucked from the fire?”
+			</v>
+			<marker class="begin-verse" mid="v38003003">
+			</marker>
+			<v n="3">
+				Now Joshua 
+				<crossref let="f" cid="c38003003.5">
+				</crossref>
+				was standing, 
+				<crossref let="g" cid="c38003003.6">
+				</crossref>
+				before the angel, clothed with filthy garments.
+				<note nid="n38003003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v38003004">
+			</marker>
+			<v n="4" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And the 
+					<crossref let="h" cid="c38003004.7">
+				</crossref>
+					angel said, 
+					<crossref let="i" cid="c38003004.8">
+				</crossref>
+				to those who were standing before him, “Remove the filthy garments from him.” And to him he said, “Behold, I have taken your iniquity away from you, and I will clothe you with pure vestments.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v38003005">
+			</marker>
+			<v n="5">
+				And I 
+				<crossref let="j" cid="c38003005.9">
+				</crossref>
+				said, “Let, 
+				<crossref let="k" cid="c38003005.10">
+				</crossref>
+				them put a clean turban on his head.” So they put a clean turban on his head and clothed him with garments. And the angel of the LORD was standing by.
+			</v>
+			<marker class="begin-verse" mid="v38003006">
+			</marker>
+			<v n="6">
+				And the 
+				<crossref let="l" cid="c38003006.11">
+				</crossref>
+				angel of, 
+				<crossref let="m" cid="c38003006.12">
+				</crossref>
+				the LORD solemnly assured Joshua,
+				<note nid="n38003006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v38003007">
+			</marker>
+			<v n="7">
+				“Thus says 
+				<crossref let="n" cid="c38003007.13">
+				</crossref>
+				the LORD, 
+				<crossref let="o" cid="c38003007.14">
+				</crossref>
+				of hosts: If you will walk in my ways and keep my charge, then you shall rule my house and have charge of my courts, and I will give you the right of access among those who are standing here.
+			</v>
+			<marker class="begin-verse" mid="v38003008">
+			</marker>
+			<v n="8">
+				Hear now, 
+				<crossref let="p" cid="c38003008.15">
+				</crossref>
+				O Joshua, 
+				<crossref let="q" cid="c38003008.16">
+				</crossref>
+				the high priest, you and your friends who sit before you, for they are men who are a sign: behold, I will bring my servant the Branch.
+			</v>
+			<marker class="begin-verse" mid="v38003009">
+			</marker>
+			<v n="9">
+				For behold, 
+				<crossref let="r" cid="c38003009.17">
+				</crossref>
+				on the, 
+				<crossref let="s" cid="c38003009.18">
+				</crossref>
+				stone that I have set before Joshua, on a single stone with seven eyes,(3) I will engrave its inscription, declares the LORD of hosts, and I will remove the iniquity of this land in a single day.
+				<note nid="n38003009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v38003010">
+			</marker>
+			<v n="10">
+				In that 
+				<crossref let="t" cid="c38003010.19">
+				</crossref>
+				day, declares, 
+				<crossref let="u" cid="c38003010.20">
+				</crossref>
+				the LORD of hosts, every one of you will invite his neighbor to come under his vine and under his fig tree.” Footnotes (1) 3:1 Hebrew *the Accuser* or *the Adversary* (2) 3:2 That is, a burning stick (3) 3:9 Or *facets* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v38003011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

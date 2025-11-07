@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:29:21.878433</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:29:21.878452</next_refresh_due>
+	</generation_info>
+	<book title="1 Chronicles" num="13" testament="old" version="WEB" bookAbbr="1ch">
+		<marker class="begin-verse" mid="v13002001"/>
+		<chapter num="2">
+			<begin-paragraph/>
+			<v n="1">
+				These are 
+				<crossref let="b" cid="c130021.1"/>
+				 the sons of Israel: Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
+			</v>
+			<marker class="begin-verse" mid="v13002002"/>
+			<v n="2">
+				Dan, Joseph, 
+				<crossref let="c" cid="c130022.1"/>
+				 Benjamin, Naphtali, Gad, and Asher.
+			</v>
+			<marker class="begin-verse" mid="v13002003"/>
+			<v n="3">
+				The sons 
+				<crossref let="d" cid="c130023.1"/>
+				 of Judah: Er, Onan, and Shelah, which three were born to him of Shua’s daughter the Canaanitess. Er, Judah’s firstborn, was wicked in Yahweh’s sight; and he killed him.
+			</v>
+			<marker class="begin-verse" mid="v13002004"/>
+			<v n="4">
+				Tamar his 
+				<crossref let="e" cid="c130024.1"/>
+				 daughter-in-law bore him Perez and Zerah. All the sons of Judah were five.
+			</v>
+			<marker class="begin-verse" mid="v13002005"/>
+			<v n="5">
+				The sons 
+				<crossref let="f" cid="c130025.1"/>
+				 of Perez: Hezron and Hamul.
+			</v>
+			<marker class="begin-verse" mid="v13002006"/>
+			<v n="6">
+				The sons 
+				<crossref let="g" cid="c130026.1"/>
+				 of Zerah: Zimri, Ethan, Heman, Calcol, and Dara—five of them in all.
+			</v>
+			<marker class="begin-verse" mid="v13002007"/>
+			<v n="7">
+				The son 
+				<crossref let="h" cid="c130027.1"/>
+				 of Carmi: Achar, the troubler of Israel, who committed a trespass in the devoted thing.
+			</v>
+			<marker class="begin-verse" mid="v13002008"/>
+			<v n="8">
+				The son 
+				<crossref let="i" cid="c130028.1"/>
+				 of Ethan: Azariah.
+			</v>
+			<marker class="begin-verse" mid="v13002009"/>
+			<v n="9">
+				The sons 
+				<crossref let="j" cid="c130029.1"/>
+				 also of Hezron, who were born to him: Jerahmeel, Ram, and Chelubai.
+			</v>
+			<marker class="begin-verse" mid="v13002010"/>
+			<v n="10">
+				Ram became 
+				<crossref let="k" cid="c1300210.1"/>
+				 the father of Amminadab, and Amminadab became the father of Nahshon, prince of the children of Judah;
+			</v>
+			<marker class="begin-verse" mid="v13002011"/>
+			<v n="11">
+				and Nahshon 
+				<crossref let="l" cid="c1300211.1"/>
+				 became the father of Salma, and Salma became the father of Boaz,
+			</v>
+			<marker class="begin-verse" mid="v13002012"/>
+			<v n="12">
+				and Boaz 
+				<crossref let="m" cid="c1300212.1"/>
+				 became the father of Obed, and Obed became the father of Jesse;
+			</v>
+			<marker class="begin-verse" mid="v13002013"/>
+			<v n="13">
+				and Jesse 
+				<crossref let="n" cid="c1300213.1"/>
+				 became the father of his firstborn Eliab, Abinadab the second, Shimea the third,
+			</v>
+			<marker class="begin-verse" mid="v13002014"/>
+			<v n="14">
+				Nethanel the 
+				<crossref let="o" cid="c1300214.1"/>
+				 fourth, Raddai the fifth,
+			</v>
+			<marker class="begin-verse" mid="v13002015"/>
+			<v n="15">
+				Ozem the 
+				<crossref let="p" cid="c1300215.1"/>
+				 sixth, and David the seventh;
+			</v>
+			<marker class="begin-verse" mid="v13002016"/>
+			<v n="16">
+				and their 
+				<crossref let="q" cid="c1300216.1"/>
+				 sisters were Zeruiah and Abigail. The sons of Zeruiah: Abishai, Joab, and Asahel, three.
+			</v>
+			<marker class="begin-verse" mid="v13002017"/>
+			<v n="17">
+				Abigail bore 
+				<crossref let="r" cid="c1300217.1"/>
+				 Amasa; and the father of Amasa was Jether the Ishmaelite.
+			</v>
+			<marker class="begin-verse" mid="v13002018"/>
+			<v n="18">
+				Caleb the 
+				<crossref let="s" cid="c1300218.1"/>
+				 son of Hezron became the father of children by Azubah his wife, and by Jerioth; and these were her sons: Jesher, Shobab, and Ardon.
+			</v>
+			<marker class="begin-verse" mid="v13002019"/>
+			<v n="19">
+				Azubah died, 
+				<crossref let="t" cid="c1300219.1"/>
+				 and Caleb married Ephrath, who bore him Hur.
+			</v>
+			<marker class="begin-verse" mid="v13002020"/>
+			<v n="20">
+				Hur became 
+				<crossref let="u" cid="c1300220.1"/>
+				 the father of Uri, and Uri became the father of Bezalel.
+			</v>
+			<marker class="begin-verse" mid="v13002021"/>
+			<v n="21">
+				Afterward Hezron 
+				<crossref let="v" cid="c1300221.1"/>
+				 went in to the daughter of Machir the father of Gilead, whom he took as wife when he was sixty years old; and she bore him Segub.
+			</v>
+			<marker class="begin-verse" mid="v13002022"/>
+			<v n="22">
+				Segub became 
+				<crossref let="w" cid="c1300222.1"/>
+				 the father of Jair, who had twenty-three cities in the land of Gilead.
+			</v>
+			<marker class="begin-verse" mid="v13002023"/>
+			<v n="23">
+				Geshur and 
+				<crossref let="x" cid="c1300223.1"/>
+				 Aram took the towns of Jair from them, with Kenath, and its villages, even sixty cities. All these were the sons of Machir the father of Gilead.
+			</v>
+			<marker class="begin-verse" mid="v13002024"/>
+			<v n="24">
+				After Hezron 
+				<crossref let="y" cid="c1300224.1"/>
+				 died in Caleb Ephrathah, Abijah, Hezron’s wife, bore him Ashhur the father of Tekoa.
+			</v>
+			<marker class="begin-verse" mid="v13002025"/>
+			<v n="25">
+				The sons 
+				<crossref let="z" cid="c1300225.1"/>
+				 of Jerahmeel the firstborn of Hezron were Ram the firstborn, Bunah, Oren, Ozem, and Ahijah.
+			</v>
+			<marker class="begin-verse" mid="v13002026"/>
+			<v n="26">
+				Jerahmeel had 
+				<crossref let="a" cid="c1300226.1"/>
+				 another wife, whose name was Atarah. She was the mother of Onam.
+			</v>
+			<marker class="begin-verse" mid="v13002027"/>
+			<v n="27">
+				The sons 
+				<crossref let="b" cid="c1300227.1"/>
+				 of Ram the firstborn of Jerahmeel were Maaz, Jamin, and Eker.
+			</v>
+			<marker class="begin-verse" mid="v13002028"/>
+			<v n="28">
+				The sons 
+				<crossref let="c" cid="c1300228.1"/>
+				 of Onam were Shammai and Jada. The sons of Shammai: Nadab and Abishur.
+			</v>
+			<marker class="begin-verse" mid="v13002029"/>
+			<v n="29">
+				The name 
+				<crossref let="d" cid="c1300229.1"/>
+				 of the wife of Abishur was Abihail; and she bore him Ahban and Molid.
+			</v>
+			<marker class="begin-verse" mid="v13002030"/>
+			<v n="30">
+				The sons 
+				<crossref let="e" cid="c1300230.1"/>
+				 of Nadab: Seled and Appaim; but Seled died without children.
+			</v>
+			<marker class="begin-verse" mid="v13002031"/>
+			<v n="31">
+				The son 
+				<crossref let="f" cid="c1300231.1"/>
+				 of Appaim: Ishi. The son of Ishi: Sheshan. The son of Sheshan: Ahlai.
+			</v>
+			<marker class="begin-verse" mid="v13002032"/>
+			<v n="32">
+				The sons 
+				<crossref let="g" cid="c1300232.1"/>
+				 of Jada the brother of Shammai: Jether and Jonathan; and Jether died without children.
+			</v>
+			<marker class="begin-verse" mid="v13002033"/>
+			<v n="33">
+				The sons 
+				<crossref let="h" cid="c1300233.1"/>
+				 of Jonathan: Peleth and Zaza. These were the sons of Jerahmeel.
+			</v>
+			<marker class="begin-verse" mid="v13002034"/>
+			<v n="34">
+				Now Sheshan 
+				<crossref let="i" cid="c1300234.1"/>
+				 had no sons, but only daughters. Sheshan had a servant, an Egyptian, whose name was Jarha.
+			</v>
+			<marker class="begin-verse" mid="v13002035"/>
+			<v n="35">
+				Sheshan gave 
+				<crossref let="j" cid="c1300235.1"/>
+				 his daughter to Jarha his servant as wife; and she bore him Attai.
+			</v>
+			<marker class="begin-verse" mid="v13002036"/>
+			<v n="36">
+				Attai became 
+				<crossref let="k" cid="c1300236.1"/>
+				 the father of Nathan, and Nathan became the father of Zabad,
+			</v>
+			<marker class="begin-verse" mid="v13002037"/>
+			<v n="37">
+				and Zabad 
+				<crossref let="l" cid="c1300237.1"/>
+				 became the father of Ephlal, and Ephlal became the father of Obed,
+			</v>
+			<marker class="begin-verse" mid="v13002038"/>
+			<v n="38">
+				and Obed 
+				<crossref let="m" cid="c1300238.1"/>
+				 became the father of Jehu, and Jehu became the father of Azariah,
+			</v>
+			<marker class="begin-verse" mid="v13002039"/>
+			<v n="39">
+				and Azariah 
+				<crossref let="n" cid="c1300239.1"/>
+				 became the father of Helez, and Helez became the father of Eleasah,
+			</v>
+			<marker class="begin-verse" mid="v13002040"/>
+			<v n="40">
+				and Eleasah 
+				<crossref let="o" cid="c1300240.1"/>
+				 became the father of Sismai, and Sismai became the father of Shallum,
+			</v>
+			<marker class="begin-verse" mid="v13002041"/>
+			<v n="41">
+				and Shallum 
+				<crossref let="p" cid="c1300241.1"/>
+				 became the father of Jekamiah, and Jekamiah became the father of Elishama.
+			</v>
+			<marker class="begin-verse" mid="v13002042"/>
+			<v n="42">
+				The sons 
+				<crossref let="q" cid="c1300242.1"/>
+				 of Caleb the brother of Jerahmeel were Mesha his firstborn, who was the father of Ziph, and the sons of Mareshah the father of Hebron.
+			</v>
+			<marker class="begin-verse" mid="v13002043"/>
+			<v n="43">
+				The sons 
+				<crossref let="r" cid="c1300243.1"/>
+				 of Hebron: Korah, Tappuah, Rekem, and Shema.
+			</v>
+			<marker class="begin-verse" mid="v13002044"/>
+			<v n="44">
+				Shema became 
+				<crossref let="s" cid="c1300244.1"/>
+				 the father of Raham, the father of Jorkeam; and Rekem became the father of Shammai.
+			</v>
+			<marker class="begin-verse" mid="v13002045"/>
+			<v n="45">
+				The son 
+				<crossref let="t" cid="c1300245.1"/>
+				 of Shammai was Maon; and Maon was the father of Beth Zur.
+			</v>
+			<marker class="begin-verse" mid="v13002046"/>
+			<v n="46">
+				Ephah, Caleb’s 
+				<crossref let="u" cid="c1300246.1"/>
+				 concubine, bore Haran, Moza, and Gazez; and Haran became the father of Gazez.
+			</v>
+			<marker class="begin-verse" mid="v13002047"/>
+			<v n="47">
+				The sons 
+				<crossref let="v" cid="c1300247.1"/>
+				 of Jahdai: Regem, Jothan, Geshan, Pelet, Ephah, and Shaaph.
+			</v>
+			<marker class="begin-verse" mid="v13002048"/>
+			<v n="48">
+				Maacah, Caleb’s 
+				<crossref let="w" cid="c1300248.1"/>
+				 concubine, bore Sheber and Tirhanah.
+			</v>
+			<marker class="begin-verse" mid="v13002049"/>
+			<v n="49">
+				She bore 
+				<crossref let="x" cid="c1300249.1"/>
+				 also Shaaph the father of Madmannah, Sheva the father of Machbena and the father of Gibea; and the daughter of Caleb was Achsah.
+			</v>
+			<marker class="begin-verse" mid="v13002050"/>
+			<v n="50">
+				These were 
+				<crossref let="y" cid="c1300250.1"/>
+				 the sons of Caleb, the son of Hur, the firstborn of Ephrathah: Shobal the father of Kiriath Jearim,
+			</v>
+			<marker class="begin-verse" mid="v13002051"/>
+			<v n="51">
+				Salma the 
+				<crossref let="z" cid="c1300251.1"/>
+				 father of Bethlehem, and Hareph the father of Beth Gader.
+			</v>
+			<marker class="begin-verse" mid="v13002052"/>
+			<v n="52">
+				Shobal the 
+				<crossref let="a" cid="c1300252.1"/>
+				 father of Kiriath Jearim had sons: Haroeh, half of the Menuhoth.
+			</v>
+			<marker class="begin-verse" mid="v13002053"/>
+			<v n="53">
+				The families 
+				<crossref let="b" cid="c1300253.1"/>
+				 of Kiriath Jearim: the Ithrites, the Puthites, the Shumathites, and the Mishraites; from them came the Zorathites and the Eshtaolites.
+			</v>
+			<marker class="begin-verse" mid="v13002054"/>
+			<v n="54">
+				The sons 
+				<crossref let="c" cid="c1300254.1"/>
+				 of Salma: Bethlehem, the Netophathites, Atroth Beth Joab, and half of the Manahathites, the Zorites.
+			</v>
+			<marker class="begin-verse" mid="v13002055"/>
+			<v n="55">
+				The families 
+				<crossref let="d" cid="c1300255.1"/>
+				 of scribes who lived at Jabez: the Tirathites, the Shimeathites, and the Sucathites. These are the Kenites who came from Hammath, the father of the house of Rechab.
+			</v>
+			<marker class="begin-verse" mid="v13002056"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

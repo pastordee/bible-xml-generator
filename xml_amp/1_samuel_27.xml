@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:59.951380</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:59.951388</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" version="AMP" bookAbbr="1sa">
+		<marker class="begin-verse" mid="v09027001"/>
+		<chapter num="27">
+			<heading>David Flees to the Philistines</heading>
+			<begin-paragraph/>
+			<v n="1">
+				But David 
+				<crossref let="b" cid="c090271.1"/>
+				 said in his heart, “Now I will die one day by the hand of Saul. There is nothing better for me than to escape to the land of the Philistines. Then Saul will give up searching for me inside the borders of Israel, and I will escape from his hand [once and for all].”
+			</v>
+			<marker class="begin-verse" mid="v09027002"/>
+			<v n="2">
+				So David 
+				<crossref let="c" cid="c090272.1"/>
+				 and the six hundred men who were with him arose and crossed over to Achish the son of Maoch, king of Gath.
+			</v>
+			<marker class="begin-verse" mid="v09027003"/>
+			<v n="3">
+				And David 
+				<crossref let="d" cid="c090273.1"/>
+				 lived with Achish at Gath, he and his men, each man with his household, and David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, [who was] Nabal’s widow.
+			</v>
+			<marker class="begin-verse" mid="v09027004"/>
+			<v n="4">
+				When Saul 
+				<crossref let="e" cid="c090274.1"/>
+				 was told that David had fled to Gath, he no longer searched for him.
+			</v>
+			<marker class="begin-verse" mid="v09027005"/>
+			<v n="5">
+				Then David 
+				<crossref let="f" cid="c090275.1"/>
+				 said to Achish, “If I have found favor in your sight, let me be given a place [of my own] in one of the cities in the country, so that I may live there; for why should your servant live in the royal city with you?”
+			</v>
+			<marker class="begin-verse" mid="v09027006"/>
+			<v n="6">
+				Then Achish 
+				<crossref let="g" cid="c090276.1"/>
+				 gave David [the town of] Ziklag that day. Therefore Ziklag has belonged to the kings of Judah to this day.
+			</v>
+			<marker class="begin-verse" mid="v09027007"/>
+			<v n="7">
+				The number 
+				<crossref let="h" cid="c090277.1"/>
+				 of days that David lived in the country of the Philistines was a year and four months.
+			</v>
+			<marker class="begin-verse" mid="v09027008"/>
+			<v n="8">
+				Now David 
+				<crossref let="i" cid="c090278.1"/>
+				 and his men went up and raided the Geshurites, the Girzites, and the Amalekites [the enemies of Israel that Joshua had failed to annihilate]; for they had inhabited the land from ancient times, as one comes to Shur even as far as the land of Egypt. [Deut 25:19; Josh 13:1, 2, 13]
+			</v>
+			<marker class="begin-verse" mid="v09027009"/>
+			<v n="9">
+				David attacked 
+				<crossref let="j" cid="c090279.1"/>
+				 the land and did not leave a man or a woman alive, but he took the sheep, the cattle, the donkeys, the camels, and the clothing, and returned to Achish.
+			</v>
+			<marker class="begin-verse" mid="v09027010"/>
+			<v n="10">
+				When Achish 
+				<crossref let="k" cid="c0902710.1"/>
+				 asked, “Where did you raid today?” David replied, “Against the Negev (the South country) of Judah, and against the Negev of the Jerahmeelites, and against the Negev of the Kenites.”
+			</v>
+			<marker class="begin-verse" mid="v09027011"/>
+			<v n="11">
+				David did 
+				<crossref let="l" cid="c0902711.1"/>
+				 not leave a man or a woman alive to bring news to Gath, saying [to himself], “Otherwise they will tell about us, saying, ‘This is what David has done, and this has been his practice all the time that he has lived in the country of the Philistines.’ ”
+			</v>
+			<marker class="begin-verse" mid="v09027012"/>
+			<v n="12">
+				Achish believed 
+				<crossref let="m" cid="c0902712.1"/>
+				 David, saying, “He has certainly become hated by his people in Israel; so he will always be my servant.”
+			</v>
+			<marker class="begin-verse" mid="v09027013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

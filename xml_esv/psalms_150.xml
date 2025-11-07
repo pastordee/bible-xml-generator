@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:40.595949</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:40.595957</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19150001">
+		</marker>
+		<chapter num="150">
+			<heading>
+				Psalm 150
+			</heading>
+			<heading>
+				Let Everything Praise the LORD
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c19150001.1">
+				</crossref>
+				LORD! Praise, 
+				<crossref let="c" cid="c19150001.2">
+				</crossref>
+				God in his sanctuary; praise him in his mighty heavens!(1)
+			</v>
+			<marker class="begin-verse" mid="v19150002">
+			</marker>
+			<v n="2">
+				Praise him 
+				<crossref let="d" cid="c19150002.3">
+				</crossref>
+				for his, 
+				<crossref let="e" cid="c19150002.4">
+				</crossref>
+				mighty deeds; praise him according to his excellent greatness!
+			</v>
+			<marker class="begin-verse" mid="v19150003">
+			</marker>
+			<v n="3">
+				Praise him 
+				<crossref let="f" cid="c19150003.5">
+				</crossref>
+				with trumpet, 
+				<crossref let="g" cid="c19150003.6">
+				</crossref>
+				sound; praise him with lute and harp!
+				<note nid="n19150003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19150004">
+			</marker>
+			<v n="4">
+				Praise him 
+				<crossref let="h" cid="c19150004.7">
+				</crossref>
+				with tambourine, 
+				<crossref let="i" cid="c19150004.8">
+				</crossref>
+				and dance; praise him with strings and pipe!
+			</v>
+			<marker class="begin-verse" mid="v19150005">
+			</marker>
+			<v n="5">
+				Praise him 
+				<crossref let="j" cid="c19150005.9">
+				</crossref>
+				with sounding, 
+				<crossref let="k" cid="c19150005.10">
+				</crossref>
+				cymbals; praise him with loud clashing cymbals!
+			</v>
+			<marker class="begin-verse" mid="v19150006">
+			</marker>
+			<v n="6">
+				Let everything 
+				<crossref let="l" cid="c19150006.11">
+				</crossref>
+				that has, 
+				<crossref let="m" cid="c19150006.12">
+				</crossref>
+				breath praise the LORD! Praise the LORD! Footnotes (1) 150:1 Hebrew *expanse* (compare Genesis 1:6–8) (ESV)
+				<note nid="n19150006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19150007">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

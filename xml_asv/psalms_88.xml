@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:34:43.032263</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:34:43.032282</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19088001"/>
+		<chapter num="88">
+			<heading>A Song, a Psalm of the sons of Korah; for the Chief Musician; set to Mahalath Leannoth. Maschil of Heman the Ezrahite.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O Jehovah, 
+				<crossref let="b" cid="c190881.1"/>
+				 the God of my salvation,I have cried day and night before thee.
+			</v>
+			<marker class="begin-verse" mid="v19088002"/>
+			<v n="2">
+				Let my 
+				<crossref let="c" cid="c190882.1"/>
+				 prayer enter into thy presence;Incline thine ear unto my cry.
+			</v>
+			<marker class="begin-verse" mid="v19088003"/>
+			<v n="3">
+				For my 
+				<crossref let="d" cid="c190883.1"/>
+				 soul is full of troubles,And my life draweth nigh unto Sheol.
+			</v>
+			<marker class="begin-verse" mid="v19088004"/>
+			<v n="4">
+				I am 
+				<crossref let="e" cid="c190884.1"/>
+				 reckoned with them that go down into the pit;I am as a man that hath no help,
+			</v>
+			<marker class="begin-verse" mid="v19088005"/>
+			<v n="5">
+				Cast off 
+				<crossref let="f" cid="c190885.1"/>
+				 among the dead,Like the slain that lie in the grave,Whom thou rememberest no more,And they are cut off from thy hand.
+			</v>
+			<marker class="begin-verse" mid="v19088006"/>
+			<v n="6">
+				Thou hast 
+				<crossref let="g" cid="c190886.1"/>
+				 laid me in the lowest pit,In dark places, in the deeps.
+			</v>
+			<marker class="begin-verse" mid="v19088007"/>
+			<v n="7">
+				Thy wrath 
+				<crossref let="h" cid="c190887.1"/>
+				 lieth hard upon me,And thou hast afflicted me with all thy waves. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19088008"/>
+			<v n="8">
+				Thou hast 
+				<crossref let="i" cid="c190888.1"/>
+				 put mine acquaintance far from me;Thou hast made me an abomination unto them:I am shut up, and I cannot come forth.
+			</v>
+			<marker class="begin-verse" mid="v19088009"/>
+			<v n="9">
+				Mine eye 
+				<crossref let="j" cid="c190889.1"/>
+				 wasteth away by reason of affliction:I have called daily upon thee, O Jehovah;I have spread forth my hands unto thee.
+			</v>
+			<marker class="begin-verse" mid="v19088010"/>
+			<v n="10">
+				Wilt thou 
+				<crossref let="k" cid="c1908810.1"/>
+				 show wonders to the dead?Shall they that are deceased arise and praise thee? [Selah
+			</v>
+			<marker class="begin-verse" mid="v19088011"/>
+			<v n="11">
+				Shall thy 
+				<crossref let="l" cid="c1908811.1"/>
+				 lovingkindness be declared in the grave?Or thy faithfulness in Destruction?
+			</v>
+			<marker class="begin-verse" mid="v19088012"/>
+			<v n="12">
+				Shall thy 
+				<crossref let="m" cid="c1908812.1"/>
+				 wonders be known in the dark?And thy righteousness in the land of forgetfulness?
+			</v>
+			<marker class="begin-verse" mid="v19088013"/>
+			<v n="13">
+				But unto 
+				<crossref let="n" cid="c1908813.1"/>
+				 thee, O Jehovah, have I cried;And in the morning shall my prayer come before thee.
+			</v>
+			<marker class="begin-verse" mid="v19088014"/>
+			<v n="14">
+				Jehovah, why 
+				<crossref let="o" cid="c1908814.1"/>
+				 castest thou off my soul?Why hidest thou thy face from me?
+			</v>
+			<marker class="begin-verse" mid="v19088015"/>
+			<v n="15">
+				I am 
+				<crossref let="p" cid="c1908815.1"/>
+				 afflicted and ready to die from my youth up:While I suffer thy terrors I am distracted.
+			</v>
+			<marker class="begin-verse" mid="v19088016"/>
+			<v n="16">
+				Thy fierce 
+				<crossref let="q" cid="c1908816.1"/>
+				 wrath is gone over me;Thy terrors have cut me off.
+			</v>
+			<marker class="begin-verse" mid="v19088017"/>
+			<v n="17">
+				They came 
+				<crossref let="r" cid="c1908817.1"/>
+				 round about me like water all the day long;They compassed me about together.
+			</v>
+			<marker class="begin-verse" mid="v19088018"/>
+			<v n="18">
+				Lover and 
+				<crossref let="s" cid="c1908818.1"/>
+				 friend hast thou put far from me,And mine acquaintance into darkness.
+			</v>
+			<marker class="begin-verse" mid="v19088019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

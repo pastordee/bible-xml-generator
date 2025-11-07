@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T10:00:23.774158</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T10:00:23.774197</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" version="BSB" bookAbbr="act">
+		<marker class="begin-verse" mid="v44007001"/>
+		<chapter num="7">
+			<heading>Stephen’s Address: The Call of Abraham(Genesis 12:1–9)</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c440071.1"/>
+				 high priest asked Stephen, “Are these charges true?”
+			</v>
+			<marker class="begin-verse" mid="v44007002"/>
+			<v n="2">
+				And Stephen 
+				<crossref let="c" cid="c440072.1"/>
+				 declared: “Brothers and fathers, listen to me! The God of glory appeared to our father Abraham while he was still in Mesopotamia, before he lived in Haran,
+			</v>
+			<marker class="begin-verse" mid="v44007003"/>
+			<v n="3">
+				and told 
+				<crossref let="d" cid="c440073.1"/>
+				 him, ‘Leave your country and your kindred and go to the land I will show you.’
+			</v>
+			<marker class="begin-verse" mid="v44007004"/>
+			<v n="4">
+				So Abraham 
+				<crossref let="e" cid="c440074.1"/>
+				 left the land of the Chaldeans and settled in Haran. After his father died, God brought him out of that place and into this land where you are now living.
+			</v>
+			<marker class="begin-verse" mid="v44007005"/>
+			<v n="5">
+				He gave 
+				<crossref let="f" cid="c440075.1"/>
+				 him no inheritance here, not even a foot of ground. But God promised to give possession of the land to Abraham and his descendants, even though he did not yet have a child.
+			</v>
+			<marker class="begin-verse" mid="v44007006"/>
+			<v n="6">
+				God told 
+				<crossref let="g" cid="c440076.1"/>
+				 him that his descendants would be foreigners in a strange land, and that they would be enslaved and mistreated four hundred years.
+			</v>
+			<marker class="begin-verse" mid="v44007007"/>
+			<v n="7">
+				‘But I 
+				<crossref let="h" cid="c440077.1"/>
+				 will punish the nation that enslaves them,’ God said, ‘and afterward they will come forth and worship Me in this place.’
+			</v>
+			<marker class="begin-verse" mid="v44007008"/>
+			<v n="8">
+				Then God 
+				<crossref let="i" cid="c440078.1"/>
+				 gave Abraham the covenant of circumcision, and Abraham became the father of Isaac and circumcised him on the eighth day. And Isaac became the father of Jacob, and Jacob of the twelve patriarchs.Joseph Sold into Egypt(Genesis 37:12–30)
+			</v>
+			<marker class="begin-verse" mid="v44007009"/>
+			<v n="9">
+				Because the 
+				<crossref let="j" cid="c440079.1"/>
+				 patriarchs were jealous of Joseph, they sold him as a slave into Egypt. But God was with him
+			</v>
+			<marker class="begin-verse" mid="v44007010"/>
+			<v n="10">
+				and rescued 
+				<crossref let="k" cid="c4400710.1"/>
+				 him from all his troubles. He granted Joseph favor and wisdom in the sight of Pharaoh king of Egypt, who appointed him ruler over Egypt and all his household.
+			</v>
+			<marker class="begin-verse" mid="v44007011"/>
+			<v n="11">
+				Then famine 
+				<crossref let="l" cid="c4400711.1"/>
+				 and great suffering swept across Egypt and Canaan, and our fathers could not find food.
+			</v>
+			<marker class="begin-verse" mid="v44007012"/>
+			<v n="12">
+				When Jacob 
+				<crossref let="m" cid="c4400712.1"/>
+				 heard that there was grain in Egypt, he sent our fathers on their first visit.
+			</v>
+			<marker class="begin-verse" mid="v44007013"/>
+			<v n="13">
+				On their 
+				<crossref let="n" cid="c4400713.1"/>
+				 second visit, Joseph revealed his identity to his brothers, and his family became known to Pharaoh.
+			</v>
+			<marker class="begin-verse" mid="v44007014"/>
+			<v n="14">
+				Then Joseph 
+				<crossref let="o" cid="c4400714.1"/>
+				 sent for his father Jacob and all his relatives, seventy-five in all.Israel Oppressed in Egypt(Exodus 1:8–22)
+			</v>
+			<marker class="begin-verse" mid="v44007015"/>
+			<v n="15">
+				So Jacob 
+				<crossref let="p" cid="c4400715.1"/>
+				 went down to Egypt, where he and our fathers died.
+			</v>
+			<marker class="begin-verse" mid="v44007016"/>
+			<v n="16">
+				Their bones 
+				<crossref let="q" cid="c4400716.1"/>
+				 were carried back to Shechem and placed in the tomb that Abraham had bought from the sons of Hamor at Shechem for a price he paid in silver.
+			</v>
+			<marker class="begin-verse" mid="v44007017"/>
+			<v n="17">
+				As the 
+				<crossref let="r" cid="c4400717.1"/>
+				 time drew near for God to fulfill His promise to Abraham, our people in Egypt increased greatly in number.
+			</v>
+			<marker class="begin-verse" mid="v44007018"/>
+			<v n="18">
+				Then another 
+				<crossref let="s" cid="c4400718.1"/>
+				 king, who knew nothing of Joseph, arose over Egypt.
+			</v>
+			<marker class="begin-verse" mid="v44007019"/>
+			<v n="19">
+				He exploited 
+				<crossref let="t" cid="c4400719.1"/>
+				 our people and oppressed our fathers, forcing them to abandon their infants so they would die.The Birth and Adoption of Moses(Exodus 2:1–10; Hebrews 11:23–29)
+			</v>
+			<marker class="begin-verse" mid="v44007020"/>
+			<v n="20">
+				At that 
+				<crossref let="u" cid="c4400720.1"/>
+				 time Moses was born, and he was beautiful in the sight of God. For three months he was nurtured in his father’s house.
+			</v>
+			<marker class="begin-verse" mid="v44007021"/>
+			<v n="21">
+				When he 
+				<crossref let="v" cid="c4400721.1"/>
+				 was set outside, Pharaoh’s daughter took him and brought him up as her own son.
+			</v>
+			<marker class="begin-verse" mid="v44007022"/>
+			<v n="22">
+				So Moses 
+				<crossref let="w" cid="c4400722.1"/>
+				 was educated in all the wisdom of the Egyptians and was powerful in speech and action.The Rejection and Flight of Moses(Exodus 2:11–22)
+			</v>
+			<marker class="begin-verse" mid="v44007023"/>
+			<v n="23">
+				When Moses 
+				<crossref let="x" cid="c4400723.1"/>
+				 was forty years old, he decided to visit his brothers, the children of Israel.
+			</v>
+			<marker class="begin-verse" mid="v44007024"/>
+			<v n="24">
+				And when 
+				<crossref let="y" cid="c4400724.1"/>
+				 he saw one of them being mistreated, Moses went to his defense and avenged him by striking down the Egyptian who was oppressing him.
+			</v>
+			<marker class="begin-verse" mid="v44007025"/>
+			<v n="25">
+				He assumed 
+				<crossref let="z" cid="c4400725.1"/>
+				 his brothers would understand that God was using him to deliver them, but they did not.
+			</v>
+			<marker class="begin-verse" mid="v44007026"/>
+			<v n="26">
+				The next 
+				<crossref let="a" cid="c4400726.1"/>
+				 day he came upon two Israelites who were fighting, and he tried to reconcile them, saying, ‘Men, you are brothers. Why are you mistreating each other?’
+			</v>
+			<marker class="begin-verse" mid="v44007027"/>
+			<v n="27">
+				But the 
+				<crossref let="b" cid="c4400727.1"/>
+				 man who was abusing his neighbor pushed Moses aside and said, ‘Who made you ruler and judge over us?
+			</v>
+			<marker class="begin-verse" mid="v44007028"/>
+			<v n="28">
+				Do you 
+				<crossref let="c" cid="c4400728.1"/>
+				 want to kill me as you killed the Egyptian yesterday?’
+			</v>
+			<marker class="begin-verse" mid="v44007029"/>
+			<v n="29">
+				At this 
+				<crossref let="d" cid="c4400729.1"/>
+				 remark, Moses fled to the land of Midian, where he lived as a foreigner and had two sons.The Call of Moses(Exodus 3:1–22)
+			</v>
+			<marker class="begin-verse" mid="v44007030"/>
+			<v n="30">
+				After forty 
+				<crossref let="e" cid="c4400730.1"/>
+				 years had passed, an angel appeared to Moses in the flames of a burning bush in the desert near Mount Sinai.
+			</v>
+			<marker class="begin-verse" mid="v44007031"/>
+			<v n="31">
+				When Moses 
+				<crossref let="f" cid="c4400731.1"/>
+				 saw it, he marveled at the sight. As he approached to look more closely, the voice of the Lord came to him:
+			</v>
+			<marker class="begin-verse" mid="v44007032"/>
+			<v n="32">
+				‘I am 
+				<crossref let="g" cid="c4400732.1"/>
+				 the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look.
+			</v>
+			<marker class="begin-verse" mid="v44007033"/>
+			<v n="33">
+				Then the 
+				<crossref let="h" cid="c4400733.1"/>
+				 Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground.
+			</v>
+			<marker class="begin-verse" mid="v44007034"/>
+			<v n="34">
+				I have 
+				<crossref let="i" cid="c4400734.1"/>
+				 indeed seen the oppression of My people in Egypt. I have heard their groaning and have come down to deliver them. Now come, I will send you back to Egypt.’
+			</v>
+			<marker class="begin-verse" mid="v44007035"/>
+			<v n="35">
+				This Moses, 
+				<crossref let="j" cid="c4400735.1"/>
+				 whom they had rejected with the words, ‘Who made you ruler and judge?’ is the one whom God sent to be their ruler and redeemer through the angel who appeared to him in the bush.
+			</v>
+			<marker class="begin-verse" mid="v44007036"/>
+			<v n="36">
+				He led 
+				<crossref let="k" cid="c4400736.1"/>
+				 them out and performed wonders and signs in the land of Egypt, at the Red Sea, and for forty years in the wilderness.
+			</v>
+			<marker class="begin-verse" mid="v44007037"/>
+			<v n="37">
+				This is 
+				<crossref let="l" cid="c4400737.1"/>
+				 the same Moses who told the Israelites, ‘God will raise up for you a prophet like me from among your brothers.’
+			</v>
+			<marker class="begin-verse" mid="v44007038"/>
+			<v n="38">
+				He was 
+				<crossref let="m" cid="c4400738.1"/>
+				 in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our fathers. And he received living words to pass on to us.The Rebellion of Israel(Exodus 32:1–35; Deuteronomy 9:7–29; Amos 5:16–27)
+			</v>
+			<marker class="begin-verse" mid="v44007039"/>
+			<v n="39">
+				But our 
+				<crossref let="n" cid="c4400739.1"/>
+				 fathers refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt.
+			</v>
+			<marker class="begin-verse" mid="v44007040"/>
+			<v n="40">
+				They said 
+				<crossref let="o" cid="c4400740.1"/>
+				 to Aaron, ‘Make us gods who will go before us! As for this Moses who led us out of the land of Egypt, we do not know what has happened to him.’
+			</v>
+			<marker class="begin-verse" mid="v44007041"/>
+			<v n="41">
+				At that 
+				<crossref let="p" cid="c4400741.1"/>
+				 time they made a calf and offered a sacrifice to the idol, rejoicing in the works of their hands.
+			</v>
+			<marker class="begin-verse" mid="v44007042"/>
+			<v n="42">
+				But God 
+				<crossref let="q" cid="c4400742.1"/>
+				 turned away from them and gave them over to the worship of the host of heaven, as it is written in the book of the prophets:‘Did you bring Me sacrifices and offeringsforty years in the wilderness, O house of Israel?
+			</v>
+			<marker class="begin-verse" mid="v44007043"/>
+			<v n="43">
+				You have 
+				<crossref let="r" cid="c4400743.1"/>
+				 taken along the tabernacle of Molechand the star of your god Rephan,the idols you made to worship.Therefore I will send you into exilebeyond Babylon.’The Tabernacle of the Testimony(Exodus 40:1–33; Hebrews 9:1–10)
+			</v>
+			<marker class="begin-verse" mid="v44007044"/>
+			<v n="44">
+				Our fathers 
+				<crossref let="s" cid="c4400744.1"/>
+				 had the tabernacle of the Testimony with them in the wilderness. It was constructed exactly as God had directed Moses, according to the pattern he had seen.
+			</v>
+			<marker class="begin-verse" mid="v44007045"/>
+			<v n="45">
+				And our 
+				<crossref let="t" cid="c4400745.1"/>
+				 fathers who received it brought it in with Joshua when they dispossessed the nations God drove out before them. It remained until the time of David,
+			</v>
+			<marker class="begin-verse" mid="v44007046"/>
+			<v n="46">
+				who found 
+				<crossref let="u" cid="c4400746.1"/>
+				 favor in the sight of God and asked to provide a dwelling place for the God of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v44007047"/>
+			<v n="47">
+				But it 
+				<crossref let="v" cid="c4400747.1"/>
+				 was Solomon who built the house for Him.
+			</v>
+			<marker class="begin-verse" mid="v44007048"/>
+			<v n="48">
+				However, the 
+				<crossref let="w" cid="c4400748.1"/>
+				 Most High does not dwell in houses made by human hands. As the prophet says:
+			</v>
+			<marker class="begin-verse" mid="v44007049"/>
+			<v n="49">
+				‘Heaven is 
+				<crossref let="x" cid="c4400749.1"/>
+				 My throneand the earth is My footstool.What kind of house will you build for Me, says the Lord,or where will My place of repose be?
+			</v>
+			<marker class="begin-verse" mid="v44007050"/>
+			<v n="50">
+				Has not 
+				<crossref let="y" cid="c4400750.1"/>
+				 My hand made all these things?’
+			</v>
+			<marker class="begin-verse" mid="v44007051"/>
+			<v n="51">
+				You stiff-necked 
+				<crossref let="z" cid="c4400751.1"/>
+				 people with uncircumcised hearts and ears! You always resist the Holy Spirit, just as your fathers did.
+			</v>
+			<marker class="begin-verse" mid="v44007052"/>
+			<v n="52">
+				Which of 
+				<crossref let="a" cid="c4400752.1"/>
+				 the prophets did your fathers fail to persecute? They even killed those who foretold the coming of the Righteous One. And now you are His betrayers and murderers—
+			</v>
+			<marker class="begin-verse" mid="v44007053"/>
+			<v n="53">
+				you who 
+				<crossref let="b" cid="c4400753.1"/>
+				 received the law ordained by angels, yet have not kept it.”The Stoning of Stephen
+			</v>
+			<marker class="begin-verse" mid="v44007054"/>
+			<v n="54">
+				On hearing 
+				<crossref let="c" cid="c4400754.1"/>
+				 this, the members of the Sanhedrin were enraged, and they gnashed their teeth at him.
+			</v>
+			<marker class="begin-verse" mid="v44007055"/>
+			<v n="55">
+				But Stephen, 
+				<crossref let="d" cid="c4400755.1"/>
+				 full of the Holy Spirit, looked intently into heaven and saw the glory of God and Jesus standing at the right hand of God.
+			</v>
+			<marker class="begin-verse" mid="v44007056"/>
+			<v n="56">
+				“Look,” he 
+				<crossref let="e" cid="c4400756.1"/>
+				 said, “I see heaven open and the Son of Man standing at the right hand of God.”
+			</v>
+			<marker class="begin-verse" mid="v44007057"/>
+			<v n="57">
+				At this 
+				<crossref let="f" cid="c4400757.1"/>
+				 they covered their ears, cried out in a loud voice, and rushed together at him.
+			</v>
+			<marker class="begin-verse" mid="v44007058"/>
+			<v n="58">
+				They dragged 
+				<crossref let="g" cid="c4400758.1"/>
+				 him out of the city and began to stone him. Meanwhile the witnesses laid their garments at the feet of a young man named Saul.
+			</v>
+			<marker class="begin-verse" mid="v44007059"/>
+			<v n="59">
+				While they 
+				<crossref let="h" cid="c4400759.1"/>
+				 were stoning him, Stephen appealed, “Lord Jesus, receive my spirit.”
+			</v>
+			<marker class="begin-verse" mid="v44007060"/>
+			<v n="60">
+				Falling on 
+				<crossref let="i" cid="c4400760.1"/>
+				 his knees, he cried out in a loud voice, “Lord, do not hold this sin against them.” And when he had said this, he fell asleep.
+			</v>
+			<marker class="begin-verse" mid="v44007061"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

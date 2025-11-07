@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:11.126371</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:11.126388</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Psalm 1
+			</heading>
+			<heading>
+				Book One
+			</heading>
+			<heading>
+				The Way of the Righteous and the Wicked
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Blessed is 
+				<crossref let="b" cid="c19001001.1">
+				</crossref>
+				the man(1), 
+				<crossref let="c" cid="c19001001.2">
+				</crossref>
+				who walks not in the counsel of the wicked, nor stands in the way of sinners, nor sits in the seat of scoffers;
+			</v>
+			<marker class="begin-verse" mid="v19001002">
+			</marker>
+			<v n="2">
+				but his 
+				<crossref let="d" cid="c19001002.3">
+				</crossref>
+				delight is, 
+				<crossref let="e" cid="c19001002.4">
+				</crossref>
+				in the law(2) of the LORD, and on his law he meditates day and night.
+			</v>
+			<marker class="begin-verse" mid="v19001003">
+			</marker>
+			<v n="3">
+				He is 
+				<crossref let="f" cid="c19001003.5">
+				</crossref>
+				like a, 
+				<crossref let="g" cid="c19001003.6">
+				</crossref>
+				tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers.
+				<note nid="n19001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19001004">
+			</marker>
+			<v n="4">
+				The wicked 
+				<crossref let="h" cid="c19001004.7">
+				</crossref>
+				are not, 
+				<crossref let="i" cid="c19001004.8">
+				</crossref>
+				so, but are like chaff that the wind drives away.
+			</v>
+			<marker class="begin-verse" mid="v19001005">
+			</marker>
+			<v n="5">
+				Therefore the 
+				<crossref let="j" cid="c19001005.9">
+				</crossref>
+				wicked will, 
+				<crossref let="k" cid="c19001005.10">
+				</crossref>
+				not stand in the judgment, nor sinners in the congregation of the righteous;
+			</v>
+			<marker class="begin-verse" mid="v19001006">
+			</marker>
+			<v n="6">
+				for the 
+				<crossref let="l" cid="c19001006.11">
+				</crossref>
+				LORD knows, 
+				<crossref let="m" cid="c19001006.12">
+				</crossref>
+				the way of the righteous, but the way of the wicked will perish. Footnotes (1) 1:1 The singular Hebrew word for *man* (*ish*) is used here to portray a representative example of a godly person; see Preface (2) 1:2 Or *instruction* (ESV)
+				<note nid="n19001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19001007">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:58:21.657270</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:58:21.657308</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" bookAbbr="exo" version="ESV">
+		<marker class="begin-verse" mid="v02018001">
+		</marker>
+		<chapter num="18">
+			<heading>
+				Exodus 18
+			</heading>
+			<heading>
+				Jethro’s Advice
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Jethro, the 
+				<crossref let="b" cid="c02018001.1">
+				</crossref>
+				priest of, 
+				<crossref let="c" cid="c02018001.2">
+				</crossref>
+				Midian, Moses’ father-in-law, heard of all that God had done for Moses and for Israel his people, how the LORD had brought Israel out of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v02018002">
+			</marker>
+			<v n="2">
+				Now Jethro, 
+				<crossref let="d" cid="c02018002.3">
+				</crossref>
+				Moses’ father-in-law,, 
+				<crossref let="e" cid="c02018002.4">
+				</crossref>
+				had taken Zipporah, Moses’ wife, after he had sent her home,
+			</v>
+			<marker class="begin-verse" mid="v02018003">
+			</marker>
+			<v n="3" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					along with 
+					<crossref let="f" cid="c02018003.5">
+				</crossref>
+					her two, 
+					<crossref let="g" cid="c02018003.6">
+				</crossref>
+				sons. The name of the one was Gershom (for he said, “I have been a sojourner(1) in a foreign land”),
+					<note nid="n02018003.3">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v02018004">
+			</marker>
+			<v n="4" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					and the 
+					<crossref let="h" cid="c02018004.7">
+				</crossref>
+					name of, 
+					<crossref let="i" cid="c02018004.8">
+				</crossref>
+				the other, Eliezer(2) (for he said, “The God of my father was my help, and delivered me from the sword of Pharaoh”).
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v02018005">
+			</marker>
+			<v n="5">
+				Jethro, Moses’ 
+				<crossref let="j" cid="c02018005.9">
+				</crossref>
+				father-in-law, came, 
+				<crossref let="k" cid="c02018005.10">
+				</crossref>
+				with his sons and his wife to Moses in the wilderness where he was encamped at the mountain of God.
+			</v>
+			<marker class="begin-verse" mid="v02018006">
+			</marker>
+			<v n="6">
+				And when 
+				<crossref let="l" cid="c02018006.11">
+				</crossref>
+				he sent, 
+				<crossref let="m" cid="c02018006.12">
+				</crossref>
+				word to Moses, “I,(3) your father-in-law Jethro, am coming to you with your wife and her two sons with her,”
+				<note nid="n02018006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02018007">
+			</marker>
+			<v n="7">
+				Moses went 
+				<crossref let="n" cid="c02018007.13">
+				</crossref>
+				out to, 
+				<crossref let="o" cid="c02018007.14">
+				</crossref>
+				meet his father-in-law and bowed down and kissed him. And they asked each other of their welfare and went into the tent.
+			</v>
+			<marker class="begin-verse" mid="v02018008">
+			</marker>
+			<v n="8">
+				Then Moses 
+				<crossref let="p" cid="c02018008.15">
+				</crossref>
+				told his, 
+				<crossref let="q" cid="c02018008.16">
+				</crossref>
+				father-in-law all that the LORD had done to Pharaoh and to the Egyptians for Israel’s sake, all the hardship that had come upon them in the way, and how the LORD had delivered them.
+			</v>
+			<marker class="begin-verse" mid="v02018009">
+			</marker>
+			<v n="9">
+				And Jethro 
+				<crossref let="r" cid="c02018009.17">
+				</crossref>
+				rejoiced for, 
+				<crossref let="s" cid="c02018009.18">
+				</crossref>
+				all the good that the LORD had done to Israel, in that he had delivered them out of the hand of the Egyptians.
+				<note nid="n02018009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02018010">
+			</marker>
+			<v n="10">
+				Jethro said, 
+				<crossref let="t" cid="c02018010.19">
+				</crossref>
+				“Blessed be, 
+				<crossref let="u" cid="c02018010.20">
+				</crossref>
+				the LORD, who has delivered you out of the hand of the Egyptians and out of the hand of Pharaoh and has delivered the people from under the hand of the Egyptians.
+			</v>
+			<marker class="begin-verse" mid="v02018011">
+			</marker>
+			<v n="11">
+				Now I 
+				<crossref let="v" cid="c02018011.21">
+				</crossref>
+				know that, 
+				<crossref let="w" cid="c02018011.22">
+				</crossref>
+				the LORD is greater than all gods, because in this affair they dealt arrogantly with the people.”(4)
+			</v>
+			<marker class="begin-verse" mid="v02018012">
+			</marker>
+			<v n="12">
+				And Jethro, 
+				<crossref let="x" cid="c02018012.23">
+				</crossref>
+				Moses’ father-in-law,, 
+				<crossref let="y" cid="c02018012.24">
+				</crossref>
+				brought a burnt offering and sacrifices to God; and Aaron came with all the elders of Israel to eat bread with Moses’ father-in-law before God.
+				<note nid="n02018012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02018013">
+			</marker>
+			<v n="13">
+				The next 
+				<crossref let="z" cid="c02018013.25">
+				</crossref>
+				day Moses, 
+				<crossref let="a" cid="c02018013.26">
+				</crossref>
+				sat to judge the people, and the people stood around Moses from morning till evening.
+			</v>
+			<marker class="begin-verse" mid="v02018014">
+			</marker>
+			<v n="14" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					When Moses’ 
+					<crossref let="b" cid="c02018014.27">
+				</crossref>
+					father-in-law saw, 
+					<crossref let="c" cid="c02018014.28">
+				</crossref>
+				all that he was doing for the people, he said, “What is this that you are doing for the people? Why do you sit alone, and all the people stand around you from morning till evening?”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v02018015">
+			</marker>
+			<v n="15">
+				And Moses 
+				<crossref let="d" cid="c02018015.29">
+				</crossref>
+				said to, 
+				<crossref let="e" cid="c02018015.30">
+				</crossref>
+				his father-in-law, “Because the people come to me to inquire of God;
+				<note nid="n02018015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02018016">
+			</marker>
+			<v n="16">
+				when they 
+				<crossref let="f" cid="c02018016.31">
+				</crossref>
+				have a, 
+				<crossref let="g" cid="c02018016.32">
+				</crossref>
+				dispute, they come to me and I decide between one person and another, and I make them know the statutes of God and his laws.”
+			</v>
+			<marker class="begin-verse" mid="v02018017">
+			</marker>
+			<v n="17">
+				Moses’ father-in-law 
+				<crossref let="h" cid="c02018017.33">
+				</crossref>
+				said to, 
+				<crossref let="i" cid="c02018017.34">
+				</crossref>
+				him, “What you are doing is not good.
+			</v>
+			<marker class="begin-verse" mid="v02018018">
+			</marker>
+			<v n="18">
+				You and 
+				<crossref let="j" cid="c02018018.35">
+				</crossref>
+				the people, 
+				<crossref let="k" cid="c02018018.36">
+				</crossref>
+				with you will certainly wear yourselves out, for the thing is too heavy for you. You are not able to do it alone.
+				<note nid="n02018018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02018019">
+			</marker>
+			<v n="19">
+				Now obey 
+				<crossref let="l" cid="c02018019.37">
+				</crossref>
+				my voice;, 
+				<crossref let="m" cid="c02018019.38">
+				</crossref>
+				I will give you advice, and God be with you! You shall represent the people before God and bring their cases to God,
+			</v>
+			<marker class="begin-verse" mid="v02018020">
+			</marker>
+			<v n="20">
+				and you 
+				<crossref let="n" cid="c02018020.39">
+				</crossref>
+				shall warn, 
+				<crossref let="o" cid="c02018020.40">
+				</crossref>
+				them about the statutes and the laws, and make them know the way in which they must walk and what they must do.
+			</v>
+			<marker class="begin-verse" mid="v02018021">
+			</marker>
+			<v n="21">
+				Moreover, look 
+				<crossref let="p" cid="c02018021.41">
+				</crossref>
+				for able, 
+				<crossref let="q" cid="c02018021.42">
+				</crossref>
+				men from all the people, men who fear God, who are trustworthy and hate a bribe, and place such men over the people as chiefs of thousands, of hundreds, of fifties, and of tens.
+				<note nid="n02018021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02018022">
+			</marker>
+			<v n="22">
+				And let 
+				<crossref let="r" cid="c02018022.43">
+				</crossref>
+				them judge, 
+				<crossref let="s" cid="c02018022.44">
+				</crossref>
+				the people at all times. Every great matter they shall bring to you, but any small matter they shall decide themselves. So it will be easier for you, and they will bear the burden with you.
+			</v>
+			<marker class="begin-verse" mid="v02018023">
+			</marker>
+			<v n="23">
+				If you 
+				<crossref let="t" cid="c02018023.45">
+				</crossref>
+				do this,, 
+				<crossref let="u" cid="c02018023.46">
+				</crossref>
+				God will direct you, you will be able to endure, and all this people also will go to their place in peace.”
+			</v>
+			<marker class="begin-verse" mid="v02018024">
+			</marker>
+			<v n="24">
+				So Moses 
+				<crossref let="v" cid="c02018024.47">
+				</crossref>
+				listened to, 
+				<crossref let="w" cid="c02018024.48">
+				</crossref>
+				the voice of his father-in-law and did all that he had said.
+				<note nid="n02018024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02018025">
+			</marker>
+			<v n="25">
+				Moses chose 
+				<crossref let="x" cid="c02018025.49">
+				</crossref>
+				able men, 
+				<crossref let="y" cid="c02018025.50">
+				</crossref>
+				out of all Israel and made them heads over the people, chiefs of thousands, of hundreds, of fifties, and of tens.
+			</v>
+			<marker class="begin-verse" mid="v02018026">
+			</marker>
+			<v n="26">
+				And they 
+				<crossref let="z" cid="c02018026.51">
+				</crossref>
+				judged the, 
+				<crossref let="a" cid="c02018026.52">
+				</crossref>
+				people at all times. Any hard case they brought to Moses, but any small matter they decided themselves.
+			</v>
+			<marker class="begin-verse" mid="v02018027">
+			</marker>
+			<v n="27">
+				Then Moses 
+				<crossref let="b" cid="c02018027.53">
+				</crossref>
+				let his, 
+				<crossref let="c" cid="c02018027.54">
+				</crossref>
+				father-in-law depart, and he went away to his own country. Footnotes (1) 18:3 *Gershom* sounds like the Hebrew for *sojourner* (2) 18:4 *Eliezer* means *My God is help* (3) 18:6 Hebrew; Samaritan, Septuagint, Syriac *behold* (4) 18:11 Hebrew *with them* (ESV)
+				<note nid="n02018027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02018028">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

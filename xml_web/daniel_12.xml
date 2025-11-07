@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:15:48.093630</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:15:48.093638</next_refresh_due>
+	</generation_info>
+	<book title="Daniel" num="27" testament="old" version="WEB" bookAbbr="dan">
+		<marker class="begin-verse" mid="v27012001"/>
+		<chapter num="12">
+			<begin-paragraph/>
+			<v n="1">
+				“At that 
+				<crossref let="b" cid="c270121.1"/>
+				 time Michael will stand up, the great prince who stands for the children of your people; and there will be a time of trouble, such as never was since there was a nation even to that same time. At that time your people will be delivered, everyone who is found written in the book.
+			</v>
+			<marker class="begin-verse" mid="v27012002"/>
+			<v n="2">
+				Many of 
+				<crossref let="c" cid="c270122.1"/>
+				 those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt.
+			</v>
+			<marker class="begin-verse" mid="v27012003"/>
+			<v n="3">
+				Those who 
+				<crossref let="d" cid="c270123.1"/>
+				 are wise will shine as the brightness of the expanse. Those who turn many to righteousness will shine as the stars forever and ever.
+			</v>
+			<marker class="begin-verse" mid="v27012004"/>
+			<v n="4">
+				But you, 
+				<crossref let="e" cid="c270124.1"/>
+				 Daniel, shut up the words and seal the book, even to the time of the end. Many will run back and forth, and knowledge will be increased.”
+			</v>
+			<marker class="begin-verse" mid="v27012005"/>
+			<v n="5">
+				Then I, 
+				<crossref let="f" cid="c270125.1"/>
+				 Daniel, looked, and behold, two others stood, one on the river bank on this side, and the other on the river bank on that side.
+			</v>
+			<marker class="begin-verse" mid="v27012006"/>
+			<v n="6">
+				One said 
+				<crossref let="g" cid="c270126.1"/>
+				 to the man clothed in linen, who was above the waters of the river, “How long will it be to the end of these wonders?”
+			</v>
+			<marker class="begin-verse" mid="v27012007"/>
+			<v n="7">
+				I heard 
+				<crossref let="h" cid="c270127.1"/>
+				 the man clothed in linen, who was above the waters of the river, when he held up his right hand and his left hand to heaven, and swore by him who lives forever that it will be for a time, times, and a half; and when they have finished breaking in pieces the power of the holy people, all these things will be finished.
+			</v>
+			<marker class="begin-verse" mid="v27012008"/>
+			<v n="8">
+				I heard, 
+				<crossref let="i" cid="c270128.1"/>
+				 but I didn’t understand. Then I said, “My lord, what will be the outcome of these things?”
+			</v>
+			<marker class="begin-verse" mid="v27012009"/>
+			<v n="9">
+				He said, 
+				<crossref let="j" cid="c270129.1"/>
+				 “Go your way, Daniel; for the words are shut up and sealed until the time of the end.
+			</v>
+			<marker class="begin-verse" mid="v27012010"/>
+			<v n="10">
+				Many will 
+				<crossref let="k" cid="c2701210.1"/>
+				 purify themselves, and make themselves white, and be refined, but the wicked will do wickedly; and none of the wicked will understand, but those who are wise will understand.
+			</v>
+			<marker class="begin-verse" mid="v27012011"/>
+			<v n="11">
+				“From the 
+				<crossref let="l" cid="c2701211.1"/>
+				 time that the continual burnt offering is taken away and the abomination that makes desolate set up, there will be one thousand two hundred ninety days.
+			</v>
+			<marker class="begin-verse" mid="v27012012"/>
+			<v n="12">
+				Blessed is 
+				<crossref let="m" cid="c2701212.1"/>
+				 he who waits, and comes to the one thousand three hundred thirty-five days.
+			</v>
+			<marker class="begin-verse" mid="v27012013"/>
+			<v n="13">
+				“But go 
+				<crossref let="n" cid="c2701213.1"/>
+				 your way until the end; for you will rest, and will stand in your inheritance at the end of the days.”
+			</v>
+			<marker class="begin-verse" mid="v27012014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

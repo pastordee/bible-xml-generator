@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:07:31.391579</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:07:31.391593</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19130001"/>
+		<chapter num="130">
+			<heading>A Song of degrees.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Out of 
+				<crossref let="b" cid="c191301.1"/>
+				 the depths have I cried unto thee, O LORD.
+			</v>
+			<marker class="begin-verse" mid="v19130002"/>
+			<v n="2">
+				Lord, hear 
+				<crossref let="c" cid="c191302.1"/>
+				 my voice: let thine ears be attentive to the voice of my supplications.
+			</v>
+			<marker class="begin-verse" mid="v19130003"/>
+			<v n="3">
+				If thou, 
+				<crossref let="d" cid="c191303.1"/>
+				 LORD, shouldest mark iniquities, O Lord, who shall stand?
+			</v>
+			<marker class="begin-verse" mid="v19130004"/>
+			<v n="4">
+				But there 
+				<crossref let="e" cid="c191304.1"/>
+				 is forgiveness with thee, that thou mayest be feared.
+			</v>
+			<marker class="begin-verse" mid="v19130005"/>
+			<v n="5">
+				I wait 
+				<crossref let="f" cid="c191305.1"/>
+				 for the LORD, my soul doth wait, and in his word do I hope.
+			</v>
+			<marker class="begin-verse" mid="v19130006"/>
+			<v n="6">
+				My soul 
+				<crossref let="g" cid="c191306.1"/>
+				 waiteth for the Lord more than they that watch for the morning: I say, more than they that watch for the morning.
+			</v>
+			<marker class="begin-verse" mid="v19130007"/>
+			<v n="7">
+				Let Israel 
+				<crossref let="h" cid="c191307.1"/>
+				 hope in the LORD: for with the LORD there is mercy, and with him is plenteous redemption.
+			</v>
+			<marker class="begin-verse" mid="v19130008"/>
+			<v n="8">
+				And he 
+				<crossref let="i" cid="c191308.1"/>
+				 shall redeem Israel from all his iniquities.
+			</v>
+			<marker class="begin-verse" mid="v19130009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

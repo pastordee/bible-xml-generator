@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:14:35.438425</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:14:35.438441</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19029001"/>
+		<chapter num="29">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Honor the 
+				<crossref let="b" cid="c190291.1"/>
+				 Lord, children of God, honor his glory and strength.
+			</v>
+			<marker class="begin-verse" mid="v19029002"/>
+			<v n="2">
+				Honor the 
+				<crossref let="c" cid="c190292.1"/>
+				 Lord for his glorious character, bow in reverence to the Lord in his brilliant holiness.
+			</v>
+			<marker class="begin-verse" mid="v19029003"/>
+			<v n="3">
+				The Lord's 
+				<crossref let="d" cid="c190293.1"/>
+				 voice sounds over the sea. The God of glory thunders. The Lord thunders over the vast ocean.
+			</v>
+			<marker class="begin-verse" mid="v19029004"/>
+			<v n="4">
+				The Lord's 
+				<crossref let="e" cid="c190294.1"/>
+				 voice is powerful; the Lord's voice is majestic;
+			</v>
+			<marker class="begin-verse" mid="v19029005"/>
+			<v n="5">
+				the Lord's 
+				<crossref let="f" cid="c190295.1"/>
+				 voice shatters the cedars, even breaking the cedars of Lebanon.
+			</v>
+			<marker class="begin-verse" mid="v19029006"/>
+			<v n="6">
+				He makes 
+				<crossref let="g" cid="c190296.1"/>
+				 the mountains of Lebanon skip like a calf, and Mount Hermon like a young wild ox.
+			</v>
+			<marker class="begin-verse" mid="v19029007"/>
+			<v n="7">
+				The Lord's 
+				<crossref let="h" cid="c190297.1"/>
+				 voice blazes out like lightning flashes.
+			</v>
+			<marker class="begin-verse" mid="v19029008"/>
+			<v n="8">
+				The Lord's 
+				<crossref let="i" cid="c190298.1"/>
+				 voice causes an earthquake in the desert; the desert of Kadesh shakes.
+			</v>
+			<marker class="begin-verse" mid="v19029009"/>
+			<v n="9">
+				The Lord's 
+				<crossref let="j" cid="c190299.1"/>
+				 voice makes the pregnant deer go into labor; it strips bare the forests. In his Temple all the worshipers shout, “Glory!”
+			</v>
+			<marker class="begin-verse" mid="v19029010"/>
+			<v n="10">
+				The Lord 
+				<crossref let="k" cid="c1902910.1"/>
+				 sits on his throne above the floodwaters; the Lord is the eternal King.
+			</v>
+			<marker class="begin-verse" mid="v19029011"/>
+			<v n="11">
+				The Lord 
+				<crossref let="l" cid="c1902911.1"/>
+				 gives strength to his people; the Lord blesses them with peace.
+			</v>
+			<marker class="begin-verse" mid="v19029012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

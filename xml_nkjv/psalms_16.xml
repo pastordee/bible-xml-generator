@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:13:31.058838</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:13:31.058861</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19016001"/>
+		<chapter num="16">
+			<heading>The Hope of the Faithful, and the Messiah’s VictoryA Michtam of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Preserve me, 
+				<crossref let="b" cid="c190161.1"/>
+				 O God, for in You I put my trust.
+			</v>
+			<marker class="begin-verse" mid="v19016002"/>
+			<v n="2">
+				O my 
+				<crossref let="c" cid="c190162.1"/>
+				 soul, you have said to the Lord,“You are my Lord,My goodness is nothing apart from You.”
+			</v>
+			<marker class="begin-verse" mid="v19016003"/>
+			<v n="3">
+				As for 
+				<crossref let="d" cid="c190163.1"/>
+				 the saints who are on the earth,“They are the excellent ones, in whom is all my delight.”
+			</v>
+			<marker class="begin-verse" mid="v19016004"/>
+			<v n="4">
+				Their sorrows 
+				<crossref let="e" cid="c190164.1"/>
+				 shall be multiplied who hasten after another god;Their drink offerings of blood I will not offer,Nor take up their names on my lips.
+			</v>
+			<marker class="begin-verse" mid="v19016005"/>
+			<v n="5">
+				O Lord, 
+				<crossref let="f" cid="c190165.1"/>
+				 You are the portion of my inheritance and my cup;You maintain my lot.
+			</v>
+			<marker class="begin-verse" mid="v19016006"/>
+			<v n="6">
+				The lines 
+				<crossref let="g" cid="c190166.1"/>
+				 have fallen to me in pleasant places;Yes, I have a good inheritance.
+			</v>
+			<marker class="begin-verse" mid="v19016007"/>
+			<v n="7">
+				I will 
+				<crossref let="h" cid="c190167.1"/>
+				 bless the Lord who has given me counsel;My heart also instructs me in the night seasons.
+			</v>
+			<marker class="begin-verse" mid="v19016008"/>
+			<v n="8">
+				I have 
+				<crossref let="i" cid="c190168.1"/>
+				 set the Lord always before me;Because He is at my right hand I shall not be moved.
+			</v>
+			<marker class="begin-verse" mid="v19016009"/>
+			<v n="9">
+				Therefore my 
+				<crossref let="j" cid="c190169.1"/>
+				 heart is glad, and my glory rejoices;My flesh also will rest in hope.
+			</v>
+			<marker class="begin-verse" mid="v19016010"/>
+			<v n="10">
+				For You 
+				<crossref let="k" cid="c1901610.1"/>
+				 will not leave my soul in Sheol,Nor will You allow Your Holy One to see corruption.
+			</v>
+			<marker class="begin-verse" mid="v19016011"/>
+			<v n="11">
+				You will 
+				<crossref let="l" cid="c1901611.1"/>
+				 show me the path of life;In Your presence is fullness of joy;At Your right hand are pleasures forevermore.
+			</v>
+			<marker class="begin-verse" mid="v19016012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

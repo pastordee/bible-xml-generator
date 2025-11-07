@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:14:21.269776</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:14:21.269796</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19023001"/>
+		<chapter num="23">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Since the 
+				<crossref let="b" cid="c190231.1"/>
+				 Lord is my shepherd, I have everything I need.
+			</v>
+			<marker class="begin-verse" mid="v19023002"/>
+			<v n="2">
+				He gives 
+				<crossref let="c" cid="c190232.1"/>
+				 me rest in green fields. He leads me towards quietly flowing streams.
+			</v>
+			<marker class="begin-verse" mid="v19023003"/>
+			<v n="3">
+				He revives 
+				<crossref let="d" cid="c190233.1"/>
+				 me. He guides me along the right paths because that's the kind of person he is.
+			</v>
+			<marker class="begin-verse" mid="v19023004"/>
+			<v n="4">
+				Even when 
+				<crossref let="e" cid="c190234.1"/>
+				 I walk through the valley dark as death, I'm not afraid of any evil, because you are right there with me; your rod and your staff protect me.
+			</v>
+			<marker class="begin-verse" mid="v19023005"/>
+			<v n="5">
+				You prepare 
+				<crossref let="f" cid="c190235.1"/>
+				 a banquet for me before my enemies. You honor me by anointing my head with olive oil. My cup is so full it overflows!
+			</v>
+			<marker class="begin-verse" mid="v19023006"/>
+			<v n="6">
+				I'm absolutely 
+				<crossref let="g" cid="c190236.1"/>
+				 certain that your goodness and trustworthy love will be with me all through my life, and I will live in the house of the Lord forever.
+			</v>
+			<marker class="begin-verse" mid="v19023007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

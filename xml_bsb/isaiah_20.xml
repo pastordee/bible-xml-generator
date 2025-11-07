@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:31:47.217586</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:31:47.217614</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="BSB" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23020001"/>
+		<chapter num="20">
+			<heading>A Sign against Egypt and Cush</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Before the 
+				<crossref let="b" cid="c230201.1"/>
+				 year that the chief commander, sent by Sargon king of Assyria, came to Ashdod and attacked and captured it,
+			</v>
+			<marker class="begin-verse" mid="v23020002"/>
+			<v n="2">
+				the LORD 
+				<crossref let="c" cid="c230202.1"/>
+				 had already spoken through Isaiah son of Amoz, saying, “Go, remove the sackcloth from your waist and the sandals from your feet.”And Isaiah did so, walking around naked and barefoot.
+			</v>
+			<marker class="begin-verse" mid="v23020003"/>
+			<v n="3">
+				Then the 
+				<crossref let="d" cid="c230203.1"/>
+				 LORD said, “Just as My servant Isaiah has gone naked and barefoot for three years as a sign and omen against Egypt and Cush,
+			</v>
+			<marker class="begin-verse" mid="v23020004"/>
+			<v n="4">
+				so the 
+				<crossref let="e" cid="c230204.1"/>
+				 king of Assyria will lead away the captives of Egypt and the exiles of Cush, young and old alike, naked and barefoot, with bared buttocks—to Egypt’s shame.
+			</v>
+			<marker class="begin-verse" mid="v23020005"/>
+			<v n="5">
+				Those who 
+				<crossref let="f" cid="c230205.1"/>
+				 made Cush their hope and Egypt their boast will be dismayed and ashamed.
+			</v>
+			<marker class="begin-verse" mid="v23020006"/>
+			<v n="6">
+				And on 
+				<crossref let="g" cid="c230206.1"/>
+				 that day the dwellers of this coastland will say, ‘See what has happened to our source of hope, those to whom we fled for help and deliverance from the king of Assyria! How then can we escape?’”
+			</v>
+			<marker class="begin-verse" mid="v23020007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

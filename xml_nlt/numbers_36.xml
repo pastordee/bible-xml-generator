@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:15:04.788597</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:15:04.788625</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" version="NLT" bookAbbr="num">
+		<marker class="begin-verse" mid="v04036001"/>
+		<chapter num="36">
+			<heading>Women Who Inherit Property</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c040361.1"/>
+				 heads of the clans of Gilead—descendants of Makir, son of Manasseh, son of Joseph—came to Moses and the family leaders of Israel with a petition.
+			</v>
+			<marker class="begin-verse" mid="v04036002"/>
+			<v n="2">
+				They said, 
+				<crossref let="c" cid="c040362.1"/>
+				 “Sir, the Lord instructed you to divide the land by sacred lot among the people of Israel. You were told by the Lord to give the grant of land owned by our brother Zelophehad to his daughters.
+			</v>
+			<marker class="begin-verse" mid="v04036003"/>
+			<v n="3">
+				But if 
+				<crossref let="d" cid="c040363.1"/>
+				 they marry men from another tribe, their grants of land will go with them to the tribe into which they marry. In this way, the total area of our tribal land will be reduced.
+			</v>
+			<marker class="begin-verse" mid="v04036004"/>
+			<v n="4">
+				Then when 
+				<crossref let="e" cid="c040364.1"/>
+				 the Year of Jubilee comes, their portion of land will be added to that of the new tribe, causing it to be lost forever to our ancestral tribe.”
+			</v>
+			<marker class="begin-verse" mid="v04036005"/>
+			<v n="5">
+				So Moses 
+				<crossref let="f" cid="c040365.1"/>
+				 gave the Israelites this command from the Lord: “The claim of the men of the tribe of Joseph is legitimate.
+			</v>
+			<marker class="begin-verse" mid="v04036006"/>
+			<v n="6">
+				This is 
+				<crossref let="g" cid="c040366.1"/>
+				 what the Lord commands concerning the daughters of Zelophehad: Let them marry anyone they like, as long as it is within their own ancestral tribe.
+			</v>
+			<marker class="begin-verse" mid="v04036007"/>
+			<v n="7">
+				None of 
+				<crossref let="h" cid="c040367.1"/>
+				 the territorial land may pass from tribe to tribe, for all the land given to each tribe must remain within the tribe to which it was first allotted.
+			</v>
+			<marker class="begin-verse" mid="v04036008"/>
+			<v n="8">
+				The daughters 
+				<crossref let="i" cid="c040368.1"/>
+				 throughout the tribes of Israel who are in line to inherit property must marry within their tribe, so that all the Israelites will keep their ancestral property.
+			</v>
+			<marker class="begin-verse" mid="v04036009"/>
+			<v n="9">
+				No grant 
+				<crossref let="j" cid="c040369.1"/>
+				 of land may pass from one tribe to another; each tribe of Israel must keep its allotted portion of land.”
+			</v>
+			<marker class="begin-verse" mid="v04036010"/>
+			<v n="10">
+				The daughters 
+				<crossref let="k" cid="c0403610.1"/>
+				 of Zelophehad did as the Lord commanded Moses.
+			</v>
+			<marker class="begin-verse" mid="v04036011"/>
+			<v n="11">
+				Mahlah, Tirzah, 
+				<crossref let="l" cid="c0403611.1"/>
+				 Hoglah, Milcah, and Noah all married cousins on their father’s side.
+			</v>
+			<marker class="begin-verse" mid="v04036012"/>
+			<v n="12">
+				They married 
+				<crossref let="m" cid="c0403612.1"/>
+				 into the clans of Manasseh son of Joseph. Thus, their inheritance of land remained within their ancestral tribe.
+			</v>
+			<marker class="begin-verse" mid="v04036013"/>
+			<v n="13">
+				These are 
+				<crossref let="n" cid="c0403613.1"/>
+				 the commands and regulations that the Lord gave to the people of Israel through Moses while they were camped on the plains of Moab beside the Jordan River, across from Jericho.
+			</v>
+			<marker class="begin-verse" mid="v04036014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

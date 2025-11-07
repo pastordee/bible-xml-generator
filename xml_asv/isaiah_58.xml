@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:49:54.068202</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:49:54.068240</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="ASV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23058001"/>
+		<chapter num="58">
+			<begin-paragraph/>
+			<v n="1">
+				Cry aloud, 
+				<crossref let="b" cid="c230581.1"/>
+				 spare not, lift up thy voice like a trumpet, and declare unto my people their transgression, and to the house of Jacob their sins.
+			</v>
+			<marker class="begin-verse" mid="v23058002"/>
+			<v n="2">
+				Yet they 
+				<crossref let="c" cid="c230582.1"/>
+				 seek me daily, and delight to know my ways: as a nation that did righteousness, and forsook not the ordinance of their God, they ask of me righteous judgments; they delight to draw near unto God.
+			</v>
+			<marker class="begin-verse" mid="v23058003"/>
+			<v n="3">
+				Wherefore have 
+				<crossref let="d" cid="c230583.1"/>
+				 we fasted, say they, and thou seest not? wherefore have we afflicted our soul, and thou takest no knowledge? Behold, in the day of your fast ye find your own pleasure, and exact all your labors.
+			</v>
+			<marker class="begin-verse" mid="v23058004"/>
+			<v n="4">
+				Behold, ye 
+				<crossref let="e" cid="c230584.1"/>
+				 fast for strife and contention, and to smite with the fist of wickedness: ye fast not this day so as to make your voice to be heard on high.
+			</v>
+			<marker class="begin-verse" mid="v23058005"/>
+			<v n="5">
+				Is such 
+				<crossref let="f" cid="c230585.1"/>
+				 the fast that I have chosen? the day for a man to afflict his soul? Is it to bow down his head as a rush, and to spread sackcloth and ashes under him? wilt thou call this a fast, and an acceptable day to Jehovah?
+			</v>
+			<marker class="begin-verse" mid="v23058006"/>
+			<v n="6">
+				Is not 
+				<crossref let="g" cid="c230586.1"/>
+				 this the fast that I have chosen: to loose the bonds of wickedness, to undo the bands of the yoke, and to let the oppressed go free, and that ye break every yoke?
+			</v>
+			<marker class="begin-verse" mid="v23058007"/>
+			<v n="7">
+				Is it 
+				<crossref let="h" cid="c230587.1"/>
+				 not to deal thy bread to the hungry, and that thou bring the poor that are cast out to thy house? when thou seest the naked, that thou cover him; and that thou hide not thyself from thine own flesh?
+			</v>
+			<marker class="begin-verse" mid="v23058008"/>
+			<v n="8">
+				Then shall 
+				<crossref let="i" cid="c230588.1"/>
+				 thy light break forth as the morning, and thy healing shall spring forth speedily; and thy righteousness shall go before thee; the glory of Jehovah shall be thy rearward.
+			</v>
+			<marker class="begin-verse" mid="v23058009"/>
+			<v n="9">
+				Then shalt 
+				<crossref let="j" cid="c230589.1"/>
+				 thou call, and Jehovah will answer; thou shalt cry, and he will say, Here I am.If thou take away from the midst of thee the yoke, the putting forth of the finger, and speaking wickedly;
+			</v>
+			<marker class="begin-verse" mid="v23058010"/>
+			<v n="10">
+				and if 
+				<crossref let="k" cid="c2305810.1"/>
+				 thou draw out thy soul to the hungry, and satisfy the afflicted soul: then shall thy light rise in darkness, and thine obscurity be as the noonday;
+			</v>
+			<marker class="begin-verse" mid="v23058011"/>
+			<v n="11">
+				and Jehovah 
+				<crossref let="l" cid="c2305811.1"/>
+				 will guide thee continually, and satisfy thy soul in dry places, and make strong thy bones; and thou shalt be like a watered garden, and like a spring of water, whose waters fail not.
+			</v>
+			<marker class="begin-verse" mid="v23058012"/>
+			<v n="12">
+				And they 
+				<crossref let="m" cid="c2305812.1"/>
+				 that shall be of thee shall build the old waste places; thou shalt raise up the foundations of many generations; and thou shalt be called The repairer of the breach, The restorer of paths to dwell in.
+			</v>
+			<marker class="begin-verse" mid="v23058013"/>
+			<v n="13">
+				If thou 
+				<crossref let="n" cid="c2305813.1"/>
+				 turn away thy foot from the sabbath, from doing thy pleasure on my holy day; and call the sabbath a delight, and the holy of Jehovah honorable; and shalt honor it, not doing thine own ways, nor finding thine own pleasure, nor speaking thine own words:
+			</v>
+			<marker class="begin-verse" mid="v23058014"/>
+			<v n="14">
+				then shalt 
+				<crossref let="o" cid="c2305814.1"/>
+				 thou delight thyself in Jehovah; and I will make thee to ride upon the high places of the earth; and I will feed thee with the heritage of Jacob thy father: for the mouth of Jehovah hath spoken it.
+			</v>
+			<marker class="begin-verse" mid="v23058015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:31:55.208959</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:31:55.208967</next_refresh_due>
+	</generation_info>
+	<book title="Amos" num="30" testament="old" version="KJV" bookAbbr="amo">
+		<marker class="begin-verse" mid="v30003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				Hear this 
+				<crossref let="b" cid="c300031.1"/>
+				 word that the LORD hath spoken against you, O children of Israel, against the whole family which I brought up from the land of Egypt, saying,
+			</v>
+			<marker class="begin-verse" mid="v30003002"/>
+			<v n="2">
+				You only 
+				<crossref let="c" cid="c300032.1"/>
+				 have I known of all the families of the earth: therefore I will punish you for all your iniquities.
+			</v>
+			<marker class="begin-verse" mid="v30003003"/>
+			<v n="3">
+				Can two 
+				<crossref let="d" cid="c300033.1"/>
+				 walk together, except they be agreed?
+			</v>
+			<marker class="begin-verse" mid="v30003004"/>
+			<v n="4">
+				Will a 
+				<crossref let="e" cid="c300034.1"/>
+				 lion roar in the forest, when he hath no prey? will a young lion cry out of his den, if he have taken nothing?
+			</v>
+			<marker class="begin-verse" mid="v30003005"/>
+			<v n="5">
+				Can a 
+				<crossref let="f" cid="c300035.1"/>
+				 bird fall in a snare upon the earth, where no gin is for him? shall one take up a snare from the earth, and have taken nothing at all?
+			</v>
+			<marker class="begin-verse" mid="v30003006"/>
+			<v n="6">
+				Shall a 
+				<crossref let="g" cid="c300036.1"/>
+				 trumpet be blown in the city, and the people not be afraid? shall there be evil in a city, and the LORD hath not done it?
+			</v>
+			<marker class="begin-verse" mid="v30003007"/>
+			<v n="7">
+				Surely the 
+				<crossref let="h" cid="c300037.1"/>
+				 Lord GOD will do nothing, but he revealeth his secret unto his servants the prophets.
+			</v>
+			<marker class="begin-verse" mid="v30003008"/>
+			<v n="8">
+				The lion 
+				<crossref let="i" cid="c300038.1"/>
+				 hath roared, who will not fear? the Lord GOD hath spoken, who can but prophesy?
+			</v>
+			<marker class="begin-verse" mid="v30003009"/>
+			<v n="9">
+				¶ Publish 
+				<crossref let="j" cid="c300039.1"/>
+				 in the palaces at Ashdod, and in the palaces in the land of Egypt, and say, Assemble yourselves upon the mountains of Samaria, and behold the great tumults in the midst thereof, and the oppressed in the midst thereof.
+			</v>
+			<marker class="begin-verse" mid="v30003010"/>
+			<v n="10">
+				For they 
+				<crossref let="k" cid="c3000310.1"/>
+				 know not to do right, saith the LORD, who store up violence and robbery in their palaces.
+			</v>
+			<marker class="begin-verse" mid="v30003011"/>
+			<v n="11">
+				Therefore thus 
+				<crossref let="l" cid="c3000311.1"/>
+				 saith the Lord GOD; An adversary there shall be even round about the land; and he shall bring down thy strength from thee, and thy palaces shall be spoiled.
+			</v>
+			<marker class="begin-verse" mid="v30003012"/>
+			<v n="12">
+				Thus saith 
+				<crossref let="m" cid="c3000312.1"/>
+				 the LORD; As the shepherd taketh out of the mouth of the lion two legs, or a piece of an ear; so shall the children of Israel be taken out that dwell in Samaria in the corner of a bed, and in Damascus in a couch.
+			</v>
+			<marker class="begin-verse" mid="v30003013"/>
+			<v n="13">
+				Hear ye, 
+				<crossref let="n" cid="c3000313.1"/>
+				 and testify in the house of Jacob, saith the Lord GOD, the God of hosts,
+			</v>
+			<marker class="begin-verse" mid="v30003014"/>
+			<v n="14">
+				That in 
+				<crossref let="o" cid="c3000314.1"/>
+				 the day that I shall visit the transgressions of Israel upon him I will also visit the altars of Beth-el: and the horns of the altar shall be cut off, and fall to the ground.
+			</v>
+			<marker class="begin-verse" mid="v30003015"/>
+			<v n="15">
+				And I 
+				<crossref let="p" cid="c3000315.1"/>
+				 will smite the winter house with the summer house; and the houses of ivory shall perish, and the great houses shall have an end, saith the LORD.
+			</v>
+			<marker class="begin-verse" mid="v30003016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

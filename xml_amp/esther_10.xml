@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:54:26.034366</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:54:26.034373</next_refresh_due>
+	</generation_info>
+	<book title="Esther" num="17" testament="old" version="AMP" bookAbbr="est">
+		<marker class="begin-verse" mid="v17010001"/>
+		<chapter num="10">
+			<heading>Mordecai’s Greatness</heading>
+			<begin-paragraph/>
+			<v n="1">
+				King Ahasuerus 
+				<crossref let="b" cid="c170101.1"/>
+				 (Xerxes) imposed a tax on the land and on the coastlands of the sea.
+			</v>
+			<marker class="begin-verse" mid="v17010002"/>
+			<v n="2">
+				And all 
+				<crossref let="c" cid="c170102.1"/>
+				 the accomplishments of his authority and strength, and the full account of the greatness of Mordecai to which the king had raised him, are they not written in the Book of the Chronicles of the Kings of Media and Persia?
+			</v>
+			<marker class="begin-verse" mid="v17010003"/>
+			<v n="3">
+				For Mordecai 
+				<crossref let="d" cid="c170103.1"/>
+				 the Jew was second only to King Ahasuerus, and great among the Jews and in favor with his many fellow people, for he worked for the good of his people and spoke for the welfare and peace of his whole nation.
+			</v>
+			<marker class="begin-verse" mid="v17010004"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:10:26.312509</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:10:26.312519</next_refresh_due>
+	</generation_info>
+	<book title="Mark" num="41" testament="new" version="ASV" bookAbbr="mrk">
+		<marker class="begin-verse" mid="v41014001"/>
+		<chapter num="14">
+			<begin-paragraph/>
+			<v n="1">
+				Now after 
+				<crossref let="b" cid="c410141.1"/>
+				 two days was the feast of the passover and the unleavened bread: and the chief priests and the scribes sought how they might take him with subtlety, and kill him:
+			</v>
+			<marker class="begin-verse" mid="v41014002"/>
+			<v n="2">
+				for they 
+				<crossref let="c" cid="c410142.1"/>
+				 said, Not during the feast, lest haply there shall be a tumult of the people.
+			</v>
+			<marker class="begin-verse" mid="v41014003"/>
+			<v n="3">
+				And while 
+				<crossref let="d" cid="c410143.1"/>
+				 he was in Bethany in the house of Simon the leper, as he sat at meat, there came a woman having an alabaster cruse of ointment of pure nard very costly; and she brake the cruse, and poured it over his head.
+			</v>
+			<marker class="begin-verse" mid="v41014004"/>
+			<v n="4">
+				But there 
+				<crossref let="e" cid="c410144.1"/>
+				 were some that had indignation among themselves, saying, To what purpose hath this waste of the ointment been made?
+			</v>
+			<marker class="begin-verse" mid="v41014005"/>
+			<v n="5">
+				For this 
+				<crossref let="f" cid="c410145.1"/>
+				 ointment might have been sold for above three hundred shillings, and given to the poor. And they murmured against her.
+			</v>
+			<marker class="begin-verse" mid="v41014006"/>
+			<v n="6">
+				But Jesus 
+				<crossref let="g" cid="c410146.1"/>
+				 said, Let her alone; why trouble ye her? she hath wrought a good work on me.
+			</v>
+			<marker class="begin-verse" mid="v41014007"/>
+			<v n="7">
+				For ye 
+				<crossref let="h" cid="c410147.1"/>
+				 have the poor always with you, and whensoever ye will ye can do them good: but me ye have not always.
+			</v>
+			<marker class="begin-verse" mid="v41014008"/>
+			<v n="8">
+				She hath 
+				<crossref let="i" cid="c410148.1"/>
+				 done what she could; she hath anointed my body beforehand for the burying.
+			</v>
+			<marker class="begin-verse" mid="v41014009"/>
+			<v n="9">
+				And verily 
+				<crossref let="j" cid="c410149.1"/>
+				 I say unto you, Wheresoever the gospel shall be preached throughout the whole world, that also which this woman hath done shall be spoken of for a memorial of her.
+			</v>
+			<marker class="begin-verse" mid="v41014010"/>
+			<v n="10">
+				And Judas 
+				<crossref let="k" cid="c4101410.1"/>
+				 Iscariot, he that was one of the twelve, went away unto the chief priests, that he might deliver him unto them.
+			</v>
+			<marker class="begin-verse" mid="v41014011"/>
+			<v n="11">
+				And they, 
+				<crossref let="l" cid="c4101411.1"/>
+				 when they heard it, were glad, and promised to give him money. And he sought how he might conveniently deliver him unto them.
+			</v>
+			<marker class="begin-verse" mid="v41014012"/>
+			<v n="12">
+				And on 
+				<crossref let="m" cid="c4101412.1"/>
+				 the first day of unleavened bread, when they sacrificed the passover, his disciples say unto him, Where wilt thou that we go and make ready that thou mayest eat the passover?
+			</v>
+			<marker class="begin-verse" mid="v41014013"/>
+			<v n="13">
+				And he 
+				<crossref let="n" cid="c4101413.1"/>
+				 sendeth two of his disciples, and saith unto them, Go into the city, and there shall meet you a man bearing a pitcher of water: follow him;
+			</v>
+			<marker class="begin-verse" mid="v41014014"/>
+			<v n="14">
+				and wheresoever 
+				<crossref let="o" cid="c4101414.1"/>
+				 he shall enter in, say to the master of the house, The Teacher saith, Where is my guest-chamber, where I shall eat the passover with my disciples?
+			</v>
+			<marker class="begin-verse" mid="v41014015"/>
+			<v n="15">
+				And he 
+				<crossref let="p" cid="c4101415.1"/>
+				 will himself show you a large upper room furnished and ready: and there make ready for us.
+			</v>
+			<marker class="begin-verse" mid="v41014016"/>
+			<v n="16">
+				And the 
+				<crossref let="q" cid="c4101416.1"/>
+				 disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover.
+			</v>
+			<marker class="begin-verse" mid="v41014017"/>
+			<v n="17">
+				And when 
+				<crossref let="r" cid="c4101417.1"/>
+				 it was evening he cometh with the twelve.
+			</v>
+			<marker class="begin-verse" mid="v41014018"/>
+			<v n="18">
+				And as 
+				<crossref let="s" cid="c4101418.1"/>
+				 they sat and were eating, Jesus said, Verily I say unto you, One of you shall betray me, even he that eateth with me.
+			</v>
+			<marker class="begin-verse" mid="v41014019"/>
+			<v n="19">
+				They began 
+				<crossref let="t" cid="c4101419.1"/>
+				 to be sorrowful, and to say unto him one by one, Is it I?
+			</v>
+			<marker class="begin-verse" mid="v41014020"/>
+			<v n="20">
+				And he 
+				<crossref let="u" cid="c4101420.1"/>
+				 said unto them, It is one of the twelve, he that dippeth with me in the dish.
+			</v>
+			<marker class="begin-verse" mid="v41014021"/>
+			<v n="21">
+				For the 
+				<crossref let="v" cid="c4101421.1"/>
+				 Son of man goeth, even as it is written of him: but woe unto that man through whom the Son of man is betrayed! good were it for that man if he had not been born.
+			</v>
+			<marker class="begin-verse" mid="v41014022"/>
+			<v n="22">
+				And as 
+				<crossref let="w" cid="c4101422.1"/>
+				 they were eating, he took bread, and when he had blessed, he brake it, and gave to them, and said, Take ye: this is my body.
+			</v>
+			<marker class="begin-verse" mid="v41014023"/>
+			<v n="23">
+				And he 
+				<crossref let="x" cid="c4101423.1"/>
+				 took a cup, and when he had given thanks, he gave to them: and they all drank of it.
+			</v>
+			<marker class="begin-verse" mid="v41014024"/>
+			<v n="24">
+				And he 
+				<crossref let="y" cid="c4101424.1"/>
+				 said unto them, This is my blood of the covenant, which is poured out for many.
+			</v>
+			<marker class="begin-verse" mid="v41014025"/>
+			<v n="25">
+				Verily I 
+				<crossref let="z" cid="c4101425.1"/>
+				 say unto you, I shall no more drink of the fruit of the vine, until that day when I drink it new in the kingdom of God.
+			</v>
+			<marker class="begin-verse" mid="v41014026"/>
+			<v n="26">
+				And when 
+				<crossref let="a" cid="c4101426.1"/>
+				 they had sung a hymn, they went out unto the mount of Olives.
+			</v>
+			<marker class="begin-verse" mid="v41014027"/>
+			<v n="27">
+				And Jesus 
+				<crossref let="b" cid="c4101427.1"/>
+				 saith unto them, All ye shall be offended: for it is written, I will smite the shepherd, and the sheep shall be scattered abroad.
+			</v>
+			<marker class="begin-verse" mid="v41014028"/>
+			<v n="28">
+				Howbeit, after 
+				<crossref let="c" cid="c4101428.1"/>
+				 I am raised up, I will go before you into Galilee.
+			</v>
+			<marker class="begin-verse" mid="v41014029"/>
+			<v n="29">
+				But Peter 
+				<crossref let="d" cid="c4101429.1"/>
+				 said unto him, Although all shall be offended, yet will not I.
+			</v>
+			<marker class="begin-verse" mid="v41014030"/>
+			<v n="30">
+				And Jesus 
+				<crossref let="e" cid="c4101430.1"/>
+				 saith unto him, Verily I say unto thee, that thou to-day, even this night, before the cock crow twice, shalt deny me thrice.
+			</v>
+			<marker class="begin-verse" mid="v41014031"/>
+			<v n="31">
+				But he 
+				<crossref let="f" cid="c4101431.1"/>
+				 spake exceeding vehemently, If I must die with thee, I will not deny thee. And in like manner also said they all.
+			</v>
+			<marker class="begin-verse" mid="v41014032"/>
+			<v n="32">
+				And they 
+				<crossref let="g" cid="c4101432.1"/>
+				 come unto a place which was named Gethsemane: and he saith unto his disciples, Sit ye here, while I pray.
+			</v>
+			<marker class="begin-verse" mid="v41014033"/>
+			<v n="33">
+				And he 
+				<crossref let="h" cid="c4101433.1"/>
+				 taketh with him Peter and James and John, and began to be greatly amazed, and sore troubled.
+			</v>
+			<marker class="begin-verse" mid="v41014034"/>
+			<v n="34">
+				And he 
+				<crossref let="i" cid="c4101434.1"/>
+				 saith unto them, My soul is exceeding sorrowful even unto death: abide ye here, and watch.
+			</v>
+			<marker class="begin-verse" mid="v41014035"/>
+			<v n="35">
+				And he 
+				<crossref let="j" cid="c4101435.1"/>
+				 went forward a little, and fell on the ground, and prayed that, if it were possible, the hour might pass away from him.
+			</v>
+			<marker class="begin-verse" mid="v41014036"/>
+			<v n="36">
+				And he 
+				<crossref let="k" cid="c4101436.1"/>
+				 said, Abba, Father, all things are possible unto thee; remove this cup from me: howbeit not what I will, but what thou wilt.
+			</v>
+			<marker class="begin-verse" mid="v41014037"/>
+			<v n="37">
+				And he 
+				<crossref let="l" cid="c4101437.1"/>
+				 cometh, and findeth them sleeping, and saith unto Peter, Simon, sleepest thou? couldest thou not watch one hour?
+			</v>
+			<marker class="begin-verse" mid="v41014038"/>
+			<v n="38">
+				Watch and 
+				<crossref let="m" cid="c4101438.1"/>
+				 pray, that ye enter not into temptation: the spirit indeed is willing, but the flesh is weak.
+			</v>
+			<marker class="begin-verse" mid="v41014039"/>
+			<v n="39">
+				And again 
+				<crossref let="n" cid="c4101439.1"/>
+				 he went away, and prayed, saying the same words.
+			</v>
+			<marker class="begin-verse" mid="v41014040"/>
+			<v n="40">
+				And again 
+				<crossref let="o" cid="c4101440.1"/>
+				 he came, and found them sleeping, for their eyes were very heavy; and they knew not what to answer him.
+			</v>
+			<marker class="begin-verse" mid="v41014041"/>
+			<v n="41">
+				And he 
+				<crossref let="p" cid="c4101441.1"/>
+				 cometh the third time, and saith unto them, Sleep on now, and take your rest: it is enough; the hour is come; behold, the Son of man is betrayed into the hands of sinners.
+			</v>
+			<marker class="begin-verse" mid="v41014042"/>
+			<v n="42">
+				Arise, let 
+				<crossref let="q" cid="c4101442.1"/>
+				 us be going: behold, he that betrayeth me is at hand.
+			</v>
+			<marker class="begin-verse" mid="v41014043"/>
+			<v n="43">
+				And straightway, 
+				<crossref let="r" cid="c4101443.1"/>
+				 while he yet spake, cometh Judas, one of the twelve, and with him a multitude with swords and staves, from the chief priests and the scribes and the elders.
+			</v>
+			<marker class="begin-verse" mid="v41014044"/>
+			<v n="44">
+				Now he 
+				<crossref let="s" cid="c4101444.1"/>
+				 that betrayed him had given them a token, saying, Whomsoever I shall kiss, that is he; take him, and lead him away safely.
+			</v>
+			<marker class="begin-verse" mid="v41014045"/>
+			<v n="45">
+				And when 
+				<crossref let="t" cid="c4101445.1"/>
+				 he was come, straightway he came to him, and saith, Rabbi; and kissed him.
+			</v>
+			<marker class="begin-verse" mid="v41014046"/>
+			<v n="46">
+				And they 
+				<crossref let="u" cid="c4101446.1"/>
+				 laid hands on him, and took him.
+			</v>
+			<marker class="begin-verse" mid="v41014047"/>
+			<v n="47">
+				But a 
+				<crossref let="v" cid="c4101447.1"/>
+				 certain one of them that stood by drew his sword, and smote the servant of the high priest, and struck off his ear.
+			</v>
+			<marker class="begin-verse" mid="v41014048"/>
+			<v n="48">
+				And Jesus 
+				<crossref let="w" cid="c4101448.1"/>
+				 answered and said unto them, Are ye come out, as against a robber, with swords and staves to seize me?
+			</v>
+			<marker class="begin-verse" mid="v41014049"/>
+			<v n="49">
+				I was 
+				<crossref let="x" cid="c4101449.1"/>
+				 daily with you in the temple teaching, and ye took me not: but this is done that the scriptures might be fulfilled.
+			</v>
+			<marker class="begin-verse" mid="v41014050"/>
+			<v n="50">
+				And they 
+				<crossref let="y" cid="c4101450.1"/>
+				 all left him, and fled.
+			</v>
+			<marker class="begin-verse" mid="v41014051"/>
+			<v n="51">
+				And a 
+				<crossref let="z" cid="c4101451.1"/>
+				 certain young man followed with him, having a linen cloth cast about him, over his naked body: and they lay hold on him;
+			</v>
+			<marker class="begin-verse" mid="v41014052"/>
+			<v n="52">
+				but he 
+				<crossref let="a" cid="c4101452.1"/>
+				 left the linen cloth, and fled naked.
+			</v>
+			<marker class="begin-verse" mid="v41014053"/>
+			<v n="53">
+				And they 
+				<crossref let="b" cid="c4101453.1"/>
+				 led Jesus away to the high priest: and there come together with him all the chief priests and the elders and the scribes.
+			</v>
+			<marker class="begin-verse" mid="v41014054"/>
+			<v n="54">
+				And Peter 
+				<crossref let="c" cid="c4101454.1"/>
+				 had followed him afar off, even within, into the court of the high priest; and he was sitting with the officers, and warming himself in the light of the fire.
+			</v>
+			<marker class="begin-verse" mid="v41014055"/>
+			<v n="55">
+				Now the 
+				<crossref let="d" cid="c4101455.1"/>
+				 chief priests and the whole council sought witness against Jesus to put him to death; and found it not.
+			</v>
+			<marker class="begin-verse" mid="v41014056"/>
+			<v n="56">
+				For many 
+				<crossref let="e" cid="c4101456.1"/>
+				 bare false witness against him, and their witness agreed not together.
+			</v>
+			<marker class="begin-verse" mid="v41014057"/>
+			<v n="57">
+				And there 
+				<crossref let="f" cid="c4101457.1"/>
+				 stood up certain, and bare false witness against him, saying,
+			</v>
+			<marker class="begin-verse" mid="v41014058"/>
+			<v n="58">
+				We heard 
+				<crossref let="g" cid="c4101458.1"/>
+				 him say, I will destroy this temple that is made with hands, and in three days I will build another made without hands.
+			</v>
+			<marker class="begin-verse" mid="v41014059"/>
+			<v n="59">
+				And not 
+				<crossref let="h" cid="c4101459.1"/>
+				 even so did their witness agree together.
+			</v>
+			<marker class="begin-verse" mid="v41014060"/>
+			<v n="60">
+				And the 
+				<crossref let="i" cid="c4101460.1"/>
+				 high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what is it which these witness against thee?
+			</v>
+			<marker class="begin-verse" mid="v41014061"/>
+			<v n="61">
+				But he 
+				<crossref let="j" cid="c4101461.1"/>
+				 held his peace, and answered nothing. Again the high priest asked him, and saith unto him, Art thou the Christ, the Son of the Blessed?
+			</v>
+			<marker class="begin-verse" mid="v41014062"/>
+			<v n="62">
+				And Jesus 
+				<crossref let="k" cid="c4101462.1"/>
+				 said, I am: and ye shall see the Son of man sitting at the right hand of Power, and coming with the clouds of heaven.
+			</v>
+			<marker class="begin-verse" mid="v41014063"/>
+			<v n="63">
+				And the 
+				<crossref let="l" cid="c4101463.1"/>
+				 high priest rent his clothes, and saith, What further need have we of witnesses?
+			</v>
+			<marker class="begin-verse" mid="v41014064"/>
+			<v n="64">
+				Ye have 
+				<crossref let="m" cid="c4101464.1"/>
+				 heard the blasphemy: what think ye? And they all condemned him to be worthy of death.
+			</v>
+			<marker class="begin-verse" mid="v41014065"/>
+			<v n="65">
+				And some 
+				<crossref let="n" cid="c4101465.1"/>
+				 began to spit on him, and to cover his face, and to buffet him, and to say unto him, Prophesy: and the officers received him with blows of their hands.
+			</v>
+			<marker class="begin-verse" mid="v41014066"/>
+			<v n="66">
+				And as 
+				<crossref let="o" cid="c4101466.1"/>
+				 Peter was beneath in the court, there cometh one of the maids of the high priest;
+			</v>
+			<marker class="begin-verse" mid="v41014067"/>
+			<v n="67">
+				and seeing 
+				<crossref let="p" cid="c4101467.1"/>
+				 Peter warming himself, she looked upon him, and saith, Thou also wast with the Nazarene, even Jesus.
+			</v>
+			<marker class="begin-verse" mid="v41014068"/>
+			<v n="68">
+				But he 
+				<crossref let="q" cid="c4101468.1"/>
+				 denied, saying, I neither know, nor understand what thou sayest: and he went out into the porch; and the cock crew.
+			</v>
+			<marker class="begin-verse" mid="v41014069"/>
+			<v n="69">
+				And the 
+				<crossref let="r" cid="c4101469.1"/>
+				 maid saw him, and began again to say to them that stood by, This is one of them.
+			</v>
+			<marker class="begin-verse" mid="v41014070"/>
+			<v n="70">
+				But he 
+				<crossref let="s" cid="c4101470.1"/>
+				 again denied it. And after a little while again they that stood by said to Peter, Of a truth thou art one of them; for thou art a Galilæan.
+			</v>
+			<marker class="begin-verse" mid="v41014071"/>
+			<v n="71">
+				But he 
+				<crossref let="t" cid="c4101471.1"/>
+				 began to curse, and to swear, I know not this man of whom ye speak.
+			</v>
+			<marker class="begin-verse" mid="v41014072"/>
+			<v n="72">
+				And straightway 
+				<crossref let="u" cid="c4101472.1"/>
+				 the second time the cock crew. And Peter called to mind the word, how that Jesus said unto him, Before the cock crow twice, thou shalt deny me thrice. And when he thought thereon, he wept.
+			</v>
+			<marker class="begin-verse" mid="v41014073"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

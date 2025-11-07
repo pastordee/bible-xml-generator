@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:16.971571</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:16.971618</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				Psalm 5
+			</heading>
+			<heading>
+				Lead Me in Your Righteousness
+			</heading>
+			<heading>
+				To the choirmaster: for the flutes. A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Give ear 
+				<crossref let="b" cid="c19005001.1">
+				</crossref>
+				to my, 
+				<crossref let="c" cid="c19005001.2">
+				</crossref>
+				words, O LORD; consider my groaning.
+			</v>
+			<marker class="begin-verse" mid="v19005002">
+			</marker>
+			<v n="2">
+				Give attention 
+				<crossref let="d" cid="c19005002.3">
+				</crossref>
+				to the, 
+				<crossref let="e" cid="c19005002.4">
+				</crossref>
+				sound of my cry, my King and my God, for to you do I pray.
+			</v>
+			<marker class="begin-verse" mid="v19005003">
+			</marker>
+			<v n="3">
+				O LORD, 
+				<crossref let="f" cid="c19005003.5">
+				</crossref>
+				in the, 
+				<crossref let="g" cid="c19005003.6">
+				</crossref>
+				morning you hear my voice; in the morning I prepare a sacrifice for you(1) and watch.
+				<note nid="n19005003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19005004">
+			</marker>
+			<v n="4">
+				For you 
+				<crossref let="h" cid="c19005004.7">
+				</crossref>
+				are not, 
+				<crossref let="i" cid="c19005004.8">
+				</crossref>
+				a God who delights in wickedness; evil may not dwell with you.
+			</v>
+			<marker class="begin-verse" mid="v19005005">
+			</marker>
+			<v n="5">
+				The boastful 
+				<crossref let="j" cid="c19005005.9">
+				</crossref>
+				shall not, 
+				<crossref let="k" cid="c19005005.10">
+				</crossref>
+				stand before your eyes; you hate all evildoers.
+			</v>
+			<marker class="begin-verse" mid="v19005006">
+			</marker>
+			<v n="6">
+				You destroy 
+				<crossref let="l" cid="c19005006.11">
+				</crossref>
+				those who, 
+				<crossref let="m" cid="c19005006.12">
+				</crossref>
+				speak lies; the LORD abhors the bloodthirsty and deceitful man.
+				<note nid="n19005006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19005007">
+			</marker>
+			<v n="7">
+				But I, 
+				<crossref let="n" cid="c19005007.13">
+				</crossref>
+				through the, 
+				<crossref let="o" cid="c19005007.14">
+				</crossref>
+				abundance of your steadfast love, will enter your house. I will bow down toward your holy temple in the fear of you.
+			</v>
+			<marker class="begin-verse" mid="v19005008">
+			</marker>
+			<v n="8">
+				Lead me, 
+				<crossref let="p" cid="c19005008.15">
+				</crossref>
+				O LORD,, 
+				<crossref let="q" cid="c19005008.16">
+				</crossref>
+				in your righteousness because of my enemies; make your way straight before me.
+			</v>
+			<marker class="begin-verse" mid="v19005009">
+			</marker>
+			<v n="9">
+				For there 
+				<crossref let="r" cid="c19005009.17">
+				</crossref>
+				is no, 
+				<crossref let="s" cid="c19005009.18">
+				</crossref>
+				truth in their mouth; their inmost self is destruction; their throat is an open grave; they flatter with their tongue.
+				<note nid="n19005009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19005010">
+			</marker>
+			<v n="10">
+				Make them 
+				<crossref let="t" cid="c19005010.19">
+				</crossref>
+				bear their, 
+				<crossref let="u" cid="c19005010.20">
+				</crossref>
+				guilt, O God; let them fall by their own counsels; because of the abundance of their transgressions cast them out, for they have rebelled against you.
+			</v>
+			<marker class="begin-verse" mid="v19005011">
+			</marker>
+			<v n="11">
+				But let 
+				<crossref let="v" cid="c19005011.21">
+				</crossref>
+				all who, 
+				<crossref let="w" cid="c19005011.22">
+				</crossref>
+				take refuge in you rejoice; let them ever sing for joy, and spread your protection over them, that those who love your name may exult in you.
+			</v>
+			<marker class="begin-verse" mid="v19005012">
+			</marker>
+			<v n="12">
+				For you 
+				<crossref let="x" cid="c19005012.23">
+				</crossref>
+				bless the, 
+				<crossref let="y" cid="c19005012.24">
+				</crossref>
+				righteous, O LORD; you cover him with favor as with a shield. Footnotes (1) 5:3 Or *I direct my prayer to you* (ESV)
+				<note nid="n19005012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19005013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

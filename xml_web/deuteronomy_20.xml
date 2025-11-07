@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:14:29.080497</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:14:29.080513</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" version="WEB" bookAbbr="deu">
+		<marker class="begin-verse" mid="v05020001"/>
+		<chapter num="20">
+			<begin-paragraph/>
+			<v n="1">
+				When you 
+				<crossref let="b" cid="c050201.1"/>
+				 go out to battle against your enemies, and see horses, chariots, and a people more numerous than you, you shall not be afraid of them; for Yahweh your God, who brought you up out of the land of Egypt, is with you.
+			</v>
+			<marker class="begin-verse" mid="v05020002"/>
+			<v n="2">
+				It shall 
+				<crossref let="c" cid="c050202.1"/>
+				 be, when you draw near to the battle, that the priest shall approach and speak to the people,
+			</v>
+			<marker class="begin-verse" mid="v05020003"/>
+			<v n="3">
+				and shall 
+				<crossref let="d" cid="c050203.1"/>
+				 tell them, “Hear, Israel, you draw near today to battle against your enemies. Don’t let your heart faint! Don’t be afraid, nor tremble, neither be scared of them;
+			</v>
+			<marker class="begin-verse" mid="v05020004"/>
+			<v n="4">
+				for Yahweh 
+				<crossref let="e" cid="c050204.1"/>
+				 your God is he who goes with you, to fight for you against your enemies, to save you.”
+			</v>
+			<marker class="begin-verse" mid="v05020005"/>
+			<v n="5">
+				The officers 
+				<crossref let="f" cid="c050205.1"/>
+				 shall speak to the people, saying, “What man is there who has built a new house, and has not dedicated it? Let him go and return to his house, lest he die in the battle, and another man dedicate it.
+			</v>
+			<marker class="begin-verse" mid="v05020006"/>
+			<v n="6">
+				What man 
+				<crossref let="g" cid="c050206.1"/>
+				 is there who has planted a vineyard, and has not used its fruit? Let him go and return to his house, lest he die in the battle, and another man use its fruit.
+			</v>
+			<marker class="begin-verse" mid="v05020007"/>
+			<v n="7">
+				What man 
+				<crossref let="h" cid="c050207.1"/>
+				 is there who has pledged to be married to a wife, and has not taken her? Let him go and return to his house, lest he die in the battle, and another man take her.”
+			</v>
+			<marker class="begin-verse" mid="v05020008"/>
+			<v n="8">
+				The officers 
+				<crossref let="i" cid="c050208.1"/>
+				 shall speak further to the people, and they shall say, “What man is there who is fearful and faint-hearted? Let him go and return to his house, lest his brother’s heart melt as his heart.”
+			</v>
+			<marker class="begin-verse" mid="v05020009"/>
+			<v n="9">
+				It shall 
+				<crossref let="j" cid="c050209.1"/>
+				 be, when the officers have finished speaking to the people, that they shall appoint captains of armies at the head of the people.
+			</v>
+			<marker class="begin-verse" mid="v05020010"/>
+			<v n="10">
+				When you 
+				<crossref let="k" cid="c0502010.1"/>
+				 draw near to a city to fight against it, then proclaim peace to it.
+			</v>
+			<marker class="begin-verse" mid="v05020011"/>
+			<v n="11">
+				It shall 
+				<crossref let="l" cid="c0502011.1"/>
+				 be, if it gives you answer of peace and opens to you, then it shall be that all the people who are found therein shall become forced laborers to you, and shall serve you.
+			</v>
+			<marker class="begin-verse" mid="v05020012"/>
+			<v n="12">
+				If it 
+				<crossref let="m" cid="c0502012.1"/>
+				 will make no peace with you, but will make war against you, then you shall besiege it.
+			</v>
+			<marker class="begin-verse" mid="v05020013"/>
+			<v n="13">
+				When Yahweh 
+				<crossref let="n" cid="c0502013.1"/>
+				 your God delivers it into your hand, you shall strike every male of it with the edge of the sword;
+			</v>
+			<marker class="begin-verse" mid="v05020014"/>
+			<v n="14">
+				but the 
+				<crossref let="o" cid="c0502014.1"/>
+				 women, the little ones, the livestock, and all that is in the city, even all its plunder, you shall take for plunder for yourself. You may use the plunder of your enemies, which Yahweh your God has given you.
+			</v>
+			<marker class="begin-verse" mid="v05020015"/>
+			<v n="15">
+				Thus you 
+				<crossref let="p" cid="c0502015.1"/>
+				 shall do to all the cities which are very far off from you, which are not of the cities of these nations.
+			</v>
+			<marker class="begin-verse" mid="v05020016"/>
+			<v n="16">
+				But of 
+				<crossref let="q" cid="c0502016.1"/>
+				 the cities of these peoples that Yahweh your God gives you for an inheritance, you shall save alive nothing that breathes;
+			</v>
+			<marker class="begin-verse" mid="v05020017"/>
+			<v n="17">
+				but you 
+				<crossref let="r" cid="c0502017.1"/>
+				 shall utterly destroy them: the Hittite, the Amorite, the Canaanite, the Perizzite, the Hivite, and the Jebusite, as Yahweh your God has commanded you;
+			</v>
+			<marker class="begin-verse" mid="v05020018"/>
+			<v n="18">
+				that they 
+				<crossref let="s" cid="c0502018.1"/>
+				 not teach you to follow all their abominations, which they have done for their gods; so would you sin against Yahweh your God.
+			</v>
+			<marker class="begin-verse" mid="v05020019"/>
+			<v n="19">
+				When you 
+				<crossref let="t" cid="c0502019.1"/>
+				 shall besiege a city a long time, in making war against it to take it, you shall not destroy its trees by wielding an ax against them; for you may eat of them. You shall not cut them down, for is the tree of the field man, that it should be besieged by you?
+			</v>
+			<marker class="begin-verse" mid="v05020020"/>
+			<v n="20">
+				Only the 
+				<crossref let="u" cid="c0502020.1"/>
+				 trees that you know are not trees for food, you shall destroy and cut them down. You shall build bulwarks against the city that makes war with you, until it falls.
+			</v>
+			<marker class="begin-verse" mid="v05020021"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

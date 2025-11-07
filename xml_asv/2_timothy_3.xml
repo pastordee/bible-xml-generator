@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:24:21.427071</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:24:21.427080</next_refresh_due>
+	</generation_info>
+	<book title="2 Timothy" num="55" testament="new" version="ASV" bookAbbr="2ti">
+		<marker class="begin-verse" mid="v55003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				But know 
+				<crossref let="b" cid="c550031.1"/>
+				 this, that in the last days grievous times shall come.
+			</v>
+			<marker class="begin-verse" mid="v55003002"/>
+			<v n="2">
+				For men 
+				<crossref let="c" cid="c550032.1"/>
+				 shall be lovers of self, lovers of money, boastful, haughty, railers, disobedient to parents, unthankful, unholy,
+			</v>
+			<marker class="begin-verse" mid="v55003003"/>
+			<v n="3">
+				without natural 
+				<crossref let="d" cid="c550033.1"/>
+				 affection, implacable, slanderers, without self-control, fierce, no lovers of good,
+			</v>
+			<marker class="begin-verse" mid="v55003004"/>
+			<v n="4">
+				traitors, headstrong, 
+				<crossref let="e" cid="c550034.1"/>
+				 puffed up, lovers of pleasure rather than lovers of God;
+			</v>
+			<marker class="begin-verse" mid="v55003005"/>
+			<v n="5">
+				holding a 
+				<crossref let="f" cid="c550035.1"/>
+				 form of godliness, but having denied the power thereof: from these also turn away.
+			</v>
+			<marker class="begin-verse" mid="v55003006"/>
+			<v n="6">
+				For of 
+				<crossref let="g" cid="c550036.1"/>
+				 these are they that creep into houses, and take captive silly women laden with sins, led away by divers lusts,
+			</v>
+			<marker class="begin-verse" mid="v55003007"/>
+			<v n="7">
+				ever learning, 
+				<crossref let="h" cid="c550037.1"/>
+				 and never able to come to the knowledge of the truth.
+			</v>
+			<marker class="begin-verse" mid="v55003008"/>
+			<v n="8">
+				And even 
+				<crossref let="i" cid="c550038.1"/>
+				 as Jannes and Jambres withstood Moses, so do these also withstand the truth; men corrupted in mind, reprobate concerning the faith.
+			</v>
+			<marker class="begin-verse" mid="v55003009"/>
+			<v n="9">
+				But they 
+				<crossref let="j" cid="c550039.1"/>
+				 shall proceed no further: for their folly shall be evident unto all men, as theirs also came to be.
+			</v>
+			<marker class="begin-verse" mid="v55003010"/>
+			<v n="10">
+				But thou 
+				<crossref let="k" cid="c5500310.1"/>
+				 didst follow my teaching, conduct, purpose, faith, longsuffering, love, patience,
+			</v>
+			<marker class="begin-verse" mid="v55003011"/>
+			<v n="11">
+				persecutions, sufferings; 
+				<crossref let="l" cid="c5500311.1"/>
+				 what things befell me at Antioch, at Iconium, at Lystra; what persecutions I endured: and out of them all the Lord delivered me.
+			</v>
+			<marker class="begin-verse" mid="v55003012"/>
+			<v n="12">
+				Yea, and 
+				<crossref let="m" cid="c5500312.1"/>
+				 all that would live godly in Christ Jesus shall suffer persecution.
+			</v>
+			<marker class="begin-verse" mid="v55003013"/>
+			<v n="13">
+				But evil 
+				<crossref let="n" cid="c5500313.1"/>
+				 men and impostors shall wax worse and worse, deceiving and being deceived.
+			</v>
+			<marker class="begin-verse" mid="v55003014"/>
+			<v n="14">
+				But abide 
+				<crossref let="o" cid="c5500314.1"/>
+				 thou in the things which thou hast learned and hast been assured of, knowing of whom thou hast learned them;
+			</v>
+			<marker class="begin-verse" mid="v55003015"/>
+			<v n="15">
+				and that 
+				<crossref let="p" cid="c5500315.1"/>
+				 from a babe thou hast known the sacred writings which are able to make thee wise unto salvation through faith which is in Christ Jesus.
+			</v>
+			<marker class="begin-verse" mid="v55003016"/>
+			<v n="16">
+				Every scripture 
+				<crossref let="q" cid="c5500316.1"/>
+				 inspired of God is also profitable for teaching, for reproof, for correction, for instruction which is in righteousness:
+			</v>
+			<marker class="begin-verse" mid="v55003017"/>
+			<v n="17">
+				that the 
+				<crossref let="r" cid="c5500317.1"/>
+				 man of God may be complete, furnished completely unto every good work.
+			</v>
+			<marker class="begin-verse" mid="v55003018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

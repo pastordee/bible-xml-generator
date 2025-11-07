@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:02:52.822701</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:02:52.822718</next_refresh_due>
+	</generation_info>
+	<book title="Joshua" num="6" testament="old" bookAbbr="jos" version="ESV">
+		<marker class="begin-verse" mid="v06002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Joshua 2
+			</heading>
+			<heading>
+				Rahab Hides the Spies
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				And Joshua 
+				<crossref let="b" cid="c06002001.1">
+				</crossref>
+				the son, 
+				<crossref let="c" cid="c06002001.2">
+				</crossref>
+				of Nun sent(1) two men secretly from Shittim as spies, saying, “Go, view the land, especially Jericho.” And they went and came into the house of a prostitute whose name was Rahab and lodged there.
+			</v>
+			<marker class="begin-verse" mid="v06002002">
+			</marker>
+			<v n="2">
+				And it 
+				<crossref let="d" cid="c06002002.3">
+				</crossref>
+				was told, 
+				<crossref let="e" cid="c06002002.4">
+				</crossref>
+				to the king of Jericho, “Behold, men of Israel have come here tonight to search out the land.”
+			</v>
+			<marker class="begin-verse" mid="v06002003">
+			</marker>
+			<v n="3">
+				Then the 
+				<crossref let="f" cid="c06002003.5">
+				</crossref>
+				king of, 
+				<crossref let="g" cid="c06002003.6">
+				</crossref>
+				Jericho sent to Rahab, saying, “Bring out the men who have come to you, who entered your house, for they have come to search out all the land.”
+				<note nid="n06002003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v06002004">
+			</marker>
+			<v n="4" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But the 
+					<crossref let="h" cid="c06002004.7">
+				</crossref>
+					woman had, 
+					<crossref let="i" cid="c06002004.8">
+				</crossref>
+				taken the two men and hidden them. And she said, “True, the men came to me, but I did not know where they were from.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v06002005">
+			</marker>
+			<v n="5">
+				And when 
+				<crossref let="j" cid="c06002005.9">
+				</crossref>
+				the gate, 
+				<crossref let="k" cid="c06002005.10">
+				</crossref>
+				was about to be closed at dark, the men went out. I do not know where the men went. Pursue them quickly, for you will overtake them.”
+			</v>
+			<marker class="begin-verse" mid="v06002006">
+			</marker>
+			<v n="6">
+				But she 
+				<crossref let="l" cid="c06002006.11">
+				</crossref>
+				had brought, 
+				<crossref let="m" cid="c06002006.12">
+				</crossref>
+				them up to the roof and hid them with the stalks of flax that she had laid in order on the roof.
+				<note nid="n06002006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v06002007">
+			</marker>
+			<v n="7">
+				So the 
+				<crossref let="n" cid="c06002007.13">
+				</crossref>
+				men pursued, 
+				<crossref let="o" cid="c06002007.14">
+				</crossref>
+				after them on the way to the Jordan as far as the fords. And the gate was shut as soon as the pursuers had gone out.
+			</v>
+			<marker class="begin-verse" mid="v06002008">
+			</marker>
+			<v n="8">
+				Before the 
+				<crossref let="p" cid="c06002008.15">
+				</crossref>
+				men(2) lay, 
+				<crossref let="q" cid="c06002008.16">
+				</crossref>
+				down, she came up to them on the roof
+			</v>
+			<marker class="begin-verse" mid="v06002009">
+			</marker>
+			<v n="9">
+				and said 
+				<crossref let="r" cid="c06002009.17">
+				</crossref>
+				to the, 
+				<crossref let="s" cid="c06002009.18">
+				</crossref>
+				men, “I know that the LORD has given you the land, and that the fear of you has fallen upon us, and that all the inhabitants of the land melt away before you.
+				<note nid="n06002009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v06002010">
+			</marker>
+			<v n="10">
+				For we 
+				<crossref let="t" cid="c06002010.19">
+				</crossref>
+				have heard, 
+				<crossref let="u" cid="c06002010.20">
+				</crossref>
+				how the LORD dried up the water of the Red Sea before you when you came out of Egypt, and what you did to the two kings of the Amorites who were beyond the Jordan, to Sihon and Og, whom you devoted to destruction.(3)
+			</v>
+			<marker class="begin-verse" mid="v06002011">
+			</marker>
+			<v n="11">
+				And as 
+				<crossref let="v" cid="c06002011.21">
+				</crossref>
+				soon as, 
+				<crossref let="w" cid="c06002011.22">
+				</crossref>
+				we heard it, our hearts melted, and there was no spirit left in any man because of you, for the LORD your God, he is God in the heavens above and on the earth beneath.
+			</v>
+			<marker class="begin-verse" mid="v06002012">
+			</marker>
+			<v n="12">
+				Now then, 
+				<crossref let="x" cid="c06002012.23">
+				</crossref>
+				please swear, 
+				<crossref let="y" cid="c06002012.24">
+				</crossref>
+				to me by the LORD that, as I have dealt kindly with you, you also will deal kindly with my father’s house, and give me a sure sign
+				<note nid="n06002012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v06002013">
+			</marker>
+			<v n="13">
+				that you 
+				<crossref let="z" cid="c06002013.25">
+				</crossref>
+				will save, 
+				<crossref let="a" cid="c06002013.26">
+				</crossref>
+				alive my father and mother, my brothers and sisters, and all who belong to them, and deliver our lives from death.”
+			</v>
+			<marker class="begin-verse" mid="v06002014">
+			</marker>
+			<v n="14">
+				And the 
+				<crossref let="b" cid="c06002014.27">
+				</crossref>
+				men said, 
+				<crossref let="c" cid="c06002014.28">
+				</crossref>
+				to her, “Our life for yours even to death! If you do not tell this business of ours, then when the LORD gives us the land we will deal kindly and faithfully with you.”
+			</v>
+			<marker class="begin-verse" mid="v06002015">
+			</marker>
+			<v n="15">
+				Then she 
+				<crossref let="d" cid="c06002015.29">
+				</crossref>
+				let them, 
+				<crossref let="e" cid="c06002015.30">
+				</crossref>
+				down by a rope through the window, for her house was built into the city wall, so that she lived in the wall.
+				<note nid="n06002015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v06002016">
+			</marker>
+			<v n="16" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And she 
+					<crossref let="f" cid="c06002016.31">
+				</crossref>
+					said(4) to, 
+					<crossref let="g" cid="c06002016.32">
+				</crossref>
+				them, “Go into the hills, or the pursuers will encounter you, and hide there three days until the pursuers have returned. Then afterward you may go your way.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v06002017">
+			</marker>
+			<v n="17">
+				The men 
+				<crossref let="h" cid="c06002017.33">
+				</crossref>
+				said to, 
+				<crossref let="i" cid="c06002017.34">
+				</crossref>
+				her, “We will be guiltless with respect to this oath of yours that you have made us swear.
+			</v>
+			<marker class="begin-verse" mid="v06002018">
+			</marker>
+			<v n="18">
+				Behold, when 
+				<crossref let="j" cid="c06002018.35">
+				</crossref>
+				we come, 
+				<crossref let="k" cid="c06002018.36">
+				</crossref>
+				into the land, you shall tie this scarlet cord in the window through which you let us down, and you shall gather into your house your father and mother, your brothers, and all your father’s household.
+				<note nid="n06002018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v06002019">
+			</marker>
+			<v n="19">
+				Then if 
+				<crossref let="l" cid="c06002019.37">
+				</crossref>
+				anyone goes, 
+				<crossref let="m" cid="c06002019.38">
+				</crossref>
+				out of the doors of your house into the street, his blood shall be on his own head, and we shall be guiltless. But if a hand is laid on anyone who is with you in the house, his blood shall be on our head.
+			</v>
+			<marker class="begin-verse" mid="v06002020">
+			</marker>
+			<v n="20">
+				But if 
+				<crossref let="n" cid="c06002020.39">
+				</crossref>
+				you tell, 
+				<crossref let="o" cid="c06002020.40">
+				</crossref>
+				this business of ours, then we shall be guiltless with respect to your oath that you have made us swear.”
+			</v>
+			<marker class="begin-verse" mid="v06002021">
+			</marker>
+			<v n="21" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And she 
+					<crossref let="p" cid="c06002021.41">
+				</crossref>
+					said, “According, 
+					<crossref let="q" cid="c06002021.42">
+				</crossref>
+				to your words, so be it.” Then she sent them away, and they departed. And she tied the scarlet cord in the window.
+					<note nid="n06002021.21">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v06002022">
+			</marker>
+			<v n="22">
+				They departed 
+				<crossref let="r" cid="c06002022.43">
+				</crossref>
+				and went, 
+				<crossref let="s" cid="c06002022.44">
+				</crossref>
+				into the hills and remained there three days until the pursuers returned, and the pursuers searched all along the way and found nothing.
+			</v>
+			<marker class="begin-verse" mid="v06002023">
+			</marker>
+			<v n="23">
+				Then the 
+				<crossref let="t" cid="c06002023.45">
+				</crossref>
+				two men, 
+				<crossref let="u" cid="c06002023.46">
+				</crossref>
+				returned. They came down from the hills and passed over and came to Joshua the son of Nun, and they told him all that had happened to them.
+			</v>
+			<marker class="begin-verse" mid="v06002024">
+			</marker>
+			<v n="24">
+				And they 
+				<crossref let="v" cid="c06002024.47">
+				</crossref>
+				said to, 
+				<crossref let="w" cid="c06002024.48">
+				</crossref>
+				Joshua, “Truly the LORD has given all the land into our hands. And also, all the inhabitants of the land melt away because of us.” Footnotes (1) 2:1 Or *had sent* (2) 2:8 Hebrew *they* (3) 2:10 That is, set apart (devoted) as an offering to the Lord (for destruction) (4) 2:16 Or *had said* (ESV)
+				<note nid="n06002024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v06002025">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

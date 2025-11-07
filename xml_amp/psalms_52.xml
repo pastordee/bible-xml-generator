@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:02:48.972578</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:02:48.972608</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19052001"/>
+		<chapter num="52">
+			<heading>Psalm 52Futility of Boastful Wickedness.To the Chief Musician. A skillful song, or a didactic or reflective poem. A Psalm of David, when Doeg the Edomite came and told Saul, “David has come to the house of Ahimelech.”</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Why do 
+				<crossref let="b" cid="c190521.1"/>
+				 you boast of evil, O mighty man?The lovingkindness of God endures all day long.
+			</v>
+			<marker class="begin-verse" mid="v19052002"/>
+			<v n="2">
+				Your tongue 
+				<crossref let="c" cid="c190522.1"/>
+				 devises destruction,Like a sharp razor, working deceitfully.
+			</v>
+			<marker class="begin-verse" mid="v19052003"/>
+			<v n="3">
+				You love 
+				<crossref let="d" cid="c190523.1"/>
+				 evil more than good,And falsehood more than speaking what is right. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19052004"/>
+			<v n="4">
+				You love 
+				<crossref let="e" cid="c190524.1"/>
+				 all words that devour,O deceitful tongue.
+			</v>
+			<marker class="begin-verse" mid="v19052005"/>
+			<v n="5">
+				¶But God 
+				<crossref let="f" cid="c190525.1"/>
+				 will break you down forever;He will take you away and tear you away from your tent,And uproot you from the land of the living. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19052006"/>
+			<v n="6">
+				The righteous 
+				<crossref let="g" cid="c190526.1"/>
+				 will see it and fear,And will [scoffingly] laugh, saying,
+			</v>
+			<marker class="begin-verse" mid="v19052007"/>
+			<v n="7">
+				“Look, [this 
+				<crossref let="h" cid="c190527.1"/>
+				 is] the man who would not make God his strength [his stronghold and fortress],But trusted in the abundance of his riches,Taking refuge in his wealth.”
+			</v>
+			<marker class="begin-verse" mid="v19052008"/>
+			<v n="8">
+				¶But as 
+				<crossref let="i" cid="c190528.1"/>
+				 for me, I am like a green olive tree in the house of God;I trust [confidently] in the lovingkindness of God forever and ever.
+			</v>
+			<marker class="begin-verse" mid="v19052009"/>
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c190529.1"/>
+				 thank You forever, because You have done it, [You have rescued me and kept me safe].I will wait on Your name, for it is good, in the presence of Your godly ones.
+			</v>
+			<marker class="begin-verse" mid="v19052010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:16.810408</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:16.810465</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19093001">
+		</marker>
+		<chapter num="93">
+			<heading>
+				Psalm 93
+			</heading>
+			<heading>
+				The LORD Reigns
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c19093001.1">
+				</crossref>
+				reigns; he, 
+				<crossref let="c" cid="c19093001.2">
+				</crossref>
+				is robed in majesty; the LORD is robed; he has put on strength as his belt. Yes, the world is established; it shall never be moved.
+			</v>
+			<marker class="begin-verse" mid="v19093002">
+			</marker>
+			<v n="2">
+				Your throne 
+				<crossref let="d" cid="c19093002.3">
+				</crossref>
+				is established, 
+				<crossref let="e" cid="c19093002.4">
+				</crossref>
+				from of old; you are from everlasting.
+			</v>
+			<marker class="begin-verse" mid="v19093003">
+			</marker>
+			<v n="3">
+				The floods 
+				<crossref let="f" cid="c19093003.5">
+				</crossref>
+				have lifted, 
+				<crossref let="g" cid="c19093003.6">
+				</crossref>
+				up, O LORD, the floods have lifted up their voice; the floods lift up their roaring.
+				<note nid="n19093003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19093004">
+			</marker>
+			<v n="4">
+				Mightier than 
+				<crossref let="h" cid="c19093004.7">
+				</crossref>
+				the thunders, 
+				<crossref let="i" cid="c19093004.8">
+				</crossref>
+				of many waters, mightier than the waves of the sea, the LORD on high is mighty!
+			</v>
+			<marker class="begin-verse" mid="v19093005">
+			</marker>
+			<v n="5">
+				Your decrees 
+				<crossref let="j" cid="c19093005.9">
+				</crossref>
+				are very, 
+				<crossref let="k" cid="c19093005.10">
+				</crossref>
+				trustworthy; holiness befits your house, O LORD, forevermore. (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19093006">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

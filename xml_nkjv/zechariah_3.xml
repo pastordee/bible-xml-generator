@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:50:46.817096</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:50:46.817115</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" version="NKJV" bookAbbr="zec">
+		<marker class="begin-verse" mid="v38003001"/>
+		<chapter num="3">
+			<heading>Vision of the High Priest</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then he 
+				<crossref let="b" cid="c380031.1"/>
+				 showed me Joshua the high priest standing before the Angel of the Lord, and Satan standing at his right hand to oppose him.
+			</v>
+			<marker class="begin-verse" mid="v38003002"/>
+			<v n="2">
+				And the 
+				<crossref let="c" cid="c380032.1"/>
+				 Lord said to Satan, “The Lord rebuke you, Satan! The Lord who has chosen Jerusalem rebuke you! Is this not a brand plucked from the fire?”
+			</v>
+			<marker class="begin-verse" mid="v38003003"/>
+			<v n="3">
+				Now Joshua 
+				<crossref let="d" cid="c380033.1"/>
+				 was clothed with filthy garments, and was standing before the Angel.
+			</v>
+			<marker class="begin-verse" mid="v38003004"/>
+			<v n="4">
+				Then He 
+				<crossref let="e" cid="c380034.1"/>
+				 answered and spoke to those who stood before Him, saying, “Take away the filthy garments from him.” And to him He said, “See, I have removed your iniquity from you, and I will clothe you with rich robes.”
+			</v>
+			<marker class="begin-verse" mid="v38003005"/>
+			<v n="5">
+				And I 
+				<crossref let="f" cid="c380035.1"/>
+				 said, “Let them put a clean turban on his head.”So they put a clean turban on his head, and they put the clothes on him. And the Angel of the Lord stood by.The Coming Branch
+			</v>
+			<marker class="begin-verse" mid="v38003006"/>
+			<v n="6">
+				Then the 
+				<crossref let="g" cid="c380036.1"/>
+				 Angel of the Lord admonished Joshua, saying,
+			</v>
+			<marker class="begin-verse" mid="v38003007"/>
+			<v n="7">
+				“Thus says 
+				<crossref let="h" cid="c380037.1"/>
+				 the Lord of hosts:‘If you will walk in My ways,And if you will keep My command,Then you shall also judge My house,And likewise have charge of My courts;I will give you places to walkAmong these who stand here.
+			</v>
+			<marker class="begin-verse" mid="v38003008"/>
+			<v n="8">
+				‘Hear, O 
+				<crossref let="i" cid="c380038.1"/>
+				 Joshua, the high priest,You and your companions who sit before you,For they are a wondrous sign;For behold, I am bringing forth My Servant the BRANCH.
+			</v>
+			<marker class="begin-verse" mid="v38003009"/>
+			<v n="9">
+				For behold, 
+				<crossref let="j" cid="c380039.1"/>
+				 the stoneThat I have laid before Joshua:Upon the stone are seven eyes.Behold, I will engrave its inscription,’Says the Lord of hosts,‘And I will remove the iniquity of that land in one day.
+			</v>
+			<marker class="begin-verse" mid="v38003010"/>
+			<v n="10">
+				In that 
+				<crossref let="k" cid="c3800310.1"/>
+				 day,’ says the Lord of hosts,‘Everyone will invite his neighborUnder his vine and under his fig tree.’ ”
+			</v>
+			<marker class="begin-verse" mid="v38003011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:44.483653</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:44.483660</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18025001">
+		</marker>
+		<chapter num="25">
+			<heading>
+				Job 25
+			</heading>
+			<heading>
+				Bildad Speaks: Man Cannot Be Righteous
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Then Bildad 
+				<crossref let="b" cid="c18025001.1">
+				</crossref>
+				the Shuhite, 
+				<crossref let="c" cid="c18025001.2">
+				</crossref>
+				answered and said:
+			</v>
+			<marker class="begin-verse" mid="v18025002">
+			</marker>
+			<v n="2">
+				“Dominion and 
+				<crossref let="d" cid="c18025002.3">
+				</crossref>
+				fear are, 
+				<crossref let="e" cid="c18025002.4">
+				</crossref>
+				with God;(1) he makes peace in his high heaven.
+			</v>
+			<marker class="begin-verse" mid="v18025003">
+			</marker>
+			<v n="3">
+				Is there 
+				<crossref let="f" cid="c18025003.5">
+				</crossref>
+				any number, 
+				<crossref let="g" cid="c18025003.6">
+				</crossref>
+				to his armies? Upon whom does his light not arise?
+				<note nid="n18025003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18025004">
+			</marker>
+			<v n="4">
+				How then 
+				<crossref let="h" cid="c18025004.7">
+				</crossref>
+				can man, 
+				<crossref let="i" cid="c18025004.8">
+				</crossref>
+				be in the right before God? How can he who is born of woman be pure?
+			</v>
+			<marker class="begin-verse" mid="v18025005">
+			</marker>
+			<v n="5">
+				Behold, even 
+				<crossref let="j" cid="c18025005.9">
+				</crossref>
+				the moon, 
+				<crossref let="k" cid="c18025005.10">
+				</crossref>
+				is not bright, and the stars are not pure in his eyes;
+			</v>
+			<marker class="begin-verse" mid="v18025006">
+			</marker>
+			<v n="6">
+				how much 
+				<crossref let="l" cid="c18025006.11">
+				</crossref>
+				less man,, 
+				<crossref let="m" cid="c18025006.12">
+				</crossref>
+				who is a maggot, and the son of man, who is a worm!” Footnotes (1) 25:2 Hebrew *him* (ESV)
+				<note nid="n18025006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v18025007">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

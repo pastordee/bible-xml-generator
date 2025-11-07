@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:25:47.486177</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:25:47.486195</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" bookAbbr="1sa" version="ESV">
+		<marker class="begin-verse" mid="v09023001">
+		</marker>
+		<chapter num="23">
+			<heading>
+				1 Samuel 23
+			</heading>
+			<heading>
+				David Saves the City of Keilah
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Now they 
+				<crossref let="b" cid="c09023001.1">
+				</crossref>
+				told David,, 
+				<crossref let="c" cid="c09023001.2">
+				</crossref>
+				“Behold, the Philistines are fighting against Keilah and are robbing the threshing floors.”
+			</v>
+			<marker class="begin-verse" mid="v09023002">
+			</marker>
+			<v n="2">
+				Therefore David 
+				<crossref let="d" cid="c09023002.3">
+				</crossref>
+				inquired of, 
+				<crossref let="e" cid="c09023002.4">
+				</crossref>
+				the LORD, “Shall I go and attack these Philistines?” And the LORD said to David, “Go and attack the Philistines and save Keilah.”
+			</v>
+			<marker class="begin-verse" mid="v09023003">
+			</marker>
+			<v n="3">
+				But David’s 
+				<crossref let="f" cid="c09023003.5">
+				</crossref>
+				men said, 
+				<crossref let="g" cid="c09023003.6">
+				</crossref>
+				to him, “Behold, we are afraid here in Judah; how much more then if we go to Keilah against the armies of the Philistines?”
+				<note nid="n09023003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v09023004">
+			</marker>
+			<v n="4">
+				Then David 
+				<crossref let="h" cid="c09023004.7">
+				</crossref>
+				inquired of, 
+				<crossref let="i" cid="c09023004.8">
+				</crossref>
+				the LORD again. And the LORD answered him, “Arise, go down to Keilah, for I will give the Philistines into your hand.”
+			</v>
+			<marker class="begin-verse" mid="v09023005">
+			</marker>
+			<v n="5">
+				And David 
+				<crossref let="j" cid="c09023005.9">
+				</crossref>
+				and his, 
+				<crossref let="k" cid="c09023005.10">
+				</crossref>
+				men went to Keilah and fought with the Philistines and brought away their livestock and struck them with a great blow. So David saved the inhabitants of Keilah.
+			</v>
+			<marker class="begin-verse" mid="v09023006">
+			</marker>
+			<v n="6">
+				When Abiathar 
+				<crossref let="l" cid="c09023006.11">
+				</crossref>
+				the son, 
+				<crossref let="m" cid="c09023006.12">
+				</crossref>
+				of Ahimelech had fled to David to Keilah, he had come down with an ephod in his hand.
+				<note nid="n09023006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v09023007">
+			</marker>
+			<v n="7">
+				Now it 
+				<crossref let="n" cid="c09023007.13">
+				</crossref>
+				was told, 
+				<crossref let="o" cid="c09023007.14">
+				</crossref>
+				Saul that David had come to Keilah. And Saul said, “God has given him into my hand, for he has shut himself in by entering a town that has gates and bars.”
+			</v>
+			<marker class="begin-verse" mid="v09023008">
+			</marker>
+			<v n="8">
+				And Saul 
+				<crossref let="p" cid="c09023008.15">
+				</crossref>
+				summoned all, 
+				<crossref let="q" cid="c09023008.16">
+				</crossref>
+				the people to war, to go down to Keilah, to besiege David and his men.
+			</v>
+			<marker class="begin-verse" mid="v09023009">
+			</marker>
+			<v n="9" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					David knew 
+					<crossref let="r" cid="c09023009.17">
+				</crossref>
+					that Saul, 
+					<crossref let="s" cid="c09023009.18">
+				</crossref>
+				was plotting harm against him. And he said to Abiathar the priest, “Bring the ephod here.”
+					<note nid="n09023009.9">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v09023010">
+			</marker>
+			<v n="10">
+				Then David 
+				<crossref let="t" cid="c09023010.19">
+				</crossref>
+				said, “O, 
+				<crossref let="u" cid="c09023010.20">
+				</crossref>
+				LORD, the God of Israel, your servant has surely heard that Saul seeks to come to Keilah, to destroy the city on my account.
+			</v>
+			<marker class="begin-verse" mid="v09023011">
+			</marker>
+			<v n="11">
+				Will the 
+				<crossref let="v" cid="c09023011.21">
+				</crossref>
+				men of, 
+				<crossref let="w" cid="c09023011.22">
+				</crossref>
+				Keilah surrender me into his hand? Will Saul come down, as your servant has heard? O LORD, the God of Israel, please tell your servant.” And the LORD said, “He will come down.”
+			</v>
+			<marker class="begin-verse" mid="v09023012">
+			</marker>
+			<v n="12">
+				Then David 
+				<crossref let="x" cid="c09023012.23">
+				</crossref>
+				said, “Will, 
+				<crossref let="y" cid="c09023012.24">
+				</crossref>
+				the men of Keilah surrender me and my men into the hand of Saul?” And the LORD said, “They will surrender you.”
+				<note nid="n09023012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v09023013">
+			</marker>
+			<v n="13">
+				Then David 
+				<crossref let="z" cid="c09023013.25">
+				</crossref>
+				and his, 
+				<crossref let="a" cid="c09023013.26">
+				</crossref>
+				men, who were about six hundred, arose and departed from Keilah, and they went wherever they could go. When Saul was told that David had escaped from Keilah, he gave up the expedition.
+			</v>
+			<marker class="begin-verse" mid="v09023014">
+			</marker>
+			<v n="14">
+				And David 
+				<crossref let="b" cid="c09023014.27">
+				</crossref>
+				remained in, 
+				<crossref let="c" cid="c09023014.28">
+				</crossref>
+				the strongholds in the wilderness, in the hill country of the wilderness of Ziph. And Saul sought him every day, but God did not give him into his hand. Saul Pursues David
+			</v>
+			<marker class="begin-verse" mid="v09023015">
+			</marker>
+			<v n="15">
+				David saw 
+				<crossref let="d" cid="c09023015.29">
+				</crossref>
+				that Saul, 
+				<crossref let="e" cid="c09023015.30">
+				</crossref>
+				had come out to seek his life. David was in the wilderness of Ziph at Horesh.
+				<note nid="n09023015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v09023016">
+			</marker>
+			<v n="16">
+				And Jonathan, 
+				<crossref let="f" cid="c09023016.31">
+				</crossref>
+				Saul’s son,, 
+				<crossref let="g" cid="c09023016.32">
+				</crossref>
+				rose and went to David at Horesh, and strengthened his hand in God.
+			</v>
+			<marker class="begin-verse" mid="v09023017">
+			</marker>
+			<v n="17" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="h" cid="c09023017.33">
+				</crossref>
+					said to, 
+					<crossref let="i" cid="c09023017.34">
+				</crossref>
+				him, “Do not fear, for the hand of Saul my father shall not find you. You shall be king over Israel, and I shall be next to you. Saul my father also knows this.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v09023018">
+			</marker>
+			<v n="18">
+				And the 
+				<crossref let="j" cid="c09023018.35">
+				</crossref>
+				two of, 
+				<crossref let="k" cid="c09023018.36">
+				</crossref>
+				them made a covenant before the LORD. David remained at Horesh, and Jonathan went home.
+				<note nid="n09023018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v09023019">
+			</marker>
+			<v n="19">
+				Then the 
+				<crossref let="l" cid="c09023019.37">
+				</crossref>
+				Ziphites went, 
+				<crossref let="m" cid="c09023019.38">
+				</crossref>
+				up to Saul at Gibeah, saying, “Is not David hiding among us in the strongholds at Horesh, on the hill of Hachilah, which is south of Jeshimon?
+			</v>
+			<marker class="begin-verse" mid="v09023020">
+			</marker>
+			<v n="20">
+				Now come 
+				<crossref let="n" cid="c09023020.39">
+				</crossref>
+				down, O, 
+				<crossref let="o" cid="c09023020.40">
+				</crossref>
+				king, according to all your heart’s desire to come down, and our part shall be to surrender him into the king’s hand.”
+			</v>
+			<marker class="begin-verse" mid="v09023021">
+			</marker>
+			<v n="21">
+				And Saul 
+				<crossref let="p" cid="c09023021.41">
+				</crossref>
+				said, “May, 
+				<crossref let="q" cid="c09023021.42">
+				</crossref>
+				you be blessed by the LORD, for you have had compassion on me.
+				<note nid="n09023021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v09023022">
+			</marker>
+			<v n="22">
+				Go, make 
+				<crossref let="r" cid="c09023022.43">
+				</crossref>
+				yet more, 
+				<crossref let="s" cid="c09023022.44">
+				</crossref>
+				sure. Know and see the place where his foot is, and who has seen him there, for it is told me that he is very cunning.
+			</v>
+			<marker class="begin-verse" mid="v09023023">
+			</marker>
+			<v n="23">
+				See therefore 
+				<crossref let="t" cid="c09023023.45">
+				</crossref>
+				and take, 
+				<crossref let="u" cid="c09023023.46">
+				</crossref>
+				note of all the lurking places where he hides, and come back to me with sure information. Then I will go with you. And if he is in the land, I will search him out among all the thousands of Judah.”
+			</v>
+			<marker class="begin-verse" mid="v09023024">
+			</marker>
+			<v n="24">
+				And they 
+				<crossref let="v" cid="c09023024.47">
+				</crossref>
+				arose and, 
+				<crossref let="w" cid="c09023024.48">
+				</crossref>
+				went to Ziph ahead of Saul. Now David and his men were in the wilderness of Maon, in the Arabah to the south of Jeshimon.
+				<note nid="n09023024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v09023025">
+			</marker>
+			<v n="25">
+				And Saul 
+				<crossref let="x" cid="c09023025.49">
+				</crossref>
+				and his, 
+				<crossref let="y" cid="c09023025.50">
+				</crossref>
+				men went to seek him. And David was told, so he went down to the rock and lived in the wilderness of Maon. And when Saul heard that, he pursued after David in the wilderness of Maon.
+			</v>
+			<marker class="begin-verse" mid="v09023026">
+			</marker>
+			<v n="26">
+				Saul went 
+				<crossref let="z" cid="c09023026.51">
+				</crossref>
+				on one, 
+				<crossref let="a" cid="c09023026.52">
+				</crossref>
+				side of the mountain, and David and his men on the other side of the mountain. And David was hurrying to get away from Saul. As Saul and his men were closing in on David and his men to capture them,
+			</v>
+			<marker class="begin-verse" mid="v09023027">
+			</marker>
+			<v n="27">
+				a messenger 
+				<crossref let="b" cid="c09023027.53">
+				</crossref>
+				came to, 
+				<crossref let="c" cid="c09023027.54">
+				</crossref>
+				Saul, saying, “Hurry and come, for the Philistines have made a raid against the land.”
+				<note nid="n09023027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v09023028">
+			</marker>
+			<v n="28">
+				So Saul 
+				<crossref let="d" cid="c09023028.55">
+				</crossref>
+				returned from, 
+				<crossref let="e" cid="c09023028.56">
+				</crossref>
+				pursuing after David and went against the Philistines. Therefore that place was called the Rock of Escape.(1)
+			</v>
+			<marker class="begin-verse" mid="v09023029">
+			</marker>
+			<v n="29">
+				(2) And 
+				<crossref let="f" cid="c09023029.57">
+				</crossref>
+				David went, 
+				<crossref let="g" cid="c09023029.58">
+				</crossref>
+				up from there and lived in the strongholds of Engedi. Footnotes (1) 23:28 Or *Rock of Divisions* (2) 23:29 Ch 24:1 in Hebrew (ESV)
+			</v>
+			<marker class="begin-verse" mid="v09023030">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:11:32.368110</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:11:32.368134</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19150001"/>
+		<chapter num="150">
+			<heading>Psalm 150A Psalm of Praise.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c191501.1"/>
+				 Lord!Praise God in His sanctuary;Praise Him in His mighty heavens.
+			</v>
+			<marker class="begin-verse" mid="v19150002"/>
+			<v n="2">
+				Praise Him 
+				<crossref let="c" cid="c191502.1"/>
+				 for His mighty acts;Praise Him according to [the abundance of] His greatness. [Deut 3:24; Ps 145:5, 6]
+			</v>
+			<marker class="begin-verse" mid="v19150003"/>
+			<v n="3">
+				¶Praise Him 
+				<crossref let="d" cid="c191503.1"/>
+				 with trumpet sound;Praise Him with harp and lyre.
+			</v>
+			<marker class="begin-verse" mid="v19150004"/>
+			<v n="4">
+				Praise Him 
+				<crossref let="e" cid="c191504.1"/>
+				 with tambourine and dancing;Praise Him with stringed instruments and flute.
+			</v>
+			<marker class="begin-verse" mid="v19150005"/>
+			<v n="5">
+				Praise Him 
+				<crossref let="f" cid="c191505.1"/>
+				 with resounding cymbals;Praise Him with loud cymbals.
+			</v>
+			<marker class="begin-verse" mid="v19150006"/>
+			<v n="6">
+				Let everything 
+				<crossref let="g" cid="c191506.1"/>
+				 that has breath and every breath of life praise the Lord!Praise the Lord! (Hallelujah!)
+			</v>
+			<marker class="begin-verse" mid="v19150007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

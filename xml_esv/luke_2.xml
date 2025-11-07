@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:08.369885</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:08.369891</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Luke 2
+			</heading>
+			<heading>
+				The Birth of Jesus Christ
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				In those 
+				<crossref let="b" cid="c42002001.1">
+				</crossref>
+				days a, 
+				<crossref let="c" cid="c42002001.2">
+				</crossref>
+				decree went out from Caesar Augustus that all the world should be registered.
+			</v>
+			<marker class="begin-verse" mid="v42002002">
+			</marker>
+			<v n="2">
+				This was 
+				<crossref let="d" cid="c42002002.3">
+				</crossref>
+				the first, 
+				<crossref let="e" cid="c42002002.4">
+				</crossref>
+				registration when(1) Quirinius was governor of Syria.
+			</v>
+			<marker class="begin-verse" mid="v42002003">
+			</marker>
+			<v n="3">
+				And all 
+				<crossref let="f" cid="c42002003.5">
+				</crossref>
+				went to, 
+				<crossref let="g" cid="c42002003.6">
+				</crossref>
+				be registered, each to his own town.
+				<note nid="n42002003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002004">
+			</marker>
+			<v n="4">
+				And Joseph 
+				<crossref let="h" cid="c42002004.7">
+				</crossref>
+				also went, 
+				<crossref let="i" cid="c42002004.8">
+				</crossref>
+				up from Galilee, from the town of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David,
+			</v>
+			<marker class="begin-verse" mid="v42002005">
+			</marker>
+			<v n="5">
+				to be 
+				<crossref let="j" cid="c42002005.9">
+				</crossref>
+				registered with, 
+				<crossref let="k" cid="c42002005.10">
+				</crossref>
+				Mary, his betrothed,(2) who was with child.
+			</v>
+			<marker class="begin-verse" mid="v42002006">
+			</marker>
+			<v n="6">
+				And while 
+				<crossref let="l" cid="c42002006.11">
+				</crossref>
+				they were, 
+				<crossref let="m" cid="c42002006.12">
+				</crossref>
+				there, the time came for her to give birth.
+				<note nid="n42002006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002007">
+			</marker>
+			<v n="7">
+				And she 
+				<crossref let="n" cid="c42002007.13">
+				</crossref>
+				gave birth, 
+				<crossref let="o" cid="c42002007.14">
+				</crossref>
+				to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.(3) The Shepherds and the Angels
+			</v>
+			<marker class="begin-verse" mid="v42002008">
+			</marker>
+			<v n="8">
+				And in 
+				<crossref let="p" cid="c42002008.15">
+				</crossref>
+				the same, 
+				<crossref let="q" cid="c42002008.16">
+				</crossref>
+				region there were shepherds out in the field, keeping watch over their flock by night.
+			</v>
+			<marker class="begin-verse" mid="v42002009">
+			</marker>
+			<v n="9">
+				And an 
+				<crossref let="r" cid="c42002009.17">
+				</crossref>
+				angel of, 
+				<crossref let="s" cid="c42002009.18">
+				</crossref>
+				the Lord appeared to them, and the glory of the Lord shone around them, and they were filled with great fear.
+				<note nid="n42002009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002010">
+			</marker>
+			<v n="10">
+				And the 
+				<crossref let="t" cid="c42002010.19">
+				</crossref>
+				angel said, 
+				<crossref let="u" cid="c42002010.20">
+				</crossref>
+				to them, “Fear not, for behold, I bring you good news of great joy that will be for all the people.
+			</v>
+			<marker class="begin-verse" mid="v42002011">
+			</marker>
+			<v n="11">
+				For unto 
+				<crossref let="v" cid="c42002011.21">
+				</crossref>
+				you is, 
+				<crossref let="w" cid="c42002011.22">
+				</crossref>
+				born this day in the city of David a Savior, who is Christ the Lord.
+			</v>
+			<marker class="begin-verse" mid="v42002012">
+			</marker>
+			<v n="12">
+				And this 
+				<crossref let="x" cid="c42002012.23">
+				</crossref>
+				will be, 
+				<crossref let="y" cid="c42002012.24">
+				</crossref>
+				a sign for you: you will find a baby wrapped in swaddling cloths and lying in a manger.”
+				<note nid="n42002012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002013">
+			</marker>
+			<v n="13">
+				And suddenly 
+				<crossref let="z" cid="c42002013.25">
+				</crossref>
+				there was, 
+				<crossref let="a" cid="c42002013.26">
+				</crossref>
+				with the angel a multitude of the heavenly host praising God and saying,
+			</v>
+			<marker class="begin-verse" mid="v42002014">
+			</marker>
+			<v n="14">
+				“Glory to 
+				<crossref let="b" cid="c42002014.27">
+				</crossref>
+				God in, 
+				<crossref let="c" cid="c42002014.28">
+				</crossref>
+				the highest, and on earth peace among those with whom he is pleased!”(4)
+			</v>
+			<marker class="begin-verse" mid="v42002015">
+			</marker>
+			<v n="15">
+				When the 
+				<crossref let="d" cid="c42002015.29">
+				</crossref>
+				angels went, 
+				<crossref let="e" cid="c42002015.30">
+				</crossref>
+				away from them into heaven, the shepherds said to one another, “Let us go over to Bethlehem and see this thing that has happened, which the Lord has made known to us.”
+				<note nid="n42002015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002016">
+			</marker>
+			<v n="16">
+				And they 
+				<crossref let="f" cid="c42002016.31">
+				</crossref>
+				went with, 
+				<crossref let="g" cid="c42002016.32">
+				</crossref>
+				haste and found Mary and Joseph, and the baby lying in a manger.
+			</v>
+			<marker class="begin-verse" mid="v42002017">
+			</marker>
+			<v n="17">
+				And when 
+				<crossref let="h" cid="c42002017.33">
+				</crossref>
+				they saw, 
+				<crossref let="i" cid="c42002017.34">
+				</crossref>
+				it, they made known the saying that had been told them concerning this child.
+			</v>
+			<marker class="begin-verse" mid="v42002018">
+			</marker>
+			<v n="18">
+				And all 
+				<crossref let="j" cid="c42002018.35">
+				</crossref>
+				who heard, 
+				<crossref let="k" cid="c42002018.36">
+				</crossref>
+				it wondered at what the shepherds told them.
+				<note nid="n42002018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002019">
+			</marker>
+			<v n="19">
+				But Mary 
+				<crossref let="l" cid="c42002019.37">
+				</crossref>
+				treasured up, 
+				<crossref let="m" cid="c42002019.38">
+				</crossref>
+				all these things, pondering them in her heart.
+			</v>
+			<marker class="begin-verse" mid="v42002020">
+			</marker>
+			<v n="20">
+				And the 
+				<crossref let="n" cid="c42002020.39">
+				</crossref>
+				shepherds returned,, 
+				<crossref let="o" cid="c42002020.40">
+				</crossref>
+				glorifying and praising God for all they had heard and seen, as it had been told them.
+			</v>
+			<marker class="begin-verse" mid="v42002021">
+			</marker>
+			<v n="21">
+				And at 
+				<crossref let="p" cid="c42002021.41">
+				</crossref>
+				the end, 
+				<crossref let="q" cid="c42002021.42">
+				</crossref>
+				of eight days, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb. Jesus Presented at the Temple
+				<note nid="n42002021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002022">
+			</marker>
+			<v n="22">
+				And when 
+				<crossref let="r" cid="c42002022.43">
+				</crossref>
+				the time, 
+				<crossref let="s" cid="c42002022.44">
+				</crossref>
+				came for their purification according to the Law of Moses, they brought him up to Jerusalem to present him to the Lord
+			</v>
+			<marker class="begin-verse" mid="v42002023">
+			</marker>
+			<v n="23">
+				(as it 
+				<crossref let="t" cid="c42002023.45">
+				</crossref>
+				is written, 
+				<crossref let="u" cid="c42002023.46">
+				</crossref>
+				in the Law of the Lord, “Every male who first opens the womb shall be called holy to the Lord”)
+			</v>
+			<marker class="begin-verse" mid="v42002024">
+			</marker>
+			<v n="24">
+				and to 
+				<crossref let="v" cid="c42002024.47">
+				</crossref>
+				offer a, 
+				<crossref let="w" cid="c42002024.48">
+				</crossref>
+				sacrifice according to what is said in the Law of the Lord, “a pair of turtledoves, or two young pigeons.”
+				<note nid="n42002024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002025">
+			</marker>
+			<v n="25">
+				Now there 
+				<crossref let="x" cid="c42002025.49">
+				</crossref>
+				was a, 
+				<crossref let="y" cid="c42002025.50">
+				</crossref>
+				man in Jerusalem, whose name was Simeon, and this man was righteous and devout, waiting for the consolation of Israel, and the Holy Spirit was upon him.
+			</v>
+			<marker class="begin-verse" mid="v42002026">
+			</marker>
+			<v n="26">
+				And it 
+				<crossref let="z" cid="c42002026.51">
+				</crossref>
+				had been, 
+				<crossref let="a" cid="c42002026.52">
+				</crossref>
+				revealed to him by the Holy Spirit that he would not see death before he had seen the Lord’s Christ.
+			</v>
+			<marker class="begin-verse" mid="v42002027">
+			</marker>
+			<v n="27">
+				And he 
+				<crossref let="b" cid="c42002027.53">
+				</crossref>
+				came in, 
+				<crossref let="c" cid="c42002027.54">
+				</crossref>
+				the Spirit into the temple, and when the parents brought in the child Jesus, to do for him according to the custom of the Law,
+				<note nid="n42002027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002028">
+			</marker>
+			<v n="28">
+				he took 
+				<crossref let="d" cid="c42002028.55">
+				</crossref>
+				him up, 
+				<crossref let="e" cid="c42002028.56">
+				</crossref>
+				in his arms and blessed God and said,
+			</v>
+			<marker class="begin-verse" mid="v42002029">
+			</marker>
+			<v n="29">
+				“Lord, now 
+				<crossref let="f" cid="c42002029.57">
+				</crossref>
+				you are, 
+				<crossref let="g" cid="c42002029.58">
+				</crossref>
+				letting your servant(5) depart in peace, according to your word;
+			</v>
+			<marker class="begin-verse" mid="v42002030">
+			</marker>
+			<v n="30">
+				for my 
+				<crossref let="h" cid="c42002030.59">
+				</crossref>
+				eyes have, 
+				<crossref let="i" cid="c42002030.60">
+				</crossref>
+				seen your salvation
+				<note nid="n42002030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002031">
+			</marker>
+			<v n="31">
+				that you 
+				<crossref let="j" cid="c42002031.61">
+				</crossref>
+				have prepared, 
+				<crossref let="k" cid="c42002031.62">
+				</crossref>
+				in the presence of all peoples,
+			</v>
+			<marker class="begin-verse" mid="v42002032">
+			</marker>
+			<v n="32">
+				a light 
+				<crossref let="l" cid="c42002032.63">
+				</crossref>
+				for revelation, 
+				<crossref let="m" cid="c42002032.64">
+				</crossref>
+				to the Gentiles, and for glory to your people Israel.”
+			</v>
+			<marker class="begin-verse" mid="v42002033">
+			</marker>
+			<v n="33">
+				And his 
+				<crossref let="n" cid="c42002033.65">
+				</crossref>
+				father and, 
+				<crossref let="o" cid="c42002033.66">
+				</crossref>
+				his mother marveled at what was said about him.
+				<note nid="n42002033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002034">
+			</marker>
+			<v n="34">
+				And Simeon 
+				<crossref let="p" cid="c42002034.67">
+				</crossref>
+				blessed them, 
+				<crossref let="q" cid="c42002034.68">
+				</crossref>
+				and said to Mary his mother, “Behold, this child is appointed for the fall and rising of many in Israel, and for a sign that is opposed
+			</v>
+			<marker class="begin-verse" mid="v42002035">
+			</marker>
+			<v n="35">
+				(and a 
+				<crossref let="r" cid="c42002035.69">
+				</crossref>
+				sword will, 
+				<crossref let="s" cid="c42002035.70">
+				</crossref>
+				pierce through your own soul also), so that thoughts from many hearts may be revealed.”
+			</v>
+			<marker class="begin-verse" mid="v42002036">
+			</marker>
+			<v n="36">
+				And there 
+				<crossref let="t" cid="c42002036.71">
+				</crossref>
+				was a, 
+				<crossref let="u" cid="c42002036.72">
+				</crossref>
+				prophetess, Anna, the daughter of Phanuel, of the tribe of Asher. She was advanced in years, having lived with her husband seven years from when she was a virgin,
+				<note nid="n42002036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002037">
+			</marker>
+			<v n="37">
+				and then 
+				<crossref let="v" cid="c42002037.73">
+				</crossref>
+				as a, 
+				<crossref let="w" cid="c42002037.74">
+				</crossref>
+				widow until she was eighty-four.(6) She did not depart from the temple, worshiping with fasting and prayer night and day.
+			</v>
+			<marker class="begin-verse" mid="v42002038">
+			</marker>
+			<v n="38">
+				And coming 
+				<crossref let="x" cid="c42002038.75">
+				</crossref>
+				up at, 
+				<crossref let="y" cid="c42002038.76">
+				</crossref>
+				that very hour she began to give thanks to God and to speak of him to all who were waiting for the redemption of Jerusalem. The Return to Nazareth
+			</v>
+			<marker class="begin-verse" mid="v42002039">
+			</marker>
+			<v n="39">
+				And when 
+				<crossref let="z" cid="c42002039.77">
+				</crossref>
+				they had, 
+				<crossref let="a" cid="c42002039.78">
+				</crossref>
+				performed everything according to the Law of the Lord, they returned into Galilee, to their own town of Nazareth.
+				<note nid="n42002039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002040">
+			</marker>
+			<v n="40">
+				And the 
+				<crossref let="b" cid="c42002040.79">
+				</crossref>
+				child grew, 
+				<crossref let="c" cid="c42002040.80">
+				</crossref>
+				and became strong, filled with wisdom. And the favor of God was upon him. The Boy Jesus in the Temple
+			</v>
+			<marker class="begin-verse" mid="v42002041">
+			</marker>
+			<v n="41">
+				Now his 
+				<crossref let="d" cid="c42002041.81">
+				</crossref>
+				parents went, 
+				<crossref let="e" cid="c42002041.82">
+				</crossref>
+				to Jerusalem every year at the Feast of the Passover.
+			</v>
+			<marker class="begin-verse" mid="v42002042">
+			</marker>
+			<v n="42">
+				And when 
+				<crossref let="f" cid="c42002042.83">
+				</crossref>
+				he was, 
+				<crossref let="g" cid="c42002042.84">
+				</crossref>
+				twelve years old, they went up according to custom.
+				<note nid="n42002042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002043">
+			</marker>
+			<v n="43">
+				And when 
+				<crossref let="h" cid="c42002043.85">
+				</crossref>
+				the feast, 
+				<crossref let="i" cid="c42002043.86">
+				</crossref>
+				was ended, as they were returning, the boy Jesus stayed behind in Jerusalem. His parents did not know it,
+			</v>
+			<marker class="begin-verse" mid="v42002044">
+			</marker>
+			<v n="44">
+				but supposing 
+				<crossref let="j" cid="c42002044.87">
+				</crossref>
+				him to, 
+				<crossref let="k" cid="c42002044.88">
+				</crossref>
+				be in the group they went a day’s journey, but then they began to search for him among their relatives and acquaintances,
+			</v>
+			<marker class="begin-verse" mid="v42002045">
+			</marker>
+			<v n="45">
+				and when 
+				<crossref let="l" cid="c42002045.89">
+				</crossref>
+				they did, 
+				<crossref let="m" cid="c42002045.90">
+				</crossref>
+				not find him, they returned to Jerusalem, searching for him.
+				<note nid="n42002045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002046">
+			</marker>
+			<v n="46">
+				After three 
+				<crossref let="n" cid="c42002046.91">
+				</crossref>
+				days they, 
+				<crossref let="o" cid="c42002046.92">
+				</crossref>
+				found him in the temple, sitting among the teachers, listening to them and asking them questions.
+			</v>
+			<marker class="begin-verse" mid="v42002047">
+			</marker>
+			<v n="47">
+				And all 
+				<crossref let="p" cid="c42002047.93">
+				</crossref>
+				who heard, 
+				<crossref let="q" cid="c42002047.94">
+				</crossref>
+				him were amazed at his understanding and his answers.
+			</v>
+			<marker class="begin-verse" mid="v42002048">
+			</marker>
+			<v n="48">
+				And when 
+				<crossref let="r" cid="c42002048.95">
+				</crossref>
+				his parents(7), 
+				<crossref let="s" cid="c42002048.96">
+				</crossref>
+				saw him, they were astonished. And his mother said to him, “Son, why have you treated us so? Behold, your father and I have been searching for you in great distress.”
+				<note nid="n42002048.48">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002049">
+			</marker>
+			<v n="49" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="t" cid="c42002049.97">
+				</crossref>
+					said to, 
+					<crossref let="u" cid="c42002049.98">
+				</crossref>
+				them, “Why were you looking for me? Did you not know that I must be in my Father’s house?”(8)
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v42002050">
+			</marker>
+			<v n="50">
+				And they 
+				<crossref let="v" cid="c42002050.99">
+				</crossref>
+				did not, 
+				<crossref let="w" cid="c42002050.100">
+				</crossref>
+				understand the saying that he spoke to them.
+			</v>
+			<marker class="begin-verse" mid="v42002051">
+			</marker>
+			<v n="51">
+				And he 
+				<crossref let="x" cid="c42002051.101">
+				</crossref>
+				went down, 
+				<crossref let="y" cid="c42002051.102">
+				</crossref>
+				with them and came to Nazareth and was submissive to them. And his mother treasured up all these things in her heart.
+				<note nid="n42002051.51">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v42002052">
+			</marker>
+			<v n="52">
+				And Jesus 
+				<crossref let="z" cid="c42002052.103">
+				</crossref>
+				increased in, 
+				<crossref let="a" cid="c42002052.104">
+				</crossref>
+				wisdom and in stature(9) and in favor with God and man. Footnotes (1) 2:2 Or *This was the registration before* (2) 2:5 That is, one legally pledged to be married (3) 2:7 Or *guest room* (4) 2:14 Some manuscripts *peace, good will among men* (5) 2:29 Or *bondservant* (6) 2:37 Or *as a widow for eighty-four years* (7) 2:48 Greek *they* (8) 2:49 Or *about my Father’s business* (9) 2:52 Or *years* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v42002053">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

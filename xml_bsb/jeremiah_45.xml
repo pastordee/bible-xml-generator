@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:39:50.672314</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:39:50.672355</next_refresh_due>
+	</generation_info>
+	<book title="Jeremiah" num="24" testament="old" version="BSB" bookAbbr="jer">
+		<marker class="begin-verse" mid="v24045001"/>
+		<chapter num="45">
+			<heading>Jeremiah’s Message to Baruch</heading>
+			<begin-paragraph/>
+			<v n="1">
+				This is 
+				<crossref let="b" cid="c240451.1"/>
+				 the word that Jeremiah the prophet spoke to Baruch son of Neriah when he wrote these words on a scroll at the dictation of Jeremiah in the fourth year of Jehoiakim son of Josiah, king of Judah:
+			</v>
+			<marker class="begin-verse" mid="v24045002"/>
+			<v n="2">
+				“This is 
+				<crossref let="c" cid="c240452.1"/>
+				 what the LORD, the God of Israel, says to you, Baruch:
+			</v>
+			<marker class="begin-verse" mid="v24045003"/>
+			<v n="3">
+				You have 
+				<crossref let="d" cid="c240453.1"/>
+				 said, ‘Woe is me because the LORD has added sorrow to my pain! I am worn out with groaning and have found no rest.’”
+			</v>
+			<marker class="begin-verse" mid="v24045004"/>
+			<v n="4">
+				Thus Jeremiah 
+				<crossref let="e" cid="c240454.1"/>
+				 was to say to Baruch: “This is what the LORD says: Throughout the land I will demolish what I have built and uproot what I have planted.
+			</v>
+			<marker class="begin-verse" mid="v24045005"/>
+			<v n="5">
+				But as 
+				<crossref let="f" cid="c240455.1"/>
+				 for you, do you seek great things for yourself? Stop seeking! For I will bring disaster on every living creature, declares the LORD, but wherever you go, I will grant your life as a spoil of war.”
+			</v>
+			<marker class="begin-verse" mid="v24045006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

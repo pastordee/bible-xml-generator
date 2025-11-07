@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:29:48.951263</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:29:48.951286</next_refresh_due>
+	</generation_info>
+	<book title="Jonah" num="32" testament="old" version="MSG" bookAbbr="jon">
+		<marker class="begin-verse" mid="v32004001"/>
+		<chapter num="4">
+			<begin-paragraph/>
+			<v n="1">
+				But this 
+				<crossref let="b" cid="c320041.1"/>
+				 really upset Jonah, and he became very angry.
+			</v>
+			<marker class="begin-verse" mid="v32004002"/>
+			<v n="2">
+				He prayed 
+				<crossref let="c" cid="c320042.1"/>
+				 to the Lord and told him, “Lord, wasn't this what I said when I was back home? That's why I ran away to Tarshish in the first place! For I knew that you are a gracious and compassionate God, very patient and full of kindhearted love, who relents from sending disaster.
+			</v>
+			<marker class="begin-verse" mid="v32004003"/>
+			<v n="3">
+				So just 
+				<crossref let="d" cid="c320043.1"/>
+				 kill me now, Lord, because I'd prefer to die than to live!”
+			</v>
+			<marker class="begin-verse" mid="v32004004"/>
+			<v n="4">
+				The Lord 
+				<crossref let="e" cid="c320044.1"/>
+				 responded, “Do you have a good reason to be so angry?”
+			</v>
+			<marker class="begin-verse" mid="v32004005"/>
+			<v n="5">
+				Jonah left 
+				<crossref let="f" cid="c320045.1"/>
+				 the city and sat down to the east of it. There he made himself a shelter so he could sit in the shade and watch what would happen to the city.
+			</v>
+			<marker class="begin-verse" mid="v32004006"/>
+			<v n="6">
+				The Lord 
+				<crossref let="g" cid="c320046.1"/>
+				 God had a plant grow up and provide shade over Jonah's head to ease his discomfort. Jonah was very happy with the plant.
+			</v>
+			<marker class="begin-verse" mid="v32004007"/>
+			<v n="7">
+				The next 
+				<crossref let="h" cid="c320047.1"/>
+				 day at dawn the Lord had a maggot attack the plant and it withered.
+			</v>
+			<marker class="begin-verse" mid="v32004008"/>
+			<v n="8">
+				Then as 
+				<crossref let="i" cid="c320048.1"/>
+				 the sun came up the Lord arranged for a scorching east wind to blow, and the sun beat down on Jonah's head so that he became faint and wanted to die. “I'd rather die than live!” he said.
+			</v>
+			<marker class="begin-verse" mid="v32004009"/>
+			<v n="9">
+				But the 
+				<crossref let="j" cid="c320049.1"/>
+				 Lord asked Jonah, “Do you have a good reason to be so angry about the plant?”“Yes I do!” Jonah replied. “I'm angry enough to die!”
+			</v>
+			<marker class="begin-verse" mid="v32004010"/>
+			<v n="10">
+				Then the 
+				<crossref let="k" cid="c3200410.1"/>
+				 Lord told Jonah, “You're concerned about a plant which you did nothing about, and you didn't make it grow. It came up overnight and died overnight.
+			</v>
+			<marker class="begin-verse" mid="v32004011"/>
+			<v n="11">
+				Shouldn't I 
+				<crossref let="l" cid="c3200411.1"/>
+				 be concerned about the great city of Nineveh where one hundred and twenty thousand people live who don't know their right hand from their left, not to mention all the animals?”
+			</v>
+			<marker class="begin-verse" mid="v32004012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

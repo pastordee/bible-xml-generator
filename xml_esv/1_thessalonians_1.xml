@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:05.938620</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:05.938634</next_refresh_due>
+	</generation_info>
+	<book title="1 Thessalonians" num="52" testament="new" bookAbbr="1th" version="ESV">
+		<marker class="begin-verse" mid="v52001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				1 Thessalonians 1
+			</heading>
+			<heading>
+				Greeting
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Paul, Silvanus, 
+				<crossref let="b" cid="c52001001.1">
+				</crossref>
+				and Timothy,, 
+				<crossref let="c" cid="c52001001.2">
+				</crossref>
+				To the church of the Thessalonians in God the Father and the Lord Jesus Christ: Grace to you and peace. The Thessalonians’ Faith and Example
+			</v>
+			<marker class="begin-verse" mid="v52001002">
+			</marker>
+			<v n="2">
+				We give 
+				<crossref let="d" cid="c52001002.3">
+				</crossref>
+				thanks to, 
+				<crossref let="e" cid="c52001002.4">
+				</crossref>
+				God always for all of you, constantly(1) mentioning you in our prayers,
+			</v>
+			<marker class="begin-verse" mid="v52001003">
+			</marker>
+			<v n="3">
+				remembering before 
+				<crossref let="f" cid="c52001003.5">
+				</crossref>
+				our God, 
+				<crossref let="g" cid="c52001003.6">
+				</crossref>
+				and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ.
+				<note nid="n52001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v52001004">
+			</marker>
+			<v n="4">
+				For we 
+				<crossref let="h" cid="c52001004.7">
+				</crossref>
+				know, brothers(2), 
+				<crossref let="i" cid="c52001004.8">
+				</crossref>
+				loved by God, that he has chosen you,
+			</v>
+			<marker class="begin-verse" mid="v52001005">
+			</marker>
+			<v n="5">
+				because our 
+				<crossref let="j" cid="c52001005.9">
+				</crossref>
+				gospel came, 
+				<crossref let="k" cid="c52001005.10">
+				</crossref>
+				to you not only in word, but also in power and in the Holy Spirit and with full conviction. You know what kind of men we proved to be among you for your sake.
+			</v>
+			<marker class="begin-verse" mid="v52001006">
+			</marker>
+			<v n="6">
+				And you 
+				<crossref let="l" cid="c52001006.11">
+				</crossref>
+				became imitators, 
+				<crossref let="m" cid="c52001006.12">
+				</crossref>
+				of us and of the Lord, for you received the word in much affliction, with the joy of the Holy Spirit,
+				<note nid="n52001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v52001007">
+			</marker>
+			<v n="7">
+				so that 
+				<crossref let="n" cid="c52001007.13">
+				</crossref>
+				you became, 
+				<crossref let="o" cid="c52001007.14">
+				</crossref>
+				an example to all the believers in Macedonia and in Achaia.
+			</v>
+			<marker class="begin-verse" mid="v52001008">
+			</marker>
+			<v n="8">
+				For not 
+				<crossref let="p" cid="c52001008.15">
+				</crossref>
+				only has, 
+				<crossref let="q" cid="c52001008.16">
+				</crossref>
+				the word of the Lord sounded forth from you in Macedonia and Achaia, but your faith in God has gone forth everywhere, so that we need not say anything.
+			</v>
+			<marker class="begin-verse" mid="v52001009">
+			</marker>
+			<v n="9">
+				For they 
+				<crossref let="r" cid="c52001009.17">
+				</crossref>
+				themselves report, 
+				<crossref let="s" cid="c52001009.18">
+				</crossref>
+				concerning us the kind of reception we had among you, and how you turned to God from idols to serve the living and true God,
+				<note nid="n52001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v52001010">
+			</marker>
+			<v n="10">
+				and to 
+				<crossref let="t" cid="c52001010.19">
+				</crossref>
+				wait for, 
+				<crossref let="u" cid="c52001010.20">
+				</crossref>
+				his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come. Footnotes (1) 1:2 Or *without ceasing* (2) 1:4 Or *brothers and sisters*. In New Testament usage, depending on the context, the plural Greek word *adelphoi* (translated “brothers”) may refer either to *brothers* or to *brothers and sisters* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v52001011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

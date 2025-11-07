@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:48:52.018758</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:48:52.018765</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19053001"/>
+		<chapter num="53">
+			<heading>For the choir director: A meditation; a psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Only fools 
+				<crossref let="b" cid="c190531.1"/>
+				 say in their hearts,“There is no God.”They are corrupt, and their actions are evil;not one of them does good!
+			</v>
+			<marker class="begin-verse" mid="v19053002"/>
+			<v n="2">
+				God looks 
+				<crossref let="c" cid="c190532.1"/>
+				 down from heavenon the entire human race;he looks to see if anyone is truly wise,if anyone seeks God.
+			</v>
+			<marker class="begin-verse" mid="v19053003"/>
+			<v n="3">
+				But no, 
+				<crossref let="d" cid="c190533.1"/>
+				 all have turned away;all have become corrupt.No one does good,not a single one!
+			</v>
+			<marker class="begin-verse" mid="v19053004"/>
+			<v n="4">
+				Will those 
+				<crossref let="e" cid="c190534.1"/>
+				 who do evil never learn?They eat up my people like breadand wouldn’t think of praying to God.
+			</v>
+			<marker class="begin-verse" mid="v19053005"/>
+			<v n="5">
+				Terror will 
+				<crossref let="f" cid="c190535.1"/>
+				 grip them,terror like they have never known before.God will scatter the bones of your enemies.You will put them to shame, for God has rejected them.
+			</v>
+			<marker class="begin-verse" mid="v19053006"/>
+			<v n="6">
+				Who will 
+				<crossref let="g" cid="c190536.1"/>
+				 come from Mount Zion to rescue Israel?When God restores his people,Jacob will shout with joy, and Israel will rejoice.
+			</v>
+			<marker class="begin-verse" mid="v19053007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

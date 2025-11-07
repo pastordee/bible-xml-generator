@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:12:38.586496</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:12:38.586504</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" version="ASV" bookAbbr="luk">
+		<marker class="begin-verse" mid="v42023001"/>
+		<chapter num="23">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c420231.1"/>
+				 whole company of them rose up, and brought him before Pilate.
+			</v>
+			<marker class="begin-verse" mid="v42023002"/>
+			<v n="2">
+				And they 
+				<crossref let="c" cid="c420232.1"/>
+				 began to accuse him, saying, We found this man perverting our nation, and forbidding to give tribute to Cæsar, and saying that he himself is Christ a king.
+			</v>
+			<marker class="begin-verse" mid="v42023003"/>
+			<v n="3">
+				And Pilate 
+				<crossref let="d" cid="c420233.1"/>
+				 asked him, saying, Art thou the King of the Jews? And he answered him and said, Thou sayest.
+			</v>
+			<marker class="begin-verse" mid="v42023004"/>
+			<v n="4">
+				And Pilate 
+				<crossref let="e" cid="c420234.1"/>
+				 said unto the chief priests and the multitudes, I find no fault in this man.
+			</v>
+			<marker class="begin-verse" mid="v42023005"/>
+			<v n="5">
+				But they 
+				<crossref let="f" cid="c420235.1"/>
+				 were the more urgent, saying, He stirreth up the people, teaching throughout all Judæa, and beginning from Galilee even unto this place.
+			</v>
+			<marker class="begin-verse" mid="v42023006"/>
+			<v n="6">
+				But when 
+				<crossref let="g" cid="c420236.1"/>
+				 Pilate heard it, he asked whether the man were a Galilæan.
+			</v>
+			<marker class="begin-verse" mid="v42023007"/>
+			<v n="7">
+				And when 
+				<crossref let="h" cid="c420237.1"/>
+				 he knew that he was of Herod’s jurisdiction, he sent him unto Herod, who himself also was at Jerusalem in these days.
+			</v>
+			<marker class="begin-verse" mid="v42023008"/>
+			<v n="8">
+				Now when 
+				<crossref let="i" cid="c420238.1"/>
+				 Herod saw Jesus, he was exceeding glad: for he was of a long time desirous to see him, because he had heard concerning him; and he hoped to see some miracle done by him.
+			</v>
+			<marker class="begin-verse" mid="v42023009"/>
+			<v n="9">
+				And he 
+				<crossref let="j" cid="c420239.1"/>
+				 questioned him in many words; but he answered him nothing.
+			</v>
+			<marker class="begin-verse" mid="v42023010"/>
+			<v n="10">
+				And the 
+				<crossref let="k" cid="c4202310.1"/>
+				 chief priests and the scribes stood, vehemently accusing him.
+			</v>
+			<marker class="begin-verse" mid="v42023011"/>
+			<v n="11">
+				And Herod 
+				<crossref let="l" cid="c4202311.1"/>
+				 with his soldiers set him at nought, and mocked him, and arraying him in gorgeous apparel sent him back to Pilate.
+			</v>
+			<marker class="begin-verse" mid="v42023012"/>
+			<v n="12">
+				And Herod 
+				<crossref let="m" cid="c4202312.1"/>
+				 and Pilate became friends with each other that very day: for before they were at enmity between themselves.
+			</v>
+			<marker class="begin-verse" mid="v42023013"/>
+			<v n="13">
+				And Pilate 
+				<crossref let="n" cid="c4202313.1"/>
+				 called together the chief priests and the rulers and the people,
+			</v>
+			<marker class="begin-verse" mid="v42023014"/>
+			<v n="14">
+				and said 
+				<crossref let="o" cid="c4202314.1"/>
+				 unto them, Ye brought unto me this man, as one that perverteth the people: and behold, I, having examined him before you, found no fault in this man touching those things whereof ye accuse him:
+			</v>
+			<marker class="begin-verse" mid="v42023015"/>
+			<v n="15">
+				no, nor 
+				<crossref let="p" cid="c4202315.1"/>
+				 yet Herod: for he sent him back unto us; and behold, nothing worthy of death hath been done by him.
+			</v>
+			<marker class="begin-verse" mid="v42023016"/>
+			<v n="16">
+				I will 
+				<crossref let="q" cid="c4202316.1"/>
+				 therefore chastise him, and release him.
+			</v>
+			<marker class="begin-verse" mid="v42023017"/>
+			<v n="18">
+				But they 
+				<crossref let="s" cid="c4202318.1"/>
+				 cried out all together, saying, Away with this man, and release unto us Barabbas:—
+			</v>
+			<marker class="begin-verse" mid="v42023019"/>
+			<v n="19">
+				one who 
+				<crossref let="t" cid="c4202319.1"/>
+				 for a certain insurrection made in the city, and for murder, was cast into prison.
+			</v>
+			<marker class="begin-verse" mid="v42023020"/>
+			<v n="20">
+				And Pilate 
+				<crossref let="u" cid="c4202320.1"/>
+				 spake unto them again, desiring to release Jesus;
+			</v>
+			<marker class="begin-verse" mid="v42023021"/>
+			<v n="21">
+				but they 
+				<crossref let="v" cid="c4202321.1"/>
+				 shouted, saying, Crucify, crucify him.
+			</v>
+			<marker class="begin-verse" mid="v42023022"/>
+			<v n="22">
+				And he 
+				<crossref let="w" cid="c4202322.1"/>
+				 said unto them the third time, Why, what evil hath this man done? I have found no cause of death in him: I will therefore chastise him and release him.
+			</v>
+			<marker class="begin-verse" mid="v42023023"/>
+			<v n="23">
+				But they 
+				<crossref let="x" cid="c4202323.1"/>
+				 were urgent with loud voices, asking that he might be crucified. And their voices prevailed.
+			</v>
+			<marker class="begin-verse" mid="v42023024"/>
+			<v n="24">
+				And Pilate 
+				<crossref let="y" cid="c4202324.1"/>
+				 gave sentence that what they asked for should be done.
+			</v>
+			<marker class="begin-verse" mid="v42023025"/>
+			<v n="25">
+				And he 
+				<crossref let="z" cid="c4202325.1"/>
+				 released him that for insurrection and murder had been cast into prison, whom they asked for; but Jesus he delivered up to their will.
+			</v>
+			<marker class="begin-verse" mid="v42023026"/>
+			<v n="26">
+				And when 
+				<crossref let="a" cid="c4202326.1"/>
+				 they led him away, they laid hold upon one Simon of Cyrene, coming from the country, and laid on him the cross, to bear it after Jesus.
+			</v>
+			<marker class="begin-verse" mid="v42023027"/>
+			<v n="27">
+				And there 
+				<crossref let="b" cid="c4202327.1"/>
+				 followed him a great multitude of the people, and of women who bewailed and lamented him.
+			</v>
+			<marker class="begin-verse" mid="v42023028"/>
+			<v n="28">
+				But Jesus 
+				<crossref let="c" cid="c4202328.1"/>
+				 turning unto them said, Daughters of Jerusalem, weep not for me, but weep for yourselves, and for your children.
+			</v>
+			<marker class="begin-verse" mid="v42023029"/>
+			<v n="29">
+				For behold, 
+				<crossref let="d" cid="c4202329.1"/>
+				 the days are coming, in which they shall say, Blessed are the barren, and the wombs that never bare, and the breasts that never gave suck.
+			</v>
+			<marker class="begin-verse" mid="v42023030"/>
+			<v n="30">
+				Then shall 
+				<crossref let="e" cid="c4202330.1"/>
+				 they begin to say to the mountains, Fall on us; and to the hills, Cover us.
+			</v>
+			<marker class="begin-verse" mid="v42023031"/>
+			<v n="31">
+				For if 
+				<crossref let="f" cid="c4202331.1"/>
+				 they do these things in the green tree, what shall be done in the dry?
+			</v>
+			<marker class="begin-verse" mid="v42023032"/>
+			<v n="32">
+				And there 
+				<crossref let="g" cid="c4202332.1"/>
+				 were also two others, malefactors, led with him to be put to death.
+			</v>
+			<marker class="begin-verse" mid="v42023033"/>
+			<v n="33">
+				And when 
+				<crossref let="h" cid="c4202333.1"/>
+				 they came unto the place which is called The skull, there they crucified him, and the malefactors, one on the right hand and the other on the left.
+			</v>
+			<marker class="begin-verse" mid="v42023034"/>
+			<v n="34">
+				And Jesus 
+				<crossref let="i" cid="c4202334.1"/>
+				 said, Father, forgive them; for they know not what they do. And parting his garments among them, they cast lots.
+			</v>
+			<marker class="begin-verse" mid="v42023035"/>
+			<v n="35">
+				And the 
+				<crossref let="j" cid="c4202335.1"/>
+				 people stood beholding. And the rulers also scoffed at him, saying, He saved others; let him save himself, if this is the Christ of God, his chosen.
+			</v>
+			<marker class="begin-verse" mid="v42023036"/>
+			<v n="36">
+				And the 
+				<crossref let="k" cid="c4202336.1"/>
+				 soldiers also mocked him, coming to him, offering him vinegar,
+			</v>
+			<marker class="begin-verse" mid="v42023037"/>
+			<v n="37">
+				and saying, 
+				<crossref let="l" cid="c4202337.1"/>
+				 If thou art the King of the Jews, save thyself.
+			</v>
+			<marker class="begin-verse" mid="v42023038"/>
+			<v n="38">
+				And there 
+				<crossref let="m" cid="c4202338.1"/>
+				 was also a superscription over him, THIS IS THE KING OF THE JEWS.
+			</v>
+			<marker class="begin-verse" mid="v42023039"/>
+			<v n="39">
+				And one 
+				<crossref let="n" cid="c4202339.1"/>
+				 of the malefactors that were hanged railed on him, saying, Art not thou the Christ? save thyself and us.
+			</v>
+			<marker class="begin-verse" mid="v42023040"/>
+			<v n="40">
+				But the 
+				<crossref let="o" cid="c4202340.1"/>
+				 other answered, and rebuking him said, Dost thou not even fear God, seeing thou art in the same condemnation?
+			</v>
+			<marker class="begin-verse" mid="v42023041"/>
+			<v n="41">
+				And we 
+				<crossref let="p" cid="c4202341.1"/>
+				 indeed justly; for we receive the due reward of our deeds: but this man hath done nothing amiss.
+			</v>
+			<marker class="begin-verse" mid="v42023042"/>
+			<v n="42">
+				And he 
+				<crossref let="q" cid="c4202342.1"/>
+				 said, Jesus, remember me when thou comest in thy kingdom.
+			</v>
+			<marker class="begin-verse" mid="v42023043"/>
+			<v n="43">
+				And he 
+				<crossref let="r" cid="c4202343.1"/>
+				 said unto him, Verily I say unto thee, To-day shalt thou be with me in Paradise.
+			</v>
+			<marker class="begin-verse" mid="v42023044"/>
+			<v n="44">
+				And it 
+				<crossref let="s" cid="c4202344.1"/>
+				 was now about the sixth hour, and a darkness came over the whole land until the ninth hour,
+			</v>
+			<marker class="begin-verse" mid="v42023045"/>
+			<v n="45">
+				the sun’s 
+				<crossref let="t" cid="c4202345.1"/>
+				 light failing: and the veil of the temple was rent in the midst.
+			</v>
+			<marker class="begin-verse" mid="v42023046"/>
+			<v n="46">
+				And Jesus, 
+				<crossref let="u" cid="c4202346.1"/>
+				 crying with a loud voice, said, Father, into thy hands I commend my spirit: and having said this, he gave up the ghost.
+			</v>
+			<marker class="begin-verse" mid="v42023047"/>
+			<v n="47">
+				And when 
+				<crossref let="v" cid="c4202347.1"/>
+				 the centurion saw what was done, he glorified God, saying, Certainly this was a righteous man.
+			</v>
+			<marker class="begin-verse" mid="v42023048"/>
+			<v n="48">
+				And all 
+				<crossref let="w" cid="c4202348.1"/>
+				 the multitudes that came together to this sight, when they beheld the things that were done, returned smiting their breasts.
+			</v>
+			<marker class="begin-verse" mid="v42023049"/>
+			<v n="49">
+				And all 
+				<crossref let="x" cid="c4202349.1"/>
+				 his acquaintance, and the women that followed with him from Galilee, stood afar off, seeing these things.
+			</v>
+			<marker class="begin-verse" mid="v42023050"/>
+			<v n="50">
+				And behold, 
+				<crossref let="y" cid="c4202350.1"/>
+				 a man named Joseph, who was a councillor, a good and righteous man
+			</v>
+			<marker class="begin-verse" mid="v42023051"/>
+			<v n="51">
+				(he had 
+				<crossref let="z" cid="c4202351.1"/>
+				 not consented to their counsel and deed), a man of Arimathæa, a city of the Jews, who was looking for the kingdom of God:
+			</v>
+			<marker class="begin-verse" mid="v42023052"/>
+			<v n="52">
+				this man 
+				<crossref let="a" cid="c4202352.1"/>
+				 went to Pilate, and asked for the body of Jesus.
+			</v>
+			<marker class="begin-verse" mid="v42023053"/>
+			<v n="53">
+				And he 
+				<crossref let="b" cid="c4202353.1"/>
+				 took it down, and wrapped it in a linen cloth, and laid him in a tomb that was hewn in stone, where never man had yet lain.
+			</v>
+			<marker class="begin-verse" mid="v42023054"/>
+			<v n="54">
+				And it 
+				<crossref let="c" cid="c4202354.1"/>
+				 was the day of the Preparation, and the sabbath drew on.
+			</v>
+			<marker class="begin-verse" mid="v42023055"/>
+			<v n="55">
+				And the 
+				<crossref let="d" cid="c4202355.1"/>
+				 women, who had come with him out of Galilee, followed after, and beheld the tomb, and how his body was laid.
+			</v>
+			<marker class="begin-verse" mid="v42023056"/>
+			<v n="56">
+				And they 
+				<crossref let="e" cid="c4202356.1"/>
+				 returned, and prepared spices and ointments.And on the sabbath they rested according to the commandment.
+			</v>
+			<marker class="begin-verse" mid="v42023057"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

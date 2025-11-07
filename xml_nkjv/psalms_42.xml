@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:15:50.420086</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:15:50.420095</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19042001"/>
+		<chapter num="42">
+			<heading>BOOK TWO: Psalms 42—72Yearning for God in the Midst of DistressesTo the Chief Musician. A Contemplation of the sons of Korah.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				As the 
+				<crossref let="b" cid="c190421.1"/>
+				 deer pants for the water brooks,So pants my soul for You, O God.
+			</v>
+			<marker class="begin-verse" mid="v19042002"/>
+			<v n="2">
+				My soul 
+				<crossref let="c" cid="c190422.1"/>
+				 thirsts for God, for the living God.When shall I come and appear before God?
+			</v>
+			<marker class="begin-verse" mid="v19042003"/>
+			<v n="3">
+				My tears 
+				<crossref let="d" cid="c190423.1"/>
+				 have been my food day and night,While they continually say to me,“Where is your God?”
+			</v>
+			<marker class="begin-verse" mid="v19042004"/>
+			<v n="4">
+				When I 
+				<crossref let="e" cid="c190424.1"/>
+				 remember these things,I pour out my soul within me.For I used to go with the multitude;I went with them to the house of God,With the voice of joy and praise,With a multitude that kept a pilgrim feast.
+			</v>
+			<marker class="begin-verse" mid="v19042005"/>
+			<v n="5">
+				Why are 
+				<crossref let="f" cid="c190425.1"/>
+				 you cast down, O my soul?And why are you disquieted within me?Hope in God, for I shall yet praise HimFor the help of His countenance.
+			</v>
+			<marker class="begin-verse" mid="v19042006"/>
+			<v n="6">
+				O my 
+				<crossref let="g" cid="c190426.1"/>
+				 God, my soul is cast down within me;Therefore I will remember You from the land of the Jordan,And from the heights of Hermon,From the Hill Mizar.
+			</v>
+			<marker class="begin-verse" mid="v19042007"/>
+			<v n="7">
+				Deep calls 
+				<crossref let="h" cid="c190427.1"/>
+				 unto deep at the noise of Your waterfalls;All Your waves and billows have gone over me.
+			</v>
+			<marker class="begin-verse" mid="v19042008"/>
+			<v n="8">
+				The Lord 
+				<crossref let="i" cid="c190428.1"/>
+				 will command His lovingkindness in the daytime,And in the night His song shall be with me—A prayer to the God of my life.
+			</v>
+			<marker class="begin-verse" mid="v19042009"/>
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c190429.1"/>
+				 say to God my Rock,“Why have You forgotten me?Why do I go mourning because of the oppression of the enemy?”
+			</v>
+			<marker class="begin-verse" mid="v19042010"/>
+			<v n="10">
+				As with 
+				<crossref let="k" cid="c1904210.1"/>
+				 a breaking of my bones,My enemies reproach me,While they say to me all day long,“Where is your God?”
+			</v>
+			<marker class="begin-verse" mid="v19042011"/>
+			<v n="11">
+				Why are 
+				<crossref let="l" cid="c1904211.1"/>
+				 you cast down, O my soul?And why are you disquieted within me?Hope in God;For I shall yet praise Him,The help of my countenance and my God.
+			</v>
+			<marker class="begin-verse" mid="v19042012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

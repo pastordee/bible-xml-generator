@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:20:55.994754</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:20:55.994760</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19099001"/>
+		<chapter num="99">
+			<heading>Praise to the Lord for His Holiness</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The Lord 
+				<crossref let="b" cid="c190991.1"/>
+				 reigns;Let the peoples tremble!He dwells between the cherubim;Let the earth be moved!
+			</v>
+			<marker class="begin-verse" mid="v19099002"/>
+			<v n="2">
+				The Lord 
+				<crossref let="c" cid="c190992.1"/>
+				 is great in Zion,And He is high above all the peoples.
+			</v>
+			<marker class="begin-verse" mid="v19099003"/>
+			<v n="3">
+				Let them 
+				<crossref let="d" cid="c190993.1"/>
+				 praise Your great and awesome name—He is holy.
+			</v>
+			<marker class="begin-verse" mid="v19099004"/>
+			<v n="4">
+				The King’s 
+				<crossref let="e" cid="c190994.1"/>
+				 strength also loves justice;You have established equity;You have executed justice and righteousness in Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19099005"/>
+			<v n="5">
+				Exalt the 
+				<crossref let="f" cid="c190995.1"/>
+				 Lord our God,And worship at His footstool—He is holy.
+			</v>
+			<marker class="begin-verse" mid="v19099006"/>
+			<v n="6">
+				Moses and 
+				<crossref let="g" cid="c190996.1"/>
+				 Aaron were among His priests,And Samuel was among those who called upon His name;They called upon the Lord, and He answered them.
+			</v>
+			<marker class="begin-verse" mid="v19099007"/>
+			<v n="7">
+				He spoke 
+				<crossref let="h" cid="c190997.1"/>
+				 to them in the cloudy pillar;They kept His testimonies and the ordinance He gave them.
+			</v>
+			<marker class="begin-verse" mid="v19099008"/>
+			<v n="8">
+				You answered 
+				<crossref let="i" cid="c190998.1"/>
+				 them, O Lord our God;You were to them God-Who-Forgives,Though You took vengeance on their deeds.
+			</v>
+			<marker class="begin-verse" mid="v19099009"/>
+			<v n="9">
+				Exalt the 
+				<crossref let="j" cid="c190999.1"/>
+				 Lord our God,And worship at His holy hill;For the Lord our God is holy.
+			</v>
+			<marker class="begin-verse" mid="v19099010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

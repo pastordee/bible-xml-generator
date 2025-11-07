@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:05.110290</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:05.110314</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Matthew 3
+			</heading>
+			<heading>
+				John the Baptist Prepares the Way
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				In those 
+				<crossref let="b" cid="c40003001.1">
+				</crossref>
+				days John, 
+				<crossref let="c" cid="c40003001.2">
+				</crossref>
+				the Baptist came preaching in the wilderness of Judea,
+			</v>
+			<marker class="begin-verse" mid="v40003002">
+			</marker>
+			<v n="2">
+				“Repent, for 
+				<crossref let="d" cid="c40003002.3">
+				</crossref>
+				the kingdom, 
+				<crossref let="e" cid="c40003002.4">
+				</crossref>
+				of heaven is at hand.”(1)
+			</v>
+			<marker class="begin-verse" mid="v40003003">
+			</marker>
+			<v n="3" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					For this 
+					<crossref let="f" cid="c40003003.5">
+				</crossref>
+					is he, 
+					<crossref let="g" cid="c40003003.6">
+				</crossref>
+				who was spoken of by the prophet Isaiah when he said, “The voice of one crying in the wilderness: ‘Prepare(2) the way of the Lord; make his paths straight.’”
+					<note nid="n40003003.3">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40003004">
+			</marker>
+			<v n="4">
+				Now John 
+				<crossref let="h" cid="c40003004.7">
+				</crossref>
+				wore a, 
+				<crossref let="i" cid="c40003004.8">
+				</crossref>
+				garment of camel’s hair and a leather belt around his waist, and his food was locusts and wild honey.
+			</v>
+			<marker class="begin-verse" mid="v40003005">
+			</marker>
+			<v n="5">
+				Then Jerusalem 
+				<crossref let="j" cid="c40003005.9">
+				</crossref>
+				and all, 
+				<crossref let="k" cid="c40003005.10">
+				</crossref>
+				Judea and all the region about the Jordan were going out to him,
+			</v>
+			<marker class="begin-verse" mid="v40003006">
+			</marker>
+			<v n="6">
+				and they 
+				<crossref let="l" cid="c40003006.11">
+				</crossref>
+				were baptized, 
+				<crossref let="m" cid="c40003006.12">
+				</crossref>
+				by him in the river Jordan, confessing their sins.
+				<note nid="n40003006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40003007">
+			</marker>
+			<v n="7" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But when 
+					<crossref let="n" cid="c40003007.13">
+				</crossref>
+					he saw, 
+					<crossref let="o" cid="c40003007.14">
+				</crossref>
+				many of the Pharisees and Sadducees coming to his baptism, he said to them, “You brood of vipers! Who warned you to flee from the wrath to come?
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40003008">
+			</marker>
+			<v n="8">
+				Bear fruit 
+				<crossref let="p" cid="c40003008.15">
+				</crossref>
+				in keeping, 
+				<crossref let="q" cid="c40003008.16">
+				</crossref>
+				with repentance.
+			</v>
+			<marker class="begin-verse" mid="v40003009">
+			</marker>
+			<v n="9">
+				And do 
+				<crossref let="r" cid="c40003009.17">
+				</crossref>
+				not presume, 
+				<crossref let="s" cid="c40003009.18">
+				</crossref>
+				to say to yourselves, ‘We have Abraham as our father,’ for I tell you, God is able from these stones to raise up children for Abraham.
+				<note nid="n40003009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40003010">
+			</marker>
+			<v n="10">
+				Even now 
+				<crossref let="t" cid="c40003010.19">
+				</crossref>
+				the axe, 
+				<crossref let="u" cid="c40003010.20">
+				</crossref>
+				is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire.
+			</v>
+			<marker class="begin-verse" mid="v40003011">
+			</marker>
+			<v n="11">
+				“I baptize 
+				<crossref let="v" cid="c40003011.21">
+				</crossref>
+				you with, 
+				<crossref let="w" cid="c40003011.22">
+				</crossref>
+				water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire.
+			</v>
+			<marker class="begin-verse" mid="v40003012">
+			</marker>
+			<v n="12">
+				His winnowing 
+				<crossref let="x" cid="c40003012.23">
+				</crossref>
+				fork is, 
+				<crossref let="y" cid="c40003012.24">
+				</crossref>
+				in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire.” The Baptism of Jesus
+				<note nid="n40003012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40003013">
+			</marker>
+			<v n="13">
+				Then Jesus 
+				<crossref let="z" cid="c40003013.25">
+				</crossref>
+				came from, 
+				<crossref let="a" cid="c40003013.26">
+				</crossref>
+				Galilee to the Jordan to John, to be baptized by him.
+			</v>
+			<marker class="begin-verse" mid="v40003014">
+			</marker>
+			<v n="14">
+				John would 
+				<crossref let="b" cid="c40003014.27">
+				</crossref>
+				have prevented, 
+				<crossref let="c" cid="c40003014.28">
+				</crossref>
+				him, saying, “I need to be baptized by you, and do you come to me?”
+			</v>
+			<marker class="begin-verse" mid="v40003015">
+			</marker>
+			<v n="15" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But Jesus 
+					<crossref let="d" cid="c40003015.29">
+				</crossref>
+					answered him,, 
+					<crossref let="e" cid="c40003015.30">
+				</crossref>
+				“Let it be so now, for thus it is fitting for us to fulfill all righteousness.” Then he consented.
+					<note nid="n40003015.15">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40003016">
+			</marker>
+			<v n="16">
+				And when 
+				<crossref let="f" cid="c40003016.31">
+				</crossref>
+				Jesus was, 
+				<crossref let="g" cid="c40003016.32">
+				</crossref>
+				baptized, immediately he went up from the water, and behold, the heavens were opened to him,(3) and he saw the Spirit of God descending like a dove and coming to rest on him;
+			</v>
+			<marker class="begin-verse" mid="v40003017">
+			</marker>
+			<v n="17">
+				and behold, 
+				<crossref let="h" cid="c40003017.33">
+				</crossref>
+				a voice, 
+				<crossref let="i" cid="c40003017.34">
+				</crossref>
+				from heaven said, “This is my beloved Son,(4) with whom I am well pleased.” Footnotes (1) 3:2 Or *the kingdom of heaven has come near* (2) 3:3 Or *crying: Prepare in the wilderness* (3) 3:16 Some manuscripts omit *to him* (4) 3:17 Or *my Son, my* (or *the*) *Beloved* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v40003018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

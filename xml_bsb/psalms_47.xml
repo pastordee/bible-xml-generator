@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:16:20.552414</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:16:20.552450</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19047001"/>
+		<chapter num="47">
+			<heading>Clap Your Hands, All You PeoplesFor the choirmaster. A Psalm of the sons of Korah.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Clap your 
+				<crossref let="b" cid="c190471.1"/>
+				 hands, all you peoples;shout unto God with a voice of triumph.
+			</v>
+			<marker class="begin-verse" mid="v19047002"/>
+			<v n="2">
+				How awesome 
+				<crossref let="c" cid="c190472.1"/>
+				 is the LORD Most High,the great King over all the earth!
+			</v>
+			<marker class="begin-verse" mid="v19047003"/>
+			<v n="3">
+				He subdues 
+				<crossref let="d" cid="c190473.1"/>
+				 nations beneath us,and peoples under our feet.
+			</v>
+			<marker class="begin-verse" mid="v19047004"/>
+			<v n="4">
+				He chooses 
+				<crossref let="e" cid="c190474.1"/>
+				 our inheritance for us,the pride of Jacob, whom He loves.Selah
+			</v>
+			<marker class="begin-verse" mid="v19047005"/>
+			<v n="5">
+				God has 
+				<crossref let="f" cid="c190475.1"/>
+				 ascended amid shouts of joy,the LORD with the sound of the horn.
+			</v>
+			<marker class="begin-verse" mid="v19047006"/>
+			<v n="6">
+				Sing praises 
+				<crossref let="g" cid="c190476.1"/>
+				 to God, sing praises;sing praises to our King, sing praises!
+			</v>
+			<marker class="begin-verse" mid="v19047007"/>
+			<v n="7">
+				For God 
+				<crossref let="h" cid="c190477.1"/>
+				 is King of all the earth;sing profound praises to Him.
+			</v>
+			<marker class="begin-verse" mid="v19047008"/>
+			<v n="8">
+				God reigns 
+				<crossref let="i" cid="c190478.1"/>
+				 over the nations;God is seated on His holy throne.
+			</v>
+			<marker class="begin-verse" mid="v19047009"/>
+			<v n="9">
+				The nobles 
+				<crossref let="j" cid="c190479.1"/>
+				 of the nations have assembledas the people of the God of Abraham;for the shields of the earth belong to God;He is highly exalted.
+			</v>
+			<marker class="begin-verse" mid="v19047010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

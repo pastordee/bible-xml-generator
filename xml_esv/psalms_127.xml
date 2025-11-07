@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:06.859750</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:06.859770</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19127001">
+		</marker>
+		<chapter num="127">
+			<heading>
+				Psalm 127
+			</heading>
+			<heading>
+				Unless the LORD Builds the House
+			</heading>
+			<heading>
+				A Song of Ascents. Of Solomon.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Unless the 
+				<crossref let="b" cid="c19127001.1">
+				</crossref>
+				LORD builds, 
+				<crossref let="c" cid="c19127001.2">
+				</crossref>
+				the house, those who build it labor in vain. Unless the LORD watches over the city, the watchman stays awake in vain.
+			</v>
+			<marker class="begin-verse" mid="v19127002">
+			</marker>
+			<v n="2">
+				It is 
+				<crossref let="d" cid="c19127002.3">
+				</crossref>
+				in vain, 
+				<crossref let="e" cid="c19127002.4">
+				</crossref>
+				that you rise up early and go late to rest, eating the bread of anxious toil; for he gives to his beloved sleep.
+			</v>
+			<marker class="begin-verse" mid="v19127003">
+			</marker>
+			<v n="3">
+				Behold, children 
+				<crossref let="f" cid="c19127003.5">
+				</crossref>
+				are a, 
+				<crossref let="g" cid="c19127003.6">
+				</crossref>
+				heritage from the LORD, the fruit of the womb a reward.
+				<note nid="n19127003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19127004">
+			</marker>
+			<v n="4">
+				Like arrows 
+				<crossref let="h" cid="c19127004.7">
+				</crossref>
+				in the, 
+				<crossref let="i" cid="c19127004.8">
+				</crossref>
+				hand of a warrior are the children(1) of one’s youth.
+			</v>
+			<marker class="begin-verse" mid="v19127005">
+			</marker>
+			<v n="5">
+				Blessed is 
+				<crossref let="j" cid="c19127005.9">
+				</crossref>
+				the man, 
+				<crossref let="k" cid="c19127005.10">
+				</crossref>
+				who fills his quiver with them! He shall not be put to shame when he speaks with his enemies in the gate.(2) Footnotes (1) 127:4 Or *sons* (2) 127:5 Or *They shall not be put to shame when they speak with their enemies in the gate* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19127006">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:59:25.585852</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:59:25.585861</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19039001"/>
+		<chapter num="39">
+			<heading>To the chief Musician, even to Jeduthun, A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I said, 
+				<crossref let="b" cid="c190391.1"/>
+				 I will take heed to my ways, that I sin not with my tongue: I will keep my mouth with a bridle, while the wicked is before me.
+			</v>
+			<marker class="begin-verse" mid="v19039002"/>
+			<v n="2">
+				I was 
+				<crossref let="c" cid="c190392.1"/>
+				 dumb with silence, I held my peace, even from good; and my sorrow was stirred.
+			</v>
+			<marker class="begin-verse" mid="v19039003"/>
+			<v n="3">
+				My heart 
+				<crossref let="d" cid="c190393.1"/>
+				 was hot within me, while I was musing the fire burned: then spake I with my tongue,
+			</v>
+			<marker class="begin-verse" mid="v19039004"/>
+			<v n="4">
+				LORD, make 
+				<crossref let="e" cid="c190394.1"/>
+				 me to know mine end, and the measure of my days, what it is; that I may know how frail I am.
+			</v>
+			<marker class="begin-verse" mid="v19039005"/>
+			<v n="5">
+				Behold, thou 
+				<crossref let="f" cid="c190395.1"/>
+				 hast made my days as an handbreadth; and mine age is as nothing before thee: verily every man at his best state is altogether vanity. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19039006"/>
+			<v n="6">
+				Surely every 
+				<crossref let="g" cid="c190396.1"/>
+				 man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.
+			</v>
+			<marker class="begin-verse" mid="v19039007"/>
+			<v n="7">
+				And now, 
+				<crossref let="h" cid="c190397.1"/>
+				 Lord, what wait I for? my hope is in thee.
+			</v>
+			<marker class="begin-verse" mid="v19039008"/>
+			<v n="8">
+				Deliver me 
+				<crossref let="i" cid="c190398.1"/>
+				 from all my transgressions: make me not the reproach of the foolish.
+			</v>
+			<marker class="begin-verse" mid="v19039009"/>
+			<v n="9">
+				I was 
+				<crossref let="j" cid="c190399.1"/>
+				 dumb, I opened not my mouth; because thou didst it.
+			</v>
+			<marker class="begin-verse" mid="v19039010"/>
+			<v n="10">
+				Remove thy 
+				<crossref let="k" cid="c1903910.1"/>
+				 stroke away from me: I am consumed by the blow of thine hand.
+			</v>
+			<marker class="begin-verse" mid="v19039011"/>
+			<v n="11">
+				When thou 
+				<crossref let="l" cid="c1903911.1"/>
+				 with rebukes dost correct man for iniquity, thou makest his beauty to consume away like a moth: surely every man is vanity. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19039012"/>
+			<v n="12">
+				Hear my 
+				<crossref let="m" cid="c1903912.1"/>
+				 prayer, O LORD, and give ear unto my cry; hold not thy peace at my tears: for I am a stranger with thee, and a sojourner, as all my fathers were.
+			</v>
+			<marker class="begin-verse" mid="v19039013"/>
+			<v n="13">
+				O spare 
+				<crossref let="n" cid="c1903913.1"/>
+				 me, that I may recover strength, before I go hence, and be no more.
+			</v>
+			<marker class="begin-verse" mid="v19039014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:23:56.502568</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:23:56.502579</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" version="KJV" bookAbbr="num">
+		<marker class="begin-verse" mid="v04001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c040011.1"/>
+				 LORD spake unto Moses in the wilderness of Sinai, in the tabernacle of the congregation, on the first day of the second month, in the second year after they were come out of the land of Egypt, saying,
+			</v>
+			<marker class="begin-verse" mid="v04001002"/>
+			<v n="2">
+				Take ye 
+				<crossref let="c" cid="c040012.1"/>
+				 the sum of all the congregation of the children of Israel, after their families, by the house of their fathers, with the number of their names, every male by their polls;
+			</v>
+			<marker class="begin-verse" mid="v04001003"/>
+			<v n="3">
+				From twenty 
+				<crossref let="d" cid="c040013.1"/>
+				 years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.
+			</v>
+			<marker class="begin-verse" mid="v04001004"/>
+			<v n="4">
+				And with 
+				<crossref let="e" cid="c040014.1"/>
+				 you there shall be a man of every tribe; every one head of the house of his fathers.
+			</v>
+			<marker class="begin-verse" mid="v04001005"/>
+			<v n="5">
+				¶ And 
+				<crossref let="f" cid="c040015.1"/>
+				 these are the names of the men that shall stand with you: of the tribe of Reuben; Elizur the son of Shedeur.
+			</v>
+			<marker class="begin-verse" mid="v04001006"/>
+			<v n="6">
+				Of Simeon; 
+				<crossref let="g" cid="c040016.1"/>
+				 Shelumiel the son of Zurishaddai.
+			</v>
+			<marker class="begin-verse" mid="v04001007"/>
+			<v n="7">
+				Of Judah; 
+				<crossref let="h" cid="c040017.1"/>
+				 Nahshon the son of Amminadab.
+			</v>
+			<marker class="begin-verse" mid="v04001008"/>
+			<v n="8">
+				Of Issachar; 
+				<crossref let="i" cid="c040018.1"/>
+				 Nethaneel the son of Zuar.
+			</v>
+			<marker class="begin-verse" mid="v04001009"/>
+			<v n="9">
+				Of Zebulun; 
+				<crossref let="j" cid="c040019.1"/>
+				 Eliab the son of Helon.
+			</v>
+			<marker class="begin-verse" mid="v04001010"/>
+			<v n="10">
+				Of the 
+				<crossref let="k" cid="c0400110.1"/>
+				 children of Joseph: of Ephraim; Elishama the son of Ammihud: of Manasseh; Gamaliel the son of Pedahzur.
+			</v>
+			<marker class="begin-verse" mid="v04001011"/>
+			<v n="11">
+				Of Benjamin; 
+				<crossref let="l" cid="c0400111.1"/>
+				 Abidan the son of Gideoni.
+			</v>
+			<marker class="begin-verse" mid="v04001012"/>
+			<v n="12">
+				Of Dan; 
+				<crossref let="m" cid="c0400112.1"/>
+				 Ahiezer the son of Ammishaddai.
+			</v>
+			<marker class="begin-verse" mid="v04001013"/>
+			<v n="13">
+				Of Asher; 
+				<crossref let="n" cid="c0400113.1"/>
+				 Pagiel the son of Ocran.
+			</v>
+			<marker class="begin-verse" mid="v04001014"/>
+			<v n="14">
+				Of Gad; 
+				<crossref let="o" cid="c0400114.1"/>
+				 Eliasaph the son of Deuel.
+			</v>
+			<marker class="begin-verse" mid="v04001015"/>
+			<v n="15">
+				Of Naphtali; 
+				<crossref let="p" cid="c0400115.1"/>
+				 Ahira the son of Enan.
+			</v>
+			<marker class="begin-verse" mid="v04001016"/>
+			<v n="16">
+				These were 
+				<crossref let="q" cid="c0400116.1"/>
+				 the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.
+			</v>
+			<marker class="begin-verse" mid="v04001017"/>
+			<v n="17">
+				¶ And 
+				<crossref let="r" cid="c0400117.1"/>
+				 Moses and Aaron took these men which are expressed by their names:
+			</v>
+			<marker class="begin-verse" mid="v04001018"/>
+			<v n="18">
+				And they 
+				<crossref let="s" cid="c0400118.1"/>
+				 assembled all the congregation together on the first day of the second month, and they declared their pedigrees after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, by their polls.
+			</v>
+			<marker class="begin-verse" mid="v04001019"/>
+			<v n="19">
+				As the 
+				<crossref let="t" cid="c0400119.1"/>
+				 LORD commanded Moses, so he numbered them in the wilderness of Sinai.
+			</v>
+			<marker class="begin-verse" mid="v04001020"/>
+			<v n="20">
+				And the 
+				<crossref let="u" cid="c0400120.1"/>
+				 children of Reuben, Israel’s eldest son, by their generations, after their families, by the house of their fathers, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001021"/>
+			<v n="21">
+				Those that 
+				<crossref let="v" cid="c0400121.1"/>
+				 were numbered of them, even of the tribe of Reuben, were forty and six thousand and five hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001022"/>
+			<v n="22">
+				¶ Of 
+				<crossref let="w" cid="c0400122.1"/>
+				 the children of Simeon, by their generations, after their families, by the house of their fathers, those that were numbered of them, according to the number of the names, by their polls, every male from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001023"/>
+			<v n="23">
+				Those that 
+				<crossref let="x" cid="c0400123.1"/>
+				 were numbered of them, even of the tribe of Simeon, were fifty and nine thousand and three hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001024"/>
+			<v n="24">
+				¶ Of 
+				<crossref let="y" cid="c0400124.1"/>
+				 the children of Gad, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001025"/>
+			<v n="25">
+				Those that 
+				<crossref let="z" cid="c0400125.1"/>
+				 were numbered of them, even of the tribe of Gad, were forty and five thousand six hundred and fifty.
+			</v>
+			<marker class="begin-verse" mid="v04001026"/>
+			<v n="26">
+				¶ Of 
+				<crossref let="a" cid="c0400126.1"/>
+				 the children of Judah, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001027"/>
+			<v n="27">
+				Those that 
+				<crossref let="b" cid="c0400127.1"/>
+				 were numbered of them, even of the tribe of Judah, were threescore and fourteen thousand and six hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001028"/>
+			<v n="28">
+				¶ Of 
+				<crossref let="c" cid="c0400128.1"/>
+				 the children of Issachar, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001029"/>
+			<v n="29">
+				Those that 
+				<crossref let="d" cid="c0400129.1"/>
+				 were numbered of them, even of the tribe of Issachar, were fifty and four thousand and four hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001030"/>
+			<v n="30">
+				¶ Of 
+				<crossref let="e" cid="c0400130.1"/>
+				 the children of Zebulun, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001031"/>
+			<v n="31">
+				Those that 
+				<crossref let="f" cid="c0400131.1"/>
+				 were numbered of them, even of the tribe of Zebulun, were fifty and seven thousand and four hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001032"/>
+			<v n="32">
+				¶ Of 
+				<crossref let="g" cid="c0400132.1"/>
+				 the children of Joseph, namely, of the children of Ephraim, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001033"/>
+			<v n="33">
+				Those that 
+				<crossref let="h" cid="c0400133.1"/>
+				 were numbered of them, even of the tribe of Ephraim, were forty thousand and five hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001034"/>
+			<v n="34">
+				¶ Of 
+				<crossref let="i" cid="c0400134.1"/>
+				 the children of Manasseh, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001035"/>
+			<v n="35">
+				Those that 
+				<crossref let="j" cid="c0400135.1"/>
+				 were numbered of them, even of the tribe of Manasseh, were thirty and two thousand and two hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001036"/>
+			<v n="36">
+				¶ Of 
+				<crossref let="k" cid="c0400136.1"/>
+				 the children of Benjamin, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001037"/>
+			<v n="37">
+				Those that 
+				<crossref let="l" cid="c0400137.1"/>
+				 were numbered of them, even of the tribe of Benjamin, were thirty and five thousand and four hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001038"/>
+			<v n="38">
+				¶ Of 
+				<crossref let="m" cid="c0400138.1"/>
+				 the children of Dan, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001039"/>
+			<v n="39">
+				Those that 
+				<crossref let="n" cid="c0400139.1"/>
+				 were numbered of them, even of the tribe of Dan, were threescore and two thousand and seven hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001040"/>
+			<v n="40">
+				¶ Of 
+				<crossref let="o" cid="c0400140.1"/>
+				 the children of Asher, by their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001041"/>
+			<v n="41">
+				Those that 
+				<crossref let="p" cid="c0400141.1"/>
+				 were numbered of them, even of the tribe of Asher, were forty and one thousand and five hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001042"/>
+			<v n="42">
+				¶ Of 
+				<crossref let="q" cid="c0400142.1"/>
+				 the children of Naphtali, throughout their generations, after their families, by the house of their fathers, according to the number of the names, from twenty years old and upward, all that were able to go forth to war;
+			</v>
+			<marker class="begin-verse" mid="v04001043"/>
+			<v n="43">
+				Those that 
+				<crossref let="r" cid="c0400143.1"/>
+				 were numbered of them, even of the tribe of Naphtali, were fifty and three thousand and four hundred.
+			</v>
+			<marker class="begin-verse" mid="v04001044"/>
+			<v n="44">
+				These are 
+				<crossref let="s" cid="c0400144.1"/>
+				 those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers.
+			</v>
+			<marker class="begin-verse" mid="v04001045"/>
+			<v n="45">
+				So were 
+				<crossref let="t" cid="c0400145.1"/>
+				 all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;
+			</v>
+			<marker class="begin-verse" mid="v04001046"/>
+			<v n="46">
+				Even all 
+				<crossref let="u" cid="c0400146.1"/>
+				 they that were numbered were six hundred thousand and three thousand and five hundred and fifty.
+			</v>
+			<marker class="begin-verse" mid="v04001047"/>
+			<v n="47">
+				¶ But 
+				<crossref let="v" cid="c0400147.1"/>
+				 the Levites after the tribe of their fathers were not numbered among them.
+			</v>
+			<marker class="begin-verse" mid="v04001048"/>
+			<v n="48">
+				For the 
+				<crossref let="w" cid="c0400148.1"/>
+				 LORD had spoken unto Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v04001049"/>
+			<v n="49">
+				Only thou 
+				<crossref let="x" cid="c0400149.1"/>
+				 shalt not number the tribe of Levi, neither take the sum of them among the children of Israel:
+			</v>
+			<marker class="begin-verse" mid="v04001050"/>
+			<v n="50">
+				But thou 
+				<crossref let="y" cid="c0400150.1"/>
+				 shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that belong to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.
+			</v>
+			<marker class="begin-verse" mid="v04001051"/>
+			<v n="51">
+				And when 
+				<crossref let="z" cid="c0400151.1"/>
+				 the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.
+			</v>
+			<marker class="begin-verse" mid="v04001052"/>
+			<v n="52">
+				And the 
+				<crossref let="a" cid="c0400152.1"/>
+				 children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.
+			</v>
+			<marker class="begin-verse" mid="v04001053"/>
+			<v n="53">
+				But the 
+				<crossref let="b" cid="c0400153.1"/>
+				 Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.
+			</v>
+			<marker class="begin-verse" mid="v04001054"/>
+			<v n="54">
+				And the 
+				<crossref let="c" cid="c0400154.1"/>
+				 children of Israel did according to all that the LORD commanded Moses, so did they.
+			</v>
+			<marker class="begin-verse" mid="v04001055"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

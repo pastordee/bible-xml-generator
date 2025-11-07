@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:20:20.406948</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:20:20.406963</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" version="WEB" bookAbbr="zec">
+		<marker class="begin-verse" mid="v38005001"/>
+		<chapter num="5">
+			<begin-paragraph/>
+			<v n="1">
+				Then again 
+				<crossref let="b" cid="c380051.1"/>
+				 I lifted up my eyes and saw, and behold, a flying scroll.
+			</v>
+			<marker class="begin-verse" mid="v38005002"/>
+			<v n="2">
+				He said 
+				<crossref let="c" cid="c380052.1"/>
+				 to me, “What do you see?”I answered, “I see a flying scroll; its length is twenty cubits, and its width ten cubits.”
+			</v>
+			<marker class="begin-verse" mid="v38005003"/>
+			<v n="3">
+				Then he 
+				<crossref let="d" cid="c380053.1"/>
+				 said to me, “This is the curse that goes out over the surface of the whole land, for everyone who steals shall be cut off according to it on the one side; and everyone who swears falsely shall be cut off according to it on the other side.
+			</v>
+			<marker class="begin-verse" mid="v38005004"/>
+			<v n="4">
+				I will 
+				<crossref let="e" cid="c380054.1"/>
+				 cause it to go out,” says Yahweh of Armies, “and it will enter into the house of the thief, and into the house of him who swears falsely by my name; and it will remain in the middle of his house, and will destroy it with its timber and its stones.”
+			</v>
+			<marker class="begin-verse" mid="v38005005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c380055.1"/>
+				 angel who talked with me came forward and said to me, “Lift up now your eyes and see what this is that is appearing.”
+			</v>
+			<marker class="begin-verse" mid="v38005006"/>
+			<v n="6">
+				I said, 
+				<crossref let="g" cid="c380056.1"/>
+				 “What is it?”He said, “This is the ephah basket that is appearing.” He said moreover, “This is their appearance in all the land—
+			</v>
+			<marker class="begin-verse" mid="v38005007"/>
+			<v n="7">
+				and behold, 
+				<crossref let="h" cid="c380057.1"/>
+				 a lead cover weighing one talent was lifted up—and there was a woman sitting in the middle of the ephah basket.”
+			</v>
+			<marker class="begin-verse" mid="v38005008"/>
+			<v n="8">
+				He said, 
+				<crossref let="i" cid="c380058.1"/>
+				 “This is Wickedness;” and he threw her down into the middle of the ephah basket; and he threw the lead weight on its mouth.
+			</v>
+			<marker class="begin-verse" mid="v38005009"/>
+			<v n="9">
+				Then I 
+				<crossref let="j" cid="c380059.1"/>
+				 lifted up my eyes and saw, and behold, there were two women; and the wind was in their wings. Now they had wings like the wings of a stork, and they lifted up the ephah basket between earth and the sky.
+			</v>
+			<marker class="begin-verse" mid="v38005010"/>
+			<v n="10">
+				Then I 
+				<crossref let="k" cid="c3800510.1"/>
+				 said to the angel who talked with me, “Where are these carrying the ephah basket?”
+			</v>
+			<marker class="begin-verse" mid="v38005011"/>
+			<v n="11">
+				He said 
+				<crossref let="l" cid="c3800511.1"/>
+				 to me, “To build her a house in the land of Shinar. When it is prepared, she will be set there in her own place.”
+			</v>
+			<marker class="begin-verse" mid="v38005012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:10:28.843533</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:10:28.843542</next_refresh_due>
+	</generation_info>
+	<book title="Lamentations" num="25" testament="old" version="WEB" bookAbbr="lam">
+		<marker class="begin-verse" mid="v25005001"/>
+		<chapter num="5">
+			<begin-paragraph/>
+			<v n="1">
+				Remember, Yahweh, 
+				<crossref let="b" cid="c250051.1"/>
+				 what has come on us.Look, and see our reproach.
+			</v>
+			<marker class="begin-verse" mid="v25005002"/>
+			<v n="2">
+				Our inheritance 
+				<crossref let="c" cid="c250052.1"/>
+				 has been turned over to strangers,our houses to aliens.
+			</v>
+			<marker class="begin-verse" mid="v25005003"/>
+			<v n="3">
+				We are 
+				<crossref let="d" cid="c250053.1"/>
+				 orphans and fatherless.Our mothers are as widows.
+			</v>
+			<marker class="begin-verse" mid="v25005004"/>
+			<v n="4">
+				We must 
+				<crossref let="e" cid="c250054.1"/>
+				 pay for water to drink.Our wood is sold to us.
+			</v>
+			<marker class="begin-verse" mid="v25005005"/>
+			<v n="5">
+				Our pursuers 
+				<crossref let="f" cid="c250055.1"/>
+				 are on our necks.We are weary, and have no rest.
+			</v>
+			<marker class="begin-verse" mid="v25005006"/>
+			<v n="6">
+				We have 
+				<crossref let="g" cid="c250056.1"/>
+				 given our hands to the Egyptians,and to the Assyrians, to be satisfied with bread.
+			</v>
+			<marker class="begin-verse" mid="v25005007"/>
+			<v n="7">
+				Our fathers 
+				<crossref let="h" cid="c250057.1"/>
+				 sinned, and are no more.We have borne their iniquities.
+			</v>
+			<marker class="begin-verse" mid="v25005008"/>
+			<v n="8">
+				Servants rule 
+				<crossref let="i" cid="c250058.1"/>
+				 over us.There is no one to deliver us out of their hand.
+			</v>
+			<marker class="begin-verse" mid="v25005009"/>
+			<v n="9">
+				We get 
+				<crossref let="j" cid="c250059.1"/>
+				 our bread at the peril of our lives,because of the sword in the wilderness.
+			</v>
+			<marker class="begin-verse" mid="v25005010"/>
+			<v n="10">
+				Our skin 
+				<crossref let="k" cid="c2500510.1"/>
+				 is black like an oven,because of the burning heat of famine.
+			</v>
+			<marker class="begin-verse" mid="v25005011"/>
+			<v n="11">
+				They ravished 
+				<crossref let="l" cid="c2500511.1"/>
+				 the women in Zion,the virgins in the cities of Judah.
+			</v>
+			<marker class="begin-verse" mid="v25005012"/>
+			<v n="12">
+				Princes were 
+				<crossref let="m" cid="c2500512.1"/>
+				 hanged up by their hands.The faces of elders were not honored.
+			</v>
+			<marker class="begin-verse" mid="v25005013"/>
+			<v n="13">
+				The young 
+				<crossref let="n" cid="c2500513.1"/>
+				 men carry millstones.The children stumbled under loads of wood.
+			</v>
+			<marker class="begin-verse" mid="v25005014"/>
+			<v n="14">
+				The elders 
+				<crossref let="o" cid="c2500514.1"/>
+				 have ceased from the gate,and the young men from their music.
+			</v>
+			<marker class="begin-verse" mid="v25005015"/>
+			<v n="15">
+				The joy 
+				<crossref let="p" cid="c2500515.1"/>
+				 of our heart has ceased.Our dance is turned into mourning.
+			</v>
+			<marker class="begin-verse" mid="v25005016"/>
+			<v n="16">
+				The crown 
+				<crossref let="q" cid="c2500516.1"/>
+				 has fallen from our head.Woe to us, for we have sinned!
+			</v>
+			<marker class="begin-verse" mid="v25005017"/>
+			<v n="17">
+				For this 
+				<crossref let="r" cid="c2500517.1"/>
+				 our heart is faint.For these things our eyes are dim:
+			</v>
+			<marker class="begin-verse" mid="v25005018"/>
+			<v n="18">
+				for the 
+				<crossref let="s" cid="c2500518.1"/>
+				 mountain of Zion, which is desolate.The foxes walk on it.
+			</v>
+			<marker class="begin-verse" mid="v25005019"/>
+			<v n="19">
+				You, Yahweh, 
+				<crossref let="t" cid="c2500519.1"/>
+				 remain forever.Your throne is from generation to generation.
+			</v>
+			<marker class="begin-verse" mid="v25005020"/>
+			<v n="20">
+				Why do 
+				<crossref let="u" cid="c2500520.1"/>
+				 you forget us forever,and forsake us for so long a time?
+			</v>
+			<marker class="begin-verse" mid="v25005021"/>
+			<v n="21">
+				Turn us 
+				<crossref let="v" cid="c2500521.1"/>
+				 to yourself, Yahweh, and we will be turned.Renew our days as of old.
+			</v>
+			<marker class="begin-verse" mid="v25005022"/>
+			<v n="22">
+				But you 
+				<crossref let="w" cid="c2500522.1"/>
+				 have utterly rejected us.You are very angry against us.
+			</v>
+			<marker class="begin-verse" mid="v25005023"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

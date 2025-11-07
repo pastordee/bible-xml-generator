@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:54:36.508679</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:54:36.508686</next_refresh_due>
+	</generation_info>
+	<book title="Jeremiah" num="24" testament="old" version="ASV" bookAbbr="jer">
+		<marker class="begin-verse" mid="v24045001"/>
+		<chapter num="45">
+			<begin-paragraph/>
+			<v n="1">
+				The word 
+				<crossref let="b" cid="c240451.1"/>
+				 that Jeremiah the prophet spake unto Baruch the son of Neriah, when he wrote these words in a book at the mouth of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying,
+			</v>
+			<marker class="begin-verse" mid="v24045002"/>
+			<v n="2">
+				Thus saith 
+				<crossref let="c" cid="c240452.1"/>
+				 Jehovah, the God of Israel, unto thee, O Baruch:
+			</v>
+			<marker class="begin-verse" mid="v24045003"/>
+			<v n="3">
+				Thou didst 
+				<crossref let="d" cid="c240453.1"/>
+				 say, Woe is me now! for Jehovah hath added sorrow to my pain; I am weary with my groaning, and I find no rest.
+			</v>
+			<marker class="begin-verse" mid="v24045004"/>
+			<v n="4">
+				Thus shalt 
+				<crossref let="e" cid="c240454.1"/>
+				 thou say unto him, Thus saith Jehovah: Behold, that which I have built will I break down, and that which I have planted I will pluck up; and this in the whole land.
+			</v>
+			<marker class="begin-verse" mid="v24045005"/>
+			<v n="5">
+				And seekest 
+				<crossref let="f" cid="c240455.1"/>
+				 thou great things for thyself? seek them not; for, behold, I will bring evil upon all flesh, saith Jehovah; but thy life will I give unto thee for a prey in all places whither thou goest.
+			</v>
+			<marker class="begin-verse" mid="v24045006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:51:25.112883</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:51:25.112903</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19110001"/>
+		<chapter num="110">
+			<heading>A Psalm by David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh says 
+				<crossref let="b" cid="c191101.1"/>
+				 to my Lord, “Sit at my right hand,until I make your enemies your footstool for your feet.”
+			</v>
+			<marker class="begin-verse" mid="v19110002"/>
+			<v n="2">
+				Yahweh will 
+				<crossref let="c" cid="c191102.1"/>
+				 send out the rod of your strength out of Zion.Rule among your enemies.
+			</v>
+			<marker class="begin-verse" mid="v19110003"/>
+			<v n="3">
+				Your people 
+				<crossref let="d" cid="c191103.1"/>
+				 offer themselves willingly in the day of your power, in holy array.Out of the womb of the morning, you have the dew of your youth.
+			</v>
+			<marker class="begin-verse" mid="v19110004"/>
+			<v n="4">
+				Yahweh has 
+				<crossref let="e" cid="c191104.1"/>
+				 sworn, and will not change his mind:“You are a priest forever in the order of Melchizedek.”
+			</v>
+			<marker class="begin-verse" mid="v19110005"/>
+			<v n="5">
+				The Lord 
+				<crossref let="f" cid="c191105.1"/>
+				 is at your right hand.He will crush kings in the day of his wrath.
+			</v>
+			<marker class="begin-verse" mid="v19110006"/>
+			<v n="6">
+				He will 
+				<crossref let="g" cid="c191106.1"/>
+				 judge among the nations.He will heap up dead bodies.He will crush the ruler of the whole earth.
+			</v>
+			<marker class="begin-verse" mid="v19110007"/>
+			<v n="7">
+				He will 
+				<crossref let="h" cid="c191107.1"/>
+				 drink of the brook on the way;therefore he will lift up his head.
+			</v>
+			<marker class="begin-verse" mid="v19110008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

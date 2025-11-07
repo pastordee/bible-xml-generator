@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:53:17.194881</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:53:17.194928</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19131001"/>
+		<chapter num="131">
+			<heading>A Song of Ascents. By David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh, my 
+				<crossref let="b" cid="c191311.1"/>
+				 heart isn’t arrogant, nor my eyes lofty;nor do I concern myself with great matters,or things too wonderful for me.
+			</v>
+			<marker class="begin-verse" mid="v19131002"/>
+			<v n="2">
+				Surely I 
+				<crossref let="c" cid="c191312.1"/>
+				 have stilled and quieted my soul,like a weaned child with his mother,like a weaned child is my soul within me.
+			</v>
+			<marker class="begin-verse" mid="v19131003"/>
+			<v n="3">
+				Israel, hope 
+				<crossref let="d" cid="c191313.1"/>
+				 in Yahweh,from this time forward and forever more.
+			</v>
+			<marker class="begin-verse" mid="v19131004"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

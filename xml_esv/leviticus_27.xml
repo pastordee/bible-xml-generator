@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:01:07.135246</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:01:07.135254</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" bookAbbr="lev" version="ESV">
+		<marker class="begin-verse" mid="v03027001">
+		</marker>
+		<chapter num="27">
+			<heading>
+				Leviticus 27
+			</heading>
+			<heading>
+				Laws About Vows
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c03027001.1">
+				</crossref>
+				spoke to, 
+				<crossref let="c" cid="c03027001.2">
+				</crossref>
+				Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v03027002">
+			</marker>
+			<v n="2">
+				“Speak to 
+				<crossref let="d" cid="c03027002.3">
+				</crossref>
+				the people, 
+				<crossref let="e" cid="c03027002.4">
+				</crossref>
+				of Israel and say to them, If anyone makes a special vow to the LORD involving the valuation of persons,
+			</v>
+			<marker class="begin-verse" mid="v03027003">
+			</marker>
+			<v n="3">
+				then the 
+				<crossref let="f" cid="c03027003.5">
+				</crossref>
+				valuation of, 
+				<crossref let="g" cid="c03027003.6">
+				</crossref>
+				a male from twenty years old up to sixty years old shall be fifty shekels(1) of silver, according to the shekel of the sanctuary.
+				<note nid="n03027003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027004">
+			</marker>
+			<v n="4">
+				If the 
+				<crossref let="h" cid="c03027004.7">
+				</crossref>
+				person is, 
+				<crossref let="i" cid="c03027004.8">
+				</crossref>
+				a female, the valuation shall be thirty shekels.
+			</v>
+			<marker class="begin-verse" mid="v03027005">
+			</marker>
+			<v n="5">
+				If the 
+				<crossref let="j" cid="c03027005.9">
+				</crossref>
+				person is, 
+				<crossref let="k" cid="c03027005.10">
+				</crossref>
+				from five years old up to twenty years old, the valuation shall be for a male twenty shekels, and for a female ten shekels.
+			</v>
+			<marker class="begin-verse" mid="v03027006">
+			</marker>
+			<v n="6">
+				If the 
+				<crossref let="l" cid="c03027006.11">
+				</crossref>
+				person is, 
+				<crossref let="m" cid="c03027006.12">
+				</crossref>
+				from a month old up to five years old, the valuation shall be for a male five shekels of silver, and for a female the valuation shall be three shekels of silver.
+				<note nid="n03027006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027007">
+			</marker>
+			<v n="7">
+				And if 
+				<crossref let="n" cid="c03027007.13">
+				</crossref>
+				the person, 
+				<crossref let="o" cid="c03027007.14">
+				</crossref>
+				is sixty years old or over, then the valuation for a male shall be fifteen shekels, and for a female ten shekels.
+			</v>
+			<marker class="begin-verse" mid="v03027008">
+			</marker>
+			<v n="8">
+				And if 
+				<crossref let="p" cid="c03027008.15">
+				</crossref>
+				someone is, 
+				<crossref let="q" cid="c03027008.16">
+				</crossref>
+				too poor to pay the valuation, then he shall be made to stand before the priest, and the priest shall value him; the priest shall value him according to what the vower can afford.
+			</v>
+			<marker class="begin-verse" mid="v03027009">
+			</marker>
+			<v n="9">
+				“If the 
+				<crossref let="r" cid="c03027009.17">
+				</crossref>
+				vow(2) is, 
+				<crossref let="s" cid="c03027009.18">
+				</crossref>
+				an animal that may be offered as an offering to the LORD, all of it that he gives to the LORD is holy.
+				<note nid="n03027009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027010">
+			</marker>
+			<v n="10">
+				He shall 
+				<crossref let="t" cid="c03027010.19">
+				</crossref>
+				not exchange, 
+				<crossref let="u" cid="c03027010.20">
+				</crossref>
+				it or make a substitute for it, good for bad, or bad for good; and if he does in fact substitute one animal for another, then both it and the substitute shall be holy.
+			</v>
+			<marker class="begin-verse" mid="v03027011">
+			</marker>
+			<v n="11">
+				And if 
+				<crossref let="v" cid="c03027011.21">
+				</crossref>
+				it is, 
+				<crossref let="w" cid="c03027011.22">
+				</crossref>
+				any unclean animal that may not be offered as an offering to the LORD, then he shall stand the animal before the priest,
+			</v>
+			<marker class="begin-verse" mid="v03027012">
+			</marker>
+			<v n="12">
+				and the 
+				<crossref let="x" cid="c03027012.23">
+				</crossref>
+				priest shall, 
+				<crossref let="y" cid="c03027012.24">
+				</crossref>
+				value it as either good or bad; as the priest values it, so it shall be.
+				<note nid="n03027012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027013">
+			</marker>
+			<v n="13">
+				But if 
+				<crossref let="z" cid="c03027013.25">
+				</crossref>
+				he wishes, 
+				<crossref let="a" cid="c03027013.26">
+				</crossref>
+				to redeem it, he shall add a fifth to the valuation.
+			</v>
+			<marker class="begin-verse" mid="v03027014">
+			</marker>
+			<v n="14">
+				“When a 
+				<crossref let="b" cid="c03027014.27">
+				</crossref>
+				man dedicates, 
+				<crossref let="c" cid="c03027014.28">
+				</crossref>
+				his house as a holy gift to the LORD, the priest shall value it as either good or bad; as the priest values it, so it shall stand.
+			</v>
+			<marker class="begin-verse" mid="v03027015">
+			</marker>
+			<v n="15">
+				And if 
+				<crossref let="d" cid="c03027015.29">
+				</crossref>
+				the donor, 
+				<crossref let="e" cid="c03027015.30">
+				</crossref>
+				wishes to redeem his house, he shall add a fifth to the valuation price, and it shall be his.
+				<note nid="n03027015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027016">
+			</marker>
+			<v n="16">
+				“If a 
+				<crossref let="f" cid="c03027016.31">
+				</crossref>
+				man dedicates, 
+				<crossref let="g" cid="c03027016.32">
+				</crossref>
+				to the LORD part of the land that is his possession, then the valuation shall be in proportion to its seed. A homer(3) of barley seed shall be valued at fifty shekels of silver.
+			</v>
+			<marker class="begin-verse" mid="v03027017">
+			</marker>
+			<v n="17">
+				If he 
+				<crossref let="h" cid="c03027017.33">
+				</crossref>
+				dedicates his, 
+				<crossref let="i" cid="c03027017.34">
+				</crossref>
+				field from the year of jubilee, the valuation shall stand,
+			</v>
+			<marker class="begin-verse" mid="v03027018">
+			</marker>
+			<v n="18">
+				but if 
+				<crossref let="j" cid="c03027018.35">
+				</crossref>
+				he dedicates, 
+				<crossref let="k" cid="c03027018.36">
+				</crossref>
+				his field after the jubilee, then the priest shall calculate the price according to the years that remain until the year of jubilee, and a deduction shall be made from the valuation.
+				<note nid="n03027018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027019">
+			</marker>
+			<v n="19">
+				And if 
+				<crossref let="l" cid="c03027019.37">
+				</crossref>
+				he who, 
+				<crossref let="m" cid="c03027019.38">
+				</crossref>
+				dedicates the field wishes to redeem it, then he shall add a fifth to its valuation price, and it shall remain his.
+			</v>
+			<marker class="begin-verse" mid="v03027020">
+			</marker>
+			<v n="20">
+				But if 
+				<crossref let="n" cid="c03027020.39">
+				</crossref>
+				he does, 
+				<crossref let="o" cid="c03027020.40">
+				</crossref>
+				not wish to redeem the field, or if he has sold the field to another man, it shall not be redeemed anymore.
+			</v>
+			<marker class="begin-verse" mid="v03027021">
+			</marker>
+			<v n="21">
+				But the 
+				<crossref let="p" cid="c03027021.41">
+				</crossref>
+				field, when, 
+				<crossref let="q" cid="c03027021.42">
+				</crossref>
+				it is released in the jubilee, shall be a holy gift to the LORD, like a field that has been devoted. The priest shall be in possession of it.
+				<note nid="n03027021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027022">
+			</marker>
+			<v n="22">
+				If he 
+				<crossref let="r" cid="c03027022.43">
+				</crossref>
+				dedicates to, 
+				<crossref let="s" cid="c03027022.44">
+				</crossref>
+				the LORD a field that he has bought, which is not a part of his possession,
+			</v>
+			<marker class="begin-verse" mid="v03027023">
+			</marker>
+			<v n="23">
+				then the 
+				<crossref let="t" cid="c03027023.45">
+				</crossref>
+				priest shall, 
+				<crossref let="u" cid="c03027023.46">
+				</crossref>
+				calculate the amount of the valuation for it up to the year of jubilee, and the man shall give the valuation on that day as a holy gift to the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03027024">
+			</marker>
+			<v n="24">
+				In the 
+				<crossref let="v" cid="c03027024.47">
+				</crossref>
+				year of, 
+				<crossref let="w" cid="c03027024.48">
+				</crossref>
+				jubilee the field shall return to him from whom it was bought, to whom the land belongs as a possession.
+				<note nid="n03027024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027025">
+			</marker>
+			<v n="25">
+				Every valuation 
+				<crossref let="x" cid="c03027025.49">
+				</crossref>
+				shall be, 
+				<crossref let="y" cid="c03027025.50">
+				</crossref>
+				according to the shekel of the sanctuary: twenty gerahs(4) shall make a shekel.
+			</v>
+			<marker class="begin-verse" mid="v03027026">
+			</marker>
+			<v n="26">
+				“But a 
+				<crossref let="z" cid="c03027026.51">
+				</crossref>
+				firstborn of, 
+				<crossref let="a" cid="c03027026.52">
+				</crossref>
+				animals, which as a firstborn belongs to the LORD, no man may dedicate; whether ox or sheep, it is the LORD’s.
+			</v>
+			<marker class="begin-verse" mid="v03027027">
+			</marker>
+			<v n="27">
+				And if 
+				<crossref let="b" cid="c03027027.53">
+				</crossref>
+				it is, 
+				<crossref let="c" cid="c03027027.54">
+				</crossref>
+				an unclean animal, then he shall buy it back at the valuation, and add a fifth to it; or, if it is not redeemed, it shall be sold at the valuation.
+				<note nid="n03027027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027028">
+			</marker>
+			<v n="28">
+				“But no 
+				<crossref let="d" cid="c03027028.55">
+				</crossref>
+				devoted thing, 
+				<crossref let="e" cid="c03027028.56">
+				</crossref>
+				that a man devotes to the LORD, of anything that he has, whether man or beast, or of his inherited field, shall be sold or redeemed; every devoted thing is most holy to the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03027029">
+			</marker>
+			<v n="29">
+				No one 
+				<crossref let="f" cid="c03027029.57">
+				</crossref>
+				devoted, who, 
+				<crossref let="g" cid="c03027029.58">
+				</crossref>
+				is to be devoted for destruction(5) from mankind, shall be ransomed; he shall surely be put to death.
+			</v>
+			<marker class="begin-verse" mid="v03027030">
+			</marker>
+			<v n="30">
+				“Every tithe 
+				<crossref let="h" cid="c03027030.59">
+				</crossref>
+				of the, 
+				<crossref let="i" cid="c03027030.60">
+				</crossref>
+				land, whether of the seed of the land or of the fruit of the trees, is the LORD’s; it is holy to the LORD.
+				<note nid="n03027030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027031">
+			</marker>
+			<v n="31">
+				If a 
+				<crossref let="j" cid="c03027031.61">
+				</crossref>
+				man wishes, 
+				<crossref let="k" cid="c03027031.62">
+				</crossref>
+				to redeem some of his tithe, he shall add a fifth to it.
+			</v>
+			<marker class="begin-verse" mid="v03027032">
+			</marker>
+			<v n="32">
+				And every 
+				<crossref let="l" cid="c03027032.63">
+				</crossref>
+				tithe of, 
+				<crossref let="m" cid="c03027032.64">
+				</crossref>
+				herds and flocks, every tenth animal of all that pass under the herdsman’s staff, shall be holy to the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03027033">
+			</marker>
+			<v n="33">
+				One shall 
+				<crossref let="n" cid="c03027033.65">
+				</crossref>
+				not differentiate, 
+				<crossref let="o" cid="c03027033.66">
+				</crossref>
+				between good or bad, neither shall he make a substitute for it; and if he does substitute for it, then both it and the substitute shall be holy; it shall not be redeemed.”
+				<note nid="n03027033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03027034">
+			</marker>
+			<v n="34">
+				These are 
+				<crossref let="p" cid="c03027034.67">
+				</crossref>
+				the commandments, 
+				<crossref let="q" cid="c03027034.68">
+				</crossref>
+				that the LORD commanded Moses for the people of Israel on Mount Sinai. Footnotes (1) 27:3 A *shekel* was about 2/5 ounce or 11 grams (2) 27:9 Hebrew *it* (3) 27:16 A *homer* was about 6 bushels or 220 liters (4) 27:25 A *gerah* was about 1/50 ounce or 0.6 gram (5) 27:29 That is, set apart (devoted) as an offering to the Lord (for destruction) (ESV)
+			</v>
+			<marker class="begin-verse" mid="v03027035">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

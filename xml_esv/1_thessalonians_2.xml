@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:07.412095</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:07.412116</next_refresh_due>
+	</generation_info>
+	<book title="1 Thessalonians" num="52" testament="new" bookAbbr="1th" version="ESV">
+		<marker class="begin-verse" mid="v52002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				1 Thessalonians 2
+			</heading>
+			<heading>
+				Paul’s Ministry to the Thessalonians
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				For you 
+				<crossref let="b" cid="c52002001.1">
+				</crossref>
+				yourselves know,, 
+				<crossref let="c" cid="c52002001.2">
+				</crossref>
+				brothers,(1) that our coming to you was not in vain.
+			</v>
+			<marker class="begin-verse" mid="v52002002">
+			</marker>
+			<v n="2">
+				But though 
+				<crossref let="d" cid="c52002002.3">
+				</crossref>
+				we had, 
+				<crossref let="e" cid="c52002002.4">
+				</crossref>
+				already suffered and been shamefully treated at Philippi, as you know, we had boldness in our God to declare to you the gospel of God in the midst of much conflict.
+			</v>
+			<marker class="begin-verse" mid="v52002003">
+			</marker>
+			<v n="3">
+				For our 
+				<crossref let="f" cid="c52002003.5">
+				</crossref>
+				appeal does, 
+				<crossref let="g" cid="c52002003.6">
+				</crossref>
+				not spring from error or impurity or any attempt to deceive,
+				<note nid="n52002003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v52002004">
+			</marker>
+			<v n="4">
+				but just 
+				<crossref let="h" cid="c52002004.7">
+				</crossref>
+				as we, 
+				<crossref let="i" cid="c52002004.8">
+				</crossref>
+				have been approved by God to be entrusted with the gospel, so we speak, not to please man, but to please God who tests our hearts.
+			</v>
+			<marker class="begin-verse" mid="v52002005">
+			</marker>
+			<v n="5">
+				For we 
+				<crossref let="j" cid="c52002005.9">
+				</crossref>
+				never came, 
+				<crossref let="k" cid="c52002005.10">
+				</crossref>
+				with words of flattery,(2) as you know, nor with a pretext for greed—God is witness.
+			</v>
+			<marker class="begin-verse" mid="v52002006">
+			</marker>
+			<v n="6">
+				Nor did 
+				<crossref let="l" cid="c52002006.11">
+				</crossref>
+				we seek, 
+				<crossref let="m" cid="c52002006.12">
+				</crossref>
+				glory from people, whether from you or from others, though we could have made demands as apostles of Christ.
+				<note nid="n52002006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v52002007">
+			</marker>
+			<v n="7">
+				But we 
+				<crossref let="n" cid="c52002007.13">
+				</crossref>
+				were gentle(3), 
+				<crossref let="o" cid="c52002007.14">
+				</crossref>
+				among you, like a nursing mother taking care of her own children.
+			</v>
+			<marker class="begin-verse" mid="v52002008">
+			</marker>
+			<v n="8">
+				So, being 
+				<crossref let="p" cid="c52002008.15">
+				</crossref>
+				affectionately desirous, 
+				<crossref let="q" cid="c52002008.16">
+				</crossref>
+				of you, we were ready to share with you not only the gospel of God but also our own selves, because you had become very dear to us.
+			</v>
+			<marker class="begin-verse" mid="v52002009">
+			</marker>
+			<v n="9">
+				For you 
+				<crossref let="r" cid="c52002009.17">
+				</crossref>
+				remember, brothers,, 
+				<crossref let="s" cid="c52002009.18">
+				</crossref>
+				our labor and toil: we worked night and day, that we might not be a burden to any of you, while we proclaimed to you the gospel of God.
+				<note nid="n52002009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v52002010">
+			</marker>
+			<v n="10">
+				You are 
+				<crossref let="t" cid="c52002010.19">
+				</crossref>
+				witnesses, and, 
+				<crossref let="u" cid="c52002010.20">
+				</crossref>
+				God also, how holy and righteous and blameless was our conduct toward you believers.
+			</v>
+			<marker class="begin-verse" mid="v52002011">
+			</marker>
+			<v n="11">
+				For you 
+				<crossref let="v" cid="c52002011.21">
+				</crossref>
+				know how,, 
+				<crossref let="w" cid="c52002011.22">
+				</crossref>
+				like a father with his children,
+			</v>
+			<marker class="begin-verse" mid="v52002012">
+			</marker>
+			<v n="12">
+				we exhorted 
+				<crossref let="x" cid="c52002012.23">
+				</crossref>
+				each one, 
+				<crossref let="y" cid="c52002012.24">
+				</crossref>
+				of you and encouraged you and charged you to walk in a manner worthy of God, who calls you into his own kingdom and glory.
+				<note nid="n52002012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v52002013">
+			</marker>
+			<v n="13">
+				And we 
+				<crossref let="z" cid="c52002013.25">
+				</crossref>
+				also thank, 
+				<crossref let="a" cid="c52002013.26">
+				</crossref>
+				God constantly(4) for this, that when you received the word of God, which you heard from us, you accepted it not as the word of men(5) but as what it really is, the word of God, which is at work in you believers.
+			</v>
+			<marker class="begin-verse" mid="v52002014">
+			</marker>
+			<v n="14">
+				For you, 
+				<crossref let="b" cid="c52002014.27">
+				</crossref>
+				brothers, became, 
+				<crossref let="c" cid="c52002014.28">
+				</crossref>
+				imitators of the churches of God in Christ Jesus that are in Judea. For you suffered the same things from your own countrymen as they did from the Jews,(6)
+			</v>
+			<marker class="begin-verse" mid="v52002015">
+			</marker>
+			<v n="15">
+				who killed 
+				<crossref let="d" cid="c52002015.29">
+				</crossref>
+				both the, 
+				<crossref let="e" cid="c52002015.30">
+				</crossref>
+				Lord Jesus and the prophets, and drove us out, and displease God and oppose all mankind
+				<note nid="n52002015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v52002016">
+			</marker>
+			<v n="16">
+				by hindering 
+				<crossref let="f" cid="c52002016.31">
+				</crossref>
+				us from, 
+				<crossref let="g" cid="c52002016.32">
+				</crossref>
+				speaking to the Gentiles that they might be saved—so as always to fill up the measure of their sins. But wrath has come upon them at last!(7) Paul’s Longing to See Them Again
+			</v>
+			<marker class="begin-verse" mid="v52002017">
+			</marker>
+			<v n="17">
+				But since 
+				<crossref let="h" cid="c52002017.33">
+				</crossref>
+				we were, 
+				<crossref let="i" cid="c52002017.34">
+				</crossref>
+				torn away from you, brothers, for a short time, in person not in heart, we endeavored the more eagerly and with great desire to see you face to face,
+			</v>
+			<marker class="begin-verse" mid="v52002018">
+			</marker>
+			<v n="18">
+				because we 
+				<crossref let="j" cid="c52002018.35">
+				</crossref>
+				wanted to, 
+				<crossref let="k" cid="c52002018.36">
+				</crossref>
+				come to you—I, Paul, again and again—but Satan hindered us.
+				<note nid="n52002018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v52002019">
+			</marker>
+			<v n="19">
+				For what 
+				<crossref let="l" cid="c52002019.37">
+				</crossref>
+				is our, 
+				<crossref let="m" cid="c52002019.38">
+				</crossref>
+				hope or joy or crown of boasting before our Lord Jesus at his coming? Is it not you?
+			</v>
+			<marker class="begin-verse" mid="v52002020">
+			</marker>
+			<v n="20">
+				For you 
+				<crossref let="n" cid="c52002020.39">
+				</crossref>
+				are our, 
+				<crossref let="o" cid="c52002020.40">
+				</crossref>
+				glory and joy. Footnotes (1) 2:1 Or *brothers and sisters*; also verses 9, 14, 17 (2) 2:5 Or *with a flattering speech* (3) 2:7 Some manuscripts *infants* (4) 2:13 Or *without ceasing* (5) 2:13 The Greek word *anthropoi* can refer to both men and women (6) 2:14 The Greek word *Ioudaioi* can refer to Jewish religious leaders, and others under their influence, who opposed the Christian faith in that time (7) 2:16 Or *completely*, or *forever* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v52002021">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:17:09.939295</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:17:09.939302</next_refresh_due>
+	</generation_info>
+	<book title="Joshua" num="6" testament="old" version="WEB" bookAbbr="jos">
+		<marker class="begin-verse" mid="v06016001"/>
+		<chapter num="16">
+			<begin-paragraph/>
+			<v n="1">
+				The lot 
+				<crossref let="b" cid="c060161.1"/>
+				 came out for the children of Joseph from the Jordan at Jericho, at the waters of Jericho on the east, even the wilderness, going up from Jericho through the hill country to Bethel.
+			</v>
+			<marker class="begin-verse" mid="v06016002"/>
+			<v n="2">
+				It went 
+				<crossref let="c" cid="c060162.1"/>
+				 out from Bethel to Luz, and passed along to the border of the Archites to Ataroth;
+			</v>
+			<marker class="begin-verse" mid="v06016003"/>
+			<v n="3">
+				and it 
+				<crossref let="d" cid="c060163.1"/>
+				 went down westward to the border of the Japhletites, to the border of Beth Horon the lower, and on to Gezer; and ended at the sea.
+			</v>
+			<marker class="begin-verse" mid="v06016004"/>
+			<v n="4">
+				The children 
+				<crossref let="e" cid="c060164.1"/>
+				 of Joseph, Manasseh and Ephraim, took their inheritance.
+			</v>
+			<marker class="begin-verse" mid="v06016005"/>
+			<v n="5">
+				This was 
+				<crossref let="f" cid="c060165.1"/>
+				 the border of the children of Ephraim according to their families. The border of their inheritance eastward was Ataroth Addar, to Beth Horon the upper.
+			</v>
+			<marker class="begin-verse" mid="v06016006"/>
+			<v n="6">
+				The border 
+				<crossref let="g" cid="c060166.1"/>
+				 went out westward at Michmethath on the north. The border turned about eastward to Taanath Shiloh, and passed along it on the east of Janoah.
+			</v>
+			<marker class="begin-verse" mid="v06016007"/>
+			<v n="7">
+				It went 
+				<crossref let="h" cid="c060167.1"/>
+				 down from Janoah to Ataroth, to Naarah, reached to Jericho, and went out at the Jordan.
+			</v>
+			<marker class="begin-verse" mid="v06016008"/>
+			<v n="8">
+				From Tappuah 
+				<crossref let="i" cid="c060168.1"/>
+				 the border went along westward to the brook of Kanah; and ended at the sea. This is the inheritance of the tribe of the children of Ephraim according to their families;
+			</v>
+			<marker class="begin-verse" mid="v06016009"/>
+			<v n="9">
+				together with 
+				<crossref let="j" cid="c060169.1"/>
+				 the cities which were set apart for the children of Ephraim in the middle of the inheritance of the children of Manasseh, all the cities with their villages.
+			</v>
+			<marker class="begin-verse" mid="v06016010"/>
+			<v n="10">
+				They didn’t 
+				<crossref let="k" cid="c0601610.1"/>
+				 drive out the Canaanites who lived in Gezer; but the Canaanites dwell in the territory of Ephraim to this day, and have become servants to do forced labor.
+			</v>
+			<marker class="begin-verse" mid="v06016011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

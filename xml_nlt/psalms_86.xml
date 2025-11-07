@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:51:48.066183</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:51:48.066204</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19086001"/>
+		<chapter num="86">
+			<heading>A prayer of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Bend down, 
+				<crossref let="b" cid="c190861.1"/>
+				 O Lord, and hear my prayer;answer me, for I need your help.
+			</v>
+			<marker class="begin-verse" mid="v19086002"/>
+			<v n="2">
+				Protect me, 
+				<crossref let="c" cid="c190862.1"/>
+				 for I am devoted to you.Save me, for I serve you and trust you.You are my God.
+			</v>
+			<marker class="begin-verse" mid="v19086003"/>
+			<v n="3">
+				Be merciful 
+				<crossref let="d" cid="c190863.1"/>
+				 to me, O Lord,for I am calling on you constantly.
+			</v>
+			<marker class="begin-verse" mid="v19086004"/>
+			<v n="4">
+				Give me 
+				<crossref let="e" cid="c190864.1"/>
+				 happiness, O Lord,for I give myself to you.
+			</v>
+			<marker class="begin-verse" mid="v19086005"/>
+			<v n="5">
+				O Lord, 
+				<crossref let="f" cid="c190865.1"/>
+				 you are so good, so ready to forgive,so full of unfailing love for all who ask for your help.
+			</v>
+			<marker class="begin-verse" mid="v19086006"/>
+			<v n="6">
+				Listen closely 
+				<crossref let="g" cid="c190866.1"/>
+				 to my prayer, O Lord;hear my urgent cry.
+			</v>
+			<marker class="begin-verse" mid="v19086007"/>
+			<v n="7">
+				I will 
+				<crossref let="h" cid="c190867.1"/>
+				 call to you whenever I’m in trouble,and you will answer me.
+			</v>
+			<marker class="begin-verse" mid="v19086008"/>
+			<v n="8">
+				No pagan 
+				<crossref let="i" cid="c190868.1"/>
+				 god is like you, O Lord.None can do what you do!
+			</v>
+			<marker class="begin-verse" mid="v19086009"/>
+			<v n="9">
+				All the 
+				<crossref let="j" cid="c190869.1"/>
+				 nations you madewill come and bow before you, Lord;they will praise your holy name.
+			</v>
+			<marker class="begin-verse" mid="v19086010"/>
+			<v n="10">
+				For you 
+				<crossref let="k" cid="c1908610.1"/>
+				 are great and perform wonderful deeds.You alone are God.
+			</v>
+			<marker class="begin-verse" mid="v19086011"/>
+			<v n="11">
+				Teach me 
+				<crossref let="l" cid="c1908611.1"/>
+				 your ways, O Lord,that I may live according to your truth!Grant me purity of heart,so that I may honor you.
+			</v>
+			<marker class="begin-verse" mid="v19086012"/>
+			<v n="12">
+				With all 
+				<crossref let="m" cid="c1908612.1"/>
+				 my heart I will praise you, O Lord my God.I will give glory to your name forever,
+			</v>
+			<marker class="begin-verse" mid="v19086013"/>
+			<v n="13">
+				for your 
+				<crossref let="n" cid="c1908613.1"/>
+				 love for me is very great.You have rescued me from the depths of death.
+			</v>
+			<marker class="begin-verse" mid="v19086014"/>
+			<v n="14">
+				O God, 
+				<crossref let="o" cid="c1908614.1"/>
+				 insolent people rise up against me;a violent gang is trying to kill me.You mean nothing to them.
+			</v>
+			<marker class="begin-verse" mid="v19086015"/>
+			<v n="15">
+				But you, 
+				<crossref let="p" cid="c1908615.1"/>
+				 O Lord,are a God of compassion and mercy,slow to get angryand filled with unfailing love and faithfulness.
+			</v>
+			<marker class="begin-verse" mid="v19086016"/>
+			<v n="16">
+				Look down 
+				<crossref let="q" cid="c1908616.1"/>
+				 and have mercy on me.Give your strength to your servant;save me, the son of your servant.
+			</v>
+			<marker class="begin-verse" mid="v19086017"/>
+			<v n="17">
+				Send me 
+				<crossref let="r" cid="c1908617.1"/>
+				 a sign of your favor.Then those who hate me will be put to shame,for you, O Lord, help and comfort me.
+			</v>
+			<marker class="begin-verse" mid="v19086018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

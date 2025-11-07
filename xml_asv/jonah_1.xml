@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:03:29.066102</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:03:29.066116</next_refresh_due>
+	</generation_info>
+	<book title="Jonah" num="32" testament="old" version="ASV" bookAbbr="jon">
+		<marker class="begin-verse" mid="v32001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				Now the 
+				<crossref let="b" cid="c320011.1"/>
+				 word of Jehovah came unto Jonah the son of Amittai, saying,
+			</v>
+			<marker class="begin-verse" mid="v32001002"/>
+			<v n="2">
+				Arise, go 
+				<crossref let="c" cid="c320012.1"/>
+				 to Nineveh, that great city, and cry against it; for their wickedness is come up before me.
+			</v>
+			<marker class="begin-verse" mid="v32001003"/>
+			<v n="3">
+				But Jonah 
+				<crossref let="d" cid="c320013.1"/>
+				 rose up to flee unto Tarshish from the presence of Jehovah; and he went down to Joppa, and found a ship going to Tarshish: so he paid the fare thereof, and went down into it, to go with them unto Tarshish from the presence of Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v32001004"/>
+			<v n="4">
+				But Jehovah 
+				<crossref let="e" cid="c320014.1"/>
+				 sent out a great wind upon the sea, and there was a mighty tempest on the sea, so that the ship was like to be broken.
+			</v>
+			<marker class="begin-verse" mid="v32001005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c320015.1"/>
+				 mariners were afraid, and cried every man unto his god; and they cast forth the wares that were in the ship into the sea, to lighten it unto them. But Jonah was gone down into the innermost parts of the ship; and he lay, and was fast asleep.
+			</v>
+			<marker class="begin-verse" mid="v32001006"/>
+			<v n="6">
+				So the 
+				<crossref let="g" cid="c320016.1"/>
+				 shipmaster came to him, and said unto him, What meanest thou, O sleeper? arise, call upon thy God, if so be that God will think upon us, that we perish not.
+			</v>
+			<marker class="begin-verse" mid="v32001007"/>
+			<v n="7">
+				And they 
+				<crossref let="h" cid="c320017.1"/>
+				 said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.
+			</v>
+			<marker class="begin-verse" mid="v32001008"/>
+			<v n="8">
+				Then said 
+				<crossref let="i" cid="c320018.1"/>
+				 they unto him, Tell us, we pray thee, for whose cause this evil is upon us; what is thine occupation? and whence comest thou? what is thy country? and of what people art thou?
+			</v>
+			<marker class="begin-verse" mid="v32001009"/>
+			<v n="9">
+				And he 
+				<crossref let="j" cid="c320019.1"/>
+				 said unto them, I am a Hebrew; and I fear Jehovah, the God of heaven, who hath made the sea and the dry land.
+			</v>
+			<marker class="begin-verse" mid="v32001010"/>
+			<v n="10">
+				Then were 
+				<crossref let="k" cid="c3200110.1"/>
+				 the men exceedingly afraid, and said unto him, What is this that thou hast done? For the men knew that he was fleeing from the presence of Jehovah, because he had told them.
+			</v>
+			<marker class="begin-verse" mid="v32001011"/>
+			<v n="11">
+				Then said 
+				<crossref let="l" cid="c3200111.1"/>
+				 they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea grew more and more tempestuous.
+			</v>
+			<marker class="begin-verse" mid="v32001012"/>
+			<v n="12">
+				And he 
+				<crossref let="m" cid="c3200112.1"/>
+				 said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.
+			</v>
+			<marker class="begin-verse" mid="v32001013"/>
+			<v n="13">
+				Nevertheless the 
+				<crossref let="n" cid="c3200113.1"/>
+				 men rowed hard to get them back to the land; but they could not: for the sea grew more and more tempestuous against them.
+			</v>
+			<marker class="begin-verse" mid="v32001014"/>
+			<v n="14">
+				Wherefore they 
+				<crossref let="o" cid="c3200114.1"/>
+				 cried unto Jehovah, and said, We beseech thee, O Jehovah, we beseech thee, let us not perish for this man’s life, and lay not upon us innocent blood; for thou, O Jehovah, hast done as it pleased thee.
+			</v>
+			<marker class="begin-verse" mid="v32001015"/>
+			<v n="15">
+				So they 
+				<crossref let="p" cid="c3200115.1"/>
+				 took up Jonah, and cast him forth into the sea; and the sea ceased from its raging.
+			</v>
+			<marker class="begin-verse" mid="v32001016"/>
+			<v n="16">
+				Then the 
+				<crossref let="q" cid="c3200116.1"/>
+				 men feared Jehovah exceedingly; and they offered a sacrifice unto Jehovah, and made vows.
+			</v>
+			<marker class="begin-verse" mid="v32001017"/>
+			<v n="17">
+				And Jehovah 
+				<crossref let="r" cid="c3200117.1"/>
+				 prepared a great fish to swallow up Jonah; and Jonah was in the belly of the fish three days and three nights.
+			</v>
+			<marker class="begin-verse" mid="v32001018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

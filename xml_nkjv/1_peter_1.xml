@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:12:06.731273</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:12:06.731281</next_refresh_due>
+	</generation_info>
+	<book title="1 Peter" num="60" testament="new" version="NKJV" bookAbbr="1pe">
+		<marker class="begin-verse" mid="v60001001"/>
+		<chapter num="1">
+			<heading>Greeting to the Elect Pilgrims</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Peter, an 
+				<crossref let="b" cid="c600011.1"/>
+				 apostle of Jesus Christ,To the pilgrims of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,
+			</v>
+			<marker class="begin-verse" mid="v60001002"/>
+			<v n="2">
+				elect according 
+				<crossref let="c" cid="c600012.1"/>
+				 to the foreknowledge of God the Father, in sanctification of the Spirit, for obedience and sprinkling of the blood of Jesus Christ:Grace to you and peace be multiplied.A Heavenly Inheritance
+			</v>
+			<marker class="begin-verse" mid="v60001003"/>
+			<v n="3">
+				Blessed be 
+				<crossref let="d" cid="c600013.1"/>
+				 the God and Father of our Lord Jesus Christ, who according to His abundant mercy has begotten us again to a living hope through the resurrection of Jesus Christ from the dead,
+			</v>
+			<marker class="begin-verse" mid="v60001004"/>
+			<v n="4">
+				to an 
+				<crossref let="e" cid="c600014.1"/>
+				 inheritance incorruptible and undefiled and that does not fade away, reserved in heaven for you,
+			</v>
+			<marker class="begin-verse" mid="v60001005"/>
+			<v n="5">
+				who are 
+				<crossref let="f" cid="c600015.1"/>
+				 kept by the power of God through faith for salvation ready to be revealed in the last time.
+			</v>
+			<marker class="begin-verse" mid="v60001006"/>
+			<v n="6">
+				In this 
+				<crossref let="g" cid="c600016.1"/>
+				 you greatly rejoice, though now for a little while, if need be, you have been grieved by various trials,
+			</v>
+			<marker class="begin-verse" mid="v60001007"/>
+			<v n="7">
+				that the 
+				<crossref let="h" cid="c600017.1"/>
+				 genuineness of your faith, being much more precious than gold that perishes, though it is tested by fire, may be found to praise, honor, and glory at the revelation of Jesus Christ,
+			</v>
+			<marker class="begin-verse" mid="v60001008"/>
+			<v n="8">
+				whom having 
+				<crossref let="i" cid="c600018.1"/>
+				 not seen you love. Though now you do not see Him, yet believing, you rejoice with joy inexpressible and full of glory,
+			</v>
+			<marker class="begin-verse" mid="v60001009"/>
+			<v n="9">
+				receiving the 
+				<crossref let="j" cid="c600019.1"/>
+				 end of your faith—the salvation of your souls.
+			</v>
+			<marker class="begin-verse" mid="v60001010"/>
+			<v n="10">
+				Of this 
+				<crossref let="k" cid="c6000110.1"/>
+				 salvation the prophets have inquired and searched carefully, who prophesied of the grace that would come to you,
+			</v>
+			<marker class="begin-verse" mid="v60001011"/>
+			<v n="11">
+				searching what, 
+				<crossref let="l" cid="c6000111.1"/>
+				 or what manner of time, the Spirit of Christ who was in them was indicating when He testified beforehand the sufferings of Christ and the glories that would follow.
+			</v>
+			<marker class="begin-verse" mid="v60001012"/>
+			<v n="12">
+				To them 
+				<crossref let="m" cid="c6000112.1"/>
+				 it was revealed that, not to themselves, but to us they were ministering the things which now have been reported to you through those who have preached the gospel to you by the Holy Spirit sent from heaven—things which angels desire to look into.Living Before God Our Father
+			</v>
+			<marker class="begin-verse" mid="v60001013"/>
+			<v n="13">
+				Therefore gird 
+				<crossref let="n" cid="c6000113.1"/>
+				 up the loins of your mind, be sober, and rest your hope fully upon the grace that is to be brought to you at the revelation of Jesus Christ;
+			</v>
+			<marker class="begin-verse" mid="v60001014"/>
+			<v n="14">
+				as obedient 
+				<crossref let="o" cid="c6000114.1"/>
+				 children, not conforming yourselves to the former lusts, as in your ignorance;
+			</v>
+			<marker class="begin-verse" mid="v60001015"/>
+			<v n="15">
+				but as 
+				<crossref let="p" cid="c6000115.1"/>
+				 He who called you is holy, you also be holy in all your conduct,
+			</v>
+			<marker class="begin-verse" mid="v60001016"/>
+			<v n="16">
+				because it 
+				<crossref let="q" cid="c6000116.1"/>
+				 is written, “Be holy, for I am holy.”
+			</v>
+			<marker class="begin-verse" mid="v60001017"/>
+			<v n="17">
+				And if 
+				<crossref let="r" cid="c6000117.1"/>
+				 you call on the Father, who without partiality judges according to each one’s work, conduct yourselves throughout the time of your stay here in fear;
+			</v>
+			<marker class="begin-verse" mid="v60001018"/>
+			<v n="18">
+				knowing that 
+				<crossref let="s" cid="c6000118.1"/>
+				 you were not redeemed with corruptible things, like silver or gold, from your aimless conduct received by tradition from your fathers,
+			</v>
+			<marker class="begin-verse" mid="v60001019"/>
+			<v n="19">
+				but with 
+				<crossref let="t" cid="c6000119.1"/>
+				 the precious blood of Christ, as of a lamb without blemish and without spot.
+			</v>
+			<marker class="begin-verse" mid="v60001020"/>
+			<v n="20">
+				He indeed 
+				<crossref let="u" cid="c6000120.1"/>
+				 was foreordained before the foundation of the world, but was manifest in these last times for you
+			</v>
+			<marker class="begin-verse" mid="v60001021"/>
+			<v n="21">
+				who through 
+				<crossref let="v" cid="c6000121.1"/>
+				 Him believe in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.The Enduring Word
+			</v>
+			<marker class="begin-verse" mid="v60001022"/>
+			<v n="22">
+				Since you 
+				<crossref let="w" cid="c6000122.1"/>
+				 have purified your souls in obeying the truth through the Spirit in sincere love of the brethren, love one another fervently with a pure heart,
+			</v>
+			<marker class="begin-verse" mid="v60001023"/>
+			<v n="23">
+				having been 
+				<crossref let="x" cid="c6000123.1"/>
+				 born again, not of corruptible seed but incorruptible, through the word of God which lives and abides forever,
+			</v>
+			<marker class="begin-verse" mid="v60001024"/>
+			<v n="24">
+				because“All flesh 
+				<crossref let="y" cid="c6000124.1"/>
+				 is as grass,And all the glory of man as the flower of the grass.The grass withers,And its flower falls away,
+			</v>
+			<marker class="begin-verse" mid="v60001025"/>
+			<v n="25">
+				But the 
+				<crossref let="z" cid="c6000125.1"/>
+				 word of the Lord endures forever.”Now this is the word which by the gospel was preached to you.
+			</v>
+			<marker class="begin-verse" mid="v60001026"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

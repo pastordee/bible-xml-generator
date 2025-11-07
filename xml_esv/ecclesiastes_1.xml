@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:27.368076</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:27.368110</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" bookAbbr="ecc" version="ESV">
+		<marker class="begin-verse" mid="v21001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Ecclesiastes 1
+			</heading>
+			<heading>
+				All Is Vanity
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The words 
+				<crossref let="b" cid="c21001001.1">
+				</crossref>
+				of the, 
+				<crossref let="c" cid="c21001001.2">
+				</crossref>
+				Preacher,(1) the son of David, king in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v21001002">
+			</marker>
+			<v n="2">
+				Vanity(2) of 
+				<crossref let="d" cid="c21001002.3">
+				</crossref>
+				vanities, says, 
+				<crossref let="e" cid="c21001002.4">
+				</crossref>
+				the Preacher, vanity of vanities! All is vanity.
+			</v>
+			<marker class="begin-verse" mid="v21001003">
+			</marker>
+			<v n="3">
+				What does 
+				<crossref let="f" cid="c21001003.5">
+				</crossref>
+				man gain, 
+				<crossref let="g" cid="c21001003.6">
+				</crossref>
+				by all the toil at which he toils under the sun?
+				<note nid="n21001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v21001004">
+			</marker>
+			<v n="4">
+				A generation 
+				<crossref let="h" cid="c21001004.7">
+				</crossref>
+				goes, and, 
+				<crossref let="i" cid="c21001004.8">
+				</crossref>
+				a generation comes, but the earth remains forever.
+			</v>
+			<marker class="begin-verse" mid="v21001005">
+			</marker>
+			<v n="5">
+				The sun 
+				<crossref let="j" cid="c21001005.9">
+				</crossref>
+				rises, and, 
+				<crossref let="k" cid="c21001005.10">
+				</crossref>
+				the sun goes down, and hastens(3) to the place where it rises.
+			</v>
+			<marker class="begin-verse" mid="v21001006">
+			</marker>
+			<v n="6">
+				The wind 
+				<crossref let="l" cid="c21001006.11">
+				</crossref>
+				blows to, 
+				<crossref let="m" cid="c21001006.12">
+				</crossref>
+				the south and goes around to the north; around and around goes the wind, and on its circuits the wind returns.
+				<note nid="n21001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v21001007">
+			</marker>
+			<v n="7">
+				All streams 
+				<crossref let="n" cid="c21001007.13">
+				</crossref>
+				run to, 
+				<crossref let="o" cid="c21001007.14">
+				</crossref>
+				the sea, but the sea is not full; to the place where the streams flow, there they flow again.
+			</v>
+			<marker class="begin-verse" mid="v21001008">
+			</marker>
+			<v n="8">
+				All things 
+				<crossref let="p" cid="c21001008.15">
+				</crossref>
+				are full, 
+				<crossref let="q" cid="c21001008.16">
+				</crossref>
+				of weariness; a man cannot utter it; the eye is not satisfied with seeing, nor the ear filled with hearing.
+			</v>
+			<marker class="begin-verse" mid="v21001009">
+			</marker>
+			<v n="9">
+				What has 
+				<crossref let="r" cid="c21001009.17">
+				</crossref>
+				been is, 
+				<crossref let="s" cid="c21001009.18">
+				</crossref>
+				what will be, and what has been done is what will be done, and there is nothing new under the sun.
+				<note nid="n21001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v21001010">
+			</marker>
+			<v n="10">
+				Is there 
+				<crossref let="t" cid="c21001010.19">
+				</crossref>
+				a thing, 
+				<crossref let="u" cid="c21001010.20">
+				</crossref>
+				of which it is said, “See, this is new”? It has been already in the ages before us.
+			</v>
+			<marker class="begin-verse" mid="v21001011">
+			</marker>
+			<v n="11">
+				There is 
+				<crossref let="v" cid="c21001011.21">
+				</crossref>
+				no remembrance, 
+				<crossref let="w" cid="c21001011.22">
+				</crossref>
+				of former things,(4) nor will there be any remembrance of later things(5) yet to be among those who come after. The Vanity of Wisdom
+			</v>
+			<marker class="begin-verse" mid="v21001012">
+			</marker>
+			<v n="12">
+				I the 
+				<crossref let="x" cid="c21001012.23">
+				</crossref>
+				Preacher have, 
+				<crossref let="y" cid="c21001012.24">
+				</crossref>
+				been king over Israel in Jerusalem.
+				<note nid="n21001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v21001013">
+			</marker>
+			<v n="13">
+				And I 
+				<crossref let="z" cid="c21001013.25">
+				</crossref>
+				applied my, 
+				<crossref let="a" cid="c21001013.26">
+				</crossref>
+				heart(6) to seek and to search out by wisdom all that is done under heaven. It is an unhappy business that God has given to the children of man to be busy with.
+			</v>
+			<marker class="begin-verse" mid="v21001014">
+			</marker>
+			<v n="14">
+				I have 
+				<crossref let="b" cid="c21001014.27">
+				</crossref>
+				seen everything, 
+				<crossref let="c" cid="c21001014.28">
+				</crossref>
+				that is done under the sun, and behold, all is vanity(7) and a striving after wind.(8)
+			</v>
+			<marker class="begin-verse" mid="v21001015">
+			</marker>
+			<v n="15">
+				What is 
+				<crossref let="d" cid="c21001015.29">
+				</crossref>
+				crooked cannot, 
+				<crossref let="e" cid="c21001015.30">
+				</crossref>
+				be made straight, and what is lacking cannot be counted.
+				<note nid="n21001015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v21001016">
+			</marker>
+			<v n="16">
+				I said 
+				<crossref let="f" cid="c21001016.31">
+				</crossref>
+				in my, 
+				<crossref let="g" cid="c21001016.32">
+				</crossref>
+				heart, “I have acquired great wisdom, surpassing all who were over Jerusalem before me, and my heart has had great experience of wisdom and knowledge.”
+			</v>
+			<marker class="begin-verse" mid="v21001017">
+			</marker>
+			<v n="17">
+				And I 
+				<crossref let="h" cid="c21001017.33">
+				</crossref>
+				applied my, 
+				<crossref let="i" cid="c21001017.34">
+				</crossref>
+				heart to know wisdom and to know madness and folly. I perceived that this also is but a striving after wind.
+			</v>
+			<marker class="begin-verse" mid="v21001018">
+			</marker>
+			<v n="18">
+				For in 
+				<crossref let="j" cid="c21001018.35">
+				</crossref>
+				much wisdom, 
+				<crossref let="k" cid="c21001018.36">
+				</crossref>
+				is much vexation, and he who increases knowledge increases sorrow. Footnotes (1) 1:1 Or *Convener*, or *Collector*; Hebrew *Qoheleth* (so throughout Ecclesiastes) (2) 1:2 The Hebrew term *hebel*, translated *vanity* or *vain*, refers concretely to a “mist,” “vapor,” or “mere breath,” and metaphorically to something that is fleeting or elusive (with different nuances depending on the context). It appears five times in this verse and in 29 other verses in Ecclesiastes (3) 1:5 Or *and returns panting* (4) 1:11 Or *former people* (5) 1:11 Or *later people* (6) 1:13 The Hebrew term denotes the center of one’s inner life, including mind, will, and emotions (7) 1:14 The Hebrew term *hebel* can refer to a “vapor” or “mere breath” (see note on 1:2) (8) 1:14 Or *a feeding on wind*; compare Hosea 12:1 (also in Ecclesiastes 1:17; 2:11, 17, 26; 4:4, 6, 16; 6:9) (ESV)
+				<note nid="n21001018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v21001019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

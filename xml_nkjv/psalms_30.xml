@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:14:46.348551</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:14:46.348564</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19030001"/>
+		<chapter num="30">
+			<heading>The Blessedness of Answered PrayerA Psalm. A Song at the dedication of the house of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I will 
+				<crossref let="b" cid="c190301.1"/>
+				 extol You, O Lord, for You have lifted me up,And have not let my foes rejoice over me.
+			</v>
+			<marker class="begin-verse" mid="v19030002"/>
+			<v n="2">
+				O Lord 
+				<crossref let="c" cid="c190302.1"/>
+				 my God, I cried out to You,And You healed me.
+			</v>
+			<marker class="begin-verse" mid="v19030003"/>
+			<v n="3">
+				O Lord, 
+				<crossref let="d" cid="c190303.1"/>
+				 You brought my soul up from the grave;You have kept me alive, that I should not go down to the pit.
+			</v>
+			<marker class="begin-verse" mid="v19030004"/>
+			<v n="4">
+				Sing praise 
+				<crossref let="e" cid="c190304.1"/>
+				 to the Lord, you saints of His,And give thanks at the remembrance of His holy name.
+			</v>
+			<marker class="begin-verse" mid="v19030005"/>
+			<v n="5">
+				For His 
+				<crossref let="f" cid="c190305.1"/>
+				 anger is but for a moment,His favor is for life;Weeping may endure for a night,But joy comes in the morning.
+			</v>
+			<marker class="begin-verse" mid="v19030006"/>
+			<v n="6">
+				Now in 
+				<crossref let="g" cid="c190306.1"/>
+				 my prosperity I said,“I shall never be moved.”
+			</v>
+			<marker class="begin-verse" mid="v19030007"/>
+			<v n="7">
+				Lord, by 
+				<crossref let="h" cid="c190307.1"/>
+				 Your favor You have made my mountain stand strong;You hid Your face, and I was troubled.
+			</v>
+			<marker class="begin-verse" mid="v19030008"/>
+			<v n="8">
+				I cried 
+				<crossref let="i" cid="c190308.1"/>
+				 out to You, O Lord;And to the Lord I made supplication:
+			</v>
+			<marker class="begin-verse" mid="v19030009"/>
+			<v n="9">
+				“What profit 
+				<crossref let="j" cid="c190309.1"/>
+				 is there in my blood,When I go down to the pit?Will the dust praise You?Will it declare Your truth?
+			</v>
+			<marker class="begin-verse" mid="v19030010"/>
+			<v n="10">
+				Hear, O 
+				<crossref let="k" cid="c1903010.1"/>
+				 Lord, and have mercy on me;Lord, be my helper!”
+			</v>
+			<marker class="begin-verse" mid="v19030011"/>
+			<v n="11">
+				You have 
+				<crossref let="l" cid="c1903011.1"/>
+				 turned for me my mourning into dancing;You have put off my sackcloth and clothed me with gladness,
+			</v>
+			<marker class="begin-verse" mid="v19030012"/>
+			<v n="12">
+				To the 
+				<crossref let="m" cid="c1903012.1"/>
+				 end that my glory may sing praise to You and not be silent.O Lord my God, I will give thanks to You forever.
+			</v>
+			<marker class="begin-verse" mid="v19030013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

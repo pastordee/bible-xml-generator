@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:38:25.977622</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:38:25.977631</next_refresh_due>
+	</generation_info>
+	<book title="1 Timothy" num="54" testament="new" version="WEB" bookAbbr="1ti">
+		<marker class="begin-verse" mid="v54001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				Paul, an 
+				<crossref let="b" cid="c540011.1"/>
+				 apostle of Jesus Christ according to the commandment of God our Savior and the Lord Jesus Christ our hope,
+			</v>
+			<marker class="begin-verse" mid="v54001002"/>
+			<v n="2">
+				to Timothy, 
+				<crossref let="c" cid="c540012.1"/>
+				 my true child in faith: Grace, mercy, and peace from God our Father and Christ Jesus our Lord.
+			</v>
+			<marker class="begin-verse" mid="v54001003"/>
+			<v n="3">
+				As I 
+				<crossref let="d" cid="c540013.1"/>
+				 urged you when I was going into Macedonia, stay at Ephesus that you might command certain men not to teach a different doctrine,
+			</v>
+			<marker class="begin-verse" mid="v54001004"/>
+			<v n="4">
+				and not 
+				<crossref let="e" cid="c540014.1"/>
+				 to pay attention to myths and endless genealogies, which cause disputes rather than God’s stewardship, which is in faith.
+			</v>
+			<marker class="begin-verse" mid="v54001005"/>
+			<v n="5">
+				But the 
+				<crossref let="f" cid="c540015.1"/>
+				 goal of this command is love from a pure heart, a good conscience, and sincere faith,
+			</v>
+			<marker class="begin-verse" mid="v54001006"/>
+			<v n="6">
+				from which 
+				<crossref let="g" cid="c540016.1"/>
+				 things some, having missed the mark, have turned away to vain talking,
+			</v>
+			<marker class="begin-verse" mid="v54001007"/>
+			<v n="7">
+				desiring to 
+				<crossref let="h" cid="c540017.1"/>
+				 be teachers of the law, though they understand neither what they say nor about what they strongly affirm.
+			</v>
+			<marker class="begin-verse" mid="v54001008"/>
+			<v n="8">
+				But we 
+				<crossref let="i" cid="c540018.1"/>
+				 know that the law is good if a person uses it lawfully,
+			</v>
+			<marker class="begin-verse" mid="v54001009"/>
+			<v n="9">
+				as knowing 
+				<crossref let="j" cid="c540019.1"/>
+				 this, that law is not made for a righteous person, but for the lawless and insubordinate, for the ungodly and sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,
+			</v>
+			<marker class="begin-verse" mid="v54001010"/>
+			<v n="10">
+				for the 
+				<crossref let="k" cid="c5400110.1"/>
+				 sexually immoral, for homosexuals, for slave-traders, for liars, for perjurers, and for any other thing contrary to the sound doctrine,
+			</v>
+			<marker class="begin-verse" mid="v54001011"/>
+			<v n="11">
+				according to 
+				<crossref let="l" cid="c5400111.1"/>
+				 the Good News of the glory of the blessed God, which was committed to my trust.
+			</v>
+			<marker class="begin-verse" mid="v54001012"/>
+			<v n="12">
+				I thank 
+				<crossref let="m" cid="c5400112.1"/>
+				 him who enabled me, Christ Jesus our Lord, because he counted me faithful, appointing me to service,
+			</v>
+			<marker class="begin-verse" mid="v54001013"/>
+			<v n="13">
+				although I 
+				<crossref let="n" cid="c5400113.1"/>
+				 used to be a blasphemer, a persecutor, and insolent. However, I obtained mercy because I did it ignorantly in unbelief.
+			</v>
+			<marker class="begin-verse" mid="v54001014"/>
+			<v n="14">
+				The grace 
+				<crossref let="o" cid="c5400114.1"/>
+				 of our Lord abounded exceedingly with faith and love which is in Christ Jesus.
+			</v>
+			<marker class="begin-verse" mid="v54001015"/>
+			<v n="15">
+				The saying 
+				<crossref let="p" cid="c5400115.1"/>
+				 is faithful and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief.
+			</v>
+			<marker class="begin-verse" mid="v54001016"/>
+			<v n="16">
+				However, for 
+				<crossref let="q" cid="c5400116.1"/>
+				 this cause I obtained mercy, that in me first, Jesus Christ might display all his patience for an example of those who were going to believe in him for eternal life.
+			</v>
+			<marker class="begin-verse" mid="v54001017"/>
+			<v n="17">
+				Now to 
+				<crossref let="r" cid="c5400117.1"/>
+				 the King eternal, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen.
+			</v>
+			<marker class="begin-verse" mid="v54001018"/>
+			<v n="18">
+				I commit 
+				<crossref let="s" cid="c5400118.1"/>
+				 this instruction to you, my child Timothy, according to the prophecies which were given to you before, that by them you may wage the good warfare,
+			</v>
+			<marker class="begin-verse" mid="v54001019"/>
+			<v n="19">
+				holding faith 
+				<crossref let="t" cid="c5400119.1"/>
+				 and a good conscience, which some having thrust away made a shipwreck concerning the faith,
+			</v>
+			<marker class="begin-verse" mid="v54001020"/>
+			<v n="20">
+				of whom 
+				<crossref let="u" cid="c5400120.1"/>
+				 are Hymenaeus and Alexander, whom I delivered to Satan that they might be taught not to blaspheme.
+			</v>
+			<marker class="begin-verse" mid="v54001021"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:51:37.283987</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:51:37.283996</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19084001"/>
+		<chapter num="84">
+			<heading>For the choir director: A psalm of the descendants of Korah, to be accompanied by a stringed instrument.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				How lovely 
+				<crossref let="b" cid="c190841.1"/>
+				 is your dwelling place,O Lord of Heaven’s Armies.
+			</v>
+			<marker class="begin-verse" mid="v19084002"/>
+			<v n="2">
+				I long, 
+				<crossref let="c" cid="c190842.1"/>
+				 yes, I faint with longingto enter the courts of the Lord.With my whole being, body and soul,I will shout joyfully to the living God.
+			</v>
+			<marker class="begin-verse" mid="v19084003"/>
+			<v n="3">
+				Even the 
+				<crossref let="d" cid="c190843.1"/>
+				 sparrow finds a home,and the swallow builds her nest and raises her youngat a place near your altar,O Lord of Heaven’s Armies, my King and my God!
+			</v>
+			<marker class="begin-verse" mid="v19084004"/>
+			<v n="4">
+				What joy 
+				<crossref let="e" cid="c190844.1"/>
+				 for those who can live in your house,always singing your praises. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19084005"/>
+			<v n="5">
+				What joy 
+				<crossref let="f" cid="c190845.1"/>
+				 for those whose strength comes from the Lord,who have set their minds on a pilgrimage to Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v19084006"/>
+			<v n="6">
+				When they 
+				<crossref let="g" cid="c190846.1"/>
+				 walk through the Valley of Weeping,it will become a place of refreshing springs.The autumn rains will clothe it with blessings.
+			</v>
+			<marker class="begin-verse" mid="v19084007"/>
+			<v n="7">
+				They will 
+				<crossref let="h" cid="c190847.1"/>
+				 continue to grow stronger,and each of them will appear before God in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v19084008"/>
+			<v n="8">
+				O Lord 
+				<crossref let="i" cid="c190848.1"/>
+				 God of Heaven’s Armies, hear my prayer.Listen, O God of Jacob. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19084009"/>
+			<v n="9">
+				O God, 
+				<crossref let="j" cid="c190849.1"/>
+				 look with favor upon the king, our shield!Show favor to the one you have anointed.
+			</v>
+			<marker class="begin-verse" mid="v19084010"/>
+			<v n="10">
+				A single 
+				<crossref let="k" cid="c1908410.1"/>
+				 day in your courtsis better than a thousand anywhere else!I would rather be a gatekeeper in the house of my Godthan live the good life in the homes of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19084011"/>
+			<v n="11">
+				For the 
+				<crossref let="l" cid="c1908411.1"/>
+				 Lord God is our sun and our shield.He gives us grace and glory.The Lord will withhold no good thingfrom those who do what is right.
+			</v>
+			<marker class="begin-verse" mid="v19084012"/>
+			<v n="12">
+				O Lord 
+				<crossref let="m" cid="c1908412.1"/>
+				 of Heaven’s Armies,what joy for those who trust in you.
+			</v>
+			<marker class="begin-verse" mid="v19084013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

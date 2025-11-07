@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:46:41.938814</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:46:41.938838</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19057001"/>
+		<chapter num="57">
+			<heading>For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David, when he fled from Saul, in the cave.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Be merciful 
+				<crossref let="b" cid="c190571.1"/>
+				 to me, God, be merciful to me,for my soul takes refuge in you.Yes, in the shadow of your wings, I will take refuge,until disaster has passed.
+			</v>
+			<marker class="begin-verse" mid="v19057002"/>
+			<v n="2">
+				I cry 
+				<crossref let="c" cid="c190572.1"/>
+				 out to God Most High,to God who accomplishes my requests for me.
+			</v>
+			<marker class="begin-verse" mid="v19057003"/>
+			<v n="3">
+				He will 
+				<crossref let="d" cid="c190573.1"/>
+				 send from heaven, and save me,he rebukes the one who is pursuing me. Selah.God will send out his loving kindness and his truth.
+			</v>
+			<marker class="begin-verse" mid="v19057004"/>
+			<v n="4">
+				My soul 
+				<crossref let="e" cid="c190574.1"/>
+				 is among lions.I lie among those who are set on fire,even the sons of men, whose teeth are spears and arrows,and their tongue a sharp sword.
+			</v>
+			<marker class="begin-verse" mid="v19057005"/>
+			<v n="5">
+				Be exalted, 
+				<crossref let="f" cid="c190575.1"/>
+				 God, above the heavens!Let your glory be above all the earth!
+			</v>
+			<marker class="begin-verse" mid="v19057006"/>
+			<v n="6">
+				They have 
+				<crossref let="g" cid="c190576.1"/>
+				 prepared a net for my steps.My soul is bowed down.They dig a pit before me.They fall into the middle of it themselves. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19057007"/>
+			<v n="7">
+				My heart 
+				<crossref let="h" cid="c190577.1"/>
+				 is steadfast, God.My heart is steadfast.I will sing, yes, I will sing praises.
+			</v>
+			<marker class="begin-verse" mid="v19057008"/>
+			<v n="8">
+				Wake up, 
+				<crossref let="i" cid="c190578.1"/>
+				 my glory! Wake up, lute and harp!I will wake up the dawn.
+			</v>
+			<marker class="begin-verse" mid="v19057009"/>
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c190579.1"/>
+				 give thanks to you, Lord, among the peoples.I will sing praises to you among the nations.
+			</v>
+			<marker class="begin-verse" mid="v19057010"/>
+			<v n="10">
+				For your 
+				<crossref let="k" cid="c1905710.1"/>
+				 great loving kindness reaches to the heavens,and your truth to the skies.
+			</v>
+			<marker class="begin-verse" mid="v19057011"/>
+			<v n="11">
+				Be exalted, 
+				<crossref let="l" cid="c1905711.1"/>
+				 God, above the heavens.Let your glory be over all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19057012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

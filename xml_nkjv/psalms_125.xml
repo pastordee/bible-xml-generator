@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:23:15.922433</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:23:15.922442</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19125001"/>
+		<chapter num="125">
+			<heading>The Lord the Strength of His PeopleA Song of Ascents.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Those who 
+				<crossref let="b" cid="c191251.1"/>
+				 trust in the LordAre like Mount Zion,Which cannot be moved, but abides forever.
+			</v>
+			<marker class="begin-verse" mid="v19125002"/>
+			<v n="2">
+				As the 
+				<crossref let="c" cid="c191252.1"/>
+				 mountains surround Jerusalem,So the Lord surrounds His peopleFrom this time forth and forever.
+			</v>
+			<marker class="begin-verse" mid="v19125003"/>
+			<v n="3">
+				For the 
+				<crossref let="d" cid="c191253.1"/>
+				 scepter of wickedness shall not restOn the land allotted to the righteous,Lest the righteous reach out their hands to iniquity.
+			</v>
+			<marker class="begin-verse" mid="v19125004"/>
+			<v n="4">
+				Do good, 
+				<crossref let="e" cid="c191254.1"/>
+				 O Lord, to those who are good,And to those who are upright in their hearts.
+			</v>
+			<marker class="begin-verse" mid="v19125005"/>
+			<v n="5">
+				As for 
+				<crossref let="f" cid="c191255.1"/>
+				 such as turn aside to their crooked ways,The Lord shall lead them awayWith the workers of iniquity.Peace be upon Israel!
+			</v>
+			<marker class="begin-verse" mid="v19125006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

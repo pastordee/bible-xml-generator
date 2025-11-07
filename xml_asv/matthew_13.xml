@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:07:51.459500</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:07:51.459532</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="ASV" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40013001"/>
+		<chapter num="13">
+			<begin-paragraph/>
+			<v n="1">
+				On that 
+				<crossref let="b" cid="c400131.1"/>
+				 day went Jesus out of the house, and sat by the sea side.
+			</v>
+			<marker class="begin-verse" mid="v40013002"/>
+			<v n="2">
+				And there 
+				<crossref let="c" cid="c400132.1"/>
+				 were gathered unto him great multitudes, so that he entered into a boat, and sat; and all the multitude stood on the beach.
+			</v>
+			<marker class="begin-verse" mid="v40013003"/>
+			<v n="3">
+				And he 
+				<crossref let="d" cid="c400133.1"/>
+				 spake to them many things in parables, saying, Behold, the sower went forth to sow;
+			</v>
+			<marker class="begin-verse" mid="v40013004"/>
+			<v n="4">
+				and as 
+				<crossref let="e" cid="c400134.1"/>
+				 he sowed, some seeds fell by the way side, and the birds came and devoured them:
+			</v>
+			<marker class="begin-verse" mid="v40013005"/>
+			<v n="5">
+				and others 
+				<crossref let="f" cid="c400135.1"/>
+				 fell upon the rocky places, where they had not much earth: and straightway they sprang up, because they had no deepness of earth:
+			</v>
+			<marker class="begin-verse" mid="v40013006"/>
+			<v n="6">
+				and when 
+				<crossref let="g" cid="c400136.1"/>
+				 the sun was risen, they were scorched; and because they had no root, they withered away.
+			</v>
+			<marker class="begin-verse" mid="v40013007"/>
+			<v n="7">
+				And others 
+				<crossref let="h" cid="c400137.1"/>
+				 fell upon the thorns; and the thorns grew up and choked them:
+			</v>
+			<marker class="begin-verse" mid="v40013008"/>
+			<v n="8">
+				and others 
+				<crossref let="i" cid="c400138.1"/>
+				 fell upon the good ground, and yielded fruit, some a hundredfold, some sixty, some thirty.
+			</v>
+			<marker class="begin-verse" mid="v40013009"/>
+			<v n="9">
+				He that 
+				<crossref let="j" cid="c400139.1"/>
+				 hath ears, let him hear.
+			</v>
+			<marker class="begin-verse" mid="v40013010"/>
+			<v n="10">
+				And the 
+				<crossref let="k" cid="c4001310.1"/>
+				 disciples came, and said unto him, Why speakest thou unto them in parables?
+			</v>
+			<marker class="begin-verse" mid="v40013011"/>
+			<v n="11">
+				And he 
+				<crossref let="l" cid="c4001311.1"/>
+				 answered and said unto them, Unto you it is given to know the mysteries of the kingdom of heaven, but to them it is not given.
+			</v>
+			<marker class="begin-verse" mid="v40013012"/>
+			<v n="12">
+				For whosoever 
+				<crossref let="m" cid="c4001312.1"/>
+				 hath, to him shall be given, and he shall have abundance: but whosoever hath not, from him shall be taken away even that which he hath.
+			</v>
+			<marker class="begin-verse" mid="v40013013"/>
+			<v n="13">
+				Therefore speak 
+				<crossref let="n" cid="c4001313.1"/>
+				 I to them in parables; because seeing they see not, and hearing they hear not, neither do they understand.
+			</v>
+			<marker class="begin-verse" mid="v40013014"/>
+			<v n="14">
+				And unto 
+				<crossref let="o" cid="c4001314.1"/>
+				 them is fulfilled the prophecy of Isaiah, which saith,By hearing ye shall hear, and shall in no wise understand;And seeing ye shall see, and shall in no wise perceive:
+			</v>
+			<marker class="begin-verse" mid="v40013015"/>
+			<v n="15">
+				For this 
+				<crossref let="p" cid="c4001315.1"/>
+				 people’s heart is waxed gross,And their ears are dull of hearing,And their eyes they have closed;Lest haply they should perceive with their eyes,And hear with their ears,And understand with their heart,And should turn again,And I should heal them.
+			</v>
+			<marker class="begin-verse" mid="v40013016"/>
+			<v n="16">
+				But blessed 
+				<crossref let="q" cid="c4001316.1"/>
+				 are your eyes, for they see; and your ears, for they hear.
+			</v>
+			<marker class="begin-verse" mid="v40013017"/>
+			<v n="17">
+				For verily 
+				<crossref let="r" cid="c4001317.1"/>
+				 I say unto you, that many prophets and righteous men desired to see the things which ye see, and saw them not; and to hear the things which ye hear, and heard them not.
+			</v>
+			<marker class="begin-verse" mid="v40013018"/>
+			<v n="18">
+				Hear then 
+				<crossref let="s" cid="c4001318.1"/>
+				 ye the parable of the sower.
+			</v>
+			<marker class="begin-verse" mid="v40013019"/>
+			<v n="19">
+				When any 
+				<crossref let="t" cid="c4001319.1"/>
+				 one heareth the word of the kingdom, and understandeth it not, then cometh the evil one, and snatcheth away that which hath been sown in his heart. This is he that was sown by the way side.
+			</v>
+			<marker class="begin-verse" mid="v40013020"/>
+			<v n="20">
+				And he 
+				<crossref let="u" cid="c4001320.1"/>
+				 that was sown upon the rocky places, this is he that heareth the word, and straightway with joy receiveth it;
+			</v>
+			<marker class="begin-verse" mid="v40013021"/>
+			<v n="21">
+				yet hath 
+				<crossref let="v" cid="c4001321.1"/>
+				 he not root in himself, but endureth for a while; and when tribulation or persecution ariseth because of the word, straightway he stumbleth.
+			</v>
+			<marker class="begin-verse" mid="v40013022"/>
+			<v n="22">
+				And he 
+				<crossref let="w" cid="c4001322.1"/>
+				 that was sown among the thorns, this is he that heareth the word; and the care of the world, and the deceitfulness of riches, choke the word, and he becometh unfruitful.
+			</v>
+			<marker class="begin-verse" mid="v40013023"/>
+			<v n="23">
+				And he 
+				<crossref let="x" cid="c4001323.1"/>
+				 that was sown upon the good ground, this is he that heareth the word, and understandeth it; who verily beareth fruit, and bringeth forth, some a hundredfold, some sixty, some thirty.
+			</v>
+			<marker class="begin-verse" mid="v40013024"/>
+			<v n="24">
+				Another parable 
+				<crossref let="y" cid="c4001324.1"/>
+				 set he before them, saying, The kingdom of heaven is likened unto a man that sowed good seed in his field:
+			</v>
+			<marker class="begin-verse" mid="v40013025"/>
+			<v n="25">
+				but while 
+				<crossref let="z" cid="c4001325.1"/>
+				 men slept, his enemy came and sowed tares also among the wheat, and went away.
+			</v>
+			<marker class="begin-verse" mid="v40013026"/>
+			<v n="26">
+				But when 
+				<crossref let="a" cid="c4001326.1"/>
+				 the blade sprang up and brought forth fruit, then appeared the tares also.
+			</v>
+			<marker class="begin-verse" mid="v40013027"/>
+			<v n="27">
+				And the 
+				<crossref let="b" cid="c4001327.1"/>
+				 servants of the householder came and said unto him, Sir, didst thou not sow good seed in thy field? whence then hath it tares?
+			</v>
+			<marker class="begin-verse" mid="v40013028"/>
+			<v n="28">
+				And he 
+				<crossref let="c" cid="c4001328.1"/>
+				 said unto them, An enemy hath done this. And the servants say unto him, Wilt thou then that we go and gather them up?
+			</v>
+			<marker class="begin-verse" mid="v40013029"/>
+			<v n="29">
+				But he 
+				<crossref let="d" cid="c4001329.1"/>
+				 saith, Nay; lest haply while ye gather up the tares, ye root up the wheat with them.
+			</v>
+			<marker class="begin-verse" mid="v40013030"/>
+			<v n="30">
+				Let both 
+				<crossref let="e" cid="c4001330.1"/>
+				 grow together until the harvest: and in the time of the harvest I will say to the reapers, Gather up first the tares, and bind them in bundles to burn them; but gather the wheat into my barn.
+			</v>
+			<marker class="begin-verse" mid="v40013031"/>
+			<v n="31">
+				Another parable 
+				<crossref let="f" cid="c4001331.1"/>
+				 set he before them, saying, The kingdom of heaven is like unto a grain of mustard seed, which a man took, and sowed in his field:
+			</v>
+			<marker class="begin-verse" mid="v40013032"/>
+			<v n="32">
+				which indeed 
+				<crossref let="g" cid="c4001332.1"/>
+				 is less than all seeds; but when it is grown, it is greater than the herbs, and becometh a tree, so that the birds of the heaven come and lodge in the branches thereof.
+			</v>
+			<marker class="begin-verse" mid="v40013033"/>
+			<v n="33">
+				Another parable 
+				<crossref let="h" cid="c4001333.1"/>
+				 spake he unto them; The kingdom of heaven is like unto leaven, which a woman took, and hid in three measures of meal, till it was all leavened.
+			</v>
+			<marker class="begin-verse" mid="v40013034"/>
+			<v n="34">
+				All these 
+				<crossref let="i" cid="c4001334.1"/>
+				 things spake Jesus in parables unto the multitudes; and without a parable spake he nothing unto them:
+			</v>
+			<marker class="begin-verse" mid="v40013035"/>
+			<v n="35">
+				that it 
+				<crossref let="j" cid="c4001335.1"/>
+				 might be fulfilled which was spoken through the prophet, saying,I will open my mouth in parables;I will utter things hidden from the foundation of the world.
+			</v>
+			<marker class="begin-verse" mid="v40013036"/>
+			<v n="36">
+				Then he 
+				<crossref let="k" cid="c4001336.1"/>
+				 left the multitudes, and went into the house: and his disciples came unto him, saying, Explain unto us the parable of the tares of the field.
+			</v>
+			<marker class="begin-verse" mid="v40013037"/>
+			<v n="37">
+				And he 
+				<crossref let="l" cid="c4001337.1"/>
+				 answered and said, He that soweth the good seed is the Son of man;
+			</v>
+			<marker class="begin-verse" mid="v40013038"/>
+			<v n="38">
+				and the 
+				<crossref let="m" cid="c4001338.1"/>
+				 field is the world; and the good seed, these are the sons of the kingdom; and the tares are the sons of the evil one;
+			</v>
+			<marker class="begin-verse" mid="v40013039"/>
+			<v n="39">
+				and the 
+				<crossref let="n" cid="c4001339.1"/>
+				 enemy that sowed them is the devil: and the harvest is the end of the world; and the reapers are angels.
+			</v>
+			<marker class="begin-verse" mid="v40013040"/>
+			<v n="40">
+				As therefore 
+				<crossref let="o" cid="c4001340.1"/>
+				 the tares are gathered up and burned with fire; so shall it be in the end of the world.
+			</v>
+			<marker class="begin-verse" mid="v40013041"/>
+			<v n="41">
+				The Son 
+				<crossref let="p" cid="c4001341.1"/>
+				 of man shall send forth his angels, and they shall gather out of his kingdom all things that cause stumbling, and them that do iniquity,
+			</v>
+			<marker class="begin-verse" mid="v40013042"/>
+			<v n="42">
+				and shall 
+				<crossref let="q" cid="c4001342.1"/>
+				 cast them into the furnace of fire: there shall be the weeping and the gnashing of teeth.
+			</v>
+			<marker class="begin-verse" mid="v40013043"/>
+			<v n="43">
+				Then shall 
+				<crossref let="r" cid="c4001343.1"/>
+				 the righteous shine forth as the sun in the kingdom of their Father. He that hath ears, let him hear.
+			</v>
+			<marker class="begin-verse" mid="v40013044"/>
+			<v n="44">
+				The kingdom 
+				<crossref let="s" cid="c4001344.1"/>
+				 of heaven is like unto a treasure hidden in the field; which a man found, and hid; and in his joy he goeth and selleth all that he hath, and buyeth that field.
+			</v>
+			<marker class="begin-verse" mid="v40013045"/>
+			<v n="45">
+				Again, the 
+				<crossref let="t" cid="c4001345.1"/>
+				 kingdom of heaven is like unto a man that is a merchant seeking goodly pearls:
+			</v>
+			<marker class="begin-verse" mid="v40013046"/>
+			<v n="46">
+				and having 
+				<crossref let="u" cid="c4001346.1"/>
+				 found one pearl of great price, he went and sold all that he had, and bought it.
+			</v>
+			<marker class="begin-verse" mid="v40013047"/>
+			<v n="47">
+				Again, the 
+				<crossref let="v" cid="c4001347.1"/>
+				 kingdom of heaven is like unto a net, that was cast into the sea, and gathered of every kind:
+			</v>
+			<marker class="begin-verse" mid="v40013048"/>
+			<v n="48">
+				which, when 
+				<crossref let="w" cid="c4001348.1"/>
+				 it was filled, they drew up on the beach; and they sat down, and gathered the good into vessels, but the bad they cast away.
+			</v>
+			<marker class="begin-verse" mid="v40013049"/>
+			<v n="49">
+				So shall 
+				<crossref let="x" cid="c4001349.1"/>
+				 it be in the end of the world: the angels shall come forth, and sever the wicked from among the righteous,
+			</v>
+			<marker class="begin-verse" mid="v40013050"/>
+			<v n="50">
+				and shall 
+				<crossref let="y" cid="c4001350.1"/>
+				 cast them into the furnace of fire: there shall be the weeping and the gnashing of teeth.
+			</v>
+			<marker class="begin-verse" mid="v40013051"/>
+			<v n="51">
+				Have ye 
+				<crossref let="z" cid="c4001351.1"/>
+				 understood all these things? They say unto him, Yea.
+			</v>
+			<marker class="begin-verse" mid="v40013052"/>
+			<v n="52">
+				And he 
+				<crossref let="a" cid="c4001352.1"/>
+				 said unto them, Therefore every scribe who hath been made a disciple to the kingdom of heaven is like unto a man that is a householder, who bringeth forth out of his treasure things new and old.
+			</v>
+			<marker class="begin-verse" mid="v40013053"/>
+			<v n="53">
+				And it 
+				<crossref let="b" cid="c4001353.1"/>
+				 came to pass, when Jesus had finished these parables, he departed thence.
+			</v>
+			<marker class="begin-verse" mid="v40013054"/>
+			<v n="54">
+				And coming 
+				<crossref let="c" cid="c4001354.1"/>
+				 into his own country he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?
+			</v>
+			<marker class="begin-verse" mid="v40013055"/>
+			<v n="55">
+				Is not 
+				<crossref let="d" cid="c4001355.1"/>
+				 this the carpenter’s son? is not his mother called Mary? and his brethren, James, and Joseph, and Simon, and Judas?
+			</v>
+			<marker class="begin-verse" mid="v40013056"/>
+			<v n="56">
+				And his 
+				<crossref let="e" cid="c4001356.1"/>
+				 sisters, are they not all with us? Whence then hath this man all these things?
+			</v>
+			<marker class="begin-verse" mid="v40013057"/>
+			<v n="57">
+				And they 
+				<crossref let="f" cid="c4001357.1"/>
+				 were offended in him. But Jesus said unto them, A prophet is not without honor, save in his own country, and in his own house.
+			</v>
+			<marker class="begin-verse" mid="v40013058"/>
+			<v n="58">
+				And he 
+				<crossref let="g" cid="c4001358.1"/>
+				 did not many mighty works there because of their unbelief.
+			</v>
+			<marker class="begin-verse" mid="v40013059"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

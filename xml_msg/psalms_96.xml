@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:17:15.081489</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:17:15.081506</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19096001"/>
+		<chapter num="96">
+			<begin-paragraph/>
+			<v n="1">
+				Sing to 
+				<crossref let="b" cid="c190961.1"/>
+				 the Lord a new song! All the earth, sing to the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19096002"/>
+			<v n="2">
+				Sing to 
+				<crossref let="c" cid="c190962.1"/>
+				 the Lord, and of his wonderful reputation! Each day let everyone know of his salvation!
+			</v>
+			<marker class="begin-verse" mid="v19096003"/>
+			<v n="3">
+				Declare his 
+				<crossref let="d" cid="c190963.1"/>
+				 glorious acts among the nations, the amazing things he does among all peoples.
+			</v>
+			<marker class="begin-verse" mid="v19096004"/>
+			<v n="4">
+				For the 
+				<crossref let="e" cid="c190964.1"/>
+				 Lord is great, and deserves the best praise! He is to be respected with awe above all gods.
+			</v>
+			<marker class="begin-verse" mid="v19096005"/>
+			<v n="5">
+				For all 
+				<crossref let="f" cid="c190965.1"/>
+				 the gods of other nations are idols; but the Lord made the heavens!
+			</v>
+			<marker class="begin-verse" mid="v19096006"/>
+			<v n="6">
+				Splendor and 
+				<crossref let="g" cid="c190966.1"/>
+				 majesty are his; power and glory are in his sanctuary.
+			</v>
+			<marker class="begin-verse" mid="v19096007"/>
+			<v n="7">
+				Give the 
+				<crossref let="h" cid="c190967.1"/>
+				 Lord acclamation, nations of the world, acclaim him with glory and strength.
+			</v>
+			<marker class="begin-verse" mid="v19096008"/>
+			<v n="8">
+				Give the 
+				<crossref let="i" cid="c190968.1"/>
+				 Lord the glory he deserves; bring an offering and come into his courts.
+			</v>
+			<marker class="begin-verse" mid="v19096009"/>
+			<v n="9">
+				Worship the 
+				<crossref let="j" cid="c190969.1"/>
+				 Lord in his magnificent holiness; let all the earth tremble in his presence.
+			</v>
+			<marker class="begin-verse" mid="v19096010"/>
+			<v n="10">
+				Tell the 
+				<crossref let="k" cid="c1909610.1"/>
+				 nations, “The Lord is in charge!” The world is held together firmly—it cannot be broken apart. He will judge everyone fairly.
+			</v>
+			<marker class="begin-verse" mid="v19096011"/>
+			<v n="11">
+				Let the 
+				<crossref let="l" cid="c1909611.1"/>
+				 heavens sing for joy, let the earth be happy, let the sea and everything in it shout with praise!
+			</v>
+			<marker class="begin-verse" mid="v19096012"/>
+			<v n="12">
+				Let the 
+				<crossref let="m" cid="c1909612.1"/>
+				 fields and everything there celebrate; let all the trees in the forest sing for joy.
+			</v>
+			<marker class="begin-verse" mid="v19096013"/>
+			<v n="13">
+				In fact, 
+				<crossref let="n" cid="c1909613.1"/>
+				 let everything that stands before the Lord sing praises, for he is coming, coming to judge the earth. He will judge the world with fairness, and the nations with his truth.
+			</v>
+			<marker class="begin-verse" mid="v19096014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

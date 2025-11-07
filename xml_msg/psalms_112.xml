@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:17:53.024043</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:17:53.024058</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19112001"/>
+		<chapter num="112">
+			<begin-paragraph/>
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c191121.1"/>
+				 Lord! Happy are those who respect the Lord, who love to do what he says!
+			</v>
+			<marker class="begin-verse" mid="v19112002"/>
+			<v n="2">
+				Their descendants 
+				<crossref let="c" cid="c191122.1"/>
+				 will prosper in the land; the children of those who do good will be blessed.
+			</v>
+			<marker class="begin-verse" mid="v19112003"/>
+			<v n="3">
+				Their families 
+				<crossref let="d" cid="c191123.1"/>
+				 will be wealthy; the good they do has eternal results.
+			</v>
+			<marker class="begin-verse" mid="v19112004"/>
+			<v n="4">
+				Light shines 
+				<crossref let="e" cid="c191124.1"/>
+				 in the darkness for those who live right, for those who are gracious, compassionate, and good.
+			</v>
+			<marker class="begin-verse" mid="v19112005"/>
+			<v n="5">
+				Good things 
+				<crossref let="f" cid="c191125.1"/>
+				 come to those who are generous in their lending and are honest in doing business.
+			</v>
+			<marker class="begin-verse" mid="v19112006"/>
+			<v n="6">
+				They will 
+				<crossref let="g" cid="c191126.1"/>
+				 never fall. Those who live right won't be forgotten.
+			</v>
+			<marker class="begin-verse" mid="v19112007"/>
+			<v n="7">
+				They aren't 
+				<crossref let="h" cid="c191127.1"/>
+				 afraid of bad news because they rely totally on the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19112008"/>
+			<v n="8">
+				They are 
+				<crossref let="i" cid="c191128.1"/>
+				 confident and brave, and see their enemies defeated.
+			</v>
+			<marker class="begin-verse" mid="v19112009"/>
+			<v n="9">
+				They share 
+				<crossref let="j" cid="c191129.1"/>
+				 generously, giving to the poor; the good they do has eternal results. They are greatly respected.
+			</v>
+			<marker class="begin-verse" mid="v19112010"/>
+			<v n="10">
+				The wicked 
+				<crossref let="k" cid="c1911210.1"/>
+				 observe all this and are mad; they gnash their teeth in anger. They waste away, and all that they hoped for comes to nothing.
+			</v>
+			<marker class="begin-verse" mid="v19112011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

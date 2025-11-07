@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:33.057893</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:33.057901</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40022001">
+		</marker>
+		<chapter num="22">
+			<heading>
+				Matthew 22
+			</heading>
+			<heading>
+				The Parable of the Wedding Feast
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				And again 
+				<crossref let="b" cid="c40022001.1">
+				</crossref>
+				Jesus spoke, 
+				<crossref let="c" cid="c40022001.2">
+				</crossref>
+				to them in parables, saying,
+			</v>
+			<marker class="begin-verse" mid="v40022002">
+			</marker>
+			<v n="2">
+				“The kingdom 
+				<crossref let="d" cid="c40022002.3">
+				</crossref>
+				of heaven, 
+				<crossref let="e" cid="c40022002.4">
+				</crossref>
+				may be compared to a king who gave a wedding feast for his son,
+			</v>
+			<marker class="begin-verse" mid="v40022003">
+			</marker>
+			<v n="3">
+				and sent 
+				<crossref let="f" cid="c40022003.5">
+				</crossref>
+				his servants(1), 
+				<crossref let="g" cid="c40022003.6">
+				</crossref>
+				to call those who were invited to the wedding feast, but they would not come.
+				<note nid="n40022003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022004">
+			</marker>
+			<v n="4">
+				Again he 
+				<crossref let="h" cid="c40022004.7">
+				</crossref>
+				sent other, 
+				<crossref let="i" cid="c40022004.8">
+				</crossref>
+				servants, saying, ‘Tell those who are invited, “See, I have prepared my dinner, my oxen and my fat calves have been slaughtered, and everything is ready. Come to the wedding feast.”’
+			</v>
+			<marker class="begin-verse" mid="v40022005">
+			</marker>
+			<v n="5">
+				But they 
+				<crossref let="j" cid="c40022005.9">
+				</crossref>
+				paid no, 
+				<crossref let="k" cid="c40022005.10">
+				</crossref>
+				attention and went off, one to his farm, another to his business,
+			</v>
+			<marker class="begin-verse" mid="v40022006">
+			</marker>
+			<v n="6">
+				while the 
+				<crossref let="l" cid="c40022006.11">
+				</crossref>
+				rest seized, 
+				<crossref let="m" cid="c40022006.12">
+				</crossref>
+				his servants, treated them shamefully, and killed them.
+				<note nid="n40022006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022007">
+			</marker>
+			<v n="7">
+				The king 
+				<crossref let="n" cid="c40022007.13">
+				</crossref>
+				was angry,, 
+				<crossref let="o" cid="c40022007.14">
+				</crossref>
+				and he sent his troops and destroyed those murderers and burned their city.
+			</v>
+			<marker class="begin-verse" mid="v40022008">
+			</marker>
+			<v n="8" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Then he 
+					<crossref let="p" cid="c40022008.15">
+				</crossref>
+					said to, 
+					<crossref let="q" cid="c40022008.16">
+				</crossref>
+				his servants, ‘The wedding feast is ready, but those invited were not worthy.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40022009">
+			</marker>
+			<v n="9">
+				Go therefore 
+				<crossref let="r" cid="c40022009.17">
+				</crossref>
+				to the, 
+				<crossref let="s" cid="c40022009.18">
+				</crossref>
+				main roads and invite to the wedding feast as many as you find.’
+				<note nid="n40022009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022010">
+			</marker>
+			<v n="10">
+				And those 
+				<crossref let="t" cid="c40022010.19">
+				</crossref>
+				servants went, 
+				<crossref let="u" cid="c40022010.20">
+				</crossref>
+				out into the roads and gathered all whom they found, both bad and good. So the wedding hall was filled with guests.
+			</v>
+			<marker class="begin-verse" mid="v40022011">
+			</marker>
+			<v n="11">
+				“But when 
+				<crossref let="v" cid="c40022011.21">
+				</crossref>
+				the king, 
+				<crossref let="w" cid="c40022011.22">
+				</crossref>
+				came in to look at the guests, he saw there a man who had no wedding garment.
+			</v>
+			<marker class="begin-verse" mid="v40022012">
+			</marker>
+			<v n="12" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="x" cid="c40022012.23">
+				</crossref>
+					said to, 
+					<crossref let="y" cid="c40022012.24">
+				</crossref>
+				him, ‘Friend, how did you get in here without a wedding garment?’ And he was speechless.
+					<note nid="n40022012.12">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40022013">
+			</marker>
+			<v n="13">
+				Then the 
+				<crossref let="z" cid="c40022013.25">
+				</crossref>
+				king said, 
+				<crossref let="a" cid="c40022013.26">
+				</crossref>
+				to the attendants, ‘Bind him hand and foot and cast him into the outer darkness. In that place there will be weeping and gnashing of teeth.’
+			</v>
+			<marker class="begin-verse" mid="v40022014">
+			</marker>
+			<v n="14">
+				For many 
+				<crossref let="b" cid="c40022014.27">
+				</crossref>
+				are called,, 
+				<crossref let="c" cid="c40022014.28">
+				</crossref>
+				but few are chosen.” Paying Taxes to Caesar
+			</v>
+			<marker class="begin-verse" mid="v40022015">
+			</marker>
+			<v n="15">
+				Then the 
+				<crossref let="d" cid="c40022015.29">
+				</crossref>
+				Pharisees went, 
+				<crossref let="e" cid="c40022015.30">
+				</crossref>
+				and plotted how to entangle him in his words.
+				<note nid="n40022015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022016">
+			</marker>
+			<v n="16">
+				And they 
+				<crossref let="f" cid="c40022016.31">
+				</crossref>
+				sent their, 
+				<crossref let="g" cid="c40022016.32">
+				</crossref>
+				disciples to him, along with the Herodians, saying, “Teacher, we know that you are true and teach the way of God truthfully, and you do not care about anyone’s opinion, for you are not swayed by appearances.(2)
+			</v>
+			<marker class="begin-verse" mid="v40022017">
+			</marker>
+			<v n="17">
+				Tell us, 
+				<crossref let="h" cid="c40022017.33">
+				</crossref>
+				then, what, 
+				<crossref let="i" cid="c40022017.34">
+				</crossref>
+				you think. Is it lawful to pay taxes to Caesar, or not?”
+			</v>
+			<marker class="begin-verse" mid="v40022018">
+			</marker>
+			<v n="18">
+				But Jesus, 
+				<crossref let="j" cid="c40022018.35">
+				</crossref>
+				aware of, 
+				<crossref let="k" cid="c40022018.36">
+				</crossref>
+				their malice, said, “Why put me to the test, you hypocrites?
+				<note nid="n40022018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022019">
+			</marker>
+			<v n="19">
+				Show me 
+				<crossref let="l" cid="c40022019.37">
+				</crossref>
+				the coin, 
+				<crossref let="m" cid="c40022019.38">
+				</crossref>
+				for the tax.” And they brought him a denarius.(3)
+			</v>
+			<marker class="begin-verse" mid="v40022020">
+			</marker>
+			<v n="20" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And Jesus 
+					<crossref let="n" cid="c40022020.39">
+				</crossref>
+					said to, 
+					<crossref let="o" cid="c40022020.40">
+				</crossref>
+				them, “Whose likeness and inscription is this?”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40022021">
+			</marker>
+			<v n="21" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					They said, 
+					<crossref let="p" cid="c40022021.41">
+				</crossref>
+					“Caesar’s.” Then, 
+					<crossref let="q" cid="c40022021.42">
+				</crossref>
+				he said to them, “Therefore render to Caesar the things that are Caesar’s, and to God the things that are God’s.”
+					<note nid="n40022021.21">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40022022">
+			</marker>
+			<v n="22">
+				When they 
+				<crossref let="r" cid="c40022022.43">
+				</crossref>
+				heard it,, 
+				<crossref let="s" cid="c40022022.44">
+				</crossref>
+				they marveled. And they left him and went away. Sadducees Ask About the Resurrection
+			</v>
+			<marker class="begin-verse" mid="v40022023">
+			</marker>
+			<v n="23">
+				The same 
+				<crossref let="t" cid="c40022023.45">
+				</crossref>
+				day Sadducees, 
+				<crossref let="u" cid="c40022023.46">
+				</crossref>
+				came to him, who say that there is no resurrection, and they asked him a question,
+			</v>
+			<marker class="begin-verse" mid="v40022024">
+			</marker>
+			<v n="24">
+				saying, “Teacher, 
+				<crossref let="v" cid="c40022024.47">
+				</crossref>
+				Moses said,, 
+				<crossref let="w" cid="c40022024.48">
+				</crossref>
+				‘If a man dies having no children, his brother must marry the widow and raise up offspring for his brother.’
+				<note nid="n40022024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022025">
+			</marker>
+			<v n="25">
+				Now there 
+				<crossref let="x" cid="c40022025.49">
+				</crossref>
+				were seven, 
+				<crossref let="y" cid="c40022025.50">
+				</crossref>
+				brothers among us. The first married and died, and having no offspring left his wife to his brother.
+			</v>
+			<marker class="begin-verse" mid="v40022026">
+			</marker>
+			<v n="26">
+				So too 
+				<crossref let="z" cid="c40022026.51">
+				</crossref>
+				the second, 
+				<crossref let="a" cid="c40022026.52">
+				</crossref>
+				and third, down to the seventh.
+			</v>
+			<marker class="begin-verse" mid="v40022027">
+			</marker>
+			<v n="27">
+				After them 
+				<crossref let="b" cid="c40022027.53">
+				</crossref>
+				all, the, 
+				<crossref let="c" cid="c40022027.54">
+				</crossref>
+				woman died.
+				<note nid="n40022027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022028">
+			</marker>
+			<v n="28">
+				In the 
+				<crossref let="d" cid="c40022028.55">
+				</crossref>
+				resurrection, therefore,, 
+				<crossref let="e" cid="c40022028.56">
+				</crossref>
+				of the seven, whose wife will she be? For they all had her.”
+			</v>
+			<marker class="begin-verse" mid="v40022029">
+			</marker>
+			<v n="29" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But Jesus 
+					<crossref let="f" cid="c40022029.57">
+				</crossref>
+					answered them,, 
+					<crossref let="g" cid="c40022029.58">
+				</crossref>
+				“You are wrong, because you know neither the Scriptures nor the power of God.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40022030">
+			</marker>
+			<v n="30">
+				For in 
+				<crossref let="h" cid="c40022030.59">
+				</crossref>
+				the resurrection, 
+				<crossref let="i" cid="c40022030.60">
+				</crossref>
+				they neither marry nor are given in marriage, but are like angels in heaven.
+				<note nid="n40022030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022031">
+			</marker>
+			<v n="31">
+				And as 
+				<crossref let="j" cid="c40022031.61">
+				</crossref>
+				for the, 
+				<crossref let="k" cid="c40022031.62">
+				</crossref>
+				resurrection of the dead, have you not read what was said to you by God:
+			</v>
+			<marker class="begin-verse" mid="v40022032">
+			</marker>
+			<v n="32">
+				‘I am 
+				<crossref let="l" cid="c40022032.63">
+				</crossref>
+				the God, 
+				<crossref let="m" cid="c40022032.64">
+				</crossref>
+				of Abraham, and the God of Isaac, and the God of Jacob’? He is not God of the dead, but of the living.”
+			</v>
+			<marker class="begin-verse" mid="v40022033">
+			</marker>
+			<v n="33">
+				And when 
+				<crossref let="n" cid="c40022033.65">
+				</crossref>
+				the crowd, 
+				<crossref let="o" cid="c40022033.66">
+				</crossref>
+				heard it, they were astonished at his teaching. The Great Commandment
+				<note nid="n40022033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022034">
+			</marker>
+			<v n="34">
+				But when 
+				<crossref let="p" cid="c40022034.67">
+				</crossref>
+				the Pharisees, 
+				<crossref let="q" cid="c40022034.68">
+				</crossref>
+				heard that he had silenced the Sadducees, they gathered together.
+			</v>
+			<marker class="begin-verse" mid="v40022035">
+			</marker>
+			<v n="35">
+				And one 
+				<crossref let="r" cid="c40022035.69">
+				</crossref>
+				of them,, 
+				<crossref let="s" cid="c40022035.70">
+				</crossref>
+				a lawyer, asked him a question to test him.
+			</v>
+			<marker class="begin-verse" mid="v40022036">
+			</marker>
+			<v n="36">
+				“Teacher, which 
+				<crossref let="t" cid="c40022036.71">
+				</crossref>
+				is the, 
+				<crossref let="u" cid="c40022036.72">
+				</crossref>
+				great commandment in the Law?”
+				<note nid="n40022036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022037">
+			</marker>
+			<v n="37" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					And he 
+					<crossref let="v" cid="c40022037.73">
+				</crossref>
+					said to, 
+					<crossref let="w" cid="c40022037.74">
+				</crossref>
+				him, “You shall love the Lord your God with all your heart and with all your soul and with all your mind.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40022038">
+			</marker>
+			<v n="38">
+				This is 
+				<crossref let="x" cid="c40022038.75">
+				</crossref>
+				the great, 
+				<crossref let="y" cid="c40022038.76">
+				</crossref>
+				and first commandment.
+			</v>
+			<marker class="begin-verse" mid="v40022039">
+			</marker>
+			<v n="39">
+				And a 
+				<crossref let="z" cid="c40022039.77">
+				</crossref>
+				second is, 
+				<crossref let="a" cid="c40022039.78">
+				</crossref>
+				like it: You shall love your neighbor as yourself.
+				<note nid="n40022039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022040">
+			</marker>
+			<v n="40">
+				On these 
+				<crossref let="b" cid="c40022040.79">
+				</crossref>
+				two commandments, 
+				<crossref let="c" cid="c40022040.80">
+				</crossref>
+				depend all the Law and the Prophets.” Whose Son Is the Christ?
+			</v>
+			<marker class="begin-verse" mid="v40022041">
+			</marker>
+			<v n="41">
+				Now while 
+				<crossref let="d" cid="c40022041.81">
+				</crossref>
+				the Pharisees, 
+				<crossref let="e" cid="c40022041.82">
+				</crossref>
+				were gathered together, Jesus asked them a question,
+			</v>
+			<marker class="begin-verse" mid="v40022042">
+			</marker>
+			<v n="42">
+				saying, “What 
+				<crossref let="f" cid="c40022042.83">
+				</crossref>
+				do you, 
+				<crossref let="g" cid="c40022042.84">
+				</crossref>
+				think about the Christ? Whose son is he?” They said to him, “The son of David.”
+				<note nid="n40022042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022043">
+			</marker>
+			<v n="43" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					He said 
+					<crossref let="h" cid="c40022043.85">
+				</crossref>
+					to them,, 
+					<crossref let="i" cid="c40022043.86">
+				</crossref>
+				“How is it then that David, in the Spirit, calls him Lord, saying,
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v40022044">
+			</marker>
+			<v n="44">
+				“‘The Lord 
+				<crossref let="j" cid="c40022044.87">
+				</crossref>
+				said to, 
+				<crossref let="k" cid="c40022044.88">
+				</crossref>
+				my Lord, “Sit at my right hand, until I put your enemies under your feet”’?
+			</v>
+			<marker class="begin-verse" mid="v40022045">
+			</marker>
+			<v n="45">
+				If then 
+				<crossref let="l" cid="c40022045.89">
+				</crossref>
+				David calls, 
+				<crossref let="m" cid="c40022045.90">
+				</crossref>
+				him Lord, how is he his son?”
+				<note nid="n40022045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v40022046">
+			</marker>
+			<v n="46">
+				And no 
+				<crossref let="n" cid="c40022046.91">
+				</crossref>
+				one was, 
+				<crossref let="o" cid="c40022046.92">
+				</crossref>
+				able to answer him a word, nor from that day did anyone dare to ask him any more questions. Footnotes (1) 22:3 Or *bondservants*; also verses 4, 6, 8, 10 (2) 22:16 Greek *for you do not look at people’s faces* (3) 22:19 A *denarius* was a day’s wage for a laborer (ESV)
+			</v>
+			<marker class="begin-verse" mid="v40022047">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:58:14.281189</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:58:14.281209</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" bookAbbr="exo" version="ESV">
+		<marker class="begin-verse" mid="v02013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				Exodus 13
+			</heading>
+			<heading>
+				Consecration of the Firstborn
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c02013001.1">
+				</crossref>
+				said to Moses,
+			</v>
+			<marker class="begin-verse" mid="v02013002">
+			</marker>
+			<v n="2">
+				“Consecrate to 
+				<crossref let="d" cid="c02013002.3">
+				</crossref>
+				me all, 
+				<crossref let="e" cid="c02013002.4">
+				</crossref>
+				the firstborn. Whatever is the first to open the womb among the people of Israel, both of man and of beast, is mine.” The Feast of Unleavened Bread
+			</v>
+			<marker class="begin-verse" mid="v02013003">
+			</marker>
+			<v n="3">
+				Then Moses 
+				<crossref let="f" cid="c02013003.5">
+				</crossref>
+				said to, 
+				<crossref let="g" cid="c02013003.6">
+				</crossref>
+				the people, “Remember this day in which you came out from Egypt, out of the house of slavery, for by a strong hand the LORD brought you out from this place. No leavened bread shall be eaten.
+				<note nid="n02013003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02013004">
+			</marker>
+			<v n="4">
+				Today, in 
+				<crossref let="h" cid="c02013004.7">
+				</crossref>
+				the month, 
+				<crossref let="i" cid="c02013004.8">
+				</crossref>
+				of Abib, you are going out.
+			</v>
+			<marker class="begin-verse" mid="v02013005">
+			</marker>
+			<v n="5">
+				And when 
+				<crossref let="j" cid="c02013005.9">
+				</crossref>
+				the LORD, 
+				<crossref let="k" cid="c02013005.10">
+				</crossref>
+				brings you into the land of the Canaanites, the Hittites, the Amorites, the Hivites, and the Jebusites, which he swore to your fathers to give you, a land flowing with milk and honey, you shall keep this service in this month.
+			</v>
+			<marker class="begin-verse" mid="v02013006">
+			</marker>
+			<v n="6">
+				Seven days 
+				<crossref let="l" cid="c02013006.11">
+				</crossref>
+				you shall, 
+				<crossref let="m" cid="c02013006.12">
+				</crossref>
+				eat unleavened bread, and on the seventh day there shall be a feast to the LORD.
+				<note nid="n02013006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02013007">
+			</marker>
+			<v n="7">
+				Unleavened bread 
+				<crossref let="n" cid="c02013007.13">
+				</crossref>
+				shall be, 
+				<crossref let="o" cid="c02013007.14">
+				</crossref>
+				eaten for seven days; no leavened bread shall be seen with you, and no leaven shall be seen with you in all your territory.
+			</v>
+			<marker class="begin-verse" mid="v02013008">
+			</marker>
+			<v n="8">
+				You shall 
+				<crossref let="p" cid="c02013008.15">
+				</crossref>
+				tell your, 
+				<crossref let="q" cid="c02013008.16">
+				</crossref>
+				son on that day, ‘It is because of what the LORD did for me when I came out of Egypt.’
+			</v>
+			<marker class="begin-verse" mid="v02013009">
+			</marker>
+			<v n="9">
+				And it 
+				<crossref let="r" cid="c02013009.17">
+				</crossref>
+				shall be, 
+				<crossref let="s" cid="c02013009.18">
+				</crossref>
+				to you as a sign on your hand and as a memorial between your eyes, that the law of the LORD may be in your mouth. For with a strong hand the LORD has brought you out of Egypt.
+				<note nid="n02013009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02013010">
+			</marker>
+			<v n="10">
+				You shall 
+				<crossref let="t" cid="c02013010.19">
+				</crossref>
+				therefore keep, 
+				<crossref let="u" cid="c02013010.20">
+				</crossref>
+				this statute at its appointed time from year to year.
+			</v>
+			<marker class="begin-verse" mid="v02013011">
+			</marker>
+			<v n="11">
+				“When the 
+				<crossref let="v" cid="c02013011.21">
+				</crossref>
+				LORD brings, 
+				<crossref let="w" cid="c02013011.22">
+				</crossref>
+				you into the land of the Canaanites, as he swore to you and your fathers, and shall give it to you,
+			</v>
+			<marker class="begin-verse" mid="v02013012">
+			</marker>
+			<v n="12">
+				you shall 
+				<crossref let="x" cid="c02013012.23">
+				</crossref>
+				set apart, 
+				<crossref let="y" cid="c02013012.24">
+				</crossref>
+				to the LORD all that first opens the womb. All the firstborn of your animals that are males shall be the LORD’s.
+				<note nid="n02013012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02013013">
+			</marker>
+			<v n="13">
+				Every firstborn 
+				<crossref let="z" cid="c02013013.25">
+				</crossref>
+				of a, 
+				<crossref let="a" cid="c02013013.26">
+				</crossref>
+				donkey you shall redeem with a lamb, or if you will not redeem it you shall break its neck. Every firstborn of man among your sons you shall redeem.
+			</v>
+			<marker class="begin-verse" mid="v02013014">
+			</marker>
+			<v n="14">
+				And when 
+				<crossref let="b" cid="c02013014.27">
+				</crossref>
+				in time, 
+				<crossref let="c" cid="c02013014.28">
+				</crossref>
+				to come your son asks you, ‘What does this mean?’ you shall say to him, ‘By a strong hand the LORD brought us out of Egypt, from the house of slavery.
+			</v>
+			<marker class="begin-verse" mid="v02013015">
+			</marker>
+			<v n="15">
+				For when 
+				<crossref let="d" cid="c02013015.29">
+				</crossref>
+				Pharaoh stubbornly, 
+				<crossref let="e" cid="c02013015.30">
+				</crossref>
+				refused to let us go, the LORD killed all the firstborn in the land of Egypt, both the firstborn of man and the firstborn of animals. Therefore I sacrifice to the LORD all the males that first open the womb, but all the firstborn of my sons I redeem.’
+				<note nid="n02013015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02013016">
+			</marker>
+			<v n="16">
+				It shall 
+				<crossref let="f" cid="c02013016.31">
+				</crossref>
+				be as, 
+				<crossref let="g" cid="c02013016.32">
+				</crossref>
+				a mark on your hand or frontlets between your eyes, for by a strong hand the LORD brought us out of Egypt.” Pillars of Cloud and Fire
+			</v>
+			<marker class="begin-verse" mid="v02013017">
+			</marker>
+			<v n="17">
+				When Pharaoh 
+				<crossref let="h" cid="c02013017.33">
+				</crossref>
+				let the, 
+				<crossref let="i" cid="c02013017.34">
+				</crossref>
+				people go, God did not lead them by way of the land of the Philistines, although that was near. For God said, “Lest the people change their minds when they see war and return to Egypt.”
+			</v>
+			<marker class="begin-verse" mid="v02013018">
+			</marker>
+			<v n="18">
+				But God 
+				<crossref let="j" cid="c02013018.35">
+				</crossref>
+				led the, 
+				<crossref let="k" cid="c02013018.36">
+				</crossref>
+				people around by the way of the wilderness toward the Red Sea. And the people of Israel went up out of the land of Egypt equipped for battle.
+				<note nid="n02013018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02013019">
+			</marker>
+			<v n="19">
+				Moses took 
+				<crossref let="l" cid="c02013019.37">
+				</crossref>
+				the bones, 
+				<crossref let="m" cid="c02013019.38">
+				</crossref>
+				of Joseph with him, for Joseph(1) had made the sons of Israel solemnly swear, saying, “God will surely visit you, and you shall carry up my bones with you from here.”
+			</v>
+			<marker class="begin-verse" mid="v02013020">
+			</marker>
+			<v n="20">
+				And they 
+				<crossref let="n" cid="c02013020.39">
+				</crossref>
+				moved on, 
+				<crossref let="o" cid="c02013020.40">
+				</crossref>
+				from Succoth and encamped at Etham, on the edge of the wilderness.
+			</v>
+			<marker class="begin-verse" mid="v02013021">
+			</marker>
+			<v n="21">
+				And the 
+				<crossref let="p" cid="c02013021.41">
+				</crossref>
+				LORD went, 
+				<crossref let="q" cid="c02013021.42">
+				</crossref>
+				before them by day in a pillar of cloud to lead them along the way, and by night in a pillar of fire to give them light, that they might travel by day and by night.
+				<note nid="n02013021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v02013022">
+			</marker>
+			<v n="22">
+				The pillar 
+				<crossref let="r" cid="c02013022.43">
+				</crossref>
+				of cloud, 
+				<crossref let="s" cid="c02013022.44">
+				</crossref>
+				by day and the pillar of fire by night did not depart from before the people. Footnotes (1) 13:19 Samaritan, Septuagint; Hebrew *he* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v02013023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

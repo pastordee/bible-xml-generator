@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:15:06.666766</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:15:06.666773</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" version="WEB" bookAbbr="deu">
+		<marker class="begin-verse" mid="v05027001"/>
+		<chapter num="27">
+			<begin-paragraph/>
+			<v n="1">
+				Moses and 
+				<crossref let="b" cid="c050271.1"/>
+				 the elders of Israel commanded the people, saying, “Keep all the commandment which I command you today.
+			</v>
+			<marker class="begin-verse" mid="v05027002"/>
+			<v n="2">
+				It shall 
+				<crossref let="c" cid="c050272.1"/>
+				 be on the day when you shall pass over the Jordan to the land which Yahweh your God gives you, that you shall set yourself up great stones, and coat them with plaster.
+			</v>
+			<marker class="begin-verse" mid="v05027003"/>
+			<v n="3">
+				You shall 
+				<crossref let="d" cid="c050273.1"/>
+				 write on them all the words of this law, when you have passed over, that you may go in to the land which Yahweh your God gives you, a land flowing with milk and honey, as Yahweh, the God of your fathers, has promised you.
+			</v>
+			<marker class="begin-verse" mid="v05027004"/>
+			<v n="4">
+				It shall 
+				<crossref let="e" cid="c050274.1"/>
+				 be, when you have crossed over the Jordan, that you shall set up these stones, which I command you today, on Mount Ebal, and you shall coat them with plaster.
+			</v>
+			<marker class="begin-verse" mid="v05027005"/>
+			<v n="5">
+				There you 
+				<crossref let="f" cid="c050275.1"/>
+				 shall build an altar to Yahweh your God, an altar of stones. You shall not use any iron tool on them.
+			</v>
+			<marker class="begin-verse" mid="v05027006"/>
+			<v n="6">
+				You shall 
+				<crossref let="g" cid="c050276.1"/>
+				 build Yahweh your God’s altar of uncut stones. You shall offer burnt offerings on it to Yahweh your God.
+			</v>
+			<marker class="begin-verse" mid="v05027007"/>
+			<v n="7">
+				You shall 
+				<crossref let="h" cid="c050277.1"/>
+				 sacrifice peace offerings, and shall eat there. You shall rejoice before Yahweh your God.
+			</v>
+			<marker class="begin-verse" mid="v05027008"/>
+			<v n="8">
+				You shall 
+				<crossref let="i" cid="c050278.1"/>
+				 write on the stones all the words of this law very plainly.”
+			</v>
+			<marker class="begin-verse" mid="v05027009"/>
+			<v n="9">
+				Moses and 
+				<crossref let="j" cid="c050279.1"/>
+				 the Levitical priests spoke to all Israel, saying, “Be silent and listen, Israel! Today you have become the people of Yahweh your God.
+			</v>
+			<marker class="begin-verse" mid="v05027010"/>
+			<v n="10">
+				You shall 
+				<crossref let="k" cid="c0502710.1"/>
+				 therefore obey Yahweh your God’s voice, and do his commandments and his statutes, which I command you today.”
+			</v>
+			<marker class="begin-verse" mid="v05027011"/>
+			<v n="11">
+				Moses commanded 
+				<crossref let="l" cid="c0502711.1"/>
+				 the people the same day, saying,
+			</v>
+			<marker class="begin-verse" mid="v05027012"/>
+			<v n="12">
+				“These shall 
+				<crossref let="m" cid="c0502712.1"/>
+				 stand on Mount Gerizim to bless the people, when you have crossed over the Jordan: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.
+			</v>
+			<marker class="begin-verse" mid="v05027013"/>
+			<v n="13">
+				These shall 
+				<crossref let="n" cid="c0502713.1"/>
+				 stand on Mount Ebal for the curse: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
+			</v>
+			<marker class="begin-verse" mid="v05027014"/>
+			<v n="14">
+				With a 
+				<crossref let="o" cid="c0502714.1"/>
+				 loud voice, the Levites shall say to all the men of Israel,
+			</v>
+			<marker class="begin-verse" mid="v05027015"/>
+			<v n="15">
+				‘Cursed is 
+				<crossref let="p" cid="c0502715.1"/>
+				 the man who makes an engraved or molten image, an abomination to Yahweh, the work of the hands of the craftsman, and sets it up in secret.’All the people shall answer and say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027016"/>
+			<v n="16">
+				‘Cursed is 
+				<crossref let="q" cid="c0502716.1"/>
+				 he who dishonors his father or his mother.’All the people shall say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027017"/>
+			<v n="17">
+				‘Cursed is 
+				<crossref let="r" cid="c0502717.1"/>
+				 he who removes his neighbor’s landmark.’All the people shall say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027018"/>
+			<v n="18">
+				‘Cursed is 
+				<crossref let="s" cid="c0502718.1"/>
+				 he who leads the blind astray on the road.’All the people shall say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027019"/>
+			<v n="19">
+				‘Cursed is 
+				<crossref let="t" cid="c0502719.1"/>
+				 he who withholds justice from the foreigner, fatherless, and widow.’All the people shall say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027020"/>
+			<v n="20">
+				‘Cursed is 
+				<crossref let="u" cid="c0502720.1"/>
+				 he who lies with his father’s wife, because he dishonors his father’s bed.’All the people shall say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027021"/>
+			<v n="21">
+				‘Cursed is 
+				<crossref let="v" cid="c0502721.1"/>
+				 he who lies with any kind of animal.’All the people shall say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027022"/>
+			<v n="22">
+				‘Cursed is 
+				<crossref let="w" cid="c0502722.1"/>
+				 he who lies with his sister, his father’s daughter or his mother’s daughter.’All the people shall say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027023"/>
+			<v n="23">
+				‘Cursed is 
+				<crossref let="x" cid="c0502723.1"/>
+				 he who lies with his mother-in-law.’All the people shall say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027024"/>
+			<v n="24">
+				‘Cursed is 
+				<crossref let="y" cid="c0502724.1"/>
+				 he who secretly kills his neighbor.’All the people shall say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027025"/>
+			<v n="25">
+				‘Cursed is 
+				<crossref let="z" cid="c0502725.1"/>
+				 he who takes a bribe to kill an innocent person.’All the people shall say, ‘Amen.’
+			</v>
+			<marker class="begin-verse" mid="v05027026"/>
+			<v n="26">
+				‘Cursed is 
+				<crossref let="a" cid="c0502726.1"/>
+				 he who doesn’t uphold the words of this law by doing them.’All the people shall say, ‘Amen.’”
+			</v>
+			<marker class="begin-verse" mid="v05027027"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

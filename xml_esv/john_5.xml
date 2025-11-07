@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:48.039756</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:48.039767</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" bookAbbr="jhn" version="ESV">
+		<marker class="begin-verse" mid="v43005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				John 5
+			</heading>
+			<heading>
+				The Healing at the Pool on the Sabbath
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				After this 
+				<crossref let="b" cid="c43005001.1">
+				</crossref>
+				there was, 
+				<crossref let="c" cid="c43005001.2">
+				</crossref>
+				a feast of the Jews, and Jesus went up to Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v43005002">
+			</marker>
+			<v n="2">
+				Now there 
+				<crossref let="d" cid="c43005002.3">
+				</crossref>
+				is in, 
+				<crossref let="e" cid="c43005002.4">
+				</crossref>
+				Jerusalem by the Sheep Gate a pool, in Aramaic(1) called Bethesda,(2) which has five roofed colonnades.
+			</v>
+			<marker class="begin-verse" mid="v43005003">
+			</marker>
+			<v n="3">
+				In these 
+				<crossref let="f" cid="c43005003.5">
+				</crossref>
+				lay a, 
+				<crossref let="g" cid="c43005003.6">
+				</crossref>
+				multitude of invalids—blind, lame, and paralyzed.(3)
+				<note nid="n43005003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005004">
+			</marker>
+			<v n="5">
+				One man 
+				<crossref let="h" cid="c43005005.7">
+				</crossref>
+				was there, 
+				<crossref let="i" cid="c43005005.8">
+				</crossref>
+				who had been an invalid for thirty-eight years.
+			</v>
+			<marker class="begin-verse" mid="v43005006">
+			</marker>
+			<v n="6" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					When Jesus 
+					<crossref let="j" cid="c43005006.9">
+				</crossref>
+					saw him, 
+					<crossref let="k" cid="c43005006.10">
+				</crossref>
+				lying there and knew that he had already been there a long time, he said to him, “Do you want to be healed?”
+					<note nid="n43005006.5">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005007">
+			</marker>
+			<v n="7">
+				The sick 
+				<crossref let="l" cid="c43005007.11">
+				</crossref>
+				man answered, 
+				<crossref let="m" cid="c43005007.12">
+				</crossref>
+				him, “Sir, I have no one to put me into the pool when the water is stirred up, and while I am going another steps down before me.”
+			</v>
+			<marker class="begin-verse" mid="v43005008">
+			</marker>
+			<v n="8" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Jesus said 
+					<crossref let="n" cid="c43005008.13">
+				</crossref>
+					to him,, 
+					<crossref let="o" cid="c43005008.14">
+				</crossref>
+				“Get up, take up your bed, and walk.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005009">
+			</marker>
+			<v n="9">
+				And at 
+				<crossref let="p" cid="c43005009.15">
+				</crossref>
+				once the, 
+				<crossref let="q" cid="c43005009.16">
+				</crossref>
+				man was healed, and he took up his bed and walked. Now that day was the Sabbath.
+				<note nid="n43005009.8">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005010">
+			</marker>
+			<v n="10">
+				So the 
+				<crossref let="r" cid="c43005010.17">
+				</crossref>
+				Jews(4) said, 
+				<crossref let="s" cid="c43005010.18">
+				</crossref>
+				to the man who had been healed, “It is the Sabbath, and it is not lawful for you to take up your bed.”
+			</v>
+			<marker class="begin-verse" mid="v43005011">
+			</marker>
+			<v n="11">
+				But he 
+				<crossref let="t" cid="c43005011.19">
+				</crossref>
+				answered them,, 
+				<crossref let="u" cid="c43005011.20">
+				</crossref>
+				“The man who healed me, that man said to me, ‘Take up your bed, and walk.’”
+			</v>
+			<marker class="begin-verse" mid="v43005012">
+			</marker>
+			<v n="12">
+				They asked 
+				<crossref let="v" cid="c43005012.21">
+				</crossref>
+				him, “Who, 
+				<crossref let="w" cid="c43005012.22">
+				</crossref>
+				is the man who said to you, ‘Take up your bed and walk’?”
+				<note nid="n43005012.11">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005013">
+			</marker>
+			<v n="13">
+				Now the 
+				<crossref let="x" cid="c43005013.23">
+				</crossref>
+				man who, 
+				<crossref let="y" cid="c43005013.24">
+				</crossref>
+				had been healed did not know who it was, for Jesus had withdrawn, as there was a crowd in the place.
+			</v>
+			<marker class="begin-verse" mid="v43005014">
+			</marker>
+			<v n="14">
+				Afterward Jesus 
+				<crossref let="z" cid="c43005014.25">
+				</crossref>
+				found him, 
+				<crossref let="a" cid="c43005014.26">
+				</crossref>
+				in the temple and said to him, “See, you are well! Sin no more, that nothing worse may happen to you.”
+			</v>
+			<marker class="begin-verse" mid="v43005015">
+			</marker>
+			<v n="15">
+				The man 
+				<crossref let="b" cid="c43005015.27">
+				</crossref>
+				went away, 
+				<crossref let="c" cid="c43005015.28">
+				</crossref>
+				and told the Jews that it was Jesus who had healed him.
+				<note nid="n43005015.14">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005016">
+			</marker>
+			<v n="16">
+				And this 
+				<crossref let="d" cid="c43005016.29">
+				</crossref>
+				was why, 
+				<crossref let="e" cid="c43005016.30">
+				</crossref>
+				the Jews were persecuting Jesus, because he was doing these things on the Sabbath.
+			</v>
+			<marker class="begin-verse" mid="v43005017">
+			</marker>
+			<v n="17" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But Jesus 
+					<crossref let="f" cid="c43005017.31">
+				</crossref>
+					answered them,, 
+					<crossref let="g" cid="c43005017.32">
+				</crossref>
+				“My Father is working until now, and I am working.” Jesus Is Equal with God
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005018">
+			</marker>
+			<v n="18">
+				This was 
+				<crossref let="h" cid="c43005018.33">
+				</crossref>
+				why the, 
+				<crossref let="i" cid="c43005018.34">
+				</crossref>
+				Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God. The Authority of the Son
+				<note nid="n43005018.17">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005019">
+			</marker>
+			<v n="19" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					So Jesus 
+					<crossref let="j" cid="c43005019.35">
+				</crossref>
+					said to, 
+					<crossref let="k" cid="c43005019.36">
+				</crossref>
+				them, “Truly, truly, I say to you, the Son can do nothing of his own accord, but only what he sees the Father doing. For whatever the Father(5) does, that the Son does likewise.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005020">
+			</marker>
+			<v n="20">
+				For the 
+				<crossref let="l" cid="c43005020.37">
+				</crossref>
+				Father loves, 
+				<crossref let="m" cid="c43005020.38">
+				</crossref>
+				the Son and shows him all that he himself is doing. And greater works than these will he show him, so that you may marvel.
+			</v>
+			<marker class="begin-verse" mid="v43005021">
+			</marker>
+			<v n="21">
+				For as 
+				<crossref let="n" cid="c43005021.39">
+				</crossref>
+				the Father, 
+				<crossref let="o" cid="c43005021.40">
+				</crossref>
+				raises the dead and gives them life, so also the Son gives life to whom he will.
+				<note nid="n43005021.20">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005022">
+			</marker>
+			<v n="22">
+				For the 
+				<crossref let="p" cid="c43005022.41">
+				</crossref>
+				Father judges, 
+				<crossref let="q" cid="c43005022.42">
+				</crossref>
+				no one, but has given all judgment to the Son,
+			</v>
+			<marker class="begin-verse" mid="v43005023">
+			</marker>
+			<v n="23">
+				that all 
+				<crossref let="r" cid="c43005023.43">
+				</crossref>
+				may honor, 
+				<crossref let="s" cid="c43005023.44">
+				</crossref>
+				the Son, just as they honor the Father. Whoever does not honor the Son does not honor the Father who sent him.
+			</v>
+			<marker class="begin-verse" mid="v43005024">
+			</marker>
+			<v n="24" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Truly, truly, 
+					<crossref let="t" cid="c43005024.45">
+				</crossref>
+					I say, 
+					<crossref let="u" cid="c43005024.46">
+				</crossref>
+				to you, whoever hears my word and believes him who sent me has eternal life. He does not come into judgment, but has passed from death to life.
+					<note nid="n43005024.23">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005025">
+			</marker>
+			<v n="25" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					“Truly, truly, 
+					<crossref let="v" cid="c43005025.47">
+				</crossref>
+					I say, 
+					<crossref let="w" cid="c43005025.48">
+				</crossref>
+				to you, an hour is coming, and is now here, when the dead will hear the voice of the Son of God, and those who hear will live.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005026">
+			</marker>
+			<v n="26">
+				For as 
+				<crossref let="x" cid="c43005026.49">
+				</crossref>
+				the Father, 
+				<crossref let="y" cid="c43005026.50">
+				</crossref>
+				has life in himself, so he has granted the Son also to have life in himself.
+			</v>
+			<marker class="begin-verse" mid="v43005027">
+			</marker>
+			<v n="27">
+				And he 
+				<crossref let="z" cid="c43005027.51">
+				</crossref>
+				has given, 
+				<crossref let="a" cid="c43005027.52">
+				</crossref>
+				him authority to execute judgment, because he is the Son of Man.
+				<note nid="n43005027.26">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005028">
+			</marker>
+			<v n="28">
+				Do not 
+				<crossref let="b" cid="c43005028.53">
+				</crossref>
+				marvel at, 
+				<crossref let="c" cid="c43005028.54">
+				</crossref>
+				this, for an hour is coming when all who are in the tombs will hear his voice
+			</v>
+			<marker class="begin-verse" mid="v43005029">
+			</marker>
+			<v n="29">
+				and come 
+				<crossref let="d" cid="c43005029.55">
+				</crossref>
+				out, those, 
+				<crossref let="e" cid="c43005029.56">
+				</crossref>
+				who have done good to the resurrection of life, and those who have done evil to the resurrection of judgment. Witnesses to Jesus
+			</v>
+			<marker class="begin-verse" mid="v43005030">
+			</marker>
+			<v n="30">
+				“I can 
+				<crossref let="f" cid="c43005030.57">
+				</crossref>
+				do nothing, 
+				<crossref let="g" cid="c43005030.58">
+				</crossref>
+				on my own. As I hear, I judge, and my judgment is just, because I seek not my own will but the will of him who sent me.
+				<note nid="n43005030.29">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005031">
+			</marker>
+			<v n="31">
+				If I 
+				<crossref let="h" cid="c43005031.59">
+				</crossref>
+				alone bear, 
+				<crossref let="i" cid="c43005031.60">
+				</crossref>
+				witness about myself, my testimony is not true.
+			</v>
+			<marker class="begin-verse" mid="v43005032">
+			</marker>
+			<v n="32">
+				There is 
+				<crossref let="j" cid="c43005032.61">
+				</crossref>
+				another who, 
+				<crossref let="k" cid="c43005032.62">
+				</crossref>
+				bears witness about me, and I know that the testimony that he bears about me is true.
+			</v>
+			<marker class="begin-verse" mid="v43005033">
+			</marker>
+			<v n="33">
+				You sent 
+				<crossref let="l" cid="c43005033.63">
+				</crossref>
+				to John,, 
+				<crossref let="m" cid="c43005033.64">
+				</crossref>
+				and he has borne witness to the truth.
+				<note nid="n43005033.32">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005034">
+			</marker>
+			<v n="34">
+				Not that 
+				<crossref let="n" cid="c43005034.65">
+				</crossref>
+				the testimony, 
+				<crossref let="o" cid="c43005034.66">
+				</crossref>
+				that I receive is from man, but I say these things so that you may be saved.
+			</v>
+			<marker class="begin-verse" mid="v43005035">
+			</marker>
+			<v n="35">
+				He was 
+				<crossref let="p" cid="c43005035.67">
+				</crossref>
+				a burning, 
+				<crossref let="q" cid="c43005035.68">
+				</crossref>
+				and shining lamp, and you were willing to rejoice for a while in his light.
+			</v>
+			<marker class="begin-verse" mid="v43005036">
+			</marker>
+			<v n="36">
+				But the 
+				<crossref let="r" cid="c43005036.69">
+				</crossref>
+				testimony that, 
+				<crossref let="s" cid="c43005036.70">
+				</crossref>
+				I have is greater than that of John. For the works that the Father has given me to accomplish, the very works that I am doing, bear witness about me that the Father has sent me.
+				<note nid="n43005036.35">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005037">
+			</marker>
+			<v n="37">
+				And the 
+				<crossref let="t" cid="c43005037.71">
+				</crossref>
+				Father who, 
+				<crossref let="u" cid="c43005037.72">
+				</crossref>
+				sent me has himself borne witness about me. His voice you have never heard, his form you have never seen,
+			</v>
+			<marker class="begin-verse" mid="v43005038">
+			</marker>
+			<v n="38">
+				and you 
+				<crossref let="v" cid="c43005038.73">
+				</crossref>
+				do not, 
+				<crossref let="w" cid="c43005038.74">
+				</crossref>
+				have his word abiding in you, for you do not believe the one whom he has sent.
+			</v>
+			<marker class="begin-verse" mid="v43005039">
+			</marker>
+			<v n="39">
+				You search 
+				<crossref let="x" cid="c43005039.75">
+				</crossref>
+				the Scriptures, 
+				<crossref let="y" cid="c43005039.76">
+				</crossref>
+				because you think that in them you have eternal life; and it is they that bear witness about me,
+				<note nid="n43005039.38">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005040">
+			</marker>
+			<v n="40">
+				yet you 
+				<crossref let="z" cid="c43005040.77">
+				</crossref>
+				refuse to, 
+				<crossref let="a" cid="c43005040.78">
+				</crossref>
+				come to me that you may have life.
+			</v>
+			<marker class="begin-verse" mid="v43005041">
+			</marker>
+			<v n="41">
+				I do 
+				<crossref let="b" cid="c43005041.79">
+				</crossref>
+				not receive, 
+				<crossref let="c" cid="c43005041.80">
+				</crossref>
+				glory from people.
+			</v>
+			<marker class="begin-verse" mid="v43005042">
+			</marker>
+			<v n="42">
+				But I 
+				<crossref let="d" cid="c43005042.81">
+				</crossref>
+				know that, 
+				<crossref let="e" cid="c43005042.82">
+				</crossref>
+				you do not have the love of God within you.
+				<note nid="n43005042.41">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005043">
+			</marker>
+			<v n="43">
+				I have 
+				<crossref let="f" cid="c43005043.83">
+				</crossref>
+				come in, 
+				<crossref let="g" cid="c43005043.84">
+				</crossref>
+				my Father’s name, and you do not receive me. If another comes in his own name, you will receive him.
+			</v>
+			<marker class="begin-verse" mid="v43005044">
+			</marker>
+			<v n="44">
+				How can 
+				<crossref let="h" cid="c43005044.85">
+				</crossref>
+				you believe,, 
+				<crossref let="i" cid="c43005044.86">
+				</crossref>
+				when you receive glory from one another and do not seek the glory that comes from the only God?
+			</v>
+			<marker class="begin-verse" mid="v43005045">
+			</marker>
+			<v n="45">
+				Do not 
+				<crossref let="j" cid="c43005045.87">
+				</crossref>
+				think that, 
+				<crossref let="k" cid="c43005045.88">
+				</crossref>
+				I will accuse you to the Father. There is one who accuses you: Moses, on whom you have set your hope.
+				<note nid="n43005045.44">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v43005046">
+			</marker>
+			<v n="46">
+				For if 
+				<crossref let="l" cid="c43005046.89">
+				</crossref>
+				you believed, 
+				<crossref let="m" cid="c43005046.90">
+				</crossref>
+				Moses, you would believe me; for he wrote of me.
+			</v>
+			<marker class="begin-verse" mid="v43005047">
+			</marker>
+			<v n="47">
+				But if 
+				<crossref let="n" cid="c43005047.91">
+				</crossref>
+				you do, 
+				<crossref let="o" cid="c43005047.92">
+				</crossref>
+				not believe his writings, how will you believe my words?” Footnotes (1) 5:2 Or *Hebrew* (2) 5:2 Some manuscripts *Bethsaida* (3) 5:3 Some manuscripts insert, wholly or in part, *waiting for the moving of the water;
+			</v>
+			<marker class="begin-verse" mid="v43005048">
+			</marker>
+			<v n="4">
+				for an 
+				<crossref let="p" cid="c43005004.93">
+				</crossref>
+				angel of, 
+				<crossref let="q" cid="c43005004.94">
+				</crossref>
+				the Lord went down at certain seasons into the pool, and stirred the water: whoever stepped in first after the stirring of the water was healed of whatever disease he had* (4) 5:10 The Greek word *Ioudaioi* refers specifically here to Jewish religious leaders, and others under their influence, who opposed Jesus in that time; also verses 15, 16, 18 (5) 5:19 Greek *he* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v43005005">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:12:31.848323</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:12:31.848360</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19005001"/>
+		<chapter num="5">
+			<heading>A Prayer for GuidanceTo the Chief Musician. With flutes. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Give ear 
+				<crossref let="b" cid="c190051.1"/>
+				 to my words, O Lord,Consider my meditation.
+			</v>
+			<marker class="begin-verse" mid="v19005002"/>
+			<v n="2">
+				Give heed 
+				<crossref let="c" cid="c190052.1"/>
+				 to the voice of my cry,My King and my God,For to You I will pray.
+			</v>
+			<marker class="begin-verse" mid="v19005003"/>
+			<v n="3">
+				My voice 
+				<crossref let="d" cid="c190053.1"/>
+				 You shall hear in the morning, O Lord;In the morning I will direct it to You,And I will look up.
+			</v>
+			<marker class="begin-verse" mid="v19005004"/>
+			<v n="4">
+				For You 
+				<crossref let="e" cid="c190054.1"/>
+				 are not a God who takes pleasure in wickedness,Nor shall evil dwell with You.
+			</v>
+			<marker class="begin-verse" mid="v19005005"/>
+			<v n="5">
+				The boastful 
+				<crossref let="f" cid="c190055.1"/>
+				 shall not stand in Your sight;You hate all workers of iniquity.
+			</v>
+			<marker class="begin-verse" mid="v19005006"/>
+			<v n="6">
+				You shall 
+				<crossref let="g" cid="c190056.1"/>
+				 destroy those who speak falsehood;The Lord abhors the bloodthirsty and deceitful man.
+			</v>
+			<marker class="begin-verse" mid="v19005007"/>
+			<v n="7">
+				But as 
+				<crossref let="h" cid="c190057.1"/>
+				 for me, I will come into Your house in the multitude of Your mercy;In fear of You I will worship toward Your holy temple.
+			</v>
+			<marker class="begin-verse" mid="v19005008"/>
+			<v n="8">
+				Lead me, 
+				<crossref let="i" cid="c190058.1"/>
+				 O Lord, in Your righteousness because of my enemies;Make Your way straight before my face.
+			</v>
+			<marker class="begin-verse" mid="v19005009"/>
+			<v n="9">
+				For there 
+				<crossref let="j" cid="c190059.1"/>
+				 is no faithfulness in their mouth;Their inward part is destruction;Their throat is an open tomb;They flatter with their tongue.
+			</v>
+			<marker class="begin-verse" mid="v19005010"/>
+			<v n="10">
+				Pronounce them 
+				<crossref let="k" cid="c1900510.1"/>
+				 guilty, O God!Let them fall by their own counsels;Cast them out in the multitude of their transgressions,For they have rebelled against You.
+			</v>
+			<marker class="begin-verse" mid="v19005011"/>
+			<v n="11">
+				But let 
+				<crossref let="l" cid="c1900511.1"/>
+				 all those rejoice who put their trust in You;Let them ever shout for joy, because You defend them;Let those also who love Your nameBe joyful in You.
+			</v>
+			<marker class="begin-verse" mid="v19005012"/>
+			<v n="12">
+				For You, 
+				<crossref let="m" cid="c1900512.1"/>
+				 O Lord, will bless the righteous;With favor You will surround him as with a shield.
+			</v>
+			<marker class="begin-verse" mid="v19005013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

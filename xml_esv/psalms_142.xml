@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:28.925393</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:28.925401</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19142001">
+		</marker>
+		<chapter num="142">
+			<heading>
+				Psalm 142
+			</heading>
+			<heading>
+				You Are My Refuge
+			</heading>
+			<heading>
+				A Maskil(1) of David, when he was in the cave. A Prayer.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				With my 
+				<crossref let="b" cid="c19142001.1">
+				</crossref>
+				voice I, 
+				<crossref let="c" cid="c19142001.2">
+				</crossref>
+				cry out to the LORD; with my voice I plead for mercy to the LORD.
+			</v>
+			<marker class="begin-verse" mid="v19142002">
+			</marker>
+			<v n="2">
+				I pour 
+				<crossref let="d" cid="c19142002.3">
+				</crossref>
+				out my, 
+				<crossref let="e" cid="c19142002.4">
+				</crossref>
+				complaint before him; I tell my trouble before him.
+			</v>
+			<marker class="begin-verse" mid="v19142003">
+			</marker>
+			<v n="3">
+				When my 
+				<crossref let="f" cid="c19142003.5">
+				</crossref>
+				spirit faints, 
+				<crossref let="g" cid="c19142003.6">
+				</crossref>
+				within me, you know my way! In the path where I walk they have hidden a trap for me.
+				<note nid="n19142003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19142004">
+			</marker>
+			<v n="4">
+				Look to 
+				<crossref let="h" cid="c19142004.7">
+				</crossref>
+				the right, 
+				<crossref let="i" cid="c19142004.8">
+				</crossref>
+				and see: there is none who takes notice of me; no refuge remains to me; no one cares for my soul.
+			</v>
+			<marker class="begin-verse" mid="v19142005">
+			</marker>
+			<v n="5">
+				I cry 
+				<crossref let="j" cid="c19142005.9">
+				</crossref>
+				to you,, 
+				<crossref let="k" cid="c19142005.10">
+				</crossref>
+				O LORD; I say, “You are my refuge, my portion in the land of the living.”
+			</v>
+			<marker class="begin-verse" mid="v19142006">
+			</marker>
+			<v n="6">
+				Attend to 
+				<crossref let="l" cid="c19142006.11">
+				</crossref>
+				my cry,, 
+				<crossref let="m" cid="c19142006.12">
+				</crossref>
+				for I am brought very low! Deliver me from my persecutors, for they are too strong for me!
+				<note nid="n19142006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19142007">
+			</marker>
+			<v n="7">
+				Bring me 
+				<crossref let="n" cid="c19142007.13">
+				</crossref>
+				out of, 
+				<crossref let="o" cid="c19142007.14">
+				</crossref>
+				prison, that I may give thanks to your name! The righteous will surround me, for you will deal bountifully with me. Footnotes (1) 142:1 Probably a musical or liturgical term (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19142008">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

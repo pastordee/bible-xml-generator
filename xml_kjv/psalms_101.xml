@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:04:56.674764</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:04:56.674792</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19101001"/>
+		<chapter num="101">
+			<heading>A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I will 
+				<crossref let="b" cid="c191011.1"/>
+				 sing of mercy and judgment: unto thee, O LORD, will I sing.
+			</v>
+			<marker class="begin-verse" mid="v19101002"/>
+			<v n="2">
+				I will 
+				<crossref let="c" cid="c191012.1"/>
+				 behave myself wisely in a perfect way. O when wilt thou come unto me? I will walk within my house with a perfect heart.
+			</v>
+			<marker class="begin-verse" mid="v19101003"/>
+			<v n="3">
+				I will 
+				<crossref let="d" cid="c191013.1"/>
+				 set no wicked thing before mine eyes: I hate the work of them that turn aside; it shall not cleave to me.
+			</v>
+			<marker class="begin-verse" mid="v19101004"/>
+			<v n="4">
+				A froward 
+				<crossref let="e" cid="c191014.1"/>
+				 heart shall depart from me: I will not know a wicked person.
+			</v>
+			<marker class="begin-verse" mid="v19101005"/>
+			<v n="5">
+				Whoso privily 
+				<crossref let="f" cid="c191015.1"/>
+				 slandereth his neighbour, him will I cut off: him that hath an high look and a proud heart will not I suffer.
+			</v>
+			<marker class="begin-verse" mid="v19101006"/>
+			<v n="6">
+				Mine eyes 
+				<crossref let="g" cid="c191016.1"/>
+				 shall be upon the faithful of the land, that they may dwell with me: he that walketh in a perfect way, he shall serve me.
+			</v>
+			<marker class="begin-verse" mid="v19101007"/>
+			<v n="7">
+				He that 
+				<crossref let="h" cid="c191017.1"/>
+				 worketh deceit shall not dwell within my house: he that telleth lies shall not tarry in my sight.
+			</v>
+			<marker class="begin-verse" mid="v19101008"/>
+			<v n="8">
+				I will 
+				<crossref let="i" cid="c191018.1"/>
+				 early destroy all the wicked of the land; that I may cut off all wicked doers from the city of the LORD.
+			</v>
+			<marker class="begin-verse" mid="v19101009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

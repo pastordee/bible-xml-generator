@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:56:53.213633</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:56:53.213657</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" bookAbbr="gen" version="ESV">
+		<marker class="begin-verse" mid="v01008001">
+		</marker>
+		<chapter num="8">
+			<heading>
+				Genesis 8
+			</heading>
+			<heading>
+				The Flood Subsides
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				But God 
+				<crossref let="b" cid="c01008001.1">
+				</crossref>
+				remembered Noah, 
+				<crossref let="c" cid="c01008001.2">
+				</crossref>
+				and all the beasts and all the livestock that were with him in the ark. And God made a wind blow over the earth, and the waters subsided.
+			</v>
+			<marker class="begin-verse" mid="v01008002">
+			</marker>
+			<v n="2">
+				The fountains 
+				<crossref let="d" cid="c01008002.3">
+				</crossref>
+				of the, 
+				<crossref let="e" cid="c01008002.4">
+				</crossref>
+				deep and the windows of the heavens were closed, the rain from the heavens was restrained,
+			</v>
+			<marker class="begin-verse" mid="v01008003">
+			</marker>
+			<v n="3">
+				and the 
+				<crossref let="f" cid="c01008003.5">
+				</crossref>
+				waters receded, 
+				<crossref let="g" cid="c01008003.6">
+				</crossref>
+				from the earth continually. At the end of 150 days the waters had abated,
+				<note nid="n01008003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01008004">
+			</marker>
+			<v n="4">
+				and in 
+				<crossref let="h" cid="c01008004.7">
+				</crossref>
+				the seventh, 
+				<crossref let="i" cid="c01008004.8">
+				</crossref>
+				month, on the seventeenth day of the month, the ark came to rest on the mountains of Ararat.
+			</v>
+			<marker class="begin-verse" mid="v01008005">
+			</marker>
+			<v n="5">
+				And the 
+				<crossref let="j" cid="c01008005.9">
+				</crossref>
+				waters continued, 
+				<crossref let="k" cid="c01008005.10">
+				</crossref>
+				to abate until the tenth month; in the tenth month, on the first day of the month, the tops of the mountains were seen.
+			</v>
+			<marker class="begin-verse" mid="v01008006">
+			</marker>
+			<v n="6">
+				At the 
+				<crossref let="l" cid="c01008006.11">
+				</crossref>
+				end of, 
+				<crossref let="m" cid="c01008006.12">
+				</crossref>
+				forty days Noah opened the window of the ark that he had made
+				<note nid="n01008006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01008007">
+			</marker>
+			<v n="7">
+				and sent 
+				<crossref let="n" cid="c01008007.13">
+				</crossref>
+				forth a, 
+				<crossref let="o" cid="c01008007.14">
+				</crossref>
+				raven. It went to and fro until the waters were dried up from the earth.
+			</v>
+			<marker class="begin-verse" mid="v01008008">
+			</marker>
+			<v n="8">
+				Then he 
+				<crossref let="p" cid="c01008008.15">
+				</crossref>
+				sent forth, 
+				<crossref let="q" cid="c01008008.16">
+				</crossref>
+				a dove from him, to see if the waters had subsided from the face of the ground.
+			</v>
+			<marker class="begin-verse" mid="v01008009">
+			</marker>
+			<v n="9">
+				But the 
+				<crossref let="r" cid="c01008009.17">
+				</crossref>
+				dove found, 
+				<crossref let="s" cid="c01008009.18">
+				</crossref>
+				no place to set her foot, and she returned to him to the ark, for the waters were still on the face of the whole earth. So he put out his hand and took her and brought her into the ark with him.
+				<note nid="n01008009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01008010">
+			</marker>
+			<v n="10">
+				He waited 
+				<crossref let="t" cid="c01008010.19">
+				</crossref>
+				another seven, 
+				<crossref let="u" cid="c01008010.20">
+				</crossref>
+				days, and again he sent forth the dove out of the ark.
+			</v>
+			<marker class="begin-verse" mid="v01008011">
+			</marker>
+			<v n="11">
+				And the 
+				<crossref let="v" cid="c01008011.21">
+				</crossref>
+				dove came, 
+				<crossref let="w" cid="c01008011.22">
+				</crossref>
+				back to him in the evening, and behold, in her mouth was a freshly plucked olive leaf. So Noah knew that the waters had subsided from the earth.
+			</v>
+			<marker class="begin-verse" mid="v01008012">
+			</marker>
+			<v n="12">
+				Then he 
+				<crossref let="x" cid="c01008012.23">
+				</crossref>
+				waited another, 
+				<crossref let="y" cid="c01008012.24">
+				</crossref>
+				seven days and sent forth the dove, and she did not return to him anymore.
+				<note nid="n01008012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01008013">
+			</marker>
+			<v n="13">
+				In the 
+				<crossref let="z" cid="c01008013.25">
+				</crossref>
+				six hundred, 
+				<crossref let="a" cid="c01008013.26">
+				</crossref>
+				and first year, in the first month, the first day of the month, the waters were dried from off the earth. And Noah removed the covering of the ark and looked, and behold, the face of the ground was dry.
+			</v>
+			<marker class="begin-verse" mid="v01008014">
+			</marker>
+			<v n="14">
+				In the 
+				<crossref let="b" cid="c01008014.27">
+				</crossref>
+				second month,, 
+				<crossref let="c" cid="c01008014.28">
+				</crossref>
+				on the twenty-seventh day of the month, the earth had dried out.
+			</v>
+			<marker class="begin-verse" mid="v01008015">
+			</marker>
+			<v n="15">
+				Then God 
+				<crossref let="d" cid="c01008015.29">
+				</crossref>
+				said to Noah,
+				<note nid="n01008015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01008016">
+			</marker>
+			<v n="16">
+				“Go out 
+				<crossref let="f" cid="c01008016.31">
+				</crossref>
+				from the, 
+				<crossref let="g" cid="c01008016.32">
+				</crossref>
+				ark, you and your wife, and your sons and your sons’ wives with you.
+			</v>
+			<marker class="begin-verse" mid="v01008017">
+			</marker>
+			<v n="17">
+				Bring out 
+				<crossref let="h" cid="c01008017.33">
+				</crossref>
+				with you, 
+				<crossref let="i" cid="c01008017.34">
+				</crossref>
+				every living thing that is with you of all flesh—birds and animals and every creeping thing that creeps on the earth—that they may swarm on the earth, and be fruitful and multiply on the earth.”
+			</v>
+			<marker class="begin-verse" mid="v01008018">
+			</marker>
+			<v n="18">
+				So Noah 
+				<crossref let="j" cid="c01008018.35">
+				</crossref>
+				went out,, 
+				<crossref let="k" cid="c01008018.36">
+				</crossref>
+				and his sons and his wife and his sons’ wives with him.
+				<note nid="n01008018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01008019">
+			</marker>
+			<v n="19">
+				Every beast, 
+				<crossref let="l" cid="c01008019.37">
+				</crossref>
+				every creeping, 
+				<crossref let="m" cid="c01008019.38">
+				</crossref>
+				thing, and every bird, everything that moves on the earth, went out by families from the ark. God’s Covenant with Noah
+			</v>
+			<marker class="begin-verse" mid="v01008020">
+			</marker>
+			<v n="20">
+				Then Noah 
+				<crossref let="n" cid="c01008020.39">
+				</crossref>
+				built an, 
+				<crossref let="o" cid="c01008020.40">
+				</crossref>
+				altar to the LORD and took some of every clean animal and some of every clean bird and offered burnt offerings on the altar.
+			</v>
+			<marker class="begin-verse" mid="v01008021">
+			</marker>
+			<v n="21">
+				And when 
+				<crossref let="p" cid="c01008021.41">
+				</crossref>
+				the LORD, 
+				<crossref let="q" cid="c01008021.42">
+				</crossref>
+				smelled the pleasing aroma, the LORD said in his heart, “I will never again curse(1) the ground because of man, for the intention of man’s heart is evil from his youth. Neither will I ever again strike down every living creature as I have done.
+				<note nid="n01008021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01008022">
+			</marker>
+			<v n="22">
+				While the 
+				<crossref let="r" cid="c01008022.43">
+				</crossref>
+				earth remains,, 
+				<crossref let="s" cid="c01008022.44">
+				</crossref>
+				seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease.” Footnotes (1) 8:21 Or *dishonor* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v01008023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

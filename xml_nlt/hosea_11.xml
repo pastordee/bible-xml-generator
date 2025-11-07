@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:00:09.369278</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:00:09.369315</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" version="NLT" bookAbbr="hos">
+		<marker class="begin-verse" mid="v28011001"/>
+		<chapter num="11">
+			<heading>The Lord’s Love for Israel</heading>
+			<begin-paragraph/>
+			<v n="1">
+				“When Israel 
+				<crossref let="b" cid="c280111.1"/>
+				 was a child, I loved him,and I called my son out of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v28011002"/>
+			<v n="2">
+				But the 
+				<crossref let="c" cid="c280112.1"/>
+				 more I called to him,the farther he moved from me,offering sacrifices to the images of Baaland burning incense to idols.
+			</v>
+			<marker class="begin-verse" mid="v28011003"/>
+			<v n="3">
+				I myself 
+				<crossref let="d" cid="c280113.1"/>
+				 taught Israel how to walk,leading him along by the hand.But he doesn’t know or even carethat it was I who took care of him.
+			</v>
+			<marker class="begin-verse" mid="v28011004"/>
+			<v n="4">
+				I led 
+				<crossref let="e" cid="c280114.1"/>
+				 Israel alongwith my ropes of kindness and love.I lifted the yoke from his neck,and I myself stooped to feed him.
+			</v>
+			<marker class="begin-verse" mid="v28011005"/>
+			<v n="5">
+				“But since 
+				<crossref let="f" cid="c280115.1"/>
+				 my people refuse to return to me,they will return to Egyptand will be forced to serve Assyria.
+			</v>
+			<marker class="begin-verse" mid="v28011006"/>
+			<v n="6">
+				War will 
+				<crossref let="g" cid="c280116.1"/>
+				 swirl through their cities;their enemies will crash through their gates.They will destroy them,trapping them in their own evil plans.
+			</v>
+			<marker class="begin-verse" mid="v28011007"/>
+			<v n="7">
+				For my 
+				<crossref let="h" cid="c280117.1"/>
+				 people are determined to desert me.They call me the Most High,but they don’t truly honor me.
+			</v>
+			<marker class="begin-verse" mid="v28011008"/>
+			<v n="8">
+				“Oh, how 
+				<crossref let="i" cid="c280118.1"/>
+				 can I give you up, Israel?How can I let you go?How can I destroy you like Admahor demolish you like Zeboiim?My heart is torn within me,and my compassion overflows.
+			</v>
+			<marker class="begin-verse" mid="v28011009"/>
+			<v n="9">
+				No, I 
+				<crossref let="j" cid="c280119.1"/>
+				 will not unleash my fierce anger.I will not completely destroy Israel,for I am God and not a mere mortal.I am the Holy One living among you,and I will not come to destroy.
+			</v>
+			<marker class="begin-verse" mid="v28011010"/>
+			<v n="10">
+				For someday 
+				<crossref let="k" cid="c2801110.1"/>
+				 the people will follow me.I, the Lord, will roar like a lion.And when I roar,my people will return trembling from the west.
+			</v>
+			<marker class="begin-verse" mid="v28011011"/>
+			<v n="11">
+				Like a 
+				<crossref let="l" cid="c2801111.1"/>
+				 flock of birds, they will come from Egypt.Trembling like doves, they will return from Assyria.And I will bring them home again,”says the Lord.Charges against Israel and Judah
+			</v>
+			<marker class="begin-verse" mid="v28011012"/>
+			<v n="12">
+				Israel surrounds 
+				<crossref let="m" cid="c2801112.1"/>
+				 me with lies and deceit,but Judah still obeys Godand is faithful to the Holy One.
+			</v>
+			<marker class="begin-verse" mid="v28011013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

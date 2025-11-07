@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:58:55.429791</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:58:55.429798</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" bookAbbr="lev" version="ESV">
+		<marker class="begin-verse" mid="v03001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Leviticus 1
+			</heading>
+			<heading>
+				Laws for Burnt Offerings
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c03001001.1">
+				</crossref>
+				called Moses, 
+				<crossref let="c" cid="c03001001.2">
+				</crossref>
+				and spoke to him from the tent of meeting, saying,
+			</v>
+			<marker class="begin-verse" mid="v03001002">
+			</marker>
+			<v n="2">
+				“Speak to 
+				<crossref let="d" cid="c03001002.3">
+				</crossref>
+				the people, 
+				<crossref let="e" cid="c03001002.4">
+				</crossref>
+				of Israel and say to them, When any one of you brings an offering to the LORD, you shall bring your offering of livestock from the herd or from the flock.
+			</v>
+			<marker class="begin-verse" mid="v03001003">
+			</marker>
+			<v n="3">
+				“If his 
+				<crossref let="f" cid="c03001003.5">
+				</crossref>
+				offering is, 
+				<crossref let="g" cid="c03001003.6">
+				</crossref>
+				a burnt offering from the herd, he shall offer a male without blemish. He shall bring it to the entrance of the tent of meeting, that he may be accepted before the LORD.
+				<note nid="n03001003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03001004">
+			</marker>
+			<v n="4">
+				He shall 
+				<crossref let="h" cid="c03001004.7">
+				</crossref>
+				lay his, 
+				<crossref let="i" cid="c03001004.8">
+				</crossref>
+				hand on the head of the burnt offering, and it shall be accepted for him to make atonement for him.
+			</v>
+			<marker class="begin-verse" mid="v03001005">
+			</marker>
+			<v n="5">
+				Then he 
+				<crossref let="j" cid="c03001005.9">
+				</crossref>
+				shall kill, 
+				<crossref let="k" cid="c03001005.10">
+				</crossref>
+				the bull before the LORD, and Aaron’s sons the priests shall bring the blood and throw the blood against the sides of the altar that is at the entrance of the tent of meeting.
+			</v>
+			<marker class="begin-verse" mid="v03001006">
+			</marker>
+			<v n="6">
+				Then he 
+				<crossref let="l" cid="c03001006.11">
+				</crossref>
+				shall flay, 
+				<crossref let="m" cid="c03001006.12">
+				</crossref>
+				the burnt offering and cut it into pieces,
+				<note nid="n03001006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03001007">
+			</marker>
+			<v n="7">
+				and the 
+				<crossref let="n" cid="c03001007.13">
+				</crossref>
+				sons of, 
+				<crossref let="o" cid="c03001007.14">
+				</crossref>
+				Aaron the priest shall put fire on the altar and arrange wood on the fire.
+			</v>
+			<marker class="begin-verse" mid="v03001008">
+			</marker>
+			<v n="8">
+				And Aaron’s 
+				<crossref let="p" cid="c03001008.15">
+				</crossref>
+				sons the, 
+				<crossref let="q" cid="c03001008.16">
+				</crossref>
+				priests shall arrange the pieces, the head, and the fat, on the wood that is on the fire on the altar;
+			</v>
+			<marker class="begin-verse" mid="v03001009">
+			</marker>
+			<v n="9">
+				but its 
+				<crossref let="r" cid="c03001009.17">
+				</crossref>
+				entrails and, 
+				<crossref let="s" cid="c03001009.18">
+				</crossref>
+				its legs he shall wash with water. And the priest shall burn all of it on the altar, as a burnt offering, a food offering(1) with a pleasing aroma to the LORD.
+				<note nid="n03001009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03001010">
+			</marker>
+			<v n="10">
+				“If his 
+				<crossref let="t" cid="c03001010.19">
+				</crossref>
+				gift for, 
+				<crossref let="u" cid="c03001010.20">
+				</crossref>
+				a burnt offering is from the flock, from the sheep or goats, he shall bring a male without blemish,
+			</v>
+			<marker class="begin-verse" mid="v03001011">
+			</marker>
+			<v n="11">
+				and he 
+				<crossref let="v" cid="c03001011.21">
+				</crossref>
+				shall kill, 
+				<crossref let="w" cid="c03001011.22">
+				</crossref>
+				it on the north side of the altar before the LORD, and Aaron’s sons the priests shall throw its blood against the sides of the altar.
+			</v>
+			<marker class="begin-verse" mid="v03001012">
+			</marker>
+			<v n="12">
+				And he 
+				<crossref let="x" cid="c03001012.23">
+				</crossref>
+				shall cut, 
+				<crossref let="y" cid="c03001012.24">
+				</crossref>
+				it into pieces, with its head and its fat, and the priest shall arrange them on the wood that is on the fire on the altar,
+				<note nid="n03001012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03001013">
+			</marker>
+			<v n="13">
+				but the 
+				<crossref let="z" cid="c03001013.25">
+				</crossref>
+				entrails and, 
+				<crossref let="a" cid="c03001013.26">
+				</crossref>
+				the legs he shall wash with water. And the priest shall offer all of it and burn it on the altar; it is a burnt offering, a food offering with a pleasing aroma to the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03001014">
+			</marker>
+			<v n="14">
+				“If his 
+				<crossref let="b" cid="c03001014.27">
+				</crossref>
+				offering to, 
+				<crossref let="c" cid="c03001014.28">
+				</crossref>
+				the LORD is a burnt offering of birds, then he shall bring his offering of turtledoves or pigeons.
+			</v>
+			<marker class="begin-verse" mid="v03001015">
+			</marker>
+			<v n="15">
+				And the 
+				<crossref let="d" cid="c03001015.29">
+				</crossref>
+				priest shall, 
+				<crossref let="e" cid="c03001015.30">
+				</crossref>
+				bring it to the altar and wring off its head and burn it on the altar. Its blood shall be drained out on the side of the altar.
+				<note nid="n03001015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v03001016">
+			</marker>
+			<v n="16">
+				He shall 
+				<crossref let="f" cid="c03001016.31">
+				</crossref>
+				remove its, 
+				<crossref let="g" cid="c03001016.32">
+				</crossref>
+				crop with its contents(2) and cast it beside the altar on the east side, in the place for ashes.
+			</v>
+			<marker class="begin-verse" mid="v03001017">
+			</marker>
+			<v n="17">
+				He shall 
+				<crossref let="h" cid="c03001017.33">
+				</crossref>
+				tear it, 
+				<crossref let="i" cid="c03001017.34">
+				</crossref>
+				open by its wings, but shall not sever it completely. And the priest shall burn it on the altar, on the wood that is on the fire. It is a burnt offering, a food offering with a pleasing aroma to the LORD. Footnotes (1) 1:9 Or *an offering by fire*; so throughout Leviticus (2) 1:16 Or *feathers* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v03001018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

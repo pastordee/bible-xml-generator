@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:37:54.131115</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:37:54.131125</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19124001"/>
+		<chapter num="124">
+			<heading>A Song of Ascents; of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				If it 
+				<crossref let="b" cid="c191241.1"/>
+				 had not been Jehovah who was on our side,Let Israel now say,
+			</v>
+			<marker class="begin-verse" mid="v19124002"/>
+			<v n="2">
+				If it 
+				<crossref let="c" cid="c191242.1"/>
+				 had not been Jehovah who was on our side,When men rose up against us;
+			</v>
+			<marker class="begin-verse" mid="v19124003"/>
+			<v n="3">
+				Then they 
+				<crossref let="d" cid="c191243.1"/>
+				 had swallowed us up alive,When their wrath was kindled against us:
+			</v>
+			<marker class="begin-verse" mid="v19124004"/>
+			<v n="4">
+				Then the 
+				<crossref let="e" cid="c191244.1"/>
+				 waters had overwhelmed us,The stream had gone over our soul;
+			</v>
+			<marker class="begin-verse" mid="v19124005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c191245.1"/>
+				 proud waters had gone over our soul.
+			</v>
+			<marker class="begin-verse" mid="v19124006"/>
+			<v n="6">
+				Blessed be 
+				<crossref let="g" cid="c191246.1"/>
+				 Jehovah,Who hath not given us as a prey to their teeth.
+			</v>
+			<marker class="begin-verse" mid="v19124007"/>
+			<v n="7">
+				Our soul 
+				<crossref let="h" cid="c191247.1"/>
+				 is escaped as a bird out of the snare of the fowlers:The snare is broken, and we are escaped.
+			</v>
+			<marker class="begin-verse" mid="v19124008"/>
+			<v n="8">
+				Our help 
+				<crossref let="i" cid="c191248.1"/>
+				 is in the name of Jehovah,Who made heaven and earth.
+			</v>
+			<marker class="begin-verse" mid="v19124009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

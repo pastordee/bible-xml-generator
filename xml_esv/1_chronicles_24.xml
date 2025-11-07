@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:31:18.770936</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:31:18.770943</next_refresh_due>
+	</generation_info>
+	<book title="1 Chronicles" num="13" testament="old" bookAbbr="1ch" version="ESV">
+		<marker class="begin-verse" mid="v13024001">
+		</marker>
+		<chapter num="24">
+			<heading>
+				1 Chronicles 24
+			</heading>
+			<heading>
+				David Organizes the Priests
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				The divisions 
+				<crossref let="b" cid="c13024001.1">
+				</crossref>
+				of the, 
+				<crossref let="c" cid="c13024001.2">
+				</crossref>
+				sons of Aaron were these. The sons of Aaron: Nadab, Abihu, Eleazar, and Ithamar.
+			</v>
+			<marker class="begin-verse" mid="v13024002">
+			</marker>
+			<v n="2">
+				But Nadab 
+				<crossref let="d" cid="c13024002.3">
+				</crossref>
+				and Abihu, 
+				<crossref let="e" cid="c13024002.4">
+				</crossref>
+				died before their father and had no children, so Eleazar and Ithamar became the priests.
+			</v>
+			<marker class="begin-verse" mid="v13024003">
+			</marker>
+			<v n="3">
+				With the 
+				<crossref let="f" cid="c13024003.5">
+				</crossref>
+				help of, 
+				<crossref let="g" cid="c13024003.6">
+				</crossref>
+				Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, David organized them according to the appointed duties in their service.
+				<note nid="n13024003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13024004">
+			</marker>
+			<v n="4">
+				Since more 
+				<crossref let="h" cid="c13024004.7">
+				</crossref>
+				chief men, 
+				<crossref let="i" cid="c13024004.8">
+				</crossref>
+				were found among the sons of Eleazar than among the sons of Ithamar, they organized them under sixteen heads of fathers’ houses of the sons of Eleazar, and eight of the sons of Ithamar.
+			</v>
+			<marker class="begin-verse" mid="v13024005">
+			</marker>
+			<v n="5">
+				They divided 
+				<crossref let="j" cid="c13024005.9">
+				</crossref>
+				them by, 
+				<crossref let="k" cid="c13024005.10">
+				</crossref>
+				lot, all alike, for there were sacred officers and officers of God among both the sons of Eleazar and the sons of Ithamar.
+			</v>
+			<marker class="begin-verse" mid="v13024006">
+			</marker>
+			<v n="6">
+				And the 
+				<crossref let="l" cid="c13024006.11">
+				</crossref>
+				scribe Shemaiah,, 
+				<crossref let="m" cid="c13024006.12">
+				</crossref>
+				the son of Nethanel, a Levite, recorded them in the presence of the king and the princes and Zadok the priest and Ahimelech the son of Abiathar and the heads of the fathers’ houses of the priests and of the Levites, one father’s house being chosen for Eleazar and one chosen for Ithamar.
+				<note nid="n13024006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13024007">
+			</marker>
+			<v n="7">
+				The first 
+				<crossref let="n" cid="c13024007.13">
+				</crossref>
+				lot fell, 
+				<crossref let="o" cid="c13024007.14">
+				</crossref>
+				to Jehoiarib, the second to Jedaiah,
+			</v>
+			<marker class="begin-verse" mid="v13024008">
+			</marker>
+			<v n="8">
+				the third 
+				<crossref let="p" cid="c13024008.15">
+				</crossref>
+				to Harim,, 
+				<crossref let="q" cid="c13024008.16">
+				</crossref>
+				the fourth to Seorim,
+			</v>
+			<marker class="begin-verse" mid="v13024009">
+			</marker>
+			<v n="9">
+				the fifth 
+				<crossref let="r" cid="c13024009.17">
+				</crossref>
+				to Malchijah,, 
+				<crossref let="s" cid="c13024009.18">
+				</crossref>
+				the sixth to Mijamin,
+				<note nid="n13024009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13024010">
+			</marker>
+			<v n="10">
+				the seventh 
+				<crossref let="t" cid="c13024010.19">
+				</crossref>
+				to Hakkoz,, 
+				<crossref let="u" cid="c13024010.20">
+				</crossref>
+				the eighth to Abijah,
+			</v>
+			<marker class="begin-verse" mid="v13024011">
+			</marker>
+			<v n="11">
+				the ninth 
+				<crossref let="v" cid="c13024011.21">
+				</crossref>
+				to Jeshua,, 
+				<crossref let="w" cid="c13024011.22">
+				</crossref>
+				the tenth to Shecaniah,
+			</v>
+			<marker class="begin-verse" mid="v13024012">
+			</marker>
+			<v n="12">
+				the eleventh 
+				<crossref let="x" cid="c13024012.23">
+				</crossref>
+				to Eliashib,, 
+				<crossref let="y" cid="c13024012.24">
+				</crossref>
+				the twelfth to Jakim,
+				<note nid="n13024012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13024013">
+			</marker>
+			<v n="13">
+				the thirteenth 
+				<crossref let="z" cid="c13024013.25">
+				</crossref>
+				to Huppah,, 
+				<crossref let="a" cid="c13024013.26">
+				</crossref>
+				the fourteenth to Jeshebeab,
+			</v>
+			<marker class="begin-verse" mid="v13024014">
+			</marker>
+			<v n="14">
+				the fifteenth 
+				<crossref let="b" cid="c13024014.27">
+				</crossref>
+				to Bilgah,, 
+				<crossref let="c" cid="c13024014.28">
+				</crossref>
+				the sixteenth to Immer,
+			</v>
+			<marker class="begin-verse" mid="v13024015">
+			</marker>
+			<v n="15">
+				the seventeenth 
+				<crossref let="d" cid="c13024015.29">
+				</crossref>
+				to Hezir,, 
+				<crossref let="e" cid="c13024015.30">
+				</crossref>
+				the eighteenth to Happizzez,
+				<note nid="n13024015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13024016">
+			</marker>
+			<v n="16">
+				the nineteenth 
+				<crossref let="f" cid="c13024016.31">
+				</crossref>
+				to Pethahiah,, 
+				<crossref let="g" cid="c13024016.32">
+				</crossref>
+				the twentieth to Jehezkel,
+			</v>
+			<marker class="begin-verse" mid="v13024017">
+			</marker>
+			<v n="17">
+				the twenty-first 
+				<crossref let="h" cid="c13024017.33">
+				</crossref>
+				to Jachin,, 
+				<crossref let="i" cid="c13024017.34">
+				</crossref>
+				the twenty-second to Gamul,
+			</v>
+			<marker class="begin-verse" mid="v13024018">
+			</marker>
+			<v n="18">
+				the twenty-third 
+				<crossref let="j" cid="c13024018.35">
+				</crossref>
+				to Delaiah,, 
+				<crossref let="k" cid="c13024018.36">
+				</crossref>
+				the twenty-fourth to Maaziah.
+				<note nid="n13024018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13024019">
+			</marker>
+			<v n="19">
+				These had 
+				<crossref let="l" cid="c13024019.37">
+				</crossref>
+				as their, 
+				<crossref let="m" cid="c13024019.38">
+				</crossref>
+				appointed duty in their service to come into the house of the LORD according to the procedure established for them by Aaron their father, as the LORD God of Israel had commanded him.
+			</v>
+			<marker class="begin-verse" mid="v13024020">
+			</marker>
+			<v n="20">
+				And of 
+				<crossref let="n" cid="c13024020.39">
+				</crossref>
+				the rest, 
+				<crossref let="o" cid="c13024020.40">
+				</crossref>
+				of the sons of Levi: of the sons of Amram, Shubael; of the sons of Shubael, Jehdeiah.
+			</v>
+			<marker class="begin-verse" mid="v13024021">
+			</marker>
+			<v n="21">
+				Of Rehabiah: 
+				<crossref let="p" cid="c13024021.41">
+				</crossref>
+				of the, 
+				<crossref let="q" cid="c13024021.42">
+				</crossref>
+				sons of Rehabiah, Isshiah the chief.
+				<note nid="n13024021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13024022">
+			</marker>
+			<v n="22">
+				Of the 
+				<crossref let="r" cid="c13024022.43">
+				</crossref>
+				Izharites, Shelomoth;, 
+				<crossref let="s" cid="c13024022.44">
+				</crossref>
+				of the sons of Shelomoth, Jahath.
+			</v>
+			<marker class="begin-verse" mid="v13024023">
+			</marker>
+			<v n="23">
+				The sons 
+				<crossref let="t" cid="c13024023.45">
+				</crossref>
+				of Hebron:(1), 
+				<crossref let="u" cid="c13024023.46">
+				</crossref>
+				Jeriah the chief,(2) Amariah the second, Jahaziel the third, Jekameam the fourth.
+			</v>
+			<marker class="begin-verse" mid="v13024024">
+			</marker>
+			<v n="24">
+				The sons 
+				<crossref let="v" cid="c13024024.47">
+				</crossref>
+				of Uzziel,, 
+				<crossref let="w" cid="c13024024.48">
+				</crossref>
+				Micah; of the sons of Micah, Shamir.
+				<note nid="n13024024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13024025">
+			</marker>
+			<v n="25">
+				The brother 
+				<crossref let="x" cid="c13024025.49">
+				</crossref>
+				of Micah,, 
+				<crossref let="y" cid="c13024025.50">
+				</crossref>
+				Isshiah; of the sons of Isshiah, Zechariah.
+			</v>
+			<marker class="begin-verse" mid="v13024026">
+			</marker>
+			<v n="26">
+				The sons 
+				<crossref let="z" cid="c13024026.51">
+				</crossref>
+				of Merari:, 
+				<crossref let="a" cid="c13024026.52">
+				</crossref>
+				Mahli and Mushi. The sons of Jaaziah: Beno.(3)
+			</v>
+			<marker class="begin-verse" mid="v13024027">
+			</marker>
+			<v n="27">
+				The sons 
+				<crossref let="b" cid="c13024027.53">
+				</crossref>
+				of Merari:, 
+				<crossref let="c" cid="c13024027.54">
+				</crossref>
+				of Jaaziah, Beno, Shoham, Zaccur, and Ibri.
+				<note nid="n13024027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13024028">
+			</marker>
+			<v n="28">
+				Of Mahli: 
+				<crossref let="d" cid="c13024028.55">
+				</crossref>
+				Eleazar, who, 
+				<crossref let="e" cid="c13024028.56">
+				</crossref>
+				had no sons.
+			</v>
+			<marker class="begin-verse" mid="v13024029">
+			</marker>
+			<v n="29">
+				Of Kish, 
+				<crossref let="f" cid="c13024029.57">
+				</crossref>
+				the sons, 
+				<crossref let="g" cid="c13024029.58">
+				</crossref>
+				of Kish: Jerahmeel.
+			</v>
+			<marker class="begin-verse" mid="v13024030">
+			</marker>
+			<v n="30">
+				The sons 
+				<crossref let="h" cid="c13024030.59">
+				</crossref>
+				of Mushi:, 
+				<crossref let="i" cid="c13024030.60">
+				</crossref>
+				Mahli, Eder, and Jerimoth. These were the sons of the Levites according to their fathers’ houses.
+				<note nid="n13024030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v13024031">
+			</marker>
+			<v n="31">
+				These also, 
+				<crossref let="j" cid="c13024031.61">
+				</crossref>
+				the head, 
+				<crossref let="k" cid="c13024031.62">
+				</crossref>
+				of each father’s house and his younger brother alike, cast lots, just as their brothers the sons of Aaron, in the presence of King David, Zadok, Ahimelech, and the heads of fathers’ houses of the priests and of the Levites. Footnotes (1) 24:23 Compare 23:19; Hebrew lacks *Hebron* (2) 24:23 Compare 23:19; Hebrew lacks *the chief* (3) 24:26 Or *his son*; also verse 27 (ESV)
+			</v>
+			<marker class="begin-verse" mid="v13024032">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

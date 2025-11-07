@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:00:23.942837</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:00:23.942875</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="AMP" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66010001"/>
+		<chapter num="10">
+			<heading>The Angel and the Little Book</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then I 
+				<crossref let="b" cid="c660101.1"/>
+				 saw another mighty angel coming down from heaven, clothed in a cloud, with a rainbow (halo) over his head; and his face was like the sun, and his feet (legs) were like columns of fire; [Ex 13:21, 22; Ezek 1:26-28; Dan 7:13; Matt 17:2]
+			</v>
+			<marker class="begin-verse" mid="v66010002"/>
+			<v n="2">
+				and he 
+				<crossref let="c" cid="c660102.1"/>
+				 had a little book (scroll) open in his hand. He set his right foot on the sea and his left foot on the land; [Ezek 2:9; Hos 11:10]
+			</v>
+			<marker class="begin-verse" mid="v66010003"/>
+			<v n="3">
+				and he 
+				<crossref let="d" cid="c660103.1"/>
+				 shouted with a loud voice, like the roaring of a lion [compelling attention and inspiring awe]; and when he had shouted out, the seven peals of thunder spoke with their own voices [uttering their message in distinct words]. [Ps 29]
+			</v>
+			<marker class="begin-verse" mid="v66010004"/>
+			<v n="4">
+				And when 
+				<crossref let="e" cid="c660104.1"/>
+				 the seven peals of thunder had spoken, I was about to write; but I heard a voice from heaven saying, “Seal up the things which the seven peals of thunder have spoken and do not write them down.” [2 Cor 12:4]
+			</v>
+			<marker class="begin-verse" mid="v66010005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c660105.1"/>
+				 angel whom I had seen standing on the sea and the land raised his right hand [to swear an oath] to heaven, [Deut 32:40; Dan 12:6, 7]
+			</v>
+			<marker class="begin-verse" mid="v66010006"/>
+			<v n="6">
+				and swore 
+				<crossref let="g" cid="c660106.1"/>
+				 [an oath] by [the name of] Him who lives forever and ever, who created heaven and the things in it, and the earth and the things in it, and the sea and the things in it, that there will be delay no longer, [Neh 9:6]
+			</v>
+			<marker class="begin-verse" mid="v66010007"/>
+			<v n="7">
+				but when 
+				<crossref let="h" cid="c660107.1"/>
+				 it is time for the trumpet call of the seventh angel, when he is about to sound, then the mystery of God [that is, His hidden purpose and plan] is finished, as He announced the gospel to His servants the prophets. [Dan 12:6; Rom 11:25; 1 Cor 15:55; 2 Thess 2:7]
+			</v>
+			<marker class="begin-verse" mid="v66010008"/>
+			<v n="8">
+				Then the 
+				<crossref let="i" cid="c660108.1"/>
+				 voice which I heard from heaven, I heard again speaking to me, and saying, “Go, take the book (scroll) which is open in the hand of the angel who is standing on the sea and on the land.”
+			</v>
+			<marker class="begin-verse" mid="v66010009"/>
+			<v n="9">
+				So I 
+				<crossref let="j" cid="c660109.1"/>
+				 went up to the angel and told him to give me the little book. And he said to me, “Take it and eat it; it will make your stomach bitter, but in your mouth it will be as sweet as honey.” [Ezek 2:8, 9; 3:1-3]
+			</v>
+			<marker class="begin-verse" mid="v66010010"/>
+			<v n="10">
+				So I 
+				<crossref let="k" cid="c6601010.1"/>
+				 took the little book from the angel’s hand and ate it, and in my mouth it was as sweet as honey; but once I had swallowed it, my stomach was bitter. [Ps 119:103; Jer 15; 16]
+			</v>
+			<marker class="begin-verse" mid="v66010011"/>
+			<v n="11">
+				Then they 
+				<crossref let="l" cid="c6601011.1"/>
+				 said to me, “You must prophesy again concerning many peoples and nations and languages and kings.” [Jer 1:10]
+			</v>
+			<marker class="begin-verse" mid="v66010012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

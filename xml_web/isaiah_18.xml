@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:01:07.124081</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:01:07.124125</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="WEB" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23018001"/>
+		<chapter num="18">
+			<begin-paragraph/>
+			<v n="1">
+				Ah, the 
+				<crossref let="b" cid="c230181.1"/>
+				 land of the rustling of wings, which is beyond the rivers of Ethiopia;
+			</v>
+			<marker class="begin-verse" mid="v23018002"/>
+			<v n="2">
+				that sends 
+				<crossref let="c" cid="c230182.1"/>
+				 ambassadors by the sea, even in vessels of papyrus on the waters, saying, “Go, you swift messengers, to a nation tall and smooth, to a people awesome from their beginning onward, a nation that measures out and treads down, whose land the rivers divide!”
+			</v>
+			<marker class="begin-verse" mid="v23018003"/>
+			<v n="3">
+				All you 
+				<crossref let="d" cid="c230183.1"/>
+				 inhabitants of the world, and you dwellers on the earth, when a banner is lifted up on the mountains, look! When the trumpet is blown, listen!
+			</v>
+			<marker class="begin-verse" mid="v23018004"/>
+			<v n="4">
+				For Yahweh 
+				<crossref let="e" cid="c230184.1"/>
+				 said to me, “I will be still, and I will see in my dwelling place, like clear heat in sunshine, like a cloud of dew in the heat of harvest.”
+			</v>
+			<marker class="begin-verse" mid="v23018005"/>
+			<v n="5">
+				For before 
+				<crossref let="f" cid="c230185.1"/>
+				 the harvest, when the blossom is over, and the flower becomes a ripening grape, he will cut off the sprigs with pruning hooks, and he will cut down and take away the spreading branches.
+			</v>
+			<marker class="begin-verse" mid="v23018006"/>
+			<v n="6">
+				They will 
+				<crossref let="g" cid="c230186.1"/>
+				 be left together for the ravenous birds of the mountains, and for the animals of the earth. The ravenous birds will eat them in the summer, and all the animals of the earth will eat them in the winter.
+			</v>
+			<marker class="begin-verse" mid="v23018007"/>
+			<v n="7">
+				In that 
+				<crossref let="h" cid="c230187.1"/>
+				 time, a present will be brought to Yahweh of Armies from a people tall and smooth, even from a people awesome from their beginning onward, a nation that measures out and treads down, whose land the rivers divide, to the place of the name of Yahweh of Armies, Mount Zion.
+			</v>
+			<marker class="begin-verse" mid="v23018008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

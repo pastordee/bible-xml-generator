@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:55:17.004415</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:55:17.004430</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19125001"/>
+		<chapter num="125">
+			<heading>A song for pilgrims ascending to Jerusalem.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Those who 
+				<crossref let="b" cid="c191251.1"/>
+				 trust in the Lord are as secure as Mount Zion;they will not be defeated but will endure forever.
+			</v>
+			<marker class="begin-verse" mid="v19125002"/>
+			<v n="2">
+				Just as 
+				<crossref let="c" cid="c191252.1"/>
+				 the mountains surround Jerusalem,so the Lord surrounds his people, both now and forever.
+			</v>
+			<marker class="begin-verse" mid="v19125003"/>
+			<v n="3">
+				The wicked 
+				<crossref let="d" cid="c191253.1"/>
+				 will not rule the land of the godly,for then the godly might be tempted to do wrong.
+			</v>
+			<marker class="begin-verse" mid="v19125004"/>
+			<v n="4">
+				O Lord, 
+				<crossref let="e" cid="c191254.1"/>
+				 do good to those who are good,whose hearts are in tune with you.
+			</v>
+			<marker class="begin-verse" mid="v19125005"/>
+			<v n="5">
+				But banish 
+				<crossref let="f" cid="c191255.1"/>
+				 those who turn to crooked ways, O Lord.Take them away with those who do evil.May Israel have peace!
+			</v>
+			<marker class="begin-verse" mid="v19125006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

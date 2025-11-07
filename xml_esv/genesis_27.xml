@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:57:21.168646</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:57:21.168688</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" bookAbbr="gen" version="ESV">
+		<marker class="begin-verse" mid="v01027001">
+		</marker>
+		<chapter num="27">
+			<heading>
+				Genesis 27
+			</heading>
+			<heading>
+				Isaac Blesses Jacob
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				When Isaac 
+				<crossref let="b" cid="c01027001.1">
+				</crossref>
+				was old, 
+				<crossref let="c" cid="c01027001.2">
+				</crossref>
+				and his eyes were dim so that he could not see, he called Esau his older son and said to him, “My son”; and he answered, “Here I am.”
+			</v>
+			<marker class="begin-verse" mid="v01027002">
+			</marker>
+			<v n="2" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					He said, 
+					<crossref let="d" cid="c01027002.3">
+				</crossref>
+					“Behold, I, 
+					<crossref let="e" cid="c01027002.4">
+				</crossref>
+				am old; I do not know the day of my death.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v01027003">
+			</marker>
+			<v n="3">
+				Now then, 
+				<crossref let="f" cid="c01027003.5">
+				</crossref>
+				take your, 
+				<crossref let="g" cid="c01027003.6">
+				</crossref>
+				weapons, your quiver and your bow, and go out to the field and hunt game for me,
+				<note nid="n01027003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027004">
+			</marker>
+			<v n="4">
+				and prepare 
+				<crossref let="h" cid="c01027004.7">
+				</crossref>
+				for me, 
+				<crossref let="i" cid="c01027004.8">
+				</crossref>
+				delicious food, such as I love, and bring it to me so that I may eat, that my soul may bless you before I die.”
+			</v>
+			<marker class="begin-verse" mid="v01027005">
+			</marker>
+			<v n="5">
+				Now Rebekah 
+				<crossref let="j" cid="c01027005.9">
+				</crossref>
+				was listening, 
+				<crossref let="k" cid="c01027005.10">
+				</crossref>
+				when Isaac spoke to his son Esau. So when Esau went to the field to hunt for game and bring it,
+			</v>
+			<marker class="begin-verse" mid="v01027006">
+			</marker>
+			<v n="6">
+				Rebekah said 
+				<crossref let="l" cid="c01027006.11">
+				</crossref>
+				to her, 
+				<crossref let="m" cid="c01027006.12">
+				</crossref>
+				son Jacob, “I heard your father speak to your brother Esau,
+				<note nid="n01027006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027007">
+			</marker>
+			<v n="7">
+				‘Bring me 
+				<crossref let="n" cid="c01027007.13">
+				</crossref>
+				game and, 
+				<crossref let="o" cid="c01027007.14">
+				</crossref>
+				prepare for me delicious food, that I may eat it and bless you before the LORD before I die.’
+			</v>
+			<marker class="begin-verse" mid="v01027008">
+			</marker>
+			<v n="8">
+				Now therefore, 
+				<crossref let="p" cid="c01027008.15">
+				</crossref>
+				my son,, 
+				<crossref let="q" cid="c01027008.16">
+				</crossref>
+				obey my voice as I command you.
+			</v>
+			<marker class="begin-verse" mid="v01027009">
+			</marker>
+			<v n="9">
+				Go to 
+				<crossref let="r" cid="c01027009.17">
+				</crossref>
+				the flock, 
+				<crossref let="s" cid="c01027009.18">
+				</crossref>
+				and bring me two good young goats, so that I may prepare from them delicious food for your father, such as he loves.
+				<note nid="n01027009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027010">
+			</marker>
+			<v n="10">
+				And you 
+				<crossref let="t" cid="c01027010.19">
+				</crossref>
+				shall bring, 
+				<crossref let="u" cid="c01027010.20">
+				</crossref>
+				it to your father to eat, so that he may bless you before he dies.”
+			</v>
+			<marker class="begin-verse" mid="v01027011">
+			</marker>
+			<v n="11">
+				But Jacob 
+				<crossref let="v" cid="c01027011.21">
+				</crossref>
+				said to, 
+				<crossref let="w" cid="c01027011.22">
+				</crossref>
+				Rebekah his mother, “Behold, my brother Esau is a hairy man, and I am a smooth man.
+			</v>
+			<marker class="begin-verse" mid="v01027012">
+			</marker>
+			<v n="12">
+				Perhaps my 
+				<crossref let="x" cid="c01027012.23">
+				</crossref>
+				father will, 
+				<crossref let="y" cid="c01027012.24">
+				</crossref>
+				feel me, and I shall seem to be mocking him and bring a curse upon myself and not a blessing.”
+				<note nid="n01027012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027013">
+			</marker>
+			<v n="13">
+				His mother 
+				<crossref let="z" cid="c01027013.25">
+				</crossref>
+				said to, 
+				<crossref let="a" cid="c01027013.26">
+				</crossref>
+				him, “Let your curse be on me, my son; only obey my voice, and go, bring them to me.”
+			</v>
+			<marker class="begin-verse" mid="v01027014">
+			</marker>
+			<v n="14">
+				So he 
+				<crossref let="b" cid="c01027014.27">
+				</crossref>
+				went and, 
+				<crossref let="c" cid="c01027014.28">
+				</crossref>
+				took them and brought them to his mother, and his mother prepared delicious food, such as his father loved.
+			</v>
+			<marker class="begin-verse" mid="v01027015">
+			</marker>
+			<v n="15">
+				Then Rebekah 
+				<crossref let="d" cid="c01027015.29">
+				</crossref>
+				took the, 
+				<crossref let="e" cid="c01027015.30">
+				</crossref>
+				best garments of Esau her older son, which were with her in the house, and put them on Jacob her younger son.
+				<note nid="n01027015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027016">
+			</marker>
+			<v n="16">
+				And the 
+				<crossref let="f" cid="c01027016.31">
+				</crossref>
+				skins of, 
+				<crossref let="g" cid="c01027016.32">
+				</crossref>
+				the young goats she put on his hands and on the smooth part of his neck.
+			</v>
+			<marker class="begin-verse" mid="v01027017">
+			</marker>
+			<v n="17">
+				And she 
+				<crossref let="h" cid="c01027017.33">
+				</crossref>
+				put the, 
+				<crossref let="i" cid="c01027017.34">
+				</crossref>
+				delicious food and the bread, which she had prepared, into the hand of her son Jacob.
+			</v>
+			<marker class="begin-verse" mid="v01027018">
+			</marker>
+			<v n="18" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					So he 
+					<crossref let="j" cid="c01027018.35">
+				</crossref>
+					went in, 
+					<crossref let="k" cid="c01027018.36">
+				</crossref>
+				to his father and said, “My father.” And he said, “Here I am. Who are you, my son?”
+					<note nid="n01027018.18">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v01027019">
+			</marker>
+			<v n="19">
+				Jacob said 
+				<crossref let="l" cid="c01027019.37">
+				</crossref>
+				to his, 
+				<crossref let="m" cid="c01027019.38">
+				</crossref>
+				father, “I am Esau your firstborn. I have done as you told me; now sit up and eat of my game, that your soul may bless me.”
+			</v>
+			<marker class="begin-verse" mid="v01027020">
+			</marker>
+			<v n="20">
+				But Isaac 
+				<crossref let="n" cid="c01027020.39">
+				</crossref>
+				said to, 
+				<crossref let="o" cid="c01027020.40">
+				</crossref>
+				his son, “How is it that you have found it so quickly, my son?” He answered, “Because the LORD your God granted me success.”
+			</v>
+			<marker class="begin-verse" mid="v01027021">
+			</marker>
+			<v n="21">
+				Then Isaac 
+				<crossref let="p" cid="c01027021.41">
+				</crossref>
+				said to, 
+				<crossref let="q" cid="c01027021.42">
+				</crossref>
+				Jacob, “Please come near, that I may feel you, my son, to know whether you are really my son Esau or not.”
+				<note nid="n01027021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027022">
+			</marker>
+			<v n="22">
+				So Jacob 
+				<crossref let="r" cid="c01027022.43">
+				</crossref>
+				went near, 
+				<crossref let="s" cid="c01027022.44">
+				</crossref>
+				to Isaac his father, who felt him and said, “The voice is Jacob’s voice, but the hands are the hands of Esau.”
+			</v>
+			<marker class="begin-verse" mid="v01027023">
+			</marker>
+			<v n="23">
+				And he 
+				<crossref let="t" cid="c01027023.45">
+				</crossref>
+				did not, 
+				<crossref let="u" cid="c01027023.46">
+				</crossref>
+				recognize him, because his hands were hairy like his brother Esau’s hands. So he blessed him.
+			</v>
+			<marker class="begin-verse" mid="v01027024">
+			</marker>
+			<v n="24" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					He said, 
+					<crossref let="v" cid="c01027024.47">
+				</crossref>
+					“Are you, 
+					<crossref let="w" cid="c01027024.48">
+				</crossref>
+				really my son Esau?” He answered, “I am.”
+					<note nid="n01027024.24">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v01027025">
+			</marker>
+			<v n="25" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Then he 
+					<crossref let="x" cid="c01027025.49">
+				</crossref>
+					said, “Bring, 
+					<crossref let="y" cid="c01027025.50">
+				</crossref>
+				it near to me, that I may eat of my son’s game and bless you.” So he brought it near to him, and he ate; and he brought him wine, and he drank.
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v01027026">
+			</marker>
+			<v n="26">
+				Then his 
+				<crossref let="z" cid="c01027026.51">
+				</crossref>
+				father Isaac, 
+				<crossref let="a" cid="c01027026.52">
+				</crossref>
+				said to him, “Come near and kiss me, my son.”
+			</v>
+			<marker class="begin-verse" mid="v01027027">
+			</marker>
+			<v n="27">
+				So he 
+				<crossref let="b" cid="c01027027.53">
+				</crossref>
+				came near, 
+				<crossref let="c" cid="c01027027.54">
+				</crossref>
+				and kissed him. And Isaac smelled the smell of his garments and blessed him and said, “See, the smell of my son is as the smell of a field that the LORD has blessed!
+				<note nid="n01027027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027028">
+			</marker>
+			<v n="28">
+				May God 
+				<crossref let="d" cid="c01027028.55">
+				</crossref>
+				give you, 
+				<crossref let="e" cid="c01027028.56">
+				</crossref>
+				of the dew of heaven and of the fatness of the earth and plenty of grain and wine.
+			</v>
+			<marker class="begin-verse" mid="v01027029">
+			</marker>
+			<v n="29">
+				Let peoples 
+				<crossref let="f" cid="c01027029.57">
+				</crossref>
+				serve you,, 
+				<crossref let="g" cid="c01027029.58">
+				</crossref>
+				and nations bow down to you. Be lord over your brothers, and may your mother’s sons bow down to you. Cursed be everyone who curses you, and blessed be everyone who blesses you!”
+			</v>
+			<marker class="begin-verse" mid="v01027030">
+			</marker>
+			<v n="30">
+				As soon 
+				<crossref let="h" cid="c01027030.59">
+				</crossref>
+				as Isaac, 
+				<crossref let="i" cid="c01027030.60">
+				</crossref>
+				had finished blessing Jacob, when Jacob had scarcely gone out from the presence of Isaac his father, Esau his brother came in from his hunting.
+				<note nid="n01027030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027031">
+			</marker>
+			<v n="31" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					He also 
+					<crossref let="j" cid="c01027031.61">
+				</crossref>
+					prepared delicious, 
+					<crossref let="k" cid="c01027031.62">
+				</crossref>
+				food and brought it to his father. And he said to his father, “Let my father arise and eat of his son’s game, that you may bless me.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v01027032">
+			</marker>
+			<v n="32">
+				His father 
+				<crossref let="l" cid="c01027032.63">
+				</crossref>
+				Isaac said, 
+				<crossref let="m" cid="c01027032.64">
+				</crossref>
+				to him, “Who are you?” He answered, “I am your son, your firstborn, Esau.”
+			</v>
+			<marker class="begin-verse" mid="v01027033">
+			</marker>
+			<v n="33">
+				Then Isaac 
+				<crossref let="n" cid="c01027033.65">
+				</crossref>
+				trembled very, 
+				<crossref let="o" cid="c01027033.66">
+				</crossref>
+				violently and said, “Who was it then that hunted game and brought it to me, and I ate it all before you came, and I have blessed him? Yes, and he shall be blessed.”
+				<note nid="n01027033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027034">
+			</marker>
+			<v n="34">
+				As soon 
+				<crossref let="p" cid="c01027034.67">
+				</crossref>
+				as Esau, 
+				<crossref let="q" cid="c01027034.68">
+				</crossref>
+				heard the words of his father, he cried out with an exceedingly great and bitter cry and said to his father, “Bless me, even me also, O my father!”
+			</v>
+			<marker class="begin-verse" mid="v01027035">
+			</marker>
+			<v n="35" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					But he 
+					<crossref let="r" cid="c01027035.69">
+				</crossref>
+					said, “Your, 
+					<crossref let="s" cid="c01027035.70">
+				</crossref>
+				brother came deceitfully, and he has taken away your blessing.”
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v01027036">
+			</marker>
+			<v n="36" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					Esau said, 
+					<crossref let="t" cid="c01027036.71">
+				</crossref>
+					“Is he, 
+					<crossref let="u" cid="c01027036.72">
+				</crossref>
+				not rightly named Jacob?(1) For he has cheated me these two times. He took away my birthright, and behold, now he has taken away my blessing.” Then he said, “Have you not reserved a blessing for me?”
+					<note nid="n01027036.36">
+				</note>
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v01027037">
+			</marker>
+			<v n="37">
+				Isaac answered 
+				<crossref let="v" cid="c01027037.73">
+				</crossref>
+				and said, 
+				<crossref let="w" cid="c01027037.74">
+				</crossref>
+				to Esau, “Behold, I have made him lord over you, and all his brothers I have given to him for servants, and with grain and wine I have sustained him. What then can I do for you, my son?”
+			</v>
+			<marker class="begin-verse" mid="v01027038">
+			</marker>
+			<v n="38">
+				Esau said 
+				<crossref let="x" cid="c01027038.75">
+				</crossref>
+				to his, 
+				<crossref let="y" cid="c01027038.76">
+				</crossref>
+				father, “Have you but one blessing, my father? Bless me, even me also, O my father.” And Esau lifted up his voice and wept.
+			</v>
+			<marker class="begin-verse" mid="v01027039">
+			</marker>
+			<v n="39">
+				Then Isaac 
+				<crossref let="z" cid="c01027039.77">
+				</crossref>
+				his father, 
+				<crossref let="a" cid="c01027039.78">
+				</crossref>
+				answered and said to him: “Behold, away from(2) the fatness of the earth shall your dwelling be, and away from(3) the dew of heaven on high.
+				<note nid="n01027039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027040">
+			</marker>
+			<v n="40">
+				By your 
+				<crossref let="b" cid="c01027040.79">
+				</crossref>
+				sword you, 
+				<crossref let="c" cid="c01027040.80">
+				</crossref>
+				shall live, and you shall serve your brother; but when you grow restless you shall break his yoke from your neck.”
+			</v>
+			<marker class="begin-verse" mid="v01027041">
+			</marker>
+			<v n="41">
+				Now Esau 
+				<crossref let="d" cid="c01027041.81">
+				</crossref>
+				hated Jacob, 
+				<crossref let="e" cid="c01027041.82">
+				</crossref>
+				because of the blessing with which his father had blessed him, and Esau said to himself, “The days of mourning for my father are approaching; then I will kill my brother Jacob.”
+			</v>
+			<marker class="begin-verse" mid="v01027042">
+			</marker>
+			<v n="42">
+				But the 
+				<crossref let="f" cid="c01027042.83">
+				</crossref>
+				words of, 
+				<crossref let="g" cid="c01027042.84">
+				</crossref>
+				Esau her older son were told to Rebekah. So she sent and called Jacob her younger son and said to him, “Behold, your brother Esau comforts himself about you by planning to kill you.
+				<note nid="n01027042.42">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027043">
+			</marker>
+			<v n="43">
+				Now therefore, 
+				<crossref let="h" cid="c01027043.85">
+				</crossref>
+				my son,, 
+				<crossref let="i" cid="c01027043.86">
+				</crossref>
+				obey my voice. Arise, flee to Laban my brother in Haran
+			</v>
+			<marker class="begin-verse" mid="v01027044">
+			</marker>
+			<v n="44">
+				and stay 
+				<crossref let="j" cid="c01027044.87">
+				</crossref>
+				with him, 
+				<crossref let="k" cid="c01027044.88">
+				</crossref>
+				a while, until your brother’s fury turns away—
+			</v>
+			<marker class="begin-verse" mid="v01027045">
+			</marker>
+			<v n="45">
+				until your 
+				<crossref let="l" cid="c01027045.89">
+				</crossref>
+				brother’s anger, 
+				<crossref let="m" cid="c01027045.90">
+				</crossref>
+				turns away from you, and he forgets what you have done to him. Then I will send and bring you from there. Why should I be bereft of you both in one day?”
+				<note nid="n01027045.45">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v01027046">
+			</marker>
+			<v n="46">
+				Then Rebekah 
+				<crossref let="n" cid="c01027046.91">
+				</crossref>
+				said to, 
+				<crossref let="o" cid="c01027046.92">
+				</crossref>
+				Isaac, “I loathe my life because of the Hittite women.(4) If Jacob marries one of the Hittite women like these, one of the women of the land, what good will my life be to me?” Footnotes (1) 27:36 *Jacob* means *He takes by the heel*, or *He cheats* (2) 27:39 Or *Behold, of* (3) 27:39 Or *and of* (4) 27:46 Hebrew *daughters of Heth* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v01027047">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:47:38.388384</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:47:38.388419</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" version="NKJV" bookAbbr="hos">
+		<marker class="begin-verse" mid="v28014001"/>
+		<chapter num="14">
+			<heading>Israel Restored at Last</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O Israel, 
+				<crossref let="b" cid="c280141.1"/>
+				 return to the Lord your God,For you have stumbled because of your iniquity;
+			</v>
+			<marker class="begin-verse" mid="v28014002"/>
+			<v n="2">
+				Take words 
+				<crossref let="c" cid="c280142.1"/>
+				 with you,And return to the Lord.Say to Him,“Take away all iniquity;Receive us graciously,For we will offer the sacrifices of our lips.
+			</v>
+			<marker class="begin-verse" mid="v28014003"/>
+			<v n="3">
+				Assyria shall 
+				<crossref let="d" cid="c280143.1"/>
+				 not save us,We will not ride on horses,Nor will we say anymore to the work of our hands, ‘You are our gods.’For in You the fatherless finds mercy.”
+			</v>
+			<marker class="begin-verse" mid="v28014004"/>
+			<v n="4">
+				“I will 
+				<crossref let="e" cid="c280144.1"/>
+				 heal their backsliding,I will love them freely,For My anger has turned away from him.
+			</v>
+			<marker class="begin-verse" mid="v28014005"/>
+			<v n="5">
+				I will 
+				<crossref let="f" cid="c280145.1"/>
+				 be like the dew to Israel;He shall grow like the lily,And lengthen his roots like Lebanon.
+			</v>
+			<marker class="begin-verse" mid="v28014006"/>
+			<v n="6">
+				His branches 
+				<crossref let="g" cid="c280146.1"/>
+				 shall spread;His beauty shall be like an olive tree,And his fragrance like Lebanon.
+			</v>
+			<marker class="begin-verse" mid="v28014007"/>
+			<v n="7">
+				Those who 
+				<crossref let="h" cid="c280147.1"/>
+				 dwell under his shadow shall return;They shall be revived like grain,And grow like a vine.Their scent shall be like the wine of Lebanon.
+			</v>
+			<marker class="begin-verse" mid="v28014008"/>
+			<v n="8">
+				“Ephraim shall 
+				<crossref let="i" cid="c280148.1"/>
+				 say, ‘What have I to do anymore with idols?’I have heard and observed him.I am like a green cypress tree;Your fruit is found in Me.”
+			</v>
+			<marker class="begin-verse" mid="v28014009"/>
+			<v n="9">
+				Who is 
+				<crossref let="j" cid="c280149.1"/>
+				 wise?Let him understand these things.Who is prudent?Let him know them.For the ways of the Lord are right;The righteous walk in them,But transgressors stumble in them.
+			</v>
+			<marker class="begin-verse" mid="v28014010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

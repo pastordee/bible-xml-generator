@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:20:26.132094</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:20:26.132103</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19093001"/>
+		<chapter num="93">
+			<heading>The LORD Reigns!(Psalms 99:1–9)</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c190931.1"/>
+				 reigns! He is robed in majesty;the LORD has clothed and armed Himself with strength.The world indeed is firmly established;it cannot be moved.
+			</v>
+			<marker class="begin-verse" mid="v19093002"/>
+			<v n="2">
+				Your throne 
+				<crossref let="c" cid="c190932.1"/>
+				 was established long ago;You are from all eternity.
+			</v>
+			<marker class="begin-verse" mid="v19093003"/>
+			<v n="3">
+				The floodwaters 
+				<crossref let="d" cid="c190933.1"/>
+				 have risen, O LORD;the rivers have raised their voice;the seas lift up their pounding waves.
+			</v>
+			<marker class="begin-verse" mid="v19093004"/>
+			<v n="4">
+				Above the 
+				<crossref let="e" cid="c190934.1"/>
+				 roar of many waters—the mighty breakers of the sea—the LORD on high is majestic.
+			</v>
+			<marker class="begin-verse" mid="v19093005"/>
+			<v n="5">
+				Your testimonies 
+				<crossref let="f" cid="c190935.1"/>
+				 are fully confirmed;holiness adorns Your house, O LORD,for all the days to come.
+			</v>
+			<marker class="begin-verse" mid="v19093006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

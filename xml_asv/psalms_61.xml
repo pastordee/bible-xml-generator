@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:32:19.878913</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:32:19.878930</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19061001"/>
+		<chapter num="61">
+			<heading>For the Chief Musician; on a stringed instrument. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Hear my 
+				<crossref let="b" cid="c190611.1"/>
+				 cry, O God;Attend unto my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19061002"/>
+			<v n="2">
+				From the 
+				<crossref let="c" cid="c190612.1"/>
+				 end of the earth will I call unto thee, when my heart is overwhelmed:Lead me to the rock that is higher than I.
+			</v>
+			<marker class="begin-verse" mid="v19061003"/>
+			<v n="3">
+				For thou 
+				<crossref let="d" cid="c190613.1"/>
+				 hast been a refuge for me,A strong tower from the enemy.
+			</v>
+			<marker class="begin-verse" mid="v19061004"/>
+			<v n="4">
+				I will 
+				<crossref let="e" cid="c190614.1"/>
+				 dwell in thy tabernacle for ever:I will take refuge in the covert of thy wings. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19061005"/>
+			<v n="5">
+				For thou, 
+				<crossref let="f" cid="c190615.1"/>
+				 O God, hast heard my vows:Thou hast given me the heritage of those that fear thy name.
+			</v>
+			<marker class="begin-verse" mid="v19061006"/>
+			<v n="6">
+				Thou wilt 
+				<crossref let="g" cid="c190616.1"/>
+				 prolong the king’s life;His years shall be as many generations.
+			</v>
+			<marker class="begin-verse" mid="v19061007"/>
+			<v n="7">
+				He shall 
+				<crossref let="h" cid="c190617.1"/>
+				 abide before God for ever:Oh prepare lovingkindness and truth, that they may preserve him.
+			</v>
+			<marker class="begin-verse" mid="v19061008"/>
+			<v n="8">
+				So will 
+				<crossref let="i" cid="c190618.1"/>
+				 I sing praise unto thy name for ever,That I may daily perform my vows.
+			</v>
+			<marker class="begin-verse" mid="v19061009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

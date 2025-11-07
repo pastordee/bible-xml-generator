@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:55.857302</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:55.857330</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19038001">
+		</marker>
+		<chapter num="38">
+			<heading>
+				Psalm 38
+			</heading>
+			<heading>
+				Do Not Forsake Me, O LORD
+			</heading>
+			<heading>
+				A Psalm of David, for the memorial offering.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				O LORD, 
+				<crossref let="b" cid="c19038001.1">
+				</crossref>
+				rebuke me, 
+				<crossref let="c" cid="c19038001.2">
+				</crossref>
+				not in your anger, nor discipline me in your wrath!
+			</v>
+			<marker class="begin-verse" mid="v19038002">
+			</marker>
+			<v n="2">
+				For your 
+				<crossref let="d" cid="c19038002.3">
+				</crossref>
+				arrows have, 
+				<crossref let="e" cid="c19038002.4">
+				</crossref>
+				sunk into me, and your hand has come down on me.
+			</v>
+			<marker class="begin-verse" mid="v19038003">
+			</marker>
+			<v n="3">
+				There is 
+				<crossref let="f" cid="c19038003.5">
+				</crossref>
+				no soundness, 
+				<crossref let="g" cid="c19038003.6">
+				</crossref>
+				in my flesh because of your indignation; there is no health in my bones because of my sin.
+				<note nid="n19038003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19038004">
+			</marker>
+			<v n="4">
+				For my 
+				<crossref let="h" cid="c19038004.7">
+				</crossref>
+				iniquities have, 
+				<crossref let="i" cid="c19038004.8">
+				</crossref>
+				gone over my head; like a heavy burden, they are too heavy for me.
+			</v>
+			<marker class="begin-verse" mid="v19038005">
+			</marker>
+			<v n="5">
+				My wounds 
+				<crossref let="j" cid="c19038005.9">
+				</crossref>
+				stink and, 
+				<crossref let="k" cid="c19038005.10">
+				</crossref>
+				fester because of my foolishness,
+			</v>
+			<marker class="begin-verse" mid="v19038006">
+			</marker>
+			<v n="6">
+				I am 
+				<crossref let="l" cid="c19038006.11">
+				</crossref>
+				utterly bowed, 
+				<crossref let="m" cid="c19038006.12">
+				</crossref>
+				down and prostrate; all the day I go about mourning.
+				<note nid="n19038006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19038007">
+			</marker>
+			<v n="7">
+				For my 
+				<crossref let="n" cid="c19038007.13">
+				</crossref>
+				sides are, 
+				<crossref let="o" cid="c19038007.14">
+				</crossref>
+				filled with burning, and there is no soundness in my flesh.
+			</v>
+			<marker class="begin-verse" mid="v19038008">
+			</marker>
+			<v n="8">
+				I am 
+				<crossref let="p" cid="c19038008.15">
+				</crossref>
+				feeble and, 
+				<crossref let="q" cid="c19038008.16">
+				</crossref>
+				crushed; I groan because of the tumult of my heart.
+			</v>
+			<marker class="begin-verse" mid="v19038009">
+			</marker>
+			<v n="9">
+				O Lord, 
+				<crossref let="r" cid="c19038009.17">
+				</crossref>
+				all my, 
+				<crossref let="s" cid="c19038009.18">
+				</crossref>
+				longing is before you; my sighing is not hidden from you.
+				<note nid="n19038009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19038010">
+			</marker>
+			<v n="10">
+				My heart 
+				<crossref let="t" cid="c19038010.19">
+				</crossref>
+				throbs; my, 
+				<crossref let="u" cid="c19038010.20">
+				</crossref>
+				strength fails me, and the light of my eyes—it also has gone from me.
+			</v>
+			<marker class="begin-verse" mid="v19038011">
+			</marker>
+			<v n="11">
+				My friends 
+				<crossref let="v" cid="c19038011.21">
+				</crossref>
+				and companions, 
+				<crossref let="w" cid="c19038011.22">
+				</crossref>
+				stand aloof from my plague, and my nearest kin stand far off.
+			</v>
+			<marker class="begin-verse" mid="v19038012">
+			</marker>
+			<v n="12">
+				Those who 
+				<crossref let="x" cid="c19038012.23">
+				</crossref>
+				seek my, 
+				<crossref let="y" cid="c19038012.24">
+				</crossref>
+				life lay their snares; those who seek my hurt speak of ruin and meditate treachery all day long.
+				<note nid="n19038012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19038013">
+			</marker>
+			<v n="13">
+				But I 
+				<crossref let="z" cid="c19038013.25">
+				</crossref>
+				am like, 
+				<crossref let="a" cid="c19038013.26">
+				</crossref>
+				a deaf man; I do not hear, like a mute man who does not open his mouth.
+			</v>
+			<marker class="begin-verse" mid="v19038014">
+			</marker>
+			<v n="14">
+				I have 
+				<crossref let="b" cid="c19038014.27">
+				</crossref>
+				become like, 
+				<crossref let="c" cid="c19038014.28">
+				</crossref>
+				a man who does not hear, and in whose mouth are no rebukes.
+			</v>
+			<marker class="begin-verse" mid="v19038015">
+			</marker>
+			<v n="15">
+				But for 
+				<crossref let="d" cid="c19038015.29">
+				</crossref>
+				you, O, 
+				<crossref let="e" cid="c19038015.30">
+				</crossref>
+				LORD, do I wait; it is you, O Lord my God, who will answer.
+				<note nid="n19038015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19038016">
+			</marker>
+			<v n="16">
+				For I 
+				<crossref let="f" cid="c19038016.31">
+				</crossref>
+				said, “Only, 
+				<crossref let="g" cid="c19038016.32">
+				</crossref>
+				let them not rejoice over me, who boast against me when my foot slips!”
+			</v>
+			<marker class="begin-verse" mid="v19038017">
+			</marker>
+			<v n="17">
+				For I 
+				<crossref let="h" cid="c19038017.33">
+				</crossref>
+				am ready, 
+				<crossref let="i" cid="c19038017.34">
+				</crossref>
+				to fall, and my pain is ever before me.
+			</v>
+			<marker class="begin-verse" mid="v19038018">
+			</marker>
+			<v n="18">
+				I confess 
+				<crossref let="j" cid="c19038018.35">
+				</crossref>
+				my iniquity;, 
+				<crossref let="k" cid="c19038018.36">
+				</crossref>
+				I am sorry for my sin.
+				<note nid="n19038018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19038019">
+			</marker>
+			<v n="19">
+				But my 
+				<crossref let="l" cid="c19038019.37">
+				</crossref>
+				foes are, 
+				<crossref let="m" cid="c19038019.38">
+				</crossref>
+				vigorous, they are mighty, and many are those who hate me wrongfully.
+			</v>
+			<marker class="begin-verse" mid="v19038020">
+			</marker>
+			<v n="20">
+				Those who 
+				<crossref let="n" cid="c19038020.39">
+				</crossref>
+				render me, 
+				<crossref let="o" cid="c19038020.40">
+				</crossref>
+				evil for good accuse me because I follow after good.
+			</v>
+			<marker class="begin-verse" mid="v19038021">
+			</marker>
+			<v n="21">
+				Do not 
+				<crossref let="p" cid="c19038021.41">
+				</crossref>
+				forsake me,, 
+				<crossref let="q" cid="c19038021.42">
+				</crossref>
+				O LORD! O my God, be not far from me!
+				<note nid="n19038021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19038022">
+			</marker>
+			<v n="22">
+				Make haste 
+				<crossref let="r" cid="c19038022.43">
+				</crossref>
+				to help, 
+				<crossref let="s" cid="c19038022.44">
+				</crossref>
+				me, O Lord, my salvation! (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19038023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

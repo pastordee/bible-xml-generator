@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:41:48.536935</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:41:48.536958</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19002001"/>
+		<chapter num="2">
+			<begin-paragraph/>
+			<v n="1">
+				Why do 
+				<crossref let="b" cid="c190021.1"/>
+				 the nations rage,and the peoples plot a vain thing?
+			</v>
+			<marker class="begin-verse" mid="v19002002"/>
+			<v n="2">
+				The kings 
+				<crossref let="c" cid="c190022.1"/>
+				 of the earth take a stand,and the rulers take counsel together,against Yahweh, and against his Anointed, saying,
+			</v>
+			<marker class="begin-verse" mid="v19002003"/>
+			<v n="3">
+				“Let’s break 
+				<crossref let="d" cid="c190023.1"/>
+				 their bonds apart,and cast their cords from us.”
+			</v>
+			<marker class="begin-verse" mid="v19002004"/>
+			<v n="4">
+				He who 
+				<crossref let="e" cid="c190024.1"/>
+				 sits in the heavens will laugh.The Lord will have them in derision.
+			</v>
+			<marker class="begin-verse" mid="v19002005"/>
+			<v n="5">
+				Then he 
+				<crossref let="f" cid="c190025.1"/>
+				 will speak to them in his anger,and terrify them in his wrath:
+			</v>
+			<marker class="begin-verse" mid="v19002006"/>
+			<v n="6">
+				“Yet I 
+				<crossref let="g" cid="c190026.1"/>
+				 have set my King on my holy hill of Zion.”
+			</v>
+			<marker class="begin-verse" mid="v19002007"/>
+			<v n="7">
+				I will 
+				<crossref let="h" cid="c190027.1"/>
+				 tell of the decree:Yahweh said to me, “You are my son.Today I have become your father.
+			</v>
+			<marker class="begin-verse" mid="v19002008"/>
+			<v n="8">
+				Ask of 
+				<crossref let="i" cid="c190028.1"/>
+				 me, and I will give the nations for your inheritance,the uttermost parts of the earth for your possession.
+			</v>
+			<marker class="begin-verse" mid="v19002009"/>
+			<v n="9">
+				You shall 
+				<crossref let="j" cid="c190029.1"/>
+				 break them with a rod of iron.You shall dash them in pieces like a potter’s vessel.”
+			</v>
+			<marker class="begin-verse" mid="v19002010"/>
+			<v n="10">
+				Now therefore 
+				<crossref let="k" cid="c1900210.1"/>
+				 be wise, you kings.Be instructed, you judges of the earth.
+			</v>
+			<marker class="begin-verse" mid="v19002011"/>
+			<v n="11">
+				Serve Yahweh 
+				<crossref let="l" cid="c1900211.1"/>
+				 with fear,and rejoice with trembling.
+			</v>
+			<marker class="begin-verse" mid="v19002012"/>
+			<v n="12">
+				Give sincere 
+				<crossref let="m" cid="c1900212.1"/>
+				 homage to the Son, lest he be angry, and you perish on the way,for his wrath will soon be kindled.Blessed are all those who take refuge in him.
+			</v>
+			<marker class="begin-verse" mid="v19002013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:37:16.520312</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:37:16.520330</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19117001"/>
+		<chapter num="117">
+			<begin-paragraph/>
+			<v n="1">
+				O praise 
+				<crossref let="b" cid="c191171.1"/>
+				 Jehovah, all ye nations;Laud him, all ye peoples.
+			</v>
+			<marker class="begin-verse" mid="v19117002"/>
+			<v n="2">
+				For his 
+				<crossref let="c" cid="c191172.1"/>
+				 lovingkindness is great toward us;And the truth of Jehovah endureth for ever.Praise ye Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19117003"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

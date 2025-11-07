@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:40:01.162566</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:40:01.162572</next_refresh_due>
+	</generation_info>
+	<book title="Jeremiah" num="24" testament="old" version="BSB" bookAbbr="jer">
+		<marker class="begin-verse" mid="v24047001"/>
+		<chapter num="47">
+			<heading>Judgment on the Philistines(Zephaniah 2:4–7)</heading>
+			<begin-paragraph/>
+			<v n="1">
+				This is 
+				<crossref let="b" cid="c240471.1"/>
+				 the word of the LORD that came to Jeremiah the prophet about the Philistines before Pharaoh struck down Gaza.
+			</v>
+			<marker class="begin-verse" mid="v24047002"/>
+			<v n="2">
+				This is 
+				<crossref let="c" cid="c240472.1"/>
+				 what the LORD says:“See how the waters are rising from the northand becoming an overflowing torrent.They will overflow the land and its fullness,the cities and their inhabitants.The people will cry out,and all who dwell in the land will wail
+			</v>
+			<marker class="begin-verse" mid="v24047003"/>
+			<v n="3">
+				at the 
+				<crossref let="d" cid="c240473.1"/>
+				 sound of the galloping hooves of stallions,the rumbling of chariots,and the clatter of their wheels.The fathers will not turn back for their sons;their hands will hang limp.
+			</v>
+			<marker class="begin-verse" mid="v24047004"/>
+			<v n="4">
+				For the 
+				<crossref let="e" cid="c240474.1"/>
+				 day has cometo destroy all the Philistines,to cut off from Tyre and Sidonevery remaining ally.Indeed, the LORD is about to destroy the Philistines,the remnant from the coasts of Caphtor.
+			</v>
+			<marker class="begin-verse" mid="v24047005"/>
+			<v n="5">
+				The people 
+				<crossref let="f" cid="c240475.1"/>
+				 of Gaza will shave their heads in mourning;Ashkelon will be silenced.O remnant of their valley,how long will you gash yourself?
+			</v>
+			<marker class="begin-verse" mid="v24047006"/>
+			<v n="6">
+				‘Alas, O 
+				<crossref let="g" cid="c240476.1"/>
+				 sword of the LORD,how long until you rest?Return to your sheath;cease and be still!’
+			</v>
+			<marker class="begin-verse" mid="v24047007"/>
+			<v n="7">
+				How can 
+				<crossref let="h" cid="c240477.1"/>
+				 it restwhen the LORD has commanded it?He has appointed it against Ashkelonand the shore of its coastland.”
+			</v>
+			<marker class="begin-verse" mid="v24047008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:30:07.274830</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:30:07.274840</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19036001"/>
+		<chapter num="36">
+			<heading>For the Chief Musician. A Psalm of David the servant of Jehovah.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The transgression 
+				<crossref let="b" cid="c190361.1"/>
+				 of the wicked saith within my heart,There is no fear of God before his eyes.
+			</v>
+			<marker class="begin-verse" mid="v19036002"/>
+			<v n="2">
+				For he 
+				<crossref let="c" cid="c190362.1"/>
+				 flattereth himself in his own eyes,That his iniquity will not be found out and be hated.
+			</v>
+			<marker class="begin-verse" mid="v19036003"/>
+			<v n="3">
+				The words 
+				<crossref let="d" cid="c190363.1"/>
+				 of his mouth are iniquity and deceit:He hath ceased to be wise and to do good.
+			</v>
+			<marker class="begin-verse" mid="v19036004"/>
+			<v n="4">
+				He deviseth 
+				<crossref let="e" cid="c190364.1"/>
+				 iniquity upon his bed;He setteth himself in a way that is not good;He abhorreth not evil.
+			</v>
+			<marker class="begin-verse" mid="v19036005"/>
+			<v n="5">
+				Thy lovingkindness, 
+				<crossref let="f" cid="c190365.1"/>
+				 O Jehovah, is in the heavens;Thy faithfulness reacheth unto the skies.
+			</v>
+			<marker class="begin-verse" mid="v19036006"/>
+			<v n="6">
+				Thy righteousness 
+				<crossref let="g" cid="c190366.1"/>
+				 is like the mountains of God;Thy judgments are a great deep:O Jehovah, thou preservest man and beast.
+			</v>
+			<marker class="begin-verse" mid="v19036007"/>
+			<v n="7">
+				How precious 
+				<crossref let="h" cid="c190367.1"/>
+				 is thy lovingkindness, O God!And the children of men take refuge under the shadow of thy wings.
+			</v>
+			<marker class="begin-verse" mid="v19036008"/>
+			<v n="8">
+				They shall 
+				<crossref let="i" cid="c190368.1"/>
+				 be abundantly satisfied with the fatness of thy house;And thou wilt make them drink of the river of thy pleasures.
+			</v>
+			<marker class="begin-verse" mid="v19036009"/>
+			<v n="9">
+				For with 
+				<crossref let="j" cid="c190369.1"/>
+				 thee is the fountain of life:In thy light shall we see light.
+			</v>
+			<marker class="begin-verse" mid="v19036010"/>
+			<v n="10">
+				Oh continue 
+				<crossref let="k" cid="c1903610.1"/>
+				 thy lovingkindness unto them that know thee,And thy righteousness to the upright in heart.
+			</v>
+			<marker class="begin-verse" mid="v19036011"/>
+			<v n="11">
+				Let not 
+				<crossref let="l" cid="c1903611.1"/>
+				 the foot of pride come against me,And let not the hand of the wicked drive me away.
+			</v>
+			<marker class="begin-verse" mid="v19036012"/>
+			<v n="12">
+				There are 
+				<crossref let="m" cid="c1903612.1"/>
+				 the workers of iniquity fallen:They are thrust down, and shall not be able to rise.
+			</v>
+			<marker class="begin-verse" mid="v19036013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

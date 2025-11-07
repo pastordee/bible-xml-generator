@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:06:01.574877</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:06:01.574885</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="NLT" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02001001"/>
+		<chapter num="1">
+			<heading>The Israelites in Egypt</heading>
+			<begin-paragraph/>
+			<v n="1">
+				These are 
+				<crossref let="b" cid="c020011.1"/>
+				 the names of the sons of Israel (that is, Jacob) who moved to Egypt with their father, each with his family:
+			</v>
+			<marker class="begin-verse" mid="v02001002"/>
+			<v n="2">
+				Reuben, Simeon, 
+				<crossref let="c" cid="c020012.1"/>
+				 Levi, Judah,
+			</v>
+			<marker class="begin-verse" mid="v02001003"/>
+			<v n="3">Issachar, Zebulun, Benjamin,</v>
+			<marker class="begin-verse" mid="v02001004"/>
+			<v n="4">
+				Dan, Naphtali, 
+				<crossref let="e" cid="c020014.1"/>
+				 Gad, and Asher.
+			</v>
+			<marker class="begin-verse" mid="v02001005"/>
+			<v n="5">
+				In all, 
+				<crossref let="f" cid="c020015.1"/>
+				 Jacob had seventy descendants in Egypt, including Joseph, who was already there.
+			</v>
+			<marker class="begin-verse" mid="v02001006"/>
+			<v n="6">
+				In time, 
+				<crossref let="g" cid="c020016.1"/>
+				 Joseph and all of his brothers died, ending that entire generation.
+			</v>
+			<marker class="begin-verse" mid="v02001007"/>
+			<v n="7">
+				But their 
+				<crossref let="h" cid="c020017.1"/>
+				 descendants, the Israelites, had many children and grandchildren. In fact, they multiplied so greatly that they became extremely powerful and filled the land.
+			</v>
+			<marker class="begin-verse" mid="v02001008"/>
+			<v n="8">
+				Eventually, a 
+				<crossref let="i" cid="c020018.1"/>
+				 new king came to power in Egypt who knew nothing about Joseph or what he had done.
+			</v>
+			<marker class="begin-verse" mid="v02001009"/>
+			<v n="9">
+				He said 
+				<crossref let="j" cid="c020019.1"/>
+				 to his people, “Look, the people of Israel now outnumber us and are stronger than we are.
+			</v>
+			<marker class="begin-verse" mid="v02001010"/>
+			<v n="10">
+				We must 
+				<crossref let="k" cid="c0200110.1"/>
+				 make a plan to keep them from growing even more. If we don’t, and if war breaks out, they will join our enemies and fight against us. Then they will escape from the country.”
+			</v>
+			<marker class="begin-verse" mid="v02001011"/>
+			<v n="11">
+				So the 
+				<crossref let="l" cid="c0200111.1"/>
+				 Egyptians made the Israelites their slaves. They appointed brutal slave drivers over them, hoping to wear them down with crushing labor. They forced them to build the cities of Pithom and Rameses as supply centers for the king.
+			</v>
+			<marker class="begin-verse" mid="v02001012"/>
+			<v n="12">
+				But the 
+				<crossref let="m" cid="c0200112.1"/>
+				 more the Egyptians oppressed them, the more the Israelites multiplied and spread, and the more alarmed the Egyptians became.
+			</v>
+			<marker class="begin-verse" mid="v02001013"/>
+			<v n="13">
+				So the 
+				<crossref let="n" cid="c0200113.1"/>
+				 Egyptians worked the people of Israel without mercy.
+			</v>
+			<marker class="begin-verse" mid="v02001014"/>
+			<v n="14">
+				They made 
+				<crossref let="o" cid="c0200114.1"/>
+				 their lives bitter, forcing them to mix mortar and make bricks and do all the work in the fields. They were ruthless in all their demands.
+			</v>
+			<marker class="begin-verse" mid="v02001015"/>
+			<v n="15">
+				Then Pharaoh, 
+				<crossref let="p" cid="c0200115.1"/>
+				 the king of Egypt, gave this order to the Hebrew midwives, Shiphrah and Puah:
+			</v>
+			<marker class="begin-verse" mid="v02001016"/>
+			<v n="16">
+				“When you 
+				<crossref let="q" cid="c0200116.1"/>
+				 help the Hebrew women as they give birth, watch as they deliver. If the baby is a boy, kill him; if it is a girl, let her live.”
+			</v>
+			<marker class="begin-verse" mid="v02001017"/>
+			<v n="17">
+				But because 
+				<crossref let="r" cid="c0200117.1"/>
+				 the midwives feared God, they refused to obey the king’s orders. They allowed the boys to live, too.
+			</v>
+			<marker class="begin-verse" mid="v02001018"/>
+			<v n="18">
+				So the 
+				<crossref let="s" cid="c0200118.1"/>
+				 king of Egypt called for the midwives. “Why have you done this?” he demanded. “Why have you allowed the boys to live?”
+			</v>
+			<marker class="begin-verse" mid="v02001019"/>
+			<v n="19">
+				“The Hebrew 
+				<crossref let="t" cid="c0200119.1"/>
+				 women are not like the Egyptian women,” the midwives replied. “They are more vigorous and have their babies so quickly that we cannot get there in time.”
+			</v>
+			<marker class="begin-verse" mid="v02001020"/>
+			<v n="20">
+				So God 
+				<crossref let="u" cid="c0200120.1"/>
+				 was good to the midwives, and the Israelites continued to multiply, growing more and more powerful.
+			</v>
+			<marker class="begin-verse" mid="v02001021"/>
+			<v n="21">
+				And because 
+				<crossref let="v" cid="c0200121.1"/>
+				 the midwives feared God, he gave them families of their own.
+			</v>
+			<marker class="begin-verse" mid="v02001022"/>
+			<v n="22">
+				Then Pharaoh 
+				<crossref let="w" cid="c0200122.1"/>
+				 gave this order to all his people: “Throw every newborn Hebrew boy into the Nile River. But you may let the girls live.”
+			</v>
+			<marker class="begin-verse" mid="v02001023"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

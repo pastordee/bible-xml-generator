@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:43:56.596923</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:43:56.596937</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19026001"/>
+		<chapter num="26">
+			<heading>By David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Judge me, 
+				<crossref let="b" cid="c190261.1"/>
+				 Yahweh, for I have walked in my integrity.I have trusted also in Yahweh without wavering.
+			</v>
+			<marker class="begin-verse" mid="v19026002"/>
+			<v n="2">
+				Examine me, 
+				<crossref let="c" cid="c190262.1"/>
+				 Yahweh, and prove me.Try my heart and my mind.
+			</v>
+			<marker class="begin-verse" mid="v19026003"/>
+			<v n="3">
+				For your 
+				<crossref let="d" cid="c190263.1"/>
+				 loving kindness is before my eyes.I have walked in your truth.
+			</v>
+			<marker class="begin-verse" mid="v19026004"/>
+			<v n="4">
+				I have 
+				<crossref let="e" cid="c190264.1"/>
+				 not sat with deceitful men,neither will I go in with hypocrites.
+			</v>
+			<marker class="begin-verse" mid="v19026005"/>
+			<v n="5">
+				I hate 
+				<crossref let="f" cid="c190265.1"/>
+				 the assembly of evildoers,and will not sit with the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19026006"/>
+			<v n="6">
+				I will 
+				<crossref let="g" cid="c190266.1"/>
+				 wash my hands in innocence,so I will go about your altar, Yahweh,
+			</v>
+			<marker class="begin-verse" mid="v19026007"/>
+			<v n="7">
+				that I 
+				<crossref let="h" cid="c190267.1"/>
+				 may make the voice of thanksgiving to be heardand tell of all your wondrous deeds.
+			</v>
+			<marker class="begin-verse" mid="v19026008"/>
+			<v n="8">
+				Yahweh, I 
+				<crossref let="i" cid="c190268.1"/>
+				 love the habitation of your house,the place where your glory dwells.
+			</v>
+			<marker class="begin-verse" mid="v19026009"/>
+			<v n="9">
+				Don’t gather 
+				<crossref let="j" cid="c190269.1"/>
+				 my soul with sinners,nor my life with bloodthirsty men
+			</v>
+			<marker class="begin-verse" mid="v19026010"/>
+			<v n="10">
+				in whose 
+				<crossref let="k" cid="c1902610.1"/>
+				 hands is wickedness;their right hand is full of bribes.
+			</v>
+			<marker class="begin-verse" mid="v19026011"/>
+			<v n="11">
+				But as 
+				<crossref let="l" cid="c1902611.1"/>
+				 for me, I will walk in my integrity.Redeem me, and be merciful to me.
+			</v>
+			<marker class="begin-verse" mid="v19026012"/>
+			<v n="12">
+				My foot 
+				<crossref let="m" cid="c1902612.1"/>
+				 stands in an even place.In the congregations I will bless Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v19026013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

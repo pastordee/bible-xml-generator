@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:57:55.014051</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:57:55.014060</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" bookAbbr="hos" version="ESV">
+		<marker class="begin-verse" mid="v28004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				Hosea 4
+			</heading>
+			<heading>
+				The LORD Accuses Israel
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Hear the 
+				<crossref let="b" cid="c28004001.1">
+				</crossref>
+				word of, 
+				<crossref let="c" cid="c28004001.2">
+				</crossref>
+				the LORD, O children of Israel, for the LORD has a controversy with the inhabitants of the land. There is no faithfulness or steadfast love, and no knowledge of God in the land;
+			</v>
+			<marker class="begin-verse" mid="v28004002">
+			</marker>
+			<v n="2">
+				there is 
+				<crossref let="d" cid="c28004002.3">
+				</crossref>
+				swearing, lying,, 
+				<crossref let="e" cid="c28004002.4">
+				</crossref>
+				murder, stealing, and committing adultery; they break all bounds, and bloodshed follows bloodshed.
+			</v>
+			<marker class="begin-verse" mid="v28004003">
+			</marker>
+			<v n="3">
+				Therefore the 
+				<crossref let="f" cid="c28004003.5">
+				</crossref>
+				land mourns,, 
+				<crossref let="g" cid="c28004003.6">
+				</crossref>
+				and all who dwell in it languish, and also the beasts of the field and the birds of the heavens, and even the fish of the sea are taken away.
+				<note nid="n28004003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28004004">
+			</marker>
+			<v n="4">
+				Yet let 
+				<crossref let="h" cid="c28004004.7">
+				</crossref>
+				no one, 
+				<crossref let="i" cid="c28004004.8">
+				</crossref>
+				contend, and let none accuse, for with you is my contention, O priest.(1)
+			</v>
+			<marker class="begin-verse" mid="v28004005">
+			</marker>
+			<v n="5">
+				You shall 
+				<crossref let="j" cid="c28004005.9">
+				</crossref>
+				stumble by, 
+				<crossref let="k" cid="c28004005.10">
+				</crossref>
+				day; the prophet also shall stumble with you by night; and I will destroy your mother.
+			</v>
+			<marker class="begin-verse" mid="v28004006">
+			</marker>
+			<v n="6">
+				My people 
+				<crossref let="l" cid="c28004006.11">
+				</crossref>
+				are destroyed, 
+				<crossref let="m" cid="c28004006.12">
+				</crossref>
+				for lack of knowledge; because you have rejected knowledge, I reject you from being a priest to me. And since you have forgotten the law of your God, I also will forget your children.
+				<note nid="n28004006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28004007">
+			</marker>
+			<v n="7">
+				The more 
+				<crossref let="n" cid="c28004007.13">
+				</crossref>
+				they increased,, 
+				<crossref let="o" cid="c28004007.14">
+				</crossref>
+				the more they sinned against me; I will change their glory into shame.
+			</v>
+			<marker class="begin-verse" mid="v28004008">
+			</marker>
+			<v n="8">
+				They feed 
+				<crossref let="p" cid="c28004008.15">
+				</crossref>
+				on the, 
+				<crossref let="q" cid="c28004008.16">
+				</crossref>
+				sin(2) of my people; they are greedy for their iniquity.
+			</v>
+			<marker class="begin-verse" mid="v28004009">
+			</marker>
+			<v n="9">
+				And it 
+				<crossref let="r" cid="c28004009.17">
+				</crossref>
+				shall be, 
+				<crossref let="s" cid="c28004009.18">
+				</crossref>
+				like people, like priest; I will punish them for their ways and repay them for their deeds.
+				<note nid="n28004009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28004010">
+			</marker>
+			<v n="10">
+				They shall 
+				<crossref let="t" cid="c28004010.19">
+				</crossref>
+				eat, but, 
+				<crossref let="u" cid="c28004010.20">
+				</crossref>
+				not be satisfied; they shall play the whore, but not multiply, because they have forsaken the LORD to cherish
+			</v>
+			<marker class="begin-verse" mid="v28004011">
+			</marker>
+			<v n="11">
+				whoredom, wine, 
+				<crossref let="v" cid="c28004011.21">
+				</crossref>
+				and new, 
+				<crossref let="w" cid="c28004011.22">
+				</crossref>
+				wine, which take away the understanding.
+			</v>
+			<marker class="begin-verse" mid="v28004012">
+			</marker>
+			<v n="12">
+				My people 
+				<crossref let="x" cid="c28004012.23">
+				</crossref>
+				inquire of, 
+				<crossref let="y" cid="c28004012.24">
+				</crossref>
+				a piece of wood, and their walking staff gives them oracles. For a spirit of whoredom has led them astray, and they have left their God to play the whore.
+				<note nid="n28004012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28004013">
+			</marker>
+			<v n="13">
+				They sacrifice 
+				<crossref let="z" cid="c28004013.25">
+				</crossref>
+				on the, 
+				<crossref let="a" cid="c28004013.26">
+				</crossref>
+				tops of the mountains and burn offerings on the hills, under oak, poplar, and terebinth, because their shade is good. Therefore your daughters play the whore, and your brides commit adultery.
+			</v>
+			<marker class="begin-verse" mid="v28004014">
+			</marker>
+			<v n="14">
+				I will 
+				<crossref let="b" cid="c28004014.27">
+				</crossref>
+				not punish, 
+				<crossref let="c" cid="c28004014.28">
+				</crossref>
+				your daughters when they play the whore, nor your brides when they commit adultery; for the men themselves go aside with prostitutes and sacrifice with cult prostitutes, and a people without understanding shall come to ruin.
+			</v>
+			<marker class="begin-verse" mid="v28004015">
+			</marker>
+			<v n="15">
+				Though you 
+				<crossref let="d" cid="c28004015.29">
+				</crossref>
+				play the, 
+				<crossref let="e" cid="c28004015.30">
+				</crossref>
+				whore, O Israel, let not Judah become guilty. Enter not into Gilgal, nor go up to Beth-aven, and swear not, “As the LORD lives.”
+				<note nid="n28004015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28004016">
+			</marker>
+			<v n="16">
+				Like a 
+				<crossref let="f" cid="c28004016.31">
+				</crossref>
+				stubborn heifer,, 
+				<crossref let="g" cid="c28004016.32">
+				</crossref>
+				Israel is stubborn; can the LORD now feed them like a lamb in a broad pasture?
+			</v>
+			<marker class="begin-verse" mid="v28004017">
+			</marker>
+			<v n="17">
+				Ephraim is 
+				<crossref let="h" cid="c28004017.33">
+				</crossref>
+				joined to, 
+				<crossref let="i" cid="c28004017.34">
+				</crossref>
+				idols; leave him alone.
+			</v>
+			<marker class="begin-verse" mid="v28004018">
+			</marker>
+			<v n="18">
+				When their 
+				<crossref let="j" cid="c28004018.35">
+				</crossref>
+				drink is, 
+				<crossref let="k" cid="c28004018.36">
+				</crossref>
+				gone, they give themselves to whoring; their rulers(3) dearly love shame.
+				<note nid="n28004018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v28004019">
+			</marker>
+			<v n="19">
+				A wind 
+				<crossref let="l" cid="c28004019.37">
+				</crossref>
+				has wrapped, 
+				<crossref let="m" cid="c28004019.38">
+				</crossref>
+				them(4) in its wings, and they shall be ashamed because of their sacrifices. Footnotes (1) 4:4 Or *for your people are like those who contend with the priest* (2) 4:8 Or *sin offering* (3) 4:18 Hebrew *shields* (4) 4:19 Hebrew *her* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v28004020">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

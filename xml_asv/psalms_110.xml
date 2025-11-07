@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:36:39.359457</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:36:39.359471</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19110001"/>
+		<chapter num="110">
+			<heading>A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Jehovah saith 
+				<crossref let="b" cid="c191101.1"/>
+				 unto my Lord, Sit thou at my right hand,Until I make thine enemies thy footstool.
+			</v>
+			<marker class="begin-verse" mid="v19110002"/>
+			<v n="2">
+				Jehovah will 
+				<crossref let="c" cid="c191102.1"/>
+				 send forth the rod of thy strength out of Zion:Rule thou in the midst of thine enemies.
+			</v>
+			<marker class="begin-verse" mid="v19110003"/>
+			<v n="3">
+				Thy people 
+				<crossref let="d" cid="c191103.1"/>
+				 offer themselves willinglyIn the day of thy power, in holy array:Out of the womb of the morningThou hast the dew of thy youth.
+			</v>
+			<marker class="begin-verse" mid="v19110004"/>
+			<v n="4">
+				Jehovah hath 
+				<crossref let="e" cid="c191104.1"/>
+				 sworn, and will not repent:Thou art a priest for everAfter the order of Melchizedek.
+			</v>
+			<marker class="begin-verse" mid="v19110005"/>
+			<v n="5">
+				The Lord 
+				<crossref let="f" cid="c191105.1"/>
+				 at thy right handWill strike through kings in the day of his wrath.
+			</v>
+			<marker class="begin-verse" mid="v19110006"/>
+			<v n="6">
+				He will 
+				<crossref let="g" cid="c191106.1"/>
+				 judge among the nations,He will fill the places with dead bodies;He will strike through the head in many countries.
+			</v>
+			<marker class="begin-verse" mid="v19110007"/>
+			<v n="7">
+				He will 
+				<crossref let="h" cid="c191107.1"/>
+				 drink of the brook in the way:Therefore will he lift up the head.
+			</v>
+			<marker class="begin-verse" mid="v19110008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

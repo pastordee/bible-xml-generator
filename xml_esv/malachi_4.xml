@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:00.681998</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:00.682007</next_refresh_due>
+	</generation_info>
+	<book title="Malachi" num="39" testament="old" bookAbbr="mal" version="ESV">
+		<marker class="begin-verse" mid="v39004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				Malachi 4
+			</heading>
+			<heading>
+				The Great Day of the LORD
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				“For behold, 
+				<crossref let="b" cid="c39004001.1">
+				</crossref>
+				the day, 
+				<crossref let="c" cid="c39004001.2">
+				</crossref>
+				is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the LORD of hosts, so that it will leave them neither root nor branch.
+			</v>
+			<marker class="begin-verse" mid="v39004002">
+			</marker>
+			<v n="2">
+				But for 
+				<crossref let="d" cid="c39004002.3">
+				</crossref>
+				you who, 
+				<crossref let="e" cid="c39004002.4">
+				</crossref>
+				fear my name, the sun of righteousness shall rise with healing in its wings. You shall go out leaping like calves from the stall.
+			</v>
+			<marker class="begin-verse" mid="v39004003">
+			</marker>
+			<v n="3">
+				And you 
+				<crossref let="f" cid="c39004003.5">
+				</crossref>
+				shall tread, 
+				<crossref let="g" cid="c39004003.6">
+				</crossref>
+				down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says the LORD of hosts.
+				<note nid="n39004003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v39004004">
+			</marker>
+			<v n="4">
+				“Remember the 
+				<crossref let="h" cid="c39004004.7">
+				</crossref>
+				law of, 
+				<crossref let="i" cid="c39004004.8">
+				</crossref>
+				my servant Moses, the statutes and rules(1) that I commanded him at Horeb for all Israel.
+			</v>
+			<marker class="begin-verse" mid="v39004005">
+			</marker>
+			<v n="5">
+				“Behold, I 
+				<crossref let="j" cid="c39004005.9">
+				</crossref>
+				will send, 
+				<crossref let="k" cid="c39004005.10">
+				</crossref>
+				you Elijah the prophet before the great and awesome day of the LORD comes.
+			</v>
+			<marker class="begin-verse" mid="v39004006">
+			</marker>
+			<v n="6">
+				And he 
+				<crossref let="l" cid="c39004006.11">
+				</crossref>
+				will turn, 
+				<crossref let="m" cid="c39004006.12">
+				</crossref>
+				the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction.”(2) Footnotes (1) 4:4 Or *and just decrees* (2) 4:6 The Hebrew term rendered *decree of utter destruction* refers to things devoted (or set apart) to the Lord (or by the Lord) for destruction (ESV)
+				<note nid="n39004006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v39004007">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

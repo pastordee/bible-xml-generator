@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:38:57.621137</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:38:57.621145</next_refresh_due>
+	</generation_info>
+	<book title="2 Timothy" num="55" testament="new" version="WEB" bookAbbr="2ti">
+		<marker class="begin-verse" mid="v55001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				Paul, an 
+				<crossref let="b" cid="c550011.1"/>
+				 apostle of Jesus Christ through the will of God, according to the promise of the life which is in Christ Jesus,
+			</v>
+			<marker class="begin-verse" mid="v55001002"/>
+			<v n="2">
+				to Timothy, 
+				<crossref let="c" cid="c550012.1"/>
+				 my beloved child: Grace, mercy, and peace, from God the Father and Christ Jesus our Lord.
+			</v>
+			<marker class="begin-verse" mid="v55001003"/>
+			<v n="3">
+				I thank 
+				<crossref let="d" cid="c550013.1"/>
+				 God, whom I serve as my forefathers did, with a pure conscience. How unceasing is my memory of you in my petitions, night and day
+			</v>
+			<marker class="begin-verse" mid="v55001004"/>
+			<v n="4">
+				longing to 
+				<crossref let="e" cid="c550014.1"/>
+				 see you, remembering your tears, that I may be filled with joy;
+			</v>
+			<marker class="begin-verse" mid="v55001005"/>
+			<v n="5">
+				having been 
+				<crossref let="f" cid="c550015.1"/>
+				 reminded of the sincere faith that is in you, which lived first in your grandmother Lois and your mother Eunice and, I am persuaded, in you also.
+			</v>
+			<marker class="begin-verse" mid="v55001006"/>
+			<v n="6">
+				For this 
+				<crossref let="g" cid="c550016.1"/>
+				 cause, I remind you that you should stir up the gift of God which is in you through the laying on of my hands.
+			</v>
+			<marker class="begin-verse" mid="v55001007"/>
+			<v n="7">
+				For God 
+				<crossref let="h" cid="c550017.1"/>
+				 didn’t give us a spirit of fear, but of power, love, and self-control.
+			</v>
+			<marker class="begin-verse" mid="v55001008"/>
+			<v n="8">
+				Therefore don’t 
+				<crossref let="i" cid="c550018.1"/>
+				 be ashamed of the testimony of our Lord, nor of me his prisoner; but endure hardship for the Good News according to the power of God,
+			</v>
+			<marker class="begin-verse" mid="v55001009"/>
+			<v n="9">
+				who saved 
+				<crossref let="j" cid="c550019.1"/>
+				 us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,
+			</v>
+			<marker class="begin-verse" mid="v55001010"/>
+			<v n="10">
+				but has 
+				<crossref let="k" cid="c5500110.1"/>
+				 now been revealed by the appearing of our Savior, Christ Jesus, who abolished death, and brought life and immortality to light through the Good News.
+			</v>
+			<marker class="begin-verse" mid="v55001011"/>
+			<v n="11">
+				For this 
+				<crossref let="l" cid="c5500111.1"/>
+				 I was appointed as a preacher, an apostle, and a teacher of the Gentiles.
+			</v>
+			<marker class="begin-verse" mid="v55001012"/>
+			<v n="12">
+				For this 
+				<crossref let="m" cid="c5500112.1"/>
+				 cause I also suffer these things.Yet I am not ashamed, for I know him whom I have believed, and I am persuaded that he is able to guard that which I have committed to him against that day.
+			</v>
+			<marker class="begin-verse" mid="v55001013"/>
+			<v n="13">
+				Hold the 
+				<crossref let="n" cid="c5500113.1"/>
+				 pattern of sound words which you have heard from me, in faith and love which is in Christ Jesus.
+			</v>
+			<marker class="begin-verse" mid="v55001014"/>
+			<v n="14">
+				That good 
+				<crossref let="o" cid="c5500114.1"/>
+				 thing which was committed to you, guard through the Holy Spirit who dwells in us.
+			</v>
+			<marker class="begin-verse" mid="v55001015"/>
+			<v n="15">
+				This you 
+				<crossref let="p" cid="c5500115.1"/>
+				 know, that all who are in Asia turned away from me, of whom are Phygelus and Hermogenes.
+			</v>
+			<marker class="begin-verse" mid="v55001016"/>
+			<v n="16">
+				May the 
+				<crossref let="q" cid="c5500116.1"/>
+				 Lord grant mercy to the house of Onesiphorus, for he often refreshed me, and was not ashamed of my chain,
+			</v>
+			<marker class="begin-verse" mid="v55001017"/>
+			<v n="17">
+				but when 
+				<crossref let="r" cid="c5500117.1"/>
+				 he was in Rome, he sought me diligently and found me
+			</v>
+			<marker class="begin-verse" mid="v55001018"/>
+			<v n="18">
+				(the Lord 
+				<crossref let="s" cid="c5500118.1"/>
+				 grant to him to find the Lord’s mercy in that day); and in how many things he served at Ephesus, you know very well.
+			</v>
+			<marker class="begin-verse" mid="v55001019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

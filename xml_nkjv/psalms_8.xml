@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:12:47.686440</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:12:47.686461</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19008001"/>
+		<chapter num="8">
+			<heading>The Glory of the Lord in CreationTo the Chief Musician. On the instrument of Gath. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O Lord, 
+				<crossref let="b" cid="c190081.1"/>
+				 our Lord,How excellent is Your name in all the earth,Who have set Your glory above the heavens!
+			</v>
+			<marker class="begin-verse" mid="v19008002"/>
+			<v n="2">
+				Out of 
+				<crossref let="c" cid="c190082.1"/>
+				 the mouth of babes and nursing infantsYou have ordained strength,Because of Your enemies,That You may silence the enemy and the avenger.
+			</v>
+			<marker class="begin-verse" mid="v19008003"/>
+			<v n="3">
+				When I 
+				<crossref let="d" cid="c190083.1"/>
+				 consider Your heavens, the work of Your fingers,The moon and the stars, which You have ordained,
+			</v>
+			<marker class="begin-verse" mid="v19008004"/>
+			<v n="4">
+				What is 
+				<crossref let="e" cid="c190084.1"/>
+				 man that You are mindful of him,And the son of man that You visit him?
+			</v>
+			<marker class="begin-verse" mid="v19008005"/>
+			<v n="5">
+				For You 
+				<crossref let="f" cid="c190085.1"/>
+				 have made him a little lower than the angels,And You have crowned him with glory and honor.
+			</v>
+			<marker class="begin-verse" mid="v19008006"/>
+			<v n="6">
+				You have 
+				<crossref let="g" cid="c190086.1"/>
+				 made him to have dominion over the works of Your hands;You have put all things under his feet,
+			</v>
+			<marker class="begin-verse" mid="v19008007"/>
+			<v n="7">
+				All sheep 
+				<crossref let="h" cid="c190087.1"/>
+				 and oxen—Even the beasts of the field,
+			</v>
+			<marker class="begin-verse" mid="v19008008"/>
+			<v n="8">
+				The birds 
+				<crossref let="i" cid="c190088.1"/>
+				 of the air,And the fish of the seaThat pass through the paths of the seas.
+			</v>
+			<marker class="begin-verse" mid="v19008009"/>
+			<v n="9">
+				O Lord, 
+				<crossref let="j" cid="c190089.1"/>
+				 our Lord,How excellent is Your name in all the earth!
+			</v>
+			<marker class="begin-verse" mid="v19008010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

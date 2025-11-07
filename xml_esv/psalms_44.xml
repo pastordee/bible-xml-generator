@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:04.692394</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:04.692407</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19044001">
+		</marker>
+		<chapter num="44">
+			<heading>
+				Psalm 44
+			</heading>
+			<heading>
+				Come to Our Help
+			</heading>
+			<heading>
+				To the choirmaster. A Maskil(1) of the Sons of Korah.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c19044001.1">
+				</crossref>
+				we have, 
+				<crossref let="c" cid="c19044001.2">
+				</crossref>
+				heard with our ears, our fathers have told us, what deeds you performed in their days, in the days of old:
+			</v>
+			<marker class="begin-verse" mid="v19044002">
+			</marker>
+			<v n="2">
+				you with 
+				<crossref let="d" cid="c19044002.3">
+				</crossref>
+				your own, 
+				<crossref let="e" cid="c19044002.4">
+				</crossref>
+				hand drove out the nations, but them you planted; you afflicted the peoples, but them you set free;
+			</v>
+			<marker class="begin-verse" mid="v19044003">
+			</marker>
+			<v n="3">
+				for not 
+				<crossref let="f" cid="c19044003.5">
+				</crossref>
+				by their, 
+				<crossref let="g" cid="c19044003.6">
+				</crossref>
+				own sword did they win the land, nor did their own arm save them, but your right hand and your arm, and the light of your face, for you delighted in them.
+				<note nid="n19044003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19044004">
+			</marker>
+			<v n="4">
+				You are 
+				<crossref let="h" cid="c19044004.7">
+				</crossref>
+				my King,, 
+				<crossref let="i" cid="c19044004.8">
+				</crossref>
+				O God; ordain salvation for Jacob!
+			</v>
+			<marker class="begin-verse" mid="v19044005">
+			</marker>
+			<v n="5">
+				Through you 
+				<crossref let="j" cid="c19044005.9">
+				</crossref>
+				we push, 
+				<crossref let="k" cid="c19044005.10">
+				</crossref>
+				down our foes; through your name we tread down those who rise up against us.
+			</v>
+			<marker class="begin-verse" mid="v19044006">
+			</marker>
+			<v n="6">
+				For not 
+				<crossref let="l" cid="c19044006.11">
+				</crossref>
+				in my, 
+				<crossref let="m" cid="c19044006.12">
+				</crossref>
+				bow do I trust, nor can my sword save me.
+				<note nid="n19044006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19044007">
+			</marker>
+			<v n="7">
+				But you 
+				<crossref let="n" cid="c19044007.13">
+				</crossref>
+				have saved, 
+				<crossref let="o" cid="c19044007.14">
+				</crossref>
+				us from our foes and have put to shame those who hate us.
+			</v>
+			<marker class="begin-verse" mid="v19044008">
+			</marker>
+			<v n="8">
+				In God 
+				<crossref let="p" cid="c19044008.15">
+				</crossref>
+				we have, 
+				<crossref let="q" cid="c19044008.16">
+				</crossref>
+				boasted continually, and we will give thanks to your name forever. Selah
+			</v>
+			<marker class="begin-verse" mid="v19044009">
+			</marker>
+			<v n="9">
+				But you 
+				<crossref let="r" cid="c19044009.17">
+				</crossref>
+				have rejected, 
+				<crossref let="s" cid="c19044009.18">
+				</crossref>
+				us and disgraced us and have not gone out with our armies.
+				<note nid="n19044009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19044010">
+			</marker>
+			<v n="10">
+				You have 
+				<crossref let="t" cid="c19044010.19">
+				</crossref>
+				made us, 
+				<crossref let="u" cid="c19044010.20">
+				</crossref>
+				turn back from the foe, and those who hate us have gotten spoil.
+			</v>
+			<marker class="begin-verse" mid="v19044011">
+			</marker>
+			<v n="11">
+				You have 
+				<crossref let="v" cid="c19044011.21">
+				</crossref>
+				made us, 
+				<crossref let="w" cid="c19044011.22">
+				</crossref>
+				like sheep for slaughter and have scattered us among the nations.
+			</v>
+			<marker class="begin-verse" mid="v19044012">
+			</marker>
+			<v n="12">
+				You have 
+				<crossref let="x" cid="c19044012.23">
+				</crossref>
+				sold your, 
+				<crossref let="y" cid="c19044012.24">
+				</crossref>
+				people for a trifle, demanding no high price for them.
+				<note nid="n19044012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19044013">
+			</marker>
+			<v n="13">
+				You have 
+				<crossref let="z" cid="c19044013.25">
+				</crossref>
+				made us, 
+				<crossref let="a" cid="c19044013.26">
+				</crossref>
+				the taunt of our neighbors, the derision and scorn of those around us.
+			</v>
+			<marker class="begin-verse" mid="v19044014">
+			</marker>
+			<v n="14">
+				You have 
+				<crossref let="b" cid="c19044014.27">
+				</crossref>
+				made us, 
+				<crossref let="c" cid="c19044014.28">
+				</crossref>
+				a byword among the nations, a laughingstock(2) among the peoples.
+			</v>
+			<marker class="begin-verse" mid="v19044015">
+			</marker>
+			<v n="15">
+				All day 
+				<crossref let="d" cid="c19044015.29">
+				</crossref>
+				long my, 
+				<crossref let="e" cid="c19044015.30">
+				</crossref>
+				disgrace is before me, and shame has covered my face
+				<note nid="n19044015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19044016">
+			</marker>
+			<v n="16">
+				at the 
+				<crossref let="f" cid="c19044016.31">
+				</crossref>
+				sound of, 
+				<crossref let="g" cid="c19044016.32">
+				</crossref>
+				the taunter and reviler, at the sight of the enemy and the avenger.
+			</v>
+			<marker class="begin-verse" mid="v19044017">
+			</marker>
+			<v n="17">
+				All this 
+				<crossref let="h" cid="c19044017.33">
+				</crossref>
+				has come, 
+				<crossref let="i" cid="c19044017.34">
+				</crossref>
+				upon us, though we have not forgotten you, and we have not been false to your covenant.
+			</v>
+			<marker class="begin-verse" mid="v19044018">
+			</marker>
+			<v n="18">
+				Our heart 
+				<crossref let="j" cid="c19044018.35">
+				</crossref>
+				has not, 
+				<crossref let="k" cid="c19044018.36">
+				</crossref>
+				turned back, nor have our steps departed from your way;
+				<note nid="n19044018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19044019">
+			</marker>
+			<v n="19">
+				yet you 
+				<crossref let="l" cid="c19044019.37">
+				</crossref>
+				have broken, 
+				<crossref let="m" cid="c19044019.38">
+				</crossref>
+				us in the place of jackals and covered us with the shadow of death.
+			</v>
+			<marker class="begin-verse" mid="v19044020">
+			</marker>
+			<v n="20">
+				If we 
+				<crossref let="n" cid="c19044020.39">
+				</crossref>
+				had forgotten, 
+				<crossref let="o" cid="c19044020.40">
+				</crossref>
+				the name of our God or spread out our hands to a foreign god,
+			</v>
+			<marker class="begin-verse" mid="v19044021">
+			</marker>
+			<v n="21">
+				would not 
+				<crossref let="p" cid="c19044021.41">
+				</crossref>
+				God discover, 
+				<crossref let="q" cid="c19044021.42">
+				</crossref>
+				this? For he knows the secrets of the heart.
+				<note nid="n19044021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19044022">
+			</marker>
+			<v n="22">
+				Yet for 
+				<crossref let="r" cid="c19044022.43">
+				</crossref>
+				your sake, 
+				<crossref let="s" cid="c19044022.44">
+				</crossref>
+				we are killed all the day long; we are regarded as sheep to be slaughtered.
+			</v>
+			<marker class="begin-verse" mid="v19044023">
+			</marker>
+			<v n="23">
+				Awake! Why 
+				<crossref let="t" cid="c19044023.45">
+				</crossref>
+				are you, 
+				<crossref let="u" cid="c19044023.46">
+				</crossref>
+				sleeping, O Lord? Rouse yourself! Do not reject us forever!
+			</v>
+			<marker class="begin-verse" mid="v19044024">
+			</marker>
+			<v n="24">
+				Why do 
+				<crossref let="v" cid="c19044024.47">
+				</crossref>
+				you hide, 
+				<crossref let="w" cid="c19044024.48">
+				</crossref>
+				your face? Why do you forget our affliction and oppression?
+				<note nid="n19044024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19044025">
+			</marker>
+			<v n="25">
+				For our 
+				<crossref let="x" cid="c19044025.49">
+				</crossref>
+				soul is, 
+				<crossref let="y" cid="c19044025.50">
+				</crossref>
+				bowed down to the dust; our belly clings to the ground.
+			</v>
+			<marker class="begin-verse" mid="v19044026">
+			</marker>
+			<v n="26">
+				Rise up; 
+				<crossref let="z" cid="c19044026.51">
+				</crossref>
+				come to, 
+				<crossref let="a" cid="c19044026.52">
+				</crossref>
+				our help! Redeem us for the sake of your steadfast love! Footnotes (1) 44:1 Probably a musical or liturgical term (2) 44:14 Hebrew *a shaking of the head* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19044027">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

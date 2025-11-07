@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:53:00.355227</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:53:00.355234</next_refresh_due>
+	</generation_info>
+	<book title="1 Timothy" num="54" testament="new" version="KJV" bookAbbr="1ti">
+		<marker class="begin-verse" mid="v54002001"/>
+		<chapter num="2">
+			<begin-paragraph/>
+			<v n="1">
+				I exhort 
+				<crossref let="b" cid="c540021.1"/>
+				 therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;
+			</v>
+			<marker class="begin-verse" mid="v54002002"/>
+			<v n="2">
+				For kings, 
+				<crossref let="c" cid="c540022.1"/>
+				 and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty.
+			</v>
+			<marker class="begin-verse" mid="v54002003"/>
+			<v n="3">
+				For this 
+				<crossref let="d" cid="c540023.1"/>
+				 is good and acceptable in the sight of God our Saviour;
+			</v>
+			<marker class="begin-verse" mid="v54002004"/>
+			<v n="4">
+				Who will 
+				<crossref let="e" cid="c540024.1"/>
+				 have all men to be saved, and to come unto the knowledge of the truth.
+			</v>
+			<marker class="begin-verse" mid="v54002005"/>
+			<v n="5">
+				For there 
+				<crossref let="f" cid="c540025.1"/>
+				 is one God, and one mediator between God and men, the man Christ Jesus;
+			</v>
+			<marker class="begin-verse" mid="v54002006"/>
+			<v n="6">
+				Who gave 
+				<crossref let="g" cid="c540026.1"/>
+				 himself a ransom for all, to be testified in due time.
+			</v>
+			<marker class="begin-verse" mid="v54002007"/>
+			<v n="7">
+				Whereunto I 
+				<crossref let="h" cid="c540027.1"/>
+				 am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity.
+			</v>
+			<marker class="begin-verse" mid="v54002008"/>
+			<v n="8">
+				I will 
+				<crossref let="i" cid="c540028.1"/>
+				 therefore that men pray every where, lifting up holy hands, without wrath and doubting.
+			</v>
+			<marker class="begin-verse" mid="v54002009"/>
+			<v n="9">
+				In like 
+				<crossref let="j" cid="c540029.1"/>
+				 manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;
+			</v>
+			<marker class="begin-verse" mid="v54002010"/>
+			<v n="10">
+				But (which 
+				<crossref let="k" cid="c5400210.1"/>
+				 becometh women professing godliness) with good works.
+			</v>
+			<marker class="begin-verse" mid="v54002011"/>
+			<v n="11">
+				Let the 
+				<crossref let="l" cid="c5400211.1"/>
+				 woman learn in silence with all subjection.
+			</v>
+			<marker class="begin-verse" mid="v54002012"/>
+			<v n="12">
+				But I 
+				<crossref let="m" cid="c5400212.1"/>
+				 suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.
+			</v>
+			<marker class="begin-verse" mid="v54002013"/>
+			<v n="13">
+				For Adam 
+				<crossref let="n" cid="c5400213.1"/>
+				 was first formed, then Eve.
+			</v>
+			<marker class="begin-verse" mid="v54002014"/>
+			<v n="14">
+				And Adam 
+				<crossref let="o" cid="c5400214.1"/>
+				 was not deceived, but the woman being deceived was in the transgression.
+			</v>
+			<marker class="begin-verse" mid="v54002015"/>
+			<v n="15">
+				Notwithstanding she 
+				<crossref let="p" cid="c5400215.1"/>
+				 shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.
+			</v>
+			<marker class="begin-verse" mid="v54002016"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

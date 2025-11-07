@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:12:42.468405</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:12:42.468449</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="NLT" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40025001"/>
+		<chapter num="25">
+			<heading>Parable of the Ten Bridesmaids</heading>
+			<begin-paragraph/>
+			<v n="1">
+				“Then the 
+				<crossref let="b" cid="c400251.1"/>
+				 Kingdom of Heaven will be like ten bridesmaids who took their lamps and went to meet the bridegroom.
+			</v>
+			<marker class="begin-verse" mid="v40025002"/>
+			<v n="2">
+				Five of 
+				<crossref let="c" cid="c400252.1"/>
+				 them were foolish, and five were wise.
+			</v>
+			<marker class="begin-verse" mid="v40025003"/>
+			<v n="3">
+				The five 
+				<crossref let="d" cid="c400253.1"/>
+				 who were foolish didn’t take enough olive oil for their lamps,
+			</v>
+			<marker class="begin-verse" mid="v40025004"/>
+			<v n="4">
+				but the 
+				<crossref let="e" cid="c400254.1"/>
+				 other five were wise enough to take along extra oil.
+			</v>
+			<marker class="begin-verse" mid="v40025005"/>
+			<v n="5">
+				When the 
+				<crossref let="f" cid="c400255.1"/>
+				 bridegroom was delayed, they all became drowsy and fell asleep.
+			</v>
+			<marker class="begin-verse" mid="v40025006"/>
+			<v n="6">
+				“At midnight 
+				<crossref let="g" cid="c400256.1"/>
+				 they were roused by the shout, ‘Look, the bridegroom is coming! Come out and meet him!’
+			</v>
+			<marker class="begin-verse" mid="v40025007"/>
+			<v n="7">
+				“All the 
+				<crossref let="h" cid="c400257.1"/>
+				 bridesmaids got up and prepared their lamps.
+			</v>
+			<marker class="begin-verse" mid="v40025008"/>
+			<v n="8">
+				Then the 
+				<crossref let="i" cid="c400258.1"/>
+				 five foolish ones asked the others, ‘Please give us some of your oil because our lamps are going out.’
+			</v>
+			<marker class="begin-verse" mid="v40025009"/>
+			<v n="9">
+				“But the 
+				<crossref let="j" cid="c400259.1"/>
+				 others replied, ‘We don’t have enough for all of us. Go to a shop and buy some for yourselves.’
+			</v>
+			<marker class="begin-verse" mid="v40025010"/>
+			<v n="10">
+				“But while 
+				<crossref let="k" cid="c4002510.1"/>
+				 they were gone to buy oil, the bridegroom came. Then those who were ready went in with him to the marriage feast, and the door was locked.
+			</v>
+			<marker class="begin-verse" mid="v40025011"/>
+			<v n="11">
+				Later, when 
+				<crossref let="l" cid="c4002511.1"/>
+				 the other five bridesmaids returned, they stood outside, calling, ‘Lord! Lord! Open the door for us!’
+			</v>
+			<marker class="begin-verse" mid="v40025012"/>
+			<v n="12">
+				“But he 
+				<crossref let="m" cid="c4002512.1"/>
+				 called back, ‘Believe me, I don’t know you!’
+			</v>
+			<marker class="begin-verse" mid="v40025013"/>
+			<v n="13">
+				“So you, 
+				<crossref let="n" cid="c4002513.1"/>
+				 too, must keep watch! For you do not know the day or hour of my return.Parable of the Three Servants
+			</v>
+			<marker class="begin-verse" mid="v40025014"/>
+			<v n="14">
+				“Again, the 
+				<crossref let="o" cid="c4002514.1"/>
+				 Kingdom of Heaven can be illustrated by the story of a man going on a long trip. He called together his servants and entrusted his money to them while he was gone.
+			</v>
+			<marker class="begin-verse" mid="v40025015"/>
+			<v n="15">
+				He gave 
+				<crossref let="p" cid="c4002515.1"/>
+				 five bags of silver to one, two bags of silver to another, and one bag of silver to the last—dividing it in proportion to their abilities. He then left on his trip.
+			</v>
+			<marker class="begin-verse" mid="v40025016"/>
+			<v n="16">
+				“The servant 
+				<crossref let="q" cid="c4002516.1"/>
+				 who received the five bags of silver began to invest the money and earned five more.
+			</v>
+			<marker class="begin-verse" mid="v40025017"/>
+			<v n="17">
+				The servant 
+				<crossref let="r" cid="c4002517.1"/>
+				 with two bags of silver also went to work and earned two more.
+			</v>
+			<marker class="begin-verse" mid="v40025018"/>
+			<v n="18">
+				But the 
+				<crossref let="s" cid="c4002518.1"/>
+				 servant who received the one bag of silver dug a hole in the ground and hid the master’s money.
+			</v>
+			<marker class="begin-verse" mid="v40025019"/>
+			<v n="19">
+				“After a 
+				<crossref let="t" cid="c4002519.1"/>
+				 long time their master returned from his trip and called them to give an account of how they had used his money.
+			</v>
+			<marker class="begin-verse" mid="v40025020"/>
+			<v n="20">
+				The servant 
+				<crossref let="u" cid="c4002520.1"/>
+				 to whom he had entrusted the five bags of silver came forward with five more and said, ‘Master, you gave me five bags of silver to invest, and I have earned five more.’
+			</v>
+			<marker class="begin-verse" mid="v40025021"/>
+			<v n="21">
+				“The master 
+				<crossref let="v" cid="c4002521.1"/>
+				 was full of praise. ‘Well done, my good and faithful servant. You have been faithful in handling this small amount, so now I will give you many more responsibilities. Let’s celebrate together!’
+			</v>
+			<marker class="begin-verse" mid="v40025022"/>
+			<v n="22">
+				“The servant 
+				<crossref let="w" cid="c4002522.1"/>
+				 who had received the two bags of silver came forward and said, ‘Master, you gave me two bags of silver to invest, and I have earned two more.’
+			</v>
+			<marker class="begin-verse" mid="v40025023"/>
+			<v n="23">
+				“The master 
+				<crossref let="x" cid="c4002523.1"/>
+				 said, ‘Well done, my good and faithful servant. You have been faithful in handling this small amount, so now I will give you many more responsibilities. Let’s celebrate together!’
+			</v>
+			<marker class="begin-verse" mid="v40025024"/>
+			<v n="24">
+				“Then the 
+				<crossref let="y" cid="c4002524.1"/>
+				 servant with the one bag of silver came and said, ‘Master, I knew you were a harsh man, harvesting crops you didn’t plant and gathering crops you didn’t cultivate.
+			</v>
+			<marker class="begin-verse" mid="v40025025"/>
+			<v n="25">
+				I was 
+				<crossref let="z" cid="c4002525.1"/>
+				 afraid I would lose your money, so I hid it in the earth. Look, here is your money back.’
+			</v>
+			<marker class="begin-verse" mid="v40025026"/>
+			<v n="26">
+				“But the 
+				<crossref let="a" cid="c4002526.1"/>
+				 master replied, ‘You wicked and lazy servant! If you knew I harvested crops I didn’t plant and gathered crops I didn’t cultivate,
+			</v>
+			<marker class="begin-verse" mid="v40025027"/>
+			<v n="27">
+				why didn’t 
+				<crossref let="b" cid="c4002527.1"/>
+				 you deposit my money in the bank? At least I could have gotten some interest on it.’
+			</v>
+			<marker class="begin-verse" mid="v40025028"/>
+			<v n="28">
+				“Then he 
+				<crossref let="c" cid="c4002528.1"/>
+				 ordered, ‘Take the money from this servant, and give it to the one with the ten bags of silver.
+			</v>
+			<marker class="begin-verse" mid="v40025029"/>
+			<v n="29">
+				To those 
+				<crossref let="d" cid="c4002529.1"/>
+				 who use well what they are given, even more will be given, and they will have an abundance. But from those who do nothing, even what little they have will be taken away.
+			</v>
+			<marker class="begin-verse" mid="v40025030"/>
+			<v n="30">
+				Now throw 
+				<crossref let="e" cid="c4002530.1"/>
+				 this useless servant into outer darkness, where there will be weeping and gnashing of teeth.’The Final Judgment
+			</v>
+			<marker class="begin-verse" mid="v40025031"/>
+			<v n="31">
+				“But when 
+				<crossref let="f" cid="c4002531.1"/>
+				 the Son of Man comes in his glory, and all the angels with him, then he will sit upon his glorious throne.
+			</v>
+			<marker class="begin-verse" mid="v40025032"/>
+			<v n="32">
+				All the 
+				<crossref let="g" cid="c4002532.1"/>
+				 nations will be gathered in his presence, and he will separate the people as a shepherd separates the sheep from the goats.
+			</v>
+			<marker class="begin-verse" mid="v40025033"/>
+			<v n="33">
+				He will 
+				<crossref let="h" cid="c4002533.1"/>
+				 place the sheep at his right hand and the goats at his left.
+			</v>
+			<marker class="begin-verse" mid="v40025034"/>
+			<v n="34">
+				“Then the 
+				<crossref let="i" cid="c4002534.1"/>
+				 King will say to those on his right, ‘Come, you who are blessed by my Father, inherit the Kingdom prepared for you from the creation of the world.
+			</v>
+			<marker class="begin-verse" mid="v40025035"/>
+			<v n="35">
+				For I 
+				<crossref let="j" cid="c4002535.1"/>
+				 was hungry, and you fed me. I was thirsty, and you gave me a drink. I was a stranger, and you invited me into your home.
+			</v>
+			<marker class="begin-verse" mid="v40025036"/>
+			<v n="36">
+				I was 
+				<crossref let="k" cid="c4002536.1"/>
+				 naked, and you gave me clothing. I was sick, and you cared for me. I was in prison, and you visited me.’
+			</v>
+			<marker class="begin-verse" mid="v40025037"/>
+			<v n="37">
+				“Then these 
+				<crossref let="l" cid="c4002537.1"/>
+				 righteous ones will reply, ‘Lord, when did we ever see you hungry and feed you? Or thirsty and give you something to drink?
+			</v>
+			<marker class="begin-verse" mid="v40025038"/>
+			<v n="38">
+				Or a 
+				<crossref let="m" cid="c4002538.1"/>
+				 stranger and show you hospitality? Or naked and give you clothing?
+			</v>
+			<marker class="begin-verse" mid="v40025039"/>
+			<v n="39">
+				When did 
+				<crossref let="n" cid="c4002539.1"/>
+				 we ever see you sick or in prison and visit you?’
+			</v>
+			<marker class="begin-verse" mid="v40025040"/>
+			<v n="40">
+				“And the 
+				<crossref let="o" cid="c4002540.1"/>
+				 King will say, ‘I tell you the truth, when you did it to one of the least of these my brothers and sisters, you were doing it to me!’
+			</v>
+			<marker class="begin-verse" mid="v40025041"/>
+			<v n="41">
+				“Then the 
+				<crossref let="p" cid="c4002541.1"/>
+				 King will turn to those on the left and say, ‘Away with you, you cursed ones, into the eternal fire prepared for the devil and his demons.
+			</v>
+			<marker class="begin-verse" mid="v40025042"/>
+			<v n="42">
+				For I 
+				<crossref let="q" cid="c4002542.1"/>
+				 was hungry, and you didn’t feed me. I was thirsty, and you didn’t give me a drink.
+			</v>
+			<marker class="begin-verse" mid="v40025043"/>
+			<v n="43">
+				I was 
+				<crossref let="r" cid="c4002543.1"/>
+				 a stranger, and you didn’t invite me into your home. I was naked, and you didn’t give me clothing. I was sick and in prison, and you didn’t visit me.’
+			</v>
+			<marker class="begin-verse" mid="v40025044"/>
+			<v n="44">
+				“Then they 
+				<crossref let="s" cid="c4002544.1"/>
+				 will reply, ‘Lord, when did we ever see you hungry or thirsty or a stranger or naked or sick or in prison, and not help you?’
+			</v>
+			<marker class="begin-verse" mid="v40025045"/>
+			<v n="45">
+				“And he 
+				<crossref let="t" cid="c4002545.1"/>
+				 will answer, ‘I tell you the truth, when you refused to help the least of these my brothers and sisters, you were refusing to help me.’
+			</v>
+			<marker class="begin-verse" mid="v40025046"/>
+			<v n="46">
+				“And they 
+				<crossref let="u" cid="c4002546.1"/>
+				 will go away into eternal punishment, but the righteous will go into eternal life.”
+			</v>
+			<marker class="begin-verse" mid="v40025047"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:31.679403</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:31.679420</next_refresh_due>
+	</generation_info>
+	<book title="Jonah" num="32" testament="old" bookAbbr="jon" version="ESV">
+		<marker class="begin-verse" mid="v32002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Jonah 2
+			</heading>
+			<heading>
+				Jonah’s Prayer
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Then Jonah 
+				<crossref let="b" cid="c32002001.1">
+				</crossref>
+				prayed to, 
+				<crossref let="c" cid="c32002001.2">
+				</crossref>
+				the LORD his God from the belly of the fish,
+			</v>
+			<marker class="begin-verse" mid="v32002002">
+			</marker>
+			<v n="2">
+				saying, “I 
+				<crossref let="d" cid="c32002002.3">
+				</crossref>
+				called out, 
+				<crossref let="e" cid="c32002002.4">
+				</crossref>
+				to the LORD, out of my distress, and he answered me; out of the belly of Sheol I cried, and you heard my voice.
+			</v>
+			<marker class="begin-verse" mid="v32002003">
+			</marker>
+			<v n="3">
+				For you 
+				<crossref let="f" cid="c32002003.5">
+				</crossref>
+				cast me, 
+				<crossref let="g" cid="c32002003.6">
+				</crossref>
+				into the deep, into the heart of the seas, and the flood surrounded me; all your breakers and your waves passed over me.
+				<note nid="n32002003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v32002004">
+			</marker>
+			<v n="4">
+				Then I 
+				<crossref let="h" cid="c32002004.7">
+				</crossref>
+				said, ‘I, 
+				<crossref let="i" cid="c32002004.8">
+				</crossref>
+				am driven away from your sight; yet I shall again look upon your holy temple.’
+			</v>
+			<marker class="begin-verse" mid="v32002005">
+			</marker>
+			<v n="5">
+				The waters 
+				<crossref let="j" cid="c32002005.9">
+				</crossref>
+				closed in, 
+				<crossref let="k" cid="c32002005.10">
+				</crossref>
+				over me to take my life; the deep surrounded me; weeds were wrapped about my head.
+			</v>
+			<marker class="begin-verse" mid="v32002006">
+			</marker>
+			<v n="6">
+				To the 
+				<crossref let="l" cid="c32002006.11">
+				</crossref>
+				roots of, 
+				<crossref let="m" cid="c32002006.12">
+				</crossref>
+				the mountains I went down, to the land whose bars closed upon me forever. Yet you brought up my life from the pit, O LORD my God.
+				<note nid="n32002006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v32002007">
+			</marker>
+			<v n="7">
+				When my 
+				<crossref let="n" cid="c32002007.13">
+				</crossref>
+				life was, 
+				<crossref let="o" cid="c32002007.14">
+				</crossref>
+				fainting away, I remembered the LORD, and my prayer came to you, into your holy temple.
+			</v>
+			<marker class="begin-verse" mid="v32002008">
+			</marker>
+			<v n="8">
+				Those who 
+				<crossref let="p" cid="c32002008.15">
+				</crossref>
+				pay regard, 
+				<crossref let="q" cid="c32002008.16">
+				</crossref>
+				to vain idols forsake their hope of steadfast love.
+			</v>
+			<marker class="begin-verse" mid="v32002009">
+			</marker>
+			<v n="9">
+				But I 
+				<crossref let="r" cid="c32002009.17">
+				</crossref>
+				with the, 
+				<crossref let="s" cid="c32002009.18">
+				</crossref>
+				voice of thanksgiving will sacrifice to you; what I have vowed I will pay. Salvation belongs to the LORD!”
+				<note nid="n32002009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v32002010">
+			</marker>
+			<v n="10">
+				And the 
+				<crossref let="t" cid="c32002010.19">
+				</crossref>
+				LORD spoke, 
+				<crossref let="u" cid="c32002010.20">
+				</crossref>
+				to the fish, and it vomited Jonah out upon the dry land. (ESV)
+			</v>
+			<marker class="begin-verse" mid="v32002011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

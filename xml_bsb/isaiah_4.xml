@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:30:22.008274</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:30:22.008307</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="BSB" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23004001"/>
+		<chapter num="4">
+			<heading>A Remnant in Zion</heading>
+			<begin-paragraph/>
+			<v n="1">
+				In that 
+				<crossref let="b" cid="c230041.1"/>
+				 day seven womenwill take hold of one man and say,“We will eat our own breadand provide our own clothes.Just let us be called by your name.Take away our disgrace!”
+			</v>
+			<marker class="begin-verse" mid="v23004002"/>
+			<v n="2">
+				On that 
+				<crossref let="c" cid="c230042.1"/>
+				 day the Branch of the LORDwill be beautiful and glorious,and the fruit of the landwill be the pride and glory of Israel’s survivors.
+			</v>
+			<marker class="begin-verse" mid="v23004003"/>
+			<v n="3">
+				Whoever remains 
+				<crossref let="d" cid="c230043.1"/>
+				 in Zionand whoever is left in Jerusalemwill be called holy—all in Jerusalem who are recorded among the living—
+			</v>
+			<marker class="begin-verse" mid="v23004004"/>
+			<v n="4">
+				when the 
+				<crossref let="e" cid="c230044.1"/>
+				 Lord has washed awaythe filth of the daughters of Zionand cleansed the bloodstains from the heart of Jerusalemby a spirit of judgment and a spirit of fire.
+			</v>
+			<marker class="begin-verse" mid="v23004005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c230045.1"/>
+				 LORD will create over all of Mount Zionand over her assembliesa cloud of smoke by dayand a glowing flame of fire by night.For over all the glorythere will be a canopy,
+			</v>
+			<marker class="begin-verse" mid="v23004006"/>
+			<v n="6">
+				a shelter 
+				<crossref let="g" cid="c230046.1"/>
+				 to give shadefrom the heat by day,and a refuge and hiding placefrom the storm and the rain.
+			</v>
+			<marker class="begin-verse" mid="v23004007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

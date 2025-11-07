@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:32:29.759196</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:32:29.759207</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" bookAbbr="ezr" version="ESV">
+		<marker class="begin-verse" mid="v15007001">
+		</marker>
+		<chapter num="7">
+			<heading>
+				Ezra 7
+			</heading>
+			<heading>
+				Ezra Sent to Teach the People
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Now after 
+				<crossref let="b" cid="c15007001.1">
+				</crossref>
+				this, in, 
+				<crossref let="c" cid="c15007001.2">
+				</crossref>
+				the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, son of Azariah, son of Hilkiah,
+			</v>
+			<marker class="begin-verse" mid="v15007002">
+			</marker>
+			<v n="2">
+				son of 
+				<crossref let="d" cid="c15007002.3">
+				</crossref>
+				Shallum, son, 
+				<crossref let="e" cid="c15007002.4">
+				</crossref>
+				of Zadok, son of Ahitub,
+			</v>
+			<marker class="begin-verse" mid="v15007003">
+			</marker>
+			<v n="3">
+				son of 
+				<crossref let="f" cid="c15007003.5">
+				</crossref>
+				Amariah, son, 
+				<crossref let="g" cid="c15007003.6">
+				</crossref>
+				of Azariah, son of Meraioth,
+				<note nid="n15007003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v15007004">
+			</marker>
+			<v n="4">
+				son of 
+				<crossref let="h" cid="c15007004.7">
+				</crossref>
+				Zerahiah, son, 
+				<crossref let="i" cid="c15007004.8">
+				</crossref>
+				of Uzzi, son of Bukki,
+			</v>
+			<marker class="begin-verse" mid="v15007005">
+			</marker>
+			<v n="5">
+				son of 
+				<crossref let="j" cid="c15007005.9">
+				</crossref>
+				Abishua, son, 
+				<crossref let="k" cid="c15007005.10">
+				</crossref>
+				of Phinehas, son of Eleazar, son of Aaron the chief priest—
+			</v>
+			<marker class="begin-verse" mid="v15007006">
+			</marker>
+			<v n="6">
+				this Ezra 
+				<crossref let="l" cid="c15007006.11">
+				</crossref>
+				went up, 
+				<crossref let="m" cid="c15007006.12">
+				</crossref>
+				from Babylonia. He was a scribe skilled in the Law of Moses that the LORD, the God of Israel, had given, and the king granted him all that he asked, for the hand of the LORD his God was on him.
+				<note nid="n15007006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v15007007">
+			</marker>
+			<v n="7">
+				And there 
+				<crossref let="n" cid="c15007007.13">
+				</crossref>
+				went up, 
+				<crossref let="o" cid="c15007007.14">
+				</crossref>
+				also to Jerusalem, in the seventh year of Artaxerxes the king, some of the people of Israel, and some of the priests and Levites, the singers and gatekeepers, and the temple servants.
+			</v>
+			<marker class="begin-verse" mid="v15007008">
+			</marker>
+			<v n="8">
+				And Ezra(1) 
+				<crossref let="p" cid="c15007008.15">
+				</crossref>
+				came to, 
+				<crossref let="q" cid="c15007008.16">
+				</crossref>
+				Jerusalem in the fifth month, which was in the seventh year of the king.
+			</v>
+			<marker class="begin-verse" mid="v15007009">
+			</marker>
+			<v n="9">
+				For on 
+				<crossref let="r" cid="c15007009.17">
+				</crossref>
+				the first, 
+				<crossref let="s" cid="c15007009.18">
+				</crossref>
+				day of the first month he began to go up from Babylonia, and on the first day of the fifth month he came to Jerusalem, for the good hand of his God was on him.
+				<note nid="n15007009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v15007010">
+			</marker>
+			<v n="10">
+				For Ezra 
+				<crossref let="t" cid="c15007010.19">
+				</crossref>
+				had set, 
+				<crossref let="u" cid="c15007010.20">
+				</crossref>
+				his heart to study the Law of the LORD, and to do it and to teach his statutes and rules in Israel.
+			</v>
+			<marker class="begin-verse" mid="v15007011">
+			</marker>
+			<v n="11">
+				This is 
+				<crossref let="v" cid="c15007011.21">
+				</crossref>
+				a copy, 
+				<crossref let="w" cid="c15007011.22">
+				</crossref>
+				of the letter that King Artaxerxes gave to Ezra the priest, the scribe, a man learned in matters of the commandments of the LORD and his statutes for Israel:(2)
+			</v>
+			<marker class="begin-verse" mid="v15007012">
+			</marker>
+			<v n="12">
+				“Artaxerxes, king 
+				<crossref let="x" cid="c15007012.23">
+				</crossref>
+				of kings,, 
+				<crossref let="y" cid="c15007012.24">
+				</crossref>
+				to Ezra the priest, the scribe of the Law of the God of heaven. Peace.(3) And now
+				<note nid="n15007012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v15007013">
+			</marker>
+			<v n="13">
+				I make 
+				<crossref let="z" cid="c15007013.25">
+				</crossref>
+				a decree, 
+				<crossref let="a" cid="c15007013.26">
+				</crossref>
+				that anyone of the people of Israel or their priests or Levites in my kingdom, who freely offers to go to Jerusalem, may go with you.
+			</v>
+			<marker class="begin-verse" mid="v15007014">
+			</marker>
+			<v n="14">
+				For you 
+				<crossref let="b" cid="c15007014.27">
+				</crossref>
+				are sent, 
+				<crossref let="c" cid="c15007014.28">
+				</crossref>
+				by the king and his seven counselors to make inquiries about Judah and Jerusalem according to the Law of your God, which is in your hand,
+			</v>
+			<marker class="begin-verse" mid="v15007015">
+			</marker>
+			<v n="15">
+				and also 
+				<crossref let="d" cid="c15007015.29">
+				</crossref>
+				to carry, 
+				<crossref let="e" cid="c15007015.30">
+				</crossref>
+				the silver and gold that the king and his counselors have freely offered to the God of Israel, whose dwelling is in Jerusalem,
+				<note nid="n15007015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v15007016">
+			</marker>
+			<v n="16">
+				with all 
+				<crossref let="f" cid="c15007016.31">
+				</crossref>
+				the silver, 
+				<crossref let="g" cid="c15007016.32">
+				</crossref>
+				and gold that you shall find in the whole province of Babylonia, and with the freewill offerings of the people and the priests, vowed willingly for the house of their God that is in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v15007017">
+			</marker>
+			<v n="17">
+				With this 
+				<crossref let="h" cid="c15007017.33">
+				</crossref>
+				money, then,, 
+				<crossref let="i" cid="c15007017.34">
+				</crossref>
+				you shall with all diligence buy bulls, rams, and lambs, with their grain offerings and their drink offerings, and you shall offer them on the altar of the house of your God that is in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v15007018">
+			</marker>
+			<v n="18">
+				Whatever seems 
+				<crossref let="j" cid="c15007018.35">
+				</crossref>
+				good to, 
+				<crossref let="k" cid="c15007018.36">
+				</crossref>
+				you and your brothers to do with the rest of the silver and gold, you may do, according to the will of your God.
+				<note nid="n15007018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v15007019">
+			</marker>
+			<v n="19">
+				The vessels 
+				<crossref let="l" cid="c15007019.37">
+				</crossref>
+				that have, 
+				<crossref let="m" cid="c15007019.38">
+				</crossref>
+				been given you for the service of the house of your God, you shall deliver before the God of Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v15007020">
+			</marker>
+			<v n="20">
+				And whatever 
+				<crossref let="n" cid="c15007020.39">
+				</crossref>
+				else is, 
+				<crossref let="o" cid="c15007020.40">
+				</crossref>
+				required for the house of your God, which it falls to you to provide, you may provide it out of the king’s treasury.
+			</v>
+			<marker class="begin-verse" mid="v15007021">
+			</marker>
+			<v n="21">
+				“And I, 
+				<crossref let="p" cid="c15007021.41">
+				</crossref>
+				Artaxerxes the, 
+				<crossref let="q" cid="c15007021.42">
+				</crossref>
+				king, make a decree to all the treasurers in the province Beyond the River: Whatever Ezra the priest, the scribe of the Law of the God of heaven, requires of you, let it be done with all diligence,
+				<note nid="n15007021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v15007022">
+			</marker>
+			<v n="22">
+				up to 
+				<crossref let="r" cid="c15007022.43">
+				</crossref>
+				100 talents(4), 
+				<crossref let="s" cid="c15007022.44">
+				</crossref>
+				of silver, 100 cors(5) of wheat, 100 baths(6) of wine, 100 baths of oil, and salt without prescribing how much.
+			</v>
+			<marker class="begin-verse" mid="v15007023">
+			</marker>
+			<v n="23">
+				Whatever is 
+				<crossref let="t" cid="c15007023.45">
+				</crossref>
+				decreed by, 
+				<crossref let="u" cid="c15007023.46">
+				</crossref>
+				the God of heaven, let it be done in full for the house of the God of heaven, lest his wrath be against the realm of the king and his sons.
+			</v>
+			<marker class="begin-verse" mid="v15007024">
+			</marker>
+			<v n="24">
+				We also 
+				<crossref let="v" cid="c15007024.47">
+				</crossref>
+				notify you, 
+				<crossref let="w" cid="c15007024.48">
+				</crossref>
+				that it shall not be lawful to impose tribute, custom, or toll on anyone of the priests, the Levites, the singers, the doorkeepers, the temple servants, or other servants of this house of God.
+				<note nid="n15007024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v15007025">
+			</marker>
+			<v n="25">
+				“And you, 
+				<crossref let="x" cid="c15007025.49">
+				</crossref>
+				Ezra, according, 
+				<crossref let="y" cid="c15007025.50">
+				</crossref>
+				to the wisdom of your God that is in your hand, appoint magistrates and judges who may judge all the people in the province Beyond the River, all such as know the laws of your God. And those who do not know them, you shall teach.
+			</v>
+			<marker class="begin-verse" mid="v15007026">
+			</marker>
+			<v n="26">
+				Whoever will 
+				<crossref let="z" cid="c15007026.51">
+				</crossref>
+				not obey, 
+				<crossref let="a" cid="c15007026.52">
+				</crossref>
+				the law of your God and the law of the king, let judgment be strictly executed on him, whether for death or for banishment or for confiscation of his goods or for imprisonment.”
+			</v>
+			<marker class="begin-verse" mid="v15007027">
+			</marker>
+			<v n="27">
+				Blessed be 
+				<crossref let="b" cid="c15007027.53">
+				</crossref>
+				the LORD,, 
+				<crossref let="c" cid="c15007027.54">
+				</crossref>
+				the God of our fathers, who put such a thing as this into the heart of the king, to beautify the house of the LORD that is in Jerusalem,
+				<note nid="n15007027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v15007028">
+			</marker>
+			<v n="28">
+				and who 
+				<crossref let="d" cid="c15007028.55">
+				</crossref>
+				extended to, 
+				<crossref let="e" cid="c15007028.56">
+				</crossref>
+				me his steadfast love before the king and his counselors, and before all the king’s mighty officers. I took courage, for the hand of the LORD my God was on me, and I gathered leading men from Israel to go up with me. Footnotes (1) 7:8 Hebrew *he* (2) 7:11 The text of Ezra 7:12–26 is in Aramaic (3) 7:12 Aramaic *Perfect* (probably a greeting) (4) 7:22 A *talent* was about 75 pounds or 34 kilograms (5) 7:22 A *cor* was about 6 bushels or 220 liters (6) 7:22 A *bath* was about 6 gallons or 22 liters (ESV)
+			</v>
+			<marker class="begin-verse" mid="v15007029">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

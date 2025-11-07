@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:34:32.302939</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:34:32.302950</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19086001"/>
+		<chapter num="86">
+			<heading>A Prayer of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Bow down 
+				<crossref let="b" cid="c190861.1"/>
+				 thine ear, O Jehovah, and answer me;For I am poor and needy.
+			</v>
+			<marker class="begin-verse" mid="v19086002"/>
+			<v n="2">
+				Preserve my 
+				<crossref let="c" cid="c190862.1"/>
+				 soul; for I am godly:O thou my God, save thy servant that trusteth in thee.
+			</v>
+			<marker class="begin-verse" mid="v19086003"/>
+			<v n="3">
+				Be merciful 
+				<crossref let="d" cid="c190863.1"/>
+				 unto me, O Lord;For unto thee do I cry all the day long.
+			</v>
+			<marker class="begin-verse" mid="v19086004"/>
+			<v n="4">
+				Rejoice the 
+				<crossref let="e" cid="c190864.1"/>
+				 soul of thy servant;For unto thee, O Lord, do I lift up my soul.
+			</v>
+			<marker class="begin-verse" mid="v19086005"/>
+			<v n="5">
+				For thou, 
+				<crossref let="f" cid="c190865.1"/>
+				 Lord, art good, and ready to forgive,And abundant in lovingkindness unto all them that call upon thee.
+			</v>
+			<marker class="begin-verse" mid="v19086006"/>
+			<v n="6">
+				Give ear, 
+				<crossref let="g" cid="c190866.1"/>
+				 O Jehovah, unto my prayer;And hearken unto the voice of my supplications.
+			</v>
+			<marker class="begin-verse" mid="v19086007"/>
+			<v n="7">
+				In the 
+				<crossref let="h" cid="c190867.1"/>
+				 day of my trouble I will call upon thee;For thou wilt answer me.
+			</v>
+			<marker class="begin-verse" mid="v19086008"/>
+			<v n="8">
+				There is 
+				<crossref let="i" cid="c190868.1"/>
+				 none like unto thee among the gods, O Lord;Neither are there any works like unto thy works.
+			</v>
+			<marker class="begin-verse" mid="v19086009"/>
+			<v n="9">
+				All nations 
+				<crossref let="j" cid="c190869.1"/>
+				 whom thou hast made shall come and worship before thee, O Lord;And they shall glorify thy name.
+			</v>
+			<marker class="begin-verse" mid="v19086010"/>
+			<v n="10">
+				For thou 
+				<crossref let="k" cid="c1908610.1"/>
+				 art great, and doest wondrous things:Thou art God alone.
+			</v>
+			<marker class="begin-verse" mid="v19086011"/>
+			<v n="11">
+				Teach me 
+				<crossref let="l" cid="c1908611.1"/>
+				 thy way, O Jehovah; I will walk in thy truth:Unite my heart to fear thy name.
+			</v>
+			<marker class="begin-verse" mid="v19086012"/>
+			<v n="12">
+				I will 
+				<crossref let="m" cid="c1908612.1"/>
+				 praise thee, O Lord my God, with my whole heart;And I will glorify thy name for evermore.
+			</v>
+			<marker class="begin-verse" mid="v19086013"/>
+			<v n="13">
+				For great 
+				<crossref let="n" cid="c1908613.1"/>
+				 is thy lovingkindness toward me;And thou hast delivered my soul from the lowest Sheol.
+			</v>
+			<marker class="begin-verse" mid="v19086014"/>
+			<v n="14">
+				O God, 
+				<crossref let="o" cid="c1908614.1"/>
+				 the proud are risen up against me,And a company of violent men have sought after my soul,And have not set thee before them.
+			</v>
+			<marker class="begin-verse" mid="v19086015"/>
+			<v n="15">
+				But thou, 
+				<crossref let="p" cid="c1908615.1"/>
+				 O Lord, art a God merciful and gracious,Slow to anger, and abundant in lovingkindness and truth.
+			</v>
+			<marker class="begin-verse" mid="v19086016"/>
+			<v n="16">
+				Oh turn 
+				<crossref let="q" cid="c1908616.1"/>
+				 unto me, and have mercy upon me;Give thy strength unto thy servant,And save the son of thy handmaid.
+			</v>
+			<marker class="begin-verse" mid="v19086017"/>
+			<v n="17">
+				Show me 
+				<crossref let="r" cid="c1908617.1"/>
+				 a token for good,That they who hate me may see it, and be put to shame,Because thou, Jehovah, hast helped me, and comforted me.
+			</v>
+			<marker class="begin-verse" mid="v19086018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

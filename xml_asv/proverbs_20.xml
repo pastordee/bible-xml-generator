@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:41:59.688758</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:41:59.688813</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" version="ASV" bookAbbr="pro">
+		<marker class="begin-verse" mid="v20020001"/>
+		<chapter num="20">
+			<begin-paragraph/>
+			<v n="1">
+				Wine is 
+				<crossref let="b" cid="c200201.1"/>
+				 a mocker, strong drink a brawler;And whosoever erreth thereby is not wise.
+			</v>
+			<marker class="begin-verse" mid="v20020002"/>
+			<v n="2">
+				The terror 
+				<crossref let="c" cid="c200202.1"/>
+				 of a king is as the roaring of a lion:He that provoketh him to anger sinneth against his own life.
+			</v>
+			<marker class="begin-verse" mid="v20020003"/>
+			<v n="3">
+				It is 
+				<crossref let="d" cid="c200203.1"/>
+				 an honor for a man to keep aloof from strife;But every fool will be quarrelling.
+			</v>
+			<marker class="begin-verse" mid="v20020004"/>
+			<v n="4">
+				The sluggard 
+				<crossref let="e" cid="c200204.1"/>
+				 will not plow by reason of the winter;Therefore he shall beg in harvest, and have nothing.
+			</v>
+			<marker class="begin-verse" mid="v20020005"/>
+			<v n="5">
+				Counsel in 
+				<crossref let="f" cid="c200205.1"/>
+				 the heart of man is like deep water;But a man of understanding will draw it out.
+			</v>
+			<marker class="begin-verse" mid="v20020006"/>
+			<v n="6">
+				Most men 
+				<crossref let="g" cid="c200206.1"/>
+				 will proclaim every one his own kindness;But a faithful man who can find?
+			</v>
+			<marker class="begin-verse" mid="v20020007"/>
+			<v n="7">
+				A righteous 
+				<crossref let="h" cid="c200207.1"/>
+				 man that walketh in his integrity,Blessed are his children after him.
+			</v>
+			<marker class="begin-verse" mid="v20020008"/>
+			<v n="8">
+				A king 
+				<crossref let="i" cid="c200208.1"/>
+				 that sitteth on the throne of judgmentScattereth away all evil with his eyes.
+			</v>
+			<marker class="begin-verse" mid="v20020009"/>
+			<v n="9">
+				Who can 
+				<crossref let="j" cid="c200209.1"/>
+				 say, I have made my heart clean,I am pure from my sin?
+			</v>
+			<marker class="begin-verse" mid="v20020010"/>
+			<v n="10">
+				Diverse weights, 
+				<crossref let="k" cid="c2002010.1"/>
+				 and diverse measures,Both of them alike are an abomination to Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v20020011"/>
+			<v n="11">
+				Even a 
+				<crossref let="l" cid="c2002011.1"/>
+				 child maketh himself known by his doings,Whether his work be pure, and whether it be right.
+			</v>
+			<marker class="begin-verse" mid="v20020012"/>
+			<v n="12">
+				The hearing 
+				<crossref let="m" cid="c2002012.1"/>
+				 ear, and the seeing eye,Jehovah hath made even both of them.
+			</v>
+			<marker class="begin-verse" mid="v20020013"/>
+			<v n="13">
+				Love not 
+				<crossref let="n" cid="c2002013.1"/>
+				 sleep, lest thou come to poverty;Open thine eyes, and thou shalt be satisfied with bread.
+			</v>
+			<marker class="begin-verse" mid="v20020014"/>
+			<v n="14">
+				It is 
+				<crossref let="o" cid="c2002014.1"/>
+				 bad, it is bad, saith the buyer;But when he is gone his way, then he boasteth.
+			</v>
+			<marker class="begin-verse" mid="v20020015"/>
+			<v n="15">
+				There is 
+				<crossref let="p" cid="c2002015.1"/>
+				 gold, and abundance of rubies;But the lips of knowledge are a precious jewel.
+			</v>
+			<marker class="begin-verse" mid="v20020016"/>
+			<v n="16">
+				Take his 
+				<crossref let="q" cid="c2002016.1"/>
+				 garment that is surety for a stranger;And hold him in pledge that is surety for foreigners.
+			</v>
+			<marker class="begin-verse" mid="v20020017"/>
+			<v n="17">
+				Bread of 
+				<crossref let="r" cid="c2002017.1"/>
+				 falsehood is sweet to a man;But afterwards his mouth shall be filled with gravel.
+			</v>
+			<marker class="begin-verse" mid="v20020018"/>
+			<v n="18">
+				Every purpose 
+				<crossref let="s" cid="c2002018.1"/>
+				 is established by counsel;And by wise guidance make thou war.
+			</v>
+			<marker class="begin-verse" mid="v20020019"/>
+			<v n="19">
+				He that 
+				<crossref let="t" cid="c2002019.1"/>
+				 goeth about as a tale-bearer revealeth secrets;Therefore company not with him that openeth wide his lips.
+			</v>
+			<marker class="begin-verse" mid="v20020020"/>
+			<v n="20">
+				Whoso curseth 
+				<crossref let="u" cid="c2002020.1"/>
+				 his father or his mother,His lamp shall be put out in blackness of darkness.
+			</v>
+			<marker class="begin-verse" mid="v20020021"/>
+			<v n="21">
+				An inheritance 
+				<crossref let="v" cid="c2002021.1"/>
+				 may be gotten hastily at the beginning;But the end thereof shall not be blessed.
+			</v>
+			<marker class="begin-verse" mid="v20020022"/>
+			<v n="22">
+				Say not 
+				<crossref let="w" cid="c2002022.1"/>
+				 thou, I will recompense evil:Wait for Jehovah, and he will save thee.
+			</v>
+			<marker class="begin-verse" mid="v20020023"/>
+			<v n="23">
+				Diverse weights 
+				<crossref let="x" cid="c2002023.1"/>
+				 are an abomination to Jehovah;And a false balance is not good.
+			</v>
+			<marker class="begin-verse" mid="v20020024"/>
+			<v n="24">
+				A man’s 
+				<crossref let="y" cid="c2002024.1"/>
+				 goings are of Jehovah;How then can man understand his way?
+			</v>
+			<marker class="begin-verse" mid="v20020025"/>
+			<v n="25">
+				It is 
+				<crossref let="z" cid="c2002025.1"/>
+				 a snare to a man rashly to say, It is holy,And after vows to make inquiry.
+			</v>
+			<marker class="begin-verse" mid="v20020026"/>
+			<v n="26">
+				A wise 
+				<crossref let="a" cid="c2002026.1"/>
+				 king winnoweth the wicked,And bringeth the threshing-wheel over them.
+			</v>
+			<marker class="begin-verse" mid="v20020027"/>
+			<v n="27">
+				The spirit 
+				<crossref let="b" cid="c2002027.1"/>
+				 of man is the lamp of Jehovah,Searching all his innermost parts.
+			</v>
+			<marker class="begin-verse" mid="v20020028"/>
+			<v n="28">
+				Kindness and 
+				<crossref let="c" cid="c2002028.1"/>
+				 truth preserve the king;And his throne is upholden by kindness.
+			</v>
+			<marker class="begin-verse" mid="v20020029"/>
+			<v n="29">
+				The glory 
+				<crossref let="d" cid="c2002029.1"/>
+				 of young men is their strength;And the beauty of old men is the hoary head.
+			</v>
+			<marker class="begin-verse" mid="v20020030"/>
+			<v n="30">
+				Stripes that 
+				<crossref let="e" cid="c2002030.1"/>
+				 wound cleanse away evil;And strokes reach the innermost parts.
+			</v>
+			<marker class="begin-verse" mid="v20020031"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:08:15.278052</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:08:15.278071</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19113001"/>
+		<chapter num="113">
+			<heading>Psalm 113The Lord Exalts the Humble.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c191131.1"/>
+				 Lord! (Hallelujah!)Praise, O servants of the Lord,Praise the name of the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19113002"/>
+			<v n="2">
+				Blessed be 
+				<crossref let="c" cid="c191132.1"/>
+				 the name of the LordFrom this time forth and forever.
+			</v>
+			<marker class="begin-verse" mid="v19113003"/>
+			<v n="3">
+				From the 
+				<crossref let="d" cid="c191133.1"/>
+				 rising of the sun to its settingThe name of the Lord is to be praised [with awe-inspired reverence].
+			</v>
+			<marker class="begin-verse" mid="v19113004"/>
+			<v n="4">
+				The Lord 
+				<crossref let="e" cid="c191134.1"/>
+				 is high above all nations,And His glory above the heavens.
+			</v>
+			<marker class="begin-verse" mid="v19113005"/>
+			<v n="5">
+				¶Who is 
+				<crossref let="f" cid="c191135.1"/>
+				 like the Lord our God,Who is enthroned on high,
+			</v>
+			<marker class="begin-verse" mid="v19113006"/>
+			<v n="6">
+				Who humbles 
+				<crossref let="g" cid="c191136.1"/>
+				 Himself to regardThe heavens and the earth? [Ps 138:6; Is 57:15]
+			</v>
+			<marker class="begin-verse" mid="v19113007"/>
+			<v n="7">
+				He raises 
+				<crossref let="h" cid="c191137.1"/>
+				 the poor out of the dustAnd lifts the needy from the ash heap,
+			</v>
+			<marker class="begin-verse" mid="v19113008"/>
+			<v n="8">
+				That He 
+				<crossref let="i" cid="c191138.1"/>
+				 may seat them with princes,With the princes of His people.
+			</v>
+			<marker class="begin-verse" mid="v19113009"/>
+			<v n="9">
+				He makes 
+				<crossref let="j" cid="c191139.1"/>
+				 the barren woman live in the houseAs a joyful mother of children.Praise the Lord! (Hallelujah!)
+			</v>
+			<marker class="begin-verse" mid="v19113010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

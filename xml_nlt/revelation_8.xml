@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:49:38.756750</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:49:38.756757</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="NLT" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66008001"/>
+		<chapter num="8">
+			<heading>The Lamb Breaks the Seventh Seal</heading>
+			<begin-paragraph/>
+			<v n="1">
+				When the 
+				<crossref let="b" cid="c660081.1"/>
+				 Lamb broke the seventh seal on the scroll, there was silence throughout heaven for about half an hour.
+			</v>
+			<marker class="begin-verse" mid="v66008002"/>
+			<v n="2">
+				I saw 
+				<crossref let="c" cid="c660082.1"/>
+				 the seven angels who stand before God, and they were given seven trumpets.
+			</v>
+			<marker class="begin-verse" mid="v66008003"/>
+			<v n="3">
+				Then another 
+				<crossref let="d" cid="c660083.1"/>
+				 angel with a gold incense burner came and stood at the altar. And a great amount of incense was given to him to mix with the prayers of God’s people as an offering on the gold altar before the throne.
+			</v>
+			<marker class="begin-verse" mid="v66008004"/>
+			<v n="4">
+				The smoke 
+				<crossref let="e" cid="c660084.1"/>
+				 of the incense, mixed with the prayers of God’s holy people, ascended up to God from the altar where the angel had poured them out.
+			</v>
+			<marker class="begin-verse" mid="v66008005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c660085.1"/>
+				 angel filled the incense burner with fire from the altar and threw it down upon the earth; and thunder crashed, lightning flashed, and there was a terrible earthquake.The First Four Trumpets
+			</v>
+			<marker class="begin-verse" mid="v66008006"/>
+			<v n="6">
+				Then the 
+				<crossref let="g" cid="c660086.1"/>
+				 seven angels with the seven trumpets prepared to blow their mighty blasts.
+			</v>
+			<marker class="begin-verse" mid="v66008007"/>
+			<v n="7">
+				The first 
+				<crossref let="h" cid="c660087.1"/>
+				 angel blew his trumpet, and hail and fire mixed with blood were thrown down on the earth. One-third of the earth was set on fire, one-third of the trees were burned, and all the green grass was burned.
+			</v>
+			<marker class="begin-verse" mid="v66008008"/>
+			<v n="8">
+				Then the 
+				<crossref let="i" cid="c660088.1"/>
+				 second angel blew his trumpet, and a great mountain of fire was thrown into the sea. One-third of the water in the sea became blood,
+			</v>
+			<marker class="begin-verse" mid="v66008009"/>
+			<v n="9">
+				one-third of 
+				<crossref let="j" cid="c660089.1"/>
+				 all things living in the sea died, and one-third of all the ships on the sea were destroyed.
+			</v>
+			<marker class="begin-verse" mid="v66008010"/>
+			<v n="10">
+				Then the 
+				<crossref let="k" cid="c6600810.1"/>
+				 third angel blew his trumpet, and a great star fell from the sky, burning like a torch. It fell on one-third of the rivers and on the springs of water.
+			</v>
+			<marker class="begin-verse" mid="v66008011"/>
+			<v n="11">
+				The name 
+				<crossref let="l" cid="c6600811.1"/>
+				 of the star was Bitterness. It made one-third of the water bitter, and many people died from drinking the bitter water.
+			</v>
+			<marker class="begin-verse" mid="v66008012"/>
+			<v n="12">
+				Then the 
+				<crossref let="m" cid="c6600812.1"/>
+				 fourth angel blew his trumpet, and one-third of the sun was struck, and one-third of the moon, and one-third of the stars, and they became dark. And one-third of the day was dark, and also one-third of the night.
+			</v>
+			<marker class="begin-verse" mid="v66008013"/>
+			<v n="13">
+				Then I 
+				<crossref let="n" cid="c6600813.1"/>
+				 looked, and I heard a single eagle crying loudly as it flew through the air, “Terror, terror, terror to all who belong to this world because of what will happen when the last three angels blow their trumpets.”
+			</v>
+			<marker class="begin-verse" mid="v66008014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

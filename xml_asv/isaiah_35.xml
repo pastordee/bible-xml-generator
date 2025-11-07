@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:47:51.142198</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:47:51.142208</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="ASV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23035001"/>
+		<chapter num="35">
+			<begin-paragraph/>
+			<v n="1">
+				The wilderness 
+				<crossref let="b" cid="c230351.1"/>
+				 and the dry land shall be glad; and the desert shall rejoice, and blossom as the rose.
+			</v>
+			<marker class="begin-verse" mid="v23035002"/>
+			<v n="2">
+				It shall 
+				<crossref let="c" cid="c230352.1"/>
+				 blossom abundantly, and rejoice even with joy and singing; the glory of Lebanon shall be given unto it, the excellency of Carmel and Sharon: they shall see the glory of Jehovah, the excellency of our God.
+			</v>
+			<marker class="begin-verse" mid="v23035003"/>
+			<v n="3">
+				Strengthen ye 
+				<crossref let="d" cid="c230353.1"/>
+				 the weak hands, and confirm the feeble knees.
+			</v>
+			<marker class="begin-verse" mid="v23035004"/>
+			<v n="4">
+				Say to 
+				<crossref let="e" cid="c230354.1"/>
+				 them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, with the recompense of God; he will come and save you.
+			</v>
+			<marker class="begin-verse" mid="v23035005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c230355.1"/>
+				 eyes of the blind shall be opened, and the ears of the deaf shall be unstopped.
+			</v>
+			<marker class="begin-verse" mid="v23035006"/>
+			<v n="6">
+				Then shall 
+				<crossref let="g" cid="c230356.1"/>
+				 the lame man leap as a hart, and the tongue of the dumb shall sing; for in the wilderness shall waters break out, and streams in the desert.
+			</v>
+			<marker class="begin-verse" mid="v23035007"/>
+			<v n="7">
+				And the 
+				<crossref let="h" cid="c230357.1"/>
+				 glowing sand shall become a pool, and the thirsty ground springs of water: in the habitation of jackals, where they lay, shall be grass with reeds and rushes.
+			</v>
+			<marker class="begin-verse" mid="v23035008"/>
+			<v n="8">
+				And a 
+				<crossref let="i" cid="c230358.1"/>
+				 highway shall be there, and a way, and it shall be called The way of holiness; the unclean shall not pass over it; but it shall be for the redeemed: the wayfaring men, yea fools, shall not err therein.
+			</v>
+			<marker class="begin-verse" mid="v23035009"/>
+			<v n="9">
+				No lion 
+				<crossref let="j" cid="c230359.1"/>
+				 shall be there, nor shall any ravenous beast go up thereon; they shall not be found there; but the redeemed shall walk there:
+			</v>
+			<marker class="begin-verse" mid="v23035010"/>
+			<v n="10">
+				and the 
+				<crossref let="k" cid="c2303510.1"/>
+				 ransomed of Jehovah shall return, and come with singing unto Zion; and everlasting joy shall be upon their heads: they shall obtain gladness and joy, and sorrow and sighing shall flee away.
+			</v>
+			<marker class="begin-verse" mid="v23035011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

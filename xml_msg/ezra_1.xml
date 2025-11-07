@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:10:29.360083</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:10:29.360120</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" version="MSG" bookAbbr="ezr">
+		<marker class="begin-verse" mid="v15001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				In order 
+				<crossref let="b" cid="c150011.1"/>
+				 to fulfill the Lord's prophecy given through Jeremiah, the Lord encouraged Cyrus, king of Persia, to issue a proclamation throughout his kingdom and also to put it in writing, saying,
+			</v>
+			<marker class="begin-verse" mid="v15001002"/>
+			<v n="2">
+				“This is 
+				<crossref let="c" cid="c150012.1"/>
+				 what Cyrus king of Persia says: ‘The Lord, the God of heaven, who has given to me all the kingdoms of the earth, has given me the responsibility to build a Temple for him at Jerusalem in Judah.
+			</v>
+			<marker class="begin-verse" mid="v15001003"/>
+			<v n="3">
+				Anyone among 
+				<crossref let="d" cid="c150013.1"/>
+				 you who belongs to his people can go to Jerusalem in Judah to rebuild this Temple of the Lord, the God of Israel, who lives in Jerusalem. May your God be with you.
+			</v>
+			<marker class="begin-verse" mid="v15001004"/>
+			<v n="4">
+				Wherever survivors 
+				<crossref let="e" cid="c150014.1"/>
+				 are currently living, let them be helped by the people of that region with silver, gold, goods, and livestock, together with a voluntary donation for God's Temple in Jerusalem.’”
+			</v>
+			<marker class="begin-verse" mid="v15001005"/>
+			<v n="5">
+				Then God 
+				<crossref let="f" cid="c150015.1"/>
+				 encouraged the family leaders of Judah and Benjamin, as well as the priests and Levites to go and rebuild the Lord's Temple in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v15001006"/>
+			<v n="6">
+				All their 
+				<crossref let="g" cid="c150016.1"/>
+				 neighbors supported them with gifts of silver and gold, with goods and livestock, and with other valuable items, in addition to all their voluntary donations.
+			</v>
+			<marker class="begin-verse" mid="v15001007"/>
+			<v n="7">
+				King Cyrus 
+				<crossref let="h" cid="c150017.1"/>
+				 also retrieved the items belonging to the Lord's Temple that Nebuchadnezzar had taken from Jerusalem and placed in the temple of his god.
+			</v>
+			<marker class="begin-verse" mid="v15001008"/>
+			<v n="8">
+				Cyrus had 
+				<crossref let="i" cid="c150018.1"/>
+				 Mithredath the treasurer retrieve them, who counted them and gave them to Sheshbazzar, the leader of Judah.
+			</v>
+			<marker class="begin-verse" mid="v15001009"/>
+			<v n="9">
+				This was 
+				<crossref let="j" cid="c150019.1"/>
+				 the list: 30 gold basins, 1,000 silver basins, 29 silver silverware,
+			</v>
+			<marker class="begin-verse" mid="v15001010"/>
+			<v n="10">
+				30 gold 
+				<crossref let="k" cid="c1500110.1"/>
+				 bowls, 410 matching silver bowls, and 1,000 other items.
+			</v>
+			<marker class="begin-verse" mid="v15001011"/>
+			<v n="11">
+				In total 
+				<crossref let="l" cid="c1500111.1"/>
+				 there were 5,400 gold and silver items. When the exiles left Babylon to go to Jerusalem Sheshbazzar took all these along with them.
+			</v>
+			<marker class="begin-verse" mid="v15001012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:27:37.244202</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:27:37.244219</next_refresh_due>
+	</generation_info>
+	<book title="2 John" num="63" testament="new" version="ASV" bookAbbr="2jn">
+		<marker class="begin-verse" mid="v63001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				The elder 
+				<crossref let="b" cid="c630011.1"/>
+				 unto the elect lady and her children, whom I love in truth; and not I only, but also all they that know the truth;
+			</v>
+			<marker class="begin-verse" mid="v63001002"/>
+			<v n="2">
+				for the 
+				<crossref let="c" cid="c630012.1"/>
+				 truth’s sake which abideth in us, and it shall be with us for ever:
+			</v>
+			<marker class="begin-verse" mid="v63001003"/>
+			<v n="3">
+				Grace, mercy, 
+				<crossref let="d" cid="c630013.1"/>
+				 peace shall be with us, from God the Father, and from Jesus Christ, the Son of the Father, in truth and love.
+			</v>
+			<marker class="begin-verse" mid="v63001004"/>
+			<v n="4">
+				I rejoice 
+				<crossref let="e" cid="c630014.1"/>
+				 greatly that I have found certain of thy children walking in truth, even as we received commandment from the Father.
+			</v>
+			<marker class="begin-verse" mid="v63001005"/>
+			<v n="5">
+				And now 
+				<crossref let="f" cid="c630015.1"/>
+				 I beseech thee, lady, not as though I wrote to thee a new commandment, but that which we had from the beginning, that we love one another.
+			</v>
+			<marker class="begin-verse" mid="v63001006"/>
+			<v n="6">
+				And this 
+				<crossref let="g" cid="c630016.1"/>
+				 is love, that we should walk after his commandments. This is the commandment, even as ye heard from the beginning, that ye should walk in it.
+			</v>
+			<marker class="begin-verse" mid="v63001007"/>
+			<v n="7">
+				For many 
+				<crossref let="h" cid="c630017.1"/>
+				 deceivers are gone forth into the world, even they that confess not that Jesus Christ cometh in the flesh. This is the deceiver and the antichrist.
+			</v>
+			<marker class="begin-verse" mid="v63001008"/>
+			<v n="8">
+				Look to 
+				<crossref let="i" cid="c630018.1"/>
+				 yourselves, that ye lose not the things which we have wrought, but that ye receive a full reward.
+			</v>
+			<marker class="begin-verse" mid="v63001009"/>
+			<v n="9">
+				Whosoever goeth 
+				<crossref let="j" cid="c630019.1"/>
+				 onward and abideth not in the teaching of Christ, hath not God: he that abideth in the teaching, the same hath both the Father and the Son.
+			</v>
+			<marker class="begin-verse" mid="v63001010"/>
+			<v n="10">
+				If any 
+				<crossref let="k" cid="c6300110.1"/>
+				 one cometh unto you, and bringeth not this teaching, receive him not into your house, and give him no greeting:
+			</v>
+			<marker class="begin-verse" mid="v63001011"/>
+			<v n="11">
+				for he 
+				<crossref let="l" cid="c6300111.1"/>
+				 that giveth him greeting partaketh in his evil works.
+			</v>
+			<marker class="begin-verse" mid="v63001012"/>
+			<v n="12">
+				Having many 
+				<crossref let="m" cid="c6300112.1"/>
+				 things to write unto you, I would not write them with paper and ink: but I hope to come unto you, and to speak face to face, that your joy may be made full.
+			</v>
+			<marker class="begin-verse" mid="v63001013"/>
+			<v n="13">
+				The children 
+				<crossref let="n" cid="c6300113.1"/>
+				 of thine elect sister salute thee.
+			</v>
+			<marker class="begin-verse" mid="v63001014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

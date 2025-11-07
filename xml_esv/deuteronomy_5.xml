@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:02:07.225507</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:02:07.225523</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" bookAbbr="deu" version="ESV">
+		<marker class="begin-verse" mid="v05005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				Deuteronomy 5
+			</heading>
+			<heading>
+				The Ten Commandments
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				And Moses 
+				<crossref let="b" cid="c05005001.1">
+				</crossref>
+				summoned all, 
+				<crossref let="c" cid="c05005001.2">
+				</crossref>
+				Israel and said to them, “Hear, O Israel, the statutes and the rules that I speak in your hearing today, and you shall learn them and be careful to do them.
+			</v>
+			<marker class="begin-verse" mid="v05005002">
+			</marker>
+			<v n="2">
+				The LORD 
+				<crossref let="d" cid="c05005002.3">
+				</crossref>
+				our God, 
+				<crossref let="e" cid="c05005002.4">
+				</crossref>
+				made a covenant with us in Horeb.
+			</v>
+			<marker class="begin-verse" mid="v05005003">
+			</marker>
+			<v n="3">
+				Not with 
+				<crossref let="f" cid="c05005003.5">
+				</crossref>
+				our fathers, 
+				<crossref let="g" cid="c05005003.6">
+				</crossref>
+				did the LORD make this covenant, but with us, who are all of us here alive today.
+				<note nid="n05005003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005004">
+			</marker>
+			<v n="4">
+				The LORD 
+				<crossref let="h" cid="c05005004.7">
+				</crossref>
+				spoke with, 
+				<crossref let="i" cid="c05005004.8">
+				</crossref>
+				you face to face at the mountain, out of the midst of the fire,
+			</v>
+			<marker class="begin-verse" mid="v05005005">
+			</marker>
+			<v n="5" class="woc">
+				<woc>
+					<q class="begin-double" qid="" from="" to="">
+					</q>
+					while I 
+					<crossref let="j" cid="c05005005.9">
+				</crossref>
+					stood between, 
+					<crossref let="k" cid="c05005005.10">
+				</crossref>
+				the LORD and you at that time, to declare to you the word of the LORD. For you were afraid because of the fire, and you did not go up into the mountain. He said:
+					<q class="end-double" qid="" from="" to="">
+					</q>
+				</woc>
+			</v>
+			<marker class="begin-verse" mid="v05005006">
+			</marker>
+			<v n="6">
+				“‘I am 
+				<crossref let="l" cid="c05005006.11">
+				</crossref>
+				the LORD, 
+				<crossref let="m" cid="c05005006.12">
+				</crossref>
+				your God, who brought you out of the land of Egypt, out of the house of slavery.
+				<note nid="n05005006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005007">
+			</marker>
+			<v n="7">
+				“‘You shall 
+				<crossref let="n" cid="c05005007.13">
+				</crossref>
+				have no, 
+				<crossref let="o" cid="c05005007.14">
+				</crossref>
+				other gods before(1) me.
+			</v>
+			<marker class="begin-verse" mid="v05005008">
+			</marker>
+			<v n="8">
+				“‘You shall 
+				<crossref let="p" cid="c05005008.15">
+				</crossref>
+				not make, 
+				<crossref let="q" cid="c05005008.16">
+				</crossref>
+				for yourself a carved image, or any likeness of anything that is in heaven above, or that is on the earth beneath, or that is in the water under the earth.
+			</v>
+			<marker class="begin-verse" mid="v05005009">
+			</marker>
+			<v n="9">
+				You shall 
+				<crossref let="r" cid="c05005009.17">
+				</crossref>
+				not bow, 
+				<crossref let="s" cid="c05005009.18">
+				</crossref>
+				down to them or serve them, for I the LORD your God am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me,
+				<note nid="n05005009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005010">
+			</marker>
+			<v n="10">
+				but showing 
+				<crossref let="t" cid="c05005010.19">
+				</crossref>
+				steadfast love, 
+				<crossref let="u" cid="c05005010.20">
+				</crossref>
+				to thousands(2) of those who love me and keep my commandments.
+			</v>
+			<marker class="begin-verse" mid="v05005011">
+			</marker>
+			<v n="11">
+				“‘You shall 
+				<crossref let="v" cid="c05005011.21">
+				</crossref>
+				not take, 
+				<crossref let="w" cid="c05005011.22">
+				</crossref>
+				the name of the LORD your God in vain, for the LORD will not hold him guiltless who takes his name in vain.
+			</v>
+			<marker class="begin-verse" mid="v05005012">
+			</marker>
+			<v n="12">
+				“‘Observe the 
+				<crossref let="x" cid="c05005012.23">
+				</crossref>
+				Sabbath day,, 
+				<crossref let="y" cid="c05005012.24">
+				</crossref>
+				to keep it holy, as the LORD your God commanded you.
+				<note nid="n05005012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005013">
+			</marker>
+			<v n="13">
+				Six days 
+				<crossref let="z" cid="c05005013.25">
+				</crossref>
+				you shall, 
+				<crossref let="a" cid="c05005013.26">
+				</crossref>
+				labor and do all your work,
+			</v>
+			<marker class="begin-verse" mid="v05005014">
+			</marker>
+			<v n="14">
+				but the 
+				<crossref let="b" cid="c05005014.27">
+				</crossref>
+				seventh day, 
+				<crossref let="c" cid="c05005014.28">
+				</crossref>
+				is a Sabbath to the LORD your God. On it you shall not do any work, you or your son or your daughter or your male servant or your female servant, or your ox or your donkey or any of your livestock, or the sojourner who is within your gates, that your male servant and your female servant may rest as well as you.
+			</v>
+			<marker class="begin-verse" mid="v05005015">
+			</marker>
+			<v n="15">
+				You shall 
+				<crossref let="d" cid="c05005015.29">
+				</crossref>
+				remember that, 
+				<crossref let="e" cid="c05005015.30">
+				</crossref>
+				you were a slave(3) in the land of Egypt, and the LORD your God brought you out from there with a mighty hand and an outstretched arm. Therefore the LORD your God commanded you to keep the Sabbath day.
+				<note nid="n05005015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005016">
+			</marker>
+			<v n="16">
+				“‘Honor your 
+				<crossref let="f" cid="c05005016.31">
+				</crossref>
+				father and, 
+				<crossref let="g" cid="c05005016.32">
+				</crossref>
+				your mother, as the LORD your God commanded you, that your days may be long, and that it may go well with you in the land that the LORD your God is giving you.
+			</v>
+			<marker class="begin-verse" mid="v05005017">
+			</marker>
+			<v n="17">
+				“‘You shall 
+				<crossref let="h" cid="c05005017.33">
+				</crossref>
+				not murder.(4)
+			</v>
+			<marker class="begin-verse" mid="v05005018">
+			</marker>
+			<v n="18">
+				“‘And you 
+				<crossref let="j" cid="c05005018.35">
+				</crossref>
+				shall not, 
+				<crossref let="k" cid="c05005018.36">
+				</crossref>
+				commit adultery.
+				<note nid="n05005018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005019">
+			</marker>
+			<v n="19">
+				“‘And you 
+				<crossref let="l" cid="c05005019.37">
+				</crossref>
+				shall not steal.
+			</v>
+			<marker class="begin-verse" mid="v05005020">
+			</marker>
+			<v n="20">
+				“‘And you 
+				<crossref let="n" cid="c05005020.39">
+				</crossref>
+				shall not, 
+				<crossref let="o" cid="c05005020.40">
+				</crossref>
+				bear false witness against your neighbor.
+			</v>
+			<marker class="begin-verse" mid="v05005021">
+			</marker>
+			<v n="21">
+				“‘And you 
+				<crossref let="p" cid="c05005021.41">
+				</crossref>
+				shall not, 
+				<crossref let="q" cid="c05005021.42">
+				</crossref>
+				covet your neighbor’s wife. And you shall not desire your neighbor’s house, his field, or his male servant, or his female servant, his ox, or his donkey, or anything that is your neighbor’s.’
+				<note nid="n05005021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005022">
+			</marker>
+			<v n="22">
+				“These words 
+				<crossref let="r" cid="c05005022.43">
+				</crossref>
+				the LORD, 
+				<crossref let="s" cid="c05005022.44">
+				</crossref>
+				spoke to all your assembly at the mountain out of the midst of the fire, the cloud, and the thick darkness, with a loud voice; and he added no more. And he wrote them on two tablets of stone and gave them to me.
+			</v>
+			<marker class="begin-verse" mid="v05005023">
+			</marker>
+			<v n="23">
+				And as 
+				<crossref let="t" cid="c05005023.45">
+				</crossref>
+				soon as, 
+				<crossref let="u" cid="c05005023.46">
+				</crossref>
+				you heard the voice out of the midst of the darkness, while the mountain was burning with fire, you came near to me, all the heads of your tribes, and your elders.
+			</v>
+			<marker class="begin-verse" mid="v05005024">
+			</marker>
+			<v n="24">
+				And you 
+				<crossref let="v" cid="c05005024.47">
+				</crossref>
+				said, ‘Behold,, 
+				<crossref let="w" cid="c05005024.48">
+				</crossref>
+				the LORD our God has shown us his glory and greatness, and we have heard his voice out of the midst of the fire. This day we have seen God speak with man, and man still live.
+				<note nid="n05005024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005025">
+			</marker>
+			<v n="25">
+				Now therefore 
+				<crossref let="x" cid="c05005025.49">
+				</crossref>
+				why should, 
+				<crossref let="y" cid="c05005025.50">
+				</crossref>
+				we die? For this great fire will consume us. If we hear the voice of the LORD our God any more, we shall die.
+			</v>
+			<marker class="begin-verse" mid="v05005026">
+			</marker>
+			<v n="26">
+				For who 
+				<crossref let="z" cid="c05005026.51">
+				</crossref>
+				is there, 
+				<crossref let="a" cid="c05005026.52">
+				</crossref>
+				of all flesh, that has heard the voice of the living God speaking out of the midst of fire as we have, and has still lived?
+			</v>
+			<marker class="begin-verse" mid="v05005027">
+			</marker>
+			<v n="27">
+				Go near 
+				<crossref let="b" cid="c05005027.53">
+				</crossref>
+				and hear, 
+				<crossref let="c" cid="c05005027.54">
+				</crossref>
+				all that the LORD our God will say, and speak to us all that the LORD our God will speak to you, and we will hear and do it.’
+				<note nid="n05005027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005028">
+			</marker>
+			<v n="28">
+				“And the 
+				<crossref let="d" cid="c05005028.55">
+				</crossref>
+				LORD heard, 
+				<crossref let="e" cid="c05005028.56">
+				</crossref>
+				your words, when you spoke to me. And the LORD said to me, ‘I have heard the words of this people, which they have spoken to you. They are right in all that they have spoken.
+			</v>
+			<marker class="begin-verse" mid="v05005029">
+			</marker>
+			<v n="29">
+				Oh that 
+				<crossref let="f" cid="c05005029.57">
+				</crossref>
+				they had, 
+				<crossref let="g" cid="c05005029.58">
+				</crossref>
+				such a heart as this always, to fear me and to keep all my commandments, that it might go well with them and with their descendants(5) forever!
+			</v>
+			<marker class="begin-verse" mid="v05005030">
+			</marker>
+			<v n="30">
+				Go and 
+				<crossref let="h" cid="c05005030.59">
+				</crossref>
+				say to, 
+				<crossref let="i" cid="c05005030.60">
+				</crossref>
+				them, “Return to your tents.”
+				<note nid="n05005030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005031">
+			</marker>
+			<v n="31">
+				But you, 
+				<crossref let="j" cid="c05005031.61">
+				</crossref>
+				stand here, 
+				<crossref let="k" cid="c05005031.62">
+				</crossref>
+				by me, and I will tell you the whole commandment and the statutes and the rules that you shall teach them, that they may do them in the land that I am giving them to possess.’
+			</v>
+			<marker class="begin-verse" mid="v05005032">
+			</marker>
+			<v n="32">
+				You shall 
+				<crossref let="l" cid="c05005032.63">
+				</crossref>
+				be careful, 
+				<crossref let="m" cid="c05005032.64">
+				</crossref>
+				therefore to do as the LORD your God has commanded you. You shall not turn aside to the right hand or to the left.
+			</v>
+			<marker class="begin-verse" mid="v05005033">
+			</marker>
+			<v n="33">
+				You shall 
+				<crossref let="n" cid="c05005033.65">
+				</crossref>
+				walk in, 
+				<crossref let="o" cid="c05005033.66">
+				</crossref>
+				all the way that the LORD your God has commanded you, that you may live, and that it may go well with you, and that you may live long in the land that you shall possess. Footnotes (1) 5:7 Or *besides* (2) 5:10 Or *to the thousandth generation* (3) 5:15 Or *servant* (4) 5:17 The Hebrew word also covers causing human death through carelessness or negligence (5) 5:29 Or *sons* (ESV)
+				<note nid="n05005033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v05005034">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

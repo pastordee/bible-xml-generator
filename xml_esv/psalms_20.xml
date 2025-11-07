@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:39.112005</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:39.112036</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19020001">
+		</marker>
+		<chapter num="20">
+			<heading>
+				Psalm 20
+			</heading>
+			<heading>
+				Trust in the Name of the LORD Our God
+			</heading>
+			<heading>
+				To the choirmaster. A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				May the 
+				<crossref let="b" cid="c19020001.1">
+				</crossref>
+				LORD answer, 
+				<crossref let="c" cid="c19020001.2">
+				</crossref>
+				you in the day of trouble! May the name of the God of Jacob protect you!
+			</v>
+			<marker class="begin-verse" mid="v19020002">
+			</marker>
+			<v n="2">
+				May he 
+				<crossref let="d" cid="c19020002.3">
+				</crossref>
+				send you, 
+				<crossref let="e" cid="c19020002.4">
+				</crossref>
+				help from the sanctuary and give you support from Zion!
+			</v>
+			<marker class="begin-verse" mid="v19020003">
+			</marker>
+			<v n="3">
+				May he 
+				<crossref let="f" cid="c19020003.5">
+				</crossref>
+				remember all, 
+				<crossref let="g" cid="c19020003.6">
+				</crossref>
+				your offerings and regard with favor your burnt sacrifices! Selah
+				<note nid="n19020003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19020004">
+			</marker>
+			<v n="4">
+				May he 
+				<crossref let="h" cid="c19020004.7">
+				</crossref>
+				grant you, 
+				<crossref let="i" cid="c19020004.8">
+				</crossref>
+				your heart’s desire and fulfill all your plans!
+			</v>
+			<marker class="begin-verse" mid="v19020005">
+			</marker>
+			<v n="5">
+				May we 
+				<crossref let="j" cid="c19020005.9">
+				</crossref>
+				shout for, 
+				<crossref let="k" cid="c19020005.10">
+				</crossref>
+				joy over your salvation, and in the name of our God set up our banners! May the LORD fulfill all your petitions!
+			</v>
+			<marker class="begin-verse" mid="v19020006">
+			</marker>
+			<v n="6">
+				Now I 
+				<crossref let="l" cid="c19020006.11">
+				</crossref>
+				know that, 
+				<crossref let="m" cid="c19020006.12">
+				</crossref>
+				the LORD saves his anointed; he will answer him from his holy heaven with the saving might of his right hand.
+				<note nid="n19020006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19020007">
+			</marker>
+			<v n="7">
+				Some trust 
+				<crossref let="n" cid="c19020007.13">
+				</crossref>
+				in chariots, 
+				<crossref let="o" cid="c19020007.14">
+				</crossref>
+				and some in horses, but we trust in the name of the LORD our God.
+			</v>
+			<marker class="begin-verse" mid="v19020008">
+			</marker>
+			<v n="8">
+				They collapse 
+				<crossref let="p" cid="c19020008.15">
+				</crossref>
+				and fall,, 
+				<crossref let="q" cid="c19020008.16">
+				</crossref>
+				but we rise and stand upright.
+			</v>
+			<marker class="begin-verse" mid="v19020009">
+			</marker>
+			<v n="9">
+				O LORD, 
+				<crossref let="r" cid="c19020009.17">
+				</crossref>
+				save the, 
+				<crossref let="s" cid="c19020009.18">
+				</crossref>
+				king! May he answer us when we call. (ESV)
+				<note nid="n19020009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19020010">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

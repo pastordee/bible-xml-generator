@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:49:09.094395</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:49:09.094415</next_refresh_due>
+	</generation_info>
+	<book title="Jonah" num="32" testament="old" version="NKJV" bookAbbr="jon">
+		<marker class="begin-verse" mid="v32004001"/>
+		<chapter num="4">
+			<heading>Jonah’s Anger and God’s Kindness</heading>
+			<begin-paragraph/>
+			<v n="1">
+				But it 
+				<crossref let="b" cid="c320041.1"/>
+				 displeased Jonah exceedingly, and he became angry.
+			</v>
+			<marker class="begin-verse" mid="v32004002"/>
+			<v n="2">
+				So he 
+				<crossref let="c" cid="c320042.1"/>
+				 prayed to the Lord, and said, “Ah, Lord, was not this what I said when I was still in my country? Therefore I fled previously to Tarshish; for I know that You are a gracious and merciful God, slow to anger and abundant in lovingkindness, One who relents from doing harm.
+			</v>
+			<marker class="begin-verse" mid="v32004003"/>
+			<v n="3">
+				Therefore now, 
+				<crossref let="d" cid="c320043.1"/>
+				 O Lord, please take my life from me, for it is better for me to die than to live!”
+			</v>
+			<marker class="begin-verse" mid="v32004004"/>
+			<v n="4">
+				Then the 
+				<crossref let="e" cid="c320044.1"/>
+				 Lord said, “Is it right for you to be angry?”
+			</v>
+			<marker class="begin-verse" mid="v32004005"/>
+			<v n="5">
+				So Jonah 
+				<crossref let="f" cid="c320045.1"/>
+				 went out of the city and sat on the east side of the city. There he made himself a shelter and sat under it in the shade, till he might see what would become of the city.
+			</v>
+			<marker class="begin-verse" mid="v32004006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c320046.1"/>
+				 Lord God prepared a plant and made it come up over Jonah, that it might be shade for his head to deliver him from his misery. So Jonah was very grateful for the plant.
+			</v>
+			<marker class="begin-verse" mid="v32004007"/>
+			<v n="7">
+				But as 
+				<crossref let="h" cid="c320047.1"/>
+				 morning dawned the next day God prepared a worm, and it so damaged the plant that it withered.
+			</v>
+			<marker class="begin-verse" mid="v32004008"/>
+			<v n="8">
+				And it 
+				<crossref let="i" cid="c320048.1"/>
+				 happened, when the sun arose, that God prepared a vehement east wind; and the sun beat on Jonah’s head, so that he grew faint. Then he wished death for himself, and said, “It is better for me to die than to live.”
+			</v>
+			<marker class="begin-verse" mid="v32004009"/>
+			<v n="9">
+				Then God 
+				<crossref let="j" cid="c320049.1"/>
+				 said to Jonah, “Is it right for you to be angry about the plant?”And he said, “It is right for me to be angry, even to death!”
+			</v>
+			<marker class="begin-verse" mid="v32004010"/>
+			<v n="10">
+				But the 
+				<crossref let="k" cid="c3200410.1"/>
+				 Lord said, “You have had pity on the plant for which you have not labored, nor made it grow, which came up in a night and perished in a night.
+			</v>
+			<marker class="begin-verse" mid="v32004011"/>
+			<v n="11">
+				And should 
+				<crossref let="l" cid="c3200411.1"/>
+				 I not pity Nineveh, that great city, in which are more than one hundred and twenty thousand persons who cannot discern between their right hand and their left—and much livestock?”
+			</v>
+			<marker class="begin-verse" mid="v32004012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

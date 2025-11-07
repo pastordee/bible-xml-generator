@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:13:39.682231</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:13:39.682240</next_refresh_due>
+	</generation_info>
+	<book title="Song of Solomon" num="22" testament="old" version="KJV" bookAbbr="sng">
+		<marker class="begin-verse" mid="v22006001"/>
+		<chapter num="6">
+			<begin-paragraph/>
+			<v n="1">
+				Whither is 
+				<crossref let="b" cid="c220061.1"/>
+				 thy beloved gone, O thou fairest among women? whither is thy beloved turned aside? that we may seek him with thee.
+			</v>
+			<marker class="begin-verse" mid="v22006002"/>
+			<v n="2">
+				My beloved 
+				<crossref let="c" cid="c220062.1"/>
+				 is gone down into his garden, to the beds of spices, to feed in the gardens, and to gather lilies.
+			</v>
+			<marker class="begin-verse" mid="v22006003"/>
+			<v n="3">
+				I am 
+				<crossref let="d" cid="c220063.1"/>
+				 my beloved’s, and my beloved is mine: he feedeth among the lilies.
+			</v>
+			<marker class="begin-verse" mid="v22006004"/>
+			<v n="4">
+				¶ Thou 
+				<crossref let="e" cid="c220064.1"/>
+				 art beautiful, O my love, as Tirzah, comely as Jerusalem, terrible as an army with banners.
+			</v>
+			<marker class="begin-verse" mid="v22006005"/>
+			<v n="5">
+				Turn away 
+				<crossref let="f" cid="c220065.1"/>
+				 thine eyes from me, for they have overcome me: thy hair is as a flock of goats that appear from Gilead.
+			</v>
+			<marker class="begin-verse" mid="v22006006"/>
+			<v n="6">
+				Thy teeth 
+				<crossref let="g" cid="c220066.1"/>
+				 are as a flock of sheep which go up from the washing, whereof every one beareth twins, and there is not one barren among them.
+			</v>
+			<marker class="begin-verse" mid="v22006007"/>
+			<v n="7">
+				As a 
+				<crossref let="h" cid="c220067.1"/>
+				 piece of a pomegranate are thy temples within thy locks.
+			</v>
+			<marker class="begin-verse" mid="v22006008"/>
+			<v n="8">
+				There are 
+				<crossref let="i" cid="c220068.1"/>
+				 threescore queens, and fourscore concubines, and virgins without number.
+			</v>
+			<marker class="begin-verse" mid="v22006009"/>
+			<v n="9">
+				My dove, 
+				<crossref let="j" cid="c220069.1"/>
+				 my undefiled is but one; she is the only one of her mother, she is the choice one of her that bare her. The daughters saw her, and blessed her; yea, the queens and the concubines, and they praised her.
+			</v>
+			<marker class="begin-verse" mid="v22006010"/>
+			<v n="10">
+				¶ Who 
+				<crossref let="k" cid="c2200610.1"/>
+				 is she that looketh forth as the morning, fair as the moon, clear as the sun, and terrible as an army with banners?
+			</v>
+			<marker class="begin-verse" mid="v22006011"/>
+			<v n="11">
+				I went 
+				<crossref let="l" cid="c2200611.1"/>
+				 down into the garden of nuts to see the fruits of the valley, and to see whether the vine flourished, and the pomegranates budded.
+			</v>
+			<marker class="begin-verse" mid="v22006012"/>
+			<v n="12">
+				Or ever 
+				<crossref let="m" cid="c2200612.1"/>
+				 I was aware, my soul made me like the chariots of Amminadib.
+			</v>
+			<marker class="begin-verse" mid="v22006013"/>
+			<v n="13">
+				Return, return, 
+				<crossref let="n" cid="c2200613.1"/>
+				 O Shulamite; return, return, that we may look upon thee. What will ye see in the Shulamite? As it were the company of two armies.
+			</v>
+			<marker class="begin-verse" mid="v22006014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

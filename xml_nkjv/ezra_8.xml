@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:06:05.010301</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:06:05.010314</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" version="NKJV" bookAbbr="ezr">
+		<marker class="begin-verse" mid="v15008001"/>
+		<chapter num="8">
+			<heading>Heads of Families Who Returned with Ezra</heading>
+			<begin-paragraph/>
+			<v n="1">
+				These are 
+				<crossref let="b" cid="c150081.1"/>
+				 the heads of their fathers’ houses, and this is the genealogy of those who went up with me from Babylon, in the reign of King Artaxerxes:
+			</v>
+			<marker class="begin-verse" mid="v15008002"/>
+			<v n="2">
+				of the 
+				<crossref let="c" cid="c150082.1"/>
+				 sons of Phinehas, Gershom; of the sons of Ithamar, Daniel; of the sons of David, Hattush;
+			</v>
+			<marker class="begin-verse" mid="v15008003"/>
+			<v n="3">
+				of the 
+				<crossref let="d" cid="c150083.1"/>
+				 sons of Shecaniah, of the sons of Parosh, Zechariah; and registered with him were one hundred and fifty males;
+			</v>
+			<marker class="begin-verse" mid="v15008004"/>
+			<v n="4">
+				of the 
+				<crossref let="e" cid="c150084.1"/>
+				 sons of Pahath-Moab, Eliehoenai the son of Zerahiah, and with him two hundred males;
+			</v>
+			<marker class="begin-verse" mid="v15008005"/>
+			<v n="5">
+				of the 
+				<crossref let="f" cid="c150085.1"/>
+				 sons of Shechaniah, Ben-Jahaziel, and with him three hundred males;
+			</v>
+			<marker class="begin-verse" mid="v15008006"/>
+			<v n="6">
+				of the 
+				<crossref let="g" cid="c150086.1"/>
+				 sons of Adin, Ebed the son of Jonathan, and with him fifty males;
+			</v>
+			<marker class="begin-verse" mid="v15008007"/>
+			<v n="7">
+				of the 
+				<crossref let="h" cid="c150087.1"/>
+				 sons of Elam, Jeshaiah the son of Athaliah, and with him seventy males;
+			</v>
+			<marker class="begin-verse" mid="v15008008"/>
+			<v n="8">
+				of the 
+				<crossref let="i" cid="c150088.1"/>
+				 sons of Shephatiah, Zebadiah the son of Michael, and with him eighty males;
+			</v>
+			<marker class="begin-verse" mid="v15008009"/>
+			<v n="9">
+				of the 
+				<crossref let="j" cid="c150089.1"/>
+				 sons of Joab, Obadiah the son of Jehiel, and with him two hundred and eighteen males;
+			</v>
+			<marker class="begin-verse" mid="v15008010"/>
+			<v n="10">
+				of the 
+				<crossref let="k" cid="c1500810.1"/>
+				 sons of Shelomith, Ben-Josiphiah, and with him one hundred and sixty males;
+			</v>
+			<marker class="begin-verse" mid="v15008011"/>
+			<v n="11">
+				of the 
+				<crossref let="l" cid="c1500811.1"/>
+				 sons of Bebai, Zechariah the son of Bebai, and with him twenty-eight males;
+			</v>
+			<marker class="begin-verse" mid="v15008012"/>
+			<v n="12">
+				of the 
+				<crossref let="m" cid="c1500812.1"/>
+				 sons of Azgad, Johanan the son of Hakkatan, and with him one hundred and ten males;
+			</v>
+			<marker class="begin-verse" mid="v15008013"/>
+			<v n="13">
+				of the 
+				<crossref let="n" cid="c1500813.1"/>
+				 last sons of Adonikam, whose names are these—Eliphelet, Jeiel, and Shemaiah—and with them sixty males;
+			</v>
+			<marker class="begin-verse" mid="v15008014"/>
+			<v n="14">
+				also of 
+				<crossref let="o" cid="c1500814.1"/>
+				 the sons of Bigvai, Uthai and Zabbud, and with them seventy males.Servants for the Temple
+			</v>
+			<marker class="begin-verse" mid="v15008015"/>
+			<v n="15">
+				Now I 
+				<crossref let="p" cid="c1500815.1"/>
+				 gathered them by the river that flows to Ahava, and we camped there three days. And I looked among the people and the priests, and found none of the sons of Levi there.
+			</v>
+			<marker class="begin-verse" mid="v15008016"/>
+			<v n="16">
+				Then I 
+				<crossref let="q" cid="c1500816.1"/>
+				 sent for Eliezer, Ariel, Shemaiah, Elnathan, Jarib, Elnathan, Nathan, Zechariah, and Meshullam, leaders; also for Joiarib and Elnathan, men of understanding.
+			</v>
+			<marker class="begin-verse" mid="v15008017"/>
+			<v n="17">
+				And I 
+				<crossref let="r" cid="c1500817.1"/>
+				 gave them a command for Iddo the chief man at the place Casiphia, and I told them what they should say to Iddo and his brethren the Nethinim at the place Casiphia—that they should bring us servants for the house of our God.
+			</v>
+			<marker class="begin-verse" mid="v15008018"/>
+			<v n="18">
+				Then, by 
+				<crossref let="s" cid="c1500818.1"/>
+				 the good hand of our God upon us, they brought us a man of understanding, of the sons of Mahli the son of Levi, the son of Israel, namely Sherebiah, with his sons and brothers, eighteen men;
+			</v>
+			<marker class="begin-verse" mid="v15008019"/>
+			<v n="19">
+				and Hashabiah, 
+				<crossref let="t" cid="c1500819.1"/>
+				 and with him Jeshaiah of the sons of Merari, his brothers and their sons, twenty men;
+			</v>
+			<marker class="begin-verse" mid="v15008020"/>
+			<v n="20">
+				also of 
+				<crossref let="u" cid="c1500820.1"/>
+				 the Nethinim, whom David and the leaders had appointed for the service of the Levites, two hundred and twenty Nethinim. All of them were designated by name.Fasting and Prayer for Protection
+			</v>
+			<marker class="begin-verse" mid="v15008021"/>
+			<v n="21">
+				Then I 
+				<crossref let="v" cid="c1500821.1"/>
+				 proclaimed a fast there at the river of Ahava, that we might humble ourselves before our God, to seek from Him the right way for us and our little ones and all our possessions.
+			</v>
+			<marker class="begin-verse" mid="v15008022"/>
+			<v n="22">
+				For I 
+				<crossref let="w" cid="c1500822.1"/>
+				 was ashamed to request of the king an escort of soldiers and horsemen to help us against the enemy on the road, because we had spoken to the king, saying, “The hand of our God is upon all those for good who seek Him, but His power and His wrath are against all those who forsake Him.”
+			</v>
+			<marker class="begin-verse" mid="v15008023"/>
+			<v n="23">
+				So we 
+				<crossref let="x" cid="c1500823.1"/>
+				 fasted and entreated our God for this, and He answered our prayer.Gifts for the Temple
+			</v>
+			<marker class="begin-verse" mid="v15008024"/>
+			<v n="24">
+				And I 
+				<crossref let="y" cid="c1500824.1"/>
+				 separated twelve of the leaders of the priests—Sherebiah, Hashabiah, and ten of their brethren with them—
+			</v>
+			<marker class="begin-verse" mid="v15008025"/>
+			<v n="25">
+				and weighed 
+				<crossref let="z" cid="c1500825.1"/>
+				 out to them the silver, the gold, and the articles, the offering for the house of our God which the king and his counselors and his princes, and all Israel who were present, had offered.
+			</v>
+			<marker class="begin-verse" mid="v15008026"/>
+			<v n="26">
+				I weighed 
+				<crossref let="a" cid="c1500826.1"/>
+				 into their hand six hundred and fifty talents of silver, silver articles weighing one hundred talents, one hundred talents of gold,
+			</v>
+			<marker class="begin-verse" mid="v15008027"/>
+			<v n="27">
+				twenty gold 
+				<crossref let="b" cid="c1500827.1"/>
+				 basins worth a thousand drachmas, and two vessels of fine polished bronze, precious as gold.
+			</v>
+			<marker class="begin-verse" mid="v15008028"/>
+			<v n="28">
+				And I 
+				<crossref let="c" cid="c1500828.1"/>
+				 said to them, “You are holy to the Lord; the articles are holy also; and the silver and the gold are a freewill offering to the Lord God of your fathers.
+			</v>
+			<marker class="begin-verse" mid="v15008029"/>
+			<v n="29">
+				Watch and 
+				<crossref let="d" cid="c1500829.1"/>
+				 keep them until you weigh them before the leaders of the priests and the Levites and heads of the fathers’ houses of Israel in Jerusalem, in the chambers of the house of the Lord.”
+			</v>
+			<marker class="begin-verse" mid="v15008030"/>
+			<v n="30">
+				So the 
+				<crossref let="e" cid="c1500830.1"/>
+				 priests and the Levites received the silver and the gold and the articles by weight, to bring them to Jerusalem to the house of our God.The Return to Jerusalem
+			</v>
+			<marker class="begin-verse" mid="v15008031"/>
+			<v n="31">
+				Then we 
+				<crossref let="f" cid="c1500831.1"/>
+				 departed from the river of Ahava on the twelfth day of the first month, to go to Jerusalem. And the hand of our God was upon us, and He delivered us from the hand of the enemy and from ambush along the road.
+			</v>
+			<marker class="begin-verse" mid="v15008032"/>
+			<v n="32">
+				So we 
+				<crossref let="g" cid="c1500832.1"/>
+				 came to Jerusalem, and stayed there three days.
+			</v>
+			<marker class="begin-verse" mid="v15008033"/>
+			<v n="33">
+				Now on 
+				<crossref let="h" cid="c1500833.1"/>
+				 the fourth day the silver and the gold and the articles were weighed in the house of our God by the hand of Meremoth the son of Uriah the priest, and with him was Eleazar the son of Phinehas; with them were the Levites, Jozabad the son of Jeshua and Noadiah the son of Binnui,
+			</v>
+			<marker class="begin-verse" mid="v15008034"/>
+			<v n="34">
+				with the 
+				<crossref let="i" cid="c1500834.1"/>
+				 number and weight of everything. All the weight was written down at that time.
+			</v>
+			<marker class="begin-verse" mid="v15008035"/>
+			<v n="35">
+				The children 
+				<crossref let="j" cid="c1500835.1"/>
+				 of those who had been carried away captive, who had come from the captivity, offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven lambs, and twelve male goats as a sin offering. All this was a burnt offering to the Lord.
+			</v>
+			<marker class="begin-verse" mid="v15008036"/>
+			<v n="36">
+				And they 
+				<crossref let="k" cid="c1500836.1"/>
+				 delivered the king’s orders to the king’s satraps and the governors in the region beyond the River. So they gave support to the people and the house of God.
+			</v>
+			<marker class="begin-verse" mid="v15008037"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

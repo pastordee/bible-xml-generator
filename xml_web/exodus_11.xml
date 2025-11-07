@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:04:29.160372</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:04:29.160380</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="WEB" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02011001"/>
+		<chapter num="11">
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh said 
+				<crossref let="b" cid="c020111.1"/>
+				 to Moses, “I will bring yet one more plague on Pharaoh, and on Egypt; afterwards he will let you go. When he lets you go, he will surely thrust you out altogether.
+			</v>
+			<marker class="begin-verse" mid="v02011002"/>
+			<v n="2">
+				Speak now 
+				<crossref let="c" cid="c020112.1"/>
+				 in the ears of the people, and let every man ask of his neighbor, and every woman of her neighbor, jewels of silver, and jewels of gold.”
+			</v>
+			<marker class="begin-verse" mid="v02011003"/>
+			<v n="3">
+				Yahweh gave 
+				<crossref let="d" cid="c020113.1"/>
+				 the people favor in the sight of the Egyptians. Moreover, the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants, and in the sight of the people.
+			</v>
+			<marker class="begin-verse" mid="v02011004"/>
+			<v n="4">
+				Moses said, 
+				<crossref let="e" cid="c020114.1"/>
+				 “This is what Yahweh says: ‘About midnight I will go out into the middle of Egypt,
+			</v>
+			<marker class="begin-verse" mid="v02011005"/>
+			<v n="5">
+				and all 
+				<crossref let="f" cid="c020115.1"/>
+				 the firstborn in the land of Egypt shall die, from the firstborn of Pharaoh who sits on his throne, even to the firstborn of the female servant who is behind the mill, and all the firstborn of livestock.
+			</v>
+			<marker class="begin-verse" mid="v02011006"/>
+			<v n="6">
+				There will 
+				<crossref let="g" cid="c020116.1"/>
+				 be a great cry throughout all the land of Egypt, such as there has not been, nor will be any more.
+			</v>
+			<marker class="begin-verse" mid="v02011007"/>
+			<v n="7">
+				But against 
+				<crossref let="h" cid="c020117.1"/>
+				 any of the children of Israel a dog won’t even bark or move its tongue, against man or animal, that you may know that Yahweh makes a distinction between the Egyptians and Israel.
+			</v>
+			<marker class="begin-verse" mid="v02011008"/>
+			<v n="8">
+				All these 
+				<crossref let="i" cid="c020118.1"/>
+				 servants of yours will come down to me, and bow down themselves to me, saying, “Get out, with all the people who follow you;” and after that I will go out.’” He went out from Pharaoh in hot anger.
+			</v>
+			<marker class="begin-verse" mid="v02011009"/>
+			<v n="9">
+				Yahweh said 
+				<crossref let="j" cid="c020119.1"/>
+				 to Moses, “Pharaoh won’t listen to you, that my wonders may be multiplied in the land of Egypt.”
+			</v>
+			<marker class="begin-verse" mid="v02011010"/>
+			<v n="10">
+				Moses and 
+				<crossref let="k" cid="c0201110.1"/>
+				 Aaron did all these wonders before Pharaoh, but Yahweh hardened Pharaoh’s heart, and he didn’t let the children of Israel go out of his land.
+			</v>
+			<marker class="begin-verse" mid="v02011011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

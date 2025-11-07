@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:48:50.801040</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:48:50.801073</next_refresh_due>
+	</generation_info>
+	<book title="Jonah" num="32" testament="old" version="BSB" bookAbbr="jon">
+		<marker class="begin-verse" mid="v32003001"/>
+		<chapter num="3">
+			<heading>The Ninevites Repent(Matthew 12:38–42; Luke 11:29–32)</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c320031.1"/>
+				 word of the LORD came to Jonah a second time:
+			</v>
+			<marker class="begin-verse" mid="v32003002"/>
+			<v n="2">
+				“Get up! 
+				<crossref let="c" cid="c320032.1"/>
+				 Go to the great city of Nineveh and proclaim to it the message that I give you.”
+			</v>
+			<marker class="begin-verse" mid="v32003003"/>
+			<v n="3">
+				This time 
+				<crossref let="d" cid="c320033.1"/>
+				 Jonah got up and went to Nineveh, in accordance with the word of the LORD.Now Nineveh was an exceedingly great city, requiring a three-day journey.
+			</v>
+			<marker class="begin-verse" mid="v32003004"/>
+			<v n="4">
+				On the 
+				<crossref let="e" cid="c320034.1"/>
+				 first day of his journey, Jonah set out into the city and proclaimed, “Forty more days and Nineveh will be overturned!”
+			</v>
+			<marker class="begin-verse" mid="v32003005"/>
+			<v n="5">
+				And the 
+				<crossref let="f" cid="c320035.1"/>
+				 Ninevites believed God. They proclaimed a fast and dressed in sackcloth, from the greatest of them to the least.
+			</v>
+			<marker class="begin-verse" mid="v32003006"/>
+			<v n="6">
+				When word 
+				<crossref let="g" cid="c320036.1"/>
+				 reached the king of Nineveh, he got up from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes.
+			</v>
+			<marker class="begin-verse" mid="v32003007"/>
+			<v n="7">
+				Then he 
+				<crossref let="h" cid="c320037.1"/>
+				 issued a proclamation in Nineveh:“By the decree of the king and his nobles:Let no man or beast, herd or flock, taste anything at all. They must not eat or drink.
+			</v>
+			<marker class="begin-verse" mid="v32003008"/>
+			<v n="8">
+				Furthermore, let 
+				<crossref let="i" cid="c320038.1"/>
+				 both man and beast be covered with sackcloth, and have everyone call out earnestly to God. Let each one turn from his evil ways and from the violence in his hands.
+			</v>
+			<marker class="begin-verse" mid="v32003009"/>
+			<v n="9">
+				Who knows? 
+				<crossref let="j" cid="c320039.1"/>
+				 God may turn and relent; He may turn from His fierce anger, so that we will not perish.”
+			</v>
+			<marker class="begin-verse" mid="v32003010"/>
+			<v n="10">
+				When God 
+				<crossref let="k" cid="c3200310.1"/>
+				 saw their actions—that they had turned from their evil ways—He relented from the disaster He had threatened to bring upon them.
+			</v>
+			<marker class="begin-verse" mid="v32003011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

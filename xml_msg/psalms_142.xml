@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:19:04.510882</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:19:04.510899</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19142001"/>
+		<chapter num="142">
+			<heading>A maskil of David, when he was in the cave. A prayer.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I call 
+				<crossref let="b" cid="c191421.1"/>
+				 out to the Lord for help; pleading with the Lord for mercy.
+			</v>
+			<marker class="begin-verse" mid="v19142002"/>
+			<v n="2">
+				I pour 
+				<crossref let="c" cid="c191422.1"/>
+				 out my complaints before him; I tell him what's troubling me.
+			</v>
+			<marker class="begin-verse" mid="v19142003"/>
+			<v n="3">
+				When I'm 
+				<crossref let="d" cid="c191423.1"/>
+				 totally discouraged, you know the direction I should take. But whichever way I go, people set traps for me.
+			</v>
+			<marker class="begin-verse" mid="v19142004"/>
+			<v n="4">
+				I look 
+				<crossref let="e" cid="c191424.1"/>
+				 to my right for someone to support me—but no one pays me any attention. There's no safe place for me—no one cares about me at all.
+			</v>
+			<marker class="begin-verse" mid="v19142005"/>
+			<v n="5">
+				I cry 
+				<crossref let="f" cid="c191425.1"/>
+				 out to you, Lord, for help, saying, “You are the one who keeps me safe; you are all I need in life.
+			</v>
+			<marker class="begin-verse" mid="v19142006"/>
+			<v n="6">
+				Please listen 
+				<crossref let="g" cid="c191426.1"/>
+				 to my sad cry, for I'm feeling very low. Please save me from those who are after me, for they're too strong for me.
+			</v>
+			<marker class="begin-verse" mid="v19142007"/>
+			<v n="7">
+				Release me 
+				<crossref let="h" cid="c191427.1"/>
+				 from my prison so I can praise you for the person you are! Those who live right will gather round me because you have treated me so well.”
+			</v>
+			<marker class="begin-verse" mid="v19142008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

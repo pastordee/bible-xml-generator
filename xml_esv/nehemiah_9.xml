@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:32:47.634062</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:32:47.634071</next_refresh_due>
+	</generation_info>
+	<book title="Nehemiah" num="16" testament="old" bookAbbr="neh" version="ESV">
+		<marker class="begin-verse" mid="v16009001">
+		</marker>
+		<chapter num="9">
+			<heading>
+				Nehemiah 9
+			</heading>
+			<heading>
+				The People of Israel Confess Their Sin
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Now on 
+				<crossref let="b" cid="c16009001.1">
+				</crossref>
+				the twenty-fourth, 
+				<crossref let="c" cid="c16009001.2">
+				</crossref>
+				day of this month the people of Israel were assembled with fasting and in sackcloth, and with earth on their heads.
+			</v>
+			<marker class="begin-verse" mid="v16009002">
+			</marker>
+			<v n="2">
+				And the 
+				<crossref let="d" cid="c16009002.3">
+				</crossref>
+				Israelites(1) separated, 
+				<crossref let="e" cid="c16009002.4">
+				</crossref>
+				themselves from all foreigners and stood and confessed their sins and the iniquities of their fathers.
+			</v>
+			<marker class="begin-verse" mid="v16009003">
+			</marker>
+			<v n="3">
+				And they 
+				<crossref let="f" cid="c16009003.5">
+				</crossref>
+				stood up, 
+				<crossref let="g" cid="c16009003.6">
+				</crossref>
+				in their place and read from the Book of the Law of the LORD their God for a quarter of the day; for another quarter of it they made confession and worshiped the LORD their God.
+				<note nid="n16009003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009004">
+			</marker>
+			<v n="4">
+				On the 
+				<crossref let="h" cid="c16009004.7">
+				</crossref>
+				stairs of, 
+				<crossref let="i" cid="c16009004.8">
+				</crossref>
+				the Levites stood Jeshua, Bani, Kadmiel, Shebaniah, Bunni, Sherebiah, Bani, and Chenani; and they cried with a loud voice to the LORD their God.
+			</v>
+			<marker class="begin-verse" mid="v16009005">
+			</marker>
+			<v n="5">
+				Then the 
+				<crossref let="j" cid="c16009005.9">
+				</crossref>
+				Levites, Jeshua,, 
+				<crossref let="k" cid="c16009005.10">
+				</crossref>
+				Kadmiel, Bani, Hashabneiah, Sherebiah, Hodiah, Shebaniah, and Pethahiah, said, “Stand up and bless the LORD your God from everlasting to everlasting. Blessed be your glorious name, which is exalted above all blessing and praise. (2)
+			</v>
+			<marker class="begin-verse" mid="v16009006">
+			</marker>
+			<v n="6">
+				“You are 
+				<crossref let="l" cid="c16009006.11">
+				</crossref>
+				the LORD,, 
+				<crossref let="m" cid="c16009006.12">
+				</crossref>
+				you alone. You have made heaven, the heaven of heavens, with all their host, the earth and all that is on it, the seas and all that is in them; and you preserve all of them; and the host of heaven worships you.
+				<note nid="n16009006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009007">
+			</marker>
+			<v n="7">
+				You are 
+				<crossref let="n" cid="c16009007.13">
+				</crossref>
+				the LORD,, 
+				<crossref let="o" cid="c16009007.14">
+				</crossref>
+				the God who chose Abram and brought him out of Ur of the Chaldeans and gave him the name Abraham.
+			</v>
+			<marker class="begin-verse" mid="v16009008">
+			</marker>
+			<v n="8">
+				You found 
+				<crossref let="p" cid="c16009008.15">
+				</crossref>
+				his heart, 
+				<crossref let="q" cid="c16009008.16">
+				</crossref>
+				faithful before you, and made with him the covenant to give to his offspring the land of the Canaanite, the Hittite, the Amorite, the Perizzite, the Jebusite, and the Girgashite. And you have kept your promise, for you are righteous.
+			</v>
+			<marker class="begin-verse" mid="v16009009">
+			</marker>
+			<v n="9">
+				“And you 
+				<crossref let="r" cid="c16009009.17">
+				</crossref>
+				saw the, 
+				<crossref let="s" cid="c16009009.18">
+				</crossref>
+				affliction of our fathers in Egypt and heard their cry at the Red Sea,
+				<note nid="n16009009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009010">
+			</marker>
+			<v n="10">
+				and performed 
+				<crossref let="t" cid="c16009010.19">
+				</crossref>
+				signs and, 
+				<crossref let="u" cid="c16009010.20">
+				</crossref>
+				wonders against Pharaoh and all his servants and all the people of his land, for you knew that they acted arrogantly against our fathers. And you made a name for yourself, as it is to this day.
+			</v>
+			<marker class="begin-verse" mid="v16009011">
+			</marker>
+			<v n="11">
+				And you 
+				<crossref let="v" cid="c16009011.21">
+				</crossref>
+				divided the, 
+				<crossref let="w" cid="c16009011.22">
+				</crossref>
+				sea before them, so that they went through the midst of the sea on dry land, and you cast their pursuers into the depths, as a stone into mighty waters.
+			</v>
+			<marker class="begin-verse" mid="v16009012">
+			</marker>
+			<v n="12">
+				By a 
+				<crossref let="x" cid="c16009012.23">
+				</crossref>
+				pillar of, 
+				<crossref let="y" cid="c16009012.24">
+				</crossref>
+				cloud you led them in the day, and by a pillar of fire in the night to light for them the way in which they should go.
+				<note nid="n16009012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009013">
+			</marker>
+			<v n="13">
+				You came 
+				<crossref let="z" cid="c16009013.25">
+				</crossref>
+				down on, 
+				<crossref let="a" cid="c16009013.26">
+				</crossref>
+				Mount Sinai and spoke with them from heaven and gave them right rules and true laws, good statutes and commandments,
+			</v>
+			<marker class="begin-verse" mid="v16009014">
+			</marker>
+			<v n="14">
+				and you 
+				<crossref let="b" cid="c16009014.27">
+				</crossref>
+				made known, 
+				<crossref let="c" cid="c16009014.28">
+				</crossref>
+				to them your holy Sabbath and commanded them commandments and statutes and a law by Moses your servant.
+			</v>
+			<marker class="begin-verse" mid="v16009015">
+			</marker>
+			<v n="15">
+				You gave 
+				<crossref let="d" cid="c16009015.29">
+				</crossref>
+				them bread, 
+				<crossref let="e" cid="c16009015.30">
+				</crossref>
+				from heaven for their hunger and brought water for them out of the rock for their thirst, and you told them to go in to possess the land that you had sworn to give them.
+				<note nid="n16009015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009016">
+			</marker>
+			<v n="16">
+				“But they 
+				<crossref let="f" cid="c16009016.31">
+				</crossref>
+				and our, 
+				<crossref let="g" cid="c16009016.32">
+				</crossref>
+				fathers acted presumptuously and stiffened their neck and did not obey your commandments.
+			</v>
+			<marker class="begin-verse" mid="v16009017">
+			</marker>
+			<v n="17">
+				They refused 
+				<crossref let="h" cid="c16009017.33">
+				</crossref>
+				to obey, 
+				<crossref let="i" cid="c16009017.34">
+				</crossref>
+				and were not mindful of the wonders that you performed among them, but they stiffened their neck and appointed a leader to return to their slavery in Egypt.(3) But you are a God ready to forgive, gracious and merciful, slow to anger and abounding in steadfast love, and did not forsake them.
+			</v>
+			<marker class="begin-verse" mid="v16009018">
+			</marker>
+			<v n="18">
+				Even when 
+				<crossref let="j" cid="c16009018.35">
+				</crossref>
+				they had, 
+				<crossref let="k" cid="c16009018.36">
+				</crossref>
+				made for themselves a golden(4) calf and said, ‘This is your God who brought you up out of Egypt,’ and had committed great blasphemies,
+				<note nid="n16009018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009019">
+			</marker>
+			<v n="19">
+				you in 
+				<crossref let="l" cid="c16009019.37">
+				</crossref>
+				your great, 
+				<crossref let="m" cid="c16009019.38">
+				</crossref>
+				mercies did not forsake them in the wilderness. The pillar of cloud to lead them in the way did not depart from them by day, nor the pillar of fire by night to light for them the way by which they should go.
+			</v>
+			<marker class="begin-verse" mid="v16009020">
+			</marker>
+			<v n="20">
+				You gave 
+				<crossref let="n" cid="c16009020.39">
+				</crossref>
+				your good, 
+				<crossref let="o" cid="c16009020.40">
+				</crossref>
+				Spirit to instruct them and did not withhold your manna from their mouth and gave them water for their thirst.
+			</v>
+			<marker class="begin-verse" mid="v16009021">
+			</marker>
+			<v n="21">
+				Forty years 
+				<crossref let="p" cid="c16009021.41">
+				</crossref>
+				you sustained, 
+				<crossref let="q" cid="c16009021.42">
+				</crossref>
+				them in the wilderness, and they lacked nothing. Their clothes did not wear out and their feet did not swell.
+				<note nid="n16009021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009022">
+			</marker>
+			<v n="22">
+				“And you 
+				<crossref let="r" cid="c16009022.43">
+				</crossref>
+				gave them, 
+				<crossref let="s" cid="c16009022.44">
+				</crossref>
+				kingdoms and peoples and allotted to them every corner. So they took possession of the land of Sihon king of Heshbon and the land of Og king of Bashan.
+			</v>
+			<marker class="begin-verse" mid="v16009023">
+			</marker>
+			<v n="23">
+				You multiplied 
+				<crossref let="t" cid="c16009023.45">
+				</crossref>
+				their children, 
+				<crossref let="u" cid="c16009023.46">
+				</crossref>
+				as the stars of heaven, and you brought them into the land that you had told their fathers to enter and possess.
+			</v>
+			<marker class="begin-verse" mid="v16009024">
+			</marker>
+			<v n="24">
+				So the 
+				<crossref let="v" cid="c16009024.47">
+				</crossref>
+				descendants went, 
+				<crossref let="w" cid="c16009024.48">
+				</crossref>
+				in and possessed the land, and you subdued before them the inhabitants of the land, the Canaanites, and gave them into their hand, with their kings and the peoples of the land, that they might do with them as they would.
+				<note nid="n16009024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009025">
+			</marker>
+			<v n="25">
+				And they 
+				<crossref let="x" cid="c16009025.49">
+				</crossref>
+				captured fortified, 
+				<crossref let="y" cid="c16009025.50">
+				</crossref>
+				cities and a rich land, and took possession of houses full of all good things, cisterns already hewn, vineyards, olive orchards and fruit trees in abundance. So they ate and were filled and became fat and delighted themselves in your great goodness.
+			</v>
+			<marker class="begin-verse" mid="v16009026">
+			</marker>
+			<v n="26">
+				“Nevertheless, they 
+				<crossref let="z" cid="c16009026.51">
+				</crossref>
+				were disobedient, 
+				<crossref let="a" cid="c16009026.52">
+				</crossref>
+				and rebelled against you and cast your law behind their back and killed your prophets, who had warned them in order to turn them back to you, and they committed great blasphemies.
+			</v>
+			<marker class="begin-verse" mid="v16009027">
+			</marker>
+			<v n="27">
+				Therefore you 
+				<crossref let="b" cid="c16009027.53">
+				</crossref>
+				gave them, 
+				<crossref let="c" cid="c16009027.54">
+				</crossref>
+				into the hand of their enemies, who made them suffer. And in the time of their suffering they cried out to you and you heard them from heaven, and according to your great mercies you gave them saviors who saved them from the hand of their enemies.
+				<note nid="n16009027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009028">
+			</marker>
+			<v n="28">
+				But after 
+				<crossref let="d" cid="c16009028.55">
+				</crossref>
+				they had, 
+				<crossref let="e" cid="c16009028.56">
+				</crossref>
+				rest they did evil again before you, and you abandoned them to the hand of their enemies, so that they had dominion over them. Yet when they turned and cried to you, you heard from heaven, and many times you delivered them according to your mercies.
+			</v>
+			<marker class="begin-verse" mid="v16009029">
+			</marker>
+			<v n="29">
+				And you 
+				<crossref let="f" cid="c16009029.57">
+				</crossref>
+				warned them, 
+				<crossref let="g" cid="c16009029.58">
+				</crossref>
+				in order to turn them back to your law. Yet they acted presumptuously and did not obey your commandments, but sinned against your rules, which if a person does them, he shall live by them, and they turned a stubborn shoulder and stiffened their neck and would not obey.
+			</v>
+			<marker class="begin-verse" mid="v16009030">
+			</marker>
+			<v n="30">
+				Many years 
+				<crossref let="h" cid="c16009030.59">
+				</crossref>
+				you bore, 
+				<crossref let="i" cid="c16009030.60">
+				</crossref>
+				with them and warned them by your Spirit through your prophets. Yet they would not give ear. Therefore you gave them into the hand of the peoples of the lands.
+				<note nid="n16009030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009031">
+			</marker>
+			<v n="31">
+				Nevertheless, in 
+				<crossref let="j" cid="c16009031.61">
+				</crossref>
+				your great, 
+				<crossref let="k" cid="c16009031.62">
+				</crossref>
+				mercies you did not make an end of them or forsake them, for you are a gracious and merciful God.
+			</v>
+			<marker class="begin-verse" mid="v16009032">
+			</marker>
+			<v n="32">
+				“Now, therefore, 
+				<crossref let="l" cid="c16009032.63">
+				</crossref>
+				our God,, 
+				<crossref let="m" cid="c16009032.64">
+				</crossref>
+				the great, the mighty, and the awesome God, who keeps covenant and steadfast love, let not all the hardship seem little to you that has come upon us, upon our kings, our princes, our priests, our prophets, our fathers, and all your people, since the time of the kings of Assyria until this day.
+			</v>
+			<marker class="begin-verse" mid="v16009033">
+			</marker>
+			<v n="33">
+				Yet you 
+				<crossref let="n" cid="c16009033.65">
+				</crossref>
+				have been, 
+				<crossref let="o" cid="c16009033.66">
+				</crossref>
+				righteous in all that has come upon us, for you have dealt faithfully and we have acted wickedly.
+				<note nid="n16009033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009034">
+			</marker>
+			<v n="34">
+				Our kings, 
+				<crossref let="p" cid="c16009034.67">
+				</crossref>
+				our princes,, 
+				<crossref let="q" cid="c16009034.68">
+				</crossref>
+				our priests, and our fathers have not kept your law or paid attention to your commandments and your warnings that you gave them.
+			</v>
+			<marker class="begin-verse" mid="v16009035">
+			</marker>
+			<v n="35">
+				Even in 
+				<crossref let="r" cid="c16009035.69">
+				</crossref>
+				their own, 
+				<crossref let="s" cid="c16009035.70">
+				</crossref>
+				kingdom, and amid your great goodness that you gave them, and in the large and rich land that you set before them, they did not serve you or turn from their wicked works.
+			</v>
+			<marker class="begin-verse" mid="v16009036">
+			</marker>
+			<v n="36">
+				Behold, we 
+				<crossref let="t" cid="c16009036.71">
+				</crossref>
+				are slaves, 
+				<crossref let="u" cid="c16009036.72">
+				</crossref>
+				this day; in the land that you gave to our fathers to enjoy its fruit and its good gifts, behold, we are slaves.
+				<note nid="n16009036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v16009037">
+			</marker>
+			<v n="37">
+				And its 
+				<crossref let="v" cid="c16009037.73">
+				</crossref>
+				rich yield, 
+				<crossref let="w" cid="c16009037.74">
+				</crossref>
+				goes to the kings whom you have set over us because of our sins. They rule over our bodies and over our livestock as they please, and we are in great distress. (5)
+			</v>
+			<marker class="begin-verse" mid="v16009038">
+			</marker>
+			<v n="38">
+				“Because of 
+				<crossref let="x" cid="c16009038.75">
+				</crossref>
+				all this, 
+				<crossref let="y" cid="c16009038.76">
+				</crossref>
+				we make a firm covenant in writing; on the sealed document are the names of(6) our princes, our Levites, and our priests. Footnotes (1) 9:2 Hebrew *the offspring of Israel* (2) 9:5 Septuagint adds *And Ezra said* (3) 9:17 Some Hebrew manuscripts; many Hebrew manuscripts *and in their rebellion appointed a leader to return to their slavery* (4) 9:18 Hebrew *metal* (5) 9:37 Ch 10:1 in Hebrew (6) 9:38 Hebrew lacks *the names of* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v16009039">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

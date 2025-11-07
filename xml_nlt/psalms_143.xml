@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:56:53.162555</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:56:53.162564</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19143001"/>
+		<chapter num="143">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Hear my 
+				<crossref let="b" cid="c191431.1"/>
+				 prayer, O Lord;listen to my plea!Answer me because you are faithful and righteous.
+			</v>
+			<marker class="begin-verse" mid="v19143002"/>
+			<v n="2">
+				Don’t put 
+				<crossref let="c" cid="c191432.1"/>
+				 your servant on trial,for no one is innocent before you.
+			</v>
+			<marker class="begin-verse" mid="v19143003"/>
+			<v n="3">
+				My enemy 
+				<crossref let="d" cid="c191433.1"/>
+				 has chased me.He has knocked me to the groundand forces me to live in darkness like those in the grave.
+			</v>
+			<marker class="begin-verse" mid="v19143004"/>
+			<v n="4">
+				I am 
+				<crossref let="e" cid="c191434.1"/>
+				 losing all hope;I am paralyzed with fear.
+			</v>
+			<marker class="begin-verse" mid="v19143005"/>
+			<v n="5">
+				I remember 
+				<crossref let="f" cid="c191435.1"/>
+				 the days of old.I ponder all your great worksand think about what you have done.
+			</v>
+			<marker class="begin-verse" mid="v19143006"/>
+			<v n="6">
+				I lift 
+				<crossref let="g" cid="c191436.1"/>
+				 my hands to you in prayer.I thirst for you as parched land thirsts for rain. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19143007"/>
+			<v n="7">
+				Come quickly, 
+				<crossref let="h" cid="c191437.1"/>
+				 Lord, and answer me,for my depression deepens.Don’t turn away from me,or I will die.
+			</v>
+			<marker class="begin-verse" mid="v19143008"/>
+			<v n="8">
+				Let me 
+				<crossref let="i" cid="c191438.1"/>
+				 hear of your unfailing love each morning,for I am trusting you.Show me where to walk,for I give myself to you.
+			</v>
+			<marker class="begin-verse" mid="v19143009"/>
+			<v n="9">
+				Rescue me 
+				<crossref let="j" cid="c191439.1"/>
+				 from my enemies, Lord;I run to you to hide me.
+			</v>
+			<marker class="begin-verse" mid="v19143010"/>
+			<v n="10">
+				Teach me 
+				<crossref let="k" cid="c1914310.1"/>
+				 to do your will,for you are my God.May your gracious Spirit lead me forwardon a firm footing.
+			</v>
+			<marker class="begin-verse" mid="v19143011"/>
+			<v n="11">
+				For the 
+				<crossref let="l" cid="c1914311.1"/>
+				 glory of your name, O Lord, preserve my life.Because of your faithfulness, bring me out of this distress.
+			</v>
+			<marker class="begin-verse" mid="v19143012"/>
+			<v n="12">
+				In your 
+				<crossref let="m" cid="c1914312.1"/>
+				 unfailing love, silence all my enemiesand destroy all my foes,for I am your servant.
+			</v>
+			<marker class="begin-verse" mid="v19143013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

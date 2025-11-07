@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:15:06.271372</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:15:06.271399</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19042001"/>
+		<chapter num="42">
+			<heading>For the music director. A psalm (maskil) of the sons of Korah.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				As a 
+				<crossref let="b" cid="c190421.1"/>
+				 deer longs for flowing streams, so I long for you, God.
+			</v>
+			<marker class="begin-verse" mid="v19042002"/>
+			<v n="2">
+				I am 
+				<crossref let="c" cid="c190422.1"/>
+				 thirsty for God, the living God. When can I go and see God's face?
+			</v>
+			<marker class="begin-verse" mid="v19042003"/>
+			<v n="3">
+				My tears 
+				<crossref let="d" cid="c190423.1"/>
+				 have been my only food, day and night, while people ask me all day long, “Where is your God?”
+			</v>
+			<marker class="begin-verse" mid="v19042004"/>
+			<v n="4">
+				I am 
+				<crossref let="e" cid="c190424.1"/>
+				 crushed as I remember how I walked with the crowds, leading them in a procession to the house of God, with shouts of joy and songs of thanks among the worshipers at the festival.
+			</v>
+			<marker class="begin-verse" mid="v19042005"/>
+			<v n="5">
+				Why am 
+				<crossref let="f" cid="c190425.1"/>
+				 I so discouraged? Why do I feel so sad? I will hope in God; I will praise him because he is the one who saves me—
+			</v>
+			<marker class="begin-verse" mid="v19042006"/>
+			<v n="6">
+				my God! 
+				<crossref let="g" cid="c190426.1"/>
+				 Even though I am very discouraged, I still remember you: from the land of Jordan and Hermon, and from Mount Mizar.
+			</v>
+			<marker class="begin-verse" mid="v19042007"/>
+			<v n="7">
+				You thunder 
+				<crossref let="h" cid="c190427.1"/>
+				 through the raging waters, through the noise of the waterfalls. Your crashing waves surge over me—I feel like I'm drowning.
+			</v>
+			<marker class="begin-verse" mid="v19042008"/>
+			<v n="8">
+				But every 
+				<crossref let="i" cid="c190428.1"/>
+				 day the Lord shows me his trustworthy love; every night he gives me songs to sing—a prayer to the God of my life.
+			</v>
+			<marker class="begin-verse" mid="v19042009"/>
+			<v n="9">
+				I cry 
+				<crossref let="j" cid="c190429.1"/>
+				 out, “My God, my rock, why have you forgotten me? Why must I go around weeping because of the attacks of my enemies?”
+			</v>
+			<marker class="begin-verse" mid="v19042010"/>
+			<v n="10">
+				The mocking 
+				<crossref let="k" cid="c1904210.1"/>
+				 of my attackers crushes my bones. They're always asking me, “Where is your God?”
+			</v>
+			<marker class="begin-verse" mid="v19042011"/>
+			<v n="11">
+				Why am 
+				<crossref let="l" cid="c1904211.1"/>
+				 I so discouraged? Why do I feel so sad? I will hope in God; I will praise him because he is the one who saves me—my God!
+			</v>
+			<marker class="begin-verse" mid="v19042012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

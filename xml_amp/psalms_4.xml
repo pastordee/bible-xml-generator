@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:31.932678</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:31.932689</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19004001"/>
+		<chapter num="4">
+			<heading>Psalm 4Evening Prayer of Trust in God.To the Chief Musician; on stringed instruments. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Answer me 
+				<crossref let="b" cid="c190041.1"/>
+				 when I call, O God of my righteousness!You have freed me when I was hemmed in and relieved me when I was in distress;Be gracious to me and hear [and respond to] my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19004002"/>
+			<v n="2">
+				¶O sons 
+				<crossref let="c" cid="c190042.1"/>
+				 of men, how long will my honor and glory be [turned into] shame?How long will you [my enemies] love worthless (vain, futile) things and seek deception and lies? Selah.
+			</v>
+			<marker class="begin-verse" mid="v19004003"/>
+			<v n="3">
+				But know 
+				<crossref let="d" cid="c190043.1"/>
+				 that the Lord has set apart for Himself [and dealt wonderfully with] the godly man [the one of honorable character and moral courage—the one who does right].The Lord hears and responds when I call to Him.
+			</v>
+			<marker class="begin-verse" mid="v19004004"/>
+			<v n="4">
+				¶Tremble [with 
+				<crossref let="e" cid="c190044.1"/>
+				 anger or fear], and do not sin;Meditate in your heart upon your bed and be still [reflect on your sin and repent of your rebellion]. [Eph 4:26] Selah.
+			</v>
+			<marker class="begin-verse" mid="v19004005"/>
+			<v n="5">
+				Offer righteous 
+				<crossref let="f" cid="c190045.1"/>
+				 sacrifices;Trust [confidently] in the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19004006"/>
+			<v n="6">
+				¶Many are 
+				<crossref let="g" cid="c190046.1"/>
+				 saying, “Oh, that we might see some good!”Lift up the light of Your face upon us, O Lord.
+			</v>
+			<marker class="begin-verse" mid="v19004007"/>
+			<v n="7">
+				You have 
+				<crossref let="h" cid="c190047.1"/>
+				 put joy in my heart,More than [others know] when their wheat and new wine have yielded abundantly.
+			</v>
+			<marker class="begin-verse" mid="v19004008"/>
+			<v n="8">
+				In peace 
+				<crossref let="i" cid="c190048.1"/>
+				 [and with a tranquil heart] I will both lie down and sleep,For You alone, O Lord, make me dwell in safety and confident trust.
+			</v>
+			<marker class="begin-verse" mid="v19004009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

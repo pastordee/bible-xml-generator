@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:57:10.842053</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:57:10.842077</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19014001"/>
+		<chapter num="14">
+			<heading>To the chief Musician, A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The fool 
+				<crossref let="b" cid="c190141.1"/>
+				 hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.
+			</v>
+			<marker class="begin-verse" mid="v19014002"/>
+			<v n="2">
+				The LORD 
+				<crossref let="c" cid="c190142.1"/>
+				 looked down from heaven upon the children of men, to see if there were any that did understand, and seek God.
+			</v>
+			<marker class="begin-verse" mid="v19014003"/>
+			<v n="3">
+				They are 
+				<crossref let="d" cid="c190143.1"/>
+				 all gone aside, they are all together become filthy: there is none that doeth good, no, not one.
+			</v>
+			<marker class="begin-verse" mid="v19014004"/>
+			<v n="4">
+				Have all 
+				<crossref let="e" cid="c190144.1"/>
+				 the workers of iniquity no knowledge? who eat up my people as they eat bread, and call not upon the LORD.
+			</v>
+			<marker class="begin-verse" mid="v19014005"/>
+			<v n="5">
+				There were 
+				<crossref let="f" cid="c190145.1"/>
+				 they in great fear: for God is in the generation of the righteous.
+			</v>
+			<marker class="begin-verse" mid="v19014006"/>
+			<v n="6">
+				Ye have 
+				<crossref let="g" cid="c190146.1"/>
+				 shamed the counsel of the poor, because the LORD is his refuge.
+			</v>
+			<marker class="begin-verse" mid="v19014007"/>
+			<v n="7">
+				Oh that 
+				<crossref let="h" cid="c190147.1"/>
+				 the salvation of Israel were come out of Zion! when the LORD bringeth back the captivity of his people, Jacob shall rejoice, and Israel shall be glad.
+			</v>
+			<marker class="begin-verse" mid="v19014008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

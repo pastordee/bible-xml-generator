@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:13:25.671347</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:13:25.671367</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19015001"/>
+		<chapter num="15">
+			<heading>The Character of Those Who May Dwell with the LordA Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Lord, who 
+				<crossref let="b" cid="c190151.1"/>
+				 may abide in Your tabernacle?Who may dwell in Your holy hill?
+			</v>
+			<marker class="begin-verse" mid="v19015002"/>
+			<v n="2">
+				He who 
+				<crossref let="c" cid="c190152.1"/>
+				 walks uprightly,And works righteousness,And speaks the truth in his heart;
+			</v>
+			<marker class="begin-verse" mid="v19015003"/>
+			<v n="3">
+				He who 
+				<crossref let="d" cid="c190153.1"/>
+				 does not backbite with his tongue,Nor does evil to his neighbor,Nor does he take up a reproach against his friend;
+			</v>
+			<marker class="begin-verse" mid="v19015004"/>
+			<v n="4">
+				In whose 
+				<crossref let="e" cid="c190154.1"/>
+				 eyes a vile person is despised,But he honors those who fear the Lord;He who swears to his own hurt and does not change;
+			</v>
+			<marker class="begin-verse" mid="v19015005"/>
+			<v n="5">
+				He who 
+				<crossref let="f" cid="c190155.1"/>
+				 does not put out his money at usury,Nor does he take a bribe against the innocent.He who does these things shall never be moved.
+			</v>
+			<marker class="begin-verse" mid="v19015006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

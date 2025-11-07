@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:02:54.352064</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:02:54.352077</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19053001"/>
+		<chapter num="53">
+			<heading>Psalm 53Folly and Wickedness of Men.To the Chief Musician; in a mournful strain. A skillful song, or didactic or reflective poem of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The [empty-headed] 
+				<crossref let="b" cid="c190531.1"/>
+				 fool has said in his heart, “There is no God.”They are corrupt and evil, and have committed repulsive injustice;There is no one who does good.
+			</v>
+			<marker class="begin-verse" mid="v19053002"/>
+			<v n="2">
+				God has 
+				<crossref let="c" cid="c190532.1"/>
+				 looked down from heaven upon the children of menTo see if there is anyone who understands,Who seeks after God [who requires Him, who longs for Him as essential to life].
+			</v>
+			<marker class="begin-verse" mid="v19053003"/>
+			<v n="3">
+				Every one 
+				<crossref let="d" cid="c190533.1"/>
+				 of them has turned aside and fallen away;Together they have become filthy and corrupt;There is no one who does good, no, not even one. [Rom 3:10-12]
+			</v>
+			<marker class="begin-verse" mid="v19053004"/>
+			<v n="4">
+				¶Have workers 
+				<crossref let="e" cid="c190534.1"/>
+				 of wickedness no knowledge or no understanding?They eat up My people as though they ate breadAnd have not called upon God.
+			</v>
+			<marker class="begin-verse" mid="v19053005"/>
+			<v n="5">
+				There they 
+				<crossref let="f" cid="c190535.1"/>
+				 were, in great terror and dread, where there had been no terror or dread;For God scattered the bones of him who besieged you;You have put them to shame, because God has rejected them.
+			</v>
+			<marker class="begin-verse" mid="v19053006"/>
+			<v n="6">
+				Oh, that 
+				<crossref let="g" cid="c190536.1"/>
+				 the salvation of Israel would come out of Zion!When God restores [the fortunes of] His people,Let Jacob rejoice, let Israel be glad.
+			</v>
+			<marker class="begin-verse" mid="v19053007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

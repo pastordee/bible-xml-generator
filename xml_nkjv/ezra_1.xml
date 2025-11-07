@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:05:27.272748</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:05:27.272757</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" version="NKJV" bookAbbr="ezr">
+		<marker class="begin-verse" mid="v15001001"/>
+		<chapter num="1">
+			<heading>End of The Babylonian Captivity</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Now in 
+				<crossref let="b" cid="c150011.1"/>
+				 the first year of Cyrus king of Persia, that the word of the Lord by the mouth of Jeremiah might be fulfilled, the Lord stirred up the spirit of Cyrus king of Persia, so that he made a proclamation throughout all his kingdom, and also put it in writing, saying,
+			</v>
+			<marker class="begin-verse" mid="v15001002"/>
+			<v n="2">
+				Thus says 
+				<crossref let="c" cid="c150012.1"/>
+				 Cyrus king of Persia:All the kingdoms of the earth the Lord God of heaven has given me. And He has commanded me to build Him a house at Jerusalem which is in Judah.
+			</v>
+			<marker class="begin-verse" mid="v15001003"/>
+			<v n="3">
+				Who is 
+				<crossref let="d" cid="c150013.1"/>
+				 among you of all His people? May his God be with him, and let him go up to Jerusalem which is in Judah, and build the house of the Lord God of Israel (He is God), which is in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v15001004"/>
+			<v n="4">
+				And whoever 
+				<crossref let="e" cid="c150014.1"/>
+				 is left in any place where he dwells, let the men of his place help him with silver and gold, with goods and livestock, besides the freewill offerings for the house of God which is in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v15001005"/>
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c150015.1"/>
+				 heads of the fathers’ houses of Judah and Benjamin, and the priests and the Levites, with all whose spirits God had moved, arose to go up and build the house of the Lord which is in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v15001006"/>
+			<v n="6">
+				And all 
+				<crossref let="g" cid="c150016.1"/>
+				 those who were around them encouraged them with articles of silver and gold, with goods and livestock, and with precious things, besides all that was willingly offered.
+			</v>
+			<marker class="begin-verse" mid="v15001007"/>
+			<v n="7">
+				King Cyrus 
+				<crossref let="h" cid="c150017.1"/>
+				 also brought out the articles of the house of the Lord, which Nebuchadnezzar had taken from Jerusalem and put in the temple of his gods;
+			</v>
+			<marker class="begin-verse" mid="v15001008"/>
+			<v n="8">
+				and Cyrus 
+				<crossref let="i" cid="c150018.1"/>
+				 king of Persia brought them out by the hand of Mithredath the treasurer, and counted them out to Sheshbazzar the prince of Judah.
+			</v>
+			<marker class="begin-verse" mid="v15001009"/>
+			<v n="9">
+				This is 
+				<crossref let="j" cid="c150019.1"/>
+				 the number of them: thirty gold platters, one thousand silver platters, twenty-nine knives,
+			</v>
+			<marker class="begin-verse" mid="v15001010"/>
+			<v n="10">
+				thirty gold 
+				<crossref let="k" cid="c1500110.1"/>
+				 basins, four hundred and ten silver basins of a similar kind, and one thousand other articles.
+			</v>
+			<marker class="begin-verse" mid="v15001011"/>
+			<v n="11">
+				All the 
+				<crossref let="l" cid="c1500111.1"/>
+				 articles of gold and silver were five thousand four hundred. All these Sheshbazzar took with the captives who were brought from Babylon to Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v15001012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:33:27.247858</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:33:27.247883</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" version="WEB" bookAbbr="2ch">
+		<marker class="begin-verse" mid="v14019001"/>
+		<chapter num="19">
+			<begin-paragraph/>
+			<v n="1">
+				Jehoshaphat the 
+				<crossref let="b" cid="c140191.1"/>
+				 king of Judah returned to his house in peace to Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v14019002"/>
+			<v n="2">
+				Jehu the 
+				<crossref let="c" cid="c140192.1"/>
+				 son of Hanani the seer went out to meet him, and said to King Jehoshaphat, “Should you help the wicked, and love those who hate Yahweh? Because of this, wrath is on you from before Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v14019003"/>
+			<v n="3">
+				Nevertheless there 
+				<crossref let="d" cid="c140193.1"/>
+				 are good things found in you, in that you have put away the Asheroth out of the land, and have set your heart to seek God.”
+			</v>
+			<marker class="begin-verse" mid="v14019004"/>
+			<v n="4">
+				Jehoshaphat lived 
+				<crossref let="e" cid="c140194.1"/>
+				 at Jerusalem; and he went out again among the people from Beersheba to the hill country of Ephraim, and brought them back to Yahweh, the God of their fathers.
+			</v>
+			<marker class="begin-verse" mid="v14019005"/>
+			<v n="5">
+				He set 
+				<crossref let="f" cid="c140195.1"/>
+				 judges in the land throughout all the fortified cities of Judah, city by city,
+			</v>
+			<marker class="begin-verse" mid="v14019006"/>
+			<v n="6">
+				and said 
+				<crossref let="g" cid="c140196.1"/>
+				 to the judges, “Consider what you do, for you don’t judge for man, but for Yahweh; and he is with you in the judgment.
+			</v>
+			<marker class="begin-verse" mid="v14019007"/>
+			<v n="7">
+				Now therefore 
+				<crossref let="h" cid="c140197.1"/>
+				 let the fear of Yahweh be on you. Take heed and do it; for there is no iniquity with Yahweh our God, nor respect of persons, nor taking of bribes.”
+			</v>
+			<marker class="begin-verse" mid="v14019008"/>
+			<v n="8">
+				Moreover in 
+				<crossref let="i" cid="c140198.1"/>
+				 Jerusalem Jehoshaphat appointed certain Levites, priests, and heads of the fathers’ households of Israel to give judgment for Yahweh and for controversies. They returned to Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v14019009"/>
+			<v n="9">
+				He commanded 
+				<crossref let="j" cid="c140199.1"/>
+				 them, saying, “You shall do this in the fear of Yahweh, faithfully, and with a perfect heart.
+			</v>
+			<marker class="begin-verse" mid="v14019010"/>
+			<v n="10">
+				Whenever any 
+				<crossref let="k" cid="c1401910.1"/>
+				 controversy comes to you from your brothers who dwell in their cities, between blood and blood, between law and commandment, statutes and ordinances, you must warn them, that they not be guilty toward Yahweh, and so wrath come on you and on your brothers. Do this, and you will not be guilty.
+			</v>
+			<marker class="begin-verse" mid="v14019011"/>
+			<v n="11">
+				Behold, Amariah 
+				<crossref let="l" cid="c1401911.1"/>
+				 the chief priest is over you in all matters of Yahweh; and Zebadiah the son of Ishmael, the ruler of the house of Judah, in all the king’s matters. Also the Levites shall be officers before you. Deal courageously, and may Yahweh be with the good.”
+			</v>
+			<marker class="begin-verse" mid="v14019012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

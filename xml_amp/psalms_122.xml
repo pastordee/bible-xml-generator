@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:09:03.085418</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:09:03.085441</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19122001"/>
+		<chapter num="122">
+			<heading>Psalm 122Prayer for the Peace of Jerusalem.A Song of Ascents. Of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I was 
+				<crossref let="b" cid="c191221.1"/>
+				 glad when they said to me,“Let us go to the house of the Lord.” [Is 2:3; Zech 8:21]
+			</v>
+			<marker class="begin-verse" mid="v19122002"/>
+			<v n="2">
+				Our feet 
+				<crossref let="c" cid="c191222.1"/>
+				 are standingWithin your gates, O Jerusalem,
+			</v>
+			<marker class="begin-verse" mid="v19122003"/>
+			<v n="3">
+				Jerusalem, that 
+				<crossref let="d" cid="c191223.1"/>
+				 is builtAs a city that is firmly joined together;
+			</v>
+			<marker class="begin-verse" mid="v19122004"/>
+			<v n="4">
+				To which 
+				<crossref let="e" cid="c191224.1"/>
+				 the [twelve] tribes go up, even the tribes of the Lord,[As was decreed as] an ordinance for Israel,To give thanks to the name of the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19122005"/>
+			<v n="5">
+				For there 
+				<crossref let="f" cid="c191225.1"/>
+				 the thrones of judgment were set,The thrones of the house of David.
+			</v>
+			<marker class="begin-verse" mid="v19122006"/>
+			<v n="6">
+				¶Pray for 
+				<crossref let="g" cid="c191226.1"/>
+				 the peace of Jerusalem:“May they prosper who love you [holy city].
+			</v>
+			<marker class="begin-verse" mid="v19122007"/>
+			<v n="7">
+				“May peace 
+				<crossref let="h" cid="c191227.1"/>
+				 be within your wallsAnd prosperity within your palaces.”
+			</v>
+			<marker class="begin-verse" mid="v19122008"/>
+			<v n="8">
+				For the 
+				<crossref let="i" cid="c191228.1"/>
+				 sake of my brothers and my friends,I will now say, “May peace be within you.”
+			</v>
+			<marker class="begin-verse" mid="v19122009"/>
+			<v n="9">
+				For the 
+				<crossref let="j" cid="c191229.1"/>
+				 sake of the house of the Lord our God [which is Jerusalem],I will seek your (the city’s) good.
+			</v>
+			<marker class="begin-verse" mid="v19122010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

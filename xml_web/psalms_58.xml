@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:46:47.324667</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:46:47.324677</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19058001"/>
+		<chapter num="58">
+			<heading>For the Chief Musician. To the tune of “Do Not Destroy.” A poem by David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Do you 
+				<crossref let="b" cid="c190581.1"/>
+				 indeed speak righteousness, silent ones?Do you judge blamelessly, you sons of men?
+			</v>
+			<marker class="begin-verse" mid="v19058002"/>
+			<v n="2">
+				No, in 
+				<crossref let="c" cid="c190582.1"/>
+				 your heart you plot injustice.You measure out the violence of your hands in the earth.
+			</v>
+			<marker class="begin-verse" mid="v19058003"/>
+			<v n="3">
+				The wicked 
+				<crossref let="d" cid="c190583.1"/>
+				 go astray from the womb.They are wayward as soon as they are born, speaking lies.
+			</v>
+			<marker class="begin-verse" mid="v19058004"/>
+			<v n="4">
+				Their poison 
+				<crossref let="e" cid="c190584.1"/>
+				 is like the poison of a snake,like a deaf cobra that stops its ear,
+			</v>
+			<marker class="begin-verse" mid="v19058005"/>
+			<v n="5">
+				which doesn’t 
+				<crossref let="f" cid="c190585.1"/>
+				 listen to the voice of charmers,no matter how skillful the charmer may be.
+			</v>
+			<marker class="begin-verse" mid="v19058006"/>
+			<v n="6">
+				Break their 
+				<crossref let="g" cid="c190586.1"/>
+				 teeth, God, in their mouth.Break out the great teeth of the young lions, Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v19058007"/>
+			<v n="7">
+				Let them 
+				<crossref let="h" cid="c190587.1"/>
+				 vanish like water that flows away.When they draw the bow, let their arrows be made blunt.
+			</v>
+			<marker class="begin-verse" mid="v19058008"/>
+			<v n="8">
+				Let them 
+				<crossref let="i" cid="c190588.1"/>
+				 be like a snail which melts and passes away,like the stillborn child, who has not seen the sun.
+			</v>
+			<marker class="begin-verse" mid="v19058009"/>
+			<v n="9">
+				Before your 
+				<crossref let="j" cid="c190589.1"/>
+				 pots can feel the heat of the thorns,he will sweep away the green and the burning alike.
+			</v>
+			<marker class="begin-verse" mid="v19058010"/>
+			<v n="10">
+				The righteous 
+				<crossref let="k" cid="c1905810.1"/>
+				 shall rejoice when he sees the vengeance.He shall wash his feet in the blood of the wicked,
+			</v>
+			<marker class="begin-verse" mid="v19058011"/>
+			<v n="11">
+				so that 
+				<crossref let="l" cid="c1905811.1"/>
+				 men shall say, “Most certainly there is a reward for the righteous.Most certainly there is a God who judges the earth.”
+			</v>
+			<marker class="begin-verse" mid="v19058012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:18:27.511876</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:18:27.511889</next_refresh_due>
+	</generation_info>
+	<book title="Jonah" num="32" testament="old" version="WEB" bookAbbr="jon">
+		<marker class="begin-verse" mid="v32003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				Yahweh’s word 
+				<crossref let="b" cid="c320031.1"/>
+				 came to Jonah the second time, saying,
+			</v>
+			<marker class="begin-verse" mid="v32003002"/>
+			<v n="2">
+				“Arise, go 
+				<crossref let="c" cid="c320032.1"/>
+				 to Nineveh, that great city, and preach to it the message that I give you.”
+			</v>
+			<marker class="begin-verse" mid="v32003003"/>
+			<v n="3">
+				So Jonah 
+				<crossref let="d" cid="c320033.1"/>
+				 arose, and went to Nineveh, according to Yahweh’s word. Now Nineveh was an exceedingly great city, three days’ journey across.
+			</v>
+			<marker class="begin-verse" mid="v32003004"/>
+			<v n="4">
+				Jonah began 
+				<crossref let="e" cid="c320034.1"/>
+				 to enter into the city a day’s journey, and he cried out, and said, “In forty days, Nineveh will be overthrown!”
+			</v>
+			<marker class="begin-verse" mid="v32003005"/>
+			<v n="5">
+				The people 
+				<crossref let="f" cid="c320035.1"/>
+				 of Nineveh believed God; and they proclaimed a fast and put on sackcloth, from their greatest even to their least.
+			</v>
+			<marker class="begin-verse" mid="v32003006"/>
+			<v n="6">
+				The news 
+				<crossref let="g" cid="c320036.1"/>
+				 reached the king of Nineveh, and he arose from his throne, took off his royal robe, covered himself with sackcloth, and sat in ashes.
+			</v>
+			<marker class="begin-verse" mid="v32003007"/>
+			<v n="7">
+				He made 
+				<crossref let="h" cid="c320037.1"/>
+				 a proclamation and published through Nineveh by the decree of the king and his nobles, saying, “Let neither man nor animal, herd nor flock, taste anything; let them not feed, nor drink water;
+			</v>
+			<marker class="begin-verse" mid="v32003008"/>
+			<v n="8">
+				but let 
+				<crossref let="i" cid="c320038.1"/>
+				 them be covered with sackcloth, both man and animal, and let them cry mightily to God. Yes, let them turn everyone from his evil way and from the violence that is in his hands.
+			</v>
+			<marker class="begin-verse" mid="v32003009"/>
+			<v n="9">
+				Who knows 
+				<crossref let="j" cid="c320039.1"/>
+				 whether God will not turn and relent, and turn away from his fierce anger, so that we might not perish?”
+			</v>
+			<marker class="begin-verse" mid="v32003010"/>
+			<v n="10">
+				God saw 
+				<crossref let="k" cid="c3200310.1"/>
+				 their works, that they turned from their evil way. God relented of the disaster which he said he would do to them, and he didn’t do it.
+			</v>
+			<marker class="begin-verse" mid="v32003011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

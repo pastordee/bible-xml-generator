@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:23:55.185494</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:23:55.185536</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" version="NLT" bookAbbr="1sa">
+		<marker class="begin-verse" mid="v09016001"/>
+		<chapter num="16">
+			<heading>Samuel Anoints David as King</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Now the 
+				<crossref let="b" cid="c090161.1"/>
+				 Lord said to Samuel, “You have mourned long enough for Saul. I have rejected him as king of Israel, so fill your flask with olive oil and go to Bethlehem. Find a man named Jesse who lives there, for I have selected one of his sons to be my king.”
+			</v>
+			<marker class="begin-verse" mid="v09016002"/>
+			<v n="2">
+				But Samuel 
+				<crossref let="c" cid="c090162.1"/>
+				 asked, “How can I do that? If Saul hears about it, he will kill me.”“Take a heifer with you,” the Lord replied, “and say that you have come to make a sacrifice to the Lord.
+			</v>
+			<marker class="begin-verse" mid="v09016003"/>
+			<v n="3">
+				Invite Jesse 
+				<crossref let="d" cid="c090163.1"/>
+				 to the sacrifice, and I will show you which of his sons to anoint for me.”
+			</v>
+			<marker class="begin-verse" mid="v09016004"/>
+			<v n="4">
+				So Samuel 
+				<crossref let="e" cid="c090164.1"/>
+				 did as the Lord instructed. When he arrived at Bethlehem, the elders of the town came trembling to meet him. “What’s wrong?” they asked. “Do you come in peace?”
+			</v>
+			<marker class="begin-verse" mid="v09016005"/>
+			<v n="5">
+				“Yes,” Samuel 
+				<crossref let="f" cid="c090165.1"/>
+				 replied. “I have come to sacrifice to the Lord. Purify yourselves and come with me to the sacrifice.” Then Samuel performed the purification rite for Jesse and his sons and invited them to the sacrifice, too.
+			</v>
+			<marker class="begin-verse" mid="v09016006"/>
+			<v n="6">
+				When they 
+				<crossref let="g" cid="c090166.1"/>
+				 arrived, Samuel took one look at Eliab and thought, “Surely this is the Lord’s anointed!”
+			</v>
+			<marker class="begin-verse" mid="v09016007"/>
+			<v n="7">
+				But the 
+				<crossref let="h" cid="c090167.1"/>
+				 Lord said to Samuel, “Don’t judge by his appearance or height, for I have rejected him. The Lord doesn’t see things the way you see them. People judge by outward appearance, but the Lord looks at the heart.”
+			</v>
+			<marker class="begin-verse" mid="v09016008"/>
+			<v n="8">
+				Then Jesse 
+				<crossref let="i" cid="c090168.1"/>
+				 told his son Abinadab to step forward and walk in front of Samuel. But Samuel said, “This is not the one the Lord has chosen.”
+			</v>
+			<marker class="begin-verse" mid="v09016009"/>
+			<v n="9">
+				Next Jesse 
+				<crossref let="j" cid="c090169.1"/>
+				 summoned Shimea, but Samuel said, “Neither is this the one the Lord has chosen.”
+			</v>
+			<marker class="begin-verse" mid="v09016010"/>
+			<v n="10">
+				In the 
+				<crossref let="k" cid="c0901610.1"/>
+				 same way all seven of Jesse’s sons were presented to Samuel. But Samuel said to Jesse, “The Lord has not chosen any of these.”
+			</v>
+			<marker class="begin-verse" mid="v09016011"/>
+			<v n="11">
+				Then Samuel 
+				<crossref let="l" cid="c0901611.1"/>
+				 asked, “Are these all the sons you have?”“There is still the youngest,” Jesse replied. “But he’s out in the fields watching the sheep and goats.”“Send for him at once,” Samuel said. “We will not sit down to eat until he arrives.”
+			</v>
+			<marker class="begin-verse" mid="v09016012"/>
+			<v n="12">
+				So Jesse 
+				<crossref let="m" cid="c0901612.1"/>
+				 sent for him. He was dark and handsome, with beautiful eyes.And the Lord said, “This is the one; anoint him.”
+			</v>
+			<marker class="begin-verse" mid="v09016013"/>
+			<v n="13">
+				So as 
+				<crossref let="n" cid="c0901613.1"/>
+				 David stood there among his brothers, Samuel took the flask of olive oil he had brought and anointed David with the oil. And the Spirit of the Lord came powerfully upon David from that day on. Then Samuel returned to Ramah.David Serves in Saul’s Court
+			</v>
+			<marker class="begin-verse" mid="v09016014"/>
+			<v n="14">
+				Now the 
+				<crossref let="o" cid="c0901614.1"/>
+				 Spirit of the Lord had left Saul, and the Lord sent a tormenting spirit that filled him with depression and fear.
+			</v>
+			<marker class="begin-verse" mid="v09016015"/>
+			<v n="15">
+				Some of 
+				<crossref let="p" cid="c0901615.1"/>
+				 Saul’s servants said to him, “A tormenting spirit from God is troubling you.
+			</v>
+			<marker class="begin-verse" mid="v09016016"/>
+			<v n="16">
+				Let us 
+				<crossref let="q" cid="c0901616.1"/>
+				 find a good musician to play the harp whenever the tormenting spirit troubles you. He will play soothing music, and you will soon be well again.”
+			</v>
+			<marker class="begin-verse" mid="v09016017"/>
+			<v n="17">
+				“All right,” 
+				<crossref let="r" cid="c0901617.1"/>
+				 Saul said. “Find me someone who plays well, and bring him here.”
+			</v>
+			<marker class="begin-verse" mid="v09016018"/>
+			<v n="18">
+				One of 
+				<crossref let="s" cid="c0901618.1"/>
+				 the servants said to Saul, “One of Jesse’s sons from Bethlehem is a talented harp player. Not only that—he is a brave warrior, a man of war, and has good judgment. He is also a fine-looking young man, and the Lord is with him.”
+			</v>
+			<marker class="begin-verse" mid="v09016019"/>
+			<v n="19">
+				So Saul 
+				<crossref let="t" cid="c0901619.1"/>
+				 sent messengers to Jesse to say, “Send me your son David, the shepherd.”
+			</v>
+			<marker class="begin-verse" mid="v09016020"/>
+			<v n="20">
+				Jesse responded 
+				<crossref let="u" cid="c0901620.1"/>
+				 by sending David to Saul, along with a young goat, a donkey loaded with bread, and a wineskin full of wine.
+			</v>
+			<marker class="begin-verse" mid="v09016021"/>
+			<v n="21">
+				So David 
+				<crossref let="v" cid="c0901621.1"/>
+				 went to Saul and began serving him. Saul loved David very much, and David became his armor bearer.
+			</v>
+			<marker class="begin-verse" mid="v09016022"/>
+			<v n="22">
+				Then Saul 
+				<crossref let="w" cid="c0901622.1"/>
+				 sent word to Jesse asking, “Please let David remain in my service, for I am very pleased with him.”
+			</v>
+			<marker class="begin-verse" mid="v09016023"/>
+			<v n="23">
+				And whenever 
+				<crossref let="x" cid="c0901623.1"/>
+				 the tormenting spirit from God troubled Saul, David would play the harp. Then Saul would feel better, and the tormenting spirit would go away.
+			</v>
+			<marker class="begin-verse" mid="v09016024"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

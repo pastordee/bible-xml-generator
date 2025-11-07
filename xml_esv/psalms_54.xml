@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:19.448351</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:19.448375</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19054001">
+		</marker>
+		<chapter num="54">
+			<heading>
+				Psalm 54
+			</heading>
+			<heading>
+				The Lord Upholds My Life
+			</heading>
+			<heading>
+				To the choirmaster: with stringed instruments. A Maskil(1) of David, when the Ziphites went and told Saul, “Is not David hiding among us?”
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c19054001.1">
+				</crossref>
+				save me, 
+				<crossref let="c" cid="c19054001.2">
+				</crossref>
+				by your name, and vindicate me by your might.
+			</v>
+			<marker class="begin-verse" mid="v19054002">
+			</marker>
+			<v n="2">
+				O God, 
+				<crossref let="d" cid="c19054002.3">
+				</crossref>
+				hear my, 
+				<crossref let="e" cid="c19054002.4">
+				</crossref>
+				prayer; give ear to the words of my mouth.
+			</v>
+			<marker class="begin-verse" mid="v19054003">
+			</marker>
+			<v n="3">
+				For strangers(2) 
+				<crossref let="f" cid="c19054003.5">
+				</crossref>
+				have risen, 
+				<crossref let="g" cid="c19054003.6">
+				</crossref>
+				against me; ruthless men seek my life; they do not set God before themselves. Selah
+				<note nid="n19054003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19054004">
+			</marker>
+			<v n="4">
+				Behold, God 
+				<crossref let="h" cid="c19054004.7">
+				</crossref>
+				is my, 
+				<crossref let="i" cid="c19054004.8">
+				</crossref>
+				helper; the Lord is the upholder of my life.
+			</v>
+			<marker class="begin-verse" mid="v19054005">
+			</marker>
+			<v n="5">
+				He will 
+				<crossref let="j" cid="c19054005.9">
+				</crossref>
+				return the, 
+				<crossref let="k" cid="c19054005.10">
+				</crossref>
+				evil to my enemies; in your faithfulness put an end to them.
+			</v>
+			<marker class="begin-verse" mid="v19054006">
+			</marker>
+			<v n="6">
+				With a 
+				<crossref let="l" cid="c19054006.11">
+				</crossref>
+				freewill offering, 
+				<crossref let="m" cid="c19054006.12">
+				</crossref>
+				I will sacrifice to you; I will give thanks to your name, O LORD, for it is good.
+				<note nid="n19054006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v19054007">
+			</marker>
+			<v n="7">
+				For he 
+				<crossref let="n" cid="c19054007.13">
+				</crossref>
+				has delivered, 
+				<crossref let="o" cid="c19054007.14">
+				</crossref>
+				me from every trouble, and my eye has looked in triumph on my enemies. Footnotes (1) 54:1 Probably a musical or liturgical term (2) 54:3 Some Hebrew manuscripts and Targum *insolent men* (compare Psalm 86:14) (ESV)
+			</v>
+			<marker class="begin-verse" mid="v19054008">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

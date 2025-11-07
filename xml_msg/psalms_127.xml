@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:18:28.437185</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:18:28.437202</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19127001"/>
+		<chapter num="127">
+			<heading>A song for pilgrims going up to Jerusalem. A psalm of Solomon.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				If the 
+				<crossref let="b" cid="c191271.1"/>
+				 Lord doesn't build the house, the work of the builders is futile. If the Lord doesn't guard the city, the work of the guards is pointless.
+			</v>
+			<marker class="begin-verse" mid="v19127002"/>
+			<v n="2">
+				It's useless 
+				<crossref let="c" cid="c191272.1"/>
+				 to get up early in the morning and go to work, and stay late into the evening, worrying about earning enough to eat, when the Lord gives rest to those he loves.
+			</v>
+			<marker class="begin-verse" mid="v19127003"/>
+			<v n="3">
+				Children certainly 
+				<crossref let="d" cid="c191273.1"/>
+				 are a gift from the Lord, for a family is a blessing.
+			</v>
+			<marker class="begin-verse" mid="v19127004"/>
+			<v n="4">
+				Like arrows 
+				<crossref let="e" cid="c191274.1"/>
+				 in the hand of a warrior are the children of a young man.
+			</v>
+			<marker class="begin-verse" mid="v19127005"/>
+			<v n="5">
+				Happy is 
+				<crossref let="f" cid="c191275.1"/>
+				 the father who fills his quiver with them! Such fathers will not be embarrassed when they confront their enemies at the city gate.
+			</v>
+			<marker class="begin-verse" mid="v19127006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:41:43.240178</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:41:43.240186</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19001001"/>
+		<chapter num="1">
+			<heading>BOOK 1</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Blessed is 
+				<crossref let="b" cid="c190011.1"/>
+				 the man who doesn’t walk in the counsel of the wicked,nor stand on the path of sinners,nor sit in the seat of scoffers;
+			</v>
+			<marker class="begin-verse" mid="v19001002"/>
+			<v n="2">
+				but his 
+				<crossref let="c" cid="c190012.1"/>
+				 delight is in Yahweh’s law.On his law he meditates day and night.
+			</v>
+			<marker class="begin-verse" mid="v19001003"/>
+			<v n="3">
+				He will 
+				<crossref let="d" cid="c190013.1"/>
+				 be like a tree planted by the streams of water,that produces its fruit in its season,whose leaf also does not wither.Whatever he does shall prosper.
+			</v>
+			<marker class="begin-verse" mid="v19001004"/>
+			<v n="4">
+				The wicked 
+				<crossref let="e" cid="c190014.1"/>
+				 are not so,but are like the chaff which the wind drives away.
+			</v>
+			<marker class="begin-verse" mid="v19001005"/>
+			<v n="5">
+				Therefore the 
+				<crossref let="f" cid="c190015.1"/>
+				 wicked shall not stand in the judgment,nor sinners in the congregation of the righteous.
+			</v>
+			<marker class="begin-verse" mid="v19001006"/>
+			<v n="6">
+				For Yahweh 
+				<crossref let="g" cid="c190016.1"/>
+				 knows the way of the righteous,but the way of the wicked shall perish.
+			</v>
+			<marker class="begin-verse" mid="v19001007"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

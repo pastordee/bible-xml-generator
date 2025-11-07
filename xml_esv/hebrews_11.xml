@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:52.565608</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:52.565615</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" bookAbbr="heb" version="ESV">
+		<marker class="begin-verse" mid="v58011001">
+		</marker>
+		<chapter num="11">
+			<heading>
+				Hebrews 11
+			</heading>
+			<heading>
+				By Faith
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				Now faith 
+				<crossref let="b" cid="c58011001.1">
+				</crossref>
+				is the, 
+				<crossref let="c" cid="c58011001.2">
+				</crossref>
+				assurance of things hoped for, the conviction of things not seen.
+			</v>
+			<marker class="begin-verse" mid="v58011002">
+			</marker>
+			<v n="2">
+				For by 
+				<crossref let="d" cid="c58011002.3">
+				</crossref>
+				it the, 
+				<crossref let="e" cid="c58011002.4">
+				</crossref>
+				people of old received their commendation.
+			</v>
+			<marker class="begin-verse" mid="v58011003">
+			</marker>
+			<v n="3">
+				By faith 
+				<crossref let="f" cid="c58011003.5">
+				</crossref>
+				we understand, 
+				<crossref let="g" cid="c58011003.6">
+				</crossref>
+				that the universe was created by the word of God, so that what is seen was not made out of things that are visible.
+				<note nid="n58011003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011004">
+			</marker>
+			<v n="4">
+				By faith 
+				<crossref let="h" cid="c58011004.7">
+				</crossref>
+				Abel offered, 
+				<crossref let="i" cid="c58011004.8">
+				</crossref>
+				to God a more acceptable sacrifice than Cain, through which he was commended as righteous, God commending him by accepting his gifts. And through his faith, though he died, he still speaks.
+			</v>
+			<marker class="begin-verse" mid="v58011005">
+			</marker>
+			<v n="5">
+				By faith 
+				<crossref let="j" cid="c58011005.9">
+				</crossref>
+				Enoch was, 
+				<crossref let="k" cid="c58011005.10">
+				</crossref>
+				taken up so that he should not see death, and he was not found, because God had taken him. Now before he was taken he was commended as having pleased God.
+			</v>
+			<marker class="begin-verse" mid="v58011006">
+			</marker>
+			<v n="6">
+				And without 
+				<crossref let="l" cid="c58011006.11">
+				</crossref>
+				faith it, 
+				<crossref let="m" cid="c58011006.12">
+				</crossref>
+				is impossible to please him, for whoever would draw near to God must believe that he exists and that he rewards those who seek him.
+				<note nid="n58011006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011007">
+			</marker>
+			<v n="7">
+				By faith 
+				<crossref let="n" cid="c58011007.13">
+				</crossref>
+				Noah, being, 
+				<crossref let="o" cid="c58011007.14">
+				</crossref>
+				warned by God concerning events as yet unseen, in reverent fear constructed an ark for the saving of his household. By this he condemned the world and became an heir of the righteousness that comes by faith.
+			</v>
+			<marker class="begin-verse" mid="v58011008">
+			</marker>
+			<v n="8">
+				By faith 
+				<crossref let="p" cid="c58011008.15">
+				</crossref>
+				Abraham obeyed, 
+				<crossref let="q" cid="c58011008.16">
+				</crossref>
+				when he was called to go out to a place that he was to receive as an inheritance. And he went out, not knowing where he was going.
+			</v>
+			<marker class="begin-verse" mid="v58011009">
+			</marker>
+			<v n="9">
+				By faith 
+				<crossref let="r" cid="c58011009.17">
+				</crossref>
+				he went, 
+				<crossref let="s" cid="c58011009.18">
+				</crossref>
+				to live in the land of promise, as in a foreign land, living in tents with Isaac and Jacob, heirs with him of the same promise.
+				<note nid="n58011009.9">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011010">
+			</marker>
+			<v n="10">
+				For he 
+				<crossref let="t" cid="c58011010.19">
+				</crossref>
+				was looking, 
+				<crossref let="u" cid="c58011010.20">
+				</crossref>
+				forward to the city that has foundations, whose designer and builder is God.
+			</v>
+			<marker class="begin-verse" mid="v58011011">
+			</marker>
+			<v n="11">
+				By faith 
+				<crossref let="v" cid="c58011011.21">
+				</crossref>
+				Sarah herself, 
+				<crossref let="w" cid="c58011011.22">
+				</crossref>
+				received power to conceive, even when she was past the age, since she considered him faithful who had promised.
+			</v>
+			<marker class="begin-verse" mid="v58011012">
+			</marker>
+			<v n="12">
+				Therefore from 
+				<crossref let="x" cid="c58011012.23">
+				</crossref>
+				one man,, 
+				<crossref let="y" cid="c58011012.24">
+				</crossref>
+				and him as good as dead, were born descendants as many as the stars of heaven and as many as the innumerable grains of sand by the seashore.
+				<note nid="n58011012.12">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011013">
+			</marker>
+			<v n="13">
+				These all 
+				<crossref let="z" cid="c58011013.25">
+				</crossref>
+				died in, 
+				<crossref let="a" cid="c58011013.26">
+				</crossref>
+				faith, not having received the things promised, but having seen them and greeted them from afar, and having acknowledged that they were strangers and exiles on the earth.
+			</v>
+			<marker class="begin-verse" mid="v58011014">
+			</marker>
+			<v n="14">
+				For people 
+				<crossref let="b" cid="c58011014.27">
+				</crossref>
+				who speak, 
+				<crossref let="c" cid="c58011014.28">
+				</crossref>
+				thus make it clear that they are seeking a homeland.
+			</v>
+			<marker class="begin-verse" mid="v58011015">
+			</marker>
+			<v n="15">
+				If they 
+				<crossref let="d" cid="c58011015.29">
+				</crossref>
+				had been, 
+				<crossref let="e" cid="c58011015.30">
+				</crossref>
+				thinking of that land from which they had gone out, they would have had opportunity to return.
+				<note nid="n58011015.15">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011016">
+			</marker>
+			<v n="16">
+				But as 
+				<crossref let="f" cid="c58011016.31">
+				</crossref>
+				it is,, 
+				<crossref let="g" cid="c58011016.32">
+				</crossref>
+				they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God, for he has prepared for them a city.
+			</v>
+			<marker class="begin-verse" mid="v58011017">
+			</marker>
+			<v n="17">
+				By faith 
+				<crossref let="h" cid="c58011017.33">
+				</crossref>
+				Abraham, when, 
+				<crossref let="i" cid="c58011017.34">
+				</crossref>
+				he was tested, offered up Isaac, and he who had received the promises was in the act of offering up his only son,
+			</v>
+			<marker class="begin-verse" mid="v58011018">
+			</marker>
+			<v n="18">
+				of whom 
+				<crossref let="j" cid="c58011018.35">
+				</crossref>
+				it was, 
+				<crossref let="k" cid="c58011018.36">
+				</crossref>
+				said, “Through Isaac shall your offspring be named.”
+				<note nid="n58011018.18">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011019">
+			</marker>
+			<v n="19">
+				He considered 
+				<crossref let="l" cid="c58011019.37">
+				</crossref>
+				that God, 
+				<crossref let="m" cid="c58011019.38">
+				</crossref>
+				was able even to raise him from the dead, from which, figuratively speaking, he did receive him back.
+			</v>
+			<marker class="begin-verse" mid="v58011020">
+			</marker>
+			<v n="20">
+				By faith 
+				<crossref let="n" cid="c58011020.39">
+				</crossref>
+				Isaac invoked, 
+				<crossref let="o" cid="c58011020.40">
+				</crossref>
+				future blessings on Jacob and Esau.
+			</v>
+			<marker class="begin-verse" mid="v58011021">
+			</marker>
+			<v n="21">
+				By faith 
+				<crossref let="p" cid="c58011021.41">
+				</crossref>
+				Jacob, when, 
+				<crossref let="q" cid="c58011021.42">
+				</crossref>
+				dying, blessed each of the sons of Joseph, bowing in worship over the head of his staff.
+				<note nid="n58011021.21">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011022">
+			</marker>
+			<v n="22">
+				By faith 
+				<crossref let="r" cid="c58011022.43">
+				</crossref>
+				Joseph, at, 
+				<crossref let="s" cid="c58011022.44">
+				</crossref>
+				the end of his life, made mention of the exodus of the Israelites and gave directions concerning his bones.
+			</v>
+			<marker class="begin-verse" mid="v58011023">
+			</marker>
+			<v n="23">
+				By faith 
+				<crossref let="t" cid="c58011023.45">
+				</crossref>
+				Moses, when, 
+				<crossref let="u" cid="c58011023.46">
+				</crossref>
+				he was born, was hidden for three months by his parents, because they saw that the child was beautiful, and they were not afraid of the king’s edict.
+			</v>
+			<marker class="begin-verse" mid="v58011024">
+			</marker>
+			<v n="24">
+				By faith 
+				<crossref let="v" cid="c58011024.47">
+				</crossref>
+				Moses, when, 
+				<crossref let="w" cid="c58011024.48">
+				</crossref>
+				he was grown up, refused to be called the son of Pharaoh’s daughter,
+				<note nid="n58011024.24">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011025">
+			</marker>
+			<v n="25">
+				choosing rather 
+				<crossref let="x" cid="c58011025.49">
+				</crossref>
+				to be, 
+				<crossref let="y" cid="c58011025.50">
+				</crossref>
+				mistreated with the people of God than to enjoy the fleeting pleasures of sin.
+			</v>
+			<marker class="begin-verse" mid="v58011026">
+			</marker>
+			<v n="26">
+				He considered 
+				<crossref let="z" cid="c58011026.51">
+				</crossref>
+				the reproach, 
+				<crossref let="a" cid="c58011026.52">
+				</crossref>
+				of Christ greater wealth than the treasures of Egypt, for he was looking to the reward.
+			</v>
+			<marker class="begin-verse" mid="v58011027">
+			</marker>
+			<v n="27">
+				By faith 
+				<crossref let="b" cid="c58011027.53">
+				</crossref>
+				he left, 
+				<crossref let="c" cid="c58011027.54">
+				</crossref>
+				Egypt, not being afraid of the anger of the king, for he endured as seeing him who is invisible.
+				<note nid="n58011027.27">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011028">
+			</marker>
+			<v n="28">
+				By faith 
+				<crossref let="d" cid="c58011028.55">
+				</crossref>
+				he kept, 
+				<crossref let="e" cid="c58011028.56">
+				</crossref>
+				the Passover and sprinkled the blood, so that the Destroyer of the firstborn might not touch them.
+			</v>
+			<marker class="begin-verse" mid="v58011029">
+			</marker>
+			<v n="29">
+				By faith 
+				<crossref let="f" cid="c58011029.57">
+				</crossref>
+				the people, 
+				<crossref let="g" cid="c58011029.58">
+				</crossref>
+				crossed the Red Sea as on dry land, but the Egyptians, when they attempted to do the same, were drowned.
+			</v>
+			<marker class="begin-verse" mid="v58011030">
+			</marker>
+			<v n="30">
+				By faith 
+				<crossref let="h" cid="c58011030.59">
+				</crossref>
+				the walls, 
+				<crossref let="i" cid="c58011030.60">
+				</crossref>
+				of Jericho fell down after they had been encircled for seven days.
+				<note nid="n58011030.30">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011031">
+			</marker>
+			<v n="31">
+				By faith 
+				<crossref let="j" cid="c58011031.61">
+				</crossref>
+				Rahab the, 
+				<crossref let="k" cid="c58011031.62">
+				</crossref>
+				prostitute did not perish with those who were disobedient, because she had given a friendly welcome to the spies.
+			</v>
+			<marker class="begin-verse" mid="v58011032">
+			</marker>
+			<v n="32">
+				And what 
+				<crossref let="l" cid="c58011032.63">
+				</crossref>
+				more shall, 
+				<crossref let="m" cid="c58011032.64">
+				</crossref>
+				I say? For time would fail me to tell of Gideon, Barak, Samson, Jephthah, of David and Samuel and the prophets—
+			</v>
+			<marker class="begin-verse" mid="v58011033">
+			</marker>
+			<v n="33">
+				who through 
+				<crossref let="n" cid="c58011033.65">
+				</crossref>
+				faith conquered, 
+				<crossref let="o" cid="c58011033.66">
+				</crossref>
+				kingdoms, enforced justice, obtained promises, stopped the mouths of lions,
+				<note nid="n58011033.33">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011034">
+			</marker>
+			<v n="34">
+				quenched the 
+				<crossref let="p" cid="c58011034.67">
+				</crossref>
+				power of, 
+				<crossref let="q" cid="c58011034.68">
+				</crossref>
+				fire, escaped the edge of the sword, were made strong out of weakness, became mighty in war, put foreign armies to flight.
+			</v>
+			<marker class="begin-verse" mid="v58011035">
+			</marker>
+			<v n="35">
+				Women received 
+				<crossref let="r" cid="c58011035.69">
+				</crossref>
+				back their, 
+				<crossref let="s" cid="c58011035.70">
+				</crossref>
+				dead by resurrection. Some were tortured, refusing to accept release, so that they might rise again to a better life.
+			</v>
+			<marker class="begin-verse" mid="v58011036">
+			</marker>
+			<v n="36">
+				Others suffered 
+				<crossref let="t" cid="c58011036.71">
+				</crossref>
+				mocking and, 
+				<crossref let="u" cid="c58011036.72">
+				</crossref>
+				flogging, and even chains and imprisonment.
+				<note nid="n58011036.36">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011037">
+			</marker>
+			<v n="37">
+				They were 
+				<crossref let="v" cid="c58011037.73">
+				</crossref>
+				stoned, they, 
+				<crossref let="w" cid="c58011037.74">
+				</crossref>
+				were sawn in two,(1) they were killed with the sword. They went about in skins of sheep and goats, destitute, afflicted, mistreated—
+			</v>
+			<marker class="begin-verse" mid="v58011038">
+			</marker>
+			<v n="38">
+				of whom 
+				<crossref let="x" cid="c58011038.75">
+				</crossref>
+				the world, 
+				<crossref let="y" cid="c58011038.76">
+				</crossref>
+				was not worthy—wandering about in deserts and mountains, and in dens and caves of the earth.
+			</v>
+			<marker class="begin-verse" mid="v58011039">
+			</marker>
+			<v n="39">
+				And all 
+				<crossref let="z" cid="c58011039.77">
+				</crossref>
+				these, though, 
+				<crossref let="a" cid="c58011039.78">
+				</crossref>
+				commended through their faith, did not receive what was promised,
+				<note nid="n58011039.39">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v58011040">
+			</marker>
+			<v n="40">
+				since God 
+				<crossref let="b" cid="c58011040.79">
+				</crossref>
+				had provided, 
+				<crossref let="c" cid="c58011040.80">
+				</crossref>
+				something better for us, that apart from us they should not be made perfect. Footnotes (1) 11:37 Some manuscripts add *they were tempted* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v58011041">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

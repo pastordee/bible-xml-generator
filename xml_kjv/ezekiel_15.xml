@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:26:08.387829</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:26:08.387877</next_refresh_due>
+	</generation_info>
+	<book title="Ezekiel" num="26" testament="old" version="KJV" bookAbbr="ezk">
+		<marker class="begin-verse" mid="v26015001"/>
+		<chapter num="15">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c260151.1"/>
+				 word of the LORD came unto me, saying,
+			</v>
+			<marker class="begin-verse" mid="v26015002"/>
+			<v n="2">
+				Son of 
+				<crossref let="c" cid="c260152.1"/>
+				 man, What is the vine tree more than any tree, or than a branch which is among the trees of the forest?
+			</v>
+			<marker class="begin-verse" mid="v26015003"/>
+			<v n="3">
+				Shall wood 
+				<crossref let="d" cid="c260153.1"/>
+				 be taken thereof to do any work? or will men take a pin of it to hang any vessel thereon?
+			</v>
+			<marker class="begin-verse" mid="v26015004"/>
+			<v n="4">
+				Behold, it 
+				<crossref let="e" cid="c260154.1"/>
+				 is cast into the fire for fuel; the fire devoureth both the ends of it, and the midst of it is burned. Is it meet for any work?
+			</v>
+			<marker class="begin-verse" mid="v26015005"/>
+			<v n="5">
+				Behold, when 
+				<crossref let="f" cid="c260155.1"/>
+				 it was whole, it was meet for no work: how much less shall it be meet yet for any work, when the fire hath devoured it, and it is burned?
+			</v>
+			<marker class="begin-verse" mid="v26015006"/>
+			<v n="6">
+				¶ Therefore 
+				<crossref let="g" cid="c260156.1"/>
+				 thus saith the Lord GOD; As the vine tree among the trees of the forest, which I have given to the fire for fuel, so will I give the inhabitants of Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v26015007"/>
+			<v n="7">
+				And I 
+				<crossref let="h" cid="c260157.1"/>
+				 will set my face against them; they shall go out from one fire, and another fire shall devour them; and ye shall know that I am the LORD, when I set my face against them.
+			</v>
+			<marker class="begin-verse" mid="v26015008"/>
+			<v n="8">
+				And I 
+				<crossref let="i" cid="c260158.1"/>
+				 will make the land desolate, because they have committed a trespass, saith the Lord GOD.
+			</v>
+			<marker class="begin-verse" mid="v26015009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

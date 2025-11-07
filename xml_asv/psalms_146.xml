@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:39:52.209198</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:39:52.209207</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19146001"/>
+		<chapter num="146">
+			<begin-paragraph/>
+			<v n="1">
+				Praise ye 
+				<crossref let="b" cid="c191461.1"/>
+				 Jehovah.Praise Jehovah, O my soul.
+			</v>
+			<marker class="begin-verse" mid="v19146002"/>
+			<v n="2">
+				While I 
+				<crossref let="c" cid="c191462.1"/>
+				 live will I praise Jehovah:I will sing praises unto my God while I have any being.
+			</v>
+			<marker class="begin-verse" mid="v19146003"/>
+			<v n="3">
+				Put not 
+				<crossref let="d" cid="c191463.1"/>
+				 your trust in princes,Nor in the son of man, in whom there is no help.
+			</v>
+			<marker class="begin-verse" mid="v19146004"/>
+			<v n="4">
+				His breath 
+				<crossref let="e" cid="c191464.1"/>
+				 goeth forth, he returneth to his earth;In that very day his thoughts perish.
+			</v>
+			<marker class="begin-verse" mid="v19146005"/>
+			<v n="5">
+				Happy is 
+				<crossref let="f" cid="c191465.1"/>
+				 he that hath the God of Jacob for his help,Whose hope is in Jehovah his God:
+			</v>
+			<marker class="begin-verse" mid="v19146006"/>
+			<v n="6">
+				Who made 
+				<crossref let="g" cid="c191466.1"/>
+				 heaven and earth,The sea, and all that in them is;Who keepeth truth for ever;
+			</v>
+			<marker class="begin-verse" mid="v19146007"/>
+			<v n="7">
+				Who executeth 
+				<crossref let="h" cid="c191467.1"/>
+				 justice for the oppressed;Who giveth food to the hungry.Jehovah looseth the prisoners;
+			</v>
+			<marker class="begin-verse" mid="v19146008"/>
+			<v n="8">
+				Jehovah openeth 
+				<crossref let="i" cid="c191468.1"/>
+				 the eyes of the blind;Jehovah raiseth up them that are bowed down;Jehovah loveth the righteous;
+			</v>
+			<marker class="begin-verse" mid="v19146009"/>
+			<v n="9">
+				Jehovah preserveth 
+				<crossref let="j" cid="c191469.1"/>
+				 the sojourners;He upholdeth the fatherless and widow;But the way of the wicked he turneth upside down.
+			</v>
+			<marker class="begin-verse" mid="v19146010"/>
+			<v n="10">
+				Jehovah will 
+				<crossref let="k" cid="c1914610.1"/>
+				 reign for ever,Thy God, O Zion, unto all generations.Praise ye Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19146011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

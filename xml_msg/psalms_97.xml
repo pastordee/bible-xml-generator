@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:17:17.440190</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:17:17.440204</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19097001"/>
+		<chapter num="97">
+			<begin-paragraph/>
+			<v n="1">
+				The Lord 
+				<crossref let="b" cid="c190971.1"/>
+				 reigns! Let the earth be glad, and distant lands be full of joy!
+			</v>
+			<marker class="begin-verse" mid="v19097002"/>
+			<v n="2">
+				He is 
+				<crossref let="c" cid="c190972.1"/>
+				 surrounded by clouds and thick darkness; his throne is founded on justice and right.
+			</v>
+			<marker class="begin-verse" mid="v19097003"/>
+			<v n="3">
+				Flames proceed 
+				<crossref let="d" cid="c190973.1"/>
+				 him, burning up his enemies on every side.
+			</v>
+			<marker class="begin-verse" mid="v19097004"/>
+			<v n="4">
+				His flashes 
+				<crossref let="e" cid="c190974.1"/>
+				 of lightning light up the world; the earth watches and trembles.
+			</v>
+			<marker class="begin-verse" mid="v19097005"/>
+			<v n="5">
+				The mountains 
+				<crossref let="f" cid="c190975.1"/>
+				 melt like wax in the presence of the Lord, before the Lord of all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19097006"/>
+			<v n="6">
+				The heavens 
+				<crossref let="g" cid="c190976.1"/>
+				 proclaim his goodness; everyone sees his glory.
+			</v>
+			<marker class="begin-verse" mid="v19097007"/>
+			<v n="7">
+				All those 
+				<crossref let="h" cid="c190977.1"/>
+				 who worship idols are humiliated, those who are proud of their idols—for all “gods” bow down before him.
+			</v>
+			<marker class="begin-verse" mid="v19097008"/>
+			<v n="8">
+				Jerusalem hears 
+				<crossref let="i" cid="c190978.1"/>
+				 this and celebrates; all the towns of Judah are happy because of your judgments, Lord.
+			</v>
+			<marker class="begin-verse" mid="v19097009"/>
+			<v n="9">
+				For you, 
+				<crossref let="j" cid="c190979.1"/>
+				 Lord, are the highest of all, ruling over the whole earth; your position is far above any other god.
+			</v>
+			<marker class="begin-verse" mid="v19097010"/>
+			<v n="10">
+				You who 
+				<crossref let="k" cid="c1909710.1"/>
+				 love the Lord, hate evil! He protects the lives of those who are faithful to him, and saves them from the power of wicked people.
+			</v>
+			<marker class="begin-verse" mid="v19097011"/>
+			<v n="11">
+				Light shines 
+				<crossref let="l" cid="c1909711.1"/>
+				 on those who do good, giving joy to those who live right.
+			</v>
+			<marker class="begin-verse" mid="v19097012"/>
+			<v n="12">
+				Be happy 
+				<crossref let="m" cid="c1909712.1"/>
+				 in the Lord, you who do right, and thank him for his holy nature!
+			</v>
+			<marker class="begin-verse" mid="v19097013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

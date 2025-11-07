@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:42:12.614247</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:42:12.614267</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				Isaiah 12
+			</heading>
+			<heading>
+				The LORD Is My Strength and My Song
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				You(1) will 
+				<crossref let="b" cid="c23012001.1">
+				</crossref>
+				say in, 
+				<crossref let="c" cid="c23012001.2">
+				</crossref>
+				that day: “I will give thanks to you, O LORD, for though you were angry with me, your anger turned away, that you might comfort me.
+			</v>
+			<marker class="begin-verse" mid="v23012002">
+			</marker>
+			<v n="2">
+				“Behold, God 
+				<crossref let="d" cid="c23012002.3">
+				</crossref>
+				is my, 
+				<crossref let="e" cid="c23012002.4">
+				</crossref>
+				salvation; I will trust, and will not be afraid; for the LORD GOD(2) is my strength and my song, and he has become my salvation.”
+			</v>
+			<marker class="begin-verse" mid="v23012003">
+			</marker>
+			<v n="3">
+				With joy 
+				<crossref let="f" cid="c23012003.5">
+				</crossref>
+				you(3) will, 
+				<crossref let="g" cid="c23012003.6">
+				</crossref>
+				draw water from the wells of salvation.
+				<note nid="n23012003.3">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v23012004">
+			</marker>
+			<v n="4">
+				And you 
+				<crossref let="h" cid="c23012004.7">
+				</crossref>
+				will say, 
+				<crossref let="i" cid="c23012004.8">
+				</crossref>
+				in that day: “Give thanks to the LORD, call upon his name, make known his deeds among the peoples, proclaim that his name is exalted.
+			</v>
+			<marker class="begin-verse" mid="v23012005">
+			</marker>
+			<v n="5">
+				“Sing praises 
+				<crossref let="j" cid="c23012005.9">
+				</crossref>
+				to the, 
+				<crossref let="k" cid="c23012005.10">
+				</crossref>
+				LORD, for he has done gloriously; let this be made known(4) in all the earth.
+			</v>
+			<marker class="begin-verse" mid="v23012006">
+			</marker>
+			<v n="6">
+				Shout, and 
+				<crossref let="l" cid="c23012006.11">
+				</crossref>
+				sing for, 
+				<crossref let="m" cid="c23012006.12">
+				</crossref>
+				joy, O inhabitant of Zion, for great in your(5) midst is the Holy One of Israel.” Footnotes (1) 12:1 The Hebrew for *you* is singular in verse 1 (2) 12:2 Hebrew *for Yah, the Lord* (3) 12:3 The Hebrew for *you* is plural in verses 3, 4 (4) 12:5 Or *this is made known* (5) 12:6 The Hebrew for *your* in verse 6 is singular, referring to the *inhabitant of Zion* (ESV)
+				<note nid="n23012006.6">
+				</note>
+			</v>
+			<marker class="begin-verse" mid="v23012007">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

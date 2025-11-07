@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:21:01.361249</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:21:01.361267</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19100001"/>
+		<chapter num="100">
+			<heading>A Song of Praise for the Lord’s Faithfulness to His PeopleA Psalm of Thanksgiving.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Make a 
+				<crossref let="b" cid="c191001.1"/>
+				 joyful shout to the Lord, all you lands!
+			</v>
+			<marker class="begin-verse" mid="v19100002"/>
+			<v n="2">
+				Serve the 
+				<crossref let="c" cid="c191002.1"/>
+				 Lord with gladness;Come before His presence with singing.
+			</v>
+			<marker class="begin-verse" mid="v19100003"/>
+			<v n="3">
+				Know that 
+				<crossref let="d" cid="c191003.1"/>
+				 the Lord, He is God;It is He who has made us, and not we ourselves;We are His people and the sheep of His pasture.
+			</v>
+			<marker class="begin-verse" mid="v19100004"/>
+			<v n="4">
+				Enter into 
+				<crossref let="e" cid="c191004.1"/>
+				 His gates with thanksgiving,And into His courts with praise.Be thankful to Him, and bless His name.
+			</v>
+			<marker class="begin-verse" mid="v19100005"/>
+			<v n="5">
+				For the 
+				<crossref let="f" cid="c191005.1"/>
+				 Lord is good;His mercy is everlasting,And His truth endures to all generations.
+			</v>
+			<marker class="begin-verse" mid="v19100006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

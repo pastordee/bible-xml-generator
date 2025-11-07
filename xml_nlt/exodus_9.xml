@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:06:44.973826</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:06:44.973839</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="NLT" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02009001"/>
+		<chapter num="9">
+			<heading>A Plague against Livestock</heading>
+			<begin-paragraph/>
+			<v n="1">
+				“Go back 
+				<crossref let="b" cid="c020091.1"/>
+				 to Pharaoh,” the Lord commanded Moses. “Tell him, ‘This is what the Lord, the God of the Hebrews, says: Let my people go, so they can worship me.
+			</v>
+			<marker class="begin-verse" mid="v02009002"/>
+			<v n="2">
+				If you 
+				<crossref let="c" cid="c020092.1"/>
+				 continue to hold them and refuse to let them go,
+			</v>
+			<marker class="begin-verse" mid="v02009003"/>
+			<v n="3">
+				the hand 
+				<crossref let="d" cid="c020093.1"/>
+				 of the Lord will strike all your livestock—your horses, donkeys, camels, cattle, sheep, and goats—with a deadly plague.
+			</v>
+			<marker class="begin-verse" mid="v02009004"/>
+			<v n="4">
+				But the 
+				<crossref let="e" cid="c020094.1"/>
+				 Lord will again make a distinction between the livestock of the Israelites and that of the Egyptians. Not a single one of Israel’s animals will die!
+			</v>
+			<marker class="begin-verse" mid="v02009005"/>
+			<v n="5">
+				The Lord 
+				<crossref let="f" cid="c020095.1"/>
+				 has already set the time for the plague to begin. He has declared that he will strike the land tomorrow.’”
+			</v>
+			<marker class="begin-verse" mid="v02009006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c020096.1"/>
+				 Lord did just as he had said. The next morning all the livestock of the Egyptians died, but the Israelites didn’t lose a single animal.
+			</v>
+			<marker class="begin-verse" mid="v02009007"/>
+			<v n="7">
+				Pharaoh sent 
+				<crossref let="h" cid="c020097.1"/>
+				 his officials to investigate, and they discovered that the Israelites had not lost a single animal! But even so, Pharaoh’s heart remained stubborn, and he still refused to let the people go.A Plague of Festering Boils
+			</v>
+			<marker class="begin-verse" mid="v02009008"/>
+			<v n="8">
+				Then the 
+				<crossref let="i" cid="c020098.1"/>
+				 Lord said to Moses and Aaron, “Take handfuls of soot from a brick kiln, and have Moses toss it into the air while Pharaoh watches.
+			</v>
+			<marker class="begin-verse" mid="v02009009"/>
+			<v n="9">
+				The ashes 
+				<crossref let="j" cid="c020099.1"/>
+				 will spread like fine dust over the whole land of Egypt, causing festering boils to break out on people and animals throughout the land.”
+			</v>
+			<marker class="begin-verse" mid="v02009010"/>
+			<v n="10">
+				So they 
+				<crossref let="k" cid="c0200910.1"/>
+				 took soot from a brick kiln and went and stood before Pharaoh. As Pharaoh watched, Moses threw the soot into the air, and boils broke out on people and animals alike.
+			</v>
+			<marker class="begin-verse" mid="v02009011"/>
+			<v n="11">
+				Even the 
+				<crossref let="l" cid="c0200911.1"/>
+				 magicians were unable to stand before Moses, because the boils had broken out on them and all the Egyptians.
+			</v>
+			<marker class="begin-verse" mid="v02009012"/>
+			<v n="12">
+				But the 
+				<crossref let="m" cid="c0200912.1"/>
+				 Lord hardened Pharaoh’s heart, and just as the Lord had predicted to Moses, Pharaoh refused to listen.A Plague of Hail
+			</v>
+			<marker class="begin-verse" mid="v02009013"/>
+			<v n="13">
+				Then the 
+				<crossref let="n" cid="c0200913.1"/>
+				 Lord said to Moses, “Get up early in the morning and stand before Pharaoh. Tell him, ‘This is what the Lord, the God of the Hebrews, says: Let my people go, so they can worship me.
+			</v>
+			<marker class="begin-verse" mid="v02009014"/>
+			<v n="14">
+				If you 
+				<crossref let="o" cid="c0200914.1"/>
+				 don’t, I will send more plagues on you and your officials and your people. Then you will know that there is no one like me in all the earth.
+			</v>
+			<marker class="begin-verse" mid="v02009015"/>
+			<v n="15">
+				By now 
+				<crossref let="p" cid="c0200915.1"/>
+				 I could have lifted my hand and struck you and your people with a plague to wipe you off the face of the earth.
+			</v>
+			<marker class="begin-verse" mid="v02009016"/>
+			<v n="16">
+				But I 
+				<crossref let="q" cid="c0200916.1"/>
+				 have spared you for a purpose—to show you my power and to spread my fame throughout the earth.
+			</v>
+			<marker class="begin-verse" mid="v02009017"/>
+			<v n="17">
+				But you 
+				<crossref let="r" cid="c0200917.1"/>
+				 still lord it over my people and refuse to let them go.
+			</v>
+			<marker class="begin-verse" mid="v02009018"/>
+			<v n="18">
+				So tomorrow 
+				<crossref let="s" cid="c0200918.1"/>
+				 at this time I will send a hailstorm more devastating than any in all the history of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v02009019"/>
+			<v n="19">
+				Quick! Order 
+				<crossref let="t" cid="c0200919.1"/>
+				 your livestock and servants to come in from the fields to find shelter. Any person or animal left outside will die when the hail falls.’”
+			</v>
+			<marker class="begin-verse" mid="v02009020"/>
+			<v n="20">
+				Some of 
+				<crossref let="u" cid="c0200920.1"/>
+				 Pharaoh’s officials were afraid because of what the Lord had said. They quickly brought their servants and livestock in from the fields.
+			</v>
+			<marker class="begin-verse" mid="v02009021"/>
+			<v n="21">
+				But those 
+				<crossref let="v" cid="c0200921.1"/>
+				 who paid no attention to the word of the Lord left theirs out in the open.
+			</v>
+			<marker class="begin-verse" mid="v02009022"/>
+			<v n="22">
+				Then the 
+				<crossref let="w" cid="c0200922.1"/>
+				 Lord said to Moses, “Lift your hand toward the sky so hail may fall on the people, the livestock, and all the plants throughout the land of Egypt.”
+			</v>
+			<marker class="begin-verse" mid="v02009023"/>
+			<v n="23">
+				So Moses 
+				<crossref let="x" cid="c0200923.1"/>
+				 lifted his staff toward the sky, and the Lord sent thunder and hail, and lightning flashed toward the earth. The Lord sent a tremendous hailstorm against all the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v02009024"/>
+			<v n="24">
+				Never in 
+				<crossref let="y" cid="c0200924.1"/>
+				 all the history of Egypt had there been a storm like that, with such devastating hail and continuous lightning.
+			</v>
+			<marker class="begin-verse" mid="v02009025"/>
+			<v n="25">
+				It left 
+				<crossref let="z" cid="c0200925.1"/>
+				 all of Egypt in ruins. The hail struck down everything in the open field—people, animals, and plants alike. Even the trees were destroyed.
+			</v>
+			<marker class="begin-verse" mid="v02009026"/>
+			<v n="26">
+				The only 
+				<crossref let="a" cid="c0200926.1"/>
+				 place without hail was the region of Goshen, where the people of Israel lived.
+			</v>
+			<marker class="begin-verse" mid="v02009027"/>
+			<v n="27">
+				Then Pharaoh 
+				<crossref let="b" cid="c0200927.1"/>
+				 quickly summoned Moses and Aaron. “This time I have sinned,” he confessed. “The Lord is the righteous one, and my people and I are wrong.
+			</v>
+			<marker class="begin-verse" mid="v02009028"/>
+			<v n="28">
+				Please beg 
+				<crossref let="c" cid="c0200928.1"/>
+				 the Lord to end this terrifying thunder and hail. We’ve had enough. I will let you go; you don’t need to stay any longer.”
+			</v>
+			<marker class="begin-verse" mid="v02009029"/>
+			<v n="29">
+				“All right,” 
+				<crossref let="d" cid="c0200929.1"/>
+				 Moses replied. “As soon as I leave the city, I will lift my hands and pray to the Lord. Then the thunder and hail will stop, and you will know that the earth belongs to the Lord.
+			</v>
+			<marker class="begin-verse" mid="v02009030"/>
+			<v n="30">
+				But I 
+				<crossref let="e" cid="c0200930.1"/>
+				 know that you and your officials still do not fear the Lord God.”
+			</v>
+			<marker class="begin-verse" mid="v02009031"/>
+			<v n="31">
+				(All the 
+				<crossref let="f" cid="c0200931.1"/>
+				 flax and barley were ruined by the hail, because the barley had formed heads and the flax was budding.
+			</v>
+			<marker class="begin-verse" mid="v02009032"/>
+			<v n="32">
+				But the 
+				<crossref let="g" cid="c0200932.1"/>
+				 wheat and the emmer wheat were spared, because they had not yet sprouted from the ground.)
+			</v>
+			<marker class="begin-verse" mid="v02009033"/>
+			<v n="33">
+				So Moses 
+				<crossref let="h" cid="c0200933.1"/>
+				 left Pharaoh’s court and went out of the city. When he lifted his hands to the Lord, the thunder and hail stopped, and the downpour ceased.
+			</v>
+			<marker class="begin-verse" mid="v02009034"/>
+			<v n="34">
+				But when 
+				<crossref let="i" cid="c0200934.1"/>
+				 Pharaoh saw that the rain, hail, and thunder had stopped, he and his officials sinned again, and Pharaoh again became stubborn.
+			</v>
+			<marker class="begin-verse" mid="v02009035"/>
+			<v n="35">
+				Because his 
+				<crossref let="j" cid="c0200935.1"/>
+				 heart was hard, Pharaoh refused to let the people leave, just as the Lord had predicted through Moses.
+			</v>
+			<marker class="begin-verse" mid="v02009036"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:29:35.422860</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:29:35.422883</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19030001"/>
+		<chapter num="30">
+			<heading>A Psalm; a Song at the Dedication of the House. A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I will 
+				<crossref let="b" cid="c190301.1"/>
+				 extol thee, O Jehovah; for thou hast raised me up,And hast not made my foes to rejoice over me.
+			</v>
+			<marker class="begin-verse" mid="v19030002"/>
+			<v n="2">
+				O Jehovah 
+				<crossref let="c" cid="c190302.1"/>
+				 my God,I cried unto thee, and thou hast healed me.
+			</v>
+			<marker class="begin-verse" mid="v19030003"/>
+			<v n="3">
+				O Jehovah, 
+				<crossref let="d" cid="c190303.1"/>
+				 thou hast brought up my soul from Sheol;Thou hast kept me alive, that I should not go down to the pit.
+			</v>
+			<marker class="begin-verse" mid="v19030004"/>
+			<v n="4">
+				Sing praise 
+				<crossref let="e" cid="c190304.1"/>
+				 unto Jehovah, O ye saints of his,And give thanks to his holy memorial name.
+			</v>
+			<marker class="begin-verse" mid="v19030005"/>
+			<v n="5">
+				For his 
+				<crossref let="f" cid="c190305.1"/>
+				 anger is but for a moment;His favor is for a life-time:Weeping may tarry for the night,But joy cometh in the morning.
+			</v>
+			<marker class="begin-verse" mid="v19030006"/>
+			<v n="6">
+				As for 
+				<crossref let="g" cid="c190306.1"/>
+				 me, I said in my prosperity,I shall never be moved.
+			</v>
+			<marker class="begin-verse" mid="v19030007"/>
+			<v n="7">
+				Thou, Jehovah, 
+				<crossref let="h" cid="c190307.1"/>
+				 of thy favor hadst made my mountain to stand strong:Thou didst hide thy face; I was troubled.
+			</v>
+			<marker class="begin-verse" mid="v19030008"/>
+			<v n="8">
+				I cried 
+				<crossref let="i" cid="c190308.1"/>
+				 to thee, O Jehovah;And unto Jehovah I made supplication:
+			</v>
+			<marker class="begin-verse" mid="v19030009"/>
+			<v n="9">
+				What profit 
+				<crossref let="j" cid="c190309.1"/>
+				 is there in my blood, when I go down to the pit?Shall the dust praise thee? shall it declare thy truth?
+			</v>
+			<marker class="begin-verse" mid="v19030010"/>
+			<v n="10">
+				Hear, O 
+				<crossref let="k" cid="c1903010.1"/>
+				 Jehovah, and have mercy upon me:Jehovah, be thou my helper.
+			</v>
+			<marker class="begin-verse" mid="v19030011"/>
+			<v n="11">
+				Thou hast 
+				<crossref let="l" cid="c1903011.1"/>
+				 turned for me my mourning into dancing;Thou hast loosed my sackcloth, and girded me with gladness;
+			</v>
+			<marker class="begin-verse" mid="v19030012"/>
+			<v n="12">
+				To the 
+				<crossref let="m" cid="c1903012.1"/>
+				 end that my glory may sing praise to thee, and not be silent.O Jehovah my God, I will give thanks unto thee for ever.
+			</v>
+			<marker class="begin-verse" mid="v19030013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

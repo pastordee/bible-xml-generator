@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:15:58.944560</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:15:58.944592</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19043001"/>
+		<chapter num="43">
+			<heading>Send Out Your Light</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Vindicate me, 
+				<crossref let="b" cid="c190431.1"/>
+				 O God, and plead my caseagainst an ungodly nation;deliver me from deceitful and unjust men.
+			</v>
+			<marker class="begin-verse" mid="v19043002"/>
+			<v n="2">
+				For You 
+				<crossref let="c" cid="c190432.1"/>
+				 are the God of my refuge.Why have You rejected me?Why must I walk in sorrowbecause of the enemy’s oppression?
+			</v>
+			<marker class="begin-verse" mid="v19043003"/>
+			<v n="3">
+				Send out 
+				<crossref let="d" cid="c190433.1"/>
+				 Your light and Your truth;let them lead me.Let them bring me to Your holy mountain,and to the place where You dwell.
+			</v>
+			<marker class="begin-verse" mid="v19043004"/>
+			<v n="4">
+				Then I 
+				<crossref let="e" cid="c190434.1"/>
+				 will go to the altar of God,to God, my greatest joy.I will praise You with the harp,O God, my God.
+			</v>
+			<marker class="begin-verse" mid="v19043005"/>
+			<v n="5">
+				Why are 
+				<crossref let="f" cid="c190435.1"/>
+				 you downcast, O my soul?Why the unease within me?Put your hope in God, for I will yet praise Him,my Savior and my God.
+			</v>
+			<marker class="begin-verse" mid="v19043006"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

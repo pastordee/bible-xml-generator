@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:18:10.683108</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:18:10.683117</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" version="ASV" bookAbbr="2ch">
+		<marker class="begin-verse" mid="v14012001"/>
+		<chapter num="12">
+			<begin-paragraph/>
+			<v n="1">
+				And it 
+				<crossref let="b" cid="c140121.1"/>
+				 came to pass, when the kingdom of Rehoboam was established, and he was strong, that he forsook the law of Jehovah, and all Israel with him.
+			</v>
+			<marker class="begin-verse" mid="v14012002"/>
+			<v n="2">
+				And it 
+				<crossref let="c" cid="c140122.1"/>
+				 came to pass in the fifth year of king Rehoboam, that Shishak king of Egypt came up against Jerusalem, because they had trespassed against Jehovah,
+			</v>
+			<marker class="begin-verse" mid="v14012003"/>
+			<v n="3">
+				with twelve 
+				<crossref let="d" cid="c140123.1"/>
+				 hundred chariots, and threescore thousand horsemen. And the people were without number that came with him out of Egypt: the Lubim, the Sukkiim, and the Ethiopians.
+			</v>
+			<marker class="begin-verse" mid="v14012004"/>
+			<v n="4">
+				And he 
+				<crossref let="e" cid="c140124.1"/>
+				 took the fortified cities which pertained to Judah, and came unto Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v14012005"/>
+			<v n="5">
+				Now Shemaiah 
+				<crossref let="f" cid="c140125.1"/>
+				 the prophet came to Rehoboam, and to the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith Jehovah, Ye have forsaken me, therefore have I also left you in the hand of Shishak.
+			</v>
+			<marker class="begin-verse" mid="v14012006"/>
+			<v n="6">
+				Then the 
+				<crossref let="g" cid="c140126.1"/>
+				 princes of Israel and the king humbled themselves; and they said, Jehovah is righteous.
+			</v>
+			<marker class="begin-verse" mid="v14012007"/>
+			<v n="7">
+				And when 
+				<crossref let="h" cid="c140127.1"/>
+				 Jehovah saw that they humbled themselves, the word of Jehovah came to Shemaiah, saying, They have humbled themselves: I will not destroy them; but I will grant them some deliverance, and my wrath shall not be poured out upon Jerusalem by the hand of Shishak.
+			</v>
+			<marker class="begin-verse" mid="v14012008"/>
+			<v n="8">
+				Nevertheless they 
+				<crossref let="i" cid="c140128.1"/>
+				 shall be his servants, that they may know my service, and the service of the kingdoms of the countries.
+			</v>
+			<marker class="begin-verse" mid="v14012009"/>
+			<v n="9">
+				So Shishak 
+				<crossref let="j" cid="c140129.1"/>
+				 king of Egypt came up against Jerusalem, and took away the treasures of the house of Jehovah, and the treasures of the king’s house: he took all away: he took away also the shields of gold which Solomon had made.
+			</v>
+			<marker class="begin-verse" mid="v14012010"/>
+			<v n="10">
+				And king 
+				<crossref let="k" cid="c1401210.1"/>
+				 Rehoboam made in their stead shields of brass, and committed them to the hands of the captains of the guard, that kept the door of the king’s house.
+			</v>
+			<marker class="begin-verse" mid="v14012011"/>
+			<v n="11">
+				And it 
+				<crossref let="l" cid="c1401211.1"/>
+				 was so, that, as oft as the king entered into the house of Jehovah, the guard came and bare them, and brought them back into the guard-chamber.
+			</v>
+			<marker class="begin-verse" mid="v14012012"/>
+			<v n="12">
+				And when 
+				<crossref let="m" cid="c1401212.1"/>
+				 he humbled himself, the wrath of Jehovah turned from him, so as not to destroy him altogether: and moreover in Judah there were good things found.
+			</v>
+			<marker class="begin-verse" mid="v14012013"/>
+			<v n="13">
+				So king 
+				<crossref let="n" cid="c1401213.1"/>
+				 Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which Jehovah had chosen out of all the tribes of Israel, to put his name there: and his mother’s name was Naamah the Ammonitess.
+			</v>
+			<marker class="begin-verse" mid="v14012014"/>
+			<v n="14">
+				And he 
+				<crossref let="o" cid="c1401214.1"/>
+				 did that which was evil, because he set not his heart to seek Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v14012015"/>
+			<v n="15">
+				Now the 
+				<crossref let="p" cid="c1401215.1"/>
+				 acts of Rehoboam, first and last, are they not written in the histories of Shemaiah the prophet and of Iddo the seer, after the manner of genealogies? And there were wars between Rehoboam and Jeroboam continually.
+			</v>
+			<marker class="begin-verse" mid="v14012016"/>
+			<v n="16">
+				And Rehoboam 
+				<crossref let="q" cid="c1401216.1"/>
+				 slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead.
+			</v>
+			<marker class="begin-verse" mid="v14012017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:25:14.888301</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:25:14.888309</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" version="NLT" bookAbbr="1sa">
+		<marker class="begin-verse" mid="v09031001"/>
+		<chapter num="31">
+			<heading>The Death of Saul</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Now the 
+				<crossref let="b" cid="c090311.1"/>
+				 Philistines attacked Israel, and the men of Israel fled before them. Many were slaughtered on the slopes of Mount Gilboa.
+			</v>
+			<marker class="begin-verse" mid="v09031002"/>
+			<v n="2">
+				The Philistines 
+				<crossref let="c" cid="c090312.1"/>
+				 closed in on Saul and his sons, and they killed three of his sons—Jonathan, Abinadab, and Malkishua.
+			</v>
+			<marker class="begin-verse" mid="v09031003"/>
+			<v n="3">
+				The fighting 
+				<crossref let="d" cid="c090313.1"/>
+				 grew very fierce around Saul, and the Philistine archers caught up with him and wounded him severely.
+			</v>
+			<marker class="begin-verse" mid="v09031004"/>
+			<v n="4">
+				Saul groaned 
+				<crossref let="e" cid="c090314.1"/>
+				 to his armor bearer, “Take your sword and kill me before these pagan Philistines come to run me through and taunt and torture me.”But his armor bearer was afraid and would not do it. So Saul took his own sword and fell on it.
+			</v>
+			<marker class="begin-verse" mid="v09031005"/>
+			<v n="5">
+				When his 
+				<crossref let="f" cid="c090315.1"/>
+				 armor bearer realized that Saul was dead, he fell on his own sword and died beside the king.
+			</v>
+			<marker class="begin-verse" mid="v09031006"/>
+			<v n="6">
+				So Saul, 
+				<crossref let="g" cid="c090316.1"/>
+				 his three sons, his armor bearer, and his troops all died together that same day.
+			</v>
+			<marker class="begin-verse" mid="v09031007"/>
+			<v n="7">
+				When the 
+				<crossref let="h" cid="c090317.1"/>
+				 Israelites on the other side of the Jezreel Valley and beyond the Jordan saw that the Israelite army had fled and that Saul and his sons were dead, they abandoned their towns and fled. So the Philistines moved in and occupied their towns.
+			</v>
+			<marker class="begin-verse" mid="v09031008"/>
+			<v n="8">
+				The next 
+				<crossref let="i" cid="c090318.1"/>
+				 day, when the Philistines went out to strip the dead, they found the bodies of Saul and his three sons on Mount Gilboa.
+			</v>
+			<marker class="begin-verse" mid="v09031009"/>
+			<v n="9">
+				So they 
+				<crossref let="j" cid="c090319.1"/>
+				 cut off Saul’s head and stripped off his armor. Then they proclaimed the good news of Saul’s death in their pagan temple and to the people throughout the land of Philistia.
+			</v>
+			<marker class="begin-verse" mid="v09031010"/>
+			<v n="10">
+				They placed 
+				<crossref let="k" cid="c0903110.1"/>
+				 his armor in the temple of the Ashtoreths, and they fastened his body to the wall of the city of Beth-shan.
+			</v>
+			<marker class="begin-verse" mid="v09031011"/>
+			<v n="11">
+				But when 
+				<crossref let="l" cid="c0903111.1"/>
+				 the people of Jabesh-gilead heard what the Philistines had done to Saul,
+			</v>
+			<marker class="begin-verse" mid="v09031012"/>
+			<v n="12">
+				all their 
+				<crossref let="m" cid="c0903112.1"/>
+				 mighty warriors traveled through the night to Beth-shan and took the bodies of Saul and his sons down from the wall. They brought them to Jabesh, where they burned the bodies.
+			</v>
+			<marker class="begin-verse" mid="v09031013"/>
+			<v n="13">
+				Then they 
+				<crossref let="n" cid="c0903113.1"/>
+				 took their bones and buried them beneath the tamarisk tree at Jabesh, and they fasted for seven days.
+			</v>
+			<marker class="begin-verse" mid="v09031014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

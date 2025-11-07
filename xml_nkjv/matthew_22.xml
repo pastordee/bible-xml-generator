@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:54:05.602483</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:54:05.602515</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="NKJV" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40022001"/>
+		<chapter num="22">
+			<heading>The Parable of the Wedding Feast</heading>
+			<begin-paragraph/>
+			<v n="1">
+				And Jesus 
+				<crossref let="b" cid="c400221.1"/>
+				 answered and spoke to them again by parables and said:
+			</v>
+			<marker class="begin-verse" mid="v40022002"/>
+			<v n="2">
+				“The kingdom 
+				<crossref let="c" cid="c400222.1"/>
+				 of heaven is like a certain king who arranged a marriage for his son,
+			</v>
+			<marker class="begin-verse" mid="v40022003"/>
+			<v n="3">
+				and sent 
+				<crossref let="d" cid="c400223.1"/>
+				 out his servants to call those who were invited to the wedding; and they were not willing to come.
+			</v>
+			<marker class="begin-verse" mid="v40022004"/>
+			<v n="4">
+				Again, he 
+				<crossref let="e" cid="c400224.1"/>
+				 sent out other servants, saying, ‘Tell those who are invited, “See, I have prepared my dinner; my oxen and fatted cattle are killed, and all things are ready. Come to the wedding.” ’
+			</v>
+			<marker class="begin-verse" mid="v40022005"/>
+			<v n="5">
+				But they 
+				<crossref let="f" cid="c400225.1"/>
+				 made light of it and went their ways, one to his own farm, another to his business.
+			</v>
+			<marker class="begin-verse" mid="v40022006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c400226.1"/>
+				 rest seized his servants, treated them spitefully, and killed them.
+			</v>
+			<marker class="begin-verse" mid="v40022007"/>
+			<v n="7">
+				But when 
+				<crossref let="h" cid="c400227.1"/>
+				 the king heard about it, he was furious. And he sent out his armies, destroyed those murderers, and burned up their city.
+			</v>
+			<marker class="begin-verse" mid="v40022008"/>
+			<v n="8">
+				Then he 
+				<crossref let="i" cid="c400228.1"/>
+				 said to his servants, ‘The wedding is ready, but those who were invited were not worthy.
+			</v>
+			<marker class="begin-verse" mid="v40022009"/>
+			<v n="9">
+				Therefore go 
+				<crossref let="j" cid="c400229.1"/>
+				 into the highways, and as many as you find, invite to the wedding.’
+			</v>
+			<marker class="begin-verse" mid="v40022010"/>
+			<v n="10">
+				So those 
+				<crossref let="k" cid="c4002210.1"/>
+				 servants went out into the highways and gathered together all whom they found, both bad and good. And the wedding hall was filled with guests.
+			</v>
+			<marker class="begin-verse" mid="v40022011"/>
+			<v n="11">
+				“But when 
+				<crossref let="l" cid="c4002211.1"/>
+				 the king came in to see the guests, he saw a man there who did not have on a wedding garment.
+			</v>
+			<marker class="begin-verse" mid="v40022012"/>
+			<v n="12">
+				So he 
+				<crossref let="m" cid="c4002212.1"/>
+				 said to him, ‘Friend, how did you come in here without a wedding garment?’ And he was speechless.
+			</v>
+			<marker class="begin-verse" mid="v40022013"/>
+			<v n="13">
+				Then the 
+				<crossref let="n" cid="c4002213.1"/>
+				 king said to the servants, ‘Bind him hand and foot, take him away, and cast him into outer darkness; there will be weeping and gnashing of teeth.’
+			</v>
+			<marker class="begin-verse" mid="v40022014"/>
+			<v n="14">
+				“For many 
+				<crossref let="o" cid="c4002214.1"/>
+				 are called, but few are chosen.”The Pharisees: Is It Lawful to Pay Taxes to Caesar?
+			</v>
+			<marker class="begin-verse" mid="v40022015"/>
+			<v n="15">
+				Then the 
+				<crossref let="p" cid="c4002215.1"/>
+				 Pharisees went and plotted how they might entangle Him in His talk.
+			</v>
+			<marker class="begin-verse" mid="v40022016"/>
+			<v n="16">
+				And they 
+				<crossref let="q" cid="c4002216.1"/>
+				 sent to Him their disciples with the Herodians, saying, “Teacher, we know that You are true, and teach the way of God in truth; nor do You care about anyone, for You do not regard the person of men.
+			</v>
+			<marker class="begin-verse" mid="v40022017"/>
+			<v n="17">
+				Tell us, 
+				<crossref let="r" cid="c4002217.1"/>
+				 therefore, what do You think? Is it lawful to pay taxes to Caesar, or not?”
+			</v>
+			<marker class="begin-verse" mid="v40022018"/>
+			<v n="18">
+				But Jesus 
+				<crossref let="s" cid="c4002218.1"/>
+				 perceived their wickedness, and said, “Why do you test Me, you hypocrites?
+			</v>
+			<marker class="begin-verse" mid="v40022019"/>
+			<v n="19">
+				Show Me 
+				<crossref let="t" cid="c4002219.1"/>
+				 the tax money.”So they brought Him a denarius.
+			</v>
+			<marker class="begin-verse" mid="v40022020"/>
+			<v n="20">
+				And He 
+				<crossref let="u" cid="c4002220.1"/>
+				 said to them, “Whose image and inscription is this?”
+			</v>
+			<marker class="begin-verse" mid="v40022021"/>
+			<v n="21">
+				They said 
+				<crossref let="v" cid="c4002221.1"/>
+				 to Him, “Caesar’s.”And He said to them, “Render therefore to Caesar the things that are Caesar’s, and to God the things that are God’s.”
+			</v>
+			<marker class="begin-verse" mid="v40022022"/>
+			<v n="22">
+				When they 
+				<crossref let="w" cid="c4002222.1"/>
+				 had heard these words, they marveled, and left Him and went their way.The Sadducees: What About the Resurrection?
+			</v>
+			<marker class="begin-verse" mid="v40022023"/>
+			<v n="23">
+				The same 
+				<crossref let="x" cid="c4002223.1"/>
+				 day the Sadducees, who say there is no resurrection, came to Him and asked Him,
+			</v>
+			<marker class="begin-verse" mid="v40022024"/>
+			<v n="24">
+				saying: “Teacher, 
+				<crossref let="y" cid="c4002224.1"/>
+				 Moses said that if a man dies, having no children, his brother shall marry his wife and raise up offspring for his brother.
+			</v>
+			<marker class="begin-verse" mid="v40022025"/>
+			<v n="25">
+				Now there 
+				<crossref let="z" cid="c4002225.1"/>
+				 were with us seven brothers. The first died after he had married, and having no offspring, left his wife to his brother.
+			</v>
+			<marker class="begin-verse" mid="v40022026"/>
+			<v n="26">
+				Likewise the 
+				<crossref let="a" cid="c4002226.1"/>
+				 second also, and the third, even to the seventh.
+			</v>
+			<marker class="begin-verse" mid="v40022027"/>
+			<v n="27">
+				Last of 
+				<crossref let="b" cid="c4002227.1"/>
+				 all the woman died also.
+			</v>
+			<marker class="begin-verse" mid="v40022028"/>
+			<v n="28">
+				Therefore, in 
+				<crossref let="c" cid="c4002228.1"/>
+				 the resurrection, whose wife of the seven will she be? For they all had her.”
+			</v>
+			<marker class="begin-verse" mid="v40022029"/>
+			<v n="29">
+				Jesus answered 
+				<crossref let="d" cid="c4002229.1"/>
+				 and said to them, “You are mistaken, not knowing the Scriptures nor the power of God.
+			</v>
+			<marker class="begin-verse" mid="v40022030"/>
+			<v n="30">
+				For in 
+				<crossref let="e" cid="c4002230.1"/>
+				 the resurrection they neither marry nor are given in marriage, but are like angels of God in heaven.
+			</v>
+			<marker class="begin-verse" mid="v40022031"/>
+			<v n="31">
+				But concerning 
+				<crossref let="f" cid="c4002231.1"/>
+				 the resurrection of the dead, have you not read what was spoken to you by God, saying,
+			</v>
+			<marker class="begin-verse" mid="v40022032"/>
+			<v n="32">
+				‘I am 
+				<crossref let="g" cid="c4002232.1"/>
+				 the God of Abraham, the God of Isaac, and the God of Jacob’ ? God is not the God of the dead, but of the living.”
+			</v>
+			<marker class="begin-verse" mid="v40022033"/>
+			<v n="33">
+				And when 
+				<crossref let="h" cid="c4002233.1"/>
+				 the multitudes heard this, they were astonished at His teaching.The Scribes: Which Is the First Commandment of All?
+			</v>
+			<marker class="begin-verse" mid="v40022034"/>
+			<v n="34">
+				But when 
+				<crossref let="i" cid="c4002234.1"/>
+				 the Pharisees heard that He had silenced the Sadducees, they gathered together.
+			</v>
+			<marker class="begin-verse" mid="v40022035"/>
+			<v n="35">
+				Then one 
+				<crossref let="j" cid="c4002235.1"/>
+				 of them, a lawyer, asked Him a question, testing Him, and saying,
+			</v>
+			<marker class="begin-verse" mid="v40022036"/>
+			<v n="36">
+				“Teacher, which 
+				<crossref let="k" cid="c4002236.1"/>
+				 is the great commandment in the law?”
+			</v>
+			<marker class="begin-verse" mid="v40022037"/>
+			<v n="37">
+				Jesus said 
+				<crossref let="l" cid="c4002237.1"/>
+				 to him, “ ‘You shall love the Lord your God with all your heart, with all your soul, and with all your mind.’
+			</v>
+			<marker class="begin-verse" mid="v40022038"/>
+			<v n="38">
+				This is 
+				<crossref let="m" cid="c4002238.1"/>
+				 the first and great commandment.
+			</v>
+			<marker class="begin-verse" mid="v40022039"/>
+			<v n="39">
+				And the 
+				<crossref let="n" cid="c4002239.1"/>
+				 second is like it: ‘You shall love your neighbor as yourself.’
+			</v>
+			<marker class="begin-verse" mid="v40022040"/>
+			<v n="40">
+				On these 
+				<crossref let="o" cid="c4002240.1"/>
+				 two commandments hang all the Law and the Prophets.”Jesus: How Can David Call His Descendant Lord?
+			</v>
+			<marker class="begin-verse" mid="v40022041"/>
+			<v n="41">
+				While the 
+				<crossref let="p" cid="c4002241.1"/>
+				 Pharisees were gathered together, Jesus asked them,
+			</v>
+			<marker class="begin-verse" mid="v40022042"/>
+			<v n="42">
+				saying, “What 
+				<crossref let="q" cid="c4002242.1"/>
+				 do you think about the Christ? Whose Son is He?”They said to Him, “The Son of David.”
+			</v>
+			<marker class="begin-verse" mid="v40022043"/>
+			<v n="43">
+				He said 
+				<crossref let="r" cid="c4002243.1"/>
+				 to them, “How then does David in the Spirit call Him ‘Lord,’ saying:
+			</v>
+			<marker class="begin-verse" mid="v40022044"/>
+			<v n="44">
+				‘TheLord said 
+				<crossref let="s" cid="c4002244.1"/>
+				 to my Lord,“Sit at My right hand,Till I make Your enemies Your footstool” ’ ?
+			</v>
+			<marker class="begin-verse" mid="v40022045"/>
+			<v n="45">
+				If David 
+				<crossref let="t" cid="c4002245.1"/>
+				 then calls Him ‘Lord,’ how is He his Son?”
+			</v>
+			<marker class="begin-verse" mid="v40022046"/>
+			<v n="46">
+				And no 
+				<crossref let="u" cid="c4002246.1"/>
+				 one was able to answer Him a word, nor from that day on did anyone dare question Him anymore.
+			</v>
+			<marker class="begin-verse" mid="v40022047"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

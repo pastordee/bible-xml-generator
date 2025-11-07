@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:02:16.401568</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:02:16.401593</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="NLT" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01009001"/>
+		<chapter num="9">
+			<heading>God Confirms His Covenant</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Then God 
+				<crossref let="b" cid="c010091.1"/>
+				 blessed Noah and his sons and told them, “Be fruitful and multiply. Fill the earth.
+			</v>
+			<marker class="begin-verse" mid="v01009002"/>
+			<v n="2">
+				All the 
+				<crossref let="c" cid="c010092.1"/>
+				 animals of the earth, all the birds of the sky, all the small animals that scurry along the ground, and all the fish in the sea will look on you with fear and terror. I have placed them in your power.
+			</v>
+			<marker class="begin-verse" mid="v01009003"/>
+			<v n="3">
+				I have 
+				<crossref let="d" cid="c010093.1"/>
+				 given them to you for food, just as I have given you grain and vegetables.
+			</v>
+			<marker class="begin-verse" mid="v01009004"/>
+			<v n="4">
+				But you 
+				<crossref let="e" cid="c010094.1"/>
+				 must never eat any meat that still has the lifeblood in it.
+			</v>
+			<marker class="begin-verse" mid="v01009005"/>
+			<v n="5">
+				“And I 
+				<crossref let="f" cid="c010095.1"/>
+				 will require the blood of anyone who takes another person’s life. If a wild animal kills a person, it must die. And anyone who murders a fellow human must die.
+			</v>
+			<marker class="begin-verse" mid="v01009006"/>
+			<v n="6">
+				If anyone 
+				<crossref let="g" cid="c010096.1"/>
+				 takes a human life, that person’s life will also be taken by human hands. For God made human beings in his own image.
+			</v>
+			<marker class="begin-verse" mid="v01009007"/>
+			<v n="7">
+				Now be 
+				<crossref let="h" cid="c010097.1"/>
+				 fruitful and multiply, and repopulate the earth.”
+			</v>
+			<marker class="begin-verse" mid="v01009008"/>
+			<v n="8">
+				Then God 
+				<crossref let="i" cid="c010098.1"/>
+				 told Noah and his sons,
+			</v>
+			<marker class="begin-verse" mid="v01009009"/>
+			<v n="9">
+				“I hereby 
+				<crossref let="j" cid="c010099.1"/>
+				 confirm my covenant with you and your descendants,
+			</v>
+			<marker class="begin-verse" mid="v01009010"/>
+			<v n="10">
+				and with 
+				<crossref let="k" cid="c0100910.1"/>
+				 all the animals that were on the boat with you—the birds, the livestock, and all the wild animals—every living creature on earth.
+			</v>
+			<marker class="begin-verse" mid="v01009011"/>
+			<v n="11">
+				Yes, I 
+				<crossref let="l" cid="c0100911.1"/>
+				 am confirming my covenant with you. Never again will floodwaters kill all living creatures; never again will a flood destroy the earth.”
+			</v>
+			<marker class="begin-verse" mid="v01009012"/>
+			<v n="12">
+				Then God 
+				<crossref let="m" cid="c0100912.1"/>
+				 said, “I am giving you a sign of my covenant with you and with all living creatures, for all generations to come.
+			</v>
+			<marker class="begin-verse" mid="v01009013"/>
+			<v n="13">
+				I have 
+				<crossref let="n" cid="c0100913.1"/>
+				 placed my rainbow in the clouds. It is the sign of my covenant with you and with all the earth.
+			</v>
+			<marker class="begin-verse" mid="v01009014"/>
+			<v n="14">
+				When I 
+				<crossref let="o" cid="c0100914.1"/>
+				 send clouds over the earth, the rainbow will appear in the clouds,
+			</v>
+			<marker class="begin-verse" mid="v01009015"/>
+			<v n="15">
+				and I 
+				<crossref let="p" cid="c0100915.1"/>
+				 will remember my covenant with you and with all living creatures. Never again will the floodwaters destroy all life.
+			</v>
+			<marker class="begin-verse" mid="v01009016"/>
+			<v n="16">
+				When I 
+				<crossref let="q" cid="c0100916.1"/>
+				 see the rainbow in the clouds, I will remember the eternal covenant between God and every living creature on earth.”
+			</v>
+			<marker class="begin-verse" mid="v01009017"/>
+			<v n="17">
+				Then God 
+				<crossref let="r" cid="c0100917.1"/>
+				 said to Noah, “Yes, this rainbow is the sign of the covenant I am confirming with all the creatures on earth.”Noah’s Sons
+			</v>
+			<marker class="begin-verse" mid="v01009018"/>
+			<v n="18">
+				The sons 
+				<crossref let="s" cid="c0100918.1"/>
+				 of Noah who came out of the boat with their father were Shem, Ham, and Japheth. (Ham is the father of Canaan.)
+			</v>
+			<marker class="begin-verse" mid="v01009019"/>
+			<v n="19">
+				From these 
+				<crossref let="t" cid="c0100919.1"/>
+				 three sons of Noah came all the people who now populate the earth.
+			</v>
+			<marker class="begin-verse" mid="v01009020"/>
+			<v n="20">
+				After the 
+				<crossref let="u" cid="c0100920.1"/>
+				 flood, Noah began to cultivate the ground, and he planted a vineyard.
+			</v>
+			<marker class="begin-verse" mid="v01009021"/>
+			<v n="21">
+				One day 
+				<crossref let="v" cid="c0100921.1"/>
+				 he drank some wine he had made, and he became drunk and lay naked inside his tent.
+			</v>
+			<marker class="begin-verse" mid="v01009022"/>
+			<v n="22">
+				Ham, the 
+				<crossref let="w" cid="c0100922.1"/>
+				 father of Canaan, saw that his father was naked and went outside and told his brothers.
+			</v>
+			<marker class="begin-verse" mid="v01009023"/>
+			<v n="23">
+				Then Shem 
+				<crossref let="x" cid="c0100923.1"/>
+				 and Japheth took a robe, held it over their shoulders, and backed into the tent to cover their father. As they did this, they looked the other way so they would not see him naked.
+			</v>
+			<marker class="begin-verse" mid="v01009024"/>
+			<v n="24">
+				When Noah 
+				<crossref let="y" cid="c0100924.1"/>
+				 woke up from his stupor, he learned what Ham, his youngest son, had done.
+			</v>
+			<marker class="begin-verse" mid="v01009025"/>
+			<v n="25">
+				Then he 
+				<crossref let="z" cid="c0100925.1"/>
+				 cursed Canaan, the son of Ham:“May Canaan be cursed!May he be the lowest of servants to his relatives.”
+			</v>
+			<marker class="begin-verse" mid="v01009026"/>
+			<v n="26">
+				Then Noah 
+				<crossref let="a" cid="c0100926.1"/>
+				 said,“May the Lord, the God of Shem, be blessed,and may Canaan be his servant!
+			</v>
+			<marker class="begin-verse" mid="v01009027"/>
+			<v n="27">
+				May God 
+				<crossref let="b" cid="c0100927.1"/>
+				 expand the territory of Japheth!May Japheth share the prosperity of Shem,and may Canaan be his servant.”
+			</v>
+			<marker class="begin-verse" mid="v01009028"/>
+			<v n="28">
+				Noah lived 
+				<crossref let="c" cid="c0100928.1"/>
+				 another 350 years after the great flood.
+			</v>
+			<marker class="begin-verse" mid="v01009029"/>
+			<v n="29">
+				He lived 
+				<crossref let="d" cid="c0100929.1"/>
+				 950 years, and then he died.
+			</v>
+			<marker class="begin-verse" mid="v01009030"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

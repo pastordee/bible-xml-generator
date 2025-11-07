@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:43:19.656429</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:43:19.656436</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" version="ASV" bookAbbr="ecc">
+		<marker class="begin-verse" mid="v21004001"/>
+		<chapter num="4">
+			<begin-paragraph/>
+			<v n="1">
+				Then I 
+				<crossref let="b" cid="c210041.1"/>
+				 returned and saw all the oppressions that are done under the sun: and, behold, the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
+			</v>
+			<marker class="begin-verse" mid="v21004002"/>
+			<v n="2">
+				Wherefore I 
+				<crossref let="c" cid="c210042.1"/>
+				 praised the dead that have been long dead more than the living that are yet alive;
+			</v>
+			<marker class="begin-verse" mid="v21004003"/>
+			<v n="3">
+				yea, better 
+				<crossref let="d" cid="c210043.1"/>
+				 than them both did I esteem him that hath not yet been, who hath not seen the evil work that is done under the sun.
+			</v>
+			<marker class="begin-verse" mid="v21004004"/>
+			<v n="4">
+				Then I 
+				<crossref let="e" cid="c210044.1"/>
+				 saw all labor and every skilful work, that for this a man is envied of his neighbor. This also is vanity and a striving after wind.
+			</v>
+			<marker class="begin-verse" mid="v21004005"/>
+			<v n="5">
+				The fool 
+				<crossref let="f" cid="c210045.1"/>
+				 foldeth his hands together, and eateth his own flesh.
+			</v>
+			<marker class="begin-verse" mid="v21004006"/>
+			<v n="6">
+				Better is 
+				<crossref let="g" cid="c210046.1"/>
+				 a handful, with quietness, than two handfuls with labor and striving after wind.
+			</v>
+			<marker class="begin-verse" mid="v21004007"/>
+			<v n="7">
+				Then I 
+				<crossref let="h" cid="c210047.1"/>
+				 returned and saw vanity under the sun.
+			</v>
+			<marker class="begin-verse" mid="v21004008"/>
+			<v n="8">
+				There is 
+				<crossref let="i" cid="c210048.1"/>
+				 one that is alone, and he hath not a second; yea, he hath neither son nor brother; yet is there no end of all his labor, neither are his eyes satisfied with riches. For whom then, saith he, do I labor, and deprive my soul of good? This also is vanity, yea, it is a sore travail.
+			</v>
+			<marker class="begin-verse" mid="v21004009"/>
+			<v n="9">
+				Two are 
+				<crossref let="j" cid="c210049.1"/>
+				 better than one, because they have a good reward for their labor.
+			</v>
+			<marker class="begin-verse" mid="v21004010"/>
+			<v n="10">
+				For if 
+				<crossref let="k" cid="c2100410.1"/>
+				 they fall, the one will lift up his fellow; but woe to him that is alone when he falleth, and hath not another to lift him up.
+			</v>
+			<marker class="begin-verse" mid="v21004011"/>
+			<v n="11">
+				Again, if 
+				<crossref let="l" cid="c2100411.1"/>
+				 two lie together, then they have warmth; but how can one be warm alone?
+			</v>
+			<marker class="begin-verse" mid="v21004012"/>
+			<v n="12">
+				And if 
+				<crossref let="m" cid="c2100412.1"/>
+				 a man prevail against him that is alone, two shall withstand him; and a threefold cord is not quickly broken.
+			</v>
+			<marker class="begin-verse" mid="v21004013"/>
+			<v n="13">
+				Better is 
+				<crossref let="n" cid="c2100413.1"/>
+				 a poor and wise youth than an old and foolish king, who knoweth not how to receive admonition any more.
+			</v>
+			<marker class="begin-verse" mid="v21004014"/>
+			<v n="14">
+				For out 
+				<crossref let="o" cid="c2100414.1"/>
+				 of prison he came forth to be king; yea, even in his kingdom he was born poor.
+			</v>
+			<marker class="begin-verse" mid="v21004015"/>
+			<v n="15">
+				I saw 
+				<crossref let="p" cid="c2100415.1"/>
+				 all the living that walk under the sun, that they were with the youth, the second, that stood up in his stead.
+			</v>
+			<marker class="begin-verse" mid="v21004016"/>
+			<v n="16">
+				There was 
+				<crossref let="q" cid="c2100416.1"/>
+				 no end of all the people, even of all them over whom he was: yet they that come after shall not rejoice in him. Surely this also is vanity and a striving after wind.
+			</v>
+			<marker class="begin-verse" mid="v21004017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

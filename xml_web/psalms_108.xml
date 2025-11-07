@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:51:14.482300</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:51:14.482309</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19108001"/>
+		<chapter num="108">
+			<heading>A Song. A Psalm by David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				My heart 
+				<crossref let="b" cid="c191081.1"/>
+				 is steadfast, God.I will sing and I will make music with my soul.
+			</v>
+			<marker class="begin-verse" mid="v19108002"/>
+			<v n="2">
+				Wake up, 
+				<crossref let="c" cid="c191082.1"/>
+				 harp and lyre!I will wake up the dawn.
+			</v>
+			<marker class="begin-verse" mid="v19108003"/>
+			<v n="3">
+				I will 
+				<crossref let="d" cid="c191083.1"/>
+				 give thanks to you, Yahweh, among the nations.I will sing praises to you among the peoples.
+			</v>
+			<marker class="begin-verse" mid="v19108004"/>
+			<v n="4">
+				For your 
+				<crossref let="e" cid="c191084.1"/>
+				 loving kindness is great above the heavens.Your faithfulness reaches to the skies.
+			</v>
+			<marker class="begin-verse" mid="v19108005"/>
+			<v n="5">
+				Be exalted, 
+				<crossref let="f" cid="c191085.1"/>
+				 God, above the heavens!Let your glory be over all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19108006"/>
+			<v n="6">
+				That your 
+				<crossref let="g" cid="c191086.1"/>
+				 beloved may be delivered,save with your right hand, and answer us.
+			</v>
+			<marker class="begin-verse" mid="v19108007"/>
+			<v n="7">
+				God has 
+				<crossref let="h" cid="c191087.1"/>
+				 spoken from his sanctuary: “In triumph,I will divide Shechem, and measure out the valley of Succoth.
+			</v>
+			<marker class="begin-verse" mid="v19108008"/>
+			<v n="8">
+				Gilead is 
+				<crossref let="i" cid="c191088.1"/>
+				 mine. Manasseh is mine.Ephraim also is my helmet.Judah is my scepter.
+			</v>
+			<marker class="begin-verse" mid="v19108009"/>
+			<v n="9">
+				Moab is 
+				<crossref let="j" cid="c191089.1"/>
+				 my wash pot.I will toss my sandal on Edom.I will shout over Philistia.”
+			</v>
+			<marker class="begin-verse" mid="v19108010"/>
+			<v n="10">
+				Who will 
+				<crossref let="k" cid="c1910810.1"/>
+				 bring me into the fortified city?Who will lead me to Edom?
+			</v>
+			<marker class="begin-verse" mid="v19108011"/>
+			<v n="11">
+				Haven’t you 
+				<crossref let="l" cid="c1910811.1"/>
+				 rejected us, God?You don’t go out, God, with our armies.
+			</v>
+			<marker class="begin-verse" mid="v19108012"/>
+			<v n="12">
+				Give us 
+				<crossref let="m" cid="c1910812.1"/>
+				 help against the enemy,for the help of man is vain.
+			</v>
+			<marker class="begin-verse" mid="v19108013"/>
+			<v n="13">
+				Through God, 
+				<crossref let="n" cid="c1910813.1"/>
+				 we will do valiantly,for it is he who will tread down our enemies.
+			</v>
+			<marker class="begin-verse" mid="v19108014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

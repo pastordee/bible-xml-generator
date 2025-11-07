@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:45:11.168139</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:45:11.168149</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19040001"/>
+		<chapter num="40">
+			<heading>For the Chief Musician. A Psalm by David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				I waited 
+				<crossref let="b" cid="c190401.1"/>
+				 patiently for Yahweh.He turned to me, and heard my cry.
+			</v>
+			<marker class="begin-verse" mid="v19040002"/>
+			<v n="2">
+				He brought 
+				<crossref let="c" cid="c190402.1"/>
+				 me up also out of a horrible pit,out of the miry clay.He set my feet on a rock,and gave me a firm place to stand.
+			</v>
+			<marker class="begin-verse" mid="v19040003"/>
+			<v n="3">
+				He has 
+				<crossref let="d" cid="c190403.1"/>
+				 put a new song in my mouth, even praise to our God.Many shall see it, and fear, and shall trust in Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v19040004"/>
+			<v n="4">
+				Blessed is 
+				<crossref let="e" cid="c190404.1"/>
+				 the man who makes Yahweh his trust,and doesn’t respect the proud, nor such as turn away to lies.
+			</v>
+			<marker class="begin-verse" mid="v19040005"/>
+			<v n="5">
+				Many, Yahweh, 
+				<crossref let="f" cid="c190405.1"/>
+				 my God, are the wonderful works which you have done,and your thoughts which are toward us.They can’t be declared back to you.If I would declare and speak of them, they are more than can be counted.
+			</v>
+			<marker class="begin-verse" mid="v19040006"/>
+			<v n="6">
+				Sacrifice and 
+				<crossref let="g" cid="c190406.1"/>
+				 offering you didn’t desire.You have opened my ears.You have not required burnt offering and sin offering.
+			</v>
+			<marker class="begin-verse" mid="v19040007"/>
+			<v n="7">
+				Then I 
+				<crossref let="h" cid="c190407.1"/>
+				 said, “Behold, I have come.It is written about me in the book in the scroll.
+			</v>
+			<marker class="begin-verse" mid="v19040008"/>
+			<v n="8">
+				I delight 
+				<crossref let="i" cid="c190408.1"/>
+				 to do your will, my God.Yes, your law is within my heart.”
+			</v>
+			<marker class="begin-verse" mid="v19040009"/>
+			<v n="9">
+				I have 
+				<crossref let="j" cid="c190409.1"/>
+				 proclaimed glad news of righteousness in the great assembly.Behold, I will not seal my lips, Yahweh, you know.
+			</v>
+			<marker class="begin-verse" mid="v19040010"/>
+			<v n="10">
+				I have 
+				<crossref let="k" cid="c1904010.1"/>
+				 not hidden your righteousness within my heart.I have declared your faithfulness and your salvation.I have not concealed your loving kindness and your truth from the great assembly.
+			</v>
+			<marker class="begin-verse" mid="v19040011"/>
+			<v n="11">
+				Don’t withhold 
+				<crossref let="l" cid="c1904011.1"/>
+				 your tender mercies from me, Yahweh.Let your loving kindness and your truth continually preserve me.
+			</v>
+			<marker class="begin-verse" mid="v19040012"/>
+			<v n="12">
+				For innumerable 
+				<crossref let="m" cid="c1904012.1"/>
+				 evils have surrounded me.My iniquities have overtaken me, so that I am not able to look up.They are more than the hairs of my head.My heart has failed me.
+			</v>
+			<marker class="begin-verse" mid="v19040013"/>
+			<v n="13">
+				Be pleased, 
+				<crossref let="n" cid="c1904013.1"/>
+				 Yahweh, to deliver me.Hurry to help me, Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v19040014"/>
+			<v n="14">
+				Let them 
+				<crossref let="o" cid="c1904014.1"/>
+				 be disappointed and confounded together who seek after my soul to destroy it.Let them be turned backward and brought to dishonor who delight in my hurt.
+			</v>
+			<marker class="begin-verse" mid="v19040015"/>
+			<v n="15">
+				Let them 
+				<crossref let="p" cid="c1904015.1"/>
+				 be desolate by reason of their shame that tell me, “Aha! Aha!”
+			</v>
+			<marker class="begin-verse" mid="v19040016"/>
+			<v n="16">
+				Let all 
+				<crossref let="q" cid="c1904016.1"/>
+				 those who seek you rejoice and be glad in you.Let such as love your salvation say continually, “Let Yahweh be exalted!”
+			</v>
+			<marker class="begin-verse" mid="v19040017"/>
+			<v n="17">
+				But I 
+				<crossref let="r" cid="c1904017.1"/>
+				 am poor and needy.May the Lord think about me.You are my help and my deliverer.Don’t delay, my God.
+			</v>
+			<marker class="begin-verse" mid="v19040018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

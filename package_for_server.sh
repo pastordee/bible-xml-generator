@@ -24,9 +24,11 @@ mkdir -p "$OUTPUT_DIR"
 echo -e "${GREEN}✅ Created $OUTPUT_DIR directory${NC}"
 echo ""
 
-# List of Bible version folders to package (with xml_ prefix)
-# Note: xml_kjv is skipped due to zip hanging issue
-VERSIONS=("xml_esv" "xml_web" "xml_asv" "xml_bsb" "xml_msg" "xml_nkjv" "xml_amp" "xml_nlt")
+# Find all Bible version folders to package (with xml_ prefix)
+VERSIONS=($(find . -maxdepth 1 -type d -name "xml_*" | sed 's|./||' | sort))
+
+echo "Found ${#VERSIONS[@]} version directories to package"
+echo ""
 
 # Package each version
 for version in "${VERSIONS[@]}"; do

@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:54:10.708319</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:54:10.708330</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19141001" />
+		<chapter num="141">
+			<heading>A Psalm by David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Yahweh, I 
+				
+				 have called on you.Come to me quickly!Listen to my voice when I call to you.
+			</v>
+			<marker class="begin-verse" mid="v19141002" />
+			<v n="2">
+				Let my 
+				
+				 prayer be set before you like incense;the lifting up of my hands like the evening sacrifice.
+			</v>
+			<marker class="begin-verse" mid="v19141003" />
+			<v n="3">
+				Set a 
+				
+				 watch, Yahweh, before my mouth.Keep the door of my lips.
+			</v>
+			<marker class="begin-verse" mid="v19141004" />
+			<v n="4">
+				Don’t incline 
+				
+				 my heart to any evil thing,to practice deeds of wickedness with men who work iniquity.Don’t let me eat of their delicacies.
+			</v>
+			<marker class="begin-verse" mid="v19141005" />
+			<v n="5">
+				Let the 
+				
+				 righteous strike me, it is kindness;let him reprove me, it is like oil on the head;don’t let my head refuse it;Yet my prayer is always against evil deeds.
+			</v>
+			<marker class="begin-verse" mid="v19141006" />
+			<v n="6">
+				Their judges 
+				
+				 are thrown down by the sides of the rock.They will hear my words, for they are well spoken.
+			</v>
+			<marker class="begin-verse" mid="v19141007" />
+			<v n="7">
+				“As when 
+				
+				 one plows and breaks up the earth,our bones are scattered at the mouth of Sheol.”
+			</v>
+			<marker class="begin-verse" mid="v19141008" />
+			<v n="8">
+				For my 
+				
+				 eyes are on you, Yahweh, the Lord.I take refuge in you.Don’t leave my soul destitute.
+			</v>
+			<marker class="begin-verse" mid="v19141009" />
+			<v n="9">
+				Keep me 
+				
+				 from the snare which they have laid for me,from the traps of the workers of iniquity.
+			</v>
+			<marker class="begin-verse" mid="v19141010" />
+			<v n="10">
+				Let the 
+				
+				 wicked fall together into their own netswhile I pass by.
+			</v>
+			<marker class="begin-verse" mid="v19141011" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

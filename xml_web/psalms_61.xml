@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:47:03.164877</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:47:03.164907</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19061001" />
+		<chapter num="61">
+			<heading>For the Chief Musician. For a stringed instrument. By David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Hear my 
+				
+				 cry, God.Listen to my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19061002" />
+			<v n="2">
+				From the 
+				
+				 end of the earth, I will call to you when my heart is overwhelmed.Lead me to the rock that is higher than I.
+			</v>
+			<marker class="begin-verse" mid="v19061003" />
+			<v n="3">
+				For you 
+				
+				 have been a refuge for me,a strong tower from the enemy.
+			</v>
+			<marker class="begin-verse" mid="v19061004" />
+			<v n="4">
+				I will 
+				
+				 dwell in your tent forever.I will take refuge in the shelter of your wings. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19061005" />
+			<v n="5">
+				For you, 
+				
+				 God, have heard my vows.You have given me the heritage of those who fear your name.
+			</v>
+			<marker class="begin-verse" mid="v19061006" />
+			<v n="6">
+				You will 
+				
+				 prolong the king’s life.His years will be for generations.
+			</v>
+			<marker class="begin-verse" mid="v19061007" />
+			<v n="7">
+				He shall 
+				
+				 be enthroned in God’s presence forever.Appoint your loving kindness and truth, that they may preserve him.
+			</v>
+			<marker class="begin-verse" mid="v19061008" />
+			<v n="8">
+				So I 
+				
+				 will sing praise to your name forever,that I may fulfill my vows daily.
+			</v>
+			<marker class="begin-verse" mid="v19061009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

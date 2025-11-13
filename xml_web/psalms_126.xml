@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:52:50.702069</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:52:50.702096</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19126001" />
+		<chapter num="126">
+			<heading>A Song of Ascents.</heading>
+			<begin-paragraph />
+			<v n="1">
+				When Yahweh 
+				
+				 brought back those who returned to Zion,we were like those who dream.
+			</v>
+			<marker class="begin-verse" mid="v19126002" />
+			<v n="2">
+				Then our 
+				
+				 mouth was filled with laughter,and our tongue with singing.Then they said among the nations,“Yahweh has done great things for them.”
+			</v>
+			<marker class="begin-verse" mid="v19126003" />
+			<v n="3">
+				Yahweh has 
+				
+				 done great things for us,and we are glad.
+			</v>
+			<marker class="begin-verse" mid="v19126004" />
+			<v n="4">
+				Restore our 
+				
+				 fortunes again, Yahweh,like the streams in the Negev.
+			</v>
+			<marker class="begin-verse" mid="v19126005" />
+			<v n="5">
+				Those who 
+				
+				 sow in tears will reap in joy.
+			</v>
+			<marker class="begin-verse" mid="v19126006" />
+			<v n="6">
+				He who 
+				
+				 goes out weeping, carrying seed for sowing,will certainly come again with joy, carrying his sheaves.
+			</v>
+			<marker class="begin-verse" mid="v19126007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

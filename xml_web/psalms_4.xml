@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:41:59.313480</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:41:59.313499</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19004001" />
+		<chapter num="4">
+			<heading>For the Chief Musician; on stringed instruments. A Psalm by David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Answer me 
+				
+				 when I call, God of my righteousness.Give me relief from my distress.Have mercy on me, and hear my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19004002" />
+			<v n="2">
+				You sons 
+				
+				 of men, how long shall my glory be turned into dishonor?Will you love vanity and seek after falsehood? Selah.
+			</v>
+			<marker class="begin-verse" mid="v19004003" />
+			<v n="3">
+				But know 
+				
+				 that Yahweh has set apart for himself him who is godly;Yahweh will hear when I call to him.
+			</v>
+			<marker class="begin-verse" mid="v19004004" />
+			<v n="4">
+				Stand in 
+				
+				 awe, and don’t sin.Search your own heart on your bed, and be still. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19004005" />
+			<v n="5">
+				Offer the 
+				
+				 sacrifices of righteousness.Put your trust in Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v19004006" />
+			<v n="6">
+				Many say, 
+				
+				 “Who will show us any good?”Yahweh, let the light of your face shine on us.
+			</v>
+			<marker class="begin-verse" mid="v19004007" />
+			<v n="7">
+				You have 
+				
+				 put gladness in my heart,more than when their grain and their new wine are increased.
+			</v>
+			<marker class="begin-verse" mid="v19004008" />
+			<v n="8">
+				In peace 
+				
+				 I will both lay myself down and sleep,for you alone, Yahweh, make me live in safety.
+			</v>
+			<marker class="begin-verse" mid="v19004009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

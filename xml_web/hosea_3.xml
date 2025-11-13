@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:16:04.208804</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:16:04.208812</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" version="WEB" bookAbbr="hos">
+		<marker class="begin-verse" mid="v28003001" />
+		<chapter num="3">
+			<begin-paragraph />
+			<v n="1">
+				Yahweh said 
+				
+				 to me, “Go again, love a woman loved by another, and an adulteress, even as Yahweh loves the children of Israel, though they turn to other gods, and love cakes of raisins.”
+			</v>
+			<marker class="begin-verse" mid="v28003002" />
+			<v n="2">
+				So I 
+				
+				 bought her for myself for fifteen pieces of silver and a homer and a half of barley.
+			</v>
+			<marker class="begin-verse" mid="v28003003" />
+			<v n="3">
+				I said 
+				
+				 to her, “You shall stay with me many days. You shall not play the prostitute, and you shall not be with any other man. I will also be so toward you.”
+			</v>
+			<marker class="begin-verse" mid="v28003004" />
+			<v n="4">
+				For the 
+				
+				 children of Israel shall live many days without king, without prince, without sacrifice, without sacred stone, and without ephod or idols.
+			</v>
+			<marker class="begin-verse" mid="v28003005" />
+			<v n="5">
+				Afterward the 
+				
+				 children of Israel shall return and seek Yahweh their God, and David their king, and shall come with trembling to Yahweh and to his blessings in the last days.
+			</v>
+			<marker class="begin-verse" mid="v28003006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:52:18.127791</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:52:18.127804</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19120001" />
+		<chapter num="120">
+			<heading>A Song of Ascents.</heading>
+			<begin-paragraph />
+			<v n="1">
+				In my 
+				
+				 distress, I cried to Yahweh.He answered me.
+			</v>
+			<marker class="begin-verse" mid="v19120002" />
+			<v n="2">
+				Deliver my 
+				
+				 soul, Yahweh, from lying lips,from a deceitful tongue.
+			</v>
+			<marker class="begin-verse" mid="v19120003" />
+			<v n="3">
+				What will 
+				
+				 be given to you, and what will be done more to you,you deceitful tongue?
+			</v>
+			<marker class="begin-verse" mid="v19120004" />
+			<v n="4">
+				Sharp arrows 
+				
+				 of the mighty,with coals of juniper.
+			</v>
+			<marker class="begin-verse" mid="v19120005" />
+			<v n="5">
+				Woe is 
+				
+				 me, that I live in Meshech,that I dwell among the tents of Kedar!
+			</v>
+			<marker class="begin-verse" mid="v19120006" />
+			<v n="6">
+				My soul 
+				
+				 has had her dwelling too longwith him who hates peace.
+			</v>
+			<marker class="begin-verse" mid="v19120007" />
+			<v n="7">
+				I am 
+				
+				 for peace,but when I speak, they are for war.
+			</v>
+			<marker class="begin-verse" mid="v19120008" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

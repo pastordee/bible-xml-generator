@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:46:15.379486</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:46:15.379495</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19052001" />
+		<chapter num="52">
+			<heading>For the Chief Musician. A contemplation by David, when Doeg the Edomite came and told Saul, “David has come to Ahimelech’s house.”</heading>
+			<begin-paragraph />
+			<v n="1">
+				Why do 
+				
+				 you boast of mischief, mighty man?God’s loving kindness endures continually.
+			</v>
+			<marker class="begin-verse" mid="v19052002" />
+			<v n="2">
+				Your tongue 
+				
+				 plots destruction,like a sharp razor, working deceitfully.
+			</v>
+			<marker class="begin-verse" mid="v19052003" />
+			<v n="3">
+				You love 
+				
+				 evil more than good,lying rather than speaking the truth. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19052004" />
+			<v n="4">
+				You love 
+				
+				 all devouring words,you deceitful tongue.
+			</v>
+			<marker class="begin-verse" mid="v19052005" />
+			<v n="5">
+				God will 
+				
+				 likewise destroy you forever.He will take you up, and pluck you out of your tent,and root you out of the land of the living. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19052006" />
+			<v n="6">
+				The righteous 
+				
+				 also will see it, and fear,and laugh at him, saying,
+			</v>
+			<marker class="begin-verse" mid="v19052007" />
+			<v n="7">
+				“Behold, this 
+				
+				 is the man who didn’t make God his strength,but trusted in the abundance of his riches,and strengthened himself in his wickedness.”
+			</v>
+			<marker class="begin-verse" mid="v19052008" />
+			<v n="8">
+				But as 
+				
+				 for me, I am like a green olive tree in God’s house.I trust in God’s loving kindness forever and ever.
+			</v>
+			<marker class="begin-verse" mid="v19052009" />
+			<v n="9">
+				I will 
+				
+				 give you thanks forever, because you have done it.I will hope in your name, for it is good,in the presence of your saints.
+			</v>
+			<marker class="begin-verse" mid="v19052010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

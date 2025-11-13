@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T06:21:29.791587</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T06:21:29.791595</next_refresh_due>
+	</generation_info>
+	<book title="Malachi" num="39" testament="old" version="WEB" bookAbbr="mal">
+		<marker class="begin-verse" mid="v39004001" />
+		<chapter num="4">
+			<begin-paragraph />
+			<v n="1">
+				“For behold, 
+				
+				 the day comes, burning like a furnace, when all the proud and all who work wickedness will be stubble. The day that comes will burn them up,” says Yahweh of Armies, “so that it will leave them neither root nor branch.
+			</v>
+			<marker class="begin-verse" mid="v39004002" />
+			<v n="2">
+				But to 
+				
+				 you who fear my name shall the sun of righteousness arise with healing in its wings. You will go out and leap like calves of the stall.
+			</v>
+			<marker class="begin-verse" mid="v39004003" />
+			<v n="3">
+				You shall 
+				
+				 tread down the wicked; for they will be ashes under the soles of your feet in the day that I make,” says Yahweh of Armies.
+			</v>
+			<marker class="begin-verse" mid="v39004004" />
+			<v n="4">
+				“Remember the 
+				
+				 law of Moses my servant, which I commanded to him in Horeb for all Israel, even statutes and ordinances.
+			</v>
+			<marker class="begin-verse" mid="v39004005" />
+			<v n="5">
+				Behold, I 
+				
+				 will send you Elijah the prophet before the great and terrible day of Yahweh comes.
+			</v>
+			<marker class="begin-verse" mid="v39004006" />
+			<v n="6">
+				He will 
+				
+				 turn the hearts of the fathers to the children and the hearts of the children to their fathers, lest I come and strike the earth with a curse.”
+			</v>
+			<marker class="begin-verse" mid="v39004007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

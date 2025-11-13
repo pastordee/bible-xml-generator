@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:52:28.889752</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:52:28.889762</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19122001" />
+		<chapter num="122">
+			<heading>A Song of Ascents. By David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				I was 
+				
+				 glad when they said to me,“Let’s go to Yahweh’s house!”
+			</v>
+			<marker class="begin-verse" mid="v19122002" />
+			<v n="2">
+				Our feet 
+				
+				 are standing within your gates, Jerusalem!
+			</v>
+			<marker class="begin-verse" mid="v19122003" />
+			<v n="3">
+				Jerusalem is 
+				
+				 built as a city that is compact together,
+			</v>
+			<marker class="begin-verse" mid="v19122004" />
+			<v n="4">
+				where the 
+				
+				 tribes go up, even Yah’s tribes,according to an ordinance for Israel,to give thanks to Yahweh’s name.
+			</v>
+			<marker class="begin-verse" mid="v19122005" />
+			<v n="5">
+				For there 
+				
+				 are set thrones for judgment,the thrones of David’s house.
+			</v>
+			<marker class="begin-verse" mid="v19122006" />
+			<v n="6">
+				Pray for 
+				
+				 the peace of Jerusalem.Those who love you will prosper.
+			</v>
+			<marker class="begin-verse" mid="v19122007" />
+			<v n="7">
+				Peace be 
+				
+				 within your walls,and prosperity within your palaces.
+			</v>
+			<marker class="begin-verse" mid="v19122008" />
+			<v n="8">
+				For my 
+				
+				 brothers’ and companions’ sakes,I will now say, “Peace be within you.”
+			</v>
+			<marker class="begin-verse" mid="v19122009" />
+			<v n="9">
+				For the 
+				
+				 sake of the house of Yahweh our God,I will seek your good.
+			</v>
+			<marker class="begin-verse" mid="v19122010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

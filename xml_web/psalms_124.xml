@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:52:39.942354</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:52:39.942374</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19124001" />
+		<chapter num="124">
+			<heading>A Song of Ascents. By David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				If it 
+				
+				 had not been Yahweh who was on our side,let Israel now say,
+			</v>
+			<marker class="begin-verse" mid="v19124002" />
+			<v n="2">
+				if it 
+				
+				 had not been Yahweh who was on our side,when men rose up against us,
+			</v>
+			<marker class="begin-verse" mid="v19124003" />
+			<v n="3">
+				then they 
+				
+				 would have swallowed us up alive,when their wrath was kindled against us,
+			</v>
+			<marker class="begin-verse" mid="v19124004" />
+			<v n="4">
+				then the 
+				
+				 waters would have overwhelmed us,the stream would have gone over our soul.
+			</v>
+			<marker class="begin-verse" mid="v19124005" />
+			<v n="5">
+				Then the 
+				
+				 proud waters would have gone over our soul.
+			</v>
+			<marker class="begin-verse" mid="v19124006" />
+			<v n="6">
+				Blessed be 
+				
+				 Yahweh,who has not given us as a prey to their teeth.
+			</v>
+			<marker class="begin-verse" mid="v19124007" />
+			<v n="7">
+				Our soul 
+				
+				 has escaped like a bird out of the fowler’s snare.The snare is broken, and we have escaped.
+			</v>
+			<marker class="begin-verse" mid="v19124008" />
+			<v n="8">
+				Our help 
+				
+				 is in Yahweh’s name,who made heaven and earth.
+			</v>
+			<marker class="begin-verse" mid="v19124009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

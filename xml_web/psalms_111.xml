@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:51:30.338879</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:51:30.338890</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19111001" />
+		<chapter num="111">
+			<begin-paragraph />
+			<v n="1">
+				Praise Yah!I 
+				
+				 will give thanks to Yahweh with my whole heart,in the council of the upright, and in the congregation.
+			</v>
+			<marker class="begin-verse" mid="v19111002" />
+			<v n="2">
+				Yahweh’s works 
+				
+				 are great,pondered by all those who delight in them.
+			</v>
+			<marker class="begin-verse" mid="v19111003" />
+			<v n="3">
+				His work 
+				
+				 is honor and majesty.His righteousness endures forever.
+			</v>
+			<marker class="begin-verse" mid="v19111004" />
+			<v n="4">
+				He has 
+				
+				 caused his wonderful works to be remembered.Yahweh is gracious and merciful.
+			</v>
+			<marker class="begin-verse" mid="v19111005" />
+			<v n="5">
+				He has 
+				
+				 given food to those who fear him.He always remembers his covenant.
+			</v>
+			<marker class="begin-verse" mid="v19111006" />
+			<v n="6">
+				He has 
+				
+				 shown his people the power of his works,in giving them the heritage of the nations.
+			</v>
+			<marker class="begin-verse" mid="v19111007" />
+			<v n="7">
+				The works 
+				
+				 of his hands are truth and justice.All his precepts are sure.
+			</v>
+			<marker class="begin-verse" mid="v19111008" />
+			<v n="8">
+				They are 
+				
+				 established forever and ever.They are done in truth and uprightness.
+			</v>
+			<marker class="begin-verse" mid="v19111009" />
+			<v n="9">
+				He has 
+				
+				 sent redemption to his people.He has ordained his covenant forever.His name is holy and awesome!
+			</v>
+			<marker class="begin-verse" mid="v19111010" />
+			<v n="10">
+				The fear 
+				
+				 of Yahweh is the beginning of wisdom.All those who do his work have a good understanding.His praise endures forever!
+			</v>
+			<marker class="begin-verse" mid="v19111011" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

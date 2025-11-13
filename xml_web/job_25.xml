@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:40:07.232194</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:40:07.232201</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" version="WEB" bookAbbr="job">
+		<marker class="begin-verse" mid="v18025001" />
+		<chapter num="25">
+			<begin-paragraph />
+			<v n="1">
+				Then Bildad 
+				
+				 the Shuhite answered,
+			</v>
+			<marker class="begin-verse" mid="v18025002" />
+			<v n="2">
+				“Dominion and 
+				
+				 fear are with him.He makes peace in his high places.
+			</v>
+			<marker class="begin-verse" mid="v18025003" />
+			<v n="3">
+				Can his 
+				
+				 armies be counted?On whom does his light not arise?
+			</v>
+			<marker class="begin-verse" mid="v18025004" />
+			<v n="4">
+				How then 
+				
+				 can man be just with God?Or how can he who is born of a woman be clean?
+			</v>
+			<marker class="begin-verse" mid="v18025005" />
+			<v n="5">
+				Behold, even 
+				
+				 the moon has no brightness,and the stars are not pure in his sight;
+			</v>
+			<marker class="begin-verse" mid="v18025006" />
+			<v n="6">
+				How much 
+				
+				 less man, who is a worm,and the son of man, who is a worm!”
+			</v>
+			<marker class="begin-verse" mid="v18025007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

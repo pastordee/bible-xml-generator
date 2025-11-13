@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:46:20.610730</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:46:20.610739</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19053001" />
+		<chapter num="53">
+			<heading>For the Chief Musician. To the tune of “Mahalath.” A contemplation by David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				The fool 
+				
+				 has said in his heart, “There is no God.”They are corrupt, and have done abominable iniquity.There is no one who does good.
+			</v>
+			<marker class="begin-verse" mid="v19053002" />
+			<v n="2">
+				God looks 
+				
+				 down from heaven on the children of men,to see if there are any who understood,who seek after God.
+			</v>
+			<marker class="begin-verse" mid="v19053003" />
+			<v n="3">
+				Every one 
+				
+				 of them has gone back.They have become filthy together.There is no one who does good, no, not one.
+			</v>
+			<marker class="begin-verse" mid="v19053004" />
+			<v n="4">
+				Have the 
+				
+				 workers of iniquity no knowledge,who eat up my people as they eat bread,and don’t call on God?
+			</v>
+			<marker class="begin-verse" mid="v19053005" />
+			<v n="5">
+				There they 
+				
+				 were in great fear, where no fear was,for God has scattered the bones of him who encamps against you.You have put them to shame,because God has rejected them.
+			</v>
+			<marker class="begin-verse" mid="v19053006" />
+			<v n="6">
+				Oh that 
+				
+				 the salvation of Israel would come out of Zion!When God brings back his people from captivity,then Jacob shall rejoice,and Israel shall be glad.
+			</v>
+			<marker class="begin-verse" mid="v19053007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:54:37.215132</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:54:37.215143</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19146001" />
+		<chapter num="146">
+			<begin-paragraph />
+			<v n="1">
+				Praise Yah!Praise 
+				
+				 Yahweh, my soul.
+			</v>
+			<marker class="begin-verse" mid="v19146002" />
+			<v n="2">
+				While I 
+				
+				 live, I will praise Yahweh.I will sing praises to my God as long as I exist.
+			</v>
+			<marker class="begin-verse" mid="v19146003" />
+			<v n="3">
+				Don’t put 
+				
+				 your trust in princes,in a son of man in whom there is no help.
+			</v>
+			<marker class="begin-verse" mid="v19146004" />
+			<v n="4">
+				His spirit 
+				
+				 departs, and he returns to the earth.In that very day, his thoughts perish.
+			</v>
+			<marker class="begin-verse" mid="v19146005" />
+			<v n="5">
+				Happy is 
+				
+				 he who has the God of Jacob for his help,whose hope is in Yahweh, his God,
+			</v>
+			<marker class="begin-verse" mid="v19146006" />
+			<v n="6">
+				who made 
+				
+				 heaven and earth,the sea, and all that is in them;who keeps truth forever;
+			</v>
+			<marker class="begin-verse" mid="v19146007" />
+			<v n="7">
+				who executes 
+				
+				 justice for the oppressed;who gives food to the hungry.Yahweh frees the prisoners.
+			</v>
+			<marker class="begin-verse" mid="v19146008" />
+			<v n="8">
+				Yahweh opens 
+				
+				 the eyes of the blind.Yahweh raises up those who are bowed down.Yahweh loves the righteous.
+			</v>
+			<marker class="begin-verse" mid="v19146009" />
+			<v n="9">
+				Yahweh preserves 
+				
+				 the foreigners.He upholds the fatherless and widow,but he turns the way of the wicked upside down.
+			</v>
+			<marker class="begin-verse" mid="v19146010" />
+			<v n="10">
+				Yahweh will 
+				
+				 reign forever;your God, O Zion, to all generations.Praise Yah!
+			</v>
+			<marker class="begin-verse" mid="v19146011" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

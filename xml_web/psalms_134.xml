@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:53:33.202906</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:53:33.202916</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19134001" />
+		<chapter num="134">
+			<heading>A Song of Ascents.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Look! Praise 
+				
+				 Yahweh, all you servants of Yahweh,who stand by night in Yahweh’s house!
+			</v>
+			<marker class="begin-verse" mid="v19134002" />
+			<v n="2">
+				Lift up 
+				
+				 your hands in the sanctuary.Praise Yahweh!
+			</v>
+			<marker class="begin-verse" mid="v19134003" />
+			<v n="3">
+				May Yahweh 
+				
+				 bless you from Zion,even he who made heaven and earth.
+			</v>
+			<marker class="begin-verse" mid="v19134004" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

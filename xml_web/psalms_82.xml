@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:48:56.070149</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:48:56.070156</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19082001" />
+		<chapter num="82">
+			<heading>A Psalm by Asaph.</heading>
+			<begin-paragraph />
+			<v n="1">
+				God presides 
+				
+				 in the great assembly.He judges among the gods.
+			</v>
+			<marker class="begin-verse" mid="v19082002" />
+			<v n="2">
+				“How long 
+				
+				 will you judge unjustly,and show partiality to the wicked?” Selah.
+			</v>
+			<marker class="begin-verse" mid="v19082003" />
+			<v n="3">
+				“Defend the 
+				
+				 weak, the poor, and the fatherless.Maintain the rights of the poor and oppressed.
+			</v>
+			<marker class="begin-verse" mid="v19082004" />
+			<v n="4">
+				Rescue the 
+				
+				 weak and needy.Deliver them out of the hand of the wicked.”
+			</v>
+			<marker class="begin-verse" mid="v19082005" />
+			<v n="5">
+				They don’t 
+				
+				 know, neither do they understand.They walk back and forth in darkness.All the foundations of the earth are shaken.
+			</v>
+			<marker class="begin-verse" mid="v19082006" />
+			<v n="6">
+				I said, 
+				
+				 “You are gods,all of you are sons of the Most High.
+			</v>
+			<marker class="begin-verse" mid="v19082007" />
+			<v n="7">
+				Nevertheless you 
+				
+				 shall die like men,and fall like one of the rulers.”
+			</v>
+			<marker class="begin-verse" mid="v19082008" />
+			<v n="8">
+				Arise, God, 
+				
+				 judge the earth,for you inherit all of the nations.
+			</v>
+			<marker class="begin-verse" mid="v19082009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

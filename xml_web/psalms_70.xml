@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:47:51.580859</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:47:51.580889</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19070001" />
+		<chapter num="70">
+			<heading>For the Chief Musician. By David. A reminder.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Hurry, God, 
+				
+				 to deliver me.Come quickly to help me, Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v19070002" />
+			<v n="2">
+				Let them 
+				
+				 be disappointed and confounded who seek my soul.Let those who desire my ruin be turned back in disgrace.
+			</v>
+			<marker class="begin-verse" mid="v19070003" />
+			<v n="3">
+				Let them 
+				
+				 be turned because of their shamewho say, “Aha! Aha!”
+			</v>
+			<marker class="begin-verse" mid="v19070004" />
+			<v n="4">
+				Let all 
+				
+				 those who seek you rejoice and be glad in you.Let those who love your salvation continually say,“Let God be exalted!”
+			</v>
+			<marker class="begin-verse" mid="v19070005" />
+			<v n="5">
+				But I 
+				
+				 am poor and needy.Come to me quickly, God.You are my help and my deliverer.Yahweh, don’t delay.
+			</v>
+			<marker class="begin-verse" mid="v19070006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

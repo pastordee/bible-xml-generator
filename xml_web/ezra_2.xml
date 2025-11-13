@@ -1,0 +1,443 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:35:08.496451</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:35:08.496464</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" version="WEB" bookAbbr="ezr">
+		<marker class="begin-verse" mid="v15002001" />
+		<chapter num="2">
+			<begin-paragraph />
+			<v n="1">
+				Now these 
+				
+				 are the children of the province who went up out of the captivity of those who had been carried away, whom Nebuchadnezzar the king of Babylon had carried away to Babylon, and who returned to Jerusalem and Judah, everyone to his city;
+			</v>
+			<marker class="begin-verse" mid="v15002002" />
+			<v n="2">
+				who came 
+				
+				 with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.The number of the men of the people of Israel:
+			</v>
+			<marker class="begin-verse" mid="v15002003" />
+			<v n="3">
+				The children 
+				
+				 of Parosh, two thousand one hundred seventy-two.
+			</v>
+			<marker class="begin-verse" mid="v15002004" />
+			<v n="4">
+				The children 
+				
+				 of Shephatiah, three hundred seventy-two.
+			</v>
+			<marker class="begin-verse" mid="v15002005" />
+			<v n="5">
+				The children 
+				
+				 of Arah, seven hundred seventy-five.
+			</v>
+			<marker class="begin-verse" mid="v15002006" />
+			<v n="6">
+				The children 
+				
+				 of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred twelve.
+			</v>
+			<marker class="begin-verse" mid="v15002007" />
+			<v n="7">
+				The children 
+				
+				 of Elam, one thousand two hundred fifty-four.
+			</v>
+			<marker class="begin-verse" mid="v15002008" />
+			<v n="8">
+				The children 
+				
+				 of Zattu, nine hundred forty-five.
+			</v>
+			<marker class="begin-verse" mid="v15002009" />
+			<v n="9">
+				The children 
+				
+				 of Zaccai, seven hundred sixty.
+			</v>
+			<marker class="begin-verse" mid="v15002010" />
+			<v n="10">
+				The children 
+				
+				 of Bani, six hundred forty-two.
+			</v>
+			<marker class="begin-verse" mid="v15002011" />
+			<v n="11">
+				The children 
+				
+				 of Bebai, six hundred twenty-three.
+			</v>
+			<marker class="begin-verse" mid="v15002012" />
+			<v n="12">
+				The children 
+				
+				 of Azgad, one thousand two hundred twenty-two.
+			</v>
+			<marker class="begin-verse" mid="v15002013" />
+			<v n="13">
+				The children 
+				
+				 of Adonikam, six hundred sixty-six.
+			</v>
+			<marker class="begin-verse" mid="v15002014" />
+			<v n="14">
+				The children 
+				
+				 of Bigvai, two thousand fifty-six.
+			</v>
+			<marker class="begin-verse" mid="v15002015" />
+			<v n="15">
+				The children 
+				
+				 of Adin, four hundred fifty-four.
+			</v>
+			<marker class="begin-verse" mid="v15002016" />
+			<v n="16">
+				The children 
+				
+				 of Ater, of Hezekiah, ninety-eight.
+			</v>
+			<marker class="begin-verse" mid="v15002017" />
+			<v n="17">
+				The children 
+				
+				 of Bezai, three hundred twenty-three.
+			</v>
+			<marker class="begin-verse" mid="v15002018" />
+			<v n="18">
+				The children 
+				
+				 of Jorah, one hundred twelve.
+			</v>
+			<marker class="begin-verse" mid="v15002019" />
+			<v n="19">
+				The children 
+				
+				 of Hashum, two hundred twenty-three.
+			</v>
+			<marker class="begin-verse" mid="v15002020" />
+			<v n="20">
+				The children 
+				
+				 of Gibbar, ninety-five.
+			</v>
+			<marker class="begin-verse" mid="v15002021" />
+			<v n="21">
+				The children 
+				
+				 of Bethlehem, one hundred twenty-three.
+			</v>
+			<marker class="begin-verse" mid="v15002022" />
+			<v n="22">
+				The men 
+				
+				 of Netophah, fifty-six.
+			</v>
+			<marker class="begin-verse" mid="v15002023" />
+			<v n="23">
+				The men 
+				
+				 of Anathoth, one hundred twenty-eight.
+			</v>
+			<marker class="begin-verse" mid="v15002024" />
+			<v n="24">
+				The children 
+				
+				 of Azmaveth, forty-two.
+			</v>
+			<marker class="begin-verse" mid="v15002025" />
+			<v n="25">
+				The children 
+				
+				 of Kiriath Arim, Chephirah, and Beeroth, seven hundred forty-three.
+			</v>
+			<marker class="begin-verse" mid="v15002026" />
+			<v n="26">
+				The children 
+				
+				 of Ramah and Geba, six hundred twenty-one.
+			</v>
+			<marker class="begin-verse" mid="v15002027" />
+			<v n="27">
+				The men 
+				
+				 of Michmas, one hundred twenty-two.
+			</v>
+			<marker class="begin-verse" mid="v15002028" />
+			<v n="28">
+				The men 
+				
+				 of Bethel and Ai, two hundred twenty-three.
+			</v>
+			<marker class="begin-verse" mid="v15002029" />
+			<v n="29">
+				The children 
+				
+				 of Nebo, fifty-two.
+			</v>
+			<marker class="begin-verse" mid="v15002030" />
+			<v n="30">
+				The children 
+				
+				 of Magbish, one hundred fifty-six.
+			</v>
+			<marker class="begin-verse" mid="v15002031" />
+			<v n="31">
+				The children 
+				
+				 of the other Elam, one thousand two hundred fifty-four.
+			</v>
+			<marker class="begin-verse" mid="v15002032" />
+			<v n="32">
+				The children 
+				
+				 of Harim, three hundred twenty.
+			</v>
+			<marker class="begin-verse" mid="v15002033" />
+			<v n="33">
+				The children 
+				
+				 of Lod, Hadid, and Ono, seven hundred twenty-five.
+			</v>
+			<marker class="begin-verse" mid="v15002034" />
+			<v n="34">
+				The children 
+				
+				 of Jericho, three hundred forty-five.
+			</v>
+			<marker class="begin-verse" mid="v15002035" />
+			<v n="35">
+				The children 
+				
+				 of Senaah, three thousand six hundred thirty.
+			</v>
+			<marker class="begin-verse" mid="v15002036" />
+			<v n="36">
+				The priests: 
+				
+				 the children of Jedaiah, of the house of Jeshua, nine hundred seventy-three.
+			</v>
+			<marker class="begin-verse" mid="v15002037" />
+			<v n="37">
+				The children 
+				
+				 of Immer, one thousand fifty-two.
+			</v>
+			<marker class="begin-verse" mid="v15002038" />
+			<v n="38">
+				The children 
+				
+				 of Pashhur, one thousand two hundred forty-seven.
+			</v>
+			<marker class="begin-verse" mid="v15002039" />
+			<v n="39">
+				The children 
+				
+				 of Harim, one thousand seventeen.
+			</v>
+			<marker class="begin-verse" mid="v15002040" />
+			<v n="40">
+				The Levites: 
+				
+				 the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy-four.
+			</v>
+			<marker class="begin-verse" mid="v15002041" />
+			<v n="41">
+				The singers: 
+				
+				 the children of Asaph, one hundred twenty-eight.
+			</v>
+			<marker class="begin-verse" mid="v15002042" />
+			<v n="42">
+				The children 
+				
+				 of the gatekeepers: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all one hundred thirty-nine.
+			</v>
+			<marker class="begin-verse" mid="v15002043" />
+			<v n="43">
+				The temple 
+				
+				 servants: the children of Ziha, the children of Hasupha, the children of Tabbaoth,
+			</v>
+			<marker class="begin-verse" mid="v15002044" />
+			<v n="44">
+				the children 
+				
+				 of Keros, the children of Siaha, the children of Padon,
+			</v>
+			<marker class="begin-verse" mid="v15002045" />
+			<v n="45">
+				the children 
+				
+				 of Lebanah, the children of Hagabah, the children of Akkub,
+			</v>
+			<marker class="begin-verse" mid="v15002046" />
+			<v n="46">
+				the children 
+				
+				 of Hagab, the children of Shamlai, the children of Hanan,
+			</v>
+			<marker class="begin-verse" mid="v15002047" />
+			<v n="47">
+				the children 
+				
+				 of Giddel, the children of Gahar, the children of Reaiah,
+			</v>
+			<marker class="begin-verse" mid="v15002048" />
+			<v n="48">
+				the children 
+				
+				 of Rezin, the children of Nekoda, the children of Gazzam,
+			</v>
+			<marker class="begin-verse" mid="v15002049" />
+			<v n="49">
+				the children 
+				
+				 of Uzza, the children of Paseah, the children of Besai,
+			</v>
+			<marker class="begin-verse" mid="v15002050" />
+			<v n="50">
+				the children 
+				
+				 of Asnah, the children of Meunim, the children of Nephisim,
+			</v>
+			<marker class="begin-verse" mid="v15002051" />
+			<v n="51">
+				the children 
+				
+				 of Bakbuk, the children of Hakupha, the children of Harhur,
+			</v>
+			<marker class="begin-verse" mid="v15002052" />
+			<v n="52">
+				the children 
+				
+				 of Bazluth, the children of Mehida, the children of Harsha,
+			</v>
+			<marker class="begin-verse" mid="v15002053" />
+			<v n="53">
+				the children 
+				
+				 of Barkos, the children of Sisera, the children of Temah,
+			</v>
+			<marker class="begin-verse" mid="v15002054" />
+			<v n="54">
+				the children 
+				
+				 of Neziah, the children of Hatipha.
+			</v>
+			<marker class="begin-verse" mid="v15002055" />
+			<v n="55">
+				The children 
+				
+				 of Solomon’s servants: the children of Sotai, the children of Hassophereth, the children of Peruda,
+			</v>
+			<marker class="begin-verse" mid="v15002056" />
+			<v n="56">
+				the children 
+				
+				 of Jaalah, the children of Darkon, the children of Giddel,
+			</v>
+			<marker class="begin-verse" mid="v15002057" />
+			<v n="57">
+				the children 
+				
+				 of Shephatiah, the children of Hattil, the children of Pochereth Hazzebaim, the children of Ami.
+			</v>
+			<marker class="begin-verse" mid="v15002058" />
+			<v n="58">
+				All the 
+				
+				 temple servants, and the children of Solomon’s servants, were three hundred ninety-two.
+			</v>
+			<marker class="begin-verse" mid="v15002059" />
+			<v n="59">
+				These were 
+				
+				 those who went up from Tel Melah, Tel Harsha, Cherub, Addan, and Immer; but they could not show their fathers’ houses and their offspring, whether they were of Israel:
+			</v>
+			<marker class="begin-verse" mid="v15002060" />
+			<v n="60">
+				the children 
+				
+				 of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty-two.
+			</v>
+			<marker class="begin-verse" mid="v15002061" />
+			<v n="61">
+				Of the 
+				
+				 children of the priests: the children of Habaiah, the children of Hakkoz, and the children of Barzillai, who took a wife of the daughters of Barzillai the Gileadite, and was called after their name.
+			</v>
+			<marker class="begin-verse" mid="v15002062" />
+			<v n="62">
+				These sought 
+				
+				 their place among those who were registered by genealogy, but they were not found; therefore they were deemed disqualified and removed from the priesthood.
+			</v>
+			<marker class="begin-verse" mid="v15002063" />
+			<v n="63">
+				The governor 
+				
+				 told them that they should not eat of the most holy things until a priest stood up to serve with Urim and with Thummim.
+			</v>
+			<marker class="begin-verse" mid="v15002064" />
+			<v n="64">
+				The whole 
+				
+				 assembly together was forty-two thousand three hundred sixty,
+			</v>
+			<marker class="begin-verse" mid="v15002065" />
+			<v n="65">
+				in addition 
+				
+				 to their male servants and their female servants, of whom there were seven thousand three hundred thirty-seven; and they had two hundred singing men and singing women.
+			</v>
+			<marker class="begin-verse" mid="v15002066" />
+			<v n="66">
+				Their horses 
+				
+				 were seven hundred thirty-six; their mules, two hundred forty-five;
+			</v>
+			<marker class="begin-verse" mid="v15002067" />
+			<v n="67">
+				their camels, 
+				
+				 four hundred thirty-five; their donkeys, six thousand seven hundred twenty.
+			</v>
+			<marker class="begin-verse" mid="v15002068" />
+			<v n="68">
+				Some of 
+				
+				 the heads of fathers’ households, when they came to Yahweh’s house which is in Jerusalem, offered willingly for God’s house to set it up in its place.
+			</v>
+			<marker class="begin-verse" mid="v15002069" />
+			<v n="69">
+				They gave 
+				
+				 according to their ability into the treasury of the work sixty-one thousand darics of gold, five thousand minas of silver, and one hundred priests’ garments.
+			</v>
+			<marker class="begin-verse" mid="v15002070" />
+			<v n="70">
+				So the 
+				
+				 priests and the Levites, with some of the people, the singers, the gatekeepers, and the temple servants, lived in their cities, and all Israel in their cities.
+			</v>
+			<marker class="begin-verse" mid="v15002071" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

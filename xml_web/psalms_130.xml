@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>World English Bible - 
+          PUBLIC DOMAIN
+        </copyright>
+	<metadata>
+		<name>World English Bible</name>
+		<abbreviation>WEB</abbreviation>
+		<last_updated>2024-06-28T21:52:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T05:53:11.958123</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T05:53:11.958133</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="WEB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19130001" />
+		<chapter num="130">
+			<heading>A Song of Ascents.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Out of 
+				
+				 the depths I have cried to you, Yahweh.
+			</v>
+			<marker class="begin-verse" mid="v19130002" />
+			<v n="2">
+				Lord, hear 
+				
+				 my voice.Let your ears be attentive to the voice of my petitions.
+			</v>
+			<marker class="begin-verse" mid="v19130003" />
+			<v n="3">
+				If you, 
+				
+				 Yah, kept a record of sins,Lord, who could stand?
+			</v>
+			<marker class="begin-verse" mid="v19130004" />
+			<v n="4">
+				But there 
+				
+				 is forgiveness with you,therefore you are feared.
+			</v>
+			<marker class="begin-verse" mid="v19130005" />
+			<v n="5">
+				I wait 
+				
+				 for Yahweh.My soul waits.I hope in his word.
+			</v>
+			<marker class="begin-verse" mid="v19130006" />
+			<v n="6">
+				My soul 
+				
+				 longs for the Lord more than watchmen long for the morning,more than watchmen for the morning.
+			</v>
+			<marker class="begin-verse" mid="v19130007" />
+			<v n="7">
+				Israel, hope 
+				
+				 in Yahweh,for there is loving kindness with Yahweh.Abundant redemption is with him.
+			</v>
+			<marker class="begin-verse" mid="v19130008" />
+			<v n="8">
+				He will 
+				
+				 redeem Israel from all their sins.
+			</v>
+			<marker class="begin-verse" mid="v19130009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:13:44.906285</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:13:44.906299</next_refresh_due>
+	</generation_info>
+	<book title="Song of Solomon" num="22" testament="old" version="KJV" bookAbbr="sng">
+		<marker class="begin-verse" mid="v22007001"/>
+		<chapter num="7">
+			<begin-paragraph/>
+			<v n="1">
+				How beautiful 
+				<crossref let="b" cid="c220071.1"/>
+				 are thy feet with shoes, O prince’s daughter! the joints of thy thighs are like jewels, the work of the hands of a cunning workman.
+			</v>
+			<marker class="begin-verse" mid="v22007002"/>
+			<v n="2">
+				Thy navel 
+				<crossref let="c" cid="c220072.1"/>
+				 is like a round goblet, which wanteth not liquor: thy belly is like an heap of wheat set about with lilies.
+			</v>
+			<marker class="begin-verse" mid="v22007003"/>
+			<v n="3">
+				Thy two 
+				<crossref let="d" cid="c220073.1"/>
+				 breasts are like two young roes that are twins.
+			</v>
+			<marker class="begin-verse" mid="v22007004"/>
+			<v n="4">
+				Thy neck 
+				<crossref let="e" cid="c220074.1"/>
+				 is as a tower of ivory; thine eyes like the fishpools in Heshbon, by the gate of Bath-rabbim: thy nose is as the tower of Lebanon which looketh toward Damascus.
+			</v>
+			<marker class="begin-verse" mid="v22007005"/>
+			<v n="5">
+				Thine head 
+				<crossref let="f" cid="c220075.1"/>
+				 upon thee is like Carmel, and the hair of thine head like purple; the king is held in the galleries.
+			</v>
+			<marker class="begin-verse" mid="v22007006"/>
+			<v n="6">
+				How fair 
+				<crossref let="g" cid="c220076.1"/>
+				 and how pleasant art thou, O love, for delights!
+			</v>
+			<marker class="begin-verse" mid="v22007007"/>
+			<v n="7">
+				This thy 
+				<crossref let="h" cid="c220077.1"/>
+				 stature is like to a palm tree, and thy breasts to clusters of grapes.
+			</v>
+			<marker class="begin-verse" mid="v22007008"/>
+			<v n="8">
+				I said, 
+				<crossref let="i" cid="c220078.1"/>
+				 I will go up to the palm tree, I will take hold of the boughs thereof: now also thy breasts shall be as clusters of the vine, and the smell of thy nose like apples;
+			</v>
+			<marker class="begin-verse" mid="v22007009"/>
+			<v n="9">
+				And the 
+				<crossref let="j" cid="c220079.1"/>
+				 roof of thy mouth like the best wine for my beloved, that goeth down sweetly, causing the lips of those that are asleep to speak.
+			</v>
+			<marker class="begin-verse" mid="v22007010"/>
+			<v n="10">
+				¶ I 
+				<crossref let="k" cid="c2200710.1"/>
+				 am my beloved’s, and his desire is toward me.
+			</v>
+			<marker class="begin-verse" mid="v22007011"/>
+			<v n="11">
+				Come, my 
+				<crossref let="l" cid="c2200711.1"/>
+				 beloved, let us go forth into the field; let us lodge in the villages.
+			</v>
+			<marker class="begin-verse" mid="v22007012"/>
+			<v n="12">
+				Let us 
+				<crossref let="m" cid="c2200712.1"/>
+				 get up early to the vineyards; let us see if the vine flourish, whether the tender grape appear, and the pomegranates bud forth: there will I give thee my loves.
+			</v>
+			<marker class="begin-verse" mid="v22007013"/>
+			<v n="13">
+				The mandrakes 
+				<crossref let="n" cid="c2200713.1"/>
+				 give a smell, and at our gates are all manner of pleasant fruits, new and old, which I have laid up for thee, O my beloved.
+			</v>
+			<marker class="begin-verse" mid="v22007014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:38:16.881553</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:38:16.881567</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="KJV" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40027001"/>
+		<chapter num="27">
+			<begin-paragraph/>
+			<v n="1">
+				When the 
+				<crossref let="b" cid="c400271.1"/>
+				 morning was come, all the chief priests and elders of the people took counsel against Jesus to put him to death:
+			</v>
+			<marker class="begin-verse" mid="v40027002"/>
+			<v n="2">
+				And when 
+				<crossref let="c" cid="c400272.1"/>
+				 they had bound him, they led him away, and delivered him to Pontius Pilate the governor.
+			</v>
+			<marker class="begin-verse" mid="v40027003"/>
+			<v n="3">
+				¶ Then 
+				<crossref let="d" cid="c400273.1"/>
+				 Judas, which had betrayed him, when he saw that he was condemned, repented himself, and brought again the thirty pieces of silver to the chief priests and elders,
+			</v>
+			<marker class="begin-verse" mid="v40027004"/>
+			<v n="4">
+				Saying, I 
+				<crossref let="e" cid="c400274.1"/>
+				 have sinned in that I have betrayed the innocent blood. And they said, What is that to us? see thou to that.
+			</v>
+			<marker class="begin-verse" mid="v40027005"/>
+			<v n="5">
+				And he 
+				<crossref let="f" cid="c400275.1"/>
+				 cast down the pieces of silver in the temple, and departed, and went and hanged himself.
+			</v>
+			<marker class="begin-verse" mid="v40027006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c400276.1"/>
+				 chief priests took the silver pieces, and said, It is not lawful for to put them into the treasury, because it is the price of blood.
+			</v>
+			<marker class="begin-verse" mid="v40027007"/>
+			<v n="7">
+				And they 
+				<crossref let="h" cid="c400277.1"/>
+				 took counsel, and bought with them the potter’s field, to bury strangers in.
+			</v>
+			<marker class="begin-verse" mid="v40027008"/>
+			<v n="8">
+				Wherefore that 
+				<crossref let="i" cid="c400278.1"/>
+				 field was called, The field of blood, unto this day.
+			</v>
+			<marker class="begin-verse" mid="v40027009"/>
+			<v n="9">
+				Then was 
+				<crossref let="j" cid="c400279.1"/>
+				 fulfilled that which was spoken by Jeremy the prophet, saying, And they took the thirty pieces of silver, the price of him that was valued, whom they of the children of Israel did value;
+			</v>
+			<marker class="begin-verse" mid="v40027010"/>
+			<v n="10">
+				And gave 
+				<crossref let="k" cid="c4002710.1"/>
+				 them for the potter’s field, as the Lord appointed me.
+			</v>
+			<marker class="begin-verse" mid="v40027011"/>
+			<v n="11">
+				And Jesus 
+				<crossref let="l" cid="c4002711.1"/>
+				 stood before the governor: and the governor asked him, saying, Art thou the King of the Jews? And Jesus said unto him, Thou sayest.
+			</v>
+			<marker class="begin-verse" mid="v40027012"/>
+			<v n="12">
+				And when 
+				<crossref let="m" cid="c4002712.1"/>
+				 he was accused of the chief priests and elders, he answered nothing.
+			</v>
+			<marker class="begin-verse" mid="v40027013"/>
+			<v n="13">
+				Then said 
+				<crossref let="n" cid="c4002713.1"/>
+				 Pilate unto him, Hearest thou not how many things they witness against thee?
+			</v>
+			<marker class="begin-verse" mid="v40027014"/>
+			<v n="14">
+				And he 
+				<crossref let="o" cid="c4002714.1"/>
+				 answered him to never a word; insomuch that the governor marvelled greatly.
+			</v>
+			<marker class="begin-verse" mid="v40027015"/>
+			<v n="15">
+				Now at 
+				<crossref let="p" cid="c4002715.1"/>
+				 that feast the governor was wont to release unto the people a prisoner, whom they would.
+			</v>
+			<marker class="begin-verse" mid="v40027016"/>
+			<v n="16">
+				And they 
+				<crossref let="q" cid="c4002716.1"/>
+				 had then a notable prisoner, called Barabbas.
+			</v>
+			<marker class="begin-verse" mid="v40027017"/>
+			<v n="17">
+				Therefore when 
+				<crossref let="r" cid="c4002717.1"/>
+				 they were gathered together, Pilate said unto them, Whom will ye that I release unto you? Barabbas, or Jesus which is called Christ?
+			</v>
+			<marker class="begin-verse" mid="v40027018"/>
+			<v n="18">
+				For he 
+				<crossref let="s" cid="c4002718.1"/>
+				 knew that for envy they had delivered him.
+			</v>
+			<marker class="begin-verse" mid="v40027019"/>
+			<v n="19">
+				¶ When 
+				<crossref let="t" cid="c4002719.1"/>
+				 he was set down on the judgment seat, his wife sent unto him, saying, Have thou nothing to do with that just man: for I have suffered many things this day in a dream because of him.
+			</v>
+			<marker class="begin-verse" mid="v40027020"/>
+			<v n="20">
+				But the 
+				<crossref let="u" cid="c4002720.1"/>
+				 chief priests and elders persuaded the multitude that they should ask Barabbas, and destroy Jesus.
+			</v>
+			<marker class="begin-verse" mid="v40027021"/>
+			<v n="21">
+				The governor 
+				<crossref let="v" cid="c4002721.1"/>
+				 answered and said unto them, Whether of the twain will ye that I release unto you? They said, Barabbas.
+			</v>
+			<marker class="begin-verse" mid="v40027022"/>
+			<v n="22">
+				Pilate saith 
+				<crossref let="w" cid="c4002722.1"/>
+				 unto them, What shall I do then with Jesus which is called Christ? They all say unto him, Let him be crucified.
+			</v>
+			<marker class="begin-verse" mid="v40027023"/>
+			<v n="23">
+				And the 
+				<crossref let="x" cid="c4002723.1"/>
+				 governor said, Why, what evil hath he done? But they cried out the more, saying, Let him be crucified.
+			</v>
+			<marker class="begin-verse" mid="v40027024"/>
+			<v n="24">
+				¶ When 
+				<crossref let="y" cid="c4002724.1"/>
+				 Pilate saw that he could prevail nothing, but that rather a tumult was made, he took water, and washed his hands before the multitude, saying, I am innocent of the blood of this just person: see ye to it.
+			</v>
+			<marker class="begin-verse" mid="v40027025"/>
+			<v n="25">
+				Then answered 
+				<crossref let="z" cid="c4002725.1"/>
+				 all the people, and said, His blood be on us, and on our children.
+			</v>
+			<marker class="begin-verse" mid="v40027026"/>
+			<v n="26">
+				¶ Then 
+				<crossref let="a" cid="c4002726.1"/>
+				 released he Barabbas unto them: and when he had scourged Jesus, he delivered him to be crucified.
+			</v>
+			<marker class="begin-verse" mid="v40027027"/>
+			<v n="27">
+				Then the 
+				<crossref let="b" cid="c4002727.1"/>
+				 soldiers of the governor took Jesus into the common hall, and gathered unto him the whole band of soldiers.
+			</v>
+			<marker class="begin-verse" mid="v40027028"/>
+			<v n="28">
+				And they 
+				<crossref let="c" cid="c4002728.1"/>
+				 stripped him, and put on him a scarlet robe.
+			</v>
+			<marker class="begin-verse" mid="v40027029"/>
+			<v n="29">
+				¶ And 
+				<crossref let="d" cid="c4002729.1"/>
+				 when they had platted a crown of thorns, they put it upon his head, and a reed in his right hand: and they bowed the knee before him, and mocked him, saying, Hail, King of the Jews!
+			</v>
+			<marker class="begin-verse" mid="v40027030"/>
+			<v n="30">
+				And they 
+				<crossref let="e" cid="c4002730.1"/>
+				 spit upon him, and took the reed, and smote him on the head.
+			</v>
+			<marker class="begin-verse" mid="v40027031"/>
+			<v n="31">
+				And after 
+				<crossref let="f" cid="c4002731.1"/>
+				 that they had mocked him, they took the robe off from him, and put his own raiment on him, and led him away to crucify him.
+			</v>
+			<marker class="begin-verse" mid="v40027032"/>
+			<v n="32">
+				And as 
+				<crossref let="g" cid="c4002732.1"/>
+				 they came out, they found a man of Cyrene, Simon by name: him they compelled to bear his cross.
+			</v>
+			<marker class="begin-verse" mid="v40027033"/>
+			<v n="33">
+				And when 
+				<crossref let="h" cid="c4002733.1"/>
+				 they were come unto a place called Golgotha, that is to say, a place of a skull,
+			</v>
+			<marker class="begin-verse" mid="v40027034"/>
+			<v n="34">
+				¶ They 
+				<crossref let="i" cid="c4002734.1"/>
+				 gave him vinegar to drink mingled with gall: and when he had tasted thereof, he would not drink.
+			</v>
+			<marker class="begin-verse" mid="v40027035"/>
+			<v n="35">
+				And they 
+				<crossref let="j" cid="c4002735.1"/>
+				 crucified him, and parted his garments, casting lots: that it might be fulfilled which was spoken by the prophet, They parted my garments among them, and upon my vesture did they cast lots.
+			</v>
+			<marker class="begin-verse" mid="v40027036"/>
+			<v n="36">
+				And sitting 
+				<crossref let="k" cid="c4002736.1"/>
+				 down they watched him there;
+			</v>
+			<marker class="begin-verse" mid="v40027037"/>
+			<v n="37">
+				And set 
+				<crossref let="l" cid="c4002737.1"/>
+				 up over his head his accusation written, THIS IS JESUS THE KING OF THE JEWS.
+			</v>
+			<marker class="begin-verse" mid="v40027038"/>
+			<v n="38">
+				Then were 
+				<crossref let="m" cid="c4002738.1"/>
+				 there two thieves crucified with him, one on the right hand, and another on the left.
+			</v>
+			<marker class="begin-verse" mid="v40027039"/>
+			<v n="39">
+				¶ And 
+				<crossref let="n" cid="c4002739.1"/>
+				 they that passed by reviled him, wagging their heads,
+			</v>
+			<marker class="begin-verse" mid="v40027040"/>
+			<v n="40">
+				And saying, 
+				<crossref let="o" cid="c4002740.1"/>
+				 Thou that destroyest the temple, and buildest it in three days, save thyself. If thou be the Son of God, come down from the cross.
+			</v>
+			<marker class="begin-verse" mid="v40027041"/>
+			<v n="41">
+				Likewise also 
+				<crossref let="p" cid="c4002741.1"/>
+				 the chief priests mocking him, with the scribes and elders, said,
+			</v>
+			<marker class="begin-verse" mid="v40027042"/>
+			<v n="42">
+				He saved 
+				<crossref let="q" cid="c4002742.1"/>
+				 others; himself he cannot save. If he be the King of Israel, let him now come down from the cross, and we will believe him.
+			</v>
+			<marker class="begin-verse" mid="v40027043"/>
+			<v n="43">
+				He trusted 
+				<crossref let="r" cid="c4002743.1"/>
+				 in God; let him deliver him now, if he will have him: for he said, I am the Son of God.
+			</v>
+			<marker class="begin-verse" mid="v40027044"/>
+			<v n="44">
+				The thieves 
+				<crossref let="s" cid="c4002744.1"/>
+				 also, which were crucified with him, cast the same in his teeth.
+			</v>
+			<marker class="begin-verse" mid="v40027045"/>
+			<v n="45">
+				Now from 
+				<crossref let="t" cid="c4002745.1"/>
+				 the sixth hour there was darkness over all the land unto the ninth hour.
+			</v>
+			<marker class="begin-verse" mid="v40027046"/>
+			<v n="46">
+				And about 
+				<crossref let="u" cid="c4002746.1"/>
+				 the ninth hour Jesus cried with a loud voice, saying, Eli, Eli, lama sabachthani? that is to say, My God, my God, why hast thou forsaken me?
+			</v>
+			<marker class="begin-verse" mid="v40027047"/>
+			<v n="47">
+				Some of 
+				<crossref let="v" cid="c4002747.1"/>
+				 them that stood there, when they heard that, said, This man calleth for Elias.
+			</v>
+			<marker class="begin-verse" mid="v40027048"/>
+			<v n="48">
+				And straightway 
+				<crossref let="w" cid="c4002748.1"/>
+				 one of them ran, and took a spunge, and filled it with vinegar, and put it on a reed, and gave him to drink.
+			</v>
+			<marker class="begin-verse" mid="v40027049"/>
+			<v n="49">
+				The rest 
+				<crossref let="x" cid="c4002749.1"/>
+				 said, Let be, let us see whether Elias will come to save him.
+			</v>
+			<marker class="begin-verse" mid="v40027050"/>
+			<v n="50">
+				¶ Jesus, 
+				<crossref let="y" cid="c4002750.1"/>
+				 when he had cried again with a loud voice, yielded up the ghost.
+			</v>
+			<marker class="begin-verse" mid="v40027051"/>
+			<v n="51">
+				And, behold, 
+				<crossref let="z" cid="c4002751.1"/>
+				 the veil of the temple was rent in twain from the top to the bottom; and the earth did quake, and the rocks rent;
+			</v>
+			<marker class="begin-verse" mid="v40027052"/>
+			<v n="52">
+				And the 
+				<crossref let="a" cid="c4002752.1"/>
+				 graves were opened; and many bodies of the saints which slept arose,
+			</v>
+			<marker class="begin-verse" mid="v40027053"/>
+			<v n="53">
+				And came 
+				<crossref let="b" cid="c4002753.1"/>
+				 out of the graves after his resurrection, and went into the holy city, and appeared unto many.
+			</v>
+			<marker class="begin-verse" mid="v40027054"/>
+			<v n="54">
+				Now when 
+				<crossref let="c" cid="c4002754.1"/>
+				 the centurion, and they that were with him, watching Jesus, saw the earthquake, and those things that were done, they feared greatly, saying, Truly this was the Son of God.
+			</v>
+			<marker class="begin-verse" mid="v40027055"/>
+			<v n="55">
+				And many 
+				<crossref let="d" cid="c4002755.1"/>
+				 women were there beholding afar off, which followed Jesus from Galilee, ministering unto him:
+			</v>
+			<marker class="begin-verse" mid="v40027056"/>
+			<v n="56">
+				Among which 
+				<crossref let="e" cid="c4002756.1"/>
+				 was Mary Magdalene, and Mary the mother of James and Joses, and the mother of Zebedee’s children.
+			</v>
+			<marker class="begin-verse" mid="v40027057"/>
+			<v n="57">
+				When the 
+				<crossref let="f" cid="c4002757.1"/>
+				 even was come, there came a rich man of Arimathæa, named Joseph, who also himself was Jesus’ disciple:
+			</v>
+			<marker class="begin-verse" mid="v40027058"/>
+			<v n="58">
+				He went 
+				<crossref let="g" cid="c4002758.1"/>
+				 to Pilate, and begged the body of Jesus. Then Pilate commanded the body to be delivered.
+			</v>
+			<marker class="begin-verse" mid="v40027059"/>
+			<v n="59">
+				And when 
+				<crossref let="h" cid="c4002759.1"/>
+				 Joseph had taken the body, he wrapped it in a clean linen cloth,
+			</v>
+			<marker class="begin-verse" mid="v40027060"/>
+			<v n="60">
+				And laid 
+				<crossref let="i" cid="c4002760.1"/>
+				 it in his own new tomb, which he had hewn out in the rock: and he rolled a great stone to the door of the sepulchre, and departed.
+			</v>
+			<marker class="begin-verse" mid="v40027061"/>
+			<v n="61">
+				And there 
+				<crossref let="j" cid="c4002761.1"/>
+				 was Mary Magdalene, and the other Mary, sitting over against the sepulchre.
+			</v>
+			<marker class="begin-verse" mid="v40027062"/>
+			<v n="62">
+				¶ Now 
+				<crossref let="k" cid="c4002762.1"/>
+				 the next day, that followed the day of the preparation, the chief priests and Pharisees came together unto Pilate,
+			</v>
+			<marker class="begin-verse" mid="v40027063"/>
+			<v n="63">
+				Saying, Sir, 
+				<crossref let="l" cid="c4002763.1"/>
+				 we remember that that deceiver said, while he was yet alive, After three days I will rise again.
+			</v>
+			<marker class="begin-verse" mid="v40027064"/>
+			<v n="64">
+				Command therefore 
+				<crossref let="m" cid="c4002764.1"/>
+				 that the sepulchre be made sure until the third day, lest his disciples come by night, and steal him away, and say unto the people, He is risen from the dead: so the last error shall be worse than the first.
+			</v>
+			<marker class="begin-verse" mid="v40027065"/>
+			<v n="65">
+				Pilate said 
+				<crossref let="n" cid="c4002765.1"/>
+				 unto them, Ye have a watch: go your way, make it as sure as ye can.
+			</v>
+			<marker class="begin-verse" mid="v40027066"/>
+			<v n="66">
+				So they 
+				<crossref let="o" cid="c4002766.1"/>
+				 went, and made the sepulchre sure, sealing the stone, and setting a watch.
+			</v>
+			<marker class="begin-verse" mid="v40027067"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

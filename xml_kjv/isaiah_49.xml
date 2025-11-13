@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:18:12.372186</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:18:12.372197</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="KJV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23049001"/>
+		<chapter num="49">
+			<begin-paragraph/>
+			<v n="1">
+				Listen, O 
+				<crossref let="b" cid="c230491.1"/>
+				 isles, unto me; and hearken, ye people, from far; The LORD hath called me from the womb; from the bowels of my mother hath he made mention of my name.
+			</v>
+			<marker class="begin-verse" mid="v23049002"/>
+			<v n="2">
+				And he 
+				<crossref let="c" cid="c230492.1"/>
+				 hath made my mouth like a sharp sword; in the shadow of his hand hath he hid me, and made me a polished shaft; in his quiver hath he hid me;
+			</v>
+			<marker class="begin-verse" mid="v23049003"/>
+			<v n="3">
+				And said 
+				<crossref let="d" cid="c230493.1"/>
+				 unto me, Thou art my servant, O Israel, in whom I will be glorified.
+			</v>
+			<marker class="begin-verse" mid="v23049004"/>
+			<v n="4">
+				Then I 
+				<crossref let="e" cid="c230494.1"/>
+				 said, I have laboured in vain, I have spent my strength for nought, and in vain: yet surely my judgment is with the LORD, and my work with my God.
+			</v>
+			<marker class="begin-verse" mid="v23049005"/>
+			<v n="5">
+				¶ And 
+				<crossref let="f" cid="c230495.1"/>
+				 now, saith the LORD that formed me from the womb to be his servant, to bring Jacob again to him, Though Israel be not gathered, yet shall I be glorious in the eyes of the LORD, and my God shall be my strength.
+			</v>
+			<marker class="begin-verse" mid="v23049006"/>
+			<v n="6">
+				And he 
+				<crossref let="g" cid="c230496.1"/>
+				 said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth.
+			</v>
+			<marker class="begin-verse" mid="v23049007"/>
+			<v n="7">
+				Thus saith 
+				<crossref let="h" cid="c230497.1"/>
+				 the LORD, the Redeemer of Israel, and his Holy One, to him whom man despiseth, to him whom the nation abhorreth, to a servant of rulers, Kings shall see and arise, princes also shall worship, because of the LORD that is faithful, and the Holy One of Israel, and he shall choose thee.
+			</v>
+			<marker class="begin-verse" mid="v23049008"/>
+			<v n="8">
+				Thus saith 
+				<crossref let="i" cid="c230498.1"/>
+				 the LORD, In an acceptable time have I heard thee, and in a day of salvation have I helped thee: and I will preserve thee, and give thee for a covenant of the people, to establish the earth, to cause to inherit the desolate heritages;
+			</v>
+			<marker class="begin-verse" mid="v23049009"/>
+			<v n="9">
+				That thou 
+				<crossref let="j" cid="c230499.1"/>
+				 mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places.
+			</v>
+			<marker class="begin-verse" mid="v23049010"/>
+			<v n="10">
+				They shall 
+				<crossref let="k" cid="c2304910.1"/>
+				 not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them.
+			</v>
+			<marker class="begin-verse" mid="v23049011"/>
+			<v n="11">
+				And I 
+				<crossref let="l" cid="c2304911.1"/>
+				 will make all my mountains a way, and my highways shall be exalted.
+			</v>
+			<marker class="begin-verse" mid="v23049012"/>
+			<v n="12">
+				Behold, these 
+				<crossref let="m" cid="c2304912.1"/>
+				 shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.
+			</v>
+			<marker class="begin-verse" mid="v23049013"/>
+			<v n="13">
+				¶ Sing, 
+				<crossref let="n" cid="c2304913.1"/>
+				 O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted.
+			</v>
+			<marker class="begin-verse" mid="v23049014"/>
+			<v n="14">
+				But Zion 
+				<crossref let="o" cid="c2304914.1"/>
+				 said, The LORD hath forsaken me, and my Lord hath forgotten me.
+			</v>
+			<marker class="begin-verse" mid="v23049015"/>
+			<v n="15">
+				Can a 
+				<crossref let="p" cid="c2304915.1"/>
+				 woman forget her sucking child, that she should not have compassion on the son of her womb? yea, they may forget, yet will I not forget thee.
+			</v>
+			<marker class="begin-verse" mid="v23049016"/>
+			<v n="16">
+				Behold, I 
+				<crossref let="q" cid="c2304916.1"/>
+				 have graven thee upon the palms of my hands; thy walls are continually before me.
+			</v>
+			<marker class="begin-verse" mid="v23049017"/>
+			<v n="17">
+				Thy children 
+				<crossref let="r" cid="c2304917.1"/>
+				 shall make haste; thy destroyers and they that made thee waste shall go forth of thee.
+			</v>
+			<marker class="begin-verse" mid="v23049018"/>
+			<v n="18">
+				¶ Lift 
+				<crossref let="s" cid="c2304918.1"/>
+				 up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the LORD, thou shalt surely clothe thee with them all, as with an ornament, and bind them on thee, as a bride doeth.
+			</v>
+			<marker class="begin-verse" mid="v23049019"/>
+			<v n="19">
+				For thy 
+				<crossref let="t" cid="c2304919.1"/>
+				 waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.
+			</v>
+			<marker class="begin-verse" mid="v23049020"/>
+			<v n="20">
+				The children 
+				<crossref let="u" cid="c2304920.1"/>
+				 which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell.
+			</v>
+			<marker class="begin-verse" mid="v23049021"/>
+			<v n="21">
+				Then shalt 
+				<crossref let="v" cid="c2304921.1"/>
+				 thou say in thine heart, Who hath begotten me these, seeing I have lost my children, and am desolate, a captive, and removing to and fro? and who hath brought up these? Behold, I was left alone; these, where had they been?
+			</v>
+			<marker class="begin-verse" mid="v23049022"/>
+			<v n="22">
+				Thus saith 
+				<crossref let="w" cid="c2304922.1"/>
+				 the Lord GOD, Behold, I will lift up mine hand to the Gentiles, and set up my standard to the people: and they shall bring thy sons in their arms, and thy daughters shall be carried upon their shoulders.
+			</v>
+			<marker class="begin-verse" mid="v23049023"/>
+			<v n="23">
+				And kings 
+				<crossref let="x" cid="c2304923.1"/>
+				 shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the LORD: for they shall not be ashamed that wait for me.
+			</v>
+			<marker class="begin-verse" mid="v23049024"/>
+			<v n="24">
+				¶ Shall 
+				<crossref let="y" cid="c2304924.1"/>
+				 the prey be taken from the mighty, or the lawful captive delivered?
+			</v>
+			<marker class="begin-verse" mid="v23049025"/>
+			<v n="25">
+				But thus 
+				<crossref let="z" cid="c2304925.1"/>
+				 saith the LORD, Even the captives of the mighty shall be taken away, and the prey of the terrible shall be delivered: for I will contend with him that contendeth with thee, and I will save thy children.
+			</v>
+			<marker class="begin-verse" mid="v23049026"/>
+			<v n="26">
+				And I 
+				<crossref let="a" cid="c2304926.1"/>
+				 will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v23049027"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

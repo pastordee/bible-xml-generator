@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:13:23.671423</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:13:23.671432</next_refresh_due>
+	</generation_info>
+	<book title="Song of Solomon" num="22" testament="old" version="KJV" bookAbbr="sng">
+		<marker class="begin-verse" mid="v22003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				By night 
+				<crossref let="b" cid="c220031.1"/>
+				 on my bed I sought him whom my soul loveth: I sought him, but I found him not.
+			</v>
+			<marker class="begin-verse" mid="v22003002"/>
+			<v n="2">
+				I will 
+				<crossref let="c" cid="c220032.1"/>
+				 rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not.
+			</v>
+			<marker class="begin-verse" mid="v22003003"/>
+			<v n="3">
+				The watchmen 
+				<crossref let="d" cid="c220033.1"/>
+				 that go about the city found me: to whom I said, Saw ye him whom my soul loveth?
+			</v>
+			<marker class="begin-verse" mid="v22003004"/>
+			<v n="4">
+				It was 
+				<crossref let="e" cid="c220034.1"/>
+				 but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother’s house, and into the chamber of her that conceived me.
+			</v>
+			<marker class="begin-verse" mid="v22003005"/>
+			<v n="5">
+				I charge 
+				<crossref let="f" cid="c220035.1"/>
+				 you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.
+			</v>
+			<marker class="begin-verse" mid="v22003006"/>
+			<v n="6">
+				¶ Who 
+				<crossref let="g" cid="c220036.1"/>
+				 is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?
+			</v>
+			<marker class="begin-verse" mid="v22003007"/>
+			<v n="7">
+				Behold his 
+				<crossref let="h" cid="c220037.1"/>
+				 bed, which is Solomon’s; threescore valiant men are about it, of the valiant of Israel.
+			</v>
+			<marker class="begin-verse" mid="v22003008"/>
+			<v n="8">
+				They all 
+				<crossref let="i" cid="c220038.1"/>
+				 hold swords, being expert in war: every man hath his sword upon his thigh because of fear in the night.
+			</v>
+			<marker class="begin-verse" mid="v22003009"/>
+			<v n="9">
+				King Solomon 
+				<crossref let="j" cid="c220039.1"/>
+				 made himself a chariot of the wood of Lebanon.
+			</v>
+			<marker class="begin-verse" mid="v22003010"/>
+			<v n="10">
+				He made 
+				<crossref let="k" cid="c2200310.1"/>
+				 the pillars thereof of silver, the bottom thereof of gold, the covering of it of purple, the midst thereof being paved with love, for the daughters of Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v22003011"/>
+			<v n="11">
+				Go forth, 
+				<crossref let="l" cid="c2200311.1"/>
+				 O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.
+			</v>
+			<marker class="begin-verse" mid="v22003012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

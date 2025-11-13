@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:15:10.246691</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:15:10.246709</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="KJV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23015001"/>
+		<chapter num="15">
+			<begin-paragraph/>
+			<v n="1">
+				The burden 
+				<crossref let="b" cid="c230151.1"/>
+				 of Moab. Because in the night Ar of Moab is laid waste, and brought to silence; because in the night Kir of Moab is laid waste, and brought to silence;
+			</v>
+			<marker class="begin-verse" mid="v23015002"/>
+			<v n="2">
+				He is 
+				<crossref let="c" cid="c230152.1"/>
+				 gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off.
+			</v>
+			<marker class="begin-verse" mid="v23015003"/>
+			<v n="3">
+				In their 
+				<crossref let="d" cid="c230153.1"/>
+				 streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly.
+			</v>
+			<marker class="begin-verse" mid="v23015004"/>
+			<v n="4">
+				And Heshbon 
+				<crossref let="e" cid="c230154.1"/>
+				 shall cry, and Elealeh: their voice shall be heard even unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him.
+			</v>
+			<marker class="begin-verse" mid="v23015005"/>
+			<v n="5">
+				My heart 
+				<crossref let="f" cid="c230155.1"/>
+				 shall cry out for Moab; his fugitives shall flee unto Zoar, an heifer of three years old: for by the mounting up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction.
+			</v>
+			<marker class="begin-verse" mid="v23015006"/>
+			<v n="6">
+				For the 
+				<crossref let="g" cid="c230156.1"/>
+				 waters of Nimrim shall be desolate: for the hay is withered away, the grass faileth, there is no green thing.
+			</v>
+			<marker class="begin-verse" mid="v23015007"/>
+			<v n="7">
+				Therefore the 
+				<crossref let="h" cid="c230157.1"/>
+				 abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows.
+			</v>
+			<marker class="begin-verse" mid="v23015008"/>
+			<v n="8">
+				For the 
+				<crossref let="i" cid="c230158.1"/>
+				 cry is gone round about the borders of Moab; the howling thereof unto Eglaim, and the howling thereof unto Beer-elim.
+			</v>
+			<marker class="begin-verse" mid="v23015009"/>
+			<v n="9">
+				For the 
+				<crossref let="j" cid="c230159.1"/>
+				 waters of Dimon shall be full of blood: for I will bring more upon Dimon, lions upon him that escapeth of Moab, and upon the remnant of the land.
+			</v>
+			<marker class="begin-verse" mid="v23015010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

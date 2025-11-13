@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:03:58.114874</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:03:58.114883</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19090001"/>
+		<chapter num="90">
+			<heading>A Prayer of Moses the man of God.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Lord, thou 
+				<crossref let="b" cid="c190901.1"/>
+				 hast been our dwelling place in all generations.
+			</v>
+			<marker class="begin-verse" mid="v19090002"/>
+			<v n="2">
+				Before the 
+				<crossref let="c" cid="c190902.1"/>
+				 mountains were brought forth, or ever thou hadst formed the earth and the world, even from everlasting to everlasting, thou art God.
+			</v>
+			<marker class="begin-verse" mid="v19090003"/>
+			<v n="3">
+				Thou turnest 
+				<crossref let="d" cid="c190903.1"/>
+				 man to destruction; and sayest, Return, ye children of men.
+			</v>
+			<marker class="begin-verse" mid="v19090004"/>
+			<v n="4">
+				For a 
+				<crossref let="e" cid="c190904.1"/>
+				 thousand years in thy sight are but as yesterday when it is past, and as a watch in the night.
+			</v>
+			<marker class="begin-verse" mid="v19090005"/>
+			<v n="5">
+				Thou carriest 
+				<crossref let="f" cid="c190905.1"/>
+				 them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.
+			</v>
+			<marker class="begin-verse" mid="v19090006"/>
+			<v n="6">
+				In the 
+				<crossref let="g" cid="c190906.1"/>
+				 morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
+			</v>
+			<marker class="begin-verse" mid="v19090007"/>
+			<v n="7">
+				For we 
+				<crossref let="h" cid="c190907.1"/>
+				 are consumed by thine anger, and by thy wrath are we troubled.
+			</v>
+			<marker class="begin-verse" mid="v19090008"/>
+			<v n="8">
+				Thou hast 
+				<crossref let="i" cid="c190908.1"/>
+				 set our iniquities before thee, our secret sins in the light of thy countenance.
+			</v>
+			<marker class="begin-verse" mid="v19090009"/>
+			<v n="9">
+				For all 
+				<crossref let="j" cid="c190909.1"/>
+				 our days are passed away in thy wrath: we spend our years as a tale that is told.
+			</v>
+			<marker class="begin-verse" mid="v19090010"/>
+			<v n="10">
+				The days 
+				<crossref let="k" cid="c1909010.1"/>
+				 of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.
+			</v>
+			<marker class="begin-verse" mid="v19090011"/>
+			<v n="11">
+				Who knoweth 
+				<crossref let="l" cid="c1909011.1"/>
+				 the power of thine anger? even according to thy fear, so is thy wrath.
+			</v>
+			<marker class="begin-verse" mid="v19090012"/>
+			<v n="12">
+				So teach 
+				<crossref let="m" cid="c1909012.1"/>
+				 us to number our days, that we may apply our hearts unto wisdom.
+			</v>
+			<marker class="begin-verse" mid="v19090013"/>
+			<v n="13">
+				Return, O 
+				<crossref let="n" cid="c1909013.1"/>
+				 LORD, how long? and let it repent thee concerning thy servants.
+			</v>
+			<marker class="begin-verse" mid="v19090014"/>
+			<v n="14">
+				O satisfy 
+				<crossref let="o" cid="c1909014.1"/>
+				 us early with thy mercy; that we may rejoice and be glad all our days.
+			</v>
+			<marker class="begin-verse" mid="v19090015"/>
+			<v n="15">
+				Make us 
+				<crossref let="p" cid="c1909015.1"/>
+				 glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.
+			</v>
+			<marker class="begin-verse" mid="v19090016"/>
+			<v n="16">
+				Let thy 
+				<crossref let="q" cid="c1909016.1"/>
+				 work appear unto thy servants, and thy glory unto their children.
+			</v>
+			<marker class="begin-verse" mid="v19090017"/>
+			<v n="17">
+				And let 
+				<crossref let="r" cid="c1909017.1"/>
+				 the beauty of the LORD our God be upon us: and establish thou the work of our hands upon us; yea, the work of our hands establish thou it.
+			</v>
+			<marker class="begin-verse" mid="v19090018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:06:11.636403</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:06:11.636410</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19115001"/>
+		<chapter num="115">
+			<begin-paragraph/>
+			<v n="1">
+				Not unto 
+				<crossref let="b" cid="c191151.1"/>
+				 us, O LORD, not unto us, but unto thy name give glory, for thy mercy, and for thy truth’s sake.
+			</v>
+			<marker class="begin-verse" mid="v19115002"/>
+			<v n="2">
+				Wherefore should 
+				<crossref let="c" cid="c191152.1"/>
+				 the heathen say, Where is now their God?
+			</v>
+			<marker class="begin-verse" mid="v19115003"/>
+			<v n="3">
+				But our 
+				<crossref let="d" cid="c191153.1"/>
+				 God is in the heavens: he hath done whatsoever he hath pleased.
+			</v>
+			<marker class="begin-verse" mid="v19115004"/>
+			<v n="4">
+				Their idols 
+				<crossref let="e" cid="c191154.1"/>
+				 are silver and gold, the work of men’s hands.
+			</v>
+			<marker class="begin-verse" mid="v19115005"/>
+			<v n="5">
+				They have 
+				<crossref let="f" cid="c191155.1"/>
+				 mouths, but they speak not: eyes have they, but they see not:
+			</v>
+			<marker class="begin-verse" mid="v19115006"/>
+			<v n="6">
+				They have 
+				<crossref let="g" cid="c191156.1"/>
+				 ears, but they hear not: noses have they, but they smell not:
+			</v>
+			<marker class="begin-verse" mid="v19115007"/>
+			<v n="7">
+				They have 
+				<crossref let="h" cid="c191157.1"/>
+				 hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.
+			</v>
+			<marker class="begin-verse" mid="v19115008"/>
+			<v n="8">
+				They that 
+				<crossref let="i" cid="c191158.1"/>
+				 make them are like unto them; so is every one that trusteth in them.
+			</v>
+			<marker class="begin-verse" mid="v19115009"/>
+			<v n="9">
+				O Israel, 
+				<crossref let="j" cid="c191159.1"/>
+				 trust thou in the LORD: he is their help and their shield.
+			</v>
+			<marker class="begin-verse" mid="v19115010"/>
+			<v n="10">
+				O house 
+				<crossref let="k" cid="c1911510.1"/>
+				 of Aaron, trust in the LORD: he is their help and their shield.
+			</v>
+			<marker class="begin-verse" mid="v19115011"/>
+			<v n="11">
+				Ye that 
+				<crossref let="l" cid="c1911511.1"/>
+				 fear the LORD, trust in the LORD: he is their help and their shield.
+			</v>
+			<marker class="begin-verse" mid="v19115012"/>
+			<v n="12">
+				The LORD 
+				<crossref let="m" cid="c1911512.1"/>
+				 hath been mindful of us: he will bless us; he will bless the house of Israel; he will bless the house of Aaron.
+			</v>
+			<marker class="begin-verse" mid="v19115013"/>
+			<v n="13">
+				He will 
+				<crossref let="n" cid="c1911513.1"/>
+				 bless them that fear the LORD, both small and great.
+			</v>
+			<marker class="begin-verse" mid="v19115014"/>
+			<v n="14">
+				The LORD 
+				<crossref let="o" cid="c1911514.1"/>
+				 shall increase you more and more, you and your children.
+			</v>
+			<marker class="begin-verse" mid="v19115015"/>
+			<v n="15">
+				Ye are 
+				<crossref let="p" cid="c1911515.1"/>
+				 blessed of the LORD which made heaven and earth.
+			</v>
+			<marker class="begin-verse" mid="v19115016"/>
+			<v n="16">
+				The heaven, 
+				<crossref let="q" cid="c1911516.1"/>
+				 even the heavens, are the LORD’s: but the earth hath he given to the children of men.
+			</v>
+			<marker class="begin-verse" mid="v19115017"/>
+			<v n="17">
+				The dead 
+				<crossref let="r" cid="c1911517.1"/>
+				 praise not the LORD, neither any that go down into silence.
+			</v>
+			<marker class="begin-verse" mid="v19115018"/>
+			<v n="18">
+				But we 
+				<crossref let="s" cid="c1911518.1"/>
+				 will bless the LORD from this time forth and for evermore. Praise the LORD.
+			</v>
+			<marker class="begin-verse" mid="v19115019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

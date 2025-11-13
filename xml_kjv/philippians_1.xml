@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:51:28.517139</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:51:28.517152</next_refresh_due>
+	</generation_info>
+	<book title="Philippians" num="50" testament="new" version="KJV" bookAbbr="php">
+		<marker class="begin-verse" mid="v50001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				Paul and 
+				<crossref let="b" cid="c500011.1"/>
+				 Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
+			</v>
+			<marker class="begin-verse" mid="v50001002"/>
+			<v n="2">
+				Grace be 
+				<crossref let="c" cid="c500012.1"/>
+				 unto you, and peace, from God our Father, and from the Lord Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v50001003"/>
+			<v n="3">
+				I thank 
+				<crossref let="d" cid="c500013.1"/>
+				 my God upon every remembrance of you,
+			</v>
+			<marker class="begin-verse" mid="v50001004"/>
+			<v n="4">
+				Always in 
+				<crossref let="e" cid="c500014.1"/>
+				 every prayer of mine for you all making request with joy,
+			</v>
+			<marker class="begin-verse" mid="v50001005"/>
+			<v n="5">
+				For your 
+				<crossref let="f" cid="c500015.1"/>
+				 fellowship in the gospel from the first day until now;
+			</v>
+			<marker class="begin-verse" mid="v50001006"/>
+			<v n="6">
+				Being confident 
+				<crossref let="g" cid="c500016.1"/>
+				 of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:
+			</v>
+			<marker class="begin-verse" mid="v50001007"/>
+			<v n="7">
+				Even as 
+				<crossref let="h" cid="c500017.1"/>
+				 it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace.
+			</v>
+			<marker class="begin-verse" mid="v50001008"/>
+			<v n="8">
+				For God 
+				<crossref let="i" cid="c500018.1"/>
+				 is my record, how greatly I long after you all in the bowels of Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v50001009"/>
+			<v n="9">
+				And this 
+				<crossref let="j" cid="c500019.1"/>
+				 I pray, that your love may abound yet more and more in knowledge and in all judgment;
+			</v>
+			<marker class="begin-verse" mid="v50001010"/>
+			<v n="10">
+				That ye 
+				<crossref let="k" cid="c5000110.1"/>
+				 may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;
+			</v>
+			<marker class="begin-verse" mid="v50001011"/>
+			<v n="11">
+				Being filled 
+				<crossref let="l" cid="c5000111.1"/>
+				 with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God.
+			</v>
+			<marker class="begin-verse" mid="v50001012"/>
+			<v n="12">
+				But I 
+				<crossref let="m" cid="c5000112.1"/>
+				 would ye should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel;
+			</v>
+			<marker class="begin-verse" mid="v50001013"/>
+			<v n="13">
+				So that 
+				<crossref let="n" cid="c5000113.1"/>
+				 my bonds in Christ are manifest in all the palace, and in all other places;
+			</v>
+			<marker class="begin-verse" mid="v50001014"/>
+			<v n="14">
+				And many 
+				<crossref let="o" cid="c5000114.1"/>
+				 of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
+			</v>
+			<marker class="begin-verse" mid="v50001015"/>
+			<v n="15">
+				Some indeed 
+				<crossref let="p" cid="c5000115.1"/>
+				 preach Christ even of envy and strife; and some also of good will:
+			</v>
+			<marker class="begin-verse" mid="v50001016"/>
+			<v n="16">
+				The one 
+				<crossref let="q" cid="c5000116.1"/>
+				 preach Christ of contention, not sincerely, supposing to add affliction to my bonds:
+			</v>
+			<marker class="begin-verse" mid="v50001017"/>
+			<v n="17">
+				But the 
+				<crossref let="r" cid="c5000117.1"/>
+				 other of love, knowing that I am set for the defence of the gospel.
+			</v>
+			<marker class="begin-verse" mid="v50001018"/>
+			<v n="18">
+				What then? 
+				<crossref let="s" cid="c5000118.1"/>
+				 notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice.
+			</v>
+			<marker class="begin-verse" mid="v50001019"/>
+			<v n="19">
+				For I 
+				<crossref let="t" cid="c5000119.1"/>
+				 know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,
+			</v>
+			<marker class="begin-verse" mid="v50001020"/>
+			<v n="20">
+				According to 
+				<crossref let="u" cid="c5000120.1"/>
+				 my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death.
+			</v>
+			<marker class="begin-verse" mid="v50001021"/>
+			<v n="21">
+				For to 
+				<crossref let="v" cid="c5000121.1"/>
+				 me to live is Christ, and to die is gain.
+			</v>
+			<marker class="begin-verse" mid="v50001022"/>
+			<v n="22">
+				But if 
+				<crossref let="w" cid="c5000122.1"/>
+				 I live in the flesh, this is the fruit of my labour: yet what I shall choose I wot not.
+			</v>
+			<marker class="begin-verse" mid="v50001023"/>
+			<v n="23">
+				For I 
+				<crossref let="x" cid="c5000123.1"/>
+				 am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:
+			</v>
+			<marker class="begin-verse" mid="v50001024"/>
+			<v n="24">
+				Nevertheless to 
+				<crossref let="y" cid="c5000124.1"/>
+				 abide in the flesh is more needful for you.
+			</v>
+			<marker class="begin-verse" mid="v50001025"/>
+			<v n="25">
+				And having 
+				<crossref let="z" cid="c5000125.1"/>
+				 this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;
+			</v>
+			<marker class="begin-verse" mid="v50001026"/>
+			<v n="26">
+				That your 
+				<crossref let="a" cid="c5000126.1"/>
+				 rejoicing may be more abundant in Jesus Christ for me by my coming to you again.
+			</v>
+			<marker class="begin-verse" mid="v50001027"/>
+			<v n="27">
+				Only let 
+				<crossref let="b" cid="c5000127.1"/>
+				 your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;
+			</v>
+			<marker class="begin-verse" mid="v50001028"/>
+			<v n="28">
+				And in 
+				<crossref let="c" cid="c5000128.1"/>
+				 nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God.
+			</v>
+			<marker class="begin-verse" mid="v50001029"/>
+			<v n="29">
+				For unto 
+				<crossref let="d" cid="c5000129.1"/>
+				 you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
+			</v>
+			<marker class="begin-verse" mid="v50001030"/>
+			<v n="30">
+				Having the 
+				<crossref let="e" cid="c5000130.1"/>
+				 same conflict which ye saw in me, and now hear to be in me.
+			</v>
+			<marker class="begin-verse" mid="v50001031"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

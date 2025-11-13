@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:02:22.074564</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:02:22.074572</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19072001"/>
+		<chapter num="72">
+			<heading>A Psalm for Solomon.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Give the 
+				<crossref let="b" cid="c190721.1"/>
+				 king thy judgments, O God, and thy righteousness unto the king’s son.
+			</v>
+			<marker class="begin-verse" mid="v19072002"/>
+			<v n="2">
+				He shall 
+				<crossref let="c" cid="c190722.1"/>
+				 judge thy people with righteousness, and thy poor with judgment.
+			</v>
+			<marker class="begin-verse" mid="v19072003"/>
+			<v n="3">
+				The mountains 
+				<crossref let="d" cid="c190723.1"/>
+				 shall bring peace to the people, and the little hills, by righteousness.
+			</v>
+			<marker class="begin-verse" mid="v19072004"/>
+			<v n="4">
+				He shall 
+				<crossref let="e" cid="c190724.1"/>
+				 judge the poor of the people, he shall save the children of the needy, and shall break in pieces the oppressor.
+			</v>
+			<marker class="begin-verse" mid="v19072005"/>
+			<v n="5">
+				They shall 
+				<crossref let="f" cid="c190725.1"/>
+				 fear thee as long as the sun and moon endure, throughout all generations.
+			</v>
+			<marker class="begin-verse" mid="v19072006"/>
+			<v n="6">
+				He shall 
+				<crossref let="g" cid="c190726.1"/>
+				 come down like rain upon the mown grass: as showers that water the earth.
+			</v>
+			<marker class="begin-verse" mid="v19072007"/>
+			<v n="7">
+				In his 
+				<crossref let="h" cid="c190727.1"/>
+				 days shall the righteous flourish; and abundance of peace so long as the moon endureth.
+			</v>
+			<marker class="begin-verse" mid="v19072008"/>
+			<v n="8">
+				He shall 
+				<crossref let="i" cid="c190728.1"/>
+				 have dominion also from sea to sea, and from the river unto the ends of the earth.
+			</v>
+			<marker class="begin-verse" mid="v19072009"/>
+			<v n="9">
+				They that 
+				<crossref let="j" cid="c190729.1"/>
+				 dwell in the wilderness shall bow before him; and his enemies shall lick the dust.
+			</v>
+			<marker class="begin-verse" mid="v19072010"/>
+			<v n="10">
+				The kings 
+				<crossref let="k" cid="c1907210.1"/>
+				 of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.
+			</v>
+			<marker class="begin-verse" mid="v19072011"/>
+			<v n="11">
+				Yea, all 
+				<crossref let="l" cid="c1907211.1"/>
+				 kings shall fall down before him: all nations shall serve him.
+			</v>
+			<marker class="begin-verse" mid="v19072012"/>
+			<v n="12">
+				For he 
+				<crossref let="m" cid="c1907212.1"/>
+				 shall deliver the needy when he crieth; the poor also, and him that hath no helper.
+			</v>
+			<marker class="begin-verse" mid="v19072013"/>
+			<v n="13">
+				He shall 
+				<crossref let="n" cid="c1907213.1"/>
+				 spare the poor and needy, and shall save the souls of the needy.
+			</v>
+			<marker class="begin-verse" mid="v19072014"/>
+			<v n="14">
+				He shall 
+				<crossref let="o" cid="c1907214.1"/>
+				 redeem their soul from deceit and violence: and precious shall their blood be in his sight.
+			</v>
+			<marker class="begin-verse" mid="v19072015"/>
+			<v n="15">
+				And he 
+				<crossref let="p" cid="c1907215.1"/>
+				 shall live, and to him shall be given of the gold of Sheba: prayer also shall be made for him continually; and daily shall he be praised.
+			</v>
+			<marker class="begin-verse" mid="v19072016"/>
+			<v n="16">
+				There shall 
+				<crossref let="q" cid="c1907216.1"/>
+				 be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth.
+			</v>
+			<marker class="begin-verse" mid="v19072017"/>
+			<v n="17">
+				His name 
+				<crossref let="r" cid="c1907217.1"/>
+				 shall endure for ever: his name shall be continued as long as the sun: and men shall be blessed in him: all nations shall call him blessed.
+			</v>
+			<marker class="begin-verse" mid="v19072018"/>
+			<v n="18">
+				Blessed be 
+				<crossref let="s" cid="c1907218.1"/>
+				 the LORD God, the God of Israel, who only doeth wondrous things.
+			</v>
+			<marker class="begin-verse" mid="v19072019"/>
+			<v n="19">
+				And blessed 
+				<crossref let="t" cid="c1907219.1"/>
+				 be his glorious name for ever: and let the whole earth be filled with his glory; Amen, and Amen.
+			</v>
+			<marker class="begin-verse" mid="v19072020"/>
+			<v n="20">
+				The prayers 
+				<crossref let="u" cid="c1907220.1"/>
+				 of David the son of Jesse are ended.
+			</v>
+			<marker class="begin-verse" mid="v19072021"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

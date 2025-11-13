@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:52:38.784904</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:52:38.784925</next_refresh_due>
+	</generation_info>
+	<book title="2 Thessalonians" num="53" testament="new" version="KJV" bookAbbr="2th">
+		<marker class="begin-verse" mid="v53001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				Paul, and 
+				<crossref let="b" cid="c530011.1"/>
+				 Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
+			</v>
+			<marker class="begin-verse" mid="v53001002"/>
+			<v n="2">
+				Grace unto 
+				<crossref let="c" cid="c530012.1"/>
+				 you, and peace, from God our Father and the Lord Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v53001003"/>
+			<v n="3">
+				We are 
+				<crossref let="d" cid="c530013.1"/>
+				 bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;
+			</v>
+			<marker class="begin-verse" mid="v53001004"/>
+			<v n="4">
+				So that 
+				<crossref let="e" cid="c530014.1"/>
+				 we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:
+			</v>
+			<marker class="begin-verse" mid="v53001005"/>
+			<v n="5">
+				Which is 
+				<crossref let="f" cid="c530015.1"/>
+				 a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:
+			</v>
+			<marker class="begin-verse" mid="v53001006"/>
+			<v n="6">
+				Seeing it 
+				<crossref let="g" cid="c530016.1"/>
+				 is a righteous thing with God to recompense tribulation to them that trouble you;
+			</v>
+			<marker class="begin-verse" mid="v53001007"/>
+			<v n="7">
+				And to 
+				<crossref let="h" cid="c530017.1"/>
+				 you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,
+			</v>
+			<marker class="begin-verse" mid="v53001008"/>
+			<v n="8">
+				In flaming 
+				<crossref let="i" cid="c530018.1"/>
+				 fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:
+			</v>
+			<marker class="begin-verse" mid="v53001009"/>
+			<v n="9">
+				Who shall 
+				<crossref let="j" cid="c530019.1"/>
+				 be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;
+			</v>
+			<marker class="begin-verse" mid="v53001010"/>
+			<v n="10">
+				When he 
+				<crossref let="k" cid="c5300110.1"/>
+				 shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.
+			</v>
+			<marker class="begin-verse" mid="v53001011"/>
+			<v n="11">
+				Wherefore also 
+				<crossref let="l" cid="c5300111.1"/>
+				 we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:
+			</v>
+			<marker class="begin-verse" mid="v53001012"/>
+			<v n="12">
+				That the 
+				<crossref let="m" cid="c5300112.1"/>
+				 name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v53001013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

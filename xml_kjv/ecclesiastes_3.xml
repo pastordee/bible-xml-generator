@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:12:20.156945</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:12:20.156963</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" version="KJV" bookAbbr="ecc">
+		<marker class="begin-verse" mid="v21003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				To every 
+				<crossref let="b" cid="c210031.1"/>
+				 thing there is a season, and a time to every purpose under the heaven:
+			</v>
+			<marker class="begin-verse" mid="v21003002"/>
+			<v n="2">
+				A time 
+				<crossref let="c" cid="c210032.1"/>
+				 to be born, and a time to die; a time to plant, and a time to pluck up that which is planted;
+			</v>
+			<marker class="begin-verse" mid="v21003003"/>
+			<v n="3">
+				A time 
+				<crossref let="d" cid="c210033.1"/>
+				 to kill, and a time to heal; a time to break down, and a time to build up;
+			</v>
+			<marker class="begin-verse" mid="v21003004"/>
+			<v n="4">
+				A time 
+				<crossref let="e" cid="c210034.1"/>
+				 to weep, and a time to laugh; a time to mourn, and a time to dance;
+			</v>
+			<marker class="begin-verse" mid="v21003005"/>
+			<v n="5">
+				A time 
+				<crossref let="f" cid="c210035.1"/>
+				 to cast away stones, and a time to gather stones together; a time to embrace, and a time to refrain from embracing;
+			</v>
+			<marker class="begin-verse" mid="v21003006"/>
+			<v n="6">
+				A time 
+				<crossref let="g" cid="c210036.1"/>
+				 to get, and a time to lose; a time to keep, and a time to cast away;
+			</v>
+			<marker class="begin-verse" mid="v21003007"/>
+			<v n="7">
+				A time 
+				<crossref let="h" cid="c210037.1"/>
+				 to rend, and a time to sew; a time to keep silence, and a time to speak;
+			</v>
+			<marker class="begin-verse" mid="v21003008"/>
+			<v n="8">
+				A time 
+				<crossref let="i" cid="c210038.1"/>
+				 to love, and a time to hate; a time of war, and a time of peace.
+			</v>
+			<marker class="begin-verse" mid="v21003009"/>
+			<v n="9">
+				What profit 
+				<crossref let="j" cid="c210039.1"/>
+				 hath he that worketh in that wherein he laboureth?
+			</v>
+			<marker class="begin-verse" mid="v21003010"/>
+			<v n="10">
+				I have 
+				<crossref let="k" cid="c2100310.1"/>
+				 seen the travail, which God hath given to the sons of men to be exercised in it.
+			</v>
+			<marker class="begin-verse" mid="v21003011"/>
+			<v n="11">
+				He hath 
+				<crossref let="l" cid="c2100311.1"/>
+				 made every thing beautiful in his time: also he hath set the world in their heart, so that no man can find out the work that God maketh from the beginning to the end.
+			</v>
+			<marker class="begin-verse" mid="v21003012"/>
+			<v n="12">
+				I know 
+				<crossref let="m" cid="c2100312.1"/>
+				 that there is no good in them, but for a man to rejoice, and to do good in his life.
+			</v>
+			<marker class="begin-verse" mid="v21003013"/>
+			<v n="13">
+				And also 
+				<crossref let="n" cid="c2100313.1"/>
+				 that every man should eat and drink, and enjoy the good of all his labour, it is the gift of God.
+			</v>
+			<marker class="begin-verse" mid="v21003014"/>
+			<v n="14">
+				I know 
+				<crossref let="o" cid="c2100314.1"/>
+				 that, whatsoever God doeth, it shall be for ever: nothing can be put to it, nor any thing taken from it: and God doeth it, that men should fear before him.
+			</v>
+			<marker class="begin-verse" mid="v21003015"/>
+			<v n="15">
+				That which 
+				<crossref let="p" cid="c2100315.1"/>
+				 hath been is now; and that which is to be hath already been; and God requireth that which is past.
+			</v>
+			<marker class="begin-verse" mid="v21003016"/>
+			<v n="16">
+				¶ And 
+				<crossref let="q" cid="c2100316.1"/>
+				 moreover I saw under the sun the place of judgment, that wickedness was there; and the place of righteousness, that iniquity was there.
+			</v>
+			<marker class="begin-verse" mid="v21003017"/>
+			<v n="17">
+				I said 
+				<crossref let="r" cid="c2100317.1"/>
+				 in mine heart, God shall judge the righteous and the wicked: for there is a time there for every purpose and for every work.
+			</v>
+			<marker class="begin-verse" mid="v21003018"/>
+			<v n="18">
+				I said 
+				<crossref let="s" cid="c2100318.1"/>
+				 in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
+			</v>
+			<marker class="begin-verse" mid="v21003019"/>
+			<v n="19">
+				For that 
+				<crossref let="t" cid="c2100319.1"/>
+				 which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity.
+			</v>
+			<marker class="begin-verse" mid="v21003020"/>
+			<v n="20">
+				All go 
+				<crossref let="u" cid="c2100320.1"/>
+				 unto one place; all are of the dust, and all turn to dust again.
+			</v>
+			<marker class="begin-verse" mid="v21003021"/>
+			<v n="21">
+				Who knoweth 
+				<crossref let="v" cid="c2100321.1"/>
+				 the spirit of man that goeth upward, and the spirit of the beast that goeth downward to the earth?
+			</v>
+			<marker class="begin-verse" mid="v21003022"/>
+			<v n="22">
+				Wherefore I 
+				<crossref let="w" cid="c2100322.1"/>
+				 perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?
+			</v>
+			<marker class="begin-verse" mid="v21003023"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:09:01.832066</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:09:01.832090</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19147001"/>
+		<chapter num="147">
+			<begin-paragraph/>
+			<v n="1">
+				Praise ye 
+				<crossref let="b" cid="c191471.1"/>
+				 the LORD: for it is good to sing praises unto our God; for it is pleasant; and praise is comely.
+			</v>
+			<marker class="begin-verse" mid="v19147002"/>
+			<v n="2">
+				The LORD 
+				<crossref let="c" cid="c191472.1"/>
+				 doth build up Jerusalem: he gathereth together the outcasts of Israel.
+			</v>
+			<marker class="begin-verse" mid="v19147003"/>
+			<v n="3">
+				He healeth 
+				<crossref let="d" cid="c191473.1"/>
+				 the broken in heart, and bindeth up their wounds.
+			</v>
+			<marker class="begin-verse" mid="v19147004"/>
+			<v n="4">
+				He telleth 
+				<crossref let="e" cid="c191474.1"/>
+				 the number of the stars; he calleth them all by their names.
+			</v>
+			<marker class="begin-verse" mid="v19147005"/>
+			<v n="5">
+				Great is 
+				<crossref let="f" cid="c191475.1"/>
+				 our Lord, and of great power: his understanding is infinite.
+			</v>
+			<marker class="begin-verse" mid="v19147006"/>
+			<v n="6">
+				The LORD 
+				<crossref let="g" cid="c191476.1"/>
+				 lifteth up the meek: he casteth the wicked down to the ground.
+			</v>
+			<marker class="begin-verse" mid="v19147007"/>
+			<v n="7">
+				Sing unto 
+				<crossref let="h" cid="c191477.1"/>
+				 the LORD with thanksgiving; sing praise upon the harp unto our God:
+			</v>
+			<marker class="begin-verse" mid="v19147008"/>
+			<v n="8">
+				Who covereth 
+				<crossref let="i" cid="c191478.1"/>
+				 the heaven with clouds, who prepareth rain for the earth, who maketh grass to grow upon the mountains.
+			</v>
+			<marker class="begin-verse" mid="v19147009"/>
+			<v n="9">
+				He giveth 
+				<crossref let="j" cid="c191479.1"/>
+				 to the beast his food, and to the young ravens which cry.
+			</v>
+			<marker class="begin-verse" mid="v19147010"/>
+			<v n="10">
+				He delighteth 
+				<crossref let="k" cid="c1914710.1"/>
+				 not in the strength of the horse: he taketh not pleasure in the legs of a man.
+			</v>
+			<marker class="begin-verse" mid="v19147011"/>
+			<v n="11">
+				The LORD 
+				<crossref let="l" cid="c1914711.1"/>
+				 taketh pleasure in them that fear him, in those that hope in his mercy.
+			</v>
+			<marker class="begin-verse" mid="v19147012"/>
+			<v n="12">
+				Praise the 
+				<crossref let="m" cid="c1914712.1"/>
+				 LORD, O Jerusalem; praise thy God, O Zion.
+			</v>
+			<marker class="begin-verse" mid="v19147013"/>
+			<v n="13">
+				For he 
+				<crossref let="n" cid="c1914713.1"/>
+				 hath strengthened the bars of thy gates; he hath blessed thy children within thee.
+			</v>
+			<marker class="begin-verse" mid="v19147014"/>
+			<v n="14">
+				He maketh 
+				<crossref let="o" cid="c1914714.1"/>
+				 peace in thy borders, and filleth thee with the finest of the wheat.
+			</v>
+			<marker class="begin-verse" mid="v19147015"/>
+			<v n="15">
+				He sendeth 
+				<crossref let="p" cid="c1914715.1"/>
+				 forth his commandment upon earth: his word runneth very swiftly.
+			</v>
+			<marker class="begin-verse" mid="v19147016"/>
+			<v n="16">
+				He giveth 
+				<crossref let="q" cid="c1914716.1"/>
+				 snow like wool: he scattereth the hoarfrost like ashes.
+			</v>
+			<marker class="begin-verse" mid="v19147017"/>
+			<v n="17">
+				He casteth 
+				<crossref let="r" cid="c1914717.1"/>
+				 forth his ice like morsels: who can stand before his cold?
+			</v>
+			<marker class="begin-verse" mid="v19147018"/>
+			<v n="18">
+				He sendeth 
+				<crossref let="s" cid="c1914718.1"/>
+				 out his word, and melteth them: he causeth his wind to blow, and the waters flow.
+			</v>
+			<marker class="begin-verse" mid="v19147019"/>
+			<v n="19">
+				He sheweth 
+				<crossref let="t" cid="c1914719.1"/>
+				 his word unto Jacob, his statutes and his judgments unto Israel.
+			</v>
+			<marker class="begin-verse" mid="v19147020"/>
+			<v n="20">
+				He hath 
+				<crossref let="u" cid="c1914720.1"/>
+				 not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the LORD.
+			</v>
+			<marker class="begin-verse" mid="v19147021"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:33:16.311713</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:33:16.311740</next_refresh_due>
+	</generation_info>
+	<book title="Micah" num="33" testament="old" version="KJV" bookAbbr="mic">
+		<marker class="begin-verse" mid="v33004001"/>
+		<chapter num="4">
+			<begin-paragraph/>
+			<v n="1">
+				But in 
+				<crossref let="b" cid="c330041.1"/>
+				 the last days it shall come to pass, that the mountain of the house of the LORD shall be established in the top of the mountains, and it shall be exalted above the hills; and people shall flow unto it.
+			</v>
+			<marker class="begin-verse" mid="v33004002"/>
+			<v n="2">
+				And many 
+				<crossref let="c" cid="c330042.1"/>
+				 nations shall come, and say, Come, and let us go up to the mountain of the LORD, and to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for the law shall go forth of Zion, and the word of the LORD from Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v33004003"/>
+			<v n="3">
+				¶ And 
+				<crossref let="d" cid="c330043.1"/>
+				 he shall judge among many people, and rebuke strong nations afar off; and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up a sword against nation, neither shall they learn war any more.
+			</v>
+			<marker class="begin-verse" mid="v33004004"/>
+			<v n="4">
+				But they 
+				<crossref let="e" cid="c330044.1"/>
+				 shall sit every man under his vine and under his fig tree; and none shall make them afraid: for the mouth of the LORD of hosts hath spoken it.
+			</v>
+			<marker class="begin-verse" mid="v33004005"/>
+			<v n="5">
+				For all 
+				<crossref let="f" cid="c330045.1"/>
+				 people will walk every one in the name of his god, and we will walk in the name of the LORD our God for ever and ever.
+			</v>
+			<marker class="begin-verse" mid="v33004006"/>
+			<v n="6">
+				In that 
+				<crossref let="g" cid="c330046.1"/>
+				 day, saith the LORD, will I assemble her that halteth, and I will gather her that is driven out, and her that I have afflicted;
+			</v>
+			<marker class="begin-verse" mid="v33004007"/>
+			<v n="7">
+				And I 
+				<crossref let="h" cid="c330047.1"/>
+				 will make her that halted a remnant, and her that was cast far off a strong nation: and the LORD shall reign over them in mount Zion from henceforth, even for ever.
+			</v>
+			<marker class="begin-verse" mid="v33004008"/>
+			<v n="8">
+				¶ And 
+				<crossref let="i" cid="c330048.1"/>
+				 thou, O tower of the flock, the strong hold of the daughter of Zion, unto thee shall it come, even the first dominion; the kingdom shall come to the daughter of Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v33004009"/>
+			<v n="9">
+				Now why 
+				<crossref let="j" cid="c330049.1"/>
+				 dost thou cry out aloud? is there no king in thee? is thy counsellor perished? for pangs have taken thee as a woman in travail.
+			</v>
+			<marker class="begin-verse" mid="v33004010"/>
+			<v n="10">
+				Be in 
+				<crossref let="k" cid="c3300410.1"/>
+				 pain, and labour to bring forth, O daughter of Zion, like a woman in travail: for now shalt thou go forth out of the city, and thou shalt dwell in the field, and thou shalt go even to Babylon; there shalt thou be delivered; there the LORD shall redeem thee from the hand of thine enemies.
+			</v>
+			<marker class="begin-verse" mid="v33004011"/>
+			<v n="11">
+				¶ Now 
+				<crossref let="l" cid="c3300411.1"/>
+				 also many nations are gathered against thee, that say, Let her be defiled, and let our eye look upon Zion.
+			</v>
+			<marker class="begin-verse" mid="v33004012"/>
+			<v n="12">
+				But they 
+				<crossref let="m" cid="c3300412.1"/>
+				 know not the thoughts of the LORD, neither understand they his counsel: for he shall gather them as the sheaves into the floor.
+			</v>
+			<marker class="begin-verse" mid="v33004013"/>
+			<v n="13">
+				Arise and 
+				<crossref let="n" cid="c3300413.1"/>
+				 thresh, O daughter of Zion: for I will make thine horn iron, and I will make thy hoofs brass: and thou shalt beat in pieces many people: and I will consecrate their gain unto the LORD, and their substance unto the Lord of the whole earth.
+			</v>
+			<marker class="begin-verse" mid="v33004014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

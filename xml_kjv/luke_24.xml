@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:41:56.173643</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:41:56.173651</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" version="KJV" bookAbbr="luk">
+		<marker class="begin-verse" mid="v42024001"/>
+		<chapter num="24">
+			<begin-paragraph/>
+			<v n="1">
+				Now upon 
+				<crossref let="b" cid="c420241.1"/>
+				 the first day of the week, very early in the morning, they came unto the sepulchre, bringing the spices which they had prepared, and certain others with them.
+			</v>
+			<marker class="begin-verse" mid="v42024002"/>
+			<v n="2">
+				And they 
+				<crossref let="c" cid="c420242.1"/>
+				 found the stone rolled away from the sepulchre.
+			</v>
+			<marker class="begin-verse" mid="v42024003"/>
+			<v n="3">
+				And they 
+				<crossref let="d" cid="c420243.1"/>
+				 entered in, and found not the body of the Lord Jesus.
+			</v>
+			<marker class="begin-verse" mid="v42024004"/>
+			<v n="4">
+				And it 
+				<crossref let="e" cid="c420244.1"/>
+				 came to pass, as they were much perplexed thereabout, behold, two men stood by them in shining garments:
+			</v>
+			<marker class="begin-verse" mid="v42024005"/>
+			<v n="5">
+				And as 
+				<crossref let="f" cid="c420245.1"/>
+				 they were afraid, and bowed down their faces to the earth, they said unto them, Why seek ye the living among the dead?
+			</v>
+			<marker class="begin-verse" mid="v42024006"/>
+			<v n="6">
+				He is 
+				<crossref let="g" cid="c420246.1"/>
+				 not here, but is risen: remember how he spake unto you when he was yet in Galilee,
+			</v>
+			<marker class="begin-verse" mid="v42024007"/>
+			<v n="7">
+				Saying, The 
+				<crossref let="h" cid="c420247.1"/>
+				 Son of man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.
+			</v>
+			<marker class="begin-verse" mid="v42024008"/>
+			<v n="8">
+				And they 
+				<crossref let="i" cid="c420248.1"/>
+				 remembered his words,
+			</v>
+			<marker class="begin-verse" mid="v42024009"/>
+			<v n="9">
+				And returned 
+				<crossref let="j" cid="c420249.1"/>
+				 from the sepulchre, and told all these things unto the eleven, and to all the rest.
+			</v>
+			<marker class="begin-verse" mid="v42024010"/>
+			<v n="10">
+				It was 
+				<crossref let="k" cid="c4202410.1"/>
+				 Mary Magdalene, and Joanna, and Mary the mother of James, and other women that were with them, which told these things unto the apostles.
+			</v>
+			<marker class="begin-verse" mid="v42024011"/>
+			<v n="11">
+				And their 
+				<crossref let="l" cid="c4202411.1"/>
+				 words seemed to them as idle tales, and they believed them not.
+			</v>
+			<marker class="begin-verse" mid="v42024012"/>
+			<v n="12">
+				Then arose 
+				<crossref let="m" cid="c4202412.1"/>
+				 Peter, and ran unto the sepulchre; and stooping down, he beheld the linen clothes laid by themselves, and departed, wondering in himself at that which was come to pass.
+			</v>
+			<marker class="begin-verse" mid="v42024013"/>
+			<v n="13">
+				¶ And, 
+				<crossref let="n" cid="c4202413.1"/>
+				 behold, two of them went that same day to a village called Emmaus, which was from Jerusalem about threescore furlongs.
+			</v>
+			<marker class="begin-verse" mid="v42024014"/>
+			<v n="14">
+				And they 
+				<crossref let="o" cid="c4202414.1"/>
+				 talked together of all these things which had happened.
+			</v>
+			<marker class="begin-verse" mid="v42024015"/>
+			<v n="15">
+				And it 
+				<crossref let="p" cid="c4202415.1"/>
+				 came to pass, that, while they communed together and reasoned, Jesus himself drew near, and went with them.
+			</v>
+			<marker class="begin-verse" mid="v42024016"/>
+			<v n="16">
+				But their 
+				<crossref let="q" cid="c4202416.1"/>
+				 eyes were holden that they should not know him.
+			</v>
+			<marker class="begin-verse" mid="v42024017"/>
+			<v n="17">
+				And he 
+				<crossref let="r" cid="c4202417.1"/>
+				 said unto them, What manner of communications are these that ye have one to another, as ye walk, and are sad?
+			</v>
+			<marker class="begin-verse" mid="v42024018"/>
+			<v n="18">
+				And the 
+				<crossref let="s" cid="c4202418.1"/>
+				 one of them, whose name was Cleopas, answering said unto him, Art thou only a stranger in Jerusalem, and hast not known the things which are come to pass there in these days?
+			</v>
+			<marker class="begin-verse" mid="v42024019"/>
+			<v n="19">
+				And he 
+				<crossref let="t" cid="c4202419.1"/>
+				 said unto them, What things? And they said unto him, Concerning Jesus of Nazareth, which was a prophet mighty in deed and word before God and all the people:
+			</v>
+			<marker class="begin-verse" mid="v42024020"/>
+			<v n="20">
+				And how 
+				<crossref let="u" cid="c4202420.1"/>
+				 the chief priests and our rulers delivered him to be condemned to death, and have crucified him.
+			</v>
+			<marker class="begin-verse" mid="v42024021"/>
+			<v n="21">
+				But we 
+				<crossref let="v" cid="c4202421.1"/>
+				 trusted that it had been he which should have redeemed Israel: and beside all this, to day is the third day since these things were done.
+			</v>
+			<marker class="begin-verse" mid="v42024022"/>
+			<v n="22">
+				Yea, and 
+				<crossref let="w" cid="c4202422.1"/>
+				 certain women also of our company made us astonished, which were early at the sepulchre;
+			</v>
+			<marker class="begin-verse" mid="v42024023"/>
+			<v n="23">
+				And when 
+				<crossref let="x" cid="c4202423.1"/>
+				 they found not his body, they came, saying, that they had also seen a vision of angels, which said that he was alive.
+			</v>
+			<marker class="begin-verse" mid="v42024024"/>
+			<v n="24">
+				And certain 
+				<crossref let="y" cid="c4202424.1"/>
+				 of them which were with us went to the sepulchre, and found it even so as the women had said: but him they saw not.
+			</v>
+			<marker class="begin-verse" mid="v42024025"/>
+			<v n="25">
+				Then he 
+				<crossref let="z" cid="c4202425.1"/>
+				 said unto them, O fools, and slow of heart to believe all that the prophets have spoken:
+			</v>
+			<marker class="begin-verse" mid="v42024026"/>
+			<v n="26">
+				Ought not 
+				<crossref let="a" cid="c4202426.1"/>
+				 Christ to have suffered these things, and to enter into his glory?
+			</v>
+			<marker class="begin-verse" mid="v42024027"/>
+			<v n="27">
+				And beginning 
+				<crossref let="b" cid="c4202427.1"/>
+				 at Moses and all the prophets, he expounded unto them in all the scriptures the things concerning himself.
+			</v>
+			<marker class="begin-verse" mid="v42024028"/>
+			<v n="28">
+				And they 
+				<crossref let="c" cid="c4202428.1"/>
+				 drew nigh unto the village, whither they went: and he made as though he would have gone further.
+			</v>
+			<marker class="begin-verse" mid="v42024029"/>
+			<v n="29">
+				But they 
+				<crossref let="d" cid="c4202429.1"/>
+				 constrained him, saying, Abide with us: for it is toward evening, and the day is far spent. And he went in to tarry with them.
+			</v>
+			<marker class="begin-verse" mid="v42024030"/>
+			<v n="30">
+				And it 
+				<crossref let="e" cid="c4202430.1"/>
+				 came to pass, as he sat at meat with them, he took bread, and blessed it, and brake, and gave to them.
+			</v>
+			<marker class="begin-verse" mid="v42024031"/>
+			<v n="31">
+				And their 
+				<crossref let="f" cid="c4202431.1"/>
+				 eyes were opened, and they knew him; and he vanished out of their sight.
+			</v>
+			<marker class="begin-verse" mid="v42024032"/>
+			<v n="32">
+				And they 
+				<crossref let="g" cid="c4202432.1"/>
+				 said one to another, Did not our heart burn within us, while he talked with us by the way, and while he opened to us the scriptures?
+			</v>
+			<marker class="begin-verse" mid="v42024033"/>
+			<v n="33">
+				And they 
+				<crossref let="h" cid="c4202433.1"/>
+				 rose up the same hour, and returned to Jerusalem, and found the eleven gathered together, and them that were with them,
+			</v>
+			<marker class="begin-verse" mid="v42024034"/>
+			<v n="34">
+				Saying, The 
+				<crossref let="i" cid="c4202434.1"/>
+				 Lord is risen indeed, and hath appeared to Simon.
+			</v>
+			<marker class="begin-verse" mid="v42024035"/>
+			<v n="35">
+				And they 
+				<crossref let="j" cid="c4202435.1"/>
+				 told what things were done in the way, and how he was known of them in breaking of bread.
+			</v>
+			<marker class="begin-verse" mid="v42024036"/>
+			<v n="36">
+				¶ And 
+				<crossref let="k" cid="c4202436.1"/>
+				 as they thus spake, Jesus himself stood in the midst of them, and saith unto them, Peace be unto you.
+			</v>
+			<marker class="begin-verse" mid="v42024037"/>
+			<v n="37">
+				But they 
+				<crossref let="l" cid="c4202437.1"/>
+				 were terrified and affrighted, and supposed that they had seen a spirit.
+			</v>
+			<marker class="begin-verse" mid="v42024038"/>
+			<v n="38">
+				And he 
+				<crossref let="m" cid="c4202438.1"/>
+				 said unto them, Why are ye troubled? and why do thoughts arise in your hearts?
+			</v>
+			<marker class="begin-verse" mid="v42024039"/>
+			<v n="39">
+				Behold my 
+				<crossref let="n" cid="c4202439.1"/>
+				 hands and my feet, that it is I myself: handle me, and see; for a spirit hath not flesh and bones, as ye see me have.
+			</v>
+			<marker class="begin-verse" mid="v42024040"/>
+			<v n="40">
+				And when 
+				<crossref let="o" cid="c4202440.1"/>
+				 he had thus spoken, he shewed them his hands and his feet.
+			</v>
+			<marker class="begin-verse" mid="v42024041"/>
+			<v n="41">
+				And while 
+				<crossref let="p" cid="c4202441.1"/>
+				 they yet believed not for joy, and wondered, he said unto them, Have ye here any meat?
+			</v>
+			<marker class="begin-verse" mid="v42024042"/>
+			<v n="42">
+				And they 
+				<crossref let="q" cid="c4202442.1"/>
+				 gave him a piece of a broiled fish, and of an honeycomb.
+			</v>
+			<marker class="begin-verse" mid="v42024043"/>
+			<v n="43">
+				And he 
+				<crossref let="r" cid="c4202443.1"/>
+				 took it, and did eat before them.
+			</v>
+			<marker class="begin-verse" mid="v42024044"/>
+			<v n="44">
+				And he 
+				<crossref let="s" cid="c4202444.1"/>
+				 said unto them, These are the words which I spake unto you, while I was yet with you, that all things must be fulfilled, which were written in the law of Moses, and in the prophets, and in the psalms, concerning me.
+			</v>
+			<marker class="begin-verse" mid="v42024045"/>
+			<v n="45">
+				Then opened 
+				<crossref let="t" cid="c4202445.1"/>
+				 he their understanding, that they might understand the scriptures,
+			</v>
+			<marker class="begin-verse" mid="v42024046"/>
+			<v n="46">
+				And said 
+				<crossref let="u" cid="c4202446.1"/>
+				 unto them, Thus it is written, and thus it behoved Christ to suffer, and to rise from the dead the third day:
+			</v>
+			<marker class="begin-verse" mid="v42024047"/>
+			<v n="47">
+				And that 
+				<crossref let="v" cid="c4202447.1"/>
+				 repentance and remission of sins should be preached in his name among all nations, beginning at Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v42024048"/>
+			<v n="48">
+				And ye 
+				<crossref let="w" cid="c4202448.1"/>
+				 are witnesses of these things.
+			</v>
+			<marker class="begin-verse" mid="v42024049"/>
+			<v n="49">
+				¶ And, 
+				<crossref let="x" cid="c4202449.1"/>
+				 behold, I send the promise of my Father upon you: but tarry ye in the city of Jerusalem, until ye be endued with power from on high.
+			</v>
+			<marker class="begin-verse" mid="v42024050"/>
+			<v n="50">
+				¶ And 
+				<crossref let="y" cid="c4202450.1"/>
+				 he led them out as far as to Bethany, and he lifted up his hands, and blessed them.
+			</v>
+			<marker class="begin-verse" mid="v42024051"/>
+			<v n="51">
+				And it 
+				<crossref let="z" cid="c4202451.1"/>
+				 came to pass, while he blessed them, he was parted from them, and carried up into heaven.
+			</v>
+			<marker class="begin-verse" mid="v42024052"/>
+			<v n="52">
+				And they 
+				<crossref let="a" cid="c4202452.1"/>
+				 worshipped him, and returned to Jerusalem with great joy:
+			</v>
+			<marker class="begin-verse" mid="v42024053"/>
+			<v n="53">
+				And were 
+				<crossref let="b" cid="c4202453.1"/>
+				 continually in the temple, praising and blessing God. Amen.
+			</v>
+			<marker class="begin-verse" mid="v42024054"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

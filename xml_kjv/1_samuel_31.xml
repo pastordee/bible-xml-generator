@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:37:10.775765</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:37:10.775774</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" version="KJV" bookAbbr="1sa">
+		<marker class="begin-verse" mid="v09031001"/>
+		<chapter num="31">
+			<begin-paragraph/>
+			<v n="1">
+				Now the 
+				<crossref let="b" cid="c090311.1"/>
+				 Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.
+			</v>
+			<marker class="begin-verse" mid="v09031002"/>
+			<v n="2">
+				And the 
+				<crossref let="c" cid="c090312.1"/>
+				 Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Malchi-shua, Saul’s sons.
+			</v>
+			<marker class="begin-verse" mid="v09031003"/>
+			<v n="3">
+				And the 
+				<crossref let="d" cid="c090313.1"/>
+				 battle went sore against Saul, and the archers hit him; and he was sore wounded of the archers.
+			</v>
+			<marker class="begin-verse" mid="v09031004"/>
+			<v n="4">
+				Then said 
+				<crossref let="e" cid="c090314.1"/>
+				 Saul unto his armourbearer, Draw thy sword, and thrust me through therewith; lest these uncircumcised come and thrust me through, and abuse me. But his armourbearer would not; for he was sore afraid. Therefore Saul took a sword, and fell upon it.
+			</v>
+			<marker class="begin-verse" mid="v09031005"/>
+			<v n="5">
+				And when 
+				<crossref let="f" cid="c090315.1"/>
+				 his armourbearer saw that Saul was dead, he fell likewise upon his sword, and died with him.
+			</v>
+			<marker class="begin-verse" mid="v09031006"/>
+			<v n="6">
+				So Saul 
+				<crossref let="g" cid="c090316.1"/>
+				 died, and his three sons, and his armourbearer, and all his men, that same day together.
+			</v>
+			<marker class="begin-verse" mid="v09031007"/>
+			<v n="7">
+				¶ And 
+				<crossref let="h" cid="c090317.1"/>
+				 when the men of Israel that were on the other side of the valley, and they that were on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them.
+			</v>
+			<marker class="begin-verse" mid="v09031008"/>
+			<v n="8">
+				And it 
+				<crossref let="i" cid="c090318.1"/>
+				 came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his three sons fallen in mount Gilboa.
+			</v>
+			<marker class="begin-verse" mid="v09031009"/>
+			<v n="9">
+				And they 
+				<crossref let="j" cid="c090319.1"/>
+				 cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish it in the house of their idols, and among the people.
+			</v>
+			<marker class="begin-verse" mid="v09031010"/>
+			<v n="10">
+				And they 
+				<crossref let="k" cid="c0903110.1"/>
+				 put his armour in the house of Ashtaroth: and they fastened his body to the wall of Beth-shan.
+			</v>
+			<marker class="begin-verse" mid="v09031011"/>
+			<v n="11">
+				¶ And 
+				<crossref let="l" cid="c0903111.1"/>
+				 when the inhabitants of Jabesh-gilead heard of that which the Philistines had done to Saul;
+			</v>
+			<marker class="begin-verse" mid="v09031012"/>
+			<v n="12">
+				All the 
+				<crossref let="m" cid="c0903112.1"/>
+				 valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Beth-shan, and came to Jabesh, and burnt them there.
+			</v>
+			<marker class="begin-verse" mid="v09031013"/>
+			<v n="13">
+				And they 
+				<crossref let="n" cid="c0903113.1"/>
+				 took their bones, and buried them under a tree at Jabesh, and fasted seven days.
+			</v>
+			<marker class="begin-verse" mid="v09031014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

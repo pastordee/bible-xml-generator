@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:47:44.767225</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:47:44.767257</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" version="KJV" bookAbbr="2ch">
+		<marker class="begin-verse" mid="v14019001"/>
+		<chapter num="19">
+			<begin-paragraph/>
+			<v n="1">
+				And Jehoshaphat 
+				<crossref let="b" cid="c140191.1"/>
+				 the king of Judah returned to his house in peace to Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v14019002"/>
+			<v n="2">
+				And Jehu 
+				<crossref let="c" cid="c140192.1"/>
+				 the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore is wrath upon thee from before the LORD.
+			</v>
+			<marker class="begin-verse" mid="v14019003"/>
+			<v n="3">
+				Nevertheless there 
+				<crossref let="d" cid="c140193.1"/>
+				 are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God.
+			</v>
+			<marker class="begin-verse" mid="v14019004"/>
+			<v n="4">
+				And Jehoshaphat 
+				<crossref let="e" cid="c140194.1"/>
+				 dwelt at Jerusalem: and he went out again through the people from Beer-sheba to mount Ephraim, and brought them back unto the LORD God of their fathers.
+			</v>
+			<marker class="begin-verse" mid="v14019005"/>
+			<v n="5">
+				¶ And 
+				<crossref let="f" cid="c140195.1"/>
+				 he set judges in the land throughout all the fenced cities of Judah, city by city,
+			</v>
+			<marker class="begin-verse" mid="v14019006"/>
+			<v n="6">
+				And said 
+				<crossref let="g" cid="c140196.1"/>
+				 to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who is with you in the judgment.
+			</v>
+			<marker class="begin-verse" mid="v14019007"/>
+			<v n="7">
+				Wherefore now 
+				<crossref let="h" cid="c140197.1"/>
+				 let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts.
+			</v>
+			<marker class="begin-verse" mid="v14019008"/>
+			<v n="8">
+				¶ Moreover 
+				<crossref let="i" cid="c140198.1"/>
+				 in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v14019009"/>
+			<v n="9">
+				And he 
+				<crossref let="j" cid="c140199.1"/>
+				 charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart.
+			</v>
+			<marker class="begin-verse" mid="v14019010"/>
+			<v n="10">
+				And what 
+				<crossref let="k" cid="c1401910.1"/>
+				 cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the LORD, and so wrath come upon you, and upon your brethren: this do, and ye shall not trespass.
+			</v>
+			<marker class="begin-verse" mid="v14019011"/>
+			<v n="11">
+				And, behold, 
+				<crossref let="l" cid="c1401911.1"/>
+				 Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king’s matters: also the Levites shall be officers before you. Deal courageously, and the LORD shall be with the good.
+			</v>
+			<marker class="begin-verse" mid="v14019012"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

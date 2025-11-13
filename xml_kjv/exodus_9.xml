@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:21:00.857125</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:21:00.857284</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="KJV" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02009001"/>
+		<chapter num="9">
+			<begin-paragraph/>
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c020091.1"/>
+				 LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.
+			</v>
+			<marker class="begin-verse" mid="v02009002"/>
+			<v n="2">
+				For if 
+				<crossref let="c" cid="c020092.1"/>
+				 thou refuse to let them go, and wilt hold them still,
+			</v>
+			<marker class="begin-verse" mid="v02009003"/>
+			<v n="3">
+				Behold, the 
+				<crossref let="d" cid="c020093.1"/>
+				 hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain.
+			</v>
+			<marker class="begin-verse" mid="v02009004"/>
+			<v n="4">
+				And the 
+				<crossref let="e" cid="c020094.1"/>
+				 LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all that is the children’s of Israel.
+			</v>
+			<marker class="begin-verse" mid="v02009005"/>
+			<v n="5">
+				And the 
+				<crossref let="f" cid="c020095.1"/>
+				 LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land.
+			</v>
+			<marker class="begin-verse" mid="v02009006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c020096.1"/>
+				 LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.
+			</v>
+			<marker class="begin-verse" mid="v02009007"/>
+			<v n="7">
+				And Pharaoh 
+				<crossref let="h" cid="c020097.1"/>
+				 sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go.
+			</v>
+			<marker class="begin-verse" mid="v02009008"/>
+			<v n="8">
+				¶ And 
+				<crossref let="i" cid="c020098.1"/>
+				 the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh.
+			</v>
+			<marker class="begin-verse" mid="v02009009"/>
+			<v n="9">
+				And it 
+				<crossref let="j" cid="c020099.1"/>
+				 shall become small dust in all the land of Egypt, and shall be a boil breaking forth with blains upon man, and upon beast, throughout all the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v02009010"/>
+			<v n="10">
+				And they 
+				<crossref let="k" cid="c0200910.1"/>
+				 took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast.
+			</v>
+			<marker class="begin-verse" mid="v02009011"/>
+			<v n="11">
+				And the 
+				<crossref let="l" cid="c0200911.1"/>
+				 magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.
+			</v>
+			<marker class="begin-verse" mid="v02009012"/>
+			<v n="12">
+				And the 
+				<crossref let="m" cid="c0200912.1"/>
+				 LORD hardened the heart of Pharaoh, and he hearkened not unto them; as the LORD had spoken unto Moses.
+			</v>
+			<marker class="begin-verse" mid="v02009013"/>
+			<v n="13">
+				¶ And 
+				<crossref let="n" cid="c0200913.1"/>
+				 the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.
+			</v>
+			<marker class="begin-verse" mid="v02009014"/>
+			<v n="14">
+				For I 
+				<crossref let="o" cid="c0200914.1"/>
+				 will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that there is none like me in all the earth.
+			</v>
+			<marker class="begin-verse" mid="v02009015"/>
+			<v n="15">
+				For now 
+				<crossref let="p" cid="c0200915.1"/>
+				 I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth.
+			</v>
+			<marker class="begin-verse" mid="v02009016"/>
+			<v n="16">
+				And in 
+				<crossref let="q" cid="c0200916.1"/>
+				 very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth.
+			</v>
+			<marker class="begin-verse" mid="v02009017"/>
+			<v n="17">
+				As yet 
+				<crossref let="r" cid="c0200917.1"/>
+				 exaltest thou thyself against my people, that thou wilt not let them go?
+			</v>
+			<marker class="begin-verse" mid="v02009018"/>
+			<v n="18">
+				Behold, to 
+				<crossref let="s" cid="c0200918.1"/>
+				 morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.
+			</v>
+			<marker class="begin-verse" mid="v02009019"/>
+			<v n="19">
+				Send therefore 
+				<crossref let="t" cid="c0200919.1"/>
+				 now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.
+			</v>
+			<marker class="begin-verse" mid="v02009020"/>
+			<v n="20">
+				He that 
+				<crossref let="u" cid="c0200920.1"/>
+				 feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses:
+			</v>
+			<marker class="begin-verse" mid="v02009021"/>
+			<v n="21">
+				And he 
+				<crossref let="v" cid="c0200921.1"/>
+				 that regarded not the word of the LORD left his servants and his cattle in the field.
+			</v>
+			<marker class="begin-verse" mid="v02009022"/>
+			<v n="22">
+				¶ And 
+				<crossref let="w" cid="c0200922.1"/>
+				 the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v02009023"/>
+			<v n="23">
+				And Moses 
+				<crossref let="x" cid="c0200923.1"/>
+				 stretched forth his rod toward heaven: and the LORD sent thunder and hail, and the fire ran along upon the ground; and the LORD rained hail upon the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v02009024"/>
+			<v n="24">
+				So there 
+				<crossref let="y" cid="c0200924.1"/>
+				 was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.
+			</v>
+			<marker class="begin-verse" mid="v02009025"/>
+			<v n="25">
+				And the 
+				<crossref let="z" cid="c0200925.1"/>
+				 hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field.
+			</v>
+			<marker class="begin-verse" mid="v02009026"/>
+			<v n="26">
+				Only in 
+				<crossref let="a" cid="c0200926.1"/>
+				 the land of Goshen, where the children of Israel were, was there no hail.
+			</v>
+			<marker class="begin-verse" mid="v02009027"/>
+			<v n="27">
+				¶ And 
+				<crossref let="b" cid="c0200927.1"/>
+				 Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked.
+			</v>
+			<marker class="begin-verse" mid="v02009028"/>
+			<v n="28">
+				Intreat the 
+				<crossref let="c" cid="c0200928.1"/>
+				 LORD (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and ye shall stay no longer.
+			</v>
+			<marker class="begin-verse" mid="v02009029"/>
+			<v n="29">
+				And Moses 
+				<crossref let="d" cid="c0200929.1"/>
+				 said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the LORD’s.
+			</v>
+			<marker class="begin-verse" mid="v02009030"/>
+			<v n="30">
+				But as 
+				<crossref let="e" cid="c0200930.1"/>
+				 for thee and thy servants, I know that ye will not yet fear the LORD God.
+			</v>
+			<marker class="begin-verse" mid="v02009031"/>
+			<v n="31">
+				And the 
+				<crossref let="f" cid="c0200931.1"/>
+				 flax and the barley was smitten: for the barley was in the ear, and the flax was bolled.
+			</v>
+			<marker class="begin-verse" mid="v02009032"/>
+			<v n="32">
+				But the 
+				<crossref let="g" cid="c0200932.1"/>
+				 wheat and the rie were not smitten: for they were not grown up.
+			</v>
+			<marker class="begin-verse" mid="v02009033"/>
+			<v n="33">
+				And Moses 
+				<crossref let="h" cid="c0200933.1"/>
+				 went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth.
+			</v>
+			<marker class="begin-verse" mid="v02009034"/>
+			<v n="34">
+				And when 
+				<crossref let="i" cid="c0200934.1"/>
+				 Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.
+			</v>
+			<marker class="begin-verse" mid="v02009035"/>
+			<v n="35">
+				And the 
+				<crossref let="j" cid="c0200935.1"/>
+				 heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses.
+			</v>
+			<marker class="begin-verse" mid="v02009036"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

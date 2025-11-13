@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:02:54.140068</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:02:54.140075</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19078001"/>
+		<chapter num="78">
+			<heading>Maschil of Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Give ear, 
+				<crossref let="b" cid="c190781.1"/>
+				 O my people, to my law: incline your ears to the words of my mouth.
+			</v>
+			<marker class="begin-verse" mid="v19078002"/>
+			<v n="2">
+				I will 
+				<crossref let="c" cid="c190782.1"/>
+				 open my mouth in a parable: I will utter dark sayings of old:
+			</v>
+			<marker class="begin-verse" mid="v19078003"/>
+			<v n="3">
+				Which we 
+				<crossref let="d" cid="c190783.1"/>
+				 have heard and known, and our fathers have told us.
+			</v>
+			<marker class="begin-verse" mid="v19078004"/>
+			<v n="4">
+				We will 
+				<crossref let="e" cid="c190784.1"/>
+				 not hide them from their children, shewing to the generation to come the praises of the LORD, and his strength, and his wonderful works that he hath done.
+			</v>
+			<marker class="begin-verse" mid="v19078005"/>
+			<v n="5">
+				For he 
+				<crossref let="f" cid="c190785.1"/>
+				 established a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, that they should make them known to their children:
+			</v>
+			<marker class="begin-verse" mid="v19078006"/>
+			<v n="6">
+				That the 
+				<crossref let="g" cid="c190786.1"/>
+				 generation to come might know them, even the children which should be born; who should arise and declare them to their children:
+			</v>
+			<marker class="begin-verse" mid="v19078007"/>
+			<v n="7">
+				That they 
+				<crossref let="h" cid="c190787.1"/>
+				 might set their hope in God, and not forget the works of God, but keep his commandments:
+			</v>
+			<marker class="begin-verse" mid="v19078008"/>
+			<v n="8">
+				And might 
+				<crossref let="i" cid="c190788.1"/>
+				 not be as their fathers, a stubborn and rebellious generation; a generation that set not their heart aright, and whose spirit was not stedfast with God.
+			</v>
+			<marker class="begin-verse" mid="v19078009"/>
+			<v n="9">
+				The children 
+				<crossref let="j" cid="c190789.1"/>
+				 of Ephraim, being armed, and carrying bows, turned back in the day of battle.
+			</v>
+			<marker class="begin-verse" mid="v19078010"/>
+			<v n="10">
+				They kept 
+				<crossref let="k" cid="c1907810.1"/>
+				 not the covenant of God, and refused to walk in his law;
+			</v>
+			<marker class="begin-verse" mid="v19078011"/>
+			<v n="11">
+				And forgat 
+				<crossref let="l" cid="c1907811.1"/>
+				 his works, and his wonders that he had shewed them.
+			</v>
+			<marker class="begin-verse" mid="v19078012"/>
+			<v n="12">
+				Marvellous things 
+				<crossref let="m" cid="c1907812.1"/>
+				 did he in the sight of their fathers, in the land of Egypt, in the field of Zoan.
+			</v>
+			<marker class="begin-verse" mid="v19078013"/>
+			<v n="13">
+				He divided 
+				<crossref let="n" cid="c1907813.1"/>
+				 the sea, and caused them to pass through; and he made the waters to stand as an heap.
+			</v>
+			<marker class="begin-verse" mid="v19078014"/>
+			<v n="14">
+				In the 
+				<crossref let="o" cid="c1907814.1"/>
+				 daytime also he led them with a cloud, and all the night with a light of fire.
+			</v>
+			<marker class="begin-verse" mid="v19078015"/>
+			<v n="15">
+				He clave 
+				<crossref let="p" cid="c1907815.1"/>
+				 the rocks in the wilderness, and gave them drink as out of the great depths.
+			</v>
+			<marker class="begin-verse" mid="v19078016"/>
+			<v n="16">
+				He brought 
+				<crossref let="q" cid="c1907816.1"/>
+				 streams also out of the rock, and caused waters to run down like rivers.
+			</v>
+			<marker class="begin-verse" mid="v19078017"/>
+			<v n="17">
+				And they 
+				<crossref let="r" cid="c1907817.1"/>
+				 sinned yet more against him by provoking the most High in the wilderness.
+			</v>
+			<marker class="begin-verse" mid="v19078018"/>
+			<v n="18">
+				And they 
+				<crossref let="s" cid="c1907818.1"/>
+				 tempted God in their heart by asking meat for their lust.
+			</v>
+			<marker class="begin-verse" mid="v19078019"/>
+			<v n="19">
+				Yea, they 
+				<crossref let="t" cid="c1907819.1"/>
+				 spake against God; they said, Can God furnish a table in the wilderness?
+			</v>
+			<marker class="begin-verse" mid="v19078020"/>
+			<v n="20">
+				Behold, he 
+				<crossref let="u" cid="c1907820.1"/>
+				 smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?
+			</v>
+			<marker class="begin-verse" mid="v19078021"/>
+			<v n="21">
+				Therefore the 
+				<crossref let="v" cid="c1907821.1"/>
+				 LORD heard this, and was wroth: so a fire was kindled against Jacob, and anger also came up against Israel;
+			</v>
+			<marker class="begin-verse" mid="v19078022"/>
+			<v n="22">
+				Because they 
+				<crossref let="w" cid="c1907822.1"/>
+				 believed not in God, and trusted not in his salvation:
+			</v>
+			<marker class="begin-verse" mid="v19078023"/>
+			<v n="23">
+				Though he 
+				<crossref let="x" cid="c1907823.1"/>
+				 had commanded the clouds from above, and opened the doors of heaven,
+			</v>
+			<marker class="begin-verse" mid="v19078024"/>
+			<v n="24">
+				And had 
+				<crossref let="y" cid="c1907824.1"/>
+				 rained down manna upon them to eat, and had given them of the corn of heaven.
+			</v>
+			<marker class="begin-verse" mid="v19078025"/>
+			<v n="25">
+				Man did 
+				<crossref let="z" cid="c1907825.1"/>
+				 eat angels’ food: he sent them meat to the full.
+			</v>
+			<marker class="begin-verse" mid="v19078026"/>
+			<v n="26">
+				He caused 
+				<crossref let="a" cid="c1907826.1"/>
+				 an east wind to blow in the heaven: and by his power he brought in the south wind.
+			</v>
+			<marker class="begin-verse" mid="v19078027"/>
+			<v n="27">
+				He rained 
+				<crossref let="b" cid="c1907827.1"/>
+				 flesh also upon them as dust, and feathered fowls like as the sand of the sea:
+			</v>
+			<marker class="begin-verse" mid="v19078028"/>
+			<v n="28">
+				And he 
+				<crossref let="c" cid="c1907828.1"/>
+				 let it fall in the midst of their camp, round about their habitations.
+			</v>
+			<marker class="begin-verse" mid="v19078029"/>
+			<v n="29">
+				So they 
+				<crossref let="d" cid="c1907829.1"/>
+				 did eat, and were well filled: for he gave them their own desire;
+			</v>
+			<marker class="begin-verse" mid="v19078030"/>
+			<v n="30">
+				They were 
+				<crossref let="e" cid="c1907830.1"/>
+				 not estranged from their lust. But while their meat was yet in their mouths,
+			</v>
+			<marker class="begin-verse" mid="v19078031"/>
+			<v n="31">
+				The wrath 
+				<crossref let="f" cid="c1907831.1"/>
+				 of God came upon them, and slew the fattest of them, and smote down the chosen men of Israel.
+			</v>
+			<marker class="begin-verse" mid="v19078032"/>
+			<v n="32">
+				For all 
+				<crossref let="g" cid="c1907832.1"/>
+				 this they sinned still, and believed not for his wondrous works.
+			</v>
+			<marker class="begin-verse" mid="v19078033"/>
+			<v n="33">
+				Therefore their 
+				<crossref let="h" cid="c1907833.1"/>
+				 days did he consume in vanity, and their years in trouble.
+			</v>
+			<marker class="begin-verse" mid="v19078034"/>
+			<v n="34">
+				When he 
+				<crossref let="i" cid="c1907834.1"/>
+				 slew them, then they sought him: and they returned and enquired early after God.
+			</v>
+			<marker class="begin-verse" mid="v19078035"/>
+			<v n="35">
+				And they 
+				<crossref let="j" cid="c1907835.1"/>
+				 remembered that God was their rock, and the high God their redeemer.
+			</v>
+			<marker class="begin-verse" mid="v19078036"/>
+			<v n="36">
+				Nevertheless they 
+				<crossref let="k" cid="c1907836.1"/>
+				 did flatter him with their mouth, and they lied unto him with their tongues.
+			</v>
+			<marker class="begin-verse" mid="v19078037"/>
+			<v n="37">
+				For their 
+				<crossref let="l" cid="c1907837.1"/>
+				 heart was not right with him, neither were they stedfast in his covenant.
+			</v>
+			<marker class="begin-verse" mid="v19078038"/>
+			<v n="38">
+				But he, 
+				<crossref let="m" cid="c1907838.1"/>
+				 being full of compassion, forgave their iniquity, and destroyed them not: yea, many a time turned he his anger away, and did not stir up all his wrath.
+			</v>
+			<marker class="begin-verse" mid="v19078039"/>
+			<v n="39">
+				For he 
+				<crossref let="n" cid="c1907839.1"/>
+				 remembered that they were but flesh; a wind that passeth away, and cometh not again.
+			</v>
+			<marker class="begin-verse" mid="v19078040"/>
+			<v n="40">
+				How oft 
+				<crossref let="o" cid="c1907840.1"/>
+				 did they provoke him in the wilderness, and grieve him in the desert!
+			</v>
+			<marker class="begin-verse" mid="v19078041"/>
+			<v n="41">
+				Yea, they 
+				<crossref let="p" cid="c1907841.1"/>
+				 turned back and tempted God, and limited the Holy One of Israel.
+			</v>
+			<marker class="begin-verse" mid="v19078042"/>
+			<v n="42">
+				They remembered 
+				<crossref let="q" cid="c1907842.1"/>
+				 not his hand, nor the day when he delivered them from the enemy.
+			</v>
+			<marker class="begin-verse" mid="v19078043"/>
+			<v n="43">
+				How he 
+				<crossref let="r" cid="c1907843.1"/>
+				 had wrought his signs in Egypt, and his wonders in the field of Zoan:
+			</v>
+			<marker class="begin-verse" mid="v19078044"/>
+			<v n="44">
+				And had 
+				<crossref let="s" cid="c1907844.1"/>
+				 turned their rivers into blood; and their floods, that they could not drink.
+			</v>
+			<marker class="begin-verse" mid="v19078045"/>
+			<v n="45">
+				He sent 
+				<crossref let="t" cid="c1907845.1"/>
+				 divers sorts of flies among them, which devoured them; and frogs, which destroyed them.
+			</v>
+			<marker class="begin-verse" mid="v19078046"/>
+			<v n="46">
+				He gave 
+				<crossref let="u" cid="c1907846.1"/>
+				 also their increase unto the caterpiller, and their labour unto the locust.
+			</v>
+			<marker class="begin-verse" mid="v19078047"/>
+			<v n="47">
+				He destroyed 
+				<crossref let="v" cid="c1907847.1"/>
+				 their vines with hail, and their sycomore trees with frost.
+			</v>
+			<marker class="begin-verse" mid="v19078048"/>
+			<v n="48">
+				He gave 
+				<crossref let="w" cid="c1907848.1"/>
+				 up their cattle also to the hail, and their flocks to hot thunderbolts.
+			</v>
+			<marker class="begin-verse" mid="v19078049"/>
+			<v n="49">
+				He cast 
+				<crossref let="x" cid="c1907849.1"/>
+				 upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them.
+			</v>
+			<marker class="begin-verse" mid="v19078050"/>
+			<v n="50">
+				He made 
+				<crossref let="y" cid="c1907850.1"/>
+				 a way to his anger; he spared not their soul from death, but gave their life over to the pestilence;
+			</v>
+			<marker class="begin-verse" mid="v19078051"/>
+			<v n="51">
+				And smote 
+				<crossref let="z" cid="c1907851.1"/>
+				 all the firstborn in Egypt; the chief of their strength in the tabernacles of Ham:
+			</v>
+			<marker class="begin-verse" mid="v19078052"/>
+			<v n="52">
+				But made 
+				<crossref let="a" cid="c1907852.1"/>
+				 his own people to go forth like sheep, and guided them in the wilderness like a flock.
+			</v>
+			<marker class="begin-verse" mid="v19078053"/>
+			<v n="53">
+				And he 
+				<crossref let="b" cid="c1907853.1"/>
+				 led them on safely, so that they feared not: but the sea overwhelmed their enemies.
+			</v>
+			<marker class="begin-verse" mid="v19078054"/>
+			<v n="54">
+				And he 
+				<crossref let="c" cid="c1907854.1"/>
+				 brought them to the border of his sanctuary, even to this mountain, which his right hand had purchased.
+			</v>
+			<marker class="begin-verse" mid="v19078055"/>
+			<v n="55">
+				He cast 
+				<crossref let="d" cid="c1907855.1"/>
+				 out the heathen also before them, and divided them an inheritance by line, and made the tribes of Israel to dwell in their tents.
+			</v>
+			<marker class="begin-verse" mid="v19078056"/>
+			<v n="56">
+				Yet they 
+				<crossref let="e" cid="c1907856.1"/>
+				 tempted and provoked the most high God, and kept not his testimonies:
+			</v>
+			<marker class="begin-verse" mid="v19078057"/>
+			<v n="57">
+				But turned 
+				<crossref let="f" cid="c1907857.1"/>
+				 back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.
+			</v>
+			<marker class="begin-verse" mid="v19078058"/>
+			<v n="58">
+				For they 
+				<crossref let="g" cid="c1907858.1"/>
+				 provoked him to anger with their high places, and moved him to jealousy with their graven images.
+			</v>
+			<marker class="begin-verse" mid="v19078059"/>
+			<v n="59">
+				When God 
+				<crossref let="h" cid="c1907859.1"/>
+				 heard this, he was wroth, and greatly abhorred Israel:
+			</v>
+			<marker class="begin-verse" mid="v19078060"/>
+			<v n="60">
+				So that 
+				<crossref let="i" cid="c1907860.1"/>
+				 he forsook the tabernacle of Shiloh, the tent which he placed among men;
+			</v>
+			<marker class="begin-verse" mid="v19078061"/>
+			<v n="61">
+				And delivered 
+				<crossref let="j" cid="c1907861.1"/>
+				 his strength into captivity, and his glory into the enemy’s hand.
+			</v>
+			<marker class="begin-verse" mid="v19078062"/>
+			<v n="62">
+				He gave 
+				<crossref let="k" cid="c1907862.1"/>
+				 his people over also unto the sword; and was wroth with his inheritance.
+			</v>
+			<marker class="begin-verse" mid="v19078063"/>
+			<v n="63">
+				The fire 
+				<crossref let="l" cid="c1907863.1"/>
+				 consumed their young men; and their maidens were not given to marriage.
+			</v>
+			<marker class="begin-verse" mid="v19078064"/>
+			<v n="64">
+				Their priests 
+				<crossref let="m" cid="c1907864.1"/>
+				 fell by the sword; and their widows made no lamentation.
+			</v>
+			<marker class="begin-verse" mid="v19078065"/>
+			<v n="65">
+				Then the 
+				<crossref let="n" cid="c1907865.1"/>
+				 Lord awaked as one out of sleep, and like a mighty man that shouteth by reason of wine.
+			</v>
+			<marker class="begin-verse" mid="v19078066"/>
+			<v n="66">
+				And he 
+				<crossref let="o" cid="c1907866.1"/>
+				 smote his enemies in the hinder parts: he put them to a perpetual reproach.
+			</v>
+			<marker class="begin-verse" mid="v19078067"/>
+			<v n="67">
+				Moreover he 
+				<crossref let="p" cid="c1907867.1"/>
+				 refused the tabernacle of Joseph, and chose not the tribe of Ephraim:
+			</v>
+			<marker class="begin-verse" mid="v19078068"/>
+			<v n="68">
+				But chose 
+				<crossref let="q" cid="c1907868.1"/>
+				 the tribe of Judah, the mount Zion which he loved.
+			</v>
+			<marker class="begin-verse" mid="v19078069"/>
+			<v n="69">
+				And he 
+				<crossref let="r" cid="c1907869.1"/>
+				 built his sanctuary like high palaces, like the earth which he hath established for ever.
+			</v>
+			<marker class="begin-verse" mid="v19078070"/>
+			<v n="70">
+				He chose 
+				<crossref let="s" cid="c1907870.1"/>
+				 David also his servant, and took him from the sheepfolds:
+			</v>
+			<marker class="begin-verse" mid="v19078071"/>
+			<v n="71">
+				From following 
+				<crossref let="t" cid="c1907871.1"/>
+				 the ewes great with young he brought him to feed Jacob his people, and Israel his inheritance.
+			</v>
+			<marker class="begin-verse" mid="v19078072"/>
+			<v n="72">
+				So he 
+				<crossref let="u" cid="c1907872.1"/>
+				 fed them according to the integrity of his heart; and guided them by the skilfulness of his hands.
+			</v>
+			<marker class="begin-verse" mid="v19078073"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

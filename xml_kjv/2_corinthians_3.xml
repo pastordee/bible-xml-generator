@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:49:25.655427</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:49:25.655436</next_refresh_due>
+	</generation_info>
+	<book title="2 Corinthians" num="47" testament="new" version="KJV" bookAbbr="2co">
+		<marker class="begin-verse" mid="v47003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				Do we 
+				<crossref let="b" cid="c470031.1"/>
+				 begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?
+			</v>
+			<marker class="begin-verse" mid="v47003002"/>
+			<v n="2">
+				Ye are 
+				<crossref let="c" cid="c470032.1"/>
+				 our epistle written in our hearts, known and read of all men:
+			</v>
+			<marker class="begin-verse" mid="v47003003"/>
+			<v n="3">
+				Forasmuch as 
+				<crossref let="d" cid="c470033.1"/>
+				 ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
+			</v>
+			<marker class="begin-verse" mid="v47003004"/>
+			<v n="4">
+				And such 
+				<crossref let="e" cid="c470034.1"/>
+				 trust have we through Christ to God-ward:
+			</v>
+			<marker class="begin-verse" mid="v47003005"/>
+			<v n="5">
+				Not that 
+				<crossref let="f" cid="c470035.1"/>
+				 we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;
+			</v>
+			<marker class="begin-verse" mid="v47003006"/>
+			<v n="6">
+				Who also 
+				<crossref let="g" cid="c470036.1"/>
+				 hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.
+			</v>
+			<marker class="begin-verse" mid="v47003007"/>
+			<v n="7">
+				But if 
+				<crossref let="h" cid="c470037.1"/>
+				 the ministration of death, written and engraven in stones, was glorious, so that the children of Israel could not stedfastly behold the face of Moses for the glory of his countenance; which glory was to be done away:
+			</v>
+			<marker class="begin-verse" mid="v47003008"/>
+			<v n="8">
+				How shall 
+				<crossref let="i" cid="c470038.1"/>
+				 not the ministration of the spirit be rather glorious?
+			</v>
+			<marker class="begin-verse" mid="v47003009"/>
+			<v n="9">
+				For if 
+				<crossref let="j" cid="c470039.1"/>
+				 the ministration of condemnation be glory, much more doth the ministration of righteousness exceed in glory.
+			</v>
+			<marker class="begin-verse" mid="v47003010"/>
+			<v n="10">
+				For even 
+				<crossref let="k" cid="c4700310.1"/>
+				 that which was made glorious had no glory in this respect, by reason of the glory that excelleth.
+			</v>
+			<marker class="begin-verse" mid="v47003011"/>
+			<v n="11">
+				For if 
+				<crossref let="l" cid="c4700311.1"/>
+				 that which is done away was glorious, much more that which remaineth is glorious.
+			</v>
+			<marker class="begin-verse" mid="v47003012"/>
+			<v n="12">
+				Seeing then 
+				<crossref let="m" cid="c4700312.1"/>
+				 that we have such hope, we use great plainness of speech:
+			</v>
+			<marker class="begin-verse" mid="v47003013"/>
+			<v n="13">
+				And not 
+				<crossref let="n" cid="c4700313.1"/>
+				 as Moses, which put a vail over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
+			</v>
+			<marker class="begin-verse" mid="v47003014"/>
+			<v n="14">
+				But their 
+				<crossref let="o" cid="c4700314.1"/>
+				 minds were blinded: for until this day remaineth the same vail untaken away in the reading of the old testament; which vail is done away in Christ.
+			</v>
+			<marker class="begin-verse" mid="v47003015"/>
+			<v n="15">
+				But even 
+				<crossref let="p" cid="c4700315.1"/>
+				 unto this day, when Moses is read, the vail is upon their heart.
+			</v>
+			<marker class="begin-verse" mid="v47003016"/>
+			<v n="16">
+				Nevertheless when 
+				<crossref let="q" cid="c4700316.1"/>
+				 it shall turn to the Lord, the vail shall be taken away.
+			</v>
+			<marker class="begin-verse" mid="v47003017"/>
+			<v n="17">
+				Now the 
+				<crossref let="r" cid="c4700317.1"/>
+				 Lord is that Spirit: and where the Spirit of the Lord is, there is liberty.
+			</v>
+			<marker class="begin-verse" mid="v47003018"/>
+			<v n="18">
+				But we 
+				<crossref let="s" cid="c4700318.1"/>
+				 all, with open face beholding as in a glass the glory of the Lord, are changed into the same image from glory to glory, even as by the Spirit of the Lord.
+			</v>
+			<marker class="begin-verse" mid="v47003019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

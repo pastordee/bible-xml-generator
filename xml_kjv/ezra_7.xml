@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:49:52.555920</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:49:52.555942</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" version="KJV" bookAbbr="ezr">
+		<marker class="begin-verse" mid="v15007001"/>
+		<chapter num="7">
+			<begin-paragraph/>
+			<v n="1">
+				Now after 
+				<crossref let="b" cid="c150071.1"/>
+				 these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,
+			</v>
+			<marker class="begin-verse" mid="v15007002"/>
+			<v n="2">
+				The son 
+				<crossref let="c" cid="c150072.1"/>
+				 of Shallum, the son of Zadok, the son of Ahitub,
+			</v>
+			<marker class="begin-verse" mid="v15007003"/>
+			<v n="3">
+				The son 
+				<crossref let="d" cid="c150073.1"/>
+				 of Amariah, the son of Azariah, the son of Meraioth,
+			</v>
+			<marker class="begin-verse" mid="v15007004"/>
+			<v n="4">
+				The son 
+				<crossref let="e" cid="c150074.1"/>
+				 of Zerahiah, the son of Uzzi, the son of Bukki,
+			</v>
+			<marker class="begin-verse" mid="v15007005"/>
+			<v n="5">
+				The son 
+				<crossref let="f" cid="c150075.1"/>
+				 of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:
+			</v>
+			<marker class="begin-verse" mid="v15007006"/>
+			<v n="6">
+				This Ezra 
+				<crossref let="g" cid="c150076.1"/>
+				 went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him.
+			</v>
+			<marker class="begin-verse" mid="v15007007"/>
+			<v n="7">
+				And there 
+				<crossref let="h" cid="c150077.1"/>
+				 went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king.
+			</v>
+			<marker class="begin-verse" mid="v15007008"/>
+			<v n="8">
+				And he 
+				<crossref let="i" cid="c150078.1"/>
+				 came to Jerusalem in the fifth month, which was in the seventh year of the king.
+			</v>
+			<marker class="begin-verse" mid="v15007009"/>
+			<v n="9">
+				For upon 
+				<crossref let="j" cid="c150079.1"/>
+				 the first day of the first month began he to go up from Babylon, and on the first day of the fifth month came he to Jerusalem, according to the good hand of his God upon him.
+			</v>
+			<marker class="begin-verse" mid="v15007010"/>
+			<v n="10">
+				For Ezra 
+				<crossref let="k" cid="c1500710.1"/>
+				 had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments.
+			</v>
+			<marker class="begin-verse" mid="v15007011"/>
+			<v n="11">
+				¶ Now 
+				<crossref let="l" cid="c1500711.1"/>
+				 this is the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, even a scribe of the words of the commandments of the LORD, and of his statutes to Israel.
+			</v>
+			<marker class="begin-verse" mid="v15007012"/>
+			<v n="12">
+				Artaxerxes, king 
+				<crossref let="m" cid="c1500712.1"/>
+				 of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect peace, and at such a time.
+			</v>
+			<marker class="begin-verse" mid="v15007013"/>
+			<v n="13">
+				I make 
+				<crossref let="n" cid="c1500713.1"/>
+				 a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.
+			</v>
+			<marker class="begin-verse" mid="v15007014"/>
+			<v n="14">
+				Forasmuch as 
+				<crossref let="o" cid="c1500714.1"/>
+				 thou art sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of thy God which is in thine hand;
+			</v>
+			<marker class="begin-verse" mid="v15007015"/>
+			<v n="15">
+				And to 
+				<crossref let="p" cid="c1500715.1"/>
+				 carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose habitation is in Jerusalem,
+			</v>
+			<marker class="begin-verse" mid="v15007016"/>
+			<v n="16">
+				And all 
+				<crossref let="q" cid="c1500716.1"/>
+				 the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which is in Jerusalem:
+			</v>
+			<marker class="begin-verse" mid="v15007017"/>
+			<v n="17">
+				That thou 
+				<crossref let="r" cid="c1500717.1"/>
+				 mayest buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which is in Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v15007018"/>
+			<v n="18">
+				And whatsoever 
+				<crossref let="s" cid="c1500718.1"/>
+				 shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.
+			</v>
+			<marker class="begin-verse" mid="v15007019"/>
+			<v n="19">
+				The vessels 
+				<crossref let="t" cid="c1500719.1"/>
+				 also that are given thee for the service of the house of thy God, those deliver thou before the God of Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v15007020"/>
+			<v n="20">
+				And whatsoever 
+				<crossref let="u" cid="c1500720.1"/>
+				 more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow it out of the king’s treasure house.
+			</v>
+			<marker class="begin-verse" mid="v15007021"/>
+			<v n="21">
+				And I, 
+				<crossref let="v" cid="c1500721.1"/>
+				 even I Artaxerxes the king, do make a decree to all the treasurers which are beyond the river, that whatsoever Ezra the priest, the scribe of the law of the God of heaven, shall require of you, it be done speedily,
+			</v>
+			<marker class="begin-verse" mid="v15007022"/>
+			<v n="22">
+				Unto an 
+				<crossref let="w" cid="c1500722.1"/>
+				 hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing how much.
+			</v>
+			<marker class="begin-verse" mid="v15007023"/>
+			<v n="23">
+				Whatsoever is 
+				<crossref let="x" cid="c1500723.1"/>
+				 commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?
+			</v>
+			<marker class="begin-verse" mid="v15007024"/>
+			<v n="24">
+				Also we 
+				<crossref let="y" cid="c1500724.1"/>
+				 certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.
+			</v>
+			<marker class="begin-verse" mid="v15007025"/>
+			<v n="25">
+				And thou, 
+				<crossref let="z" cid="c1500725.1"/>
+				 Ezra, after the wisdom of thy God, that is in thine hand, set magistrates and judges, which may judge all the people that are beyond the river, all such as know the laws of thy God; and teach ye them that know them not.
+			</v>
+			<marker class="begin-verse" mid="v15007026"/>
+			<v n="26">
+				And whosoever 
+				<crossref let="a" cid="c1500726.1"/>
+				 will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment.
+			</v>
+			<marker class="begin-verse" mid="v15007027"/>
+			<v n="27">
+				¶ Blessed 
+				<crossref let="b" cid="c1500727.1"/>
+				 be the LORD God of our fathers, which hath put such a thing as this in the king’s heart, to beautify the house of the LORD which is in Jerusalem:
+			</v>
+			<marker class="begin-verse" mid="v15007028"/>
+			<v n="28">
+				And hath 
+				<crossref let="c" cid="c1500728.1"/>
+				 extended mercy unto me before the king, and his counsellors, and before all the king’s mighty princes. And I was strengthened as the hand of the LORD my God was upon me, and I gathered together out of Israel chief men to go up with me.
+			</v>
+			<marker class="begin-verse" mid="v15007029"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

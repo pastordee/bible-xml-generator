@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:22:30.875197</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:22:30.875238</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" version="KJV" bookAbbr="lev">
+		<marker class="begin-verse" mid="v03012001"/>
+		<chapter num="12">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c030121.1"/>
+				 LORD spake unto Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v03012002"/>
+			<v n="2">
+				Speak unto 
+				<crossref let="c" cid="c030122.1"/>
+				 the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.
+			</v>
+			<marker class="begin-verse" mid="v03012003"/>
+			<v n="3">
+				And in 
+				<crossref let="d" cid="c030123.1"/>
+				 the eighth day the flesh of his foreskin shall be circumcised.
+			</v>
+			<marker class="begin-verse" mid="v03012004"/>
+			<v n="4">
+				And she 
+				<crossref let="e" cid="c030124.1"/>
+				 shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.
+			</v>
+			<marker class="begin-verse" mid="v03012005"/>
+			<v n="5">
+				But if 
+				<crossref let="f" cid="c030125.1"/>
+				 she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.
+			</v>
+			<marker class="begin-verse" mid="v03012006"/>
+			<v n="6">
+				And when 
+				<crossref let="g" cid="c030126.1"/>
+				 the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:
+			</v>
+			<marker class="begin-verse" mid="v03012007"/>
+			<v n="7">
+				Who shall 
+				<crossref let="h" cid="c030127.1"/>
+				 offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.
+			</v>
+			<marker class="begin-verse" mid="v03012008"/>
+			<v n="8">
+				And if 
+				<crossref let="i" cid="c030128.1"/>
+				 she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.
+			</v>
+			<marker class="begin-verse" mid="v03012009"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

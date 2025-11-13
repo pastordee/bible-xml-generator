@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:52:38.961603</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:52:38.961619</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" version="KJV" bookAbbr="job">
+		<marker class="begin-verse" mid="v18005001"/>
+		<chapter num="5">
+			<begin-paragraph/>
+			<v n="1">
+				Call now, 
+				<crossref let="b" cid="c180051.1"/>
+				 if there be any that will answer thee; and to which of the saints wilt thou turn?
+			</v>
+			<marker class="begin-verse" mid="v18005002"/>
+			<v n="2">
+				For wrath 
+				<crossref let="c" cid="c180052.1"/>
+				 killeth the foolish man, and envy slayeth the silly one.
+			</v>
+			<marker class="begin-verse" mid="v18005003"/>
+			<v n="3">
+				I have 
+				<crossref let="d" cid="c180053.1"/>
+				 seen the foolish taking root: but suddenly I cursed his habitation.
+			</v>
+			<marker class="begin-verse" mid="v18005004"/>
+			<v n="4">
+				His children 
+				<crossref let="e" cid="c180054.1"/>
+				 are far from safety, and they are crushed in the gate, neither is there any to deliver them.
+			</v>
+			<marker class="begin-verse" mid="v18005005"/>
+			<v n="5">
+				Whose harvest 
+				<crossref let="f" cid="c180055.1"/>
+				 the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.
+			</v>
+			<marker class="begin-verse" mid="v18005006"/>
+			<v n="6">
+				Although affliction 
+				<crossref let="g" cid="c180056.1"/>
+				 cometh not forth of the dust, neither doth trouble spring out of the ground;
+			</v>
+			<marker class="begin-verse" mid="v18005007"/>
+			<v n="7">
+				Yet man 
+				<crossref let="h" cid="c180057.1"/>
+				 is born unto trouble, as the sparks fly upward.
+			</v>
+			<marker class="begin-verse" mid="v18005008"/>
+			<v n="8">
+				I would 
+				<crossref let="i" cid="c180058.1"/>
+				 seek unto God, and unto God would I commit my cause:
+			</v>
+			<marker class="begin-verse" mid="v18005009"/>
+			<v n="9">
+				Which doeth 
+				<crossref let="j" cid="c180059.1"/>
+				 great things and unsearchable; marvellous things without number:
+			</v>
+			<marker class="begin-verse" mid="v18005010"/>
+			<v n="10">
+				Who giveth 
+				<crossref let="k" cid="c1800510.1"/>
+				 rain upon the earth, and sendeth waters upon the fields:
+			</v>
+			<marker class="begin-verse" mid="v18005011"/>
+			<v n="11">
+				To set 
+				<crossref let="l" cid="c1800511.1"/>
+				 up on high those that be low; that those which mourn may be exalted to safety.
+			</v>
+			<marker class="begin-verse" mid="v18005012"/>
+			<v n="12">
+				He disappointeth 
+				<crossref let="m" cid="c1800512.1"/>
+				 the devices of the crafty, so that their hands cannot perform their enterprise.
+			</v>
+			<marker class="begin-verse" mid="v18005013"/>
+			<v n="13">
+				He taketh 
+				<crossref let="n" cid="c1800513.1"/>
+				 the wise in their own craftiness: and the counsel of the froward is carried headlong.
+			</v>
+			<marker class="begin-verse" mid="v18005014"/>
+			<v n="14">
+				They meet 
+				<crossref let="o" cid="c1800514.1"/>
+				 with darkness in the daytime, and grope in the noonday as in the night.
+			</v>
+			<marker class="begin-verse" mid="v18005015"/>
+			<v n="15">
+				But he 
+				<crossref let="p" cid="c1800515.1"/>
+				 saveth the poor from the sword, from their mouth, and from the hand of the mighty.
+			</v>
+			<marker class="begin-verse" mid="v18005016"/>
+			<v n="16">
+				So the 
+				<crossref let="q" cid="c1800516.1"/>
+				 poor hath hope, and iniquity stoppeth her mouth.
+			</v>
+			<marker class="begin-verse" mid="v18005017"/>
+			<v n="17">
+				Behold, happy 
+				<crossref let="r" cid="c1800517.1"/>
+				 is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:
+			</v>
+			<marker class="begin-verse" mid="v18005018"/>
+			<v n="18">
+				For he 
+				<crossref let="s" cid="c1800518.1"/>
+				 maketh sore, and bindeth up: he woundeth, and his hands make whole.
+			</v>
+			<marker class="begin-verse" mid="v18005019"/>
+			<v n="19">
+				He shall 
+				<crossref let="t" cid="c1800519.1"/>
+				 deliver thee in six troubles: yea, in seven there shall no evil touch thee.
+			</v>
+			<marker class="begin-verse" mid="v18005020"/>
+			<v n="20">
+				In famine 
+				<crossref let="u" cid="c1800520.1"/>
+				 he shall redeem thee from death: and in war from the power of the sword.
+			</v>
+			<marker class="begin-verse" mid="v18005021"/>
+			<v n="21">
+				Thou shalt 
+				<crossref let="v" cid="c1800521.1"/>
+				 be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.
+			</v>
+			<marker class="begin-verse" mid="v18005022"/>
+			<v n="22">
+				At destruction 
+				<crossref let="w" cid="c1800522.1"/>
+				 and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.
+			</v>
+			<marker class="begin-verse" mid="v18005023"/>
+			<v n="23">
+				For thou 
+				<crossref let="x" cid="c1800523.1"/>
+				 shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.
+			</v>
+			<marker class="begin-verse" mid="v18005024"/>
+			<v n="24">
+				And thou 
+				<crossref let="y" cid="c1800524.1"/>
+				 shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.
+			</v>
+			<marker class="begin-verse" mid="v18005025"/>
+			<v n="25">
+				Thou shalt 
+				<crossref let="z" cid="c1800525.1"/>
+				 know also that thy seed shall be great, and thine offspring as the grass of the earth.
+			</v>
+			<marker class="begin-verse" mid="v18005026"/>
+			<v n="26">
+				Thou shalt 
+				<crossref let="a" cid="c1800526.1"/>
+				 come to thy grave in a full age, like as a shock of corn cometh in in his season.
+			</v>
+			<marker class="begin-verse" mid="v18005027"/>
+			<v n="27">
+				Lo this, 
+				<crossref let="b" cid="c1800527.1"/>
+				 we have searched it, so it is; hear it, and know thou it for thy good.
+			</v>
+			<marker class="begin-verse" mid="v18005028"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

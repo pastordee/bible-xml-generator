@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:00:56.137513</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:00:56.137521</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19056001"/>
+		<chapter num="56">
+			<heading>To the chief Musician upon Jonath-elem-rechokim, Michtam of David, when the Philistines took him in Gath.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Be merciful 
+				<crossref let="b" cid="c190561.1"/>
+				 unto me, O God: for man would swallow me up; he fighting daily oppresseth me.
+			</v>
+			<marker class="begin-verse" mid="v19056002"/>
+			<v n="2">
+				Mine enemies 
+				<crossref let="c" cid="c190562.1"/>
+				 would daily swallow me up: for they be many that fight against me, O thou most High.
+			</v>
+			<marker class="begin-verse" mid="v19056003"/>
+			<v n="3">
+				What time 
+				<crossref let="d" cid="c190563.1"/>
+				 I am afraid, I will trust in thee.
+			</v>
+			<marker class="begin-verse" mid="v19056004"/>
+			<v n="4">
+				In God 
+				<crossref let="e" cid="c190564.1"/>
+				 I will praise his word, in God I have put my trust; I will not fear what flesh can do unto me.
+			</v>
+			<marker class="begin-verse" mid="v19056005"/>
+			<v n="5">
+				Every day 
+				<crossref let="f" cid="c190565.1"/>
+				 they wrest my words: all their thoughts are against me for evil.
+			</v>
+			<marker class="begin-verse" mid="v19056006"/>
+			<v n="6">
+				They gather 
+				<crossref let="g" cid="c190566.1"/>
+				 themselves together, they hide themselves, they mark my steps, when they wait for my soul.
+			</v>
+			<marker class="begin-verse" mid="v19056007"/>
+			<v n="7">
+				Shall they 
+				<crossref let="h" cid="c190567.1"/>
+				 escape by iniquity? in thine anger cast down the people, O God.
+			</v>
+			<marker class="begin-verse" mid="v19056008"/>
+			<v n="8">
+				Thou tellest 
+				<crossref let="i" cid="c190568.1"/>
+				 my wanderings: put thou my tears into thy bottle: are they not in thy book?
+			</v>
+			<marker class="begin-verse" mid="v19056009"/>
+			<v n="9">
+				When I 
+				<crossref let="j" cid="c190569.1"/>
+				 cry unto thee, then shall mine enemies turn back: this I know; for God is for me.
+			</v>
+			<marker class="begin-verse" mid="v19056010"/>
+			<v n="10">
+				In God 
+				<crossref let="k" cid="c1905610.1"/>
+				 will I praise his word: in the LORD will I praise his word.
+			</v>
+			<marker class="begin-verse" mid="v19056011"/>
+			<v n="11">
+				In God 
+				<crossref let="l" cid="c1905611.1"/>
+				 have I put my trust: I will not be afraid what man can do unto me.
+			</v>
+			<marker class="begin-verse" mid="v19056012"/>
+			<v n="12">
+				Thy vows 
+				<crossref let="m" cid="c1905612.1"/>
+				 are upon me, O God: I will render praises unto thee.
+			</v>
+			<marker class="begin-verse" mid="v19056013"/>
+			<v n="13">
+				For thou 
+				<crossref let="n" cid="c1905613.1"/>
+				 hast delivered my soul from death: wilt not thou deliver my feet from falling, that I may walk before God in the light of the living?
+			</v>
+			<marker class="begin-verse" mid="v19056014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

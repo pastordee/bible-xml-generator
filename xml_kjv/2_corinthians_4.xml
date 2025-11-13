@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:49:31.021502</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:49:31.021512</next_refresh_due>
+	</generation_info>
+	<book title="2 Corinthians" num="47" testament="new" version="KJV" bookAbbr="2co">
+		<marker class="begin-verse" mid="v47004001"/>
+		<chapter num="4">
+			<begin-paragraph/>
+			<v n="1">
+				Therefore seeing 
+				<crossref let="b" cid="c470041.1"/>
+				 we have this ministry, as we have received mercy, we faint not;
+			</v>
+			<marker class="begin-verse" mid="v47004002"/>
+			<v n="2">
+				But have 
+				<crossref let="c" cid="c470042.1"/>
+				 renounced the hidden things of dishonesty, not walking in craftiness, nor handling the word of God deceitfully; but by manifestation of the truth commending ourselves to every man’s conscience in the sight of God.
+			</v>
+			<marker class="begin-verse" mid="v47004003"/>
+			<v n="3">
+				But if 
+				<crossref let="d" cid="c470043.1"/>
+				 our gospel be hid, it is hid to them that are lost:
+			</v>
+			<marker class="begin-verse" mid="v47004004"/>
+			<v n="4">
+				In whom 
+				<crossref let="e" cid="c470044.1"/>
+				 the god of this world hath blinded the minds of them which believe not, lest the light of the glorious gospel of Christ, who is the image of God, should shine unto them.
+			</v>
+			<marker class="begin-verse" mid="v47004005"/>
+			<v n="5">
+				For we 
+				<crossref let="f" cid="c470045.1"/>
+				 preach not ourselves, but Christ Jesus the Lord; and ourselves your servants for Jesus’ sake.
+			</v>
+			<marker class="begin-verse" mid="v47004006"/>
+			<v n="6">
+				For God, 
+				<crossref let="g" cid="c470046.1"/>
+				 who commanded the light to shine out of darkness, hath shined in our hearts, to give the light of the knowledge of the glory of God in the face of Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v47004007"/>
+			<v n="7">
+				But we 
+				<crossref let="h" cid="c470047.1"/>
+				 have this treasure in earthen vessels, that the excellency of the power may be of God, and not of us.
+			</v>
+			<marker class="begin-verse" mid="v47004008"/>
+			<v n="8">
+				We are 
+				<crossref let="i" cid="c470048.1"/>
+				 troubled on every side, yet not distressed; we are perplexed, but not in despair;
+			</v>
+			<marker class="begin-verse" mid="v47004009"/>
+			<v n="9">
+				Persecuted, but 
+				<crossref let="j" cid="c470049.1"/>
+				 not forsaken; cast down, but not destroyed;
+			</v>
+			<marker class="begin-verse" mid="v47004010"/>
+			<v n="10">
+				Always bearing 
+				<crossref let="k" cid="c4700410.1"/>
+				 about in the body the dying of the Lord Jesus, that the life also of Jesus might be made manifest in our body.
+			</v>
+			<marker class="begin-verse" mid="v47004011"/>
+			<v n="11">
+				For we 
+				<crossref let="l" cid="c4700411.1"/>
+				 which live are alway delivered unto death for Jesus’ sake, that the life also of Jesus might be made manifest in our mortal flesh.
+			</v>
+			<marker class="begin-verse" mid="v47004012"/>
+			<v n="12">
+				So then 
+				<crossref let="m" cid="c4700412.1"/>
+				 death worketh in us, but life in you.
+			</v>
+			<marker class="begin-verse" mid="v47004013"/>
+			<v n="13">
+				We having 
+				<crossref let="n" cid="c4700413.1"/>
+				 the same spirit of faith, according as it is written, I believed, and therefore have I spoken; we also believe, and therefore speak;
+			</v>
+			<marker class="begin-verse" mid="v47004014"/>
+			<v n="14">
+				Knowing that 
+				<crossref let="o" cid="c4700414.1"/>
+				 he which raised up the Lord Jesus shall raise up us also by Jesus, and shall present us with you.
+			</v>
+			<marker class="begin-verse" mid="v47004015"/>
+			<v n="15">
+				For all 
+				<crossref let="p" cid="c4700415.1"/>
+				 things are for your sakes, that the abundant grace might through the thanksgiving of many redound to the glory of God.
+			</v>
+			<marker class="begin-verse" mid="v47004016"/>
+			<v n="16">
+				For which 
+				<crossref let="q" cid="c4700416.1"/>
+				 cause we faint not; but though our outward man perish, yet the inward man is renewed day by day.
+			</v>
+			<marker class="begin-verse" mid="v47004017"/>
+			<v n="17">
+				For our 
+				<crossref let="r" cid="c4700417.1"/>
+				 light affliction, which is but for a moment, worketh for us a far more exceeding and eternal weight of glory;
+			</v>
+			<marker class="begin-verse" mid="v47004018"/>
+			<v n="18">
+				While we 
+				<crossref let="s" cid="c4700418.1"/>
+				 look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.
+			</v>
+			<marker class="begin-verse" mid="v47004019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

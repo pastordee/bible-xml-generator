@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:02:43.285865</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:02:43.285873</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19076001"/>
+		<chapter num="76">
+			<heading>To the chief Musician on Neginoth, A Psalm or Song of Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				In Judah 
+				<crossref let="b" cid="c190761.1"/>
+				 is God known: his name is great in Israel.
+			</v>
+			<marker class="begin-verse" mid="v19076002"/>
+			<v n="2">
+				In Salem 
+				<crossref let="c" cid="c190762.1"/>
+				 also is his tabernacle, and his dwelling place in Zion.
+			</v>
+			<marker class="begin-verse" mid="v19076003"/>
+			<v n="3">
+				There brake 
+				<crossref let="d" cid="c190763.1"/>
+				 he the arrows of the bow, the shield, and the sword, and the battle. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19076004"/>
+			<v n="4">
+				Thou art 
+				<crossref let="e" cid="c190764.1"/>
+				 more glorious and excellent than the mountains of prey.
+			</v>
+			<marker class="begin-verse" mid="v19076005"/>
+			<v n="5">
+				The stouthearted 
+				<crossref let="f" cid="c190765.1"/>
+				 are spoiled, they have slept their sleep: and none of the men of might have found their hands.
+			</v>
+			<marker class="begin-verse" mid="v19076006"/>
+			<v n="6">
+				At thy 
+				<crossref let="g" cid="c190766.1"/>
+				 rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep.
+			</v>
+			<marker class="begin-verse" mid="v19076007"/>
+			<v n="7">
+				Thou, even 
+				<crossref let="h" cid="c190767.1"/>
+				 thou, art to be feared: and who may stand in thy sight when once thou art angry?
+			</v>
+			<marker class="begin-verse" mid="v19076008"/>
+			<v n="8">
+				Thou didst 
+				<crossref let="i" cid="c190768.1"/>
+				 cause judgment to be heard from heaven; the earth feared, and was still,
+			</v>
+			<marker class="begin-verse" mid="v19076009"/>
+			<v n="9">
+				When God 
+				<crossref let="j" cid="c190769.1"/>
+				 arose to judgment, to save all the meek of the earth. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19076010"/>
+			<v n="10">
+				Surely the 
+				<crossref let="k" cid="c1907610.1"/>
+				 wrath of man shall praise thee: the remainder of wrath shalt thou restrain.
+			</v>
+			<marker class="begin-verse" mid="v19076011"/>
+			<v n="11">
+				Vow, and 
+				<crossref let="l" cid="c1907611.1"/>
+				 pay unto the LORD your God: let all that be round about him bring presents unto him that ought to be feared.
+			</v>
+			<marker class="begin-verse" mid="v19076012"/>
+			<v n="12">
+				He shall 
+				<crossref let="m" cid="c1907612.1"/>
+				 cut off the spirit of princes: he is terrible to the kings of the earth.
+			</v>
+			<marker class="begin-verse" mid="v19076013"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

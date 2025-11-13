@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:07:47.188523</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:07:47.188539</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19133001"/>
+		<chapter num="133">
+			<heading>A Song of degrees of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Behold, how 
+				<crossref let="b" cid="c191331.1"/>
+				 good and how pleasant it is for brethren to dwell together in unity!
+			</v>
+			<marker class="begin-verse" mid="v19133002"/>
+			<v n="2">
+				It is 
+				<crossref let="c" cid="c191332.1"/>
+				 like the precious ointment upon the head, that ran down upon the beard, even Aaron’s beard: that went down to the skirts of his garments;
+			</v>
+			<marker class="begin-verse" mid="v19133003"/>
+			<v n="3">
+				As the 
+				<crossref let="d" cid="c191333.1"/>
+				 dew of Hermon, and as the dew that descended upon the mountains of Zion: for there the LORD commanded the blessing, even life for evermore.
+			</v>
+			<marker class="begin-verse" mid="v19133004"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

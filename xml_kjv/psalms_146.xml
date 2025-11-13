@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:08:56.599666</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:08:56.599680</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19146001"/>
+		<chapter num="146">
+			<begin-paragraph/>
+			<v n="1">
+				Praise ye 
+				<crossref let="b" cid="c191461.1"/>
+				 the LORD. Praise the LORD, O my soul.
+			</v>
+			<marker class="begin-verse" mid="v19146002"/>
+			<v n="2">
+				While I 
+				<crossref let="c" cid="c191462.1"/>
+				 live will I praise the LORD: I will sing praises unto my God while I have any being.
+			</v>
+			<marker class="begin-verse" mid="v19146003"/>
+			<v n="3">
+				Put not 
+				<crossref let="d" cid="c191463.1"/>
+				 your trust in princes, nor in the son of man, in whom there is no help.
+			</v>
+			<marker class="begin-verse" mid="v19146004"/>
+			<v n="4">
+				His breath 
+				<crossref let="e" cid="c191464.1"/>
+				 goeth forth, he returneth to his earth; in that very day his thoughts perish.
+			</v>
+			<marker class="begin-verse" mid="v19146005"/>
+			<v n="5">
+				Happy is 
+				<crossref let="f" cid="c191465.1"/>
+				 he that hath the God of Jacob for his help, whose hope is in the LORD his God:
+			</v>
+			<marker class="begin-verse" mid="v19146006"/>
+			<v n="6">
+				Which made 
+				<crossref let="g" cid="c191466.1"/>
+				 heaven, and earth, the sea, and all that therein is: which keepeth truth for ever:
+			</v>
+			<marker class="begin-verse" mid="v19146007"/>
+			<v n="7">
+				Which executeth 
+				<crossref let="h" cid="c191467.1"/>
+				 judgment for the oppressed: which giveth food to the hungry. The LORD looseth the prisoners:
+			</v>
+			<marker class="begin-verse" mid="v19146008"/>
+			<v n="8">
+				The LORD 
+				<crossref let="i" cid="c191468.1"/>
+				 openeth the eyes of the blind: the LORD raiseth them that are bowed down: the LORD loveth the righteous:
+			</v>
+			<marker class="begin-verse" mid="v19146009"/>
+			<v n="9">
+				The LORD 
+				<crossref let="j" cid="c191469.1"/>
+				 preserveth the strangers; he relieveth the fatherless and widow: but the way of the wicked he turneth upside down.
+			</v>
+			<marker class="begin-verse" mid="v19146010"/>
+			<v n="10">
+				The LORD 
+				<crossref let="k" cid="c1914610.1"/>
+				 shall reign for ever, even thy God, O Zion, unto all generations. Praise ye the LORD.
+			</v>
+			<marker class="begin-verse" mid="v19146011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

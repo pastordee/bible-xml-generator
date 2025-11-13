@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:54:46.225172</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:54:46.225179</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" version="KJV" bookAbbr="heb">
+		<marker class="begin-verse" mid="v58008001"/>
+		<chapter num="8">
+			<begin-paragraph/>
+			<v n="1">
+				Now of 
+				<crossref let="b" cid="c580081.1"/>
+				 the things which we have spoken this is the sum: We have such an high priest, who is set on the right hand of the throne of the Majesty in the heavens;
+			</v>
+			<marker class="begin-verse" mid="v58008002"/>
+			<v n="2">
+				A minister 
+				<crossref let="c" cid="c580082.1"/>
+				 of the sanctuary, and of the true tabernacle, which the Lord pitched, and not man.
+			</v>
+			<marker class="begin-verse" mid="v58008003"/>
+			<v n="3">
+				For every 
+				<crossref let="d" cid="c580083.1"/>
+				 high priest is ordained to offer gifts and sacrifices: wherefore it is of necessity that this man have somewhat also to offer.
+			</v>
+			<marker class="begin-verse" mid="v58008004"/>
+			<v n="4">
+				For if 
+				<crossref let="e" cid="c580084.1"/>
+				 he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
+			</v>
+			<marker class="begin-verse" mid="v58008005"/>
+			<v n="5">
+				Who serve 
+				<crossref let="f" cid="c580085.1"/>
+				 unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount.
+			</v>
+			<marker class="begin-verse" mid="v58008006"/>
+			<v n="6">
+				But now 
+				<crossref let="g" cid="c580086.1"/>
+				 hath he obtained a more excellent ministry, by how much also he is the mediator of a better covenant, which was established upon better promises.
+			</v>
+			<marker class="begin-verse" mid="v58008007"/>
+			<v n="7">
+				For if 
+				<crossref let="h" cid="c580087.1"/>
+				 that first covenant had been faultless, then should no place have been sought for the second.
+			</v>
+			<marker class="begin-verse" mid="v58008008"/>
+			<v n="8">
+				For finding 
+				<crossref let="i" cid="c580088.1"/>
+				 fault with them, he saith, Behold, the days come, saith the Lord, when I will make a new covenant with the house of Israel and with the house of Judah:
+			</v>
+			<marker class="begin-verse" mid="v58008009"/>
+			<v n="9">
+				Not according 
+				<crossref let="j" cid="c580089.1"/>
+				 to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.
+			</v>
+			<marker class="begin-verse" mid="v58008010"/>
+			<v n="10">
+				For this 
+				<crossref let="k" cid="c5800810.1"/>
+				 is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:
+			</v>
+			<marker class="begin-verse" mid="v58008011"/>
+			<v n="11">
+				And they 
+				<crossref let="l" cid="c5800811.1"/>
+				 shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.
+			</v>
+			<marker class="begin-verse" mid="v58008012"/>
+			<v n="12">
+				For I 
+				<crossref let="m" cid="c5800812.1"/>
+				 will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.
+			</v>
+			<marker class="begin-verse" mid="v58008013"/>
+			<v n="13">
+				In that 
+				<crossref let="n" cid="c5800813.1"/>
+				 he saith, A new covenant, he hath made the first old. Now that which decayeth and waxeth old is ready to vanish away.
+			</v>
+			<marker class="begin-verse" mid="v58008014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:57:49.336478</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:57:49.336510</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19021001"/>
+		<chapter num="21">
+			<heading>To the chief Musician, A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The king 
+				<crossref let="b" cid="c190211.1"/>
+				 shall joy in thy strength, O LORD; and in thy salvation how greatly shall he rejoice!
+			</v>
+			<marker class="begin-verse" mid="v19021002"/>
+			<v n="2">
+				Thou hast 
+				<crossref let="c" cid="c190212.1"/>
+				 given him his heart’s desire, and hast not withholden the request of his lips. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19021003"/>
+			<v n="3">
+				For thou 
+				<crossref let="d" cid="c190213.1"/>
+				 preventest him with the blessings of goodness: thou settest a crown of pure gold on his head.
+			</v>
+			<marker class="begin-verse" mid="v19021004"/>
+			<v n="4">
+				He asked 
+				<crossref let="e" cid="c190214.1"/>
+				 life of thee, and thou gavest it him, even length of days for ever and ever.
+			</v>
+			<marker class="begin-verse" mid="v19021005"/>
+			<v n="5">
+				His glory 
+				<crossref let="f" cid="c190215.1"/>
+				 is great in thy salvation: honour and majesty hast thou laid upon him.
+			</v>
+			<marker class="begin-verse" mid="v19021006"/>
+			<v n="6">
+				For thou 
+				<crossref let="g" cid="c190216.1"/>
+				 hast made him most blessed for ever: thou hast made him exceeding glad with thy countenance.
+			</v>
+			<marker class="begin-verse" mid="v19021007"/>
+			<v n="7">
+				For the 
+				<crossref let="h" cid="c190217.1"/>
+				 king trusteth in the LORD, and through the mercy of the most High he shall not be moved.
+			</v>
+			<marker class="begin-verse" mid="v19021008"/>
+			<v n="8">
+				Thine hand 
+				<crossref let="i" cid="c190218.1"/>
+				 shall find out all thine enemies: thy right hand shall find out those that hate thee.
+			</v>
+			<marker class="begin-verse" mid="v19021009"/>
+			<v n="9">
+				Thou shalt 
+				<crossref let="j" cid="c190219.1"/>
+				 make them as a fiery oven in the time of thine anger: the LORD shall swallow them up in his wrath, and the fire shall devour them.
+			</v>
+			<marker class="begin-verse" mid="v19021010"/>
+			<v n="10">
+				Their fruit 
+				<crossref let="k" cid="c1902110.1"/>
+				 shalt thou destroy from the earth, and their seed from among the children of men.
+			</v>
+			<marker class="begin-verse" mid="v19021011"/>
+			<v n="11">
+				For they 
+				<crossref let="l" cid="c1902111.1"/>
+				 intended evil against thee: they imagined a mischievous device, which they are not able to perform.
+			</v>
+			<marker class="begin-verse" mid="v19021012"/>
+			<v n="12">
+				Therefore shalt 
+				<crossref let="m" cid="c1902112.1"/>
+				 thou make them turn their back, when thou shalt make ready thine arrows upon thy strings against the face of them.
+			</v>
+			<marker class="begin-verse" mid="v19021013"/>
+			<v n="13">
+				Be thou 
+				<crossref let="n" cid="c1902113.1"/>
+				 exalted, LORD, in thine own strength: so will we sing and praise thy power.
+			</v>
+			<marker class="begin-verse" mid="v19021014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

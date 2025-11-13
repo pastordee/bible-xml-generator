@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:03:04.809217</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:03:04.809226</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19080001"/>
+		<chapter num="80">
+			<heading>To the chief Musician upon Shoshannim-eduth, A Psalm of Asaph.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Give ear, 
+				<crossref let="b" cid="c190801.1"/>
+				 O Shepherd of Israel, thou that leadest Joseph like a flock; thou that dwellest between the cherubims, shine forth.
+			</v>
+			<marker class="begin-verse" mid="v19080002"/>
+			<v n="2">
+				Before Ephraim 
+				<crossref let="c" cid="c190802.1"/>
+				 and Benjamin and Manasseh stir up thy strength, and come and save us.
+			</v>
+			<marker class="begin-verse" mid="v19080003"/>
+			<v n="3">
+				Turn us 
+				<crossref let="d" cid="c190803.1"/>
+				 again, O God, and cause thy face to shine; and we shall be saved.
+			</v>
+			<marker class="begin-verse" mid="v19080004"/>
+			<v n="4">
+				O LORD 
+				<crossref let="e" cid="c190804.1"/>
+				 God of hosts, how long wilt thou be angry against the prayer of thy people?
+			</v>
+			<marker class="begin-verse" mid="v19080005"/>
+			<v n="5">
+				Thou feedest 
+				<crossref let="f" cid="c190805.1"/>
+				 them with the bread of tears; and givest them tears to drink in great measure.
+			</v>
+			<marker class="begin-verse" mid="v19080006"/>
+			<v n="6">
+				Thou makest 
+				<crossref let="g" cid="c190806.1"/>
+				 us a strife unto our neighbours: and our enemies laugh among themselves.
+			</v>
+			<marker class="begin-verse" mid="v19080007"/>
+			<v n="7">
+				Turn us 
+				<crossref let="h" cid="c190807.1"/>
+				 again, O God of hosts, and cause thy face to shine; and we shall be saved.
+			</v>
+			<marker class="begin-verse" mid="v19080008"/>
+			<v n="8">
+				Thou hast 
+				<crossref let="i" cid="c190808.1"/>
+				 brought a vine out of Egypt: thou hast cast out the heathen, and planted it.
+			</v>
+			<marker class="begin-verse" mid="v19080009"/>
+			<v n="9">
+				Thou preparedst 
+				<crossref let="j" cid="c190809.1"/>
+				 room before it, and didst cause it to take deep root, and it filled the land.
+			</v>
+			<marker class="begin-verse" mid="v19080010"/>
+			<v n="10">
+				The hills 
+				<crossref let="k" cid="c1908010.1"/>
+				 were covered with the shadow of it, and the boughs thereof were like the goodly cedars.
+			</v>
+			<marker class="begin-verse" mid="v19080011"/>
+			<v n="11">
+				She sent 
+				<crossref let="l" cid="c1908011.1"/>
+				 out her boughs unto the sea, and her branches unto the river.
+			</v>
+			<marker class="begin-verse" mid="v19080012"/>
+			<v n="12">
+				Why hast 
+				<crossref let="m" cid="c1908012.1"/>
+				 thou then broken down her hedges, so that all they which pass by the way do pluck her?
+			</v>
+			<marker class="begin-verse" mid="v19080013"/>
+			<v n="13">
+				The boar 
+				<crossref let="n" cid="c1908013.1"/>
+				 out of the wood doth waste it, and the wild beast of the field doth devour it.
+			</v>
+			<marker class="begin-verse" mid="v19080014"/>
+			<v n="14">
+				Return, we 
+				<crossref let="o" cid="c1908014.1"/>
+				 beseech thee, O God of hosts: look down from heaven, and behold, and visit this vine;
+			</v>
+			<marker class="begin-verse" mid="v19080015"/>
+			<v n="15">
+				And the 
+				<crossref let="p" cid="c1908015.1"/>
+				 vineyard which thy right hand hath planted, and the branch that thou madest strong for thyself.
+			</v>
+			<marker class="begin-verse" mid="v19080016"/>
+			<v n="16">
+				It is 
+				<crossref let="q" cid="c1908016.1"/>
+				 burned with fire, it is cut down: they perish at the rebuke of thy countenance.
+			</v>
+			<marker class="begin-verse" mid="v19080017"/>
+			<v n="17">
+				Let thy 
+				<crossref let="r" cid="c1908017.1"/>
+				 hand be upon the man of thy right hand, upon the son of man whom thou madest strong for thyself.
+			</v>
+			<marker class="begin-verse" mid="v19080018"/>
+			<v n="18">
+				So will 
+				<crossref let="s" cid="c1908018.1"/>
+				 not we go back from thee: quicken us, and we will call upon thy name.
+			</v>
+			<marker class="begin-verse" mid="v19080019"/>
+			<v n="19">
+				Turn us 
+				<crossref let="t" cid="c1908019.1"/>
+				 again, O LORD God of hosts, cause thy face to shine; and we shall be saved.
+			</v>
+			<marker class="begin-verse" mid="v19080020"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

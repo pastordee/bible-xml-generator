@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:23:54.497718</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:23:54.497741</next_refresh_due>
+	</generation_info>
+	<book title="Jeremiah" num="24" testament="old" version="KJV" bookAbbr="jer">
+		<marker class="begin-verse" mid="v24047001"/>
+		<chapter num="47">
+			<begin-paragraph/>
+			<v n="1">
+				The word 
+				<crossref let="b" cid="c240471.1"/>
+				 of the LORD that came to Jeremiah the prophet against the Philistines, before that Pharaoh smote Gaza.
+			</v>
+			<marker class="begin-verse" mid="v24047002"/>
+			<v n="2">
+				Thus saith 
+				<crossref let="c" cid="c240472.1"/>
+				 the LORD; Behold, waters rise up out of the north, and shall be an overflowing flood, and shall overflow the land, and all that is therein; the city, and them that dwell therein: then the men shall cry, and all the inhabitants of the land shall howl.
+			</v>
+			<marker class="begin-verse" mid="v24047003"/>
+			<v n="3">
+				At the 
+				<crossref let="d" cid="c240473.1"/>
+				 noise of the stamping of the hoofs of his strong horses, at the rushing of his chariots, and at the rumbling of his wheels, the fathers shall not look back to their children for feebleness of hands;
+			</v>
+			<marker class="begin-verse" mid="v24047004"/>
+			<v n="4">
+				Because of 
+				<crossref let="e" cid="c240474.1"/>
+				 the day that cometh to spoil all the Philistines, and to cut off from Tyrus and Zidon every helper that remaineth: for the LORD will spoil the Philistines, the remnant of the country of Caphtor.
+			</v>
+			<marker class="begin-verse" mid="v24047005"/>
+			<v n="5">
+				Baldness is 
+				<crossref let="f" cid="c240475.1"/>
+				 come upon Gaza; Ashkelon is cut off with the remnant of their valley: how long wilt thou cut thyself?
+			</v>
+			<marker class="begin-verse" mid="v24047006"/>
+			<v n="6">
+				O thou 
+				<crossref let="g" cid="c240476.1"/>
+				 sword of the LORD, how long will it be ere thou be quiet? put up thyself into thy scabbard, rest, and be still.
+			</v>
+			<marker class="begin-verse" mid="v24047007"/>
+			<v n="7">
+				How can 
+				<crossref let="h" cid="c240477.1"/>
+				 it be quiet, seeing the LORD hath given it a charge against Ashkelon, and against the sea shore? there hath he appointed it.
+			</v>
+			<marker class="begin-verse" mid="v24047008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

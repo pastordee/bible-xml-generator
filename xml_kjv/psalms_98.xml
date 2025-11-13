@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:04:40.815211</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:04:40.815246</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19098001"/>
+		<chapter num="98">
+			<heading>A Psalm.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O sing 
+				<crossref let="b" cid="c190981.1"/>
+				 unto the LORD a new song; for he hath done marvellous things: his right hand, and his holy arm, hath gotten him the victory.
+			</v>
+			<marker class="begin-verse" mid="v19098002"/>
+			<v n="2">
+				The LORD 
+				<crossref let="c" cid="c190982.1"/>
+				 hath made known his salvation: his righteousness hath he openly shewed in the sight of the heathen.
+			</v>
+			<marker class="begin-verse" mid="v19098003"/>
+			<v n="3">
+				He hath 
+				<crossref let="d" cid="c190983.1"/>
+				 remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.
+			</v>
+			<marker class="begin-verse" mid="v19098004"/>
+			<v n="4">
+				Make a 
+				<crossref let="e" cid="c190984.1"/>
+				 joyful noise unto the LORD, all the earth: make a loud noise, and rejoice, and sing praise.
+			</v>
+			<marker class="begin-verse" mid="v19098005"/>
+			<v n="5">
+				Sing unto 
+				<crossref let="f" cid="c190985.1"/>
+				 the LORD with the harp; with the harp, and the voice of a psalm.
+			</v>
+			<marker class="begin-verse" mid="v19098006"/>
+			<v n="6">
+				With trumpets 
+				<crossref let="g" cid="c190986.1"/>
+				 and sound of cornet make a joyful noise before the LORD, the King.
+			</v>
+			<marker class="begin-verse" mid="v19098007"/>
+			<v n="7">
+				Let the 
+				<crossref let="h" cid="c190987.1"/>
+				 sea roar, and the fulness thereof; the world, and they that dwell therein.
+			</v>
+			<marker class="begin-verse" mid="v19098008"/>
+			<v n="8">
+				Let the 
+				<crossref let="i" cid="c190988.1"/>
+				 floods clap their hands: let the hills be joyful together
+			</v>
+			<marker class="begin-verse" mid="v19098009"/>
+			<v n="9">
+				Before the 
+				<crossref let="j" cid="c190989.1"/>
+				 LORD; for he cometh to judge the earth: with righteousness shall he judge the world, and the people with equity.
+			</v>
+			<marker class="begin-verse" mid="v19098010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

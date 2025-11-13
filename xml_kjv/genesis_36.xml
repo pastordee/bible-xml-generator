@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:19:51.665480</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:19:51.665511</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="KJV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01036001"/>
+		<chapter num="36">
+			<begin-paragraph/>
+			<v n="1">
+				Now these 
+				<crossref let="b" cid="c010361.1"/>
+				 are the generations of Esau, who is Edom.
+			</v>
+			<marker class="begin-verse" mid="v01036002"/>
+			<v n="2">
+				Esau took 
+				<crossref let="c" cid="c010362.1"/>
+				 his wives of the daughters of Canaan; Adah the daughter of Elon the Hittite, and Aholibamah the daughter of Anah the daughter of Zibeon the Hivite;
+			</v>
+			<marker class="begin-verse" mid="v01036003"/>
+			<v n="3">
+				And Bashemath 
+				<crossref let="d" cid="c010363.1"/>
+				 Ishmael’s daughter, sister of Nebajoth.
+			</v>
+			<marker class="begin-verse" mid="v01036004"/>
+			<v n="4">
+				And Adah 
+				<crossref let="e" cid="c010364.1"/>
+				 bare to Esau Eliphaz; and Bashemath bare Reuel;
+			</v>
+			<marker class="begin-verse" mid="v01036005"/>
+			<v n="5">
+				And Aholibamah 
+				<crossref let="f" cid="c010365.1"/>
+				 bare Jeush, and Jaalam, and Korah: these are the sons of Esau, which were born unto him in the land of Canaan.
+			</v>
+			<marker class="begin-verse" mid="v01036006"/>
+			<v n="6">
+				And Esau 
+				<crossref let="g" cid="c010366.1"/>
+				 took his wives, and his sons, and his daughters, and all the persons of his house, and his cattle, and all his beasts, and all his substance, which he had got in the land of Canaan; and went into the country from the face of his brother Jacob.
+			</v>
+			<marker class="begin-verse" mid="v01036007"/>
+			<v n="7">
+				For their 
+				<crossref let="h" cid="c010367.1"/>
+				 riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle.
+			</v>
+			<marker class="begin-verse" mid="v01036008"/>
+			<v n="8">
+				Thus dwelt 
+				<crossref let="i" cid="c010368.1"/>
+				 Esau in mount Seir: Esau is Edom.
+			</v>
+			<marker class="begin-verse" mid="v01036009"/>
+			<v n="9">
+				¶ And 
+				<crossref let="j" cid="c010369.1"/>
+				 these are the generations of Esau the father of the Edomites in mount Seir:
+			</v>
+			<marker class="begin-verse" mid="v01036010"/>
+			<v n="10">
+				These are 
+				<crossref let="k" cid="c0103610.1"/>
+				 the names of Esau’s sons; Eliphaz the son of Adah the wife of Esau, Reuel the son of Bashemath the wife of Esau.
+			</v>
+			<marker class="begin-verse" mid="v01036011"/>
+			<v n="11">
+				And the 
+				<crossref let="l" cid="c0103611.1"/>
+				 sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.
+			</v>
+			<marker class="begin-verse" mid="v01036012"/>
+			<v n="12">
+				And Timna 
+				<crossref let="m" cid="c0103612.1"/>
+				 was concubine to Eliphaz Esau’s son; and she bare to Eliphaz Amalek: these were the sons of Adah Esau’s wife.
+			</v>
+			<marker class="begin-verse" mid="v01036013"/>
+			<v n="13">
+				And these 
+				<crossref let="n" cid="c0103613.1"/>
+				 are the sons of Reuel; Nahath, and Zerah, Shammah, and Mizzah: these were the sons of Bashemath Esau’s wife.
+			</v>
+			<marker class="begin-verse" mid="v01036014"/>
+			<v n="14">
+				¶ And 
+				<crossref let="o" cid="c0103614.1"/>
+				 these were the sons of Aholibamah, the daughter of Anah the daughter of Zibeon, Esau’s wife: and she bare to Esau Jeush, and Jaalam, and Korah.
+			</v>
+			<marker class="begin-verse" mid="v01036015"/>
+			<v n="15">
+				¶ These 
+				<crossref let="p" cid="c0103615.1"/>
+				 were dukes of the sons of Esau: the sons of Eliphaz the firstborn son of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,
+			</v>
+			<marker class="begin-verse" mid="v01036016"/>
+			<v n="16">
+				Duke Korah, 
+				<crossref let="q" cid="c0103616.1"/>
+				 duke Gatam, and duke Amalek: these are the dukes that came of Eliphaz in the land of Edom; these were the sons of Adah.
+			</v>
+			<marker class="begin-verse" mid="v01036017"/>
+			<v n="17">
+				¶ And 
+				<crossref let="r" cid="c0103617.1"/>
+				 these are the sons of Reuel Esau’s son; duke Nahath, duke Zerah, duke Shammah, duke Mizzah: these are the dukes that came of Reuel in the land of Edom; these are the sons of Bashemath Esau’s wife.
+			</v>
+			<marker class="begin-verse" mid="v01036018"/>
+			<v n="18">
+				¶ And 
+				<crossref let="s" cid="c0103618.1"/>
+				 these are the sons of Aholibamah Esau’s wife; duke Jeush, duke Jaalam, duke Korah: these were the dukes that came of Aholibamah the daughter of Anah, Esau’s wife.
+			</v>
+			<marker class="begin-verse" mid="v01036019"/>
+			<v n="19">
+				These are 
+				<crossref let="t" cid="c0103619.1"/>
+				 the sons of Esau, who is Edom, and these are their dukes.
+			</v>
+			<marker class="begin-verse" mid="v01036020"/>
+			<v n="20">
+				¶ These 
+				<crossref let="u" cid="c0103620.1"/>
+				 are the sons of Seir the Horite, who inhabited the land; Lotan, and Shobal, and Zibeon, and Anah,
+			</v>
+			<marker class="begin-verse" mid="v01036021"/>
+			<v n="21">
+				And Dishon, 
+				<crossref let="v" cid="c0103621.1"/>
+				 and Ezer, and Dishan: these are the dukes of the Horites, the children of Seir in the land of Edom.
+			</v>
+			<marker class="begin-verse" mid="v01036022"/>
+			<v n="22">
+				And the 
+				<crossref let="w" cid="c0103622.1"/>
+				 children of Lotan were Hori and Hemam; and Lotan’s sister was Timna.
+			</v>
+			<marker class="begin-verse" mid="v01036023"/>
+			<v n="23">
+				And the 
+				<crossref let="x" cid="c0103623.1"/>
+				 children of Shobal were these; Alvan, and Manahath, and Ebal, Shepho, and Onam.
+			</v>
+			<marker class="begin-verse" mid="v01036024"/>
+			<v n="24">
+				And these 
+				<crossref let="y" cid="c0103624.1"/>
+				 are the children of Zibeon; both Ajah, and Anah: this was that Anah that found the mules in the wilderness, as he fed the asses of Zibeon his father.
+			</v>
+			<marker class="begin-verse" mid="v01036025"/>
+			<v n="25">
+				And the 
+				<crossref let="z" cid="c0103625.1"/>
+				 children of Anah were these; Dishon, and Aholibamah the daughter of Anah.
+			</v>
+			<marker class="begin-verse" mid="v01036026"/>
+			<v n="26">
+				And these 
+				<crossref let="a" cid="c0103626.1"/>
+				 are the children of Dishon; Hemdan, and Eshban, and Ithran, and Cheran.
+			</v>
+			<marker class="begin-verse" mid="v01036027"/>
+			<v n="27">
+				The children 
+				<crossref let="b" cid="c0103627.1"/>
+				 of Ezer are these; Bilhan, and Zaavan, and Akan.
+			</v>
+			<marker class="begin-verse" mid="v01036028"/>
+			<v n="28">
+				The children 
+				<crossref let="c" cid="c0103628.1"/>
+				 of Dishan are these; Uz, and Aran.
+			</v>
+			<marker class="begin-verse" mid="v01036029"/>
+			<v n="29">
+				These are 
+				<crossref let="d" cid="c0103629.1"/>
+				 the dukes that came of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah,
+			</v>
+			<marker class="begin-verse" mid="v01036030"/>
+			<v n="30">
+				Duke Dishon, 
+				<crossref let="e" cid="c0103630.1"/>
+				 duke Ezer, duke Dishan: these are the dukes that came of Hori, among their dukes in the land of Seir.
+			</v>
+			<marker class="begin-verse" mid="v01036031"/>
+			<v n="31">
+				¶ And 
+				<crossref let="f" cid="c0103631.1"/>
+				 these are the kings that reigned in the land of Edom, before there reigned any king over the children of Israel.
+			</v>
+			<marker class="begin-verse" mid="v01036032"/>
+			<v n="32">
+				And Bela 
+				<crossref let="g" cid="c0103632.1"/>
+				 the son of Beor reigned in Edom: and the name of his city was Dinhabah.
+			</v>
+			<marker class="begin-verse" mid="v01036033"/>
+			<v n="33">
+				And Bela 
+				<crossref let="h" cid="c0103633.1"/>
+				 died, and Jobab the son of Zerah of Bozrah reigned in his stead.
+			</v>
+			<marker class="begin-verse" mid="v01036034"/>
+			<v n="34">
+				And Jobab 
+				<crossref let="i" cid="c0103634.1"/>
+				 died, and Husham of the land of Temani reigned in his stead.
+			</v>
+			<marker class="begin-verse" mid="v01036035"/>
+			<v n="35">
+				And Husham 
+				<crossref let="j" cid="c0103635.1"/>
+				 died, and Hadad the son of Bedad, who smote Midian in the field of Moab, reigned in his stead: and the name of his city was Avith.
+			</v>
+			<marker class="begin-verse" mid="v01036036"/>
+			<v n="36">
+				And Hadad 
+				<crossref let="k" cid="c0103636.1"/>
+				 died, and Samlah of Masrekah reigned in his stead.
+			</v>
+			<marker class="begin-verse" mid="v01036037"/>
+			<v n="37">
+				And Samlah 
+				<crossref let="l" cid="c0103637.1"/>
+				 died, and Saul of Rehoboth by the river reigned in his stead.
+			</v>
+			<marker class="begin-verse" mid="v01036038"/>
+			<v n="38">
+				And Saul 
+				<crossref let="m" cid="c0103638.1"/>
+				 died, and Baal-hanan the son of Achbor reigned in his stead.
+			</v>
+			<marker class="begin-verse" mid="v01036039"/>
+			<v n="39">
+				And Baal-hanan 
+				<crossref let="n" cid="c0103639.1"/>
+				 the son of Achbor died, and Hadar reigned in his stead: and the name of his city was Pau; and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab.
+			</v>
+			<marker class="begin-verse" mid="v01036040"/>
+			<v n="40">
+				And these 
+				<crossref let="o" cid="c0103640.1"/>
+				 are the names of the dukes that came of Esau, according to their families, after their places, by their names; duke Timnah, duke Alvah, duke Jetheth,
+			</v>
+			<marker class="begin-verse" mid="v01036041"/>
+			<v n="41">
+				Duke Aholibamah, 
+				<crossref let="p" cid="c0103641.1"/>
+				 duke Elah, duke Pinon,
+			</v>
+			<marker class="begin-verse" mid="v01036042"/>
+			<v n="42">
+				Duke Kenaz, 
+				<crossref let="q" cid="c0103642.1"/>
+				 duke Teman, duke Mibzar,
+			</v>
+			<marker class="begin-verse" mid="v01036043"/>
+			<v n="43">
+				Duke Magdiel, 
+				<crossref let="r" cid="c0103643.1"/>
+				 duke Iram: these be the dukes of Edom, according to their habitations in the land of their possession: he is Esau the father of the Edomites.
+			</v>
+			<marker class="begin-verse" mid="v01036044"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:18:32.483544</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:18:32.483568</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="KJV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01009001"/>
+		<chapter num="9">
+			<begin-paragraph/>
+			<v n="1">
+				And God 
+				<crossref let="b" cid="c010091.1"/>
+				 blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth.
+			</v>
+			<marker class="begin-verse" mid="v01009002"/>
+			<v n="2">
+				And the 
+				<crossref let="c" cid="c010092.1"/>
+				 fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered.
+			</v>
+			<marker class="begin-verse" mid="v01009003"/>
+			<v n="3">
+				Every moving 
+				<crossref let="d" cid="c010093.1"/>
+				 thing that liveth shall be meat for you; even as the green herb have I given you all things.
+			</v>
+			<marker class="begin-verse" mid="v01009004"/>
+			<v n="4">
+				But flesh 
+				<crossref let="e" cid="c010094.1"/>
+				 with the life thereof, which is the blood thereof, shall ye not eat.
+			</v>
+			<marker class="begin-verse" mid="v01009005"/>
+			<v n="5">
+				And surely 
+				<crossref let="f" cid="c010095.1"/>
+				 your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man’s brother will I require the life of man.
+			</v>
+			<marker class="begin-verse" mid="v01009006"/>
+			<v n="6">
+				Whoso sheddeth 
+				<crossref let="g" cid="c010096.1"/>
+				 man’s blood, by man shall his blood be shed: for in the image of God made he man.
+			</v>
+			<marker class="begin-verse" mid="v01009007"/>
+			<v n="7">
+				And you, 
+				<crossref let="h" cid="c010097.1"/>
+				 be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein.
+			</v>
+			<marker class="begin-verse" mid="v01009008"/>
+			<v n="8">
+				¶ And 
+				<crossref let="i" cid="c010098.1"/>
+				 God spake unto Noah, and to his sons with him, saying,
+			</v>
+			<marker class="begin-verse" mid="v01009009"/>
+			<v n="9">
+				And I, 
+				<crossref let="j" cid="c010099.1"/>
+				 behold, I establish my covenant with you, and with your seed after you;
+			</v>
+			<marker class="begin-verse" mid="v01009010"/>
+			<v n="10">
+				And with 
+				<crossref let="k" cid="c0100910.1"/>
+				 every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.
+			</v>
+			<marker class="begin-verse" mid="v01009011"/>
+			<v n="11">
+				And I 
+				<crossref let="l" cid="c0100911.1"/>
+				 will establish my covenant with you; neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth.
+			</v>
+			<marker class="begin-verse" mid="v01009012"/>
+			<v n="12">
+				And God 
+				<crossref let="m" cid="c0100912.1"/>
+				 said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:
+			</v>
+			<marker class="begin-verse" mid="v01009013"/>
+			<v n="13">
+				I do 
+				<crossref let="n" cid="c0100913.1"/>
+				 set my bow in the cloud, and it shall be for a token of a covenant between me and the earth.
+			</v>
+			<marker class="begin-verse" mid="v01009014"/>
+			<v n="14">
+				And it 
+				<crossref let="o" cid="c0100914.1"/>
+				 shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:
+			</v>
+			<marker class="begin-verse" mid="v01009015"/>
+			<v n="15">
+				And I 
+				<crossref let="p" cid="c0100915.1"/>
+				 will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh.
+			</v>
+			<marker class="begin-verse" mid="v01009016"/>
+			<v n="16">
+				And the 
+				<crossref let="q" cid="c0100916.1"/>
+				 bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth.
+			</v>
+			<marker class="begin-verse" mid="v01009017"/>
+			<v n="17">
+				And God 
+				<crossref let="r" cid="c0100917.1"/>
+				 said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth.
+			</v>
+			<marker class="begin-verse" mid="v01009018"/>
+			<v n="18">
+				¶ And 
+				<crossref let="s" cid="c0100918.1"/>
+				 the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan.
+			</v>
+			<marker class="begin-verse" mid="v01009019"/>
+			<v n="19">
+				These are 
+				<crossref let="t" cid="c0100919.1"/>
+				 the three sons of Noah: and of them was the whole earth overspread.
+			</v>
+			<marker class="begin-verse" mid="v01009020"/>
+			<v n="20">
+				And Noah 
+				<crossref let="u" cid="c0100920.1"/>
+				 began to be an husbandman, and he planted a vineyard:
+			</v>
+			<marker class="begin-verse" mid="v01009021"/>
+			<v n="21">
+				And he 
+				<crossref let="v" cid="c0100921.1"/>
+				 drank of the wine, and was drunken; and he was uncovered within his tent.
+			</v>
+			<marker class="begin-verse" mid="v01009022"/>
+			<v n="22">
+				And Ham, 
+				<crossref let="w" cid="c0100922.1"/>
+				 the father of Canaan, saw the nakedness of his father, and told his two brethren without.
+			</v>
+			<marker class="begin-verse" mid="v01009023"/>
+			<v n="23">
+				And Shem 
+				<crossref let="x" cid="c0100923.1"/>
+				 and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father’s nakedness.
+			</v>
+			<marker class="begin-verse" mid="v01009024"/>
+			<v n="24">
+				And Noah 
+				<crossref let="y" cid="c0100924.1"/>
+				 awoke from his wine, and knew what his younger son had done unto him.
+			</v>
+			<marker class="begin-verse" mid="v01009025"/>
+			<v n="25">
+				And he 
+				<crossref let="z" cid="c0100925.1"/>
+				 said, Cursed be Canaan; a servant of servants shall he be unto his brethren.
+			</v>
+			<marker class="begin-verse" mid="v01009026"/>
+			<v n="26">
+				And he 
+				<crossref let="a" cid="c0100926.1"/>
+				 said, Blessed be the LORD God of Shem; and Canaan shall be his servant.
+			</v>
+			<marker class="begin-verse" mid="v01009027"/>
+			<v n="27">
+				God shall 
+				<crossref let="b" cid="c0100927.1"/>
+				 enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant.
+			</v>
+			<marker class="begin-verse" mid="v01009028"/>
+			<v n="28">
+				¶ And 
+				<crossref let="c" cid="c0100928.1"/>
+				 Noah lived after the flood three hundred and fifty years.
+			</v>
+			<marker class="begin-verse" mid="v01009029"/>
+			<v n="29">
+				And all 
+				<crossref let="d" cid="c0100929.1"/>
+				 the days of Noah were nine hundred and fifty years: and he died.
+			</v>
+			<marker class="begin-verse" mid="v01009030"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

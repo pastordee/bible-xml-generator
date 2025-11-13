@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:22:58.133117</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:22:58.133144</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" version="KJV" bookAbbr="lev">
+		<marker class="begin-verse" mid="v03017001"/>
+		<chapter num="17">
+			<begin-paragraph/>
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c030171.1"/>
+				 LORD spake unto Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v03017002"/>
+			<v n="2">
+				Speak unto 
+				<crossref let="c" cid="c030172.1"/>
+				 Aaron, and unto his sons, and unto all the children of Israel, and say unto them; This is the thing which the LORD hath commanded, saying,
+			</v>
+			<marker class="begin-verse" mid="v03017003"/>
+			<v n="3">
+				What man 
+				<crossref let="d" cid="c030173.1"/>
+				 soever there be of the house of Israel, that killeth an ox, or lamb, or goat, in the camp, or that killeth it out of the camp,
+			</v>
+			<marker class="begin-verse" mid="v03017004"/>
+			<v n="4">
+				And bringeth 
+				<crossref let="e" cid="c030174.1"/>
+				 it not unto the door of the tabernacle of the congregation, to offer an offering unto the LORD before the tabernacle of the LORD; blood shall be imputed unto that man; he hath shed blood; and that man shall be cut off from among his people:
+			</v>
+			<marker class="begin-verse" mid="v03017005"/>
+			<v n="5">
+				To the 
+				<crossref let="f" cid="c030175.1"/>
+				 end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the LORD, unto the door of the tabernacle of the congregation, unto the priest, and offer them for peace offerings unto the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03017006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c030176.1"/>
+				 priest shall sprinkle the blood upon the altar of the LORD at the door of the tabernacle of the congregation, and burn the fat for a sweet savour unto the LORD.
+			</v>
+			<marker class="begin-verse" mid="v03017007"/>
+			<v n="7">
+				And they 
+				<crossref let="h" cid="c030177.1"/>
+				 shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.
+			</v>
+			<marker class="begin-verse" mid="v03017008"/>
+			<v n="8">
+				¶ And 
+				<crossref let="i" cid="c030178.1"/>
+				 thou shalt say unto them, Whatsoever man there be of the house of Israel, or of the strangers which sojourn among you, that offereth a burnt offering or sacrifice,
+			</v>
+			<marker class="begin-verse" mid="v03017009"/>
+			<v n="9">
+				And bringeth 
+				<crossref let="j" cid="c030179.1"/>
+				 it not unto the door of the tabernacle of the congregation, to offer it unto the LORD; even that man shall be cut off from among his people.
+			</v>
+			<marker class="begin-verse" mid="v03017010"/>
+			<v n="10">
+				¶ And 
+				<crossref let="k" cid="c0301710.1"/>
+				 whatsoever man there be of the house of Israel, or of the strangers that sojourn among you, that eateth any manner of blood; I will even set my face against that soul that eateth blood, and will cut him off from among his people.
+			</v>
+			<marker class="begin-verse" mid="v03017011"/>
+			<v n="11">
+				For the 
+				<crossref let="l" cid="c0301711.1"/>
+				 life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul.
+			</v>
+			<marker class="begin-verse" mid="v03017012"/>
+			<v n="12">
+				Therefore I 
+				<crossref let="m" cid="c0301712.1"/>
+				 said unto the children of Israel, No soul of you shall eat blood, neither shall any stranger that sojourneth among you eat blood.
+			</v>
+			<marker class="begin-verse" mid="v03017013"/>
+			<v n="13">
+				And whatsoever 
+				<crossref let="n" cid="c0301713.1"/>
+				 man there be of the children of Israel, or of the strangers that sojourn among you, which hunteth and catcheth any beast or fowl that may be eaten; he shall even pour out the blood thereof, and cover it with dust.
+			</v>
+			<marker class="begin-verse" mid="v03017014"/>
+			<v n="14">
+				For it 
+				<crossref let="o" cid="c0301714.1"/>
+				 is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off.
+			</v>
+			<marker class="begin-verse" mid="v03017015"/>
+			<v n="15">
+				And every 
+				<crossref let="p" cid="c0301715.1"/>
+				 soul that eateth that which died of itself, or that which was torn with beasts, whether it be one of your own country, or a stranger, he shall both wash his clothes, and bathe himself in water, and be unclean until the even: then shall he be clean.
+			</v>
+			<marker class="begin-verse" mid="v03017016"/>
+			<v n="16">
+				But if 
+				<crossref let="q" cid="c0301716.1"/>
+				 he wash them not, nor bathe his flesh; then he shall bear his iniquity.
+			</v>
+			<marker class="begin-verse" mid="v03017017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:35:15.043447</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:35:15.043471</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" version="KJV" bookAbbr="zec">
+		<marker class="begin-verse" mid="v38011001"/>
+		<chapter num="11">
+			<begin-paragraph/>
+			<v n="1">
+				Open thy 
+				<crossref let="b" cid="c380111.1"/>
+				 doors, O Lebanon, that the fire may devour thy cedars.
+			</v>
+			<marker class="begin-verse" mid="v38011002"/>
+			<v n="2">
+				Howl, fir 
+				<crossref let="c" cid="c380112.1"/>
+				 tree; for the cedar is fallen; because the mighty are spoiled: howl, O ye oaks of Bashan; for the forest of the vintage is come down.
+			</v>
+			<marker class="begin-verse" mid="v38011003"/>
+			<v n="3">
+				¶ There 
+				<crossref let="d" cid="c380113.1"/>
+				 is a voice of the howling of the shepherds; for their glory is spoiled: a voice of the roaring of young lions; for the pride of Jordan is spoiled.
+			</v>
+			<marker class="begin-verse" mid="v38011004"/>
+			<v n="4">
+				Thus saith 
+				<crossref let="e" cid="c380114.1"/>
+				 the LORD my God; Feed the flock of the slaughter;
+			</v>
+			<marker class="begin-verse" mid="v38011005"/>
+			<v n="5">
+				Whose possessors 
+				<crossref let="f" cid="c380115.1"/>
+				 slay them, and hold themselves not guilty: and they that sell them say, Blessed be the LORD; for I am rich: and their own shepherds pity them not.
+			</v>
+			<marker class="begin-verse" mid="v38011006"/>
+			<v n="6">
+				For I 
+				<crossref let="g" cid="c380116.1"/>
+				 will no more pity the inhabitants of the land, saith the LORD: but, lo, I will deliver the men every one into his neighbour’s hand, and into the hand of his king: and they shall smite the land, and out of their hand I will not deliver them.
+			</v>
+			<marker class="begin-verse" mid="v38011007"/>
+			<v n="7">
+				And I 
+				<crossref let="h" cid="c380117.1"/>
+				 will feed the flock of slaughter, even you, O poor of the flock. And I took unto me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.
+			</v>
+			<marker class="begin-verse" mid="v38011008"/>
+			<v n="8">
+				Three shepherds 
+				<crossref let="i" cid="c380118.1"/>
+				 also I cut off in one month; and my soul lothed them, and their soul also abhorred me.
+			</v>
+			<marker class="begin-verse" mid="v38011009"/>
+			<v n="9">
+				Then said 
+				<crossref let="j" cid="c380119.1"/>
+				 I, I will not feed you: that that dieth, let it die; and that that is to be cut off, let it be cut off; and let the rest eat every one the flesh of another.
+			</v>
+			<marker class="begin-verse" mid="v38011010"/>
+			<v n="10">
+				¶ And 
+				<crossref let="k" cid="c3801110.1"/>
+				 I took my staff, even Beauty, and cut it asunder, that I might break my covenant which I had made with all the people.
+			</v>
+			<marker class="begin-verse" mid="v38011011"/>
+			<v n="11">
+				And it 
+				<crossref let="l" cid="c3801111.1"/>
+				 was broken in that day: and so the poor of the flock that waited upon me knew that it was the word of the LORD.
+			</v>
+			<marker class="begin-verse" mid="v38011012"/>
+			<v n="12">
+				And I 
+				<crossref let="m" cid="c3801112.1"/>
+				 said unto them, If ye think good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver.
+			</v>
+			<marker class="begin-verse" mid="v38011013"/>
+			<v n="13">
+				And the 
+				<crossref let="n" cid="c3801113.1"/>
+				 LORD said unto me, Cast it unto the potter: a goodly price that I was prised at of them. And I took the thirty pieces of silver, and cast them to the potter in the house of the LORD.
+			</v>
+			<marker class="begin-verse" mid="v38011014"/>
+			<v n="14">
+				Then I 
+				<crossref let="o" cid="c3801114.1"/>
+				 cut asunder mine other staff, even Bands, that I might break the brotherhood between Judah and Israel.
+			</v>
+			<marker class="begin-verse" mid="v38011015"/>
+			<v n="15">
+				¶ And 
+				<crossref let="p" cid="c3801115.1"/>
+				 the LORD said unto me, Take unto thee yet the instruments of a foolish shepherd.
+			</v>
+			<marker class="begin-verse" mid="v38011016"/>
+			<v n="16">
+				For, lo, 
+				<crossref let="q" cid="c3801116.1"/>
+				 I will raise up a shepherd in the land, which shall not visit those that be cut off, neither shall seek the young one, nor heal that that is broken, nor feed that that standeth still: but he shall eat the flesh of the fat, and tear their claws in pieces.
+			</v>
+			<marker class="begin-verse" mid="v38011017"/>
+			<v n="17">
+				Woe to 
+				<crossref let="r" cid="c3801117.1"/>
+				 the idol shepherd that leaveth the flock! the sword shall be upon his arm, and upon his right eye: his arm shall be clean dried up, and his right eye shall be utterly darkened.
+			</v>
+			<marker class="begin-verse" mid="v38011018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:50:24.801332</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:50:24.801344</next_refresh_due>
+	</generation_info>
+	<book title="Nehemiah" num="16" testament="old" version="KJV" bookAbbr="neh">
+		<marker class="begin-verse" mid="v16003001"/>
+		<chapter num="3">
+			<begin-paragraph/>
+			<v n="1">
+				Then Eliashib 
+				<crossref let="b" cid="c160031.1"/>
+				 the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.
+			</v>
+			<marker class="begin-verse" mid="v16003002"/>
+			<v n="2">
+				And next 
+				<crossref let="c" cid="c160032.1"/>
+				 unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri.
+			</v>
+			<marker class="begin-verse" mid="v16003003"/>
+			<v n="3">
+				But the 
+				<crossref let="d" cid="c160033.1"/>
+				 fish gate did the sons of Hassenaah build, who also laid the beams thereof, and set up the doors thereof, the locks thereof, and the bars thereof.
+			</v>
+			<marker class="begin-verse" mid="v16003004"/>
+			<v n="4">
+				And next 
+				<crossref let="e" cid="c160034.1"/>
+				 unto them repaired Meremoth the son of Urijah, the son of Koz. And next unto them repaired Meshullam the son of Berechiah, the son of Meshezabeel. And next unto them repaired Zadok the son of Baana.
+			</v>
+			<marker class="begin-verse" mid="v16003005"/>
+			<v n="5">
+				And next 
+				<crossref let="f" cid="c160035.1"/>
+				 unto them the Tekoites repaired; but their nobles put not their necks to the work of their Lord.
+			</v>
+			<marker class="begin-verse" mid="v16003006"/>
+			<v n="6">
+				Moreover the 
+				<crossref let="g" cid="c160036.1"/>
+				 old gate repaired Jehoiada the son of Paseah, and Meshullam the son of Besodeiah; they laid the beams thereof, and set up the doors thereof, and the locks thereof, and the bars thereof.
+			</v>
+			<marker class="begin-verse" mid="v16003007"/>
+			<v n="7">
+				And next 
+				<crossref let="h" cid="c160037.1"/>
+				 unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, unto the throne of the governor on this side the river.
+			</v>
+			<marker class="begin-verse" mid="v16003008"/>
+			<v n="8">
+				Next unto 
+				<crossref let="i" cid="c160038.1"/>
+				 him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall.
+			</v>
+			<marker class="begin-verse" mid="v16003009"/>
+			<v n="9">
+				And next 
+				<crossref let="j" cid="c160039.1"/>
+				 unto them repaired Rephaiah the son of Hur, the ruler of the half part of Jerusalem.
+			</v>
+			<marker class="begin-verse" mid="v16003010"/>
+			<v n="10">
+				And next 
+				<crossref let="k" cid="c1600310.1"/>
+				 unto them repaired Jedaiah the son of Harumaph, even over against his house. And next unto him repaired Hattush the son of Hashabniah.
+			</v>
+			<marker class="begin-verse" mid="v16003011"/>
+			<v n="11">
+				Malchijah the 
+				<crossref let="l" cid="c1600311.1"/>
+				 son of Harim, and Hashub the son of Pahath-moab, repaired the other piece, and the tower of the furnaces.
+			</v>
+			<marker class="begin-verse" mid="v16003012"/>
+			<v n="12">
+				And next 
+				<crossref let="m" cid="c1600312.1"/>
+				 unto him repaired Shallum the son of Halohesh, the ruler of the half part of Jerusalem, he and his daughters.
+			</v>
+			<marker class="begin-verse" mid="v16003013"/>
+			<v n="13">
+				The valley 
+				<crossref let="n" cid="c1600313.1"/>
+				 gate repaired Hanun, and the inhabitants of Zanoah; they built it, and set up the doors thereof, the locks thereof, and the bars thereof, and a thousand cubits on the wall unto the dung gate.
+			</v>
+			<marker class="begin-verse" mid="v16003014"/>
+			<v n="14">
+				But the 
+				<crossref let="o" cid="c1600314.1"/>
+				 dung gate repaired Malchiah the son of Rechab, the ruler of part of Beth-haccerem; he built it, and set up the doors thereof, the locks thereof, and the bars thereof.
+			</v>
+			<marker class="begin-verse" mid="v16003015"/>
+			<v n="15">
+				But the 
+				<crossref let="p" cid="c1600315.1"/>
+				 gate of the fountain repaired Shallun the son of Col-hozeh, the ruler of part of Mizpah; he built it, and covered it, and set up the doors thereof, the locks thereof, and the bars thereof, and the wall of the pool of Siloah by the king’s garden, and unto the stairs that go down from the city of David.
+			</v>
+			<marker class="begin-verse" mid="v16003016"/>
+			<v n="16">
+				After him 
+				<crossref let="q" cid="c1600316.1"/>
+				 repaired Nehemiah the son of Azbuk, the ruler of the half part of Beth-zur, unto the place over against the sepulchres of David, and to the pool that was made, and unto the house of the mighty.
+			</v>
+			<marker class="begin-verse" mid="v16003017"/>
+			<v n="17">
+				After him 
+				<crossref let="r" cid="c1600317.1"/>
+				 repaired the Levites, Rehum the son of Bani. Next unto him repaired Hashabiah, the ruler of the half part of Keilah, in his part.
+			</v>
+			<marker class="begin-verse" mid="v16003018"/>
+			<v n="18">
+				After him 
+				<crossref let="s" cid="c1600318.1"/>
+				 repaired their brethren, Bavai the son of Henadad, the ruler of the half part of Keilah.
+			</v>
+			<marker class="begin-verse" mid="v16003019"/>
+			<v n="19">
+				And next 
+				<crossref let="t" cid="c1600319.1"/>
+				 to him repaired Ezer the son of Jeshua, the ruler of Mizpah, another piece over against the going up to the armoury at the turning of the wall.
+			</v>
+			<marker class="begin-verse" mid="v16003020"/>
+			<v n="20">
+				After him 
+				<crossref let="u" cid="c1600320.1"/>
+				 Baruch the son of Zabbai earnestly repaired the other piece, from the turning of the wall unto the door of the house of Eliashib the high priest.
+			</v>
+			<marker class="begin-verse" mid="v16003021"/>
+			<v n="21">
+				After him 
+				<crossref let="v" cid="c1600321.1"/>
+				 repaired Meremoth the son of Urijah the son of Koz another piece, from the door of the house of Eliashib even to the end of the house of Eliashib.
+			</v>
+			<marker class="begin-verse" mid="v16003022"/>
+			<v n="22">
+				And after 
+				<crossref let="w" cid="c1600322.1"/>
+				 him repaired the priests, the men of the plain.
+			</v>
+			<marker class="begin-verse" mid="v16003023"/>
+			<v n="23">
+				After him 
+				<crossref let="x" cid="c1600323.1"/>
+				 repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house.
+			</v>
+			<marker class="begin-verse" mid="v16003024"/>
+			<v n="24">
+				After him 
+				<crossref let="y" cid="c1600324.1"/>
+				 repaired Binnui the son of Henadad another piece, from the house of Azariah unto the turning of the wall, even unto the corner.
+			</v>
+			<marker class="begin-verse" mid="v16003025"/>
+			<v n="25">
+				Palal the 
+				<crossref let="z" cid="c1600325.1"/>
+				 son of Uzai, over against the turning of the wall, and the tower which lieth out from the king’s high house, that was by the court of the prison. After him Pedaiah the son of Parosh.
+			</v>
+			<marker class="begin-verse" mid="v16003026"/>
+			<v n="26">
+				Moreover the 
+				<crossref let="a" cid="c1600326.1"/>
+				 Nethinims dwelt in Ophel, unto the place over against the water gate toward the east, and the tower that lieth out.
+			</v>
+			<marker class="begin-verse" mid="v16003027"/>
+			<v n="27">
+				After them 
+				<crossref let="b" cid="c1600327.1"/>
+				 the Tekoites repaired another piece, over against the great tower that lieth out, even unto the wall of Ophel.
+			</v>
+			<marker class="begin-verse" mid="v16003028"/>
+			<v n="28">
+				From above 
+				<crossref let="c" cid="c1600328.1"/>
+				 the horse gate repaired the priests, every one over against his house.
+			</v>
+			<marker class="begin-verse" mid="v16003029"/>
+			<v n="29">
+				After them 
+				<crossref let="d" cid="c1600329.1"/>
+				 repaired Zadok the son of Immer over against his house. After him repaired also Shemaiah the son of Shechaniah, the keeper of the east gate.
+			</v>
+			<marker class="begin-verse" mid="v16003030"/>
+			<v n="30">
+				After him 
+				<crossref let="e" cid="c1600330.1"/>
+				 repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another piece. After him repaired Meshullam the son of Berechiah over against his chamber.
+			</v>
+			<marker class="begin-verse" mid="v16003031"/>
+			<v n="31">
+				After him 
+				<crossref let="f" cid="c1600331.1"/>
+				 repaired Malchiah the goldsmith’s son unto the place of the Nethinims, and of the merchants, over against the gate Miphkad, and to the going up of the corner.
+			</v>
+			<marker class="begin-verse" mid="v16003032"/>
+			<v n="32">
+				And between 
+				<crossref let="g" cid="c1600332.1"/>
+				 the going up of the corner unto the sheep gate repaired the goldsmiths and the merchants.
+			</v>
+			<marker class="begin-verse" mid="v16003033"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

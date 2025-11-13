@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:33:38.937798</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:33:38.937815</next_refresh_due>
+	</generation_info>
+	<book title="Habakkuk" num="35" testament="old" version="KJV" bookAbbr="hab">
+		<marker class="begin-verse" mid="v35001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				The burden 
+				<crossref let="b" cid="c350011.1"/>
+				 which Habakkuk the prophet did see.
+			</v>
+			<marker class="begin-verse" mid="v35001002"/>
+			<v n="2">
+				O LORD, 
+				<crossref let="c" cid="c350012.1"/>
+				 how long shall I cry, and thou wilt not hear! even cry out unto thee of violence, and thou wilt not save!
+			</v>
+			<marker class="begin-verse" mid="v35001003"/>
+			<v n="3">
+				Why dost 
+				<crossref let="d" cid="c350013.1"/>
+				 thou shew me iniquity, and cause me to behold grievance? for spoiling and violence are before me: and there are that raise up strife and contention.
+			</v>
+			<marker class="begin-verse" mid="v35001004"/>
+			<v n="4">
+				Therefore the 
+				<crossref let="e" cid="c350014.1"/>
+				 law is slacked, and judgment doth never go forth: for the wicked doth compass about the righteous; therefore wrong judgment proceedeth.
+			</v>
+			<marker class="begin-verse" mid="v35001005"/>
+			<v n="5">
+				¶ Behold 
+				<crossref let="f" cid="c350015.1"/>
+				 ye among the heathen, and regard, and wonder marvellously: for I will work a work in your days, which ye will not believe, though it be told you.
+			</v>
+			<marker class="begin-verse" mid="v35001006"/>
+			<v n="6">
+				For, lo, 
+				<crossref let="g" cid="c350016.1"/>
+				 I raise up the Chaldeans, that bitter and hasty nation, which shall march through the breadth of the land, to possess the dwellingplaces that are not theirs.
+			</v>
+			<marker class="begin-verse" mid="v35001007"/>
+			<v n="7">
+				They are 
+				<crossref let="h" cid="c350017.1"/>
+				 terrible and dreadful: their judgment and their dignity shall proceed of themselves.
+			</v>
+			<marker class="begin-verse" mid="v35001008"/>
+			<v n="8">
+				Their horses 
+				<crossref let="i" cid="c350018.1"/>
+				 also are swifter than the leopards, and are more fierce than the evening wolves: and their horsemen shall spread themselves, and their horsemen shall come from far; they shall fly as the eagle that hasteth to eat.
+			</v>
+			<marker class="begin-verse" mid="v35001009"/>
+			<v n="9">
+				They shall 
+				<crossref let="j" cid="c350019.1"/>
+				 come all for violence: their faces shall sup up as the east wind, and they shall gather the captivity as the sand.
+			</v>
+			<marker class="begin-verse" mid="v35001010"/>
+			<v n="10">
+				And they 
+				<crossref let="k" cid="c3500110.1"/>
+				 shall scoff at the kings, and the princes shall be a scorn unto them: they shall deride every strong hold; for they shall heap dust, and take it.
+			</v>
+			<marker class="begin-verse" mid="v35001011"/>
+			<v n="11">
+				Then shall 
+				<crossref let="l" cid="c3500111.1"/>
+				 his mind change, and he shall pass over, and offend, imputing this his power unto his god.
+			</v>
+			<marker class="begin-verse" mid="v35001012"/>
+			<v n="12">
+				¶ Art 
+				<crossref let="m" cid="c3500112.1"/>
+				 thou not from everlasting, O LORD my God, mine Holy One? we shall not die. O LORD, thou hast ordained them for judgment; and, O mighty God, thou hast established them for correction.
+			</v>
+			<marker class="begin-verse" mid="v35001013"/>
+			<v n="13">
+				Thou art 
+				<crossref let="n" cid="c3500113.1"/>
+				 of purer eyes than to behold evil, and canst not look on iniquity: wherefore lookest thou upon them that deal treacherously, and holdest thy tongue when the wicked devoureth the man that is more righteous than he?
+			</v>
+			<marker class="begin-verse" mid="v35001014"/>
+			<v n="14">
+				And makest 
+				<crossref let="o" cid="c3500114.1"/>
+				 men as the fishes of the sea, as the creeping things, that have no ruler over them?
+			</v>
+			<marker class="begin-verse" mid="v35001015"/>
+			<v n="15">
+				They take 
+				<crossref let="p" cid="c3500115.1"/>
+				 up all of them with the angle, they catch them in their net, and gather them in their drag: therefore they rejoice and are glad.
+			</v>
+			<marker class="begin-verse" mid="v35001016"/>
+			<v n="16">
+				Therefore they 
+				<crossref let="q" cid="c3500116.1"/>
+				 sacrifice unto their net, and burn incense unto their drag; because by them their portion is fat, and their meat plenteous.
+			</v>
+			<marker class="begin-verse" mid="v35001017"/>
+			<v n="17">
+				Shall they 
+				<crossref let="r" cid="c3500117.1"/>
+				 therefore empty their net, and not spare continually to slay the nations?
+			</v>
+			<marker class="begin-verse" mid="v35001018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

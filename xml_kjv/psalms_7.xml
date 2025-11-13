@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:56:33.771834</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:56:33.771846</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19007001"/>
+		<chapter num="7">
+			<heading>Shiggaion of David, which he sang unto the LORD, concerning the words of Cush the Benjamite.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				O LORD 
+				<crossref let="b" cid="c190071.1"/>
+				 my God, in thee do I put my trust: save me from all them that persecute me, and deliver me:
+			</v>
+			<marker class="begin-verse" mid="v19007002"/>
+			<v n="2">
+				Lest he 
+				<crossref let="c" cid="c190072.1"/>
+				 tear my soul like a lion, rending it in pieces, while there is none to deliver.
+			</v>
+			<marker class="begin-verse" mid="v19007003"/>
+			<v n="3">
+				O LORD 
+				<crossref let="d" cid="c190073.1"/>
+				 my God, if I have done this; if there be iniquity in my hands;
+			</v>
+			<marker class="begin-verse" mid="v19007004"/>
+			<v n="4">
+				If I 
+				<crossref let="e" cid="c190074.1"/>
+				 have rewarded evil unto him that was at peace with me; (yea, I have delivered him that without cause is mine enemy:)
+			</v>
+			<marker class="begin-verse" mid="v19007005"/>
+			<v n="5">
+				Let the 
+				<crossref let="f" cid="c190075.1"/>
+				 enemy persecute my soul, and take it; yea, let him tread down my life upon the earth, and lay mine honour in the dust. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19007006"/>
+			<v n="6">
+				Arise, O 
+				<crossref let="g" cid="c190076.1"/>
+				 LORD, in thine anger, lift up thyself because of the rage of mine enemies: and awake for me to the judgment that thou hast commanded.
+			</v>
+			<marker class="begin-verse" mid="v19007007"/>
+			<v n="7">
+				So shall 
+				<crossref let="h" cid="c190077.1"/>
+				 the congregation of the people compass thee about: for their sakes therefore return thou on high.
+			</v>
+			<marker class="begin-verse" mid="v19007008"/>
+			<v n="8">
+				The LORD 
+				<crossref let="i" cid="c190078.1"/>
+				 shall judge the people: judge me, O LORD, according to my righteousness, and according to mine integrity that is in me.
+			</v>
+			<marker class="begin-verse" mid="v19007009"/>
+			<v n="9">
+				Oh let 
+				<crossref let="j" cid="c190079.1"/>
+				 the wickedness of the wicked come to an end; but establish the just: for the righteous God trieth the hearts and reins.
+			</v>
+			<marker class="begin-verse" mid="v19007010"/>
+			<v n="10">
+				My defence 
+				<crossref let="k" cid="c1900710.1"/>
+				 is of God, which saveth the upright in heart.
+			</v>
+			<marker class="begin-verse" mid="v19007011"/>
+			<v n="11">
+				God judgeth 
+				<crossref let="l" cid="c1900711.1"/>
+				 the righteous, and God is angry with the wicked every day.
+			</v>
+			<marker class="begin-verse" mid="v19007012"/>
+			<v n="12">
+				If he 
+				<crossref let="m" cid="c1900712.1"/>
+				 turn not, he will whet his sword; he hath bent his bow, and made it ready.
+			</v>
+			<marker class="begin-verse" mid="v19007013"/>
+			<v n="13">
+				He hath 
+				<crossref let="n" cid="c1900713.1"/>
+				 also prepared for him the instruments of death; he ordaineth his arrows against the persecutors.
+			</v>
+			<marker class="begin-verse" mid="v19007014"/>
+			<v n="14">
+				Behold, he 
+				<crossref let="o" cid="c1900714.1"/>
+				 travaileth with iniquity, and hath conceived mischief, and brought forth falsehood.
+			</v>
+			<marker class="begin-verse" mid="v19007015"/>
+			<v n="15">
+				He made 
+				<crossref let="p" cid="c1900715.1"/>
+				 a pit, and digged it, and is fallen into the ditch which he made.
+			</v>
+			<marker class="begin-verse" mid="v19007016"/>
+			<v n="16">
+				His mischief 
+				<crossref let="q" cid="c1900716.1"/>
+				 shall return upon his own head, and his violent dealing shall come down upon his own pate.
+			</v>
+			<marker class="begin-verse" mid="v19007017"/>
+			<v n="17">
+				I will 
+				<crossref let="r" cid="c1900717.1"/>
+				 praise the LORD according to his righteousness: and will sing praise to the name of the LORD most high.
+			</v>
+			<marker class="begin-verse" mid="v19007018"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

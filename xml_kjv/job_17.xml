@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:53:42.740229</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:53:42.740239</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" version="KJV" bookAbbr="job">
+		<marker class="begin-verse" mid="v18017001"/>
+		<chapter num="17">
+			<begin-paragraph/>
+			<v n="1">
+				My breath 
+				<crossref let="b" cid="c180171.1"/>
+				 is corrupt, my days are extinct, the graves are ready for me.
+			</v>
+			<marker class="begin-verse" mid="v18017002"/>
+			<v n="2">
+				Are there 
+				<crossref let="c" cid="c180172.1"/>
+				 not mockers with me? and doth not mine eye continue in their provocation?
+			</v>
+			<marker class="begin-verse" mid="v18017003"/>
+			<v n="3">
+				Lay down 
+				<crossref let="d" cid="c180173.1"/>
+				 now, put me in a surety with thee; who is he that will strike hands with me?
+			</v>
+			<marker class="begin-verse" mid="v18017004"/>
+			<v n="4">
+				For thou 
+				<crossref let="e" cid="c180174.1"/>
+				 hast hid their heart from understanding: therefore shalt thou not exalt them.
+			</v>
+			<marker class="begin-verse" mid="v18017005"/>
+			<v n="5">
+				He that 
+				<crossref let="f" cid="c180175.1"/>
+				 speaketh flattery to his friends, even the eyes of his children shall fail.
+			</v>
+			<marker class="begin-verse" mid="v18017006"/>
+			<v n="6">
+				He hath 
+				<crossref let="g" cid="c180176.1"/>
+				 made me also a byword of the people; and aforetime I was as a tabret.
+			</v>
+			<marker class="begin-verse" mid="v18017007"/>
+			<v n="7">
+				Mine eye 
+				<crossref let="h" cid="c180177.1"/>
+				 also is dim by reason of sorrow, and all my members are as a shadow.
+			</v>
+			<marker class="begin-verse" mid="v18017008"/>
+			<v n="8">
+				Upright men 
+				<crossref let="i" cid="c180178.1"/>
+				 shall be astonied at this, and the innocent shall stir up himself against the hypocrite.
+			</v>
+			<marker class="begin-verse" mid="v18017009"/>
+			<v n="9">
+				The righteous 
+				<crossref let="j" cid="c180179.1"/>
+				 also shall hold on his way, and he that hath clean hands shall be stronger and stronger.
+			</v>
+			<marker class="begin-verse" mid="v18017010"/>
+			<v n="10">
+				But as 
+				<crossref let="k" cid="c1801710.1"/>
+				 for you all, do ye return, and come now: for I cannot find one wise man among you.
+			</v>
+			<marker class="begin-verse" mid="v18017011"/>
+			<v n="11">
+				My days 
+				<crossref let="l" cid="c1801711.1"/>
+				 are past, my purposes are broken off, even the thoughts of my heart.
+			</v>
+			<marker class="begin-verse" mid="v18017012"/>
+			<v n="12">
+				They change 
+				<crossref let="m" cid="c1801712.1"/>
+				 the night into day: the light is short because of darkness.
+			</v>
+			<marker class="begin-verse" mid="v18017013"/>
+			<v n="13">
+				If I 
+				<crossref let="n" cid="c1801713.1"/>
+				 wait, the grave is mine house: I have made my bed in the darkness.
+			</v>
+			<marker class="begin-verse" mid="v18017014"/>
+			<v n="14">
+				I have 
+				<crossref let="o" cid="c1801714.1"/>
+				 said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister.
+			</v>
+			<marker class="begin-verse" mid="v18017015"/>
+			<v n="15">
+				And where 
+				<crossref let="p" cid="c1801715.1"/>
+				 is now my hope? as for my hope, who shall see it?
+			</v>
+			<marker class="begin-verse" mid="v18017016"/>
+			<v n="16">
+				They shall 
+				<crossref let="q" cid="c1801716.1"/>
+				 go down to the bars of the pit, when our rest together is in the dust.
+			</v>
+			<marker class="begin-verse" mid="v18017017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

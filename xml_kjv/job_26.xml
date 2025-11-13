@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:54:30.432073</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:54:30.432080</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" version="KJV" bookAbbr="job">
+		<marker class="begin-verse" mid="v18026001"/>
+		<chapter num="26">
+			<begin-paragraph/>
+			<v n="1">
+				But Job 
+				<crossref let="b" cid="c180261.1"/>
+				 answered and said,
+			</v>
+			<marker class="begin-verse" mid="v18026002"/>
+			<v n="2">
+				How hast 
+				<crossref let="c" cid="c180262.1"/>
+				 thou helped him that is without power? how savest thou the arm that hath no strength?
+			</v>
+			<marker class="begin-verse" mid="v18026003"/>
+			<v n="3">
+				How hast 
+				<crossref let="d" cid="c180263.1"/>
+				 thou counselled him that hath no wisdom? and how hast thou plentifully declared the thing as it is?
+			</v>
+			<marker class="begin-verse" mid="v18026004"/>
+			<v n="4">
+				To whom 
+				<crossref let="e" cid="c180264.1"/>
+				 hast thou uttered words? and whose spirit came from thee?
+			</v>
+			<marker class="begin-verse" mid="v18026005"/>
+			<v n="5">
+				Dead things 
+				<crossref let="f" cid="c180265.1"/>
+				 are formed from under the waters, and the inhabitants thereof.
+			</v>
+			<marker class="begin-verse" mid="v18026006"/>
+			<v n="6">
+				Hell is 
+				<crossref let="g" cid="c180266.1"/>
+				 naked before him, and destruction hath no covering.
+			</v>
+			<marker class="begin-verse" mid="v18026007"/>
+			<v n="7">
+				He stretcheth 
+				<crossref let="h" cid="c180267.1"/>
+				 out the north over the empty place, and hangeth the earth upon nothing.
+			</v>
+			<marker class="begin-verse" mid="v18026008"/>
+			<v n="8">
+				He bindeth 
+				<crossref let="i" cid="c180268.1"/>
+				 up the waters in his thick clouds; and the cloud is not rent under them.
+			</v>
+			<marker class="begin-verse" mid="v18026009"/>
+			<v n="9">
+				He holdeth 
+				<crossref let="j" cid="c180269.1"/>
+				 back the face of his throne, and spreadeth his cloud upon it.
+			</v>
+			<marker class="begin-verse" mid="v18026010"/>
+			<v n="10">
+				He hath 
+				<crossref let="k" cid="c1802610.1"/>
+				 compassed the waters with bounds, until the day and night come to an end.
+			</v>
+			<marker class="begin-verse" mid="v18026011"/>
+			<v n="11">
+				The pillars 
+				<crossref let="l" cid="c1802611.1"/>
+				 of heaven tremble and are astonished at his reproof.
+			</v>
+			<marker class="begin-verse" mid="v18026012"/>
+			<v n="12">
+				He divideth 
+				<crossref let="m" cid="c1802612.1"/>
+				 the sea with his power, and by his understanding he smiteth through the proud.
+			</v>
+			<marker class="begin-verse" mid="v18026013"/>
+			<v n="13">
+				By his 
+				<crossref let="n" cid="c1802613.1"/>
+				 spirit he hath garnished the heavens; his hand hath formed the crooked serpent.
+			</v>
+			<marker class="begin-verse" mid="v18026014"/>
+			<v n="14">
+				Lo, these 
+				<crossref let="o" cid="c1802614.1"/>
+				 are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?
+			</v>
+			<marker class="begin-verse" mid="v18026015"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

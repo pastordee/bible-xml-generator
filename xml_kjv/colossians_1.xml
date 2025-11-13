@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:51:49.975082</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:51:49.975091</next_refresh_due>
+	</generation_info>
+	<book title="Colossians" num="51" testament="new" version="KJV" bookAbbr="col">
+		<marker class="begin-verse" mid="v51001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				Paul, an 
+				<crossref let="b" cid="c510011.1"/>
+				 apostle of Jesus Christ by the will of God, and Timotheus our brother,
+			</v>
+			<marker class="begin-verse" mid="v51001002"/>
+			<v n="2">
+				To the 
+				<crossref let="c" cid="c510012.1"/>
+				 saints and faithful brethren in Christ which are at Colosse: Grace be unto you, and peace, from God our Father and the Lord Jesus Christ.
+			</v>
+			<marker class="begin-verse" mid="v51001003"/>
+			<v n="3">
+				We give 
+				<crossref let="d" cid="c510013.1"/>
+				 thanks to God and the Father of our Lord Jesus Christ, praying always for you,
+			</v>
+			<marker class="begin-verse" mid="v51001004"/>
+			<v n="4">
+				Since we 
+				<crossref let="e" cid="c510014.1"/>
+				 heard of your faith in Christ Jesus, and of the love which ye have to all the saints,
+			</v>
+			<marker class="begin-verse" mid="v51001005"/>
+			<v n="5">
+				For the 
+				<crossref let="f" cid="c510015.1"/>
+				 hope which is laid up for you in heaven, whereof ye heard before in the word of the truth of the gospel;
+			</v>
+			<marker class="begin-verse" mid="v51001006"/>
+			<v n="6">
+				Which is 
+				<crossref let="g" cid="c510016.1"/>
+				 come unto you, as it is in all the world; and bringeth forth fruit, as it doth also in you, since the day ye heard of it, and knew the grace of God in truth:
+			</v>
+			<marker class="begin-verse" mid="v51001007"/>
+			<v n="7">
+				As ye 
+				<crossref let="h" cid="c510017.1"/>
+				 also learned of Epaphras our dear fellowservant, who is for you a faithful minister of Christ;
+			</v>
+			<marker class="begin-verse" mid="v51001008"/>
+			<v n="8">
+				Who also 
+				<crossref let="i" cid="c510018.1"/>
+				 declared unto us your love in the Spirit.
+			</v>
+			<marker class="begin-verse" mid="v51001009"/>
+			<v n="9">
+				For this 
+				<crossref let="j" cid="c510019.1"/>
+				 cause we also, since the day we heard it, do not cease to pray for you, and to desire that ye might be filled with the knowledge of his will in all wisdom and spiritual understanding;
+			</v>
+			<marker class="begin-verse" mid="v51001010"/>
+			<v n="10">
+				That ye 
+				<crossref let="k" cid="c5100110.1"/>
+				 might walk worthy of the Lord unto all pleasing, being fruitful in every good work, and increasing in the knowledge of God;
+			</v>
+			<marker class="begin-verse" mid="v51001011"/>
+			<v n="11">
+				Strengthened with 
+				<crossref let="l" cid="c5100111.1"/>
+				 all might, according to his glorious power, unto all patience and longsuffering with joyfulness;
+			</v>
+			<marker class="begin-verse" mid="v51001012"/>
+			<v n="12">
+				Giving thanks 
+				<crossref let="m" cid="c5100112.1"/>
+				 unto the Father, which hath made us meet to be partakers of the inheritance of the saints in light:
+			</v>
+			<marker class="begin-verse" mid="v51001013"/>
+			<v n="13">
+				Who hath 
+				<crossref let="n" cid="c5100113.1"/>
+				 delivered us from the power of darkness, and hath translated us into the kingdom of his dear Son:
+			</v>
+			<marker class="begin-verse" mid="v51001014"/>
+			<v n="14">
+				In whom 
+				<crossref let="o" cid="c5100114.1"/>
+				 we have redemption through his blood, even the forgiveness of sins:
+			</v>
+			<marker class="begin-verse" mid="v51001015"/>
+			<v n="15">
+				Who is 
+				<crossref let="p" cid="c5100115.1"/>
+				 the image of the invisible God, the firstborn of every creature:
+			</v>
+			<marker class="begin-verse" mid="v51001016"/>
+			<v n="16">
+				For by 
+				<crossref let="q" cid="c5100116.1"/>
+				 him were all things created, that are in heaven, and that are in earth, visible and invisible, whether they be thrones, or dominions, or principalities, or powers: all things were created by him, and for him:
+			</v>
+			<marker class="begin-verse" mid="v51001017"/>
+			<v n="17">
+				And he 
+				<crossref let="r" cid="c5100117.1"/>
+				 is before all things, and by him all things consist.
+			</v>
+			<marker class="begin-verse" mid="v51001018"/>
+			<v n="18">
+				And he 
+				<crossref let="s" cid="c5100118.1"/>
+				 is the head of the body, the church: who is the beginning, the firstborn from the dead; that in all things he might have the preeminence.
+			</v>
+			<marker class="begin-verse" mid="v51001019"/>
+			<v n="19">
+				For it 
+				<crossref let="t" cid="c5100119.1"/>
+				 pleased the Father that in him should all fulness dwell;
+			</v>
+			<marker class="begin-verse" mid="v51001020"/>
+			<v n="20">
+				And, having 
+				<crossref let="u" cid="c5100120.1"/>
+				 made peace through the blood of his cross, by him to reconcile all things unto himself; by him, I say, whether they be things in earth, or things in heaven.
+			</v>
+			<marker class="begin-verse" mid="v51001021"/>
+			<v n="21">
+				And you, 
+				<crossref let="v" cid="c5100121.1"/>
+				 that were sometime alienated and enemies in your mind by wicked works, yet now hath he reconciled
+			</v>
+			<marker class="begin-verse" mid="v51001022"/>
+			<v n="22">
+				In the 
+				<crossref let="w" cid="c5100122.1"/>
+				 body of his flesh through death, to present you holy and unblameable and unreproveable in his sight:
+			</v>
+			<marker class="begin-verse" mid="v51001023"/>
+			<v n="23">
+				If ye 
+				<crossref let="x" cid="c5100123.1"/>
+				 continue in the faith grounded and settled, and be not moved away from the hope of the gospel, which ye have heard, and which was preached to every creature which is under heaven; whereof I Paul am made a minister;
+			</v>
+			<marker class="begin-verse" mid="v51001024"/>
+			<v n="24">
+				Who now 
+				<crossref let="y" cid="c5100124.1"/>
+				 rejoice in my sufferings for you, and fill up that which is behind of the afflictions of Christ in my flesh for his body’s sake, which is the church:
+			</v>
+			<marker class="begin-verse" mid="v51001025"/>
+			<v n="25">
+				Whereof I 
+				<crossref let="z" cid="c5100125.1"/>
+				 am made a minister, according to the dispensation of God which is given to me for you, to fulfil the word of God;
+			</v>
+			<marker class="begin-verse" mid="v51001026"/>
+			<v n="26">
+				Even the 
+				<crossref let="a" cid="c5100126.1"/>
+				 mystery which hath been hid from ages and from generations, but now is made manifest to his saints:
+			</v>
+			<marker class="begin-verse" mid="v51001027"/>
+			<v n="27">
+				To whom 
+				<crossref let="b" cid="c5100127.1"/>
+				 God would make known what is the riches of the glory of this mystery among the Gentiles; which is Christ in you, the hope of glory:
+			</v>
+			<marker class="begin-verse" mid="v51001028"/>
+			<v n="28">
+				Whom we 
+				<crossref let="c" cid="c5100128.1"/>
+				 preach, warning every man, and teaching every man in all wisdom; that we may present every man perfect in Christ Jesus:
+			</v>
+			<marker class="begin-verse" mid="v51001029"/>
+			<v n="29">
+				Whereunto I 
+				<crossref let="d" cid="c5100129.1"/>
+				 also labour, striving according to his working, which worketh in me mightily.
+			</v>
+			<marker class="begin-verse" mid="v51001030"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

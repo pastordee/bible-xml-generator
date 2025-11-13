@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:08:08.278624</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:08:08.278694</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19137001"/>
+		<chapter num="137">
+			<begin-paragraph/>
+			<v n="1">
+				By the 
+				<crossref let="b" cid="c191371.1"/>
+				 rivers of Babylon, there we sat down, yea, we wept, when we remembered Zion.
+			</v>
+			<marker class="begin-verse" mid="v19137002"/>
+			<v n="2">
+				We hanged 
+				<crossref let="c" cid="c191372.1"/>
+				 our harps upon the willows in the midst thereof.
+			</v>
+			<marker class="begin-verse" mid="v19137003"/>
+			<v n="3">
+				For there 
+				<crossref let="d" cid="c191373.1"/>
+				 they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.
+			</v>
+			<marker class="begin-verse" mid="v19137004"/>
+			<v n="4">
+				How shall 
+				<crossref let="e" cid="c191374.1"/>
+				 we sing the LORD’s song in a strange land?
+			</v>
+			<marker class="begin-verse" mid="v19137005"/>
+			<v n="5">
+				If I 
+				<crossref let="f" cid="c191375.1"/>
+				 forget thee, O Jerusalem, let my right hand forget her cunning.
+			</v>
+			<marker class="begin-verse" mid="v19137006"/>
+			<v n="6">
+				If I 
+				<crossref let="g" cid="c191376.1"/>
+				 do not remember thee, let my tongue cleave to the roof of my mouth; if I prefer not Jerusalem above my chief joy.
+			</v>
+			<marker class="begin-verse" mid="v19137007"/>
+			<v n="7">
+				Remember, O 
+				<crossref let="h" cid="c191377.1"/>
+				 LORD, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to the foundation thereof.
+			</v>
+			<marker class="begin-verse" mid="v19137008"/>
+			<v n="8">
+				O daughter 
+				<crossref let="i" cid="c191378.1"/>
+				 of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.
+			</v>
+			<marker class="begin-verse" mid="v19137009"/>
+			<v n="9">
+				Happy shall 
+				<crossref let="j" cid="c191379.1"/>
+				 he be, that taketh and dasheth thy little ones against the stones.
+			</v>
+			<marker class="begin-verse" mid="v19137010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

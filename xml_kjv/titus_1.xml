@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:53:47.909013</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:53:47.909021</next_refresh_due>
+	</generation_info>
+	<book title="Titus" num="56" testament="new" version="KJV" bookAbbr="tit">
+		<marker class="begin-verse" mid="v56001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				Paul, a 
+				<crossref let="b" cid="c560011.1"/>
+				 servant of God, and an apostle of Jesus Christ, according to the faith of God’s elect, and the acknowledging of the truth which is after godliness;
+			</v>
+			<marker class="begin-verse" mid="v56001002"/>
+			<v n="2">
+				In hope 
+				<crossref let="c" cid="c560012.1"/>
+				 of eternal life, which God, that cannot lie, promised before the world began;
+			</v>
+			<marker class="begin-verse" mid="v56001003"/>
+			<v n="3">
+				But hath 
+				<crossref let="d" cid="c560013.1"/>
+				 in due times manifested his word through preaching, which is committed unto me according to the commandment of God our Saviour;
+			</v>
+			<marker class="begin-verse" mid="v56001004"/>
+			<v n="4">
+				To Titus, 
+				<crossref let="e" cid="c560014.1"/>
+				 mine own son after the common faith: Grace, mercy, and peace, from God the Father and the Lord Jesus Christ our Saviour.
+			</v>
+			<marker class="begin-verse" mid="v56001005"/>
+			<v n="5">
+				For this 
+				<crossref let="f" cid="c560015.1"/>
+				 cause left I thee in Crete, that thou shouldest set in order the things that are wanting, and ordain elders in every city, as I had appointed thee:
+			</v>
+			<marker class="begin-verse" mid="v56001006"/>
+			<v n="6">
+				If any 
+				<crossref let="g" cid="c560016.1"/>
+				 be blameless, the husband of one wife, having faithful children not accused of riot or unruly.
+			</v>
+			<marker class="begin-verse" mid="v56001007"/>
+			<v n="7">
+				For a 
+				<crossref let="h" cid="c560017.1"/>
+				 bishop must be blameless, as the steward of God; not selfwilled, not soon angry, not given to wine, no striker, not given to filthy lucre;
+			</v>
+			<marker class="begin-verse" mid="v56001008"/>
+			<v n="8">
+				But a 
+				<crossref let="i" cid="c560018.1"/>
+				 lover of hospitality, a lover of good men, sober, just, holy, temperate;
+			</v>
+			<marker class="begin-verse" mid="v56001009"/>
+			<v n="9">
+				Holding fast 
+				<crossref let="j" cid="c560019.1"/>
+				 the faithful word as he hath been taught, that he may be able by sound doctrine both to exhort and to convince the gainsayers.
+			</v>
+			<marker class="begin-verse" mid="v56001010"/>
+			<v n="10">
+				For there 
+				<crossref let="k" cid="c5600110.1"/>
+				 are many unruly and vain talkers and deceivers, specially they of the circumcision:
+			</v>
+			<marker class="begin-verse" mid="v56001011"/>
+			<v n="11">
+				Whose mouths 
+				<crossref let="l" cid="c5600111.1"/>
+				 must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre’s sake.
+			</v>
+			<marker class="begin-verse" mid="v56001012"/>
+			<v n="12">
+				One of 
+				<crossref let="m" cid="c5600112.1"/>
+				 themselves, even a prophet of their own, said, The Cretians are alway liars, evil beasts, slow bellies.
+			</v>
+			<marker class="begin-verse" mid="v56001013"/>
+			<v n="13">
+				This witness 
+				<crossref let="n" cid="c5600113.1"/>
+				 is true. Wherefore rebuke them sharply, that they may be sound in the faith;
+			</v>
+			<marker class="begin-verse" mid="v56001014"/>
+			<v n="14">
+				Not giving 
+				<crossref let="o" cid="c5600114.1"/>
+				 heed to Jewish fables, and commandments of men, that turn from the truth.
+			</v>
+			<marker class="begin-verse" mid="v56001015"/>
+			<v n="15">
+				Unto the 
+				<crossref let="p" cid="c5600115.1"/>
+				 pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.
+			</v>
+			<marker class="begin-verse" mid="v56001016"/>
+			<v n="16">
+				They profess 
+				<crossref let="q" cid="c5600116.1"/>
+				 that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.
+			</v>
+			<marker class="begin-verse" mid="v56001017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

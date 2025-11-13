@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:04:46.040373</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:04:46.040415</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19099001"/>
+		<chapter num="99">
+			<begin-paragraph/>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c190991.1"/>
+				 reigneth; let the people tremble: he sitteth between the cherubims; let the earth be moved.
+			</v>
+			<marker class="begin-verse" mid="v19099002"/>
+			<v n="2">
+				The LORD 
+				<crossref let="c" cid="c190992.1"/>
+				 is great in Zion; and he is high above all the people.
+			</v>
+			<marker class="begin-verse" mid="v19099003"/>
+			<v n="3">
+				Let them 
+				<crossref let="d" cid="c190993.1"/>
+				 praise thy great and terrible name; for it is holy.
+			</v>
+			<marker class="begin-verse" mid="v19099004"/>
+			<v n="4">
+				The king’s 
+				<crossref let="e" cid="c190994.1"/>
+				 strength also loveth judgment; thou dost establish equity, thou executest judgment and righteousness in Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19099005"/>
+			<v n="5">
+				Exalt ye 
+				<crossref let="f" cid="c190995.1"/>
+				 the LORD our God, and worship at his footstool; for he is holy.
+			</v>
+			<marker class="begin-verse" mid="v19099006"/>
+			<v n="6">
+				Moses and 
+				<crossref let="g" cid="c190996.1"/>
+				 Aaron among his priests, and Samuel among them that call upon his name; they called upon the LORD, and he answered them.
+			</v>
+			<marker class="begin-verse" mid="v19099007"/>
+			<v n="7">
+				He spake 
+				<crossref let="h" cid="c190997.1"/>
+				 unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.
+			</v>
+			<marker class="begin-verse" mid="v19099008"/>
+			<v n="8">
+				Thou answeredst 
+				<crossref let="i" cid="c190998.1"/>
+				 them, O LORD our God: thou wast a God that forgavest them, though thou tookest vengeance of their inventions.
+			</v>
+			<marker class="begin-verse" mid="v19099009"/>
+			<v n="9">
+				Exalt the 
+				<crossref let="j" cid="c190999.1"/>
+				 LORD our God, and worship at his holy hill; for the LORD our God is holy.
+			</v>
+			<marker class="begin-verse" mid="v19099010"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

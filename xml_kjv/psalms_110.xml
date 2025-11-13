@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:05:45.347478</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:05:45.347506</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19110001"/>
+		<chapter num="110">
+			<heading>A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				The LORD 
+				<crossref let="b" cid="c191101.1"/>
+				 said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool.
+			</v>
+			<marker class="begin-verse" mid="v19110002"/>
+			<v n="2">
+				The LORD 
+				<crossref let="c" cid="c191102.1"/>
+				 shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.
+			</v>
+			<marker class="begin-verse" mid="v19110003"/>
+			<v n="3">
+				Thy people 
+				<crossref let="d" cid="c191103.1"/>
+				 shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
+			</v>
+			<marker class="begin-verse" mid="v19110004"/>
+			<v n="4">
+				The LORD 
+				<crossref let="e" cid="c191104.1"/>
+				 hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek.
+			</v>
+			<marker class="begin-verse" mid="v19110005"/>
+			<v n="5">
+				The Lord 
+				<crossref let="f" cid="c191105.1"/>
+				 at thy right hand shall strike through kings in the day of his wrath.
+			</v>
+			<marker class="begin-verse" mid="v19110006"/>
+			<v n="6">
+				He shall 
+				<crossref let="g" cid="c191106.1"/>
+				 judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries.
+			</v>
+			<marker class="begin-verse" mid="v19110007"/>
+			<v n="7">
+				He shall 
+				<crossref let="h" cid="c191107.1"/>
+				 drink of the brook in the way: therefore shall he lift up the head.
+			</v>
+			<marker class="begin-verse" mid="v19110008"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

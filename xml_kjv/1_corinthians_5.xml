@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:48:11.183088</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:48:11.183097</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" version="KJV" bookAbbr="1co">
+		<marker class="begin-verse" mid="v46005001"/>
+		<chapter num="5">
+			<begin-paragraph/>
+			<v n="1">
+				It is 
+				<crossref let="b" cid="c460051.1"/>
+				 reported commonly that there is fornication among you, and such fornication as is not so much as named among the Gentiles, that one should have his father’s wife.
+			</v>
+			<marker class="begin-verse" mid="v46005002"/>
+			<v n="2">
+				And ye 
+				<crossref let="c" cid="c460052.1"/>
+				 are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you.
+			</v>
+			<marker class="begin-verse" mid="v46005003"/>
+			<v n="3">
+				For I 
+				<crossref let="d" cid="c460053.1"/>
+				 verily, as absent in body, but present in spirit, have judged already, as though I were present, concerning him that hath so done this deed,
+			</v>
+			<marker class="begin-verse" mid="v46005004"/>
+			<v n="4">
+				In the 
+				<crossref let="e" cid="c460054.1"/>
+				 name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ,
+			</v>
+			<marker class="begin-verse" mid="v46005005"/>
+			<v n="5">
+				To deliver 
+				<crossref let="f" cid="c460055.1"/>
+				 such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus.
+			</v>
+			<marker class="begin-verse" mid="v46005006"/>
+			<v n="6">
+				Your glorying 
+				<crossref let="g" cid="c460056.1"/>
+				 is not good. Know ye not that a little leaven leaveneth the whole lump?
+			</v>
+			<marker class="begin-verse" mid="v46005007"/>
+			<v n="7">
+				Purge out 
+				<crossref let="h" cid="c460057.1"/>
+				 therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:
+			</v>
+			<marker class="begin-verse" mid="v46005008"/>
+			<v n="8">
+				Therefore let 
+				<crossref let="i" cid="c460058.1"/>
+				 us keep the feast, not with old leaven, neither with the leaven of malice and wickedness; but with the unleavened bread of sincerity and truth.
+			</v>
+			<marker class="begin-verse" mid="v46005009"/>
+			<v n="9">
+				I wrote 
+				<crossref let="j" cid="c460059.1"/>
+				 unto you in an epistle not to company with fornicators:
+			</v>
+			<marker class="begin-verse" mid="v46005010"/>
+			<v n="10">
+				Yet not 
+				<crossref let="k" cid="c4600510.1"/>
+				 altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must ye needs go out of the world.
+			</v>
+			<marker class="begin-verse" mid="v46005011"/>
+			<v n="11">
+				But now 
+				<crossref let="l" cid="c4600511.1"/>
+				 I have written unto you not to keep company, if any man that is called a brother be a fornicator, or covetous, or an idolater, or a railer, or a drunkard, or an extortioner; with such an one no not to eat.
+			</v>
+			<marker class="begin-verse" mid="v46005012"/>
+			<v n="12">
+				For what 
+				<crossref let="m" cid="c4600512.1"/>
+				 have I to do to judge them also that are without? do not ye judge them that are within?
+			</v>
+			<marker class="begin-verse" mid="v46005013"/>
+			<v n="13">
+				But them 
+				<crossref let="n" cid="c4600513.1"/>
+				 that are without God judgeth. Therefore put away from among yourselves that wicked person.
+			</v>
+			<marker class="begin-verse" mid="v46005014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

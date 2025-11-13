@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T03:28:50.532336</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T03:28:50.532348</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" version="KJV" bookAbbr="deu">
+		<marker class="begin-verse" mid="v05020001"/>
+		<chapter num="20">
+			<begin-paragraph/>
+			<v n="1">
+				When thou 
+				<crossref let="b" cid="c050201.1"/>
+				 goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v05020002"/>
+			<v n="2">
+				And it 
+				<crossref let="c" cid="c050202.1"/>
+				 shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,
+			</v>
+			<marker class="begin-verse" mid="v05020003"/>
+			<v n="3">
+				And shall 
+				<crossref let="d" cid="c050203.1"/>
+				 say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;
+			</v>
+			<marker class="begin-verse" mid="v05020004"/>
+			<v n="4">
+				For the 
+				<crossref let="e" cid="c050204.1"/>
+				 LORD your God is he that goeth with you, to fight for you against your enemies, to save you.
+			</v>
+			<marker class="begin-verse" mid="v05020005"/>
+			<v n="5">
+				¶ And 
+				<crossref let="f" cid="c050205.1"/>
+				 the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.
+			</v>
+			<marker class="begin-verse" mid="v05020006"/>
+			<v n="6">
+				And what 
+				<crossref let="g" cid="c050206.1"/>
+				 man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it.
+			</v>
+			<marker class="begin-verse" mid="v05020007"/>
+			<v n="7">
+				And what 
+				<crossref let="h" cid="c050207.1"/>
+				 man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.
+			</v>
+			<marker class="begin-verse" mid="v05020008"/>
+			<v n="8">
+				And the 
+				<crossref let="i" cid="c050208.1"/>
+				 officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart.
+			</v>
+			<marker class="begin-verse" mid="v05020009"/>
+			<v n="9">
+				And it 
+				<crossref let="j" cid="c050209.1"/>
+				 shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people.
+			</v>
+			<marker class="begin-verse" mid="v05020010"/>
+			<v n="10">
+				¶ When 
+				<crossref let="k" cid="c0502010.1"/>
+				 thou comest nigh unto a city to fight against it, then proclaim peace unto it.
+			</v>
+			<marker class="begin-verse" mid="v05020011"/>
+			<v n="11">
+				And it 
+				<crossref let="l" cid="c0502011.1"/>
+				 shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee.
+			</v>
+			<marker class="begin-verse" mid="v05020012"/>
+			<v n="12">
+				And if 
+				<crossref let="m" cid="c0502012.1"/>
+				 it will make no peace with thee, but will make war against thee, then thou shalt besiege it:
+			</v>
+			<marker class="begin-verse" mid="v05020013"/>
+			<v n="13">
+				And when 
+				<crossref let="n" cid="c0502013.1"/>
+				 the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:
+			</v>
+			<marker class="begin-verse" mid="v05020014"/>
+			<v n="14">
+				But the 
+				<crossref let="o" cid="c0502014.1"/>
+				 women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee.
+			</v>
+			<marker class="begin-verse" mid="v05020015"/>
+			<v n="15">
+				Thus shalt 
+				<crossref let="p" cid="c0502015.1"/>
+				 thou do unto all the cities which are very far off from thee, which are not of the cities of these nations.
+			</v>
+			<marker class="begin-verse" mid="v05020016"/>
+			<v n="16">
+				But of 
+				<crossref let="q" cid="c0502016.1"/>
+				 the cities of these people, which the LORD thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:
+			</v>
+			<marker class="begin-verse" mid="v05020017"/>
+			<v n="17">
+				But thou 
+				<crossref let="r" cid="c0502017.1"/>
+				 shalt utterly destroy them; namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:
+			</v>
+			<marker class="begin-verse" mid="v05020018"/>
+			<v n="18">
+				That they 
+				<crossref let="s" cid="c0502018.1"/>
+				 teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the LORD your God.
+			</v>
+			<marker class="begin-verse" mid="v05020019"/>
+			<v n="19">
+				¶ When 
+				<crossref let="t" cid="c0502019.1"/>
+				 thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man’s life) to employ them in the siege:
+			</v>
+			<marker class="begin-verse" mid="v05020020"/>
+			<v n="20">
+				Only the 
+				<crossref let="u" cid="c0502020.1"/>
+				 trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued.
+			</v>
+			<marker class="begin-verse" mid="v05020021"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

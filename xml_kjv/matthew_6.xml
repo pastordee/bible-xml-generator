@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:36:24.780261</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:36:24.780273</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="KJV" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40006001"/>
+		<chapter num="6">
+			<begin-paragraph/>
+			<v n="1">
+				Take heed 
+				<crossref let="b" cid="c400061.1"/>
+				 that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven.
+			</v>
+			<marker class="begin-verse" mid="v40006002"/>
+			<v n="2">
+				Therefore when 
+				<crossref let="c" cid="c400062.1"/>
+				 thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward.
+			</v>
+			<marker class="begin-verse" mid="v40006003"/>
+			<v n="3">
+				But when 
+				<crossref let="d" cid="c400063.1"/>
+				 thou doest alms, let not thy left hand know what thy right hand doeth:
+			</v>
+			<marker class="begin-verse" mid="v40006004"/>
+			<v n="4">
+				That thine 
+				<crossref let="e" cid="c400064.1"/>
+				 alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly.
+			</v>
+			<marker class="begin-verse" mid="v40006005"/>
+			<v n="5">
+				¶ And 
+				<crossref let="f" cid="c400065.1"/>
+				 when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward.
+			</v>
+			<marker class="begin-verse" mid="v40006006"/>
+			<v n="6">
+				But thou, 
+				<crossref let="g" cid="c400066.1"/>
+				 when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly.
+			</v>
+			<marker class="begin-verse" mid="v40006007"/>
+			<v n="7">
+				But when 
+				<crossref let="h" cid="c400067.1"/>
+				 ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking.
+			</v>
+			<marker class="begin-verse" mid="v40006008"/>
+			<v n="8">
+				Be not 
+				<crossref let="i" cid="c400068.1"/>
+				 ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him.
+			</v>
+			<marker class="begin-verse" mid="v40006009"/>
+			<v n="9">
+				After this 
+				<crossref let="j" cid="c400069.1"/>
+				 manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name.
+			</v>
+			<marker class="begin-verse" mid="v40006010"/>
+			<v n="10">
+				Thy kingdom 
+				<crossref let="k" cid="c4000610.1"/>
+				 come. Thy will be done in earth, as it is in heaven.
+			</v>
+			<marker class="begin-verse" mid="v40006011"/>
+			<v n="11">
+				Give us 
+				<crossref let="l" cid="c4000611.1"/>
+				 this day our daily bread.
+			</v>
+			<marker class="begin-verse" mid="v40006012"/>
+			<v n="12">
+				And forgive 
+				<crossref let="m" cid="c4000612.1"/>
+				 us our debts, as we forgive our debtors.
+			</v>
+			<marker class="begin-verse" mid="v40006013"/>
+			<v n="13">
+				And lead 
+				<crossref let="n" cid="c4000613.1"/>
+				 us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen.
+			</v>
+			<marker class="begin-verse" mid="v40006014"/>
+			<v n="14">
+				For if 
+				<crossref let="o" cid="c4000614.1"/>
+				 ye forgive men their trespasses, your heavenly Father will also forgive you:
+			</v>
+			<marker class="begin-verse" mid="v40006015"/>
+			<v n="15">
+				But if 
+				<crossref let="p" cid="c4000615.1"/>
+				 ye forgive not men their trespasses, neither will your Father forgive your trespasses.
+			</v>
+			<marker class="begin-verse" mid="v40006016"/>
+			<v n="16">
+				¶ Moreover 
+				<crossref let="q" cid="c4000616.1"/>
+				 when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward.
+			</v>
+			<marker class="begin-verse" mid="v40006017"/>
+			<v n="17">
+				But thou, 
+				<crossref let="r" cid="c4000617.1"/>
+				 when thou fastest, anoint thine head, and wash thy face;
+			</v>
+			<marker class="begin-verse" mid="v40006018"/>
+			<v n="18">
+				That thou 
+				<crossref let="s" cid="c4000618.1"/>
+				 appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly.
+			</v>
+			<marker class="begin-verse" mid="v40006019"/>
+			<v n="19">
+				¶ Lay 
+				<crossref let="t" cid="c4000619.1"/>
+				 not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:
+			</v>
+			<marker class="begin-verse" mid="v40006020"/>
+			<v n="20">
+				But lay 
+				<crossref let="u" cid="c4000620.1"/>
+				 up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:
+			</v>
+			<marker class="begin-verse" mid="v40006021"/>
+			<v n="21">
+				For where 
+				<crossref let="v" cid="c4000621.1"/>
+				 your treasure is, there will your heart be also.
+			</v>
+			<marker class="begin-verse" mid="v40006022"/>
+			<v n="22">
+				The light 
+				<crossref let="w" cid="c4000622.1"/>
+				 of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light.
+			</v>
+			<marker class="begin-verse" mid="v40006023"/>
+			<v n="23">
+				But if 
+				<crossref let="x" cid="c4000623.1"/>
+				 thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!
+			</v>
+			<marker class="begin-verse" mid="v40006024"/>
+			<v n="24">
+				¶ No 
+				<crossref let="y" cid="c4000624.1"/>
+				 man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon.
+			</v>
+			<marker class="begin-verse" mid="v40006025"/>
+			<v n="25">
+				Therefore I 
+				<crossref let="z" cid="c4000625.1"/>
+				 say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?
+			</v>
+			<marker class="begin-verse" mid="v40006026"/>
+			<v n="26">
+				Behold the 
+				<crossref let="a" cid="c4000626.1"/>
+				 fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?
+			</v>
+			<marker class="begin-verse" mid="v40006027"/>
+			<v n="27">
+				Which of 
+				<crossref let="b" cid="c4000627.1"/>
+				 you by taking thought can add one cubit unto his stature?
+			</v>
+			<marker class="begin-verse" mid="v40006028"/>
+			<v n="28">
+				And why 
+				<crossref let="c" cid="c4000628.1"/>
+				 take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:
+			</v>
+			<marker class="begin-verse" mid="v40006029"/>
+			<v n="29">
+				And yet 
+				<crossref let="d" cid="c4000629.1"/>
+				 I say unto you, That even Solomon in all his glory was not arrayed like one of these.
+			</v>
+			<marker class="begin-verse" mid="v40006030"/>
+			<v n="30">
+				Wherefore, if 
+				<crossref let="e" cid="c4000630.1"/>
+				 God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith?
+			</v>
+			<marker class="begin-verse" mid="v40006031"/>
+			<v n="31">
+				Therefore take 
+				<crossref let="f" cid="c4000631.1"/>
+				 no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?
+			</v>
+			<marker class="begin-verse" mid="v40006032"/>
+			<v n="32">
+				(For after 
+				<crossref let="g" cid="c4000632.1"/>
+				 all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things.
+			</v>
+			<marker class="begin-verse" mid="v40006033"/>
+			<v n="33">
+				But seek 
+				<crossref let="h" cid="c4000633.1"/>
+				 ye first the kingdom of God, and his righteousness; and all these things shall be added unto you.
+			</v>
+			<marker class="begin-verse" mid="v40006034"/>
+			<v n="34">
+				Take therefore 
+				<crossref let="i" cid="c4000634.1"/>
+				 no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof.
+			</v>
+			<marker class="begin-verse" mid="v40006035"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

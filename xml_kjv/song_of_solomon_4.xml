@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:13:29.036683</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:13:29.036691</next_refresh_due>
+	</generation_info>
+	<book title="Song of Solomon" num="22" testament="old" version="KJV" bookAbbr="sng">
+		<marker class="begin-verse" mid="v22004001"/>
+		<chapter num="4">
+			<begin-paragraph/>
+			<v n="1">
+				Behold, thou 
+				<crossref let="b" cid="c220041.1"/>
+				 art fair, my love; behold, thou art fair; thou hast doves’ eyes within thy locks: thy hair is as a flock of goats, that appear from mount Gilead.
+			</v>
+			<marker class="begin-verse" mid="v22004002"/>
+			<v n="2">
+				Thy teeth 
+				<crossref let="c" cid="c220042.1"/>
+				 are like a flock of sheep that are even shorn, which came up from the washing; whereof every one bear twins, and none is barren among them.
+			</v>
+			<marker class="begin-verse" mid="v22004003"/>
+			<v n="3">
+				Thy lips 
+				<crossref let="d" cid="c220043.1"/>
+				 are like a thread of scarlet, and thy speech is comely: thy temples are like a piece of a pomegranate within thy locks.
+			</v>
+			<marker class="begin-verse" mid="v22004004"/>
+			<v n="4">
+				Thy neck 
+				<crossref let="e" cid="c220044.1"/>
+				 is like the tower of David builded for an armoury, whereon there hang a thousand bucklers, all shields of mighty men.
+			</v>
+			<marker class="begin-verse" mid="v22004005"/>
+			<v n="5">
+				Thy two 
+				<crossref let="f" cid="c220045.1"/>
+				 breasts are like two young roes that are twins, which feed among the lilies.
+			</v>
+			<marker class="begin-verse" mid="v22004006"/>
+			<v n="6">
+				Until the 
+				<crossref let="g" cid="c220046.1"/>
+				 day break, and the shadows flee away, I will get me to the mountain of myrrh, and to the hill of frankincense.
+			</v>
+			<marker class="begin-verse" mid="v22004007"/>
+			<v n="7">
+				Thou art 
+				<crossref let="h" cid="c220047.1"/>
+				 all fair, my love; there is no spot in thee.
+			</v>
+			<marker class="begin-verse" mid="v22004008"/>
+			<v n="8">
+				¶ Come 
+				<crossref let="i" cid="c220048.1"/>
+				 with me from Lebanon, my spouse, with me from Lebanon: look from the top of Amana, from the top of Shenir and Hermon, from the lions’ dens, from the mountains of the leopards.
+			</v>
+			<marker class="begin-verse" mid="v22004009"/>
+			<v n="9">
+				Thou hast 
+				<crossref let="j" cid="c220049.1"/>
+				 ravished my heart, my sister, my spouse; thou hast ravished my heart with one of thine eyes, with one chain of thy neck.
+			</v>
+			<marker class="begin-verse" mid="v22004010"/>
+			<v n="10">
+				How fair 
+				<crossref let="k" cid="c2200410.1"/>
+				 is thy love, my sister, my spouse! how much better is thy love than wine! and the smell of thine ointments than all spices!
+			</v>
+			<marker class="begin-verse" mid="v22004011"/>
+			<v n="11">
+				Thy lips, 
+				<crossref let="l" cid="c2200411.1"/>
+				 O my spouse, drop as the honeycomb: honey and milk are under thy tongue; and the smell of thy garments is like the smell of Lebanon.
+			</v>
+			<marker class="begin-verse" mid="v22004012"/>
+			<v n="12">
+				A garden 
+				<crossref let="m" cid="c2200412.1"/>
+				 inclosed is my sister, my spouse; a spring shut up, a fountain sealed.
+			</v>
+			<marker class="begin-verse" mid="v22004013"/>
+			<v n="13">
+				Thy plants 
+				<crossref let="n" cid="c2200413.1"/>
+				 are an orchard of pomegranates, with pleasant fruits; camphire, with spikenard,
+			</v>
+			<marker class="begin-verse" mid="v22004014"/>
+			<v n="14">
+				Spikenard and 
+				<crossref let="o" cid="c2200414.1"/>
+				 saffron; calamus and cinnamon, with all trees of frankincense; myrrh and aloes, with all the chief spices:
+			</v>
+			<marker class="begin-verse" mid="v22004015"/>
+			<v n="15">
+				A fountain 
+				<crossref let="p" cid="c2200415.1"/>
+				 of gardens, a well of living waters, and streams from Lebanon.
+			</v>
+			<marker class="begin-verse" mid="v22004016"/>
+			<v n="16">
+				¶ Awake, 
+				<crossref let="q" cid="c2200416.1"/>
+				 O north wind; and come, thou south; blow upon my garden, that the spices thereof may flow out. Let my beloved come into his garden, and eat his pleasant fruits.
+			</v>
+			<marker class="begin-verse" mid="v22004017"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

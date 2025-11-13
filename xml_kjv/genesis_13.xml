@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:18:43.790994</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:18:43.791020</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="KJV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01013001"/>
+		<chapter num="13">
+			<begin-paragraph/>
+			<v n="1">
+				And Abram 
+				<crossref let="b" cid="c010131.1"/>
+				 went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south.
+			</v>
+			<marker class="begin-verse" mid="v01013002"/>
+			<v n="2">
+				And Abram 
+				<crossref let="c" cid="c010132.1"/>
+				 was very rich in cattle, in silver, and in gold.
+			</v>
+			<marker class="begin-verse" mid="v01013003"/>
+			<v n="3">
+				And he 
+				<crossref let="d" cid="c010133.1"/>
+				 went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai;
+			</v>
+			<marker class="begin-verse" mid="v01013004"/>
+			<v n="4">
+				Unto the 
+				<crossref let="e" cid="c010134.1"/>
+				 place of the altar, which he had made there at the first: and there Abram called on the name of the LORD.
+			</v>
+			<marker class="begin-verse" mid="v01013005"/>
+			<v n="5">
+				¶ And 
+				<crossref let="f" cid="c010135.1"/>
+				 Lot also, which went with Abram, had flocks, and herds, and tents.
+			</v>
+			<marker class="begin-verse" mid="v01013006"/>
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c010136.1"/>
+				 land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together.
+			</v>
+			<marker class="begin-verse" mid="v01013007"/>
+			<v n="7">
+				And there 
+				<crossref let="h" cid="c010137.1"/>
+				 was a strife between the herdmen of Abram’s cattle and the herdmen of Lot’s cattle: and the Canaanite and the Perizzite dwelled then in the land.
+			</v>
+			<marker class="begin-verse" mid="v01013008"/>
+			<v n="8">
+				And Abram 
+				<crossref let="i" cid="c010138.1"/>
+				 said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren.
+			</v>
+			<marker class="begin-verse" mid="v01013009"/>
+			<v n="9">
+				Is not 
+				<crossref let="j" cid="c010139.1"/>
+				 the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left.
+			</v>
+			<marker class="begin-verse" mid="v01013010"/>
+			<v n="10">
+				And Lot 
+				<crossref let="k" cid="c0101310.1"/>
+				 lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar.
+			</v>
+			<marker class="begin-verse" mid="v01013011"/>
+			<v n="11">
+				Then Lot 
+				<crossref let="l" cid="c0101311.1"/>
+				 chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
+			</v>
+			<marker class="begin-verse" mid="v01013012"/>
+			<v n="12">
+				Abram dwelled 
+				<crossref let="m" cid="c0101312.1"/>
+				 in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom.
+			</v>
+			<marker class="begin-verse" mid="v01013013"/>
+			<v n="13">
+				But the 
+				<crossref let="n" cid="c0101313.1"/>
+				 men of Sodom were wicked and sinners before the LORD exceedingly.
+			</v>
+			<marker class="begin-verse" mid="v01013014"/>
+			<v n="14">
+				¶ And 
+				<crossref let="o" cid="c0101314.1"/>
+				 the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:
+			</v>
+			<marker class="begin-verse" mid="v01013015"/>
+			<v n="15">
+				For all 
+				<crossref let="p" cid="c0101315.1"/>
+				 the land which thou seest, to thee will I give it, and to thy seed for ever.
+			</v>
+			<marker class="begin-verse" mid="v01013016"/>
+			<v n="16">
+				And I 
+				<crossref let="q" cid="c0101316.1"/>
+				 will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered.
+			</v>
+			<marker class="begin-verse" mid="v01013017"/>
+			<v n="17">
+				Arise, walk 
+				<crossref let="r" cid="c0101317.1"/>
+				 through the land in the length of it and in the breadth of it; for I will give it unto thee.
+			</v>
+			<marker class="begin-verse" mid="v01013018"/>
+			<v n="18">
+				Then Abram 
+				<crossref let="s" cid="c0101318.1"/>
+				 removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD.
+			</v>
+			<marker class="begin-verse" mid="v01013019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

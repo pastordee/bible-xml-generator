@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:10:05.966636</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:10:05.966644</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" version="KJV" bookAbbr="pro">
+		<marker class="begin-verse" mid="v20009001"/>
+		<chapter num="9">
+			<begin-paragraph/>
+			<v n="1">
+				Wisdom hath 
+				<crossref let="b" cid="c200091.1"/>
+				 builded her house, she hath hewn out her seven pillars:
+			</v>
+			<marker class="begin-verse" mid="v20009002"/>
+			<v n="2">
+				She hath 
+				<crossref let="c" cid="c200092.1"/>
+				 killed her beasts; she hath mingled her wine; she hath also furnished her table.
+			</v>
+			<marker class="begin-verse" mid="v20009003"/>
+			<v n="3">
+				She hath 
+				<crossref let="d" cid="c200093.1"/>
+				 sent forth her maidens: she crieth upon the highest places of the city,
+			</v>
+			<marker class="begin-verse" mid="v20009004"/>
+			<v n="4">
+				Whoso is 
+				<crossref let="e" cid="c200094.1"/>
+				 simple, let him turn in hither: as for him that wanteth understanding, she saith to him,
+			</v>
+			<marker class="begin-verse" mid="v20009005"/>
+			<v n="5">
+				Come, eat 
+				<crossref let="f" cid="c200095.1"/>
+				 of my bread, and drink of the wine which I have mingled.
+			</v>
+			<marker class="begin-verse" mid="v20009006"/>
+			<v n="6">
+				Forsake the 
+				<crossref let="g" cid="c200096.1"/>
+				 foolish, and live; and go in the way of understanding.
+			</v>
+			<marker class="begin-verse" mid="v20009007"/>
+			<v n="7">
+				He that 
+				<crossref let="h" cid="c200097.1"/>
+				 reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot.
+			</v>
+			<marker class="begin-verse" mid="v20009008"/>
+			<v n="8">
+				Reprove not 
+				<crossref let="i" cid="c200098.1"/>
+				 a scorner, lest he hate thee: rebuke a wise man, and he will love thee.
+			</v>
+			<marker class="begin-verse" mid="v20009009"/>
+			<v n="9">
+				Give instruction 
+				<crossref let="j" cid="c200099.1"/>
+				 to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.
+			</v>
+			<marker class="begin-verse" mid="v20009010"/>
+			<v n="10">
+				The fear 
+				<crossref let="k" cid="c2000910.1"/>
+				 of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.
+			</v>
+			<marker class="begin-verse" mid="v20009011"/>
+			<v n="11">
+				For by 
+				<crossref let="l" cid="c2000911.1"/>
+				 me thy days shall be multiplied, and the years of thy life shall be increased.
+			</v>
+			<marker class="begin-verse" mid="v20009012"/>
+			<v n="12">
+				If thou 
+				<crossref let="m" cid="c2000912.1"/>
+				 be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it.
+			</v>
+			<marker class="begin-verse" mid="v20009013"/>
+			<v n="13">
+				¶ A 
+				<crossref let="n" cid="c2000913.1"/>
+				 foolish woman is clamorous: she is simple, and knoweth nothing.
+			</v>
+			<marker class="begin-verse" mid="v20009014"/>
+			<v n="14">
+				For she 
+				<crossref let="o" cid="c2000914.1"/>
+				 sitteth at the door of her house, on a seat in the high places of the city,
+			</v>
+			<marker class="begin-verse" mid="v20009015"/>
+			<v n="15">
+				To call 
+				<crossref let="p" cid="c2000915.1"/>
+				 passengers who go right on their ways:
+			</v>
+			<marker class="begin-verse" mid="v20009016"/>
+			<v n="16">
+				Whoso is 
+				<crossref let="q" cid="c2000916.1"/>
+				 simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,
+			</v>
+			<marker class="begin-verse" mid="v20009017"/>
+			<v n="17">
+				Stolen waters 
+				<crossref let="r" cid="c2000917.1"/>
+				 are sweet, and bread eaten in secret is pleasant.
+			</v>
+			<marker class="begin-verse" mid="v20009018"/>
+			<v n="18">
+				But he 
+				<crossref let="s" cid="c2000918.1"/>
+				 knoweth not that the dead are there; and that her guests are in the depths of hell.
+			</v>
+			<marker class="begin-verse" mid="v20009019"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

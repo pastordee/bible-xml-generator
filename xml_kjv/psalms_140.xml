@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:08:24.420903</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:08:24.420929</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19140001"/>
+		<chapter num="140">
+			<heading>To the chief Musician, A Psalm of David.</heading>
+			<begin-paragraph/>
+			<v n="1">
+				Deliver me, 
+				<crossref let="b" cid="c191401.1"/>
+				 O LORD, from the evil man: preserve me from the violent man;
+			</v>
+			<marker class="begin-verse" mid="v19140002"/>
+			<v n="2">
+				Which imagine 
+				<crossref let="c" cid="c191402.1"/>
+				 mischiefs in their heart; continually are they gathered together for war.
+			</v>
+			<marker class="begin-verse" mid="v19140003"/>
+			<v n="3">
+				They have 
+				<crossref let="d" cid="c191403.1"/>
+				 sharpened their tongues like a serpent; adders’ poison is under their lips. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19140004"/>
+			<v n="4">
+				Keep me, 
+				<crossref let="e" cid="c191404.1"/>
+				 O LORD, from the hands of the wicked; preserve me from the violent man; who have purposed to overthrow my goings.
+			</v>
+			<marker class="begin-verse" mid="v19140005"/>
+			<v n="5">
+				The proud 
+				<crossref let="f" cid="c191405.1"/>
+				 have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19140006"/>
+			<v n="6">
+				I said 
+				<crossref let="g" cid="c191406.1"/>
+				 unto the LORD, Thou art my God: hear the voice of my supplications, O LORD.
+			</v>
+			<marker class="begin-verse" mid="v19140007"/>
+			<v n="7">
+				O GOD 
+				<crossref let="h" cid="c191407.1"/>
+				 the Lord, the strength of my salvation, thou hast covered my head in the day of battle.
+			</v>
+			<marker class="begin-verse" mid="v19140008"/>
+			<v n="8">
+				Grant not, 
+				<crossref let="i" cid="c191408.1"/>
+				 O LORD, the desires of the wicked: further not his wicked device; lest they exalt themselves. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19140009"/>
+			<v n="9">
+				As for 
+				<crossref let="j" cid="c191409.1"/>
+				 the head of those that compass me about, let the mischief of their own lips cover them.
+			</v>
+			<marker class="begin-verse" mid="v19140010"/>
+			<v n="10">
+				Let burning 
+				<crossref let="k" cid="c1914010.1"/>
+				 coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.
+			</v>
+			<marker class="begin-verse" mid="v19140011"/>
+			<v n="11">
+				Let not 
+				<crossref let="l" cid="c1914011.1"/>
+				 an evil speaker be established in the earth: evil shall hunt the violent man to overthrow him.
+			</v>
+			<marker class="begin-verse" mid="v19140012"/>
+			<v n="12">
+				I know 
+				<crossref let="m" cid="c1914012.1"/>
+				 that the LORD will maintain the cause of the afflicted, and the right of the poor.
+			</v>
+			<marker class="begin-verse" mid="v19140013"/>
+			<v n="13">
+				Surely the 
+				<crossref let="n" cid="c1914013.1"/>
+				 righteous shall give thanks unto thy name: the upright shall dwell in thy presence.
+			</v>
+			<marker class="begin-verse" mid="v19140014"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

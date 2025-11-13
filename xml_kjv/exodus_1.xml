@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:20:35.587623</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:20:35.587670</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="KJV" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02001001"/>
+		<chapter num="1">
+			<begin-paragraph/>
+			<v n="1">
+				Now these 
+				<crossref let="b" cid="c020011.1"/>
+				 are the names of the children of Israel, which came into Egypt; every man and his household came with Jacob.
+			</v>
+			<marker class="begin-verse" mid="v02001002"/>
+			<v n="2">
+				Reuben, Simeon, 
+				<crossref let="c" cid="c020012.1"/>
+				 Levi, and Judah,
+			</v>
+			<marker class="begin-verse" mid="v02001003"/>
+			<v n="3">
+				Issachar, Zebulun, 
+				<crossref let="d" cid="c020013.1"/>
+				 and Benjamin,
+			</v>
+			<marker class="begin-verse" mid="v02001004"/>
+			<v n="4">
+				Dan, and 
+				<crossref let="e" cid="c020014.1"/>
+				 Naphtali, Gad, and Asher.
+			</v>
+			<marker class="begin-verse" mid="v02001005"/>
+			<v n="5">
+				And all 
+				<crossref let="f" cid="c020015.1"/>
+				 the souls that came out of the loins of Jacob were seventy souls: for Joseph was in Egypt already.
+			</v>
+			<marker class="begin-verse" mid="v02001006"/>
+			<v n="6">
+				And Joseph 
+				<crossref let="g" cid="c020016.1"/>
+				 died, and all his brethren, and all that generation.
+			</v>
+			<marker class="begin-verse" mid="v02001007"/>
+			<v n="7">
+				¶ And 
+				<crossref let="h" cid="c020017.1"/>
+				 the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.
+			</v>
+			<marker class="begin-verse" mid="v02001008"/>
+			<v n="8">
+				Now there 
+				<crossref let="i" cid="c020018.1"/>
+				 arose up a new king over Egypt, which knew not Joseph.
+			</v>
+			<marker class="begin-verse" mid="v02001009"/>
+			<v n="9">
+				And he 
+				<crossref let="j" cid="c020019.1"/>
+				 said unto his people, Behold, the people of the children of Israel are more and mightier than we:
+			</v>
+			<marker class="begin-verse" mid="v02001010"/>
+			<v n="10">
+				Come on, 
+				<crossref let="k" cid="c0200110.1"/>
+				 let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
+			</v>
+			<marker class="begin-verse" mid="v02001011"/>
+			<v n="11">
+				Therefore they 
+				<crossref let="l" cid="c0200111.1"/>
+				 did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Raamses.
+			</v>
+			<marker class="begin-verse" mid="v02001012"/>
+			<v n="12">
+				But the 
+				<crossref let="m" cid="c0200112.1"/>
+				 more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
+			</v>
+			<marker class="begin-verse" mid="v02001013"/>
+			<v n="13">
+				And the 
+				<crossref let="n" cid="c0200113.1"/>
+				 Egyptians made the children of Israel to serve with rigour:
+			</v>
+			<marker class="begin-verse" mid="v02001014"/>
+			<v n="14">
+				And they 
+				<crossref let="o" cid="c0200114.1"/>
+				 made their lives bitter with hard bondage, in morter, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour.
+			</v>
+			<marker class="begin-verse" mid="v02001015"/>
+			<v n="15">
+				¶ And 
+				<crossref let="p" cid="c0200115.1"/>
+				 the king of Egypt spake to the Hebrew midwives, of which the name of the one was Shiphrah, and the name of the other Puah:
+			</v>
+			<marker class="begin-verse" mid="v02001016"/>
+			<v n="16">
+				And he 
+				<crossref let="q" cid="c0200116.1"/>
+				 said, When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live.
+			</v>
+			<marker class="begin-verse" mid="v02001017"/>
+			<v n="17">
+				But the 
+				<crossref let="r" cid="c0200117.1"/>
+				 midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.
+			</v>
+			<marker class="begin-verse" mid="v02001018"/>
+			<v n="18">
+				And the 
+				<crossref let="s" cid="c0200118.1"/>
+				 king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive?
+			</v>
+			<marker class="begin-verse" mid="v02001019"/>
+			<v n="19">
+				And the 
+				<crossref let="t" cid="c0200119.1"/>
+				 midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them.
+			</v>
+			<marker class="begin-verse" mid="v02001020"/>
+			<v n="20">
+				Therefore God 
+				<crossref let="u" cid="c0200120.1"/>
+				 dealt well with the midwives: and the people multiplied, and waxed very mighty.
+			</v>
+			<marker class="begin-verse" mid="v02001021"/>
+			<v n="21">
+				And it 
+				<crossref let="v" cid="c0200121.1"/>
+				 came to pass, because the midwives feared God, that he made them houses.
+			</v>
+			<marker class="begin-verse" mid="v02001022"/>
+			<v n="22">
+				And Pharaoh 
+				<crossref let="w" cid="c0200122.1"/>
+				 charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
+			</v>
+			<marker class="begin-verse" mid="v02001023"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bible>
+	<copyright>King James (Authorised) Version - PUBLIC DOMAIN except in the United Kingdom, where a Crown Copyright applies to printing the KJV. See http://www.cambridge.org/about-us/who-we-are/queens-printers-patent</copyright>
+	<metadata>
+		<name>King James (Authorised) Version</name>
+		<abbreviation>engKJV</abbreviation>
+		<last_updated>2025-10-01T18:54:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T04:05:55.820935</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T04:05:55.820966</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="KJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19112001"/>
+		<chapter num="112">
+			<begin-paragraph/>
+			<v n="1">
+				Praise ye 
+				<crossref let="b" cid="c191121.1"/>
+				 the LORD. Blessed is the man that feareth the LORD, that delighteth greatly in his commandments.
+			</v>
+			<marker class="begin-verse" mid="v19112002"/>
+			<v n="2">
+				His seed 
+				<crossref let="c" cid="c191122.1"/>
+				 shall be mighty upon earth: the generation of the upright shall be blessed.
+			</v>
+			<marker class="begin-verse" mid="v19112003"/>
+			<v n="3">
+				Wealth and 
+				<crossref let="d" cid="c191123.1"/>
+				 riches shall be in his house: and his righteousness endureth for ever.
+			</v>
+			<marker class="begin-verse" mid="v19112004"/>
+			<v n="4">
+				Unto the 
+				<crossref let="e" cid="c191124.1"/>
+				 upright there ariseth light in the darkness: he is gracious, and full of compassion, and righteous.
+			</v>
+			<marker class="begin-verse" mid="v19112005"/>
+			<v n="5">
+				A good 
+				<crossref let="f" cid="c191125.1"/>
+				 man sheweth favour, and lendeth: he will guide his affairs with discretion.
+			</v>
+			<marker class="begin-verse" mid="v19112006"/>
+			<v n="6">
+				Surely he 
+				<crossref let="g" cid="c191126.1"/>
+				 shall not be moved for ever: the righteous shall be in everlasting remembrance.
+			</v>
+			<marker class="begin-verse" mid="v19112007"/>
+			<v n="7">
+				He shall 
+				<crossref let="h" cid="c191127.1"/>
+				 not be afraid of evil tidings: his heart is fixed, trusting in the LORD.
+			</v>
+			<marker class="begin-verse" mid="v19112008"/>
+			<v n="8">
+				His heart 
+				<crossref let="i" cid="c191128.1"/>
+				 is established, he shall not be afraid, until he see his desire upon his enemies.
+			</v>
+			<marker class="begin-verse" mid="v19112009"/>
+			<v n="9">
+				He hath 
+				<crossref let="j" cid="c191129.1"/>
+				 dispersed, he hath given to the poor; his righteousness endureth for ever; his horn shall be exalted with honour.
+			</v>
+			<marker class="begin-verse" mid="v19112010"/>
+			<v n="10">
+				The wicked 
+				<crossref let="k" cid="c1911210.1"/>
+				 shall see it, and be grieved; he shall gnash with his teeth, and melt away: the desire of the wicked shall perish.
+			</v>
+			<marker class="begin-verse" mid="v19112011"/>
+			<end-paragraph/>
+		</chapter>
+	</book>
+</bible>
+

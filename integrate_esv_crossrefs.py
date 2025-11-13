@@ -40,13 +40,17 @@ def parse_crossref_file(crossref_file):
                 
                 # Extract verse number (last 3 digits)
                 verse_id = line.split()[1]  # e.g., 43003001
-                current_verse = int(verse_id[-3:])  # Extract verse number
+                try:
+                    current_verse = int(verse_id[-3:])  # Extract verse number
+                except ValueError:
+                    # Skip if we can't parse verse number
+                    continue
                 current_refs = []
                 
             # Cross-reference letter: c h
             elif line.startswith('c '):
                 # Save previous reference if exists
-                if current_letter and current_cid:
+                if current_letter and current_cid and current_verse:
                     verse_refs[current_verse].append({
                         'letter': current_letter,
                         'cid': current_cid,
@@ -54,11 +58,15 @@ def parse_crossref_file(crossref_file):
                     })
                     current_refs = []
                 
-                current_letter = line.split()[1]  # e.g., 'h'
+                parts = line.split()
+                if len(parts) >= 2:
+                    current_letter = parts[1]  # e.g., 'h'
                 
             # Cross-reference ID: i c43003001.1
             elif line.startswith('i '):
-                current_cid = line.split()[1]  # e.g., 'c43003001.1'
+                parts = line.split()
+                if len(parts) >= 2:
+                    current_cid = parts[1]  # e.g., 'c43003001.1'
                 
             # Reference content: m [, r 43007050, etc.
             elif line.startswith('m ') or line.startswith('r '):
@@ -74,43 +82,10 @@ def parse_crossref_file(crossref_file):
     
     return dict(verse_refs)
 
-def format_references(ref_data):
-    """Format reference data into readable text."""
-    lines = ref_data.split()
-    result = []
-    
-    i = 0
-    while i < len(lines):
-        if lines[i] == 'm':
-            # Marker text (like '[', ';', ']', 'See')
-            if i + 1 < len(lines):
-                result.append(lines[i + 1])
-                i += 2
-            else:
-                i += 1
-        elif lines[i] == 'r':
-            # Reference to verse
-            if i + 1 < len(lines):
-                ref_code = lines[i + 1]
-                # Parse reference code (e.g., 43007050 or 40022016)
-                book_num = int(ref_code[:2])
-                chapter = int(ref_code[2:5])
-                verse = int(ref_code[5:])
-                
-                # Get book name from verse reference
-                ref_text = lines[i + 2] if i + 2 < len(lines) and lines[i + 2] == 'm' else f"Ref: {chapter}:{verse}"
-                result.append(ref_text)
-                i += 2
-            else:
-                i += 1
-        else:
-            i += 1
-    
-    return ' '.join(result)
-
 def integrate_crossrefs_into_xml(xml_file, crossref_data):
     """
     Integrate cross-references from data into XML file.
+    Only updates the 'let' attribute, preserving all other content and structure.
     """
     try:
         tree = ET.parse(xml_file)
@@ -136,24 +111,22 @@ def integrate_crossrefs_into_xml(xml_file, crossref_data):
             if verse_num not in crossref_data:
                 continue
             
-            # Remove existing crossref elements
+            # Get existing crossref elements in this verse
             existing_crossrefs = verse.findall('crossref')
-            for crossref in existing_crossrefs:
-                verse.remove(crossref)
+            refs_from_data = crossref_data[verse_num]
             
-            # Add new crossrefs from data
-            refs = crossref_data[verse_num]
-            
-            # Insert crossrefs at appropriate positions in the verse text
-            # For now, we'll add them at the end of the verse
-            for ref in refs:
-                crossref_elem = ET.Element('crossref')
-                crossref_elem.set('let', ref['letter'])
-                crossref_elem.set('cid', ref['cid'])
-                crossref_elem.text = format_references(ref['references'])
-                verse.append(crossref_elem)
-            
-            modifications_made = True
+            # Match existing crossrefs with data by cid and update only the 'let' attribute
+            for ref_data in refs_from_data:
+                cid_to_match = ref_data['cid']
+                new_letter = ref_data['letter']
+                
+                # Find existing crossref with matching cid
+                for existing_crossref in existing_crossrefs:
+                    if existing_crossref.get('cid') == cid_to_match:
+                        # Only update the letter attribute, preserve everything else
+                        existing_crossref.set('let', new_letter)
+                        modifications_made = True
+                        break
         
         if modifications_made:
             # Write back to file

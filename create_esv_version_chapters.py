@@ -6,25 +6,34 @@ import time
 import re
 
 def fetch_esv_chapter_content(book_abbr, chapter, api_key):
-    """Fetch Bible content from ESV API."""
-    url = f"https://api.esv.org/v3/passage/text/"
+    """Fetch Bible content from ESV API with cross-references and full markup."""
+    url = f"https://api.esv.org/v3/passage/html/"
     headers = {"Authorization": f"Token {api_key}"}
     params = {
         "q": f"{book_abbr} {chapter}",
         "include-passage-references": "true",
         "include-verse-numbers": "true", 
         "include-footnotes": "true",
+        "include-footnote-body": "true",
         "include-headings": "true",
+        "include-short-copyright": "false",
+        "include-copyright": "false",
+        "include-passage-horizontal-lines": "false",
+        "include-heading-horizontal-lines": "false",
         "include-subheadings": "true",
-        "include-selahs": "true"
+        "include-selahs": "true",
+        "include-content-type": "false",
+        "line-length": "0"
     }
     
     response = requests.get(url, headers=headers, params=params)
     if response.status_code == 200:
         data = response.json()
+        # Return the HTML passages which includes cross-references
         return data["passages"][0] if data["passages"] else None
     else:
         print(f"Error: ESV API returned status code {response.status_code}")
+        print(f"Response: {response.text}")
         return None
 
 def create_detailed_chapter_xml(book_info, chapter_num, content):

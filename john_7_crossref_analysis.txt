@@ -1,0 +1,288 @@
+================================================================================
+JOHN 7 CROSS-REFERENCE COMPARISON REPORT
+================================================================================
+
+Verse  1: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: p
+  EXTRA in XML: p
+
+Verse  2: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: q, r
+  EXTRA in XML: q, r
+
+Verse  3: ⚠ MISMATCH
+  PDF has: s, t
+  XML has: s
+  MISSING in XML: t
+
+Verse  4: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: t
+  EXTRA in XML: t
+
+Verse  5: ⚠ MISMATCH
+  PDF has: u, v, w, x, y, z, a
+  XML has: u, v
+  MISSING in XML: a, w, x, y, z
+
+Verse  6: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: w
+  EXTRA in XML: w
+
+Verse  7: ⚠ MISMATCH
+  PDF has: p, q, r
+  XML has: x, y
+  MISSING in XML: p, q, r
+  EXTRA in XML: x, y
+
+Verse  8: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: z
+  EXTRA in XML: z
+
+Verse 10: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: a
+  EXTRA in XML: a
+
+Verse 11: ⚠ MISMATCH
+  PDF has: b, c, d, e, a, f, g, h, i, j, k
+  XML has: b, c
+  MISSING in XML: a, d, e, f, g, h, i, j, k
+
+Verse 12: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: d, e, f
+  EXTRA in XML: d, e, f
+
+Verse 13: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: g
+  EXTRA in XML: g
+
+Verse 14: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: h
+  EXTRA in XML: h
+
+Verse 15: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: i
+  EXTRA in XML: i
+
+Verse 16: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: j, k
+  EXTRA in XML: j, k
+
+Verse 17: ⚠ MISMATCH
+  PDF has: l, s, s, m, n, o
+  XML has: l, m
+  MISSING in XML: n, o, s
+
+Verse 18: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: o
+  EXTRA in XML: o
+
+Verse 19: ⚠ MISMATCH
+  PDF has: p, q, r, a, s
+  XML has: p, q
+  MISSING in XML: a, r, s
+
+Verse 20: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: r
+  EXTRA in XML: r
+
+Verse 21: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: s
+  EXTRA in XML: s
+
+Verse 22: ⚠ MISMATCH
+  PDF has: t, u, a, a, v, a, s
+  XML has: t, u
+  MISSING in XML: a, s, v
+
+Verse 23: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: v
+  EXTRA in XML: v
+
+Verse 24: ⚠ MISMATCH
+  PDF has: w, x, y, z, a, b, c, d, a, e, f, g
+  XML has: w
+  MISSING in XML: a, b, c, d, e, f, g, x, y, z
+
+Verse 25: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: x
+  EXTRA in XML: x
+
+Verse 26: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: y, z
+  EXTRA in XML: y, z
+
+Verse 27: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: a, b, c
+  EXTRA in XML: a, b, c
+
+Verse 28: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: d, a, e
+  EXTRA in XML: a, d, e
+
+Verse 29: ⚠ MISMATCH
+  PDF has: h, i, j
+  XML has: h, i
+  MISSING in XML: j
+
+Verse 30: ⚠ MISMATCH
+  PDF has: k, l, a, m, n, o, p, q, r, a, s
+  XML has: k, l
+  MISSING in XML: a, m, n, o, p, q, r, s
+
+Verse 31: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: n, o
+  EXTRA in XML: n, o
+
+Verse 32: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: p, q
+  EXTRA in XML: p, q
+
+Verse 33: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: r, s
+  EXTRA in XML: r, s
+
+Verse 34: ⚠ MISMATCH
+  PDF has: t, u, v, w, x
+  XML has: t
+  MISSING in XML: u, v, w, x
+
+Verse 35: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: u, v
+  EXTRA in XML: u, v
+
+Verse 36: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: x
+  EXTRA in XML: x
+
+Verse 37: ⚠ MISMATCH
+  PDF has: y, z, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, a
+  XML has: y, z
+  MISSING in XML: a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q
+
+Verse 38: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: b, c
+  EXTRA in XML: b, c
+
+Verse 39: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: e, f
+  EXTRA in XML: e, f
+
+Verse 40: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: j, k
+  EXTRA in XML: j, k
+
+Verse 41: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: l, m
+  EXTRA in XML: l, m
+
+Verse 42: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: n, o
+  EXTRA in XML: n, o
+
+Verse 43: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: q
+  EXTRA in XML: q
+
+Verse 44: ✓ PERFECT
+  PDF has: r
+  XML has: r
+
+Verse 45: ⚠ MISMATCH
+  PDF has: s, t, u
+  XML has: s
+  MISSING in XML: t, u
+
+Verse 46: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: t
+  EXTRA in XML: t
+
+Verse 47: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: u
+  EXTRA in XML: u
+
+Verse 48: ✓ PERFECT
+  PDF has: v
+  XML has: v
+
+Verse 50: ✓ PERFECT
+  PDF has: w
+  XML has: w
+
+Verse 51: ⚠ MISMATCH
+  PDF has: x, a, y, a, z, a
+  XML has: x, y
+  MISSING in XML: a, z
+
+Verse 52: ⚠ MISMATCH
+  PDF has: (none)
+  XML has: z, a
+  EXTRA in XML: a, z
+
+================================================================================
+SUMMARY
+================================================================================
+Total verses checked: 50
+Perfect matches: 3
+Mismatches: 47
+Total cross-references in PDF: 104
+Total cross-references in XML: 79
+Missing from XML: 71
+Extra in XML: 54
+================================================================================
+
+================================================================================
+ALPHABETICAL ORDER CHECK (PDF Data)
+================================================================================
+
+Verse  3: s, t
+Verse  5: u, v, w, x, y, z, a
+Verse  7: p, q, r ⚠️ (expected 'b')
+Verse 11: b, c, d, e, a, f, g, h, i, j, k ⚠️ (expected 's')
+Verse 17: l, s, s, m, n, o
+Verse 19: p, q, r, a, s
+Verse 22: t, u, a, a, v, a, s
+Verse 24: w, x, y, z, a, b, c, d, a, e, f, g ⚠️ (expected 't')
+Verse 29: h, i, j
+Verse 30: k, l, a, m, n, o, p, q, r, a, s
+Verse 34: t, u, v, w, x
+Verse 37: y, z, a, b, c, d, e, f, g, h, i, j, k, l, m, n, o, p, q, a
+Verse 44: r ⚠️ (expected 'b')
+Verse 45: s, t, u
+Verse 48: v
+Verse 50: w
+Verse 51: x, a, y, a, z, a
+
+Total alphabetical issues: 4
+================================================================================

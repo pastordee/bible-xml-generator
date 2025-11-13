@@ -1,0 +1,61 @@
+NEW TESTAMENT EXTRACTION COMPLETE
+==================================
+Date: $(date)
+
+SOURCE FILE: raw/cross_refs_nkjv/acts_to_revlations.txt
+SIZE: 2.0MB (47,813 lines)
+
+EXTRACTION METHOD:
+- Used "CHAPTER X" markers to segment chapters
+- Filtered lines matching pattern: ^\d+\s+[a-z]\s+ + Bible book keyword
+- Jude and Revelation required special handling (no CHAPTER markers)
+- Formatted using format_crossrefs.py with automated chapter number input
+
+BOOKS EXTRACTED (23 books, 171 chapters):
+==========================================
+Acts................: 28 chapters ✓
+Romans..............: 16 chapters ✓
+1 Corinthians.......: 16 chapters ✓
+2 Corinthians.......: 13 chapters ✓
+Galatians...........:  6 chapters ✓
+Ephesians...........:  6 chapters ✓
+Philippians.........:  4 chapters ✓
+Colossians..........:  4 chapters ✓
+1 Thessalonians.....:  5 chapters ✓
+2 Thessalonians.....:  3 chapters ✓
+1 Timothy...........:  6 chapters ✓
+2 Timothy...........:  4 chapters ✓
+Titus...............:  3 chapters ✓
+Philemon............:  1 chapter  ✓
+Hebrews.............: 13 chapters ✓
+James...............:  5 chapters ✓
+1 Peter.............:  5 chapters ✓
+2 Peter.............:  3 chapters ✓
+1 John..............:  5 chapters ✓
+2 John..............:  1 chapter  ✓
+3 John..............:  1 chapter  ✓
+Jude................:  1 chapter  ✓
+Revelation..........: 22 chapters ✓
+
+TOTAL: 171 chapters extracted and formatted
+
+OUTPUT FILES:
+=============
+Location: raw/cross_refs_nkjv/raw_formatted/
+Format: {book}_ch{N}_raw_formatted.txt
+
+COMPLETE BIBLE STATUS:
+======================
+Old Testament.......: 929 chapters ✓
+Gospels.............:  89 chapters ✓
+Acts-Revelation.....: 171 chapters ✓
+-----------------------------------
+TOTAL...............: 1,189 chapters ✓
+
+All 66 books of the Bible have been extracted!
+
+NEXT STEPS:
+===========
+1. Parse all 1,189 formatted files to C/V/c/i/m format
+2. Append to nkjv.txt master file
+3. Quality assurance review

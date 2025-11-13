@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:47:57.809523</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:47:57.809579</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19043001" />
+		<chapter num="43">
+			<begin-paragraph />
+			<v n="1">
+				Declare me 
+				
+				 innocent, O God!Defend me against these ungodly people.Rescue me from these unjust liars.
+			</v>
+			<marker class="begin-verse" mid="v19043002" />
+			<v n="2">
+				For you 
+				
+				 are God, my only safe haven.Why have you tossed me aside?Why must I wander around in grief,oppressed by my enemies?
+			</v>
+			<marker class="begin-verse" mid="v19043003" />
+			<v n="3">
+				Send out 
+				
+				 your light and your truth;let them guide me.Let them lead me to your holy mountain,to the place where you live.
+			</v>
+			<marker class="begin-verse" mid="v19043004" />
+			<v n="4">
+				There I 
+				
+				 will go to the altar of God,to God—the source of all my joy.I will praise you with my harp,O God, my God!
+			</v>
+			<marker class="begin-verse" mid="v19043005" />
+			<v n="5">
+				Why am 
+				
+				 I discouraged?Why is my heart so sad?I will put my hope in God!I will praise him again—my Savior and my God!
+			</v>
+			<marker class="begin-verse" mid="v19043006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

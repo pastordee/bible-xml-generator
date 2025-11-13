@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:51:26.680587</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:51:26.680595</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19082001" />
+		<chapter num="82">
+			<heading>A psalm of Asaph.</heading>
+			<begin-paragraph />
+			<v n="1">
+				God presides 
+				
+				 over heaven’s court;he pronounces judgment on the heavenly beings:
+			</v>
+			<marker class="begin-verse" mid="v19082002" />
+			<v n="2">
+				“How long 
+				
+				 will you hand down unjust decisionsby favoring the wicked? Interlude
+			</v>
+			<marker class="begin-verse" mid="v19082003" />
+			<v n="3">
+				“Give justice 
+				
+				 to the poor and the orphan;uphold the rights of the oppressed and the destitute.
+			</v>
+			<marker class="begin-verse" mid="v19082004" />
+			<v n="4">
+				Rescue the 
+				
+				 poor and helpless;deliver them from the grasp of evil people.
+			</v>
+			<marker class="begin-verse" mid="v19082005" />
+			<v n="5">
+				But these 
+				
+				 oppressors know nothing;they are so ignorant!They wander about in darkness,while the whole world is shaken to the core.
+			</v>
+			<marker class="begin-verse" mid="v19082006" />
+			<v n="6">
+				I say, 
+				
+				 ‘You are gods;you are all children of the Most High.
+			</v>
+			<marker class="begin-verse" mid="v19082007" />
+			<v n="7">
+				But you 
+				
+				 will die like mere mortalsand fall like every other ruler.’”
+			</v>
+			<marker class="begin-verse" mid="v19082008" />
+			<v n="8">
+				Rise up, 
+				
+				 O God, and judge the earth,for all the nations belong to you.
+			</v>
+			<marker class="begin-verse" mid="v19082009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

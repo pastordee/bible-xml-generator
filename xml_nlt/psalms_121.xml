@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:54:55.589067</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:54:55.589076</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19121001" />
+		<chapter num="121">
+			<heading>A song for pilgrims ascending to Jerusalem.</heading>
+			<begin-paragraph />
+			<v n="1">
+				I look 
+				
+				 up to the mountains—does my help come from there?
+			</v>
+			<marker class="begin-verse" mid="v19121002" />
+			<v n="2">
+				My help 
+				
+				 comes from the Lord,who made heaven and earth!
+			</v>
+			<marker class="begin-verse" mid="v19121003" />
+			<v n="3">
+				He will 
+				
+				 not let you stumble;the one who watches over you will not slumber.
+			</v>
+			<marker class="begin-verse" mid="v19121004" />
+			<v n="4">
+				Indeed, he 
+				
+				 who watches over Israelnever slumbers or sleeps.
+			</v>
+			<marker class="begin-verse" mid="v19121005" />
+			<v n="5">
+				The Lord 
+				
+				 himself watches over you!The Lord stands beside you as your protective shade.
+			</v>
+			<marker class="begin-verse" mid="v19121006" />
+			<v n="6">
+				The sun 
+				
+				 will not harm you by day,nor the moon at night.
+			</v>
+			<marker class="begin-verse" mid="v19121007" />
+			<v n="7">
+				The Lord 
+				
+				 keeps you from all harmand watches over your life.
+			</v>
+			<marker class="begin-verse" mid="v19121008" />
+			<v n="8">
+				The Lord 
+				
+				 keeps watch over you as you come and go,both now and forever.
+			</v>
+			<marker class="begin-verse" mid="v19121009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

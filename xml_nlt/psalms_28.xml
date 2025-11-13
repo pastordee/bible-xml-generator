@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:46:37.467102</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:46:37.467111</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19028001" />
+		<chapter num="28">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				I pray 
+				
+				 to you, O Lord, my rock.Do not turn a deaf ear to me.For if you are silent,I might as well give up and die.
+			</v>
+			<marker class="begin-verse" mid="v19028002" />
+			<v n="2">
+				Listen to 
+				
+				 my prayer for mercyas I cry out to you for help,as I lift my hands toward your holy sanctuary.
+			</v>
+			<marker class="begin-verse" mid="v19028003" />
+			<v n="3">
+				Do not 
+				
+				 drag me away with the wicked—with those who do evil—those who speak friendly words to their neighborswhile planning evil in their hearts.
+			</v>
+			<marker class="begin-verse" mid="v19028004" />
+			<v n="4">
+				Give them 
+				
+				 the punishment they so richly deserve!Measure it out in proportion to their wickedness.Pay them back for all their evil deeds!Give them a taste of what they have done to others.
+			</v>
+			<marker class="begin-verse" mid="v19028005" />
+			<v n="5">
+				They care 
+				
+				 nothing for what the Lord has doneor for what his hands have made.So he will tear them down,and they will never be rebuilt!
+			</v>
+			<marker class="begin-verse" mid="v19028006" />
+			<v n="6">
+				Praise the 
+				
+				 Lord!For he has heard my cry for mercy.
+			</v>
+			<marker class="begin-verse" mid="v19028007" />
+			<v n="7">
+				The Lord 
+				
+				 is my strength and shield.I trust him with all my heart.He helps me, and my heart is filled with joy.I burst out in songs of thanksgiving.
+			</v>
+			<marker class="begin-verse" mid="v19028008" />
+			<v n="8">
+				The Lord 
+				
+				 gives his people strength.He is a safe fortress for his anointed king.
+			</v>
+			<marker class="begin-verse" mid="v19028009" />
+			<v n="9">
+				Save your 
+				
+				 people!Bless Israel, your special possession.Lead them like a shepherd,and carry them in your arms forever.
+			</v>
+			<marker class="begin-verse" mid="v19028010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

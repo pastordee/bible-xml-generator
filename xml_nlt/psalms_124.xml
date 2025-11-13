@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:55:11.614231</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:55:11.614238</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19124001" />
+		<chapter num="124">
+			<heading>A song for pilgrims ascending to Jerusalem. A psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				What if 
+				
+				 the Lord had not been on our side?Let all Israel repeat:
+			</v>
+			<marker class="begin-verse" mid="v19124002" />
+			<v n="2">
+				What if 
+				
+				 the Lord had not been on our sidewhen people attacked us?
+			</v>
+			<marker class="begin-verse" mid="v19124003" />
+			<v n="3">
+				They would 
+				
+				 have swallowed us alivein their burning anger.
+			</v>
+			<marker class="begin-verse" mid="v19124004" />
+			<v n="4">
+				The waters 
+				
+				 would have engulfed us;a torrent would have overwhelmed us.
+			</v>
+			<marker class="begin-verse" mid="v19124005" />
+			<v n="5">
+				Yes, the 
+				
+				 raging waters of their furywould have overwhelmed our very lives.
+			</v>
+			<marker class="begin-verse" mid="v19124006" />
+			<v n="6">
+				Praise the 
+				
+				 Lord,who did not let their teeth tear us apart!
+			</v>
+			<marker class="begin-verse" mid="v19124007" />
+			<v n="7">
+				We escaped 
+				
+				 like a bird from a hunter’s trap.The trap is broken, and we are free!
+			</v>
+			<marker class="begin-verse" mid="v19124008" />
+			<v n="8">
+				Our help 
+				
+				 is from the Lord,who made heaven and earth.
+			</v>
+			<marker class="begin-verse" mid="v19124009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

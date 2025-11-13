@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:53:08.615850</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:53:08.615857</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19101001" />
+		<chapter num="101">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				I will 
+				
+				 sing of your love and justice, Lord.I will praise you with songs.
+			</v>
+			<marker class="begin-verse" mid="v19101002" />
+			<v n="2">
+				I will 
+				
+				 be careful to live a blameless life—when will you come to help me?I will lead a life of integrityin my own home.
+			</v>
+			<marker class="begin-verse" mid="v19101003" />
+			<v n="3">
+				I will 
+				
+				 refuse to look atanything vile and vulgar.I hate all who deal crookedly;I will have nothing to do with them.
+			</v>
+			<marker class="begin-verse" mid="v19101004" />
+			<v n="4">
+				I will 
+				
+				 reject perverse ideasand stay away from every evil.
+			</v>
+			<marker class="begin-verse" mid="v19101005" />
+			<v n="5">
+				I will 
+				
+				 not tolerate people who slander their neighbors.I will not endure conceit and pride.
+			</v>
+			<marker class="begin-verse" mid="v19101006" />
+			<v n="6">
+				I will 
+				
+				 search for faithful peopleto be my companions.Only those who are above reproachwill be allowed to serve me.
+			</v>
+			<marker class="begin-verse" mid="v19101007" />
+			<v n="7">
+				I will 
+				
+				 not allow deceivers to serve in my house,and liars will not stay in my presence.
+			</v>
+			<marker class="begin-verse" mid="v19101008" />
+			<v n="8">
+				My daily 
+				
+				 task will be to ferret out the wickedand free the city of the Lord from their grip.
+			</v>
+			<marker class="begin-verse" mid="v19101009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

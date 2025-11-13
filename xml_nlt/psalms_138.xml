@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:56:26.554261</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:56:26.554271</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19138001" />
+		<chapter num="138">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				I give 
+				
+				 you thanks, O Lord, with all my heart;I will sing your praises before the gods.
+			</v>
+			<marker class="begin-verse" mid="v19138002" />
+			<v n="2">
+				I bow 
+				
+				 before your holy Temple as I worship.I praise your name for your unfailing love and faithfulness;for your promises are backedby all the honor of your name.
+			</v>
+			<marker class="begin-verse" mid="v19138003" />
+			<v n="3">
+				As soon 
+				
+				 as I pray, you answer me;you encourage me by giving me strength.
+			</v>
+			<marker class="begin-verse" mid="v19138004" />
+			<v n="4">
+				Every king 
+				
+				 in all the earth will thank you, Lord,for all of them will hear your words.
+			</v>
+			<marker class="begin-verse" mid="v19138005" />
+			<v n="5">
+				Yes, they 
+				
+				 will sing about the Lord’s ways,for the glory of the Lord is very great.
+			</v>
+			<marker class="begin-verse" mid="v19138006" />
+			<v n="6">
+				Though the 
+				
+				 Lord is great, he cares for the humble,but he keeps his distance from the proud.
+			</v>
+			<marker class="begin-verse" mid="v19138007" />
+			<v n="7">
+				Though I 
+				
+				 am surrounded by troubles,you will protect me from the anger of my enemies.You reach out your hand,and the power of your right hand saves me.
+			</v>
+			<marker class="begin-verse" mid="v19138008" />
+			<v n="8">
+				The Lord 
+				
+				 will work out his plans for my life—for your faithful love, O Lord, endures forever.Don’t abandon me, for you made me.
+			</v>
+			<marker class="begin-verse" mid="v19138009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

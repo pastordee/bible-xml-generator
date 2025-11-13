@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:54:18.163593</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:54:18.163605</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19114001" />
+		<chapter num="114">
+			<begin-paragraph />
+			<v n="1">
+				When the 
+				
+				 Israelites escaped from Egypt—when the family of Jacob left that foreign land—
+			</v>
+			<marker class="begin-verse" mid="v19114002" />
+			<v n="2">
+				the land 
+				
+				 of Judah became God’s sanctuary,and Israel became his kingdom.
+			</v>
+			<marker class="begin-verse" mid="v19114003" />
+			<v n="3">
+				The Red 
+				
+				 Sea saw them coming and hurried out of their way!The water of the Jordan River turned away.
+			</v>
+			<marker class="begin-verse" mid="v19114004" />
+			<v n="4">
+				The mountains 
+				
+				 skipped like rams,the hills like lambs!
+			</v>
+			<marker class="begin-verse" mid="v19114005" />
+			<v n="5">
+				What’s wrong, 
+				
+				 Red Sea, that made you hurry out of their way?What happened, Jordan River, that you turned away?
+			</v>
+			<marker class="begin-verse" mid="v19114006" />
+			<v n="6">
+				Why, mountains, 
+				
+				 did you skip like rams?Why, hills, like lambs?
+			</v>
+			<marker class="begin-verse" mid="v19114007" />
+			<v n="7">
+				Tremble, O 
+				
+				 earth, at the presence of the Lord,at the presence of the God of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19114008" />
+			<v n="8">
+				He turned 
+				
+				 the rock into a pool of water;yes, a spring of water flowed from solid rock.
+			</v>
+			<marker class="begin-verse" mid="v19114009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

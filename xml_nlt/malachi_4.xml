@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T17:10:26.875606</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T17:10:26.875624</next_refresh_due>
+	</generation_info>
+	<book title="Malachi" num="39" testament="old" version="NLT" bookAbbr="mal">
+		<marker class="begin-verse" mid="v39004001" />
+		<chapter num="4">
+			<heading>The Coming Day of Judgment</heading>
+			<begin-paragraph />
+			<v n="1">
+				The Lord 
+				
+				 of Heaven’s Armies says, “The day of judgment is coming, burning like a furnace. On that day the arrogant and the wicked will be burned up like straw. They will be consumed—roots, branches, and all.
+			</v>
+			<marker class="begin-verse" mid="v39004002" />
+			<v n="2">
+				“But for 
+				
+				 you who fear my name, the Sun of Righteousness will rise with healing in his wings. And you will go free, leaping with joy like calves let out to pasture.
+			</v>
+			<marker class="begin-verse" mid="v39004003" />
+			<v n="3">
+				On the 
+				
+				 day when I act, you will tread upon the wicked as if they were dust under your feet,” says the Lord of Heaven’s Armies.
+			</v>
+			<marker class="begin-verse" mid="v39004004" />
+			<v n="4">
+				“Remember to 
+				
+				 obey the Law of Moses, my servant—all the decrees and regulations that I gave him on Mount Sinai for all Israel.
+			</v>
+			<marker class="begin-verse" mid="v39004005" />
+			<v n="5">
+				“Look, I 
+				
+				 am sending you the prophet Elijah before the great and dreadful day of the Lord arrives.
+			</v>
+			<marker class="begin-verse" mid="v39004006" />
+			<v n="6">
+				His preaching 
+				
+				 will turn the hearts of fathers to their children, and the hearts of children to their fathers. Otherwise I will come and strike the land with a curse.”
+			</v>
+			<marker class="begin-verse" mid="v39004007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

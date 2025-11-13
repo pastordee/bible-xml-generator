@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:56:47.952627</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:56:47.952635</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19142001" />
+		<chapter num="142">
+			<heading>A psalm of David, regarding his experience in the cave. A prayer.</heading>
+			<begin-paragraph />
+			<v n="1">
+				I cry 
+				
+				 out to the Lord;I plead for the Lord’s mercy.
+			</v>
+			<marker class="begin-verse" mid="v19142002" />
+			<v n="2">
+				I pour 
+				
+				 out my complaints before himand tell him all my troubles.
+			</v>
+			<marker class="begin-verse" mid="v19142003" />
+			<v n="3">
+				When I 
+				
+				 am overwhelmed,you alone know the way I should turn.Wherever I go,my enemies have set traps for me.
+			</v>
+			<marker class="begin-verse" mid="v19142004" />
+			<v n="4">
+				I look 
+				
+				 for someone to come and help me,but no one gives me a passing thought!No one will help me;no one cares a bit what happens to me.
+			</v>
+			<marker class="begin-verse" mid="v19142005" />
+			<v n="5">
+				Then I 
+				
+				 pray to you, O Lord.I say, “You are my place of refuge.You are all I really want in life.
+			</v>
+			<marker class="begin-verse" mid="v19142006" />
+			<v n="6">
+				Hear my 
+				
+				 cry,for I am very low.Rescue me from my persecutors,for they are too strong for me.
+			</v>
+			<marker class="begin-verse" mid="v19142007" />
+			<v n="7">
+				Bring me 
+				
+				 out of prisonso I can thank you.The godly will crowd around me,for you are good to me.”
+			</v>
+			<marker class="begin-verse" mid="v19142008" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

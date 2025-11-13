@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:55:22.410326</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:55:22.410340</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19126001" />
+		<chapter num="126">
+			<heading>A song for pilgrims ascending to Jerusalem.</heading>
+			<begin-paragraph />
+			<v n="1">
+				When the 
+				
+				 Lord brought back his exiles to Jerusalem,it was like a dream!
+			</v>
+			<marker class="begin-verse" mid="v19126002" />
+			<v n="2">
+				We were 
+				
+				 filled with laughter,and we sang for joy.And the other nations said,“What amazing things the Lord has done for them.”
+			</v>
+			<marker class="begin-verse" mid="v19126003" />
+			<v n="3">
+				Yes, the 
+				
+				 Lord has done amazing things for us!What joy!
+			</v>
+			<marker class="begin-verse" mid="v19126004" />
+			<v n="4">
+				Restore our 
+				
+				 fortunes, Lord,as streams renew the desert.
+			</v>
+			<marker class="begin-verse" mid="v19126005" />
+			<v n="5">
+				Those who 
+				
+				 plant in tearswill harvest with shouts of joy.
+			</v>
+			<marker class="begin-verse" mid="v19126006" />
+			<v n="6">
+				They weep 
+				
+				 as they go to plant their seed,but they sing as they return with the harvest.
+			</v>
+			<marker class="begin-verse" mid="v19126007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

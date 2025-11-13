@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:45:27.715343</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:45:27.715359</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19015001" />
+		<chapter num="15">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Who may 
+				
+				 worship in your sanctuary, Lord?Who may enter your presence on your holy hill?
+			</v>
+			<marker class="begin-verse" mid="v19015002" />
+			<v n="2">
+				Those who 
+				
+				 lead blameless lives and do what is right,speaking the truth from sincere hearts.
+			</v>
+			<marker class="begin-verse" mid="v19015003" />
+			<v n="3">
+				Those who 
+				
+				 refuse to gossipor harm their neighborsor speak evil of their friends.
+			</v>
+			<marker class="begin-verse" mid="v19015004" />
+			<v n="4">
+				Those who 
+				
+				 despise flagrant sinners,and honor the faithful followers of the Lord,and keep their promises even when it hurts.
+			</v>
+			<marker class="begin-verse" mid="v19015005" />
+			<v n="5">
+				Those who 
+				
+				 lend money without charging interest,and who cannot be bribed to lie about the innocent.Such people will stand firm forever.
+			</v>
+			<marker class="begin-verse" mid="v19015006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:48:19.837211</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:48:19.837220</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19047001" />
+		<chapter num="47">
+			<heading>For the choir director: A psalm of the descendants of Korah.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Come, everyone! 
+				
+				 Clap your hands!Shout to God with joyful praise!
+			</v>
+			<marker class="begin-verse" mid="v19047002" />
+			<v n="2">
+				For the 
+				
+				 Lord Most High is awesome.He is the great King of all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19047003" />
+			<v n="3">
+				He subdues 
+				
+				 the nations before us,putting our enemies beneath our feet.
+			</v>
+			<marker class="begin-verse" mid="v19047004" />
+			<v n="4">
+				He chose 
+				
+				 the Promised Land as our inheritance,the proud possession of Jacob’s descendants, whom he loves. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19047005" />
+			<v n="5">
+				God has 
+				
+				 ascended with a mighty shout.The Lord has ascended with trumpets blaring.
+			</v>
+			<marker class="begin-verse" mid="v19047006" />
+			<v n="6">
+				Sing praises 
+				
+				 to God, sing praises;sing praises to our King, sing praises!
+			</v>
+			<marker class="begin-verse" mid="v19047007" />
+			<v n="7">
+				For God 
+				
+				 is the King over all the earth.Praise him with a psalm.
+			</v>
+			<marker class="begin-verse" mid="v19047008" />
+			<v n="8">
+				God reigns 
+				
+				 above the nations,sitting on his holy throne.
+			</v>
+			<marker class="begin-verse" mid="v19047009" />
+			<v n="9">
+				The rulers 
+				
+				 of the world have gathered togetherwith the people of the God of Abraham.For all the kings of the earth belong to God.He is highly honored everywhere.
+			</v>
+			<marker class="begin-verse" mid="v19047010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:44:50.391636</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:44:50.391651</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19008001" />
+		<chapter num="8">
+			<heading>For the choir director: A psalm of David, to be accompanied by a stringed instrument.</heading>
+			<begin-paragraph />
+			<v n="1">
+				O Lord, 
+				
+				 our Lord, your majestic name fills the earth!Your glory is higher than the heavens.
+			</v>
+			<marker class="begin-verse" mid="v19008002" />
+			<v n="2">
+				You have 
+				
+				 taught children and infantsto tell of your strength,silencing your enemiesand all who oppose you.
+			</v>
+			<marker class="begin-verse" mid="v19008003" />
+			<v n="3">
+				When I 
+				
+				 look at the night sky and see the work of your fingers—the moon and the stars you set in place—
+			</v>
+			<marker class="begin-verse" mid="v19008004" />
+			<v n="4">
+				what are 
+				
+				 mere mortals that you should think about them,human beings that you should care for them?
+			</v>
+			<marker class="begin-verse" mid="v19008005" />
+			<v n="5">
+				Yet you 
+				
+				 made them only a little lower than Godand crowned them with glory and honor.
+			</v>
+			<marker class="begin-verse" mid="v19008006" />
+			<v n="6">
+				You gave 
+				
+				 them charge of everything you made,putting all things under their authority—
+			</v>
+			<marker class="begin-verse" mid="v19008007" />
+			<v n="7">
+				the flocks 
+				
+				 and the herdsand all the wild animals,
+			</v>
+			<marker class="begin-verse" mid="v19008008" />
+			<v n="8">
+				the birds 
+				
+				 in the sky, the fish in the sea,and everything that swims the ocean currents.
+			</v>
+			<marker class="begin-verse" mid="v19008009" />
+			<v n="9">
+				O Lord, 
+				
+				 our Lord, your majestic name fills the earth!
+			</v>
+			<marker class="begin-verse" mid="v19008010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

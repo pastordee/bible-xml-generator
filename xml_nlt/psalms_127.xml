@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:55:27.790076</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:55:27.790086</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19127001" />
+		<chapter num="127">
+			<heading>A song for pilgrims ascending to Jerusalem. A psalm of Solomon.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Unless the 
+				
+				 Lord builds a house,the work of the builders is wasted.Unless the Lord protects a city,guarding it with sentries will do no good.
+			</v>
+			<marker class="begin-verse" mid="v19127002" />
+			<v n="2">
+				It is 
+				
+				 useless for you to work so hardfrom early morning until late at night,anxiously working for food to eat;for God gives rest to his loved ones.
+			</v>
+			<marker class="begin-verse" mid="v19127003" />
+			<v n="3">
+				Children are 
+				
+				 a gift from the Lord;they are a reward from him.
+			</v>
+			<marker class="begin-verse" mid="v19127004" />
+			<v n="4">
+				Children born 
+				
+				 to a young manare like arrows in a warrior’s hands.
+			</v>
+			<marker class="begin-verse" mid="v19127005" />
+			<v n="5">
+				How joyful 
+				
+				 is the man whose quiver is full of them!He will not be put to shame when he confronts his accusers at the city gates.
+			</v>
+			<marker class="begin-verse" mid="v19127006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

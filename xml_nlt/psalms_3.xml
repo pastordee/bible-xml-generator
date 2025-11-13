@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:44:23.916919</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:44:23.916947</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19003001" />
+		<chapter num="3">
+			<heading>A psalm of David, regarding the time David fled from his son Absalom.</heading>
+			<begin-paragraph />
+			<v n="1">
+				O Lord, 
+				
+				 I have so many enemies;so many are against me.
+			</v>
+			<marker class="begin-verse" mid="v19003002" />
+			<v n="2">
+				So many 
+				
+				 are saying,“God will never rescue him!” Interlude
+			</v>
+			<marker class="begin-verse" mid="v19003003" />
+			<v n="3">
+				But you, 
+				
+				 O Lord, are a shield around me;you are my glory, the one who holds my head high.
+			</v>
+			<marker class="begin-verse" mid="v19003004" />
+			<v n="4">
+				I cried 
+				
+				 out to the Lord,and he answered me from his holy mountain. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19003005" />
+			<v n="5">
+				I lay 
+				
+				 down and slept,yet I woke up in safety,for the Lord was watching over me.
+			</v>
+			<marker class="begin-verse" mid="v19003006" />
+			<v n="6">
+				I am 
+				
+				 not afraid of ten thousand enemieswho surround me on every side.
+			</v>
+			<marker class="begin-verse" mid="v19003007" />
+			<v n="7">
+				Arise, O 
+				
+				 Lord!Rescue me, my God!Slap all my enemies in the face!Shatter the teeth of the wicked!
+			</v>
+			<marker class="begin-verse" mid="v19003008" />
+			<v n="8">
+				Victory comes 
+				
+				 from you, O Lord.May you bless your people. Interlude
+			</v>
+			<marker class="begin-verse" mid="v19003009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

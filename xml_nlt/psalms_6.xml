@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NLT are taken from New Living Translation. Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</copyright>
+	<metadata>
+		<name>New Living Translation</name>
+		<abbreviation>NLT</abbreviation>
+		<last_updated>2025-10-01T15:38:13.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T14:44:39.919285</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T14:44:39.919307</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19006001" />
+		<chapter num="6">
+			<heading>For the choir director: A psalm of David, to be accompanied by an eight-stringed instrument.</heading>
+			<begin-paragraph />
+			<v n="1">
+				O Lord, 
+				
+				 don’t rebuke me in your angeror discipline me in your rage.
+			</v>
+			<marker class="begin-verse" mid="v19006002" />
+			<v n="2">
+				Have compassion 
+				
+				 on me, Lord, for I am weak.Heal me, Lord, for my bones are in agony.
+			</v>
+			<marker class="begin-verse" mid="v19006003" />
+			<v n="3">
+				I am 
+				
+				 sick at heart.How long, O Lord, until you restore me?
+			</v>
+			<marker class="begin-verse" mid="v19006004" />
+			<v n="4">
+				Return, O 
+				
+				 Lord, and rescue me.Save me because of your unfailing love.
+			</v>
+			<marker class="begin-verse" mid="v19006005" />
+			<v n="5">
+				For the 
+				
+				 dead do not remember you.Who can praise you from the grave?
+			</v>
+			<marker class="begin-verse" mid="v19006006" />
+			<v n="6">
+				I am 
+				
+				 worn out from sobbing.All night I flood my bed with weeping,drenching it with my tears.
+			</v>
+			<marker class="begin-verse" mid="v19006007" />
+			<v n="7">
+				My vision 
+				
+				 is blurred by grief;my eyes are worn out because of all my enemies.
+			</v>
+			<marker class="begin-verse" mid="v19006008" />
+			<v n="8">
+				Go away, 
+				
+				 all you who do evil,for the Lord has heard my weeping.
+			</v>
+			<marker class="begin-verse" mid="v19006009" />
+			<v n="9">
+				The Lord 
+				
+				 has heard my plea;the Lord will answer my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19006010" />
+			<v n="10">
+				May all 
+				
+				 my enemies be disgraced and terrified.May they suddenly turn back in shame.
+			</v>
+			<marker class="begin-verse" mid="v19006011" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

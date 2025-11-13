@@ -61,15 +61,28 @@ def parse_verse_reference(ref_text):
     # Split by comma for multiple verse references
     verse_parts = [v.strip() for v in verses.split(',')]
     
-    verse_codes = []
+    # Detect if comma-separated verses are consecutive (should be a range)
+    verse_nums = []
     for part in verse_parts:
         if '-' in part:
-            # Range like "25-26"
-            start, end = part.split('-')
-            verse_codes.append(f"{start.strip()}-{end.strip()}")
+            # Already a range
+            verse_nums.append(part)
         else:
-            # Single verse
-            verse_codes.append(part.strip())
+            verse_nums.append(int(part))
+    
+    # Check if we have consecutive integers that should be a range
+    if len(verse_nums) == 2 and isinstance(verse_nums[0], int) and isinstance(verse_nums[1], int):
+        if verse_nums[1] == verse_nums[0] + 1:
+            # Consecutive verses like "25, 26" should become "25-26"
+            return chapter, [f"{verse_nums[0]}-{verse_nums[1]}"]
+    
+    # Otherwise return as-is
+    verse_codes = []
+    for part in verse_parts:
+        if '-' in part or isinstance(part, str):
+            verse_codes.append(str(part))
+        else:
+            verse_codes.append(str(part))
     
     return chapter, verse_codes
 
@@ -131,8 +144,8 @@ def parse_reference_text(text):
                     else:
                         ref_codes.append(create_verse_id(current_book_num, chapter, verse_code))
                 
-                # Add r parameter
-                ref_id = ' '.join(ref_codes) if len(ref_codes) > 1 else ref_codes[0]
+                # Add r parameter with proper range format
+                ref_id = ref_codes[0] if len(ref_codes) == 1 else ' '.join(ref_codes)
                 entries.append(('r', f"{ref_id} {current_book} {part}"))
                 
                 # Add separator if not last part

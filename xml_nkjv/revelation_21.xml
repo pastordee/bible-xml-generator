@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:15:21.153537</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:15:21.153562</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="NKJV" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66021001" />
+		<chapter num="21">
+			<heading>All Things Made New</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now I 
+				<crossref let="b" cid="c660211.1" />
+				 saw a new heaven and a new earth, for the first heaven and the first earth had passed away. Also there was no more sea.
+			<crossref let="a" cid="c66021001.2"> [Is. 65:17; 66:22; [2 Pet. 3:13] b [2 Pet.]</crossref></v>
+			<marker class="begin-verse" mid="v66021002" />
+			<v n="2">
+				Then I, 
+				<crossref let="c" cid="c660212.1" />
+				 John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.
+			<crossref let="c" cid="c66021002.2"> [Is. 52:1; [Gal.]</crossref></v>
+			<marker class="begin-verse" mid="v66021003" />
+			<v n="3">
+				And I 
+				<crossref let="d" cid="c660213.1" />
+				 heard a loud voice from heaven saying, “Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people. God Himself will be with them and be their God.
+			<crossref let="e" cid="c66021003.2"> [Lev. 26:11;]</crossref></v>
+			<marker class="begin-verse" mid="v66021004" />
+			<v n="4">
+				And God 
+				<crossref let="e" cid="c660214.1" />
+				 will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away.”
+			<crossref let="f" cid="c66021004.2"> [Is. 25:8 $; Rev.]</crossref></v>
+			<marker class="begin-verse" mid="v66021005" />
+			<v n="5">
+				Then He 
+				<crossref let="f" cid="c660215.1" />
+				 who sat on the throne said, “Behold, I make all things new.” And He said to me, “Write, for these words are true and faithful.”
+			<crossref let="i" cid="c66021005.2"> [Rev. 4:2, 9;]</crossref></v>
+			<marker class="begin-verse" mid="v66021006" />
+			<v n="6">
+				And He 
+				<crossref let="g" cid="c660216.1" />
+				 said to me, “It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts.
+			<crossref let="l" cid="c66021006.2"> [Rev. 10:6; 16:17]</crossref></v>
+			<marker class="begin-verse" mid="v66021007" />
+			<v n="7">
+				He who 
+				<crossref let="h" cid="c660217.1" />
+				 overcomes shall inherit all things, and I will be his God and he shall be My son.
+			<crossref let="o" cid="c66021007.2"> [Zech. 8:8 $;]</crossref></v>
+			<marker class="begin-verse" mid="v66021008" />
+			<v n="8">
+				But the 
+				<crossref let="i" cid="c660218.1" />
+				 cowardly, unbelieving, abominable, murderers, sexually immoral, sorcerers, idolaters, and all liars shall have their part in the lake which burns with fire and brimstone, which is the second death.”The New Jerusalem
+			<crossref let="p" cid="c66021008.2"> [1 Cor. 6:9; Gal.]</crossref></v>
+			<marker class="begin-verse" mid="v66021009" />
+			<v n="9">
+				Then one 
+				<crossref let="j" cid="c660219.1" />
+				 of the seven angels who had the seven bowls filled with the seven last plagues came to me and talked with me, saying, “Come, I will show you the bride, the Lamb’s wife.”
+			<crossref let="r" cid="c66021009.2"> [Rev. 15:1]</crossref><crossref let="s" cid="c66021009.3"> [Rev. 19:7; 21:2 6 NU, M omit to me 7 M woman,]</crossref></v>
+			<marker class="begin-verse" mid="v66021010" />
+			<v n="10">
+				And he 
+				<crossref let="k" cid="c6602110.1" />
+				 carried me away in the Spirit to a great and high mountain, and showed me the great city, the holy Jerusalem, descending out of heaven from God,
+			</v>
+			<marker class="begin-verse" mid="v66021011" />
+			<v n="11">
+				having the 
+				<crossref let="l" cid="c6602111.1" />
+				 glory of God. Her light was like a most precious stone, like a jasper stone, clear as crystal.
+			</v>
+			<marker class="begin-verse" mid="v66021012" />
+			<v n="12">
+				Also she 
+				<crossref let="m" cid="c6602112.1" />
+				 had a great and high wall with twelve gates, and twelve angels at the gates, and names written on them, which are the names of the twelve tribes of the children of Israel:
+			</v>
+			<marker class="begin-verse" mid="v66021013" />
+			<v n="13">
+				three gates 
+				<crossref let="n" cid="c6602113.1" />
+				 on the east, three gates on the north, three gates on the south, and three gates on the west.
+			</v>
+			<marker class="begin-verse" mid="v66021014" />
+			<v n="14">
+				Now the 
+				<crossref let="o" cid="c6602114.1" />
+				 wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
+			<crossref let="y" cid="c66021014.2"> [Matt. 16:18;]</crossref></v>
+			<marker class="begin-verse" mid="v66021015" />
+			<v n="15">
+				And he 
+				<crossref let="p" cid="c6602115.1" />
+				 who talked with me had a gold reed to measure the city, its gates, and its wall.
+			<crossref let="z" cid="c66021015.2"> [Ezek. 40:3;]</crossref></v>
+			<marker class="begin-verse" mid="v66021016" />
+			<v n="16">
+				The city 
+				<crossref let="q" cid="c6602116.1" />
+				 is laid out as a square; its length is as great as its breadth. And he measured the city with the reed: twelve thousand furlongs. Its length, breadth, and height are equal.
+			</v>
+			<marker class="begin-verse" mid="v66021017" />
+			<v n="17">
+				Then he 
+				<crossref let="r" cid="c6602117.1" />
+				 measured its wall: one hundred and forty-four cubits, according to the measure of a man, that is, of an angel.
+			</v>
+			<marker class="begin-verse" mid="v66021018" />
+			<v n="18">
+				The construction 
+				<crossref let="s" cid="c6602118.1" />
+				 of its wall was of jasper; and the city was pure gold, like clear glass.
+			</v>
+			<marker class="begin-verse" mid="v66021019" />
+			<v n="19">
+				The foundations 
+				<crossref let="t" cid="c6602119.1" />
+				 of the wall of the city were adorned with all kinds of precious stones: the first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,
+			<crossref let="a" cid="c66021019.2"> [Ex. 28:17-20;]</crossref></v>
+			<marker class="begin-verse" mid="v66021020" />
+			<v n="20">
+				the fifth 
+				<crossref let="u" cid="c6602120.1" />
+				 sardonyx, the sixth sardius, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, and the twelfth amethyst.
+			</v>
+			<marker class="begin-verse" mid="v66021021" />
+			<v n="21">
+				The twelve 
+				<crossref let="v" cid="c6602121.1" />
+				 gates were twelve pearls: each individual gate was of one pearl. And the street of the city was pure gold, like transparent glass.The Glory of the New Jerusalem
+			<crossref let="b" cid="c66021021.2"> [Matt. 13:45,]</crossref></v>
+			<marker class="begin-verse" mid="v66021022" />
+			<v n="22">
+				But I 
+				<crossref let="w" cid="c6602122.1" />
+				 saw no temple in it, for the Lord God Almighty and the Lamb are its temple.
+			<crossref let="d" cid="c66021022.2"> [Matt. 24:2;]</crossref></v>
+			<marker class="begin-verse" mid="v66021023" />
+			<v n="23">
+				The city 
+				<crossref let="x" cid="c6602123.1" />
+				 had no need of the sun or of the moon to shine in it, for the glory of God illuminated it. The Lamb is its light.
+			<crossref let="e" cid="c66021023.2"> [Is. 24:23;]</crossref></v>
+			<marker class="begin-verse" mid="v66021024" />
+			<v n="24">
+				And the 
+				<crossref let="y" cid="c6602124.1" />
+				 nations of those who are saved shall walk in its light, and the kings of the earth bring their glory and honor into it.
+			<crossref let="f" cid="c66021024.2"> [Is. 60:3, 5;]</crossref></v>
+			<marker class="begin-verse" mid="v66021025" />
+			<v n="25">
+				Its gates 
+				<crossref let="z" cid="c6602125.1" />
+				 shall not be shut at all by day (there shall be no night there).
+			<crossref let="g" cid="c66021025.2"> [Is. 60:11 h Is.]</crossref></v>
+			<marker class="begin-verse" mid="v66021026" />
+			<v n="26">
+				And they 
+				<crossref let="a" cid="c6602126.1" />
+				 shall bring the glory and the honor of the nations into it.
+			<crossref let="i" cid="c66021026.2"> [Rev. 21:24 7 M]</crossref></v>
+			<marker class="begin-verse" mid="v66021027" />
+			<v n="27">
+				But there 
+				<crossref let="b" cid="c6602127.1" />
+				 shall by no means enter it anything that defiles, or causes an abomination or a lie, but only those who are written in the Lamb’s Book of Life.
+			<crossref let="j" cid="c66021027.2"> [Is. 35:8; Joel]</crossref></v>
+			<marker class="begin-verse" mid="v66021028" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:04:46.636425</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:04:46.636437</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" version="NKJV" bookAbbr="1co">
+		<marker class="begin-verse" mid="v46008001" />
+		<chapter num="8">
+			<heading>Be Sensitive to Conscience</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now concerning 
+				<crossref let="b" cid="c460081.1" />
+				 things offered to idols: We know that we all have knowledge. Knowledge puffs up, but love edifies.
+			<crossref let="a" cid="c46008001.2"> [Rom. 2:16;]</crossref></v>
+			<marker class="begin-verse" mid="v46008002" />
+			<v n="2">
+				And if 
+				<crossref let="c" cid="c460082.1" />
+				 anyone thinks that he knows anything, he knows nothing yet as he ought to know.
+			<crossref let="c" cid="c46008002.2"> [Rom. 1:16;]</crossref></v>
+			<marker class="begin-verse" mid="v46008003" />
+			<v n="3">
+				But if 
+				<crossref let="d" cid="c460083.1" />
+				 anyone loves God, this one is known by Him.
+			<crossref let="e" cid="c46008003.2"> [1 Cor. 11:2,]</crossref></v>
+			<marker class="begin-verse" mid="v46008004" />
+			<v n="4">
+				Therefore concerning 
+				<crossref let="e" cid="c460084.1" />
+				 the eating of things offered to idols, we know that an idol is nothing in the world, and that there is no other God but one.
+			<crossref let="h" cid="c46008004.2"> [Gen. 1:9-13; 2 Kin. 20:8; Ps. 16:9-11; 68:18; 110:1; Is. 53:10;]</crossref></v>
+			<marker class="begin-verse" mid="v46008005" />
+			<v n="5">
+				For even 
+				<crossref let="f" cid="c460085.1" />
+				 if there are so-called gods, whether in heaven or on earth (as there are many gods and many lords),
+			</v>
+			<marker class="begin-verse" mid="v46008006" />
+			<v n="6">
+				yet for 
+				<crossref let="g" cid="c460086.1" />
+				 us there is one God, the Father, of whom are all things, and we for Him; and one Lord Jesus Christ, through whom are all things, and through whom we live.
+			</v>
+			<marker class="begin-verse" mid="v46008007" />
+			<v n="7">
+				However, there 
+				<crossref let="h" cid="c460087.1" />
+				 is not in everyone that knowledge; for some, with consciousness of the idol, until now eat it as a thing offered to an idol; and their conscience, being weak, is defiled.
+			<crossref let="k" cid="c46008007.2"> [Luke 24:50;]</crossref></v>
+			<marker class="begin-verse" mid="v46008008" />
+			<v n="8">
+				But food 
+				<crossref let="i" cid="c460088.1" />
+				 does not commend us to God; for neither if we eat are we the better, nor if we do not eat are we the worse.
+			<crossref let="l" cid="c46008008.2"> [[Acts 9:3-8;]</crossref></v>
+			<marker class="begin-verse" mid="v46008009" />
+			<v n="9">
+				But beware 
+				<crossref let="j" cid="c460089.1" />
+				 lest somehow this liberty of yours become a stumbling block to those who are weak.
+			<crossref let="m" cid="c46008009.2"> [2 Cor. 12:11;]</crossref></v>
+			<marker class="begin-verse" mid="v46008010" />
+			<v n="10">
+				For if 
+				<crossref let="k" cid="c4600810.1" />
+				 anyone sees you who have knowledge eating in an idol’s temple, will not the conscience of him who is weak be emboldened to eat those things offered to idols?
+			<crossref let="o" cid="c46008010.2"> [Eph. 3:7,]</crossref></v>
+			<marker class="begin-verse" mid="v46008011" />
+			<v n="11">
+				And because 
+				<crossref let="l" cid="c4600811.1" />
+				 of your knowledge shall the weak brother perish, for whom Christ died?
+			</v>
+			<marker class="begin-verse" mid="v46008012" />
+			<v n="12">
+				But when 
+				<crossref let="m" cid="c4600812.1" />
+				 you thus sin against the brethren, and wound their weak conscience, you sin against Christ.
+			</v>
+			<marker class="begin-verse" mid="v46008013" />
+			<v n="13">
+				Therefore, if 
+				<crossref let="n" cid="c4600813.1" />
+				 food makes my brother stumble, I will never again eat meat, lest I make my brother stumble.
+			<crossref let="q" cid="c46008013.2"> [[1 Thess.]</crossref></v>
+			<marker class="begin-verse" mid="v46008014" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

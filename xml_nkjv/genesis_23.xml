@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:31:14.486268</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:31:14.486308</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="NKJV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01023001" />
+		<chapter num="23">
+			<heading>Sarah’s Death and Burial</heading>
+			<begin-paragraph />
+			<v n="1">
+				Sarah lived 
+				<crossref let="b" cid="c010231.1" />
+				 one hundred and twenty-seven years; these were the years of the life of Sarah.
+			</v>
+			<marker class="begin-verse" mid="v01023002" />
+			<v n="2">
+				So Sarah 
+				<crossref let="c" cid="c010232.1" />
+				 died in Kirjath Arba (that is, Hebron) in the land of Canaan, and Abraham came to mourn for Sarah and to weep for her.
+			<crossref let="a" cid="c01023002.2"> [Gen. 35:27; Josh. 14:15; 15:13; 21:11 b Gen.]</crossref></v>
+			<marker class="begin-verse" mid="v01023003" />
+			<v n="3">
+				Then Abraham 
+				<crossref let="d" cid="c010233.1" />
+				 stood up from before his dead, and spoke to the sons of Heth, saying,
+			<crossref let="c" cid="c01023003.2"> [Gen. 10:15; 15:20; 2 Kin. 7:6]</crossref></v>
+			<marker class="begin-verse" mid="v01023004" />
+			<v n="4">
+				“I am 
+				<crossref let="e" cid="c010234.1" />
+				 a foreigner and a visitor among you. Give me property for a burial place among you, that I may bury my dead out of my sight.”
+			</v>
+			<marker class="begin-verse" mid="v01023005" />
+			<v n="5">
+				And the 
+				<crossref let="f" cid="c010235.1" />
+				 sons of Heth answered Abraham, saying to him,
+			</v>
+			<marker class="begin-verse" mid="v01023006" />
+			<v n="6">
+				“Hear us, 
+				<crossref let="g" cid="c010236.1" />
+				 my lord: You are a mighty prince among us; bury your dead in the choicest of our burial places. None of us will withhold from you his burial place, that you may bury your dead.”
+			</v>
+			<marker class="begin-verse" mid="v01023007" />
+			<v n="7">
+				Then Abraham 
+				<crossref let="h" cid="c010237.1" />
+				 stood up and bowed himself to the people of the land, the sons of Heth.
+			</v>
+			<marker class="begin-verse" mid="v01023008" />
+			<v n="8">
+				And he 
+				<crossref let="i" cid="c010238.1" />
+				 spoke with them, saying, “If it is your wish that I bury my dead out of my sight, hear me, and meet with Ephron the son of Zohar for me,
+			</v>
+			<marker class="begin-verse" mid="v01023009" />
+			<v n="9">
+				that he 
+				<crossref let="j" cid="c010239.1" />
+				 may give me the cave of Machpelah which he has, which is at the end of his field. Let him give it to me at the full price, as property for a burial place among you.”
+			<crossref let="g" cid="c01023009.2"> [Gen. 25:9]</crossref></v>
+			<marker class="begin-verse" mid="v01023010" />
+			<v n="10">
+				Now Ephron 
+				<crossref let="k" cid="c0102310.1" />
+				 dwelt among the sons of Heth; and Ephron the Hittite answered Abraham in the presence of the sons of Heth, all who entered at the gate of his city, saying,
+			<crossref let="h" cid="c01023010.2"> [Gen. 23:18; 34:20, 24; Ruth]</crossref></v>
+			<marker class="begin-verse" mid="v01023011" />
+			<v n="11">
+				“No, my 
+				<crossref let="l" cid="c0102311.1" />
+				 lord, hear me: I give you the field and the cave that is in it; I give it to you in the presence of the sons of my people. I give it to you. Bury your dead!”
+			<crossref let="i" cid="c01023011.2"> [2 Sam.]</crossref></v>
+			<marker class="begin-verse" mid="v01023012" />
+			<v n="12">
+				Then Abraham 
+				<crossref let="m" cid="c0102312.1" />
+				 bowed himself down before the people of the land;
+			</v>
+			<marker class="begin-verse" mid="v01023013" />
+			<v n="13">
+				and he 
+				<crossref let="n" cid="c0102313.1" />
+				 spoke to Ephron in the hearing of the people of the land, saying, “If you will give it, please hear me. I will give you money for the field; take it from me and I will bury my dead there.”
+			</v>
+			<marker class="begin-verse" mid="v01023014" />
+			<v n="14">
+				And Ephron 
+				<crossref let="o" cid="c0102314.1" />
+				 answered Abraham, saying to him,
+			</v>
+			<marker class="begin-verse" mid="v01023015" />
+			<v n="15">
+				“My lord, 
+				<crossref let="p" cid="c0102315.1" />
+				 listen to me; the land is worth four hundred shekels of silver. What is that between you and me? So bury your dead.”
+			<crossref let="j" cid="c01023015.2"> [Ex. 30:13; Ezek. 45:12]</crossref></v>
+			<marker class="begin-verse" mid="v01023016" />
+			<v n="16">
+				And Abraham 
+				<crossref let="q" cid="c0102316.1" />
+				 listened to Ephron; and Abraham weighed out the silver for Ephron which he had named in the hearing of the sons of Heth, four hundred shekels of silver, currency of the merchants.
+			<crossref let="k" cid="c01023016.2"> [2 Sam. 14:26; Jer. 32:9, 10; Zech.]</crossref></v>
+			<marker class="begin-verse" mid="v01023017" />
+			<v n="17">
+				So the 
+				<crossref let="r" cid="c0102317.1" />
+				 field of Ephron which was in Machpelah, which was before Mamre, the field and the cave which was in it, and all the trees that were in the field, which were within all the surrounding borders, were deeded
+			<crossref let="l" cid="c01023017.2"> [Gen. 25:9; Acts 7:16]</crossref></v>
+			<marker class="begin-verse" mid="v01023018" />
+			<v n="18">
+				to Abraham 
+				<crossref let="s" cid="c0102318.1" />
+				 as a possession in the presence of the sons of Heth, before all who went in at the gate of his city.
+			</v>
+			<marker class="begin-verse" mid="v01023019" />
+			<v n="19">
+				And after 
+				<crossref let="t" cid="c0102319.1" />
+				 this, Abraham buried Sarah his wife in the cave of the field of Machpelah, before Mamre (that is, Hebron) in the land of Canaan.
+			</v>
+			<marker class="begin-verse" mid="v01023020" />
+			<v n="20">
+				So the 
+				<crossref let="u" cid="c0102320.1" />
+				 field and the cave that is in it were deeded to Abraham by the sons of Heth as property for a burial place.
+			<crossref let="m" cid="c01023020.2"> [Jer. 32:10, 11]</crossref></v>
+			<marker class="begin-verse" mid="v01023021" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

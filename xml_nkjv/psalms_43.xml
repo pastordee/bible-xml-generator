@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:15:55.784702</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:15:55.784729</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19043001" />
+		<chapter num="43">
+			<heading>Prayer to God in Time of Trouble</heading>
+			<begin-paragraph />
+			<v n="1">
+				Vindicate me, 
+				<crossref let="b" cid="c190431.1" />
+				 O God,And plead my cause against an ungodly nation;Oh, deliver me from the deceitful and unjust man!
+			<crossref let="a" cid="c19043001.2"> [Is. 26:9]</crossref></v>
+			<marker class="begin-verse" mid="v19043002" />
+			<v n="2">
+				For You 
+				<crossref let="c" cid="c190432.1" />
+				 are the God of my strength;Why do You cast me off?Why do I go mourning because of the oppression of the enemy?
+			</v>
+			<marker class="begin-verse" mid="v19043003" />
+			<v n="3">
+				Oh, send 
+				<crossref let="d" cid="c190433.1" />
+				 out Your light and Your truth!Let them lead me;Let them bring me to Your holy hillAnd to Your tabernacle.
+			<crossref let="b" cid="c19043003.2"> [Song 5:7; Is.]</crossref></v>
+			<marker class="begin-verse" mid="v19043004" />
+			<v n="4">
+				Then I 
+				<crossref let="e" cid="c190434.1" />
+				 will go to the altar of God,To God my exceeding joy;And on the harp I will praise You,O God, my God.
+			<crossref let="c" cid="c19043004.2"> [Song 8:2]</crossref></v>
+			<marker class="begin-verse" mid="v19043005" />
+			<v n="5">
+				Why are 
+				<crossref let="f" cid="c190435.1" />
+				 you cast down, O my soul?And why are you disquieted within me?Hope in God;For I shall yet praise Him,The help of my countenance and my God.
+			<crossref let="d" cid="c19043005.2"> [Song 2:7; 8:4]</crossref></v>
+			<marker class="begin-verse" mid="v19043006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

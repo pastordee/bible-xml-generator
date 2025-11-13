@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:24:36.113194</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:24:36.113206</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19140001" />
+		<chapter num="140">
+			<heading>Prayer for Deliverance from Evil MenTo the Chief Musician. A Psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Deliver me, 
+				<crossref let="b" cid="c191401.1" />
+				 O Lord, from evil men;Preserve me from violent men,
+			</v>
+			<marker class="begin-verse" mid="v19140002" />
+			<v n="2">
+				Who plan 
+				<crossref let="c" cid="c191402.1" />
+				 evil things in their hearts;They continually gather together for war.
+			<crossref let="a" cid="c19140002.2"> [2 Chr. 24:20, 21; Jer. 19:14 b Deut. 4:2; Jer. 43:1; Ezek. 3:10; Matt. 28:20; [Rev. 22:19] c Acts]</crossref></v>
+			<marker class="begin-verse" mid="v19140003" />
+			<v n="3">
+				They sharpen 
+				<crossref let="d" cid="c191403.1" />
+				 their tongues like a serpent;The poison of asps is under their lips.Selah
+			<crossref let="d" cid="c19140003.2"> [Is. 1:16-19; Jer. 36:3-7 e Jer. 18:8; Jon. 3:9]</crossref></v>
+			<marker class="begin-verse" mid="v19140004" />
+			<v n="4">
+				Keep me, 
+				<crossref let="e" cid="c191404.1" />
+				 O Lord, from the hands of the wicked;Preserve me from violent men,Who have purposed to make my steps stumble.
+			<crossref let="f" cid="c19140004.2"> [Lev. 26:14, 15; Deut. 28:15; 1 Kin. 9:6; Is. 1:20; Jer.]</crossref></v>
+			<marker class="begin-verse" mid="v19140005" />
+			<v n="5">
+				The proud 
+				<crossref let="f" cid="c191405.1" />
+				 have hidden a snare for me, and cords;They have spread a net by the wayside;They have set traps for me.Selah
+			<crossref let="g" cid="c19140005.2"> [Jer. 25:4; 29:19]</crossref></v>
+			<marker class="begin-verse" mid="v19140006" />
+			<v n="6">
+				I said 
+				<crossref let="g" cid="c191406.1" />
+				 to the Lord: “You are my God;Hear the voice of my supplications, O Lord.
+			<crossref let="h" cid="c19140006.2"> [1 Sam. 4:10, 11; Ps. 78:60; Jer. i 2 Kin. 22:19; Is. 65:15; Jer. 24:9]</crossref></v>
+			<marker class="begin-verse" mid="v19140007" />
+			<v n="7">
+				O GOD 
+				<crossref let="h" cid="c191407.1" />
+				 the Lord, the strength of my salvation,You have covered my head in the day of battle.
+			</v>
+			<marker class="begin-verse" mid="v19140008" />
+			<v n="8">
+				Do not 
+				<crossref let="i" cid="c191408.1" />
+				 grant, O Lord, the desires of the wicked;Do not further his wicked scheme,Lest they be exalted.Selah
+			</v>
+			<marker class="begin-verse" mid="v19140009" />
+			<v n="9">
+				“As for 
+				<crossref let="j" cid="c191409.1" />
+				 the head of those who surround me,Let the evil of their lips cover them;
+			<crossref let="j" cid="c19140009.2"> [Jer. 9:11]</crossref></v>
+			<marker class="begin-verse" mid="v19140010" />
+			<v n="10">
+				Let burning 
+				<crossref let="k" cid="c1914010.1" />
+				 coals fall upon them;Let them be cast into the fire,Into deep pits, that they rise not up again.
+			</v>
+			<marker class="begin-verse" mid="v19140011" />
+			<v n="11">
+				Let not 
+				<crossref let="l" cid="c1914011.1" />
+				 a slanderer be established in the earth;Let evil hunt the violent man to overthrow him.”
+			</v>
+			<marker class="begin-verse" mid="v19140012" />
+			<v n="12">
+				I know 
+				<crossref let="m" cid="c1914012.1" />
+				 that the Lord will maintainThe cause of the afflicted,And justice for the poor.
+			</v>
+			<marker class="begin-verse" mid="v19140013" />
+			<v n="13">
+				Surely the 
+				<crossref let="n" cid="c1914013.1" />
+				 righteous shall give thanks to Your name;The upright shall dwell in Your presence.
+			<crossref let="l" cid="c19140013.2"> [Jer. 7:3; [Joel 2:13]; Jon. 3:8]</crossref></v>
+			<marker class="begin-verse" mid="v19140014" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

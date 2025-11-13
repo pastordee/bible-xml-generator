@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:47:22.009680</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:47:22.009686</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" version="NKJV" bookAbbr="hos">
+		<marker class="begin-verse" mid="v28011001" />
+		<chapter num="11">
+			<heading>God’s Continuing Love for Israel</heading>
+			<begin-paragraph />
+			<v n="1">
+				“When Israel 
+				<crossref let="b" cid="c280111.1" />
+				 was a child, I loved him,And out of Egypt I called My son.
+			<crossref let="a" cid="c28011001.2"> [Gal. 2:12 b John 7:22; Acts 15:5; Gal. 5:2; Phil. 3:2; [Col. 2:8, 11, 16]]</crossref></v>
+			<marker class="begin-verse" mid="v28011002" />
+			<v n="2">
+				As they 
+				<crossref let="c" cid="c280112.1" />
+				 called them,So they went from them;They sacrificed to the Baals,And burned incense to carved images.
+			<crossref let="c" cid="c28011002.2"> [Gal. 2:1]</crossref></v>
+			<marker class="begin-verse" mid="v28011003" />
+			<v n="3">
+				“Itaught Ephraim 
+				<crossref let="d" cid="c280113.1" />
+				 to walk,Taking them by their arms;But they did not know that I healed them.
+			<crossref let="e" cid="c28011003.2"> [Acts 14:27;]</crossref><crossref let="d" cid="c28011003.3"> [Acts 20:38; 21:5; Rom. 15:24; 1 Cor. 16:6, 11; 2 Cor. 1:16; Titus 3:13; 3 John]</crossref></v>
+			<marker class="begin-verse" mid="v28011004" />
+			<v n="4">
+				I drew 
+				<crossref let="e" cid="c280114.1" />
+				 them with gentle cords,With bands of love,And I was to them as those who take the yoke from their neck.I stooped and fed them.
+			</v>
+			<marker class="begin-verse" mid="v28011005" />
+			<v n="5">
+				“He shall 
+				<crossref let="f" cid="c280115.1" />
+				 not return to the land of Egypt;But the Assyrian shall be his king,Because they refused to repent.
+			</v>
+			<marker class="begin-verse" mid="v28011006" />
+			<v n="6">
+				And the 
+				<crossref let="g" cid="c280116.1" />
+				 sword shall slash in his cities,Devour his districts,And consume them,Because of their own counsels.
+			</v>
+			<marker class="begin-verse" mid="v28011007" />
+			<v n="7">
+				My people 
+				<crossref let="h" cid="c280117.1" />
+				 are bent on backsliding from Me.Though they call to the Most High,None at all exalt Him.
+			<crossref let="f" cid="c28011007.2"> [Acts 10:20]</crossref></v>
+			<marker class="begin-verse" mid="v28011008" />
+			<v n="8">
+				“Howcan I 
+				<crossref let="i" cid="c280118.1" />
+				 give you up, Ephraim?How can I hand you over, Israel?How can I make you like Admah?How can I set you like Zeboiim?My heart churns within Me;My sympathy is stirred.
+			<crossref let="g" cid="c28011008.2"> [1 Chr. 28:9; Acts 1:24 h Acts]</crossref></v>
+			<marker class="begin-verse" mid="v28011009" />
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c280119.1" />
+				 not execute the fierceness of My anger;I will not again destroy Ephraim.For I am God, and not man,The Holy One in your midst;And I will not come with terror.
+			<crossref let="j" cid="c28011009.2"> [Acts 10:15,]</crossref><crossref let="i" cid="c28011009.3"> [Rom. 10:12]</crossref></v>
+			<marker class="begin-verse" mid="v28011010" />
+			<v n="10">
+				“They shall 
+				<crossref let="k" cid="c2801110.1" />
+				 walk after the Lord.He will roar like a lion.When He roars,Then His sons shall come trembling from the west;
+			<crossref let="k" cid="c28011010.2"> [Matt. 23:4; Gal. 5:1]</crossref></v>
+			<marker class="begin-verse" mid="v28011011" />
+			<v n="11">
+				They shall 
+				<crossref let="l" cid="c2801111.1" />
+				 come trembling like a bird from Egypt,Like a dove from the land of Assyria.And I will let them dwell in their houses,”Says the Lord.God’s Charge Against Ephraim
+			<crossref let="l" cid="c28011011.2"> [Rom. 3:4; 5:15; 2 Cor. 13:14; [Eph. 2:5-8; Titus]</crossref></v>
+			<marker class="begin-verse" mid="v28011012" />
+			<v n="12">
+				“Ephraim has 
+				<crossref let="m" cid="c2801112.1" />
+				 encircled Me with lies,And the house of Israel with deceit;But Judah still walks with God,Even with the Holy One who is faithful.
+			<crossref let="m" cid="c28011012.2"> [Acts 14:27;]</crossref></v>
+			<marker class="begin-verse" mid="v28011013" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

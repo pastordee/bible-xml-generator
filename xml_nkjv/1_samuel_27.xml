@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:52:49.043749</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:52:49.043790</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" version="NKJV" bookAbbr="1sa">
+		<marker class="begin-verse" mid="v09027001" />
+		<chapter num="27">
+			<heading>David Allied with the Philistines</heading>
+			<begin-paragraph />
+			<v n="1">
+				And David 
+				<crossref let="b" cid="c090271.1" />
+				 said in his heart, “Now I shall perish someday by the hand of Saul. There is nothing better for me than that I should speedily escape to the land of the Philistines; and Saul will despair of me, to seek me anymore in any part of Israel. So I shall escape out of his hand.”
+			<crossref let="a" cid="c09027001.2"> [1 Sam. 27:6 b]</crossref></v>
+			<marker class="begin-verse" mid="v09027002" />
+			<v n="2">
+				Then David 
+				<crossref let="c" cid="c090272.1" />
+				 arose and went over with the six hundred men who were with him to Achish the son of Maoch, king of Gath.
+			<crossref let="c" cid="c09027002.2"> [1 Sam. 27:2,]</crossref></v>
+			<marker class="begin-verse" mid="v09027003" />
+			<v n="3">
+				So David 
+				<crossref let="d" cid="c090273.1" />
+				 dwelt with Achish at Gath, he and his men, each man with his household, and David with his two wives, Ahinoam the Jezreelitess, and Abigail the Carmelitess, Nabal’s widow.
+			</v>
+			<marker class="begin-verse" mid="v09027004" />
+			<v n="4">
+				And it 
+				<crossref let="e" cid="c090274.1" />
+				 was told Saul that David had fled to Gath; so he sought him no more.
+			</v>
+			<marker class="begin-verse" mid="v09027005" />
+			<v n="5">
+				Then David 
+				<crossref let="f" cid="c090275.1" />
+				 said to Achish, “If I have now found favor in your eyes, let them give me a place in some town in the country, that I may dwell there. For why should your servant dwell in the royal city with you?”
+			<crossref let="d" cid="c09027005.2"> [1 Sam. 25:42,]</crossref></v>
+			<marker class="begin-verse" mid="v09027006" />
+			<v n="6">
+				So Achish 
+				<crossref let="g" cid="c090276.1" />
+				 gave him Ziklag that day. Therefore Ziklag has belonged to the kings of Judah to this day.
+			<crossref let="e" cid="c09027006.2"> [Ex. 17:4; John f]</crossref></v>
+			<marker class="begin-verse" mid="v09027007" />
+			<v n="7">
+				Now the 
+				<crossref let="h" cid="c090277.1" />
+				 time that David dwelt in the country of the Philistines was one full year and four months.
+			<crossref let="g" cid="c09027007.2"> [1 Sam. 23:2-9 h]</crossref></v>
+			<marker class="begin-verse" mid="v09027008" />
+			<v n="8">
+				And David 
+				<crossref let="i" cid="c090278.1" />
+				 and his men went up and raided the Geshurites, the Girzites, and the Amalekites. For those nations were the inhabitants of the land from of old, as you go to Shur, even as far as the land of Egypt.
+			<crossref let="i" cid="c09027008.2"> [1 Sam. 23:2, 4; Ps. 50:15; 91:15]</crossref></v>
+			<marker class="begin-verse" mid="v09027009" />
+			<v n="9">
+				Whenever David 
+				<crossref let="j" cid="c090279.1" />
+				 attacked the land, he left neither man nor woman alive, but took away the sheep, the oxen, the donkeys, the camels, and the apparel, and returned and came to Achish.
+			</v>
+			<marker class="begin-verse" mid="v09027010" />
+			<v n="10">
+				Then Achish 
+				<crossref let="k" cid="c0902710.1" />
+				 would say, “Where have you made a raid today?” And David would say, “Against the southern area of Judah, or against the southern area of the Jerahmeelites, or against the southern area of the Kenites.”
+			<crossref let="j" cid="c09027010.2"> [1 Sam. 30:9,]</crossref></v>
+			<marker class="begin-verse" mid="v09027011" />
+			<v n="11">
+				David would 
+				<crossref let="l" cid="c0902711.1" />
+				 save neither man nor woman alive, to bring news to Gath, saying, “Lest they should inform on us, saying, ‘Thus David did.’ ” And thus was his behavior all the time he dwelt in the country of the Philistines.
+			</v>
+			<marker class="begin-verse" mid="v09027012" />
+			<v n="12">
+				So Achish 
+				<crossref let="m" cid="c0902712.1" />
+				 believed David, saying, “He has made his people Israel utterly abhor him; therefore he will be my servant forever.”
+			<crossref let="k" cid="c09027012.2"> [1 Sam. 25:18; 1 Kin. 20:7 l Judg. 15:19;]</crossref></v>
+			<marker class="begin-verse" mid="v09027013" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

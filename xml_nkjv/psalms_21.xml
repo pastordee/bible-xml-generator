@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:13:57.710289</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:13:57.710333</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19021001" />
+		<chapter num="21">
+			<heading>Joy in the Salvation of the LordTo the Chief Musician. A Psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				The king 
+				<crossref let="b" cid="c190211.1" />
+				 shall have joy in Your strength, O Lord;And in Your salvation how greatly shall he rejoice!
+			<crossref let="a" cid="c19021001.2"> [Ps. 1:1; 37:1; Prov. 23:17]</crossref></v>
+			<marker class="begin-verse" mid="v19021002" />
+			<v n="2">
+				You have 
+				<crossref let="c" cid="c190212.1" />
+				 given him his heart’s desire,And have not withheld the request of his lips.Selah
+			</v>
+			<marker class="begin-verse" mid="v19021003" />
+			<v n="3">
+				For You 
+				<crossref let="d" cid="c190213.1" />
+				 meet him with the blessings of goodness;You set a crown of pure gold upon his head.
+			</v>
+			<marker class="begin-verse" mid="v19021004" />
+			<v n="4">
+				He asked 
+				<crossref let="e" cid="c190214.1" />
+				 life from You, and You gave it to him—Length of days forever and ever.
+			</v>
+			<marker class="begin-verse" mid="v19021005" />
+			<v n="5">
+				His glory 
+				<crossref let="f" cid="c190215.1" />
+				 is great in Your salvation;Honor and majesty You have placed upon him.
+			<crossref let="b" cid="c19021005.2"> [Prov. 21:22; Eccl. 9:16]</crossref></v>
+			<marker class="begin-verse" mid="v19021006" />
+			<v n="6">
+				For You 
+				<crossref let="g" cid="c190216.1" />
+				 have made him most blessed forever;You have made him exceedingly glad with Your presence.
+			<crossref let="c" cid="c19021006.2"> [Luke 14:31]</crossref></v>
+			<marker class="begin-verse" mid="v19021007" />
+			<v n="7">
+				For the 
+				<crossref let="h" cid="c190217.1" />
+				 king trusts in the Lord,And through the mercy of the Most High he shall not be moved.
+			<crossref let="d" cid="c19021007.2"> [Ps. 10:5; Prov.]</crossref></v>
+			<marker class="begin-verse" mid="v19021008" />
+			<v n="8">
+				Your hand 
+				<crossref let="i" cid="c190218.1" />
+				 will find all Your enemies;Your right hand will find those who hate You.
+			<crossref let="e" cid="c19021008.2"> [Prov. 6:14; 14:22; Rom. 1:30]</crossref></v>
+			<marker class="begin-verse" mid="v19021009" />
+			<v n="9">
+				You shall 
+				<crossref let="j" cid="c190219.1" />
+				 make them as a fiery oven in the time of Your anger;The Lord shall swallow them up in His wrath,And the fire shall devour them.
+			</v>
+			<marker class="begin-verse" mid="v19021010" />
+			<v n="10">
+				Their offspring 
+				<crossref let="k" cid="c1902110.1" />
+				 You shall destroy from the earth,And their descendants from among the sons of men.
+			<crossref let="f" cid="c19021010.2"> [Deut. 20:8; Job 4:5; Jer. 51:46; Heb. 12:3]</crossref></v>
+			<marker class="begin-verse" mid="v19021011" />
+			<v n="11">
+				For they 
+				<crossref let="l" cid="c1902111.1" />
+				 intended evil against You;They devised a plot which they are not able to perform.
+			<crossref let="g" cid="c19021011.2"> [Ps. 82:4; Is. 58:6, 7; 1 John 3:16]</crossref></v>
+			<marker class="begin-verse" mid="v19021012" />
+			<v n="12">
+				Therefore You 
+				<crossref let="m" cid="c1902112.1" />
+				 will make them turn their back;You will make ready Your arrows on Your string toward their faces.
+			<crossref let="h" cid="c19021012.2"> [1 Sam. 16:7; Prov. 21:2 i Job 34:11; Ps. 62:12; Rev. 2:23; 22:12]</crossref></v>
+			<marker class="begin-verse" mid="v19021013" />
+			<v n="13">
+				Be exalted, 
+				<crossref let="n" cid="c1902113.1" />
+				 O Lord, in Your own strength!We will sing and praise Your power.
+			<crossref let="j" cid="c19021013.2"> [Ps. 19:10; 119:103; Prov. 25:16; Song 5:1]</crossref></v>
+			<marker class="begin-verse" mid="v19021014" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

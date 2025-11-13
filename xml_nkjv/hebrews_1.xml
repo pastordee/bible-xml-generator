@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:10:30.169277</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:10:30.169293</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" version="NKJV" bookAbbr="heb">
+		<marker class="begin-verse" mid="v58001001" />
+		<chapter num="1">
+			<heading>God’s Supreme Revelation</heading>
+			<begin-paragraph />
+			<v n="1">
+				God, who 
+				<crossref let="b" cid="c580011.1" />
+				 at various times and in various ways spoke in time past to the fathers by the prophets,
+			<crossref let="a" cid="c58001001.2"> [Acts 7:2; 1 Cor.]</crossref></v>
+			<marker class="begin-verse" mid="v58001002" />
+			<v n="2">
+				has in 
+				<crossref let="c" cid="c580012.1" />
+				 these last days spoken to us by His Son, whom He has appointed heir of all things, through whom also He made the worlds;
+			</v>
+			<marker class="begin-verse" mid="v58001003" />
+			<v n="3">
+				who being 
+				<crossref let="d" cid="c580013.1" />
+				 the brightness of His glory and the express image of His person, and upholding all things by the word of His power, when He had by Himself purged our sins, sat down at the right hand of the Majesty on high,
+			</v>
+			<marker class="begin-verse" mid="v58001004" />
+			<v n="4">
+				having become 
+				<crossref let="e" cid="c580014.1" />
+				 so much better than the angels, as He has by inheritance obtained a more excellent name than they.The Son Exalted Above Angels
+			</v>
+			<marker class="begin-verse" mid="v58001005" />
+			<v n="5">
+				For to 
+				<crossref let="f" cid="c580015.1" />
+				 which of the angels did He ever say:“You are My Son,Today I have begotten You”?And again:“I will be to Him a Father,And He shall be to Me a Son”?
+			<crossref let="c" cid="c58001005.2"> [Job 34:19;]</crossref></v>
+			<marker class="begin-verse" mid="v58001006" />
+			<v n="6">
+				But when 
+				<crossref let="g" cid="c580016.1" />
+				 He again brings the firstborn into the world, He says:“Let all the angels of God worship Him.”
+			<crossref let="f" cid="c58001006.2"> [1 Cor. 11:22]</crossref></v>
+			<marker class="begin-verse" mid="v58001007" />
+			<v n="7">
+				And of 
+				<crossref let="h" cid="c580017.1" />
+				 the angels He says:“Who makes His angels spiritsAnd His ministers a flame of fire.”
+			<crossref let="h" cid="c58001007.2"> [Acts 11:26;]</crossref></v>
+			<marker class="begin-verse" mid="v58001008" />
+			<v n="8">
+				But to 
+				<crossref let="i" cid="c580018.1" />
+				 the Son He says:“Your throne, O God, is forever and ever;A scepter of righteousness is the scepter of Your kingdom.
+			<crossref let="i" cid="c58001008.2"> [Lev. 19:18]</crossref></v>
+			<marker class="begin-verse" mid="v58001009" />
+			<v n="9">
+				You have 
+				<crossref let="j" cid="c580019.1" />
+				 loved righteousness and hated lawlessness;Therefore God, Your God, has anointed YouWith the oil of gladness more than Your companions.”
+			<crossref let="j" cid="c58001009.2"> [Lev. 19:15;]</crossref></v>
+			<marker class="begin-verse" mid="v58001010" />
+			<v n="10">
+				And:“You, Lord, 
+				<crossref let="k" cid="c5800110.1" />
+				 in the beginning laid the foundation of the earth,And the heavens are the work of Your hands.
+			<crossref let="k" cid="c58001010.2"> [Gal. 3:10]</crossref></v>
+			<marker class="begin-verse" mid="v58001011" />
+			<v n="11">
+				They will 
+				<crossref let="l" cid="c5800111.1" />
+				 perish, but You remain;And they will all grow old like a garment;
+			<crossref let="m" cid="c58001011.2"> [Ex. 20:14;]</crossref></v>
+			<marker class="begin-verse" mid="v58001012" />
+			<v n="12">
+				Like a 
+				<crossref let="m" cid="c5800112.1" />
+				 cloak You will fold them up,And they will be changed.But You are the same,And Your years will not fail.”
+			<crossref let="o" cid="c58001012.2"> [James 1:25]</crossref></v>
+			<marker class="begin-verse" mid="v58001013" />
+			<v n="13">
+				But to 
+				<crossref let="n" cid="c5800113.1" />
+				 which of the angels has He ever said:“Sit at My right hand,Till I make Your enemies Your footstool”?
+			<crossref let="p" cid="c58001013.2"> [Job 22:6]</crossref></v>
+			<marker class="begin-verse" mid="v58001014" />
+			<v n="14">
+				Are they 
+				<crossref let="o" cid="c5800114.1" />
+				 not all ministering spirits sent forth to minister for those who will inherit salvation?
+			</v>
+			<marker class="begin-verse" mid="v58001015" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

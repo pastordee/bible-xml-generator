@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:31:07.215779</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:31:07.215790</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23012001" />
+		<chapter num="12">
+			<heading>A Hymn of Praise</heading>
+			<begin-paragraph />
+			<v n="1">
+				And in 
+				<crossref let="b" cid="c230121.1" />
+				 that day you will say:“O Lord, I will praise You;Though You were angry with me,Your anger is turned away, and You comfort me.
+			</v>
+			<marker class="begin-verse" mid="v23012002" />
+			<v n="2">
+				Behold, God 
+				<crossref let="c" cid="c230122.1" />
+				 is my salvation,I will trust and not be afraid;‘For Yah, the Lord, is my strength and song;He also has become my salvation.’ ”
+			<crossref let="b" cid="c23012002.2"> [Ezek. 43:2-4]</crossref></v>
+			<marker class="begin-verse" mid="v23012003" />
+			<v n="3">
+				Therefore with 
+				<crossref let="d" cid="c230123.1" />
+				 joy you will draw waterFrom the wells of salvation.
+			<crossref let="c" cid="c23012003.2"> [Gen. 31:54; Ex. 24:9-11; [1 Cor. 10:18] d Ezek.]</crossref></v>
+			<marker class="begin-verse" mid="v23012004" />
+			<v n="4">
+				And in 
+				<crossref let="e" cid="c230124.1" />
+				 that day you will say:“Praise the Lord, call upon His name;Declare His deeds among the peoples,Make mention that His name is exalted.
+			<crossref let="e" cid="c23012004.2"> [Is. 6:3; Ezek. 3:23; 43:5 f Ezek.]</crossref></v>
+			<marker class="begin-verse" mid="v23012005" />
+			<v n="5">
+				Sing to 
+				<crossref let="f" cid="c230125.1" />
+				 the Lord,For He has done excellent things;This is known in all the earth.
+			<crossref let="g" cid="c23012005.2"> [Deut. 32:46; Ezek. 40:4 h Deut. 12:32; Ezek. 43:10,]</crossref></v>
+			<marker class="begin-verse" mid="v23012006" />
+			<v n="6">
+				Cry out 
+				<crossref let="g" cid="c230126.1" />
+				 and shout, O inhabitant of Zion,For great is the Holy One of Israel in your midst!”
+			<crossref let="i" cid="c23012006.2"> [Ezek. 2:5 j Ezek. 45:9; 1 Pet. 4:3]</crossref></v>
+			<marker class="begin-verse" mid="v23012007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

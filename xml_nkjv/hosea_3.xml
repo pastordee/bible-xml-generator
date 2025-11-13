@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:46:39.000092</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:46:39.000126</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" version="NKJV" bookAbbr="hos">
+		<marker class="begin-verse" mid="v28003001" />
+		<chapter num="3">
+			<heading>Israel Will Return to God</heading>
+			<begin-paragraph />
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c280031.1" />
+				 Lord said to me, “Go again, love a woman who is loved by a lover and is committing adultery, just like the love of the Lord for the children of Israel, who look to other gods and love the raisin cakes of the pagans.”
+			<crossref let="c" cid="c28003001.2"> [Acts 4:35; 11:29]</crossref><crossref let="a" cid="c28003001.3"> [Acts 2:41; 4:4]</crossref><crossref let="b" cid="c28003001.4"> [Acts 9:29; 11:20]</crossref></v>
+			<marker class="begin-verse" mid="v28003002" />
+			<v n="2">
+				So I 
+				<crossref let="c" cid="c280032.1" />
+				 bought her for myself for fifteen shekels of silver, and one and one-half homers of barley.
+			<crossref let="d" cid="c28003002.2"> [Ex. 18:17]</crossref></v>
+			<marker class="begin-verse" mid="v28003003" />
+			<v n="3">
+				And I 
+				<crossref let="d" cid="c280033.1" />
+				 said to her, “You shall stay with me many days; you shall not play the harlot, nor shall you have a man—so, too, will I be toward you.”
+			<crossref let="e" cid="c28003003.2"> [Deut. 1:13; 1 Tim. 3:7 f Phil. 1:1; 1 Tim. 3:8-13]</crossref></v>
+			<marker class="begin-verse" mid="v28003004" />
+			<v n="4">
+				For the 
+				<crossref let="e" cid="c280034.1" />
+				 children of Israel shall abide many days without king or prince, without sacrifice or sacred pillar, without ephod or teraphim.
+			<crossref let="g" cid="c28003004.2"> [Acts 2:42]</crossref></v>
+			<marker class="begin-verse" mid="v28003005" />
+			<v n="5">
+				Afterward the 
+				<crossref let="f" cid="c280035.1" />
+				 children of Israel shall return and seek the Lord their God and David their king. They shall fear the Lord and His goodness in the latter days.
+			<crossref let="j" cid="c28003005.2"> [Rev. 2:6,]</crossref><crossref let="i" cid="c28003005.3"> [Acts 8:5, 26; 21:8]</crossref><crossref let="h" cid="c28003005.4"> [Acts 6:3; 11:24]</crossref></v>
+			<marker class="begin-verse" mid="v28003006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

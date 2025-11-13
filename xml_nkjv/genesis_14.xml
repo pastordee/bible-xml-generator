@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:30:26.135699</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:30:26.135735</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="NKJV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01014001" />
+		<chapter num="14">
+			<heading>Lot’s Captivity and Rescue</heading>
+			<begin-paragraph />
+			<v n="1">
+				And it 
+				<crossref let="b" cid="c010141.1" />
+				 came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations,
+			</v>
+			<marker class="begin-verse" mid="v01014002" />
+			<v n="2">
+				that they 
+				<crossref let="c" cid="c010142.1" />
+				 made war with Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboiim, and the king of Bela (that is, Zoar).
+			<crossref let="c" cid="c01014002.2"> [Gen. 10:19; Deut. 29:23 d Gen.]</crossref></v>
+			<marker class="begin-verse" mid="v01014003" />
+			<v n="3">
+				All these 
+				<crossref let="d" cid="c010143.1" />
+				 joined together in the Valley of Siddim (that is, the Salt Sea).
+			<crossref let="e" cid="c01014003.2"> [Num. 34:12; Deut. 3:17; Josh.]</crossref></v>
+			<marker class="begin-verse" mid="v01014004" />
+			<v n="4">
+				Twelve years 
+				<crossref let="e" cid="c010144.1" />
+				 they served Chedorlaomer, and in the thirteenth year they rebelled.
+			<crossref let="f" cid="c01014004.2"> [Gen. 9:26]</crossref></v>
+			<marker class="begin-verse" mid="v01014005" />
+			<v n="5">
+				In the 
+				<crossref let="f" cid="c010145.1" />
+				 fourteenth year Chedorlaomer and the kings that were with him came and attacked the Rephaim in Ashteroth Karnaim, the Zuzim in Ham, the Emim in Shaveh Kiriathaim,
+			<crossref let="g" cid="c01014005.2"> [Gen. 15:20]</crossref><crossref let="i" cid="c01014005.3"> [Num. 32:37; Deut. 2:10]</crossref><crossref let="h" cid="c01014005.4"> [Deut. 2:20]</crossref></v>
+			<marker class="begin-verse" mid="v01014006" />
+			<v n="6">
+				and the 
+				<crossref let="g" cid="c010146.1" />
+				 Horites in their mountain of Seir, as far as El Paran, which is by the wilderness.
+			<crossref let="j" cid="c01014006.2"> [Gen. 36:20;]</crossref></v>
+			<marker class="begin-verse" mid="v01014007" />
+			<v n="7">
+				Then they 
+				<crossref let="h" cid="c010147.1" />
+				 turned back and came to En Mishpat (that is, Kadesh), and attacked all the country of the Amalekites, and also the Amorites who dwelt in Hazezon Tamar.
+			<crossref let="k" cid="c01014007.2"> [2 Chr. 20:2]</crossref></v>
+			<marker class="begin-verse" mid="v01014008" />
+			<v n="8">
+				And the 
+				<crossref let="i" cid="c010148.1" />
+				 king of Sodom, the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (that is, Zoar) went out and joined together in battle in the Valley of Siddim
+			</v>
+			<marker class="begin-verse" mid="v01014009" />
+			<v n="9">
+				against Chedorlaomer 
+				<crossref let="j" cid="c010149.1" />
+				 king of Elam, Tidal king of nations, Amraphel king of Shinar, and Arioch king of Ellasar—four kings against five.
+			</v>
+			<marker class="begin-verse" mid="v01014010" />
+			<v n="10">
+				Now the 
+				<crossref let="k" cid="c0101410.1" />
+				 Valley of Siddim was full of asphalt pits; and the kings of Sodom and Gomorrah fled; some fell there, and the remainder fled to the mountains.
+			<crossref let="m" cid="c01014010.2"> [Gen. 19:17,]</crossref><crossref let="l" cid="c01014010.3"> [Gen. 11:3]</crossref></v>
+			<marker class="begin-verse" mid="v01014011" />
+			<v n="11">
+				Then they 
+				<crossref let="l" cid="c0101411.1" />
+				 took all the goods of Sodom and Gomorrah, and all their provisions, and went their way.
+			<crossref let="n" cid="c01014011.2"> [Gen. 14:16, 21]</crossref></v>
+			<marker class="begin-verse" mid="v01014012" />
+			<v n="12">
+				They also 
+				<crossref let="m" cid="c0101412.1" />
+				 took Lot, Abram’s brother’s son who dwelt in Sodom, and his goods, and departed.
+			<crossref let="o" cid="c01014012.2"> [Gen. 11:27; 12:5 p Gen. 13:12]</crossref></v>
+			<marker class="begin-verse" mid="v01014013" />
+			<v n="13">
+				Then one 
+				<crossref let="n" cid="c0101413.1" />
+				 who had escaped came and told Abram the Hebrew, for he dwelt by the terebinth trees of Mamre the Amorite, brother of Eshcol and brother of Aner; and they were allies with Abram.
+			<crossref let="q" cid="c01014013.2"> [Gen. 39:14; 40:15 r Gen. 13:18]</crossref><crossref let="s" cid="c01014013.3"> [Gen. 14:24; 21:27, and went in pursuit w as far as Dan. 15 He]</crossref></v>
+			<marker class="begin-verse" mid="v01014014" />
+			<v n="14">
+				Now when 
+				<crossref let="o" cid="c0101414.1" />
+				 Abram heard that his brother was taken captive, he armed his three hundred and eighteen trained servants who were born in his own house, and went in pursuit as far as Dan.
+			<crossref let="v" cid="c01014014.2"> [Gen. 12:5; 15:3; 17:27; Eccl. 2:7]</crossref><crossref let="u" cid="c01014014.3"> [Gen. 13:8; 14:12]</crossref><crossref let="w" cid="c01014014.4"> [Deut. 34:1; Judg. 18:29; 1 Kin. 15:20]</crossref><crossref let="t" cid="c01014014.5"> [Gen. 19:29]</crossref></v>
+			<marker class="begin-verse" mid="v01014015" />
+			<v n="15">
+				He divided 
+				<crossref let="p" cid="c0101415.1" />
+				 his forces against them by night, and he and his servants attacked them and pursued them as far as Hobah, which is north of Damascus.
+			<crossref let="x" cid="c01014015.2"> [Is. 41:2, 3]</crossref></v>
+			<marker class="begin-verse" mid="v01014016" />
+			<v n="16">
+				So he 
+				<crossref let="q" cid="c0101416.1" />
+				 brought back all the goods, and also brought back his brother Lot and his goods, as well as the women and the people.
+			<crossref let="y" cid="c01014016.2"> [Gen. 31:18;]</crossref></v>
+			<marker class="begin-verse" mid="v01014017" />
+			<v n="17">
+				And the 
+				<crossref let="r" cid="c0101417.1" />
+				 king of Sodom went out to meet him at the Valley of Shaveh (that is, the King’s Valley), after his return from the defeat of Chedorlaomer and the kings who were with him.Abram and Melchizedek
+			<crossref let="z" cid="c01014017.2"> [1 Sam. 18:6 a]</crossref></v>
+			<marker class="begin-verse" mid="v01014018" />
+			<v n="18">
+				Then Melchizedek 
+				<crossref let="s" cid="c0101418.1" />
+				 king of Salem brought out bread and wine; he was the priest of God Most High.
+			<crossref let="c" cid="c01014018.2"> [Ps. 110:4; Heb. 7:1-10 d Gen. 18:5; Ex. 29:40; Ps. 104:15 e Ps. 110:4; Heb. 5:6 f Acts]</crossref></v>
+			<marker class="begin-verse" mid="v01014019" />
+			<v n="19">
+				And he 
+				<crossref let="t" cid="c0101419.1" />
+				 blessed him and said:“Blessed be Abram of God Most High,Possessor of heaven and earth;
+			<crossref let="g" cid="c01014019.2"> [Ruth 3:10]</crossref><crossref let="h" cid="c01014019.3"> [Gen. 14:22; Matt.]</crossref></v>
+			<marker class="begin-verse" mid="v01014020" />
+			<v n="20">
+				And blessed 
+				<crossref let="u" cid="c0101420.1" />
+				 be God Most High,Who has delivered your enemies into your hand.”And he gave him a tithe of all.
+			<crossref let="j" cid="c01014020.2"> [Gen. 28:22; Heb.]</crossref><crossref let="i" cid="c01014020.3"> [Gen. 24:27]</crossref></v>
+			<marker class="begin-verse" mid="v01014021" />
+			<v n="21">
+				Now the 
+				<crossref let="v" cid="c0101421.1" />
+				 king of Sodom said to Abram, “Give me the persons, and take the goods for yourself.”
+			</v>
+			<marker class="begin-verse" mid="v01014022" />
+			<v n="22">
+				But Abram 
+				<crossref let="w" cid="c0101422.1" />
+				 said to the king of Sodom, “I have raised my hand to the Lord, God Most High, the Possessor of heaven and earth,
+			<crossref let="m" cid="c01014022.2"> [Gen. 14:19]</crossref><crossref let="k" cid="c01014022.3"> [Gen. 14:2, 8, 10 l Dan. 12:7]</crossref></v>
+			<marker class="begin-verse" mid="v01014023" />
+			<v n="23">
+				that I 
+				<crossref let="x" cid="c0101423.1" />
+				 will take nothing, from a thread to a sandal strap, and that I will not take anything that is yours, lest you should say, ‘I have made Abram rich’—
+			<crossref let="n" cid="c01014023.2"> [2 Kin. 5:16;]</crossref></v>
+			<marker class="begin-verse" mid="v01014024" />
+			<v n="24">
+				except only 
+				<crossref let="y" cid="c0101424.1" />
+				 what the young men have eaten, and the portion of the men who went with me: Aner, Eshcol, and Mamre; let them take their portion.”
+			</v>
+			<marker class="begin-verse" mid="v01014025" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:55:24.875847</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:55:24.875869</next_refresh_due>
+	</generation_info>
+	<book title="1 Kings" num="11" testament="old" version="NKJV" bookAbbr="1ki">
+		<marker class="begin-verse" mid="v11001001" />
+		<chapter num="1">
+			<heading>Adonijah Presumes to Be King</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now King 
+				<crossref let="b" cid="c110011.1" />
+				 David was old, advanced in years; and they put covers on him, but he could not get warm.
+			</v>
+			<marker class="begin-verse" mid="v11001002" />
+			<v n="2">
+				Therefore his 
+				<crossref let="c" cid="c110012.1" />
+				 servants said to him, “Let a young woman, a virgin, be sought for our lord the king, and let her stand before the king, and let her care for him; and let her lie in your bosom, that our lord the king may be warm.”
+			</v>
+			<marker class="begin-verse" mid="v11001003" />
+			<v n="3">
+				So they 
+				<crossref let="d" cid="c110013.1" />
+				 sought for a lovely young woman throughout all the territory of Israel, and found Abishag the Shunammite, and brought her to the king.
+			<crossref let="a" cid="c11001003.2"> [2 Sam.]</crossref></v>
+			<marker class="begin-verse" mid="v11001004" />
+			<v n="4">
+				The young 
+				<crossref let="e" cid="c110014.1" />
+				 woman was very lovely; and she cared for the king, and served him; but the king did not know her.
+			<crossref let="b" cid="c11001004.2"> [1 Kin. 2:35 c 1 Kin. 2:27]</crossref></v>
+			<marker class="begin-verse" mid="v11001005" />
+			<v n="5">
+				Then Adonijah 
+				<crossref let="f" cid="c110015.1" />
+				 the son of Haggith exalted himself, saying, “I will be king”; and he prepared for himself chariots and horsemen, and fifty men to run before him.
+			<crossref let="d" cid="c11001005.2"> [1 Kin. 4:7 e]</crossref></v>
+			<marker class="begin-verse" mid="v11001006" />
+			<v n="6">
+				(And his 
+				<crossref let="g" cid="c110016.1" />
+				 father had not rebuked him at any time by saying, “Why have you done so?” He was also very good-looking. His mother had borne him after Absalom.)
+			<crossref let="g" cid="c11001006.2"> [1 Kin. 5:14]</crossref></v>
+			<marker class="begin-verse" mid="v11001007" />
+			<v n="7">
+				Then he 
+				<crossref let="h" cid="c110017.1" />
+				 conferred with Joab the son of Zeruiah and with Abiathar the priest, and they followed and helped Adonijah.
+			</v>
+			<marker class="begin-verse" mid="v11001008" />
+			<v n="8">
+				But Zadok 
+				<crossref let="i" cid="c110018.1" />
+				 the priest, Benaiah the son of Jehoiada, Nathan the prophet, Shimei, Rei, and the mighty men who belonged to David were not with Adonijah.
+			</v>
+			<marker class="begin-verse" mid="v11001009" />
+			<v n="9">
+				And Adonijah 
+				<crossref let="j" cid="c110019.1" />
+				 sacrificed sheep and oxen and fattened cattle by the stone of Zoheleth, which is by En Rogel; he also invited all his brothers, the king’s sons, and all the men of Judah, the king’s servants.
+			</v>
+			<marker class="begin-verse" mid="v11001010" />
+			<v n="10">
+				But he 
+				<crossref let="k" cid="c1100110.1" />
+				 did not invite Nathan the prophet, Benaiah, the mighty men, or Solomon his brother.
+			</v>
+			<marker class="begin-verse" mid="v11001011" />
+			<v n="11">
+				So Nathan 
+				<crossref let="l" cid="c1100111.1" />
+				 spoke to Bathsheba the mother of Solomon, saying, “Have you not heard that Adonijah the son of Haggith has become king, and David our lord does not know it?
+			</v>
+			<marker class="begin-verse" mid="v11001012" />
+			<v n="12">
+				Come, please, 
+				<crossref let="m" cid="c1100112.1" />
+				 let me now give you advice, that you may save your own life and the life of your son Solomon.
+			</v>
+			<marker class="begin-verse" mid="v11001013" />
+			<v n="13">
+				Go immediately 
+				<crossref let="n" cid="c1100113.1" />
+				 to King David and say to him, ‘Did you not, my lord, O king, swear to your maidservant, saying, “Assuredly your son Solomon shall reign after me, and he shall sit on my throne”? Why then has Adonijah become king?’
+			<crossref let="h" cid="c11001013.2"> [Num. 32:41; 1 Chr. 2:22 i Deut.]</crossref></v>
+			<marker class="begin-verse" mid="v11001014" />
+			<v n="14">
+				Then, while 
+				<crossref let="o" cid="c1100114.1" />
+				 you are still talking there with the king, I also will come in after you and confirm your words.”
+			</v>
+			<marker class="begin-verse" mid="v11001015" />
+			<v n="15">
+				So Bathsheba 
+				<crossref let="p" cid="c1100115.1" />
+				 went into the chamber to the king. (Now the king was very old, and Abishag the Shunammite was serving the king.)
+			<crossref let="j" cid="c11001015.2"> [2 Sam. 15:27]</crossref></v>
+			<marker class="begin-verse" mid="v11001016" />
+			<v n="16">
+				And Bathsheba 
+				<crossref let="q" cid="c1100116.1" />
+				 bowed and did homage to the king. Then the king said, “What is your wish?”
+			<crossref let="k" cid="c11001016.2"> [2 Sam. 15:32; 1 Chr. 27:33]</crossref></v>
+			<marker class="begin-verse" mid="v11001017" />
+			<v n="17">
+				Then she 
+				<crossref let="r" cid="c1100117.1" />
+				 said to him, “My lord, you swore by the Lord your God to your maidservant, saying, ‘Assuredly Solomon your son shall reign after me, and he shall sit on my throne.’
+			</v>
+			<marker class="begin-verse" mid="v11001018" />
+			<v n="18">
+				So now, 
+				<crossref let="s" cid="c1100118.1" />
+				 look! Adonijah has become king; and now, my lord the king, you do not know about it.
+			<crossref let="l" cid="c11001018.2"> [1 Kin. 1:8]</crossref></v>
+			<marker class="begin-verse" mid="v11001019" />
+			<v n="19">
+				He has 
+				<crossref let="t" cid="c1100119.1" />
+				 sacrificed oxen and fattened cattle and sheep in abundance, and has invited all the sons of the king, Abiathar the priest, and Joab the commander of the army; but Solomon your servant he has not invited.
+			<crossref let="m" cid="c11001019.2"> [Deut. 3:8-10]</crossref></v>
+			<marker class="begin-verse" mid="v11001020" />
+			<v n="20">
+				And as 
+				<crossref let="u" cid="c1100120.1" />
+				 for you, my lord, O king, the eyes of all Israel are on you, that you should tell them who will sit on the throne of my lord the king after him.
+			<crossref let="n" cid="c11001020.2"> [Gen. 22:17; 32:12; 1 Kin. 3:8; [Prov. 14:28] o Ps. 72:3, 7; Mic. 4:4]</crossref></v>
+			<marker class="begin-verse" mid="v11001021" />
+			<v n="21">
+				Otherwise it 
+				<crossref let="v" cid="c1100121.1" />
+				 will happen, when my lord the king rests with his fathers, that I and my son Solomon will be counted as offenders.”
+			<crossref let="r" cid="c11001021.2"> [Ps. 68:29 7 The]</crossref><crossref let="p" cid="c11001021.3"> [Ex. 34:24; 2 Chr. 9:26; Ps. 72:8 q Gen. 15:18; Josh. 1:4]</crossref></v>
+			<marker class="begin-verse" mid="v11001022" />
+			<v n="22">
+				And just 
+				<crossref let="w" cid="c1100122.1" />
+				 then, while she was still talking with the king, Nathan the prophet also came in.
+			<crossref let="s" cid="c11001022.2"> [Neh. 5:18]</crossref></v>
+			<marker class="begin-verse" mid="v11001023" />
+			<v n="23">
+				So they 
+				<crossref let="x" cid="c1100123.1" />
+				 told the king, saying, “Here is Nathan the prophet.” And when he came in before the king, he bowed down before the king with his face to the ground.
+			</v>
+			<marker class="begin-verse" mid="v11001024" />
+			<v n="24">
+				And Nathan 
+				<crossref let="y" cid="c1100124.1" />
+				 said, “My lord, O king, have you said, ‘Adonijah shall reign after me, and he shall sit on my throne’?
+			<crossref let="t" cid="c11001024.2"> [Ps. 72:11 u 1 Kin. 5:4; 1 Chr.]</crossref></v>
+			<marker class="begin-verse" mid="v11001025" />
+			<v n="25">
+				For he 
+				<crossref let="z" cid="c1100125.1" />
+				 has gone down today, and has sacrificed oxen and fattened cattle and sheep in abundance, and has invited all the king’s sons, and the commanders of the army, and Abiathar the priest; and look! They are eating and drinking before him; and they say, ‘Long live King Adonijah!’
+			<crossref let="v" cid="c11001025.2"> [[Jer. 23:6] w [Mic. 4:4; Zech. 3:10] x Judg. 20:1]</crossref></v>
+			<marker class="begin-verse" mid="v11001026" />
+			<v n="26">
+				But he 
+				<crossref let="a" cid="c1100126.1" />
+				 has not invited me—me your servant—nor Zadok the priest, nor Benaiah the son of Jehoiada, nor your servant Solomon.
+			<crossref let="y" cid="c11001026.2"> [1 Kin. 10:26; 2 Chr. 1:14 z [Deut. 17:16] 3 So with MT, most other authorities; some LXX mss. four thousand; cf. 2 Chr. 9:25 27 a 1 Kin. 4:7]</crossref></v>
+			<marker class="begin-verse" mid="v11001027" />
+			<v n="27">
+				Has this 
+				<crossref let="b" cid="c1100127.1" />
+				 thing been done by my lord the king, and you have not told your servant who should sit on the throne of my lord the king after him?”David Proclaims Solomon King
+			</v>
+			<marker class="begin-verse" mid="v11001028" />
+			<v n="28">
+				Then King 
+				<crossref let="c" cid="c1100128.1" />
+				 David answered and said, “Call Bathsheba to me.” So she came into the king’s presence and stood before the king.
+			</v>
+			<marker class="begin-verse" mid="v11001029" />
+			<v n="29">
+				And the 
+				<crossref let="d" cid="c1100129.1" />
+				 king took an oath and said, “As the Lord lives, who has redeemed my life from every distress,
+			</v>
+			<marker class="begin-verse" mid="v11001030" />
+			<v n="30">
+				just as 
+				<crossref let="e" cid="c1100130.1" />
+				 I swore to you by the Lord God of Israel, saying, ‘Assuredly Solomon your son shall be king after me, and he shall sit on my throne in my place,’ so I certainly will do this day.”
+			<crossref let="c" cid="c11001030.2"> [Gen. 25:6 d Is. 19:11, 12; Acts]</crossref></v>
+			<marker class="begin-verse" mid="v11001031" />
+			<v n="31">
+				Then Bathsheba 
+				<crossref let="f" cid="c1100131.1" />
+				 bowed with her face to the earth, and paid homage to the king, and said, “Let my lord King David live forever!”
+			<crossref let="e" cid="c11001031.2"> [1 Kin. 3:12 f 1 Chr. 15:19; Ps. 2:6; Ps. 88:title]</crossref></v>
+			<marker class="begin-verse" mid="v11001032" />
+			<v n="32">
+				And King 
+				<crossref let="g" cid="c1100132.1" />
+				 David said, “Call to me Zadok the priest, Nathan the prophet, and Benaiah the son of Jehoiada.” So they came before the king.
+			<crossref let="h" cid="c11001032.2"> [Prov. 1:1; 10:1; 25:1; Eccl. 12:9 i Song 1:1]</crossref></v>
+			<marker class="begin-verse" mid="v11001033" />
+			<v n="33">
+				The king 
+				<crossref let="h" cid="c1100133.1" />
+				 also said to them, “Take with you the servants of your lord, and have Solomon my son ride on my own mule, and take him down to Gihon.
+			</v>
+			<marker class="begin-verse" mid="v11001034" />
+			<v n="34">
+				There let 
+				<crossref let="i" cid="c1100134.1" />
+				 Zadok the priest and Nathan the prophet anoint him king over Israel; and blow the horn, and say, ‘Long live King Solomon!’
+			<crossref let="j" cid="c11001034.2"> [1 Kin. 10:1; 2 Chr. 9:1,]</crossref></v>
+			<marker class="begin-verse" mid="v11001035" />
+			<v n="35">
+				Then you 
+				<crossref let="j" cid="c1100135.1" />
+				 shall come up after him, and he shall come and sit on my throne, and he shall be king in my place. For I have appointed him to be ruler over Israel and Judah.”
+			</v>
+			<marker class="begin-verse" mid="v11001036" />
+			<v n="36">
+				Benaiah the 
+				<crossref let="k" cid="c1100136.1" />
+				 son of Jehoiada answered the king and said, “Amen! May the Lord God of my lord the king say so too.
+			</v>
+			<marker class="begin-verse" mid="v11001037" />
+			<v n="37">
+				As the 
+				<crossref let="l" cid="c1100137.1" />
+				 Lord has been with my lord the king, even so may He be with Solomon, and make his throne greater than the throne of my lord King David.”
+			</v>
+			<marker class="begin-verse" mid="v11001038" />
+			<v n="38">
+				So Zadok 
+				<crossref let="m" cid="c1100138.1" />
+				 the priest, Nathan the prophet, Benaiah the son of Jehoiada, the Cherethites, and the Pelethites went down and had Solomon ride on King David’s mule, and took him to Gihon.
+			</v>
+			<marker class="begin-verse" mid="v11001039" />
+			<v n="39">
+				Then Zadok 
+				<crossref let="n" cid="c1100139.1" />
+				 the priest took a horn of oil from the tabernacle and anointed Solomon. And they blew the horn, and all the people said, “Long live King Solomon!”
+			</v>
+			<marker class="begin-verse" mid="v11001040" />
+			<v n="40">
+				And all 
+				<crossref let="o" cid="c1100140.1" />
+				 the people went up after him; and the people played the flutes and rejoiced with great joy, so that the earth seemed to split with their sound.
+			</v>
+			<marker class="begin-verse" mid="v11001041" />
+			<v n="41">
+				Now Adonijah 
+				<crossref let="p" cid="c1100141.1" />
+				 and all the guests who were with him heard it as they finished eating. And when Joab heard the sound of the horn, he said, “Why is the city in such a noisy uproar?”
+			</v>
+			<marker class="begin-verse" mid="v11001042" />
+			<v n="42">
+				While he 
+				<crossref let="q" cid="c1100142.1" />
+				 was still speaking, there came Jonathan, the son of Abiathar the priest. And Adonijah said to him, “Come in, for you are a prominent man, and bring good news.”
+			</v>
+			<marker class="begin-verse" mid="v11001043" />
+			<v n="43">
+				Then Jonathan 
+				<crossref let="r" cid="c1100143.1" />
+				 answered and said to Adonijah, “No! Our lord King David has made Solomon king.
+			</v>
+			<marker class="begin-verse" mid="v11001044" />
+			<v n="44">
+				The king 
+				<crossref let="s" cid="c1100144.1" />
+				 has sent with him Zadok the priest, Nathan the prophet, Benaiah the son of Jehoiada, the Cherethites, and the Pelethites; and they have made him ride on the king’s mule.
+			</v>
+			<marker class="begin-verse" mid="v11001045" />
+			<v n="45">
+				So Zadok 
+				<crossref let="t" cid="c1100145.1" />
+				 the priest and Nathan the prophet have anointed him king at Gihon; and they have gone up from there rejoicing, so that the city is in an uproar. This is the noise that you have heard.
+			</v>
+			<marker class="begin-verse" mid="v11001046" />
+			<v n="46">
+				Also Solomon 
+				<crossref let="u" cid="c1100146.1" />
+				 sits on the throne of the kingdom.
+			</v>
+			<marker class="begin-verse" mid="v11001047" />
+			<v n="47">
+				And moreover 
+				<crossref let="v" cid="c1100147.1" />
+				 the king’s servants have gone to bless our lord King David, saying, ‘May God make the name of Solomon better than your name, and may He make his throne greater than your throne.’ Then the king bowed himself on the bed.
+			</v>
+			<marker class="begin-verse" mid="v11001048" />
+			<v n="48">
+				Also the 
+				<crossref let="w" cid="c1100148.1" />
+				 king said thus, ‘Blessed be the Lord God of Israel, who has given one to sit on my throne this day, while my eyes see it!’ ”
+			</v>
+			<marker class="begin-verse" mid="v11001049" />
+			<v n="49">
+				So all 
+				<crossref let="x" cid="c1100149.1" />
+				 the guests who were with Adonijah were afraid, and arose, and each one went his way.
+			</v>
+			<marker class="begin-verse" mid="v11001050" />
+			<v n="50">
+				Now Adonijah 
+				<crossref let="y" cid="c1100150.1" />
+				 was afraid of Solomon; so he arose, and went and took hold of the horns of the altar.
+			</v>
+			<marker class="begin-verse" mid="v11001051" />
+			<v n="51">
+				And it 
+				<crossref let="z" cid="c1100151.1" />
+				 was told Solomon, saying, “Indeed Adonijah is afraid of King Solomon; for look, he has taken hold of the horns of the altar, saying, ‘Let King Solomon swear to me today that he will not put his servant to death with the sword.’ ”
+			</v>
+			<marker class="begin-verse" mid="v11001052" />
+			<v n="52">
+				Then Solomon 
+				<crossref let="a" cid="c1100152.1" />
+				 said, “If he proves himself a worthy man, not one hair of him shall fall to the earth; but if wickedness is found in him, he shall die.”
+			</v>
+			<marker class="begin-verse" mid="v11001053" />
+			<v n="53">
+				So King 
+				<crossref let="b" cid="c1100153.1" />
+				 Solomon sent them to bring him down from the altar. And he came and fell down before King Solomon; and Solomon said to him, “Go to your house.”
+			</v>
+			<marker class="begin-verse" mid="v11001054" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

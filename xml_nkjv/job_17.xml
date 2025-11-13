@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:09:50.455202</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:09:50.455209</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" version="NKJV" bookAbbr="job">
+		<marker class="begin-verse" mid="v18017001" />
+		<chapter num="17">
+			<heading>Job Prays for Relief</heading>
+			<begin-paragraph />
+			<v n="1">
+				“My spirit 
+				<crossref let="b" cid="c180171.1" />
+				 is broken,My days are extinguished,The grave is ready for me.
+			<crossref let="a" cid="c18017001.2"> [Job 11:1]</crossref></v>
+			<marker class="begin-verse" mid="v18017002" />
+			<v n="2">
+				Are not 
+				<crossref let="c" cid="c180172.1" />
+				 mockers with me?And does not my eye dwell on their provocation?
+			</v>
+			<marker class="begin-verse" mid="v18017003" />
+			<v n="3">
+				“Now put 
+				<crossref let="d" cid="c180173.1" />
+				 down a pledge for me with Yourself.Who is he who will shake hands with me?
+			</v>
+			<marker class="begin-verse" mid="v18017004" />
+			<v n="4">
+				For You 
+				<crossref let="e" cid="c180174.1" />
+				 have hidden their heart from understanding;Therefore You will not exalt them.
+			<crossref let="b" cid="c18017004.2"> [Job 8:8; 15:10]</crossref></v>
+			<marker class="begin-verse" mid="v18017005" />
+			<v n="5">
+				He who 
+				<crossref let="f" cid="c180175.1" />
+				 speaks flattery to his friends,Even the eyes of his children will fail.
+			<crossref let="c" cid="c18017005.2"> [Ps. 37:35, 36 d [Job 8:13; 13:16;]</crossref></v>
+			<marker class="begin-verse" mid="v18017006" />
+			<v n="6">
+				“But He 
+				<crossref let="g" cid="c180176.1" />
+				 has made me a byword of the people,And I have become one in whose face men spit.
+			<crossref let="e" cid="c18017006.2"> [Is. 14:13,]</crossref></v>
+			<marker class="begin-verse" mid="v18017007" />
+			<v n="7">
+				My eye 
+				<crossref let="h" cid="c180177.1" />
+				 has also grown dim because of sorrow,And all my members are like shadows.
+			</v>
+			<marker class="begin-verse" mid="v18017008" />
+			<v n="8">
+				Upright men 
+				<crossref let="i" cid="c180178.1" />
+				 are astonished at this,And the innocent stirs himself up against the hypocrite.
+			<crossref let="f" cid="c18017008.2"> [Ps. 73:20; 90:5 g Job 18:18;]</crossref></v>
+			<marker class="begin-verse" mid="v18017009" />
+			<v n="9">
+				Yet the 
+				<crossref let="j" cid="c180179.1" />
+				 righteous will hold to his way,And he who has clean hands will be stronger and stronger.
+			</v>
+			<marker class="begin-verse" mid="v18017010" />
+			<v n="10">
+				“But please, 
+				<crossref let="k" cid="c1801710.1" />
+				 come back again, all of you,For I shall not find one wise man among you.
+			</v>
+			<marker class="begin-verse" mid="v18017011" />
+			<v n="11">
+				My days 
+				<crossref let="l" cid="c1801711.1" />
+				 are past,My purposes are broken off,Even the thoughts of my heart.
+			<crossref let="h" cid="c18017011.2"> [Job 13:26]</crossref></v>
+			<marker class="begin-verse" mid="v18017012" />
+			<v n="12">
+				They change 
+				<crossref let="m" cid="c1801712.1" />
+				 the night into day;‘The light is near,’ they say, in the face of darkness.
+			</v>
+			<marker class="begin-verse" mid="v18017013" />
+			<v n="13">
+				If I 
+				<crossref let="n" cid="c1801713.1" />
+				 wait for the grave as my house,If I make my bed in the darkness,
+			</v>
+			<marker class="begin-verse" mid="v18017014" />
+			<v n="14">
+				If I 
+				<crossref let="o" cid="c1801714.1" />
+				 say to corruption, ‘You are my father,’And to the worm, ‘You are my mother and my sister,’
+			</v>
+			<marker class="begin-verse" mid="v18017015" />
+			<v n="15">
+				Where then 
+				<crossref let="p" cid="c1801715.1" />
+				 is my hope?As for my hope, who can see it?
+			</v>
+			<marker class="begin-verse" mid="v18017016" />
+			<v n="16">
+				Will they 
+				<crossref let="q" cid="c1801716.1" />
+				 go down to the gates of Sheol?Shall we have rest together in the dust?”
+			</v>
+			<marker class="begin-verse" mid="v18017017" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

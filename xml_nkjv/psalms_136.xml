@@ -1,0 +1,178 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:24:14.645159</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:24:14.645174</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19136001" />
+		<chapter num="136">
+			<heading>Thanksgiving to God for His Enduring Mercy</heading>
+			<begin-paragraph />
+			<v n="1">
+				Oh, give 
+				<crossref let="b" cid="c191361.1" />
+				 thanks to the Lord, for He is good!For His mercy endures forever.
+			</v>
+			<marker class="begin-verse" mid="v19136002" />
+			<v n="2">
+				Oh, give 
+				<crossref let="c" cid="c191362.1" />
+				 thanks to the God of gods!For His mercy endures forever.
+			<crossref let="a" cid="c19136002.2"> [Jer. 17:20]</crossref></v>
+			<marker class="begin-verse" mid="v19136003" />
+			<v n="3">
+				Oh, give 
+				<crossref let="d" cid="c191363.1" />
+				 thanks to the Lord of lords!For His mercy endures forever:
+			<crossref let="b" cid="c19136003.2"> [Is. 58:6; Jer. 21:12; [Mic. 6:8]; Zech. 7:9; 8:16; Matt. 23:23 c Jer. 7:6; Zech. 7:10]</crossref></v>
+			<marker class="begin-verse" mid="v19136004" />
+			<v n="4">
+				To Him 
+				<crossref let="e" cid="c191364.1" />
+				 who alone does great wonders,For His mercy endures forever;
+			<crossref let="d" cid="c19136004.2"> [Jer. 17:25]</crossref></v>
+			<marker class="begin-verse" mid="v19136005" />
+			<v n="5">
+				To Him 
+				<crossref let="f" cid="c191365.1" />
+				 who by wisdom made the heavens,For His mercy endures forever;
+			<crossref let="e" cid="c19136005.2"> [Matt. 23:38; Heb. 6:13,]</crossref></v>
+			<marker class="begin-verse" mid="v19136006" />
+			<v n="6">
+				To Him 
+				<crossref let="g" cid="c191366.1" />
+				 who laid out the earth above the waters,For His mercy endures forever;
+			<crossref let="f" cid="c19136006.2"> [Gen. 37:25; Num. 32:1; Song]</crossref></v>
+			<marker class="begin-verse" mid="v19136007" />
+			<v n="7">
+				To Him 
+				<crossref let="h" cid="c191367.1" />
+				 who made great lights,For His mercy endures forever—
+			<crossref let="g" cid="c19136007.2"> [Is. 37:24 h Jer.]</crossref></v>
+			<marker class="begin-verse" mid="v19136008" />
+			<v n="8">
+				The sun 
+				<crossref let="i" cid="c191368.1" />
+				 to rule by day,For His mercy endures forever;
+			<crossref let="i" cid="c19136008.2"> [Deut. 29:24-26; 1 Kin. 9:8, 9; 2 Chr. 7:20-22; Jer. 16:10]</crossref></v>
+			<marker class="begin-verse" mid="v19136009" />
+			<v n="9">
+				The moon 
+				<crossref let="j" cid="c191369.1" />
+				 and stars to rule by night,For His mercy endures forever.
+			<crossref let="j" cid="c19136009.2"> [2 Kin. 22:17; 2 Chr. 34:25; Jer.]</crossref></v>
+			<marker class="begin-verse" mid="v19136010" />
+			<v n="10">
+				To Him 
+				<crossref let="k" cid="c1913610.1" />
+				 who struck Egypt in their firstborn,For His mercy endures forever;
+			<crossref let="l" cid="c19136010.2"> [Jer. 14:17; 22:11; Lam. 3:48 22:3 According to Is. 11:1–5, the ideal Davidic king would exe-]</crossref><crossref let="k" cid="c19136010.3"> [2 Kin. 22:20]</crossref></v>
+			<marker class="begin-verse" mid="v19136011" />
+			<v n="11">
+				And brought 
+				<crossref let="l" cid="c1913611.1" />
+				 out Israel from among them,For His mercy endures forever;
+			<crossref let="m" cid="c19136011.2"> [1 Chr. 3:15 n 2 Kin. 23:34; 2 Chr. 36:4; Ezek. 19:4]</crossref></v>
+			<marker class="begin-verse" mid="v19136012" />
+			<v n="12">
+				With a 
+				<crossref let="m" cid="c1913612.1" />
+				 strong hand, and with an outstretched arm,For His mercy endures forever;
+			</v>
+			<marker class="begin-verse" mid="v19136013" />
+			<v n="13">
+				To Him 
+				<crossref let="n" cid="c1913613.1" />
+				 who divided the Red Sea in two,For His mercy endures forever;
+			<crossref let="o" cid="c19136013.2"> [2 Kin. 23:35; Jer. 17:11; Ezek. 22:13 p Lev. 19:13; Deut. 24:14, 15; Mic. 3:10; Hab. 2:9;]</crossref></v>
+			<marker class="begin-verse" mid="v19136014" />
+			<v n="14">
+				And made 
+				<crossref let="o" cid="c1913614.1" />
+				 Israel pass through the midst of it,For His mercy endures forever;
+			</v>
+			<marker class="begin-verse" mid="v19136015" />
+			<v n="15">
+				But overthrew 
+				<crossref let="p" cid="c1913615.1" />
+				 Pharaoh and his army in the Red Sea,For His mercy endures forever;
+			<crossref let="q" cid="c19136015.2"> [2 Kin. 23:25; Ps. 128:2; Is. 3:10; Jer. 7:23; 42:6]</crossref></v>
+			<marker class="begin-verse" mid="v19136016" />
+			<v n="16">
+				To Him 
+				<crossref let="q" cid="c1913616.1" />
+				 who led His people through the wilderness,For His mercy endures forever;
+			</v>
+			<marker class="begin-verse" mid="v19136017" />
+			<v n="17">
+				To Him 
+				<crossref let="r" cid="c1913617.1" />
+				 who struck down great kings,For His mercy endures forever;
+			<crossref let="r" cid="c19136017.2"> [Jer. 6:13; 8:10; Ezek. 19:6; [Luke]</crossref></v>
+			<marker class="begin-verse" mid="v19136018" />
+			<v n="18">
+				And slew 
+				<crossref let="s" cid="c1913618.1" />
+				 famous kings,For His mercy endures forever—
+			<crossref let="s" cid="c19136018.2"> [Jer. 16:4, 6 t 1 Kin. 13:30]</crossref></v>
+			<marker class="begin-verse" mid="v19136019" />
+			<v n="19">
+				Sihon king 
+				<crossref let="t" cid="c1913619.1" />
+				 of the Amorites,For His mercy endures forever;
+			<crossref let="u" cid="c19136019.2"> [1 Kin. 21:23, 24; 2 Chr. 36:6; Jer. 36:30; Dan. 1:2]</crossref></v>
+			<marker class="begin-verse" mid="v19136020" />
+			<v n="20">
+				And Og 
+				<crossref let="u" cid="c1913620.1" />
+				 king of Bashan,For His mercy endures forever—
+			</v>
+			<marker class="begin-verse" mid="v19136021" />
+			<v n="21">
+				And gave 
+				<crossref let="v" cid="c1913621.1" />
+				 their land as a heritage,For His mercy endures forever;
+			<crossref let="v" cid="c19136021.2"> [Jer. 3:24, 25;]</crossref></v>
+			<marker class="begin-verse" mid="v19136022" />
+			<v n="22">
+				A heritage 
+				<crossref let="w" cid="c1913622.1" />
+				 to Israel His servant,For His mercy endures forever.
+			</v>
+			<marker class="begin-verse" mid="v19136023" />
+			<v n="23">
+				Who remembered 
+				<crossref let="x" cid="c1913623.1" />
+				 us in our lowly state,For His mercy endures forever;
+			<crossref let="x" cid="c19136023.2"> [Jer. 6:24 (2 Kin. 23:34). of its lack of knowledge of God (see Hos. 4:6). Knowledge (see Ezek. 17:1–10).]</crossref></v>
+			<marker class="begin-verse" mid="v19136024" />
+			<v n="24">
+				And rescued 
+				<crossref let="y" cid="c1913624.1" />
+				 us from our enemies,For His mercy endures forever;
+			<crossref let="y" cid="c19136024.2"> [2 Kin. 24:6, 8; 1 Chr. 3:16; 2 Chr. 36:9; Jer. 37:1 z Song 8:6; Is. 49:16; Hag. 2:23]</crossref></v>
+			<marker class="begin-verse" mid="v19136025" />
+			<v n="25">
+				Who gives 
+				<crossref let="z" cid="c1913625.1" />
+				 food to all flesh,For His mercy endures forever.
+			<crossref let="a" cid="c19136025.2"> [2 Kin. 24:15, 16; Jer. 34:20]</crossref></v>
+			<marker class="begin-verse" mid="v19136026" />
+			<v n="26">
+				Oh, give 
+				<crossref let="a" cid="c1913626.1" />
+				 thanks to the God of heaven!For His mercy endures forever.
+			<crossref let="b" cid="c19136026.2"> [2 Kin. 24:15; Jer. 10:18; 16:13]</crossref></v>
+			<marker class="begin-verse" mid="v19136027" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:23:10.533980</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:23:10.533997</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19124001" />
+		<chapter num="124">
+			<heading>The Lord the Defense of His PeopleA Song of Ascents. Of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				“If it 
+				<crossref let="b" cid="c191241.1" />
+				 had not been the Lord who was on our side,”Let Israel now say—
+			</v>
+			<marker class="begin-verse" mid="v19124002" />
+			<v n="2">
+				“If it 
+				<crossref let="c" cid="c191242.1" />
+				 had not been the Lord who was on our side,When men rose up against us,
+			<crossref let="a" cid="c19124002.2"> [[Lev. 18:3; 20:23; Deut. 12:30]]</crossref></v>
+			<marker class="begin-verse" mid="v19124003" />
+			<v n="3">
+				Then they 
+				<crossref let="d" cid="c191243.1" />
+				 would have swallowed us alive,When their wrath was kindled against us;
+			<crossref let="b" cid="c19124003.2"> [Is. 40:19; 45:20]</crossref></v>
+			<marker class="begin-verse" mid="v19124004" />
+			<v n="4">
+				Then the 
+				<crossref let="e" cid="c191244.1" />
+				 waters would have overwhelmed us,The stream would have gone over our soul;
+			<crossref let="c" cid="c19124004.2"> [Is. 41:7]</crossref></v>
+			<marker class="begin-verse" mid="v19124005" />
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c191245.1" />
+				 swollen watersWould have gone over our soul.”
+			<crossref let="f" cid="c19124005.2"> [Is. 41:23,]</crossref><crossref let="d" cid="c19124005.3"> [Ps. 115:5; Is. 46:7; Jer. 10:5; 1 Cor. 12:2 e Ps. 115:7; Is. 46:1, 7 merely an outward symbol (see Deut. 10:12–22).]</crossref></v>
+			<marker class="begin-verse" mid="v19124006" />
+			<v n="6">
+				Blessed be 
+				<crossref let="g" cid="c191246.1" />
+				 the Lord,Who has not given us as prey to their teeth.
+			<crossref let="g" cid="c19124006.2"> [Ex. 15:11; Deut. 33:26; Ps. 86:8, 10; Is. 46:5-9; Jer. 10:16]</crossref></v>
+			<marker class="begin-verse" mid="v19124007" />
+			<v n="7">
+				Our soul 
+				<crossref let="h" cid="c191247.1" />
+				 has escaped as a bird from the snare of the fowlers;The snare is broken, and we have escaped.
+			<crossref let="h" cid="c19124007.2"> [Jer. 5:22; Rev. 15:4 i Ps. 89:6]</crossref></v>
+			<marker class="begin-verse" mid="v19124008" />
+			<v n="8">
+				Our help 
+				<crossref let="i" cid="c191248.1" />
+				 is in the name of the Lord,Who made heaven and earth.
+			<crossref let="j" cid="c19124008.2"> [Ps. 115:8; Hab. 2:18 2 vain]</crossref></v>
+			<marker class="begin-verse" mid="v19124009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

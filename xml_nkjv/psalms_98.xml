@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:20:50.624965</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:20:50.624988</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19098001" />
+		<chapter num="98">
+			<heading>A Song of Praise to the Lord for His Salvation and JudgmentA Psalm.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Oh, sing 
+				<crossref let="b" cid="c190981.1" />
+				 to the Lord a new song!For He has done marvelous things;His right hand and His holy arm have gained Him the victory.
+			<crossref let="a" cid="c19098001.2"> [Deut. 24:1; Jer. 3:8 b Deut. 32:30; 2 Kin. 4:1; Neh. 5:5]</crossref></v>
+			<marker class="begin-verse" mid="v19098002" />
+			<v n="2">
+				The Lord 
+				<crossref let="c" cid="c190982.1" />
+				 has made known His salvation;His righteousness He has revealed in the sight of the nations.
+			<crossref let="d" cid="c19098002.2"> [Ps. 106:9; Nah. 1:4]</crossref></v>
+			<marker class="begin-verse" mid="v19098003" />
+			<v n="3">
+				He has 
+				<crossref let="d" cid="c190983.1" />
+				 remembered His mercy and His faithfulness to the house of Israel;All the ends of the earth have seen the salvation of our God.
+			<crossref let="e" cid="c19098003.2"> [Ex. 10:21 f Is. 13:10; Rev. 6:12]</crossref></v>
+			<marker class="begin-verse" mid="v19098004" />
+			<v n="4">
+				Shout joyfully 
+				<crossref let="e" cid="c190984.1" />
+				 to the Lord, all the earth;Break forth in song, rejoice, and sing praises.
+			<crossref let="g" cid="c19098004.2"> [Ex. 4:11 h Matt.]</crossref></v>
+			<marker class="begin-verse" mid="v19098005" />
+			<v n="5">
+				Sing to 
+				<crossref let="f" cid="c190985.1" />
+				 the Lord with the harp,With the harp and the sound of a psalm,
+			<crossref let="i" cid="c19098005.2"> [Ps. 40:6; Is. 35:5 j Matt. 26:39; Mark 14:36; Luke 22:42; John 8:29; Acts 26:19; [Phil. 2:8; Heb. 5:8; 10:7]]</crossref></v>
+			<marker class="begin-verse" mid="v19098006" />
+			<v n="6">
+				With trumpets 
+				<crossref let="g" cid="c190986.1" />
+				 and the sound of a horn;Shout joyfully before the Lord, the King.
+			<crossref let="m" cid="c19098006.2"> [Lam. 3:30]</crossref><crossref let="k" cid="c19098006.3"> [Matt. 27:26; John 18:22 l Matt. Mark 14:65; 15:19]</crossref></v>
+			<marker class="begin-verse" mid="v19098007" />
+			<v n="7">
+				Let the 
+				<crossref let="h" cid="c190987.1" />
+				 sea roar, and all its fullness,The world and those who dwell in it;
+			<crossref let="n" cid="c19098007.2"> [Ezek. 3:8, 9; Luke 9:51 $]</crossref></v>
+			<marker class="begin-verse" mid="v19098008" />
+			<v n="8">
+				Let the 
+				<crossref let="i" cid="c190988.1" />
+				 rivers clap their hands;Let the hills be joyful together before the Lord,
+			<crossref let="o" cid="c19098008.2"> [Acts 2:24; [Rom. 8:32-34]]</crossref></v>
+			<marker class="begin-verse" mid="v19098009" />
+			<v n="9">
+				For He 
+				<crossref let="j" cid="c190989.1" />
+				 is coming to judge the earth.With righteousness He shall judge the world,And the peoples with equity.
+			<crossref let="p" cid="c19098009.2"> [Job 13:28; Ps. 102:26; Heb. 1:11]</crossref><crossref let="q" cid="c19098009.3"> [Is. 51:6,]</crossref></v>
+			<marker class="begin-verse" mid="v19098010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

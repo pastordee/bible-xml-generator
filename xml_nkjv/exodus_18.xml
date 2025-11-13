@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:35:16.783897</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:35:16.783945</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="NKJV" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02018001" />
+		<chapter num="18">
+			<heading>Jethro’s Advice</heading>
+			<begin-paragraph />
+			<v n="1">
+				And Jethro, 
+				<crossref let="b" cid="c020181.1" />
+				 the priest of Midian, Moses’ father-in-law, heard of all that God had done for Moses and for Israel His people—that the Lord had brought Israel out of Egypt.
+			</v>
+			<marker class="begin-verse" mid="v02018002" />
+			<v n="2">
+				Then Jethro, 
+				<crossref let="c" cid="c020182.1" />
+				 Moses’ father-in-law, took Zipporah, Moses’ wife, after he had sent her back,
+			<crossref let="c" cid="c02018002.2"> [Ex. 2:21;]</crossref></v>
+			<marker class="begin-verse" mid="v02018003" />
+			<v n="3">
+				with her 
+				<crossref let="d" cid="c020183.1" />
+				 two sons, of whom the name of one was Gershom (for he said, “I have been a stranger in a foreign land”)
+			<crossref let="d" cid="c02018003.2"> [Ex. 2:20; 4:20; Acts 7:29]</crossref></v>
+			<marker class="begin-verse" mid="v02018004" />
+			<v n="4">
+				and the 
+				<crossref let="e" cid="c020184.1" />
+				 name of the other was Eliezer (for he said, “The God of my father was my help, and delivered me from the sword of Pharaoh”);
+			<crossref let="f" cid="c02018004.2"> [Gen. 49:25]</crossref></v>
+			<marker class="begin-verse" mid="v02018005" />
+			<v n="5">
+				and Jethro, 
+				<crossref let="f" cid="c020185.1" />
+				 Moses’ father-in-law, came with his sons and his wife to Moses in the wilderness, where he was encamped at the mountain of God.
+			<crossref let="g" cid="c02018005.2"> [Ex. 3:1, 12; 4:27;]</crossref></v>
+			<marker class="begin-verse" mid="v02018006" />
+			<v n="6">
+				Now he 
+				<crossref let="g" cid="c020186.1" />
+				 had said to Moses, “I, your father-in-law Jethro, am coming to you with your wife and her two sons with her.”
+			</v>
+			<marker class="begin-verse" mid="v02018007" />
+			<v n="7">
+				So Moses 
+				<crossref let="h" cid="c020187.1" />
+				 went out to meet his father-in-law, bowed down, and kissed him. And they asked each other about their well-being, and they went into the tent.
+			<crossref let="i" cid="c02018007.2"> [Gen. 29:13; Ex.]</crossref><crossref let="h" cid="c02018007.3"> [Gen. 18:2]</crossref></v>
+			<marker class="begin-verse" mid="v02018008" />
+			<v n="8">
+				And Moses 
+				<crossref let="i" cid="c020188.1" />
+				 told his father-in-law all that the Lord had done to Pharaoh and to the Egyptians for Israel’s sake, all the hardship that had come upon them on the way, and how the Lord had delivered them.
+			<crossref let="j" cid="c02018008.2"> [Ex. 15:6, 16; Ps. 81:7]</crossref></v>
+			<marker class="begin-verse" mid="v02018009" />
+			<v n="9">
+				Then Jethro 
+				<crossref let="j" cid="c020189.1" />
+				 rejoiced for all the good which the Lord had done for Israel, whom He had delivered out of the hand of the Egyptians.
+			<crossref let="k" cid="c02018009.2"> [[Is. 63:7-14]]</crossref></v>
+			<marker class="begin-verse" mid="v02018010" />
+			<v n="10">
+				And Jethro 
+				<crossref let="k" cid="c0201810.1" />
+				 said, “Blessed be the Lord, who has delivered you out of the hand of the Egyptians and out of the hand of Pharaoh, and who has delivered the people from under the hand of the Egyptians.
+			<crossref let="l" cid="c02018010.2"> [Gen. 14:20;]</crossref></v>
+			<marker class="begin-verse" mid="v02018011" />
+			<v n="11">
+				Now I 
+				<crossref let="l" cid="c0201811.1" />
+				 know that the Lord is greater than all the gods; for in the very thing in which they behaved proudly, He was above them.”
+			<crossref let="m" cid="c02018011.2"> [Ex. 12:12; 15:11; 2 Chr. 2:5; Ps. 95:3; 97:9; 135:5 n Ex. 5:2, 7 o Luke]</crossref></v>
+			<marker class="begin-verse" mid="v02018012" />
+			<v n="12">
+				Then Jethro, 
+				<crossref let="m" cid="c0201812.1" />
+				 Moses’ father-in-law, took a burnt offering and other sacrifices to offer to God. And Aaron came with all the elders of Israel to eat bread with Moses’ father-in-law before God.
+			<crossref let="p" cid="c02018012.2"> [Ex. 24:5]</crossref><crossref let="q" cid="c02018012.3"> [Gen. 31:54; Deut.]</crossref></v>
+			<marker class="begin-verse" mid="v02018013" />
+			<v n="13">
+				And so 
+				<crossref let="n" cid="c0201813.1" />
+				 it was, on the next day, that Moses sat to judge the people; and the people stood before Moses from morning until evening.
+			<crossref let="r" cid="c02018013.2"> [Deut. 33:4, 5; Matt. 23:2]</crossref></v>
+			<marker class="begin-verse" mid="v02018014" />
+			<v n="14">
+				So when 
+				<crossref let="o" cid="c0201814.1" />
+				 Moses’ father-in-law saw all that he did for the people, he said, “What is this thing that you are doing for the people? Why do you alone sit, and all the people stand before you from morning until evening?”
+			</v>
+			<marker class="begin-verse" mid="v02018015" />
+			<v n="15">
+				And Moses 
+				<crossref let="p" cid="c0201815.1" />
+				 said to his father-in-law, “Because the people come to me to inquire of God.
+			<crossref let="s" cid="c02018015.2"> [Lev. 24:12; Num. 9:6, 8; 27:5; Deut. 17:8-13]</crossref></v>
+			<marker class="begin-verse" mid="v02018016" />
+			<v n="16">
+				When they 
+				<crossref let="q" cid="c0201816.1" />
+				 have a difficulty, they come to me, and I judge between one and another; and I make known the statutes of God and His laws.”
+			<crossref let="t" cid="c02018016.2"> [Ex. 24:14; Deut. 19:17 7 dispute Deut. 1:12 19 8 advice]</crossref></v>
+			<marker class="begin-verse" mid="v02018017" />
+			<v n="17">
+				So Moses’ 
+				<crossref let="r" cid="c0201817.1" />
+				 father-in-law said to him, “The thing that you do is not good.
+			</v>
+			<marker class="begin-verse" mid="v02018018" />
+			<v n="18">
+				Both you 
+				<crossref let="s" cid="c0201818.1" />
+				 and these people who are with you will surely wear yourselves out. For this thing is too much for you; you are not able to perform it by yourself.
+			<crossref let="u" cid="c02018018.2"> [Num. 11:14, 17; Moses married another woman (Num. 12:1). Judg. 18:30). together with Melchizedek (Gen. 14:18–20).]</crossref></v>
+			<marker class="begin-verse" mid="v02018019" />
+			<v n="19">
+				Listen now 
+				<crossref let="t" cid="c0201819.1" />
+				 to my voice; I will give you counsel, and God will be with you: Stand before God for the people, so that you may bring the difficulties to God.
+			<crossref let="w" cid="c02018019.2"> [Num. 9:8; 27:5]</crossref><crossref let="v" cid="c02018019.3"> [Ex. 4:16; 20:19]</crossref></v>
+			<marker class="begin-verse" mid="v02018020" />
+			<v n="20">
+				And you 
+				<crossref let="u" cid="c0201820.1" />
+				 shall teach them the statutes and the laws, and show them the way in which they must walk and the work they must do.
+			<crossref let="x" cid="c02018020.2"> [Deut. 5:1]</crossref><crossref let="y" cid="c02018020.3"> [Deut. 1:18]</crossref></v>
+			<marker class="begin-verse" mid="v02018021" />
+			<v n="21">
+				Moreover you 
+				<crossref let="v" cid="c0201821.1" />
+				 shall select from all the people able men, such as fear God, men of truth, hating covetousness; and place such over them to be rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.
+			<crossref let="c" cid="c02018021.2"> [Deut. 16:19]</crossref><crossref let="z" cid="c02018021.3"> [Ex. 18:24, 25; Deut. 1:13, 15; 2 Chr. 19:5- 10; Ps. 15:1-5; Acts 6:3 a Gen. 42:18;]</crossref></v>
+			<marker class="begin-verse" mid="v02018022" />
+			<v n="22">
+				And let 
+				<crossref let="w" cid="c0201822.1" />
+				 them judge the people at all times. Then it will be that every great matter they shall bring to you, but every small matter they themselves shall judge. So it will be easier for you, for they will bear the burden with you.
+			<crossref let="d" cid="c02018022.2"> [Lev. 24:11; Deut. 1:17 e Num.]</crossref></v>
+			<marker class="begin-verse" mid="v02018023" />
+			<v n="23">
+				If you 
+				<crossref let="x" cid="c0201823.1" />
+				 do this thing, and God so commands you, then you will be able to endure, and all this people will also go to their place in peace.”
+			<crossref let="f" cid="c02018023.2"> [Ex. 16:29]</crossref></v>
+			<marker class="begin-verse" mid="v02018024" />
+			<v n="24">
+				So Moses 
+				<crossref let="y" cid="c0201824.1" />
+				 heeded the voice of his father-in-law and did all that he had said.
+			</v>
+			<marker class="begin-verse" mid="v02018025" />
+			<v n="25">
+				And Moses 
+				<crossref let="z" cid="c0201825.1" />
+				 chose able men out of all Israel, and made them heads over the people: rulers of thousands, rulers of hundreds, rulers of fifties, and rulers of tens.
+			<crossref let="g" cid="c02018025.2"> [Ex. 18:21; Deut. 1:15]</crossref></v>
+			<marker class="begin-verse" mid="v02018026" />
+			<v n="26">
+				So they 
+				<crossref let="a" cid="c0201826.1" />
+				 judged the people at all times; the hard cases they brought to Moses, but they judged every small case themselves.
+			<crossref let="h" cid="c02018026.2"> [Job 29:16]</crossref></v>
+			<marker class="begin-verse" mid="v02018027" />
+			<v n="27">
+				Then Moses 
+				<crossref let="b" cid="c0201827.1" />
+				 let his father-in-law depart, and he went his way to his own land.
+			<crossref let="i" cid="c02018027.2"> [Num. 10:29,]</crossref></v>
+			<marker class="begin-verse" mid="v02018028" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

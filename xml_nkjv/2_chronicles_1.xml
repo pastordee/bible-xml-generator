@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:02:13.752848</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:02:13.752872</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" version="NKJV" bookAbbr="2ch">
+		<marker class="begin-verse" mid="v14001001" />
+		<chapter num="1">
+			<heading>Solomon Requests Wisdom</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now Solomon 
+				<crossref let="b" cid="c140011.1" />
+				 the son of David was strengthened in his kingdom, and the Lord his God was with him and exalted him exceedingly.
+			<crossref let="a" cid="c14001001.2"> [Ex. 27:1, 2; 2 Kin. 16:14; Ezek.]</crossref></v>
+			<marker class="begin-verse" mid="v14001002" />
+			<v n="2">
+				And Solomon 
+				<crossref let="c" cid="c140012.1" />
+				 spoke to all Israel, to the captains of thousands and of hundreds, to the judges, and to every leader in all Israel, the heads of the fathers’ houses.
+			<crossref let="b" cid="c14001002.2"> [Ex. 30:17-21; 1 Kin. 7:23-26]</crossref></v>
+			<marker class="begin-verse" mid="v14001003" />
+			<v n="3">
+				Then Solomon, 
+				<crossref let="d" cid="c140013.1" />
+				 and all the assembly with him, went to the high place that was at Gibeon; for the tabernacle of meeting with God was there, which Moses the servant of the Lord had made in the wilderness.
+			<crossref let="c" cid="c14001003.2"> [1 Kin. 7:24-26]</crossref></v>
+			<marker class="begin-verse" mid="v14001004" />
+			<v n="4">
+				But David 
+				<crossref let="e" cid="c140014.1" />
+				 had brought up the ark of God from Kirjath Jearim to the place David had prepared for it, for he had pitched a tent for it at Jerusalem.
+			<crossref let="d" cid="c14001004.2"> [1 Kin. 7:25]</crossref></v>
+			<marker class="begin-verse" mid="v14001005" />
+			<v n="5">
+				Now the 
+				<crossref let="f" cid="c140015.1" />
+				 bronze altar that Bezalel the son of Uri, the son of Hur, had made, he put before the tabernacle of the Lord; Solomon and the assembly sought Him there.
+			</v>
+			<marker class="begin-verse" mid="v14001006" />
+			<v n="6">
+				And Solomon 
+				<crossref let="g" cid="c140016.1" />
+				 went up there to the bronze altar before the Lord, which was at the tabernacle of meeting, and offered a thousand burnt offerings on it.
+			<crossref let="e" cid="c14001006.2"> [1 Kin. 7:38,]</crossref></v>
+			<marker class="begin-verse" mid="v14001007" />
+			<v n="7">
+				On that 
+				<crossref let="h" cid="c140017.1" />
+				 night God appeared to Solomon, and said to him, “Ask! What shall I give you?”
+			<crossref let="g" cid="c14001007.2"> [1 Kin. 7:49]</crossref><crossref let="h" cid="c14001007.3"> [Ex. 25:31; 1 Chr.]</crossref></v>
+			<marker class="begin-verse" mid="v14001008" />
+			<v n="8">
+				And Solomon 
+				<crossref let="i" cid="c140018.1" />
+				 said to God: “You have shown great mercy to David my father, and have made me king in his place.
+			<crossref let="i" cid="c14001008.2"> [1 Kin. 7:48 j 1 Chr. 28:17]</crossref></v>
+			<marker class="begin-verse" mid="v14001009" />
+			<v n="9">
+				Now, O 
+				<crossref let="j" cid="c140019.1" />
+				 Lord God, let Your promise to David my father be established, for You have made me king over a people like the dust of the earth in multitude.
+			<crossref let="k" cid="c14001009.2"> [1 Kin. 6:36 l 2 Kin. 21:5]</crossref></v>
+			<marker class="begin-verse" mid="v14001010" />
+			<v n="10">
+				Now give 
+				<crossref let="k" cid="c1400110.1" />
+				 me wisdom and knowledge, that I may go out and come in before this people; for who can judge this great people of Yours?”
+			<crossref let="m" cid="c14001010.2"> [1 Kin. 7:39]</crossref></v>
+			<marker class="begin-verse" mid="v14001011" />
+			<v n="11">
+				Then God 
+				<crossref let="l" cid="c1400111.1" />
+				 said to Solomon: “Because this was in your heart, and you have not asked riches or wealth or honor or the life of your enemies, nor have you asked long life—but have asked wisdom and knowledge for yourself, that you may judge My people over whom I have made you king—
+			<crossref let="n" cid="c14001011.2"> [1 Kin. 7:40-51]</crossref></v>
+			<marker class="begin-verse" mid="v14001012" />
+			<v n="12">
+				wisdom and 
+				<crossref let="m" cid="c1400112.1" />
+				 knowledge are granted to you; and I will give you riches and wealth and honor, such as none of the kings have had who were before you, nor shall any after you have the like.”Solomon’s Military and Economic Power
+			<crossref let="o" cid="c14001012.2"> [1 Kin. 7:41]</crossref></v>
+			<marker class="begin-verse" mid="v14001013" />
+			<v n="13">
+				So Solomon 
+				<crossref let="n" cid="c1400113.1" />
+				 came to Jerusalem from the high place that was at Gibeon, from before the tabernacle of meeting, and reigned over Israel.
+			</v>
+			<marker class="begin-verse" mid="v14001014" />
+			<v n="14">
+				And Solomon 
+				<crossref let="o" cid="c1400114.1" />
+				 gathered chariots and horsemen; he had one thousand four hundred chariots and twelve thousand horsemen, whom he stationed in the chariot cities and with the king in Jerusalem.
+			<crossref let="q" cid="c14001014.2"> [1 Kin. 7:27,]</crossref></v>
+			<marker class="begin-verse" mid="v14001015" />
+			<v n="15">
+				Also the 
+				<crossref let="p" cid="c1400115.1" />
+				 king made silver and gold as common in Jerusalem as stones, and he made cedars as abundant as the sycamores which are in the lowland.
+			</v>
+			<marker class="begin-verse" mid="v14001016" />
+			<v n="16">
+				And Solomon 
+				<crossref let="q" cid="c1400116.1" />
+				 had horses imported from Egypt and Keveh; the king’s merchants bought them in Keveh at the current price.
+			<crossref let="r" cid="c14001016.2"> [1 Kin. 7:45; 1 Kin. 7:46]</crossref></v>
+			<marker class="begin-verse" mid="v14001017" />
+			<v n="17">
+				They also 
+				<crossref let="r" cid="c1400117.1" />
+				 acquired and imported from Egypt a chariot for six hundred shekels of silver, and a horse for one hundred and fifty; thus, through their agents, they exported them to all the kings of the Hittites and the kings of Syria.
+			</v>
+			<marker class="begin-verse" mid="v14001018" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

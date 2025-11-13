@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:14:25.145288</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:14:25.145305</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19026001" />
+		<chapter num="26">
+			<heading>A Prayer for Divine Scrutiny and RedemptionA Psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Vindicate me, 
+				<crossref let="b" cid="c190261.1" />
+				 O Lord,For I have walked in my integrity.I have also trusted in the Lord;I shall not slip.
+			<crossref let="a" cid="c19026001.2"> [2 Chr. 36:16; Prov. 6:15]</crossref></v>
+			<marker class="begin-verse" mid="v19026002" />
+			<v n="2">
+				Examine me, 
+				<crossref let="c" cid="c190262.1" />
+				 O Lord, and prove me;Try my mind and my heart.
+			<crossref let="b" cid="c19026002.2"> [Esth. 8:15; Prov. 28:12 c Esth.]</crossref></v>
+			<marker class="begin-verse" mid="v19026003" />
+			<v n="3">
+				For Your 
+				<crossref let="d" cid="c190263.1" />
+				 lovingkindness is before my eyes,And I have walked in Your truth.
+			</v>
+			<marker class="begin-verse" mid="v19026004" />
+			<v n="4">
+				I have 
+				<crossref let="e" cid="c190264.1" />
+				 not sat with idolatrous mortals,Nor will I go in with hypocrites.
+			</v>
+			<marker class="begin-verse" mid="v19026005" />
+			<v n="5">
+				I have 
+				<crossref let="f" cid="c190265.1" />
+				 hated the assembly of evildoers,And will not sit with the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19026006" />
+			<v n="6">
+				I will 
+				<crossref let="g" cid="c190266.1" />
+				 wash my hands in innocence;So I will go about Your altar, O Lord,
+			</v>
+			<marker class="begin-verse" mid="v19026007" />
+			<v n="7">
+				That I 
+				<crossref let="h" cid="c190267.1" />
+				 may proclaim with the voice of thanksgiving,And tell of all Your wondrous works.
+			<crossref let="e" cid="c19026007.2"> [Job 29:16; Ps. 41:1; Prov. 31:8,]</crossref></v>
+			<marker class="begin-verse" mid="v19026008" />
+			<v n="8">
+				Lord, I 
+				<crossref let="i" cid="c190268.1" />
+				 have loved the habitation of Your house,And the place where Your glory dwells.
+			<crossref let="f" cid="c19026008.2"> [Prov. 11:11]</crossref></v>
+			<marker class="begin-verse" mid="v19026009" />
+			<v n="9">
+				Do not 
+				<crossref let="j" cid="c190269.1" />
+				 gather my soul with sinners,Nor my life with bloodthirsty men,
+			<crossref let="g" cid="c19026009.2"> [Matt. 11:17]</crossref></v>
+			<marker class="begin-verse" mid="v19026010" />
+			<v n="10">
+				In whose 
+				<crossref let="k" cid="c1902610.1" />
+				 hands is a sinister scheme,And whose right hand is full of bribes.
+			<crossref let="h" cid="c19026010.2"> [Gen. 4:5-8;]</crossref></v>
+			<marker class="begin-verse" mid="v19026011" />
+			<v n="11">
+				But as 
+				<crossref let="l" cid="c1902611.1" />
+				 for me, I will walk in my integrity;Redeem me and be merciful to me.
+			<crossref let="i" cid="c19026011.2"> [Prov. 14:33]</crossref></v>
+			<marker class="begin-verse" mid="v19026012" />
+			<v n="12">
+				My foot 
+				<crossref let="m" cid="c1902612.1" />
+				 stands in an even place;In the congregations I will bless the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19026013" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

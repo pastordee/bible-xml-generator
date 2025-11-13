@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:17:32.425226</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:17:32.425238</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19061001" />
+		<chapter num="61">
+			<heading>Assurance of God’s Eternal ProtectionTo the Chief Musician. On a stringed instrument. A Psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Hear my 
+				<crossref let="b" cid="c190611.1" />
+				 cry, O God;Attend to my prayer.
+			<crossref let="a" cid="c19061001.2"> [Jer. 50; 51; Matt. 1:11; Rev.]</crossref></v>
+			<marker class="begin-verse" mid="v19061002" />
+			<v n="2">
+				From the 
+				<crossref let="c" cid="c190612.1" />
+				 end of the earth I will cry to You,When my heart is overwhelmed;Lead me to the rock that is higher than I.
+			<crossref let="b" cid="c19061002.2"> [Is. 18:3 c Jer. 51:25 d Is. 10:32]</crossref></v>
+			<marker class="begin-verse" mid="v19061003" />
+			<v n="3">
+				For You 
+				<crossref let="d" cid="c190613.1" />
+				 have been a shelter for me,A strong tower from the enemy.
+			<crossref let="f" cid="c19061003.2"> [Ps. 149:2]</crossref><crossref let="e" cid="c19061003.3"> [Joel 3:11]</crossref></v>
+			<marker class="begin-verse" mid="v19061004" />
+			<v n="4">
+				I will 
+				<crossref let="e" cid="c190614.1" />
+				 abide in Your tabernacle forever;I will trust in the shelter of Your wings.Selah
+			</v>
+			<marker class="begin-verse" mid="v19061005" />
+			<v n="5">
+				For You, 
+				<crossref let="f" cid="c190615.1" />
+				 O God, have heard my vows;You have given me the heritage of those who fear Your name.
+			<crossref let="h" cid="c19061005.2"> [Is. 42:13 i Is.]</crossref></v>
+			<marker class="begin-verse" mid="v19061006" />
+			<v n="6">
+				You will 
+				<crossref let="g" cid="c190616.1" />
+				 prolong the king’s life,His years as many generations.
+			<crossref let="j" cid="c19061006.2"> [Is. 2:12; Ezek. 30:3; Amos 5:18; Zeph. 1:7; Rev. 6:17 k Is. 10:25; Job 31:23; Joel 1:15]</crossref></v>
+			<marker class="begin-verse" mid="v19061007" />
+			<v n="7">
+				He shall 
+				<crossref let="h" cid="c190617.1" />
+				 abide before God forever.Oh, prepare mercy and truth, which may preserve him!
+			</v>
+			<marker class="begin-verse" mid="v19061008" />
+			<v n="8">
+				So I 
+				<crossref let="i" cid="c190618.1" />
+				 will sing praise to Your name forever,That I may daily perform my vows.
+			<crossref let="l" cid="c19061008.2"> [Ps. 48:6 4 Sharp]</crossref></v>
+			<marker class="begin-verse" mid="v19061009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

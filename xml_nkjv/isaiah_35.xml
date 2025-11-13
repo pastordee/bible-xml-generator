@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:33:11.130938</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:33:11.130976</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23035001" />
+		<chapter num="35">
+			<heading>The Future Glory of Zion</heading>
+			<begin-paragraph />
+			<v n="1">
+				The wilderness 
+				<crossref let="b" cid="c230351.1" />
+				 and the wasteland shall be glad for them,And the desert shall rejoice and blossom as the rose;
+			<crossref let="a" cid="c23035001.2"> [Ezek. 23:4- 8; Hos. 5:1]</crossref></v>
+			<marker class="begin-verse" mid="v23035002" />
+			<v n="2">
+				It shall 
+				<crossref let="c" cid="c230352.1" />
+				 blossom abundantly and rejoice,Even with joy and singing.The glory of Lebanon shall be given to it,The excellence of Carmel and Sharon.They shall see the glory of the Lord,The excellency of our God.
+			<crossref let="b" cid="c23035002.2"> [Ps. 25:7; Jer. 14:10; 17:1; Hos. 8:13; 9:9; Amos Moses (see Deut. 30:1–3). will hold them accountable for their deeds (see Ps. 73:11).]</crossref></v>
+			<marker class="begin-verse" mid="v23035003" />
+			<v n="3">
+				Strengthen the 
+				<crossref let="d" cid="c230353.1" />
+				 weak hands,And make firm the feeble knees.
+			<crossref let="c" cid="c23035003.2"> [Hos. 1:1 d Mic. 7:3; [Rom. 1:32]]</crossref></v>
+			<marker class="begin-verse" mid="v23035004" />
+			<v n="4">
+				Say to 
+				<crossref let="e" cid="c230354.1" />
+				 those who are fearful-hearted,“Be strong, do not fear!Behold, your God will come with vengeance,With the recompense of God;He will come and save you.”
+			<crossref let="e" cid="c23035004.2"> [Jer. 9:2; 23:10]</crossref></v>
+			<marker class="begin-verse" mid="v23035005" />
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c230355.1" />
+				 eyes of the blind shall be opened,And the ears of the deaf shall be unstopped.
+			</v>
+			<marker class="begin-verse" mid="v23035006" />
+			<v n="6">
+				Then the 
+				<crossref let="g" cid="c230356.1" />
+				 lame shall leap like a deer,And the tongue of the dumb sing.For waters shall burst forth in the wilderness,And streams in the desert.
+			</v>
+			<marker class="begin-verse" mid="v23035007" />
+			<v n="7">
+				The parched 
+				<crossref let="h" cid="c230357.1" />
+				 ground shall become a pool,And the thirsty land springs of water;In the habitation of jackals, where each lay,There shall be grass with reeds and rushes.
+			<crossref let="g" cid="c23035007.2"> [Is. 64:7]</crossref></v>
+			<marker class="begin-verse" mid="v23035008" />
+			<v n="8">
+				A highway 
+				<crossref let="i" cid="c230358.1" />
+				 shall be there, and a road,And it shall be called the Highway of Holiness.The unclean shall not pass over it,But it shall be for others.Whoever walks the road, although a fool,Shall not go astray.
+			<crossref let="h" cid="c23035008.2"> [Ps. 106:35]</crossref></v>
+			<marker class="begin-verse" mid="v23035009" />
+			<v n="9">
+				No lion 
+				<crossref let="j" cid="c230359.1" />
+				 shall be there,Nor shall any ravenous beast go up on it;It shall not be found there.But the redeemed shall walk there,
+			<crossref let="i" cid="c23035009.2"> [Is. 1:7; 42:25; Hos. 8:7]</crossref></v>
+			<marker class="begin-verse" mid="v23035010" />
+			<v n="10">
+				And the 
+				<crossref let="k" cid="c2303510.1" />
+				 ransomed of the Lord shall return,And come to Zion with singing,With everlasting joy on their heads.They shall obtain joy and gladness,And sorrow and sighing shall flee away.
+			<crossref let="j" cid="c23035010.2"> [Hos. 5:5 k Is.]</crossref></v>
+			<marker class="begin-verse" mid="v23035011" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

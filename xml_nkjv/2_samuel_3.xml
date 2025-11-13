@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:53:26.710308</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:53:26.710347</next_refresh_due>
+	</generation_info>
+	<book title="2 Samuel" num="10" testament="old" version="NKJV" bookAbbr="2sa">
+		<marker class="begin-verse" mid="v10003001" />
+		<chapter num="3">
+			<begin-paragraph />
+			<v n="1">
+				Now there 
+				<crossref let="b" cid="c100031.1" />
+				 was a long war between the house of Saul and the house of David. But David grew stronger and stronger, and the house of Saul grew weaker and weaker.Sons of David
+			</v>
+			<marker class="begin-verse" mid="v10003002" />
+			<v n="2">
+				Sons were 
+				<crossref let="c" cid="c100032.1" />
+				 born to David in Hebron: His firstborn was Amnon by Ahinoam the Jezreelitess;
+			<crossref let="a" cid="c10003002.2"> [1 Chr. 13:5,]</crossref><crossref let="b" cid="c10003002.3"> [Ex. 25:22;]</crossref></v>
+			<marker class="begin-verse" mid="v10003003" />
+			<v n="3">
+				his second, 
+				<crossref let="d" cid="c100033.1" />
+				 Chileab, by Abigail the widow of Nabal the Carmelite; the third, Absalom the son of Maacah, the daughter of Talmai, king of Geshur;
+			<crossref let="c" cid="c10003003.2"> [1 Sam. 26:1]</crossref></v>
+			<marker class="begin-verse" mid="v10003004" />
+			<v n="4">
+				the fourth, 
+				<crossref let="e" cid="c100034.1" />
+				 Adonijah the son of Haggith; the fifth, Shephatiah the son of Abital;
+			<crossref let="d" cid="c10003004.2"> [1 Sam. 7:1; 1 Chr. 13:7]</crossref></v>
+			<marker class="begin-verse" mid="v10003005" />
+			<v n="5">
+				and the 
+				<crossref let="f" cid="c100035.1" />
+				 sixth, Ithream, by David’s wife Eglah. These were born to David in Hebron.Abner Joins Forces with David
+			<crossref let="e" cid="c10003005.2"> [1 Sam. 18:6,]</crossref></v>
+			<marker class="begin-verse" mid="v10003006" />
+			<v n="6">
+				Now it 
+				<crossref let="g" cid="c100036.1" />
+				 was so, while there was war between the house of Saul and the house of David, that Abner was strengthening his hold on the house of Saul.
+			<crossref let="g" cid="c10003006.2"> [Num. 4:15, 19,]</crossref><crossref let="f" cid="c10003006.3"> [1 Chr. 13:9]</crossref></v>
+			<marker class="begin-verse" mid="v10003007" />
+			<v n="7">
+				And Saul 
+				<crossref let="h" cid="c100037.1" />
+				 had a concubine, whose name was Rizpah, the daughter of Aiah. So Ishbosheth said to Abner, “Why have you gone in to my father’s concubine?”
+			</v>
+			<marker class="begin-verse" mid="v10003008" />
+			<v n="8">
+				Then Abner 
+				<crossref let="i" cid="c100038.1" />
+				 became very angry at the words of Ishbosheth, and said, “Am I a dog’s head that belongs to Judah? Today I show loyalty to the house of Saul your father, to his brothers, and to his friends, and have not delivered you into the hand of David; and you charge me today with a fault concerning this woman?
+			</v>
+			<marker class="begin-verse" mid="v10003009" />
+			<v n="9">
+				May God 
+				<crossref let="j" cid="c100039.1" />
+				 do so to Abner, and more also, if I do not do for David as the Lord has sworn to him—
+			<crossref let="h" cid="c10003009.2"> [Deut. 9:19; Ps. 119:120; Luke 5:8]</crossref></v>
+			<marker class="begin-verse" mid="v10003010" />
+			<v n="10">
+				to transfer 
+				<crossref let="k" cid="c1000310.1" />
+				 the kingdom from the house of Saul, and set up the throne of David over Israel and over Judah, from Dan to Beersheba.”
+			<crossref let="i" cid="c10003010.2"> [2 Sam. 5:7 j 1 Chr. 13:13;]</crossref></v>
+			<marker class="begin-verse" mid="v10003011" />
+			<v n="11">
+				And he 
+				<crossref let="l" cid="c1000311.1" />
+				 could not answer Abner another word, because he feared him.
+			<crossref let="l" cid="c10003011.2"> [Gen. 30:27;]</crossref></v>
+			<marker class="begin-verse" mid="v10003012" />
+			<v n="12">
+				Then Abner 
+				<crossref let="m" cid="c1000312.1" />
+				 sent messengers on his behalf to David, saying, “Whose is the land?” saying also, “Make your covenant with me, and indeed my hand shall be with you to bring all Israel to you.”
+			<crossref let="m" cid="c10003012.2"> [1 Chr.]</crossref></v>
+			<marker class="begin-verse" mid="v10003013" />
+			<v n="13">
+				And David 
+				<crossref let="n" cid="c1000313.1" />
+				 said, “Good, I will make a covenant with you. But one thing I require of you: you shall not see my face unless you first bring Michal, Saul’s daughter, when you come to see my face.”
+			<crossref let="n" cid="c10003013.2"> [Num. 4:15; Josh. 3:3;]</crossref></v>
+			<marker class="begin-verse" mid="v10003014" />
+			<v n="14">
+				So David 
+				<crossref let="o" cid="c1000314.1" />
+				 sent messengers to Ishbosheth, Saul’s son, saying, “Give me my wife Michal, whom I betrothed to myself for a hundred foreskins of the Philistines.”
+			<crossref let="p" cid="c10003014.2"> [Ps. 30:11; 149:3 q]</crossref></v>
+			<marker class="begin-verse" mid="v10003015" />
+			<v n="15">
+				And Ishbosheth 
+				<crossref let="p" cid="c1000315.1" />
+				 sent and took her from her husband, from Paltiel the son of Laish.
+			<crossref let="r" cid="c10003015.2"> [1 Chr. 15:28]</crossref></v>
+			<marker class="begin-verse" mid="v10003016" />
+			<v n="16">
+				Then her 
+				<crossref let="q" cid="c1000316.1" />
+				 husband went along with her to Bahurim, weeping behind her. So Abner said to him, “Go, return!” And he returned.
+			<crossref let="a" cid="c10003016.2"> [Judg. 9:4]</crossref><crossref let="s" cid="c10003016.3"> [2 Sam. 3:14]</crossref></v>
+			<marker class="begin-verse" mid="v10003017" />
+			<v n="17">
+				Now Abner 
+				<crossref let="r" cid="c1000317.1" />
+				 had communicated with the elders of Israel, saying, “In time past you were seeking for David to be king over you.
+			<crossref let="t" cid="c10003017.2"> [1 Chr. 16:1 u 1 Chr. 15:1; 2 Chr. 1:4 v 1 Kin. 8:5,]</crossref></v>
+			<marker class="begin-verse" mid="v10003018" />
+			<v n="18">
+				Now then, 
+				<crossref let="s" cid="c1000318.1" />
+				 do it! For the Lord has spoken of David, saying, ‘By the hand of My servant David, I will save My people Israel from the hand of the Philistines and the hand of all their enemies.’ ”
+			<crossref let="w" cid="c10003018.2"> [1 Kin. 8:14,]</crossref></v>
+			<marker class="begin-verse" mid="v10003019" />
+			<v n="19">
+				And Abner 
+				<crossref let="t" cid="c1000319.1" />
+				 also spoke in the hearing of Benjamin. Then Abner also went to speak in the hearing of David in Hebron all that seemed good to Israel and the whole house of Benjamin.
+			<crossref let="x" cid="c10003019.2"> [1 Chr. 16:3]</crossref></v>
+			<marker class="begin-verse" mid="v10003020" />
+			<v n="20">
+				So Abner 
+				<crossref let="u" cid="c1000320.1" />
+				 and twenty men with him came to David at Hebron. And David made a feast for Abner and the men who were with him.
+			<crossref let="y" cid="c10003020.2"> [Ps. 30:title dances, they always danced separately (Ps. 68:25; Jer. 31:13). Dancing for sensual entertainment of worship (Matt. 14:6). z]</crossref></v>
+			<marker class="begin-verse" mid="v10003021" />
+			<v n="21">
+				Then Abner 
+				<crossref let="v" cid="c1000321.1" />
+				 said to David, “I will arise and go, and gather all Israel to my lord the king, that they may make a covenant with you, and that you may reign over all that your heart desires.” So David sent Abner away, and he went in peace.Joab Murders Abner
+			<crossref let="b" cid="c10003021.2"> [1 Sam. 13:14; 15:28 c 2 Kin.]</crossref></v>
+			<marker class="begin-verse" mid="v10003022" />
+			<v n="22">
+				At that 
+				<crossref let="w" cid="c1000322.1" />
+				 moment the servants of David and Joab came from a raid and brought much spoil with them. But Abner was not with David in Hebron, for he had sent him away, and he had gone in peace.
+			</v>
+			<marker class="begin-verse" mid="v10003023" />
+			<v n="23">
+				When Joab 
+				<crossref let="x" cid="c1000323.1" />
+				 and all the troops that were with him had come, they told Joab, saying, “Abner the son of Ner came to the king, and he sent him away, and he has gone in peace.”
+			</v>
+			<marker class="begin-verse" mid="v10003024" />
+			<v n="24">
+				Then Joab 
+				<crossref let="y" cid="c1000324.1" />
+				 came to the king and said, “What have you done? Look, Abner came to you; why is it that you sent him away, and he has already gone?
+			</v>
+			<marker class="begin-verse" mid="v10003025" />
+			<v n="25">
+				Surely you 
+				<crossref let="z" cid="c1000325.1" />
+				 realize that Abner the son of Ner came to deceive you, to know your going out and your coming in, and to know all that you are doing.”
+			</v>
+			<marker class="begin-verse" mid="v10003026" />
+			<v n="26">
+				And when 
+				<crossref let="a" cid="c1000326.1" />
+				 Joab had gone from David’s presence, he sent messengers after Abner, who brought him back from the well of Sirah. But David did not know it.
+			</v>
+			<marker class="begin-verse" mid="v10003027" />
+			<v n="27">
+				Now when 
+				<crossref let="b" cid="c1000327.1" />
+				 Abner had returned to Hebron, Joab took him aside in the gate to speak with him privately, and there stabbed him in the stomach, so that he died for the blood of Asahel his brother.
+			</v>
+			<marker class="begin-verse" mid="v10003028" />
+			<v n="28">
+				Afterward, when 
+				<crossref let="c" cid="c1000328.1" />
+				 David heard it, he said, “My kingdom and I are guiltless before the Lord forever of the blood of Abner the son of Ner.
+			</v>
+			<marker class="begin-verse" mid="v10003029" />
+			<v n="29">
+				Let it 
+				<crossref let="d" cid="c1000329.1" />
+				 rest on the head of Joab and on all his father’s house; and let there never fail to be in the house of Joab one who has a discharge or is a leper, who leans on a staff or falls by the sword, or who lacks bread.”
+			</v>
+			<marker class="begin-verse" mid="v10003030" />
+			<v n="30">
+				So Joab 
+				<crossref let="e" cid="c1000330.1" />
+				 and Abishai his brother killed Abner, because he had killed their brother Asahel at Gibeon in the battle.David’s Mourning for Abner
+			</v>
+			<marker class="begin-verse" mid="v10003031" />
+			<v n="31">
+				Then David 
+				<crossref let="f" cid="c1000331.1" />
+				 said to Joab and to all the people who were with him, “Tear your clothes, gird yourselves with sackcloth, and mourn for Abner.” And King David followed the coffin.
+			</v>
+			<marker class="begin-verse" mid="v10003032" />
+			<v n="32">
+				So they 
+				<crossref let="g" cid="c1000332.1" />
+				 buried Abner in Hebron; and the king lifted up his voice and wept at the grave of Abner, and all the people wept.
+			</v>
+			<marker class="begin-verse" mid="v10003033" />
+			<v n="33">
+				And the 
+				<crossref let="h" cid="c1000333.1" />
+				 king sang a lament over Abner and said:“Should Abner die as a fool dies?
+			</v>
+			<marker class="begin-verse" mid="v10003034" />
+			<v n="34">
+				Your hands 
+				<crossref let="i" cid="c1000334.1" />
+				 were not boundNor your feet put into fetters;As a man falls before wicked men, so you fell.”Then all the people wept over him again.
+			</v>
+			<marker class="begin-verse" mid="v10003035" />
+			<v n="35">
+				And when 
+				<crossref let="j" cid="c1000335.1" />
+				 all the people came to persuade David to eat food while it was still day, David took an oath, saying, “God do so to me, and more also, if I taste bread or anything else till the sun goes down!”
+			</v>
+			<marker class="begin-verse" mid="v10003036" />
+			<v n="36">
+				Now all 
+				<crossref let="k" cid="c1000336.1" />
+				 the people took note of it, and it pleased them, since whatever the king did pleased all the people.
+			</v>
+			<marker class="begin-verse" mid="v10003037" />
+			<v n="37">
+				For all 
+				<crossref let="l" cid="c1000337.1" />
+				 the people and all Israel understood that day that it had not been the king’s intent to kill Abner the son of Ner.
+			</v>
+			<marker class="begin-verse" mid="v10003038" />
+			<v n="38">
+				Then the 
+				<crossref let="m" cid="c1000338.1" />
+				 king said to his servants, “Do you not know that a prince and a great man has fallen this day in Israel?
+			</v>
+			<marker class="begin-verse" mid="v10003039" />
+			<v n="39">
+				And I 
+				<crossref let="n" cid="c1000339.1" />
+				 am weak today, though anointed king; and these men, the sons of Zeruiah, are too harsh for me. The Lord shall repay the evildoer according to his wickedness.”
+			</v>
+			<marker class="begin-verse" mid="v10003040" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

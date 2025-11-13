@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:11:11.240509</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:11:11.240527</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" version="NKJV" bookAbbr="job">
+		<marker class="begin-verse" mid="v18032001" />
+		<chapter num="32">
+			<heading>Elihu Contradicts Job’s Friends</heading>
+			<begin-paragraph />
+			<v n="1">
+				So these 
+				<crossref let="b" cid="c180321.1" />
+				 three men ceased answering Job, because he was righteous in his own eyes.
+			</v>
+			<marker class="begin-verse" mid="v18032002" />
+			<v n="2">
+				Then the 
+				<crossref let="c" cid="c180322.1" />
+				 wrath of Elihu, the son of Barachel the Buzite, of the family of Ram, was aroused against Job; his wrath was aroused because he justified himself rather than God.
+			</v>
+			<marker class="begin-verse" mid="v18032003" />
+			<v n="3">
+				Also against 
+				<crossref let="d" cid="c180323.1" />
+				 his three friends his wrath was aroused, because they had found no answer, and yet had condemned Job.
+			</v>
+			<marker class="begin-verse" mid="v18032004" />
+			<v n="4">
+				Now because 
+				<crossref let="e" cid="c180324.1" />
+				 they were years older than he, Elihu had waited to speak to Job.
+			<crossref let="b" cid="c18032004.2"> [Job 34:8]</crossref></v>
+			<marker class="begin-verse" mid="v18032005" />
+			<v n="5">
+				When Elihu 
+				<crossref let="f" cid="c180325.1" />
+				 saw that there was no answer in the mouth of these three men, his wrath was aroused.
+			<crossref let="c" cid="c18032005.2"> [Gen. 15:5; [Job 22:12; Ps. 8:3]]</crossref></v>
+			<marker class="begin-verse" mid="v18032006" />
+			<v n="6">
+				So Elihu, 
+				<crossref let="g" cid="c180326.1" />
+				 the son of Barachel the Buzite, answered and said:“I am young in years, and you are very old;Therefore I was afraid,And dared not declare my opinion to you.
+			<crossref let="d" cid="c18032006.2"> [Job 7:20; [Prov. 8:36; Jer. 7:19]]</crossref></v>
+			<marker class="begin-verse" mid="v18032007" />
+			<v n="7">
+				I said, 
+				<crossref let="h" cid="c180327.1" />
+				 ‘Age should speak,And multitude of years should teach wisdom.’
+			<crossref let="e" cid="c18032007.2"> [Job 22:2; Ps. 16:2; Prov. 9:12; [Luke 17:10]; Rom. 11:35]</crossref></v>
+			<marker class="begin-verse" mid="v18032008" />
+			<v n="8">
+				But there 
+				<crossref let="i" cid="c180328.1" />
+				 is a spirit in man,And the breath of the Almighty gives him understanding.
+			</v>
+			<marker class="begin-verse" mid="v18032009" />
+			<v n="9">
+				Great men 
+				<crossref let="j" cid="c180329.1" />
+				 are not always wise,Nor do the aged always understand justice.
+			<crossref let="f" cid="c18032009.2"> [Job 34:28]</crossref></v>
+			<marker class="begin-verse" mid="v18032010" />
+			<v n="10">
+				“Therefore I 
+				<crossref let="k" cid="c1803210.1" />
+				 say, ‘Listen to me,I also will declare my opinion.’
+			<crossref let="g" cid="c18032010.2"> [Is. 51:13 h Job 8:21; Ps. 42:8; 77:6; 149:5; Acts 16:25]</crossref></v>
+			<marker class="begin-verse" mid="v18032011" />
+			<v n="11">
+				Indeed I 
+				<crossref let="l" cid="c1803211.1" />
+				 waited for your words,I listened to your reasonings, while you searched out what to say.
+			<crossref let="i" cid="c18032011.2"> [Job 36:22; Ps. 94:12; [Is. 48:17]; Jer. 32:33; [1 Cor.]</crossref></v>
+			<marker class="begin-verse" mid="v18032012" />
+			<v n="12">
+				I paid 
+				<crossref let="m" cid="c1803212.1" />
+				 close attention to you;And surely not one of you convinced Job,Or answered his words—
+			<crossref let="j" cid="c18032012.2"> [Prov. 1:28]</crossref></v>
+			<marker class="begin-verse" mid="v18032013" />
+			<v n="13">
+				Lest you 
+				<crossref let="n" cid="c1803213.1" />
+				 say,‘We have found wisdom’;God will vanquish him, not man.
+			<crossref let="k" cid="c18032013.2"> [Job 27:9; [Prov. 15:29; Is. 1:15]; Jer. 11:11; [Mic. 3:4]]</crossref></v>
+			<marker class="begin-verse" mid="v18032014" />
+			<v n="14">
+				Now he 
+				<crossref let="o" cid="c1803214.1" />
+				 has not directed his words against me;So I will not answer him with your words.
+			<crossref let="l" cid="c18032014.2"> [Job 9:11 m [Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v18032015" />
+			<v n="15">
+				“They are 
+				<crossref let="p" cid="c1803215.1" />
+				 dismayed and answer no more;Words escape them.
+			<crossref let="n" cid="c18032015.2"> [Ps. 89:32]</crossref></v>
+			<marker class="begin-verse" mid="v18032016" />
+			<v n="16">
+				And I 
+				<crossref let="q" cid="c1803216.1" />
+				 have waited, because they did not speak,Because they stood still and answered no more.
+			<crossref let="o" cid="c18032016.2"> [Job 34:35;]</crossref></v>
+			<marker class="begin-verse" mid="v18032017" />
+			<v n="17">
+				I also 
+				<crossref let="r" cid="c1803217.1" />
+				 will answer my part,I too will declare my opinion.
+			</v>
+			<marker class="begin-verse" mid="v18032018" />
+			<v n="18">
+				For I 
+				<crossref let="s" cid="c1803218.1" />
+				 am full of words;The spirit within me compels me.
+			</v>
+			<marker class="begin-verse" mid="v18032019" />
+			<v n="19">
+				Indeed my 
+				<crossref let="t" cid="c1803219.1" />
+				 belly is like wine that has no vent;It is ready to burst like new wineskins.
+			</v>
+			<marker class="begin-verse" mid="v18032020" />
+			<v n="20">
+				I will 
+				<crossref let="u" cid="c1803220.1" />
+				 speak, that I may find relief;I must open my lips and answer.
+			</v>
+			<marker class="begin-verse" mid="v18032021" />
+			<v n="21">
+				Let me 
+				<crossref let="v" cid="c1803221.1" />
+				 not, I pray, show partiality to anyone;Nor let me flatter any man.
+			</v>
+			<marker class="begin-verse" mid="v18032022" />
+			<v n="22">
+				For I 
+				<crossref let="w" cid="c1803222.1" />
+				 do not know how to flatter,Else my Maker would soon take me away.
+			</v>
+			<marker class="begin-verse" mid="v18032023" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

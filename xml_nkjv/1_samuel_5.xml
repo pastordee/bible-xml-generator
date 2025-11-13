@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:50:50.579972</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:50:50.580007</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" version="NKJV" bookAbbr="1sa">
+		<marker class="begin-verse" mid="v09005001" />
+		<chapter num="5">
+			<heading>The Philistines and the Ark</heading>
+			<begin-paragraph />
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c090051.1" />
+				 Philistines took the ark of God and brought it from Ebenezer to Ashdod.
+			<crossref let="a" cid="c09005001.2"> [1 Sam. 12:2]</crossref><crossref let="b" cid="c09005001.3"> [Deut. 16:18, 19; 2 Chr. 19:5 c Judg.]</crossref></v>
+			<marker class="begin-verse" mid="v09005002" />
+			<v n="2">
+				When the 
+				<crossref let="c" cid="c090052.1" />
+				 Philistines took the ark of God, they brought it into the house of Dagon and set it by Dagon.
+			</v>
+			<marker class="begin-verse" mid="v09005003" />
+			<v n="3">
+				And when 
+				<crossref let="d" cid="c090053.1" />
+				 the people of Ashdod arose early in the morning, there was Dagon, fallen on its face to the earth before the ark of the Lord. So they took Dagon and set it in its place again.
+			<crossref let="e" cid="c09005003.2"> [Ex. 18:21 f Ex. 23:6-8; Deut. 16:19;]</crossref><crossref let="d" cid="c09005003.3"> [Jer. 22:15-17]</crossref></v>
+			<marker class="begin-verse" mid="v09005004" />
+			<v n="4">
+				And when 
+				<crossref let="e" cid="c090054.1" />
+				 they arose early the next morning, there was Dagon, fallen on its face to the ground before the ark of the Lord. The head of Dagon and both the palms of its hands were broken off on the threshold; only Dagon’s torso was left of it.
+			</v>
+			<marker class="begin-verse" mid="v09005005" />
+			<v n="5">
+				Therefore neither 
+				<crossref let="f" cid="c090055.1" />
+				 the priests of Dagon nor any who come into Dagon’s house tread on the threshold of Dagon in Ashdod to this day.
+			<crossref let="g" cid="c09005005.2"> [Deut. 17:14, 15; Hos. 13:10, 11; Acts 13:21]</crossref></v>
+			<marker class="begin-verse" mid="v09005006" />
+			<v n="6">
+				But the 
+				<crossref let="g" cid="c090056.1" />
+				 hand of the Lord was heavy on the people of Ashdod, and He ravaged them and struck them with tumors, both Ashdod and its territory.
+			<crossref let="h" cid="c09005006.2"> [1 Sam. 12:17 i]</crossref></v>
+			<marker class="begin-verse" mid="v09005007" />
+			<v n="7">
+				And when 
+				<crossref let="h" cid="c090057.1" />
+				 the men of Ashdod saw how it was, they said, “The ark of the God of Israel must not remain with us, for His hand is harsh toward us and Dagon our god.”
+			<crossref let="j" cid="c09005007.2"> [Ex. 16:8 k]</crossref></v>
+			<marker class="begin-verse" mid="v09005008" />
+			<v n="8">
+				Therefore they 
+				<crossref let="i" cid="c090058.1" />
+				 sent and gathered to themselves all the lords of the Philistines, and said, “What shall we do with the ark of the God of Israel?”And they answered, “Let the ark of the God of Israel be carried away to Gath.” So they carried the ark of the God of Israel away.
+			</v>
+			<marker class="begin-verse" mid="v09005009" />
+			<v n="9">
+				So it 
+				<crossref let="j" cid="c090059.1" />
+				 was, after they had carried it away, that the hand of the Lord was against the city with a very great destruction; and He struck the men of the city, both small and great, and tumors broke out on them.
+			<crossref let="l" cid="c09005009.2"> [1 Sam. 8:11-18]</crossref></v>
+			<marker class="begin-verse" mid="v09005010" />
+			<v n="10">
+				Therefore they 
+				<crossref let="k" cid="c0900510.1" />
+				 sent the ark of God to Ekron. So it was, as the ark of God came to Ekron, that the Ekronites cried out, saying, “They have brought the ark of the God of Israel to us, to kill us and our people!”
+			</v>
+			<marker class="begin-verse" mid="v09005011" />
+			<v n="11">
+				So they 
+				<crossref let="l" cid="c0900511.1" />
+				 sent and gathered together all the lords of the Philistines, and said, “Send away the ark of the God of Israel, and let it go back to its own place, so that it does not kill us and our people.” For there was a deadly destruction throughout all the city; the hand of God was very heavy there.
+			<crossref let="m" cid="c09005011.2"> [Deut. 17:14-]</crossref></v>
+			<marker class="begin-verse" mid="v09005012" />
+			<v n="12">
+				And the 
+				<crossref let="m" cid="c0900512.1" />
+				 men who did not die were stricken with the tumors, and the cry of the city went up to heaven.
+			<crossref let="p" cid="c09005012.2"> [1 Sam. 22:7]</crossref></v>
+			<marker class="begin-verse" mid="v09005013" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

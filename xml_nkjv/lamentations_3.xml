@@ -1,0 +1,418 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:40:55.259320</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:40:55.259330</next_refresh_due>
+	</generation_info>
+	<book title="Lamentations" num="25" testament="old" version="NKJV" bookAbbr="lam">
+		<marker class="begin-verse" mid="v25003001" />
+		<chapter num="3">
+			<heading>The Prophet’s Anguish and Hope</heading>
+			<begin-paragraph />
+			<v n="1">
+				I am 
+				<crossref let="b" cid="c250031.1" />
+				 the man who has seen affliction by the rod of His wrath.
+			<crossref let="a" cid="c25003001.2"> [Ps. 2:2; Mark 15:1; Luke 22:66; 23:1; John 18:28]</crossref></v>
+			<marker class="begin-verse" mid="v25003002" />
+			<v n="2">
+				He has 
+				<crossref let="c" cid="c250032.1" />
+				 led me and made me walkIn darkness and not in light.
+			<crossref let="b" cid="c25003002.2"> [Matt. 20:19; Luke 18:32; Acts]</crossref></v>
+			<marker class="begin-verse" mid="v25003003" />
+			<v n="3">
+				Surely He 
+				<crossref let="d" cid="c250033.1" />
+				 has turned His hand against meTime and time again throughout the day.
+			<crossref let="c" cid="c25003003.2"> [Matt. 26:14]</crossref><crossref let="d" cid="c25003003.3"> [Matt. 26:15]</crossref></v>
+			<marker class="begin-verse" mid="v25003004" />
+			<v n="4">
+				He has 
+				<crossref let="e" cid="c250034.1" />
+				 aged my flesh and my skin,And broken my bones.
+			</v>
+			<marker class="begin-verse" mid="v25003005" />
+			<v n="5">
+				He has 
+				<crossref let="f" cid="c250035.1" />
+				 besieged meAnd surrounded me with bitterness and woe.
+			</v>
+			<marker class="begin-verse" mid="v25003006" />
+			<v n="6">
+				He has 
+				<crossref let="g" cid="c250036.1" />
+				 set me in dark placesLike the dead of long ago.
+			</v>
+			<marker class="begin-verse" mid="v25003007" />
+			<v n="7">
+				He has 
+				<crossref let="h" cid="c250037.1" />
+				 hedged me in so that I cannot get out;He has made my chain heavy.
+			</v>
+			<marker class="begin-verse" mid="v25003008" />
+			<v n="8">
+				Even when 
+				<crossref let="i" cid="c250038.1" />
+				 I cry and shout,He shuts out my prayer.
+			<crossref let="f" cid="c25003008.2"> [Acts 1:19]</crossref></v>
+			<marker class="begin-verse" mid="v25003009" />
+			<v n="9">
+				He has 
+				<crossref let="j" cid="c250039.1" />
+				 blocked my ways with hewn stone;He has made my paths crooked.
+			<crossref let="g" cid="c25003009.2"> [Zech. 11:12 #]</crossref></v>
+			<marker class="begin-verse" mid="v25003010" />
+			<v n="10">
+				He has 
+				<crossref let="k" cid="c2500310.1" />
+				 been to me a bear lying in wait,Like a lion in ambush.
+			<crossref let="h" cid="c25003010.2"> [Jer. 32:6-9; Zech. 11:12, 13 #]</crossref></v>
+			<marker class="begin-verse" mid="v25003011" />
+			<v n="11">
+				He has 
+				<crossref let="l" cid="c2500311.1" />
+				 turned aside my ways and torn me in pieces;He has made me desolate.
+			<crossref let="i" cid="c25003011.2"> [Mark 15:2-5; Luke 23:2, 3; John 18:29-38 j John 18:37; 1 Tim. 6:13]</crossref></v>
+			<marker class="begin-verse" mid="v25003012" />
+			<v n="12">
+				He has 
+				<crossref let="m" cid="c2500312.1" />
+				 bent His bowAnd set me up as a target for the arrow.
+			<crossref let="k" cid="c25003012.2"> [Ps. 38:13, 14; Matt. 26:63; John]</crossref></v>
+			<marker class="begin-verse" mid="v25003013" />
+			<v n="13">
+				He has 
+				<crossref let="n" cid="c2500313.1" />
+				 caused the arrows of His quiverTo pierce my loins.
+			<crossref let="l" cid="c25003013.2"> [Matt. 26:62; John 19:10]</crossref></v>
+			<marker class="begin-verse" mid="v25003014" />
+			<v n="14">
+				I have 
+				<crossref let="o" cid="c2500314.1" />
+				 become the ridicule of all my people—Their taunting song all the day.
+			</v>
+			<marker class="begin-verse" mid="v25003015" />
+			<v n="15">
+				He has 
+				<crossref let="p" cid="c2500315.1" />
+				 filled me with bitterness,He has made me drink wormwood.
+			<crossref let="m" cid="c25003015.2"> [Mark 15:6-15; Luke 23:17-25; John 18:39–19:16]</crossref></v>
+			<marker class="begin-verse" mid="v25003016" />
+			<v n="16">
+				He has 
+				<crossref let="q" cid="c2500316.1" />
+				 also broken my teeth with gravel,And covered me with ashes.
+			</v>
+			<marker class="begin-verse" mid="v25003017" />
+			<v n="17">
+				You have 
+				<crossref let="r" cid="c2500317.1" />
+				 moved my soul far from peace;I have forgotten prosperity.
+			</v>
+			<marker class="begin-verse" mid="v25003018" />
+			<v n="18">
+				And I 
+				<crossref let="s" cid="c2500318.1" />
+				 said, “My strength and my hopeHave perished from the Lord.”
+			<crossref let="n" cid="c25003018.2"> [Matt. 21:38; [John 15:22-25]]</crossref></v>
+			<marker class="begin-verse" mid="v25003019" />
+			<v n="19">
+				Remember my 
+				<crossref let="t" cid="c2500319.1" />
+				 affliction and roaming,The wormwood and the gall.
+			</v>
+			<marker class="begin-verse" mid="v25003020" />
+			<v n="20">
+				My soul 
+				<crossref let="u" cid="c2500320.1" />
+				 still remembersAnd sinks within me.
+			<crossref let="o" cid="c25003020.2"> [Mark 15:11; Luke 23:18; John 18:40; Acts 3:14]</crossref></v>
+			<marker class="begin-verse" mid="v25003021" />
+			<v n="21">
+				This I 
+				<crossref let="v" cid="c2500321.1" />
+				 recall to my mind,Therefore I have hope.
+			<crossref let="p" cid="c25003021.2"> [Acts 3:14]</crossref></v>
+			<marker class="begin-verse" mid="v25003022" />
+			<v n="22">
+				Through the 
+				<crossref let="w" cid="c2500322.1" />
+				 Lord’s mercies we are not consumed,Because His compassions fail not.
+			</v>
+			<marker class="begin-verse" mid="v25003023" />
+			<v n="23">
+				They are 
+				<crossref let="x" cid="c2500323.1" />
+				 new every morning;Great is Your faithfulness.
+			</v>
+			<marker class="begin-verse" mid="v25003024" />
+			<v n="24">
+				“The Lord 
+				<crossref let="y" cid="c2500324.1" />
+				 is my portion,” says my soul,“Therefore I hope in Him!”
+			<crossref let="r" cid="c25003024.2"> [Deut. 21:6-8]</crossref></v>
+			<marker class="begin-verse" mid="v25003025" />
+			<v n="25">
+				The Lord 
+				<crossref let="z" cid="c2500325.1" />
+				 is good to those who wait for Him,To the soul who seeks Him.
+			<crossref let="s" cid="c25003025.2"> [Deut. 19:10; Josh. 2:19;]</crossref></v>
+			<marker class="begin-verse" mid="v25003026" />
+			<v n="26">
+				It is 
+				<crossref let="a" cid="c2500326.1" />
+				 good that one should hope and wait quietlyFor the salvation of the Lord.
+			<crossref let="t" cid="c25003026.2"> [[Is. 50:6; 53:5] #; Matt. 20:19; Mark 15:15; Luke 23:16, 24, 25; John 19:1,]</crossref></v>
+			<marker class="begin-verse" mid="v25003027" />
+			<v n="27">
+				It is 
+				<crossref let="b" cid="c2500327.1" />
+				 good for a man to bearThe yoke in his youth.
+			<crossref let="u" cid="c25003027.2"> [Mark 15:16- 20; John 19:2]</crossref></v>
+			<marker class="begin-verse" mid="v25003028" />
+			<v n="28">
+				Let him 
+				<crossref let="c" cid="c2500328.1" />
+				 sit alone and keep silent,Because God has laid it on him;
+			<crossref let="v" cid="c25003028.2"> [Mark 15:17; John 19:2 w Luke]</crossref></v>
+			<marker class="begin-verse" mid="v25003029" />
+			<v n="29">
+				Let him 
+				<crossref let="d" cid="c2500329.1" />
+				 put his mouth in the dust—There may yet be hope.
+			<crossref let="x" cid="c25003029.2"> [Ps. 69:19; Is. 53:3 #; Matt. 20:19; Mark 10:34;]</crossref></v>
+			<marker class="begin-verse" mid="v25003030" />
+			<v n="30">
+				Let him 
+				<crossref let="e" cid="c2500330.1" />
+				 give his cheek to the one who strikes him,And be full of reproach.
+			<crossref let="y" cid="c25003030.2"> [Is. 50:6 #; 52:14; Mic. 5:1; Matt. 26:67; Mark]</crossref></v>
+			<marker class="begin-verse" mid="v25003031" />
+			<v n="31">
+				For the 
+				<crossref let="f" cid="c2500331.1" />
+				 Lord will not cast off forever.
+			<crossref let="z" cid="c25003031.2"> [Is. 53:7; Matt.]</crossref></v>
+			<marker class="begin-verse" mid="v25003032" />
+			<v n="32">
+				Though He 
+				<crossref let="g" cid="c2500332.1" />
+				 causes grief,Yet He will show compassionAccording to the multitude of His mercies.
+			<crossref let="a" cid="c25003032.2"> [1 Kin. 21:13; Acts 7:58; Heb. 13:12 b Mark 15:21; Luke 23:26; John 19:17]</crossref></v>
+			<marker class="begin-verse" mid="v25003033" />
+			<v n="33">
+				For He 
+				<crossref let="h" cid="c2500333.1" />
+				 does not afflict willingly,Nor grieve the children of men.
+			<crossref let="c" cid="c25003033.2"> [Mark 15:22- 32; Luke 23:33-43; John 19:17]</crossref></v>
+			<marker class="begin-verse" mid="v25003034" />
+			<v n="34">
+				To crush 
+				<crossref let="i" cid="c2500334.1" />
+				 under one’s feetAll the prisoners of the earth,
+			<crossref let="d" cid="c25003034.2"> [Ps. 69:21 #; Matt. 27:48 Mark 15:23-32; Luke 23:33-43; John 19:18-24]</crossref></v>
+			<marker class="begin-verse" mid="v25003035" />
+			<v n="35">
+				To turn 
+				<crossref let="j" cid="c2500335.1" />
+				 aside the justice due a manBefore the face of the Most High,
+			<crossref let="f" cid="c25003035.2"> [Ps. 22:18 # 1 NU, M omit the rest of v. 35. 36 g Ps. 22:17; Matt. 27:54 #]</crossref><crossref let="e" cid="c25003035.3"> [Mark 15:24; Luke 23:34; John 19:24]</crossref></v>
+			<marker class="begin-verse" mid="v25003036" />
+			<v n="36">
+				Or subvert 
+				<crossref let="k" cid="c2500336.1" />
+				 a man in his cause—The Lord does not approve.
+			</v>
+			<marker class="begin-verse" mid="v25003037" />
+			<v n="37">
+				Who is 
+				<crossref let="l" cid="c2500337.1" />
+				 he who speaks and it comes to pass,When the Lord has not commanded it?
+			<crossref let="h" cid="c25003037.2"> [Mark 15:26; Luke 23:38; John 19:19]</crossref></v>
+			<marker class="begin-verse" mid="v25003038" />
+			<v n="38">
+				Is it 
+				<crossref let="m" cid="c2500338.1" />
+				 not from the mouth of the Most HighThat woe and well-being proceed?
+			</v>
+			<marker class="begin-verse" mid="v25003039" />
+			<v n="39">
+				Why should 
+				<crossref let="n" cid="c2500339.1" />
+				 a living man complain,A man for the punishment of his sins?
+			<crossref let="j" cid="c25003039.2"> [Job 16:4; Ps. Lam. 2:15; Mark 15:29; Luke 23:35]</crossref></v>
+			<marker class="begin-verse" mid="v25003040" />
+			<v n="40">
+				Let us 
+				<crossref let="o" cid="c2500340.1" />
+				 search out and examine our ways,And turn back to the Lord;
+			<crossref let="k" cid="c25003040.2"> [Matt. 26:61; John 2:19 l Matt.]</crossref></v>
+			<marker class="begin-verse" mid="v25003041" />
+			<v n="41">
+				Let us 
+				<crossref let="p" cid="c2500341.1" />
+				 lift our hearts and handsTo God in heaven.
+			</v>
+			<marker class="begin-verse" mid="v25003042" />
+			<v n="42">
+				We have 
+				<crossref let="q" cid="c2500342.1" />
+				 transgressed and rebelled;You have not pardoned.
+			<crossref let="m" cid="c25003042.2"> [[Matt. 18:11; John 3:14, 15]]</crossref></v>
+			<marker class="begin-verse" mid="v25003043" />
+			<v n="43">
+				You have 
+				<crossref let="r" cid="c2500343.1" />
+				 covered Yourself with angerAnd pursued us;You have slain and not pitied.
+			<crossref let="n" cid="c25003043.2"> [Ps. 22:8 $]</crossref></v>
+			<marker class="begin-verse" mid="v25003044" />
+			<v n="44">
+				You have 
+				<crossref let="s" cid="c2500344.1" />
+				 covered Yourself with a cloud,That prayer should not pass through.
+			<crossref let="o" cid="c25003044.2"> [Mark 15:32; Luke 23:39-43]</crossref></v>
+			<marker class="begin-verse" mid="v25003045" />
+			<v n="45">
+				You have 
+				<crossref let="t" cid="c2500345.1" />
+				 made us an offscouring and refuseIn the midst of the peoples.
+			<crossref let="p" cid="c25003045.2"> [Amos 8:9; Mark 15:33-41; Luke 23:44-49]</crossref></v>
+			<marker class="begin-verse" mid="v25003046" />
+			<v n="46">
+				All our 
+				<crossref let="u" cid="c2500346.1" />
+				 enemiesHave opened their mouths against us.
+			<crossref let="r" cid="c25003046.2"> [Ps. 22:1 #]</crossref><crossref let="q" cid="c25003046.3"> [[Heb. 5:7]]</crossref></v>
+			<marker class="begin-verse" mid="v25003047" />
+			<v n="47">
+				Fear and 
+				<crossref let="v" cid="c2500347.1" />
+				 a snare have come upon us,Desolation and destruction.
+			</v>
+			<marker class="begin-verse" mid="v25003048" />
+			<v n="48">
+				My eyes 
+				<crossref let="w" cid="c2500348.1" />
+				 overflow with rivers of waterFor the destruction of the daughter of my people.
+			<crossref let="s" cid="c25003048.2"> [Ps. 69:21; Mark 15:36; Luke 23:36; John 19:29]</crossref></v>
+			<marker class="begin-verse" mid="v25003049" />
+			<v n="49">
+				My eyes 
+				<crossref let="x" cid="c2500349.1" />
+				 flow and do not cease,Without interruption,
+			</v>
+			<marker class="begin-verse" mid="v25003050" />
+			<v n="50">
+				Till the 
+				<crossref let="y" cid="c2500350.1" />
+				 Lord from heavenLooks down and sees.
+			<crossref let="t" cid="c25003050.2"> [Mark 15:37; Luke 23:46; John 19:30 u Dan. 9:26; Zech. 11:10, 11; Matt. 17:23; [John 10:18; 1 Cor. 15:3]]</crossref></v>
+			<marker class="begin-verse" mid="v25003051" />
+			<v n="51">
+				My eyes 
+				<crossref let="z" cid="c2500351.1" />
+				 bring suffering to my soulBecause of all the daughters of my city.
+			<crossref let="v" cid="c25003051.2"> [Ex. 26:31; 2 Chr. 3:14; Zech. 11:10 #; Mark 15:38; Luke 23:45; Heb. 9:3]</crossref></v>
+			<marker class="begin-verse" mid="v25003052" />
+			<v n="52">
+				My enemies 
+				<crossref let="a" cid="c2500352.1" />
+				 without causeHunted me down like a bird.
+			</v>
+			<marker class="begin-verse" mid="v25003053" />
+			<v n="53">
+				They silenced 
+				<crossref let="b" cid="c2500353.1" />
+				 my life in the pitAnd threw stones at me.
+			</v>
+			<marker class="begin-verse" mid="v25003054" />
+			<v n="54">
+				The waters 
+				<crossref let="c" cid="c2500354.1" />
+				 flowed over my head;I said, “I am cut off!”
+			<crossref let="w" cid="c25003054.2"> [Mark 15:39; Luke 23:47 x Matt.]</crossref></v>
+			<marker class="begin-verse" mid="v25003055" />
+			<v n="55">
+				I called 
+				<crossref let="d" cid="c2500355.1" />
+				 on Your name, O Lord,From the lowest pit.
+			<crossref let="y" cid="c25003055.2"> [Mark 15:41; Luke 8:2,]</crossref></v>
+			<marker class="begin-verse" mid="v25003056" />
+			<v n="56">
+				You have 
+				<crossref let="e" cid="c2500356.1" />
+				 heard my voice:“Do not hide Your earFrom my sighing, from my cry for help.”
+			</v>
+			<marker class="begin-verse" mid="v25003057" />
+			<v n="57">
+				You drew 
+				<crossref let="f" cid="c2500357.1" />
+				 near on the day I called on You,And said, “Do not fear!”
+			</v>
+			<marker class="begin-verse" mid="v25003058" />
+			<v n="58">
+				O Lord, 
+				<crossref let="g" cid="c2500358.1" />
+				 You have pleaded the case for my soul;You have redeemed my life.
+			</v>
+			<marker class="begin-verse" mid="v25003059" />
+			<v n="59">
+				O Lord, 
+				<crossref let="h" cid="c2500359.1" />
+				 You have seen how I am wronged;Judge my case.
+			</v>
+			<marker class="begin-verse" mid="v25003060" />
+			<v n="60">
+				You have 
+				<crossref let="i" cid="c2500360.1" />
+				 seen all their vengeance,All their schemes against me.
+			<crossref let="b" cid="c25003060.2"> [Is. 53:9 #; Matt. 26:12]</crossref></v>
+			<marker class="begin-verse" mid="v25003061" />
+			<v n="61">
+				You have 
+				<crossref let="j" cid="c2500361.1" />
+				 heard their reproach, O Lord,All their schemes against me,
+			</v>
+			<marker class="begin-verse" mid="v25003062" />
+			<v n="62">
+				The lips 
+				<crossref let="k" cid="c2500362.1" />
+				 of my enemiesAnd their whispering against me all the day.
+			</v>
+			<marker class="begin-verse" mid="v25003063" />
+			<v n="63">
+				Look at 
+				<crossref let="l" cid="c2500363.1" />
+				 their sitting down and their rising up;I am their taunting song.
+			<crossref let="c" cid="c25003063.2"> [Matt. 16:21; Mark 8:31; 10:34; Luke 9:22; 13:33; 24:6, 7; John 2:19]</crossref></v>
+			<marker class="begin-verse" mid="v25003064" />
+			<v n="64">
+				Repay them, 
+				<crossref let="m" cid="c2500364.1" />
+				 O Lord,According to the work of their hands.
+			</v>
+			<marker class="begin-verse" mid="v25003065" />
+			<v n="65">
+				Give them 
+				<crossref let="n" cid="c2500365.1" />
+				 a veiled heart;Your curse be upon them!
+			</v>
+			<marker class="begin-verse" mid="v25003066" />
+			<v n="66">
+				In Your 
+				<crossref let="o" cid="c2500366.1" />
+				 anger,Pursue and destroy themFrom under the heavens of the Lord.
+			<crossref let="d" cid="c25003066.2"> [Dan. 6:17]</crossref></v>
+			<marker class="begin-verse" mid="v25003067" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

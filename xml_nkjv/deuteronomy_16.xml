@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:44:21.124422</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:44:21.124436</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" version="NKJV" bookAbbr="deu">
+		<marker class="begin-verse" mid="v05016001" />
+		<chapter num="16">
+			<heading>The Passover Reviewed</heading>
+			<begin-paragraph />
+			<v n="1">
+				“Observe the 
+				<crossref let="b" cid="c050161.1" />
+				 month of Abib, and keep the Passover to the Lord your God, for in the month of Abib the Lord your God brought you out of Egypt by night.
+			<crossref let="a" cid="c05016001.2"> [Deut. 12:29]</crossref></v>
+			<marker class="begin-verse" mid="v05016002" />
+			<v n="2">
+				Therefore you 
+				<crossref let="c" cid="c050162.1" />
+				 shall sacrifice the Passover to the Lord your God, from the flock and the herd, in the place where the Lord chooses to put His name.
+			<crossref let="b" cid="c05016002.2"> [Ex. 21:13; Num. 35:10-15; Deut. 4:41; Josh. 20:2]</crossref></v>
+			<marker class="begin-verse" mid="v05016003" />
+			<v n="3">
+				You shall 
+				<crossref let="d" cid="c050163.1" />
+				 eat no leavened bread with it; seven days you shall eat unleavened bread with it, that is, the bread of affliction (for you came out of the land of Egypt in haste), that you may remember the day in which you came out of the land of Egypt all the days of your life.
+			</v>
+			<marker class="begin-verse" mid="v05016004" />
+			<v n="4">
+				And no 
+				<crossref let="e" cid="c050164.1" />
+				 leaven shall be seen among you in all your territory for seven days, nor shall any of the meat which you sacrifice the first day at twilight remain overnight until morning.
+			<crossref let="c" cid="c05016004.2"> [Num. 35:9- 34; Deut. 4:42]</crossref></v>
+			<marker class="begin-verse" mid="v05016005" />
+			<v n="5">
+				“You may 
+				<crossref let="f" cid="c050165.1" />
+				 not sacrifice the Passover within any of your gates which the Lord your God gives you;
+			</v>
+			<marker class="begin-verse" mid="v05016006" />
+			<v n="6">
+				but at 
+				<crossref let="g" cid="c050166.1" />
+				 the place where the Lord your God chooses to make His name abide, there you shall sacrifice the Passover at twilight, at the going down of the sun, at the time you came out of Egypt.
+			<crossref let="d" cid="c05016006.2"> [Num. 35:12]</crossref></v>
+			<marker class="begin-verse" mid="v05016007" />
+			<v n="7">
+				And you 
+				<crossref let="h" cid="c050167.1" />
+				 shall roast and eat it in the place which the Lord your God chooses, and in the morning you shall turn and go to your tents.
+			</v>
+			<marker class="begin-verse" mid="v05016008" />
+			<v n="8">
+				Six days 
+				<crossref let="i" cid="c050168.1" />
+				 you shall eat unleavened bread, and on the seventh day there shall be a sacred assembly to the Lord your God. You shall do no work on it.The Feast of Weeks Reviewed
+			<crossref let="e" cid="c05016008.2"> [Deut. 12:20]</crossref></v>
+			<marker class="begin-verse" mid="v05016009" />
+			<v n="9">
+				“You shall 
+				<crossref let="j" cid="c050169.1" />
+				 count seven weeks for yourself; begin to count the seven weeks from the time you begin to put the sickle to the grain.
+			<crossref let="g" cid="c05016009.2"> [Josh. 20:7-9]</crossref></v>
+			<marker class="begin-verse" mid="v05016010" />
+			<v n="10">
+				Then you 
+				<crossref let="k" cid="c0501610.1" />
+				 shall keep the Feast of Weeks to the Lord your God with the tribute of a freewill offering from your hand, which you shall give as the Lord your God blesses you.
+			<crossref let="h" cid="c05016010.2"> [Num. 35:33; Deut. 21:1-9]</crossref></v>
+			<marker class="begin-verse" mid="v05016011" />
+			<v n="11">
+				You shall 
+				<crossref let="l" cid="c0501611.1" />
+				 rejoice before the Lord your God, you and your son and your daughter, your male servant and your female servant, the Levite who is within your gates, the stranger and the fatherless and the widow who are among you, at the place where the Lord your God chooses to make His name abide.
+			<crossref let="i" cid="c05016011.2"> [Num. 35:16, 24; Deut. 27:24; [1 John 3:15]]</crossref></v>
+			<marker class="begin-verse" mid="v05016012" />
+			<v n="12">
+				And you 
+				<crossref let="m" cid="c0501612.1" />
+				 shall remember that you were a slave in Egypt, and you shall be careful to observe these statutes.The Feast of Tabernacles Reviewed
+			</v>
+			<marker class="begin-verse" mid="v05016013" />
+			<v n="13">
+				“You shall 
+				<crossref let="n" cid="c0501613.1" />
+				 observe the Feast of Tabernacles seven days, when you have gathered from your threshing floor and from your winepress.
+			<crossref let="j" cid="c05016013.2"> [Deut. 13:8]</crossref><crossref let="k" cid="c05016013.3"> [Num. 35:33, 34; 1 Kin. 2:31]</crossref></v>
+			<marker class="begin-verse" mid="v05016014" />
+			<v n="14">
+				And you 
+				<crossref let="o" cid="c0501614.1" />
+				 shall rejoice in your feast, you and your son and your daughter, your male servant and your female servant and the Levite, the stranger and the fatherless and the widow, who are within your gates.
+			<crossref let="l" cid="c05016014.2"> [Deut. 27:17; Job 24:2; Prov. 22:28; Hos. 5:10]</crossref></v>
+			<marker class="begin-verse" mid="v05016015" />
+			<v n="15">
+				Seven days 
+				<crossref let="p" cid="c0501615.1" />
+				 you shall keep a sacred feast to the Lord your God in the place which the Lord chooses, because the Lord your God will bless you in all your produce and in all the work of your hands, so that you surely rejoice.
+			<crossref let="m" cid="c05016015.2"> [Num. 35:30; Deut. 17:6; Matt. 18:16; John 8:17; 2 Cor. 13:1; 1 Tim. 5:19; Heb. 10:28]</crossref></v>
+			<marker class="begin-verse" mid="v05016016" />
+			<v n="16">
+				“Three times 
+				<crossref let="q" cid="c0501616.1" />
+				 a year all your males shall appear before the Lord your God in the place which He chooses: at the Feast of Unleavened Bread, at the Feast of Weeks, and at the Feast of Tabernacles; and they shall not appear before the Lord empty-handed.
+			<crossref let="n" cid="c05016016.2"> [Ex. 23:1; Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v05016017" />
+			<v n="17">
+				Every man 
+				<crossref let="r" cid="c0501617.1" />
+				 shall give as he is able, according to the blessing of the Lord your God which He has given you.Justice Must Be Administered
+			<crossref let="o" cid="c05016017.2"> [Deut. 17:8-]</crossref></v>
+			<marker class="begin-verse" mid="v05016018" />
+			<v n="18">
+				“You shall 
+				<crossref let="s" cid="c0501618.1" />
+				 appoint judges and officers in all your gates, which the Lord your God gives you, according to your tribes, and they shall judge the people with just judgment.
+			</v>
+			<marker class="begin-verse" mid="v05016019" />
+			<v n="19">
+				You shall 
+				<crossref let="t" cid="c0501619.1" />
+				 not pervert justice; you shall not show partiality, nor take a bribe, for a bribe blinds the eyes of the wise and twists the words of the righteous.
+			<crossref let="p" cid="c05016019.2"> [Prov. 19:5; Dan. 6:24]</crossref><crossref let="q" cid="c05016019.3"> [Deut. 13:5; 17:7;]</crossref></v>
+			<marker class="begin-verse" mid="v05016020" />
+			<v n="20">
+				You shall 
+				<crossref let="u" cid="c0501620.1" />
+				 follow what is altogether just, that you may live and inherit the land which the Lord your God is giving you.
+			<crossref let="r" cid="c05016020.2"> [Deut. 17:13;]</crossref></v>
+			<marker class="begin-verse" mid="v05016021" />
+			<v n="21">
+				“You shall 
+				<crossref let="v" cid="c0501621.1" />
+				 not plant for yourself any tree, as a wooden image, near the altar which you build for yourself to the Lord your God.
+			<crossref let="t" cid="c05016021.2"> [Ex. 21:23, 24; Lev. 24:20; Matt.]</crossref><crossref let="s" cid="c05016021.3"> [Deut. 19:13]</crossref></v>
+			<marker class="begin-verse" mid="v05016022" />
+			<v n="22">
+				You shall 
+				<crossref let="w" cid="c0501622.1" />
+				 not set up a sacred pillar, which the Lord your God hates.
+			</v>
+			<marker class="begin-verse" mid="v05016023" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

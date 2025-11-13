@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:23:21.287790</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:23:21.287810</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19126001" />
+		<chapter num="126">
+			<heading>A Joyful Return to ZionA Song of Ascents.</heading>
+			<begin-paragraph />
+			<v n="1">
+				When the 
+				<crossref let="b" cid="c191261.1" />
+				 Lord brought back the captivity of Zion,We were like those who dream.
+			<crossref let="a" cid="c19126001.2"> [Ezra 9:15; Ps. 51:4; Jer. 11:20]</crossref></v>
+			<marker class="begin-verse" mid="v19126002" />
+			<v n="2">
+				Then our 
+				<crossref let="c" cid="c191262.1" />
+				 mouth was filled with laughter,And our tongue with singing.Then they said among the nations,“The Lord has done great things for them.”
+			<crossref let="c" cid="c19126002.2"> [Is. 29:13; Ezek. 33:31; Matt. 15:8; Mark 7:6 1 Most]</crossref></v>
+			<marker class="begin-verse" mid="v19126003" />
+			<v n="3">
+				The Lord 
+				<crossref let="d" cid="c191263.1" />
+				 has done great things for us,And we are glad.
+			<crossref let="f" cid="c19126003.2"> [Jer. 17:18; 50:27; James 5:5]</crossref><crossref let="d" cid="c19126003.3"> [Ps. 17:3 e Ps. 7:9; 11:5; Jer. 11:20]</crossref></v>
+			<marker class="begin-verse" mid="v19126004" />
+			<v n="4">
+				Bring back 
+				<crossref let="e" cid="c191264.1" />
+				 our captivity, O Lord,As the streams in the South.
+			<crossref let="g" cid="c19126004.2"> [Jer. 23:10; Hos. 4:3 h Jer. 9:10; Hos. 4:3; Hab. 3:17 i Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v19126005" />
+			<v n="5">
+				Those who 
+				<crossref let="f" cid="c191265.1" />
+				 sow in tearsShall reap in joy.
+			<crossref let="j" cid="c19126005.2"> [Josh. 3:15; 1 Chr. 12:15]</crossref></v>
+			<marker class="begin-verse" mid="v19126006" />
+			<v n="6">
+				He who 
+				<crossref let="g" cid="c191266.1" />
+				 continually goes forth weeping,Bearing seed for sowing,Shall doubtless come again with rejoicing,Bringing his sheaves with him.
+			<crossref let="l" cid="c19126006.2"> [Ps. 12:2; Prov.]</crossref><crossref let="k" cid="c19126006.3"> [Gen. 37:4-11; Job 6:15; Ps. 69:8; Jer. 9:4,]</crossref></v>
+			<marker class="begin-verse" mid="v19126007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:29:26.751064</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:29:26.751096</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" version="NKJV" bookAbbr="gen">
+		<marker class="begin-verse" mid="v01003001" />
+		<chapter num="3">
+			<heading>The Temptation and Fall of Man</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now the 
+				<crossref let="b" cid="c010031.1" />
+				 serpent was more cunning than any beast of the field which the Lord God had made. And he said to the woman, “Has God indeed said, ‘You shall not eat of every tree of the garden’?”
+			<crossref let="a" cid="c01003001.2"> [1 Chr. 21:1; [Rev. 12:9; 20:2, 10] b 2 Cor. 11:3]</crossref></v>
+			<marker class="begin-verse" mid="v01003002" />
+			<v n="2">
+				And the 
+				<crossref let="c" cid="c010032.1" />
+				 woman said to the serpent, “We may eat the fruit of the trees of the garden;
+			<crossref let="c" cid="c01003002.2"> [Gen. 2:16, 17]</crossref></v>
+			<marker class="begin-verse" mid="v01003003" />
+			<v n="3">
+				but of 
+				<crossref let="d" cid="c010033.1" />
+				 the fruit of the tree which is in the midst of the garden, God has said, ‘You shall not eat it, nor shall you touch it, lest you die.’ ”
+			<crossref let="d" cid="c01003003.2"> [Ex. 19:12, 13; Rev. 22:14]</crossref></v>
+			<marker class="begin-verse" mid="v01003004" />
+			<v n="4">
+				Then the 
+				<crossref let="e" cid="c010034.1" />
+				 serpent said to the woman, “You will not surely die.
+			<crossref let="e" cid="c01003004.2"> [John 8:44; [2 Cor. 11:3; 1 Tim. 2:14]]</crossref></v>
+			<marker class="begin-verse" mid="v01003005" />
+			<v n="5">
+				For God 
+				<crossref let="f" cid="c010035.1" />
+				 knows that in the day you eat of it your eyes will be opened, and you will be like God, knowing good and evil.”
+			</v>
+			<marker class="begin-verse" mid="v01003006" />
+			<v n="6">
+				So when 
+				<crossref let="g" cid="c010036.1" />
+				 the woman saw that the tree was good for food, that it was pleasant to the eyes, and a tree desirable to make one wise, she took of its fruit and ate. She also gave to her husband with her, and he ate.
+			<crossref let="f" cid="c01003006.2"> [1 John 2:16 g 1 Tim. 2:14]</crossref></v>
+			<marker class="begin-verse" mid="v01003007" />
+			<v n="7">
+				Then the 
+				<crossref let="h" cid="c010037.1" />
+				 eyes of both of them were opened, and they knew that they were naked; and they sewed fig leaves together and made themselves coverings.
+			<crossref let="h" cid="c01003007.2"> [Gen. 2:25]</crossref></v>
+			<marker class="begin-verse" mid="v01003008" />
+			<v n="8">
+				And they 
+				<crossref let="i" cid="c010038.1" />
+				 heard the sound of the Lord God walking in the garden in the cool of the day, and Adam and his wife hid themselves from the presence of the Lord God among the trees of the garden.
+			<crossref let="i" cid="c01003008.2"> [Job 38:1 j Job 31:33; Jer. 23:24]</crossref></v>
+			<marker class="begin-verse" mid="v01003009" />
+			<v n="9">
+				Then the 
+				<crossref let="j" cid="c010039.1" />
+				 Lord God called to Adam and said to him, “Where are you?”
+			</v>
+			<marker class="begin-verse" mid="v01003010" />
+			<v n="10">
+				So he 
+				<crossref let="k" cid="c0100310.1" />
+				 said, “I heard Your voice in the garden, and I was afraid because I was naked; and I hid myself.”
+			<crossref let="k" cid="c01003010.2"> [Gen. 2:25; Ex. 3:6; Deut. 9:19; 1 John 3:20]</crossref></v>
+			<marker class="begin-verse" mid="v01003011" />
+			<v n="11">
+				And He 
+				<crossref let="l" cid="c0100311.1" />
+				 said, “Who told you that you were naked? Have you eaten from the tree of which I commanded you that you should not eat?”
+			</v>
+			<marker class="begin-verse" mid="v01003012" />
+			<v n="12">
+				Then the 
+				<crossref let="m" cid="c0100312.1" />
+				 man said, “The woman whom You gave to be with me, she gave me of the tree, and I ate.”
+			<crossref let="l" cid="c01003012.2"> [[Prov. 28:13]]</crossref></v>
+			<marker class="begin-verse" mid="v01003013" />
+			<v n="13">
+				And the 
+				<crossref let="n" cid="c0100313.1" />
+				 Lord God said to the woman, “What is this you have done?”The woman said, “The serpent deceived me, and I ate.”
+			<crossref let="m" cid="c01003013.2"> [Gen. 3:4; 2 Cor. 11:3; 1 Tim. 2:14]</crossref></v>
+			<marker class="begin-verse" mid="v01003014" />
+			<v n="14">
+				So the 
+				<crossref let="o" cid="c0100314.1" />
+				 Lord God said to the serpent:“Because you have done this,You are cursed more than all cattle,And more than every beast of the field;On your belly you shall go,And you shall eat dustAll the days of your life.
+			<crossref let="n" cid="c01003014.2"> [Deut. 28:15- 20; Is. 65:25; Mic. 7:17]</crossref></v>
+			<marker class="begin-verse" mid="v01003015" />
+			<v n="15">
+				And I 
+				<crossref let="p" cid="c0100315.1" />
+				 will put enmityBetween you and the woman,And between your seed and her Seed;He shall bruise your head,And you shall bruise His heel.”
+			<crossref let="o" cid="c01003015.2"> [John 8:44; Acts 13:10; 1 John 3:8 p Is. 7:14; Luke 1:31, 34, 35; Gal. 4:4 q Rom. 16:20; [Rev. 12:7, 17]]</crossref></v>
+			<marker class="begin-verse" mid="v01003016" />
+			<v n="16">
+				To the 
+				<crossref let="q" cid="c0100316.1" />
+				 woman He said:“I will greatly multiply your sorrow and your conception;In pain you shall bring forth children;Your desire shall be for your husband,And he shall rule over you.”
+			<crossref let="r" cid="c01003016.2"> [Is. 13:8; John 16:21 s Gen. 4:7 t 1 Cor. 11:3; Eph. 5:22; 1 Tim. 2:12, 15]</crossref></v>
+			<marker class="begin-verse" mid="v01003017" />
+			<v n="17">
+				Then to 
+				<crossref let="r" cid="c0100317.1" />
+				 Adam He said, “Because you have heeded the voice of your wife, and have eaten from the tree of which I commanded you, saying, ‘You shall not eat of it’:“Cursed is the ground for your sake;In toil you shall eat of itAll the days of your life.
+			<crossref let="u" cid="c01003017.2"> [1 Sam. 15:23]</crossref><crossref let="v" cid="c01003017.3"> [Gen. 2:17 w Gen. 5:29; Rom. 8:20-22; Heb. 6:8 x Job 5:7; 14:1; Eccl. 2:23]</crossref></v>
+			<marker class="begin-verse" mid="v01003018" />
+			<v n="18">
+				Both thorns 
+				<crossref let="s" cid="c0100318.1" />
+				 and thistles it shall bring forth for you,And you shall eat the herb of the field.
+			<crossref let="y" cid="c01003018.2"> [Ps. 104:14]</crossref></v>
+			<marker class="begin-verse" mid="v01003019" />
+			<v n="19">
+				In the 
+				<crossref let="t" cid="c0100319.1" />
+				 sweat of your face you shall eat breadTill you return to the ground,For out of it you were taken;For dust you are,And to dust you shall return.”
+			<crossref let="a" cid="c01003019.2"> [Gen. 2:7; 5:5]</crossref><crossref let="z" cid="c01003019.3"> [2 Thess. 3:10]</crossref><crossref let="b" cid="c01003019.4"> [Job 21:26; Eccl. 3:20]</crossref></v>
+			<marker class="begin-verse" mid="v01003020" />
+			<v n="20">
+				And Adam 
+				<crossref let="u" cid="c0100320.1" />
+				 called his wife’s name Eve, because she was the mother of all living.
+			<crossref let="c" cid="c01003020.2"> [2 Cor. 11:3; 1 Tim. 2:13]</crossref></v>
+			<marker class="begin-verse" mid="v01003021" />
+			<v n="21">
+				Also for 
+				<crossref let="v" cid="c0100321.1" />
+				 Adam and his wife the Lord God made tunics of skin, and clothed them.
+			</v>
+			<marker class="begin-verse" mid="v01003022" />
+			<v n="22">
+				Then the 
+				<crossref let="w" cid="c0100322.1" />
+				 Lord God said, “Behold, the man has become like one of Us, to know good and evil. And now, lest he put out his hand and take also of the tree of life, and eat, and live forever”—
+			</v>
+			<marker class="begin-verse" mid="v01003023" />
+			<v n="23">
+				therefore the 
+				<crossref let="x" cid="c0100323.1" />
+				 Lord God sent him out of the garden of Eden to till the ground from which he was taken.
+			<crossref let="d" cid="c01003023.2"> [Gen. 4:2; 9:20]</crossref></v>
+			<marker class="begin-verse" mid="v01003024" />
+			<v n="24">
+				So He 
+				<crossref let="y" cid="c0100324.1" />
+				 drove out the man; and He placed cherubim at the east of the garden of Eden, and a flaming sword which turned every way, to guard the way to the tree of life.
+			<crossref let="e" cid="c01003024.2"> [Ezek. 31:3, 11 f Ex. 25:18-22; Ps. 104:4; Ezek. 10:1-20; Heb. 1:7 g Gen. 2:8 h Gen. 2:9; [Rev. 22:2]]</crossref></v>
+			<marker class="begin-verse" mid="v01003025" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

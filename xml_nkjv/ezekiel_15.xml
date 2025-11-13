@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:42:21.842058</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:42:21.842069</next_refresh_due>
+	</generation_info>
+	<book title="Ezekiel" num="26" testament="old" version="NKJV" bookAbbr="ezk">
+		<marker class="begin-verse" mid="v26015001" />
+		<chapter num="15">
+			<heading>The Outcast Vine</heading>
+			<begin-paragraph />
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c260151.1" />
+				 word of the Lord came to me, saying:
+			<crossref let="a" cid="c26015001.2"> [Matt. 28:1-8; Luke 24:1-10; John 20:1-8 b Luke 23:56; John 19:39]</crossref></v>
+			<marker class="begin-verse" mid="v26015002" />
+			<v n="2">
+				“Son of 
+				<crossref let="c" cid="c260152.1" />
+				 man, how is the wood of the vine better than any other wood, the vine branch which is among the trees of the forest?
+			<crossref let="c" cid="c26015002.2"> [Luke 24:1; John]</crossref></v>
+			<marker class="begin-verse" mid="v26015003" />
+			<v n="3">
+				Is wood 
+				<crossref let="d" cid="c260153.1" />
+				 taken from it to make any object? Or can men make a peg from it to hang any vessel on?
+			</v>
+			<marker class="begin-verse" mid="v26015004" />
+			<v n="4">
+				Instead, it 
+				<crossref let="e" cid="c260154.1" />
+				 is thrown into the fire for fuel; the fire devours both ends of it, and its middle is burned. Is it useful for any work?
+			</v>
+			<marker class="begin-verse" mid="v26015005" />
+			<v n="5">
+				Indeed, when 
+				<crossref let="f" cid="c260155.1" />
+				 it was whole, no object could be made from it. How much less will it be useful for any work when the fire has devoured it, and it is burned?
+			<crossref let="d" cid="c26015005.2"> [Luke 24:3; John 20:11,]</crossref></v>
+			<marker class="begin-verse" mid="v26015006" />
+			<v n="6">
+				“Therefore thus 
+				<crossref let="g" cid="c260156.1" />
+				 says the Lord God: ‘Like the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so I will give up the inhabitants of Jerusalem;
+			<crossref let="e" cid="c26015006.2"> [Ps. 16:10; 49:15; Hos. 6:2 #; Matt. 28:6; Mark 9:31; Luke 24:6]</crossref></v>
+			<marker class="begin-verse" mid="v26015007" />
+			<v n="7">
+				and I 
+				<crossref let="h" cid="c260157.1" />
+				 will set My face against them. They will go out from one fire, but another fire shall devour them. Then you shall know that I am the Lord, when I set My face against them.
+			<crossref let="f" cid="c26015007.2"> [Matt. 26:32; 28:16, 17; Mark]</crossref></v>
+			<marker class="begin-verse" mid="v26015008" />
+			<v n="8">
+				Thus I 
+				<crossref let="i" cid="c260158.1" />
+				 will make the land desolate, because they have persisted in unfaithfulness,’ says the Lord God.”
+			<crossref let="g" cid="c26015008.2"> [Matt. 28:8]</crossref></v>
+			<marker class="begin-verse" mid="v26015009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

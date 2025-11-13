@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:32:00.736479</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:32:00.736496</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23022001" />
+		<chapter num="22">
+			<heading>Proclamation Against Jerusalem</heading>
+			<begin-paragraph />
+			<v n="1">
+				The burden 
+				<crossref let="b" cid="c230221.1" />
+				 against the Valley of Vision.What ails you now, that you have all gone up to the housetops,
+			</v>
+			<marker class="begin-verse" mid="v23022002" />
+			<v n="2">
+				You who 
+				<crossref let="c" cid="c230222.1" />
+				 are full of noise,A tumultuous city, a joyous city?Your slain men are not slain with the sword,Nor dead in battle.
+			</v>
+			<marker class="begin-verse" mid="v23022003" />
+			<v n="3">
+				All your 
+				<crossref let="d" cid="c230223.1" />
+				 rulers have fled together;They are captured by the archers.All who are found in you are bound together;They have fled from afar.
+			<crossref let="a" cid="c23022003.2"> [Dan. 5:12]</crossref></v>
+			<marker class="begin-verse" mid="v23022004" />
+			<v n="4">
+				Therefore I 
+				<crossref let="e" cid="c230224.1" />
+				 said, “Look away from me,I will weep bitterly;Do not labor to comfort meBecause of the plundering of the daughter of my people.”
+			<crossref let="b" cid="c23022004.2"> [Eccl. 4:4]</crossref></v>
+			<marker class="begin-verse" mid="v23022005" />
+			<v n="5">
+				For it 
+				<crossref let="f" cid="c230225.1" />
+				 is a day of trouble and treading down and perplexityBy the Lord God of hostsIn the Valley of Vision—Breaking down the wallsAnd of crying to the mountain.
+			</v>
+			<marker class="begin-verse" mid="v23022006" />
+			<v n="6">
+				Elam bore 
+				<crossref let="g" cid="c230226.1" />
+				 the quiverWith chariots of men and horsemen,And Kir uncovered the shield.
+			<crossref let="c" cid="c23022006.2"> [Neh. 2:3; Dan.]</crossref></v>
+			<marker class="begin-verse" mid="v23022007" />
+			<v n="7">
+				It shall 
+				<crossref let="h" cid="c230227.1" />
+				 come to pass that your choicest valleysShall be full of chariots,And the horsemen shall set themselves in array at the gate.
+			<crossref let="d" cid="c23022007.2"> [Ps. 59:3; 62:4;]</crossref></v>
+			<marker class="begin-verse" mid="v23022008" />
+			<v n="8">
+				He removed 
+				<crossref let="i" cid="c230228.1" />
+				 the protection of Judah.You looked in that day to the armor of the House of the Forest;
+			<crossref let="e" cid="c23022008.2"> [Esth. 1:19; 8:8;]</crossref></v>
+			<marker class="begin-verse" mid="v23022009" />
+			<v n="9">
+				You also 
+				<crossref let="j" cid="c230229.1" />
+				 saw the damage to the city of David,That it was great;And you gathered together the waters of the lower pool.
+			</v>
+			<marker class="begin-verse" mid="v23022010" />
+			<v n="10">
+				You numbered 
+				<crossref let="k" cid="c2302210.1" />
+				 the houses of Jerusalem,And the houses you broke downTo fortify the wall.
+			<crossref let="f" cid="c23022010.2"> [1 Kin. 8:29, 30, 46-48; Ps. 5:7; Jon. 2:4 g Ps. 55:17; Acts 2:1, 2, 15; [Phil. 4:6]; 1 Thess. 5:17,]</crossref></v>
+			<marker class="begin-verse" mid="v23022011" />
+			<v n="11">
+				You also 
+				<crossref let="l" cid="c2302211.1" />
+				 made a reservoir between the two wallsFor the water of the old pool.But you did not look to its Maker,Nor did you have respect for Him who fashioned it long ago.
+			</v>
+			<marker class="begin-verse" mid="v23022012" />
+			<v n="12">
+				And in 
+				<crossref let="m" cid="c2302212.1" />
+				 that day the Lord God of hostsCalled for weeping and for mourning,For baldness and for girding with sackcloth.
+			<crossref let="i" cid="c23022012.2"> [Esth. 1:19; Dan.]</crossref><crossref let="h" cid="c23022012.3"> [Dan. 3:8-12; Acts 16:19-21]</crossref></v>
+			<marker class="begin-verse" mid="v23022013" />
+			<v n="13">
+				But instead, 
+				<crossref let="n" cid="c2302213.1" />
+				 joy and gladness,Slaying oxen and killing sheep,Eating meat and drinking wine:“Let us eat and drink, for tomorrow we die!”
+			<crossref let="j" cid="c23022013.2"> [Dan. 1:6; 5:13]</crossref><crossref let="k" cid="c23022013.3"> [Esth. 3:8; Dan. 3:12; Acts 5:29]</crossref></v>
+			<marker class="begin-verse" mid="v23022014" />
+			<v n="14">
+				Then it 
+				<crossref let="o" cid="c2302214.1" />
+				 was revealed in my hearing by the Lord of hosts,“Surely for this iniquity there will be no atonement for you,Even to your death,” says the Lord God of hosts.The Judgment on Shebna
+			<crossref let="l" cid="c23022014.2"> [Mark 6:26 before m Esth. 8:8; Ps. 94:20, 21; Dan.]</crossref></v>
+			<marker class="begin-verse" mid="v23022015" />
+			<v n="15">
+				Thus says 
+				<crossref let="p" cid="c2302215.1" />
+				 the Lord God of hosts:“Go, proceed to this steward,To Shebna, who is over the house, and say:
+			</v>
+			<marker class="begin-verse" mid="v23022016" />
+			<v n="16">
+				‘What have 
+				<crossref let="q" cid="c2302216.1" />
+				 you here, and whom have you here,That you have hewn a sepulcher here,As he who hews himself a sepulcher on high,Who carves a tomb for himself in a rock?
+			</v>
+			<marker class="begin-verse" mid="v23022017" />
+			<v n="17">
+				Indeed, the 
+				<crossref let="r" cid="c2302217.1" />
+				 Lord will throw you away violently,O mighty man,And will surely seize you.
+			<crossref let="o" cid="c23022017.2"> [Matt. 27:66]</crossref><crossref let="n" cid="c23022017.3"> [Lam. 3:53]</crossref></v>
+			<marker class="begin-verse" mid="v23022018" />
+			<v n="18">
+				He will 
+				<crossref let="s" cid="c2302218.1" />
+				 surely turn violently and toss you like a ballInto a large country;There you shall die, and there your glorious chariotsShall be the shame of your master’s house.
+			<crossref let="p" cid="c23022018.2"> [Esth. 6:1; Ps. 77:4; Dan. 2:1]</crossref></v>
+			<marker class="begin-verse" mid="v23022019" />
+			<v n="19">
+				So I 
+				<crossref let="t" cid="c2302219.1" />
+				 will drive you out of your office,And from your position he will pull you down.
+			<crossref let="q" cid="c23022019.2"> [Dan. 3:24]</crossref></v>
+			<marker class="begin-verse" mid="v23022020" />
+			<v n="20">
+				‘Then it 
+				<crossref let="u" cid="c2302220.1" />
+				 shall be in that day,That I will call My servant Eliakim the son of Hilkiah;
+			<crossref let="r" cid="c23022020.2"> [Gen. 18:14; Num. 11:23; Jer. 32:17; Dan. 3:17; [Luke 1:37]]</crossref></v>
+			<marker class="begin-verse" mid="v23022021" />
+			<v n="21">
+				I will 
+				<crossref let="v" cid="c2302221.1" />
+				 clothe him with your robeAnd strengthen him with your belt;I will commit your responsibility into his hand.He shall be a father to the inhabitants of JerusalemAnd to the house of Judah.
+			<crossref let="s" cid="c23022021.2"> [Dan. 2:4; 6:6]</crossref></v>
+			<marker class="begin-verse" mid="v23022022" />
+			<v n="22">
+				The key 
+				<crossref let="w" cid="c2302222.1" />
+				 of the house of DavidI will lay on his shoulder;So he shall open, and no one shall shut;And he shall shut, and no one shall open.
+			<crossref let="t" cid="c23022022.2"> [Num. 20:16; Is. 63:9; Dan. 3:28; Acts 12:11; [Heb. 1:14] u Ps. 91:11- 13; 2 Tim. 4:17; Heb. 11:33]</crossref></v>
+			<marker class="begin-verse" mid="v23022023" />
+			<v n="23">
+				I will 
+				<crossref let="x" cid="c2302223.1" />
+				 fasten him as a peg in a secure place,And he will become a glorious throne to his father’s house.
+			<crossref let="v" cid="c23022023.2"> [Heb. 11:33]</crossref></v>
+			<marker class="begin-verse" mid="v23022024" />
+			<v n="24">
+				‘They will 
+				<crossref let="y" cid="c2302224.1" />
+				 hang on him all the glory of his father’s house, the offspring and the posterity, all vessels of small quantity, from the cups to all the pitchers.
+			<crossref let="x" cid="c23022024.2"> [Deut. 24:16; 2 Kin. 14:6; Esth.]</crossref><crossref let="w" cid="c23022024.3"> [Deut. 19:18, 19; Esth. 7:10]</crossref></v>
+			<marker class="begin-verse" mid="v23022025" />
+			<v n="25">
+				In that 
+				<crossref let="z" cid="c2302225.1" />
+				 day,’ says the Lord of hosts, ‘the peg that is fastened in the secure place will be removed and be cut down and fall, and the burden that was on it will be cut off; for the Lord has spoken.’ ”
+			<crossref let="y" cid="c23022025.2"> [Ezra 1:1, 2; Esth. 3:12; 8:9; Dan. 4:1]</crossref></v>
+			<marker class="begin-verse" mid="v23022026" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:50:57.644353</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:50:57.644388</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" version="NKJV" bookAbbr="zec">
+		<marker class="begin-verse" mid="v38005001" />
+		<chapter num="5">
+			<heading>Vision of the Flying Scroll</heading>
+			<begin-paragraph />
+			<v n="1">
+				Then I 
+				<crossref let="b" cid="c380051.1" />
+				 turned and raised my eyes, and saw there a flying scroll.
+			<crossref let="a" cid="c38005001.2"> [1 Cor. 1:1; Eph. 1:1; Col. 1:1; 1 Tim. 1:1; 2 Tim. 1:1]</crossref><crossref let="b" cid="c38005001.3"> [Acts 16:1; 1 Cor. 16:10 c Phil. 1:1; Col. 1:2]</crossref></v>
+			<marker class="begin-verse" mid="v38005002" />
+			<v n="2">
+				And he 
+				<crossref let="c" cid="c380052.1" />
+				 said to me, “What do you see?”So I answered, “I see a flying scroll. Its length is twenty cubits and its width ten cubits.”
+			<crossref let="d" cid="c38005002.2"> [Rom. 1:7]</crossref></v>
+			<marker class="begin-verse" mid="v38005003" />
+			<v n="3">
+				Then he 
+				<crossref let="d" cid="c380053.1" />
+				 said to me, “This is the curse that goes out over the face of the whole earth: ‘Every thief shall be expelled,’ according to this side of the scroll; and, ‘Every perjurer shall be expelled,’ according to that side of it.”
+			<crossref let="e" cid="c38005003.2"> [Eph. 1:3; 1 Pet.]</crossref></v>
+			<marker class="begin-verse" mid="v38005004" />
+			<v n="4">
+				“I will 
+				<crossref let="e" cid="c380054.1" />
+				 send out the curse,” says the Lord of hosts;“It shall enter the house of the thiefAnd the house of the one who swears falsely by My name.It shall remain in the midst of his houseAnd consume it, with its timber and stones.”Vision of the Woman in a Basket
+			<crossref let="f" cid="c38005004.2"> [Is. 51:12; 66:13; 2 Cor. 7:6, 7,]</crossref></v>
+			<marker class="begin-verse" mid="v38005005" />
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c380055.1" />
+				 angel who talked with me came out and said to me, “Lift your eyes now, and see what this is that goes forth.”
+			<crossref let="g" cid="c38005005.2"> [[Acts 9:4]; 2 Cor. 4:10; Phil. 3:10; Col. 1:24]</crossref></v>
+			<marker class="begin-verse" mid="v38005006" />
+			<v n="6">
+				So I 
+				<crossref let="g" cid="c380056.1" />
+				 asked, “What is it?” And he said, “It is a basket that is going forth.”He also said, “This is their resemblance throughout the earth:
+			<crossref let="h" cid="c38005006.2"> [2 Cor. 4:15; 12:15; Eph. 3:1, 13; 2 Tim. 2:10]</crossref></v>
+			<marker class="begin-verse" mid="v38005007" />
+			<v n="7">
+				Here is 
+				<crossref let="h" cid="c380057.1" />
+				 a lead disc lifted up, and this is a woman sitting inside the basket”;
+			<crossref let="i" cid="c38005007.2"> [[Rom. 8:17; 2 Tim. 2:12]]</crossref></v>
+			<marker class="begin-verse" mid="v38005008" />
+			<v n="8">
+				then he 
+				<crossref let="i" cid="c380058.1" />
+				 said, “This is Wickedness!” And he thrust her down into the basket, and threw the lead cover over its mouth.
+			<crossref let="j" cid="c38005008.2"> [Acts 19:23; 1 Cor. 15:32; 16:9]</crossref></v>
+			<marker class="begin-verse" mid="v38005009" />
+			<v n="9">
+				Then I 
+				<crossref let="j" cid="c380059.1" />
+				 raised my eyes and looked, and there were two women, coming with the wind in their wings; for they had wings like the wings of a stork, and they lifted up the basket between earth and heaven.
+			<crossref let="k" cid="c38005009.2"> [Jer. 17:5,]</crossref></v>
+			<marker class="begin-verse" mid="v38005010" />
+			<v n="10">
+				So I 
+				<crossref let="k" cid="c3800510.1" />
+				 said to the angel who talked with me, “Where are they carrying the basket?”
+			<crossref let="l" cid="c38005010.2"> [[2 Pet. 2:9]]</crossref></v>
+			<marker class="begin-verse" mid="v38005011" />
+			<v n="11">
+				And he 
+				<crossref let="l" cid="c3800511.1" />
+				 said to me, “To build a house for it in the land of Shinar; when it is ready, the basket will be set there on its base.”
+			<crossref let="m" cid="c38005011.2"> [Rom. 15:30; Phil. 1:19; Philem.]</crossref></v>
+			<marker class="begin-verse" mid="v38005012" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

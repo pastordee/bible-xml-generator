@@ -1,0 +1,370 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:53:17.271298</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:53:17.271316</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="NKJV" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40013001" />
+		<chapter num="13">
+			<heading>The Parable of the Sower</heading>
+			<begin-paragraph />
+			<v n="1">
+				On the 
+				<crossref let="b" cid="c400131.1" />
+				 same day Jesus went out of the house and sat by the sea.
+			<crossref let="a" cid="c40013001.2"> [1 Thess. 5:16]</crossref></v>
+			<marker class="begin-verse" mid="v40013002" />
+			<v n="2">
+				And great 
+				<crossref let="c" cid="c400132.1" />
+				 multitudes were gathered together to Him, so that He got into a boat and sat; and the whole multitude stood on the shore.
+			<crossref let="d" cid="c40013002.2"> [Rom. 2:28]</crossref><crossref let="b" cid="c40013002.3"> [Ps. 22:16, 20; Gal. 5:15; Rev. 22:15 c Ps. 119:115]</crossref></v>
+			<marker class="begin-verse" mid="v40013003" />
+			<v n="3">
+				Then He 
+				<crossref let="d" cid="c400133.1" />
+				 spoke many things to them in parables, saying: “Behold, a sower went out to sow.
+			<crossref let="e" cid="c40013003.2"> [Deut. 30:6; Rom. 2:28, 29; 9:6; [Gal. 6:15] f John 4:24; Rom. 7:6]</crossref></v>
+			<marker class="begin-verse" mid="v40013004" />
+			<v n="4">
+				And as 
+				<crossref let="e" cid="c400134.1" />
+				 he sowed, some seed fell by the wayside; and the birds came and devoured them.
+			<crossref let="g" cid="c40013004.2"> [2 Cor. 5:16; 11:18 h 2 Cor.]</crossref></v>
+			<marker class="begin-verse" mid="v40013005" />
+			<v n="5">
+				Some fell 
+				<crossref let="f" cid="c400135.1" />
+				 on stony places, where they did not have much earth; and they immediately sprang up because they had no depth of earth.
+			<crossref let="i" cid="c40013005.2"> [Rom. 11:1 j 2 Cor. 11:22]</crossref><crossref let="k" cid="c40013005.3"> [Acts 23:6]</crossref></v>
+			<marker class="begin-verse" mid="v40013006" />
+			<v n="6">
+				But when 
+				<crossref let="g" cid="c400136.1" />
+				 the sun was up they were scorched, and because they had no root they withered away.
+			<crossref let="m" cid="c40013006.2"> [Matt. 13:44 Though Paul exercised apostolic powers (see 2 Cor. 12:12), 26:41; Deut. 10:16, 30:6; Jer. 4:4; Ezek. 44:7). the foundation for the restored nation (see]</crossref><crossref let="l" cid="c40013006.3"> [Acts 8:3; 22:4, 5;26:9–11]</crossref></v>
+			<marker class="begin-verse" mid="v40013007" />
+			<v n="7">
+				And some 
+				<crossref let="h" cid="c400137.1" />
+				 fell among thorns, and the thorns sprang up and choked them.
+			</v>
+			<marker class="begin-verse" mid="v40013008" />
+			<v n="8">
+				But others 
+				<crossref let="i" cid="c400138.1" />
+				 fell on good ground and yielded a crop: some a hundredfold, some sixty, some thirty.
+			<crossref let="n" cid="c40013008.2"> [Is. 53:11; Jer. 9:23; John 17:3; 1 Cor. 2:2; [Eph.]</crossref></v>
+			<marker class="begin-verse" mid="v40013009" />
+			<v n="9">
+				He who 
+				<crossref let="j" cid="c400139.1" />
+				 has ears to hear, let him hear!”The Purpose of Parables
+			<crossref let="o" cid="c40013009.2"> [Rom. 10:3]</crossref><crossref let="p" cid="c40013009.3"> [Rom. 1:17]</crossref></v>
+			<marker class="begin-verse" mid="v40013010" />
+			<v n="10">
+				And the 
+				<crossref let="k" cid="c4001310.1" />
+				 disciples came and said to Him, “Why do You speak to them in parables?”
+			<crossref let="q" cid="c40013010.2"> [Eph. 1:19, 20 r [Rom. 6:3–5]; 2 Cor. 1:5; 1 Pet.]</crossref></v>
+			<marker class="begin-verse" mid="v40013011" />
+			<v n="11">
+				He answered 
+				<crossref let="l" cid="c4001311.1" />
+				 and said to them, “Because it has been given to you to know the mysteries of the kingdom of heaven, but to them it has not been given.
+			<crossref let="s" cid="c40013011.2"> [Acts 26:6–8; [1 Cor. 15:23;]</crossref></v>
+			<marker class="begin-verse" mid="v40013012" />
+			<v n="12">
+				For whoever 
+				<crossref let="m" cid="c4001312.1" />
+				 has, to him more will be given, and he will have abundance; but whoever does not have, even what he has will be taken away from him.
+			<crossref let="t" cid="c40013012.2"> [1 Cor. 9:24; [1 Tim. 6:12, 19]u Heb. 12:23]</crossref></v>
+			<marker class="begin-verse" mid="v40013013" />
+			<v n="13">
+				Therefore I 
+				<crossref let="n" cid="c4001313.1" />
+				 speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand.
+			<crossref let="w" cid="c40013013.2"> [Heb. 6:1 4 laid]</crossref><crossref let="v" cid="c40013013.3"> [Luke 9:62]</crossref></v>
+			<marker class="begin-verse" mid="v40013014" />
+			<v n="14">
+				And in 
+				<crossref let="o" cid="c4001314.1" />
+				 them the prophecy of Isaiah is fulfilled, which says:‘Hearing you will hear and shall not understand,And seeing you will see and not perceive;
+			<crossref let="x" cid="c40013014.2"> [2 Tim. 4:7]</crossref><crossref let="y" cid="c40013014.3"> [Heb. 3:1]</crossref></v>
+			<marker class="begin-verse" mid="v40013015" />
+			<v n="15">
+				For the 
+				<crossref let="p" cid="c4001315.1" />
+				 hearts of this people have grown dull.Their ears are hard of hearing,And their eyes they have closed,Lest they should see with their eyes and hear with their ears,Lest they should understand with their hearts and turn,So that I should heal them.’
+			<crossref let="z" cid="c40013015.2"> [Matt. 5:48; 1 Cor. 2:6 a Gal. 5:10 b Hos. 6:3; James 1:5]</crossref></v>
+			<marker class="begin-verse" mid="v40013016" />
+			<v n="16">
+				But blessed 
+				<crossref let="q" cid="c4001316.1" />
+				 are your eyes for they see, and your ears for they hear;
+			<crossref let="c" cid="c40013016.2"> [Gal. 6:16]</crossref><crossref let="d" cid="c40013016.3"> [Rom. 12:16; 15:5]</crossref></v>
+			<marker class="begin-verse" mid="v40013017" />
+			<v n="17">
+				for assuredly, 
+				<crossref let="r" cid="c4001317.1" />
+				 I say to you that many prophets and righteous men desired to see what you see, and did not see it, and to hear what you hear, and did not hear it.The Parable of the Sower Explained
+			<crossref let="e" cid="c40013017.2"> [[1 Cor. 4:16; 11:1]; Phil. 4:9]</crossref></v>
+			<marker class="begin-verse" mid="v40013018" />
+			<v n="18">
+				“Therefore hear 
+				<crossref let="s" cid="c4001318.1" />
+				 the parable of the sower:
+			<crossref let="g" cid="c40013018.2"> [Gal. 1:7]</crossref></v>
+			<marker class="begin-verse" mid="v40013019" />
+			<v n="19">
+				When anyone 
+				<crossref let="t" cid="c4001319.1" />
+				 hears the word of the kingdom, and does not understand it, then the wicked one comes and snatches away what was sown in his heart. This is he who received seed by the wayside.
+			<crossref let="h" cid="c40013019.2"> [2 Cor. 11:15 i 1 Tim. 6:5 j Hos. 4:7 k Rom. 8:5; Col. 3:2]</crossref></v>
+			<marker class="begin-verse" mid="v40013020" />
+			<v n="20">
+				But he 
+				<crossref let="u" cid="c4001320.1" />
+				 who received the seed on stony places, this is he who hears the word and immediately receives it with joy;
+			<crossref let="m" cid="c40013020.2"> [Acts 1:11 n 1 Cor. 1:7]</crossref><crossref let="l" cid="c40013020.3"> [Eph. 2:6, 19; Phil. 1:27; [Col. 3:1; Heb. 12:22]]</crossref></v>
+			<marker class="begin-verse" mid="v40013021" />
+			<v n="21">
+				yet he 
+				<crossref let="v" cid="c4001321.1" />
+				 has no root in himself, but endures only for a while. For when tribulation or persecution arises because of the word, immediately he stumbles.
+			<crossref let="o" cid="c40013021.2"> [[1 Cor. 15:43–53] p 1 John 3:2 q Eph. 1:19 r [1 Cor. 15:28]]</crossref></v>
+			<marker class="begin-verse" mid="v40013022" />
+			<v n="22">
+				Now he 
+				<crossref let="w" cid="c4001322.1" />
+				 who received seed among the thorns is he who hears the word, and the cares of this world and the deceitfulness of riches choke the word, and he becomes unfruitful.
+			</v>
+			<marker class="begin-verse" mid="v40013023" />
+			<v n="23">
+				But he 
+				<crossref let="x" cid="c4001323.1" />
+				 who received seed on the good ground is he who hears the word and understands it, who indeed bears fruit and produces: some a hundredfold, some sixty, some thirty.”The Parable of the Wheat and the Tares
+			</v>
+			<marker class="begin-verse" mid="v40013024" />
+			<v n="24">
+				Another parable 
+				<crossref let="y" cid="c4001324.1" />
+				 He put forth to them, saying: “The kingdom of heaven is like a man who sowed good seed in his field;
+			</v>
+			<marker class="begin-verse" mid="v40013025" />
+			<v n="25">
+				but while 
+				<crossref let="z" cid="c4001325.1" />
+				 men slept, his enemy came and sowed tares among the wheat and went his way.
+			</v>
+			<marker class="begin-verse" mid="v40013026" />
+			<v n="26">
+				But when 
+				<crossref let="a" cid="c4001326.1" />
+				 the grain had sprouted and produced a crop, then the tares also appeared.
+			</v>
+			<marker class="begin-verse" mid="v40013027" />
+			<v n="27">
+				So the 
+				<crossref let="b" cid="c4001327.1" />
+				 servants of the owner came and said to him, ‘Sir, did you not sow good seed in your field? How then does it have tares?’
+			</v>
+			<marker class="begin-verse" mid="v40013028" />
+			<v n="28">
+				He said 
+				<crossref let="c" cid="c4001328.1" />
+				 to them, ‘An enemy has done this.’ The servants said to him, ‘Do you want us then to go and gather them up?’
+			</v>
+			<marker class="begin-verse" mid="v40013029" />
+			<v n="29">
+				But he 
+				<crossref let="d" cid="c4001329.1" />
+				 said, ‘No, lest while you gather up the tares you also uproot the wheat with them.
+			</v>
+			<marker class="begin-verse" mid="v40013030" />
+			<v n="30">
+				Let both 
+				<crossref let="e" cid="c4001330.1" />
+				 grow together until the harvest, and at the time of harvest I will say to the reapers, “First gather together the tares and bind them in bundles to burn them, but gather the wheat into my barn.” ’ ”The Parable of the Mustard Seed
+			</v>
+			<marker class="begin-verse" mid="v40013031" />
+			<v n="31">
+				Another parable 
+				<crossref let="f" cid="c4001331.1" />
+				 He put forth to them, saying: “The kingdom of heaven is like a mustard seed, which a man took and sowed in his field,
+			</v>
+			<marker class="begin-verse" mid="v40013032" />
+			<v n="32">
+				which indeed 
+				<crossref let="g" cid="c4001332.1" />
+				 is the least of all the seeds; but when it is grown it is greater than the herbs and becomes a tree, so that the birds of the air come and nest in its branches.”The Parable of the Leaven
+			</v>
+			<marker class="begin-verse" mid="v40013033" />
+			<v n="33">
+				Another parable 
+				<crossref let="h" cid="c4001333.1" />
+				 He spoke to them: “The kingdom of heaven is like leaven, which a woman took and hid in three measures of meal till it was all leavened.”Prophecy and the Parables
+			</v>
+			<marker class="begin-verse" mid="v40013034" />
+			<v n="34">
+				All these 
+				<crossref let="i" cid="c4001334.1" />
+				 things Jesus spoke to the multitude in parables; and without a parable He did not speak to them,
+			</v>
+			<marker class="begin-verse" mid="v40013035" />
+			<v n="35">
+				that it 
+				<crossref let="j" cid="c4001335.1" />
+				 might be fulfilled which was spoken by the prophet, saying:“I will open My mouth in parables;I will utter things kept secret from the foundation of the world.”The Parable of the Tares Explained
+			</v>
+			<marker class="begin-verse" mid="v40013036" />
+			<v n="36">
+				Then Jesus 
+				<crossref let="k" cid="c4001336.1" />
+				 sent the multitude away and went into the house. And His disciples came to Him, saying, “Explain to us the parable of the tares of the field.”
+			</v>
+			<marker class="begin-verse" mid="v40013037" />
+			<v n="37">
+				He answered 
+				<crossref let="l" cid="c4001337.1" />
+				 and said to them: “He who sows the good seed is the Son of Man.
+			</v>
+			<marker class="begin-verse" mid="v40013038" />
+			<v n="38">
+				The field 
+				<crossref let="m" cid="c4001338.1" />
+				 is the world, the good seeds are the sons of the kingdom, but the tares are the sons of the wicked one.
+			</v>
+			<marker class="begin-verse" mid="v40013039" />
+			<v n="39">
+				The enemy 
+				<crossref let="n" cid="c4001339.1" />
+				 who sowed them is the devil, the harvest is the end of the age, and the reapers are the angels.
+			</v>
+			<marker class="begin-verse" mid="v40013040" />
+			<v n="40">
+				Therefore as 
+				<crossref let="o" cid="c4001340.1" />
+				 the tares are gathered and burned in the fire, so it will be at the end of this age.
+			</v>
+			<marker class="begin-verse" mid="v40013041" />
+			<v n="41">
+				The Son 
+				<crossref let="p" cid="c4001341.1" />
+				 of Man will send out His angels, and they will gather out of His kingdom all things that offend, and those who practice lawlessness,
+			</v>
+			<marker class="begin-verse" mid="v40013042" />
+			<v n="42">
+				and will 
+				<crossref let="q" cid="c4001342.1" />
+				 cast them into the furnace of fire. There will be wailing and gnashing of teeth.
+			</v>
+			<marker class="begin-verse" mid="v40013043" />
+			<v n="43">
+				Then the 
+				<crossref let="r" cid="c4001343.1" />
+				 righteous will shine forth as the sun in the kingdom of their Father. He who has ears to hear, let him hear!The Parable of the Hidden Treasure
+			</v>
+			<marker class="begin-verse" mid="v40013044" />
+			<v n="44">
+				“Again, the 
+				<crossref let="s" cid="c4001344.1" />
+				 kingdom of heaven is like treasure hidden in a field, which a man found and hid; and for joy over it he goes and sells all that he has and buys that field.The Parable of the Pearl of Great Price
+			</v>
+			<marker class="begin-verse" mid="v40013045" />
+			<v n="45">
+				“Again, the 
+				<crossref let="t" cid="c4001345.1" />
+				 kingdom of heaven is like a merchant seeking beautiful pearls,
+			</v>
+			<marker class="begin-verse" mid="v40013046" />
+			<v n="46">
+				who, when 
+				<crossref let="u" cid="c4001346.1" />
+				 he had found one pearl of great price, went and sold all that he had and bought it.The Parable of the Dragnet
+			</v>
+			<marker class="begin-verse" mid="v40013047" />
+			<v n="47">
+				“Again, the 
+				<crossref let="v" cid="c4001347.1" />
+				 kingdom of heaven is like a dragnet that was cast into the sea and gathered some of every kind,
+			</v>
+			<marker class="begin-verse" mid="v40013048" />
+			<v n="48">
+				which, when 
+				<crossref let="w" cid="c4001348.1" />
+				 it was full, they drew to shore; and they sat down and gathered the good into vessels, but threw the bad away.
+			</v>
+			<marker class="begin-verse" mid="v40013049" />
+			<v n="49">
+				So it 
+				<crossref let="x" cid="c4001349.1" />
+				 will be at the end of the age. The angels will come forth, separate the wicked from among the just,
+			</v>
+			<marker class="begin-verse" mid="v40013050" />
+			<v n="50">
+				and cast 
+				<crossref let="y" cid="c4001350.1" />
+				 them into the furnace of fire. There will be wailing and gnashing of teeth.”
+			</v>
+			<marker class="begin-verse" mid="v40013051" />
+			<v n="51">
+				Jesus said 
+				<crossref let="z" cid="c4001351.1" />
+				 to them, “Have you understood all these things?”They said to Him, “Yes, Lord.”
+			</v>
+			<marker class="begin-verse" mid="v40013052" />
+			<v n="52">
+				Then He 
+				<crossref let="a" cid="c4001352.1" />
+				 said to them, “Therefore every scribe instructed concerning the kingdom of heaven is like a householder who brings out of his treasure things new and old.”Jesus Rejected at Nazareth
+			</v>
+			<marker class="begin-verse" mid="v40013053" />
+			<v n="53">
+				Now it 
+				<crossref let="b" cid="c4001353.1" />
+				 came to pass, when Jesus had finished these parables, that He departed from there.
+			</v>
+			<marker class="begin-verse" mid="v40013054" />
+			<v n="54">
+				When He 
+				<crossref let="c" cid="c4001354.1" />
+				 had come to His own country, He taught them in their synagogue, so that they were astonished and said, “Where did this Man get this wisdom and these mighty works?
+			</v>
+			<marker class="begin-verse" mid="v40013055" />
+			<v n="55">
+				Is this 
+				<crossref let="d" cid="c4001355.1" />
+				 not the carpenter’s son? Is not His mother called Mary? And His brothers James, Joses, Simon, and Judas?
+			</v>
+			<marker class="begin-verse" mid="v40013056" />
+			<v n="56">
+				And His 
+				<crossref let="e" cid="c4001356.1" />
+				 sisters, are they not all with us? Where then did this Man get all these things?”
+			</v>
+			<marker class="begin-verse" mid="v40013057" />
+			<v n="57">
+				So they 
+				<crossref let="f" cid="c4001357.1" />
+				 were offended at Him.But Jesus said to them, “A prophet is not without honor except in his own country and in his own house.”
+			</v>
+			<marker class="begin-verse" mid="v40013058" />
+			<v n="58">
+				Now He 
+				<crossref let="g" cid="c4001358.1" />
+				 did not do many mighty works there because of their unbelief.
+			</v>
+			<marker class="begin-verse" mid="v40013059" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

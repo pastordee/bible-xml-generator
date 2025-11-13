@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:25:24.094393</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:25:24.094419</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19149001" />
+		<chapter num="149">
+			<heading>Praise to God for His Salvation and Judgment</heading>
+			<begin-paragraph />
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c191491.1" />
+				 Lord!Sing to the Lord a new song,And His praise in the assembly of saints.
+			</v>
+			<marker class="begin-verse" mid="v19149002" />
+			<v n="2">
+				Let Israel 
+				<crossref let="c" cid="c191492.1" />
+				 rejoice in their Maker;Let the children of Zion be joyful in their King.
+			<crossref let="b" cid="c19149002.2"> [1 Kin. 6:5, 8; 1 Chr. 9:26,]</crossref></v>
+			<marker class="begin-verse" mid="v19149003" />
+			<v n="3">
+				Let them 
+				<crossref let="d" cid="c191493.1" />
+				 praise His name with the dance;Let them sing praises to Him with the timbrel and harp.
+			</v>
+			<marker class="begin-verse" mid="v19149004" />
+			<v n="4">
+				For the 
+				<crossref let="e" cid="c191494.1" />
+				 Lord takes pleasure in His people;He will beautify the humble with salvation.
+			<crossref let="c" cid="c19149004.2"> [2 Kin. 12:9; 25:18; 1 Chr. 9:18,]</crossref></v>
+			<marker class="begin-verse" mid="v19149005" />
+			<v n="5">
+				Let the 
+				<crossref let="f" cid="c191495.1" />
+				 saints be joyful in glory;Let them sing aloud on their beds.
+			</v>
+			<marker class="begin-verse" mid="v19149006" />
+			<v n="6">
+				Let the 
+				<crossref let="g" cid="c191496.1" />
+				 high praises of God be in their mouth,And a two-edged sword in their hand,
+			<crossref let="e" cid="c19149006.2"> [Lev. 10:9; Num. 6:2-4; Judg. 13:7, 14; Prov. 31:4; Ezek. 44:21; Luke]</crossref><crossref let="d" cid="c19149006.3"> [2 Kin. 10:15,]</crossref></v>
+			<marker class="begin-verse" mid="v19149007" />
+			<v n="7">
+				To execute 
+				<crossref let="h" cid="c191497.1" />
+				 vengeance on the nations,And punishments on the peoples;
+			<crossref let="f" cid="c19149007.2"> [Ex. 20:12; Eph.]</crossref></v>
+			<marker class="begin-verse" mid="v19149008" />
+			<v n="8">
+				To bind 
+				<crossref let="i" cid="c191498.1" />
+				 their kings with chains,And their nobles with fetters of iron;
+			<crossref let="g" cid="c19149008.2"> [[Prov. 1:8, 9; Eph. 6:1; Col. 3:20]]</crossref></v>
+			<marker class="begin-verse" mid="v19149009" />
+			<v n="9">
+				To execute 
+				<crossref let="j" cid="c191499.1" />
+				 on them the written judgment—This honor have all His saints.Praise the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19149010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

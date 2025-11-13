@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:03:08.736043</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:03:08.736078</next_refresh_due>
+	</generation_info>
+	<book title="Romans" num="45" testament="new" version="NKJV" bookAbbr="rom">
+		<marker class="begin-verse" mid="v45006001" />
+		<chapter num="6">
+			<heading>Dead to Sin, Alive to God</heading>
+			<begin-paragraph />
+			<v n="1">
+				What shall 
+				<crossref let="b" cid="c450061.1" />
+				 we say then? Shall we continue in sin that grace may abound?
+			<crossref let="a" cid="c45006001.2"> [2 Cor. 1:23]</crossref></v>
+			<marker class="begin-verse" mid="v45006002" />
+			<v n="2">
+				Certainly not! 
+				<crossref let="c" cid="c450062.1" />
+				 How shall we who died to sin live any longer in it?
+			<crossref let="b" cid="c45006002.2"> [Rom. 10:1]</crossref></v>
+			<marker class="begin-verse" mid="v45006003" />
+			<v n="3">
+				Or do 
+				<crossref let="d" cid="c450063.1" />
+				 you not know that as many of us as were baptized into Christ Jesus were baptized into His death?
+			<crossref let="c" cid="c45006003.2"> [Ex. 32:32]</crossref><crossref let="b" cid="c45006003.3"> [[Rom. 1:17]]</crossref></v>
+			<marker class="begin-verse" mid="v45006004" />
+			<v n="4">
+				Therefore we 
+				<crossref let="e" cid="c450064.1" />
+				 were buried with Him through baptism into death, that just as Christ was raised from the dead by the glory of the Father, even so we also should walk in newness of life.
+			<crossref let="d" cid="c45006004.2"> [Matt. 5:17;]</crossref></v>
+			<marker class="begin-verse" mid="v45006005" />
+			<v n="5">
+				For if 
+				<crossref let="f" cid="c450065.1" />
+				 we have been united together in the likeness of His death, certainly we also shall be in the likeness of His resurrection,
+			<crossref let="j" cid="c45006005.2"> [Deut. 10:15]</crossref><crossref let="e" cid="c45006005.3"> [Lev. 18:5; Neh.]</crossref></v>
+			<marker class="begin-verse" mid="v45006006" />
+			<v n="6">
+				knowing this, 
+				<crossref let="g" cid="c450066.1" />
+				 that our old man was crucified with Him, that the body of sin might be done away with, that we should no longer be slaves of sin.
+			<crossref let="m" cid="c45006006.2"> [Num. 23:19]</crossref><crossref let="f" cid="c45006006.3"> [Deut. 30:12-14]</crossref></v>
+			<marker class="begin-verse" mid="v45006007" />
+			<v n="7">
+				For he 
+				<crossref let="h" cid="c450067.1" />
+				 who has died has been freed from sin.
+			<crossref let="o" cid="c45006007.2"> [[John 8:33, 39;]</crossref><crossref let="g" cid="c45006007.3"> [Deut. 30:13]</crossref></v>
+			<marker class="begin-verse" mid="v45006008" />
+			<v n="8">
+				Now if 
+				<crossref let="i" cid="c450068.1" />
+				 we died with Christ, we believe that we shall also live with Him,
+			<crossref let="h" cid="c45006008.2"> [Deut. 30:14]</crossref><crossref let="q" cid="c45006008.3"> [Gal. 4:28]</crossref></v>
+			<marker class="begin-verse" mid="v45006009" />
+			<v n="9">
+				knowing that 
+				<crossref let="j" cid="c450069.1" />
+				 Christ, having been raised from the dead, dies no more. Death no longer has dominion over Him.
+			<crossref let="r" cid="c45006009.2"> [Gen. 18:10, 14;]</crossref><crossref let="i" cid="c45006009.3"> [Matt. 10:32;]</crossref></v>
+			<marker class="begin-verse" mid="v45006010" />
+			<v n="10">
+				For the 
+				<crossref let="k" cid="c4500610.1" />
+				 death that He died, He died to sin once for all; but the life that He lives, He lives to God.
+			<crossref let="s" cid="c45006010.2"> [Gen. 25:21]</crossref></v>
+			<marker class="begin-verse" mid="v45006011" />
+			<v n="11">
+				Likewise you 
+				<crossref let="l" cid="c4500611.1" />
+				 also, reckon yourselves to be dead indeed to sin, but alive to God in Christ Jesus our Lord.
+			<crossref let="t" cid="c45006011.2"> [[Rom. 4:17;]</crossref></v>
+			<marker class="begin-verse" mid="v45006012" />
+			<v n="12">
+				Therefore do 
+				<crossref let="m" cid="c4500612.1" />
+				 not let sin reign in your mortal body, that you should obey it in its lusts.
+			<crossref let="u" cid="c45006012.2"> [Gen. 25:23]</crossref><crossref let="k" cid="c45006012.3"> [Acts 15:9;]</crossref></v>
+			<marker class="begin-verse" mid="v45006013" />
+			<v n="13">
+				And do 
+				<crossref let="n" cid="c4500613.1" />
+				 not present your members as instruments of unrighteousness to sin, but present yourselves to God as being alive from the dead, and your members as instruments of righteousness to God.
+			<crossref let="n" cid="c45006013.2"> [Joel 2:32; Acts]</crossref><crossref let="v" cid="c45006013.3"> [Mal. 1:2,]</crossref></v>
+			<marker class="begin-verse" mid="v45006014" />
+			<v n="14">
+				For sin 
+				<crossref let="o" cid="c4500614.1" />
+				 shall not have dominion over you, for you are not under law but under grace.From Slaves of Sin to Slaves of God
+			<crossref let="p" cid="c45006014.2"> [Acts 8:31;]</crossref><crossref let="w" cid="c45006014.3"> [Deut. 32:4]</crossref></v>
+			<marker class="begin-verse" mid="v45006015" />
+			<v n="15">
+				What then? 
+				<crossref let="p" cid="c4500615.1" />
+				 Shall we sin because we are not under law but under grace? Certainly not!
+			<crossref let="x" cid="c45006015.2"> [Ex. 33:19]</crossref><crossref let="q" cid="c45006015.3"> [Is. 52:7; Nah.]</crossref></v>
+			<marker class="begin-verse" mid="v45006016" />
+			<v n="16">
+				Do you 
+				<crossref let="q" cid="c4500616.1" />
+				 not know that to whom you present yourselves slaves to obey, you are that one’s slaves whom you obey, whether of sin leading to death, or of obedience leading to righteousness?
+			<crossref let="r" cid="c45006016.2"> [Is. 53:1; John]</crossref></v>
+			<marker class="begin-verse" mid="v45006017" />
+			<v n="17">
+				But God 
+				<crossref let="r" cid="c4500617.1" />
+				 be thanked that though you were slaves of sin, yet you obeyed from the heart that form of doctrine to which you were delivered.
+			<crossref let="y" cid="c45006017.2"> [Gal. 3:8 z Ex.]</crossref></v>
+			<marker class="begin-verse" mid="v45006018" />
+			<v n="18">
+				And having 
+				<crossref let="s" cid="c4500618.1" />
+				 been set free from sin, you became slaves of righteousness.
+			<crossref let="s" cid="c45006018.2"> [Ps. 19:4; Matt.]</crossref></v>
+			<marker class="begin-verse" mid="v45006019" />
+			<v n="19">
+				I speak 
+				<crossref let="t" cid="c4500619.1" />
+				 in human terms because of the weakness of your flesh. For just as you presented your members as slaves of uncleanness, and of lawlessness leading to more lawlessness, so now present your members as slaves of righteousness for holiness.
+			<crossref let="u" cid="c45006019.2"> [Deut. 32:21;]</crossref><crossref let="b" cid="c45006019.3"> [2 Chr. 20:6;]</crossref></v>
+			<marker class="begin-verse" mid="v45006020" />
+			<v n="20">
+				For when 
+				<crossref let="u" cid="c4500620.1" />
+				 you were slaves of sin, you were free in regard to righteousness.
+			<crossref let="c" cid="c45006020.2"> [Is. 29:16; Jer.]</crossref><crossref let="w" cid="c45006020.3"> [Is. 65:1; Rom.]</crossref></v>
+			<marker class="begin-verse" mid="v45006021" />
+			<v n="21">
+				What fruit 
+				<crossref let="v" cid="c4500621.1" />
+				 did you have then in the things of which you are now ashamed? For the end of those things is death.
+			<crossref let="x" cid="c45006021.2"> [Is. 65:2]</crossref><crossref let="d" cid="c45006021.3"> [Prov. 16:4]</crossref></v>
+			<marker class="begin-verse" mid="v45006022" />
+			<v n="22">
+				But now 
+				<crossref let="w" cid="c4500622.1" />
+				 having been set free from sin, and having become slaves of God, you have your fruit to holiness, and the end, everlasting life.
+			<crossref let="f" cid="c45006022.2"> [[1 Thess.]</crossref></v>
+			<marker class="begin-verse" mid="v45006023" />
+			<v n="23">
+				For the 
+				<crossref let="x" cid="c4500623.1" />
+				 wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.
+			<crossref let="h" cid="c45006023.2"> [[Col. 1:27]]</crossref></v>
+			<marker class="begin-verse" mid="v45006024" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

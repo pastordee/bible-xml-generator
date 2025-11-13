@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:48:15.628180</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:48:15.628234</next_refresh_due>
+	</generation_info>
+	<book title="Amos" num="30" testament="old" version="NKJV" bookAbbr="amo">
+		<marker class="begin-verse" mid="v30004001" />
+		<chapter num="4">
+			<begin-paragraph />
+			<v n="1">
+				Hear this 
+				<crossref let="b" cid="c300041.1" />
+				 word, you cows of Bashan, who are on the mountain of Samaria,Who oppress the poor,Who crush the needy,Who say to your husbands, “Bring wine, let us drink!”
+			<crossref let="a" cid="c30004001.2"> [Acts 8:40; 25:4,]</crossref></v>
+			<marker class="begin-verse" mid="v30004002" />
+			<v n="2">
+				The Lord 
+				<crossref let="c" cid="c300042.1" />
+				 God has sworn by His holiness:“Behold, the days shall come upon youWhen He will take you away with fishhooks,And your posterity with fishhooks.
+			<crossref let="b" cid="c30004002.2"> [Acts 24:1; 25:15]</crossref></v>
+			<marker class="begin-verse" mid="v30004003" />
+			<v n="3">
+				You will 
+				<crossref let="d" cid="c300043.1" />
+				 go out through broken walls,Each one straight ahead of her,And you will be cast into Harmon,”Says the Lord.
+			<crossref let="c" cid="c30004003.2"> [Acts 23:12,]</crossref></v>
+			<marker class="begin-verse" mid="v30004004" />
+			<v n="4">
+				“Cometo Bethel 
+				<crossref let="e" cid="c300044.1" />
+				 and transgress,At Gilgal multiply transgression;Bring your sacrifices every morning,Your tithes every three days.
+			</v>
+			<marker class="begin-verse" mid="v30004005" />
+			<v n="5">
+				Offer a 
+				<crossref let="f" cid="c300045.1" />
+				 sacrifice of thanksgiving with leaven,Proclaim and announce the freewill offerings;For this you love,You children of Israel!”Says the Lord God.Israel Did Not Accept Correction
+			<crossref let="d" cid="c30004005.2"> [Acts 18:14;]</crossref></v>
+			<marker class="begin-verse" mid="v30004006" />
+			<v n="6">
+				“Also I 
+				<crossref let="g" cid="c300046.1" />
+				 gave you cleanness of teeth in all your cities,And lack of bread in all your places;Yet you have not returned to Me,”Says the Lord.
+			</v>
+			<marker class="begin-verse" mid="v30004007" />
+			<v n="7">
+				“I also 
+				<crossref let="h" cid="c300047.1" />
+				 withheld rain from you,When there were still three months to the harvest.I made it rain on one city,I withheld rain from another city.One part was rained upon,And where it did not rain the part withered.
+			<crossref let="e" cid="c30004007.2"> [Mark 15:3; Luke 23:2, 10; Acts]</crossref></v>
+			<marker class="begin-verse" mid="v30004008" />
+			<v n="8">
+				So two 
+				<crossref let="i" cid="c300048.1" />
+				 or three cities wandered to another city to drink water,But they were not satisfied;Yet you have not returned to Me,”Says the Lord.
+			<crossref let="f" cid="c30004008.2"> [Acts 6:13;]</crossref></v>
+			<marker class="begin-verse" mid="v30004009" />
+			<v n="9">
+				“Iblasted you 
+				<crossref let="j" cid="c300049.1" />
+				 with blight and mildew.When your gardens increased,Your vineyards,Your fig trees,And your olive trees,The locust devoured them;Yet you have not returned to Me,”Says the Lord.
+			<crossref let="g" cid="c30004009.2"> [Acts 12:2; 24:27]</crossref><crossref let="h" cid="c30004009.3"> [Acts 25:20]</crossref></v>
+			<marker class="begin-verse" mid="v30004010" />
+			<v n="10">
+				“I sent 
+				<crossref let="k" cid="c3000410.1" />
+				 among you a plague after the manner of Egypt;Your young men I killed with a sword,Along with your captive horses;I made the stench of your camps come up into your nostrils;Yet you have not returned to Me,”Says the Lord.
+			</v>
+			<marker class="begin-verse" mid="v30004011" />
+			<v n="11">
+				“I overthrew 
+				<crossref let="l" cid="c3000411.1" />
+				 some of you,As God overthrew Sodom and Gomorrah,And you were like a firebrand plucked from the burning;Yet you have not returned to Me,”Says the Lord.
+			<crossref let="j" cid="c30004011.2"> [Acts 26:32; 28:19]</crossref><crossref let="i" cid="c30004011.3"> [Acts 18:14;]</crossref></v>
+			<marker class="begin-verse" mid="v30004012" />
+			<v n="12">
+				“Therefore thus 
+				<crossref let="m" cid="c3000412.1" />
+				 will I do to you, O Israel;Because I will do this to you,Prepare to meet your God, O Israel!”
+			</v>
+			<marker class="begin-verse" mid="v30004013" />
+			<v n="13">
+				For behold,He 
+				<crossref let="n" cid="c3000413.1" />
+				 who forms mountains,And creates the wind,Who declares to man what his thought is,And makes the morning darkness,Who treads the high places of the earth—The Lord God of hosts is His name.
+			</v>
+			<marker class="begin-verse" mid="v30004014" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:53:15.836031</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:53:15.836039</next_refresh_due>
+	</generation_info>
+	<book title="2 Samuel" num="10" testament="old" version="NKJV" bookAbbr="2sa">
+		<marker class="begin-verse" mid="v10001001" />
+		<chapter num="1">
+			<heading>The Report of Saul’s Death</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now it 
+				<crossref let="b" cid="c100011.1" />
+				 came to pass after the death of Saul, when David had returned from the slaughter of the Amalekites, and David had stayed two days in Ziklag,
+			<crossref let="a" cid="c10001001.2"> [Ezra 4:4; Is. 13:7 b Matt. 2:3]</crossref></v>
+			<marker class="begin-verse" mid="v10001002" />
+			<v n="2">
+				on the 
+				<crossref let="c" cid="c100012.1" />
+				 third day, behold, it happened that a man came from Saul’s camp with his clothes torn and dust on his head. So it was, when he came to David, that he fell to the ground and prostrated himself.
+			<crossref let="c" cid="c10001002.2"> [Josh. 18:25]</crossref></v>
+			<marker class="begin-verse" mid="v10001003" />
+			<v n="3">
+				And David 
+				<crossref let="d" cid="c100013.1" />
+				 said to him, “Where have you come from?”So he said to him, “I have escaped from the camp of Israel.”
+			<crossref let="d" cid="c10001003.2"> [Neh. 11:33]</crossref></v>
+			<marker class="begin-verse" mid="v10001004" />
+			<v n="4">
+				Then David 
+				<crossref let="e" cid="c100014.1" />
+				 said to him, “How did the matter go? Please tell me.”And he answered, “The people have fled from the battle, many of the people are fallen and dead, and Saul and Jonathan his son are dead also.”
+			<crossref let="e" cid="c10001004.2"> [2 Sam. 9:3 f]</crossref></v>
+			<marker class="begin-verse" mid="v10001005" />
+			<v n="5">
+				So David 
+				<crossref let="f" cid="c100015.1" />
+				 said to the young man who told him, “How do you know that Saul and Jonathan his son are dead?”
+			<crossref let="h" cid="c10001005.2"> [2 Sam. 2:8,]</crossref></v>
+			<marker class="begin-verse" mid="v10001006" />
+			<v n="6">
+				Then the 
+				<crossref let="g" cid="c100016.1" />
+				 young man who told him said, “As I happened by chance to be on Mount Gilboa, there was Saul, leaning on his spear; and indeed the chariots and horsemen followed hard after him.
+			<crossref let="i" cid="c10001006.2"> [2 Sam. 2:23;]</crossref></v>
+			<marker class="begin-verse" mid="v10001007" />
+			<v n="7">
+				Now when 
+				<crossref let="h" cid="c100017.1" />
+				 he looked behind him, he saw me and called to me. And I answered, ‘Here I am.’
+			</v>
+			<marker class="begin-verse" mid="v10001008" />
+			<v n="8">
+				And he 
+				<crossref let="i" cid="c100018.1" />
+				 said to me, ‘Who are you?’ So I answered him, ‘I am an Amalekite.’
+			<crossref let="j" cid="c10001008.2"> [1 Sam. 19:2, 10,]</crossref></v>
+			<marker class="begin-verse" mid="v10001009" />
+			<v n="9">
+				He said 
+				<crossref let="j" cid="c100019.1" />
+				 to me again, ‘Please stand over me and kill me, for anguish has come upon me, but my life still remains in me.’
+			<crossref let="k" cid="c10001009.2"> [Gen. 48:16; 1 Kin. 1:29; Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v10001010" />
+			<v n="10">
+				So I 
+				<crossref let="k" cid="c1000110.1" />
+				 stood over him and killed him, because I was sure that he could not live after he had fallen. And I took the crown that was on his head and the bracelet that was on his arm, and have brought them here to my lord.”
+			<crossref let="l" cid="c10001010.2"> [2 Sam. 1:2-16]</crossref></v>
+			<marker class="begin-verse" mid="v10001011" />
+			<v n="11">
+				Therefore David 
+				<crossref let="l" cid="c1000111.1" />
+				 took hold of his own clothes and tore them, and so did all the men who were with him.
+			<crossref let="m" cid="c10001011.2"> [[Gen. 9:5, 6; Ps. 9:12]]</crossref></v>
+			<marker class="begin-verse" mid="v10001012" />
+			<v n="12">
+				And they 
+				<crossref let="m" cid="c1000112.1" />
+				 mourned and wept and fasted until evening for Saul and for Jonathan his son, for the people of the Lord and for the house of Israel, because they had fallen by the sword.
+			<crossref let="o" cid="c10001012.2"> [2 Sam. 3:32]</crossref></v>
+			<marker class="begin-verse" mid="v10001013" />
+			<v n="13">
+				Then David 
+				<crossref let="n" cid="c1000113.1" />
+				 said to the young man who told him, “Where are you from?”And he answered, “I am the son of an alien, an Amalekite.”
+			</v>
+			<marker class="begin-verse" mid="v10001014" />
+			<v n="14">
+				So David 
+				<crossref let="o" cid="c1000114.1" />
+				 said to him, “How was it you were not afraid to put forth your hand to destroy the Lord’s anointed?”
+			</v>
+			<marker class="begin-verse" mid="v10001015" />
+			<v n="15">
+				Then David 
+				<crossref let="p" cid="c1000115.1" />
+				 called one of the young men and said, “Go near, and execute him!” And he struck him so that he died.
+			</v>
+			<marker class="begin-verse" mid="v10001016" />
+			<v n="16">
+				So David 
+				<crossref let="q" cid="c1000116.1" />
+				 said to him, “Your blood is on your own head, for your own mouth has testified against you, saying, ‘I have killed the Lord’s anointed.’ ”The Song of the Bow
+			</v>
+			<marker class="begin-verse" mid="v10001017" />
+			<v n="17">
+				Then David 
+				<crossref let="r" cid="c1000117.1" />
+				 lamented with this lamentation over Saul and over Jonathan his son,
+			</v>
+			<marker class="begin-verse" mid="v10001018" />
+			<v n="18">
+				and he 
+				<crossref let="s" cid="c1000118.1" />
+				 told them to teach the children of Judah the Song of the Bow; indeed it is written in the Book of Jasher:
+			</v>
+			<marker class="begin-verse" mid="v10001019" />
+			<v n="19">
+				“The beauty 
+				<crossref let="t" cid="c1000119.1" />
+				 of Israel is slain on your high places!How the mighty have fallen!
+			</v>
+			<marker class="begin-verse" mid="v10001020" />
+			<v n="20">
+				Tell it 
+				<crossref let="u" cid="c1000120.1" />
+				 not in Gath,Proclaim it not in the streets of Ashkelon—Lest the daughters of the Philistines rejoice,Lest the daughters of the uncircumcised triumph.
+			</v>
+			<marker class="begin-verse" mid="v10001021" />
+			<v n="21">
+				“O mountains 
+				<crossref let="v" cid="c1000121.1" />
+				 of Gilboa,Let there be no dew nor rain upon you,Nor fields of offerings.For the shield of the mighty is cast away there!The shield of Saul, not anointed with oil.
+			</v>
+			<marker class="begin-verse" mid="v10001022" />
+			<v n="22">
+				From the 
+				<crossref let="w" cid="c1000122.1" />
+				 blood of the slain,From the fat of the mighty,The bow of Jonathan did not turn back,And the sword of Saul did not return empty.
+			</v>
+			<marker class="begin-verse" mid="v10001023" />
+			<v n="23">
+				“Saul and 
+				<crossref let="x" cid="c1000123.1" />
+				 Jonathan were beloved and pleasant in their lives,And in their death they were not divided;They were swifter than eagles,They were stronger than lions.
+			</v>
+			<marker class="begin-verse" mid="v10001024" />
+			<v n="24">
+				“O daughters 
+				<crossref let="y" cid="c1000124.1" />
+				 of Israel, weep over Saul,Who clothed you in scarlet, with luxury;Who put ornaments of gold on your apparel.
+			</v>
+			<marker class="begin-verse" mid="v10001025" />
+			<v n="25">
+				“How the 
+				<crossref let="z" cid="c1000125.1" />
+				 mighty have fallen in the midst of the battle!Jonathan was slain in your high places.
+			</v>
+			<marker class="begin-verse" mid="v10001026" />
+			<v n="26">
+				I am 
+				<crossref let="a" cid="c1000126.1" />
+				 distressed for you, my brother Jonathan;You have been very pleasant to me;Your love to me was wonderful,Surpassing the love of women.
+			</v>
+			<marker class="begin-verse" mid="v10001027" />
+			<v n="27">
+				“Howthe mighty 
+				<crossref let="b" cid="c1000127.1" />
+				 have fallen,And the weapons of war perished!”
+			</v>
+			<marker class="begin-verse" mid="v10001028" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

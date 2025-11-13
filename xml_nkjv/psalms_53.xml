@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:16:49.279345</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:16:49.279355</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19053001" />
+		<chapter num="53">
+			<heading>Folly of the Godless, and the Restoration of IsraelTo the Chief Musician. Set to “Mahalath.” A Contemplation of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				The fool 
+				<crossref let="b" cid="c190531.1" />
+				 has said in his heart,“There is no God.”They are corrupt, and have done abominable iniquity;There is none who does good.
+			<crossref let="a" cid="c19053001.2"> [Ps. 80:8; Jer. 2:21; Matt. 21:33; Mark 12:1; Luke]</crossref></v>
+			<marker class="begin-verse" mid="v19053002" />
+			<v n="2">
+				God looks 
+				<crossref let="c" cid="c190532.1" />
+				 down from heaven upon the children of men,To see if there are any who understand, who seek God.
+			</v>
+			<marker class="begin-verse" mid="v19053003" />
+			<v n="3">
+				Every one 
+				<crossref let="d" cid="c190533.1" />
+				 of them has turned aside;They have together become corrupt;There is none who does good,No, not one.
+			<crossref let="c" cid="c19053003.2"> [[Rom. 3:4]]</crossref></v>
+			<marker class="begin-verse" mid="v19053004" />
+			<v n="4">
+				Have the 
+				<crossref let="e" cid="c190534.1" />
+				 workers of iniquity no knowledge,Who eat up my people as they eat bread,And do not call upon God?
+			<crossref let="d" cid="c19053004.2"> [2 Chr. 36:15, 16; Jer. 2:5; 7:25, 26; Mic. 6:3; Matt.]</crossref></v>
+			<marker class="begin-verse" mid="v19053005" />
+			<v n="5">
+				There they 
+				<crossref let="f" cid="c190535.1" />
+				 are in great fearWhere no fear was,For God has scattered the bones of him who encamps against you;You have put them to shame,Because God has despised them.
+			<crossref let="e" cid="c19053005.2"> [2 Chr. 36:19; Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v19053006" />
+			<v n="6">
+				Oh, that 
+				<crossref let="g" cid="c190536.1" />
+				 the salvation of Israel would come out of Zion!When God brings back the captivity of His people,Let Jacob rejoice and Israel be glad.
+			<crossref let="f" cid="c19053006.2"> [2 Chr. 36:19-21]</crossref></v>
+			<marker class="begin-verse" mid="v19053007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:08:43.486902</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:08:43.486922</next_refresh_due>
+	</generation_info>
+	<book title="1 Thessalonians" num="52" testament="new" version="NKJV" bookAbbr="1th">
+		<marker class="begin-verse" mid="v52003001" />
+		<chapter num="3">
+			<heading>Concern for Their Faith</heading>
+			<begin-paragraph />
+			<v n="1">
+				Therefore, when 
+				<crossref let="b" cid="c520031.1" />
+				 we could no longer endure it, we thought it good to be left in Athens alone,
+			<crossref let="a" cid="c52003001.2"> [Titus 1:2 1 NU,]</crossref></v>
+			<marker class="begin-verse" mid="v52003002" />
+			<v n="2">
+				and sent 
+				<crossref let="c" cid="c520032.1" />
+				 Timothy, our brother and minister of God, and our fellow laborer in the gospel of Christ, to establish you and encourage you concerning your faith,
+			<crossref let="b" cid="c52003002.2"> [1 Tim. 1:2;]</crossref></v>
+			<marker class="begin-verse" mid="v52003003" />
+			<v n="3">
+				that no 
+				<crossref let="d" cid="c520033.1" />
+				 one should be shaken by these afflictions; for you yourselves know that we are appointed to this.
+			<crossref let="c" cid="c52003003.2"> [Acts 24:14]</crossref></v>
+			<marker class="begin-verse" mid="v52003004" />
+			<v n="4">
+				For, in 
+				<crossref let="e" cid="c520034.1" />
+				 fact, we told you before when we were with you that we would suffer tribulation, just as it happened, and you know.
+			</v>
+			<marker class="begin-verse" mid="v52003005" />
+			<v n="5">
+				For this 
+				<crossref let="f" cid="c520035.1" />
+				 reason, when I could no longer endure it, I sent to know your faith, lest by some means the tempter had tempted you, and our labor might be in vain.Encouraged by Timothy
+			<crossref let="d" cid="c52003005.2"> [1 Tim.]</crossref></v>
+			<marker class="begin-verse" mid="v52003006" />
+			<v n="6">
+				But now 
+				<crossref let="g" cid="c520036.1" />
+				 that Timothy has come to us from you, and brought us good news of your faith and love, and that you always have good remembrance of us, greatly desiring to see us, as we also to see you—
+			<crossref let="f" cid="c52003006.2"> [1 Tim. 4:14]</crossref></v>
+			<marker class="begin-verse" mid="v52003007" />
+			<v n="7">
+				therefore, brethren, 
+				<crossref let="h" cid="c520037.1" />
+				 in all our affliction and distress we were comforted concerning you by your faith.
+			<crossref let="g" cid="c52003007.2"> [John 14:27;]</crossref></v>
+			<marker class="begin-verse" mid="v52003008" />
+			<v n="8">
+				For now 
+				<crossref let="i" cid="c520038.1" />
+				 we live, if you stand fast in the Lord.
+			<crossref let="i" cid="c52003008.2"> [[Mark 8:38;]</crossref></v>
+			<marker class="begin-verse" mid="v52003009" />
+			<v n="9">
+				For what 
+				<crossref let="j" cid="c520039.1" />
+				 thanks can we render to God for you, for all the joy with which we rejoice for your sake before our God,
+			<crossref let="l" cid="c52003009.2"> [[Rom. 3:20];]</crossref></v>
+			<marker class="begin-verse" mid="v52003010" />
+			<v n="10">
+				night and 
+				<crossref let="k" cid="c5200310.1" />
+				 day praying exceedingly that we may see your face and perfect what is lacking in your faith?Prayer for the Church
+			<crossref let="o" cid="c52003010.2"> [Eph. 1:9]</crossref></v>
+			<marker class="begin-verse" mid="v52003011" />
+			<v n="11">
+				Now may 
+				<crossref let="l" cid="c5200311.1" />
+				 our God and Father Himself, and our Lord Jesus Christ, direct our way to you.
+			<crossref let="p" cid="c52003011.2"> [Acts 9:15]</crossref></v>
+			<marker class="begin-verse" mid="v52003012" />
+			<v n="12">
+				And may 
+				<crossref let="m" cid="c5200312.1" />
+				 the Lord make you increase and abound in love to one another and to all, just as we do to you,
+			<crossref let="q" cid="c52003012.2"> [1 Pet. 4:19]</crossref></v>
+			<marker class="begin-verse" mid="v52003013" />
+			<v n="13">
+				so that 
+				<crossref let="n" cid="c5200313.1" />
+				 He may establish your hearts blameless in holiness before our God and Father at the coming of our Lord Jesus Christ with all His saints.
+			<crossref let="r" cid="c52003013.2"> [2 Tim. 3:14;]</crossref></v>
+			<marker class="begin-verse" mid="v52003014" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

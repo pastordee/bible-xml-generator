@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:37:42.384595</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:37:42.384604</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" version="NKJV" bookAbbr="lev">
+		<marker class="begin-verse" mid="v03005001" />
+		<chapter num="5">
+			<heading>The Trespass Offering</heading>
+			<begin-paragraph />
+			<v n="1">
+				‘If a 
+				<crossref let="b" cid="c030051.1" />
+				 person sins in hearing the utterance of an oath, and is a witness, whether he has seen or known of the matter—if he does not tell it, he bears guilt.
+			<crossref let="a" cid="c03005001.2"> [Prov. 29:24; [Jer. 23:10] b Lev. 19:8; 20:17; Num.]</crossref></v>
+			<marker class="begin-verse" mid="v03005002" />
+			<v n="2">
+				‘Or if 
+				<crossref let="c" cid="c030052.1" />
+				 a person touches any unclean thing, whether it is the carcass of an unclean beast, or the carcass of unclean livestock, or the carcass of unclean creeping things, and he is unaware of it, he also shall be unclean and guilty.
+			<crossref let="c" cid="c03005002.2"> [Lev. 11:24, 28, 31, 39; Num. 19:11-16; Deut. 14:8 d Lev. 5:17]</crossref></v>
+			<marker class="begin-verse" mid="v03005003" />
+			<v n="3">
+				Or if 
+				<crossref let="d" cid="c030053.1" />
+				 he touches human uncleanness—whatever uncleanness with which a man may be defiled, and he is unaware of it—when he realizes it, then he shall be guilty.
+			<crossref let="e" cid="c03005003.2"> [Lev. 5:12, 13,]</crossref></v>
+			<marker class="begin-verse" mid="v03005004" />
+			<v n="4">
+				‘Or if 
+				<crossref let="e" cid="c030054.1" />
+				 a person swears, speaking thoughtlessly with his lips to do evil or to do good, whatever it is that a man may pronounce by an oath, and he is unaware of it—when he realizes it, then he shall be guilty in any of these matters.
+			<crossref let="f" cid="c03005004.2"> [1 Sam. 25:22; Acts 23:12 g [Matt. 5:33-37]; Mark 6:23; [James]</crossref></v>
+			<marker class="begin-verse" mid="v03005005" />
+			<v n="5">
+				‘And it 
+				<crossref let="f" cid="c030055.1" />
+				 shall be, when he is guilty in any of these matters, that he shall confess that he has sinned in that thing;
+			<crossref let="h" cid="c03005005.2"> [Lev. 16:21; 26:40; Num. 5:7; Ezra 10:11, 12; Ps. 32:5; Prov. 28:13]</crossref></v>
+			<marker class="begin-verse" mid="v03005006" />
+			<v n="6">
+				and he 
+				<crossref let="g" cid="c030056.1" />
+				 shall bring his trespass offering to the Lord for his sin which he has committed, a female from the flock, a lamb or a kid of the goats as a sin offering. So the priest shall make atonement for him concerning his sin.
+			</v>
+			<marker class="begin-verse" mid="v03005007" />
+			<v n="7">
+				‘If he 
+				<crossref let="h" cid="c030057.1" />
+				 is not able to bring a lamb, then he shall bring to the Lord, for his trespass which he has committed, two turtledoves or two young pigeons: one as a sin offering and the other as a burnt offering.
+			<crossref let="i" cid="c03005007.2"> [Lev. 12:6, 8; 14:21 j Lev. 1:14]</crossref></v>
+			<marker class="begin-verse" mid="v03005008" />
+			<v n="8">
+				And he 
+				<crossref let="i" cid="c030058.1" />
+				 shall bring them to the priest, who shall offer that which is for the sin offering first, and wring off its head from its neck, but shall not divide it completely.
+			<crossref let="k" cid="c03005008.2"> [Lev. 1:15-17]</crossref></v>
+			<marker class="begin-verse" mid="v03005009" />
+			<v n="9">
+				Then he 
+				<crossref let="j" cid="c030059.1" />
+				 shall sprinkle some of the blood of the sin offering on the side of the altar, and the rest of the blood shall be drained out at the base of the altar. It is a sin offering.
+			<crossref let="l" cid="c03005009.2"> [Lev. 4:7, 18,]</crossref></v>
+			<marker class="begin-verse" mid="v03005010" />
+			<v n="10">
+				And he 
+				<crossref let="k" cid="c0300510.1" />
+				 shall offer the second as a burnt offering according to the prescribed manner. So the priest shall make atonement on his behalf for his sin which he has committed, and it shall be forgiven him.
+			<crossref let="m" cid="c03005010.2"> [Lev. 1:14-17]</crossref><crossref let="n" cid="c03005010.3"> [Lev. 4:20, 26;]</crossref></v>
+			<marker class="begin-verse" mid="v03005011" />
+			<v n="11">
+				‘But if 
+				<crossref let="l" cid="c0300511.1" />
+				 he is not able to bring two turtledoves or two young pigeons, then he who sinned shall bring for his offering one-tenth of an ephah of fine flour as a sin offering. He shall put no oil on it, nor shall he put frankincense on it, for it is a sin offering.
+			<crossref let="o" cid="c03005011.2"> [Lev. 14:21-32]</crossref><crossref let="p" cid="c03005011.3"> [Lev. 2:1, 2; 6:15; Num. 5:15]</crossref></v>
+			<marker class="begin-verse" mid="v03005012" />
+			<v n="12">
+				Then he 
+				<crossref let="m" cid="c0300512.1" />
+				 shall bring it to the priest, and the priest shall take his handful of it as a memorial portion, and burn it on the altar according to the offerings made by fire to the Lord. It is a sin offering.
+			<crossref let="q" cid="c03005012.2"> [Lev. 2:2 r Lev.]</crossref></v>
+			<marker class="begin-verse" mid="v03005013" />
+			<v n="13">
+				The priest 
+				<crossref let="n" cid="c0300513.1" />
+				 shall make atonement for him, for his sin that he has committed in any of these matters; and it shall be forgiven him. The rest shall be the priest’s as a grain offering.’ ”Offerings with Restitution
+			<crossref let="t" cid="c03005013.2"> [Lev. 2:3; 6:17,]</crossref><crossref let="s" cid="c03005013.3"> [Lev. 4:26]</crossref></v>
+			<marker class="begin-verse" mid="v03005014" />
+			<v n="14">
+				Then the 
+				<crossref let="o" cid="c0300514.1" />
+				 Lord spoke to Moses, saying:
+			</v>
+			<marker class="begin-verse" mid="v03005015" />
+			<v n="15">
+				“If a 
+				<crossref let="p" cid="c0300515.1" />
+				 person commits a trespass, and sins unintentionally in regard to the holy things of the Lord, then he shall bring to the Lord as his trespass offering a ram without blemish from the flocks, with your valuation in shekels of silver according to the shekel of the sanctuary, as a trespass offering.
+			<crossref let="u" cid="c03005015.2"> [Lev. 4:2; 22:14; Num. 5:5-8]</crossref><crossref let="v" cid="c03005015.3"> [Ezra 10:19 w Ex. 30:13; Lev. 27:25]</crossref></v>
+			<marker class="begin-verse" mid="v03005016" />
+			<v n="16">
+				And he 
+				<crossref let="q" cid="c0300516.1" />
+				 shall make restitution for the harm that he has done in regard to the holy thing, and shall add one-fifth to it and give it to the priest. So the priest shall make atonement for him with the ram of the trespass offering, and it shall be forgiven him.
+			<crossref let="x" cid="c03005016.2"> [Lev. 6:5; 22:14; Num. 5:7 y Lev.]</crossref></v>
+			<marker class="begin-verse" mid="v03005017" />
+			<v n="17">
+				“If a 
+				<crossref let="r" cid="c0300517.1" />
+				 person sins, and commits any of these things which are forbidden to be done by the commandments of the Lord, though he does not know it, yet he is guilty and shall bear his iniquity.
+			<crossref let="a" cid="c03005017.2"> [Lev. 5:1,]</crossref></v>
+			<marker class="begin-verse" mid="v03005018" />
+			<v n="18">
+				And he 
+				<crossref let="s" cid="c0300518.1" />
+				 shall bring to the priest a ram without blemish from the flock, with your valuation, as a trespass offering. So the priest shall make atonement for him regarding his ignorance in which he erred and did not know it, and it shall be forgiven him.
+			<crossref let="b" cid="c03005018.2"> [Lev. 5:15]</crossref></v>
+			<marker class="begin-verse" mid="v03005019" />
+			<v n="19">
+				It is 
+				<crossref let="t" cid="c0300519.1" />
+				 a trespass offering; he has certainly trespassed against the Lord.”
+			<crossref let="c" cid="c03005019.2"> [Ezra 10:2]</crossref></v>
+			<marker class="begin-verse" mid="v03005020" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

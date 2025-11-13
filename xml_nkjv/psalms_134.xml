@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:24:04.024269</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:24:04.024292</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19134001" />
+		<chapter num="134">
+			<heading>Praising the Lord in His House at NightA Song of Ascents.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Behold, bless 
+				<crossref let="b" cid="c191341.1" />
+				 the Lord,All you servants of the Lord,Who by night stand in the house of the Lord!
+			<crossref let="a" cid="c19134001.2"> [Ezra 2:37, 38 b 1 Chr. 24:14]</crossref></v>
+			<marker class="begin-verse" mid="v19134002" />
+			<v n="2">
+				Lift up 
+				<crossref let="c" cid="c191342.1" />
+				 your hands in the sanctuary,And bless the Lord.
+			<crossref let="c" cid="c19134002.2"> [Jer. 37:13; Zech. 14:10]</crossref></v>
+			<marker class="begin-verse" mid="v19134003" />
+			<v n="3">
+				The Lord 
+				<crossref let="d" cid="c191343.1" />
+				 who made heaven and earthBless you from Zion!
+			</v>
+			<marker class="begin-verse" mid="v19134004" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

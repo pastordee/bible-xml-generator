@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:43:38.278852</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:43:38.278861</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" version="NKJV" bookAbbr="deu">
+		<marker class="begin-verse" mid="v05008001" />
+		<chapter num="8">
+			<heading>Remember the Lord Your God</heading>
+			<begin-paragraph />
+			<v n="1">
+				“Every commandment 
+				<crossref let="b" cid="c050081.1" />
+				 which I command you today you must be careful to observe, that you may live and multiply, and go in and possess the land of which the Lord swore to your fathers.
+			</v>
+			<marker class="begin-verse" mid="v05008002" />
+			<v n="2">
+				And you 
+				<crossref let="c" cid="c050082.1" />
+				 shall remember that the Lord your God led you all the way these forty years in the wilderness, to humble you and test you, to know what was in your heart, whether you would keep His commandments or not.
+			</v>
+			<marker class="begin-verse" mid="v05008003" />
+			<v n="3">
+				So He 
+				<crossref let="d" cid="c050083.1" />
+				 humbled you, allowed you to hunger, and fed you with manna which you did not know nor did your fathers know, that He might make you know that man shall not live by bread alone; but man lives by every word that proceeds from the mouth of the Lord.
+			</v>
+			<marker class="begin-verse" mid="v05008004" />
+			<v n="4">
+				Your garments 
+				<crossref let="e" cid="c050084.1" />
+				 did not wear out on you, nor did your foot swell these forty years.
+			<crossref let="a" cid="c05008004.2"> [Ex. 14:28; Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v05008005" />
+			<v n="5">
+				You should 
+				<crossref let="f" cid="c050085.1" />
+				 know in your heart that as a man chastens his son, so the Lord your God chastens you.
+			</v>
+			<marker class="begin-verse" mid="v05008006" />
+			<v n="6">
+				“Therefore you 
+				<crossref let="g" cid="c050086.1" />
+				 shall keep the commandments of the Lord your God, to walk in His ways and to fear Him.
+			<crossref let="b" cid="c05008006.2"> [Num. 16:1-35; Ps. 106:16-18 2 at]</crossref></v>
+			<marker class="begin-verse" mid="v05008007" />
+			<v n="7">
+				For the 
+				<crossref let="h" cid="c050087.1" />
+				 Lord your God is bringing you into a good land, a land of brooks of water, of fountains and springs, that flow out of valleys and hills;
+			<crossref let="c" cid="c05008007.2"> [Deut. 10:21;]</crossref></v>
+			<marker class="begin-verse" mid="v05008008" />
+			<v n="8">
+				a land 
+				<crossref let="i" cid="c050088.1" />
+				 of wheat and barley, of vines and fig trees and pomegranates, a land of olive oil and honey;
+			<crossref let="d" cid="c05008008.2"> [Deut. 31:6, 7, 23; Josh. 1:6,]</crossref></v>
+			<marker class="begin-verse" mid="v05008009" />
+			<v n="9">
+				a land 
+				<crossref let="j" cid="c050089.1" />
+				 in which you will eat bread without scarcity, in which you will lack nothing; a land whose stones are iron and out of whose hills you can dig copper.
+			<crossref let="g" cid="c05008009.2"> [Ex. 3:8]</crossref><crossref let="e" cid="c05008009.3"> [Deut. 4:40; 5:16, 33; 6:2; Prov. 10:27 f Deut. 9:5 Abraham (Gen. 15:5, 6). and lost their lives (Num. 16).]</crossref></v>
+			<marker class="begin-verse" mid="v05008010" />
+			<v n="10">
+				When you 
+				<crossref let="k" cid="c0500810.1" />
+				 have eaten and are full, then you shall bless the Lord your God for the good land which He has given you.
+			</v>
+			<marker class="begin-verse" mid="v05008011" />
+			<v n="11">
+				“Beware that 
+				<crossref let="l" cid="c0500811.1" />
+				 you do not forget the Lord your God by not keeping His commandments, His judgments, and His statutes which I command you today,
+			<crossref let="h" cid="c05008011.2"> [Deut. 8:7]</crossref></v>
+			<marker class="begin-verse" mid="v05008012" />
+			<v n="12">
+				lest—when you 
+				<crossref let="m" cid="c0500812.1" />
+				 have eaten and are full, and have built beautiful houses and dwell in them;
+			<crossref let="i" cid="c05008012.2"> [1 Kin. 9:3]</crossref></v>
+			<marker class="begin-verse" mid="v05008013" />
+			<v n="13">
+				and when 
+				<crossref let="n" cid="c0500813.1" />
+				 your herds and your flocks multiply, and your silver and your gold are multiplied, and all that you have is multiplied;
+			</v>
+			<marker class="begin-verse" mid="v05008014" />
+			<v n="14">
+				when your 
+				<crossref let="o" cid="c0500814.1" />
+				 heart is lifted up, and you forget the Lord your God who brought you out of the land of Egypt, from the house of bondage;
+			<crossref let="j" cid="c05008014.2"> [Lev. 26:4; Deut. 28:12 k Joel 2:23; James 5:7]</crossref></v>
+			<marker class="begin-verse" mid="v05008015" />
+			<v n="15">
+				who led 
+				<crossref let="p" cid="c0500815.1" />
+				 you through that great and terrible wilderness, in which were fiery serpents and scorpions and thirsty land where there was no water; who brought water for you out of the flinty rock;
+			<crossref let="m" cid="c05008015.2"> [Deut. 6:11; Joel]</crossref><crossref let="l" cid="c05008015.3"> [Ps. 104:14]</crossref></v>
+			<marker class="begin-verse" mid="v05008016" />
+			<v n="16">
+				who fed 
+				<crossref let="q" cid="c0500816.1" />
+				 you in the wilderness with manna, which your fathers did not know, that He might humble you and that He might test you, to do you good in the end—
+			<crossref let="n" cid="c05008016.2"> [Deut. 29:18; Job 31:27 o Deut.]</crossref></v>
+			<marker class="begin-verse" mid="v05008017" />
+			<v n="17">
+				then you 
+				<crossref let="r" cid="c0500817.1" />
+				 say in your heart, ‘My power and the might of my hand have gained me this wealth.’
+			<crossref let="r" cid="c05008017.2"> [Deut. 4:26; 2 Chr.]</crossref><crossref let="p" cid="c05008017.3"> [Deut. 6:15; 9:19 q Deut. 28:24; 1 Kin. 8:35; 2 Chr. 6:26; 7:13]</crossref></v>
+			<marker class="begin-verse" mid="v05008018" />
+			<v n="18">
+				“And you 
+				<crossref let="s" cid="c0500818.1" />
+				 shall remember the Lord your God, for it is He who gives you power to get wealth, that He may establish His covenant which He swore to your fathers, as it is this day.
+			<crossref let="t" cid="c05008018.2"> [Ps. 119:2,]</crossref><crossref let="s" cid="c05008018.3"> [Deut. 6:6-9]</crossref></v>
+			<marker class="begin-verse" mid="v05008019" />
+			<v n="19">
+				Then it 
+				<crossref let="t" cid="c0500819.1" />
+				 shall be, if you by any means forget the Lord your God, and follow other gods, and serve them and worship them, I testify against you this day that you shall surely perish.
+			<crossref let="v" cid="c05008019.2"> [Deut. 4:9, 10; 6:7; Prov. 22:6]</crossref></v>
+			<marker class="begin-verse" mid="v05008020" />
+			<v n="20">
+				As the 
+				<crossref let="u" cid="c0500820.1" />
+				 nations which the Lord destroys before you, so you shall perish, because you would not be obedient to the voice of the Lord your God.
+			<crossref let="w" cid="c05008020.2"> [Deut. 6:9]</crossref></v>
+			<marker class="begin-verse" mid="v05008021" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

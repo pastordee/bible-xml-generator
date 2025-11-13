@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:13:22.017792</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:13:22.017807</next_refresh_due>
+	</generation_info>
+	<book title="3 John" num="64" testament="new" version="NKJV" bookAbbr="3jn">
+		<marker class="begin-verse" mid="v64001001" />
+		<chapter num="1">
+			<heading>Greeting to Gaius</heading>
+			<begin-paragraph />
+			<v n="1">
+				The Elder,To 
+				<crossref let="b" cid="c640011.1" />
+				 the beloved Gaius, whom I love in truth:
+			<crossref let="a" cid="c64001001.2"> [Ps. 46:4; Ezek. 47:1;]</crossref></v>
+			<marker class="begin-verse" mid="v64001002" />
+			<v n="2">
+				Beloved, I 
+				<crossref let="c" cid="c640012.1" />
+				 pray that you may prosper in all things and be in health, just as your soul prospers.
+			<crossref let="c" cid="c64001002.2"> [Gen. 2:9;]</crossref><crossref let="d" cid="c64001002.3"> [Rev. 21:24]</crossref><crossref let="b" cid="c64001002.4"> [Ezek. 47:12 $]</crossref></v>
+			<marker class="begin-verse" mid="v64001003" />
+			<v n="3">
+				For I 
+				<crossref let="d" cid="c640013.1" />
+				 rejoiced greatly when brethren came and testified of the truth that is in you, just as you walk in the truth.
+			<crossref let="c" cid="c64001003.2"> [Dan. 6:17;]</crossref><crossref let="e" cid="c64001003.3"> [Zech. 14:11]</crossref></v>
+			<marker class="begin-verse" mid="v64001004" />
+			<v n="4">
+				I have 
+				<crossref let="e" cid="c640014.1" />
+				 no greater joy than to hear that my children walk in truth.Gaius Commended for Generosity
+			<crossref let="h" cid="c64001004.2"> [[Ps. 17:15; 42:2;]</crossref><crossref let="g" cid="c64001004.3"> [Rev. 6:9 h Rev.]</crossref><crossref let="f" cid="c64001004.4"> [Is. 25:8 $; Rev.]</crossref><crossref let="e" cid="c64001004.5"> [Dan. 7:9; Matt. 19:28;]</crossref></v>
+			<marker class="begin-verse" mid="v64001005" />
+			<v n="5">
+				Beloved, you 
+				<crossref let="f" cid="c640015.1" />
+				 do faithfully whatever you do for the brethren and for strangers,
+			<crossref let="j" cid="c64001005.2"> [Is. 60:19; Rev.]</crossref><crossref let="i" cid="c64001005.3"> [Rev. 4:2, 9;]</crossref></v>
+			<marker class="begin-verse" mid="v64001006" />
+			<v n="6">
+				who have 
+				<crossref let="g" cid="c640016.1" />
+				 borne witness of your love before the church. If you send them forward on their journey in a manner worthy of God, you will do well,
+			<crossref let="l" cid="c64001006.2"> [Rev. 10:6; 16:17]</crossref><crossref let="n" cid="c64001006.3"> [Rev. 19:9 o Rev.]</crossref></v>
+			<marker class="begin-verse" mid="v64001007" />
+			<v n="7">
+				because they 
+				<crossref let="h" cid="c640017.1" />
+				 went forth for His name’s sake, taking nothing from the Gentiles.
+			<crossref let="o" cid="c64001007.2"> [Zech. 8:8 $;]</crossref><crossref let="q" cid="c64001007.3"> [[Rev. 3:11]]</crossref></v>
+			<marker class="begin-verse" mid="v64001008" />
+			<v n="8">
+				We therefore 
+				<crossref let="i" cid="c640018.1" />
+				 ought to receive such, that we may become fellow workers for the truth.Diotrephes and Demetrius
+			<crossref let="o" cid="c64001008.2"> [Rev. 12:9; 20:3,]</crossref><crossref let="p" cid="c64001008.3"> [1 Cor. 6:9; Gal.]</crossref><crossref let="s" cid="c64001008.4"> [Rev. 19:10]</crossref></v>
+			<marker class="begin-verse" mid="v64001009" />
+			<v n="9">
+				I wrote 
+				<crossref let="j" cid="c640019.1" />
+				 to the church, but Diotrephes, who loves to have the preeminence among them, does not receive us.
+			<crossref let="r" cid="c64001009.2"> [Rev. 15:1]</crossref><crossref let="t" cid="c64001009.3"> [Rev. 19:10 4 NU,]</crossref><crossref let="s" cid="c64001009.4"> [Rev. 19:7; 21:2 6 NU, M omit to me 7 M woman,]</crossref></v>
+			<marker class="begin-verse" mid="v64001010" />
+			<v n="10">
+				Therefore, if 
+				<crossref let="k" cid="c6400110.1" />
+				 I come, I will call to mind his deeds which he does, prating against us with malicious words. And not content with that, he himself does not receive the brethren, and forbids those who wish to, putting them out of the church.
+			<crossref let="u" cid="c64001010.2"> [Dan. 8:26;]</crossref><crossref let="p" cid="c64001010.3"> [Ezek. 38:2;]</crossref><crossref let="s" cid="c64001010.4"> [Rev. 19:20;]</crossref></v>
+			<marker class="begin-verse" mid="v64001011" />
+			<v n="11">
+				Beloved, do 
+				<crossref let="l" cid="c6400111.1" />
+				 not imitate what is evil, but what is good. He who does good is of God, but he who does evil has not seen God.
+			<crossref let="u" cid="c64001011.2"> [2 Pet. 3:7;]</crossref></v>
+			<marker class="begin-verse" mid="v64001012" />
+			<v n="12">
+				Demetrius has 
+				<crossref let="m" cid="c6400112.1" />
+				 a good testimony from all, and from the truth itself. And we also bear witness, and you know that our testimony is true.Farewell Greeting
+			<crossref let="w" cid="c64001012.2"> [Is. 40:10 $;]</crossref></v>
+			<marker class="begin-verse" mid="v64001013" />
+			<v n="13">
+				I had 
+				<crossref let="n" cid="c6400113.1" />
+				 many things to write, but I do not wish to write to you with pen and ink;
+			<crossref let="a" cid="c64001013.2"> [1 Cor. 15:26;]</crossref><crossref let="y" cid="c64001013.3"> [Is. 41:4 6 NU, M First and the Last, the Beginning and]</crossref></v>
+			<marker class="begin-verse" mid="v64001014" />
+			<v n="14">
+				but I 
+				<crossref let="o" cid="c6400114.1" />
+				 hope to see you shortly, and we shall speak face to face.Peace to you. Our friends greet you. Greet the friends by name.
+			<crossref let="c" cid="c64001014.2"> [1 Cor. 15:26;]</crossref><crossref let="y" cid="c64001014.3"> [Matt. 16:18;]</crossref></v>
+			<marker class="begin-verse" mid="v64001015" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

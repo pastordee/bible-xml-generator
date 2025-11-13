@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:16:06.395514</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:16:06.395522</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19045001" />
+		<chapter num="45">
+			<heading>The Glories of the Messiah and His BrideTo the Chief Musician. Set to “The Lilies.” A Contemplation of the sons of Korah. A Song of Love.</heading>
+			<begin-paragraph />
+			<v n="1">
+				My heart 
+				<crossref let="b" cid="c190451.1" />
+				 is overflowing with a good theme;I recite my composition concerning the King;My tongue is the pen of a ready writer.
+			<crossref let="a" cid="c19045001.2"> [Song 4:16]</crossref><crossref let="b" cid="c19045001.3"> [Song 4:9 c Song 4:11 d Luke 15:7, 10; John 3:29]</crossref></v>
+			<marker class="begin-verse" mid="v19045002" />
+			<v n="2">
+				You are 
+				<crossref let="c" cid="c190452.1" />
+				 fairer than the sons of men;Grace is poured upon Your lips;Therefore God has blessed You forever.
+			<crossref let="e" cid="c19045002.2"> [Rev. 3:20 1 my]</crossref></v>
+			<marker class="begin-verse" mid="v19045003" />
+			<v n="3">
+				Gird Your 
+				<crossref let="d" cid="c190453.1" />
+				 sword upon Your thigh, O Mighty One,With Your glory and Your majesty.
+			</v>
+			<marker class="begin-verse" mid="v19045004" />
+			<v n="4">
+				And in 
+				<crossref let="e" cid="c190454.1" />
+				 Your majesty ride prosperously because of truth, humility, and righteousness;And Your right hand shall teach You awesome things.
+			</v>
+			<marker class="begin-verse" mid="v19045005" />
+			<v n="5">
+				Your arrows 
+				<crossref let="f" cid="c190455.1" />
+				 are sharp in the heart of the King’s enemies;The peoples fall under You.
+			</v>
+			<marker class="begin-verse" mid="v19045006" />
+			<v n="6">
+				Your throne, 
+				<crossref let="g" cid="c190456.1" />
+				 O God, is forever and ever;A scepter of righteousness is the scepter of Your kingdom.
+			</v>
+			<marker class="begin-verse" mid="v19045007" />
+			<v n="7">
+				You love 
+				<crossref let="h" cid="c190457.1" />
+				 righteousness and hate wickedness;Therefore God, Your God, has anointed YouWith the oil of gladness more than Your companions.
+			<crossref let="g" cid="c19045007.2"> [Song 3:3]</crossref></v>
+			<marker class="begin-verse" mid="v19045008" />
+			<v n="8">
+				All Your 
+				<crossref let="i" cid="c190458.1" />
+				 garments are scented with myrrh and aloes and cassia,Out of the ivory palaces, by which they have made You glad.
+			</v>
+			<marker class="begin-verse" mid="v19045009" />
+			<v n="9">
+				Kings’ daughters 
+				<crossref let="j" cid="c190459.1" />
+				 are among Your honorable women;At Your right hand stands the queen in gold from Ophir.
+			<crossref let="h" cid="c19045009.2"> [Song 1:8; 6:1]</crossref></v>
+			<marker class="begin-verse" mid="v19045010" />
+			<v n="10">
+				Listen, O 
+				<crossref let="k" cid="c1904510.1" />
+				 daughter,Consider and incline your ear;Forget your own people also, and your father’s house;
+			</v>
+			<marker class="begin-verse" mid="v19045011" />
+			<v n="11">
+				So the 
+				<crossref let="l" cid="c1904511.1" />
+				 King will greatly desire your beauty;Because He is your Lord, worship Him.
+			</v>
+			<marker class="begin-verse" mid="v19045012" />
+			<v n="12">
+				And the 
+				<crossref let="m" cid="c1904512.1" />
+				 daughter of Tyre will come with a gift;The rich among the people will seek your favor.
+			</v>
+			<marker class="begin-verse" mid="v19045013" />
+			<v n="13">
+				The royal 
+				<crossref let="n" cid="c1904513.1" />
+				 daughter is all glorious within the palace;Her clothing is woven with gold.
+			</v>
+			<marker class="begin-verse" mid="v19045014" />
+			<v n="14">
+				She shall 
+				<crossref let="o" cid="c1904514.1" />
+				 be brought to the King in robes of many colors;The virgins, her companions who follow her, shall be brought to You.
+			</v>
+			<marker class="begin-verse" mid="v19045015" />
+			<v n="15">
+				With gladness 
+				<crossref let="p" cid="c1904515.1" />
+				 and rejoicing they shall be brought;They shall enter the King’s palace.
+			</v>
+			<marker class="begin-verse" mid="v19045016" />
+			<v n="16">
+				Instead of 
+				<crossref let="q" cid="c1904516.1" />
+				 Your fathers shall be Your sons,Whom You shall make princes in all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19045017" />
+			<v n="17">
+				I will 
+				<crossref let="r" cid="c1904517.1" />
+				 make Your name to be remembered in all generations;Therefore the people shall praise You forever and ever.
+			</v>
+			<marker class="begin-verse" mid="v19045018" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

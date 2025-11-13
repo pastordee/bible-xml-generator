@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:16:33.301613</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:16:33.301623</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19050001" />
+		<chapter num="50">
+			<heading>God the Righteous JudgeA Psalm of Asaph.</heading>
+			<begin-paragraph />
+			<v n="1">
+				The Mighty 
+				<crossref let="b" cid="c190501.1" />
+				 One, God the Lord,Has spoken and called the earthFrom the rising of the sun to its going down.
+			</v>
+			<marker class="begin-verse" mid="v19050002" />
+			<v n="2">
+				Out of 
+				<crossref let="c" cid="c190502.1" />
+				 Zion, the perfection of beauty,God will shine forth.
+			<crossref let="a" cid="c19050002.2"> [Mic. 4:1 $]</crossref><crossref let="b" cid="c19050002.3"> [Gen. 49:1 c Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v19050003" />
+			<v n="3">
+				Our God 
+				<crossref let="d" cid="c190503.1" />
+				 shall come, and shall not keep silent;A fire shall devour before Him,And it shall be very tempestuous all around Him.
+			</v>
+			<marker class="begin-verse" mid="v19050004" />
+			<v n="4">
+				He shall 
+				<crossref let="e" cid="c190504.1" />
+				 call to the heavens from above,And to the earth, that He may judge His people:
+			</v>
+			<marker class="begin-verse" mid="v19050005" />
+			<v n="5">
+				“Gather My 
+				<crossref let="f" cid="c190505.1" />
+				 saints together to Me,Those who have made a covenant with Me by sacrifice.”
+			<crossref let="f" cid="c19050005.2"> [Eph. 5:8]</crossref></v>
+			<marker class="begin-verse" mid="v19050006" />
+			<v n="6">
+				Let the 
+				<crossref let="g" cid="c190506.1" />
+				 heavens declare His righteousness,For God Himself is Judge.Selah
+			<crossref let="g" cid="c19050006.2"> [Num. 23:7]</crossref><crossref let="h" cid="c19050006.3"> [Deut. 18:14 i Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v19050007" />
+			<v n="7">
+				“Hear, O 
+				<crossref let="h" cid="c190507.1" />
+				 My people, and I will speak,O Israel, and I will testify against you;I am God, your God!
+			<crossref let="j" cid="c19050007.2"> [Deut. 17:16; Is. 30:16; 31:1; Mic.]</crossref></v>
+			<marker class="begin-verse" mid="v19050008" />
+			<v n="8">
+				I will 
+				<crossref let="i" cid="c190508.1" />
+				 not rebuke you for your sacrificesOr your burnt offerings,Which are continually before Me.
+			<crossref let="k" cid="c19050008.2"> [Is. 40:19, 20; Jer. 2:28]</crossref></v>
+			<marker class="begin-verse" mid="v19050009" />
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c190509.1" />
+				 not take a bull from your house,Nor goats out of your folds.
+			</v>
+			<marker class="begin-verse" mid="v19050010" />
+			<v n="10">
+				For every 
+				<crossref let="k" cid="c1905010.1" />
+				 beast of the forest is Mine,And the cattle on a thousand hills.
+			<crossref let="l" cid="c19050010.2"> [Is. 2:19, 21; Rev. 6:15,]</crossref></v>
+			<marker class="begin-verse" mid="v19050011" />
+			<v n="11">
+				I know 
+				<crossref let="l" cid="c1905011.1" />
+				 all the birds of the mountains,And the wild beasts of the field are Mine.
+			<crossref let="m" cid="c19050011.2"> [Prov. 16:5; Is. 5:15 n Hos. 2:16]</crossref></v>
+			<marker class="begin-verse" mid="v19050012" />
+			<v n="12">
+				“If I 
+				<crossref let="m" cid="c1905012.1" />
+				 were hungry, I would not tell you;For the world is Mine, and all its fullness.
+			</v>
+			<marker class="begin-verse" mid="v19050013" />
+			<v n="13">
+				Will I 
+				<crossref let="n" cid="c1905013.1" />
+				 eat the flesh of bulls,Or drink the blood of goats?
+			</v>
+			<marker class="begin-verse" mid="v19050014" />
+			<v n="14">
+				Offer to 
+				<crossref let="o" cid="c1905014.1" />
+				 God thanksgiving,And pay your vows to the Most High.
+			<crossref let="p" cid="c19050014.2"> [Is. 30:25]</crossref></v>
+			<marker class="begin-verse" mid="v19050015" />
+			<v n="15">
+				Call upon 
+				<crossref let="p" cid="c1905015.1" />
+				 Me in the day of trouble;I will deliver you, and you shall glorify Me.”
+			</v>
+			<marker class="begin-verse" mid="v19050016" />
+			<v n="16">
+				But to 
+				<crossref let="q" cid="c1905016.1" />
+				 the wicked God says:“What right have you to declare My statutes,Or take My covenant in your mouth,
+			<crossref let="q" cid="c19050016.2"> [1 Kin. 10:22; Is. 23:1, 14; 60:9]</crossref></v>
+			<marker class="begin-verse" mid="v19050017" />
+			<v n="17">
+				Seeing you 
+				<crossref let="r" cid="c1905017.1" />
+				 hate instructionAnd cast My words behind you?
+			</v>
+			<marker class="begin-verse" mid="v19050018" />
+			<v n="18">
+				When you 
+				<crossref let="s" cid="c1905018.1" />
+				 saw a thief, you consented with him,And have been a partaker with adulterers.
+			</v>
+			<marker class="begin-verse" mid="v19050019" />
+			<v n="19">
+				You give 
+				<crossref let="t" cid="c1905019.1" />
+				 your mouth to evil,And your tongue frames deceit.
+			<crossref let="r" cid="c19050019.2"> [Hos. 10:8; [Rev. 9:6] s [2 Thess. 1:9]]</crossref><crossref let="t" cid="c19050019.3"> [Ps. 18:7; Is. 2:21; Hag. 2:6, 7; Heb.]</crossref></v>
+			<marker class="begin-verse" mid="v19050020" />
+			<v n="20">
+				You sit 
+				<crossref let="u" cid="c1905020.1" />
+				 and speak against your brother;You slander your own mother’s son.
+			</v>
+			<marker class="begin-verse" mid="v19050021" />
+			<v n="21">
+				These things 
+				<crossref let="v" cid="c1905021.1" />
+				 you have done, and I kept silent;You thought that I was altogether like you;But I will rebuke you,And set them in order before your eyes.
+			</v>
+			<marker class="begin-verse" mid="v19050022" />
+			<v n="22">
+				“Now consider 
+				<crossref let="w" cid="c1905022.1" />
+				 this, you who forget God,Lest I tear you in pieces,And there be none to deliver:
+			<crossref let="u" cid="c19050022.2"> [Ps. 146:3; Jer. 17:5 v Job]</crossref></v>
+			<marker class="begin-verse" mid="v19050023" />
+			<v n="23">
+				Whoever offers 
+				<crossref let="x" cid="c1905023.1" />
+				 praise glorifies Me;And to him who orders his conduct arightI will show the salvation of God.”
+			</v>
+			<marker class="begin-verse" mid="v19050024" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

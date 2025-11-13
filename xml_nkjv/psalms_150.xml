@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:25:29.482248</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:25:29.482273</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19150001" />
+		<chapter num="150">
+			<heading>Let All Things Praise the Lord</heading>
+			<begin-paragraph />
+			<v n="1">
+				Praisethe Lord!Praise 
+				<crossref let="b" cid="c191501.1" />
+				 God in His sanctuary;Praise Him in His mighty firmament!
+			<crossref let="a" cid="c19150001.2"> [2 Kin. 24:1; 2 Chr. 36:5-7; Jer. 25:1, 3; 45:1; Dan. 1:1]</crossref></v>
+			<marker class="begin-verse" mid="v19150002" />
+			<v n="2">
+				Praise Him 
+				<crossref let="c" cid="c191502.1" />
+				 for His mighty acts;Praise Him according to His excellent greatness!
+			<crossref let="b" cid="c19150002.2"> [Is. 8:1; Ezek. 2:9; Zech. 5:1 c Jer. 30:2; Hab. 2:2 d Jer. 25:15 e Jer. 25:3]</crossref></v>
+			<marker class="begin-verse" mid="v19150003" />
+			<v n="3">
+				Praise Him 
+				<crossref let="d" cid="c191503.1" />
+				 with the sound of the trumpet;Praise Him with the lute and harp!
+			<crossref let="f" cid="c19150003.2"> [Jer. 26:3; Ezek. 12:3 g [Deut. 30:2, 8;]</crossref></v>
+			<marker class="begin-verse" mid="v19150004" />
+			<v n="4">
+				Praise Him 
+				<crossref let="e" cid="c191504.1" />
+				 with the timbrel and dance;Praise Him with stringed instruments and flutes!
+			<crossref let="j" cid="c19150004.2"> [Lev. 16:29; 23:27- 32; Acts 27:9]</crossref><crossref let="h" cid="c19150004.3"> [Jer. 32:12 i Jer.]</crossref></v>
+			<marker class="begin-verse" mid="v19150005" />
+			<v n="5">
+				Praise Him 
+				<crossref let="f" cid="c191505.1" />
+				 with loud cymbals;Praise Him with clashing cymbals!
+			</v>
+			<marker class="begin-verse" mid="v19150006" />
+			<v n="6">
+				Let everything 
+				<crossref let="g" cid="c191506.1" />
+				 that has breath praise the Lord.Praise the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19150007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

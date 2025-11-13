@@ -1,0 +1,412 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:42:00.789996</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:42:00.790004</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" version="NKJV" bookAbbr="num">
+		<marker class="begin-verse" mid="v04026001" />
+		<chapter num="26">
+			<heading>The Second Census of Israel</heading>
+			<begin-paragraph />
+			<v n="1">
+				And it 
+				<crossref let="b" cid="c040261.1" />
+				 came to pass, after the plague, that the Lord spoke to Moses and Eleazar the son of Aaron the priest, saying:
+			<crossref let="a" cid="c04026001.2"> [Num. 25:9]</crossref></v>
+			<marker class="begin-verse" mid="v04026002" />
+			<v n="2">
+				“Take a 
+				<crossref let="c" cid="c040262.1" />
+				 census of all the congregation of the children of Israel from twenty years old and above, by their fathers’ houses, all who are able to go to war in Israel.”
+			<crossref let="b" cid="c04026002.2"> [Ex. 30:12; 38:25, 26; Num. 1:2; 14:29 c Num.]</crossref></v>
+			<marker class="begin-verse" mid="v04026003" />
+			<v n="3">
+				So Moses 
+				<crossref let="d" cid="c040263.1" />
+				 and Eleazar the priest spoke with them in the plains of Moab by the Jordan, across from Jericho, saying:
+			<crossref let="d" cid="c04026003.2"> [Num. 22:1;]</crossref></v>
+			<marker class="begin-verse" mid="v04026004" />
+			<v n="4">
+				“Take a 
+				<crossref let="e" cid="c040264.1" />
+				 census of the people from twenty years old and above, just as the Lord commanded Moses and the children of Israel who came out of the land of Egypt.”
+			<crossref let="e" cid="c04026004.2"> [Num. 1:1]</crossref></v>
+			<marker class="begin-verse" mid="v04026005" />
+			<v n="5">
+				Reuben was 
+				<crossref let="f" cid="c040265.1" />
+				 the firstborn of Israel. The children of Reuben were: of Hanoch, the family of the Hanochites; of Pallu, the family of the Palluites;
+			<crossref let="f" cid="c04026005.2"> [Gen. 46:8; Ex. 6:14; 1 Chr. 5:1-3]</crossref></v>
+			<marker class="begin-verse" mid="v04026006" />
+			<v n="6">
+				of Hezron, 
+				<crossref let="g" cid="c040266.1" />
+				 the family of the Hezronites; of Carmi, the family of the Carmites.
+			</v>
+			<marker class="begin-verse" mid="v04026007" />
+			<v n="7">
+				These are 
+				<crossref let="h" cid="c040267.1" />
+				 the families of the Reubenites: those who were numbered of them were forty-three thousand seven hundred and thirty.
+			</v>
+			<marker class="begin-verse" mid="v04026008" />
+			<v n="8">
+				And the 
+				<crossref let="i" cid="c040268.1" />
+				 son of Pallu was Eliab.
+			</v>
+			<marker class="begin-verse" mid="v04026009" />
+			<v n="9">
+				The sons 
+				<crossref let="j" cid="c040269.1" />
+				 of Eliab were Nemuel, Dathan, and Abiram. These are the Dathan and Abiram, representatives of the congregation, who contended against Moses and Aaron in the company of Korah, when they contended against the Lord;
+			<crossref let="g" cid="c04026009.2"> [Num. 1:16;]</crossref></v>
+			<marker class="begin-verse" mid="v04026010" />
+			<v n="10">
+				and the 
+				<crossref let="k" cid="c0402610.1" />
+				 earth opened its mouth and swallowed them up together with Korah when that company died, when the fire devoured two hundred and fifty men; and they became a sign.
+			<crossref let="h" cid="c04026010.2"> [Num. 16:32-]</crossref></v>
+			<marker class="begin-verse" mid="v04026011" />
+			<v n="11">
+				Nevertheless the 
+				<crossref let="l" cid="c0402611.1" />
+				 children of Korah did not die.
+			<crossref let="j" cid="c04026011.2"> [Ex. 6:24; 1 Chr. 46:10; Ex. 6:15 2 Jarib, 1 Chr. 4:24]</crossref></v>
+			<marker class="begin-verse" mid="v04026012" />
+			<v n="12">
+				The sons 
+				<crossref let="m" cid="c0402612.1" />
+				 of Simeon according to their families were: of Nemuel, the family of the Nemuelites; of Jamin, the family of the Jaminites; of Jachin, the family of the Jachinites;
+			</v>
+			<marker class="begin-verse" mid="v04026013" />
+			<v n="13">
+				of Zerah, 
+				<crossref let="n" cid="c0402613.1" />
+				 the family of the Zarhites; of Shaul, the family of the Shaulites.
+			</v>
+			<marker class="begin-verse" mid="v04026014" />
+			<v n="14">
+				These are 
+				<crossref let="o" cid="c0402614.1" />
+				 the families of the Simeonites: twenty-two thousand two hundred.
+			</v>
+			<marker class="begin-verse" mid="v04026015" />
+			<v n="15">
+				The sons 
+				<crossref let="p" cid="c0402615.1" />
+				 of Gad according to their families were: of Zephon, the family of the Zephonites; of Haggi, the family of the Haggites; of Shuni, the family of the Shunites;
+			</v>
+			<marker class="begin-verse" mid="v04026016" />
+			<v n="16">
+				of Ozni, 
+				<crossref let="q" cid="c0402616.1" />
+				 the family of the Oznites; of Eri, the family of the Erites;
+			</v>
+			<marker class="begin-verse" mid="v04026017" />
+			<v n="17">
+				of Arod, 
+				<crossref let="r" cid="c0402617.1" />
+				 the family of the Arodites; of Areli, the family of the Arelites.
+			</v>
+			<marker class="begin-verse" mid="v04026018" />
+			<v n="18">
+				These are 
+				<crossref let="s" cid="c0402618.1" />
+				 the families of the sons of Gad according to those who were numbered of them: forty thousand five hundred.
+			</v>
+			<marker class="begin-verse" mid="v04026019" />
+			<v n="19">
+				The sons 
+				<crossref let="t" cid="c0402619.1" />
+				 of Judah were Er and Onan; and Er and Onan died in the land of Canaan.
+			<crossref let="k" cid="c04026019.2"> [Gen. 38:2;]</crossref></v>
+			<marker class="begin-verse" mid="v04026020" />
+			<v n="20">
+				And the 
+				<crossref let="u" cid="c0402620.1" />
+				 sons of Judah according to their families were: of Shelah, the family of the Shelanites; of Perez, the family of the Parzites; of Zerah, the family of the Zarhites.
+			<crossref let="l" cid="c04026020.2"> [1 Chr. 2:3 46:13; 1 Chr. 7:1]</crossref></v>
+			<marker class="begin-verse" mid="v04026021" />
+			<v n="21">
+				And the 
+				<crossref let="v" cid="c0402621.1" />
+				 sons of Perez were: of Hezron, the family of the Hezronites; of Hamul, the family of the Hamulites.
+			</v>
+			<marker class="begin-verse" mid="v04026022" />
+			<v n="22">
+				These are 
+				<crossref let="w" cid="c0402622.1" />
+				 the families of Judah according to those who were numbered of them: seventy-six thousand five hundred.
+			</v>
+			<marker class="begin-verse" mid="v04026023" />
+			<v n="23">
+				The sons 
+				<crossref let="x" cid="c0402623.1" />
+				 of Issachar according to their families were: of Tola, the family of the Tolaites; of Puah, the family of the Punites;
+			</v>
+			<marker class="begin-verse" mid="v04026024" />
+			<v n="24">
+				of Jashub, 
+				<crossref let="y" cid="c0402624.1" />
+				 the family of the Jashubites; of Shimron, the family of the Shimronites.
+			</v>
+			<marker class="begin-verse" mid="v04026025" />
+			<v n="25">
+				These are 
+				<crossref let="z" cid="c0402625.1" />
+				 the families of Issachar according to those who were numbered of them: sixty-four thousand three hundred.
+			</v>
+			<marker class="begin-verse" mid="v04026026" />
+			<v n="26">
+				The sons 
+				<crossref let="a" cid="c0402626.1" />
+				 of Zebulun according to their families were: of Sered, the family of the Sardites; of Elon, the family of the Elonites; of Jahleel, the family of the Jahleelites.
+			<crossref let="m" cid="c04026026.2"> [Gen. 46:14]</crossref></v>
+			<marker class="begin-verse" mid="v04026027" />
+			<v n="27">
+				These are 
+				<crossref let="b" cid="c0402627.1" />
+				 the families of the Zebulunites according to those who were numbered of them: sixty thousand five hundred.
+			</v>
+			<marker class="begin-verse" mid="v04026028" />
+			<v n="28">
+				The sons 
+				<crossref let="c" cid="c0402628.1" />
+				 of Joseph according to their families, by Manasseh and Ephraim, were:
+			<crossref let="n" cid="c04026028.2"> [Gen. 46:20; Deut. 33:16]</crossref></v>
+			<marker class="begin-verse" mid="v04026029" />
+			<v n="29">
+				The sons 
+				<crossref let="d" cid="c0402629.1" />
+				 of Manasseh: of Machir, the family of the Machirites; and Machir begot Gilead; of Gilead, the family of the Gileadites.
+			<crossref let="o" cid="c04026029.2"> [Josh. 17:1 p 1 Chr. 7:14,]</crossref></v>
+			<marker class="begin-verse" mid="v04026030" />
+			<v n="30">
+				These are 
+				<crossref let="e" cid="c0402630.1" />
+				 the sons of Gilead: of Jeezer, the family of the Jeezerites; of Helek, the family of the Helekites;
+			</v>
+			<marker class="begin-verse" mid="v04026031" />
+			<v n="31">
+				of Asriel, 
+				<crossref let="f" cid="c0402631.1" />
+				 the family of the Asrielites; of Shechem, the family of the Shechemites;
+			</v>
+			<marker class="begin-verse" mid="v04026032" />
+			<v n="32">
+				of Shemida, 
+				<crossref let="g" cid="c0402632.1" />
+				 the family of the Shemidaites; of Hepher, the family of the Hepherites.
+			</v>
+			<marker class="begin-verse" mid="v04026033" />
+			<v n="33">
+				Now Zelophehad 
+				<crossref let="h" cid="c0402633.1" />
+				 the son of Hepher had no sons, but daughters; and the names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+			<crossref let="q" cid="c04026033.2"> [Num. 27:1;]</crossref></v>
+			<marker class="begin-verse" mid="v04026034" />
+			<v n="34">
+				These are 
+				<crossref let="i" cid="c0402634.1" />
+				 the families of Manasseh; and those who were numbered of them were fifty-two thousand seven hundred.
+			</v>
+			<marker class="begin-verse" mid="v04026035" />
+			<v n="35">
+				These are 
+				<crossref let="j" cid="c0402635.1" />
+				 the sons of Ephraim according to their families: of Shuthelah, the family of the Shuthalhites; of Becher, the family of the Bachrites; of Tahan, the family of the Tahanites.
+			<crossref let="i" cid="c04026035.2"> [Num. 16:38- 40; 1 Cor. 10:6; 2 Pet. 2:6]</crossref></v>
+			<marker class="begin-verse" mid="v04026036" />
+			<v n="36">
+				And these 
+				<crossref let="k" cid="c0402636.1" />
+				 are the sons of Shuthelah: of Eran, the family of the Eranites.
+			</v>
+			<marker class="begin-verse" mid="v04026037" />
+			<v n="37">
+				These are 
+				<crossref let="l" cid="c0402637.1" />
+				 the families of the sons of Ephraim according to those who were numbered of them: thirty-two thousand five hundred.These are the sons of Joseph according to their families.
+			</v>
+			<marker class="begin-verse" mid="v04026038" />
+			<v n="38">
+				The sons 
+				<crossref let="m" cid="c0402638.1" />
+				 of Benjamin according to their families were: of Bela, the family of the Belaites; of Ashbel, the family of the Ashbelites; of Ahiram, the family of the Ahiramites;
+			<crossref let="r" cid="c04026038.2"> [Gen. 46:21; 1 Chr. 7:6 s Gen. 46:21; 1 Chr. 8:1,]</crossref></v>
+			<marker class="begin-verse" mid="v04026039" />
+			<v n="39">
+				of Shupham, 
+				<crossref let="n" cid="c0402639.1" />
+				 the family of the Shuphamites; of Hupham, the family of the Huphamites.
+			<crossref let="t" cid="c04026039.2"> [1 Chr. 1 Chr. 8:5]</crossref></v>
+			<marker class="begin-verse" mid="v04026040" />
+			<v n="40">
+				And the 
+				<crossref let="o" cid="c0402640.1" />
+				 sons of Bela were Ard and Naaman: of Ard, the family of the Ardites; of Naaman, the family of the Naamites.
+			<crossref let="u" cid="c04026040.2"> [1 Chr. 8:3 5 Addar, 1 Chr. 8:3]</crossref></v>
+			<marker class="begin-verse" mid="v04026041" />
+			<v n="41">
+				These are 
+				<crossref let="p" cid="c0402641.1" />
+				 the sons of Benjamin according to their families; and those who were numbered of them were forty-five thousand six hundred.
+			</v>
+			<marker class="begin-verse" mid="v04026042" />
+			<v n="42">
+				These are 
+				<crossref let="q" cid="c0402642.1" />
+				 the sons of Dan according to their families: of Shuham, the family of the Shuhamites. These are the families of Dan according to their families.
+			</v>
+			<marker class="begin-verse" mid="v04026043" />
+			<v n="43">
+				All the 
+				<crossref let="r" cid="c0402643.1" />
+				 families of the Shuhamites, according to those who were numbered of them, were sixty-four thousand four hundred.
+			</v>
+			<marker class="begin-verse" mid="v04026044" />
+			<v n="44">
+				The sons 
+				<crossref let="s" cid="c0402644.1" />
+				 of Asher according to their families were: of Jimna, the family of the Jimnites; of Jesui, the family of the Jesuites; of Beriah, the family of the Beriites.
+			<crossref let="v" cid="c04026044.2"> [Gen. 46:17; 1 Chr. 7:30]</crossref></v>
+			<marker class="begin-verse" mid="v04026045" />
+			<v n="45">
+				Of the 
+				<crossref let="t" cid="c0402645.1" />
+				 sons of Beriah: of Heber, the family of the Heberites; of Malchiel, the family of the Malchielites.
+			</v>
+			<marker class="begin-verse" mid="v04026046" />
+			<v n="46">
+				And the 
+				<crossref let="u" cid="c0402646.1" />
+				 name of the daughter of Asher was Serah.
+			</v>
+			<marker class="begin-verse" mid="v04026047" />
+			<v n="47">
+				These are 
+				<crossref let="v" cid="c0402647.1" />
+				 the families of the sons of Asher according to those who were numbered of them: fifty-three thousand four hundred.
+			</v>
+			<marker class="begin-verse" mid="v04026048" />
+			<v n="48">
+				The sons 
+				<crossref let="w" cid="c0402648.1" />
+				 of Naphtali according to their families were: of Jahzeel, the family of the Jahzeelites; of Guni, the family of the Gunites;
+			<crossref let="w" cid="c04026048.2"> [Gen. 46:24; 1 Chr. 7:13]</crossref></v>
+			<marker class="begin-verse" mid="v04026049" />
+			<v n="49">
+				of Jezer, 
+				<crossref let="x" cid="c0402649.1" />
+				 the family of the Jezerites; of Shillem, the family of the Shillemites.
+			<crossref let="x" cid="c04026049.2"> [1 Chr. 7:13]</crossref></v>
+			<marker class="begin-verse" mid="v04026050" />
+			<v n="50">
+				These are 
+				<crossref let="y" cid="c0402650.1" />
+				 the families of Naphtali according to their families; and those who were numbered of them were forty-five thousand four hundred.
+			</v>
+			<marker class="begin-verse" mid="v04026051" />
+			<v n="51">
+				These are 
+				<crossref let="z" cid="c0402651.1" />
+				 those who were numbered of the children of Israel: six hundred and one thousand seven hundred and thirty.
+			<crossref let="y" cid="c04026051.2"> [Ex. 12:37; 38:26; Num. 1:46;]</crossref></v>
+			<marker class="begin-verse" mid="v04026052" />
+			<v n="52">
+				Then the 
+				<crossref let="a" cid="c0402652.1" />
+				 Lord spoke to Moses, saying:
+			</v>
+			<marker class="begin-verse" mid="v04026053" />
+			<v n="53">
+				“To these 
+				<crossref let="b" cid="c0402653.1" />
+				 the land shall be divided as an inheritance, according to the number of names.
+			<crossref let="z" cid="c04026053.2"> [Josh. 11:23; 14:1 a Num. 33:54]</crossref></v>
+			<marker class="begin-verse" mid="v04026054" />
+			<v n="54">
+				To a 
+				<crossref let="c" cid="c0402654.1" />
+				 large tribe you shall give a larger inheritance, and to a small tribe you shall give a smaller inheritance. Each shall be given its inheritance according to those who were numbered of them.
+			<crossref let="b" cid="c04026054.2"> [Num. 33:54]</crossref></v>
+			<marker class="begin-verse" mid="v04026055" />
+			<v n="55">
+				But the 
+				<crossref let="d" cid="c0402655.1" />
+				 land shall be divided by lot; they shall inherit according to the names of the tribes of their fathers.
+			<crossref let="c" cid="c04026055.2"> [Num. 33:54; 34:13; Josh. 11:23;]</crossref></v>
+			<marker class="begin-verse" mid="v04026056" />
+			<v n="56">
+				According to 
+				<crossref let="e" cid="c0402656.1" />
+				 the lot their inheritance shall be divided between the larger and the smaller.”
+			</v>
+			<marker class="begin-verse" mid="v04026057" />
+			<v n="57">
+				And these 
+				<crossref let="f" cid="c0402657.1" />
+				 are those who were numbered of the Levites according to their families: of Gershon, the family of the Gershonites; of Kohath, the family of the Kohathites; of Merari, the family of the Merarites.
+			<crossref let="d" cid="c04026057.2"> [Gen. 46:11; Ex. 6:16-19; Num. 3:15; 1 Chr. 6:1,]</crossref></v>
+			<marker class="begin-verse" mid="v04026058" />
+			<v n="58">
+				These are 
+				<crossref let="g" cid="c0402658.1" />
+				 the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, and the family of the Korathites. And Kohath begot Amram.
+			</v>
+			<marker class="begin-verse" mid="v04026059" />
+			<v n="59">
+				The name 
+				<crossref let="h" cid="c0402659.1" />
+				 of Amram’s wife was Jochebed the daughter of Levi, who was born to Levi in Egypt; and to Amram she bore Aaron and Moses and their sister Miriam.
+			<crossref let="e" cid="c04026059.2"> [Ex. 2:1, 2; 6:20]</crossref></v>
+			<marker class="begin-verse" mid="v04026060" />
+			<v n="60">
+				To Aaron 
+				<crossref let="i" cid="c0402660.1" />
+				 were born Nadab and Abihu, Eleazar and Ithamar.
+			<crossref let="f" cid="c04026060.2"> [Num. 3:2]</crossref></v>
+			<marker class="begin-verse" mid="v04026061" />
+			<v n="61">
+				And Nadab 
+				<crossref let="j" cid="c0402661.1" />
+				 and Abihu died when they offered profane fire before the Lord.
+			<crossref let="g" cid="c04026061.2"> [Lev. 10:1, 2; Num. 3:3, 4; 1 Chr.]</crossref></v>
+			<marker class="begin-verse" mid="v04026062" />
+			<v n="62">
+				Now those 
+				<crossref let="k" cid="c0402662.1" />
+				 who were numbered of them were twenty-three thousand, every male from a month old and above; for they were not numbered among the other children of Israel, because there was no inheritance given to them among the children of Israel.
+			<crossref let="i" cid="c04026062.2"> [Num. 1:49 j Num.]</crossref><crossref let="h" cid="c04026062.3"> [Num. 3:39]</crossref></v>
+			<marker class="begin-verse" mid="v04026063" />
+			<v n="63">
+				These are 
+				<crossref let="l" cid="c0402663.1" />
+				 those who were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by the Jordan, across from Jericho.
+			<crossref let="k" cid="c04026063.2"> [Num. 26:3]</crossref></v>
+			<marker class="begin-verse" mid="v04026064" />
+			<v n="64">
+				But among 
+				<crossref let="m" cid="c0402664.1" />
+				 these there was not a man of those who were numbered by Moses and Aaron the priest when they numbered the children of Israel in the Wilderness of Sinai.
+			<crossref let="l" cid="c04026064.2"> [Num. 14:29- 35; Deut. 2:14-16; Heb. 3:17 m Num.]</crossref></v>
+			<marker class="begin-verse" mid="v04026065" />
+			<v n="65">
+				For the 
+				<crossref let="n" cid="c0402665.1" />
+				 Lord had said of them, “They shall surely die in the wilderness.” So there was not left a man of them, except Caleb the son of Jephunneh and Joshua the son of Nun.
+			<crossref let="o" cid="c04026065.2"> [Num. 14:30]</crossref><crossref let="n" cid="c04026065.3"> [Num. 14:26- 35; [1 Cor. 10:5, 6]]</crossref></v>
+			<marker class="begin-verse" mid="v04026066" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

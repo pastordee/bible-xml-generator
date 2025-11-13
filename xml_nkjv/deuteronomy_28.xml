@@ -1,0 +1,430 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:45:26.910547</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:45:26.910562</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" version="NKJV" bookAbbr="deu">
+		<marker class="begin-verse" mid="v05028001" />
+		<chapter num="28">
+			<heading>Blessings on Obedience</heading>
+			<begin-paragraph />
+			<v n="1">
+				“Now it 
+				<crossref let="b" cid="c050281.1" />
+				 shall come to pass, if you diligently obey the voice of the Lord your God, to observe carefully all His commandments which I command you today, that the Lord your God will set you high above all nations of the earth.
+			</v>
+			<marker class="begin-verse" mid="v05028002" />
+			<v n="2">
+				And all 
+				<crossref let="c" cid="c050282.1" />
+				 these blessings shall come upon you and overtake you, because you obey the voice of the Lord your God:
+			<crossref let="a" cid="c05028002.2"> [Ex. 7:7; Deut. 34:7 b Num. 27:17; 1 Kin. 3:7 c Num.]</crossref></v>
+			<marker class="begin-verse" mid="v05028003" />
+			<v n="3">
+				“Blessed shall 
+				<crossref let="d" cid="c050283.1" />
+				 you be in the city, and blessed shall you be in the country.
+			<crossref let="f" cid="c05028003.2"> [Num. 27:21]</crossref></v>
+			<marker class="begin-verse" mid="v05028004" />
+			<v n="4">
+				“Blessed shall 
+				<crossref let="e" cid="c050284.1" />
+				 be the fruit of your body, the produce of your ground and the increase of your herds, the increase of your cattle and the offspring of your flocks.
+			<crossref let="g" cid="c05028004.2"> [Deut. 3:21]</crossref><crossref let="h" cid="c05028004.3"> [Num. 21:24,]</crossref></v>
+			<marker class="begin-verse" mid="v05028005" />
+			<v n="5">
+				“Blessed shall 
+				<crossref let="f" cid="c050285.1" />
+				 be your basket and your kneading bowl.
+			<crossref let="i" cid="c05028005.2"> [Deut. 7:2;]</crossref></v>
+			<marker class="begin-verse" mid="v05028006" />
+			<v n="6">
+				“Blessed shall 
+				<crossref let="g" cid="c050286.1" />
+				 you be when you come in, and blessed shall you be when you go out.
+			<crossref let="j" cid="c05028006.2"> [Josh. 10:25; 1 Chr. 22:13]</crossref><crossref let="l" cid="c05028006.3"> [Deut. 20:4]</crossref><crossref let="k" cid="c05028006.4"> [Deut. 1:29]</crossref><crossref let="m" cid="c05028006.5"> [Josh. 1:5; Heb.]</crossref></v>
+			<marker class="begin-verse" mid="v05028007" />
+			<v n="7">
+				“The Lord 
+				<crossref let="h" cid="c050287.1" />
+				 will cause your enemies who rise against you to be defeated before your face; they shall come out against you one way and flee before you seven ways.
+			<crossref let="n" cid="c05028007.2"> [Num. 27:19; Deut. 31:23; Josh. 1:6]</crossref></v>
+			<marker class="begin-verse" mid="v05028008" />
+			<v n="8">
+				“The Lord 
+				<crossref let="i" cid="c050288.1" />
+				 will command the blessing on you in your storehouses and in all to which you set your hand, and He will bless you in the land which the Lord your God is giving you.
+			<crossref let="o" cid="c05028008.2"> [Ex. 13:21]</crossref><crossref let="p" cid="c05028008.3"> [Deut. 31:6; Josh. 1:5; 1 Chr. 28:20; Heb. 13:5]</crossref></v>
+			<marker class="begin-verse" mid="v05028009" />
+			<v n="9">
+				“The Lord 
+				<crossref let="j" cid="c050289.1" />
+				 will establish you as a holy people to Himself, just as He has sworn to you, if you keep the commandments of the Lord your God and walk in His ways.
+			<crossref let="q" cid="c05028009.2"> [Deut. 17:18; 31:25, 26 r Num. 4:5, 6, 15; Deut. Josh. 3:3]</crossref></v>
+			<marker class="begin-verse" mid="v05028010" />
+			<v n="10">
+				Then all 
+				<crossref let="k" cid="c0502810.1" />
+				 peoples of the earth shall see that you are called by the name of the Lord, and they shall be afraid of you.
+			<crossref let="t" cid="c05028010.2"> [Lev. 23:34; Deut.]</crossref><crossref let="s" cid="c05028010.3"> [Deut. 15:1,]</crossref></v>
+			<marker class="begin-verse" mid="v05028011" />
+			<v n="11">
+				And the 
+				<crossref let="l" cid="c0502811.1" />
+				 Lord will grant you plenty of goods, in the fruit of your body, in the increase of your livestock, and in the produce of your ground, in the land of which the Lord swore to your fathers to give you.
+			<crossref let="u" cid="c05028011.2"> [Deut. 16:16]</crossref><crossref let="w" cid="c05028011.3"> [Josh. 8:34; 2 Kin.]</crossref><crossref let="v" cid="c05028011.4"> [Deut. 12:5]</crossref></v>
+			<marker class="begin-verse" mid="v05028012" />
+			<v n="12">
+				The Lord 
+				<crossref let="m" cid="c0502812.1" />
+				 will open to you His good treasure, the heavens, to give the rain to your land in its season, and to bless all the work of your hand. You shall lend to many nations, but you shall not borrow.
+			<crossref let="x" cid="c05028012.2"> [Deut. 4:10]</crossref></v>
+			<marker class="begin-verse" mid="v05028013" />
+			<v n="13">
+				And the 
+				<crossref let="n" cid="c0502813.1" />
+				 Lord will make you the head and not the tail; you shall be above only, and not be beneath, if you heed the commandments of the Lord your God, which I command you today, and are careful to observe them.
+			<crossref let="z" cid="c05028013.2"> [Ps. 78:6,]</crossref><crossref let="y" cid="c05028013.3"> [Deut. 11:2]</crossref></v>
+			<marker class="begin-verse" mid="v05028014" />
+			<v n="14">
+				So you 
+				<crossref let="o" cid="c0502814.1" />
+				 shall not turn aside from any of the words which I command you this day, to the right or the left, to go after other gods to serve them.Curses on Disobedience
+			<crossref let="a" cid="c05028014.2"> [Num. 27:13]</crossref><crossref let="b" cid="c05028014.3"> [Num. 27:19; Deut. 3:28]</crossref></v>
+			<marker class="begin-verse" mid="v05028015" />
+			<v n="15">
+				“But it 
+				<crossref let="p" cid="c0502815.1" />
+				 shall come to pass, if you do not obey the voice of the Lord your God, to observe carefully all His commandments and His statutes which I command you today, that all these curses will come upon you and overtake you:
+			</v>
+			<marker class="begin-verse" mid="v05028016" />
+			<v n="16">
+				“Cursed shall 
+				<crossref let="q" cid="c0502816.1" />
+				 you be in the city, and cursed shall you be in the country.
+			<crossref let="e" cid="c05028016.2"> [Ex. 34:15; Deut. 4:25-28; Judg. 2:11, 12, 17 f Deut. 32:15 g Judg. 2:20]</crossref><crossref let="d" cid="c05028016.3"> [Deut. 29:22]</crossref></v>
+			<marker class="begin-verse" mid="v05028017" />
+			<v n="17">
+				“Cursed shall 
+				<crossref let="r" cid="c0502817.1" />
+				 be your basket and your kneading bowl.
+			<crossref let="h" cid="c05028017.2"> [Judg. 2:14; 6:13 i 2 Chr. 15:2 j Deut. 32:20 k Judg. 6:13 l Num. 14:42]</crossref><crossref let="p" cid="c05028017.3"> [Deut. 31:16]</crossref></v>
+			<marker class="begin-verse" mid="v05028018" />
+			<v n="18">
+				“Cursed shall 
+				<crossref let="s" cid="c0502818.1" />
+				 be the fruit of your body and the produce of your land, the increase of your cattle and the offspring of your flocks.
+			<crossref let="m" cid="c05028018.2"> [Deut. 31:17; [Is. 1:15, 16]]</crossref></v>
+			<marker class="begin-verse" mid="v05028019" />
+			<v n="19">
+				“Cursed shall 
+				<crossref let="t" cid="c0502819.1" />
+				 you be when you come in, and cursed shall you be when you go out.
+			<crossref let="n" cid="c05028019.2"> [Deut. 31:22,]</crossref></v>
+			<marker class="begin-verse" mid="v05028020" />
+			<v n="20">
+				“The Lord 
+				<crossref let="u" cid="c0502820.1" />
+				 will send on you cursing, confusion, and rebuke in all that you set your hand to do, until you are destroyed and until you perish quickly, because of the wickedness of your doings in which you have forsaken Me.
+			<crossref let="o" cid="c05028020.2"> [Deut. 32:15-]</crossref></v>
+			<marker class="begin-verse" mid="v05028021" />
+			<v n="21">
+				The Lord 
+				<crossref let="v" cid="c0502821.1" />
+				 will make the plague cling to you until He has consumed you from the land which you are going to possess.
+			<crossref let="r" cid="c05028021.2"> [Hos. 5:3 s Amos]</crossref><crossref let="q" cid="c05028021.3"> [Deut. 31:17]</crossref></v>
+			<marker class="begin-verse" mid="v05028022" />
+			<v n="22">
+				The Lord 
+				<crossref let="w" cid="c0502822.1" />
+				 will strike you with consumption, with fever, with inflammation, with severe burning fever, with the sword, with scorching, and with mildew; they shall pursue you until you perish.
+			</v>
+			<marker class="begin-verse" mid="v05028023" />
+			<v n="23">
+				And your 
+				<crossref let="x" cid="c0502823.1" />
+				 heavens which are over your head shall be bronze, and the earth which is under you shall be iron.
+			<crossref let="u" cid="c05028023.2"> [Deut. 31:7]</crossref><crossref let="t" cid="c05028023.3"> [Num. 27:23; Deut. 31:14]</crossref></v>
+			<marker class="begin-verse" mid="v05028024" />
+			<v n="24">
+				The Lord 
+				<crossref let="y" cid="c0502824.1" />
+				 will change the rain of your land to powder and dust; from the heaven it shall come down on you until you are destroyed.
+			</v>
+			<marker class="begin-verse" mid="v05028025" />
+			<v n="25">
+				“The Lord 
+				<crossref let="z" cid="c0502825.1" />
+				 will cause you to be defeated before your enemies; you shall go out one way against them and flee seven ways before them; and you shall become troublesome to all the kingdoms of the earth.
+			</v>
+			<marker class="begin-verse" mid="v05028026" />
+			<v n="26">
+				Your carcasses 
+				<crossref let="a" cid="c0502826.1" />
+				 shall be food for all the birds of the air and the beasts of the earth, and no one shall frighten them away.
+			<crossref let="w" cid="c05028026.2"> [Deut. 31:19]</crossref><crossref let="v" cid="c05028026.3"> [2 Kin. 22:8]</crossref></v>
+			<marker class="begin-verse" mid="v05028027" />
+			<v n="27">
+				The Lord 
+				<crossref let="b" cid="c0502827.1" />
+				 will strike you with the boils of Egypt, with tumors, with the scab, and with the itch, from which you cannot be healed.
+			<crossref let="x" cid="c05028027.2"> [Deut. 9:7,]</crossref><crossref let="y" cid="c05028027.3"> [Ex. 32:9; Deut.]</crossref></v>
+			<marker class="begin-verse" mid="v05028028" />
+			<v n="28">
+				The Lord 
+				<crossref let="c" cid="c0502828.1" />
+				 will strike you with madness and blindness and confusion of heart.
+			<crossref let="z" cid="c05028028.2"> [Deut. 30:19]</crossref></v>
+			<marker class="begin-verse" mid="v05028029" />
+			<v n="29">
+				And you 
+				<crossref let="d" cid="c0502829.1" />
+				 shall grope at noonday, as a blind man gropes in darkness; you shall not prosper in your ways; you shall be only oppressed and plundered continually, and no one shall save you.
+			<crossref let="a" cid="c05028029.2"> [Deut. 32:5; Judg. 2:19; [Acts 20:29, 30] b Deut. 28:15 c Gen. 49:1; Deut. 4:30]</crossref></v>
+			<marker class="begin-verse" mid="v05028030" />
+			<v n="30">
+				“You shall 
+				<crossref let="e" cid="c0502830.1" />
+				 betroth a wife, but another man shall lie with her; you shall build a house, but you shall not dwell in it; you shall plant a vineyard, but shall not gather its grapes.
+			</v>
+			<marker class="begin-verse" mid="v05028031" />
+			<v n="31">
+				Your ox 
+				<crossref let="f" cid="c0502831.1" />
+				 shall be slaughtered before your eyes, but you shall not eat of it; your donkey shall be violently taken away from before you, and shall not be restored to you; your sheep shall be given to your enemies, and you shall have no one to rescue them.
+			</v>
+			<marker class="begin-verse" mid="v05028032" />
+			<v n="32">
+				Your sons 
+				<crossref let="g" cid="c0502832.1" />
+				 and your daughters shall be given to another people, and your eyes shall look and fail with longing for them all day long; and there shall be no strength in your hand.
+			</v>
+			<marker class="begin-verse" mid="v05028033" />
+			<v n="33">
+				A nation 
+				<crossref let="h" cid="c0502833.1" />
+				 whom you have not known shall eat the fruit of your land and the produce of your labor, and you shall be only oppressed and crushed continually.
+			</v>
+			<marker class="begin-verse" mid="v05028034" />
+			<v n="34">
+				So you 
+				<crossref let="i" cid="c0502834.1" />
+				 shall be driven mad because of the sight which your eyes see.
+			</v>
+			<marker class="begin-verse" mid="v05028035" />
+			<v n="35">
+				The Lord 
+				<crossref let="j" cid="c0502835.1" />
+				 will strike you in the knees and on the legs with severe boils which cannot be healed, and from the sole of your foot to the top of your head.
+			</v>
+			<marker class="begin-verse" mid="v05028036" />
+			<v n="36">
+				“The Lord 
+				<crossref let="k" cid="c0502836.1" />
+				 will bring you and the king whom you set over you to a nation which neither you nor your fathers have known, and there you shall serve other gods—wood and stone.
+			</v>
+			<marker class="begin-verse" mid="v05028037" />
+			<v n="37">
+				And you 
+				<crossref let="l" cid="c0502837.1" />
+				 shall become an astonishment, a proverb, and a byword among all nations where the Lord will drive you.
+			</v>
+			<marker class="begin-verse" mid="v05028038" />
+			<v n="38">
+				“You shall 
+				<crossref let="m" cid="c0502838.1" />
+				 carry much seed out to the field but gather little in, for the locust shall consume it.
+			</v>
+			<marker class="begin-verse" mid="v05028039" />
+			<v n="39">
+				You shall 
+				<crossref let="n" cid="c0502839.1" />
+				 plant vineyards and tend them, but you shall neither drink of the wine nor gather the grapes; for the worms shall eat them.
+			</v>
+			<marker class="begin-verse" mid="v05028040" />
+			<v n="40">
+				You shall 
+				<crossref let="o" cid="c0502840.1" />
+				 have olive trees throughout all your territory, but you shall not anoint yourself with the oil; for your olives shall drop off.
+			</v>
+			<marker class="begin-verse" mid="v05028041" />
+			<v n="41">
+				You shall 
+				<crossref let="p" cid="c0502841.1" />
+				 beget sons and daughters, but they shall not be yours; for they shall go into captivity.
+			</v>
+			<marker class="begin-verse" mid="v05028042" />
+			<v n="42">
+				Locusts shall 
+				<crossref let="q" cid="c0502842.1" />
+				 consume all your trees and the produce of your land.
+			</v>
+			<marker class="begin-verse" mid="v05028043" />
+			<v n="43">
+				“The alien 
+				<crossref let="r" cid="c0502843.1" />
+				 who is among you shall rise higher and higher above you, and you shall come down lower and lower.
+			</v>
+			<marker class="begin-verse" mid="v05028044" />
+			<v n="44">
+				He shall 
+				<crossref let="s" cid="c0502844.1" />
+				 lend to you, but you shall not lend to him; he shall be the head, and you shall be the tail.
+			</v>
+			<marker class="begin-verse" mid="v05028045" />
+			<v n="45">
+				“Moreover all 
+				<crossref let="t" cid="c0502845.1" />
+				 these curses shall come upon you and pursue and overtake you, until you are destroyed, because you did not obey the voice of the Lord your God, to keep His commandments and His statutes which He commanded you.
+			</v>
+			<marker class="begin-verse" mid="v05028046" />
+			<v n="46">
+				And they 
+				<crossref let="u" cid="c0502846.1" />
+				 shall be upon you for a sign and a wonder, and on your descendants forever.
+			</v>
+			<marker class="begin-verse" mid="v05028047" />
+			<v n="47">
+				“Because you 
+				<crossref let="v" cid="c0502847.1" />
+				 did not serve the Lord your God with joy and gladness of heart, for the abundance of everything,
+			</v>
+			<marker class="begin-verse" mid="v05028048" />
+			<v n="48">
+				therefore you 
+				<crossref let="w" cid="c0502848.1" />
+				 shall serve your enemies, whom the Lord will send against you, in hunger, in thirst, in nakedness, and in need of everything; and He will put a yoke of iron on your neck until He has destroyed you.
+			</v>
+			<marker class="begin-verse" mid="v05028049" />
+			<v n="49">
+				The Lord 
+				<crossref let="x" cid="c0502849.1" />
+				 will bring a nation against you from afar, from the end of the earth, as swift as the eagle flies, a nation whose language you will not understand,
+			</v>
+			<marker class="begin-verse" mid="v05028050" />
+			<v n="50">
+				a nation 
+				<crossref let="y" cid="c0502850.1" />
+				 of fierce countenance, which does not respect the elderly nor show favor to the young.
+			</v>
+			<marker class="begin-verse" mid="v05028051" />
+			<v n="51">
+				And they 
+				<crossref let="z" cid="c0502851.1" />
+				 shall eat the increase of your livestock and the produce of your land, until you are destroyed; they shall not leave you grain or new wine or oil, or the increase of your cattle or the offspring of your flocks, until they have destroyed you.
+			</v>
+			<marker class="begin-verse" mid="v05028052" />
+			<v n="52">
+				“They shall 
+				<crossref let="a" cid="c0502852.1" />
+				 besiege you at all your gates until your high and fortified walls, in which you trust, come down throughout all your land; and they shall besiege you at all your gates throughout all your land which the Lord your God has given you.
+			</v>
+			<marker class="begin-verse" mid="v05028053" />
+			<v n="53">
+				You shall 
+				<crossref let="b" cid="c0502853.1" />
+				 eat the fruit of your own body, the flesh of your sons and your daughters whom the Lord your God has given you, in the siege and desperate straits in which your enemy shall distress you.
+			</v>
+			<marker class="begin-verse" mid="v05028054" />
+			<v n="54">
+				The sensitive 
+				<crossref let="c" cid="c0502854.1" />
+				 and very refined man among you will be hostile toward his brother, toward the wife of his bosom, and toward the rest of his children whom he leaves behind,
+			</v>
+			<marker class="begin-verse" mid="v05028055" />
+			<v n="55">
+				so that 
+				<crossref let="d" cid="c0502855.1" />
+				 he will not give any of them the flesh of his children whom he will eat, because he has nothing left in the siege and desperate straits in which your enemy shall distress you at all your gates.
+			</v>
+			<marker class="begin-verse" mid="v05028056" />
+			<v n="56">
+				The tender 
+				<crossref let="e" cid="c0502856.1" />
+				 and delicate woman among you, who would not venture to set the sole of her foot on the ground because of her delicateness and sensitivity, will refuse to the husband of her bosom, and to her son and her daughter,
+			</v>
+			<marker class="begin-verse" mid="v05028057" />
+			<v n="57">
+				her placenta 
+				<crossref let="f" cid="c0502857.1" />
+				 which comes out from between her feet and her children whom she bears; for she will eat them secretly for lack of everything in the siege and desperate straits in which your enemy shall distress you at all your gates.
+			</v>
+			<marker class="begin-verse" mid="v05028058" />
+			<v n="58">
+				“If you 
+				<crossref let="g" cid="c0502858.1" />
+				 do not carefully observe all the words of this law that are written in this book, that you may fear this glorious and awesome name, THE LORD YOUR GOD,
+			</v>
+			<marker class="begin-verse" mid="v05028059" />
+			<v n="59">
+				then the 
+				<crossref let="h" cid="c0502859.1" />
+				 Lord will bring upon you and your descendants extraordinary plagues—great and prolonged plagues—and serious and prolonged sicknesses.
+			</v>
+			<marker class="begin-verse" mid="v05028060" />
+			<v n="60">
+				Moreover He 
+				<crossref let="i" cid="c0502860.1" />
+				 will bring back on you all the diseases of Egypt, of which you were afraid, and they shall cling to you.
+			</v>
+			<marker class="begin-verse" mid="v05028061" />
+			<v n="61">
+				Also every 
+				<crossref let="j" cid="c0502861.1" />
+				 sickness and every plague, which is not written in this Book of the Law, will the Lord bring upon you until you are destroyed.
+			</v>
+			<marker class="begin-verse" mid="v05028062" />
+			<v n="62">
+				You shall 
+				<crossref let="k" cid="c0502862.1" />
+				 be left few in number, whereas you were as the stars of heaven in multitude, because you would not obey the voice of the Lord your God.
+			</v>
+			<marker class="begin-verse" mid="v05028063" />
+			<v n="63">
+				And it 
+				<crossref let="l" cid="c0502863.1" />
+				 shall be, that just as the Lord rejoiced over you to do you good and multiply you, so the Lord will rejoice over you to destroy you and bring you to nothing; and you shall be plucked from off the land which you go to possess.
+			</v>
+			<marker class="begin-verse" mid="v05028064" />
+			<v n="64">
+				“Then the 
+				<crossref let="m" cid="c0502864.1" />
+				 Lord will scatter you among all peoples, from one end of the earth to the other, and there you shall serve other gods, which neither you nor your fathers have known—wood and stone.
+			</v>
+			<marker class="begin-verse" mid="v05028065" />
+			<v n="65">
+				And among 
+				<crossref let="n" cid="c0502865.1" />
+				 those nations you shall find no rest, nor shall the sole of your foot have a resting place; but there the Lord will give you a trembling heart, failing eyes, and anguish of soul.
+			</v>
+			<marker class="begin-verse" mid="v05028066" />
+			<v n="66">
+				Your life 
+				<crossref let="o" cid="c0502866.1" />
+				 shall hang in doubt before you; you shall fear day and night, and have no assurance of life.
+			</v>
+			<marker class="begin-verse" mid="v05028067" />
+			<v n="67">
+				In the 
+				<crossref let="p" cid="c0502867.1" />
+				 morning you shall say, ‘Oh, that it were evening!’ And at evening you shall say, ‘Oh, that it were morning!’ because of the fear which terrifies your heart, and because of the sight which your eyes see.
+			</v>
+			<marker class="begin-verse" mid="v05028068" />
+			<v n="68">
+				“And the 
+				<crossref let="q" cid="c0502868.1" />
+				 Lord will take you back to Egypt in ships, by the way of which I said to you, ‘You shall never see it again.’ And there you shall be offered for sale to your enemies as male and female slaves, but no one will buy you.”
+			</v>
+			<marker class="begin-verse" mid="v05028069" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

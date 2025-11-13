@@ -1,0 +1,262 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:35:54.813971</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:35:54.813980</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="NKJV" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02025001" />
+		<chapter num="25">
+			<heading>Offerings for the Sanctuary</heading>
+			<begin-paragraph />
+			<v n="1">
+				Then the 
+				<crossref let="b" cid="c020251.1" />
+				 Lord spoke to Moses, saying:
+			</v>
+			<marker class="begin-verse" mid="v02025002" />
+			<v n="2">
+				“Speak to 
+				<crossref let="c" cid="c020252.1" />
+				 the children of Israel, that they bring Me an offering. From everyone who gives it willingly with his heart you shall take My offering.
+			</v>
+			<marker class="begin-verse" mid="v02025003" />
+			<v n="3">
+				And this 
+				<crossref let="d" cid="c020253.1" />
+				 is the offering which you shall take from them: gold, silver, and bronze;
+			</v>
+			<marker class="begin-verse" mid="v02025004" />
+			<v n="4">
+				blue, purple, 
+				<crossref let="e" cid="c020254.1" />
+				 and scarlet thread, fine linen, and goats’ hair;
+			</v>
+			<marker class="begin-verse" mid="v02025005" />
+			<v n="5">
+				ram skins 
+				<crossref let="f" cid="c020255.1" />
+				 dyed red, badger skins, and acacia wood;
+			</v>
+			<marker class="begin-verse" mid="v02025006" />
+			<v n="6">
+				oil for 
+				<crossref let="g" cid="c020256.1" />
+				 the light, and spices for the anointing oil and for the sweet incense;
+			<crossref let="b" cid="c02025006.2"> [Ex. 27:20 c Ex.]</crossref></v>
+			<marker class="begin-verse" mid="v02025007" />
+			<v n="7">
+				onyx stones, 
+				<crossref let="h" cid="c020257.1" />
+				 and stones to be set in the ephod and in the breastplate.
+			<crossref let="d" cid="c02025007.2"> [Ex. 28:4, 6-14]</crossref></v>
+			<marker class="begin-verse" mid="v02025008" />
+			<v n="8">
+				And let 
+				<crossref let="i" cid="c020258.1" />
+				 them make Me a sanctuary, that I may dwell among them.
+			<crossref let="f" cid="c02025008.2"> [Ex. 29:45; 1 Kin. 6:13; [2 Cor. 6:16; Heb. 3:6; Rev.]</crossref><crossref let="e" cid="c02025008.3"> [Ex. 36:1, 3, 4; Lev. 4:6; 10:4; 21:12; Heb. 9:1,]</crossref></v>
+			<marker class="begin-verse" mid="v02025009" />
+			<v n="9">
+				According to 
+				<crossref let="j" cid="c020259.1" />
+				 all that I show you, that is, the pattern of the tabernacle and the pattern of all its furnishings, just so you shall make it.The Ark of the Testimony
+			</v>
+			<marker class="begin-verse" mid="v02025010" />
+			<v n="10">
+				“And they 
+				<crossref let="k" cid="c0202510.1" />
+				 shall make an ark of acacia wood; two and a half cubits shall be its length, a cubit and a half its width, and a cubit and a half its height.
+			<crossref let="g" cid="c02025010.2"> [Ex. 37:1-9; Deut. 10:3; Heb.]</crossref></v>
+			<marker class="begin-verse" mid="v02025011" />
+			<v n="11">
+				And you 
+				<crossref let="l" cid="c0202511.1" />
+				 shall overlay it with pure gold, inside and out you shall overlay it, and shall make on it a molding of gold all around.
+			<crossref let="h" cid="c02025011.2"> [Ex. 37:2; Heb. 9:4]</crossref></v>
+			<marker class="begin-verse" mid="v02025012" />
+			<v n="12">
+				You shall 
+				<crossref let="m" cid="c0202512.1" />
+				 cast four rings of gold for it, and put them in its four corners; two rings shall be on one side, and two rings on the other side.
+			</v>
+			<marker class="begin-verse" mid="v02025013" />
+			<v n="13">
+				And you 
+				<crossref let="n" cid="c0202513.1" />
+				 shall make poles of acacia wood, and overlay them with gold.
+			</v>
+			<marker class="begin-verse" mid="v02025014" />
+			<v n="14">
+				You shall 
+				<crossref let="o" cid="c0202514.1" />
+				 put the poles into the rings on the sides of the ark, that the ark may be carried by them.
+			</v>
+			<marker class="begin-verse" mid="v02025015" />
+			<v n="15">
+				The poles 
+				<crossref let="p" cid="c0202515.1" />
+				 shall be in the rings of the ark; they shall not be taken from it.
+			<crossref let="i" cid="c02025015.2"> [Num. 4:6; 1 Kin. 8:8]</crossref></v>
+			<marker class="begin-verse" mid="v02025016" />
+			<v n="16">
+				And you 
+				<crossref let="q" cid="c0202516.1" />
+				 shall put into the ark the Testimony which I will give you.
+			<crossref let="j" cid="c02025016.2"> [Ex. 16:34; 31:18; Deut. 10:2; 31:26; 1 Kin. 8:9; Heb. 9:4]</crossref></v>
+			<marker class="begin-verse" mid="v02025017" />
+			<v n="17">
+				“You shall 
+				<crossref let="r" cid="c0202517.1" />
+				 make a mercy seat of pure gold; two and a half cubits shall be its length and a cubit and a half its width.
+			<crossref let="k" cid="c02025017.2"> [Ex. 37:6; Heb. 9:5]</crossref></v>
+			<marker class="begin-verse" mid="v02025018" />
+			<v n="18">
+				And you 
+				<crossref let="s" cid="c0202518.1" />
+				 shall make two cherubim of gold; of hammered work you shall make them at the two ends of the mercy seat.
+			</v>
+			<marker class="begin-verse" mid="v02025019" />
+			<v n="19">
+				Make one 
+				<crossref let="t" cid="c0202519.1" />
+				 cherub at one end, and the other cherub at the other end; you shall make the cherubim at the two ends of it of one piece with the mercy seat.
+			</v>
+			<marker class="begin-verse" mid="v02025020" />
+			<v n="20">
+				And the 
+				<crossref let="u" cid="c0202520.1" />
+				 cherubim shall stretch out their wings above, covering the mercy seat with their wings, and they shall face one another; the faces of the cherubim shall be toward the mercy seat.
+			<crossref let="l" cid="c02025020.2"> [1 Kin. 8:7; 1 Chr. 28:18; Heb. 9:5]</crossref></v>
+			<marker class="begin-verse" mid="v02025021" />
+			<v n="21">
+				You shall 
+				<crossref let="v" cid="c0202521.1" />
+				 put the mercy seat on top of the ark, and in the ark you shall put the Testimony that I will give you.
+			<crossref let="m" cid="c02025021.2"> [Ex. 26:34; 40:20 n Ex. 25:16]</crossref></v>
+			<marker class="begin-verse" mid="v02025022" />
+			<v n="22">
+				And there 
+				<crossref let="w" cid="c0202522.1" />
+				 I will meet with you, and I will speak with you from above the mercy seat, from between the two cherubim which are on the ark of the Testimony, about everything which I will give you in commandment to the children of Israel.The Table for the Showbread
+			<crossref let="o" cid="c02025022.2"> [Ex. 29:42, 43; 30:6, 36; Lev. 16:2; Num. 17:4 p Num. 7:89;]</crossref></v>
+			<marker class="begin-verse" mid="v02025023" />
+			<v n="23">
+				“You shall 
+				<crossref let="x" cid="c0202523.1" />
+				 also make a table of acacia wood; two cubits shall be its length, a cubit its width, and a cubit and a half its height.
+			</v>
+			<marker class="begin-verse" mid="v02025024" />
+			<v n="24">
+				And you 
+				<crossref let="y" cid="c0202524.1" />
+				 shall overlay it with pure gold, and make a molding of gold all around.
+			</v>
+			<marker class="begin-verse" mid="v02025025" />
+			<v n="25">
+				You shall 
+				<crossref let="z" cid="c0202525.1" />
+				 make for it a frame of a handbreadth all around, and you shall make a gold molding for the frame all around.
+			</v>
+			<marker class="begin-verse" mid="v02025026" />
+			<v n="26">
+				And you 
+				<crossref let="a" cid="c0202526.1" />
+				 shall make for it four rings of gold, and put the rings on the four corners that are at its four legs.
+			</v>
+			<marker class="begin-verse" mid="v02025027" />
+			<v n="27">
+				The rings 
+				<crossref let="b" cid="c0202527.1" />
+				 shall be close to the frame, as holders for the poles to bear the table.
+			</v>
+			<marker class="begin-verse" mid="v02025028" />
+			<v n="28">
+				And you 
+				<crossref let="c" cid="c0202528.1" />
+				 shall make the poles of acacia wood, and overlay them with gold, that the table may be carried with them.
+			</v>
+			<marker class="begin-verse" mid="v02025029" />
+			<v n="29">
+				You shall 
+				<crossref let="d" cid="c0202529.1" />
+				 make its dishes, its pans, its pitchers, and its bowls for pouring. You shall make them of pure gold.
+			<crossref let="r" cid="c02025029.2"> [Ex. 37:16; Num. 4:7]</crossref></v>
+			<marker class="begin-verse" mid="v02025030" />
+			<v n="30">
+				And you 
+				<crossref let="e" cid="c0202530.1" />
+				 shall set the showbread on the table before Me always.The Gold Lampstand
+			<crossref let="s" cid="c02025030.2"> [Ex. 39:36; 40:23; Lev. 24:5-9]</crossref></v>
+			<marker class="begin-verse" mid="v02025031" />
+			<v n="31">
+				“You shall 
+				<crossref let="f" cid="c0202531.1" />
+				 also make a lampstand of pure gold; the lampstand shall be of hammered work. Its shaft, its branches, its bowls, its ornamental knobs, and flowers shall be of one piece.
+			<crossref let="t" cid="c02025031.2"> [Ex. 37:17-24; 1 Kin. 7:49; Zech. 4:2; Heb. 9:2; Rev.]</crossref></v>
+			<marker class="begin-verse" mid="v02025032" />
+			<v n="32">
+				And six 
+				<crossref let="g" cid="c0202532.1" />
+				 branches shall come out of its sides: three branches of the lampstand out of one side, and three branches of the lampstand out of the other side.
+			</v>
+			<marker class="begin-verse" mid="v02025033" />
+			<v n="33">
+				Three bowls 
+				<crossref let="h" cid="c0202533.1" />
+				 shall be made like almond blossoms on one branch, with an ornamental knob and a flower, and three bowls made like almond blossoms on the other branch, with an ornamental knob and a flower—and so for the six branches that come out of the lampstand.
+			<crossref let="u" cid="c02025033.2"> [Ex. 37:19]</crossref></v>
+			<marker class="begin-verse" mid="v02025034" />
+			<v n="34">
+				On the 
+				<crossref let="i" cid="c0202534.1" />
+				 lampstand itself four bowls shall be made like almond blossoms, each with its ornamental knob and flower.
+			<crossref let="v" cid="c02025034.2"> [Ex. 37:20-22]</crossref></v>
+			<marker class="begin-verse" mid="v02025035" />
+			<v n="35">
+				And there 
+				<crossref let="j" cid="c0202535.1" />
+				 shall be a knob under the first two branches of the same, a knob under the second two branches of the same, and a knob under the third two branches of the same, according to the six branches that extend from the lampstand.
+			</v>
+			<marker class="begin-verse" mid="v02025036" />
+			<v n="36">
+				Their knobs 
+				<crossref let="k" cid="c0202536.1" />
+				 and their branches shall be of one piece; all of it shall be one hammered piece of pure gold.
+			</v>
+			<marker class="begin-verse" mid="v02025037" />
+			<v n="37">
+				You shall 
+				<crossref let="l" cid="c0202537.1" />
+				 make seven lamps for it, and they shall arrange its lamps so that they give light in front of it.
+			<crossref let="x" cid="c02025037.2"> [Num. 8:2]</crossref><crossref let="w" cid="c02025037.3"> [Ex. 27:21; 30:8; Lev. 24:3, 4; 2 Chr. 13:11]</crossref></v>
+			<marker class="begin-verse" mid="v02025038" />
+			<v n="38">
+				And its 
+				<crossref let="m" cid="c0202538.1" />
+				 wick-trimmers and their trays shall be of pure gold.
+			</v>
+			<marker class="begin-verse" mid="v02025039" />
+			<v n="39">
+				It shall 
+				<crossref let="n" cid="c0202539.1" />
+				 be made of a talent of pure gold, with all these utensils.
+			</v>
+			<marker class="begin-verse" mid="v02025040" />
+			<v n="40">
+				And see 
+				<crossref let="o" cid="c0202540.1" />
+				 to it that you make them according to the pattern which was shown you on the mountain.
+			<crossref let="y" cid="c02025040.2"> [Ex. 25:9; 26:30; Num. 8:4; 1 Chr. 28:11, 19; Acts 7:44; [Heb.]</crossref></v>
+			<marker class="begin-verse" mid="v02025041" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

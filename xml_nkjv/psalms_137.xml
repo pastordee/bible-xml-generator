@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:24:20.192252</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:24:20.192272</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19137001" />
+		<chapter num="137">
+			<heading>Longing for Zion in a Foreign Land</heading>
+			<begin-paragraph />
+			<v n="1">
+				By the 
+				<crossref let="b" cid="c191371.1" />
+				 rivers of Babylon,There we sat down, yea, we weptWhen we remembered Zion.
+			<crossref let="a" cid="c19137001.2"> [Is. 56:9-12; Jer.]</crossref></v>
+			<marker class="begin-verse" mid="v19137002" />
+			<v n="2">
+				We hung 
+				<crossref let="c" cid="c191372.1" />
+				 our harpsUpon the willows in the midst of it.
+			<crossref let="b" cid="c19137002.2"> [Ex. 32:34]</crossref></v>
+			<marker class="begin-verse" mid="v19137003" />
+			<v n="3">
+				For there 
+				<crossref let="d" cid="c191373.1" />
+				 those who carried us away captive asked of us a song,And those who plundered us requested mirth,Saying, “Sing us one of the songs of Zion!”
+			<crossref let="c" cid="c19137003.2"> [Is. 11:11, 12, 16; Jer. 32:37]</crossref></v>
+			<marker class="begin-verse" mid="v19137004" />
+			<v n="4">
+				How shall 
+				<crossref let="e" cid="c191374.1" />
+				 we sing the Lord’s songIn a foreign land?
+			<crossref let="d" cid="c19137004.2"> [Jer. 3:15; [Ezek.]</crossref></v>
+			<marker class="begin-verse" mid="v19137005" />
+			<v n="5">
+				If I 
+				<crossref let="f" cid="c191375.1" />
+				 forget you, O Jerusalem,Let my right hand forget its skill!
+			<crossref let="e" cid="c19137005.2"> [Is. 4:2; 11:1; 40:10, 11; Jer. 33:14; [Dan. 9:24; Zech. 6:12]; Matt. 1:1, 6 $; Luke 3:31; [John 1:45; 7:42] f Ps. 72:2; Is. 9:7; 32:1, 18; [Dan.]</crossref></v>
+			<marker class="begin-verse" mid="v19137006" />
+			<v n="6">
+				If I 
+				<crossref let="g" cid="c191376.1" />
+				 do not remember you,Let my tongue cling to the roof of my mouth—If I do not exalt JerusalemAbove my chief joy.
+			<crossref let="g" cid="c19137006.2"> [Deut. 33:28; Jer. 30:10; Zech. 14:11 h Jer. 32:37]</crossref><crossref let="i" cid="c19137006.3"> [Is. 45:24; Jer. 33:16; [Dan. 9:24; Rom. 3:22; 1 Cor. 1:30] $]</crossref></v>
+			<marker class="begin-verse" mid="v19137007" />
+			<v n="7">
+				Remember, O 
+				<crossref let="h" cid="c191377.1" />
+				 Lord, against the sons of EdomThe day of Jerusalem,Who said, “Raze it, raze it,To its very foundation!”
+			</v>
+			<marker class="begin-verse" mid="v19137008" />
+			<v n="8">
+				O daughter 
+				<crossref let="i" cid="c191378.1" />
+				 of Babylon, who are to be destroyed,Happy the one who repays you as you have served us!
+			<crossref let="k" cid="c19137008.2"> [Is. 43:5, 6; Ezek. 34:13; Amos 9:14,]</crossref></v>
+			<marker class="begin-verse" mid="v19137009" />
+			<v n="9">
+				Happy the 
+				<crossref let="j" cid="c191379.1" />
+				 one who takes and dashesYour little ones against the rock!
+			<crossref let="m" cid="c19137009.2"> [Jer. 8:18; Hab.]</crossref></v>
+			<marker class="begin-verse" mid="v19137010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

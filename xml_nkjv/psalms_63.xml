@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:17:43.018451</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:17:43.018471</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19063001" />
+		<chapter num="63">
+			<heading>Joy in the Fellowship of GodA Psalm of David when he was in the wilderness of Judah.</heading>
+			<begin-paragraph />
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c190631.1" />
+				 You are my God;Early will I seek You;My soul thirsts for You;My flesh longs for YouIn a dry and thirsty landWhere there is no water.
+			<crossref let="a" cid="c19063001.2"> [2 Kin. 3:4]</crossref><crossref let="b" cid="c19063001.3"> [Deut. 2:9; Num. 21:28 c Is. 15:1–16:14; Jer. Amos 2:1-3; Zeph.]</crossref></v>
+			<marker class="begin-verse" mid="v19063002" />
+			<v n="2">
+				So I 
+				<crossref let="c" cid="c190632.1" />
+				 have looked for You in the sanctuary,To see Your power and Your glory.
+			<crossref let="d" cid="c19063002.2"> [Lev. 21:5; Jer. 48:37]</crossref></v>
+			<marker class="begin-verse" mid="v19063003" />
+			<v n="3">
+				Because Your 
+				<crossref let="d" cid="c190633.1" />
+				 lovingkindness is better than life,My lips shall praise You.
+			<crossref let="e" cid="c19063003.2"> [Jer. 48:38]</crossref></v>
+			<marker class="begin-verse" mid="v19063004" />
+			<v n="4">
+				Thus I 
+				<crossref let="e" cid="c190634.1" />
+				 will bless You while I live;I will lift up my hands in Your name.
+			<crossref let="f" cid="c19063004.2"> [Num. 21:28; 32:3; Jer. 48:34 3 So]</crossref></v>
+			<marker class="begin-verse" mid="v19063005" />
+			<v n="5">
+				My soul 
+				<crossref let="f" cid="c190635.1" />
+				 shall be satisfied as with marrow and fatness,And my mouth shall praise You with joyful lips.
+			<crossref let="g" cid="c19063005.2"> [Is. 16:11; Jer. 48:31 h Jer. Jer. 48:34]</crossref></v>
+			<marker class="begin-verse" mid="v19063006" />
+			<v n="6">
+				When I 
+				<crossref let="g" cid="c190636.1" />
+				 remember You on my bed,I meditate on You in the night watches.
+			<crossref let="i" cid="c19063006.2"> [Num. 32:36]</crossref></v>
+			<marker class="begin-verse" mid="v19063007" />
+			<v n="7">
+				Because You 
+				<crossref let="h" cid="c190637.1" />
+				 have been my help,Therefore in the shadow of Your wings I will rejoice.
+			</v>
+			<marker class="begin-verse" mid="v19063008" />
+			<v n="8">
+				My soul 
+				<crossref let="i" cid="c190638.1" />
+				 follows close behind You;Your right hand upholds me.
+			</v>
+			<marker class="begin-verse" mid="v19063009" />
+			<v n="9">
+				But those 
+				<crossref let="j" cid="c190639.1" />
+				 who seek my life, to destroy it,Shall go into the lower parts of the earth.
+			<crossref let="j" cid="c19063009.2"> [2 Kin. 17:25; Jer. 50:17 5 So]</crossref></v>
+			<marker class="begin-verse" mid="v19063010" />
+			<v n="10">
+				They shall 
+				<crossref let="k" cid="c1906310.1" />
+				 fall by the sword;They shall be a portion for jackals.
+			</v>
+			<marker class="begin-verse" mid="v19063011" />
+			<v n="11">
+				But the 
+				<crossref let="l" cid="c1906311.1" />
+				 king shall rejoice in God;Everyone who swears by Him shall glory;But the mouth of those who speak lies shall be stopped.
+			</v>
+			<marker class="begin-verse" mid="v19063012" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:22:11.511996</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:22:11.512008</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19113001" />
+		<chapter num="113">
+			<heading>The Majesty and Condescension of God</heading>
+			<begin-paragraph />
+			<v n="1">
+				Praise the 
+				<crossref let="b" cid="c191131.1" />
+				 Lord!Praise, O servants of the Lord,Praise the name of the Lord!
+			<crossref let="a" cid="c19113001.2"> [Rom. 9:24; 10:20 b Is. 63:19]</crossref></v>
+			<marker class="begin-verse" mid="v19113002" />
+			<v n="2">
+				Blessed be 
+				<crossref let="c" cid="c191132.1" />
+				 the name of the LordFrom this time forth and forevermore!
+			<crossref let="c" cid="c19113002.2"> [Rom. 10:21 $]</crossref><crossref let="e" cid="c19113002.3"> [Is. 42:24]</crossref><crossref let="d" cid="c19113002.4"> [Is. 1:2, 23 event (Ex. 19:16–21; Deut. 10:21;]</crossref></v>
+			<marker class="begin-verse" mid="v19113003" />
+			<v n="3">
+				From the 
+				<crossref let="d" cid="c191133.1" />
+				 rising of the sun to its going downThe Lord’s name is to be praised.
+			<crossref let="g" cid="c19113003.2"> [Is. 1:29]</crossref><crossref let="f" cid="c19113003.3"> [Deut. 32:21]</crossref></v>
+			<marker class="begin-verse" mid="v19113004" />
+			<v n="4">
+				The Lord 
+				<crossref let="e" cid="c191134.1" />
+				 is high above all nations,His glory above the heavens.
+			<crossref let="i" cid="c19113004.2"> [Lev. 11:7; Is. 66:17 Lev. 7:18; 19:7]</crossref><crossref let="h" cid="c19113004.3"> [Deut. 18:11]</crossref></v>
+			<marker class="begin-verse" mid="v19113005" />
+			<v n="5">
+				Who is 
+				<crossref let="f" cid="c191135.1" />
+				 like the Lord our God,Who dwells on high,
+			<crossref let="j" cid="c19113005.2"> [Matt. 9:11; Luke 7:39; 18:9-12]</crossref></v>
+			<marker class="begin-verse" mid="v19113006" />
+			<v n="6">
+				Who humbles 
+				<crossref let="g" cid="c191136.1" />
+				 Himself to beholdThe things that are in the heavens and in the earth?
+			<crossref let="l" cid="c19113006.2"> [Ps. 50:3 m Ps.]</crossref><crossref let="k" cid="c19113006.3"> [Deut. 32:34]</crossref></v>
+			<marker class="begin-verse" mid="v19113007" />
+			<v n="7">
+				He raises 
+				<crossref let="h" cid="c191137.1" />
+				 the poor out of the dust,And lifts the needy out of the ash heap,
+			<crossref let="n" cid="c19113007.2"> [Ex. 20:5 o Ezek. 18:6 p Is. 57:7; Ezek. 20:27,]</crossref></v>
+			<marker class="begin-verse" mid="v19113008" />
+			<v n="8">
+				That He 
+				<crossref let="i" cid="c191138.1" />
+				 may seat him with princes—With the princes of His people.
+			<crossref let="q" cid="c19113008.2"> [Joel 2:14 r Is. 1:9; Amos 9:8,]</crossref></v>
+			<marker class="begin-verse" mid="v19113009" />
+			<v n="9">
+				He grants 
+				<crossref let="j" cid="c191139.1" />
+				 the barren woman a home,Like a joyful mother of children.Praise the Lord!
+			<crossref let="s" cid="c19113009.2"> [Matt. 24:22]</crossref></v>
+			<marker class="begin-verse" mid="v19113010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

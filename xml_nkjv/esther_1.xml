@@ -1,0 +1,154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:07:31.742828</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:07:31.742866</next_refresh_due>
+	</generation_info>
+	<book title="Esther" num="17" testament="old" version="NKJV" bookAbbr="est">
+		<marker class="begin-verse" mid="v17001001" />
+		<chapter num="1">
+			<heading>The King Dethrones Queen Vashti</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now it 
+				<crossref let="b" cid="c170011.1" />
+				 came to pass in the days of Ahasuerus (this was the Ahasuerus who reigned over one hundred and twenty-seven provinces, from India to Ethiopia),
+			<crossref let="a" cid="c17001001.2"> [2 Sam. 1:11; Esth. 3:8-10; Jon. 3:5, 6 b Josh. 7:6; Ezek. 27:30]</crossref></v>
+			<marker class="begin-verse" mid="v17001002" />
+			<v n="2">
+				in those 
+				<crossref let="c" cid="c170012.1" />
+				 days when King Ahasuerus sat on the throne of his kingdom, which was in Shushan the citadel,
+			</v>
+			<marker class="begin-verse" mid="v17001003" />
+			<v n="3">
+				that in 
+				<crossref let="d" cid="c170013.1" />
+				 the third year of his reign he made a feast for all his officials and servants—the powers of Persia and Media, the nobles, and the princes of the provinces being before him—
+			</v>
+			<marker class="begin-verse" mid="v17001004" />
+			<v n="4">
+				when he 
+				<crossref let="e" cid="c170014.1" />
+				 showed the riches of his glorious kingdom and the splendor of his excellent majesty for many days, one hundred and eighty days in all.
+			</v>
+			<marker class="begin-verse" mid="v17001005" />
+			<v n="5">
+				And when 
+				<crossref let="f" cid="c170015.1" />
+				 these days were completed, the king made a feast lasting seven days for all the people who were present in Shushan the citadel, from great to small, in the court of the garden of the king’s palace.
+			</v>
+			<marker class="begin-verse" mid="v17001006" />
+			<v n="6">
+				There were 
+				<crossref let="g" cid="c170016.1" />
+				 white and blue linen curtains fastened with cords of fine linen and purple on silver rods and marble pillars; and the couches were of gold and silver on a mosaic pavement of alabaster, turquoise, and white and black marble.
+			</v>
+			<marker class="begin-verse" mid="v17001007" />
+			<v n="7">
+				And they 
+				<crossref let="h" cid="c170017.1" />
+				 served drinks in golden vessels, each vessel being different from the other, with royal wine in abundance, according to the generosity of the king.
+			<crossref let="d" cid="c17001007.2"> [Esth. 3:9]</crossref></v>
+			<marker class="begin-verse" mid="v17001008" />
+			<v n="8">
+				In accordance 
+				<crossref let="i" cid="c170018.1" />
+				 with the law, the drinking was not compulsory; for so the king had ordered all the officers of his household, that they should do according to each man’s pleasure.
+			<crossref let="e" cid="c17001008.2"> [Esth. 3:14,]</crossref></v>
+			<marker class="begin-verse" mid="v17001009" />
+			<v n="9">
+				Queen Vashti 
+				<crossref let="j" cid="c170019.1" />
+				 also made a feast for the women in the royal palace which belonged to King Ahasuerus.
+			</v>
+			<marker class="begin-verse" mid="v17001010" />
+			<v n="10">
+				On the 
+				<crossref let="k" cid="c1700110.1" />
+				 seventh day, when the heart of the king was merry with wine, he commanded Mehuman, Biztha, Harbona, Bigtha, Abagtha, Zethar, and Carcas, seven eunuchs who served in the presence of King Ahasuerus,
+			</v>
+			<marker class="begin-verse" mid="v17001011" />
+			<v n="11">
+				to bring 
+				<crossref let="l" cid="c1700111.1" />
+				 Queen Vashti before the king, wearing her royal crown, in order to show her beauty to the people and the officials, for she was beautiful to behold.
+			<crossref let="f" cid="c17001011.2"> [Esth. 5:1; 6:4]</crossref></v>
+			<marker class="begin-verse" mid="v17001012" />
+			<v n="12">
+				But Queen 
+				<crossref let="m" cid="c1700112.1" />
+				 Vashti refused to come at the king’s command brought by his eunuchs; therefore the king was furious, and his anger burned within him.
+			</v>
+			<marker class="begin-verse" mid="v17001013" />
+			<v n="13">
+				Then the 
+				<crossref let="n" cid="c1700113.1" />
+				 king said to the wise men who understood the times (for this was the king’s manner toward all who knew law and justice,
+			</v>
+			<marker class="begin-verse" mid="v17001014" />
+			<v n="14">
+				those closest 
+				<crossref let="o" cid="c1700114.1" />
+				 to him being Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, who had access to the king’s presence, and who ranked highest in the kingdom):
+			</v>
+			<marker class="begin-verse" mid="v17001015" />
+			<v n="15">
+				“What shall 
+				<crossref let="p" cid="c1700115.1" />
+				 we do to Queen Vashti, according to law, because she did not obey the command of King Ahasuerus brought to her by the eunuchs?”
+			</v>
+			<marker class="begin-verse" mid="v17001016" />
+			<v n="16">
+				And Memucan 
+				<crossref let="q" cid="c1700116.1" />
+				 answered before the king and the princes: “Queen Vashti has not only wronged the king, but also all the princes, and all the people who are in all the provinces of King Ahasuerus.
+			<crossref let="j" cid="c17001016.2"> [Esth. 5:1]</crossref><crossref let="k" cid="c17001016.3"> [Gen. 43:14]</crossref></v>
+			<marker class="begin-verse" mid="v17001017" />
+			<v n="17">
+				For the 
+				<crossref let="r" cid="c1700117.1" />
+				 queen’s behavior will become known to all women, so that they will despise their husbands in their eyes, when they report, ‘King Ahasuerus commanded Queen Vashti to be brought in before him, but she did not come.’
+			</v>
+			<marker class="begin-verse" mid="v17001018" />
+			<v n="18">
+				This very 
+				<crossref let="s" cid="c1700118.1" />
+				 day the noble ladies of Persia and Media will say to all the king’s officials that they have heard of the behavior of the queen. Thus there will be excessive contempt and wrath.
+			</v>
+			<marker class="begin-verse" mid="v17001019" />
+			<v n="19">
+				If it 
+				<crossref let="t" cid="c1700119.1" />
+				 pleases the king, let a royal decree go out from him, and let it be recorded in the laws of the Persians and the Medes, so that it will not be altered, that Vashti shall come no more before King Ahasuerus; and let the king give her royal position to another who is better than she.
+			</v>
+			<marker class="begin-verse" mid="v17001020" />
+			<v n="20">
+				When the 
+				<crossref let="u" cid="c1700120.1" />
+				 king’s decree which he will make is proclaimed throughout all his empire (for it is great), all wives will honor their husbands, both great and small.”
+			</v>
+			<marker class="begin-verse" mid="v17001021" />
+			<v n="21">
+				And the 
+				<crossref let="v" cid="c1700121.1" />
+				 reply pleased the king and the princes, and the king did according to the word of Memucan.
+			</v>
+			<marker class="begin-verse" mid="v17001022" />
+			<v n="22">
+				Then he 
+				<crossref let="w" cid="c1700122.1" />
+				 sent letters to all the king’s provinces, to each province in its own script, and to every people in their own language, that each man should be master in his own house, and speak in the language of his own people.
+			</v>
+			<marker class="begin-verse" mid="v17001023" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

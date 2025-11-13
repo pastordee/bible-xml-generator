@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:16:43.916859</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:16:43.916875</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19052001" />
+		<chapter num="52">
+			<heading>The End of the Wicked and the Peace of the GodlyTo the Chief Musician. A Contemplation of David when Doeg the Edomite went and told Saul, and said to him, “David has gone to the house of Ahimelech.”</heading>
+			<begin-paragraph />
+			<v n="1">
+				Why do 
+				<crossref let="b" cid="c190521.1" />
+				 you boast in evil, O mighty man?The goodness of God endures continually.
+			<crossref let="c" cid="c19052001.2"> [Luke 1:25]</crossref><crossref let="a" cid="c19052001.3"> [Is. 2:11, 17 destroyed by God (Gen. 19). Yet Judeans were parading their of Davids pain over his erring son Absalom (2 Sam. 18:33). (Mic. 6:1).]</crossref><crossref let="b" cid="c19052001.4"> [2 Thess. 3:12]</crossref></v>
+			<marker class="begin-verse" mid="v19052002" />
+			<v n="2">
+				Your tongue 
+				<crossref let="c" cid="c190522.1" />
+				 devises destruction,Like a sharp razor, working deceitfully.
+			<crossref let="d" cid="c19052002.2"> [Is. 12:1-6; [Jer. 23:5]; Zech. 3:8]</crossref></v>
+			<marker class="begin-verse" mid="v19052003" />
+			<v n="3">
+				You love 
+				<crossref let="d" cid="c190523.1" />
+				 evil more than good,Lying rather than speaking righteousness.Selah
+			<crossref let="e" cid="c19052003.2"> [Is. 60:21 f Phil.]</crossref></v>
+			<marker class="begin-verse" mid="v19052004" />
+			<v n="4">
+				You love 
+				<crossref let="e" cid="c190524.1" />
+				 all devouring words,You deceitful tongue.
+			<crossref let="g" cid="c19052004.2"> [Mal. 3:2,]</crossref></v>
+			<marker class="begin-verse" mid="v19052005" />
+			<v n="5">
+				God shall 
+				<crossref let="f" cid="c190525.1" />
+				 likewise destroy you forever;He shall take you away, and pluck you out of your dwelling place,And uproot you from the land of the living.Selah
+			<crossref let="h" cid="c19052005.2"> [Ex. 13:21, 22; Num. 9:15-]</crossref></v>
+			<marker class="begin-verse" mid="v19052006" />
+			<v n="6">
+				The righteous 
+				<crossref let="g" cid="c190526.1" />
+				 also shall see and fear,And shall laugh at him, saying,
+			<crossref let="j" cid="c19052006.2"> [Ps. 27:5; Is. 25:4]</crossref></v>
+			<marker class="begin-verse" mid="v19052007" />
+			<v n="7">
+				“Here is 
+				<crossref let="h" cid="c190527.1" />
+				 the man who did not make God his strength,But trusted in the abundance of his riches,And strengthened himself in his wickedness.”
+			</v>
+			<marker class="begin-verse" mid="v19052008" />
+			<v n="8">
+				But I 
+				<crossref let="i" cid="c190528.1" />
+				 am like a green olive tree in the house of God;I trust in the mercy of God forever and ever.
+			</v>
+			<marker class="begin-verse" mid="v19052009" />
+			<v n="9">
+				I will 
+				<crossref let="j" cid="c190529.1" />
+				 praise You forever,Because You have done it;And in the presence of Your saintsI will wait on Your name, for it is good.
+			</v>
+			<marker class="begin-verse" mid="v19052010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

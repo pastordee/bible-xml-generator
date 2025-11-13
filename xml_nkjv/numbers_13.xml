@@ -1,0 +1,220 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:40:51.375124</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:40:51.375133</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" version="NKJV" bookAbbr="num">
+		<marker class="begin-verse" mid="v04013001" />
+		<chapter num="13">
+			<heading>Spies Sent into Canaan</heading>
+			<begin-paragraph />
+			<v n="1">
+				And the 
+				<crossref let="b" cid="c040131.1" />
+				 Lord spoke to Moses, saying,
+			</v>
+			<marker class="begin-verse" mid="v04013002" />
+			<v n="2">
+				“Send men 
+				<crossref let="c" cid="c040132.1" />
+				 to spy out the land of Canaan, which I am giving to the children of Israel; from each tribe of their fathers you shall send a man, every one a leader among them.”
+			<crossref let="a" cid="c04013002.2"> [Num. 32:8; Deut. 1:22; 9:23]</crossref></v>
+			<marker class="begin-verse" mid="v04013003" />
+			<v n="3">
+				So Moses 
+				<crossref let="d" cid="c040133.1" />
+				 sent them from the Wilderness of Paran according to the command of the Lord, all of them men who were heads of the children of Israel.
+			<crossref let="b" cid="c04013003.2"> [Num. 12:16; 32:8; Deut. 1:19;]</crossref></v>
+			<marker class="begin-verse" mid="v04013004" />
+			<v n="4">
+				Now these 
+				<crossref let="e" cid="c040134.1" />
+				 were their names: from the tribe of Reuben, Shammua the son of Zaccur;
+			</v>
+			<marker class="begin-verse" mid="v04013005" />
+			<v n="5">
+				from the 
+				<crossref let="f" cid="c040135.1" />
+				 tribe of Simeon, Shaphat the son of Hori;
+			</v>
+			<marker class="begin-verse" mid="v04013006" />
+			<v n="6">
+				from the 
+				<crossref let="g" cid="c040136.1" />
+				 tribe of Judah, Caleb the son of Jephunneh;
+			<crossref let="c" cid="c04013006.2"> [Num. 34:19]</crossref><crossref let="d" cid="c04013006.3"> [Num. 14:6, 30; Josh. 14:6, 7; Judg. 1:12; 1 Chr. 4:15]</crossref></v>
+			<marker class="begin-verse" mid="v04013007" />
+			<v n="7">
+				from the 
+				<crossref let="h" cid="c040137.1" />
+				 tribe of Issachar, Igal the son of Joseph;
+			</v>
+			<marker class="begin-verse" mid="v04013008" />
+			<v n="8">
+				from the 
+				<crossref let="i" cid="c040138.1" />
+				 tribe of Ephraim, Hoshea the son of Nun;
+			</v>
+			<marker class="begin-verse" mid="v04013009" />
+			<v n="9">
+				from the 
+				<crossref let="j" cid="c040139.1" />
+				 tribe of Benjamin, Palti the son of Raphu;
+			</v>
+			<marker class="begin-verse" mid="v04013010" />
+			<v n="10">
+				from the 
+				<crossref let="k" cid="c0401310.1" />
+				 tribe of Zebulun, Gaddiel the son of Sodi;
+			</v>
+			<marker class="begin-verse" mid="v04013011" />
+			<v n="11">
+				from the 
+				<crossref let="l" cid="c0401311.1" />
+				 tribe of Joseph, that is, from the tribe of Manasseh, Gaddi the son of Susi;
+			</v>
+			<marker class="begin-verse" mid="v04013012" />
+			<v n="12">
+				from the 
+				<crossref let="m" cid="c0401312.1" />
+				 tribe of Dan, Ammiel the son of Gemalli;
+			</v>
+			<marker class="begin-verse" mid="v04013013" />
+			<v n="13">
+				from the 
+				<crossref let="n" cid="c0401313.1" />
+				 tribe of Asher, Sethur the son of Michael;
+			</v>
+			<marker class="begin-verse" mid="v04013014" />
+			<v n="14">
+				from the 
+				<crossref let="o" cid="c0401314.1" />
+				 tribe of Naphtali, Nahbi the son of Vophsi;
+			</v>
+			<marker class="begin-verse" mid="v04013015" />
+			<v n="15">
+				from the 
+				<crossref let="p" cid="c0401315.1" />
+				 tribe of Gad, Geuel the son of Machi.
+			</v>
+			<marker class="begin-verse" mid="v04013016" />
+			<v n="16">
+				These are 
+				<crossref let="q" cid="c0401316.1" />
+				 the names of the men whom Moses sent to spy out the land. And Moses called Hoshea the son of Nun, Joshua.
+			<crossref let="e" cid="c04013016.2"> [Ex. 17:9; Deut. 32:44]</crossref></v>
+			<marker class="begin-verse" mid="v04013017" />
+			<v n="17">
+				Then Moses 
+				<crossref let="r" cid="c0401317.1" />
+				 sent them to spy out the land of Canaan, and said to them, “Go up this way into the South, and go up to the mountains,
+			<crossref let="f" cid="c04013017.2"> [Judg. 1:9]</crossref></v>
+			<marker class="begin-verse" mid="v04013018" />
+			<v n="18">
+				and see 
+				<crossref let="s" cid="c0401318.1" />
+				 what the land is like: whether the people who dwell in it are strong or weak, few or many;
+			</v>
+			<marker class="begin-verse" mid="v04013019" />
+			<v n="19">
+				whether the 
+				<crossref let="t" cid="c0401319.1" />
+				 land they dwell in is good or bad; whether the cities they inhabit are like camps or strongholds;
+			</v>
+			<marker class="begin-verse" mid="v04013020" />
+			<v n="20">
+				whether the 
+				<crossref let="u" cid="c0401320.1" />
+				 land is rich or poor; and whether there are forests there or not. Be of good courage. And bring some of the fruit of the land.” Now the time was the season of the first ripe grapes.
+			<crossref let="g" cid="c04013020.2"> [Deut. 31:6,]</crossref></v>
+			<marker class="begin-verse" mid="v04013021" />
+			<v n="21">
+				So they 
+				<crossref let="v" cid="c0401321.1" />
+				 went up and spied out the land from the Wilderness of Zin as far as Rehob, near the entrance of Hamath.
+			<crossref let="j" cid="c04013021.2"> [Num. 34:8; Josh.]</crossref><crossref let="h" cid="c04013021.3"> [Num. 20:1; 27:14; 33:36; Josh. 15:1 i Josh. 19:28]</crossref></v>
+			<marker class="begin-verse" mid="v04013022" />
+			<v n="22">
+				And they 
+				<crossref let="w" cid="c0401322.1" />
+				 went up through the South and came to Hebron; Ahiman, Sheshai, and Talmai, the descendants of Anak, were there. (Now Hebron was built seven years before Zoan in Egypt.)
+			<crossref let="l" cid="c04013022.2"> [Josh. 11:21,]</crossref><crossref let="k" cid="c04013022.3"> [Josh. 15:13, 14; Judg. 1:10]</crossref></v>
+			<marker class="begin-verse" mid="v04013023" />
+			<v n="23">
+				Then they 
+				<crossref let="x" cid="c0401323.1" />
+				 came to the Valley of Eshcol, and there cut down a branch with one cluster of grapes; they carried it between two of them on a pole. They also brought some of the pomegranates and figs.
+			<crossref let="m" cid="c04013023.2"> [Gen. 14:13; Num. 13:24; 32:9; Deut. 1:24, 25 (see Mic. 6:4). 13:2 According to Deut. 1:21–23, the sending of men to spy]</crossref></v>
+			<marker class="begin-verse" mid="v04013024" />
+			<v n="24">
+				The place 
+				<crossref let="y" cid="c0401324.1" />
+				 was called the Valley of Eshcol, because of the cluster which the men of Israel cut down there.
+			</v>
+			<marker class="begin-verse" mid="v04013025" />
+			<v n="25">
+				And they 
+				<crossref let="z" cid="c0401325.1" />
+				 returned from spying out the land after forty days.
+			</v>
+			<marker class="begin-verse" mid="v04013026" />
+			<v n="26">
+				Now they 
+				<crossref let="a" cid="c0401326.1" />
+				 departed and came back to Moses and Aaron and all the congregation of the children of Israel in the Wilderness of Paran, at Kadesh; they brought back word to them and to all the congregation, and showed them the fruit of the land.
+			<crossref let="n" cid="c04013026.2"> [Num. 20:1, 16; 32:8; 33:36; Deut. 1:19; Josh. 14:6]</crossref></v>
+			<marker class="begin-verse" mid="v04013027" />
+			<v n="27">
+				Then they 
+				<crossref let="b" cid="c0401327.1" />
+				 told him, and said: “We went to the land where you sent us. It truly flows with milk and honey, and this is its fruit.
+			<crossref let="o" cid="c04013027.2"> [Ex. 3:8, 17; 13:5; 33:3 p Deut.]</crossref></v>
+			<marker class="begin-verse" mid="v04013028" />
+			<v n="28">
+				Nevertheless the 
+				<crossref let="c" cid="c0401328.1" />
+				 people who dwell in the land are strong; the cities are fortified and very large; moreover we saw the descendants of Anak there.
+			<crossref let="q" cid="c04013028.2"> [Deut. 1:28; 9:1, 2 r Josh.]</crossref></v>
+			<marker class="begin-verse" mid="v04013029" />
+			<v n="29">
+				The Amalekites 
+				<crossref let="d" cid="c0401329.1" />
+				 dwell in the land of the South; the Hittites, the Jebusites, and the Amorites dwell in the mountains; and the Canaanites dwell by the sea and along the banks of the Jordan.”
+			<crossref let="s" cid="c04013029.2"> [Ex. 17:8; Judg. 6:3]</crossref></v>
+			<marker class="begin-verse" mid="v04013030" />
+			<v n="30">
+				Then Caleb 
+				<crossref let="e" cid="c0401330.1" />
+				 quieted the people before Moses, and said, “Let us go up at once and take possession, for we are well able to overcome it.”
+			<crossref let="t" cid="c04013030.2"> [Num. 14:6,]</crossref></v>
+			<marker class="begin-verse" mid="v04013031" />
+			<v n="31">
+				But the 
+				<crossref let="f" cid="c0401331.1" />
+				 men who had gone up with him said, “We are not able to go up against the people, for they are stronger than we.”
+			<crossref let="u" cid="c04013031.2"> [Num. 32:9; Deut. 1:28; 9:1-3; Josh. 14:8]</crossref></v>
+			<marker class="begin-verse" mid="v04013032" />
+			<v n="32">
+				And they 
+				<crossref let="g" cid="c0401332.1" />
+				 gave the children of Israel a bad report of the land which they had spied out, saying, “The land through which we have gone as spies is a land that devours its inhabitants, and all the people whom we saw in it are men of great stature.
+			<crossref let="w" cid="c04013032.2"> [Amos 2:9]</crossref><crossref let="v" cid="c04013032.3"> [Num. 14:36, 37; Ps. 106:24]</crossref></v>
+			<marker class="begin-verse" mid="v04013033" />
+			<v n="33">
+				There we 
+				<crossref let="h" cid="c0401333.1" />
+				 saw the giants (the descendants of Anak came from the giants); and we were like grasshoppers in our own sight, and so we were in their sight.”
+			<crossref let="x" cid="c04013033.2"> [Deut. 1:28; 9:2; Josh. 11:21]</crossref><crossref let="y" cid="c04013033.3"> [Is. 40:22 z]</crossref></v>
+			<marker class="begin-verse" mid="v04013034" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

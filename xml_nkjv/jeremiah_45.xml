@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:40:01.679537</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:40:01.679545</next_refresh_due>
+	</generation_info>
+	<book title="Jeremiah" num="24" testament="old" version="NKJV" bookAbbr="jer">
+		<marker class="begin-verse" mid="v24045001" />
+		<chapter num="45">
+			<heading>Assurance to Baruch</heading>
+			<begin-paragraph />
+			<v n="1">
+				The word 
+				<crossref let="b" cid="c240451.1" />
+				 that Jeremiah the prophet spoke to Baruch the son of Neriah, when he had written these words in a book at the instruction of Jeremiah, in the fourth year of Jehoiakim the son of Josiah, king of Judah, saying,
+			<crossref let="a" cid="c24045001.2"> [Matt. 17:1-8; Mark 9:2-8; Luke]</crossref></v>
+			<marker class="begin-verse" mid="v24045002" />
+			<v n="2">
+				“Thus says 
+				<crossref let="c" cid="c240452.1" />
+				 the Lord, the God of Israel, to you, O Baruch:
+			</v>
+			<marker class="begin-verse" mid="v24045003" />
+			<v n="3">
+				‘You said, 
+				<crossref let="d" cid="c240453.1" />
+				 “Woe is me now! For the Lord has added grief to my sorrow. I fainted in my sighing, and I find no rest.” ’
+			</v>
+			<marker class="begin-verse" mid="v24045004" />
+			<v n="4">
+				“Thus you 
+				<crossref let="e" cid="c240454.1" />
+				 shall say to him, ‘Thus says the Lord: “Behold, what I have built I will break down, and what I have planted I will pluck up, that is, this whole land.
+			</v>
+			<marker class="begin-verse" mid="v24045005" />
+			<v n="5">
+				And do 
+				<crossref let="f" cid="c240455.1" />
+				 you seek great things for yourself? Do not seek them; for behold, I will bring adversity on all flesh,” says the Lord. “But I will give your life to you as a prize in all places, wherever you go.” ’ ”
+			<crossref let="c" cid="c24045005.2"> [Ps. 2:7; Matt. 3:17; Mark 1:11; Luke 1:35; 3:22; [John 12:28-30]]</crossref><crossref let="d" cid="c24045005.3"> [Is. 42:1; Matt. 3:17; 12:18; 2 Pet. 1:17 e [Deut. 18:15, 19; Acts 3:22, 23] 6 f 2 Pet. 1:18 10 h Mal. 4:5; Matt. 11:14; 16:14; Mark 9:11]</crossref><crossref let="b" cid="c24045005.4"> [2 Pet. 1:17 #]</crossref></v>
+			<marker class="begin-verse" mid="v24045006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

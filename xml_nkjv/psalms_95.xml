@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:20:34.947774</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:20:34.947786</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19095001" />
+		<chapter num="95">
+			<heading>A Call to Worship and Obedience</heading>
+			<begin-paragraph />
+			<v n="1">
+				Oh come, 
+				<crossref let="b" cid="c190951.1" />
+				 let us sing to the Lord!Let us shout joyfully to the Rock of our salvation.
+			<crossref let="a" cid="c19095001.2"> [Jer. 48:18]</crossref></v>
+			<marker class="begin-verse" mid="v19095002" />
+			<v n="2">
+				Let us 
+				<crossref let="c" cid="c190952.1" />
+				 come before His presence with thanksgiving;Let us shout joyfully to Him with psalms.
+			<crossref let="d" cid="c19095002.2"> [Ex. 11:5; Jer.]</crossref></v>
+			<marker class="begin-verse" mid="v19095003" />
+			<v n="3">
+				For the 
+				<crossref let="d" cid="c190953.1" />
+				 Lord is the great God,And the great King above all gods.
+			<crossref let="e" cid="c19095003.2"> [Is. 3:17; 20:4 f [Rom. 12:19]]</crossref></v>
+			<marker class="begin-verse" mid="v19095004" />
+			<v n="4">
+				In His 
+				<crossref let="e" cid="c190954.1" />
+				 hand are the deep places of the earth;The heights of the hills are His also.
+			<crossref let="g" cid="c19095004.2"> [Jer. 50:34]</crossref></v>
+			<marker class="begin-verse" mid="v19095005" />
+			<v n="5">
+				The sea 
+				<crossref let="f" cid="c190955.1" />
+				 is His, for He made it;And His hands formed the dry land.
+			<crossref let="h" cid="c19095005.2"> [1 Sam. 2:9 i Is. 13:19; [Dan. 2:37]; Rev. 17:18]</crossref></v>
+			<marker class="begin-verse" mid="v19095006" />
+			<v n="6">
+				Oh come, 
+				<crossref let="g" cid="c190956.1" />
+				 let us worship and bow down;Let us kneel before the Lord our Maker.
+			<crossref let="j" cid="c19095006.2"> [2 Sam. 24:14]</crossref><crossref let="k" cid="c19095006.3"> [Is. 43:28 l Deut.]</crossref></v>
+			<marker class="begin-verse" mid="v19095007" />
+			<v n="7">
+				For He 
+				<crossref let="h" cid="c190957.1" />
+				 is our God,And we are the people of His pasture,And the sheep of His hand.Today, if you will hear His voice:
+			<crossref let="m" cid="c19095007.2"> [Rev. 18:7]</crossref><crossref let="o" cid="c19095007.3"> [Deut. 32:29; Jer. 5:31; Ezek. 7:2,]</crossref><crossref let="n" cid="c19095007.4"> [Is. 42:25; 46:8]</crossref></v>
+			<marker class="begin-verse" mid="v19095008" />
+			<v n="8">
+				“Do not 
+				<crossref let="i" cid="c190958.1" />
+				 harden your hearts, as in the rebellion,As in the day of trial in the wilderness,
+			</v>
+			<marker class="begin-verse" mid="v19095009" />
+			<v n="9">
+				When your 
+				<crossref let="j" cid="c190959.1" />
+				 fathers tested Me;They tried Me, though they saw My work.
+			<crossref let="p" cid="c19095009.2"> [Ps. 73:19; 1 Thess. 5:3; Rev.]</crossref></v>
+			<marker class="begin-verse" mid="v19095010" />
+			<v n="10">
+				For forty 
+				<crossref let="k" cid="c1909510.1" />
+				 years I was grieved with that generation,And said, ‘It is a people who go astray in their hearts,And they do not know My ways.’
+			<crossref let="r" cid="c19095010.2"> [Is. 13:6; Jer. 51:8, 43; Luke 17:27; 1 Thess. 5:3 s Is.]</crossref><crossref let="q" cid="c19095010.3"> [Is. 29:15; Ezek. 8:12; 9:9]</crossref></v>
+			<marker class="begin-verse" mid="v19095011" />
+			<v n="11">
+				So I 
+				<crossref let="l" cid="c1909511.1" />
+				 swore in My wrath,‘They shall not enter My rest.’ ”
+			</v>
+			<marker class="begin-verse" mid="v19095012" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

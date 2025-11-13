@@ -1,0 +1,189 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:26:33.563654</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:26:33.563680</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" version="NKJV" bookAbbr="pro">
+		<marker class="begin-verse" mid="v20012001" />
+		<chapter num="12">
+			<begin-paragraph />
+			<v n="1">
+				Whoever loves 
+				<crossref let="b" cid="c200121.1" />
+				 instruction loves knowledge,But he who hates correction is stupid.
+			<crossref let="a" cid="c20012001.2"> [Is. 15:1–16:14; 25:10; Ezek. 25:8-11; Amos 2:1-3; Zeph. 2:8-11]</crossref><crossref let="b" cid="c20012001.3"> [Is. 15:2 c Num. 32:37; Jer. 48:23; Ezek. 25:9]</crossref></v>
+			<marker class="begin-verse" mid="v20012002" />
+			<v n="2">
+				A good 
+				<crossref let="c" cid="c200122.1" />
+				 man obtains favor from the Lord,But a man of wicked intentions He will condemn.
+			<crossref let="d" cid="c20012002.2"> [Is. 16:14 e Is. 15:4; Jer. 49:3 f Is.]</crossref></v>
+			<marker class="begin-verse" mid="v20012003" />
+			<v n="3">
+				A man 
+				<crossref let="d" cid="c200123.1" />
+				 is not established by wickedness,But the root of the righteous cannot be moved.
+			<crossref let="g" cid="c20012003.2"> [Is. 15:5; Jer.]</crossref></v>
+			<marker class="begin-verse" mid="v20012004" />
+			<v n="4">
+				An excellent 
+				<crossref let="e" cid="c200124.1" />
+				 wife is the crown of her husband,But she who causes shame is like rottenness in his bones.
+			</v>
+			<marker class="begin-verse" mid="v20012005" />
+			<v n="5">
+				The thoughts 
+				<crossref let="f" cid="c200125.1" />
+				 of the righteous are right,But the counsels of the wicked are deceitful.
+			<crossref let="h" cid="c20012005.2"> [Is. 15:5]</crossref></v>
+			<marker class="begin-verse" mid="v20012006" />
+			<v n="6">
+				The words 
+				<crossref let="g" cid="c200126.1" />
+				 of the wicked are, “Lie in wait for blood,”But the mouth of the upright will deliver them.
+			<crossref let="i" cid="c20012006.2"> [Jer. 17:6]</crossref></v>
+			<marker class="begin-verse" mid="v20012007" />
+			<v n="7">
+				The wicked 
+				<crossref let="h" cid="c200127.1" />
+				 are overthrown and are no more,But the house of the righteous will stand.
+			<crossref let="j" cid="c20012007.2"> [Ps. 52:7; Is. 59:4; Jer. 9:23; [1 Tim. 6:17] k Num. 21:29; Judg. 11:24; Jer. 48:13 l Jer. 49:3]</crossref></v>
+			<marker class="begin-verse" mid="v20012008" />
+			<v n="8">
+				A man 
+				<crossref let="i" cid="c200128.1" />
+				 will be commended according to his wisdom,But he who is of a perverse heart will be despised.
+			<crossref let="m" cid="c20012008.2"> [Jer. 6:26]</crossref></v>
+			<marker class="begin-verse" mid="v20012009" />
+			<v n="9">
+				Better is 
+				<crossref let="j" cid="c200129.1" />
+				 the one who is slighted but has a servant,Than he who honors himself but lacks bread.
+			<crossref let="n" cid="c20012009.2"> [Ps. 55:6]</crossref></v>
+			<marker class="begin-verse" mid="v20012010" />
+			<v n="10">
+				A righteous 
+				<crossref let="k" cid="c2001210.1" />
+				 man regards the life of his animal,But the tender mercies of the wicked are cruel.
+			<crossref let="o" cid="c20012010.2"> [Judg. 5:23;]</crossref></v>
+			<marker class="begin-verse" mid="v20012011" />
+			<v n="11">
+				He who 
+				<crossref let="l" cid="c2001211.1" />
+				 tills his land will be satisfied with bread,But he who follows frivolity is devoid of understanding.
+			<crossref let="p" cid="c20012011.2"> [Zeph. 1:12]</crossref></v>
+			<marker class="begin-verse" mid="v20012012" />
+			<v n="12">
+				The wicked 
+				<crossref let="m" cid="c2001212.1" />
+				 covet the catch of evil men,But the root of the righteous yields fruit.
+			</v>
+			<marker class="begin-verse" mid="v20012013" />
+			<v n="13">
+				The wicked 
+				<crossref let="n" cid="c2001213.1" />
+				 is ensnared by the transgression of his lips,But the righteous will come through trouble.
+			<crossref let="r" cid="c20012013.2"> [Hos. 10:6 s 1 Kin. Hos. 8:5,]</crossref><crossref let="q" cid="c20012013.3"> [1 Kin. 11:7]</crossref></v>
+			<marker class="begin-verse" mid="v20012014" />
+			<v n="14">
+				A man 
+				<crossref let="o" cid="c2001214.1" />
+				 will be satisfied with good by the fruit of his mouth,And the recompense of a man’s hands will be rendered to him.
+			<crossref let="t" cid="c20012014.2"> [Is. 16:6]</crossref></v>
+			<marker class="begin-verse" mid="v20012015" />
+			<v n="15">
+				The way 
+				<crossref let="p" cid="c2001215.1" />
+				 of a fool is right in his own eyes,But he who heeds counsel is wise.
+			<crossref let="u" cid="c20012015.2"> [[Is. 40:30, 31]; Jer. 50:27 v Jer. 46:18; 51:57; Mal.]</crossref></v>
+			<marker class="begin-verse" mid="v20012016" />
+			<v n="16">
+				A fool’s 
+				<crossref let="q" cid="c2001216.1" />
+				 wrath is known at once,But a prudent man covers shame.
+			</v>
+			<marker class="begin-verse" mid="v20012017" />
+			<v n="17">
+				He who 
+				<crossref let="r" cid="c2001217.1" />
+				 speaks truth declares righteousness,But a false witness, deceit.
+			<crossref let="w" cid="c20012017.2"> [Is. 9:4; 14:4,]</crossref></v>
+			<marker class="begin-verse" mid="v20012018" />
+			<v n="18">
+				There is 
+				<crossref let="s" cid="c2001218.1" />
+				 one who speaks like the piercings of a sword,But the tongue of the wise promotes health.
+			<crossref let="x" cid="c20012018.2"> [Is. 47:1 y Num. 21:30; Josh. 13:9, 17; Is. 15:2; Jer. with Israel (Amos 3:14). (see 2 Kin. 3:4–27). The haughty Moab was shamed by the de-]</crossref></v>
+			<marker class="begin-verse" mid="v20012019" />
+			<v n="19">
+				The truthful 
+				<crossref let="t" cid="c2001219.1" />
+				 lip shall be established forever,But a lying tongue is but for a moment.
+			<crossref let="z" cid="c20012019.2"> [Deut. 2:36; Josh. 12:2; Is. 17:2 a]</crossref></v>
+			<marker class="begin-verse" mid="v20012020" />
+			<v n="20">
+				Deceit is 
+				<crossref let="u" cid="c2001220.1" />
+				 in the heart of those who devise evil,But counselors of peace have joy.
+			<crossref let="b" cid="c20012020.2"> [Is. 16:7 c Num.]</crossref></v>
+			<marker class="begin-verse" mid="v20012021" />
+			<v n="21">
+				No grave 
+				<crossref let="v" cid="c2001221.1" />
+				 trouble will overtake the righteous,But the wicked shall be filled with evil.
+			</v>
+			<marker class="begin-verse" mid="v20012022" />
+			<v n="22">
+				Lying lips 
+				<crossref let="w" cid="c2001222.1" />
+				 are an abomination to the Lord,But those who deal truthfully are His delight.
+			</v>
+			<marker class="begin-verse" mid="v20012023" />
+			<v n="23">
+				A prudent 
+				<crossref let="x" cid="c2001223.1" />
+				 man conceals knowledge,But the heart of fools proclaims foolishness.
+			</v>
+			<marker class="begin-verse" mid="v20012024" />
+			<v n="24">
+				The hand 
+				<crossref let="y" cid="c2001224.1" />
+				 of the diligent will rule,But the lazy man will be put to forced labor.
+			<crossref let="d" cid="c20012024.2"> [Jer. 48:41; Amos 2:2]</crossref></v>
+			<marker class="begin-verse" mid="v20012025" />
+			<v n="25">
+				Anxiety in 
+				<crossref let="z" cid="c2001225.1" />
+				 the heart of man causes depression,But a good word makes it glad.
+			<crossref let="f" cid="c20012025.2"> [Ezek. 30:21]</crossref><crossref let="e" cid="c20012025.3"> [Ps. 75:10; Zech. 1:19-21]</crossref></v>
+			<marker class="begin-verse" mid="v20012026" />
+			<v n="26">
+				The righteous 
+				<crossref let="a" cid="c2001226.1" />
+				 should choose his friends carefully,For the way of the wicked leads them astray.
+			<crossref let="g" cid="c20012026.2"> [Jer. 25:15]</crossref></v>
+			<marker class="begin-verse" mid="v20012027" />
+			<v n="27">
+				The lazy 
+				<crossref let="b" cid="c2001227.1" />
+				 man does not roast what he took in hunting,But diligence is man’s precious possession.
+			<crossref let="h" cid="c20012027.2"> [Zeph. 2:8 i Jer. 2:26 j Lam. 2:15; [Mic. 7:8-10]]</crossref></v>
+			<marker class="begin-verse" mid="v20012028" />
+			<v n="28">
+				In the 
+				<crossref let="c" cid="c2001228.1" />
+				 way of righteousness is life,And in its pathway there is no death.
+			<crossref let="l" cid="c20012028.2"> [Song 2:14]</crossref><crossref let="k" cid="c20012028.3"> [Ps. 55:6,]</crossref></v>
+			<marker class="begin-verse" mid="v20012029" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

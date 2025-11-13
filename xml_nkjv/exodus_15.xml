@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:35:00.736205</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:35:00.736213</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" version="NKJV" bookAbbr="exo">
+		<marker class="begin-verse" mid="v02015001" />
+		<chapter num="15">
+			<heading>The Song of Moses</heading>
+			<begin-paragraph />
+			<v n="1">
+				Then Moses 
+				<crossref let="b" cid="c020151.1" />
+				 and the children of Israel sang this song to the Lord, and spoke, saying:“I will sing to the Lord,For He has triumphed gloriously!The horse and its riderHe has thrown into the sea!
+			<crossref let="a" cid="c02015001.2"> [Ps. 106:12; Rev. 15:3 b Is. 12:1-6]</crossref></v>
+			<marker class="begin-verse" mid="v02015002" />
+			<v n="2">
+				The Lord 
+				<crossref let="c" cid="c020152.1" />
+				 is my strength and song,And He has become my salvation;He is my God, and I will praise Him;My father’s God, and I will exalt Him.
+			<crossref let="c" cid="c02015002.2"> [Ps. 18:1, 2; Is. 12:2; Hab. 3:18,]</crossref></v>
+			<marker class="begin-verse" mid="v02015003" />
+			<v n="3">
+				The Lord 
+				<crossref let="d" cid="c020153.1" />
+				 is a man of war;The Lord is His name.
+			</v>
+			<marker class="begin-verse" mid="v02015004" />
+			<v n="4">
+				Pharaoh’s chariots 
+				<crossref let="e" cid="c020154.1" />
+				 and his army He has cast into the sea;His chosen captains also are drowned in the Red Sea.
+			<crossref let="i" cid="c02015004.2"> [Ex. 14:28 j Ex.]</crossref></v>
+			<marker class="begin-verse" mid="v02015005" />
+			<v n="5">
+				The depths 
+				<crossref let="f" cid="c020155.1" />
+				 have covered them;They sank to the bottom like a stone.
+			<crossref let="k" cid="c02015005.2"> [Ex. 15:10; Neh.]</crossref></v>
+			<marker class="begin-verse" mid="v02015006" />
+			<v n="6">
+				“Your right 
+				<crossref let="g" cid="c020156.1" />
+				 hand, O Lord, has become glorious in power;Your right hand, O Lord, has dashed the enemy in pieces.
+			<crossref let="l" cid="c02015006.2"> [Ex. 3:20; Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v02015007" />
+			<v n="7">
+				And in 
+				<crossref let="h" cid="c020157.1" />
+				 the greatness of Your excellenceYou have overthrown those who rose against You;You sent forth Your wrath;It consumed them like stubble.
+			<crossref let="m" cid="c02015007.2"> [Deut. 33:26]</crossref><crossref let="o" cid="c02015007.3"> [Ps. 59:13 p Deut. 4:24; Is. 5:24; Heb.]</crossref><crossref let="n" cid="c02015007.4"> [Ps. 78:49,]</crossref></v>
+			<marker class="begin-verse" mid="v02015008" />
+			<v n="8">
+				And with 
+				<crossref let="i" cid="c020158.1" />
+				 the blast of Your nostrilsThe waters were gathered together;The floods stood upright like a heap;The depths congealed in the heart of the sea.
+			<crossref let="q" cid="c02015008.2"> [Ex. 14:21, 22,]</crossref></v>
+			<marker class="begin-verse" mid="v02015009" />
+			<v n="9">
+				The enemy 
+				<crossref let="j" cid="c020159.1" />
+				 said, ‘I will pursue,I will overtake,I will divide the spoil;My desire shall be satisfied on them.I will draw my sword,My hand shall destroy them.’
+			<crossref let="s" cid="c02015009.2"> [Judg. 5:30 t Is.]</crossref></v>
+			<marker class="begin-verse" mid="v02015010" />
+			<v n="10">
+				You blew 
+				<crossref let="k" cid="c0201510.1" />
+				 with Your wind,The sea covered them;They sank like lead in the mighty waters.
+			</v>
+			<marker class="begin-verse" mid="v02015011" />
+			<v n="11">
+				“Who is 
+				<crossref let="l" cid="c0201511.1" />
+				 like You, O Lord, among the gods?Who is like You, glorious in holiness,Fearful in praises, doing wonders?
+			<crossref let="u" cid="c02015011.2"> [Ex. 8:10; 9:14; Deut. 3:24;]</crossref><crossref let="v" cid="c02015011.3"> [Ps. 68:35; Is. 6:3; Rev. 4:8 w 1 Chr. 16:25 x Ex. 3:20; Ps. 77:11,]</crossref></v>
+			<marker class="begin-verse" mid="v02015012" />
+			<v n="12">
+				You stretched 
+				<crossref let="m" cid="c0201512.1" />
+				 out Your right hand;The earth swallowed them.
+			</v>
+			<marker class="begin-verse" mid="v02015013" />
+			<v n="13">
+				You in 
+				<crossref let="n" cid="c0201513.1" />
+				 Your mercy have led forthThe people whom You have redeemed;You have guided them in Your strengthTo Your holy habitation.
+			<crossref let="y" cid="c02015013.2"> [Neh. 9:12; [Ps. 77:20] z Ex. 15:17; Deut. 12:5; Ps. 78:54]</crossref></v>
+			<marker class="begin-verse" mid="v02015014" />
+			<v n="14">
+				“The people 
+				<crossref let="o" cid="c0201514.1" />
+				 will hear and be afraid;Sorrow will take hold of the inhabitants of Philistia.
+			<crossref let="a" cid="c02015014.2"> [Josh. 2:9 b Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v02015015" />
+			<v n="15">
+				Then the 
+				<crossref let="p" cid="c0201515.1" />
+				 chiefs of Edom will be dismayed;The mighty men of Moab,Trembling will take hold of them;All the inhabitants of Canaan will melt away.
+			<crossref let="c" cid="c02015015.2"> [Gen. 36:15,]</crossref><crossref let="g" cid="c02015015.3"> [Josh. 2:9-11,]</crossref><crossref let="d" cid="c02015015.4"> [Deut. 2:4 e Num. 22:3, 4 f Josh. 5:1]</crossref></v>
+			<marker class="begin-verse" mid="v02015016" />
+			<v n="16">
+				Fear and 
+				<crossref let="q" cid="c0201516.1" />
+				 dread will fall on them;By the greatness of Your armThey will be as still as a stone,Till Your people pass over, O Lord,Till the people pass overWhom You have purchased.
+			<crossref let="j" cid="c02015016.2"> [Ex. 15:13; Ps. 74:2; Is. 43:1; Jer. 31:11; [Titus 2:14]; 2 Pet. 2:1]</crossref><crossref let="h" cid="c02015016.3"> [Ex. 23:27; Deut. 2:25; Josh. 2:9 i]</crossref></v>
+			<marker class="begin-verse" mid="v02015017" />
+			<v n="17">
+				You will 
+				<crossref let="r" cid="c0201517.1" />
+				 bring them in and plant themIn the mountain of Your inheritance,In the place, O Lord, which You have madeFor Your own dwelling,The sanctuary, O Lord, which Your hands have established.
+			<crossref let="m" cid="c02015017.2"> [Ps. 68:16;]</crossref><crossref let="k" cid="c02015017.3"> [Ps. 44:2; 80:8,]</crossref></v>
+			<marker class="begin-verse" mid="v02015018" />
+			<v n="18">
+				“TheLord shall 
+				<crossref let="s" cid="c0201518.1" />
+				 reign forever and ever.”
+			<crossref let="n" cid="c02015018.2"> [2 Sam. 7:16; Ps. 10:16; 29:10; Is. 57:15]</crossref></v>
+			<marker class="begin-verse" mid="v02015019" />
+			<v n="19">
+				For the 
+				<crossref let="t" cid="c0201519.1" />
+				 horses of Pharaoh went with his chariots and his horsemen into the sea, and the Lord brought back the waters of the sea upon them. But the children of Israel went on dry land in the midst of the sea.The Song of Miriam
+			<crossref let="o" cid="c02015019.2"> [Ex. 14:23]</crossref><crossref let="p" cid="c02015019.3"> [Ex. 14:28]</crossref><crossref let="d" cid="c02015019.4"> [Gen. 28:21,]</crossref></v>
+			<marker class="begin-verse" mid="v02015020" />
+			<v n="20">
+				Then Miriam 
+				<crossref let="u" cid="c0201520.1" />
+				 the prophetess, the sister of Aaron, took the timbrel in her hand; and all the women went out after her with timbrels and with dances.
+			<crossref let="q" cid="c02015020.2"> [Judg. 4:4 r Ex. 2:4; Num. 26:59; 1 Chr. 6:3; Mic. 6:4 s]</crossref></v>
+			<marker class="begin-verse" mid="v02015021" />
+			<v n="21">
+				And Miriam 
+				<crossref let="v" cid="c0201521.1" />
+				 answered them:“Sing to the Lord,For He has triumphed gloriously!The horse and its riderHe has thrown into the sea!”Bitter Waters Made Sweet
+			<crossref let="u" cid="c02015021.2"> [1 Sam. 18:7]</crossref><crossref let="v" cid="c02015021.3"> [Ex. 15:1]</crossref></v>
+			<marker class="begin-verse" mid="v02015022" />
+			<v n="22">
+				So Moses 
+				<crossref let="w" cid="c0201522.1" />
+				 brought Israel from the Red Sea; then they went out into the Wilderness of Shur. And they went three days in the wilderness and found no water.
+			<crossref let="e" cid="c02015022.2"> [Ex. 3:6, 15, 16 f]</crossref><crossref let="w" cid="c02015022.3"> [Gen. 16:7; 20:1; 25:18; Num. 33:8 x Ex. 17:1; Num. 20:2]</crossref></v>
+			<marker class="begin-verse" mid="v02015023" />
+			<v n="23">
+				Now when 
+				<crossref let="x" cid="c0201523.1" />
+				 they came to Marah, they could not drink the waters of Marah, for they were bitter. Therefore the name of it was called Marah.
+			<crossref let="y" cid="c02015023.2"> [Num. 33:8;]</crossref></v>
+			<marker class="begin-verse" mid="v02015024" />
+			<v n="24">
+				And the 
+				<crossref let="y" cid="c0201524.1" />
+				 people complained against Moses, saying, “What shall we drink?”
+			<crossref let="z" cid="c02015024.2"> [Ex. 14:11; 16:2; Ps. 106:13]</crossref></v>
+			<marker class="begin-verse" mid="v02015025" />
+			<v n="25">
+				So he 
+				<crossref let="z" cid="c0201525.1" />
+				 cried out to the Lord, and the Lord showed him a tree. When he cast it into the waters, the waters were made sweet.There He made a statute and an ordinance for them, and there He tested them,
+			<crossref let="a" cid="c02015025.2"> [2 Kin. 2:21]</crossref><crossref let="b" cid="c02015025.3"> [Josh. 24:25 c Ex. 16:4; Deut. 8:2, 16; Judg. 2:22; 3:1, 4; Ps. 66:10]</crossref></v>
+			<marker class="begin-verse" mid="v02015026" />
+			<v n="26">
+				and said, 
+				<crossref let="a" cid="c0201526.1" />
+				 “If you diligently heed the voice of the Lord your God and do what is right in His sight, give ear to His commandments and keep all His statutes, I will put none of the diseases on you which I have brought on the Egyptians. For I am the Lord who heals you.”
+			<crossref let="e" cid="c02015026.2"> [Deut. 28:27, 58,]</crossref><crossref let="d" cid="c02015026.3"> [Ex. 19:5, 6; Deut. 7:12,]</crossref></v>
+			<marker class="begin-verse" mid="v02015027" />
+			<v n="27">
+				Then they 
+				<crossref let="b" cid="c0201527.1" />
+				 came to Elim, where there were twelve wells of water and seventy palm trees; so they camped there by the waters.
+			<crossref let="g" cid="c02015027.2"> [Num. 33:9]</crossref></v>
+			<marker class="begin-verse" mid="v02015028" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

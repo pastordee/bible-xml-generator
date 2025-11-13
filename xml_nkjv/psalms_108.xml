@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:21:44.747986</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:21:44.748002</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19108001" />
+		<chapter num="108">
+			<heading>Assurance of God’s Victory over EnemiesA Song. A Psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				O God, 
+				<crossref let="b" cid="c191081.1" />
+				 my heart is steadfast;I will sing and give praise, even with my glory.
+			<crossref let="a" cid="c19108001.2"> [Eph. 5:14]</crossref><crossref let="b" cid="c19108001.3"> [Mal. 4:2]</crossref></v>
+			<marker class="begin-verse" mid="v19108002" />
+			<v n="2">
+				Awake, lute 
+				<crossref let="c" cid="c191082.1" />
+				 and harp!I will awaken the dawn.
+			</v>
+			<marker class="begin-verse" mid="v19108003" />
+			<v n="3">
+				I will 
+				<crossref let="d" cid="c191083.1" />
+				 praise You, O Lord, among the peoples,And I will sing praises to You among the nations.
+			<crossref let="c" cid="c19108003.2"> [Is. 49:6, 23; Rev.]</crossref></v>
+			<marker class="begin-verse" mid="v19108004" />
+			<v n="4">
+				For Your 
+				<crossref let="e" cid="c191084.1" />
+				 mercy is great above the heavens,And Your truth reaches to the clouds.
+			<crossref let="d" cid="c19108004.2"> [Is. 49:18 e Is.]</crossref></v>
+			<marker class="begin-verse" mid="v19108005" />
+			<v n="5">
+				Be exalted, 
+				<crossref let="f" cid="c191085.1" />
+				 O God, above the heavens,And Your glory above all the earth;
+			<crossref let="f" cid="c19108005.2"> [[Rom. 11:25-27]]</crossref></v>
+			<marker class="begin-verse" mid="v19108006" />
+			<v n="6">
+				That Your 
+				<crossref let="g" cid="c191086.1" />
+				 beloved may be delivered,Save with Your right hand, and hear me.
+			<crossref let="g" cid="c19108006.2"> [Gen. 25:4]</crossref><crossref let="h" cid="c19108006.3"> [Gen. 25:3; Ps. 72:10 i Is. 61:6; Matt. 2:11]</crossref></v>
+			<marker class="begin-verse" mid="v19108007" />
+			<v n="7">
+				God has 
+				<crossref let="h" cid="c191087.1" />
+				 spoken in His holiness:“I will rejoice;I will divide ShechemAnd measure out the Valley of Succoth.
+			<crossref let="j" cid="c19108007.2"> [Gen. 25:13 k Is. 56:7 l Is. 60:13; Hag. 2:7,]</crossref></v>
+			<marker class="begin-verse" mid="v19108008" />
+			<v n="8">
+				Gilead is 
+				<crossref let="i" cid="c191088.1" />
+				 Mine; Manasseh is Mine;Ephraim also is the helmet for My head;Judah is My lawgiver.
+			</v>
+			<marker class="begin-verse" mid="v19108009" />
+			<v n="9">
+				Moab is 
+				<crossref let="j" cid="c191089.1" />
+				 My washpot;Over Edom I will cast My shoe;Over Philistia I will triumph.”
+			<crossref let="m" cid="c19108009.2"> [Ps. 72:10 n [Gal. 4:26] o Jer. 3:17 p Is. 55:5]</crossref></v>
+			<marker class="begin-verse" mid="v19108010" />
+			<v n="10">
+				Who will 
+				<crossref let="k" cid="c1910810.1" />
+				 bring me into the strong city?Who will lead me to Edom?
+			<crossref let="q" cid="c19108010.2"> [Is. 14:1, 2; 61:5; Zech. 6:15]</crossref><crossref let="r" cid="c19108010.3"> [Is. 49:23; Rev. 21:24 s Is. 57:17]</crossref><crossref let="t" cid="c19108010.4"> [Is. 54:7,]</crossref></v>
+			<marker class="begin-verse" mid="v19108011" />
+			<v n="11">
+				Is it 
+				<crossref let="l" cid="c1910811.1" />
+				 not You, O God, who cast us off?And You, O God, who did not go out with our armies?
+			</v>
+			<marker class="begin-verse" mid="v19108012" />
+			<v n="12">
+				Give us 
+				<crossref let="m" cid="c1910812.1" />
+				 help from trouble,For the help of man is useless.
+			<crossref let="v" cid="c19108012.2"> [Is. 14:2; Zech. 14:17; Matt. 21:44]</crossref></v>
+			<marker class="begin-verse" mid="v19108013" />
+			<v n="13">
+				Through God 
+				<crossref let="n" cid="c1910813.1" />
+				 we will do valiantly,For it is He who shall tread down our enemies.
+			<crossref let="w" cid="c19108013.2"> [Is. 35:2 x 1 Chr. 28:2; Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v19108014" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

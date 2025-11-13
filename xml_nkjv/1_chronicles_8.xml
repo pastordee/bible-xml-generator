@@ -1,0 +1,222 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:00:15.773226</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:00:15.773253</next_refresh_due>
+	</generation_info>
+	<book title="1 Chronicles" num="13" testament="old" version="NKJV" bookAbbr="1ch">
+		<marker class="begin-verse" mid="v13008001" />
+		<chapter num="8">
+			<heading>The Family Tree of King Saul of Benjamin</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now Benjamin 
+				<crossref let="b" cid="c130081.1" />
+				 begot Bela his firstborn, Ashbel the second, Aharah the third,
+			<crossref let="a" cid="c13008001.2"> [2 Sam. 5:1]</crossref></v>
+			<marker class="begin-verse" mid="v13008002" />
+			<v n="2">
+				Nohah the 
+				<crossref let="c" cid="c130082.1" />
+				 fourth, and Rapha the fifth.
+			<crossref let="b" cid="c13008002.2"> [1 Sam. 16:1- 3; Ps. 78:70-72 c]</crossref></v>
+			<marker class="begin-verse" mid="v13008003" />
+			<v n="3">
+				The sons 
+				<crossref let="d" cid="c130083.1" />
+				 of Bela were Addar, Gera, Abihud,
+			<crossref let="d" cid="c13008003.2"> [2 Sam. 5:3 e]</crossref></v>
+			<marker class="begin-verse" mid="v13008004" />
+			<v n="4">Abishua, Naaman, Ahoah,<crossref let="g" cid="c13008004.1"> [Josh. 15:8, 63; Judg. 1:21;]</crossref><crossref let="f" cid="c13008004.2"> [2 Sam. 5:6]</crossref></v>
+			<marker class="begin-verse" mid="v13008005" />
+			<v n="5">
+				Gera, Shephuphan, 
+				<crossref let="f" cid="c130085.1" />
+				 and Huram.
+			</v>
+			<marker class="begin-verse" mid="v13008006" />
+			<v n="6">
+				These are 
+				<crossref let="g" cid="c130086.1" />
+				 the sons of Ehud, who were the heads of the fathers’ houses of the inhabitants of Geba, and who forced them to move to Manahath:
+			</v>
+			<marker class="begin-verse" mid="v13008007" />
+			<v n="7">
+				Naaman, Ahijah, 
+				<crossref let="h" cid="c130087.1" />
+				 and Gera who forced them to move. He begot Uzza and Ahihud.
+			</v>
+			<marker class="begin-verse" mid="v13008008" />
+			<v n="8">
+				Also Shaharaim 
+				<crossref let="i" cid="c130088.1" />
+				 had children in the country of Moab, after he had sent away Hushim and Baara his wives.
+			</v>
+			<marker class="begin-verse" mid="v13008009" />
+			<v n="9">
+				By Hodesh 
+				<crossref let="j" cid="c130089.1" />
+				 his wife he begot Jobab, Zibia, Mesha, Malcam,
+			<crossref let="h" cid="c13008009.2"> [2 Sam. 3:1 i]</crossref></v>
+			<marker class="begin-verse" mid="v13008010" />
+			<v n="10">
+				Jeuz, Sachiah, 
+				<crossref let="k" cid="c1300810.1" />
+				 and Mirmah. These were his sons, heads of their fathers’ houses.
+			<crossref let="j" cid="c13008010.2"> [2 Sam. 23:8 k]</crossref></v>
+			<marker class="begin-verse" mid="v13008011" />
+			<v n="11">
+				And by 
+				<crossref let="l" cid="c1300811.1" />
+				 Hushim he begot Abitub and Elpaal.
+			<crossref let="l" cid="c13008011.2"> [1 Chr. 27:2 m 1 Chr. 12:18 6 So]</crossref></v>
+			<marker class="begin-verse" mid="v13008012" />
+			<v n="12">
+				The sons 
+				<crossref let="m" cid="c1300812.1" />
+				 of Elpaal were Eber, Misham, and Shemed, who built Ono and Lod with its towns;
+			<crossref let="n" cid="c13008012.2"> [1 Chr. 27:4]</crossref></v>
+			<marker class="begin-verse" mid="v13008013" />
+			<v n="13">
+				and Beriah 
+				<crossref let="n" cid="c1300813.1" />
+				 and Shema, who were heads of their fathers’ houses of the inhabitants of Aijalon, who drove out the inhabitants of Gath.
+			</v>
+			<marker class="begin-verse" mid="v13008014" />
+			<v n="14">Ahio, Shashak, Jeremoth,</v>
+			<marker class="begin-verse" mid="v13008015" />
+			<v n="15">Zebadiah, Arad, Eder,<crossref let="o" cid="c13008015.1"> [2 Sam. 23:13 p]</crossref></v>
+			<marker class="begin-verse" mid="v13008016" />
+			<v n="16">
+				Michael, Ispah, 
+				<crossref let="q" cid="c1300816.1" />
+				 and Joha were the sons of Beriah.
+			</v>
+			<marker class="begin-verse" mid="v13008017" />
+			<v n="17">
+				Zebadiah, Meshullam, 
+				<crossref let="r" cid="c1300817.1" />
+				 Hizki, Heber,
+			</v>
+			<marker class="begin-verse" mid="v13008018" />
+			<v n="18">
+				Ishmerai, Jizliah, 
+				<crossref let="s" cid="c1300818.1" />
+				 and Jobab were the sons of Elpaal.
+			</v>
+			<marker class="begin-verse" mid="v13008019" />
+			<v n="19">Jakim, Zichri, Zabdi,</v>
+			<marker class="begin-verse" mid="v13008020" />
+			<v n="20">Elienai, Zillethai, Eliel,<crossref let="q" cid="c13008020.1"> [2 Sam. 23:18; 1 Chr. 18:12 1 So]</crossref></v>
+			<marker class="begin-verse" mid="v13008021" />
+			<v n="21">
+				Adaiah, Beraiah, 
+				<crossref let="v" cid="c1300821.1" />
+				 and Shimrath were the sons of Shimei.
+			<crossref let="r" cid="c13008021.2"> [2 Sam. 23:19]</crossref></v>
+			<marker class="begin-verse" mid="v13008022" />
+			<v n="22">Ishpan, Eber, Eliel,<crossref let="s" cid="c13008022.1"> [2 Sam. 23:20]</crossref></v>
+			<marker class="begin-verse" mid="v13008023" />
+			<v n="23">Abdon, Zichri, Hanan,</v>
+			<marker class="begin-verse" mid="v13008024" />
+			<v n="24">Hananiah, Elam, Antothijah,</v>
+			<marker class="begin-verse" mid="v13008025" />
+			<v n="25">
+				Iphdeiah, and 
+				<crossref let="z" cid="c1300825.1" />
+				 Penuel were the sons of Shashak.
+			</v>
+			<marker class="begin-verse" mid="v13008026" />
+			<v n="26">Shamsherai, Shehariah, Athaliah,<crossref let="t" cid="c13008026.1"> [2 Sam. 23:24]</crossref></v>
+			<marker class="begin-verse" mid="v13008027" />
+			<v n="27">
+				Jaareshiah, Elijah, 
+				<crossref let="b" cid="c1300827.1" />
+				 and Zichri were the sons of Jeroham.
+			</v>
+			<marker class="begin-verse" mid="v13008028" />
+			<v n="28">
+				These were 
+				<crossref let="c" cid="c1300828.1" />
+				 heads of the fathers’ houses by their generations, chief men. These dwelt in Jerusalem.
+			<crossref let="v" cid="c13008028.2"> [1 Chr. 27:9 w 1 Chr. 27:12]</crossref></v>
+			<marker class="begin-verse" mid="v13008029" />
+			<v n="29">
+				Now the 
+				<crossref let="d" cid="c1300829.1" />
+				 father of Gibeon, whose wife’s name was Maacah, dwelt at Gibeon.
+			</v>
+			<marker class="begin-verse" mid="v13008030" />
+			<v n="30">
+				And his 
+				<crossref let="e" cid="c1300830.1" />
+				 firstborn son was Abdon, then Zur, Kish, Baal, Nadab,
+			<crossref let="x" cid="c13008030.2"> [1 Chr. 27:13 1 Chr. 27:15]</crossref></v>
+			<marker class="begin-verse" mid="v13008031" />
+			<v n="31">Gedor, Ahio, Zecher,<crossref let="y" cid="c13008031.1"> [1 Chr. 27:14]</crossref></v>
+			<marker class="begin-verse" mid="v13008032" />
+			<v n="32">
+				and Mikloth, 
+				<crossref let="g" cid="c1300832.1" />
+				 who begot Shimeah. They also dwelt alongside their relatives in Jerusalem, with their brethren.
+			</v>
+			<marker class="begin-verse" mid="v13008033" />
+			<v n="33">
+				Ner begot 
+				<crossref let="h" cid="c1300833.1" />
+				 Kish, Kish begot Saul, and Saul begot Jonathan, Malchishua, Abinadab, and Esh-Baal.
+			</v>
+			<marker class="begin-verse" mid="v13008034" />
+			<v n="34">
+				The son 
+				<crossref let="i" cid="c1300834.1" />
+				 of Jonathan was Merib-Baal, and Merib-Baal begot Micah.
+			</v>
+			<marker class="begin-verse" mid="v13008035" />
+			<v n="35">
+				The sons 
+				<crossref let="j" cid="c1300835.1" />
+				 of Micah were Pithon, Melech, Tarea, and Ahaz.
+			</v>
+			<marker class="begin-verse" mid="v13008036" />
+			<v n="36">
+				And Ahaz 
+				<crossref let="k" cid="c1300836.1" />
+				 begot Jehoaddah; Jehoaddah begot Alemeth, Azmaveth, and Zimri; and Zimri begot Moza.
+			</v>
+			<marker class="begin-verse" mid="v13008037" />
+			<v n="37">
+				Moza begot 
+				<crossref let="l" cid="c1300837.1" />
+				 Binea, Raphah his son, Eleasah his son, and Azel his son.
+			</v>
+			<marker class="begin-verse" mid="v13008038" />
+			<v n="38">
+				Azel had 
+				<crossref let="m" cid="c1300838.1" />
+				 six sons whose names were these: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were the sons of Azel.
+			</v>
+			<marker class="begin-verse" mid="v13008039" />
+			<v n="39">
+				And the 
+				<crossref let="n" cid="c1300839.1" />
+				 sons of Eshek his brother were Ulam his firstborn, Jeush the second, and Eliphelet the third.
+			</v>
+			<marker class="begin-verse" mid="v13008040" />
+			<v n="40">
+				The sons 
+				<crossref let="o" cid="c1300840.1" />
+				 of Ulam were mighty men of valor—archers. They had many sons and grandsons, one hundred and fifty in all. These were all sons of Benjamin.
+			</v>
+			<marker class="begin-verse" mid="v13008041" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

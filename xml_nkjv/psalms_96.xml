@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:20:40.190631</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:20:40.190653</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="NKJV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19096001" />
+		<chapter num="96">
+			<heading>A Song of Praise to God Coming in Judgment</heading>
+			<begin-paragraph />
+			<v n="1">
+				Oh, sing 
+				<crossref let="b" cid="c190961.1" />
+				 to the Lord a new song!Sing to the Lord, all the earth.
+			<crossref let="a" cid="c19096001.2"> [Is. 58:2; Jer.]</crossref></v>
+			<marker class="begin-verse" mid="v19096002" />
+			<v n="2">
+				Sing to 
+				<crossref let="c" cid="c190962.1" />
+				 the Lord, bless His name;Proclaim the good news of His salvation from day to day.
+			<crossref let="c" cid="c19096002.2"> [Is. 10:20; Jer. 7:4; 21:2; Mic. 3:11; Rom. 2:17]</crossref><crossref let="b" cid="c19096002.3"> [Is. 52:1; 64:10]</crossref></v>
+			<marker class="begin-verse" mid="v19096003" />
+			<v n="3">
+				Declare His 
+				<crossref let="d" cid="c190963.1" />
+				 glory among the nations,His wonders among all peoples.
+			<crossref let="d" cid="c19096003.2"> [Is. 44:7, 8; 46:10 e Josh. 21:45; Is. 42:9]</crossref></v>
+			<marker class="begin-verse" mid="v19096004" />
+			<v n="4">
+				For the 
+				<crossref let="e" cid="c190964.1" />
+				 Lord is great and greatly to be praised;He is to be feared above all gods.
+			<crossref let="f" cid="c19096004.2"> [Ex. 32:9; Deut. 31:27; Ezek. 2:4; 3:7]</crossref></v>
+			<marker class="begin-verse" mid="v19096005" />
+			<v n="5">
+				For all 
+				<crossref let="f" cid="c190965.1" />
+				 the gods of the peoples are idols,But the Lord made the heavens.
+			</v>
+			<marker class="begin-verse" mid="v19096006" />
+			<v n="6">
+				Honor and 
+				<crossref let="g" cid="c190966.1" />
+				 majesty are before Him;Strength and beauty are in His sanctuary.
+			</v>
+			<marker class="begin-verse" mid="v19096007" />
+			<v n="7">
+				Give to 
+				<crossref let="h" cid="c190967.1" />
+				 the Lord, O families of the peoples,Give to the Lord glory and strength.
+			</v>
+			<marker class="begin-verse" mid="v19096008" />
+			<v n="8">
+				Give to 
+				<crossref let="i" cid="c190968.1" />
+				 the Lord the glory due His name;Bring an offering, and come into His courts.
+			<crossref let="g" cid="c19096008.2"> [Deut. 9:7, 24; Ps. 58:3; Is. 46:3,]</crossref></v>
+			<marker class="begin-verse" mid="v19096009" />
+			<v n="9">
+				Oh, worship 
+				<crossref let="j" cid="c190969.1" />
+				 the Lord in the beauty of holiness!Tremble before Him, all the earth.
+			<crossref let="h" cid="c19096009.2"> [Ps. 79:9; 106:8; Is. 43:25; Ezek. i [Neh. 9:30, 31]; Ps. 78:38; Is. 30:18;]</crossref></v>
+			<marker class="begin-verse" mid="v19096010" />
+			<v n="10">
+				Say among 
+				<crossref let="k" cid="c1909610.1" />
+				 the nations, “The Lord reigns;The world also is firmly established,It shall not be moved;He shall judge the peoples righteously.”
+			<crossref let="j" cid="c19096010.2"> [Ps. 66:10; Jer. 9:7 k Deut. 4:20; 1 Kin. 8:51; Jer.]</crossref></v>
+			<marker class="begin-verse" mid="v19096011" />
+			<v n="11">
+				Let the 
+				<crossref let="l" cid="c1909611.1" />
+				 heavens rejoice, and let the earth be glad;Let the sea roar, and all its fullness;
+			</v>
+			<marker class="begin-verse" mid="v19096012" />
+			<v n="12">
+				Let the 
+				<crossref let="m" cid="c1909612.1" />
+				 field be joyful, and all that is in it.Then all the trees of the woods will rejoice before the Lord.
+			<crossref let="o" cid="c19096012.2"> [Is. 44:6; [Rev.]</crossref><crossref let="n" cid="c19096012.3"> [Deut. 32:39]</crossref></v>
+			<marker class="begin-verse" mid="v19096013" />
+			<v n="13">
+				For He 
+				<crossref let="n" cid="c1909613.1" />
+				 is coming, for He is coming to judge the earth.He shall judge the world with righteousness,And the peoples with His truth.
+			<crossref let="p" cid="c19096013.2"> [Ex. 20:11; Ps. 102:25; Is. 42:5; 45:12, 18; Heb. 1:10-12 q Is. 40:26]</crossref></v>
+			<marker class="begin-verse" mid="v19096014" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

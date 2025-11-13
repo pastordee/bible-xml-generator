@@ -1,0 +1,358 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T10:42:38.892318</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T10:42:38.892325</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" version="NKJV" bookAbbr="num">
+		<marker class="begin-verse" mid="v04033001" />
+		<chapter num="33">
+			<heading>Israel’s Journey from Egypt Reviewed</heading>
+			<begin-paragraph />
+			<v n="1">
+				These are 
+				<crossref let="b" cid="c040331.1" />
+				 the journeys of the children of Israel, who went out of the land of Egypt by their armies under the hand of Moses and Aaron.
+			<crossref let="a" cid="c04033001.2"> [Ps. 77:20]</crossref></v>
+			<marker class="begin-verse" mid="v04033002" />
+			<v n="2">
+				Now Moses 
+				<crossref let="c" cid="c040332.1" />
+				 wrote down the starting points of their journeys at the command of the Lord. And these are their journeys according to their starting points:
+			</v>
+			<marker class="begin-verse" mid="v04033003" />
+			<v n="3">
+				They departed 
+				<crossref let="d" cid="c040333.1" />
+				 from Rameses in the first month, on the fifteenth day of the first month; on the day after the Passover the children of Israel went out with boldness in the sight of all the Egyptians.
+			<crossref let="b" cid="c04033003.2"> [Ex. 12:37 c Ex. 12:2; 13:4 d Ex.]</crossref></v>
+			<marker class="begin-verse" mid="v04033004" />
+			<v n="4">
+				For the 
+				<crossref let="e" cid="c040334.1" />
+				 Egyptians were burying all their firstborn, whom the Lord had killed among them. Also on their gods the Lord had executed judgments.
+			<crossref let="e" cid="c04033004.2"> [Ex. 12:29 f [Ex. Is. 19:1]</crossref></v>
+			<marker class="begin-verse" mid="v04033005" />
+			<v n="5">
+				Then the 
+				<crossref let="f" cid="c040335.1" />
+				 children of Israel moved from Rameses and camped at Succoth.
+			<crossref let="g" cid="c04033005.2"> [Ex. 12:37]</crossref></v>
+			<marker class="begin-verse" mid="v04033006" />
+			<v n="6">
+				They departed 
+				<crossref let="g" cid="c040336.1" />
+				 from Succoth and camped at Etham, which is on the edge of the wilderness.
+			<crossref let="h" cid="c04033006.2"> [Ex. 13:20]</crossref></v>
+			<marker class="begin-verse" mid="v04033007" />
+			<v n="7">
+				They moved 
+				<crossref let="h" cid="c040337.1" />
+				 from Etham and turned back to Pi Hahiroth, which is east of Baal Zephon; and they camped near Migdol.
+			<crossref let="i" cid="c04033007.2"> [Ex. 14:1, 2,]</crossref></v>
+			<marker class="begin-verse" mid="v04033008" />
+			<v n="8">
+				They departed 
+				<crossref let="i" cid="c040338.1" />
+				 from before Hahiroth and passed through the midst of the sea into the wilderness, went three days’ journey in the Wilderness of Etham, and camped at Marah.
+			<crossref let="j" cid="c04033008.2"> [Ex. 14:22; 15:22, Num. 33:7]</crossref></v>
+			<marker class="begin-verse" mid="v04033009" />
+			<v n="9">
+				They moved 
+				<crossref let="j" cid="c040339.1" />
+				 from Marah and came to Elim. At Elim were twelve springs of water and seventy palm trees; so they camped there.
+			<crossref let="k" cid="c04033009.2"> [Ex. 15:27]</crossref></v>
+			<marker class="begin-verse" mid="v04033010" />
+			<v n="10">
+				They moved 
+				<crossref let="k" cid="c0403310.1" />
+				 from Elim and camped by the Red Sea.
+			</v>
+			<marker class="begin-verse" mid="v04033011" />
+			<v n="11">
+				They moved 
+				<crossref let="l" cid="c0403311.1" />
+				 from the Red Sea and camped in the Wilderness of Sin.
+			<crossref let="l" cid="c04033011.2"> [Ex. 16:1]</crossref></v>
+			<marker class="begin-verse" mid="v04033012" />
+			<v n="12">
+				They journeyed 
+				<crossref let="m" cid="c0403312.1" />
+				 from the Wilderness of Sin and camped at Dophkah.
+			</v>
+			<marker class="begin-verse" mid="v04033013" />
+			<v n="13">
+				They departed 
+				<crossref let="n" cid="c0403313.1" />
+				 from Dophkah and camped at Alush.
+			</v>
+			<marker class="begin-verse" mid="v04033014" />
+			<v n="14">
+				They moved 
+				<crossref let="o" cid="c0403314.1" />
+				 from Alush and camped at Rephidim, where there was no water for the people to drink.
+			<crossref let="m" cid="c04033014.2"> [Ex. 17:1; 19:2]</crossref></v>
+			<marker class="begin-verse" mid="v04033015" />
+			<v n="15">
+				They departed 
+				<crossref let="p" cid="c0403315.1" />
+				 from Rephidim and camped in the Wilderness of Sinai.
+			<crossref let="n" cid="c04033015.2"> [Ex. 16:1;]</crossref></v>
+			<marker class="begin-verse" mid="v04033016" />
+			<v n="16">
+				They moved 
+				<crossref let="q" cid="c0403316.1" />
+				 from the Wilderness of Sinai and camped at Kibroth Hattaavah.
+			<crossref let="o" cid="c04033016.2"> [Num. 11:34]</crossref></v>
+			<marker class="begin-verse" mid="v04033017" />
+			<v n="17">
+				They departed 
+				<crossref let="r" cid="c0403317.1" />
+				 from Kibroth Hattaavah and camped at Hazeroth.
+			<crossref let="p" cid="c04033017.2"> [Num. 11:35]</crossref></v>
+			<marker class="begin-verse" mid="v04033018" />
+			<v n="18">
+				They departed 
+				<crossref let="s" cid="c0403318.1" />
+				 from Hazeroth and camped at Rithmah.
+			<crossref let="q" cid="c04033018.2"> [Num. 12:16]</crossref></v>
+			<marker class="begin-verse" mid="v04033019" />
+			<v n="19">
+				They departed 
+				<crossref let="t" cid="c0403319.1" />
+				 from Rithmah and camped at Rimmon Perez.
+			</v>
+			<marker class="begin-verse" mid="v04033020" />
+			<v n="20">
+				They departed 
+				<crossref let="u" cid="c0403320.1" />
+				 from Rimmon Perez and camped at Libnah.
+			</v>
+			<marker class="begin-verse" mid="v04033021" />
+			<v n="21">
+				They moved 
+				<crossref let="v" cid="c0403321.1" />
+				 from Libnah and camped at Rissah.
+			</v>
+			<marker class="begin-verse" mid="v04033022" />
+			<v n="22">
+				They journeyed 
+				<crossref let="w" cid="c0403322.1" />
+				 from Rissah and camped at Kehelathah.
+			</v>
+			<marker class="begin-verse" mid="v04033023" />
+			<v n="23">
+				They went 
+				<crossref let="x" cid="c0403323.1" />
+				 from Kehelathah and camped at Mount Shepher.
+			</v>
+			<marker class="begin-verse" mid="v04033024" />
+			<v n="24">
+				They moved 
+				<crossref let="y" cid="c0403324.1" />
+				 from Mount Shepher and camped at Haradah.
+			</v>
+			<marker class="begin-verse" mid="v04033025" />
+			<v n="25">
+				They moved 
+				<crossref let="z" cid="c0403325.1" />
+				 from Haradah and camped at Makheloth.
+			</v>
+			<marker class="begin-verse" mid="v04033026" />
+			<v n="26">
+				They moved 
+				<crossref let="a" cid="c0403326.1" />
+				 from Makheloth and camped at Tahath.
+			</v>
+			<marker class="begin-verse" mid="v04033027" />
+			<v n="27">
+				They departed 
+				<crossref let="b" cid="c0403327.1" />
+				 from Tahath and camped at Terah.
+			</v>
+			<marker class="begin-verse" mid="v04033028" />
+			<v n="28">
+				They moved 
+				<crossref let="c" cid="c0403328.1" />
+				 from Terah and camped at Mithkah.
+			</v>
+			<marker class="begin-verse" mid="v04033029" />
+			<v n="29">
+				They went 
+				<crossref let="d" cid="c0403329.1" />
+				 from Mithkah and camped at Hashmonah.
+			</v>
+			<marker class="begin-verse" mid="v04033030" />
+			<v n="30">
+				They departed 
+				<crossref let="e" cid="c0403330.1" />
+				 from Hashmonah and camped at Moseroth.
+			<crossref let="r" cid="c04033030.2"> [Deut. 10:6]</crossref></v>
+			<marker class="begin-verse" mid="v04033031" />
+			<v n="31">
+				They departed 
+				<crossref let="f" cid="c0403331.1" />
+				 from Moseroth and camped at Bene Jaakan.
+			</v>
+			<marker class="begin-verse" mid="v04033032" />
+			<v n="32">
+				They moved 
+				<crossref let="g" cid="c0403332.1" />
+				 from Bene Jaakan and camped at Hor Hagidgad.
+			<crossref let="t" cid="c04033032.2"> [Deut. 10:7]</crossref><crossref let="s" cid="c04033032.3"> [Deut. 10:6]</crossref></v>
+			<marker class="begin-verse" mid="v04033033" />
+			<v n="33">
+				They went 
+				<crossref let="h" cid="c0403333.1" />
+				 from Hor Hagidgad and camped at Jotbathah.
+			</v>
+			<marker class="begin-verse" mid="v04033034" />
+			<v n="34">
+				They moved 
+				<crossref let="i" cid="c0403334.1" />
+				 from Jotbathah and camped at Abronah.
+			</v>
+			<marker class="begin-verse" mid="v04033035" />
+			<v n="35">
+				They departed 
+				<crossref let="j" cid="c0403335.1" />
+				 from Abronah and camped at Ezion Geber.
+			<crossref let="u" cid="c04033035.2"> [Deut. 2:8; 1 Kin. 9:26; 22:48]</crossref></v>
+			<marker class="begin-verse" mid="v04033036" />
+			<v n="36">
+				They moved 
+				<crossref let="k" cid="c0403336.1" />
+				 from Ezion Geber and camped in the Wilderness of Zin, which is Kadesh.
+			<crossref let="v" cid="c04033036.2"> [Num. 20:1;]</crossref></v>
+			<marker class="begin-verse" mid="v04033037" />
+			<v n="37">
+				They moved 
+				<crossref let="l" cid="c0403337.1" />
+				 from Kadesh and camped at Mount Hor, on the boundary of the land of Edom.
+			<crossref let="w" cid="c04033037.2"> [Num. 20:22,]</crossref></v>
+			<marker class="begin-verse" mid="v04033038" />
+			<v n="38">
+				Then Aaron 
+				<crossref let="m" cid="c0403338.1" />
+				 the priest went up to Mount Hor at the command of the Lord, and died there in the fortieth year after the children of Israel had come out of the land of Egypt, on the first day of the fifth month.
+			<crossref let="x" cid="c04033038.2"> [Num. 20:25, 28; Deut. 10:6;]</crossref></v>
+			<marker class="begin-verse" mid="v04033039" />
+			<v n="39">
+				Aaron was 
+				<crossref let="n" cid="c0403339.1" />
+				 one hundred and twenty-three years old when he died on Mount Hor.
+			</v>
+			<marker class="begin-verse" mid="v04033040" />
+			<v n="40">
+				Now the 
+				<crossref let="o" cid="c0403340.1" />
+				 king of Arad, the Canaanite, who dwelt in the South in the land of Canaan, heard of the coming of the children of Israel.
+			<crossref let="y" cid="c04033040.2"> [Num. 21:1]</crossref></v>
+			<marker class="begin-verse" mid="v04033041" />
+			<v n="41">
+				So they 
+				<crossref let="p" cid="c0403341.1" />
+				 departed from Mount Hor and camped at Zalmonah.
+			</v>
+			<marker class="begin-verse" mid="v04033042" />
+			<v n="42">
+				They departed 
+				<crossref let="q" cid="c0403342.1" />
+				 from Zalmonah and camped at Punon.
+			</v>
+			<marker class="begin-verse" mid="v04033043" />
+			<v n="43">
+				They departed 
+				<crossref let="r" cid="c0403343.1" />
+				 from Punon and camped at Oboth.
+			<crossref let="z" cid="c04033043.2"> [Num. 21:10]</crossref></v>
+			<marker class="begin-verse" mid="v04033044" />
+			<v n="44">
+				They departed 
+				<crossref let="s" cid="c0403344.1" />
+				 from Oboth and camped at Ije Abarim, at the border of Moab.
+			</v>
+			<marker class="begin-verse" mid="v04033045" />
+			<v n="45">
+				They departed 
+				<crossref let="t" cid="c0403345.1" />
+				 from Ijim and camped at Dibon Gad.
+			<crossref let="b" cid="c04033045.2"> [Num. 32:34]</crossref></v>
+			<marker class="begin-verse" mid="v04033046" />
+			<v n="46">
+				They moved 
+				<crossref let="u" cid="c0403346.1" />
+				 from Dibon Gad and camped at Almon Diblathaim.
+			<crossref let="c" cid="c04033046.2"> [Jer. 48:22; Ezek. 6:14]</crossref></v>
+			<marker class="begin-verse" mid="v04033047" />
+			<v n="47">
+				They moved 
+				<crossref let="v" cid="c0403347.1" />
+				 from Almon Diblathaim and camped in the mountains of Abarim, before Nebo.
+			<crossref let="d" cid="c04033047.2"> [Num. 21:20; Deut. 32:49]</crossref></v>
+			<marker class="begin-verse" mid="v04033048" />
+			<v n="48">
+				They departed 
+				<crossref let="w" cid="c0403348.1" />
+				 from the mountains of Abarim and camped in the plains of Moab by the Jordan, across from Jericho.
+			<crossref let="e" cid="c04033048.2"> [Num. 22:1;]</crossref></v>
+			<marker class="begin-verse" mid="v04033049" />
+			<v n="49">
+				They camped 
+				<crossref let="x" cid="c0403349.1" />
+				 by the Jordan, from Beth Jesimoth as far as the Abel Acacia Grove in the plains of Moab.Instructions for the Conquest of Canaan
+			<crossref let="f" cid="c04033049.2"> [Num. 25:1; Josh. 2:1]</crossref></v>
+			<marker class="begin-verse" mid="v04033050" />
+			<v n="50">
+				Now the 
+				<crossref let="y" cid="c0403350.1" />
+				 Lord spoke to Moses in the plains of Moab by the Jordan, across from Jericho, saying,
+			</v>
+			<marker class="begin-verse" mid="v04033051" />
+			<v n="51">
+				“Speak to 
+				<crossref let="z" cid="c0403351.1" />
+				 the children of Israel, and say to them: ‘When you have crossed the Jordan into the land of Canaan,
+			<crossref let="g" cid="c04033051.2"> [Deut. 7:1, 2; 9:1; Josh. 3:17]</crossref></v>
+			<marker class="begin-verse" mid="v04033052" />
+			<v n="52">
+				then you 
+				<crossref let="a" cid="c0403352.1" />
+				 shall drive out all the inhabitants of the land from before you, destroy all their engraved stones, destroy all their molded images, and demolish all their high places;
+			<crossref let="h" cid="c04033052.2"> [Ex. 23:24, 33; 34:13; Deut. 7:2, 5; 12:3; Judg. 2:2; Ps.]</crossref></v>
+			<marker class="begin-verse" mid="v04033053" />
+			<v n="53">
+				you shall 
+				<crossref let="b" cid="c0403353.1" />
+				 dispossess the inhabitants of the land and dwell in it, for I have given you the land to possess.
+			<crossref let="i" cid="c04033053.2"> [Deut. 11:31; Josh. 21:43]</crossref></v>
+			<marker class="begin-verse" mid="v04033054" />
+			<v n="54">
+				And you 
+				<crossref let="c" cid="c0403354.1" />
+				 shall divide the land by lot as an inheritance among your families; to the larger you shall give a larger inheritance, and to the smaller you shall give a smaller inheritance; there everyone’s inheritance shall be whatever falls to him by lot. You shall inherit according to the tribes of your fathers.
+			<crossref let="j" cid="c04033054.2"> [Num. 26:53-56]</crossref></v>
+			<marker class="begin-verse" mid="v04033055" />
+			<v n="55">
+				But if 
+				<crossref let="d" cid="c0403355.1" />
+				 you do not drive out the inhabitants of the land from before you, then it shall be that those whom you let remain shall be irritants in your eyes and thorns in your sides, and they shall harass you in the land where you dwell.
+			<crossref let="k" cid="c04033055.2"> [Josh. 23:13; Judg. 2:3]</crossref></v>
+			<marker class="begin-verse" mid="v04033056" />
+			<v n="56">
+				Moreover it 
+				<crossref let="e" cid="c0403356.1" />
+				 shall be that I will do to you as I thought to do to them.’ ”
+			</v>
+			<marker class="begin-verse" mid="v04033057" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

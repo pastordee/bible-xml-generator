@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:49:03.699214</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:49:03.699246</next_refresh_due>
+	</generation_info>
+	<book title="Jonah" num="32" testament="old" version="NKJV" bookAbbr="jon">
+		<marker class="begin-verse" mid="v32003001" />
+		<chapter num="3">
+			<heading>Jonah Preaches at Nineveh</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now the 
+				<crossref let="b" cid="c320031.1" />
+				 word of the Lord came to Jonah the second time, saying,
+			<crossref let="a" cid="c32003001.2"> [Rom. 3:8; 6:15]</crossref></v>
+			<marker class="begin-verse" mid="v32003002" />
+			<v n="2">
+				“Arise, go 
+				<crossref let="c" cid="c320032.1" />
+				 to Nineveh, that great city, and preach to it the message that I tell you.”
+			<crossref let="b" cid="c32003002.2"> [[Rom. 6:11; 7:4, 6; Gal. 2:19; Col. 2:20; 3:3]; 1 Pet.]</crossref></v>
+			<marker class="begin-verse" mid="v32003003" />
+			<v n="3">
+				So Jonah 
+				<crossref let="d" cid="c320033.1" />
+				 arose and went to Nineveh, according to the word of the Lord. Now Nineveh was an exceedingly great city, a three-day journey in extent.
+			<crossref let="c" cid="c32003003.2"> [Acts 2:38; 8:16; 19:5; [Gal. 3:27]; Col. 2:12 d [1 Cor. ed here. In Adam, we all sinned (see 1 Cor. 15:22). The result]</crossref></v>
+			<marker class="begin-verse" mid="v32003004" />
+			<v n="4">
+				And Jonah 
+				<crossref let="e" cid="c320034.1" />
+				 began to enter the city on the first day’s walk. Then he cried out and said, “Yet forty days, and Nineveh shall be overthrown!”The People of Nineveh Believe
+			<crossref let="e" cid="c32003004.2"> [Col. 2:12 f 1 Cor. 6:14 g John 2:11 h Rom. 7:6; [2 Cor. 5:17; Gal. 6:15; Eph. 4:23; Col. 3:10]]</crossref></v>
+			<marker class="begin-verse" mid="v32003005" />
+			<v n="5">
+				So the 
+				<crossref let="f" cid="c320035.1" />
+				 people of Nineveh believed God, proclaimed a fast, and put on sackcloth, from the greatest to the least of them.
+			<crossref let="i" cid="c32003005.2"> [2 Cor. 4:10; Phil. 3:10; Col. 2:12; 3:1]</crossref></v>
+			<marker class="begin-verse" mid="v32003006" />
+			<v n="6">
+				Then word 
+				<crossref let="g" cid="c320036.1" />
+				 came to the king of Nineveh; and he arose from his throne and laid aside his robe, covered himself with sackcloth and sat in ashes.
+			<crossref let="j" cid="c32003006.2"> [Gal. 2:20; 5:24; 6:14 k Col.]</crossref></v>
+			<marker class="begin-verse" mid="v32003007" />
+			<v n="7">
+				And he 
+				<crossref let="h" cid="c320037.1" />
+				 caused it to be proclaimed and published throughout Nineveh by the decree of the king and his nobles, saying,Let neither man nor beast, herd nor flock, taste anything; do not let them eat, or drink water.
+			<crossref let="l" cid="c32003007.2"> [1 Pet. 4:1]</crossref></v>
+			<marker class="begin-verse" mid="v32003008" />
+			<v n="8">
+				But let 
+				<crossref let="i" cid="c320038.1" />
+				 man and beast be covered with sackcloth, and cry mightily to God; yes, let every one turn from his evil way and from the violence that is in his hands.
+			<crossref let="m" cid="c32003008.2"> [Rom. 6:4; 2 Cor. 4:10; 2 Tim.]</crossref></v>
+			<marker class="begin-verse" mid="v32003009" />
+			<v n="9">
+				Who can 
+				<crossref let="j" cid="c320039.1" />
+				 tell if God will turn and relent, and turn away from His fierce anger, so that we may not perish?
+			<crossref let="n" cid="c32003009.2"> [Rev. 1:18]</crossref></v>
+			<marker class="begin-verse" mid="v32003010" />
+			<v n="10">
+				Then God 
+				<crossref let="k" cid="c3200310.1" />
+				 saw their works, that they turned from their evil way; and God relented from the disaster that He had said He would bring upon them, and He did not do it.
+			<crossref let="o" cid="c32003010.2"> [Heb. 9:27]</crossref><crossref let="p" cid="c32003010.3"> [Luke 20:38]</crossref></v>
+			<marker class="begin-verse" mid="v32003011" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

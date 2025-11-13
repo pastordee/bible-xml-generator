@@ -39,3 +39,5 @@ books/
 
 # State files
 state.json
+xml_esv/*.xml
+raw/cross_refs_esv/

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:18:23.672990</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:18:23.673007</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19125001" />
+		<chapter num="125">
+			<heading>A song for pilgrims going up to Jerusalem.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Those who 
+				
+				 trust in the Lord are like Mount Zion, for it is unshakeable and endures forever.
+			</v>
+			<marker class="begin-verse" mid="v19125002" />
+			<v n="2">
+				In the 
+				
+				 same way that the mountains surround Jerusalem, the Lord surrounds his people, now and forever.
+			</v>
+			<marker class="begin-verse" mid="v19125003" />
+			<v n="3">
+				The wicked 
+				
+				 will not always rule over the land of the faithful, otherwise the faithful might also end up doing wrong.
+			</v>
+			<marker class="begin-verse" mid="v19125004" />
+			<v n="4">
+				Lord, please 
+				
+				 do good to those who do good, those who sincerely do what is right.
+			</v>
+			<marker class="begin-verse" mid="v19125005" />
+			<v n="5">
+				But as 
+				
+				 for those who turn aside to follow their own crooked ways—the Lord will lead them away together with those who do evil. May Israel be at peace!
+			</v>
+			<marker class="begin-verse" mid="v19125006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

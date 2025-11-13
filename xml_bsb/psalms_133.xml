@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:23:58.759460</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:23:58.759484</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19133001" />
+		<chapter num="133">
+			<heading>How Pleasant to Live in Harmony!(1 Corinthians 1:10–17; Ephesians 4:1–16)A song of ascents. Of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Behold, how 
+				
+				 good and pleasant it iswhen brothers live together in harmony!
+			</v>
+			<marker class="begin-verse" mid="v19133002" />
+			<v n="2">
+				It is 
+				
+				 like fine oil on the head,running down on the beard,running down Aaron’s beardover the collar of his robes.
+			</v>
+			<marker class="begin-verse" mid="v19133003" />
+			<v n="3">
+				It is 
+				
+				 like the dew of Hermonfalling on the mountains of Zion.For there the LORD has bestowed the blessingof life forevermore.
+			</v>
+			<marker class="begin-verse" mid="v19133004" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

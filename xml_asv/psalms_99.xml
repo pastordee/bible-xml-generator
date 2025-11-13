@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:35:41.339598</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:35:41.339607</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19099001" />
+		<chapter num="99">
+			<begin-paragraph />
+			<v n="1">
+				Jehovah reigneth; 
+				
+				 let the peoples tremble:He sitteth above the cherubim; let the earth be moved.
+			</v>
+			<marker class="begin-verse" mid="v19099002" />
+			<v n="2">
+				Jehovah is 
+				
+				 great in Zion;And he is high above all the peoples.
+			</v>
+			<marker class="begin-verse" mid="v19099003" />
+			<v n="3">
+				Let them 
+				
+				 praise thy great and terrible name:Holy is he.
+			</v>
+			<marker class="begin-verse" mid="v19099004" />
+			<v n="4">
+				The king’s 
+				
+				 strength also loveth justice;Thou dost establish equity;Thou executest justice and righteousness in Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19099005" />
+			<v n="5">
+				Exalt ye 
+				
+				 Jehovah our God,And worship at his footstool:Holy is he.
+			</v>
+			<marker class="begin-verse" mid="v19099006" />
+			<v n="6">
+				Moses and 
+				
+				 Aaron among his priests,And Samuel among them that call upon his name;They called upon Jehovah, and he answered them.
+			</v>
+			<marker class="begin-verse" mid="v19099007" />
+			<v n="7">
+				He spake 
+				
+				 unto them in the pillar of cloud:They kept his testimonies,And the statute that he gave them.
+			</v>
+			<marker class="begin-verse" mid="v19099008" />
+			<v n="8">
+				Thou answeredst 
+				
+				 them, O Jehovah our God:Thou wast a God that forgavest them,Though thou tookest vengeance of their doings.
+			</v>
+			<marker class="begin-verse" mid="v19099009" />
+			<v n="9">
+				Exalt ye 
+				
+				 Jehovah our God,And worship at his holy hill;For Jehovah our God is holy.
+			</v>
+			<marker class="begin-verse" mid="v19099010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

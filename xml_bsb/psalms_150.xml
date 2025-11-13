@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:25:29.080563</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:25:29.080594</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19150001" />
+		<chapter num="150">
+			<heading>Let Everything That Has Breath Praise the LORD</heading>
+			<begin-paragraph />
+			<v n="1">
+				Hallelujah!Praise God 
+				
+				 in His sanctuary.Praise Him in His mighty heavens.
+			</v>
+			<marker class="begin-verse" mid="v19150002" />
+			<v n="2">
+				Praise Him 
+				
+				 for His mighty acts;praise Him for His excellent greatness.
+			</v>
+			<marker class="begin-verse" mid="v19150003" />
+			<v n="3">
+				Praise Him 
+				
+				 with the sound of the horn;praise Him with the harp and lyre.
+			</v>
+			<marker class="begin-verse" mid="v19150004" />
+			<v n="4">
+				Praise Him 
+				
+				 with tambourine and dancing;praise Him with strings and flute.
+			</v>
+			<marker class="begin-verse" mid="v19150005" />
+			<v n="5">
+				Praise Him 
+				
+				 with clashing cymbals;praise Him with resounding cymbals.
+			</v>
+			<marker class="begin-verse" mid="v19150006" />
+			<v n="6">
+				Let everything 
+				
+				 that has breath praise the LORD!Hallelujah!
+			</v>
+			<marker class="begin-verse" mid="v19150007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

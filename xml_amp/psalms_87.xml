@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:56.231523</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:56.231561</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19087001" />
+		<chapter num="87">
+			<heading>Psalm 87The Privileges of Citizenship in Zion.A Psalm of the sons of Korah. A Song.</heading>
+			<begin-paragraph />
+			<v n="1">
+				His foundation 
+				
+				 is on the holy mountain.
+			</v>
+			<marker class="begin-verse" mid="v19087002" />
+			<v n="2">
+				The Lord 
+				
+				 loves the gates of ZionMore than all the dwellings of Jacob (Israel).
+			</v>
+			<marker class="begin-verse" mid="v19087003" />
+			<v n="3">
+				Glorious things 
+				
+				 are spoken of you,O city of God [Jerusalem]. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19087004" />
+			<v n="4">
+				“I will 
+				
+				 mention Rahab (Egypt) and Babylon among those who know Me—Behold, Philistia and Tyre with Ethiopia (Cush)—‘This one was born there.’ ”
+			</v>
+			<marker class="begin-verse" mid="v19087005" />
+			<v n="5">
+				But of 
+				
+				 Zion it will be said, “This one and that one were born in her,”And the Most High Himself will establish her.
+			</v>
+			<marker class="begin-verse" mid="v19087006" />
+			<v n="6">
+				The Lord 
+				
+				 will count, when He registers the peoples,“This one was born there.” Selah.
+			</v>
+			<marker class="begin-verse" mid="v19087007" />
+			<v n="7">
+				The singers 
+				
+				 as well as the players of flutes will say,“All my springs and sources of joy are in you [Jerusalem, city of God].”
+			</v>
+			<marker class="begin-verse" mid="v19087008" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

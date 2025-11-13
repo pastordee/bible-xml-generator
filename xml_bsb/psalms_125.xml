@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:23:15.791175</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:23:15.791195</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19125001" />
+		<chapter num="125">
+			<heading>The LORD Surrounds His PeopleA song of ascents.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Those who 
+				
+				 trust in the LORD are like Mount Zion.It cannot be moved; it abides forever.
+			</v>
+			<marker class="begin-verse" mid="v19125002" />
+			<v n="2">
+				As the 
+				
+				 mountains surround Jerusalem,so the LORD surrounds His people,both now and forevermore.
+			</v>
+			<marker class="begin-verse" mid="v19125003" />
+			<v n="3">
+				For the 
+				
+				 scepter of the wicked will not restupon the land allotted to the righteous,so that the righteous will not put forththeir hands to injustice.
+			</v>
+			<marker class="begin-verse" mid="v19125004" />
+			<v n="4">
+				Do good, 
+				
+				 O LORD, to those who are good,and to the upright in heart.
+			</v>
+			<marker class="begin-verse" mid="v19125005" />
+			<v n="5">
+				But those 
+				
+				 who turn to crooked waysthe LORD will banish with the evildoers.Peace be upon Israel.
+			</v>
+			<marker class="begin-verse" mid="v19125006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

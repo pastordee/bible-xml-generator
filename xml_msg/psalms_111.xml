@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:17:50.642181</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:17:50.642196</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19111001" />
+		<chapter num="111">
+			<begin-paragraph />
+			<v n="1">
+				Praise the 
+				
+				 Lord! I will thank the Lord with all my heart in the congregation of the faithful.
+			</v>
+			<marker class="begin-verse" mid="v19111002" />
+			<v n="2">
+				All the 
+				
+				 wonderful things the Lord has done are studied by everyone who loves them.
+			</v>
+			<marker class="begin-verse" mid="v19111003" />
+			<v n="3">
+				His majesty 
+				
+				 and honor are revealed by what he does; his goodness lasts forever.
+			</v>
+			<marker class="begin-verse" mid="v19111004" />
+			<v n="4">
+				He wants 
+				
+				 the wonderful things he has done to be remembered; the Lord is gracious and kind.
+			</v>
+			<marker class="begin-verse" mid="v19111005" />
+			<v n="5">
+				He feeds 
+				
+				 those who respect him; he always remembers the agreement he made.
+			</v>
+			<marker class="begin-verse" mid="v19111006" />
+			<v n="6">
+				He demonstrated 
+				
+				 to his people the powerful things he could do by giving them the lands of other nations.
+			</v>
+			<marker class="begin-verse" mid="v19111007" />
+			<v n="7">
+				Everything he 
+				
+				 does can be depended on, and is right; all his commandments are trustworthy.
+			</v>
+			<marker class="begin-verse" mid="v19111008" />
+			<v n="8">
+				They remain 
+				
+				 rock-solid forever. He was true and right in saying what should be done.
+			</v>
+			<marker class="begin-verse" mid="v19111009" />
+			<v n="9">
+				He delivered 
+				
+				 his people. He commanded that his agreement would continue forever. How holy and awesome is his reputation!
+			</v>
+			<marker class="begin-verse" mid="v19111010" />
+			<v n="10">
+				The beginning 
+				
+				 of wisdom is honoring the Lord. Those who follow what he says do well. He is to be praised forever!
+			</v>
+			<marker class="begin-verse" mid="v19111011" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

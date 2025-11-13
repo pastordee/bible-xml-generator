@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:17:07.891726</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:17:07.891743</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19093001" />
+		<chapter num="93">
+			<begin-paragraph />
+			<v n="1">
+				The Lord 
+				
+				 reigns, clothed in majesty! He wears his royal robes, with his power worn like a belt. The world is held together firmly—it cannot be broken apart.
+			</v>
+			<marker class="begin-verse" mid="v19093002" />
+			<v n="2">
+				Your throne 
+				
+				 has existed from ages past; you are from eternity.
+			</v>
+			<marker class="begin-verse" mid="v19093003" />
+			<v n="3">
+				The floods 
+				
+				 have raised up, Lord; the floods have raised their voices; the floods have raised up their crashing waves.
+			</v>
+			<marker class="begin-verse" mid="v19093004" />
+			<v n="4">
+				But greater 
+				
+				 than the most violent ocean, greater than the largest waves of the sea, the greatest is the Lord above.
+			</v>
+			<marker class="begin-verse" mid="v19093005" />
+			<v n="5">
+				Your laws 
+				
+				 are totally trustworthy. Your house, Lord, is holy forever.
+			</v>
+			<marker class="begin-verse" mid="v19093006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

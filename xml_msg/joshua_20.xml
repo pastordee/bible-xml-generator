@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:02:46.359076</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:02:46.359083</next_refresh_due>
+	</generation_info>
+	<book title="Joshua" num="6" testament="old" version="MSG" bookAbbr="jos">
+		<marker class="begin-verse" mid="v06020001" />
+		<chapter num="20">
+			<begin-paragraph />
+			<v n="1">
+				Then the 
+				
+				 Lord told Joshua,
+			</v>
+			<marker class="begin-verse" mid="v06020002" />
+			<v n="2">
+				“Tell the 
+				
+				 Israelites, ‘Assign sanctuary towns, as I instructed you through Moses.
+			</v>
+			<marker class="begin-verse" mid="v06020003" />
+			<v n="3">
+				Then any 
+				
+				 man who kills somebody by accident, unintentionally, can run there and they will be protected from those who wish to take revenge.
+			</v>
+			<marker class="begin-verse" mid="v06020004" />
+			<v n="4">
+				When he 
+				
+				 gets to one of these towns, he shall state his case to the elders at the town gates. They must allow him to enter, and they will also arrange a place for him to stay.
+			</v>
+			<marker class="begin-verse" mid="v06020005" />
+			<v n="5">
+				If the 
+				
+				 one seeking revenge comes looking for the man, they must not hand the one who committed manslaughter over to him, because he killed someone unintentionally and without deliberate hatred.
+			</v>
+			<marker class="begin-verse" mid="v06020006" />
+			<v n="6">
+				He shall 
+				
+				 remain in that town until he has received a public trial and a verdict has been given, and until the death of the high priest of the time. Then he is free to return to his home, back to the town from where he ran away.’”
+			</v>
+			<marker class="begin-verse" mid="v06020007" />
+			<v n="7">
+				So they 
+				
+				 assigned the following sanctuary towns: Kedesh of Galilee, in the hill country of Naphtali; Shechem, in the hill country of Ephraim; and Kiriath-arba (or Hebron), in the hill country of Judah.
+			</v>
+			<marker class="begin-verse" mid="v06020008" />
+			<v n="8">
+				On the 
+				
+				 other side of the Jordan, east of Jericho, they assigned: Bezer, in the wilderness on the plateau, from the tribe of Reuben; Ramoth in Gilead, from the tribe of Gad; and Golan in Bashan, from the tribe of Manasseh.
+			</v>
+			<marker class="begin-verse" mid="v06020009" />
+			<v n="9">
+				These were 
+				
+				 the assigned towns for all the Israelites, as well as for the foreigners living among them. Anyone who unintentionally killed someone could go there so they would not be killed by those who wished to take revenge before they had received a public trial and been given a guilty verdict.
+			</v>
+			<marker class="begin-verse" mid="v06020010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

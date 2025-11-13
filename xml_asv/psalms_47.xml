@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:31:05.814943</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:31:05.814950</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19047001" />
+		<chapter num="47">
+			<heading>For the Chief Musician. A Psalm of the sons of Korah.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Oh clap 
+				
+				 your hands, all ye peoples;Shout unto God with the voice of triumph.
+			</v>
+			<marker class="begin-verse" mid="v19047002" />
+			<v n="2">
+				For Jehovah 
+				
+				 Most High is terrible;He is a great King over all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19047003" />
+			<v n="3">
+				He subdueth 
+				
+				 peoples under us,And nations under our feet.
+			</v>
+			<marker class="begin-verse" mid="v19047004" />
+			<v n="4">
+				He chooseth 
+				
+				 our inheritance for us,The glory of Jacob whom he loved. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19047005" />
+			<v n="5">
+				God is 
+				
+				 gone up with a shout,Jehovah with the sound of a trumpet.
+			</v>
+			<marker class="begin-verse" mid="v19047006" />
+			<v n="6">
+				Sing praises 
+				
+				 to God, sing praises:Sing praises unto our King, sing praises.
+			</v>
+			<marker class="begin-verse" mid="v19047007" />
+			<v n="7">
+				For God 
+				
+				 is the King of all the earth:Sing ye praises with understanding.
+			</v>
+			<marker class="begin-verse" mid="v19047008" />
+			<v n="8">
+				God reigneth 
+				
+				 over the nations:God sitteth upon his holy throne.
+			</v>
+			<marker class="begin-verse" mid="v19047009" />
+			<v n="9">
+				The princes 
+				
+				 of the peoples are gathered togetherTo be the people of the God of Abraham;For the shields of the earth belong unto God:He is greatly exalted.
+			</v>
+			<marker class="begin-verse" mid="v19047010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

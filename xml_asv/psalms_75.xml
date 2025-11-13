@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:33:33.837622</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:33:33.837633</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19075001" />
+		<chapter num="75">
+			<heading>For the Chief Musician; set to Al-tashheth. A Psalm of Asaph, a Song.</heading>
+			<begin-paragraph />
+			<v n="1">
+				We give 
+				
+				 thanks unto thee, O God;We give thanks, for thy name is near:Men tell of thy wondrous works.
+			</v>
+			<marker class="begin-verse" mid="v19075002" />
+			<v n="2">
+				When I 
+				
+				 shall find the set time,I will judge uprightly.
+			</v>
+			<marker class="begin-verse" mid="v19075003" />
+			<v n="3">
+				The earth 
+				
+				 and all the inhabitants thereof are dissolved:I have set up the pillars of it. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19075004" />
+			<v n="4">
+				I said 
+				
+				 unto the arrogant, Deal not arrogantly;And to the wicked, Lift not up the horn:
+			</v>
+			<marker class="begin-verse" mid="v19075005" />
+			<v n="5">
+				Lift not 
+				
+				 up your horn on high;Speak not with a stiff neck.
+			</v>
+			<marker class="begin-verse" mid="v19075006" />
+			<v n="6">
+				For neither 
+				
+				 from the east, nor from the west,Nor yet from the south, cometh lifting up.
+			</v>
+			<marker class="begin-verse" mid="v19075007" />
+			<v n="7">
+				But God 
+				
+				 is the judge:He putteth down one, and lifteth up another.
+			</v>
+			<marker class="begin-verse" mid="v19075008" />
+			<v n="8">
+				For in 
+				
+				 the hand of Jehovah there is a cup, and the wine foameth;It is full of mixture, and he poureth out of the same:Surely the dregs thereof, all the wicked of the earth shall drain them, and drink them.
+			</v>
+			<marker class="begin-verse" mid="v19075009" />
+			<v n="9">
+				But I 
+				
+				 will declare for ever,I will sing praises to the God of Jacob.
+			</v>
+			<marker class="begin-verse" mid="v19075010" />
+			<v n="10">
+				All the 
+				
+				 horns of the wicked also will I cut off;But the horns of the righteous shall be lifted up.
+			</v>
+			<marker class="begin-verse" mid="v19075011" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

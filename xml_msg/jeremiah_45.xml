@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:25:46.458071</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:25:46.458090</next_refresh_due>
+	</generation_info>
+	<book title="Jeremiah" num="24" testament="old" version="MSG" bookAbbr="jer">
+		<marker class="begin-verse" mid="v24045001" />
+		<chapter num="45">
+			<begin-paragraph />
+			<v n="1">
+				This is 
+				
+				 what Jeremiah the prophet told Baruch son of Neriah when he wrote out on a scroll these messages that Jeremiah dictated. (This happened in the fourth year of Jehoiakim son of Josiah, king of Judah.)
+			</v>
+			<marker class="begin-verse" mid="v24045002" />
+			<v n="2">
+				This is 
+				
+				 what the Lord, the God of Israel, says to you, Baruch:
+			</v>
+			<marker class="begin-verse" mid="v24045003" />
+			<v n="3">
+				You've been 
+				
+				 complaining, saying, “I'm in so much trouble because the Lord has given me sorrow to make my pain worse! I've worn myself out with my groans. I can't get any relief.”
+			</v>
+			<marker class="begin-verse" mid="v24045004" />
+			<v n="4">
+				This is 
+				
+				 what Jeremiah was told to say to Baruch: This is what the Lord says: Across the whole country I'm going to tear down what I have built and uproot what I have planted.
+			</v>
+			<marker class="begin-verse" mid="v24045005" />
+			<v n="5">
+				So in 
+				
+				 your case, do you think you'll get special treatment? Stop looking for something like that! I'm going to bring disaster down on every living thing, declares the Lord. However, I promise you that your reward will be that you will continue living, wherever you go.
+			</v>
+			<marker class="begin-verse" mid="v24045006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

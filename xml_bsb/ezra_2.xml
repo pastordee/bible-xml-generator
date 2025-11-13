@@ -1,0 +1,442 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:05:40.648356</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:05:40.648395</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" version="BSB" bookAbbr="ezr">
+		<marker class="begin-verse" mid="v15002001" />
+		<chapter num="2">
+			<heading>The List of Returning Exiles(Nehemiah 7:4–69)</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now these 
+				
+				 are the people of the province who came up from the captivity of the exiles carried away to Babylon by Nebuchadnezzar its king. They returned to Jerusalem and Judah, each to his own town,
+			</v>
+			<marker class="begin-verse" mid="v15002002" />
+			<v n="2">
+				accompanied by 
+				
+				 Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mispar, Bigvai, Rehum, and Baanah.This is the count of the men of Israel:
+			</v>
+			<marker class="begin-verse" mid="v15002003" />
+			<v n="3">
+				the descendants 
+				
+				 of Parosh, 2,172;
+			</v>
+			<marker class="begin-verse" mid="v15002004" />
+			<v n="4">
+				the descendants 
+				
+				 of Shephatiah, 372;
+			</v>
+			<marker class="begin-verse" mid="v15002005" />
+			<v n="5">
+				the descendants 
+				
+				 of Arah, 775;
+			</v>
+			<marker class="begin-verse" mid="v15002006" />
+			<v n="6">
+				the descendants 
+				
+				 of Pahath-moab (through the line of Jeshua and Joab), 2,812;
+			</v>
+			<marker class="begin-verse" mid="v15002007" />
+			<v n="7">
+				the descendants 
+				
+				 of Elam, 1,254;
+			</v>
+			<marker class="begin-verse" mid="v15002008" />
+			<v n="8">
+				the descendants 
+				
+				 of Zattu, 945;
+			</v>
+			<marker class="begin-verse" mid="v15002009" />
+			<v n="9">
+				the descendants 
+				
+				 of Zaccai, 760;
+			</v>
+			<marker class="begin-verse" mid="v15002010" />
+			<v n="10">
+				the descendants 
+				
+				 of Bani, 642;
+			</v>
+			<marker class="begin-verse" mid="v15002011" />
+			<v n="11">
+				the descendants 
+				
+				 of Bebai, 623;
+			</v>
+			<marker class="begin-verse" mid="v15002012" />
+			<v n="12">
+				the descendants 
+				
+				 of Azgad, 1,222;
+			</v>
+			<marker class="begin-verse" mid="v15002013" />
+			<v n="13">
+				the descendants 
+				
+				 of Adonikam, 666;
+			</v>
+			<marker class="begin-verse" mid="v15002014" />
+			<v n="14">
+				the descendants 
+				
+				 of Bigvai, 2,056;
+			</v>
+			<marker class="begin-verse" mid="v15002015" />
+			<v n="15">
+				the descendants 
+				
+				 of Adin, 454;
+			</v>
+			<marker class="begin-verse" mid="v15002016" />
+			<v n="16">
+				the descendants 
+				
+				 of Ater (through Hezekiah), 98;
+			</v>
+			<marker class="begin-verse" mid="v15002017" />
+			<v n="17">
+				the descendants 
+				
+				 of Bezai, 323;
+			</v>
+			<marker class="begin-verse" mid="v15002018" />
+			<v n="18">
+				the descendants 
+				
+				 of Jorah, 112;
+			</v>
+			<marker class="begin-verse" mid="v15002019" />
+			<v n="19">
+				the descendants 
+				
+				 of Hashum, 223;
+			</v>
+			<marker class="begin-verse" mid="v15002020" />
+			<v n="20">
+				the descendants 
+				
+				 of Gibbar, 95;
+			</v>
+			<marker class="begin-verse" mid="v15002021" />
+			<v n="21">
+				the men 
+				
+				 of Bethlehem, 123;
+			</v>
+			<marker class="begin-verse" mid="v15002022" />
+			<v n="22">
+				the men 
+				
+				 of Netophah, 56;
+			</v>
+			<marker class="begin-verse" mid="v15002023" />
+			<v n="23">
+				the men 
+				
+				 of Anathoth, 128;
+			</v>
+			<marker class="begin-verse" mid="v15002024" />
+			<v n="24">
+				the descendants 
+				
+				 of Azmaveth, 42;
+			</v>
+			<marker class="begin-verse" mid="v15002025" />
+			<v n="25">
+				the men 
+				
+				 of Kiriath-jearim, Chephirah, and Beeroth, 743;
+			</v>
+			<marker class="begin-verse" mid="v15002026" />
+			<v n="26">
+				the men 
+				
+				 of Ramah and Geba, 621;
+			</v>
+			<marker class="begin-verse" mid="v15002027" />
+			<v n="27">
+				the men 
+				
+				 of Michmash, 122;
+			</v>
+			<marker class="begin-verse" mid="v15002028" />
+			<v n="28">
+				the men 
+				
+				 of Bethel and Ai, 223;
+			</v>
+			<marker class="begin-verse" mid="v15002029" />
+			<v n="29">
+				the descendants 
+				
+				 of Nebo, 52;
+			</v>
+			<marker class="begin-verse" mid="v15002030" />
+			<v n="30">
+				the descendants 
+				
+				 of Magbish, 156;
+			</v>
+			<marker class="begin-verse" mid="v15002031" />
+			<v n="31">
+				the descendants 
+				
+				 of the other Elam, 1,254;
+			</v>
+			<marker class="begin-verse" mid="v15002032" />
+			<v n="32">
+				the descendants 
+				
+				 of Harim, 320;
+			</v>
+			<marker class="begin-verse" mid="v15002033" />
+			<v n="33">
+				the men 
+				
+				 of Lod, Hadid, and Ono, 725;
+			</v>
+			<marker class="begin-verse" mid="v15002034" />
+			<v n="34">
+				the men 
+				
+				 of Jericho, 345;
+			</v>
+			<marker class="begin-verse" mid="v15002035" />
+			<v n="35">
+				and the 
+				
+				 descendants of Senaah, 3,630.
+			</v>
+			<marker class="begin-verse" mid="v15002036" />
+			<v n="36">
+				The priests:The 
+				
+				 descendants of Jedaiah (through the house of Jeshua), 973;
+			</v>
+			<marker class="begin-verse" mid="v15002037" />
+			<v n="37">
+				the descendants 
+				
+				 of Immer, 1,052;
+			</v>
+			<marker class="begin-verse" mid="v15002038" />
+			<v n="38">
+				the descendants 
+				
+				 of Pashhur, 1,247;
+			</v>
+			<marker class="begin-verse" mid="v15002039" />
+			<v n="39">
+				and the 
+				
+				 descendants of Harim, 1,017.
+			</v>
+			<marker class="begin-verse" mid="v15002040" />
+			<v n="40">
+				The Levites:the 
+				
+				 descendants of Jeshua and Kadmiel (through the line of Hodaviah ), 74.
+			</v>
+			<marker class="begin-verse" mid="v15002041" />
+			<v n="41">
+				The singers:the 
+				
+				 descendants of Asaph, 128.
+			</v>
+			<marker class="begin-verse" mid="v15002042" />
+			<v n="42">
+				The gatekeepers:the 
+				
+				 descendants of Shallum,the descendants of Ater,the descendants of Talmon,the descendants of Akkub,the descendants of Hatita,and the descendants of Shobai,139 in all.
+			</v>
+			<marker class="begin-verse" mid="v15002043" />
+			<v n="43">
+				The temple 
+				
+				 servants:the descendants of Ziha,the descendants of Hasupha,the descendants of Tabbaoth,
+			</v>
+			<marker class="begin-verse" mid="v15002044" />
+			<v n="44">
+				the descendants 
+				
+				 of Keros,the descendants of Siaha,the descendants of Padon,
+			</v>
+			<marker class="begin-verse" mid="v15002045" />
+			<v n="45">
+				the descendants 
+				
+				 of Lebanah,the descendants of Hagabah,the descendants of Akkub,
+			</v>
+			<marker class="begin-verse" mid="v15002046" />
+			<v n="46">
+				the descendants 
+				
+				 of Hagab,the descendants of Shalmai,the descendants of Hanan,
+			</v>
+			<marker class="begin-verse" mid="v15002047" />
+			<v n="47">
+				the descendants 
+				
+				 of Giddel,the descendants of Gahar,the descendants of Reaiah,
+			</v>
+			<marker class="begin-verse" mid="v15002048" />
+			<v n="48">
+				the descendants 
+				
+				 of Rezin,the descendants of Nekoda,the descendants of Gazzam,
+			</v>
+			<marker class="begin-verse" mid="v15002049" />
+			<v n="49">
+				the descendants 
+				
+				 of Uzza,the descendants of Paseah,the descendants of Besai,
+			</v>
+			<marker class="begin-verse" mid="v15002050" />
+			<v n="50">
+				the descendants 
+				
+				 of Asnah,the descendants of Meunim,the descendants of Nephusim,
+			</v>
+			<marker class="begin-verse" mid="v15002051" />
+			<v n="51">
+				the descendants 
+				
+				 of Bakbuk,the descendants of Hakupha,the descendants of Harhur,
+			</v>
+			<marker class="begin-verse" mid="v15002052" />
+			<v n="52">
+				the descendants 
+				
+				 of Bazluth,the descendants of Mehida,the descendants of Harsha,
+			</v>
+			<marker class="begin-verse" mid="v15002053" />
+			<v n="53">
+				the descendants 
+				
+				 of Barkos,the descendants of Sisera,the descendants of Temah,
+			</v>
+			<marker class="begin-verse" mid="v15002054" />
+			<v n="54">
+				the descendants 
+				
+				 of Neziah,and the descendants of Hatipha.
+			</v>
+			<marker class="begin-verse" mid="v15002055" />
+			<v n="55">
+				The descendants 
+				
+				 of the servants of Solomon:the descendants of Sotai,the descendants of Sophereth,the descendants of Peruda,
+			</v>
+			<marker class="begin-verse" mid="v15002056" />
+			<v n="56">
+				the descendants 
+				
+				 of Jaala,the descendants of Darkon,the descendants of Giddel,
+			</v>
+			<marker class="begin-verse" mid="v15002057" />
+			<v n="57">
+				the descendants 
+				
+				 of Shephatiah,the descendants of Hattil,the descendants of Pochereth-hazzebaim,and the descendants of Ami.
+			</v>
+			<marker class="begin-verse" mid="v15002058" />
+			<v n="58">
+				The temple 
+				
+				 servants and descendants of the servants of Solomon numbered 392 in all.
+			</v>
+			<marker class="begin-verse" mid="v15002059" />
+			<v n="59">
+				The following 
+				
+				 came up from Tel-melah, Tel-harsha, Cherub, Addan, and Immer, but could not prove that their families were descended from Israel:
+			</v>
+			<marker class="begin-verse" mid="v15002060" />
+			<v n="60">
+				the descendants 
+				
+				 of Delaiah,the descendants of Tobiah,and the descendants of Nekoda,652 in all.
+			</v>
+			<marker class="begin-verse" mid="v15002061" />
+			<v n="61">
+				And from 
+				
+				 among the priests: the descendants of Hobaiah,the descendants of Hakkoz,and the descendants of Barzillai (who had married a daughter of Barzillai the Gileadite and was called by their name).
+			</v>
+			<marker class="begin-verse" mid="v15002062" />
+			<v n="62">
+				These men 
+				
+				 searched for their family records, but they could not find them and so were excluded from the priesthood as unclean.
+			</v>
+			<marker class="begin-verse" mid="v15002063" />
+			<v n="63">
+				The governor 
+				
+				 ordered them not to eat the most holy things until there was a priest to consult the Urim and Thummim.
+			</v>
+			<marker class="begin-verse" mid="v15002064" />
+			<v n="64">
+				The whole 
+				
+				 assembly numbered 42,360,
+			</v>
+			<marker class="begin-verse" mid="v15002065" />
+			<v n="65">
+				in addition 
+				
+				 to their 7,337 menservants and maidservants, as well as their 200 male and female singers.
+			</v>
+			<marker class="begin-verse" mid="v15002066" />
+			<v n="66">
+				They had 
+				
+				 736 horses, 245 mules,
+			</v>
+			<marker class="begin-verse" mid="v15002067" />
+			<v n="67">
+				435 camels, 
+				
+				 and 6,720 donkeys.Offerings by the Exiles(Exodus 38:21–31; Nehemiah 7:70–73)
+			</v>
+			<marker class="begin-verse" mid="v15002068" />
+			<v n="68">
+				When they 
+				
+				 arrived at the house of the LORD in Jerusalem, some of the heads of the families gave freewill offerings to rebuild the house of God on its original site.
+			</v>
+			<marker class="begin-verse" mid="v15002069" />
+			<v n="69">
+				According to 
+				
+				 their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments.
+			</v>
+			<marker class="begin-verse" mid="v15002070" />
+			<v n="70">
+				So the 
+				
+				 priests, the Levites, the singers, the gatekeepers, and the temple servants, along with some of the people, settled in their own towns; and the rest of the Israelites settled in their towns.
+			</v>
+			<marker class="begin-verse" mid="v15002071" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

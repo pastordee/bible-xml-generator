@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:18:35.592416</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:18:35.592441</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19130001" />
+		<chapter num="130">
+			<heading>A song for pilgrims going up to Jerusalem.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Lord, I 
+				
+				 cry out to you from the depths of my pain.
+			</v>
+			<marker class="begin-verse" mid="v19130002" />
+			<v n="2">
+				Please listen 
+				
+				 to my cry, and pay attention to what I'm asking.
+			</v>
+			<marker class="begin-verse" mid="v19130003" />
+			<v n="3">
+				Lord, if 
+				
+				 you kept a list of sins, who could escape being condemned?
+			</v>
+			<marker class="begin-verse" mid="v19130004" />
+			<v n="4">
+				But you 
+				
+				 are forgiving so that we might respect you.
+			</v>
+			<marker class="begin-verse" mid="v19130005" />
+			<v n="5">
+				I'm waiting 
+				
+				 for the Lord, longingly waiting, for I trust in his word.
+			</v>
+			<marker class="begin-verse" mid="v19130006" />
+			<v n="6">
+				I long 
+				
+				 for the Lord to come, more than watchmen longing for the dawn to come, more than watchmen longing for the dawn to come.
+			</v>
+			<marker class="begin-verse" mid="v19130007" />
+			<v n="7">
+				Israel, put 
+				
+				 your hope in the Lord, for the Lord loves us with a trustworthy love and his salvation knows no limits.
+			</v>
+			<marker class="begin-verse" mid="v19130008" />
+			<v n="8">
+				He will 
+				
+				 save Israel from every sin.
+			</v>
+			<marker class="begin-verse" mid="v19130009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

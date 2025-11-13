@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:18:21.435162</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:18:21.435179</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19124001" />
+		<chapter num="124">
+			<heading>A song for pilgrims going up to Jerusalem. A psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				If the 
+				
+				 Lord hadn't been for us, what would have happened? Let everyone in Israel say:
+			</v>
+			<marker class="begin-verse" mid="v19124002" />
+			<v n="2">
+				If the 
+				
+				 Lord hadn't been for us, what would have happened when people came and attacked us?
+			</v>
+			<marker class="begin-verse" mid="v19124003" />
+			<v n="3">
+				They would 
+				
+				 have swallowed us alive when their anger raged against us.
+			</v>
+			<marker class="begin-verse" mid="v19124004" />
+			<v n="4">
+				Like a 
+				
+				 flood they would have swept over us; like a rushing torrent they would have submerged us.
+			</v>
+			<marker class="begin-verse" mid="v19124005" />
+			<v n="5">
+				They would 
+				
+				 have rushed over us like raging waters, drowning us.
+			</v>
+			<marker class="begin-verse" mid="v19124006" />
+			<v n="6">
+				Praise the 
+				
+				 Lord, who didn't hand us over to them as prey to be ripped apart by their teeth.
+			</v>
+			<marker class="begin-verse" mid="v19124007" />
+			<v n="7">
+				We escaped 
+				
+				 from them like a bird flying out of a hunter's trap. The trap was broken and we flew away!
+			</v>
+			<marker class="begin-verse" mid="v19124008" />
+			<v n="8">
+				Our help 
+				
+				 comes from the Lord, who made heaven and earth.
+			</v>
+			<marker class="begin-verse" mid="v19124009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

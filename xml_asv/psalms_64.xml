@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:32:35.668067</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:32:35.668097</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19064001" />
+		<chapter num="64">
+			<heading>For the Chief Musician. A Psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Hear my 
+				
+				 voice, O God, in my complaint:Preserve my life from fear of the enemy.
+			</v>
+			<marker class="begin-verse" mid="v19064002" />
+			<v n="2">
+				Hide me 
+				
+				 from the secret counsel of evil-doers,From the tumult of the workers of iniquity;
+			</v>
+			<marker class="begin-verse" mid="v19064003" />
+			<v n="3">
+				Who have 
+				
+				 whet their tongue like a sword,And have aimed their arrows, even bitter words,
+			</v>
+			<marker class="begin-verse" mid="v19064004" />
+			<v n="4">
+				That they 
+				
+				 may shoot in secret places at the perfect:Suddenly do they shoot at him, and fear not.
+			</v>
+			<marker class="begin-verse" mid="v19064005" />
+			<v n="5">
+				They encourage 
+				
+				 themselves in an evil purpose;They commune of laying snares privily;They say, Who will see them?
+			</v>
+			<marker class="begin-verse" mid="v19064006" />
+			<v n="6">
+				They search 
+				
+				 out iniquities;We have accomplished, say they, a diligent search:And the inward thought and the heart of every one is deep.
+			</v>
+			<marker class="begin-verse" mid="v19064007" />
+			<v n="7">
+				But God 
+				
+				 will shoot at them;With an arrow suddenly shall they be wounded.
+			</v>
+			<marker class="begin-verse" mid="v19064008" />
+			<v n="8">
+				So they 
+				
+				 shall be made to stumble, their own tongue being against them:All that see them shall wag the head.
+			</v>
+			<marker class="begin-verse" mid="v19064009" />
+			<v n="9">
+				And all 
+				
+				 men shall fear;And they shall declare the work of God,And shall wisely consider of his doing.
+			</v>
+			<marker class="begin-verse" mid="v19064010" />
+			<v n="10">
+				The righteous 
+				
+				 shall be glad in Jehovah, and shall take refuge in him;And all the upright in heart shall glory.
+			</v>
+			<marker class="begin-verse" mid="v19064011" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

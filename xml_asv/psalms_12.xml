@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:27:59.867513</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:27:59.867520</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19012001" />
+		<chapter num="12">
+			<heading>For the Chief Musician; set to the Sheminith. A Psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Help, Jehovah; 
+				
+				 for the godly man ceaseth;For the faithful fail from among the children of men.
+			</v>
+			<marker class="begin-verse" mid="v19012002" />
+			<v n="2">
+				They speak 
+				
+				 falsehood every one with his neighbor:With flattering lip, and with a double heart, do they speak.
+			</v>
+			<marker class="begin-verse" mid="v19012003" />
+			<v n="3">
+				Jehovah will 
+				
+				 cut off all flattering lips,The tongue that speaketh great things;
+			</v>
+			<marker class="begin-verse" mid="v19012004" />
+			<v n="4">
+				Who have 
+				
+				 said, With our tongue will we prevail;Our lips are our own: who is lord over us?
+			</v>
+			<marker class="begin-verse" mid="v19012005" />
+			<v n="5">
+				Because of 
+				
+				 the oppression of the poor, because of the sighing of the needy,Now will I arise, saith Jehovah;I will set him in the safety he panteth for.
+			</v>
+			<marker class="begin-verse" mid="v19012006" />
+			<v n="6">
+				The words 
+				
+				 of Jehovah are pure words;As silver tried in a furnace on the earth,Purified seven times.
+			</v>
+			<marker class="begin-verse" mid="v19012007" />
+			<v n="7">
+				Thou wilt 
+				
+				 keep them, O Jehovah,Thou wilt preserve them from this generation for ever.
+			</v>
+			<marker class="begin-verse" mid="v19012008" />
+			<v n="8">
+				The wicked 
+				
+				 walk on every side,When vileness is exalted among the sons of men.
+			</v>
+			<marker class="begin-verse" mid="v19012009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:18:16.669509</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:18:16.669544</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19122001" />
+		<chapter num="122">
+			<heading>A song for pilgrims going up to Jerusalem. A psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				I was 
+				
+				 so happy when they said to me, “Let's go to the house of the Lord.”
+			</v>
+			<marker class="begin-verse" mid="v19122002" />
+			<v n="2">
+				Now we're 
+				
+				 standing inside your gates, Jerusalem!
+			</v>
+			<marker class="begin-verse" mid="v19122003" />
+			<v n="3">
+				Jerusalem is 
+				
+				 built as a city where people can be together.
+			</v>
+			<marker class="begin-verse" mid="v19122004" />
+			<v n="4">
+				All the 
+				
+				 tribes—the tribes of the Lord—go up there, following the command given to Israel to give thanks to the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19122005" />
+			<v n="5">
+				This is 
+				
+				 where the thrones are placed, where judgment is given, the thrones of the house of David.
+			</v>
+			<marker class="begin-verse" mid="v19122006" />
+			<v n="6">
+				Pray that 
+				
+				 Jerusalem may be at peace. May everyone who loves Jerusalem be kept safe.
+			</v>
+			<marker class="begin-verse" mid="v19122007" />
+			<v n="7">
+				May there 
+				
+				 be peace within your walls, and safety within your fortresses.
+			</v>
+			<marker class="begin-verse" mid="v19122008" />
+			<v n="8">
+				On behalf 
+				
+				 of my family and friends, I will now say, “May you be at peace.”
+			</v>
+			<marker class="begin-verse" mid="v19122009" />
+			<v n="9">
+				On behalf 
+				
+				 of the house of the Lord our God, I pray that everything goes well for you.
+			</v>
+			<marker class="begin-verse" mid="v19122010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

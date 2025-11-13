@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:13:57.301202</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:13:57.301223</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19013001" />
+		<chapter num="13">
+			<heading>For the music director. A psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				How long, 
+				
+				 Lord, are you going to forget me? Forever? How long will you turn away from me?
+			</v>
+			<marker class="begin-verse" mid="v19013002" />
+			<v n="2">
+				How long 
+				
+				 must I be in inner turmoil, feeling sad all day long? How long will my enemy be victorious over me?
+			</v>
+			<marker class="begin-verse" mid="v19013003" />
+			<v n="3">
+				Think about 
+				
+				 this, and answer me, Lord my God. Give me back my strength, otherwise I'm going to die,
+			</v>
+			<marker class="begin-verse" mid="v19013004" />
+			<v n="4">
+				and my 
+				
+				 enemy will say, “I defeated him!” and my opponents will celebrate my downfall.
+			</v>
+			<marker class="begin-verse" mid="v19013005" />
+			<v n="5">
+				But I 
+				
+				 trust in your never-failing love, I will be happy because you save me.
+			</v>
+			<marker class="begin-verse" mid="v19013006" />
+			<v n="6">
+				I will 
+				
+				 sing to the Lord because he has treated me with such generosity!
+			</v>
+			<marker class="begin-verse" mid="v19013007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:37:00.544685</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:37:00.544697</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19114001" />
+		<chapter num="114">
+			<begin-paragraph />
+			<v n="1">
+				When Israel 
+				
+				 went forth out of Egypt,The house of Jacob from a people of strange language;
+			</v>
+			<marker class="begin-verse" mid="v19114002" />
+			<v n="2">
+				Judah became 
+				
+				 his sanctuary,Israel his dominion.
+			</v>
+			<marker class="begin-verse" mid="v19114003" />
+			<v n="3">
+				The sea 
+				
+				 saw it, and fled;The Jordan was driven back.
+			</v>
+			<marker class="begin-verse" mid="v19114004" />
+			<v n="4">
+				The mountains 
+				
+				 skipped like rams,The little hills like lambs.
+			</v>
+			<marker class="begin-verse" mid="v19114005" />
+			<v n="5">
+				What aileth 
+				
+				 thee, O thou sea, that thou fleest?Thou Jordan, that thou turnest back?
+			</v>
+			<marker class="begin-verse" mid="v19114006" />
+			<v n="6">
+				Ye mountains, 
+				
+				 that ye skip like rams;Ye little hills, like lambs?
+			</v>
+			<marker class="begin-verse" mid="v19114007" />
+			<v n="7">
+				Tremble, thou 
+				
+				 earth, at the presence of the Lord,At the presence of the God of Jacob,
+			</v>
+			<marker class="begin-verse" mid="v19114008" />
+			<v n="8">
+				Who turned 
+				
+				 the rock into a pool of water,The flint into a fountain of waters.
+			</v>
+			<marker class="begin-verse" mid="v19114009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

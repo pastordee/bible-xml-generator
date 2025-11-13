@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:33:07.406983</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:33:07.406990</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19070001" />
+		<chapter num="70">
+			<heading>For the Chief Musician. A Psalm of David; to bring to remembrance.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Make haste, 
+				
+				 O God, to deliver me;Make haste to help me, O Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19070002" />
+			<v n="2">
+				Let them 
+				
+				 be put to shame and confoundedThat seek after my soul:Let them be turned backward and brought to dishonorThat delight in my hurt.
+			</v>
+			<marker class="begin-verse" mid="v19070003" />
+			<v n="3">
+				Let them 
+				
+				 be turned back by reason of their shameThat say, Aha, aha.
+			</v>
+			<marker class="begin-verse" mid="v19070004" />
+			<v n="4">
+				Let all 
+				
+				 those that seek thee rejoice and be glad in thee;And let such as love thy salvation say continually,Let God be magnified.
+			</v>
+			<marker class="begin-verse" mid="v19070005" />
+			<v n="5">
+				But I 
+				
+				 am poor and needy;Make haste unto me, O God:Thou art my help and my deliverer;O Jehovah, make no tarrying.
+			</v>
+			<marker class="begin-verse" mid="v19070006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

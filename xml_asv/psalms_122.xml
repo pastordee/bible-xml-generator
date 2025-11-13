@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:37:43.363707</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:37:43.363715</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19122001" />
+		<chapter num="122">
+			<heading>A Song of Ascents; of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				I was 
+				
+				 glad when they said unto me,Let us go unto the house of Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19122002" />
+			<v n="2">
+				Our feet 
+				
+				 are standingWithin thy gates, O Jerusalem,
+			</v>
+			<marker class="begin-verse" mid="v19122003" />
+			<v n="3">
+				Jerusalem, that 
+				
+				 art buildedAs a city that is compact together;
+			</v>
+			<marker class="begin-verse" mid="v19122004" />
+			<v n="4">
+				Whither the 
+				
+				 tribes go up, even the tribes of Jehovah,For an ordinance for Israel,To give thanks unto the name of Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19122005" />
+			<v n="5">
+				For there 
+				
+				 are set thrones for judgment,The thrones of the house of David.
+			</v>
+			<marker class="begin-verse" mid="v19122006" />
+			<v n="6">
+				Pray for 
+				
+				 the peace of Jerusalem:They shall prosper that love thee.
+			</v>
+			<marker class="begin-verse" mid="v19122007" />
+			<v n="7">
+				Peace be 
+				
+				 within thy walls,And prosperity within thy palaces.
+			</v>
+			<marker class="begin-verse" mid="v19122008" />
+			<v n="8">
+				For my 
+				
+				 brethren and companions’ sakes,I will now say, Peace be within thee.
+			</v>
+			<marker class="begin-verse" mid="v19122009" />
+			<v n="9">
+				For the 
+				
+				 sake of the house of Jehovah our GodI will seek thy good.
+			</v>
+			<marker class="begin-verse" mid="v19122010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

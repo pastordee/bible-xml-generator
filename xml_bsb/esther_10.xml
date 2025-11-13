@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:08:25.463765</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:08:25.463806</next_refresh_due>
+	</generation_info>
+	<book title="Esther" num="17" testament="old" version="BSB" bookAbbr="est">
+		<marker class="begin-verse" mid="v17010001" />
+		<chapter num="10">
+			<heading>Tribute to Xerxes and Mordecai</heading>
+			<begin-paragraph />
+			<v n="1">
+				Now King 
+				
+				 Xerxes imposed tribute throughout the land, even to its farthest shores.
+			</v>
+			<marker class="begin-verse" mid="v17010002" />
+			<v n="2">
+				And all 
+				
+				 of Mordecai’s powerful and magnificent accomplishments, together with the full account of the greatness to which the king had raised him, are they not written in the Book of the Chronicles of the Kings of Media and Persia?
+			</v>
+			<marker class="begin-verse" mid="v17010003" />
+			<v n="3">
+				For Mordecai 
+				
+				 the Jew was second only to King Xerxes, preeminent among the Jews and highly favored by his many kinsmen, seeking the good of his people and speaking peace to all his countrymen.
+			</v>
+			<marker class="begin-verse" mid="v17010004" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:22:12.438699</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:22:12.438720</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" version="MSG" bookAbbr="isa">
+		<marker class="begin-verse" mid="v23020001" />
+		<chapter num="20">
+			<begin-paragraph />
+			<v n="1">
+				In the 
+				
+				 year when Sargon, king of Assyria, sent his army commander to attack the town of Ashdod and conquered it,
+			</v>
+			<marker class="begin-verse" mid="v23020002" />
+			<v n="2">
+				at that 
+				
+				 time the Lord spoke through Isaiah, son of Amoz. He told him, “Take off the sackcloth clothes from your body and remove your sandals.” Isaiah did so and went around naked and barefoot.
+			</v>
+			<marker class="begin-verse" mid="v23020003" />
+			<v n="3">
+				Then the 
+				
+				 Lord said, “In the same way that my servant Isaiah has gone naked and barefoot for three years as a sign and a warning against Egypt and Ethiopia,
+			</v>
+			<marker class="begin-verse" mid="v23020004" />
+			<v n="4">
+				so shall 
+				
+				 the king of Assyria lead the Egyptian prisoners and the Ethiopian exiles, both young and old, naked and barefoot. Their buttocks will be bare, to Egypt's shame.
+			</v>
+			<marker class="begin-verse" mid="v23020005" />
+			<v n="5">
+				They will 
+				
+				 be discouraged and humiliated because they had put their hope in Ethiopia and proudly trusted in Egypt.
+			</v>
+			<marker class="begin-verse" mid="v23020006" />
+			<v n="6">
+				At that 
+				
+				 time the people living in the coastal lands will say, ‘Look what has happened to those we were depending on! We ran to them for help to save us from the king of Assyria. We don't stand a chance!’”
+			</v>
+			<marker class="begin-verse" mid="v23020007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

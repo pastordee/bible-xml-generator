@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:14:33.053044</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:14:33.053061</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19028001" />
+		<chapter num="28">
+			<heading>A psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Lord, my 
+				
+				 rock, I'm calling out to you. Please listen to me! For if you don't respond, I'll be like those who go down into the grave.
+			</v>
+			<marker class="begin-verse" mid="v19028002" />
+			<v n="2">
+				Listen as 
+				
+				 I appeal for mercy, as I call for help, as I hold up my hands in prayer towards your holy Temple.
+			</v>
+			<marker class="begin-verse" mid="v19028003" />
+			<v n="3">
+				Don't drag 
+				
+				 me off with the wicked, with those who do evil, who speak nicely to their neighbors while in their minds they're plotting evil.
+			</v>
+			<marker class="begin-verse" mid="v19028004" />
+			<v n="4">
+				Give them 
+				
+				 what they deserve for their evil actions. Pay them back for what they've done. Give them the reward they've earned!
+			</v>
+			<marker class="begin-verse" mid="v19028005" />
+			<v n="5">
+				For they 
+				
+				 don't pay any attention to what the Lord does, or to what he created. So he will destroy them—they will never be restored.
+			</v>
+			<marker class="begin-verse" mid="v19028006" />
+			<v n="6">
+				Praise the 
+				
+				 Lord! For he has heard my appeal for mercy!
+			</v>
+			<marker class="begin-verse" mid="v19028007" />
+			<v n="7">
+				The Lord 
+				
+				 is my strength and my shield. I trust in him and he helps me. I'm so happy, and I sing my thanks to him.
+			</v>
+			<marker class="begin-verse" mid="v19028008" />
+			<v n="8">
+				The Lord 
+				
+				 gives strength to his people; he is a safe refuge for the one he has anointed.
+			</v>
+			<marker class="begin-verse" mid="v19028009" />
+			<v n="9">
+				Save your 
+				
+				 people! Bless your “special possession”! Be their shepherd and carry them in your arms forever!
+			</v>
+			<marker class="begin-verse" mid="v19028010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

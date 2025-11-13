@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:01:15.428176</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:01:15.428197</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" version="ASV" bookAbbr="hos">
+		<marker class="begin-verse" mid="v28003001" />
+		<chapter num="3">
+			<begin-paragraph />
+			<v n="1">
+				And Jehovah 
+				
+				 said unto me, Go again, love a woman beloved of her friend, and an adulteress, even as Jehovah loveth the children of Israel, though they turn unto other gods, and love cakes of raisins.
+			</v>
+			<marker class="begin-verse" mid="v28003002" />
+			<v n="2">
+				So I 
+				
+				 bought her to me for fifteen pieces of silver, and a homer of barley, and a half-homer of barley;
+			</v>
+			<marker class="begin-verse" mid="v28003003" />
+			<v n="3">
+				and I 
+				
+				 said unto her, Thou shalt abide for me many days; thou shalt not play the harlot, and thou shalt not be any man’s wife: so will I also be toward thee.
+			</v>
+			<marker class="begin-verse" mid="v28003004" />
+			<v n="4">
+				For the 
+				
+				 children of Israel shall abide many days without king, and without prince, and without sacrifice, and without pillar, and without ephod or teraphim:
+			</v>
+			<marker class="begin-verse" mid="v28003005" />
+			<v n="5">
+				afterward shall 
+				
+				 the children of Israel return, and seek Jehovah their God, and David their king, and shall come with fear unto Jehovah and to his goodness in the latter days.
+			</v>
+			<marker class="begin-verse" mid="v28003006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

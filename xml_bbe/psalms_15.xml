@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="18">
+		<marker class="begin-verse" mid="v19015001">
+		</marker>
+		<chapter num="15">
+			
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			 <v n="1"> A Psalm. Of David. Lord, who may have a resting-place in your tent, a living-place on your holy hill?</v>
+      <v n="2">He who goes on his way uprightly, doing righteousness, and saying what is true in his heart;</v>
+      <v n="3">Whose tongue is not false, who does no evil to his friend, and does not take away the good name of his neighbour;</v>
+      <v n="4">Who gives honour to those who have the fear of the Lord, turning away from him who has not the Lord's approval. He who takes an oath against himself, and makes no change.</v>
+      <v n="5">He who does not put out his money at interest, or for payment give false decisions against men who have done no wrong. He who does these things will never be moved.</v>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

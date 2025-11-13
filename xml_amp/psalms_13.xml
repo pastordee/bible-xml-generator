@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:59:20.216223</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:59:20.216230</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19013001" />
+		<chapter num="13">
+			<heading>Psalm 13Prayer for Help in Trouble.To the Chief Musician. A Psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				How long, 
+				
+				 O Lord? Will You forget me forever?How long will You hide Your face from me?
+			</v>
+			<marker class="begin-verse" mid="v19013002" />
+			<v n="2">
+				How long 
+				
+				 must I take counsel in my soul,Having sorrow in my heart day after day?How long will my enemy exalt himself and triumph over me?
+			</v>
+			<marker class="begin-verse" mid="v19013003" />
+			<v n="3">
+				¶Consider and 
+				
+				 answer me, O Lord my God;Give light (life) to my eyes, or I will sleep the sleep of death,
+			</v>
+			<marker class="begin-verse" mid="v19013004" />
+			<v n="4">
+				And my 
+				
+				 enemy will say, “I have overcome him,”And my adversaries will rejoice when I am shaken.
+			</v>
+			<marker class="begin-verse" mid="v19013005" />
+			<v n="5">
+				¶But I 
+				
+				 have trusted and relied on and been confident in Your lovingkindness and faithfulness;My heart shall rejoice and delight in Your salvation.
+			</v>
+			<marker class="begin-verse" mid="v19013006" />
+			<v n="6">
+				I will 
+				
+				 sing to the Lord,Because He has dealt bountifully with me.
+			</v>
+			<marker class="begin-verse" mid="v19013007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

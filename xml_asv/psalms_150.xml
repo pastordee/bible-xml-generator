@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:40:13.384206</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:40:13.384226</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19150001" />
+		<chapter num="150">
+			<begin-paragraph />
+			<v n="1">
+				Praise ye 
+				
+				 Jehovah.Praise God in his sanctuary:Praise him in the firmament of his power.
+			</v>
+			<marker class="begin-verse" mid="v19150002" />
+			<v n="2">
+				Praise him 
+				
+				 for his mighty acts:Praise him according to his excellent greatness.
+			</v>
+			<marker class="begin-verse" mid="v19150003" />
+			<v n="3">
+				Praise him 
+				
+				 with trumpet sound:Praise him with psaltery and harp.
+			</v>
+			<marker class="begin-verse" mid="v19150004" />
+			<v n="4">
+				Praise him 
+				
+				 with timbrel and dance:Praise him with stringed instruments and pipe.
+			</v>
+			<marker class="begin-verse" mid="v19150005" />
+			<v n="5">
+				Praise him 
+				
+				 with loud cymbals:Praise him with high sounding cymbals.
+			</v>
+			<marker class="begin-verse" mid="v19150006" />
+			<v n="6">
+				Let everything 
+				
+				 that hath breath praise Jehovah.Praise ye Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19150007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:38:20.943577</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:38:20.943586</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19129001" />
+		<chapter num="129">
+			<heading>A Song of Ascents.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Many a 
+				
+				 time have they afflicted me from my youth up,Let Israel now say,
+			</v>
+			<marker class="begin-verse" mid="v19129002" />
+			<v n="2">
+				Many a 
+				
+				 time have they afflicted me from my youth up:Yet they have not prevailed against me.
+			</v>
+			<marker class="begin-verse" mid="v19129003" />
+			<v n="3">
+				The plowers 
+				
+				 plowed upon my back;They made long their furrows.
+			</v>
+			<marker class="begin-verse" mid="v19129004" />
+			<v n="4">
+				Jehovah is 
+				
+				 righteous:He hath cut asunder the cords of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19129005" />
+			<v n="5">
+				Let them 
+				
+				 be put to shame and turned backward,All they that hate Zion.
+			</v>
+			<marker class="begin-verse" mid="v19129006" />
+			<v n="6">
+				Let them 
+				
+				 be as the grass upon the housetops,Which withereth before it groweth up;
+			</v>
+			<marker class="begin-verse" mid="v19129007" />
+			<v n="7">
+				Wherewith the 
+				
+				 reaper filleth not his hand,Nor he that bindeth sheaves, his bosom:
+			</v>
+			<marker class="begin-verse" mid="v19129008" />
+			<v n="8">
+				Neither do 
+				
+				 they that go by say,The blessing of Jehovah be upon you;We bless you in the name of Jehovah.
+			</v>
+			<marker class="begin-verse" mid="v19129009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:35:46.594562</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:35:46.594586</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19100001" />
+		<chapter num="100">
+			<heading>A Psalm of thanksgiving.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Make a 
+				
+				 joyful noise unto Jehovah, all ye lands.
+			</v>
+			<marker class="begin-verse" mid="v19100002" />
+			<v n="2">
+				Serve Jehovah 
+				
+				 with gladness:Come before his presence with singing.
+			</v>
+			<marker class="begin-verse" mid="v19100003" />
+			<v n="3">
+				Know ye 
+				
+				 that Jehovah, he is God:It is he that hath made us, and we are his;We are his people, and the sheep of his pasture.
+			</v>
+			<marker class="begin-verse" mid="v19100004" />
+			<v n="4">
+				Enter into 
+				
+				 his gates with thanksgiving,And into his courts with praise:Give thanks unto him, and bless his name.
+			</v>
+			<marker class="begin-verse" mid="v19100005" />
+			<v n="5">
+				For Jehovah 
+				
+				 is good; his lovingkindness endureth for ever,And his faithfulness unto all generations.
+			</v>
+			<marker class="begin-verse" mid="v19100006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

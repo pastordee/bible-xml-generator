@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:39:04.653961</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:39:04.653968</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19137001" />
+		<chapter num="137">
+			<begin-paragraph />
+			<v n="1">
+				By the 
+				
+				 rivers of Babylon,There we sat down, yea, we wept,When we remembered Zion.
+			</v>
+			<marker class="begin-verse" mid="v19137002" />
+			<v n="2">
+				Upon the 
+				
+				 willows in the midst thereofWe hanged up our harps.
+			</v>
+			<marker class="begin-verse" mid="v19137003" />
+			<v n="3">
+				For there 
+				
+				 they that led us captive required of us songs,And they that wasted us required of us mirth, saying,Sing us one of the songs of Zion.
+			</v>
+			<marker class="begin-verse" mid="v19137004" />
+			<v n="4">
+				How shall 
+				
+				 we sing Jehovah’s songIn a foreign land?
+			</v>
+			<marker class="begin-verse" mid="v19137005" />
+			<v n="5">
+				If I 
+				
+				 forget thee, O Jerusalem,Let my right hand forget her skill.
+			</v>
+			<marker class="begin-verse" mid="v19137006" />
+			<v n="6">
+				Let my 
+				
+				 tongue cleave to the roof of my mouth,If I remember thee not;If I prefer not JerusalemAbove my chief joy.
+			</v>
+			<marker class="begin-verse" mid="v19137007" />
+			<v n="7">
+				Remember, O 
+				
+				 Jehovah, against the children of EdomThe day of Jerusalem;Who said, Rase it, rase it,Even to the foundation thereof.
+			</v>
+			<marker class="begin-verse" mid="v19137008" />
+			<v n="8">
+				O daughter 
+				
+				 of Babylon, that art to be destroyed,Happy shall he be, that rewardeth theeAs thou hast served us.
+			</v>
+			<marker class="begin-verse" mid="v19137009" />
+			<v n="9">
+				Happy shall 
+				
+				 he be, that taketh and dasheth thy little onesAgainst the rock.
+			</v>
+			<marker class="begin-verse" mid="v19137010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked AMP are taken from Amplified Bible. Amplified® Bible Copyright © 2015 by The Lockman Foundation, La Habra, CA 90631 All rights reserved. http://www.lockman.org</copyright>
+	<metadata>
+		<name>Amplified Bible</name>
+		<abbreviation>AMP</abbreviation>
+		<last_updated>2025-09-30T15:33:59.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:10:07.103538</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:10:07.103547</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="AMP" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19134001" />
+		<chapter num="134">
+			<heading>Psalm 134Greetings of Night Watchers.A Song of Ascents.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Behold, bless 
+				
+				 and praise the Lord, all servants of the Lord (priests, Levites),Who stand and serve by night in the house of the Lord. [1 Chr 9:33]
+			</v>
+			<marker class="begin-verse" mid="v19134002" />
+			<v n="2">
+				Lift up 
+				
+				 your hands to the sanctuaryAnd bless the Lord.
+			</v>
+			<marker class="begin-verse" mid="v19134003" />
+			<v n="3">
+				May the 
+				
+				 Lord bless you from Zion,He who made heaven and earth.
+			</v>
+			<marker class="begin-verse" mid="v19134004" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

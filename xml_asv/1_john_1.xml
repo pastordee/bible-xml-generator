@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:27:10.534535</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:27:10.534552</next_refresh_due>
+	</generation_info>
+	<book title="1 John" num="62" testament="new" version="ASV" bookAbbr="1jn">
+		<marker class="begin-verse" mid="v62001001" />
+		<chapter num="1">
+			<begin-paragraph />
+			<v n="1">
+				That which 
+				
+				 was from the beginning, that which we have heard, that which we have seen with our eyes, that which we beheld, and our hands handled, concerning the Word of life
+			</v>
+			<marker class="begin-verse" mid="v62001002" />
+			<v n="2">
+				(and the 
+				
+				 life was manifested, and we have seen, and bear witness, and declare unto you the life, the eternal life, which was with the Father, and was manifested unto us);
+			</v>
+			<marker class="begin-verse" mid="v62001003" />
+			<v n="3">
+				that which 
+				
+				 we have seen and heard declare we unto you also, that ye also may have fellowship with us: yea, and our fellowship is with the Father, and with his Son Jesus Christ:
+			</v>
+			<marker class="begin-verse" mid="v62001004" />
+			<v n="4">
+				and these 
+				
+				 things we write, that our joy may be made full.
+			</v>
+			<marker class="begin-verse" mid="v62001005" />
+			<v n="5">
+				And this 
+				
+				 is the message which we have heard from him and announce unto you, that God is light, and in him is no darkness at all.
+			</v>
+			<marker class="begin-verse" mid="v62001006" />
+			<v n="6">
+				If we 
+				
+				 say that we have fellowship with him and walk in the darkness, we lie, and do not the truth:
+			</v>
+			<marker class="begin-verse" mid="v62001007" />
+			<v n="7">
+				but if 
+				
+				 we walk in the light, as he is in the light, we have fellowship one with another, and the blood of Jesus his Son cleanseth us from all sin.
+			</v>
+			<marker class="begin-verse" mid="v62001008" />
+			<v n="8">
+				If we 
+				
+				 say that we have no sin, we deceive ourselves, and the truth is not in us.
+			</v>
+			<marker class="begin-verse" mid="v62001009" />
+			<v n="9">
+				If we 
+				
+				 confess our sins, he is faithful and righteous to forgive us our sins, and to cleanse us from all unrighteousness.
+			</v>
+			<marker class="begin-verse" mid="v62001010" />
+			<v n="10">
+				If we 
+				
+				 say that we have not sinned, we make him a liar, and his word is not in us.
+			</v>
+			<marker class="begin-verse" mid="v62001011" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

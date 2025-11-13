@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?> 
+<crossway-bible>
+	<book title="Psalms" num="19">
+		<marker class="begin-verse" mid="v19001001">
+		</marker>
+		
+		<chapter num="1">
+			
+			<begin-paragraph class="line-group">
+			</begin-paragraph>
+			<v n="1">Happy is the man who does not go in the company of sinners, or take his place in the way of evil-doers, or in the seat of those who do not give honour to the Lord.</v>
+      <v n="2">But whose delight is in the law of the Lord, and whose mind is on his law day and night.</v>
+      <v n="3">He will be like a tree planted by the riv of water, which gives its fruit at the right time, whose leaves will ever be green; and he will do well in all his undertakings.</v>
+      <v n="4">The evil-doers are not so; but are like the dust from the grain, which the wind takes away.</v>
+      <v n="5">For this cause there will be no mercy for sinners when they are judged, and the evil-doers will have no place among the upright,</v>
+      <v n="6">Because the Lord sees the way of the upright, but the end of the sinner is destruction.</v>
+			<end-paragraph
+				>
+			</end-paragraph>
+			<end-block-indent
+				>
+			</end-block-indent>
+		</chapter>
+	</book>
+</crossway-bible>
+
+

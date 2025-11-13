@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:06:42.207018</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:06:42.207035</next_refresh_due>
+	</generation_info>
+	<book title="Malachi" num="39" testament="old" version="ASV" bookAbbr="mal">
+		<marker class="begin-verse" mid="v39004001" />
+		<chapter num="4">
+			<begin-paragraph />
+			<v n="1">
+				For, behold, 
+				
+				 the day cometh, it burneth as a furnace; and all the proud, and all that work wickedness, shall be stubble; and the day that cometh shall burn them up, saith Jehovah of hosts, that it shall leave them neither root nor branch.
+			</v>
+			<marker class="begin-verse" mid="v39004002" />
+			<v n="2">
+				But unto 
+				
+				 you that fear my name shall the sun of righteousness arise with healing in its wings; and ye shall go forth, and gambol as calves of the stall.
+			</v>
+			<marker class="begin-verse" mid="v39004003" />
+			<v n="3">
+				And ye 
+				
+				 shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I make, saith Jehovah of hosts.
+			</v>
+			<marker class="begin-verse" mid="v39004004" />
+			<v n="4">
+				Remember ye 
+				
+				 the law of Moses my servant, which I commanded unto him in Horeb for all Israel, even statutes and ordinances.
+			</v>
+			<marker class="begin-verse" mid="v39004005" />
+			<v n="5">
+				Behold, I 
+				
+				 will send you Elijah the prophet before the great and terrible day of Jehovah come.
+			</v>
+			<marker class="begin-verse" mid="v39004006" />
+			<v n="6">
+				And he 
+				
+				 shall turn the heart of the fathers to the children, and the heart of the children to their fathers; lest I come and smite the earth with a curse.
+			</v>
+			<marker class="begin-verse" mid="v39004007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:18:30.817374</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:18:30.817396</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19128001" />
+		<chapter num="128">
+			<heading>A song for pilgrims going up to Jerusalem.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Happy are 
+				
+				 all those who worship the Lord, everyone who follows his ways!
+			</v>
+			<marker class="begin-verse" mid="v19128002" />
+			<v n="2">
+				You will 
+				
+				 eat what your own hands have produced. You will be happy and do well.
+			</v>
+			<marker class="begin-verse" mid="v19128003" />
+			<v n="3">
+				Your wife 
+				
+				 will be like a fruitful vine growing in your home. Your children will be like the shoots of an olive tree around your table.
+			</v>
+			<marker class="begin-verse" mid="v19128004" />
+			<v n="4">
+				This will 
+				
+				 certainly be the Lord's blessing on those who worship him.
+			</v>
+			<marker class="begin-verse" mid="v19128005" />
+			<v n="5">
+				May the 
+				
+				 Lord go on blessing you from Zion; may you see Jerusalem prosper all the days of your life.
+			</v>
+			<marker class="begin-verse" mid="v19128006" />
+			<v n="6">
+				May you 
+				
+				 see your children's children. May Israel be at peace!
+			</v>
+			<marker class="begin-verse" mid="v19128007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

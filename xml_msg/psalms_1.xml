@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:13:28.678603</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:13:28.678619</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19001001" />
+		<chapter num="1">
+			<begin-paragraph />
+			<v n="1">
+				Happy are 
+				
+				 those who don't follow the advice of the wicked. They refuse to adopt the ways of sinful people, and they don't make fun of others.
+			</v>
+			<marker class="begin-verse" mid="v19001002" />
+			<v n="2">
+				Instead they 
+				
+				 love to do what the law of the Lord says, and they think about it day and night.
+			</v>
+			<marker class="begin-verse" mid="v19001003" />
+			<v n="3">
+				They're like 
+				
+				 trees growing by flowing rivers, producing fruit every season. Their leaves never wither, and they are successful in all they do.
+			</v>
+			<marker class="begin-verse" mid="v19001004" />
+			<v n="4">
+				But it's 
+				
+				 not like that for the wicked! They are like chaff, blown away by the wind.
+			</v>
+			<marker class="begin-verse" mid="v19001005" />
+			<v n="5">
+				For this 
+				
+				 reason the wicked will not survive the judgment—sinners have no place among those who live right.
+			</v>
+			<marker class="begin-verse" mid="v19001006" />
+			<v n="6">
+				For the 
+				
+				 Lord watches over those who follow the right way, but the way of the wicked leads to death.
+			</v>
+			<marker class="begin-verse" mid="v19001007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

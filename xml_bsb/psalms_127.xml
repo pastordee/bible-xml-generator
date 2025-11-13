@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:23:27.066629</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:23:27.066666</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19127001" />
+		<chapter num="127">
+			<heading>Children Are a Heritage from the LORDA song of ascents. Of Solomon.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Unless the 
+				
+				 LORD builds the house,its builders labor in vain;unless the LORD protects the city,its watchmen stand guard in vain.
+			</v>
+			<marker class="begin-verse" mid="v19127002" />
+			<v n="2">
+				In vain 
+				
+				 you rise earlyand stay up late,toiling for bread to eat—for He gives sleep to His beloved.
+			</v>
+			<marker class="begin-verse" mid="v19127003" />
+			<v n="3">
+				Children are 
+				
+				 indeed a heritage from the LORD,and the fruit of the womb is His reward.
+			</v>
+			<marker class="begin-verse" mid="v19127004" />
+			<v n="4">
+				Like arrows 
+				
+				 in the hand of a warrior,so are children born in one’s youth.
+			</v>
+			<marker class="begin-verse" mid="v19127005" />
+			<v n="5">
+				Blessed is 
+				
+				 the manwhose quiver is full of them.He will not be put to shamewhen he confronts the enemies at the gate.
+			</v>
+			<marker class="begin-verse" mid="v19127006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

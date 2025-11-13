@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:23:48.284501</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:23:48.284518</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19131001" />
+		<chapter num="131">
+			<heading>I Have Stilled My SoulA song of ascents. Of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				My heart 
+				
+				 is not proud, O LORD,my eyes are not haughty.I do not aspire to great thingsor matters too lofty for me.
+			</v>
+			<marker class="begin-verse" mid="v19131002" />
+			<v n="2">
+				Surely I 
+				
+				 have stilled and quieted my soul;like a weaned child with his mother,like a weaned child is my soul within me.
+			</v>
+			<marker class="begin-verse" mid="v19131003" />
+			<v n="3">
+				O Israel, 
+				
+				 put your hope in the LORD,both now and forevermore.
+			</v>
+			<marker class="begin-verse" mid="v19131004" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

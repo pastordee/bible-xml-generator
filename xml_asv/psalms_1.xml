@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:27:02.100672</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:27:02.100685</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19001001" />
+		<chapter num="1">
+			<heading>BOOK I</heading>
+			<begin-paragraph />
+			<v n="1">
+				Blessed is 
+				
+				 the man that walketh not in the counsel of the wicked,Nor standeth in the way of sinners,Nor sitteth in the seat of scoffers:
+			</v>
+			<marker class="begin-verse" mid="v19001002" />
+			<v n="2">
+				But his 
+				
+				 delight is in the law of Jehovah;And on his law doth he meditate day and night.
+			</v>
+			<marker class="begin-verse" mid="v19001003" />
+			<v n="3">
+				And he 
+				
+				 shall be like a tree planted by the streams of water,That bringeth forth its fruit in its season,Whose leaf also doth not wither;And whatsoever he doeth shall prosper.
+			</v>
+			<marker class="begin-verse" mid="v19001004" />
+			<v n="4">
+				The wicked 
+				
+				 are not so,But are like the chaff which the wind driveth away.
+			</v>
+			<marker class="begin-verse" mid="v19001005" />
+			<v n="5">
+				Therefore the 
+				
+				 wicked shall not stand in the judgment,Nor sinners in the congregation of the righteous.
+			</v>
+			<marker class="begin-verse" mid="v19001006" />
+			<v n="6">
+				For Jehovah 
+				
+				 knoweth the way of the righteous;But the way of the wicked shall perish.
+			</v>
+			<marker class="begin-verse" mid="v19001007" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

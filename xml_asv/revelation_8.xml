@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T08:28:30.659567</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T08:28:30.659598</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="ASV" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66008001" />
+		<chapter num="8">
+			<begin-paragraph />
+			<v n="1">
+				And when 
+				
+				 he opened the seventh seal, there followed a silence in heaven about the space of half an hour.
+			</v>
+			<marker class="begin-verse" mid="v66008002" />
+			<v n="2">
+				And I 
+				
+				 saw the seven angels that stand before God; and there were given unto them seven trumpets.
+			</v>
+			<marker class="begin-verse" mid="v66008003" />
+			<v n="3">
+				And another 
+				
+				 angel came and stood over the altar, having a golden censer; and there was given unto him much incense, that he should add it unto the prayers of all the saints upon the golden altar which was before the throne.
+			</v>
+			<marker class="begin-verse" mid="v66008004" />
+			<v n="4">
+				And the 
+				
+				 smoke of the incense, with the prayers of the saints, went up before God out of the angel’s hand.
+			</v>
+			<marker class="begin-verse" mid="v66008005" />
+			<v n="5">
+				And the 
+				
+				 angel taketh the censer; and he filled it with the fire of the altar, and cast it upon the earth: and there followed thunders, and voices, and lightnings, and an earthquake.
+			</v>
+			<marker class="begin-verse" mid="v66008006" />
+			<v n="6">
+				And the 
+				
+				 seven angels that had the seven trumpets prepared themselves to sound.
+			</v>
+			<marker class="begin-verse" mid="v66008007" />
+			<v n="7">
+				And the 
+				
+				 first sounded, and there followed hail and fire, mingled with blood, and they were cast upon the earth: and the third part of the earth was burnt up, and the third part of the trees was burnt up, and all green grass was burnt up.
+			</v>
+			<marker class="begin-verse" mid="v66008008" />
+			<v n="8">
+				And the 
+				
+				 second angel sounded, and as it were a great mountain burning with fire was cast into the sea: and the third part of the sea became blood;
+			</v>
+			<marker class="begin-verse" mid="v66008009" />
+			<v n="9">
+				and there 
+				
+				 died the third part of the creatures which were in the sea, even they that had life; and the third part of the ships was destroyed.
+			</v>
+			<marker class="begin-verse" mid="v66008010" />
+			<v n="10">
+				And the 
+				
+				 third angel sounded, and there fell from heaven a great star, burning as a torch, and it fell upon the third part of the rivers, and upon the fountains of the waters;
+			</v>
+			<marker class="begin-verse" mid="v66008011" />
+			<v n="11">
+				and the 
+				
+				 name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.
+			</v>
+			<marker class="begin-verse" mid="v66008012" />
+			<v n="12">
+				And the 
+				
+				 fourth angel sounded, and the third part of the sun was smitten, and the third part of the moon, and the third part of the stars; that the third part of them should be darkened, and the day should not shine for the third part of it, and the night in like manner.
+			</v>
+			<marker class="begin-verse" mid="v66008013" />
+			<v n="13">
+				And I 
+				
+				 saw, and I heard an eagle, flying in mid heaven, saying with a great voice, Woe, woe, woe, for them that dwell on the earth, by reason of the other voices of the trumpet of the three angels, who are yet to sound.
+			</v>
+			<marker class="begin-verse" mid="v66008014" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

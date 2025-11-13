@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:17:55.416214</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:17:55.416228</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19113001" />
+		<chapter num="113">
+			<begin-paragraph />
+			<v n="1">
+				Praise the 
+				
+				 Lord! Praise him, servants of the Lord! Praise the Lord as he is!
+			</v>
+			<marker class="begin-verse" mid="v19113002" />
+			<v n="2">
+				Let the 
+				
+				 Lord's nature be praised, now and forever.
+			</v>
+			<marker class="begin-verse" mid="v19113003" />
+			<v n="3">
+				Let everyone 
+				
+				 everywhere, from the east to the west, praise the Lord as he is!
+			</v>
+			<marker class="begin-verse" mid="v19113004" />
+			<v n="4">
+				The Lord 
+				
+				 rules supreme over all nations; his glory extends higher than the heavens.
+			</v>
+			<marker class="begin-verse" mid="v19113005" />
+			<v n="5">
+				Who is 
+				
+				 like the Lord our God? He is the one who lives on high, seated on his throne.
+			</v>
+			<marker class="begin-verse" mid="v19113006" />
+			<v n="6">
+				He has 
+				
+				 to stoop low to look down on the heavens and the earth.
+			</v>
+			<marker class="begin-verse" mid="v19113007" />
+			<v n="7">
+				He helps 
+				
+				 the poor up from the dust; he lifts the needy from the dump.
+			</v>
+			<marker class="begin-verse" mid="v19113008" />
+			<v n="8">
+				He gives 
+				
+				 them positions of honor together with important leaders, with leaders of his own people.
+			</v>
+			<marker class="begin-verse" mid="v19113009" />
+			<v n="9">
+				He makes 
+				
+				 the childless woman happy in her home by giving her children. Praise the Lord!
+			</v>
+			<marker class="begin-verse" mid="v19113010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

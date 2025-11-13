@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:17:19.818271</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:17:19.819041</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19098001" />
+		<chapter num="98">
+			<heading>A psalm.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Sing the 
+				
+				 Lord a new song, for he has done wonderful things: by his powerful right hand and his strong arm he has won the victory.
+			</v>
+			<marker class="begin-verse" mid="v19098002" />
+			<v n="2">
+				The Lord 
+				
+				 has revealed his salvation to the nations, and shown them his goodness.
+			</v>
+			<marker class="begin-verse" mid="v19098003" />
+			<v n="3">
+				He has 
+				
+				 not forgotten to show his trustworthy love and faithfulness to the descendants of Israel. Our God has made his salvation clear to the ends of the earth.
+			</v>
+			<marker class="begin-verse" mid="v19098004" />
+			<v n="4">
+				Everyone on 
+				
+				 earth, shout in triumph to the Lord; break out in joyful songs of praise!
+			</v>
+			<marker class="begin-verse" mid="v19098005" />
+			<v n="5">
+				Sing praises 
+				
+				 to the Lord with the harp, with the harp and melodious voices;
+			</v>
+			<marker class="begin-verse" mid="v19098006" />
+			<v n="6">
+				with trumpets 
+				
+				 and the sound of the ram's horn sing in happiness before the Lord, the King.
+			</v>
+			<marker class="begin-verse" mid="v19098007" />
+			<v n="7">
+				Let the 
+				
+				 sea and everything in it shout with praise, together with the earth and everything living in it.
+			</v>
+			<marker class="begin-verse" mid="v19098008" />
+			<v n="8">
+				Let the 
+				
+				 rivers celebrate, let the hills join in the celebration
+			</v>
+			<marker class="begin-verse" mid="v19098009" />
+			<v n="9">
+				before the 
+				
+				 Lord, for he is coming to judge the earth. He will judge the world justly, and the nations fairly.
+			</v>
+			<marker class="begin-verse" mid="v19098010" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>The Holy Bible, American Standard Version - PUBLIC DOMAIN</copyright>
+	<metadata>
+		<name>The Holy Bible, American Standard Version</name>
+		<abbreviation>ASV</abbreviation>
+		<last_updated>2025-09-26T00:24:05.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T07:27:12.593392</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T07:27:12.593407</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="ASV" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19003001" />
+		<chapter num="3">
+			<heading>A Psalm of David, when he fled from Absalom his son.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Jehovah, how 
+				
+				 are mine adversaries increased!Many are they that rise up against me.
+			</v>
+			<marker class="begin-verse" mid="v19003002" />
+			<v n="2">
+				Many there 
+				
+				 are that say of my soul,There is no help for him in God. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19003003" />
+			<v n="3">
+				But thou, 
+				
+				 O Jehovah, art a shield about me;My glory, and the lifter up of my head.
+			</v>
+			<marker class="begin-verse" mid="v19003004" />
+			<v n="4">
+				I cry 
+				
+				 unto Jehovah with my voice,And he answereth me out of his holy hill. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19003005" />
+			<v n="5">
+				I laid 
+				
+				 me down and slept;I awaked; for Jehovah sustaineth me.
+			</v>
+			<marker class="begin-verse" mid="v19003006" />
+			<v n="6">
+				I will 
+				
+				 not be afraid of ten thousands of the peopleThat have set themselves against me round about.
+			</v>
+			<marker class="begin-verse" mid="v19003007" />
+			<v n="7">
+				Arise, O 
+				
+				 Jehovah; save me, O my God:For thou hast smitten all mine enemies upon the cheek bone;Thou hast broken the teeth of the wicked.
+			</v>
+			<marker class="begin-verse" mid="v19003008" />
+			<v n="8">
+				Salvation belongeth 
+				
+				 unto Jehovah:Thy blessing be upon thy people. [Selah
+			</v>
+			<marker class="begin-verse" mid="v19003009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

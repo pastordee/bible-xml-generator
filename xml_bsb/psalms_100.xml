@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Berean Standard Bible - The Holy Bible, Berean Standard Bible, BSB is produced in cooperation with Bible Hub, Discovery Bible, OpenBible.com, and the Berean Bible Translation Committee. This text of God's Word has been dedicated to the public domain</copyright>
+	<metadata>
+		<name>Berean Standard Bible</name>
+		<abbreviation>BSB</abbreviation>
+		<last_updated>2025-10-01T02:35:46.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-04T09:21:03.135639</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-04T09:21:03.135662</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="BSB" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19100001" />
+		<chapter num="100">
+			<heading>Make a Joyful Noise(Psalms 66:1–20)A Psalm of thanksgiving.</heading>
+			<begin-paragraph />
+			<v n="1">
+				Make a 
+				
+				 joyful noise to the LORD,all the earth.
+			</v>
+			<marker class="begin-verse" mid="v19100002" />
+			<v n="2">
+				Serve the 
+				
+				 LORD with gladness;come into His presence with joyful songs.
+			</v>
+			<marker class="begin-verse" mid="v19100003" />
+			<v n="3">
+				Know that 
+				
+				 the LORD is God.It is He who made us, and we are His;we are His people, and the sheep of His pasture.
+			</v>
+			<marker class="begin-verse" mid="v19100004" />
+			<v n="4">
+				Enter His 
+				
+				 gates with thanksgivingand His courts with praise;give thanks to Him and bless His name.
+			</v>
+			<marker class="begin-verse" mid="v19100005" />
+			<v n="5">
+				For the 
+				
+				 LORD is good,and His loving devotion endures forever;His faithfulness continues to all generations.
+			</v>
+			<marker class="begin-verse" mid="v19100006" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

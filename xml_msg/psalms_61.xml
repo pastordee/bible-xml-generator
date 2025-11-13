@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked MSG are taken from Free Bible Version. Dr. Jonathan Gallagher. Released under Creative Commons Attribution-ShareAlike 4.0 Unported License. Version 5.2. For corrections send email to jonathangallagherfbv@gmail.com</copyright>
+	<metadata>
+		<name>Free Bible Version</name>
+		<abbreviation>FBV</abbreviation>
+		<last_updated>2025-10-15T19:44:48.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T18:15:52.054981</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T18:15:52.055001</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" version="MSG" bookAbbr="psa">
+		<marker class="begin-verse" mid="v19061001" />
+		<chapter num="61">
+			<heading>For the music director. With stringed instruments. A psalm of David.</heading>
+			<begin-paragraph />
+			<v n="1">
+				God, please 
+				
+				 hear my cry for help; please listen to my prayer.
+			</v>
+			<marker class="begin-verse" mid="v19061002" />
+			<v n="2">
+				From this 
+				
+				 distant place, far from home, I cry out to you as my courage fails. Take me to a rock high above me where I will be safe,
+			</v>
+			<marker class="begin-verse" mid="v19061003" />
+			<v n="3">
+				for you 
+				
+				 are my protection, a strong tower where my enemies cannot attack me.
+			</v>
+			<marker class="begin-verse" mid="v19061004" />
+			<v n="4">
+				Let me 
+				
+				 live with you forever; protect me under the shelter of your wings. Selah.
+			</v>
+			<marker class="begin-verse" mid="v19061005" />
+			<v n="5">
+				For you, 
+				
+				 God, have heard the promises I've made. You have given all those who love your character your special blessing.
+			</v>
+			<marker class="begin-verse" mid="v19061006" />
+			<v n="6">
+				Please give 
+				
+				 the king many extra years; may his reign last through generations.
+			</v>
+			<marker class="begin-verse" mid="v19061007" />
+			<v n="7">
+				May he 
+				
+				 always live in your presence; may your trustworthy love and faithfulness protect him.
+			</v>
+			<marker class="begin-verse" mid="v19061008" />
+			<v n="8">
+				Then I 
+				
+				 will always sing praises to you, and every day I will keep my promises to you.
+			</v>
+			<marker class="begin-verse" mid="v19061009" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

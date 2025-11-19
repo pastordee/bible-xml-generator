@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:31:02.815586</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:31:02.815604</next_refresh_due>
+	</generation_info>
+	<book title="1 Chronicles" num="13" testament="old" bookAbbr="1ch" version="ESV">
+		<marker class="begin-verse" mid="v13014001">
+		</marker>
+		<chapter num="14">
+			<heading>
+				1 Chronicles 14
+			</heading>
+			<heading>
+				David’s Wives and Children
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="t" cid="c13014001.1" />And Hiram king of Tyre sent messengers to David , and cedar trees , also masons and carpenters to build a house for him .</v>
+			<marker class="begin-verse" mid="v13014002">
+			</marker>
+			<v n="2">And David knew that the Lord had established him as king over Israel , and that his kingdom was highly exalted for the sake of his people Israel .</v>
+			<marker class="begin-verse" mid="v13014003">
+			</marker>
+			<v n="3">And David took more wives in Jerusalem , and David fathered more sons and daughters .</v>
+			<marker class="begin-verse" mid="v13014004">
+			</marker>
+			<v n="4">
+				<crossref let="u" cid="c13014004.1" />These are the names of the children born to him in Jerusalem :<crossref let="v" cid="c13014004.2" />Shammua , Shobab , Nathan , Solomon ,</v>
+			<marker class="begin-verse" mid="v13014005">
+			</marker>
+			<v n="5">Ibhar , Elishua , Elpelet ,</v>
+			<marker class="begin-verse" mid="v13014006">
+			</marker>
+			<v n="6">Nogah , Nepheg , Japhia ,</v>
+			<marker class="begin-verse" mid="v13014007">
+			</marker>
+			<v n="7">Elishama ,<crossref let="w" cid="c13014007.1" />Beeliada and<crossref let="x" cid="c13014007.2" />Eliphelet .</v>
+			<marker class="begin-verse" mid="v13014008">
+			</marker>
+			<v n="8">When the Philistines heard that David had been anointed king over all Israel , all the Philistines went up to search for David . But David heard of it and went out against them .</v>
+			<marker class="begin-verse" mid="v13014009">
+			</marker>
+			<v n="9">Now the Philistines had come and<crossref let="y" cid="c13014009.1" />made a raid in the<crossref let="z" cid="c13014009.2" />Valley of Rephaim .</v>
+			<marker class="begin-verse" mid="v13014010">
+			</marker>
+			<v n="10">And David inquired of God , “ Shall I go up against the Philistines ? Will you give them into my hand ? ” And the Lord said to him , “ Go up , and I will give them into your hand . ”</v>
+			<marker class="begin-verse" mid="v13014011">
+			</marker>
+			<v n="11">And he went up to Baal-perazim , and David struck them down there . And David said , “ God has broken through my enemies by my hand , like a bursting flood . ” Therefore the name of that place is called Baal-perazim .</v>
+			<marker class="begin-verse" mid="v13014012">
+			</marker>
+			<v n="12">And they left their gods there , and David gave command , and they were burned .</v>
+			<marker class="begin-verse" mid="v13014013">
+			</marker>
+			<v n="13">And the Philistines yet again<crossref let="a" cid="c13014013.1" />made a raid in the valley .</v>
+			<marker class="begin-verse" mid="v13014014">
+			</marker>
+			<v n="14">And when David again inquired of God ,<crossref let="b" cid="c13014014.1" />God said to him , “ You shall not go up after them ; go around and come against them opposite the balsam trees .</v>
+			<marker class="begin-verse" mid="v13014015">
+			</marker>
+			<v n="15">And when you hear the sound of marching in the tops of the balsam trees , then go out to battle , for God has gone out before you to strike down the army of the Philistines . ”</v>
+			<marker class="begin-verse" mid="v13014016">
+			</marker>
+			<v n="16">And David did as God commanded him , and they struck down the Philistine army from Gibeon to Gezer .</v>
+			<marker class="begin-verse" mid="v13014017">
+			</marker>
+			<v n="17">And the fame of David went out into all lands , and the Lord brought the<crossref let="c" cid="c13014017.1" />fear of him upon all nations .</v>
+			<marker class="begin-verse" mid="v13014018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">14:11 *Baal-perazim* means *Lord of breaking through*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

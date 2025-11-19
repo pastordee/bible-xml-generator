@@ -1,0 +1,137 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:06:56.814425</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:06:56.814433</next_refresh_due>
+	</generation_info>
+	<book title="Romans" num="45" testament="new" bookAbbr="rom" version="ESV">
+		<marker class="begin-verse" mid="v45003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Romans 3
+			</heading>
+			<heading>
+				God’s Righteousness Upheld
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Then what advantage has the Jew ? Or what is the value of circumcision ?</v>
+			<marker class="begin-verse" mid="v45003002">
+			</marker>
+			<v n="2">Much in every way . To begin with ,<crossref let="x" cid="c45003002.1" />the Jews were entrusted with<crossref let="y" cid="c45003002.2" />the oracles of God .</v>
+			<marker class="begin-verse" mid="v45003003">
+			</marker>
+			<v n="3">
+				<crossref let="z" cid="c45003003.2" />What if some were unfaithful ?<crossref let="a" cid="c45003003.1" />Does their faithlessness nullify the faithfulness of God ?</v>
+			<marker class="begin-verse" mid="v45003004">
+			</marker>
+			<v n="4">and prevail when you<crossref let="e" cid="c45003004.4" />are judged . ”</v>
+			<marker class="begin-verse" mid="v45003005">
+			</marker>
+			<v n="5">But if our unrighteousness serves to show the righteousness of God , what shall we say ? That God is unrighteous to inflict<crossref let="f" cid="c45003005.1" />wrath on us ? (<crossref let="g" cid="c45003005.2" />I speak in a human way . )</v>
+			<marker class="begin-verse" mid="v45003006">
+			</marker>
+			<v n="6">By no means ! For then how could<crossref let="h" cid="c45003006.1" />God judge the world ?</v>
+			<marker class="begin-verse" mid="v45003007">
+			</marker>
+			<v n="7">But if through my lie God’s truth abounds to his glory ,<crossref let="i" cid="c45003007.1" />why am I still being condemned as a sinner ?</v>
+			<marker class="begin-verse" mid="v45003008">
+			</marker>
+			<v n="8">And why not<crossref let="j" cid="c45003008.1" />do evil that good may come ? — as some people slanderously charge us with saying . Their condemnation is just .</v>
+			<marker class="begin-verse" mid="v45003009">
+			</marker>
+			<v n="9">What then ? Are we Jews any better off ? No , not at all . For we have already charged that all , both<crossref let="k" cid="c45003009.1" />Jews and<crossref let="l" cid="c45003009.2" />Greeks , are<crossref let="m" cid="c45003009.3" />under sin ,</v>
+			<marker class="begin-verse" mid="v45003010">
+			</marker>
+			<v n="10">
+				<crossref let="n" cid="c45003010.1" />“ None is righteous , no , not one ;</v>
+			<marker class="begin-verse" mid="v45003011">
+			</marker>
+			<v n="11">no one seeks for God .</v>
+			<marker class="begin-verse" mid="v45003012">
+			</marker>
+			<v n="12">not even one . ”</v>
+			<marker class="begin-verse" mid="v45003013">
+			</marker>
+			<v n="13">
+				<crossref let="q" cid="c45003013.3" />“ The venom of asps is under their lips . ”</v>
+			<marker class="begin-verse" mid="v45003014">
+			</marker>
+			<v n="14">
+				<crossref let="r" cid="c45003014.1" />“ Their mouth is full of curses and bitterness . ”</v>
+			<marker class="begin-verse" mid="v45003015">
+			</marker>
+			<v n="15">
+				<crossref let="s" cid="c45003015.1" />“ Their feet are swift to shed blood ;</v>
+			<marker class="begin-verse" mid="v45003016">
+			</marker>
+			<v n="16">in their paths are ruin and misery ,</v>
+			<marker class="begin-verse" mid="v45003017">
+			</marker>
+			<v n="17">and<crossref let="t" cid="c45003017.1" />the way of peace they have not known . ”</v>
+			<marker class="begin-verse" mid="v45003018">
+			</marker>
+			<v n="18">
+				<crossref let="u" cid="c45003018.1" />“ There is no fear of God before their eyes . ”</v>
+			<marker class="begin-verse" mid="v45003019">
+			</marker>
+			<v n="19">Now we know that whatever<crossref let="v" cid="c45003019.1" />the law says it speaks to those who are under the law ,<crossref let="w" cid="c45003019.2" />so that every mouth may be stopped , and<crossref let="x" cid="c45003019.3" />the whole world may be held accountable to God .</v>
+			<marker class="begin-verse" mid="v45003020">
+			</marker>
+			<v n="20">For<crossref let="y" cid="c45003020.1" />by works of the law no human being will be justified in his sight , since<crossref let="z" cid="c45003020.2" />through the law comes knowledge of sin .</v>
+			<marker class="begin-verse" mid="v45003021">
+			</marker>
+			<v n="21">But now<crossref let="a" cid="c45003021.1" />the righteousness of God<crossref let="b" cid="c45003021.2" />has been manifested apart from the law , although<crossref let="c" cid="c45003021.3" />the Law and the Prophets bear witness to it —</v>
+			<marker class="begin-verse" mid="v45003022">
+			</marker>
+			<v n="22">the righteousness of God<crossref let="d" cid="c45003022.1" />through faith in Jesus Christ for all who believe .<crossref let="e" cid="c45003022.2" />For there is no distinction :</v>
+			<marker class="begin-verse" mid="v45003023">
+			</marker>
+			<v n="23">for<crossref let="f" cid="c45003023.1" />all have sinned and fall short of the glory of God ,</v>
+			<marker class="begin-verse" mid="v45003024">
+			</marker>
+			<v n="24">
+				<crossref let="g" cid="c45003024.1" />and are justified<crossref let="h" cid="c45003024.2" />by his grace as a gift ,<crossref let="i" cid="c45003024.3" />through the redemption that is in Christ Jesus ,</v>
+			<marker class="begin-verse" mid="v45003025">
+			</marker>
+			<v n="25">whom God<crossref let="j" cid="c45003025.1" />put forward as<crossref let="k" cid="c45003025.2" />a propitiation<crossref let="l" cid="c45003025.3" />by his blood , to be received by faith . This was to show God’s righteousness , because in<crossref let="m" cid="c45003025.4" />his divine forbearance he had passed over<crossref let="n" cid="c45003025.5" />former sins .</v>
+			<marker class="begin-verse" mid="v45003026">
+			</marker>
+			<v n="26">It was to show his righteousness at the present time , so that he might be just and the justifier of the one who has faith in Jesus .</v>
+			<marker class="begin-verse" mid="v45003027">
+			</marker>
+			<v n="27">
+				<crossref let="o" cid="c45003027.1" />Then what becomes of our boasting ? It is excluded . By what kind of law ? By a law of works ? No , but by the law of faith .</v>
+			<marker class="begin-verse" mid="v45003028">
+			</marker>
+			<v n="28">For we hold that one is justified by faith<crossref let="p" cid="c45003028.1" />apart from works of the law .</v>
+			<marker class="begin-verse" mid="v45003029">
+			</marker>
+			<v n="29">Or<crossref let="q" cid="c45003029.1" />is God the God of Jews only ? Is he not the God of Gentiles also ? Yes , of Gentiles also ,</v>
+			<marker class="begin-verse" mid="v45003030">
+			</marker>
+			<v n="30">since<crossref let="r" cid="c45003030.1" />God is one — who will justify the circumcised by faith and<crossref let="s" cid="c45003030.2" />the uncircumcised through faith .</v>
+			<marker class="begin-verse" mid="v45003031">
+			</marker>
+			<v n="31">Do we then overthrow the law by this faith ? By no means ! On the contrary , we uphold the law .</v>
+			<marker class="begin-verse" mid="v45003032">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">3:9 Greek *Are we*</footnote>
+				<footnote id="2">3:9 Or *at any disadvantage?*</footnote>
+				<footnote id="3">3:20 Greek *flesh*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

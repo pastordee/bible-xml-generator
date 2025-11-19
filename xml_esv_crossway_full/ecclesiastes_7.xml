@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:36.066284</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:36.066291</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" bookAbbr="ecc" version="ESV">
+		<marker class="begin-verse" mid="v21007001">
+		</marker>
+		<chapter num="7">
+			<heading>
+				Ecclesiastes 7
+			</heading>
+			<heading>
+				The Contrast of Wisdom and Folly
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and<crossref let="i" cid="c21007001.2" />the day of death than the day of birth .</v>
+			<marker class="begin-verse" mid="v21007002">
+			</marker>
+			<v n="2">and the living will<crossref let="j" cid="c21007002.1" />lay it to heart .</v>
+			<marker class="begin-verse" mid="v21007003">
+			</marker>
+			<v n="3">
+				<crossref let="k" cid="c21007003.1" />for by sadness of face the heart is made glad .</v>
+			<marker class="begin-verse" mid="v21007004">
+			</marker>
+			<v n="4">but the heart of fools is in the house of mirth .</v>
+			<marker class="begin-verse" mid="v21007005">
+			</marker>
+			<v n="5">than to hear the song of fools .</v>
+			<marker class="begin-verse" mid="v21007006">
+			</marker>
+			<v n="6">this also is vanity .</v>
+			<marker class="begin-verse" mid="v21007007">
+			</marker>
+			<v n="7">and<crossref let="p" cid="c21007007.2" />a bribe corrupts the heart .</v>
+			<marker class="begin-verse" mid="v21007008">
+			</marker>
+			<v n="8">and<crossref let="q" cid="c21007008.1" />the patient in spirit is better than the proud in spirit .</v>
+			<marker class="begin-verse" mid="v21007009">
+			</marker>
+			<v n="9">
+				<crossref let="s" cid="c21007009.2" />for anger lodges in the heart of fools .</v>
+			<marker class="begin-verse" mid="v21007010">
+			</marker>
+			<v n="10">For it is not from wisdom that you ask this .</v>
+			<marker class="begin-verse" mid="v21007011">
+			</marker>
+			<v n="11">an advantage to those who<crossref let="t" cid="c21007011.1" />see the sun .</v>
+			<marker class="begin-verse" mid="v21007012">
+			</marker>
+			<v n="12">and the advantage of knowledge is that<crossref let="v" cid="c21007012.2" />wisdom preserves the life of him who has it .</v>
+			<marker class="begin-verse" mid="v21007013">
+			</marker>
+			<v n="13">
+				<crossref let="x" cid="c21007013.2" />who can make straight what he has made crooked ?</v>
+			<marker class="begin-verse" mid="v21007014">
+			</marker>
+			<v n="14">
+				<crossref let="y" cid="c21007014.1" />In the day of prosperity be joyful , and in the day of adversity consider : God has made the one as well as the other ,<crossref let="z" cid="c21007014.2" />so that man may not find out anything that will be after him .</v>
+			<marker class="begin-verse" mid="v21007015">
+			</marker>
+			<v n="15">In my<crossref let="a" cid="c21007015.1" />vain life I have seen everything . There is<crossref let="b" cid="c21007015.2" />a righteous man who perishes in his righteousness , and there is a wicked man who<crossref let="c" cid="c21007015.3" />prolongs his life in his evildoing .</v>
+			<marker class="begin-verse" mid="v21007016">
+			</marker>
+			<v n="16">Be not overly righteous , and do not<crossref let="d" cid="c21007016.1" />make yourself too wise . Why should you destroy yourself ?</v>
+			<marker class="begin-verse" mid="v21007017">
+			</marker>
+			<v n="17">Be not overly wicked , neither be a fool .<crossref let="e" cid="c21007017.1" />Why should you die before your time ?</v>
+			<marker class="begin-verse" mid="v21007018">
+			</marker>
+			<v n="18">It is good that you should take hold of<crossref let="f" cid="c21007018.1" />this , and from<crossref let="g" cid="c21007018.2" />that<crossref let="h" cid="c21007018.3" />withhold not your hand , for the one who fears God shall come out from both of them .</v>
+			<marker class="begin-verse" mid="v21007019">
+			</marker>
+			<v n="19">
+				<crossref let="i" cid="c21007019.1" />Wisdom gives strength to the wise man more than ten rulers who are in a city .</v>
+			<marker class="begin-verse" mid="v21007020">
+			</marker>
+			<v n="20">Surely<crossref let="j" cid="c21007020.1" />there is not a righteous man on earth who does good and never sins .</v>
+			<marker class="begin-verse" mid="v21007021">
+			</marker>
+			<v n="21">Do not take to heart all the things that people say , lest you hear<crossref let="k" cid="c21007021.1" />your servant cursing you .</v>
+			<marker class="begin-verse" mid="v21007022">
+			</marker>
+			<v n="22">Your heart knows that<crossref let="l" cid="c21007022.1" />many times you yourself have cursed others .</v>
+			<marker class="begin-verse" mid="v21007023">
+			</marker>
+			<v n="23">All this I have tested by wisdom .<crossref let="m" cid="c21007023.1" />I said , “ I will be wise , ” but it was far from me .</v>
+			<marker class="begin-verse" mid="v21007024">
+			</marker>
+			<v n="24">That which has been is far off , and<crossref let="n" cid="c21007024.1" />deep , very deep ;<crossref let="o" cid="c21007024.2" />who can find it out ?</v>
+			<marker class="begin-verse" mid="v21007025">
+			</marker>
+			<v n="25">
+				<crossref let="p" cid="c21007025.1" />I turned my heart to know and to search out and to seek wisdom and the scheme of things , and to know the wickedness of folly and the foolishness that is madness .</v>
+			<marker class="begin-verse" mid="v21007026">
+			</marker>
+			<v n="26">And I find something more<crossref let="q" cid="c21007026.1" />bitter than death :<crossref let="r" cid="c21007026.2" />the woman whose heart is<crossref let="s" cid="c21007026.3" />snares and nets , and whose hands are fetters . He who pleases God escapes her , but<crossref let="t" cid="c21007026.4" />the sinner is taken by her .</v>
+			<marker class="begin-verse" mid="v21007027">
+			</marker>
+			<v n="27">Behold , this is what I found , says<crossref let="u" cid="c21007027.1" />the Preacher , while adding one thing to another to find the scheme of things —</v>
+			<marker class="begin-verse" mid="v21007028">
+			</marker>
+			<v n="28">which my soul has sought repeatedly , but I have not found .<crossref let="v" cid="c21007028.1" />One man among a thousand I found , but<crossref let="w" cid="c21007028.2" />a woman among all these I have not found .</v>
+			<marker class="begin-verse" mid="v21007029">
+			</marker>
+			<v n="29">See , this alone I found , that<crossref let="x" cid="c21007029.1" />God made man upright , but<crossref let="y" cid="c21007029.2" />they have sought out many schemes .</v>
+			<marker class="begin-verse" mid="v21007030">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">7:6 The Hebrew term *hebel* can refer to a “vapor” or “mere breath” (see note on 1:2)</footnote>
+				<footnote id="2">7:9 Hebrew *in the bosom*</footnote>
+				<footnote id="3">7:15 The Hebrew term *hebel* can refer to a “vapor” or “mere breath” (see note on 1:2)</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

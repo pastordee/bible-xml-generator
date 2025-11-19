@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:42.173331</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:42.173340</next_refresh_due>
+	</generation_info>
+	<book title="2 Corinthians" num="47" testament="new" bookAbbr="2co" version="ESV">
+		<marker class="begin-verse" mid="v47002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				2 Corinthians 2
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">For I made up my mind<crossref let="u" cid="c47002001.1" />not to make another painful visit to you .</v>
+			<marker class="begin-verse" mid="v47002002">
+			</marker>
+			<v n="2">For<crossref let="v" cid="c47002002.1" />if I cause you pain , who is there to make me glad but the one whom I have pained ?</v>
+			<marker class="begin-verse" mid="v47002003">
+			</marker>
+			<v n="3">And I wrote as I did , so that when I came I might not suffer pain from those who should have made me rejoice ,<crossref let="w" cid="c47002003.1" />for I felt sure of all of you , that my joy would be the joy of you all .</v>
+			<marker class="begin-verse" mid="v47002004">
+			</marker>
+			<v n="4">For<crossref let="x" cid="c47002004.1" />I wrote to you out of much affliction and anguish of heart and with many tears , not to cause you pain but to let you know the abundant love that I have for you .</v>
+			<marker class="begin-verse" mid="v47002005">
+			</marker>
+			<v n="5">Now<crossref let="y" cid="c47002005.2" />if anyone has caused pain ,<crossref let="z" cid="c47002005.3" />he has caused it not to me , but<crossref let="a" cid="c47002005.1" />in some measure — not to put it too severely — to all of you .</v>
+			<marker class="begin-verse" mid="v47002006">
+			</marker>
+			<v n="6">For such a one ,<crossref let="b" cid="c47002006.1" />this punishment by the majority is enough ,</v>
+			<marker class="begin-verse" mid="v47002007">
+			</marker>
+			<v n="7">so<crossref let="c" cid="c47002007.1" />you should rather turn to forgive and comfort him , or he may be overwhelmed by excessive sorrow .</v>
+			<marker class="begin-verse" mid="v47002008">
+			</marker>
+			<v n="8">So I beg you to reaffirm your love for him .</v>
+			<marker class="begin-verse" mid="v47002009">
+			</marker>
+			<v n="9">For this is why I wrote , that I might<crossref let="d" cid="c47002009.1" />test you and know<crossref let="e" cid="c47002009.2" />whether you are obedient in everything .</v>
+			<marker class="begin-verse" mid="v47002010">
+			</marker>
+			<v n="10">Anyone whom you forgive , I also forgive . Indeed , what I have forgiven , if I have forgiven anything , has been for your sake in the presence of Christ ,</v>
+			<marker class="begin-verse" mid="v47002011">
+			</marker>
+			<v n="11">so that we would not be outwitted by Satan ; for<crossref let="f" cid="c47002011.1" />we are not ignorant of his designs .</v>
+			<marker class="begin-verse" mid="v47002012">
+			</marker>
+			<v n="12">When<crossref let="g" cid="c47002012.1" />I came to Troas to preach the gospel of Christ , even though<crossref let="h" cid="c47002012.2" />a door was opened for me in the Lord ,</v>
+			<marker class="begin-verse" mid="v47002013">
+			</marker>
+			<v n="13">my spirit<crossref let="i" cid="c47002013.1" />was not at rest because I did not find my brother Titus there . So I took leave of them and went on to Macedonia .</v>
+			<marker class="begin-verse" mid="v47002014">
+			</marker>
+			<v n="14">But<crossref let="j" cid="c47002014.1" />thanks be to God , who in Christ always<crossref let="k" cid="c47002014.2" />leads us in triumphal procession , and through us spreads<crossref let="l" cid="c47002014.3" />the fragrance of the knowledge of him everywhere .</v>
+			<marker class="begin-verse" mid="v47002015">
+			</marker>
+			<v n="15">For we are the aroma of Christ to God among<crossref let="m" cid="c47002015.1" />those who are being saved and among<crossref let="n" cid="c47002015.2" />those who are perishing ,</v>
+			<marker class="begin-verse" mid="v47002016">
+			</marker>
+			<v n="16">
+				<crossref let="o" cid="c47002016.1" />to one a fragrance from death to death ,<crossref let="o" cid="c47002016.1" />to the other a fragrance from life to life .<crossref let="p" cid="c47002016.2" />Who is sufficient for these things ?</v>
+			<marker class="begin-verse" mid="v47002017">
+			</marker>
+			<v n="17">For we are not , like so many , peddlers of God’s word , but as men of sincerity , as commissioned by God , in the sight of God we speak in Christ .</v>
+			<marker class="begin-verse" mid="v47002018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

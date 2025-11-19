@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:43.346048</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:43.346056</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" bookAbbr="ecc" version="ESV">
+		<marker class="begin-verse" mid="v21012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				Ecclesiastes 12
+			</heading>
+			<heading>
+				Remember Your Creator in Your Youth
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Remember also your Creator in<crossref let="v" cid="c21012001.1" />the days of your youth , before<crossref let="w" cid="c21012001.2" />the evil days come and the years draw near of which<crossref let="x" cid="c21012001.3" />you will say , “ I have no pleasure in them ” ;</v>
+			<marker class="begin-verse" mid="v21012002">
+			</marker>
+			<v n="2">before<crossref let="y" cid="c21012002.1" />the sun and the light and the moon and the stars are darkened and the clouds return after the rain ,</v>
+			<marker class="begin-verse" mid="v21012003">
+			</marker>
+			<v n="3">in the day when the keepers of the house tremble , and the strong men are bent , and the grinders cease because they are few , and<crossref let="z" cid="c21012003.1" />those who look through the windows are dimmed ,</v>
+			<marker class="begin-verse" mid="v21012004">
+			</marker>
+			<v n="4">and<crossref let="a" cid="c21012004.1" />the doors on the street are shut — when<crossref let="b" cid="c21012004.2" />the sound of the grinding is low , and one rises up at the sound of a bird , and all<crossref let="c" cid="c21012004.3" />the daughters of song are brought low —</v>
+			<marker class="begin-verse" mid="v21012005">
+			</marker>
+			<v n="5">they are afraid also of what is high , and<crossref let="d" cid="c21012005.1" />terrors are in the way ; the almond tree blossoms , the grasshopper drags itself along , and desire fails , because man is going to his<crossref let="e" cid="c21012005.2" />eternal<crossref let="f" cid="c21012005.3" />home , and the<crossref let="g" cid="c21012005.4" />mourners go about the streets —</v>
+			<marker class="begin-verse" mid="v21012006">
+			</marker>
+			<v n="6">before the silver cord is snapped , or<crossref let="h" cid="c21012006.1" />the golden bowl is broken , or the pitcher is<crossref let="i" cid="c21012006.2" />shattered at the fountain , or the wheel broken at the cistern ,</v>
+			<marker class="begin-verse" mid="v21012007">
+			</marker>
+			<v n="7">and<crossref let="j" cid="c21012007.1" />the dust returns to the earth as it was , and<crossref let="k" cid="c21012007.2" />the spirit returns to God<crossref let="l" cid="c21012007.3" />who gave it .</v>
+			<marker class="begin-verse" mid="v21012008">
+			</marker>
+			<v n="8">
+				<crossref let="m" cid="c21012008.1" />Vanity of vanities , says<crossref let="n" cid="c21012008.2" />the Preacher ; all is vanity .</v>
+			<marker class="begin-verse" mid="v21012009">
+			</marker>
+			<v n="9">Besides being wise ,<crossref let="n" cid="c21012009.1" />the Preacher also taught the people knowledge , weighing and studying and arranging<crossref let="o" cid="c21012009.2" />many proverbs with great care .</v>
+			<marker class="begin-verse" mid="v21012010">
+			</marker>
+			<v n="10">
+				<crossref let="n" cid="c21012010.1" />The Preacher sought to find words of delight , and uprightly he wrote words of truth .</v>
+			<marker class="begin-verse" mid="v21012011">
+			</marker>
+			<v n="11">
+				<crossref let="p" cid="c21012011.1" />The words of the wise are like goads , and like<crossref let="q" cid="c21012011.2" />nails firmly fixed are the collected sayings ; they are<crossref let="r" cid="c21012011.3" />given by<crossref let="s" cid="c21012011.4" />one Shepherd .</v>
+			<marker class="begin-verse" mid="v21012012">
+			</marker>
+			<v n="12">My son , beware of anything beyond these . Of making<crossref let="u" cid="c21012012.1" />many books there is no end , and<crossref let="v" cid="c21012012.2" />much study is a weariness of the flesh .</v>
+			<marker class="begin-verse" mid="v21012013">
+			</marker>
+			<v n="13">The end of the matter ; all has been heard .<crossref let="w" cid="c21012013.1" />Fear God and keep his commandments , for this is the whole duty of man .</v>
+			<marker class="begin-verse" mid="v21012014">
+			</marker>
+			<v n="14">For<crossref let="x" cid="c21012014.1" />God will bring every deed into judgment , with every secret thing , whether good or evil .</v>
+			<marker class="begin-verse" mid="v21012015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">12:5 Or *is a burden*</footnote>
+				<footnote id="2">12:8 The Hebrew term *hebel* can refer to a “vapor” or “mere breath” (three times in this verse); see note on 1:2</footnote>
+				<footnote id="3">12:13 Or *the duty of all mankind*</footnote>
+				<footnote id="4">12:14 Or *into the judgment on*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

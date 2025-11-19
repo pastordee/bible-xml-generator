@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:18.221648</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:18.221655</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18007001">
+		</marker>
+		<chapter num="7">
+			<heading>
+				Job 7
+			</heading>
+			<heading>
+				Job Continues: My Life Has No Hope
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and are not his<crossref let="s" cid="c18007001.2" />days like the days of a hired hand ?</v>
+			<marker class="begin-verse" mid="v18007002">
+			</marker>
+			<v n="2">and like<crossref let="u" cid="c18007002.2" />a hired hand who looks for his<crossref let="v" cid="c18007002.3" />wages ,</v>
+			<marker class="begin-verse" mid="v18007003">
+			</marker>
+			<v n="3">
+				<crossref let="x" cid="c18007003.2" />and nights of misery are apportioned to me .</v>
+			<marker class="begin-verse" mid="v18007004">
+			</marker>
+			<v n="4">and I toss and turn till the dawn .</v>
+			<marker class="begin-verse" mid="v18007005">
+			</marker>
+			<v n="5">my skin hardens , then<crossref let="b" cid="c18007005.2" />breaks out afresh .</v>
+			<marker class="begin-verse" mid="v18007006">
+			</marker>
+			<v n="6">and come to their end without hope .</v>
+			<marker class="begin-verse" mid="v18007007">
+			</marker>
+			<v n="7">my eye will never again see good .</v>
+			<marker class="begin-verse" mid="v18007008">
+			</marker>
+			<v n="8">while your eyes are on me ,<crossref let="g" cid="c18007008.2" />I shall be gone .</v>
+			<marker class="begin-verse" mid="v18007009">
+			</marker>
+			<v n="9">so he who<crossref let="i" cid="c18007009.2" />goes down to Sheol does not come up ;</v>
+			<marker class="begin-verse" mid="v18007010">
+			</marker>
+			<v n="10">nor does his<crossref let="k" cid="c18007010.2" />place know him anymore .</v>
+			<marker class="begin-verse" mid="v18007011">
+			</marker>
+			<v n="11">I will<crossref let="m" cid="c18007011.2" />complain in<crossref let="n" cid="c18007011.3" />the bitterness of my soul .</v>
+			<marker class="begin-verse" mid="v18007012">
+			</marker>
+			<v n="12">that you set a guard over me ?</v>
+			<marker class="begin-verse" mid="v18007013">
+			</marker>
+			<v n="13">my couch will ease my complaint , ’</v>
+			<marker class="begin-verse" mid="v18007014">
+			</marker>
+			<v n="14">and terrify me with visions ,</v>
+			<marker class="begin-verse" mid="v18007015">
+			</marker>
+			<v n="15">and death rather than my<crossref let="q" cid="c18007015.1" />bones .</v>
+			<marker class="begin-verse" mid="v18007016">
+			</marker>
+			<v n="16">
+				<crossref let="s" cid="c18007016.2" />Leave me alone , for my days are<crossref let="t" cid="c18007016.3" />a breath .</v>
+			<marker class="begin-verse" mid="v18007017">
+			</marker>
+			<v n="17">and that you set your heart on him ,</v>
+			<marker class="begin-verse" mid="v18007018">
+			</marker>
+			<v n="18">and<crossref let="w" cid="c18007018.2" />test him every moment ?</v>
+			<marker class="begin-verse" mid="v18007019">
+			</marker>
+			<v n="19">nor leave me alone till I swallow my spit ?</v>
+			<marker class="begin-verse" mid="v18007020">
+			</marker>
+			<v n="20">Why have I become a burden to you ?</v>
+			<marker class="begin-verse" mid="v18007021">
+			</marker>
+			<v n="21">you will<crossref let="a" cid="c18007021.1" />seek me ,<crossref let="b" cid="c18007021.2" />but I shall not be . ”</v>
+			<marker class="begin-verse" mid="v18007022">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

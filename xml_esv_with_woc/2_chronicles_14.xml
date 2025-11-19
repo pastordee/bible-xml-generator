@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:31:46.669960</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:31:46.669968</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" bookAbbr="2ch" version="ESV">
+		<marker class="begin-verse" mid="v14014001">
+		</marker>
+		<chapter num="14">
+			<heading>
+				2 Chronicles 14
+			</heading>
+			<heading>
+				Asa Reigns in Judah
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">14<crossref let="g" cid="c14014001.1" />Abijah slept with his fathers, and they buried him in the city of David. And Asa his son reigned in his place. In his days the land had rest for ten years.</v>
+			<marker class="begin-verse" mid="v14014002">
+			</marker>
+			<v n="2">And Asa did what was good and right in the eyes of the Lord his God.</v>
+			<marker class="begin-verse" mid="v14014003">
+			</marker>
+			<v n="3">He took away the foreign altars<crossref let="h" cid="c14014003.1" />and the high places and broke down<crossref let="i" cid="c14014003.2" />the pillars and cut down the<crossref let="j" cid="c14014003.3" />Asherim</v>
+			<marker class="begin-verse" mid="v14014004">
+			</marker>
+			<v n="4">and commanded Judah to seek the Lord , the God of their fathers, and to keep the law and the commandment.</v>
+			<marker class="begin-verse" mid="v14014005">
+			</marker>
+			<v n="5">He also took out of all the cities of Judah<crossref let="k" cid="c14014005.2" />the high places and the incense altars. And the kingdom had rest under him.</v>
+			<marker class="begin-verse" mid="v14014006">
+			</marker>
+			<v n="6">He built<crossref let="m" cid="c14014006.2" />fortified cities in Judah, for the land had rest. He had no war in those years, for the Lord gave him peace.</v>
+			<marker class="begin-verse" mid="v14014007">
+			</marker>
+			<v n="7">and he has given us peace on every side.” So they built and prospered.</v>
+			<marker class="begin-verse" mid="v14014008">
+			</marker>
+			<v n="8">300,000 from Judah, armed with large shields and spears, and 280,000 men from Benjamin that carried shields and drew bows. All these were mighty men of valor.</v>
+			<marker class="begin-verse" mid="v14014009">
+			</marker>
+			<v n="9">Mareshah.</v>
+			<marker class="begin-verse" mid="v14014010">
+			</marker>
+			<v n="10">Mareshah.</v>
+			<marker class="begin-verse" mid="v14014011">
+			</marker>
+			<v n="11">and in your name we have come against this multitude. O Lord , you are our God; let not man prevail against you.”</v>
+			<marker class="begin-verse" mid="v14014012">
+			</marker>
+			<v n="12">So the Lord defeated the Ethiopians before Asa and before Judah, and the Ethiopians fled.</v>
+			<marker class="begin-verse" mid="v14014013">
+			</marker>
+			<v n="13">Gerar, and the Ethiopians fell until none remained alive, for they were broken before the Lord and his army. The men of Judah carried away very much spoil.</v>
+			<marker class="begin-verse" mid="v14014014">
+			</marker>
+			<v n="14">for the fear of the Lord was upon them. They plundered all the cities, for there was much plunder in them.</v>
+			<marker class="begin-verse" mid="v14014015">
+			</marker>
+			<v n="15">And they struck down the tents of those who had livestock and carried away sheep in abundance and camels. Then they returned to Jerusalem.</v>
+			<marker class="begin-verse" mid="v14014016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">14:2 Ch 14:1 in Hebrew</footnote>
+				<footnote id="2">14:13 Hebrew *They*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

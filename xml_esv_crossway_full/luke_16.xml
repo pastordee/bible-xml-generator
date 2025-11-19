@@ -1,0 +1,254 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:29.001124</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:29.001131</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42016001">
+		</marker>
+		<chapter num="16">
+			<heading>
+				Luke 16
+			</heading>
+			<heading>
+				The Parable of the Dishonest Manager
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">He also said to the disciples ,<woc>“ There was a rich man who had</woc>
+				<crossref let="j" cid="c42016001.1" />
+				<woc>a manager , and charges were brought to him that this man was wasting his possessions .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016002">
+			</marker>
+			<v n="2">
+				<woc>And he called him and said to him , ‘ What is this that I hear about you ? Turn in the account of your</woc>
+				<crossref let="k" cid="c42016002.1" />
+				<woc>management , for you can no longer be manager . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016003">
+			</marker>
+			<v n="3">
+				<woc>And the manager said to himself , ‘ What shall I do , since my master is taking the management away from me ? I am not strong enough to dig , and I am ashamed to beg .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016004">
+			</marker>
+			<v n="4">
+				<woc>I have decided what to do , so that when I am removed from management , people may receive me into their houses . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016005">
+			</marker>
+			<v n="5">
+				<woc>So , summoning his master’s debtors one by one , he said to the first , ‘ How much do you owe my master ? ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016006">
+			</marker>
+			<v n="6">
+				<woc>He said , ‘ A hundred measures of oil . ’ He said to him , ‘ Take your bill , and sit down quickly and write fifty . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016007">
+			</marker>
+			<v n="7">
+				<woc>Then he said to another , ‘ And how much do you owe ? ’ He said , ‘ A hundred measures of wheat . ’ He said to him , ‘ Take your bill , and write eighty . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016008">
+			</marker>
+			<v n="8">
+				<woc>The master commended the dishonest manager for his</woc>
+				<crossref let="l" cid="c42016008.1" />
+				<woc>shrewdness . For</woc>
+				<crossref let="m" cid="c42016008.2" />
+				<woc>the sons of this world are</woc>
+				<crossref let="l" cid="c42016008.1" />
+				<woc>more shrewd in dealing with their own generation than</woc>
+				<crossref let="n" cid="c42016008.3" />
+				<woc>the sons of light .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016009">
+			</marker>
+			<v n="9">
+				<woc>And I tell you ,</woc>
+				<crossref let="o" cid="c42016009.1" />
+				<woc>make friends for yourselves by means of</woc>
+				<crossref let="p" cid="c42016009.2" />
+				<woc>unrighteous wealth , so that when it fails they may receive you into the eternal dwellings .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016010">
+			</marker>
+			<v n="10">
+				<crossref let="q" cid="c42016010.1" />
+				<woc>“ One who is</woc>
+				<crossref let="r" cid="c42016010.2" />
+				<woc>faithful in a very little is also faithful in much , and one who is dishonest in a very little is also dishonest in much .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016011">
+			</marker>
+			<v n="11">
+				<woc>If then you have not been faithful in the unrighteous wealth , who will entrust to you the true riches ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016012">
+			</marker>
+			<v n="12">
+				<woc>And if you have not been faithful in</woc>
+				<crossref let="s" cid="c42016012.1" />
+				<woc>that which is another’s , who will give you that which is your own ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016013">
+			</marker>
+			<v n="13">
+				<crossref let="p" cid="c42016013.1" />
+				<woc>No servant can serve two masters , for either he will hate the one and love the other , or he will be devoted to the one and despise the other . You cannot serve God and money . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016014">
+			</marker>
+			<v n="14">
+				<crossref let="t" cid="c42016014.1" />The Pharisees , who were<crossref let="u" cid="c42016014.2" />lovers of money , heard all these things , and they<crossref let="v" cid="c42016014.3" />ridiculed him .</v>
+			<marker class="begin-verse" mid="v42016015">
+			</marker>
+			<v n="15">And he said to them ,<woc>“ You are those who</woc>
+				<crossref let="w" cid="c42016015.1" />
+				<woc>justify yourselves before men , but</woc>
+				<crossref let="x" cid="c42016015.2" />
+				<woc>God knows your hearts . For what is exalted among men</woc>
+				<crossref let="y" cid="c42016015.3" />
+				<woc>is an abomination in the sight of God .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016016">
+			</marker>
+			<v n="16">
+				<crossref let="z" cid="c42016016.3" />
+				<woc>“ The Law and the Prophets were until John ; since then</woc>
+				<crossref let="a" cid="c42016016.1" />
+				<woc>the good news of the kingdom of God is preached , and</woc>
+				<crossref let="b" cid="c42016016.2" />
+				<woc>everyone forces his way into it .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016017">
+			</marker>
+			<v n="17">
+				<woc>But</woc>
+				<crossref let="c" cid="c42016017.1" />
+				<woc>it is easier for heaven and earth to pass away than for one dot of the Law to become void .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016018">
+			</marker>
+			<v n="18">
+				<crossref let="d" cid="c42016018.1" />
+				<woc>“ Everyone who divorces his wife and marries another commits adultery , and he who marries a woman divorced from her husband commits adultery .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016019">
+			</marker>
+			<v n="19">
+				<woc>“ There was a rich man who was clothed in</woc>
+				<crossref let="e" cid="c42016019.1" />
+				<woc>purple and fine linen and</woc>
+				<crossref let="f" cid="c42016019.2" />
+				<woc>who feasted sumptuously every day .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016020">
+			</marker>
+			<v n="20">
+				<woc>And at his gate</woc>
+				<crossref let="g" cid="c42016020.1" />
+				<woc>was laid a poor man named Lazarus , covered with sores ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016021">
+			</marker>
+			<v n="21">
+				<woc>who desired to be fed with</woc>
+				<crossref let="h" cid="c42016021.1" />
+				<woc>what fell from the rich man’s table . Moreover , even the dogs came and licked his sores .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016022">
+			</marker>
+			<v n="22">
+				<woc>The poor man died and was carried by</woc>
+				<crossref let="i" cid="c42016022.1" />
+				<woc>the angels</woc>
+				<crossref let="j" cid="c42016022.2" />
+				<woc>to Abraham’s side . The rich man also died and was buried ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016023">
+			</marker>
+			<v n="23">
+				<woc>and in</woc>
+				<crossref let="k" cid="c42016023.2" />
+				<woc>Hades , being in torment , he lifted up his eyes and</woc>
+				<crossref let="l" cid="c42016023.3" />
+				<woc>saw Abraham far off and Lazarus</woc>
+				<crossref let="j" cid="c42016023.1" />
+				<woc>at his side .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016024">
+			</marker>
+			<v n="24">
+				<woc>And he called out ,</woc>
+				<crossref let="m" cid="c42016024.1" />
+				<woc>‘ Father Abraham , have mercy on me , and send Lazarus to dip the end of his finger in water and</woc>
+				<crossref let="n" cid="c42016024.2" />
+				<woc>cool my tongue , for</woc>
+				<crossref let="o" cid="c42016024.3" />
+				<woc>I am in anguish in this flame . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016025">
+			</marker>
+			<v n="25">
+				<woc>But Abraham said , ‘ Child , remember that</woc>
+				<crossref let="p" cid="c42016025.1" />
+				<woc>you in your lifetime received your good things , and Lazarus in like manner bad things ; but now he is comforted here , and you are in anguish .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016026">
+			</marker>
+			<v n="26">
+				<woc>And besides all this , between us and you a great chasm has been fixed , in order that those who would pass from here to you may not be able , and none may cross from there to us . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016027">
+			</marker>
+			<v n="27">
+				<woc>And he said , ‘ Then I beg you , father , to send him to my father’s house —</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016028">
+			</marker>
+			<v n="28">
+				<woc>for I have five brothers — so that he may warn them , lest they also come into this place of torment . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016029">
+			</marker>
+			<v n="29">
+				<woc>But Abraham said , ‘ They have</woc>
+				<crossref let="q" cid="c42016029.1" />
+				<woc>Moses and the Prophets ;</woc>
+				<crossref let="r" cid="c42016029.2" />
+				<woc>let them hear them . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016030">
+			</marker>
+			<v n="30">
+				<woc>And he said , ‘ No ,</woc>
+				<crossref let="s" cid="c42016030.1" />
+				<woc>father Abraham , but if someone goes to them from the dead , they will repent . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016031">
+			</marker>
+			<v n="31">
+				<woc>He said to him , ‘ If they do not hear</woc>
+				<crossref let="q" cid="c42016031.1" />
+				<woc>Moses and the Prophets ,</woc>
+				<crossref let="t" cid="c42016031.2" />
+				<woc>neither will they be convinced if someone should rise from the dead . ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42016032">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

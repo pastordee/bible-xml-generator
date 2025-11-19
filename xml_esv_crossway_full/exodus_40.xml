@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:58:53.974647</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:58:53.974653</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" bookAbbr="exo" version="ESV">
+		<marker class="begin-verse" mid="v02040001">
+		</marker>
+		<chapter num="40">
+			<heading>
+				Exodus 40
+			</heading>
+			<heading>
+				The Tabernacle Erected
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">The Lord spoke to Moses , saying ,</v>
+			<marker class="begin-verse" mid="v02040002">
+			</marker>
+			<v n="2">“ On the<crossref let="h" cid="c02040002.1" />first day of the first month you shall<crossref let="i" cid="c02040002.2" />erect the tabernacle of the tent of meeting .</v>
+			<marker class="begin-verse" mid="v02040003">
+			</marker>
+			<v n="3">And you shall put in it the ark of the testimony , and you shall<crossref let="j" cid="c02040003.1" />screen the ark with the veil .</v>
+			<marker class="begin-verse" mid="v02040004">
+			</marker>
+			<v n="4">And<crossref let="k" cid="c02040004.1" />you shall bring in the table and arrange it , and<crossref let="l" cid="c02040004.2" />you shall bring in the lampstand and set up its lamps .</v>
+			<marker class="begin-verse" mid="v02040005">
+			</marker>
+			<v n="5">
+				<crossref let="m" cid="c02040005.1" />And you shall put the golden altar for incense before the ark of the testimony , and set up the screen for the door of the tabernacle .</v>
+			<marker class="begin-verse" mid="v02040006">
+			</marker>
+			<v n="6">
+				<crossref let="n" cid="c02040006.1" />You shall set the altar of burnt offering before the door of the tabernacle of the tent of meeting ,</v>
+			<marker class="begin-verse" mid="v02040007">
+			</marker>
+			<v n="7">
+				<crossref let="o" cid="c02040007.1" />and place the basin between the tent of meeting and the altar , and put water in it .</v>
+			<marker class="begin-verse" mid="v02040008">
+			</marker>
+			<v n="8">And you shall set up the court all around , and hang up the screen for the gate of the court .</v>
+			<marker class="begin-verse" mid="v02040009">
+			</marker>
+			<v n="9">“ Then you shall take the<crossref let="p" cid="c02040009.1" />anointing oil and anoint the tabernacle and all that is in it , and consecrate it and all its furniture , so that it may become holy .</v>
+			<marker class="begin-verse" mid="v02040010">
+			</marker>
+			<v n="10">You shall also anoint<crossref let="q" cid="c02040010.1" />the altar of burnt offering and all its utensils , and consecrate the altar ,<crossref let="r" cid="c02040010.2" />so that the altar may become most holy .</v>
+			<marker class="begin-verse" mid="v02040011">
+			</marker>
+			<v n="11">You shall also anoint the basin and its stand , and consecrate it .</v>
+			<marker class="begin-verse" mid="v02040012">
+			</marker>
+			<v n="12">
+				<crossref let="s" cid="c02040012.1" />Then you shall bring Aaron and his sons to the entrance of the tent of meeting and shall wash them with water</v>
+			<marker class="begin-verse" mid="v02040013">
+			</marker>
+			<v n="13">and put on Aaron the holy garments . And you shall anoint him and consecrate him , that he may serve me as priest .</v>
+			<marker class="begin-verse" mid="v02040014">
+			</marker>
+			<v n="14">You shall bring his sons also and put coats on them ,</v>
+			<marker class="begin-verse" mid="v02040015">
+			</marker>
+			<v n="15">
+				<crossref let="t" cid="c02040015.1" />and anoint them , as you anointed their father , that they may serve me as priests . And their anointing shall admit them to a<crossref let="u" cid="c02040015.2" />perpetual priesthood throughout their generations . ”</v>
+			<marker class="begin-verse" mid="v02040016">
+			</marker>
+			<v n="16">This Moses did ; according to all that the Lord commanded him , so he did .</v>
+			<marker class="begin-verse" mid="v02040017">
+			</marker>
+			<v n="17">In the first month in the second year , on the first day of the month ,<crossref let="v" cid="c02040017.1" />the tabernacle was erected .</v>
+			<marker class="begin-verse" mid="v02040018">
+			</marker>
+			<v n="18">Moses erected the tabernacle . He laid its bases , and set up its frames , and put in its poles , and raised up its pillars .</v>
+			<marker class="begin-verse" mid="v02040019">
+			</marker>
+			<v n="19">And he spread the tent over the tabernacle and put the covering of the tent over it , as the Lord had commanded Moses .</v>
+			<marker class="begin-verse" mid="v02040020">
+			</marker>
+			<v n="20">He<crossref let="w" cid="c02040020.1" />took the testimony and put it into the ark , and put the poles on the ark and set the mercy seat above on the ark .</v>
+			<marker class="begin-verse" mid="v02040021">
+			</marker>
+			<v n="21">And he brought the ark into the tabernacle and<crossref let="x" cid="c02040021.1" />set up the veil of the screen , and screened<crossref let="y" cid="c02040021.2" />the ark of the testimony , as the Lord had commanded Moses .</v>
+			<marker class="begin-verse" mid="v02040022">
+			</marker>
+			<v n="22">
+				<crossref let="z" cid="c02040022.1" />He put the table in the tent of meeting , on the north side of the tabernacle , outside the veil ,</v>
+			<marker class="begin-verse" mid="v02040023">
+			</marker>
+			<v n="23">and arranged the bread on it before the Lord , as the Lord had commanded Moses .</v>
+			<marker class="begin-verse" mid="v02040024">
+			</marker>
+			<v n="24">
+				<crossref let="a" cid="c02040024.1" />He put the lampstand in the tent of meeting , opposite the table on the south side of the tabernacle ,</v>
+			<marker class="begin-verse" mid="v02040025">
+			</marker>
+			<v n="25">
+				<crossref let="b" cid="c02040025.1" />and set up the lamps before the Lord , as the Lord had commanded Moses .</v>
+			<marker class="begin-verse" mid="v02040026">
+			</marker>
+			<v n="26">
+				<crossref let="c" cid="c02040026.1" />He put the golden altar in the tent of meeting before the veil ,</v>
+			<marker class="begin-verse" mid="v02040027">
+			</marker>
+			<v n="27">and burned fragrant incense on it , as the Lord had commanded Moses .</v>
+			<marker class="begin-verse" mid="v02040028">
+			</marker>
+			<v n="28">
+				<crossref let="d" cid="c02040028.1" />He put in place the screen for the door of the tabernacle .</v>
+			<marker class="begin-verse" mid="v02040029">
+			</marker>
+			<v n="29">
+				<crossref let="e" cid="c02040029.1" />And he set the altar of burnt offering at the entrance of the tabernacle of the tent of meeting , and offered on it the burnt offering and the<crossref let="f" cid="c02040029.2" />grain offering , as the Lord had commanded Moses .</v>
+			<marker class="begin-verse" mid="v02040030">
+			</marker>
+			<v n="30">
+				<crossref let="g" cid="c02040030.1" />He set the basin between the tent of meeting and the altar , and put water in it for washing ,</v>
+			<marker class="begin-verse" mid="v02040031">
+			</marker>
+			<v n="31">with which Moses and<crossref let="h" cid="c02040031.1" />Aaron and his sons<crossref let="i" cid="c02040031.2" />washed their hands and their feet .</v>
+			<marker class="begin-verse" mid="v02040032">
+			</marker>
+			<v n="32">When they went into the tent of meeting , and when they approached the altar , they washed , as the Lord commanded Moses .</v>
+			<marker class="begin-verse" mid="v02040033">
+			</marker>
+			<v n="33">
+				<crossref let="j" cid="c02040033.1" />And he erected the court around the tabernacle and the altar , and set up the screen of the gate of the court . So<crossref let="k" cid="c02040033.2" />Moses finished the work .</v>
+			<marker class="begin-verse" mid="v02040034">
+			</marker>
+			<v n="34">Then<crossref let="l" cid="c02040034.1" />the cloud covered the tent of meeting , and<crossref let="m" cid="c02040034.2" />the glory of the Lord filled the tabernacle .</v>
+			<marker class="begin-verse" mid="v02040035">
+			</marker>
+			<v n="35">And Moses was not able to enter the tent of meeting because the cloud settled on it , and the glory of the Lord filled the tabernacle .</v>
+			<marker class="begin-verse" mid="v02040036">
+			</marker>
+			<v n="36">Throughout all their journeys ,<crossref let="n" cid="c02040036.1" />whenever the cloud was taken up from over the tabernacle , the people of Israel would set out .</v>
+			<marker class="begin-verse" mid="v02040037">
+			</marker>
+			<v n="37">But<crossref let="o" cid="c02040037.1" />if the cloud was not taken up , then they did not set out till the day that it was taken up .</v>
+			<marker class="begin-verse" mid="v02040038">
+			</marker>
+			<v n="38">For the cloud of the Lord was on the tabernacle by day , and fire was in it by night , in the sight of all the house of Israel throughout all their journeys .</v>
+			<marker class="begin-verse" mid="v02040039">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

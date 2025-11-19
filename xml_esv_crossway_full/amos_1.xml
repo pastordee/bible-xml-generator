@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:15.671539</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:15.671546</next_refresh_due>
+	</generation_info>
+	<book title="Amos" num="30" testament="old" bookAbbr="amo" version="ESV">
+		<marker class="begin-verse" mid="v30001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Amos 1
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">The words of Amos , who was among the<crossref let="a" cid="c30001001.1" />shepherds of<crossref let="b" cid="c30001001.2" />Tekoa , which he saw concerning Israel<crossref let="c" cid="c30001001.3" />in the days of<crossref let="d" cid="c30001001.4" />Uzziah king of Judah and in the days of<crossref let="e" cid="c30001001.5" />Jeroboam the son of Joash , king of Israel , two years before<crossref let="f" cid="c30001001.6" />the earthquake .</v>
+			<marker class="begin-verse" mid="v30001002">
+			</marker>
+			<v n="2">and the<crossref let="i" cid="c30001002.3" />top of<crossref let="j" cid="c30001002.4" />Carmel withers . ”</v>
+			<marker class="begin-verse" mid="v30001003">
+			</marker>
+			<v n="3">with threshing sledges of iron .</v>
+			<marker class="begin-verse" mid="v30001004">
+			</marker>
+			<v n="4">and it shall devour the strongholds of<crossref let="o" cid="c30001004.2" />Ben-hadad .</v>
+			<marker class="begin-verse" mid="v30001005">
+			</marker>
+			<v n="5">says the Lord .</v>
+			<marker class="begin-verse" mid="v30001006">
+			</marker>
+			<v n="6">to deliver them up to Edom .</v>
+			<marker class="begin-verse" mid="v30001007">
+			</marker>
+			<v n="7">and it shall devour her strongholds .</v>
+			<marker class="begin-verse" mid="v30001008">
+			</marker>
+			<v n="8">says the Lord God .</v>
+			<marker class="begin-verse" mid="v30001009">
+			</marker>
+			<v n="9">and did not remember the covenant of brotherhood .</v>
+			<marker class="begin-verse" mid="v30001010">
+			</marker>
+			<v n="10">and it shall devour her strongholds . ”</v>
+			<marker class="begin-verse" mid="v30001011">
+			</marker>
+			<v n="11">
+				<crossref let="a" cid="c30001011.1" />and he kept his wrath forever .</v>
+			<marker class="begin-verse" mid="v30001012">
+			</marker>
+			<v n="12">and it shall devour the strongholds of<crossref let="c" cid="c30001012.2" />Bozrah . ”</v>
+			<marker class="begin-verse" mid="v30001013">
+			</marker>
+			<v n="13">that they might enlarge their border .</v>
+			<marker class="begin-verse" mid="v30001014">
+			</marker>
+			<v n="14">
+				<crossref let="h" cid="c30001014.2" />with a tempest in the day of the whirlwind ;</v>
+			<marker class="begin-verse" mid="v30001015">
+			</marker>
+			<v n="15">says the Lord .</v>
+			<marker class="begin-verse" mid="v30001016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:1 Or *sheep breeders*</footnote>
+				<footnote id="2">1:1 Or *during two years*</footnote>
+				<footnote id="3">1:3 Hebrew *I will not turn it back*; also verses 6, 9, 11, 13</footnote>
+				<footnote id="4">1:5 Or *On*</footnote>
+				<footnote id="5">1:15 Or *officials*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

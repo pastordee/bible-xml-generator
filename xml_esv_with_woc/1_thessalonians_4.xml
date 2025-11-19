@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:10.332380</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:10.332414</next_refresh_due>
+	</generation_info>
+	<book title="1 Thessalonians" num="52" testament="new" bookAbbr="1th" version="ESV">
+		<marker class="begin-verse" mid="v52004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				1 Thessalonians 4
+			</heading>
+			<heading>
+				A Life Pleasing to God
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">4 Finally, then, brothers, we ask and urge you in the Lord Jesus, that as you received from us how you ought to walk and to please God, just as you are doing, that you<crossref let="d" cid="c52004001.1" />do so more and more.</v>
+			<marker class="begin-verse" mid="v52004002">
+			</marker>
+			<v n="2">you know what instructions we gave you through the Lord Jesus.</v>
+			<marker class="begin-verse" mid="v52004003">
+			</marker>
+			<v n="3">that you abstain from sexual immorality;</v>
+			<marker class="begin-verse" mid="v52004004">
+			</marker>
+			<v n="4">honor,</v>
+			<marker class="begin-verse" mid="v52004005">
+			</marker>
+			<v n="5">who do not know God;</v>
+			<marker class="begin-verse" mid="v52004006">
+			</marker>
+			<v n="6">an avenger in all these things, as we told you beforehand and solemnly warned you.</v>
+			<marker class="begin-verse" mid="v52004007">
+			</marker>
+			<v n="7">impurity, but in holiness.</v>
+			<marker class="begin-verse" mid="v52004008">
+			</marker>
+			<v n="8">who gives his Holy Spirit to you.</v>
+			<marker class="begin-verse" mid="v52004009">
+			</marker>
+			<v n="9">Now concerning brotherly love you have no need for anyone to write to you, for you yourselves have been taught by God<crossref let="v" cid="c52004009.1" />to love one another,</v>
+			<marker class="begin-verse" mid="v52004010">
+			</marker>
+			<v n="10">do this more and more,</v>
+			<marker class="begin-verse" mid="v52004011">
+			</marker>
+			<v n="11">to work with your hands, as we instructed you,</v>
+			<marker class="begin-verse" mid="v52004012">
+			</marker>
+			<v n="12">outsiders and be dependent on no one.</v>
+			<marker class="begin-verse" mid="v52004013">
+			</marker>
+			<v n="13">who have no hope.</v>
+			<marker class="begin-verse" mid="v52004014">
+			</marker>
+			<v n="14">those who have fallen asleep.</v>
+			<marker class="begin-verse" mid="v52004015">
+			</marker>
+			<v n="15">the coming of the Lord, will not precede those who have fallen asleep.</v>
+			<marker class="begin-verse" mid="v52004016">
+			</marker>
+			<v n="16">the dead in Christ will rise first.</v>
+			<marker class="begin-verse" mid="v52004017">
+			</marker>
+			<v n="17">we will always be with the Lord.</v>
+			<marker class="begin-verse" mid="v52004018">
+			</marker>
+			<v n="18">Therefore encourage one another with these words.</v>
+			<marker class="begin-verse" mid="v52004019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">4:1 Or *brothers and sisters*; also verses 10, 13</footnote>
+				<footnote id="2">4:3 Or *your holiness*</footnote>
+				<footnote id="3">4:4 Or *how to take a wife for himself*; Greek *how to possess his own vessel*</footnote>
+				<footnote id="4">4:15 Or *by the word of the Lord*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:39.012495</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:39.012503</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19108001">
+		</marker>
+		<chapter num="108">
+			<heading>
+				Psalm 108
+			</heading>
+			<heading>
+				With God We Shall Do Valiantly
+			</heading>
+			<heading>
+				A Song. A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">I will sing and make melody with all my being!</v>
+			<marker class="begin-verse" mid="v19108002">
+			</marker>
+			<v n="2">I will awake the dawn!</v>
+			<marker class="begin-verse" mid="v19108003">
+			</marker>
+			<v n="3">I will sing praises to you among the nations.</v>
+			<marker class="begin-verse" mid="v19108004">
+			</marker>
+			<v n="4">your faithfulness reaches to the clouds.</v>
+			<marker class="begin-verse" mid="v19108005">
+			</marker>
+			<v n="5">Let your glory be over all the earth!</v>
+			<marker class="begin-verse" mid="v19108006">
+			</marker>
+			<v n="6">give salvation by your right hand and answer me!</v>
+			<marker class="begin-verse" mid="v19108007">
+			</marker>
+			<v n="7">and portion out the Valley of Succoth.</v>
+			<marker class="begin-verse" mid="v19108008">
+			</marker>
+			<v n="8">Judah my scepter.</v>
+			<marker class="begin-verse" mid="v19108009">
+			</marker>
+			<v n="9">
+				<crossref let="s" cid="c19108009.1" />over Philistia I shout in triumph.”</v>
+			<marker class="begin-verse" mid="v19108010">
+			</marker>
+			<v n="10">Who will lead me to Edom?</v>
+			<marker class="begin-verse" mid="v19108011">
+			</marker>
+			<v n="11">You do not go out, O God, with our armies.</v>
+			<marker class="begin-verse" mid="v19108012">
+			</marker>
+			<v n="12">for vain is the salvation of man!</v>
+			<marker class="begin-verse" mid="v19108013">
+			</marker>
+			<v n="13">it is he who will tread down our foes.</v>
+			<marker class="begin-verse" mid="v19108014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">108:1 Hebrew *with my glory*</footnote>
+				<footnote id="2">108:7 Or *sanctuary*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

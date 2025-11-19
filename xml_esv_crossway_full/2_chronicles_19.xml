@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:31:54.028730</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:31:54.028740</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" bookAbbr="2ch" version="ESV">
+		<marker class="begin-verse" mid="v14019001">
+		</marker>
+		<chapter num="19">
+			<heading>
+				2 Chronicles 19
+			</heading>
+			<heading>
+				Jehoshaphat’s Reforms
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Jehoshaphat the king of Judah returned in safety to his house in Jerusalem .</v>
+			<marker class="begin-verse" mid="v14019002">
+			</marker>
+			<v n="2">But<crossref let="n" cid="c14019002.1" />Jehu the son of<crossref let="o" cid="c14019002.2" />Hanani<crossref let="p" cid="c14019002.3" />the seer went out to meet him and said to King Jehoshaphat , “ Should you<crossref let="q" cid="c14019002.4" />help the wicked and love those who hate the Lord ? Because of this ,<crossref let="r" cid="c14019002.5" />wrath has gone out against you from the Lord .</v>
+			<marker class="begin-verse" mid="v14019003">
+			</marker>
+			<v n="3">Nevertheless ,<crossref let="s" cid="c14019003.1" />some good is found in you , for<crossref let="t" cid="c14019003.2" />you destroyed the Asheroth out of the land , and have<crossref let="u" cid="c14019003.3" />set your heart to seek God . ”</v>
+			<marker class="begin-verse" mid="v14019004">
+			</marker>
+			<v n="4">Jehoshaphat lived at Jerusalem . And he went out again among the people , from Beersheba to<crossref let="v" cid="c14019004.1" />the hill country of Ephraim , and brought them back to the Lord , the God of their fathers .</v>
+			<marker class="begin-verse" mid="v14019005">
+			</marker>
+			<v n="5">He appointed<crossref let="w" cid="c14019005.1" />judges in the land in all<crossref let="x" cid="c14019005.2" />the fortified cities of Judah , city by city ,</v>
+			<marker class="begin-verse" mid="v14019006">
+			</marker>
+			<v n="6">and said to the judges , “ Consider what you do ,<crossref let="y" cid="c14019006.1" />for you judge not for man but for the Lord . He is with you in giving judgment .</v>
+			<marker class="begin-verse" mid="v14019007">
+			</marker>
+			<v n="7">Now then , let the fear of the Lord be upon you . Be careful what you do , for<crossref let="z" cid="c14019007.2" />there is no injustice with the Lord our God ,<crossref let="a" cid="c14019007.1" />or partiality or taking bribes . ”</v>
+			<marker class="begin-verse" mid="v14019008">
+			</marker>
+			<v n="8">Moreover , in Jerusalem Jehoshaphat<crossref let="b" cid="c14019008.1" />appointed certain Levites and priests and heads of families of Israel ,<crossref let="y" cid="c14019008.2" />to give judgment for the Lord and to decide disputed cases . They had their seat at Jerusalem .</v>
+			<marker class="begin-verse" mid="v14019009">
+			</marker>
+			<v n="9">And he charged them :<crossref let="c" cid="c14019009.1" />“ Thus you shall do in the fear of the Lord , in faithfulness ,<crossref let="d" cid="c14019009.2" />and with your whole heart :</v>
+			<marker class="begin-verse" mid="v14019010">
+			</marker>
+			<v n="10">
+				<crossref let="e" cid="c14019010.1" />whenever a case comes to you from your brothers who live in their cities , concerning bloodshed , law or commandment , statutes or rules , then you shall warn them , that they may not incur guilt before the Lord and<crossref let="f" cid="c14019010.2" />wrath may not come upon you and your brothers . Thus you shall do , and you will not incur guilt .</v>
+			<marker class="begin-verse" mid="v14019011">
+			</marker>
+			<v n="11">And behold , Amariah the chief priest is over you<crossref let="g" cid="c14019011.1" />in all matters of the Lord ; and Zebadiah the son of Ishmael , the governor of the house of Judah , in all the king’s matters , and the Levites will serve you as officers .<crossref let="h" cid="c14019011.2" />Deal courageously , and may the Lord be with the upright ! ”</v>
+			<marker class="begin-verse" mid="v14019012">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">19:11 Hebrew *the good*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

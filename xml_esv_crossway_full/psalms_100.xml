@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:27.091451</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:27.091459</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19100001">
+		</marker>
+		<chapter num="100">
+			<heading>
+				Psalm 100
+			</heading>
+			<heading>
+				His Steadfast Love Endures Forever
+			</heading>
+			<heading>
+				A Psalm for giving thanks.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="p" cid="c19100001.1" />Make a joyful noise to the Lord , all the earth !</v>
+			<marker class="begin-verse" mid="v19100002">
+			</marker>
+			<v n="2">
+				<crossref let="r" cid="c19100002.2" />Come into his presence with singing !</v>
+			<marker class="begin-verse" mid="v19100003">
+			</marker>
+			<v n="3">we are his<crossref let="v" cid="c19100003.4" />people , and<crossref let="w" cid="c19100003.5" />the sheep of his pasture .</v>
+			<marker class="begin-verse" mid="v19100004">
+			</marker>
+			<v n="4">Give thanks to him ;<crossref let="z" cid="c19100004.3" />bless his name !</v>
+			<marker class="begin-verse" mid="v19100005">
+			</marker>
+			<v n="5">and his<crossref let="b" cid="c19100005.2" />faithfulness to all generations .</v>
+			<marker class="begin-verse" mid="v19100006">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">100:3 Or *and not we ourselves*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

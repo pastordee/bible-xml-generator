@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:54:34.596490</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:54:34.596497</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23050001">
+		</marker>
+		<chapter num="50">
+			<heading>
+				Isaiah 50
+			</heading>
+			<heading>
+				Israel’s Sin and the Servant’s Obedience
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and for your transgressions your mother was sent away.</v>
+			<marker class="begin-verse" mid="v23050002">
+			</marker>
+			<v n="2">and die of thirst.</v>
+			<marker class="begin-verse" mid="v23050003">
+			</marker>
+			<v n="3">and make sackcloth their covering.”</v>
+			<marker class="begin-verse" mid="v23050004">
+			</marker>
+			<v n="4">to hear as those who are taught.</v>
+			<marker class="begin-verse" mid="v23050005">
+			</marker>
+			<v n="5">I turned not backward.</v>
+			<marker class="begin-verse" mid="v23050006">
+			</marker>
+			<v n="6">from disgrace and spitting.</v>
+			<marker class="begin-verse" mid="v23050007">
+			</marker>
+			<v n="7">and I know that I shall not be put to shame.</v>
+			<marker class="begin-verse" mid="v23050008">
+			</marker>
+			<v n="8">Let him come near to me.</v>
+			<marker class="begin-verse" mid="v23050009">
+			</marker>
+			<v n="9">the moth will eat them up.</v>
+			<marker class="begin-verse" mid="v23050010">
+			</marker>
+			<v n="10">and rely on his God.</v>
+			<marker class="begin-verse" mid="v23050011">
+			</marker>
+			<v n="11">you shall lie down in torment.</v>
+			<marker class="begin-verse" mid="v23050012">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,153 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:06:17.421245</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:06:17.421260</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" bookAbbr="act" version="ESV">
+		<marker class="begin-verse" mid="v44004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				Acts 4
+			</heading>
+			<heading>
+				Peter and John Before the Council
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">And as they were speaking to the people , the priests and<crossref let="l" cid="c44004001.1" />the captain of the temple and<crossref let="m" cid="c44004001.2" />the Sadducees came upon them ,</v>
+			<marker class="begin-verse" mid="v44004002">
+			</marker>
+			<v n="2">greatly annoyed because they were teaching the people and proclaiming<crossref let="n" cid="c44004002.1" />in Jesus the resurrection from the dead .</v>
+			<marker class="begin-verse" mid="v44004003">
+			</marker>
+			<v n="3">And they arrested them and<crossref let="o" cid="c44004003.1" />put them in custody until the next day , for it was already evening .</v>
+			<marker class="begin-verse" mid="v44004004">
+			</marker>
+			<v n="4">But many of those who had heard the word believed , and<crossref let="p" cid="c44004004.1" />the number of the men came to about five thousand .</v>
+			<marker class="begin-verse" mid="v44004005">
+			</marker>
+			<v n="5">On the next day their rulers and elders and scribes gathered together in Jerusalem ,</v>
+			<marker class="begin-verse" mid="v44004006">
+			</marker>
+			<v n="6">with<crossref let="q" cid="c44004006.1" />Annas the high priest and<crossref let="r" cid="c44004006.2" />Caiaphas and John and Alexander , and all who were of the high-priestly family .</v>
+			<marker class="begin-verse" mid="v44004007">
+			</marker>
+			<v n="7">And when they had set them in the midst , they inquired ,<crossref let="s" cid="c44004007.1" />“ By what power or<crossref let="t" cid="c44004007.2" />by what name did you do this ? ”</v>
+			<marker class="begin-verse" mid="v44004008">
+			</marker>
+			<v n="8">Then Peter ,<crossref let="u" cid="c44004008.1" />filled with the Holy Spirit , said to them , “ Rulers of the people and elders ,</v>
+			<marker class="begin-verse" mid="v44004009">
+			</marker>
+			<v n="9">if we are being examined today<crossref let="v" cid="c44004009.1" />concerning a good deed done to a crippled man , by what means this man has been healed ,</v>
+			<marker class="begin-verse" mid="v44004010">
+			</marker>
+			<v n="10">let it be known to all of you and to all the people of Israel that<crossref let="w" cid="c44004010.1" />by the name of Jesus Christ of Nazareth , whom you crucified ,<crossref let="x" cid="c44004010.2" />whom God raised from the dead — by him this man is standing before you well .</v>
+			<marker class="begin-verse" mid="v44004011">
+			</marker>
+			<v n="11">
+				<crossref let="y" cid="c44004011.1" />This Jesus is the stone that was<crossref let="z" cid="c44004011.2" />rejected by you , the builders , which has become the cornerstone .</v>
+			<marker class="begin-verse" mid="v44004012">
+			</marker>
+			<v n="12">And there is<crossref let="a" cid="c44004012.1" />salvation<crossref let="b" cid="c44004012.2" />in no one else , for<crossref let="c" cid="c44004012.3" />there is no other<crossref let="d" cid="c44004012.4" />name under heaven given among men by which we must be saved . ”</v>
+			<marker class="begin-verse" mid="v44004013">
+			</marker>
+			<v n="13">
+				<crossref let="e" cid="c44004013.1" />Now when they saw the boldness of Peter and John , and perceived that they were uneducated , common men , they were astonished . And they recognized that they had been with Jesus .</v>
+			<marker class="begin-verse" mid="v44004014">
+			</marker>
+			<v n="14">But seeing the man who was healed<crossref let="f" cid="c44004014.1" />standing beside them ,<crossref let="g" cid="c44004014.2" />they had nothing to say in opposition .</v>
+			<marker class="begin-verse" mid="v44004015">
+			</marker>
+			<v n="15">But when they had commanded them to leave the council , they conferred with one another ,</v>
+			<marker class="begin-verse" mid="v44004016">
+			</marker>
+			<v n="16">saying ,<crossref let="h" cid="c44004016.1" />“ What shall we do with these men ? For that<crossref let="i" cid="c44004016.2" />a notable sign has been performed through them is evident to all the inhabitants of Jerusalem , and we cannot deny it .</v>
+			<marker class="begin-verse" mid="v44004017">
+			</marker>
+			<v n="17">But in order that it may spread no further among the people , let us warn them<crossref let="j" cid="c44004017.1" />to speak no more to anyone in this name . ”</v>
+			<marker class="begin-verse" mid="v44004018">
+			</marker>
+			<v n="18">So they called them and charged them not to speak or teach at all in the name of Jesus .</v>
+			<marker class="begin-verse" mid="v44004019">
+			</marker>
+			<v n="19">But Peter and John answered them ,<crossref let="k" cid="c44004019.1" />“ Whether it is right in the sight of God to listen to you rather than to God , you must judge ,</v>
+			<marker class="begin-verse" mid="v44004020">
+			</marker>
+			<v n="20">for<crossref let="l" cid="c44004020.1" />we cannot but speak of what<crossref let="m" cid="c44004020.2" />we have seen and heard . ”</v>
+			<marker class="begin-verse" mid="v44004021">
+			</marker>
+			<v n="21">And when they had further threatened them , they let them go , finding no way to punish them ,<crossref let="n" cid="c44004021.1" />because of the people , for all were praising God<crossref let="o" cid="c44004021.2" />for what had happened .</v>
+			<marker class="begin-verse" mid="v44004022">
+			</marker>
+			<v n="22">For the man on whom this sign of healing was performed was more than forty years old .</v>
+			<marker class="begin-verse" mid="v44004023">
+			</marker>
+			<v n="23">When they were released , they went to their friends and reported what the chief priests and the elders had said to them .</v>
+			<marker class="begin-verse" mid="v44004024">
+			</marker>
+			<v n="24">And when they heard it , they lifted their voices<crossref let="p" cid="c44004024.1" />together to God and said , “ Sovereign Lord ,<crossref let="q" cid="c44004024.2" />who made the heaven and the earth and the sea and everything in them ,</v>
+			<marker class="begin-verse" mid="v44004025">
+			</marker>
+			<v n="25">and the peoples plot in vain ?</v>
+			<marker class="begin-verse" mid="v44004026">
+			</marker>
+			<v n="26">against the Lord and against his<crossref let="t" cid="c44004026.2" />Anointed ’ —</v>
+			<marker class="begin-verse" mid="v44004027">
+			</marker>
+			<v n="27">for truly in this city there were gathered together against your<crossref let="u" cid="c44004027.1" />holy servant Jesus ,<crossref let="v" cid="c44004027.2" />whom you anointed , both<crossref let="w" cid="c44004027.3" />Herod and<crossref let="x" cid="c44004027.4" />Pontius Pilate , along<crossref let="y" cid="c44004027.5" />with the Gentiles and<crossref let="z" cid="c44004027.6" />the peoples of Israel ,</v>
+			<marker class="begin-verse" mid="v44004028">
+			</marker>
+			<v n="28">
+				<crossref let="a" cid="c44004028.1" />to do whatever your hand and<crossref let="b" cid="c44004028.2" />your plan had predestined to take place .</v>
+			<marker class="begin-verse" mid="v44004029">
+			</marker>
+			<v n="29">And now , Lord ,<crossref let="c" cid="c44004029.1" />look upon their threats and grant to your servants to continue to speak your word with all<crossref let="d" cid="c44004029.2" />boldness ,</v>
+			<marker class="begin-verse" mid="v44004030">
+			</marker>
+			<v n="30">while<crossref let="e" cid="c44004030.1" />you stretch out your hand to heal , and signs and wonders are performed<crossref let="f" cid="c44004030.2" />through the name of your<crossref let="g" cid="c44004030.3" />holy servant Jesus . ”</v>
+			<marker class="begin-verse" mid="v44004031">
+			</marker>
+			<v n="31">And when they had prayed ,<crossref let="h" cid="c44004031.1" />the place in which they were gathered together was shaken , and<crossref let="i" cid="c44004031.2" />they were all filled with the Holy Spirit and<crossref let="j" cid="c44004031.3" />continued to speak the word of God with boldness .</v>
+			<marker class="begin-verse" mid="v44004032">
+			</marker>
+			<v n="32">Now the full number of those who believed were of<crossref let="k" cid="c44004032.1" />one heart and<crossref let="l" cid="c44004032.2" />soul , and no one said that any of the things that belonged to him was his own , but<crossref let="m" cid="c44004032.3" />they had everything in common .</v>
+			<marker class="begin-verse" mid="v44004033">
+			</marker>
+			<v n="33">And with great<crossref let="n" cid="c44004033.1" />power the apostles were giving their testimony to the resurrection of the Lord Jesus , and<crossref let="o" cid="c44004033.2" />great grace was upon them all .</v>
+			<marker class="begin-verse" mid="v44004034">
+			</marker>
+			<v n="34">
+				<crossref let="p" cid="c44004034.1" />There was not a needy person among them , for<crossref let="q" cid="c44004034.2" />as many as were owners of lands or houses sold them and brought the proceeds of what was sold</v>
+			<marker class="begin-verse" mid="v44004035">
+			</marker>
+			<v n="35">and<crossref let="r" cid="c44004035.1" />laid it at the apostles’ feet , and<crossref let="s" cid="c44004035.2" />it was distributed to each as any had need .</v>
+			<marker class="begin-verse" mid="v44004036">
+			</marker>
+			<v n="36">Thus Joseph , who was also called by the apostles Barnabas ( which means<crossref let="t" cid="c44004036.1" />son of encouragement ) , a Levite , a native of Cyprus ,</v>
+			<marker class="begin-verse" mid="v44004037">
+			</marker>
+			<v n="37">sold a field that belonged to him and brought the money and<crossref let="u" cid="c44004037.1" />laid it at the apostles’ feet .</v>
+			<marker class="begin-verse" mid="v44004038">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">4:11 Greek *This one*</footnote>
+				<footnote id="2">4:11 Greek *the head of the corner*</footnote>
+				<footnote id="3">4:12 The Greek word *anthropoi* refers here to both men and women</footnote>
+				<footnote id="4">4:25 Or *child*; also verses 27, 30</footnote>
+				<footnote id="5">4:26 Or *Christ*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

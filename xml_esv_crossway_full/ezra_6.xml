@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:32:28.310422</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:32:28.310431</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" bookAbbr="ezr" version="ESV">
+		<marker class="begin-verse" mid="v15006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Ezra 6
+			</heading>
+			<heading>
+				The Decree of Darius
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Then Darius the king made a decree , and<crossref let="t" cid="c15006001.1" />search was made in Babylonia , in the house of the archives where the documents were stored .</v>
+			<marker class="begin-verse" mid="v15006002">
+			</marker>
+			<v n="2">And in Ecbatana , the citadel that is<crossref let="u" cid="c15006002.1" />in the province of Media , a scroll was found on which this was written : “ A record .</v>
+			<marker class="begin-verse" mid="v15006003">
+			</marker>
+			<v n="3">In the first year of Cyrus the king , Cyrus the king issued a decree : Concerning the house of God at Jerusalem , let the house be rebuilt , the place where sacrifices were offered , and let its foundations be retained . Its height shall be sixty cubits and its breadth sixty cubits ,</v>
+			<marker class="begin-verse" mid="v15006004">
+			</marker>
+			<v n="4">
+				<crossref let="v" cid="c15006004.1" />with three layers of great stones and one layer of timber . Let the cost be paid from the royal treasury .</v>
+			<marker class="begin-verse" mid="v15006005">
+			</marker>
+			<v n="5">And also<crossref let="w" cid="c15006005.1" />let the gold and silver vessels of the house of God , which Nebuchadnezzar took out of the temple that is in Jerusalem and brought to Babylon , be restored and brought back to the temple that is in Jerusalem , each to its place . You shall put them in the house of God . ”</v>
+			<marker class="begin-verse" mid="v15006006">
+			</marker>
+			<v n="6">“ Now therefore ,<crossref let="x" cid="c15006006.1" />Tattenai , governor of the province Beyond the River , Shethar-bozenai ,<crossref let="y" cid="c15006006.2" />and your associates the governors who are in the province Beyond the River , keep away .</v>
+			<marker class="begin-verse" mid="v15006007">
+			</marker>
+			<v n="7">Let the work on this house of God alone . Let the governor of the Jews and the elders of the Jews rebuild this house of God on its site .</v>
+			<marker class="begin-verse" mid="v15006008">
+			</marker>
+			<v n="8">Moreover ,<crossref let="z" cid="c15006008.1" />I make a decree regarding what you shall do for these elders of the Jews for the rebuilding of this house of God . The cost is to be paid to these men in full and without delay from the royal revenue , the tribute of the province from Beyond the River .</v>
+			<marker class="begin-verse" mid="v15006009">
+			</marker>
+			<v n="9">And whatever is needed — bulls , rams , or sheep for burnt offerings to the God of heaven , wheat , salt , wine , or oil , as the priests at Jerusalem require — let that be given to them day by day without fail ,</v>
+			<marker class="begin-verse" mid="v15006010">
+			</marker>
+			<v n="10">that they may offer pleasing sacrifices to the God of heaven<crossref let="a" cid="c15006010.1" />and pray for the life of the king and his sons .</v>
+			<marker class="begin-verse" mid="v15006011">
+			</marker>
+			<v n="11">Also I make a decree that if anyone alters this edict , a beam shall be pulled out of his house , and he shall be impaled on it , and<crossref let="b" cid="c15006011.1" />his house shall be made a dunghill .</v>
+			<marker class="begin-verse" mid="v15006012">
+			</marker>
+			<v n="12">May the God<crossref let="c" cid="c15006012.1" />who has caused his name to dwell there overthrow any king or people who shall put out a hand to alter this , or to destroy this house of God that is in Jerusalem . I Darius make a decree ; let it be done with all diligence . ”</v>
+			<marker class="begin-verse" mid="v15006013">
+			</marker>
+			<v n="13">Then , according to the word sent by Darius the king ,<crossref let="x" cid="c15006013.1" />Tattenai , the governor of the province Beyond the River , Shethar-bozenai , and their associates did with all diligence what Darius the king had ordered .</v>
+			<marker class="begin-verse" mid="v15006014">
+			</marker>
+			<v n="14">
+				<crossref let="d" cid="c15006014.1" />And the elders of the Jews built and prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo . They finished their building by decree of the God of Israel and<crossref let="e" cid="c15006014.2" />by decree of Cyrus and<crossref let="f" cid="c15006014.3" />Darius and<crossref let="g" cid="c15006014.4" />Artaxerxes king of Persia ;</v>
+			<marker class="begin-verse" mid="v15006015">
+			</marker>
+			<v n="15">and this house was finished on the third day of the<crossref let="h" cid="c15006015.1" />month of Adar , in the sixth year of the reign of Darius the king .</v>
+			<marker class="begin-verse" mid="v15006016">
+			</marker>
+			<v n="16">And the people of Israel , the priests and the Levites , and the rest of the returned exiles , celebrated the<crossref let="i" cid="c15006016.1" />dedication of this house of God with joy .</v>
+			<marker class="begin-verse" mid="v15006017">
+			</marker>
+			<v n="17">They offered at the dedication of this house of God 100 bulls , 200 rams , 400 lambs , and as a sin offering for all Israel<crossref let="j" cid="c15006017.1" />12 male goats , according to the number of the tribes of Israel .</v>
+			<marker class="begin-verse" mid="v15006018">
+			</marker>
+			<v n="18">And they set the priests<crossref let="k" cid="c15006018.1" />in their divisions and the Levites<crossref let="l" cid="c15006018.2" />in their divisions , for the service of God at Jerusalem ,<crossref let="m" cid="c15006018.3" />as it is written in the Book of Moses .</v>
+			<marker class="begin-verse" mid="v15006019">
+			</marker>
+			<v n="19">
+				<crossref let="n" cid="c15006019.1" />On the fourteenth day of the first month , the returned exiles kept the Passover .</v>
+			<marker class="begin-verse" mid="v15006020">
+			</marker>
+			<v n="20">
+				<crossref let="o" cid="c15006020.1" />For the priests and the Levites had purified themselves together ; all of them were clean .<crossref let="p" cid="c15006020.2" />So they slaughtered the Passover lamb for all the returned exiles , for their fellow priests , and for themselves .</v>
+			<marker class="begin-verse" mid="v15006021">
+			</marker>
+			<v n="21">It was eaten by the people of Israel who had returned from exile , and<crossref let="q" cid="c15006021.1" />also by every one who had joined them and separated himself<crossref let="r" cid="c15006021.2" />from the uncleanness of the peoples of the land to worship the Lord , the God of Israel .</v>
+			<marker class="begin-verse" mid="v15006022">
+			</marker>
+			<v n="22">And they kept the Feast of Unleavened Bread<crossref let="s" cid="c15006022.1" />seven days with joy , for the Lord had made them joyful<crossref let="t" cid="c15006022.2" />and had turned the heart of<crossref let="u" cid="c15006022.3" />the king of Assyria to them , so that he aided them in the work of the house of God , the God of Israel .</v>
+			<marker class="begin-verse" mid="v15006023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">6:3 A *cubit* was about 18 inches or 45 centimeters</footnote>
+				<footnote id="2">6:6 Aramaic *their*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

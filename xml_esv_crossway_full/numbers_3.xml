@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:01:11.503102</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:01:11.503109</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" bookAbbr="num" version="ESV">
+		<marker class="begin-verse" mid="v04003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Numbers 3
+			</heading>
+			<heading>
+				The Sons of Aaron
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">These are the generations of Aaron and Moses at the time when the Lord spoke with Moses on Mount Sinai .</v>
+			<marker class="begin-verse" mid="v04003002">
+			</marker>
+			<v n="2">These are the names of the sons of Aaron :<crossref let="d" cid="c04003002.1" />Nadab the firstborn , and Abihu , Eleazar , and Ithamar .</v>
+			<marker class="begin-verse" mid="v04003003">
+			</marker>
+			<v n="3">These are the names of the sons of Aaron ,<crossref let="e" cid="c04003003.1" />the anointed priests ,<crossref let="f" cid="c04003003.2" />whom he ordained to serve as priests .</v>
+			<marker class="begin-verse" mid="v04003004">
+			</marker>
+			<v n="4">
+				<crossref let="g" cid="c04003004.1" />But Nadab and Abihu died before the Lord when they offered unauthorized fire before the Lord in the wilderness of Sinai , and they had no children . So Eleazar and Ithamar served as priests in the lifetime of Aaron their father .</v>
+			<marker class="begin-verse" mid="v04003005">
+			</marker>
+			<v n="5">And the Lord spoke to Moses , saying ,</v>
+			<marker class="begin-verse" mid="v04003006">
+			</marker>
+			<v n="6">
+				<crossref let="h" cid="c04003006.1" />“ Bring the tribe of Levi near , and set them before Aaron the priest , that they may minister to him .</v>
+			<marker class="begin-verse" mid="v04003007">
+			</marker>
+			<v n="7">They shall keep guard over him and over the whole congregation before the tent of meeting ,<crossref let="i" cid="c04003007.1" />as they minister at the tabernacle .</v>
+			<marker class="begin-verse" mid="v04003008">
+			</marker>
+			<v n="8">They shall guard all the furnishings of the tent of meeting , and keep guard over the people of Israel as they minister at the tabernacle .</v>
+			<marker class="begin-verse" mid="v04003009">
+			</marker>
+			<v n="9">And<crossref let="j" cid="c04003009.1" />you shall give the Levites to Aaron and his sons ; they are<crossref let="k" cid="c04003009.2" />wholly given to him from among the people of Israel .</v>
+			<marker class="begin-verse" mid="v04003010">
+			</marker>
+			<v n="10">And you shall appoint Aaron and his sons , and<crossref let="l" cid="c04003010.1" />they shall guard their priesthood . But if<crossref let="m" cid="c04003010.2" />any outsider comes near , he shall be put to death . ”</v>
+			<marker class="begin-verse" mid="v04003011">
+			</marker>
+			<v n="11">And the Lord spoke to Moses , saying ,</v>
+			<marker class="begin-verse" mid="v04003012">
+			</marker>
+			<v n="12">“ Behold ,<crossref let="n" cid="c04003012.1" />I have taken the Levites from among the people of Israel instead of every firstborn who opens the womb among the people of Israel . The Levites shall be mine ,</v>
+			<marker class="begin-verse" mid="v04003013">
+			</marker>
+			<v n="13">for<crossref let="o" cid="c04003013.1" />all the firstborn are mine .<crossref let="p" cid="c04003013.2" />On the day that I struck down all the firstborn in the land of Egypt , I consecrated for my own all the firstborn in Israel , both of man and of beast . They shall be mine : I am the Lord . ”</v>
+			<marker class="begin-verse" mid="v04003014">
+			</marker>
+			<v n="14">And the Lord spoke to Moses in the wilderness of Sinai , saying ,</v>
+			<marker class="begin-verse" mid="v04003015">
+			</marker>
+			<v n="15">“ List the sons of Levi , by fathers’ houses and by clans ;<crossref let="q" cid="c04003015.1" />every male from a month old and upward you shall list . ”</v>
+			<marker class="begin-verse" mid="v04003016">
+			</marker>
+			<v n="16">So Moses listed them according to the word of the Lord , as he was commanded .</v>
+			<marker class="begin-verse" mid="v04003017">
+			</marker>
+			<v n="17">
+				<crossref let="r" cid="c04003017.1" />And these were the sons of Levi by their names : Gershon and Kohath and Merari .</v>
+			<marker class="begin-verse" mid="v04003018">
+			</marker>
+			<v n="18">And these are the names of the sons of Gershon by their clans :<crossref let="s" cid="c04003018.1" />Libni and Shimei .</v>
+			<marker class="begin-verse" mid="v04003019">
+			</marker>
+			<v n="19">And the sons of Kohath by their clans :<crossref let="t" cid="c04003019.1" />Amram , Izhar , Hebron , and Uzziel .</v>
+			<marker class="begin-verse" mid="v04003020">
+			</marker>
+			<v n="20">And the sons of Merari by their clans :<crossref let="u" cid="c04003020.1" />Mahli and Mushi . These are the clans of the Levites , by their fathers’ houses .</v>
+			<marker class="begin-verse" mid="v04003021">
+			</marker>
+			<v n="21">To Gershon belonged the clan of the Libnites and the clan of the Shimeites ; these were the clans of the Gershonites .</v>
+			<marker class="begin-verse" mid="v04003022">
+			</marker>
+			<v n="22">Their listing according to the number of all the males from a month old and upward was 7,500 .</v>
+			<marker class="begin-verse" mid="v04003023">
+			</marker>
+			<v n="23">
+				<crossref let="v" cid="c04003023.1" />The clans of the Gershonites were to camp behind the tabernacle on the west ,</v>
+			<marker class="begin-verse" mid="v04003024">
+			</marker>
+			<v n="24">with Eliasaph , the son of Lael as chief of the fathers’ house of the Gershonites .</v>
+			<marker class="begin-verse" mid="v04003025">
+			</marker>
+			<v n="25">And the<crossref let="w" cid="c04003025.2" />guard duty of the sons of Gershon in the tent of meeting involved<crossref let="x" cid="c04003025.3" />the tabernacle ,<crossref let="y" cid="c04003025.4" />the tent with<crossref let="z" cid="c04003025.5" />its covering ,<crossref let="a" cid="c04003025.1" />the screen for the entrance of the tent of meeting ,</v>
+			<marker class="begin-verse" mid="v04003026">
+			</marker>
+			<v n="26">
+				<crossref let="b" cid="c04003026.1" />the hangings of the court ,<crossref let="c" cid="c04003026.2" />the screen for the door of the court that is around the tabernacle and the altar , and<crossref let="d" cid="c04003026.3" />its cords — all the service connected with these .</v>
+			<marker class="begin-verse" mid="v04003027">
+			</marker>
+			<v n="27">To Kohath belonged the clan of the<crossref let="e" cid="c04003027.1" />Amramites and the clan of the Izharites and the clan of the Hebronites and the clan of the Uzzielites ; these are the clans of the Kohathites .</v>
+			<marker class="begin-verse" mid="v04003028">
+			</marker>
+			<v n="28">According to the number of all the males , from a month old and upward , there were 8,600 , keeping guard over the sanctuary .</v>
+			<marker class="begin-verse" mid="v04003029">
+			</marker>
+			<v n="29">The clans of the sons of Kohath were to camp on the south side of the tabernacle ,</v>
+			<marker class="begin-verse" mid="v04003030">
+			</marker>
+			<v n="30">with<crossref let="f" cid="c04003030.1" />Elizaphan the son of Uzziel as chief of the fathers’ house of the clans of the Kohathites .</v>
+			<marker class="begin-verse" mid="v04003031">
+			</marker>
+			<v n="31">And their guard duty involved<crossref let="g" cid="c04003031.1" />the ark ,<crossref let="h" cid="c04003031.2" />the table ,<crossref let="i" cid="c04003031.3" />the lampstand ,<crossref let="j" cid="c04003031.4" />the altars , the vessels of the sanctuary with which the priests minister , and<crossref let="k" cid="c04003031.5" />the screen ; all the service connected with these .</v>
+			<marker class="begin-verse" mid="v04003032">
+			</marker>
+			<v n="32">And Eleazar the son of Aaron the priest was to be chief over the chiefs of the Levites , and to have oversight of those who kept guard over the sanctuary .</v>
+			<marker class="begin-verse" mid="v04003033">
+			</marker>
+			<v n="33">To Merari belonged the clan of the Mahlites and the clan of the Mushites : these are the clans of Merari .</v>
+			<marker class="begin-verse" mid="v04003034">
+			</marker>
+			<v n="34">Their listing according to the number of all the males from a month old and upward was 6,200 .</v>
+			<marker class="begin-verse" mid="v04003035">
+			</marker>
+			<v n="35">And the chief of the fathers’ house of the clans of Merari was Zuriel the son of Abihail . They were to camp on the north side of the tabernacle .</v>
+			<marker class="begin-verse" mid="v04003036">
+			</marker>
+			<v n="36">
+				<crossref let="l" cid="c04003036.1" />And the appointed guard duty of the sons of Merari involved the<crossref let="m" cid="c04003036.2" />frames of the tabernacle ,<crossref let="n" cid="c04003036.3" />the bars ,<crossref let="o" cid="c04003036.4" />the pillars , the bases , and all their accessories ; all the service connected with these ;</v>
+			<marker class="begin-verse" mid="v04003037">
+			</marker>
+			<v n="37">also<crossref let="p" cid="c04003037.1" />the pillars around the court , with their bases and<crossref let="q" cid="c04003037.2" />pegs and<crossref let="r" cid="c04003037.3" />cords .</v>
+			<marker class="begin-verse" mid="v04003038">
+			</marker>
+			<v n="38">Those who were to camp before the tabernacle on the east , before the tent of meeting toward the sunrise , were Moses and Aaron and his sons ,<crossref let="s" cid="c04003038.1" />guarding the sanctuary itself , to protect the people of Israel . And any outsider who came near was to be put to death .</v>
+			<marker class="begin-verse" mid="v04003039">
+			</marker>
+			<v n="39">All those listed among the Levites , whom Moses and Aaron listed at the commandment of the Lord , by clans , all the males from a month old and upward , were<crossref let="t" cid="c04003039.1" />22,000 .</v>
+			<marker class="begin-verse" mid="v04003040">
+			</marker>
+			<v n="40">And the Lord said to Moses , “ List all the firstborn males of the people of Israel , from a month old and upward , taking the number of their names .</v>
+			<marker class="begin-verse" mid="v04003041">
+			</marker>
+			<v n="41">
+				<crossref let="u" cid="c04003041.1" />And you shall take the Levites for me — I am the Lord — instead of all the firstborn among the people of Israel , and the cattle of the Levites instead of all the firstborn among the cattle of the people of Israel . ”</v>
+			<marker class="begin-verse" mid="v04003042">
+			</marker>
+			<v n="42">So Moses listed all the firstborn among the people of Israel , as the Lord commanded him .</v>
+			<marker class="begin-verse" mid="v04003043">
+			</marker>
+			<v n="43">And all the firstborn males , according to the number of names , from a month old and upward as listed were 22,273 .</v>
+			<marker class="begin-verse" mid="v04003044">
+			</marker>
+			<v n="44">And the Lord spoke to Moses , saying ,</v>
+			<marker class="begin-verse" mid="v04003045">
+			</marker>
+			<v n="45">
+				<crossref let="v" cid="c04003045.1" />“ Take the Levites instead of all the firstborn among the people of Israel , and the cattle of the Levites instead of their cattle . The Levites shall be mine : I am the Lord .</v>
+			<marker class="begin-verse" mid="v04003046">
+			</marker>
+			<v n="46">And<crossref let="w" cid="c04003046.1" />as the redemption price for the 273 of the firstborn of the people of Israel , over and above the number of the male Levites ,</v>
+			<marker class="begin-verse" mid="v04003047">
+			</marker>
+			<v n="47">you shall take<crossref let="x" cid="c04003047.1" />five shekels per head ; you shall take them according to<crossref let="y" cid="c04003047.2" />the shekel of the sanctuary ( the shekel of twenty gerahs ) ,</v>
+			<marker class="begin-verse" mid="v04003048">
+			</marker>
+			<v n="48">and give the money to Aaron and his sons as the redemption price for those who are over . ”</v>
+			<marker class="begin-verse" mid="v04003049">
+			</marker>
+			<v n="49">So Moses took the redemption money from those who were over and above those redeemed by the Levites .</v>
+			<marker class="begin-verse" mid="v04003050">
+			</marker>
+			<v n="50">From the firstborn of the people of Israel he took the money ,<crossref let="z" cid="c04003050.1" />1,365 shekels , by the shekel of the sanctuary .</v>
+			<marker class="begin-verse" mid="v04003051">
+			</marker>
+			<v n="51">And Moses<crossref let="a" cid="c04003051.1" />gave the redemption money to Aaron and his sons , according to the word of the Lord , as the Lord commanded Moses .</v>
+			<marker class="begin-verse" mid="v04003052">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">3:22 Hebrew *their listing was*</footnote>
+				<footnote id="2">3:38 Hebrew *guard*</footnote>
+				<footnote id="3">3:47 A *shekel* was about 2/5 ounce or 11 grams</footnote>
+				<footnote id="4">3:47 A *gerah* was about 1/50 ounce or 0.6 gram</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:18.284266</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:18.284275</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19094001">
+		</marker>
+		<chapter num="94">
+			<heading>
+				Psalm 94
+			</heading>
+			<heading>
+				The LORD Will Not Forsake His People
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">shine forth!</v>
+			<marker class="begin-verse" mid="v19094002">
+			</marker>
+			<v n="2">proud what they deserve!</v>
+			<marker class="begin-verse" mid="v19094003">
+			</marker>
+			<v n="3">the wicked exult?</v>
+			<marker class="begin-verse" mid="v19094004">
+			</marker>
+			<v n="4">the evildoers boast.</v>
+			<marker class="begin-verse" mid="v19094005">
+			</marker>
+			<v n="5">and afflict your heritage.</v>
+			<marker class="begin-verse" mid="v19094006">
+			</marker>
+			<v n="6">the fatherless;</v>
+			<marker class="begin-verse" mid="v19094007">
+			</marker>
+			<v n="7">the God of Jacob does not perceive.”</v>
+			<marker class="begin-verse" mid="v19094008">
+			</marker>
+			<v n="8">Fools, when will you be wise?</v>
+			<marker class="begin-verse" mid="v19094009">
+			</marker>
+			<v n="9">He who formed the eye, does he not see?</v>
+			<marker class="begin-verse" mid="v19094010">
+			</marker>
+			<v n="10">teaches man knowledge—</v>
+			<marker class="begin-verse" mid="v19094011">
+			</marker>
+			<v n="11">but a breath.</v>
+			<marker class="begin-verse" mid="v19094012">
+			</marker>
+			<v n="12">and whom you teach out of your law,</v>
+			<marker class="begin-verse" mid="v19094013">
+			</marker>
+			<v n="13">a pit is dug for the wicked.</v>
+			<marker class="begin-verse" mid="v19094014">
+			</marker>
+			<v n="14">heritage;</v>
+			<marker class="begin-verse" mid="v19094015">
+			</marker>
+			<v n="15">follow it.</v>
+			<marker class="begin-verse" mid="v19094016">
+			</marker>
+			<v n="16">Who stands up for me against evildoers?</v>
+			<marker class="begin-verse" mid="v19094017">
+			</marker>
+			<v n="17">silence.</v>
+			<marker class="begin-verse" mid="v19094018">
+			</marker>
+			<v n="18">held me up.</v>
+			<marker class="begin-verse" mid="v19094019">
+			</marker>
+			<v n="19">your consolations cheer my soul.</v>
+			<marker class="begin-verse" mid="v19094020">
+			</marker>
+			<v n="20">statute?</v>
+			<marker class="begin-verse" mid="v19094021">
+			</marker>
+			<v n="21">the innocent to death.</v>
+			<marker class="begin-verse" mid="v19094022">
+			</marker>
+			<v n="22">refuge.</v>
+			<marker class="begin-verse" mid="v19094023">
+			</marker>
+			<v n="23">the Lord our God will wipe them out.</v>
+			<marker class="begin-verse" mid="v19094024">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">94:11 Septuagint *they are futile*</footnote>
+				<footnote id="2">94:20 Or *fashion*</footnote>
+				<footnote id="3">94:21 Hebrew *condemn innocent blood*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

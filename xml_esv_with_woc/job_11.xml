@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:24.035097</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:24.035105</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18011001">
+		</marker>
+		<chapter num="11">
+			<heading>
+				Job 11
+			</heading>
+			<heading>
+				Zophar Speaks: You Deserve Worse
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Zophar the Naamathite answered and said:</v>
+			<marker class="begin-verse" mid="v18011002">
+			</marker>
+			<v n="2">and a man full of talk be judged right?</v>
+			<marker class="begin-verse" mid="v18011003">
+			</marker>
+			<v n="3">and when you mock, shall no one shame you?</v>
+			<marker class="begin-verse" mid="v18011004">
+			</marker>
+			<v n="4">and I am clean in God's eyes.’</v>
+			<marker class="begin-verse" mid="v18011005">
+			</marker>
+			<v n="5">and open his lips to you,</v>
+			<marker class="begin-verse" mid="v18011006">
+			</marker>
+			<v n="6">Know then that God<crossref let="h" cid="c18011006.1" />exacts of you less than your guilt deserves.</v>
+			<marker class="begin-verse" mid="v18011007">
+			</marker>
+			<v n="7">Can you find out the limit of the Almighty?</v>
+			<marker class="begin-verse" mid="v18011008">
+			</marker>
+			<v n="8">Deeper than Sheol—what can you know?</v>
+			<marker class="begin-verse" mid="v18011009">
+			</marker>
+			<v n="9">and broader than the sea.</v>
+			<marker class="begin-verse" mid="v18011010">
+			</marker>
+			<v n="10">and summons the court, who can<crossref let="m" cid="c18011010.2" />turn him back?</v>
+			<marker class="begin-verse" mid="v18011011">
+			</marker>
+			<v n="11">when he sees iniquity, will he not consider it?</v>
+			<marker class="begin-verse" mid="v18011012">
+			</marker>
+			<v n="12">when a wild donkey's colt is<crossref let="p" cid="c18011012.1" />born a man!</v>
+			<marker class="begin-verse" mid="v18011013">
+			</marker>
+			<v n="13">you will<crossref let="r" cid="c18011013.1" />stretch out your hands toward him.</v>
+			<marker class="begin-verse" mid="v18011014">
+			</marker>
+			<v n="14">and let not injustice dwell in your tents.</v>
+			<marker class="begin-verse" mid="v18011015">
+			</marker>
+			<v n="15">you will be secure and will not fear.</v>
+			<marker class="begin-verse" mid="v18011016">
+			</marker>
+			<v n="16">you will remember it as waters that have passed away.</v>
+			<marker class="begin-verse" mid="v18011017">
+			</marker>
+			<v n="17">its darkness will be like the morning.</v>
+			<marker class="begin-verse" mid="v18011018">
+			</marker>
+			<v n="18">take your rest in security.</v>
+			<marker class="begin-verse" mid="v18011019">
+			</marker>
+			<v n="19">many will<crossref let="y" cid="c18011019.2" />court your favor.</v>
+			<marker class="begin-verse" mid="v18011020">
+			</marker>
+			<v n="20">to breathe their last.”</v>
+			<marker class="begin-verse" mid="v18011021">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">11:4 Hebrew *your*</footnote>
+				<footnote id="2">11:6 The meaning of the Hebrew is uncertain</footnote>
+				<footnote id="3">11:8 Hebrew *The heights of heaven*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

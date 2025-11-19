@@ -1,0 +1,121 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:03:07.468064</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:03:07.468099</next_refresh_due>
+	</generation_info>
+	<book title="Joshua" num="6" testament="old" bookAbbr="jos" version="ESV">
+		<marker class="begin-verse" mid="v06012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				Joshua 12
+			</heading>
+			<heading>
+				Kings Defeated by Moses
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Now these are the kings of the land whom the people of Israel defeated and took possession of their land beyond the Jordan toward the sunrise , from<crossref let="o" cid="c06012001.1" />the Valley of the Arnon to Mount Hermon , with all<crossref let="p" cid="c06012001.2" />the Arabah eastward :</v>
+			<marker class="begin-verse" mid="v06012002">
+			</marker>
+			<v n="2">
+				<crossref let="q" cid="c06012002.1" />Sihon king of the Amorites who lived at Heshbon and ruled from Aroer , which is on the edge of the Valley of the Arnon , and<crossref let="r" cid="c06012002.2" />from the middle of the valley as far as the<crossref let="s" cid="c06012002.3" />river Jabbok , the boundary of the Ammonites , that is , half of Gilead ,</v>
+			<marker class="begin-verse" mid="v06012003">
+			</marker>
+			<v n="3">and<crossref let="p" cid="c06012003.1" />the Arabah<crossref let="t" cid="c06012003.2" />to the Sea of Chinneroth eastward , and in the direction of Beth-jeshimoth , to the Sea of the Arabah , the Salt Sea , southward to the foot of<crossref let="u" cid="c06012003.3" />the slopes of Pisgah ;</v>
+			<marker class="begin-verse" mid="v06012004">
+			</marker>
+			<v n="4">and<crossref let="v" cid="c06012004.1" />Og king of Bashan , one of the remnant of<crossref let="w" cid="c06012004.2" />the Rephaim ,<crossref let="x" cid="c06012004.3" />who lived at Ashtaroth and at Edrei</v>
+			<marker class="begin-verse" mid="v06012005">
+			</marker>
+			<v n="5">and ruled over<crossref let="y" cid="c06012005.2" />Mount Hermon and<crossref let="z" cid="c06012005.3" />Salecah and all Bashan<crossref let="a" cid="c06012005.1" />to the boundary of the Geshurites and the Maacathites , and over half of Gilead to the boundary of Sihon king of Heshbon .</v>
+			<marker class="begin-verse" mid="v06012006">
+			</marker>
+			<v n="6">
+				<crossref let="b" cid="c06012006.1" />Moses , the servant of the Lord , and the people of Israel defeated them . And Moses the servant of the Lord<crossref let="c" cid="c06012006.2" />gave their land for a possession to the Reubenites and the Gadites and the half-tribe of Manasseh .</v>
+			<marker class="begin-verse" mid="v06012007">
+			</marker>
+			<v n="7">And these are the kings of the land whom Joshua and the people of Israel defeated on the west side of the Jordan , from Baal-gad in the Valley of Lebanon to<crossref let="d" cid="c06012007.1" />Mount Halak , that rises toward Seir ( and Joshua gave their land to the tribes of Israel as a possession<crossref let="e" cid="c06012007.2" />according to their allotments ,</v>
+			<marker class="begin-verse" mid="v06012008">
+			</marker>
+			<v n="8">
+				<crossref let="f" cid="c06012008.1" />in the hill country , in the lowland , in the Arabah , in the slopes , in the wilderness , and in the Negeb , the land of<crossref let="g" cid="c06012008.2" />the Hittites , the Amorites , the Canaanites , the Perizzites , the Hivites , and the Jebusites ) :</v>
+			<marker class="begin-verse" mid="v06012009">
+			</marker>
+			<v n="9">
+				<crossref let="h" cid="c06012009.1" />the king of Jericho , one ;<crossref let="i" cid="c06012009.2" />the king of Ai , which is beside Bethel , one ;</v>
+			<marker class="begin-verse" mid="v06012010">
+			</marker>
+			<v n="10">
+				<crossref let="j" cid="c06012010.1" />the king of Jerusalem , one ;<crossref let="j" cid="c06012010.1" />the king of Hebron , one ;</v>
+			<marker class="begin-verse" mid="v06012011">
+			</marker>
+			<v n="11">
+				<crossref let="j" cid="c06012011.1" />the king of Jarmuth , one ;<crossref let="j" cid="c06012011.1" />the king of Lachish , one ;</v>
+			<marker class="begin-verse" mid="v06012012">
+			</marker>
+			<v n="12">
+				<crossref let="j" cid="c06012012.1" />the king of Eglon , one ;<crossref let="k" cid="c06012012.2" />the king of Gezer , one ;</v>
+			<marker class="begin-verse" mid="v06012013">
+			</marker>
+			<v n="13">
+				<crossref let="l" cid="c06012013.1" />the king of Debir , one ; the king of Geder , one ;</v>
+			<marker class="begin-verse" mid="v06012014">
+			</marker>
+			<v n="14">the king of Hormah , one ; the king of Arad , one ;</v>
+			<marker class="begin-verse" mid="v06012015">
+			</marker>
+			<v n="15">
+				<crossref let="m" cid="c06012015.1" />the king of Libnah , one ; the king of Adullam , one ;</v>
+			<marker class="begin-verse" mid="v06012016">
+			</marker>
+			<v n="16">
+				<crossref let="n" cid="c06012016.1" />the king of Makkedah , one ;<crossref let="o" cid="c06012016.2" />the king of Bethel , one ;</v>
+			<marker class="begin-verse" mid="v06012017">
+			</marker>
+			<v n="17">the king of Tappuah , one ; the king of Hepher , one ;</v>
+			<marker class="begin-verse" mid="v06012018">
+			</marker>
+			<v n="18">the king of Aphek , one ; the king of Lasharon , one ;</v>
+			<marker class="begin-verse" mid="v06012019">
+			</marker>
+			<v n="19">
+				<crossref let="p" cid="c06012019.1" />the king of Madon , one ;<crossref let="q" cid="c06012019.2" />the king of Hazor , one ;</v>
+			<marker class="begin-verse" mid="v06012020">
+			</marker>
+			<v n="20">
+				<crossref let="p" cid="c06012020.1" />the king of Shimron-meron , one ;<crossref let="p" cid="c06012020.1" />the king of Achshaph , one ;</v>
+			<marker class="begin-verse" mid="v06012021">
+			</marker>
+			<v n="21">
+				<crossref let="r" cid="c06012021.1" />the king of Taanach , one ;<crossref let="r" cid="c06012021.1" />the king of Megiddo , one ;</v>
+			<marker class="begin-verse" mid="v06012022">
+			</marker>
+			<v n="22">the king of Kedesh , one ; the king of Jokneam in Carmel , one ;</v>
+			<marker class="begin-verse" mid="v06012023">
+			</marker>
+			<v n="23">
+				<crossref let="r" cid="c06012023.1" />the king of Dor in<crossref let="s" cid="c06012023.2" />Naphath-dor , one ; the king of Goiim in Galilee , one ;</v>
+			<marker class="begin-verse" mid="v06012024">
+			</marker>
+			<v n="24">the king of Tirzah , one : in all , thirty-one kings .</v>
+			<marker class="begin-verse" mid="v06012025">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">12:4 Septuagint; Hebrew *the boundary of Og*</footnote>
+				<footnote id="2">12:23 Septuagint; Hebrew *Gilgal*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

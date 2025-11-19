@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:44.826575</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:44.826581</next_refresh_due>
+	</generation_info>
+	<book title="Micah" num="33" testament="old" bookAbbr="mic" version="ESV">
+		<marker class="begin-verse" mid="v33007001">
+		</marker>
+		<chapter num="7">
+			<heading>
+				Micah 7
+			</heading>
+			<heading>
+				Wait for the God of Salvation
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">first-ripe fig that my soul desires.</v>
+			<marker class="begin-verse" mid="v33007002">
+			</marker>
+			<v n="2">each hunts the other with a net.</v>
+			<marker class="begin-verse" mid="v33007003">
+			</marker>
+			<v n="3">thus they weave it together.</v>
+			<marker class="begin-verse" mid="v33007004">
+			</marker>
+			<v n="4">now their confusion is at hand.</v>
+			<marker class="begin-verse" mid="v33007005">
+			</marker>
+			<v n="5">from her who lies in your arms;</v>
+			<marker class="begin-verse" mid="v33007006">
+			</marker>
+			<v n="6">a man's enemies are the men of his own house.</v>
+			<marker class="begin-verse" mid="v33007007">
+			</marker>
+			<v n="7">my God will hear me.</v>
+			<marker class="begin-verse" mid="v33007008">
+			</marker>
+			<v n="8">the Lord will be a light to me.</v>
+			<marker class="begin-verse" mid="v33007009">
+			</marker>
+			<v n="9">I shall look upon his vindication.</v>
+			<marker class="begin-verse" mid="v33007010">
+			</marker>
+			<v n="10">like the mire of the streets.</v>
+			<marker class="begin-verse" mid="v33007011">
+			</marker>
+			<v n="11">In that day the boundary shall be far extended.</v>
+			<marker class="begin-verse" mid="v33007012">
+			</marker>
+			<v n="12">from sea to sea and from mountain to mountain.</v>
+			<marker class="begin-verse" mid="v33007013">
+			</marker>
+			<v n="13">for the fruit of their deeds.</v>
+			<marker class="begin-verse" mid="v33007014">
+			</marker>
+			<v n="14">as in the days of old.</v>
+			<marker class="begin-verse" mid="v33007015">
+			</marker>
+			<v n="15">I will show them marvelous things.</v>
+			<marker class="begin-verse" mid="v33007016">
+			</marker>
+			<v n="16">their ears shall be deaf;</v>
+			<marker class="begin-verse" mid="v33007017">
+			</marker>
+			<v n="17">and they shall be in fear of you.</v>
+			<marker class="begin-verse" mid="v33007018">
+			</marker>
+			<v n="18">because he delights in steadfast love.</v>
+			<marker class="begin-verse" mid="v33007019">
+			</marker>
+			<v n="19">into the depths of the sea.</v>
+			<marker class="begin-verse" mid="v33007020">
+			</marker>
+			<v n="20">from the days of old.</v>
+			<marker class="begin-verse" mid="v33007021">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">7:5 Hebrew *bosom*</footnote>
+				<footnote id="2">7:12 Hebrew *he*</footnote>
+				<footnote id="3">7:12 That is, the Euphrates</footnote>
+				<footnote id="4">7:14 Hebrew *of Carmel*</footnote>
+				<footnote id="5">7:15 Hebrew *him*</footnote>
+				<footnote id="6">7:19 Hebrew *their*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

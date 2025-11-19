@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:23.079859</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:23.079882</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" bookAbbr="1co" version="ESV">
+		<marker class="begin-verse" mid="v46005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				1 Corinthians 5
+			</heading>
+			<heading>
+				Sexual Immorality Defiles the Church
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">for a man has his father's wife.</v>
+			<marker class="begin-verse" mid="v46005002">
+			</marker>
+			<v n="2">not rather to mourn? Let him who has done this be removed from among you.</v>
+			<marker class="begin-verse" mid="v46005003">
+			</marker>
+			<v n="3">absent in body, I am present in spirit; and as if present, I have already pronounced judgment on the one who did such a thing.</v>
+			<marker class="begin-verse" mid="v46005004">
+			</marker>
+			<v n="4">in the name of the Lord Jesus and my spirit is present, with the power of our Lord Jesus,</v>
+			<marker class="begin-verse" mid="v46005005">
+			</marker>
+			<v n="5">in the day of the Lord.</v>
+			<marker class="begin-verse" mid="v46005006">
+			</marker>
+			<v n="6">a little leaven leavens the whole lump?</v>
+			<marker class="begin-verse" mid="v46005007">
+			</marker>
+			<v n="7">Cleanse out the old leaven that you may be a new lump, as you really are unleavened. For Christ, our Passover lamb, has been sacrificed.</v>
+			<marker class="begin-verse" mid="v46005008">
+			</marker>
+			<v n="8">the leaven of malice and evil, but with the unleavened bread of sincerity and truth.</v>
+			<marker class="begin-verse" mid="v46005009">
+			</marker>
+			<v n="9">not to associate with sexually immoral people—</v>
+			<marker class="begin-verse" mid="v46005010">
+			</marker>
+			<v n="10">since then you would need to go out of the world.</v>
+			<marker class="begin-verse" mid="v46005011">
+			</marker>
+			<v n="11">who bears the name of brother if he is guilty of sexual immorality or greed, or is an idolater, reviler, drunkard, or swindler—not even to eat with such a one.</v>
+			<marker class="begin-verse" mid="v46005012">
+			</marker>
+			<v n="12">Is it not those inside the church whom you are to judge?</v>
+			<marker class="begin-verse" mid="v46005013">
+			</marker>
+			<v n="13">“Purge the evil person from among you.”</v>
+			<marker class="begin-verse" mid="v46005014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">5:5 Some manuscripts add *Jesus*</footnote>
+				<footnote id="2">5:12 Greek *those inside*</footnote>
+				<footnote id="3">5:13 Or *will judge*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

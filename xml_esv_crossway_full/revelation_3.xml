@@ -1,0 +1,235 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:30.673345</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:30.673352</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" bookAbbr="rev" version="ESV">
+		<marker class="begin-verse" mid="v66003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Revelation 3
+			</heading>
+			<heading>
+				To the Church in Sardis
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<woc>“ ‘ I know your works . You have the reputation</woc>
+				<crossref let="j" cid="c66003001.2" />
+				<woc>of being alive ,</woc>
+				<crossref let="k" cid="c66003001.3" />
+				<woc>but you are dead .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003002">
+			</marker>
+			<v n="2">
+				<woc>Wake up , and strengthen what remains and is about to die , for I have not found your works</woc>
+				<crossref let="l" cid="c66003002.1" />
+				<woc>complete in the sight of my God .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003003">
+			</marker>
+			<v n="3">
+				<crossref let="m" cid="c66003003.1" />
+				<woc>Remember , then , what you received and heard . Keep it , and repent . If you will not wake up ,</woc>
+				<crossref let="n" cid="c66003003.2" />
+				<woc>I will come</woc>
+				<crossref let="o" cid="c66003003.3" />
+				<woc>like a thief , and you will not know at what hour I will come against you .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003004">
+			</marker>
+			<v n="4">
+				<woc>Yet you have still a few names in Sardis , people who have not</woc>
+				<crossref let="p" cid="c66003004.1" />
+				<woc>soiled their garments , and they will walk with me</woc>
+				<crossref let="q" cid="c66003004.2" />
+				<woc>in white , for they are</woc>
+				<crossref let="r" cid="c66003004.3" />
+				<woc>worthy .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003005">
+			</marker>
+			<v n="5">
+				<crossref let="s" cid="c66003005.1" />
+				<woc>The one who conquers will be clothed thus in white garments , and I will never</woc>
+				<crossref let="t" cid="c66003005.2" />
+				<woc>blot his name out of</woc>
+				<crossref let="u" cid="c66003005.3" />
+				<woc>the book of life .</woc>
+				<crossref let="v" cid="c66003005.4" />
+				<woc>I will confess his name before my Father and before his angels .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003006">
+			</marker>
+			<v n="6">
+				<crossref let="p" cid="c66003006.1" />
+				<woc>He who has an ear , let him hear what the Spirit says to the churches . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003007">
+			</marker>
+			<v n="7">
+				<woc>“ And to the angel of the church in Philadelphia write : ‘ The words of</woc>
+				<crossref let="w" cid="c66003007.1" />
+				<woc>the holy one ,</woc>
+				<crossref let="x" cid="c66003007.2" />
+				<woc>the true one ,</woc>
+				<crossref let="y" cid="c66003007.3" />
+				<woc>who has the key of David ,</woc>
+				<crossref let="z" cid="c66003007.4" />
+				<woc>who opens and no one will shut , who shuts and no one opens .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003008">
+			</marker>
+			<v n="8">
+				<woc>“ ‘ I know your works . Behold , I have set before you</woc>
+				<crossref let="a" cid="c66003008.1" />
+				<woc>an open door , which no one is able to shut . I know that you have but little power , and yet you have kept my word and have not denied my name .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003009">
+			</marker>
+			<v n="9">
+				<woc>Behold , I will make those of</woc>
+				<crossref let="b" cid="c66003009.1" />
+				<woc>the synagogue of Satan who say that they are Jews and are not , but lie — behold ,</woc>
+				<crossref let="c" cid="c66003009.2" />
+				<woc>I will make them come and bow down before your feet , and they will learn that</woc>
+				<crossref let="d" cid="c66003009.3" />
+				<woc>I have loved you .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003010">
+			</marker>
+			<v n="10">
+				<crossref let="e" cid="c66003010.1" />
+				<woc>Because you have kept my word about patient endurance , I will keep you from the hour of trial that is coming on the whole world , to try</woc>
+				<crossref let="f" cid="c66003010.2" />
+				<woc>those who dwell on the earth .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003011">
+			</marker>
+			<v n="11">
+				<crossref let="g" cid="c66003011.1" />
+				<woc>I am coming soon .</woc>
+				<crossref let="h" cid="c66003011.2" />
+				<woc>Hold fast what you have , so that no one may seize</woc>
+				<crossref let="i" cid="c66003011.3" />
+				<woc>your crown .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003012">
+			</marker>
+			<v n="12">
+				<crossref let="j" cid="c66003012.1" />
+				<woc>The one who conquers , I will make him</woc>
+				<crossref let="k" cid="c66003012.2" />
+				<woc>a pillar in the temple of my God . Never shall he go out of it , and I will write on him</woc>
+				<crossref let="l" cid="c66003012.3" />
+				<woc>the name of my God , and</woc>
+				<crossref let="m" cid="c66003012.4" />
+				<woc>the name of the city of my God ,</woc>
+				<crossref let="m" cid="c66003012.4" />
+				<woc>the new Jerusalem ,</woc>
+				<crossref let="n" cid="c66003012.5" />
+				<woc>which comes down from my God out of heaven , and my own</woc>
+				<crossref let="o" cid="c66003012.6" />
+				<woc>new name .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003013">
+			</marker>
+			<v n="13">
+				<crossref let="p" cid="c66003013.1" />
+				<woc>He who has an ear , let him hear what the Spirit says to the churches . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003014">
+			</marker>
+			<v n="14">
+				<woc>“ And to the angel of the church in Laodicea write : ‘ The words of the</woc>
+				<crossref let="p" cid="c66003014.1" />
+				<woc>Amen ,</woc>
+				<crossref let="q" cid="c66003014.2" />
+				<woc>the faithful and true witness ,</woc>
+				<crossref let="r" cid="c66003014.3" />
+				<woc>the beginning of God’s creation .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003015">
+			</marker>
+			<v n="15">
+				<woc>“ ‘ I know your works : you are neither cold nor hot .</woc>
+				<crossref let="s" cid="c66003015.1" />
+				<woc>Would that you were either cold or hot !</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003016">
+			</marker>
+			<v n="16">
+				<woc>So , because you are lukewarm , and neither hot nor cold , I will spit you out of my mouth .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003017">
+			</marker>
+			<v n="17">
+				<crossref let="t" cid="c66003017.1" />
+				<woc>For you say , “ I am rich , I have prospered , and I need nothing , ” not realizing that you are wretched , pitiable , poor ,</woc>
+				<crossref let="u" cid="c66003017.2" />
+				<woc>blind , and naked .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003018">
+			</marker>
+			<v n="18">
+				<woc>I counsel you</woc>
+				<crossref let="v" cid="c66003018.2" />
+				<woc>to buy from me gold refined by fire , so that you may be rich , and</woc>
+				<crossref let="w" cid="c66003018.3" />
+				<woc>white garments so that you may clothe yourself and</woc>
+				<crossref let="x" cid="c66003018.4" />
+				<woc>the shame of your nakedness may not be seen , and salve to anoint your eyes ,</woc>
+				<crossref let="u" cid="c66003018.1" />
+				<woc>so that you may see .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003019">
+			</marker>
+			<v n="19">
+				<crossref let="y" cid="c66003019.1" />
+				<woc>Those whom I love , I reprove and discipline , so be zealous and repent .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003020">
+			</marker>
+			<v n="20">
+				<woc>Behold , I stand at the door and</woc>
+				<crossref let="z" cid="c66003020.3" />
+				<woc>knock .</woc>
+				<crossref let="a" cid="c66003020.1" />
+				<woc>If anyone hears my voice and opens the door ,</woc>
+				<crossref let="b" cid="c66003020.2" />
+				<woc>I will come in to him and eat with him , and he with me .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003021">
+			</marker>
+			<v n="21">
+				<crossref let="c" cid="c66003021.1" />
+				<woc>The one who conquers ,</woc>
+				<crossref let="d" cid="c66003021.2" />
+				<woc>I will grant him to sit with me on my throne , as</woc>
+				<crossref let="e" cid="c66003021.3" />
+				<woc>I also conquered and sat down with my Father on his throne .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003022">
+			</marker>
+			<v n="22">
+				<crossref let="p" cid="c66003022.1" />
+				<woc>He who has an ear , let him hear what the Spirit says to the churches . ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v66003023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

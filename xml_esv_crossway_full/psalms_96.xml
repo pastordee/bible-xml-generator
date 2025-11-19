@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:21.199032</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:21.199049</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19096001">
+		</marker>
+		<chapter num="96">
+			<heading>
+				Psalm 96
+			</heading>
+			<heading>
+				Worship in the Splendor of Holiness
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">sing to the Lord , all the earth !</v>
+			<marker class="begin-verse" mid="v19096002">
+			</marker>
+			<v n="2">
+				<crossref let="c" cid="c19096002.1" />tell of his salvation from day to day .</v>
+			<marker class="begin-verse" mid="v19096003">
+			</marker>
+			<v n="3">his marvelous works among all the peoples !</v>
+			<marker class="begin-verse" mid="v19096004">
+			</marker>
+			<v n="4">he is to be feared above<crossref let="f" cid="c19096004.3" />all gods .</v>
+			<marker class="begin-verse" mid="v19096005">
+			</marker>
+			<v n="5">but the Lord<crossref let="g" cid="c19096005.1" />made the heavens .</v>
+			<marker class="begin-verse" mid="v19096006">
+			</marker>
+			<v n="6">
+				<crossref let="h" cid="c19096006.1" />strength and beauty are in his sanctuary .</v>
+			<marker class="begin-verse" mid="v19096007">
+			</marker>
+			<v n="7">
+				<crossref let="j" cid="c19096007.2" />ascribe to the Lord glory and strength !</v>
+			<marker class="begin-verse" mid="v19096008">
+			</marker>
+			<v n="8">bring<crossref let="l" cid="c19096008.2" />an offering , and<crossref let="m" cid="c19096008.3" />come into his courts !</v>
+			<marker class="begin-verse" mid="v19096009">
+			</marker>
+			<v n="9">
+				<crossref let="o" cid="c19096009.2" />tremble before him , all the earth !</v>
+			<marker class="begin-verse" mid="v19096010">
+			</marker>
+			<v n="10">he will<crossref let="q" cid="c19096010.2" />judge the peoples with equity . ”</v>
+			<marker class="begin-verse" mid="v19096011">
+			</marker>
+			<v n="11">let<crossref let="t" cid="c19096011.3" />the sea roar , and all that fills it ;</v>
+			<marker class="begin-verse" mid="v19096012">
+			</marker>
+			<v n="12">Then shall all<crossref let="v" cid="c19096012.2" />the trees of the forest sing for joy</v>
+			<marker class="begin-verse" mid="v19096013">
+			</marker>
+			<v n="13">and the peoples in his faithfulness .</v>
+			<marker class="begin-verse" mid="v19096014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">96:9 Or *in holy attire*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:56.967717</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:56.967732</next_refresh_due>
+	</generation_info>
+	<book title="James" num="59" testament="new" bookAbbr="jas" version="ESV">
+		<marker class="begin-verse" mid="v59001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				James 1
+			</heading>
+			<heading>
+				Greeting
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Greetings.</v>
+			<marker class="begin-verse" mid="v59001002">
+			</marker>
+			<v n="2">
+				<crossref let="e" cid="c59001002.1" />Count it all joy, my brothers, when you meet trials<crossref let="f" cid="c59001002.2" />of various kinds,</v>
+			<marker class="begin-verse" mid="v59001003">
+			</marker>
+			<v n="3">for you know that<crossref let="g" cid="c59001003.1" />the testing of your faith<crossref let="h" cid="c59001003.2" />produces steadfastness.</v>
+			<marker class="begin-verse" mid="v59001004">
+			</marker>
+			<v n="4">And let steadfastness have its full effect, that you may be<crossref let="i" cid="c59001004.1" />perfect and complete, lacking in nothing.</v>
+			<marker class="begin-verse" mid="v59001005">
+			</marker>
+			<v n="5">
+				<crossref let="j" cid="c59001005.1" />If any of you lacks wisdom,<crossref let="k" cid="c59001005.2" />let him ask God,<crossref let="l" cid="c59001005.3" />who gives generously to all without reproach, and it will be given him.</v>
+			<marker class="begin-verse" mid="v59001006">
+			</marker>
+			<v n="6">But<crossref let="m" cid="c59001006.1" />let him ask in faith,<crossref let="n" cid="c59001006.2" />with no doubting, for the one who doubts is like<crossref let="o" cid="c59001006.3" />a wave of the sea that is driven and tossed by the wind.</v>
+			<marker class="begin-verse" mid="v59001007">
+			</marker>
+			<v n="7">For that person must not suppose that he will receive anything from the Lord;</v>
+			<marker class="begin-verse" mid="v59001008">
+			</marker>
+			<v n="8">
+				<crossref let="p" cid="c59001008.1" />he is a double-minded man,<crossref let="q" cid="c59001008.2" />unstable in all his ways.</v>
+			<marker class="begin-verse" mid="v59001009">
+			</marker>
+			<v n="9">Let the lowly brother boast in his exaltation,</v>
+			<marker class="begin-verse" mid="v59001010">
+			</marker>
+			<v n="10">and<crossref let="r" cid="c59001010.1" />the rich in his humiliation, because<crossref let="s" cid="c59001010.2" />like a flower of the grass he will pass away.</v>
+			<marker class="begin-verse" mid="v59001011">
+			</marker>
+			<v n="11">For the sun rises with its scorching heat and<crossref let="t" cid="c59001011.1" />withers the grass; its flower falls, and its beauty perishes. So also will the rich man fade away in the midst of his pursuits.</v>
+			<marker class="begin-verse" mid="v59001012">
+			</marker>
+			<v n="12">
+				<crossref let="u" cid="c59001012.1" />Blessed is the man who remains steadfast under trial, for when he has stood the test he will receive<crossref let="v" cid="c59001012.2" />the crown of life,<crossref let="w" cid="c59001012.3" />which God has promised to those who love him.</v>
+			<marker class="begin-verse" mid="v59001013">
+			</marker>
+			<v n="13">Let no one say when he is tempted, “I am being tempted by God,” for God cannot be tempted with evil, and he himself tempts no one.</v>
+			<marker class="begin-verse" mid="v59001014">
+			</marker>
+			<v n="14">But each person is tempted when he is lured and enticed by his own desire.</v>
+			<marker class="begin-verse" mid="v59001015">
+			</marker>
+			<v n="15">Then desire<crossref let="x" cid="c59001015.1" />when it has conceived gives birth to sin, and<crossref let="y" cid="c59001015.2" />sin when it is fully grown brings forth death.</v>
+			<marker class="begin-verse" mid="v59001016">
+			</marker>
+			<v n="16">Do not be deceived, my beloved brothers.</v>
+			<marker class="begin-verse" mid="v59001017">
+			</marker>
+			<v n="17">
+				<crossref let="z" cid="c59001017.3" />Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shadow due to change.</v>
+			<marker class="begin-verse" mid="v59001018">
+			</marker>
+			<v n="18">firstfruits of his creatures.</v>
+			<marker class="begin-verse" mid="v59001019">
+			</marker>
+			<v n="19">slow to anger;</v>
+			<marker class="begin-verse" mid="v59001020">
+			</marker>
+			<v n="20">for the anger of man does not produce the righteousness of God.</v>
+			<marker class="begin-verse" mid="v59001021">
+			</marker>
+			<v n="21">which is able to save your souls.</v>
+			<marker class="begin-verse" mid="v59001022">
+			</marker>
+			<v n="22">doers of the word, and not hearers only, deceiving yourselves.</v>
+			<marker class="begin-verse" mid="v59001023">
+			</marker>
+			<v n="23">For if anyone is a hearer of the word and not a doer, he is like a man who looks intently at his natural face in a mirror.</v>
+			<marker class="begin-verse" mid="v59001024">
+			</marker>
+			<v n="24">For he looks at himself and goes away and at once forgets what he was like.</v>
+			<marker class="begin-verse" mid="v59001025">
+			</marker>
+			<v n="25">he will be blessed in his doing.</v>
+			<marker class="begin-verse" mid="v59001026">
+			</marker>
+			<v n="26">religion is worthless.</v>
+			<marker class="begin-verse" mid="v59001027">
+			</marker>
+			<v n="27">unstained from the world.</v>
+			<marker class="begin-verse" mid="v59001028">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:1 For the contextual rendering of the Greek word *doulos*, see Preface</footnote>
+				<footnote id="2">1:2 Or *brothers and sisters*. In New Testament usage, depending on the context, the plural Greek word *adelphoi* (translated “brothers”) may refer either to *brothers* or to *brothers and sisters*; also verses 16, 19</footnote>
+				<footnote id="3">1:10 Or *a wild flower*</footnote>
+				<footnote id="4">1:17 Some manuscripts *variation due to a shadow of turning*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

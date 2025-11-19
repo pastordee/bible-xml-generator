@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:27.577217</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:27.577224</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" bookAbbr="1co" version="ESV">
+		<marker class="begin-verse" mid="v46008001">
+		</marker>
+		<chapter num="8">
+			<heading>
+				1 Corinthians 8
+			</heading>
+			<heading>
+				Food Offered to Idols
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">but love builds up.</v>
+			<marker class="begin-verse" mid="v46008002">
+			</marker>
+			<v n="2">he does not yet know as he ought to know.</v>
+			<marker class="begin-verse" mid="v46008003">
+			</marker>
+			<v n="3">he is known by God.</v>
+			<marker class="begin-verse" mid="v46008004">
+			</marker>
+			<v n="4">“there is no God but one.”</v>
+			<marker class="begin-verse" mid="v46008005">
+			</marker>
+			<v n="5">so-called gods in heaven or on earth—as indeed there are many “gods” and many “lords”—</v>
+			<marker class="begin-verse" mid="v46008006">
+			</marker>
+			<v n="6">through whom we exist.</v>
+			<marker class="begin-verse" mid="v46008007">
+			</marker>
+			<v n="7">their conscience, being weak, is defiled.</v>
+			<marker class="begin-verse" mid="v46008008">
+			</marker>
+			<v n="8">Food will not commend us to God. We are no worse off if we do not eat, and no better off if we do.</v>
+			<marker class="begin-verse" mid="v46008009">
+			</marker>
+			<v n="9">to the weak.</v>
+			<marker class="begin-verse" mid="v46008010">
+			</marker>
+			<v n="10">For if anyone sees you who have knowledge eating in an idol's temple, will he not be encouraged, if his conscience is weak, to eat food offered to idols?</v>
+			<marker class="begin-verse" mid="v46008011">
+			</marker>
+			<v n="11">destroyed, the brother for whom Christ died.</v>
+			<marker class="begin-verse" mid="v46008012">
+			</marker>
+			<v n="12">you sin against Christ.</v>
+			<marker class="begin-verse" mid="v46008013">
+			</marker>
+			<v n="13">if food makes my brother stumble, I will never eat meat, lest I make my brother stumble.</v>
+			<marker class="begin-verse" mid="v46008014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">8:1 The expression *Now concerning* introduces a reply to a question in the Corinthians’ letter; see 7:1</footnote>
+				<footnote id="2">8:3 Greek *him*</footnote>
+				<footnote id="3">8:10 Greek *reclining at table*</footnote>
+				<footnote id="4">8:10 Or *fortified*; Greek *built up*</footnote>
+				<footnote id="5">8:12 Or *brothers and sisters*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

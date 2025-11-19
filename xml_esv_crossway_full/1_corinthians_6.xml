@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:24.564273</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:24.564284</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" bookAbbr="1co" version="ESV">
+		<marker class="begin-verse" mid="v46006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				1 Corinthians 6
+			</heading>
+			<heading>
+				Lawsuits Against Believers
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">When one of you has a grievance against another , does he dare go to law before the unrighteous<crossref let="r" cid="c46006001.1" />instead of the saints ?</v>
+			<marker class="begin-verse" mid="v46006002">
+			</marker>
+			<v n="2">Or do you not know that<crossref let="s" cid="c46006002.1" />the saints will judge the world ? And if the world is to be judged by you , are you incompetent to try trivial cases ?</v>
+			<marker class="begin-verse" mid="v46006003">
+			</marker>
+			<v n="3">Do you not know that we are to judge angels ? How much more , then , matters pertaining to this life !</v>
+			<marker class="begin-verse" mid="v46006004">
+			</marker>
+			<v n="4">So if you have such cases ,<crossref let="t" cid="c46006004.1" />why do you lay them before those who have no standing in the church ?</v>
+			<marker class="begin-verse" mid="v46006005">
+			</marker>
+			<v n="5">
+				<crossref let="u" cid="c46006005.1" />I say this to your shame . Can it be that there is no one among you wise enough to settle a dispute between the brothers ,</v>
+			<marker class="begin-verse" mid="v46006006">
+			</marker>
+			<v n="6">but brother goes to law against brother , and that before unbelievers ?</v>
+			<marker class="begin-verse" mid="v46006007">
+			</marker>
+			<v n="7">To have lawsuits at all with one another is already a defeat for you .<crossref let="v" cid="c46006007.1" />Why not rather suffer wrong ? Why not rather be defrauded ?</v>
+			<marker class="begin-verse" mid="v46006008">
+			</marker>
+			<v n="8">But you yourselves wrong and defraud — even<crossref let="w" cid="c46006008.1" />your own brothers !</v>
+			<marker class="begin-verse" mid="v46006009">
+			</marker>
+			<v n="9">Or do you not know that the unrighteous will not inherit the kingdom of God ? Do not be deceived :<crossref let="x" cid="c46006009.1" />neither the sexually immoral , nor idolaters , nor adulterers , nor men who practice homosexuality ,</v>
+			<marker class="begin-verse" mid="v46006010">
+			</marker>
+			<v n="10">nor thieves , nor the greedy , nor drunkards , nor revilers , nor swindlers will inherit the kingdom of God .</v>
+			<marker class="begin-verse" mid="v46006011">
+			</marker>
+			<v n="11">And<crossref let="y" cid="c46006011.3" />such were some of you . But<crossref let="z" cid="c46006011.4" />you were washed ,<crossref let="a" cid="c46006011.1" />you were sanctified ,<crossref let="b" cid="c46006011.2" />you were justified in the name of the Lord Jesus Christ and by the Spirit of our God .</v>
+			<marker class="begin-verse" mid="v46006012">
+			</marker>
+			<v n="12">
+				<crossref let="c" cid="c46006012.1" />“ All things are lawful for me , ” but not all things are helpful . “ All things are lawful for me , ” but I will not be dominated by anything .</v>
+			<marker class="begin-verse" mid="v46006013">
+			</marker>
+			<v n="13">
+				<crossref let="d" cid="c46006013.1" />“ Food is meant for the stomach and the stomach for food ” — and God will destroy both one<crossref let="e" cid="c46006013.2" />and the other . The body is not meant for sexual immorality , but<crossref let="f" cid="c46006013.3" />for the Lord , and<crossref let="g" cid="c46006013.4" />the Lord for the body .</v>
+			<marker class="begin-verse" mid="v46006014">
+			</marker>
+			<v n="14">And<crossref let="h" cid="c46006014.1" />God raised the Lord and<crossref let="i" cid="c46006014.2" />will also raise us up<crossref let="j" cid="c46006014.3" />by his power .</v>
+			<marker class="begin-verse" mid="v46006015">
+			</marker>
+			<v n="15">Do you not know that<crossref let="k" cid="c46006015.1" />your bodies are members of Christ ? Shall I then take the members of Christ and make them members of a prostitute ? Never !</v>
+			<marker class="begin-verse" mid="v46006016">
+			</marker>
+			<v n="16">Or do you not know that he who is joined to a prostitute becomes one body with her ? For , as it is written ,<crossref let="l" cid="c46006016.1" />“ The two will become one flesh . ”</v>
+			<marker class="begin-verse" mid="v46006017">
+			</marker>
+			<v n="17">But he who is joined to the Lord<crossref let="m" cid="c46006017.1" />becomes one spirit with him .</v>
+			<marker class="begin-verse" mid="v46006018">
+			</marker>
+			<v n="18">
+				<crossref let="n" cid="c46006018.1" />Flee from sexual immorality . Every other sin a person commits is outside the body , but the sexually immoral person<crossref let="o" cid="c46006018.2" />sins against his own body .</v>
+			<marker class="begin-verse" mid="v46006019">
+			</marker>
+			<v n="19">Or<crossref let="p" cid="c46006019.1" />do you not know that your body is a temple of the Holy Spirit within you , whom you have from God ?<crossref let="q" cid="c46006019.2" />You are not your own ,</v>
+			<marker class="begin-verse" mid="v46006020">
+			</marker>
+			<v n="20">
+				<crossref let="r" cid="c46006020.1" />for you were bought with a price .<crossref let="s" cid="c46006020.2" />So glorify God in your body .</v>
+			<marker class="begin-verse" mid="v46006021">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">6:8 Or *brothers and sisters*</footnote>
+				<footnote id="2">6:9 Or *wrongdoers*</footnote>
+				<footnote id="3">6:9 The two Greek terms translated by this phrase refer to the passive and active partners in consensual homosexual acts</footnote>
+				<footnote id="4">6:16 Or *who holds fast* (compare Genesis 2:24 and Deuteronomy 10:20); also verse 17</footnote>
+				<footnote id="5">6:18 Or *Every sin*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

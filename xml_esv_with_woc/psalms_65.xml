@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:35.571556</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:35.571563</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19065001">
+		</marker>
+		<chapter num="65">
+			<heading>
+				Psalm 65
+			</heading>
+			<heading>
+				O God of Our Salvation
+			</heading>
+			<heading>
+				To the choirmaster. A Psalm of David. A Song.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and to you shall<crossref let="e" cid="c19065001.1" />vows be performed.</v>
+			<marker class="begin-verse" mid="v19065002">
+			</marker>
+			<v n="2">to you<crossref let="g" cid="c19065002.1" />shall all flesh come.</v>
+			<marker class="begin-verse" mid="v19065003">
+			</marker>
+			<v n="3">you<crossref let="i" cid="c19065003.1" />atone for our transgressions.</v>
+			<marker class="begin-verse" mid="v19065004">
+			</marker>
+			<v n="4">the holiness of your temple!</v>
+			<marker class="begin-verse" mid="v19065005">
+			</marker>
+			<v n="5">and of the farthest seas;</v>
+			<marker class="begin-verse" mid="v19065006">
+			</marker>
+			<v n="6">girded with might;</v>
+			<marker class="begin-verse" mid="v19065007">
+			</marker>
+			<v n="7">
+				<crossref let="q" cid="c19065007.1" />the tumult of the peoples,</v>
+			<marker class="begin-verse" mid="v19065008">
+			</marker>
+			<v n="8">You make the going out of the morning and the evening to shout for joy.</v>
+			<marker class="begin-verse" mid="v19065009">
+			</marker>
+			<v n="9">for so you have prepared it.</v>
+			<marker class="begin-verse" mid="v19065010">
+			</marker>
+			<v n="10">and blessing its growth.</v>
+			<marker class="begin-verse" mid="v19065011">
+			</marker>
+			<v n="11">overflow with abundance.</v>
+			<marker class="begin-verse" mid="v19065012">
+			</marker>
+			<v n="12">the hills<crossref let="x" cid="c19065012.1" />gird themselves with joy,</v>
+			<marker class="begin-verse" mid="v19065013">
+			</marker>
+			<v n="13">they<crossref let="z" cid="c19065013.2" />shout and sing together for joy.</v>
+			<marker class="begin-verse" mid="v19065014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">65:1 Or *Praise waits for you in silence*</footnote>
+				<footnote id="2">65:9 Or *and make it overflow*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

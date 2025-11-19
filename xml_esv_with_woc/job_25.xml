@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:44.483653</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:44.483660</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18025001">
+		</marker>
+		<chapter num="25">
+			<heading>
+				Job 25
+			</heading>
+			<heading>
+				Bildad Speaks: Man Cannot Be Righteous
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">25 Then<crossref let="o" cid="c18025001.1" />Bildad the Shuhite answered and said:</v>
+			<marker class="begin-verse" mid="v18025002">
+			</marker>
+			<v n="2">he makes peace in his high heaven.</v>
+			<marker class="begin-verse" mid="v18025003">
+			</marker>
+			<v n="3">Upon whom does his<crossref let="q" cid="c18025003.2" />light not arise?</v>
+			<marker class="begin-verse" mid="v18025004">
+			</marker>
+			<v n="4">How can he who is<crossref let="s" cid="c18025004.2" />born of woman be<crossref let="t" cid="c18025004.3" />pure?</v>
+			<marker class="begin-verse" mid="v18025005">
+			</marker>
+			<v n="5">and the stars are not pure in his eyes;</v>
+			<marker class="begin-verse" mid="v18025006">
+			</marker>
+			<v n="6">and<crossref let="w" cid="c18025006.3" />the son of man, who is a worm!”</v>
+			<marker class="begin-verse" mid="v18025007">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">25:2 Hebrew *him*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

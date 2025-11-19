@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:59.371447</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:59.371463</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18035001">
+		</marker>
+		<chapter num="35">
+			<heading>
+				Job 35
+			</heading>
+			<heading>
+				Elihu Condemns Job
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">And Elihu answered and said :</v>
+			<marker class="begin-verse" mid="v18035002">
+			</marker>
+			<v n="2">Do you say ,<crossref let="v" cid="c18035002.1" />‘ It is my right before God , ’</v>
+			<marker class="begin-verse" mid="v18035003">
+			</marker>
+			<v n="3">How am I better off than if I had sinned ? ’</v>
+			<marker class="begin-verse" mid="v18035004">
+			</marker>
+			<v n="4">and<crossref let="x" cid="c18035004.1" />your friends with you .</v>
+			<marker class="begin-verse" mid="v18035005">
+			</marker>
+			<v n="5">and behold the clouds , which are higher than you .</v>
+			<marker class="begin-verse" mid="v18035006">
+			</marker>
+			<v n="6">And if your transgressions are multiplied , what do you do to him ?</v>
+			<marker class="begin-verse" mid="v18035007">
+			</marker>
+			<v n="7">Or what does he receive from your hand ?</v>
+			<marker class="begin-verse" mid="v18035008">
+			</marker>
+			<v n="8">and your righteousness<crossref let="b" cid="c18035008.1" />a son of man .</v>
+			<marker class="begin-verse" mid="v18035009">
+			</marker>
+			<v n="9">they call for help because of the arm of<crossref let="e" cid="c18035009.3" />the mighty .</v>
+			<marker class="begin-verse" mid="v18035010">
+			</marker>
+			<v n="10">who gives<crossref let="g" cid="c18035010.2" />songs in the night ,</v>
+			<marker class="begin-verse" mid="v18035011">
+			</marker>
+			<v n="11">and makes us wiser than the birds of the heavens ? ’</v>
+			<marker class="begin-verse" mid="v18035012">
+			</marker>
+			<v n="12">because of the pride of evil men .</v>
+			<marker class="begin-verse" mid="v18035013">
+			</marker>
+			<v n="13">nor does the Almighty regard it .</v>
+			<marker class="begin-verse" mid="v18035014">
+			</marker>
+			<v n="14">that the case is before him , and you are<crossref let="k" cid="c18035014.2" />waiting for him !</v>
+			<marker class="begin-verse" mid="v18035015">
+			</marker>
+			<v n="15">and he does not take much note of transgression ,</v>
+			<marker class="begin-verse" mid="v18035016">
+			</marker>
+			<v n="16">he<crossref let="m" cid="c18035016.1" />multiplies words<crossref let="n" cid="c18035016.2" />without knowledge . ”</v>
+			<marker class="begin-verse" mid="v18035017">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">35:9 Or *the many*</footnote>
+				<footnote id="2">35:15 Theodotion, Symmachus (compare Vulgate); the meaning of the Hebrew word is uncertain</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

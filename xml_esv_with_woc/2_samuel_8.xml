@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:26:10.887580</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:26:10.887614</next_refresh_due>
+	</generation_info>
+	<book title="2 Samuel" num="10" testament="old" bookAbbr="2sa" version="ESV">
+		<marker class="begin-verse" mid="v10008001">
+		</marker>
+		<chapter num="8">
+			<heading>
+				2 Samuel 8
+			</heading>
+			<heading>
+				David’s Victories
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Metheg-ammah out of the hand of the Philistines.</v>
+			<marker class="begin-verse" mid="v10008002">
+			</marker>
+			<v n="2">brought tribute.</v>
+			<marker class="begin-verse" mid="v10008003">
+			</marker>
+			<v n="3">Zobah, as he went to restore his power at the river Euphrates.</v>
+			<marker class="begin-verse" mid="v10008004">
+			</marker>
+			<v n="4">hamstrung all the chariot horses but left enough for 100 chariots.</v>
+			<marker class="begin-verse" mid="v10008005">
+			</marker>
+			<v n="5">And when the Syrians of Damascus came to help<crossref let="l" cid="c10008005.1" />Hadadezer king of<crossref let="m" cid="c10008005.2" />Zobah, David struck down 22,000 men of the Syrians.</v>
+			<marker class="begin-verse" mid="v10008006">
+			</marker>
+			<v n="6">And the Lord gave victory to David wherever he went.</v>
+			<marker class="begin-verse" mid="v10008007">
+			</marker>
+			<v n="7">the shields of gold that were carried by the servants of Hadadezer and brought them to Jerusalem.</v>
+			<marker class="begin-verse" mid="v10008008">
+			</marker>
+			<v n="8">And from Betah and from Berothai, cities of Hadadezer, King David took very much bronze.</v>
+			<marker class="begin-verse" mid="v10008009">
+			</marker>
+			<v n="9">Hamath heard that David had defeated the whole army of Hadadezer,</v>
+			<marker class="begin-verse" mid="v10008010">
+			</marker>
+			<v n="10">Toi sent his son Joram to King David, to ask about his health and to bless him because he had fought against Hadadezer and defeated him, for Hadadezer had often been at war with Toi. And Joram brought with him articles of silver, of gold, and of bronze.</v>
+			<marker class="begin-verse" mid="v10008011">
+			</marker>
+			<v n="11">These also King David dedicated to the Lord , together with the silver and gold that he dedicated from all the nations he subdued,</v>
+			<marker class="begin-verse" mid="v10008012">
+			</marker>
+			<v n="12">from Edom, Moab, the Ammonites, the Philistines, Amalek, and from the spoil of Hadadezer the son of Rehob, king of<crossref let="w" cid="c10008012.2" />Zobah.</v>
+			<marker class="begin-verse" mid="v10008013">
+			</marker>
+			<v n="13">the Valley of Salt.</v>
+			<marker class="begin-verse" mid="v10008014">
+			</marker>
+			<v n="14">and all the Edomites became David's servants. And the Lord gave victory to David wherever he went.</v>
+			<marker class="begin-verse" mid="v10008015">
+			</marker>
+			<v n="15">So David reigned over all Israel. And David administered justice and equity to all his people.</v>
+			<marker class="begin-verse" mid="v10008016">
+			</marker>
+			<v n="16">Jehoshaphat the son of Ahilud was recorder,</v>
+			<marker class="begin-verse" mid="v10008017">
+			</marker>
+			<v n="17">Seraiah was secretary,</v>
+			<marker class="begin-verse" mid="v10008018">
+			</marker>
+			<v n="18">Cherethites and the Pelethites, and David's sons were priests.</v>
+			<marker class="begin-verse" mid="v10008019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">8:18 Compare 20:23, 1 Chronicles 18:17, Syriac, Targum, Vulgate; Hebrew lacks *was over*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

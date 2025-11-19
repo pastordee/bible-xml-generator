@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:21.537113</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:21.537141</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" bookAbbr="pro" version="ESV">
+		<marker class="begin-verse" mid="v20028001">
+		</marker>
+		<chapter num="28">
+			<heading>
+				Proverbs 28
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">the righteous are bold as a lion.</v>
+			<marker class="begin-verse" mid="v20028002">
+			</marker>
+			<v n="2">its stability will long continue.</v>
+			<marker class="begin-verse" mid="v20028003">
+			</marker>
+			<v n="3">is a beating rain that leaves no food.</v>
+			<marker class="begin-verse" mid="v20028004">
+			</marker>
+			<v n="4">strive against them.</v>
+			<marker class="begin-verse" mid="v20028005">
+			</marker>
+			<v n="5">understand it completely.</v>
+			<marker class="begin-verse" mid="v20028006">
+			</marker>
+			<v n="6">than a rich man who is<crossref let="k" cid="c20028006.1" />crooked in his ways.</v>
+			<marker class="begin-verse" mid="v20028007">
+			</marker>
+			<v n="7">a companion of gluttons shames his father.</v>
+			<marker class="begin-verse" mid="v20028008">
+			</marker>
+			<v n="8">
+				<crossref let="n" cid="c20028008.1" />gathers it for him who is<crossref let="o" cid="c20028008.2" />generous to the poor.</v>
+			<marker class="begin-verse" mid="v20028009">
+			</marker>
+			<v n="9">prayer is an abomination.</v>
+			<marker class="begin-verse" mid="v20028010">
+			</marker>
+			<v n="10">but the blameless<crossref let="r" cid="c20028010.1" />will have a goodly inheritance.</v>
+			<marker class="begin-verse" mid="v20028011">
+			</marker>
+			<v n="11">but a poor man who has understanding<crossref let="t" cid="c20028011.1" />will find him out.</v>
+			<marker class="begin-verse" mid="v20028012">
+			</marker>
+			<v n="12">but when<crossref let="v" cid="c20028012.1" />the wicked rise, people hide themselves.</v>
+			<marker class="begin-verse" mid="v20028013">
+			</marker>
+			<v n="13">but he who<crossref let="x" cid="c20028013.1" />confesses and forsakes them will obtain mercy.</v>
+			<marker class="begin-verse" mid="v20028014">
+			</marker>
+			<v n="14">but whoever<crossref let="z" cid="c20028014.2" />hardens his heart will fall into calamity.</v>
+			<marker class="begin-verse" mid="v20028015">
+			</marker>
+			<v n="15">a wicked ruler over a poor people.</v>
+			<marker class="begin-verse" mid="v20028016">
+			</marker>
+			<v n="16">but he who hates unjust gain will prolong his days.</v>
+			<marker class="begin-verse" mid="v20028017">
+			</marker>
+			<v n="17">let no one help him.</v>
+			<marker class="begin-verse" mid="v20028018">
+			</marker>
+			<v n="18">but he who is crooked in his ways will suddenly fall.</v>
+			<marker class="begin-verse" mid="v20028019">
+			</marker>
+			<v n="19">but he who follows worthless pursuits will have plenty of poverty.</v>
+			<marker class="begin-verse" mid="v20028020">
+			</marker>
+			<v n="20">will not go unpunished.</v>
+			<marker class="begin-verse" mid="v20028021">
+			</marker>
+			<v n="21">a piece of bread a man will do wrong.</v>
+			<marker class="begin-verse" mid="v20028022">
+			</marker>
+			<v n="22">poverty will come upon him.</v>
+			<marker class="begin-verse" mid="v20028023">
+			</marker>
+			<v n="23">he who flatters with his tongue.</v>
+			<marker class="begin-verse" mid="v20028024">
+			</marker>
+			<v n="24">a companion to a man who destroys.</v>
+			<marker class="begin-verse" mid="v20028025">
+			</marker>
+			<v n="25">be enriched.</v>
+			<marker class="begin-verse" mid="v20028026">
+			</marker>
+			<v n="26">but he who walks in wisdom will be delivered.</v>
+			<marker class="begin-verse" mid="v20028027">
+			</marker>
+			<v n="27">hides his eyes will get many a curse.</v>
+			<marker class="begin-verse" mid="v20028028">
+			</marker>
+			<v n="28">but when they perish, the righteous increase.</v>
+			<marker class="begin-verse" mid="v20028029">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">28:8 That is, profit that comes from charging interest to the poor</footnote>
+				<footnote id="2">28:14 Hebrew lacks *the Lord*</footnote>
+				<footnote id="3">28:17 Hebrew *until the pit*</footnote>
+				<footnote id="4">28:22 Hebrew *A man whose eye is evil*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

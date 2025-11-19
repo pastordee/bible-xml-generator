@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:16.018572</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:16.018594</next_refresh_due>
+	</generation_info>
+	<book title="1 John" num="62" testament="new" bookAbbr="1jn" version="ESV">
+		<marker class="begin-verse" mid="v62001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				1 John 1
+			</heading>
+			<heading>
+				The Word of Life
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">1<crossref let="a" cid="c62001001.1" />That which was<crossref let="b" cid="c62001001.2" />from the beginning,<crossref let="c" cid="c62001001.3" />which we have heard,<crossref let="d" cid="c62001001.4" />which we have seen with our eyes,<crossref let="e" cid="c62001001.5" />which we looked upon and<crossref let="f" cid="c62001001.6" />have touched with our hands, concerning the word of life—</v>
+			<marker class="begin-verse" mid="v62001002">
+			</marker>
+			<v n="2">
+				<crossref let="g" cid="c62001002.2" />the life<crossref let="h" cid="c62001002.3" />was made manifest, and we have seen it, and<crossref let="i" cid="c62001002.4" />testify to it and proclaim to you the eternal life, which was with the Father and was made manifest to us—</v>
+			<marker class="begin-verse" mid="v62001003">
+			</marker>
+			<v n="3">our fellowship is with the Father and with his Son Jesus Christ.</v>
+			<marker class="begin-verse" mid="v62001004">
+			</marker>
+			<v n="4">that our joy may be complete.</v>
+			<marker class="begin-verse" mid="v62001005">
+			</marker>
+			<v n="5">God is light, and in him is no darkness at all.</v>
+			<marker class="begin-verse" mid="v62001006">
+			</marker>
+			<v n="6">do not practice the truth.</v>
+			<marker class="begin-verse" mid="v62001007">
+			</marker>
+			<v n="7">the blood of Jesus his Son cleanses us from all sin.</v>
+			<marker class="begin-verse" mid="v62001008">
+			</marker>
+			<v n="8">the truth is not in us.</v>
+			<marker class="begin-verse" mid="v62001009">
+			</marker>
+			<v n="9">to cleanse us from all unrighteousness.</v>
+			<marker class="begin-verse" mid="v62001010">
+			</marker>
+			<v n="10">his word is not in us.</v>
+			<marker class="begin-verse" mid="v62001011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:1 Or *Word*</footnote>
+				<footnote id="2">1:4 Some manuscripts *your*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

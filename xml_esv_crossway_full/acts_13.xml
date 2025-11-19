@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:06:30.526201</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:06:30.526229</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" bookAbbr="act" version="ESV">
+		<marker class="begin-verse" mid="v44013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				Acts 13
+			</heading>
+			<heading>
+				Barnabas and Saul Sent Off
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Now there were in the church at Antioch<crossref let="n" cid="c44013001.1" />prophets and<crossref let="n" cid="c44013001.1" />teachers ,<crossref let="o" cid="c44013001.2" />Barnabas , Simeon who was called Niger , Lucius of Cyrene , Manaen a lifelong friend of<crossref let="p" cid="c44013001.3" />Herod the tetrarch , and Saul .</v>
+			<marker class="begin-verse" mid="v44013002">
+			</marker>
+			<v n="2">While they were worshiping the Lord and fasting ,<crossref let="q" cid="c44013002.1" />the Holy Spirit said ,<crossref let="r" cid="c44013002.2" />“ Set apart for me Barnabas and Saul<crossref let="s" cid="c44013002.3" />for the work to which I have called them . ”</v>
+			<marker class="begin-verse" mid="v44013003">
+			</marker>
+			<v n="3">Then after fasting and<crossref let="t" cid="c44013003.1" />praying they laid their hands on them and<crossref let="u" cid="c44013003.2" />sent them off .</v>
+			<marker class="begin-verse" mid="v44013004">
+			</marker>
+			<v n="4">So , being sent out<crossref let="v" cid="c44013004.1" />by the Holy Spirit , they went down to Seleucia , and from there they sailed to Cyprus .</v>
+			<marker class="begin-verse" mid="v44013005">
+			</marker>
+			<v n="5">When they arrived at Salamis , they proclaimed the word of God<crossref let="w" cid="c44013005.1" />in the synagogues of the Jews . And they had<crossref let="x" cid="c44013005.2" />John to<crossref let="y" cid="c44013005.3" />assist them .</v>
+			<marker class="begin-verse" mid="v44013006">
+			</marker>
+			<v n="6">When they had gone through the whole island as far as Paphos , they came upon a certain<crossref let="z" cid="c44013006.2" />magician ,<crossref let="a" cid="c44013006.1" />a Jewish false prophet named Bar-Jesus .</v>
+			<marker class="begin-verse" mid="v44013007">
+			</marker>
+			<v n="7">He was with<crossref let="b" cid="c44013007.1" />the proconsul , Sergius Paulus , a man of intelligence , who summoned Barnabas and Saul and sought to hear the word of God .</v>
+			<marker class="begin-verse" mid="v44013008">
+			</marker>
+			<v n="8">But Elymas the<crossref let="z" cid="c44013008.3" />magician ( for that is the meaning of his name )<crossref let="c" cid="c44013008.1" />opposed them , seeking to turn<crossref let="d" cid="c44013008.2" />the proconsul away from the faith .</v>
+			<marker class="begin-verse" mid="v44013009">
+			</marker>
+			<v n="9">But Saul , who was also called Paul ,<crossref let="e" cid="c44013009.1" />filled with the Holy Spirit , looked intently at him</v>
+			<marker class="begin-verse" mid="v44013010">
+			</marker>
+			<v n="10">and said , “ You<crossref let="f" cid="c44013010.1" />son of the devil , you enemy of all righteousness , full of all deceit and<crossref let="g" cid="c44013010.2" />villainy , will you not stop<crossref let="h" cid="c44013010.3" />making crooked<crossref let="i" cid="c44013010.4" />the straight paths of the Lord ?</v>
+			<marker class="begin-verse" mid="v44013011">
+			</marker>
+			<v n="11">And now , behold ,<crossref let="j" cid="c44013011.1" />the hand of the Lord is upon you , and you will be blind and unable to see the sun for a time . ” Immediately mist and darkness fell upon him , and he went about seeking<crossref let="k" cid="c44013011.2" />people to lead him by the hand .</v>
+			<marker class="begin-verse" mid="v44013012">
+			</marker>
+			<v n="12">Then the proconsul believed , when he saw what had occurred , for he was astonished at<crossref let="l" cid="c44013012.1" />the teaching of the Lord .</v>
+			<marker class="begin-verse" mid="v44013013">
+			</marker>
+			<v n="13">Now Paul and his companions set sail from Paphos and came to Perga in Pamphylia . And<crossref let="m" cid="c44013013.1" />John left them and returned<crossref let="n" cid="c44013013.2" />to Jerusalem ,</v>
+			<marker class="begin-verse" mid="v44013014">
+			</marker>
+			<v n="14">but they went on from Perga and came to Antioch in Pisidia . And<crossref let="o" cid="c44013014.1" />on the Sabbath day<crossref let="p" cid="c44013014.2" />they went into the synagogue and sat down .</v>
+			<marker class="begin-verse" mid="v44013015">
+			</marker>
+			<v n="15">After<crossref let="q" cid="c44013015.1" />the reading from<crossref let="r" cid="c44013015.2" />the Law and the Prophets ,<crossref let="s" cid="c44013015.3" />the rulers of the synagogue sent a message to them , saying , “ Brothers , if you have any<crossref let="t" cid="c44013015.4" />word of encouragement for the people , say it . ”</v>
+			<marker class="begin-verse" mid="v44013016">
+			</marker>
+			<v n="16">“ Men of Israel and<crossref let="v" cid="c44013016.2" />you who fear God , listen .</v>
+			<marker class="begin-verse" mid="v44013017">
+			</marker>
+			<v n="17">
+				<crossref let="w" cid="c44013017.2" />The God of this people Israel<crossref let="x" cid="c44013017.3" />chose our fathers and<crossref let="y" cid="c44013017.4" />made the people great<crossref let="z" cid="c44013017.5" />during their stay in the land of Egypt , and<crossref let="a" cid="c44013017.1" />with uplifted arm he led them out of it .</v>
+			<marker class="begin-verse" mid="v44013018">
+			</marker>
+			<v n="18">And for about<crossref let="b" cid="c44013018.1" />forty years<crossref let="c" cid="c44013018.2" />he put up with them in the wilderness .</v>
+			<marker class="begin-verse" mid="v44013019">
+			</marker>
+			<v n="19">And<crossref let="d" cid="c44013019.1" />after destroying<crossref let="e" cid="c44013019.2" />seven nations in the land of Canaan ,<crossref let="f" cid="c44013019.3" />he gave them their land as an inheritance .</v>
+			<marker class="begin-verse" mid="v44013020">
+			</marker>
+			<v n="20">All this took about 450 years . And after that<crossref let="g" cid="c44013020.1" />he gave them judges until<crossref let="h" cid="c44013020.2" />Samuel the prophet .</v>
+			<marker class="begin-verse" mid="v44013021">
+			</marker>
+			<v n="21">Then<crossref let="i" cid="c44013021.1" />they asked for a king , and God gave them Saul<crossref let="j" cid="c44013021.2" />the son of Kish , a man of the tribe of Benjamin , for forty years .</v>
+			<marker class="begin-verse" mid="v44013022">
+			</marker>
+			<v n="22">And<crossref let="k" cid="c44013022.1" />when he had removed him ,<crossref let="l" cid="c44013022.2" />he raised up David to be their king , of whom he testified and said ,<crossref let="m" cid="c44013022.3" />‘ I have found in David the son of Jesse<crossref let="n" cid="c44013022.4" />a man after my heart ,<crossref let="o" cid="c44013022.5" />who will do all my will . ’</v>
+			<marker class="begin-verse" mid="v44013023">
+			</marker>
+			<v n="23">
+				<crossref let="p" cid="c44013023.1" />Of this man’s offspring God has brought to Israel<crossref let="q" cid="c44013023.2" />a Savior , Jesus ,<crossref let="r" cid="c44013023.3" />as he promised .</v>
+			<marker class="begin-verse" mid="v44013024">
+			</marker>
+			<v n="24">Before his coming ,<crossref let="s" cid="c44013024.1" />John had proclaimed<crossref let="t" cid="c44013024.2" />a baptism of repentance to all the people of Israel .</v>
+			<marker class="begin-verse" mid="v44013025">
+			</marker>
+			<v n="25">And as John was finishing his course ,<crossref let="u" cid="c44013025.1" />he said , ‘ What do you suppose that I am ? I am not he . No , but behold , after me one is coming , the sandals of whose feet I am not worthy to untie . ’</v>
+			<marker class="begin-verse" mid="v44013026">
+			</marker>
+			<v n="26">“ Brothers , sons of the family of Abraham , and those among you<crossref let="v" cid="c44013026.1" />who fear God , to us has been sent<crossref let="w" cid="c44013026.2" />the message of<crossref let="x" cid="c44013026.3" />this salvation .</v>
+			<marker class="begin-verse" mid="v44013027">
+			</marker>
+			<v n="27">For those who live in Jerusalem and their rulers , because<crossref let="y" cid="c44013027.2" />they did not recognize him nor understand<crossref let="z" cid="c44013027.3" />the utterances of the prophets , which are read every Sabbath ,<crossref let="a" cid="c44013027.1" />fulfilled them by condemning him .</v>
+			<marker class="begin-verse" mid="v44013028">
+			</marker>
+			<v n="28">And<crossref let="b" cid="c44013028.1" />though they found in him no guilt worthy of death ,<crossref let="c" cid="c44013028.2" />they asked Pilate to have him executed .</v>
+			<marker class="begin-verse" mid="v44013029">
+			</marker>
+			<v n="29">And when<crossref let="d" cid="c44013029.1" />they had carried out all that was written of him ,<crossref let="e" cid="c44013029.2" />they took him down from<crossref let="f" cid="c44013029.3" />the tree and laid him in a tomb .</v>
+			<marker class="begin-verse" mid="v44013030">
+			</marker>
+			<v n="30">But<crossref let="g" cid="c44013030.1" />God raised him from the dead ,</v>
+			<marker class="begin-verse" mid="v44013031">
+			</marker>
+			<v n="31">and for many days<crossref let="h" cid="c44013031.1" />he appeared to those<crossref let="i" cid="c44013031.2" />who had come up with him<crossref let="j" cid="c44013031.3" />from Galilee to Jerusalem ,<crossref let="k" cid="c44013031.4" />who are now<crossref let="l" cid="c44013031.5" />his witnesses to the people .</v>
+			<marker class="begin-verse" mid="v44013032">
+			</marker>
+			<v n="32">And we bring you the good news<crossref let="m" cid="c44013032.1" />that what God promised to the fathers ,</v>
+			<marker class="begin-verse" mid="v44013033">
+			</marker>
+			<v n="33">today I have begotten you . ’</v>
+			<marker class="begin-verse" mid="v44013034">
+			</marker>
+			<v n="34">“ ‘ I will give you<crossref let="r" cid="c44013034.3" />the holy and sure blessings of David . ’</v>
+			<marker class="begin-verse" mid="v44013035">
+			</marker>
+			<v n="35">
+				<crossref let="s" cid="c44013035.1" />“ ‘ You will not let your Holy One see corruption . ’</v>
+			<marker class="begin-verse" mid="v44013036">
+			</marker>
+			<v n="36">For David , after he had<crossref let="t" cid="c44013036.1" />served the purpose of God in his own generation ,<crossref let="u" cid="c44013036.2" />fell asleep and<crossref let="v" cid="c44013036.3" />was laid with his fathers and saw corruption ,</v>
+			<marker class="begin-verse" mid="v44013037">
+			</marker>
+			<v n="37">but he whom<crossref let="w" cid="c44013037.1" />God raised up did not see corruption .</v>
+			<marker class="begin-verse" mid="v44013038">
+			</marker>
+			<v n="38">Let it be known to you therefore , brothers ,<crossref let="x" cid="c44013038.1" />that through this man<crossref let="y" cid="c44013038.2" />forgiveness of sins is proclaimed to you ,</v>
+			<marker class="begin-verse" mid="v44013039">
+			</marker>
+			<v n="39">and by him<crossref let="z" cid="c44013039.2" />everyone who believes is freed from everything<crossref let="a" cid="c44013039.1" />from which you could not be freed by the law of Moses .</v>
+			<marker class="begin-verse" mid="v44013040">
+			</marker>
+			<v n="40">Beware , therefore , lest what is said in the Prophets should come about :</v>
+			<marker class="begin-verse" mid="v44013041">
+			</marker>
+			<v n="41">a work that you will not believe , even if one tells it to you . ’ ”</v>
+			<marker class="begin-verse" mid="v44013042">
+			</marker>
+			<v n="42">As they went out , the people begged that these things might be told them the next Sabbath .</v>
+			<marker class="begin-verse" mid="v44013043">
+			</marker>
+			<v n="43">And after the meeting of the synagogue broke up , many Jews and<crossref let="c" cid="c44013043.1" />devout<crossref let="d" cid="c44013043.2" />converts to Judaism followed Paul and Barnabas , who , as they spoke with them , urged them<crossref let="e" cid="c44013043.3" />to continue in<crossref let="f" cid="c44013043.4" />the grace of God .</v>
+			<marker class="begin-verse" mid="v44013044">
+			</marker>
+			<v n="44">The next Sabbath almost the whole city gathered to hear the word of the Lord .</v>
+			<marker class="begin-verse" mid="v44013045">
+			</marker>
+			<v n="45">
+				<crossref let="g" cid="c44013045.1" />But<crossref let="h" cid="c44013045.2" />when the Jews saw the crowds , they were filled with<crossref let="i" cid="c44013045.3" />jealousy and began to contradict what was spoken by Paul ,<crossref let="j" cid="c44013045.4" />reviling him .</v>
+			<marker class="begin-verse" mid="v44013046">
+			</marker>
+			<v n="46">And Paul and Barnabas spoke out boldly , saying , “ It was necessary that the word of God<crossref let="k" cid="c44013046.1" />be spoken first to you .<crossref let="l" cid="c44013046.2" />Since you thrust it aside and judge yourselves<crossref let="m" cid="c44013046.3" />unworthy of eternal life , behold , we<crossref let="n" cid="c44013046.4" />are turning to the Gentiles .</v>
+			<marker class="begin-verse" mid="v44013047">
+			</marker>
+			<v n="47">that you may<crossref let="r" cid="c44013047.4" />bring salvation to the ends of the earth . ’ ”</v>
+			<marker class="begin-verse" mid="v44013048">
+			</marker>
+			<v n="48">And when the Gentiles heard this , they began rejoicing and<crossref let="s" cid="c44013048.1" />glorifying the word of the Lord , and as many as were appointed to eternal life believed .</v>
+			<marker class="begin-verse" mid="v44013049">
+			</marker>
+			<v n="49">And the word of the Lord was spreading throughout the whole region .</v>
+			<marker class="begin-verse" mid="v44013050">
+			</marker>
+			<v n="50">
+				<crossref let="t" cid="c44013050.1" />But the Jews incited the devout<crossref let="u" cid="c44013050.2" />women of high standing and the leading men of the city ,<crossref let="v" cid="c44013050.3" />stirred up persecution against Paul and Barnabas , and<crossref let="w" cid="c44013050.4" />drove them out of their district .</v>
+			<marker class="begin-verse" mid="v44013051">
+			</marker>
+			<v n="51">But they<crossref let="x" cid="c44013051.1" />shook off the dust from their feet against them and went to Iconium .</v>
+			<marker class="begin-verse" mid="v44013052">
+			</marker>
+			<v n="52">And the disciples were filled<crossref let="y" cid="c44013052.1" />with joy and<crossref let="z" cid="c44013052.2" />with the Holy Spirit .</v>
+			<marker class="begin-verse" mid="v44013053">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">13:1 *Niger* is a Latin word meaning *black*, or *dark*</footnote>
+				<footnote id="2">13:18 Some manuscripts *he carried* (compare Deuteronomy 1:31)</footnote>
+				<footnote id="3">13:39 Or *justified*; twice in this verse</footnote>
+				<footnote id="4">13:45 Greek *Ioudaioi* probably refers here to Jewish religious leaders, and others under their influence, in that time; also verse 50</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:25:31.429344</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:25:31.429352</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" bookAbbr="1sa" version="ESV">
+		<marker class="begin-verse" mid="v09012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				1 Samuel 12
+			</heading>
+			<heading>
+				Samuel’s Farewell Address
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">And Samuel said to all Israel , “ Behold , I have obeyed<crossref let="n" cid="c09012001.1" />your voice in all that you have said to me<crossref let="o" cid="c09012001.2" />and have made a king over you .</v>
+			<marker class="begin-verse" mid="v09012002">
+			</marker>
+			<v n="2">And now , behold , the king<crossref let="p" cid="c09012002.1" />walks before you ,<crossref let="q" cid="c09012002.2" />and I am old and gray ; and behold , my sons are with you . I have walked before you from my youth until this day .</v>
+			<marker class="begin-verse" mid="v09012003">
+			</marker>
+			<v n="3">Here I am ; testify against me before the Lord and before<crossref let="r" cid="c09012003.1" />his anointed .<crossref let="s" cid="c09012003.2" />Whose ox have I taken ? Or whose donkey have I taken ? Or whom have I defrauded ? Whom have I oppressed ? Or from whose hand have I taken a bribe to blind my eyes with it ? Testify against me and I will restore it to you . ”</v>
+			<marker class="begin-verse" mid="v09012004">
+			</marker>
+			<v n="4">They said , “ You have not defrauded us or oppressed us or taken anything from any man’s hand . ”</v>
+			<marker class="begin-verse" mid="v09012005">
+			</marker>
+			<v n="5">And he said to them , “ The Lord is witness against you , and<crossref let="r" cid="c09012005.1" />his anointed is witness this day , that you have not found anything<crossref let="t" cid="c09012005.2" />in my hand . ” And they said , “ He is witness . ”</v>
+			<marker class="begin-verse" mid="v09012006">
+			</marker>
+			<v n="6">And Samuel said to the people ,<crossref let="u" cid="c09012006.1" />“ The Lord is witness , who appointed Moses and Aaron and brought your fathers up out of the land of Egypt .</v>
+			<marker class="begin-verse" mid="v09012007">
+			</marker>
+			<v n="7">Now therefore stand still that I may plead with you before the Lord concerning all the righteous deeds of the Lord that he performed for you and for your fathers .</v>
+			<marker class="begin-verse" mid="v09012008">
+			</marker>
+			<v n="8">
+				<crossref let="v" cid="c09012008.1" />When Jacob went into Egypt , and the Egyptians oppressed them ,<crossref let="w" cid="c09012008.2" />then your fathers cried out to the Lord and<crossref let="x" cid="c09012008.3" />the Lord sent Moses and Aaron ,<crossref let="y" cid="c09012008.4" />who brought your fathers out of Egypt and made them dwell in this place .</v>
+			<marker class="begin-verse" mid="v09012009">
+			</marker>
+			<v n="9">But<crossref let="z" cid="c09012009.4" />they forgot the Lord their God .<crossref let="a" cid="c09012009.1" />And he sold them into the hand of Sisera , commander of the army of Hazor ,<crossref let="b" cid="c09012009.2" />and into the hand of the Philistines ,<crossref let="c" cid="c09012009.3" />and into the hand of the king of Moab . And they fought against them .</v>
+			<marker class="begin-verse" mid="v09012010">
+			</marker>
+			<v n="10">
+				<crossref let="d" cid="c09012010.1" />And they cried out to the Lord and said , ‘ We have sinned , because we have forsaken the Lord<crossref let="e" cid="c09012010.2" />and have served the Baals and the Ashtaroth . But now<crossref let="f" cid="c09012010.3" />deliver us out of the hand of our enemies , that we may serve you . ’</v>
+			<marker class="begin-verse" mid="v09012011">
+			</marker>
+			<v n="11">And the Lord sent<crossref let="g" cid="c09012011.1" />Jerubbaal<crossref let="h" cid="c09012011.2" />and Barak<crossref let="i" cid="c09012011.3" />and Jephthah and<crossref let="j" cid="c09012011.4" />Samuel and delivered you out of the hand of your enemies on every side , and you lived in safety .</v>
+			<marker class="begin-verse" mid="v09012012">
+			</marker>
+			<v n="12">And when you saw that<crossref let="k" cid="c09012012.1" />Nahash the king of the Ammonites came against you ,<crossref let="l" cid="c09012012.2" />you said to me , ‘ No , but a king shall reign over us , ’<crossref let="m" cid="c09012012.3" />when the Lord your God was your king .</v>
+			<marker class="begin-verse" mid="v09012013">
+			</marker>
+			<v n="13">And now<crossref let="n" cid="c09012013.1" />behold the king whom you have chosen , for whom you have asked ; behold ,<crossref let="o" cid="c09012013.2" />the Lord has set a king over you .</v>
+			<marker class="begin-verse" mid="v09012014">
+			</marker>
+			<v n="14">If you will<crossref let="p" cid="c09012014.1" />fear the Lord and serve him and obey his voice and not rebel against the commandment of the Lord , and if both you and the king who reigns over you will follow the Lord your God , it will be well .</v>
+			<marker class="begin-verse" mid="v09012015">
+			</marker>
+			<v n="15">But<crossref let="q" cid="c09012015.1" />if you will not obey the voice of the Lord , but rebel against the commandment of the Lord , then<crossref let="r" cid="c09012015.2" />the hand of the Lord will be against you and<crossref let="s" cid="c09012015.3" />your king .</v>
+			<marker class="begin-verse" mid="v09012016">
+			</marker>
+			<v n="16">Now therefore<crossref let="t" cid="c09012016.1" />stand still and see this great thing that the Lord will do before your eyes .</v>
+			<marker class="begin-verse" mid="v09012017">
+			</marker>
+			<v n="17">
+				<crossref let="u" cid="c09012017.1" />Is it not wheat harvest today ?<crossref let="v" cid="c09012017.2" />I will call upon the Lord , that he may send thunder and rain . And you shall know and see that<crossref let="w" cid="c09012017.3" />your wickedness is great , which you have done in the sight of the Lord , in asking for yourselves a king . ”</v>
+			<marker class="begin-verse" mid="v09012018">
+			</marker>
+			<v n="18">So Samuel called upon the Lord , and the Lord sent thunder and rain that day ,<crossref let="x" cid="c09012018.1" />and all the people greatly feared the Lord and Samuel .</v>
+			<marker class="begin-verse" mid="v09012019">
+			</marker>
+			<v n="19">And all the people said to Samuel ,<crossref let="y" cid="c09012019.1" />“ Pray for your servants to the Lord your God , that we may not die , for we have added to all our sins this evil , to ask for ourselves a king . ”</v>
+			<marker class="begin-verse" mid="v09012020">
+			</marker>
+			<v n="20">And Samuel said to the people , “ Do not be afraid ; you have done all this evil . Yet<crossref let="z" cid="c09012020.1" />do not turn aside from following the Lord , but serve the Lord with all your heart .</v>
+			<marker class="begin-verse" mid="v09012021">
+			</marker>
+			<v n="21">And<crossref let="z" cid="c09012021.2" />do not turn aside after<crossref let="a" cid="c09012021.1" />empty things that cannot profit or deliver , for they are empty .</v>
+			<marker class="begin-verse" mid="v09012022">
+			</marker>
+			<v n="22">
+				<crossref let="b" cid="c09012022.1" />For the Lord will not forsake his people ,<crossref let="c" cid="c09012022.2" />for his great name’s sake , because<crossref let="d" cid="c09012022.3" />it has pleased the Lord to make you a people for himself .</v>
+			<marker class="begin-verse" mid="v09012023">
+			</marker>
+			<v n="23">Moreover , as for me , far be it from me that I should sin against the Lord by ceasing<crossref let="e" cid="c09012023.1" />to pray for you ,<crossref let="f" cid="c09012023.2" />and I will instruct you in the good and the right way .</v>
+			<marker class="begin-verse" mid="v09012024">
+			</marker>
+			<v n="24">
+				<crossref let="g" cid="c09012024.1" />Only fear the Lord and serve him faithfully with all your heart . For consider<crossref let="h" cid="c09012024.2" />what great things he has done for you .</v>
+			<marker class="begin-verse" mid="v09012025">
+			</marker>
+			<v n="25">But if you still do wickedly ,<crossref let="i" cid="c09012025.1" />you shall be swept away ,<crossref let="j" cid="c09012025.2" />both you and your king . ”</v>
+			<marker class="begin-verse" mid="v09012026">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">12:3 Septuagint; Hebrew lacks *Testify against me*</footnote>
+				<footnote id="2">12:6 Septuagint; Hebrew lacks *is witness*</footnote>
+				<footnote id="3">12:8 Septuagint; Hebrew lacks *and the Egyptians oppressed them*</footnote>
+				<footnote id="4">12:9 Septuagint *the army of Jabin king of Hazor*</footnote>
+				<footnote id="5">12:11 Septuagint, Syriac; Hebrew *Bedan*</footnote>
+				<footnote id="6">12:15 Septuagint; Hebrew *fathers*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

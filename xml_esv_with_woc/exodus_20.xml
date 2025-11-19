@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:58:24.577873</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:58:24.577929</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" bookAbbr="exo" version="ESV">
+		<marker class="begin-verse" mid="v02020001">
+		</marker>
+		<chapter num="20">
+			<heading>
+				Exodus 20
+			</heading>
+			<heading>
+				The Ten Commandments
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">20<crossref let="a" cid="c02020001.1" />And God spoke all these words, saying,</v>
+			<marker class="begin-verse" mid="v02020002">
+			</marker>
+			<v n="2">“I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery.</v>
+			<marker class="begin-verse" mid="v02020003">
+			</marker>
+			<v n="3">“You shall have no other gods before me.</v>
+			<marker class="begin-verse" mid="v02020004">
+			</marker>
+			<v n="4">“You shall not make for yourself a carved image, or any likeness of anything that is in heaven above, or that is in the earth beneath, or that is in the water under the earth.</v>
+			<marker class="begin-verse" mid="v02020005">
+			</marker>
+			<v n="5">
+				<crossref let="f" cid="c02020005.2" />You shall not bow down to them or serve them, for I the Lord your God am<crossref let="g" cid="c02020005.3" />a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me,</v>
+			<marker class="begin-verse" mid="v02020006">
+			</marker>
+			<v n="6">but showing steadfast love to thousands of those who love me and keep my commandments.</v>
+			<marker class="begin-verse" mid="v02020007">
+			</marker>
+			<v n="7">“You shall not take the name of the Lord your God in vain, for the Lord will not hold him guiltless who takes his name in vain.</v>
+			<marker class="begin-verse" mid="v02020008">
+			</marker>
+			<v n="8">“Remember the Sabbath day, to keep it holy.</v>
+			<marker class="begin-verse" mid="v02020009">
+			</marker>
+			<v n="9">Six days you shall labor, and do all your work,</v>
+			<marker class="begin-verse" mid="v02020010">
+			</marker>
+			<v n="10">but the<crossref let="l" cid="c02020010.2" />seventh day is a Sabbath to the Lord your God. On it you shall not do any work, you, or your son, or your daughter, your male servant, or your female servant, or your livestock, or the sojourner who is within your gates.</v>
+			<marker class="begin-verse" mid="v02020011">
+			</marker>
+			<v n="11">in six days the Lord made the heavens and the earth, the sea, and all that is in them, and rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy.</v>
+			<marker class="begin-verse" mid="v02020012">
+			</marker>
+			<v n="12">
+				<crossref let="o" cid="c02020012.2" />“Honor your father and your mother, that your days may be long in the land that the Lord your God is giving you.</v>
+			<marker class="begin-verse" mid="v02020013">
+			</marker>
+			<v n="13">“You shall not murder.</v>
+			<marker class="begin-verse" mid="v02020014">
+			</marker>
+			<v n="14">“You shall not commit adultery.</v>
+			<marker class="begin-verse" mid="v02020015">
+			</marker>
+			<v n="15">“You shall not steal.</v>
+			<marker class="begin-verse" mid="v02020016">
+			</marker>
+			<v n="16">“You shall not bear false witness against your neighbor.</v>
+			<marker class="begin-verse" mid="v02020017">
+			</marker>
+			<v n="17">
+				<crossref let="u" cid="c02020017.2" />“You shall not covet<crossref let="v" cid="c02020017.3" />your neighbor's house; you shall not covet your neighbor's wife, or his male servant, or his female servant, or his ox, or his donkey, or anything that is your neighbor's.”</v>
+			<marker class="begin-verse" mid="v02020018">
+			</marker>
+			<v n="18">the thunder and the flashes of lightning and the sound of the trumpet and the mountain smoking, the people were afraid and trembled, and they stood far off</v>
+			<marker class="begin-verse" mid="v02020019">
+			</marker>
+			<v n="19">“You speak to us, and we will listen; but do not let God speak to us, lest we die.”</v>
+			<marker class="begin-verse" mid="v02020020">
+			</marker>
+			<v n="20">
+				<crossref let="z" cid="c02020020.2" />Moses said to the people, “Do not fear, for God has come to test you, that the fear of him may be before you, that you may not sin.”</v>
+			<marker class="begin-verse" mid="v02020021">
+			</marker>
+			<v n="21">thick darkness where God was.</v>
+			<marker class="begin-verse" mid="v02020022">
+			</marker>
+			<v n="22">talked with you from heaven.</v>
+			<marker class="begin-verse" mid="v02020023">
+			</marker>
+			<v n="23">You shall not make gods of silver to be with me, nor shall you make for yourselves gods of gold.</v>
+			<marker class="begin-verse" mid="v02020024">
+			</marker>
+			<v n="24">bless you.</v>
+			<marker class="begin-verse" mid="v02020025">
+			</marker>
+			<v n="25">you shall not build it of hewn stones, for if you wield your tool on it you profane it.</v>
+			<marker class="begin-verse" mid="v02020026">
+			</marker>
+			<v n="26">And you shall not go up by steps to my altar, that your nakedness be not exposed on it.’</v>
+			<marker class="begin-verse" mid="v02020027">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">20:3 Or *besides*</footnote>
+				<footnote id="2">20:6 Or *to the thousandth generation*</footnote>
+				<footnote id="3">20:13 The Hebrew word also covers causing human death through carelessness or negligence</footnote>
+				<footnote id="4">20:18 Samaritan, Septuagint, Syriac, Vulgate; Masoretic Text *the people saw*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

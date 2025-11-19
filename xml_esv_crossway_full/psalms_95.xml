@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:19.737967</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:19.737998</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19095001">
+		</marker>
+		<chapter num="95">
+			<heading>
+				Psalm 95
+			</heading>
+			<heading>
+				Let Us Sing Songs of Praise
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">let us<crossref let="f" cid="c19095001.1" />make a joyful noise to<crossref let="g" cid="c19095001.2" />the rock of our salvation !</v>
+			<marker class="begin-verse" mid="v19095002">
+			</marker>
+			<v n="2">let us<crossref let="f" cid="c19095002.1" />make a joyful noise to him with songs of praise !</v>
+			<marker class="begin-verse" mid="v19095003">
+			</marker>
+			<v n="3">and a great King<crossref let="j" cid="c19095003.2" />above all gods .</v>
+			<marker class="begin-verse" mid="v19095004">
+			</marker>
+			<v n="4">the heights of the mountains are his also .</v>
+			<marker class="begin-verse" mid="v19095005">
+			</marker>
+			<v n="5">and his hands formed<crossref let="k" cid="c19095005.1" />the dry land .</v>
+			<marker class="begin-verse" mid="v19095006">
+			</marker>
+			<v n="6">let us<crossref let="l" cid="c19095006.1" />kneel before the Lord , our<crossref let="m" cid="c19095006.2" />Maker !</v>
+			<marker class="begin-verse" mid="v19095007">
+			</marker>
+			<v n="7">
+				<crossref let="p" cid="c19095007.3" />Today , if you<crossref let="q" cid="c19095007.4" />hear his voice ,</v>
+			<marker class="begin-verse" mid="v19095008">
+			</marker>
+			<v n="8">as on the day at<crossref let="t" cid="c19095008.3" />Massah in the wilderness ,</v>
+			<marker class="begin-verse" mid="v19095009">
+			</marker>
+			<v n="9">and put me to the proof , though they had seen my<crossref let="v" cid="c19095009.2" />work .</v>
+			<marker class="begin-verse" mid="v19095010">
+			</marker>
+			<v n="10">and they have not known<crossref let="x" cid="c19095010.2" />my ways . ”</v>
+			<marker class="begin-verse" mid="v19095011">
+			</marker>
+			<v n="11">“ They shall not enter<crossref let="z" cid="c19095011.2" />my rest . ”</v>
+			<marker class="begin-verse" mid="v19095012">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:04.953035</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:04.953066</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19085001">
+		</marker>
+		<chapter num="85">
+			<heading>
+				Psalm 85
+			</heading>
+			<heading>
+				Revive Us Again
+			</heading>
+			<heading>
+				To the choirmaster. A Psalm of the Sons of Korah.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">restored the fortunes of Jacob.</v>
+			<marker class="begin-verse" mid="v19085002">
+			</marker>
+			<v n="2">covered all their sin. Selah</v>
+			<marker class="begin-verse" mid="v19085003">
+			</marker>
+			<v n="3">turned from your hot anger.</v>
+			<marker class="begin-verse" mid="v19085004">
+			</marker>
+			<v n="4">and put away your indignation toward us!</v>
+			<marker class="begin-verse" mid="v19085005">
+			</marker>
+			<v n="5">Will you prolong your anger to all generations?</v>
+			<marker class="begin-verse" mid="v19085006">
+			</marker>
+			<v n="6">rejoice in you?</v>
+			<marker class="begin-verse" mid="v19085007">
+			</marker>
+			<v n="7">and grant us your salvation.</v>
+			<marker class="begin-verse" mid="v19085008">
+			</marker>
+			<v n="8">folly.</v>
+			<marker class="begin-verse" mid="v19085009">
+			</marker>
+			<v n="9">glory may dwell in our land.</v>
+			<marker class="begin-verse" mid="v19085010">
+			</marker>
+			<v n="10">righteousness and peace kiss each other.</v>
+			<marker class="begin-verse" mid="v19085011">
+			</marker>
+			<v n="11">and righteousness looks down from the sky.</v>
+			<marker class="begin-verse" mid="v19085012">
+			</marker>
+			<v n="12">will yield its increase.</v>
+			<marker class="begin-verse" mid="v19085013">
+			</marker>
+			<v n="13">and make his footsteps a way.</v>
+			<marker class="begin-verse" mid="v19085014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

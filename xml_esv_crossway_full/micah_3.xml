@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:38.993211</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:38.993232</next_refresh_due>
+	</generation_info>
+	<book title="Micah" num="33" testament="old" bookAbbr="mic" version="ESV">
+		<marker class="begin-verse" mid="v33003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Micah 3
+			</heading>
+			<heading>
+				Rulers and Prophets Denounced
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="m" cid="c33003001.2" />Is it not for you to know justice ? —</v>
+			<marker class="begin-verse" mid="v33003002">
+			</marker>
+			<v n="2">and their flesh from off their bones ,</v>
+			<marker class="begin-verse" mid="v33003003">
+			</marker>
+			<v n="3">like flesh in a cauldron .</v>
+			<marker class="begin-verse" mid="v33003004">
+			</marker>
+			<v n="4">because they have made their deeds evil .</v>
+			<marker class="begin-verse" mid="v33003005">
+			</marker>
+			<v n="5">who puts nothing into their mouths .</v>
+			<marker class="begin-verse" mid="v33003006">
+			</marker>
+			<v n="6">and the day shall be black over them ;</v>
+			<marker class="begin-verse" mid="v33003007">
+			</marker>
+			<v n="7">for<crossref let="y" cid="c33003007.3" />there is no answer from God .</v>
+			<marker class="begin-verse" mid="v33003008">
+			</marker>
+			<v n="8">and to Israel his sin .</v>
+			<marker class="begin-verse" mid="v33003009">
+			</marker>
+			<v n="9">and make crooked all that is straight ,</v>
+			<marker class="begin-verse" mid="v33003010">
+			</marker>
+			<v n="10">and Jerusalem with iniquity .</v>
+			<marker class="begin-verse" mid="v33003011">
+			</marker>
+			<v n="11">
+				<crossref let="j" cid="c33003011.6" />No disaster shall come upon us . ”</v>
+			<marker class="begin-verse" mid="v33003012">
+			</marker>
+			<v n="12">and<crossref let="m" cid="c33003012.3" />the mountain of the house<crossref let="n" cid="c33003012.4" />a wooded height .</v>
+			<marker class="begin-verse" mid="v33003013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">3:2 Hebrew *from off them*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

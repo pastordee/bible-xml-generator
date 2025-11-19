@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:54:37.528568</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:54:37.528579</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23052001">
+		</marker>
+		<chapter num="52">
+			<heading>
+				Isaiah 52
+			</heading>
+			<heading>
+				The LORD’s Coming Salvation
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">the uncircumcised and the unclean.</v>
+			<marker class="begin-verse" mid="v23052002">
+			</marker>
+			<v n="2">O captive daughter of Zion.</v>
+			<marker class="begin-verse" mid="v23052003">
+			</marker>
+			<v n="3">you shall be redeemed without money.”</v>
+			<marker class="begin-verse" mid="v23052004">
+			</marker>
+			<v n="4">“My people went down at the first into Egypt to sojourn there, and the Assyrian oppressed them for nothing.</v>
+			<marker class="begin-verse" mid="v23052005">
+			</marker>
+			<v n="5">continually all the day my name is despised.</v>
+			<marker class="begin-verse" mid="v23052006">
+			</marker>
+			<v n="6">Therefore in that day they shall know that it is I who speak; here I am.”</v>
+			<marker class="begin-verse" mid="v23052007">
+			</marker>
+			<v n="7">who says to Zion, “Your God reigns.”</v>
+			<marker class="begin-verse" mid="v23052008">
+			</marker>
+			<v n="8">the return of the Lord to Zion.</v>
+			<marker class="begin-verse" mid="v23052009">
+			</marker>
+			<v n="9">he has redeemed Jerusalem.</v>
+			<marker class="begin-verse" mid="v23052010">
+			</marker>
+			<v n="10">the salvation of our God.</v>
+			<marker class="begin-verse" mid="v23052011">
+			</marker>
+			<v n="11">you who bear the vessels of the Lord .</v>
+			<marker class="begin-verse" mid="v23052012">
+			</marker>
+			<v n="12">
+				<crossref let="y" cid="c23052012.2" />and the God of Israel will be your rear guard.</v>
+			<marker class="begin-verse" mid="v23052013">
+			</marker>
+			<v n="13">and shall be exalted.</v>
+			<marker class="begin-verse" mid="v23052014">
+			</marker>
+			<v n="14">and his form beyond that of the children of mankind—</v>
+			<marker class="begin-verse" mid="v23052015">
+			</marker>
+			<v n="15">and that which they have not heard they understand.</v>
+			<marker class="begin-verse" mid="v23052016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">52:4 Or *the Assyrian has oppressed them of late*</footnote>
+				<footnote id="2">52:13 Or *shall prosper*</footnote>
+				<footnote id="3">52:15 Or *startle*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

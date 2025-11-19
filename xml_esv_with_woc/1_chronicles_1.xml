@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:30:43.706303</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:30:43.706336</next_refresh_due>
+	</generation_info>
+	<book title="1 Chronicles" num="13" testament="old" bookAbbr="1ch" version="ESV">
+		<marker class="begin-verse" mid="v13001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				1 Chronicles 1
+			</heading>
+			<heading>
+				From Adam to Abraham
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">1<crossref let="a" cid="c13001001.1" />Adam, Seth, Enosh;</v>
+			<marker class="begin-verse" mid="v13001002">
+			</marker>
+			<v n="2">
+				<crossref let="b" cid="c13001002.1" />Kenan, Mahalalel, Jared;</v>
+			<marker class="begin-verse" mid="v13001003">
+			</marker>
+			<v n="3">Enoch, Methuselah, Lamech;</v>
+			<marker class="begin-verse" mid="v13001004">
+			</marker>
+			<v n="4">Noah,<crossref let="c" cid="c13001004.1" />Shem, Ham, and Japheth.</v>
+			<marker class="begin-verse" mid="v13001005">
+			</marker>
+			<v n="5">
+				<crossref let="d" cid="c13001005.1" />The sons of Japheth: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.</v>
+			<marker class="begin-verse" mid="v13001006">
+			</marker>
+			<v n="6">The sons of Gomer: Ashkenaz, Riphath, and Togarmah.</v>
+			<marker class="begin-verse" mid="v13001007">
+			</marker>
+			<v n="7">The sons of Javan: Elishah, Tarshish, Kittim, and Rodanim.</v>
+			<marker class="begin-verse" mid="v13001008">
+			</marker>
+			<v n="8">
+				<crossref let="e" cid="c13001008.1" />The sons of Ham: Cush, Egypt, Put, and Canaan.</v>
+			<marker class="begin-verse" mid="v13001009">
+			</marker>
+			<v n="9">The sons of Cush: Seba, Havilah, Sabta, Raamah, and Sabteca. The sons of Raamah: Sheba and Dedan.</v>
+			<marker class="begin-verse" mid="v13001010">
+			</marker>
+			<v n="10">Cush fathered Nimrod. He was the first on earth to be a mighty man.</v>
+			<marker class="begin-verse" mid="v13001011">
+			</marker>
+			<v n="11">
+				<crossref let="f" cid="c13001011.1" />Egypt fathered Ludim, Anamim, Lehabim, Naphtuhim,</v>
+			<marker class="begin-verse" mid="v13001012">
+			</marker>
+			<v n="12">Pathrusim, Casluhim (from whom the Philistines came), and Caphtorim.</v>
+			<marker class="begin-verse" mid="v13001013">
+			</marker>
+			<v n="13">Canaan fathered Sidon his firstborn and Heth,</v>
+			<marker class="begin-verse" mid="v13001014">
+			</marker>
+			<v n="14">and the Jebusites, the Amorites, the Girgashites,</v>
+			<marker class="begin-verse" mid="v13001015">
+			</marker>
+			<v n="15">the Hivites, the Arkites, the Sinites,</v>
+			<marker class="begin-verse" mid="v13001016">
+			</marker>
+			<v n="16">the Arvadites, the Zemarites, and the Hamathites.</v>
+			<marker class="begin-verse" mid="v13001017">
+			</marker>
+			<v n="17">
+				<crossref let="g" cid="c13001017.1" />The sons of Shem: Elam, Asshur, Arpachshad, Lud, and Aram. And the sons of Aram: Uz, Hul, Gether, and Meshech.</v>
+			<marker class="begin-verse" mid="v13001018">
+			</marker>
+			<v n="18">Arpachshad fathered Shelah, and Shelah fathered Eber.</v>
+			<marker class="begin-verse" mid="v13001019">
+			</marker>
+			<v n="19">To Eber were born two sons: the name of the one was Peleg (for in his days the earth was divided), and his brother's name was Joktan.</v>
+			<marker class="begin-verse" mid="v13001020">
+			</marker>
+			<v n="20">Joktan fathered Almodad, Sheleph, Hazarmaveth, Jerah,</v>
+			<marker class="begin-verse" mid="v13001021">
+			</marker>
+			<v n="21">Hadoram, Uzal, Diklah,</v>
+			<marker class="begin-verse" mid="v13001022">
+			</marker>
+			<v n="22">Obal, Abimael, Sheba,</v>
+			<marker class="begin-verse" mid="v13001023">
+			</marker>
+			<v n="23">Ophir, Havilah, and Jobab; all these were the sons of Joktan.</v>
+			<marker class="begin-verse" mid="v13001024">
+			</marker>
+			<v n="24">
+				<crossref let="h" cid="c13001024.1" />Shem, Arpachshad, Shelah;</v>
+			<marker class="begin-verse" mid="v13001025">
+			</marker>
+			<v n="25">Eber, Peleg, Reu;</v>
+			<marker class="begin-verse" mid="v13001026">
+			</marker>
+			<v n="26">Serug, Nahor, Terah;</v>
+			<marker class="begin-verse" mid="v13001027">
+			</marker>
+			<v n="27">Abram, that is, Abraham.</v>
+			<marker class="begin-verse" mid="v13001028">
+			</marker>
+			<v n="28">The sons of Abraham:<crossref let="i" cid="c13001028.1" />Isaac and<crossref let="j" cid="c13001028.2" />Ishmael.</v>
+			<marker class="begin-verse" mid="v13001029">
+			</marker>
+			<v n="29">
+				<crossref let="k" cid="c13001029.1" />These are their genealogies: the firstborn of Ishmael, Nebaioth, and Kedar, Adbeel, Mibsam,</v>
+			<marker class="begin-verse" mid="v13001030">
+			</marker>
+			<v n="30">Mishma, Dumah, Massa, Hadad, Tema,</v>
+			<marker class="begin-verse" mid="v13001031">
+			</marker>
+			<v n="31">Jetur, Naphish, and Kedemah. These are the sons of Ishmael.</v>
+			<marker class="begin-verse" mid="v13001032">
+			</marker>
+			<v n="32">
+				<crossref let="l" cid="c13001032.1" />The sons of Keturah, Abraham's concubine: she bore Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan: Sheba and Dedan.</v>
+			<marker class="begin-verse" mid="v13001033">
+			</marker>
+			<v n="33">The sons of Midian: Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the descendants of Keturah.</v>
+			<marker class="begin-verse" mid="v13001034">
+			</marker>
+			<v n="34">Abraham fathered<crossref let="m" cid="c13001034.2" />Isaac. The sons of Isaac:<crossref let="n" cid="c13001034.3" />Esau and Israel.</v>
+			<marker class="begin-verse" mid="v13001035">
+			</marker>
+			<v n="35">The sons of Esau: Eliphaz, Reuel, Jeush, Jalam, and Korah.</v>
+			<marker class="begin-verse" mid="v13001036">
+			</marker>
+			<v n="36">The sons of Eliphaz: Teman, Omar, Zepho, Gatam, Kenaz, and of Timna, Amalek.</v>
+			<marker class="begin-verse" mid="v13001037">
+			</marker>
+			<v n="37">The sons of Reuel: Nahath, Zerah, Shammah, and Mizzah.</v>
+			<marker class="begin-verse" mid="v13001038">
+			</marker>
+			<v n="38">The sons of Seir: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.</v>
+			<marker class="begin-verse" mid="v13001039">
+			</marker>
+			<v n="39">The sons of Lotan: Hori and Hemam; and Lotan's sister was Timna.</v>
+			<marker class="begin-verse" mid="v13001040">
+			</marker>
+			<v n="40">The sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam. The sons of Zibeon: Aiah and Anah.</v>
+			<marker class="begin-verse" mid="v13001041">
+			</marker>
+			<v n="41">The son of Anah: Dishon. The sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.</v>
+			<marker class="begin-verse" mid="v13001042">
+			</marker>
+			<v n="42">The sons of Ezer: Bilhan, Zaavan, and Akan. The sons of Dishan: Uz and Aran.</v>
+			<marker class="begin-verse" mid="v13001043">
+			</marker>
+			<v n="43">These are the kings who reigned in the land of Edom before any king reigned over the people of Israel: Bela the son of Beor, the name of his city being Dinhabah.</v>
+			<marker class="begin-verse" mid="v13001044">
+			</marker>
+			<v n="44">Bozrah reigned in his place.</v>
+			<marker class="begin-verse" mid="v13001045">
+			</marker>
+			<v n="45">Temanites reigned in his place.</v>
+			<marker class="begin-verse" mid="v13001046">
+			</marker>
+			<v n="46">Husham died, and Hadad the son of Bedad, who defeated Midian in the country of Moab, reigned in his place, the name of his city being Avith.</v>
+			<marker class="begin-verse" mid="v13001047">
+			</marker>
+			<v n="47">Hadad died, and Samlah of Masrekah reigned in his place.</v>
+			<marker class="begin-verse" mid="v13001048">
+			</marker>
+			<v n="48">Samlah died, and Shaul of Rehoboth on the Euphrates reigned in his place.</v>
+			<marker class="begin-verse" mid="v13001049">
+			</marker>
+			<v n="49">Shaul died, and Baal-hanan, the son of Achbor, reigned in his place.</v>
+			<marker class="begin-verse" mid="v13001050">
+			</marker>
+			<v n="50">Baal-hanan died, and Hadad reigned in his place, the name of his city being Pai; and his wife's name was Mehetabel, the daughter of Matred, the daughter of Mezahab.</v>
+			<marker class="begin-verse" mid="v13001051">
+			</marker>
+			<v n="51">The chiefs of Edom were: chiefs Timna, Alvah, Jetheth,</v>
+			<marker class="begin-verse" mid="v13001052">
+			</marker>
+			<v n="52">Oholibamah, Elah, Pinon,</v>
+			<marker class="begin-verse" mid="v13001053">
+			</marker>
+			<v n="53">Kenaz, Teman, Mibzar,</v>
+			<marker class="begin-verse" mid="v13001054">
+			</marker>
+			<v n="54">Magdiel, and Iram; these are the chiefs of Edom.</v>
+			<marker class="begin-verse" mid="v13001055">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:6 Septuagint; Hebrew *Diphath*</footnote>
+				<footnote id="2">1:10 Or *He began to be a mighty man on the earth*</footnote>
+				<footnote id="3">1:17 Septuagint; Hebrew lacks *And the sons of Aram*</footnote>
+				<footnote id="4">1:19 *Peleg* means *division*</footnote>
+				<footnote id="5">1:22 Septuagint, Syriac (compare Genesis 10:28); Hebrew *Ebal*</footnote>
+				<footnote id="6">1:36 Septuagint (compare Genesis 36:12); Hebrew lacks *and of*</footnote>
+				<footnote id="7">1:39 Septuagint (compare Genesis 36:22); Hebrew *Homam*</footnote>
+				<footnote id="8">1:40 Septuagint (compare Genesis 36:23); Hebrew *Alian*</footnote>
+				<footnote id="9">1:40 Septuagint (compare Genesis 36:23); Hebrew *Shephi*</footnote>
+				<footnote id="10">1:41 Hebrew *sons*</footnote>
+				<footnote id="11">1:41 Septuagint (compare Genesis 36:26); Hebrew *Hamran*</footnote>
+				<footnote id="12">1:42 Septuagint (compare Genesis 36:27); Hebrew *Jaakan*</footnote>
+				<footnote id="13">1:48 Hebrew *the River*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

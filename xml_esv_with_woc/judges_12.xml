@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:24:54.792017</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:24:54.792031</next_refresh_due>
+	</generation_info>
+	<book title="Judges" num="7" testament="old" bookAbbr="jdg" version="ESV">
+		<marker class="begin-verse" mid="v07012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				Judges 12
+			</heading>
+			<heading>
+				Jephthah’s Conflict with Ephraim
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">12<crossref let="o" cid="c07012001.1" />The men of Ephraim were called to arms, and they crossed to Zaphon and said to Jephthah, “Why did you cross over to fight against the Ammonites and did not call us to go with you? We will burn your house over you with fire.”</v>
+			<marker class="begin-verse" mid="v07012002">
+			</marker>
+			<v n="2">And Jephthah said to them, “I and my people had a great dispute with the Ammonites, and when I called you, you did not save me from their hand.</v>
+			<marker class="begin-verse" mid="v07012003">
+			</marker>
+			<v n="3">And when I saw that you would not save me,<crossref let="p" cid="c07012003.1" />I took my life in my hand and crossed over against the Ammonites, and the Lord gave them into my hand. Why then have you come up to me this day to fight against me?”</v>
+			<marker class="begin-verse" mid="v07012004">
+			</marker>
+			<v n="4">Then Jephthah gathered all the men of Gilead and fought with Ephraim. And the men of Gilead struck Ephraim, because they said,<crossref let="q" cid="c07012004.1" />“You are fugitives of Ephraim, you Gileadites, in the midst of Ephraim and Manasseh.”</v>
+			<marker class="begin-verse" mid="v07012005">
+			</marker>
+			<v n="5">And the Gileadites captured<crossref let="r" cid="c07012005.1" />the fords of the Jordan against the Ephraimites. And when any of the fugitives of Ephraim said, “Let me go over,” the men of Gilead said to him, “Are you an Ephraimite?” When he said, “No,”</v>
+			<marker class="begin-verse" mid="v07012006">
+			</marker>
+			<v n="6">the fords of the Jordan. At that time 42,000 of the Ephraimites fell.</v>
+			<marker class="begin-verse" mid="v07012007">
+			</marker>
+			<v n="7">Jephthah judged Israel six years. Then Jephthah the Gileadite died and was buried in his city in Gilead.</v>
+			<marker class="begin-verse" mid="v07012008">
+			</marker>
+			<v n="8">After him Ibzan of Bethlehem judged Israel.</v>
+			<marker class="begin-verse" mid="v07012009">
+			</marker>
+			<v n="9">He had thirty sons, and thirty daughters he gave in marriage outside his clan, and thirty daughters he brought in from outside for his sons. And he judged Israel seven years.</v>
+			<marker class="begin-verse" mid="v07012010">
+			</marker>
+			<v n="10">Then Ibzan died and was buried at Bethlehem.</v>
+			<marker class="begin-verse" mid="v07012011">
+			</marker>
+			<v n="11">After him Elon the Zebulunite judged Israel, and he judged Israel ten years.</v>
+			<marker class="begin-verse" mid="v07012012">
+			</marker>
+			<v n="12">Then Elon the Zebulunite died and was buried at Aijalon in the land of Zebulun.</v>
+			<marker class="begin-verse" mid="v07012013">
+			</marker>
+			<v n="13">After him Abdon the son of Hillel the Pirathonite judged Israel.</v>
+			<marker class="begin-verse" mid="v07012014">
+			</marker>
+			<v n="14">He had forty<crossref let="t" cid="c07012014.2" />sons and thirty grandsons, who rode on seventy donkeys, and he judged Israel eight years.</v>
+			<marker class="begin-verse" mid="v07012015">
+			</marker>
+			<v n="15">Then Abdon the son of Hillel the Pirathonite died and was buried at Pirathon in the land of Ephraim, in the hill country of the Amalekites.</v>
+			<marker class="begin-verse" mid="v07012016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

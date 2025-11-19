@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:56:56.172647</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:56:56.172660</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" bookAbbr="gen" version="ESV">
+		<marker class="begin-verse" mid="v01010001">
+		</marker>
+		<chapter num="10">
+			<heading>
+				Genesis 10
+			</heading>
+			<heading>
+				Nations Descended from Noah
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">These are the generations of the sons of Noah , Shem , Ham , and Japheth . Sons were born to them after the flood .</v>
+			<marker class="begin-verse" mid="v01010002">
+			</marker>
+			<v n="2">
+				<crossref let="k" cid="c01010002.1" />The sons of Japheth : Gomer , Magog , Madai , Javan , Tubal , Meshech , and Tiras .</v>
+			<marker class="begin-verse" mid="v01010003">
+			</marker>
+			<v n="3">The sons of Gomer : Ashkenaz , Riphath , and Togarmah .</v>
+			<marker class="begin-verse" mid="v01010004">
+			</marker>
+			<v n="4">The sons of Javan : Elishah ,<crossref let="l" cid="c01010004.1" />Tarshish ,<crossref let="m" cid="c01010004.2" />Kittim , and Dodanim .</v>
+			<marker class="begin-verse" mid="v01010005">
+			</marker>
+			<v n="5">From these<crossref let="n" cid="c01010005.1" />the coastland peoples spread in their lands , each with his own language , by their clans , in their nations .</v>
+			<marker class="begin-verse" mid="v01010006">
+			</marker>
+			<v n="6">
+				<crossref let="o" cid="c01010006.1" />The sons of Ham : Cush , Egypt , Put , and Canaan .</v>
+			<marker class="begin-verse" mid="v01010007">
+			</marker>
+			<v n="7">The sons of Cush : Seba , Havilah , Sabtah , Raamah , and Sabteca . The sons of Raamah : Sheba and Dedan .</v>
+			<marker class="begin-verse" mid="v01010008">
+			</marker>
+			<v n="8">Cush fathered Nimrod ; he was the first on earth to be a mighty man .</v>
+			<marker class="begin-verse" mid="v01010009">
+			</marker>
+			<v n="9">He was a mighty hunter before the Lord . Therefore it is said , “ Like Nimrod a mighty hunter before the Lord . ”</v>
+			<marker class="begin-verse" mid="v01010010">
+			</marker>
+			<v n="10">The beginning of his kingdom was<crossref let="p" cid="c01010010.1" />Babel , Erech , Accad , and Calneh , in<crossref let="q" cid="c01010010.2" />the land of Shinar .</v>
+			<marker class="begin-verse" mid="v01010011">
+			</marker>
+			<v n="11">From that land he went into Assyria and built Nineveh , Rehoboth-Ir , Calah , and</v>
+			<marker class="begin-verse" mid="v01010012">
+			</marker>
+			<v n="12">Resen between Nineveh and Calah ; that is the great city .</v>
+			<marker class="begin-verse" mid="v01010013">
+			</marker>
+			<v n="13">
+				<crossref let="r" cid="c01010013.1" />Egypt fathered Ludim , Anamim , Lehabim , Naphtuhim ,</v>
+			<marker class="begin-verse" mid="v01010014">
+			</marker>
+			<v n="14">Pathrusim , Casluhim ( from whom the Philistines came ) , and<crossref let="s" cid="c01010014.1" />Caphtorim .</v>
+			<marker class="begin-verse" mid="v01010015">
+			</marker>
+			<v n="15">
+				<crossref let="t" cid="c01010015.1" />Canaan fathered Sidon his firstborn and Heth ,</v>
+			<marker class="begin-verse" mid="v01010016">
+			</marker>
+			<v n="16">and the Jebusites , the Amorites , the Girgashites ,</v>
+			<marker class="begin-verse" mid="v01010017">
+			</marker>
+			<v n="17">the Hivites , the Arkites , the Sinites ,</v>
+			<marker class="begin-verse" mid="v01010018">
+			</marker>
+			<v n="18">the Arvadites , the Zemarites , and the Hamathites . Afterward the clans of the Canaanites dispersed .</v>
+			<marker class="begin-verse" mid="v01010019">
+			</marker>
+			<v n="19">And the territory of the Canaanites extended from Sidon in the direction of Gerar as far as Gaza , and in the direction of Sodom , Gomorrah , Admah , and Zeboiim , as far as Lasha .</v>
+			<marker class="begin-verse" mid="v01010020">
+			</marker>
+			<v n="20">These are the sons of Ham , by their clans , their languages , their lands , and their nations .</v>
+			<marker class="begin-verse" mid="v01010021">
+			</marker>
+			<v n="21">To Shem also , the father of all the children of Eber , the elder brother of Japheth , children were born .</v>
+			<marker class="begin-verse" mid="v01010022">
+			</marker>
+			<v n="22">The<crossref let="u" cid="c01010022.1" />sons of Shem : Elam , Asshur , Arpachshad , Lud , and Aram .</v>
+			<marker class="begin-verse" mid="v01010023">
+			</marker>
+			<v n="23">The sons of Aram : Uz , Hul , Gether , and Mash .</v>
+			<marker class="begin-verse" mid="v01010024">
+			</marker>
+			<v n="24">Arpachshad fathered<crossref let="v" cid="c01010024.1" />Shelah ; and Shelah fathered Eber .</v>
+			<marker class="begin-verse" mid="v01010025">
+			</marker>
+			<v n="25">
+				<crossref let="w" cid="c01010025.1" />To Eber were born two sons : the name of the one was Peleg , for in his days the earth was divided , and his brother’s name was Joktan .</v>
+			<marker class="begin-verse" mid="v01010026">
+			</marker>
+			<v n="26">Joktan fathered Almodad , Sheleph , Hazarmaveth , Jerah ,</v>
+			<marker class="begin-verse" mid="v01010027">
+			</marker>
+			<v n="27">Hadoram , Uzal , Diklah ,</v>
+			<marker class="begin-verse" mid="v01010028">
+			</marker>
+			<v n="28">Obal , Abimael , Sheba ,</v>
+			<marker class="begin-verse" mid="v01010029">
+			</marker>
+			<v n="29">
+				<crossref let="x" cid="c01010029.1" />Ophir , Havilah , and Jobab ; all these were the sons of Joktan .</v>
+			<marker class="begin-verse" mid="v01010030">
+			</marker>
+			<v n="30">The territory in which they lived extended from Mesha in the direction of Sephar to the hill country of the east .</v>
+			<marker class="begin-verse" mid="v01010031">
+			</marker>
+			<v n="31">These are the sons of Shem , by their clans , their languages , their lands , and their nations .</v>
+			<marker class="begin-verse" mid="v01010032">
+			</marker>
+			<v n="32">These are the clans of the sons of Noah , according to their genealogies , in their nations ,<crossref let="y" cid="c01010032.1" />and from these the nations spread abroad on the earth after the flood .</v>
+			<marker class="begin-verse" mid="v01010033">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">10:8 Or *he began to be a mighty man on the earth*</footnote>
+				<footnote id="2">10:14 Or *from where*</footnote>
+				<footnote id="3">10:21 Or *the brother of Japheth the elder*</footnote>
+				<footnote id="4">10:25 *Peleg* means *division*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

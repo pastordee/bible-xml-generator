@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:32:23.824431</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:32:23.824450</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" bookAbbr="ezr" version="ESV">
+		<marker class="begin-verse" mid="v15003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Ezra 3
+			</heading>
+			<heading>
+				Rebuilding the Altar
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="k" cid="c15003001.1" />When the seventh month came , and the children of Israel were in the towns , the people gathered as one man to Jerusalem .</v>
+			<marker class="begin-verse" mid="v15003002">
+			</marker>
+			<v n="2">Then arose Jeshua the son of Jozadak , with his fellow priests , and<crossref let="l" cid="c15003002.1" />Zerubbabel the son of<crossref let="m" cid="c15003002.2" />Shealtiel with his kinsmen , and they built the altar of the God of Israel , to offer burnt offerings on it ,<crossref let="n" cid="c15003002.3" />as it is written in the Law of Moses the<crossref let="o" cid="c15003002.4" />man of God .</v>
+			<marker class="begin-verse" mid="v15003003">
+			</marker>
+			<v n="3">They set the altar in its place ,<crossref let="p" cid="c15003003.1" />for fear was on them because of the peoples of the lands , and<crossref let="q" cid="c15003003.2" />they offered burnt offerings on it to the Lord , burnt offerings morning and evening .</v>
+			<marker class="begin-verse" mid="v15003004">
+			</marker>
+			<v n="4">
+				<crossref let="r" cid="c15003004.1" />And they kept the Feast of Booths ,<crossref let="s" cid="c15003004.2" />as it is written ,<crossref let="t" cid="c15003004.3" />and offered the daily burnt offerings by number according to the rule , as each day required ,</v>
+			<marker class="begin-verse" mid="v15003005">
+			</marker>
+			<v n="5">and after that the regular burnt<crossref let="u" cid="c15003005.1" />offerings , the offerings at the new moon<crossref let="v" cid="c15003005.2" />and at all the appointed feasts of the Lord , and the offerings of everyone who made a freewill offering to the Lord .</v>
+			<marker class="begin-verse" mid="v15003006">
+			</marker>
+			<v n="6">From the first day of the seventh month they began to offer burnt offerings to the Lord . But the foundation of the temple of the Lord was not yet laid .</v>
+			<marker class="begin-verse" mid="v15003007">
+			</marker>
+			<v n="7">So they gave money to the masons and the carpenters ,<crossref let="w" cid="c15003007.1" />and food , drink , and oil to the Sidonians and the Tyrians<crossref let="x" cid="c15003007.2" />to bring cedar trees from Lebanon to the sea , to Joppa ,<crossref let="y" cid="c15003007.3" />according to the grant that they had from Cyrus king of Persia .</v>
+			<marker class="begin-verse" mid="v15003008">
+			</marker>
+			<v n="8">Now in the second year after their coming to the house of God at Jerusalem , in the second month ,<crossref let="z" cid="c15003008.3" />Zerubbabel the son of Shealtiel and<crossref let="z" cid="c15003008.3" />Jeshua the son of Jozadak made a beginning , together with the rest of their kinsmen , the priests and the Levites and all who had come to Jerusalem from the captivity . They<crossref let="a" cid="c15003008.1" />appointed the Levites , from twenty years old and upward , to<crossref let="b" cid="c15003008.2" />supervise the work of the house of the Lord .</v>
+			<marker class="begin-verse" mid="v15003009">
+			</marker>
+			<v n="9">And<crossref let="z" cid="c15003009.3" />Jeshua with his sons and his brothers , and Kadmiel and his sons , the sons of Judah , together<crossref let="b" cid="c15003009.1" />supervised the workmen in the house of God , along with the<crossref let="c" cid="c15003009.2" />sons of Henadad and the Levites , their sons and brothers .</v>
+			<marker class="begin-verse" mid="v15003010">
+			</marker>
+			<v n="10">And when the builders laid the foundation of the temple of the Lord , the priests in their vestments came forward with trumpets , and the Levites , the sons of Asaph , with cymbals , to praise the Lord ,<crossref let="d" cid="c15003010.1" />according to the directions of David king of Israel .</v>
+			<marker class="begin-verse" mid="v15003011">
+			</marker>
+			<v n="11">And all the people shouted with a great shout when they praised the Lord , because the foundation of the house of the Lord was laid .</v>
+			<marker class="begin-verse" mid="v15003012">
+			</marker>
+			<v n="12">But many of the priests and Levites and heads of fathers’ houses ,<crossref let="f" cid="c15003012.1" />old men who had seen the first house , wept with a loud voice when they saw the foundation of this house being laid , though many shouted aloud for joy ,</v>
+			<marker class="begin-verse" mid="v15003013">
+			</marker>
+			<v n="13">so that the people could not distinguish the sound of the joyful shout from the sound of the people’s weeping , for the people shouted with a great shout , and the sound was heard far away .</v>
+			<marker class="begin-verse" mid="v15003014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

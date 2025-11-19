@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:26:05.070768</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:26:05.070775</next_refresh_due>
+	</generation_info>
+	<book title="2 Samuel" num="10" testament="old" bookAbbr="2sa" version="ESV">
+		<marker class="begin-verse" mid="v10004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				2 Samuel 4
+			</heading>
+			<heading>
+				Ish-bosheth Murdered
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">4 When Ish-bosheth, Saul's son, heard that Abner had died at Hebron,<crossref let="f" cid="c10004001.1" />his courage failed, and all Israel was dismayed.</v>
+			<marker class="begin-verse" mid="v10004002">
+			</marker>
+			<v n="2">Now Saul's son had two men who were captains of raiding bands; the name of the one was Baanah, and the name of the other Rechab, sons of Rimmon a man of Benjamin from Beeroth (<crossref let="g" cid="c10004002.1" />for Beeroth also is counted part of Benjamin;</v>
+			<marker class="begin-verse" mid="v10004003">
+			</marker>
+			<v n="3">
+				<crossref let="h" cid="c10004003.1" />the Beerothites fled<crossref let="i" cid="c10004003.2" />to Gittaim and have been sojourners there to this day).</v>
+			<marker class="begin-verse" mid="v10004004">
+			</marker>
+			<v n="4">
+				<crossref let="j" cid="c10004004.1" />Jonathan, the son of Saul, had a son who was crippled in his feet. He was five years old when the news about Saul and Jonathan<crossref let="k" cid="c10004004.2" />came from Jezreel, and his nurse took him up and fled, and as she fled in her haste, he fell and became lame. And his name was Mephibosheth.</v>
+			<marker class="begin-verse" mid="v10004005">
+			</marker>
+			<v n="5">Now the sons of Rimmon the Beerothite, Rechab and Baanah, set out, and about the heat of the day they came to the house of Ish-bosheth as he was taking his noonday rest.</v>
+			<marker class="begin-verse" mid="v10004006">
+			</marker>
+			<v n="6">And they came into the midst of the house as if to get wheat, and they stabbed him<crossref let="l" cid="c10004006.1" />in the stomach. Then Rechab and Baanah his brother escaped.</v>
+			<marker class="begin-verse" mid="v10004007">
+			</marker>
+			<v n="7">When they came into the house, as he lay on his bed in his bedroom, they struck him and put him to death and beheaded him. They took his head and went by the way of<crossref let="m" cid="c10004007.1" />the Arabah all night,</v>
+			<marker class="begin-verse" mid="v10004008">
+			</marker>
+			<v n="8">and brought the head of Ish-bosheth to David at Hebron. And they said to the king, “Here is the head of Ish-bosheth, the son of Saul, your enemy,<crossref let="n" cid="c10004008.1" />who sought your life. The Lord has avenged my lord the king this day on Saul and on his offspring.”</v>
+			<marker class="begin-verse" mid="v10004009">
+			</marker>
+			<v n="9">But David answered Rechab and Baanah his brother, the sons of Rimmon the Beerothite,<crossref let="o" cid="c10004009.1" />“As the Lord lives,<crossref let="p" cid="c10004009.2" />who has redeemed my life out of every adversity,</v>
+			<marker class="begin-verse" mid="v10004010">
+			</marker>
+			<v n="10">
+				<crossref let="q" cid="c10004010.1" />when one told me, ‘Behold, Saul is dead,’ and thought he was bringing good news,<crossref let="r" cid="c10004010.2" />I seized him and killed him at Ziklag, which was the reward I gave him for his news.</v>
+			<marker class="begin-verse" mid="v10004011">
+			</marker>
+			<v n="11">How much more, when wicked men have killed a righteous man in his own house on his bed, shall I not now<crossref let="s" cid="c10004011.1" />require his blood at your hand and destroy you from the earth?”</v>
+			<marker class="begin-verse" mid="v10004012">
+			</marker>
+			<v n="12">And David commanded his young men, and they killed them and cut off their hands and feet and hanged them beside the pool at Hebron. But they took the head of Ish-bosheth and buried it<crossref let="t" cid="c10004012.1" />in the tomb of Abner at Hebron.</v>
+			<marker class="begin-verse" mid="v10004013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">4:6 Septuagint *And behold, the doorkeeper of the house had been cleaning wheat, but she grew drowsy and slept. So Rechab and Baanah his brother slipped in*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

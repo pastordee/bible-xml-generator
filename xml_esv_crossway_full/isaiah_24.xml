@@ -1,0 +1,109 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:53:56.634969</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:53:56.634976</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23024001">
+		</marker>
+		<chapter num="24">
+			<heading>
+				Isaiah 24
+			</heading>
+			<heading>
+				Judgment on the Whole Earth
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and he will twist its surface and scatter its inhabitants .</v>
+			<marker class="begin-verse" mid="v23024002">
+			</marker>
+			<v n="2">
+				<crossref let="f" cid="c23024002.3" />as with the creditor , so with the debtor .</v>
+			<marker class="begin-verse" mid="v23024003">
+			</marker>
+			<v n="3">
+				<crossref let="h" cid="c23024003.2" />for the Lord has spoken this word .</v>
+			<marker class="begin-verse" mid="v23024004">
+			</marker>
+			<v n="4">the highest people of the earth languish .</v>
+			<marker class="begin-verse" mid="v23024005">
+			</marker>
+			<v n="5">broken the everlasting covenant .</v>
+			<marker class="begin-verse" mid="v23024006">
+			</marker>
+			<v n="6">and few men are left .</v>
+			<marker class="begin-verse" mid="v23024007">
+			</marker>
+			<v n="7">all the merry-hearted sigh .</v>
+			<marker class="begin-verse" mid="v23024008">
+			</marker>
+			<v n="8">the mirth of the lyre is stilled .</v>
+			<marker class="begin-verse" mid="v23024009">
+			</marker>
+			<v n="9">strong drink is bitter to those who drink it .</v>
+			<marker class="begin-verse" mid="v23024010">
+			</marker>
+			<v n="10">
+				<crossref let="r" cid="c23024010.2" />every house is shut up so that none can enter .</v>
+			<marker class="begin-verse" mid="v23024011">
+			</marker>
+			<v n="11">the gladness of the earth is banished .</v>
+			<marker class="begin-verse" mid="v23024012">
+			</marker>
+			<v n="12">the gates are battered into ruins .</v>
+			<marker class="begin-verse" mid="v23024013">
+			</marker>
+			<v n="13">as at the gleaning when the grape harvest is done .</v>
+			<marker class="begin-verse" mid="v23024014">
+			</marker>
+			<v n="14">over the majesty of the Lord they shout from the west .</v>
+			<marker class="begin-verse" mid="v23024015">
+			</marker>
+			<v n="15">in the coastlands of the sea , give glory to the name of the Lord , the God of Israel .</v>
+			<marker class="begin-verse" mid="v23024016">
+			</marker>
+			<v n="16">with betrayal the traitors have betrayed . ”</v>
+			<marker class="begin-verse" mid="v23024017">
+			</marker>
+			<v n="17">are upon you , O inhabitant of the earth !</v>
+			<marker class="begin-verse" mid="v23024018">
+			</marker>
+			<v n="18">and<crossref let="b" cid="c23024018.2" />the foundations of the earth tremble .</v>
+			<marker class="begin-verse" mid="v23024019">
+			</marker>
+			<v n="19">the earth is violently shaken .</v>
+			<marker class="begin-verse" mid="v23024020">
+			</marker>
+			<v n="20">and it falls , and will not rise again .</v>
+			<marker class="begin-verse" mid="v23024021">
+			</marker>
+			<v n="21">and<crossref let="e" cid="c23024021.1" />the kings of the earth , on the earth .</v>
+			<marker class="begin-verse" mid="v23024022">
+			</marker>
+			<v n="22">and after many days<crossref let="g" cid="c23024022.2" />they will be punished .</v>
+			<marker class="begin-verse" mid="v23024023">
+			</marker>
+			<v n="23">and his glory will be before his elders .</v>
+			<marker class="begin-verse" mid="v23024024">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">24:1 Or *land*; also throughout this chapter</footnote>
+				<footnote id="2">24:14 Hebrew *from the sea*</footnote>
+				<footnote id="3">24:15 Hebrew *in the realm of light*, or *with the fires*</footnote>
+				<footnote id="4">24:17 The Hebrew words for *terror*, *pit*, and *snare* sound alike</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,366 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:34.531304</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:34.531323</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40023001">
+		</marker>
+		<chapter num="23">
+			<heading>
+				Matthew 23
+			</heading>
+			<heading>
+				Seven Woes to the Scribes and Pharisees
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Then Jesus<crossref let="t" cid="c40023001.1" />said to the crowds and to his disciples ,</v>
+			<marker class="begin-verse" mid="v40023002">
+			</marker>
+			<v n="2">
+				<crossref let="u" cid="c40023002.1" />
+				<woc>“ The scribes and the Pharisees</woc>
+				<crossref let="v" cid="c40023002.2" />
+				<woc>sit on Moses’ seat ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023003">
+			</marker>
+			<v n="3">
+				<woc>so do and observe whatever they tell you ,</woc>
+				<crossref let="w" cid="c40023003.1" />
+				<woc>but not the works they do .</woc>
+				<crossref let="x" cid="c40023003.2" />
+				<woc>For they preach , but do not practice .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023004">
+			</marker>
+			<v n="4">
+				<crossref let="y" cid="c40023004.1" />
+				<woc>They tie up heavy burdens , hard to bear , and lay them on people’s shoulders , but they themselves are not willing to move them with their finger .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023005">
+			</marker>
+			<v n="5">
+				<crossref let="t" cid="c40023005.3" />
+				<woc>They do all their deeds</woc>
+				<crossref let="z" cid="c40023005.4" />
+				<woc>to be seen by others . For they make</woc>
+				<crossref let="a" cid="c40023005.1" />
+				<woc>their phylacteries broad and</woc>
+				<crossref let="b" cid="c40023005.2" />
+				<woc>their fringes long ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023006">
+			</marker>
+			<v n="6">
+				<woc>and they</woc>
+				<crossref let="c" cid="c40023006.1" />
+				<woc>love the place of honor at feasts and</woc>
+				<crossref let="d" cid="c40023006.2" />
+				<woc>the best seats in the synagogues</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023007">
+			</marker>
+			<v n="7">
+				<woc>and</woc>
+				<crossref let="d" cid="c40023007.1" />
+				<woc>greetings in</woc>
+				<crossref let="e" cid="c40023007.2" />
+				<woc>the marketplaces and being called</woc>
+				<crossref let="f" cid="c40023007.3" />
+				<woc>rabbi by others .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023008">
+			</marker>
+			<v n="8">
+				<crossref let="g" cid="c40023008.1" />
+				<woc>But you are not to be called rabbi , for you have one teacher , and you are</woc>
+				<crossref let="h" cid="c40023008.2" />
+				<woc>all brothers .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023009">
+			</marker>
+			<v n="9">
+				<crossref let="i" cid="c40023009.1" />
+				<woc>And call no man your father on earth , for</woc>
+				<crossref let="j" cid="c40023009.2" />
+				<woc>you have one Father , who is in heaven .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023010">
+			</marker>
+			<v n="10">
+				<woc>Neither be called instructors , for you have one instructor ,</woc>
+				<crossref let="k" cid="c40023010.1" />
+				<woc>the Christ .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023011">
+			</marker>
+			<v n="11">
+				<crossref let="l" cid="c40023011.1" />
+				<woc>The greatest among you shall be your servant .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023012">
+			</marker>
+			<v n="12">
+				<crossref let="m" cid="c40023012.1" />
+				<woc>Whoever exalts himself will be humbled , and whoever humbles himself will be exalted .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023013">
+			</marker>
+			<v n="13">
+				<woc>“ But woe</woc>
+				<crossref let="n" cid="c40023013.1" />
+				<woc>to you , scribes and Pharisees , hypocrites ! For you</woc>
+				<crossref let="o" cid="c40023013.2" />
+				<woc>shut the kingdom of heaven in people’s faces . For you</woc>
+				<crossref let="p" cid="c40023013.3" />
+				<woc>neither enter yourselves nor allow those who would enter to go in .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023014">
+			</marker>
+			<v n="15">
+				<woc>Woe to you , scribes and Pharisees , hypocrites ! For you travel across sea and land to make a single</woc>
+				<crossref let="q" cid="c40023015.1" />
+				<woc>proselyte , and when he becomes a proselyte , you make him twice as much a</woc>
+				<crossref let="r" cid="c40023015.2" />
+				<woc>child of</woc>
+				<crossref let="s" cid="c40023015.3" />
+				<woc>hell as yourselves .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023016">
+			</marker>
+			<v n="16">
+				<woc>“ Woe to</woc>
+				<crossref let="t" cid="c40023016.1" />
+				<woc>you ,</woc>
+				<crossref let="u" cid="c40023016.2" />
+				<woc>blind guides , who say ,</woc>
+				<crossref let="v" cid="c40023016.3" />
+				<woc>‘ If anyone swears by the temple , it is nothing , but if anyone swears by the gold of the temple , he is bound by his oath . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023017">
+			</marker>
+			<v n="17">
+				<woc>You blind fools ! For which is greater , the gold or</woc>
+				<crossref let="w" cid="c40023017.1" />
+				<woc>the temple that has made the gold sacred ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023018">
+			</marker>
+			<v n="18">
+				<woc>And you say , ‘ If anyone swears by the altar , it is nothing , but if anyone swears by</woc>
+				<crossref let="x" cid="c40023018.1" />
+				<woc>the gift that is on the altar , he is bound by his oath . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023019">
+			</marker>
+			<v n="19">
+				<woc>You blind men ! For which is greater , the gift or</woc>
+				<crossref let="y" cid="c40023019.1" />
+				<woc>the altar that makes the gift sacred ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023020">
+			</marker>
+			<v n="20">
+				<woc>So whoever swears by the altar swears by it and by everything on it .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023021">
+			</marker>
+			<v n="21">
+				<woc>And whoever swears by the temple swears by it and by</woc>
+				<crossref let="z" cid="c40023021.1" />
+				<woc>him who dwells in it .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023022">
+			</marker>
+			<v n="22">
+				<woc>And whoever swears by</woc>
+				<crossref let="a" cid="c40023022.1" />
+				<woc>heaven swears by</woc>
+				<crossref let="b" cid="c40023022.2" />
+				<woc>the throne of God and by</woc>
+				<crossref let="c" cid="c40023022.3" />
+				<woc>him who sits upon it .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023023">
+			</marker>
+			<v n="23">
+				<crossref let="d" cid="c40023023.1" />
+				<woc>“ Woe to you , scribes and Pharisees , hypocrites ! For</woc>
+				<crossref let="e" cid="c40023023.2" />
+				<woc>you tithe mint and dill and</woc>
+				<crossref let="f" cid="c40023023.3" />
+				<woc>cumin , and have neglected the weightier matters of the law :</woc>
+				<crossref let="g" cid="c40023023.4" />
+				<woc>justice and mercy and faithfulness .</woc>
+				<crossref let="h" cid="c40023023.5" />
+				<woc>These you ought to have done , without neglecting the others .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023024">
+			</marker>
+			<v n="24">
+				<woc>You blind guides , straining out a gnat and swallowing</woc>
+				<crossref let="i" cid="c40023024.1" />
+				<woc>a camel !</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023025">
+			</marker>
+			<v n="25">
+				<crossref let="j" cid="c40023025.1" />
+				<woc>“ Woe to you , scribes and Pharisees , hypocrites ! For</woc>
+				<crossref let="k" cid="c40023025.2" />
+				<woc>you clean the outside of</woc>
+				<crossref let="l" cid="c40023025.3" />
+				<woc>the cup and the plate , but inside they are full of</woc>
+				<crossref let="m" cid="c40023025.4" />
+				<woc>greed and self-indulgence .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023026">
+			</marker>
+			<v n="26">
+				<woc>You blind Pharisee ! First clean the inside of</woc>
+				<crossref let="l" cid="c40023026.1" />
+				<woc>the cup and the plate , that the outside also may be clean .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023027">
+			</marker>
+			<v n="27">
+				<crossref let="n" cid="c40023027.1" />
+				<woc>“ Woe to you , scribes and Pharisees , hypocrites ! For you are like</woc>
+				<crossref let="o" cid="c40023027.2" />
+				<woc>whitewashed tombs , which outwardly appear beautiful , but within are full of dead people’s bones and</woc>
+				<crossref let="p" cid="c40023027.3" />
+				<woc>all uncleanness .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023028">
+			</marker>
+			<v n="28">
+				<woc>So you also</woc>
+				<crossref let="q" cid="c40023028.1" />
+				<woc>outwardly appear righteous to others , but within you are full of</woc>
+				<crossref let="r" cid="c40023028.2" />
+				<woc>hypocrisy and lawlessness .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023029">
+			</marker>
+			<v n="29">
+				<crossref let="s" cid="c40023029.1" />
+				<woc>“ Woe to you , scribes and Pharisees , hypocrites ! For you build the tombs of the prophets and decorate the monuments of the righteous ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023030">
+			</marker>
+			<v n="30">
+				<woc>saying , ‘ If we had lived in the days of our fathers , we would not have taken part with them in shedding the blood of the prophets . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023031">
+			</marker>
+			<v n="31">
+				<woc>Thus you witness against yourselves that you are</woc>
+				<crossref let="t" cid="c40023031.1" />
+				<woc>sons of those who murdered the prophets .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023032">
+			</marker>
+			<v n="32">
+				<crossref let="u" cid="c40023032.1" />
+				<woc>Fill up , then , the measure of your fathers .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023033">
+			</marker>
+			<v n="33">
+				<woc>You serpents ,</woc>
+				<crossref let="v" cid="c40023033.1" />
+				<woc>you brood of vipers , how are you to escape being sentenced to</woc>
+				<crossref let="w" cid="c40023033.2" />
+				<woc>hell ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023034">
+			</marker>
+			<v n="34">
+				<crossref let="x" cid="c40023034.5" />
+				<woc>Therefore</woc>
+				<crossref let="y" cid="c40023034.6" />
+				<woc>I send you</woc>
+				<crossref let="z" cid="c40023034.7" />
+				<woc>prophets and wise men and</woc>
+				<crossref let="a" cid="c40023034.1" />
+				<woc>scribes ,</woc>
+				<crossref let="b" cid="c40023034.2" />
+				<woc>some of whom you will kill and crucify , and</woc>
+				<crossref let="b" cid="c40023034.2" />
+				<woc>some you will</woc>
+				<crossref let="c" cid="c40023034.3" />
+				<woc>flog in your synagogues and</woc>
+				<crossref let="d" cid="c40023034.4" />
+				<woc>persecute from town to town ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023035">
+			</marker>
+			<v n="35">
+				<woc>so that on you may come all</woc>
+				<crossref let="e" cid="c40023035.1" />
+				<woc>the righteous blood shed on earth , from the blood of righteous</woc>
+				<crossref let="f" cid="c40023035.2" />
+				<woc>Abel to the blood of</woc>
+				<crossref let="g" cid="c40023035.3" />
+				<woc>Zechariah the son of Barachiah , whom you murdered between</woc>
+				<crossref let="h" cid="c40023035.4" />
+				<woc>the sanctuary and</woc>
+				<crossref let="i" cid="c40023035.5" />
+				<woc>the altar .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023036">
+			</marker>
+			<v n="36">
+				<woc>Truly , I say to you ,</woc>
+				<crossref let="j" cid="c40023036.1" />
+				<woc>all these things will come upon this generation .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023037">
+			</marker>
+			<v n="37">
+				<crossref let="k" cid="c40023037.1" />
+				<woc>“ O Jerusalem , Jerusalem , the city that</woc>
+				<crossref let="l" cid="c40023037.2" />
+				<woc>kills the prophets and stones those who are sent to it ! How often would I have</woc>
+				<crossref let="m" cid="c40023037.3" />
+				<woc>gathered</woc>
+				<crossref let="n" cid="c40023037.4" />
+				<woc>your children together</woc>
+				<crossref let="o" cid="c40023037.5" />
+				<woc>as a hen gathers her brood</woc>
+				<crossref let="p" cid="c40023037.6" />
+				<woc>under her wings , and</woc>
+				<crossref let="q" cid="c40023037.7" />
+				<woc>you were not willing !</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023038">
+			</marker>
+			<v n="38">
+				<woc>See ,</woc>
+				<crossref let="r" cid="c40023038.1" />
+				<woc>your house is left to you desolate .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023039">
+			</marker>
+			<v n="39">
+				<woc>For I tell you , you will not see me again , until you say ,</woc>
+				<crossref let="s" cid="c40023039.1" />
+				<woc>‘ Blessed is he who comes in the name of the Lord . ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40023040">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

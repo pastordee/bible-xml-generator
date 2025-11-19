@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:32:49.099351</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:32:49.099369</next_refresh_due>
+	</generation_info>
+	<book title="Nehemiah" num="16" testament="old" bookAbbr="neh" version="ESV">
+		<marker class="begin-verse" mid="v16010001">
+		</marker>
+		<chapter num="10">
+			<heading>
+				Nehemiah 10
+			</heading>
+			<heading>
+				The People Who Sealed the Covenant
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="e" cid="c16010001.1" />“ On the seals are the names of Nehemiah<crossref let="f" cid="c16010001.2" />the governor ,<crossref let="g" cid="c16010001.3" />the son of Hacaliah , Zedekiah ,</v>
+			<marker class="begin-verse" mid="v16010002">
+			</marker>
+			<v n="2">
+				<crossref let="h" cid="c16010002.1" />Seraiah , Azariah , Jeremiah ,</v>
+			<marker class="begin-verse" mid="v16010003">
+			</marker>
+			<v n="3">Pashhur , Amariah , Malchijah ,</v>
+			<marker class="begin-verse" mid="v16010004">
+			</marker>
+			<v n="4">
+				<crossref let="i" cid="c16010004.1" />Hattush , Shebaniah , Malluch ,</v>
+			<marker class="begin-verse" mid="v16010005">
+			</marker>
+			<v n="5">Harim , Meremoth , Obadiah ,</v>
+			<marker class="begin-verse" mid="v16010006">
+			</marker>
+			<v n="6">Daniel , Ginnethon , Baruch ,</v>
+			<marker class="begin-verse" mid="v16010007">
+			</marker>
+			<v n="7">Meshullam , Abijah , Mijamin ,</v>
+			<marker class="begin-verse" mid="v16010008">
+			</marker>
+			<v n="8">Maaziah , Bilgai , Shemaiah ; these are the priests .</v>
+			<marker class="begin-verse" mid="v16010009">
+			</marker>
+			<v n="9">And the Levites :<crossref let="j" cid="c16010009.1" />Jeshua the son of Azaniah , Binnui of the sons of<crossref let="k" cid="c16010009.2" />Henadad , Kadmiel ;</v>
+			<marker class="begin-verse" mid="v16010010">
+			</marker>
+			<v n="10">and their brothers , Shebaniah , Hodiah , Kelita , Pelaiah , Hanan ,</v>
+			<marker class="begin-verse" mid="v16010011">
+			</marker>
+			<v n="11">Mica , Rehob , Hashabiah ,</v>
+			<marker class="begin-verse" mid="v16010012">
+			</marker>
+			<v n="12">Zaccur , Sherebiah , Shebaniah ,</v>
+			<marker class="begin-verse" mid="v16010013">
+			</marker>
+			<v n="13">Hodiah , Bani , Beninu .</v>
+			<marker class="begin-verse" mid="v16010014">
+			</marker>
+			<v n="14">The chiefs of the people :<crossref let="l" cid="c16010014.1" />Parosh , Pahath-moab , Elam , Zattu , Bani ,</v>
+			<marker class="begin-verse" mid="v16010015">
+			</marker>
+			<v n="15">Bunni , Azgad , Bebai ,</v>
+			<marker class="begin-verse" mid="v16010016">
+			</marker>
+			<v n="16">Adonijah , Bigvai , Adin ,</v>
+			<marker class="begin-verse" mid="v16010017">
+			</marker>
+			<v n="17">Ater , Hezekiah , Azzur ,</v>
+			<marker class="begin-verse" mid="v16010018">
+			</marker>
+			<v n="18">Hodiah , Hashum , Bezai ,</v>
+			<marker class="begin-verse" mid="v16010019">
+			</marker>
+			<v n="19">Hariph , Anathoth , Nebai ,</v>
+			<marker class="begin-verse" mid="v16010020">
+			</marker>
+			<v n="20">Magpiash , Meshullam , Hezir ,</v>
+			<marker class="begin-verse" mid="v16010021">
+			</marker>
+			<v n="21">Meshezabel , Zadok , Jaddua ,</v>
+			<marker class="begin-verse" mid="v16010022">
+			</marker>
+			<v n="22">Pelatiah , Hanan , Anaiah ,</v>
+			<marker class="begin-verse" mid="v16010023">
+			</marker>
+			<v n="23">Hoshea , Hananiah , Hasshub ,</v>
+			<marker class="begin-verse" mid="v16010024">
+			</marker>
+			<v n="24">Hallohesh , Pilha , Shobek ,</v>
+			<marker class="begin-verse" mid="v16010025">
+			</marker>
+			<v n="25">Rehum , Hashabnah , Maaseiah ,</v>
+			<marker class="begin-verse" mid="v16010026">
+			</marker>
+			<v n="26">Ahiah , Hanan , Anan ,</v>
+			<marker class="begin-verse" mid="v16010027">
+			</marker>
+			<v n="27">Malluch , Harim , Baanah .</v>
+			<marker class="begin-verse" mid="v16010028">
+			</marker>
+			<v n="28">
+				<crossref let="m" cid="c16010028.1" />“ The rest of the people , the priests , the Levites , the gatekeepers , the singers , the temple servants ,<crossref let="n" cid="c16010028.2" />and all who have separated themselves from the peoples of the lands to the Law of God , their wives , their sons , their daughters , all who have knowledge and understanding ,</v>
+			<marker class="begin-verse" mid="v16010029">
+			</marker>
+			<v n="29">join with their brothers , their nobles ,<crossref let="o" cid="c16010029.1" />and enter into a curse and an oath<crossref let="p" cid="c16010029.2" />to walk in God’s Law that was given by Moses the servant of God , and to observe and do all the commandments of the Lord our Lord and his rules and his statutes .</v>
+			<marker class="begin-verse" mid="v16010030">
+			</marker>
+			<v n="30">
+				<crossref let="q" cid="c16010030.1" />We will not give our daughters to the peoples of the land or take their daughters for our sons .</v>
+			<marker class="begin-verse" mid="v16010031">
+			</marker>
+			<v n="31">
+				<crossref let="r" cid="c16010031.1" />And if the peoples of the land bring in goods or any grain on the Sabbath day to sell , we will not buy from them on the Sabbath or on a holy day . And we will forgo the crops of the<crossref let="s" cid="c16010031.2" />seventh year and the<crossref let="t" cid="c16010031.3" />exaction of every debt .</v>
+			<marker class="begin-verse" mid="v16010032">
+			</marker>
+			<v n="32">“ We also take on ourselves the obligation to give yearly<crossref let="u" cid="c16010032.1" />a third part of a shekel for the service of the house of our God :</v>
+			<marker class="begin-verse" mid="v16010033">
+			</marker>
+			<v n="33">
+				<crossref let="v" cid="c16010033.1" />for the showbread ,<crossref let="w" cid="c16010033.2" />the regular grain offering ,<crossref let="w" cid="c16010033.2" />the regular burnt offering , the Sabbaths , the new moons , the appointed feasts , the holy things , and the sin offerings to make atonement for Israel , and for all the work of the house of our God .</v>
+			<marker class="begin-verse" mid="v16010034">
+			</marker>
+			<v n="34">
+				<crossref let="x" cid="c16010034.1" />We , the priests , the Levites , and the people , have likewise cast lots<crossref let="y" cid="c16010034.2" />for the wood offering , to bring it into the house of our God , according to our fathers’ houses , at times appointed , year by year , to burn on the altar of the Lord our God ,<crossref let="z" cid="c16010034.3" />as it is written in the Law .</v>
+			<marker class="begin-verse" mid="v16010035">
+			</marker>
+			<v n="35">We obligate ourselves<crossref let="a" cid="c16010035.1" />to bring the firstfruits of our ground and the firstfruits of all fruit of every tree , year by year , to the house of the Lord ;</v>
+			<marker class="begin-verse" mid="v16010036">
+			</marker>
+			<v n="36">also to bring to the house of our God , to the priests who minister in the house of our God , the firstborn of our sons and of our cattle ,<crossref let="b" cid="c16010036.1" />as it is written in the Law , and the firstborn of our herds and of our flocks ;</v>
+			<marker class="begin-verse" mid="v16010037">
+			</marker>
+			<v n="37">
+				<crossref let="c" cid="c16010037.1" />and to bring the first of our dough , and our contributions , the fruit of every tree , the wine and the oil , to the priests ,<crossref let="d" cid="c16010037.2" />to the chambers of the house of our God ; and to bring to the Levites the tithes from our ground , for it is the Levites who collect the tithes in all our towns where we labor .</v>
+			<marker class="begin-verse" mid="v16010038">
+			</marker>
+			<v n="38">And the priest , the son of Aaron , shall be with the Levites when the Levites receive the tithes . And the Levites shall bring up the tithe of the tithes to the house of our God , to the chambers of<crossref let="e" cid="c16010038.1" />the storehouse .</v>
+			<marker class="begin-verse" mid="v16010039">
+			</marker>
+			<v n="39">For the people of Israel and the sons of Levi<crossref let="f" cid="c16010039.1" />shall bring the contribution of grain , wine , and oil to the chambers , where the vessels of the sanctuary are , as well as the priests who minister , and the gatekeepers and the singers .<crossref let="g" cid="c16010039.2" />We will not neglect the house of our God . ”</v>
+			<marker class="begin-verse" mid="v16010040">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">10:1 Hebrew lacks *the names of*</footnote>
+				<footnote id="2">10:32 A *shekel* was about 2/5 ounce or 11 grams</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

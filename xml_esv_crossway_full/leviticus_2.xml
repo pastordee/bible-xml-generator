@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:58:56.890810</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:58:56.890817</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" bookAbbr="lev" version="ESV">
+		<marker class="begin-verse" mid="v03002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Leviticus 2
+			</heading>
+			<heading>
+				Laws for Grain Offerings
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">“ When anyone brings a<crossref let="p" cid="c03002001.1" />grain offering as an offering to the Lord , his offering shall be of fine flour .<crossref let="q" cid="c03002001.2" />He shall pour oil on it and put frankincense on it</v>
+			<marker class="begin-verse" mid="v03002002">
+			</marker>
+			<v n="2">and bring it to Aaron’s sons the priests . And he shall take from it a handful of the fine flour and oil , with all of its frankincense , and the priest shall burn this as its<crossref let="r" cid="c03002002.1" />memorial portion on the altar , a food<crossref let="s" cid="c03002002.2" />offering with a pleasing aroma to the Lord .</v>
+			<marker class="begin-verse" mid="v03002003">
+			</marker>
+			<v n="3">But the<crossref let="t" cid="c03002003.1" />rest of the grain offering shall be for Aaron and his sons ;<crossref let="u" cid="c03002003.2" />it is a most holy part of the Lord ’s food offerings .</v>
+			<marker class="begin-verse" mid="v03002004">
+			</marker>
+			<v n="4">“ When you bring a grain offering baked in the oven as an offering , it shall be<crossref let="v" cid="c03002004.1" />unleavened loaves of fine flour mixed with oil or unleavened wafers smeared with oil .</v>
+			<marker class="begin-verse" mid="v03002005">
+			</marker>
+			<v n="5">And if your offering is a grain offering<crossref let="w" cid="c03002005.1" />baked on a griddle , it shall be of fine flour unleavened , mixed with oil .</v>
+			<marker class="begin-verse" mid="v03002006">
+			</marker>
+			<v n="6">You shall break it in pieces and pour oil on it ; it is a grain offering .</v>
+			<marker class="begin-verse" mid="v03002007">
+			</marker>
+			<v n="7">And if your offering is a grain offering cooked in a pan , it shall be made of fine flour with oil .</v>
+			<marker class="begin-verse" mid="v03002008">
+			</marker>
+			<v n="8">And you shall bring the grain offering that is made of these things to the Lord , and when it is presented to the priest , he shall bring it to the altar .</v>
+			<marker class="begin-verse" mid="v03002009">
+			</marker>
+			<v n="9">And the priest shall take from the grain offering its memorial portion and burn this on the altar , a food<crossref let="x" cid="c03002009.1" />offering with a<crossref let="y" cid="c03002009.2" />pleasing aroma to the Lord .</v>
+			<marker class="begin-verse" mid="v03002010">
+			</marker>
+			<v n="10">But the<crossref let="z" cid="c03002010.1" />rest of the grain offering shall be for Aaron and his sons ;<crossref let="z" cid="c03002010.1" />it is a most holy part of the Lord ’s food offerings .</v>
+			<marker class="begin-verse" mid="v03002011">
+			</marker>
+			<v n="11">“ No grain offering that you bring to the Lord shall be made with<crossref let="a" cid="c03002011.1" />leaven , for you shall burn no leaven nor any honey as a food offering to the Lord .</v>
+			<marker class="begin-verse" mid="v03002012">
+			</marker>
+			<v n="12">
+				<crossref let="b" cid="c03002012.1" />As an offering of firstfruits you may bring them to the Lord , but they shall not be offered on the altar for a pleasing aroma .</v>
+			<marker class="begin-verse" mid="v03002013">
+			</marker>
+			<v n="13">You<crossref let="c" cid="c03002013.1" />shall season all your grain offerings with salt . You shall not let the<crossref let="d" cid="c03002013.2" />salt of the covenant with your God be missing from your grain offering ;<crossref let="e" cid="c03002013.3" />with all your offerings you shall offer salt .</v>
+			<marker class="begin-verse" mid="v03002014">
+			</marker>
+			<v n="14">“ If you offer a grain offering of firstfruits to the Lord , you shall offer for the grain offering of your firstfruits fresh<crossref let="f" cid="c03002014.1" />ears , roasted with fire , crushed new grain .</v>
+			<marker class="begin-verse" mid="v03002015">
+			</marker>
+			<v n="15">And<crossref let="g" cid="c03002015.1" />you shall put oil on it and lay frankincense on it ; it is a grain offering .</v>
+			<marker class="begin-verse" mid="v03002016">
+			</marker>
+			<v n="16">And the priest shall burn as its<crossref let="h" cid="c03002016.1" />memorial portion some of the crushed grain and some of the oil with all of its frankincense ; it is a food offering to the Lord .</v>
+			<marker class="begin-verse" mid="v03002017">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

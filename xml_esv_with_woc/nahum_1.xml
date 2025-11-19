@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:03:19.147972</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:03:19.147992</next_refresh_due>
+	</generation_info>
+	<book title="Nahum" num="34" testament="old" bookAbbr="nam" version="ESV">
+		<marker class="begin-verse" mid="v34001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Nahum 1
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">1<crossref let="a" cid="c34001001.1" />An oracle concerning<crossref let="b" cid="c34001001.2" />Nineveh. The book of the vision of Nahum of Elkosh.</v>
+			<marker class="begin-verse" mid="v34001002">
+			</marker>
+			<v n="2">and<crossref let="e" cid="c34001002.3" />keeps wrath for his enemies.</v>
+			<marker class="begin-verse" mid="v34001003">
+			</marker>
+			<v n="3">and the clouds are the dust of his feet.</v>
+			<marker class="begin-verse" mid="v34001004">
+			</marker>
+			<v n="4">Lebanon withers.</v>
+			<marker class="begin-verse" mid="v34001005">
+			</marker>
+			<v n="5">the world and all who dwell in it.</v>
+			<marker class="begin-verse" mid="v34001006">
+			</marker>
+			<v n="6">the rocks are broken into pieces by him.</v>
+			<marker class="begin-verse" mid="v34001007">
+			</marker>
+			<v n="7">he knows those who take refuge in him.</v>
+			<marker class="begin-verse" mid="v34001008">
+			</marker>
+			<v n="8">will pursue his enemies into darkness.</v>
+			<marker class="begin-verse" mid="v34001009">
+			</marker>
+			<v n="9">trouble will not rise up a second time.</v>
+			<marker class="begin-verse" mid="v34001010">
+			</marker>
+			<v n="10">they are consumed like stubble fully dried.</v>
+			<marker class="begin-verse" mid="v34001011">
+			</marker>
+			<v n="11">a worthless counselor.</v>
+			<marker class="begin-verse" mid="v34001012">
+			</marker>
+			<v n="12">I will afflict you no more.</v>
+			<marker class="begin-verse" mid="v34001013">
+			</marker>
+			<v n="13">and will burst your bonds apart.”</v>
+			<marker class="begin-verse" mid="v34001014">
+			</marker>
+			<v n="14">for you are vile.”</v>
+			<marker class="begin-verse" mid="v34001015">
+			</marker>
+			<v n="15">he is utterly cut off.</v>
+			<marker class="begin-verse" mid="v34001016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:8 Hebrew *of her place*</footnote>
+				<footnote id="2">1:15 Ch 2:1 in Hebrew</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

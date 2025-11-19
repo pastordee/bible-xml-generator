@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:45.980887</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:45.980896</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18026001">
+		</marker>
+		<chapter num="26">
+			<heading>
+				Job 26
+			</heading>
+			<heading>
+				Job Replies: God’s Majesty Is Unsearchable
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">26 Then Job answered and said:</v>
+			<marker class="begin-verse" mid="v18026002">
+			</marker>
+			<v n="2">the arm that has no strength!</v>
+			<marker class="begin-verse" mid="v18026003">
+			</marker>
+			<v n="3">and plentifully declared sound knowledge!</v>
+			<marker class="begin-verse" mid="v18026004">
+			</marker>
+			<v n="4">has come out from you?</v>
+			<marker class="begin-verse" mid="v18026005">
+			</marker>
+			<v n="5">under the waters and their inhabitants.</v>
+			<marker class="begin-verse" mid="v18026006">
+			</marker>
+			<v n="6">Abaddon has no covering.</v>
+			<marker class="begin-verse" mid="v18026007">
+			</marker>
+			<v n="7">and hangs the earth on nothing.</v>
+			<marker class="begin-verse" mid="v18026008">
+			</marker>
+			<v n="8">and the cloud is not split open under them.</v>
+			<marker class="begin-verse" mid="v18026009">
+			</marker>
+			<v n="9">spreads over it his cloud.</v>
+			<marker class="begin-verse" mid="v18026010">
+			</marker>
+			<v n="10">at the boundary between light and darkness.</v>
+			<marker class="begin-verse" mid="v18026011">
+			</marker>
+			<v n="11">rebuke.</v>
+			<marker class="begin-verse" mid="v18026012">
+			</marker>
+			<v n="12">Rahab.</v>
+			<marker class="begin-verse" mid="v18026013">
+			</marker>
+			<v n="13">the fleeing serpent.</v>
+			<marker class="begin-verse" mid="v18026014">
+			</marker>
+			<v n="14">But the thunder of his power who can understand?”</v>
+			<marker class="begin-verse" mid="v18026015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">26:6 Hebrew *him*</footnote>
+				<footnote id="2">26:9 Or *his throne*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

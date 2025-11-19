@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:53.729312</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:53.729321</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" bookAbbr="pro" version="ESV">
+		<marker class="begin-verse" mid="v20009001">
+		</marker>
+		<chapter num="9">
+			<heading>
+				Proverbs 9
+			</heading>
+			<heading>
+				The Way of Wisdom
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">she has hewn her<crossref let="w" cid="c20009001.2" />seven<crossref let="x" cid="c20009001.3" />pillars .</v>
+			<marker class="begin-verse" mid="v20009002">
+			</marker>
+			<v n="2">she has also<crossref let="a" cid="c20009002.1" />set her table .</v>
+			<marker class="begin-verse" mid="v20009003">
+			</marker>
+			<v n="3">from<crossref let="d" cid="c20009003.3" />the highest places in the town ,</v>
+			<marker class="begin-verse" mid="v20009004">
+			</marker>
+			<v n="4">
+				<crossref let="f" cid="c20009004.2" />To him who lacks sense she says ,</v>
+			<marker class="begin-verse" mid="v20009005">
+			</marker>
+			<v n="5">and<crossref let="h" cid="c20009005.2" />drink of<crossref let="z" cid="c20009005.3" />the wine I have mixed .</v>
+			<marker class="begin-verse" mid="v20009006">
+			</marker>
+			<v n="6">
+				<crossref let="k" cid="c20009006.3" />and walk in the way of insight . ”</v>
+			<marker class="begin-verse" mid="v20009007">
+			</marker>
+			<v n="7">and he who reproves a wicked man incurs injury .</v>
+			<marker class="begin-verse" mid="v20009008">
+			</marker>
+			<v n="8">
+				<crossref let="m" cid="c20009008.2" />reprove a wise man , and he will love you .</v>
+			<marker class="begin-verse" mid="v20009009">
+			</marker>
+			<v n="9">teach a righteous man , and he will<crossref let="o" cid="c20009009.2" />increase in learning .</v>
+			<marker class="begin-verse" mid="v20009010">
+			</marker>
+			<v n="10">and<crossref let="q" cid="c20009010.2" />the knowledge of the Holy One is insight .</v>
+			<marker class="begin-verse" mid="v20009011">
+			</marker>
+			<v n="11">and years will be added to your life .</v>
+			<marker class="begin-verse" mid="v20009012">
+			</marker>
+			<v n="12">if you scoff , you alone will bear it .</v>
+			<marker class="begin-verse" mid="v20009013">
+			</marker>
+			<v n="13">she is seductive and<crossref let="v" cid="c20009013.3" />knows nothing .</v>
+			<marker class="begin-verse" mid="v20009014">
+			</marker>
+			<v n="14">she takes a seat on<crossref let="w" cid="c20009014.1" />the highest places of the town ,</v>
+			<marker class="begin-verse" mid="v20009015">
+			</marker>
+			<v n="15">who are<crossref let="x" cid="c20009015.1" />going straight on their way ,</v>
+			<marker class="begin-verse" mid="v20009016">
+			</marker>
+			<v n="16">And to him who lacks sense she says ,</v>
+			<marker class="begin-verse" mid="v20009017">
+			</marker>
+			<v n="17">and<crossref let="a" cid="c20009017.1" />bread eaten in secret is pleasant . ”</v>
+			<marker class="begin-verse" mid="v20009018">
+			</marker>
+			<v n="18">that her guests are in the depths of Sheol .</v>
+			<marker class="begin-verse" mid="v20009019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">9:6 Or *Leave the company of the simple*</footnote>
+				<footnote id="2">9:9 Hebrew lacks *instruction*</footnote>
+				<footnote id="3">9:13 Or *full of simpleness*</footnote>
+				<footnote id="4">9:18 Hebrew *Rephaim*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

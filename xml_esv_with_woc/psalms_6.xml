@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:18.438197</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:18.438215</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Psalm 6
+			</heading>
+			<heading>
+				O LORD, Deliver My Life
+			</heading>
+			<heading>
+				To the choirmaster: with stringed instruments; according to The Sheminith.(1) A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">discipline me in your wrath.</v>
+			<marker class="begin-verse" mid="v19006002">
+			</marker>
+			<v n="2">for my bones are troubled.</v>
+			<marker class="begin-verse" mid="v19006003">
+			</marker>
+			<v n="3">how long?</v>
+			<marker class="begin-verse" mid="v19006004">
+			</marker>
+			<v n="4">save me for the sake of your steadfast love.</v>
+			<marker class="begin-verse" mid="v19006005">
+			</marker>
+			<v n="5">in Sheol who will give you praise?</v>
+			<marker class="begin-verse" mid="v19006006">
+			</marker>
+			<v n="6">I drench my couch with my weeping.</v>
+			<marker class="begin-verse" mid="v19006007">
+			</marker>
+			<v n="7">it grows weak because of all my foes.</v>
+			<marker class="begin-verse" mid="v19006008">
+			</marker>
+			<v n="8">has heard the sound of my weeping.</v>
+			<marker class="begin-verse" mid="v19006009">
+			</marker>
+			<v n="9">the Lord accepts my prayer.</v>
+			<marker class="begin-verse" mid="v19006010">
+			</marker>
+			<v n="10">turn back and be put to shame in a moment.</v>
+			<marker class="begin-verse" mid="v19006011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">6:1 Probably a musical or liturgical term</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

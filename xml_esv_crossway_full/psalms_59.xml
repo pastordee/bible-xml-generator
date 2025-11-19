@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:26.775233</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:26.775250</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19059001">
+		</marker>
+		<chapter num="59">
+			<heading>
+				Psalm 59
+			</heading>
+			<heading>
+				Deliver Me from My Enemies
+			</heading>
+			<heading>
+				To the choirmaster: according to Do Not Destroy. A Miktam(1) of David, when Saul sent men to watch his house in order to kill him.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="b" cid="c19059001.2" />protect me from those who<crossref let="c" cid="c19059001.3" />rise up against me ;</v>
+			<marker class="begin-verse" mid="v19059002">
+			</marker>
+			<v n="2">and save me from<crossref let="e" cid="c19059002.2" />bloodthirsty men .</v>
+			<marker class="begin-verse" mid="v19059003">
+			</marker>
+			<v n="3">
+				<crossref let="h" cid="c19059003.3" />For no transgression or sin of mine , O Lord ,</v>
+			<marker class="begin-verse" mid="v19059004">
+			</marker>
+			<v n="4">
+				<crossref let="i" cid="c19059004.1" />Awake , come to meet me , and see !</v>
+			<marker class="begin-verse" mid="v19059005">
+			</marker>
+			<v n="5">spare none of those who treacherously plot evil . Selah</v>
+			<marker class="begin-verse" mid="v19059006">
+			</marker>
+			<v n="6">and prowling about the city .</v>
+			<marker class="begin-verse" mid="v19059007">
+			</marker>
+			<v n="7">for<crossref let="n" cid="c19059007.3" />“ Who , ” they think , “ will hear us ? ”</v>
+			<marker class="begin-verse" mid="v19059008">
+			</marker>
+			<v n="8">you hold all the nations in derision .</v>
+			<marker class="begin-verse" mid="v19059009">
+			</marker>
+			<v n="9">for you , O God , are<crossref let="p" cid="c19059009.1" />my fortress .</v>
+			<marker class="begin-verse" mid="v19059010">
+			</marker>
+			<v n="10">God will let me<crossref let="s" cid="c19059010.3" />look in triumph on my enemies .</v>
+			<marker class="begin-verse" mid="v19059011">
+			</marker>
+			<v n="11">O Lord , our<crossref let="u" cid="c19059011.2" />shield !</v>
+			<marker class="begin-verse" mid="v19059012">
+			</marker>
+			<v n="12">For the cursing and lies that they utter ,</v>
+			<marker class="begin-verse" mid="v19059013">
+			</marker>
+			<v n="13">to<crossref let="y" cid="c19059013.3" />the ends of the earth . Selah</v>
+			<marker class="begin-verse" mid="v19059014">
+			</marker>
+			<v n="14">and prowling about the city .</v>
+			<marker class="begin-verse" mid="v19059015">
+			</marker>
+			<v n="15">and growl if they do not get their fill .</v>
+			<marker class="begin-verse" mid="v19059016">
+			</marker>
+			<v n="16">and<crossref let="c" cid="c19059016.2" />a refuge in<crossref let="d" cid="c19059016.3" />the day of my distress .</v>
+			<marker class="begin-verse" mid="v19059017">
+			</marker>
+			<v n="17">
+				<crossref let="e" cid="c19059017.2" />the God who shows me steadfast love .</v>
+			<marker class="begin-verse" mid="v19059018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">59:1 Probably a musical or liturgical term</footnote>
+				<footnote id="2">59:7 Hebrew lacks *they think*</footnote>
+				<footnote id="3">59:10 Or *The God who shows me steadfast love*</footnote>
+				<footnote id="4">59:11 Or *wander*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

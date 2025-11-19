@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:11.371891</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:11.371900</next_refresh_due>
+	</generation_info>
+	<book title="Romans" num="45" testament="new" bookAbbr="rom" version="ESV">
+		<marker class="begin-verse" mid="v45013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				Romans 13
+			</heading>
+			<heading>
+				Submission to the Authorities
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">there is no authority except from God, and those that exist have been instituted by God.</v>
+			<marker class="begin-verse" mid="v45013002">
+			</marker>
+			<v n="2">Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment.</v>
+			<marker class="begin-verse" mid="v45013003">
+			</marker>
+			<v n="3">will receive his approval,</v>
+			<marker class="begin-verse" mid="v45013004">
+			</marker>
+			<v n="4">an avenger who carries out God's wrath on the wrongdoer.</v>
+			<marker class="begin-verse" mid="v45013005">
+			</marker>
+			<v n="5">for the sake of conscience.</v>
+			<marker class="begin-verse" mid="v45013006">
+			</marker>
+			<v n="6">For because of this you also pay taxes, for the authorities are ministers of God, attending to this very thing.</v>
+			<marker class="begin-verse" mid="v45013007">
+			</marker>
+			<v n="7">Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.</v>
+			<marker class="begin-verse" mid="v45013008">
+			</marker>
+			<v n="8">the one who loves another has fulfilled the law.</v>
+			<marker class="begin-verse" mid="v45013009">
+			</marker>
+			<v n="9">“You shall love your neighbor as yourself.”</v>
+			<marker class="begin-verse" mid="v45013010">
+			</marker>
+			<v n="10">love is the fulfilling of the law.</v>
+			<marker class="begin-verse" mid="v45013011">
+			</marker>
+			<v n="11">For salvation is nearer to us now than when we first believed.</v>
+			<marker class="begin-verse" mid="v45013012">
+			</marker>
+			<v n="12">put on the armor of light.</v>
+			<marker class="begin-verse" mid="v45013013">
+			</marker>
+			<v n="13">not in quarreling and jealousy.</v>
+			<marker class="begin-verse" mid="v45013014">
+			</marker>
+			<v n="14">to gratify its desires.</v>
+			<marker class="begin-verse" mid="v45013015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

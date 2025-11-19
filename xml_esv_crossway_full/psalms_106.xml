@@ -1,0 +1,185 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:36.063392</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:36.063399</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19106001">
+		</marker>
+		<chapter num="106">
+			<heading>
+				Psalm 106
+			</heading>
+			<heading>
+				Give Thanks to the LORD, for He Is Good
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="l" cid="c19106001.4" />for his steadfast love endures forever !</v>
+			<marker class="begin-verse" mid="v19106002">
+			</marker>
+			<v n="2">or declare all his praise ?</v>
+			<marker class="begin-verse" mid="v19106003">
+			</marker>
+			<v n="3">who<crossref let="m" cid="c19106003.1" />do righteousness at all times !</v>
+			<marker class="begin-verse" mid="v19106004">
+			</marker>
+			<v n="4">help me when you save them ,</v>
+			<marker class="begin-verse" mid="v19106005">
+			</marker>
+			<v n="5">that I may glory with your inheritance .</v>
+			<marker class="begin-verse" mid="v19106006">
+			</marker>
+			<v n="6">we have committed iniquity ; we have done wickedness .</v>
+			<marker class="begin-verse" mid="v19106007">
+			</marker>
+			<v n="7">but<crossref let="s" cid="c19106007.2" />rebelled by the sea , at the Red Sea .</v>
+			<marker class="begin-verse" mid="v19106008">
+			</marker>
+			<v n="8">
+				<crossref let="u" cid="c19106008.2" />that he might make known his mighty power .</v>
+			<marker class="begin-verse" mid="v19106009">
+			</marker>
+			<v n="9">and he<crossref let="x" cid="c19106009.3" />led them through the deep as through a desert .</v>
+			<marker class="begin-verse" mid="v19106010">
+			</marker>
+			<v n="10">and<crossref let="z" cid="c19106010.2" />redeemed them from the power of the enemy .</v>
+			<marker class="begin-verse" mid="v19106011">
+			</marker>
+			<v n="11">not one of them was left .</v>
+			<marker class="begin-verse" mid="v19106012">
+			</marker>
+			<v n="12">they<crossref let="c" cid="c19106012.2" />sang his praise .</v>
+			<marker class="begin-verse" mid="v19106013">
+			</marker>
+			<v n="13">they did not wait for<crossref let="e" cid="c19106013.2" />his counsel .</v>
+			<marker class="begin-verse" mid="v19106014">
+			</marker>
+			<v n="14">and<crossref let="g" cid="c19106014.2" />put God to the test in the desert ;</v>
+			<marker class="begin-verse" mid="v19106015">
+			</marker>
+			<v n="15">but sent<crossref let="i" cid="c19106015.2" />a wasting disease among them .</v>
+			<marker class="begin-verse" mid="v19106016">
+			</marker>
+			<v n="16">and Aaron ,<crossref let="k" cid="c19106016.2" />the holy one of the Lord ,</v>
+			<marker class="begin-verse" mid="v19106017">
+			</marker>
+			<v n="17">and covered the company of Abiram .</v>
+			<marker class="begin-verse" mid="v19106018">
+			</marker>
+			<v n="18">the flame burned up the wicked .</v>
+			<marker class="begin-verse" mid="v19106019">
+			</marker>
+			<v n="19">and worshiped a metal image .</v>
+			<marker class="begin-verse" mid="v19106020">
+			</marker>
+			<v n="20">for the image of an ox that eats grass .</v>
+			<marker class="begin-verse" mid="v19106021">
+			</marker>
+			<v n="21">who had done great things in Egypt ,</v>
+			<marker class="begin-verse" mid="v19106022">
+			</marker>
+			<v n="22">and awesome deeds by the Red Sea .</v>
+			<marker class="begin-verse" mid="v19106023">
+			</marker>
+			<v n="23">to turn away his wrath from destroying them .</v>
+			<marker class="begin-verse" mid="v19106024">
+			</marker>
+			<v n="24">having<crossref let="w" cid="c19106024.3" />no faith in his promise .</v>
+			<marker class="begin-verse" mid="v19106025">
+			</marker>
+			<v n="25">and did not obey the voice of the Lord .</v>
+			<marker class="begin-verse" mid="v19106026">
+			</marker>
+			<v n="26">that he would make them fall in the wilderness ,</v>
+			<marker class="begin-verse" mid="v19106027">
+			</marker>
+			<v n="27">
+				<crossref let="z" cid="c19106027.1" />scattering them among the lands .</v>
+			<marker class="begin-verse" mid="v19106028">
+			</marker>
+			<v n="28">and ate sacrifices offered to<crossref let="b" cid="c19106028.2" />the dead ;</v>
+			<marker class="begin-verse" mid="v19106029">
+			</marker>
+			<v n="29">and a plague broke out among them .</v>
+			<marker class="begin-verse" mid="v19106030">
+			</marker>
+			<v n="30">and the plague was stayed .</v>
+			<marker class="begin-verse" mid="v19106031">
+			</marker>
+			<v n="31">from generation to generation forever .</v>
+			<marker class="begin-verse" mid="v19106032">
+			</marker>
+			<v n="32">and it went ill with Moses on their account ,</v>
+			<marker class="begin-verse" mid="v19106033">
+			</marker>
+			<v n="33">and he<crossref let="g" cid="c19106033.2" />spoke rashly with his lips .</v>
+			<marker class="begin-verse" mid="v19106034">
+			</marker>
+			<v n="34">
+				<crossref let="i" cid="c19106034.2" />as the Lord commanded them ,</v>
+			<marker class="begin-verse" mid="v19106035">
+			</marker>
+			<v n="35">and learned to do as they did .</v>
+			<marker class="begin-verse" mid="v19106036">
+			</marker>
+			<v n="36">which became<crossref let="k" cid="c19106036.1" />a snare to them .</v>
+			<marker class="begin-verse" mid="v19106037">
+			</marker>
+			<v n="37">and their daughters to<crossref let="m" cid="c19106037.2" />the demons ;</v>
+			<marker class="begin-verse" mid="v19106038">
+			</marker>
+			<v n="38">and the land was<crossref let="n" cid="c19106038.1" />polluted with blood .</v>
+			<marker class="begin-verse" mid="v19106039">
+			</marker>
+			<v n="39">and<crossref let="p" cid="c19106039.2" />played the whore in their deeds .</v>
+			<marker class="begin-verse" mid="v19106040">
+			</marker>
+			<v n="40">and he abhorred his<crossref let="r" cid="c19106040.2" />heritage ;</v>
+			<marker class="begin-verse" mid="v19106041">
+			</marker>
+			<v n="41">so that those who hated them ruled over them .</v>
+			<marker class="begin-verse" mid="v19106042">
+			</marker>
+			<v n="42">and they were brought into subjection under their power .</v>
+			<marker class="begin-verse" mid="v19106043">
+			</marker>
+			<v n="43">and were<crossref let="w" cid="c19106043.3" />brought low through their iniquity .</v>
+			<marker class="begin-verse" mid="v19106044">
+			</marker>
+			<v n="44">when he<crossref let="x" cid="c19106044.1" />heard their cry .</v>
+			<marker class="begin-verse" mid="v19106045">
+			</marker>
+			<v n="45">and<crossref let="z" cid="c19106045.3" />relented according to<crossref let="a" cid="c19106045.1" />the abundance of his steadfast love .</v>
+			<marker class="begin-verse" mid="v19106046">
+			</marker>
+			<v n="46">by all those who held them captive .</v>
+			<marker class="begin-verse" mid="v19106047">
+			</marker>
+			<v n="47">and glory in your praise .</v>
+			<marker class="begin-verse" mid="v19106048">
+			</marker>
+			<v n="48">
+				<crossref let="f" cid="c19106048.2" />Praise the Lord !</v>
+			<marker class="begin-verse" mid="v19106049">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">106:4 Or *Remember me, O Lord, with the favor you show to your people; help me with your salvation*</footnote>
+				<footnote id="2">106:20 Hebrew *exchanged their glory*</footnote>
+				<footnote id="3">106:33 Or *they rebelled against God’s Spirit*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

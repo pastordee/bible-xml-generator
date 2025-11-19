@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:57:55.014051</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:57:55.014060</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" bookAbbr="hos" version="ESV">
+		<marker class="begin-verse" mid="v28004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				Hosea 4
+			</heading>
+			<heading>
+				The LORD Accuses Israel
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">no knowledge of God in the land;</v>
+			<marker class="begin-verse" mid="v28004002">
+			</marker>
+			<v n="2">bloodshed follows bloodshed.</v>
+			<marker class="begin-verse" mid="v28004003">
+			</marker>
+			<v n="3">and even the fish of the sea are taken away.</v>
+			<marker class="begin-verse" mid="v28004004">
+			</marker>
+			<v n="4">my contention, O priest.</v>
+			<marker class="begin-verse" mid="v28004005">
+			</marker>
+			<v n="5">your mother.</v>
+			<marker class="begin-verse" mid="v28004006">
+			</marker>
+			<v n="6">I also will forget your children.</v>
+			<marker class="begin-verse" mid="v28004007">
+			</marker>
+			<v n="7">I will change their glory into shame.</v>
+			<marker class="begin-verse" mid="v28004008">
+			</marker>
+			<v n="8">they are greedy for their iniquity.</v>
+			<marker class="begin-verse" mid="v28004009">
+			</marker>
+			<v n="9">and repay them for their deeds.</v>
+			<marker class="begin-verse" mid="v28004010">
+			</marker>
+			<v n="10">to cherish</v>
+			<marker class="begin-verse" mid="v28004011">
+			</marker>
+			<v n="11">take away the understanding.</v>
+			<marker class="begin-verse" mid="v28004012">
+			</marker>
+			<v n="12">and they have left their God to play the whore.</v>
+			<marker class="begin-verse" mid="v28004013">
+			</marker>
+			<v n="13">and your brides commit adultery.</v>
+			<marker class="begin-verse" mid="v28004014">
+			</marker>
+			<v n="14">without understanding shall come to ruin.</v>
+			<marker class="begin-verse" mid="v28004015">
+			</marker>
+			<v n="15">and swear not, “As the Lord lives.”</v>
+			<marker class="begin-verse" mid="v28004016">
+			</marker>
+			<v n="16">like a lamb in a broad pasture?</v>
+			<marker class="begin-verse" mid="v28004017">
+			</marker>
+			<v n="17">leave him alone.</v>
+			<marker class="begin-verse" mid="v28004018">
+			</marker>
+			<v n="18">their rulers dearly love shame.</v>
+			<marker class="begin-verse" mid="v28004019">
+			</marker>
+			<v n="19">be ashamed because of their sacrifices.</v>
+			<marker class="begin-verse" mid="v28004020">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">4:4 Or *for your people are like those who contend with the priest*</footnote>
+				<footnote id="2">4:8 Or *sin offering*</footnote>
+				<footnote id="3">4:18 Hebrew *shields*</footnote>
+				<footnote id="4">4:19 Hebrew *her*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

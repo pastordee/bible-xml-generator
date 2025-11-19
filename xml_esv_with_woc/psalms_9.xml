@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:22.818866</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:22.818874</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19009001">
+		</marker>
+		<chapter num="9">
+			<heading>
+				Psalm 9
+			</heading>
+			<heading>
+				I Will Recount Your Wonderful Deeds
+			</heading>
+			<heading>
+				(1) To the choirmaster: according to Muth-labben.(2) A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">wonderful deeds.</v>
+			<marker class="begin-verse" mid="v19009002">
+			</marker>
+			<v n="2">O Most High.</v>
+			<marker class="begin-verse" mid="v19009003">
+			</marker>
+			<v n="3">they stumble and perish before your presence.</v>
+			<marker class="begin-verse" mid="v19009004">
+			</marker>
+			<v n="4">sat on the throne, giving righteous judgment.</v>
+			<marker class="begin-verse" mid="v19009005">
+			</marker>
+			<v n="5">blotted out their name forever and ever.</v>
+			<marker class="begin-verse" mid="v19009006">
+			</marker>
+			<v n="6">the very memory of them has perished.</v>
+			<marker class="begin-verse" mid="v19009007">
+			</marker>
+			<v n="7">he has established his throne for justice,</v>
+			<marker class="begin-verse" mid="v19009008">
+			</marker>
+			<v n="8">judges the peoples with uprightness.</v>
+			<marker class="begin-verse" mid="v19009009">
+			</marker>
+			<v n="9">times of trouble.</v>
+			<marker class="begin-verse" mid="v19009010">
+			</marker>
+			<v n="10">for you, O Lord , have not forsaken those who seek you.</v>
+			<marker class="begin-verse" mid="v19009011">
+			</marker>
+			<v n="11">deeds!</v>
+			<marker class="begin-verse" mid="v19009012">
+			</marker>
+			<v n="12">does not forget the cry of the afflicted.</v>
+			<marker class="begin-verse" mid="v19009013">
+			</marker>
+			<v n="13">the gates of death,</v>
+			<marker class="begin-verse" mid="v19009014">
+			</marker>
+			<v n="14">rejoice in your salvation.</v>
+			<marker class="begin-verse" mid="v19009015">
+			</marker>
+			<v n="15">the net that they hid, their own foot has been caught.</v>
+			<marker class="begin-verse" mid="v19009016">
+			</marker>
+			<v n="16">the wicked are snared in the work of their own hands. Higgaion.[d]Selah</v>
+			<marker class="begin-verse" mid="v19009017">
+			</marker>
+			<v n="17">forget God.</v>
+			<marker class="begin-verse" mid="v19009018">
+			</marker>
+			<v n="18">the hope of the poor shall not perish forever.</v>
+			<marker class="begin-verse" mid="v19009019">
+			</marker>
+			<v n="19">let the nations be judged before you!</v>
+			<marker class="begin-verse" mid="v19009020">
+			</marker>
+			<v n="20">men! Selah</v>
+			<marker class="begin-verse" mid="v19009021">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">9:1 Psalms 9 and 10 together follow an acrostic pattern, each stanza beginning with the successive letters of the Hebrew alphabet. In the Septuagint they form one psalm</footnote>
+				<footnote id="2">9:1 Probably a musical or liturgical term</footnote>
+				<footnote id="3">9:3 Or *because of*</footnote>
+				<footnote id="4">9:16 Probably a musical or liturgical term</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

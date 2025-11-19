@@ -1,0 +1,123 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:05.276913</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:05.276921</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18039001">
+		</marker>
+		<chapter num="39">
+			<heading>
+				Job 39
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Do you observe<crossref let="g" cid="c18039001.2" />the calving of the does?</v>
+			<marker class="begin-verse" mid="v18039002">
+			</marker>
+			<v n="2">and do you know the time when they give birth,</v>
+			<marker class="begin-verse" mid="v18039003">
+			</marker>
+			<v n="3">and are delivered of their young?</v>
+			<marker class="begin-verse" mid="v18039004">
+			</marker>
+			<v n="4">they go out and<crossref let="i" cid="c18039004.1" />do not return to them.</v>
+			<marker class="begin-verse" mid="v18039005">
+			</marker>
+			<v n="5">Who has<crossref let="j" cid="c18039005.1" />loosed the bonds of the swift donkey,</v>
+			<marker class="begin-verse" mid="v18039006">
+			</marker>
+			<v n="6">and<crossref let="l" cid="c18039006.2" />the salt land for his dwelling place?</v>
+			<marker class="begin-verse" mid="v18039007">
+			</marker>
+			<v n="7">he hears not the shouts of the driver.</v>
+			<marker class="begin-verse" mid="v18039008">
+			</marker>
+			<v n="8">and he searches after every green thing.</v>
+			<marker class="begin-verse" mid="v18039009">
+			</marker>
+			<v n="9">Will he spend the night at your<crossref let="n" cid="c18039009.2" />manger?</v>
+			<marker class="begin-verse" mid="v18039010">
+			</marker>
+			<v n="10">or will he harrow the valleys after you?</v>
+			<marker class="begin-verse" mid="v18039011">
+			</marker>
+			<v n="11">and will you leave to him your labor?</v>
+			<marker class="begin-verse" mid="v18039012">
+			</marker>
+			<v n="12">and gather it to your threshing floor?</v>
+			<marker class="begin-verse" mid="v18039013">
+			</marker>
+			<v n="13">but are they the pinions and plumage of love?</v>
+			<marker class="begin-verse" mid="v18039014">
+			</marker>
+			<v n="14">and lets them be warmed on the ground,</v>
+			<marker class="begin-verse" mid="v18039015">
+			</marker>
+			<v n="15">and that the wild beast may trample them.</v>
+			<marker class="begin-verse" mid="v18039016">
+			</marker>
+			<v n="16">labor be in vain, yet she has no fear,</v>
+			<marker class="begin-verse" mid="v18039017">
+			</marker>
+			<v n="17">given her no share in understanding.</v>
+			<marker class="begin-verse" mid="v18039018">
+			</marker>
+			<v n="18">she laughs at the horse and his rider.</v>
+			<marker class="begin-verse" mid="v18039019">
+			</marker>
+			<v n="19">Do you clothe his neck with a mane?</v>
+			<marker class="begin-verse" mid="v18039020">
+			</marker>
+			<v n="20">snorting is terrifying.</v>
+			<marker class="begin-verse" mid="v18039021">
+			</marker>
+			<v n="21">goes out to meet the weapons.</v>
+			<marker class="begin-verse" mid="v18039022">
+			</marker>
+			<v n="22">he does not turn back from the sword.</v>
+			<marker class="begin-verse" mid="v18039023">
+			</marker>
+			<v n="23">the flashing spear, and the javelin.</v>
+			<marker class="begin-verse" mid="v18039024">
+			</marker>
+			<v n="24">the sound of the trumpet.</v>
+			<marker class="begin-verse" mid="v18039025">
+			</marker>
+			<v n="25">the thunder of the captains, and the shouting.</v>
+			<marker class="begin-verse" mid="v18039026">
+			</marker>
+			<v n="26">and spreads his wings toward the south?</v>
+			<marker class="begin-verse" mid="v18039027">
+			</marker>
+			<v n="27">nest on high?</v>
+			<marker class="begin-verse" mid="v18039028">
+			</marker>
+			<v n="28">the rocky crag and stronghold.</v>
+			<marker class="begin-verse" mid="v18039029">
+			</marker>
+			<v n="29">his eyes behold it from far away.</v>
+			<marker class="begin-verse" mid="v18039030">
+			</marker>
+			<v n="30">where the slain are, there is he.”</v>
+			<marker class="begin-verse" mid="v18039031">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">39:13 The meaning of the Hebrew is uncertain</footnote>
+				<footnote id="2">39:18 The meaning of the Hebrew is uncertain</footnote>
+				<footnote id="3">39:21 Hebrew *They paw*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

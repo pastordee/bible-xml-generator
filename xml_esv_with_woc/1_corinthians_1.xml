@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:17.218588</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:17.218612</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" bookAbbr="1co" version="ESV">
+		<marker class="begin-verse" mid="v46001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				1 Corinthians 1
+			</heading>
+			<heading>
+				Greeting
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">1 Paul,<crossref let="a" cid="c46001001.1" />called<crossref let="b" cid="c46001001.2" />by the will of God to be an apostle of Christ Jesus, and our brother Sosthenes,</v>
+			<marker class="begin-verse" mid="v46001002">
+			</marker>
+			<v n="2">To the church of God that is in Corinth, to those<crossref let="c" cid="c46001002.1" />sanctified in Christ Jesus,<crossref let="d" cid="c46001002.2" />called to be saints together with all those who in every place<crossref let="e" cid="c46001002.3" />call upon the name of our Lord Jesus Christ, both their Lord and ours:</v>
+			<marker class="begin-verse" mid="v46001003">
+			</marker>
+			<v n="3">Grace to you and peace from God our Father and the Lord Jesus Christ.</v>
+			<marker class="begin-verse" mid="v46001004">
+			</marker>
+			<v n="4">give thanks to my God always for you because of the grace of God that was given you in Christ Jesus,</v>
+			<marker class="begin-verse" mid="v46001005">
+			</marker>
+			<v n="5">that in every way<crossref let="h" cid="c46001005.2" />you were enriched in him in all speech and all knowledge—</v>
+			<marker class="begin-verse" mid="v46001006">
+			</marker>
+			<v n="6">the testimony about Christ was confirmed among you—</v>
+			<marker class="begin-verse" mid="v46001007">
+			</marker>
+			<v n="7">wait for the revealing of our Lord Jesus Christ,</v>
+			<marker class="begin-verse" mid="v46001008">
+			</marker>
+			<v n="8">
+				<crossref let="l" cid="c46001008.2" />who will sustain you to the end,<crossref let="m" cid="c46001008.3" />guiltless in the day of our Lord Jesus Christ.</v>
+			<marker class="begin-verse" mid="v46001009">
+			</marker>
+			<v n="9">
+				<crossref let="o" cid="c46001009.2" />God is faithful, by whom you were called into the fellowship of his Son, Jesus Christ our Lord.</v>
+			<marker class="begin-verse" mid="v46001010">
+			</marker>
+			<v n="10">I appeal to you, brothers, by the name of our Lord Jesus Christ, that all of you agree, and that there be no<crossref let="q" cid="c46001010.2" />divisions among you, but that you be united in the same mind and the same judgment.</v>
+			<marker class="begin-verse" mid="v46001011">
+			</marker>
+			<v n="11">quarreling among you, my brothers.</v>
+			<marker class="begin-verse" mid="v46001012">
+			</marker>
+			<v n="12">What I mean is that<crossref let="t" cid="c46001012.2" />each one of you says, “I follow Paul,” or “I follow<crossref let="u" cid="c46001012.3" />Apollos,” or “I follow Cephas,” or “I follow Christ.”</v>
+			<marker class="begin-verse" mid="v46001013">
+			</marker>
+			<v n="13">
+				<crossref let="w" cid="c46001013.2" />Is Christ divided? Was Paul crucified for you? Or were you baptized in the name of Paul?</v>
+			<marker class="begin-verse" mid="v46001014">
+			</marker>
+			<v n="14">I thank God that I baptized none of you except<crossref let="y" cid="c46001014.2" />Crispus and Gaius,</v>
+			<marker class="begin-verse" mid="v46001015">
+			</marker>
+			<v n="15">so that no one may say that you were baptized in my name.</v>
+			<marker class="begin-verse" mid="v46001016">
+			</marker>
+			<v n="16">the household of Stephanas. Beyond that, I do not know whether I baptized anyone else.)</v>
+			<marker class="begin-verse" mid="v46001017">
+			</marker>
+			<v n="17">not with words of eloquent wisdom, lest the cross of Christ be emptied of its power.</v>
+			<marker class="begin-verse" mid="v46001018">
+			</marker>
+			<v n="18">the power of God.</v>
+			<marker class="begin-verse" mid="v46001019">
+			</marker>
+			<v n="19">and the discernment of the discerning I will thwart.”</v>
+			<marker class="begin-verse" mid="v46001020">
+			</marker>
+			<v n="20">Has not God made foolish the wisdom of the world?</v>
+			<marker class="begin-verse" mid="v46001021">
+			</marker>
+			<v n="21">For since, in the wisdom of God, the world did not know God through wisdom, it pleased God through the folly of what we preach to save those who believe.</v>
+			<marker class="begin-verse" mid="v46001022">
+			</marker>
+			<v n="22">Jews demand signs and Greeks seek wisdom,</v>
+			<marker class="begin-verse" mid="v46001023">
+			</marker>
+			<v n="23">crucified, a stumbling block to Jews and folly to Gentiles,</v>
+			<marker class="begin-verse" mid="v46001024">
+			</marker>
+			<v n="24">the wisdom of God.</v>
+			<marker class="begin-verse" mid="v46001025">
+			</marker>
+			<v n="25">For the foolishness of God is wiser than men, and the weakness of God is stronger than men.</v>
+			<marker class="begin-verse" mid="v46001026">
+			</marker>
+			<v n="26">not many of you were wise according to worldly standards, not many were powerful, not many were of noble birth.</v>
+			<marker class="begin-verse" mid="v46001027">
+			</marker>
+			<v n="27">God chose what is weak in the world to shame the strong;</v>
+			<marker class="begin-verse" mid="v46001028">
+			</marker>
+			<v n="28">bring to nothing things that are,</v>
+			<marker class="begin-verse" mid="v46001029">
+			</marker>
+			<v n="29">that no human being might boast in the presence of God.</v>
+			<marker class="begin-verse" mid="v46001030">
+			</marker>
+			<v n="30">redemption,</v>
+			<marker class="begin-verse" mid="v46001031">
+			</marker>
+			<v n="31">“Let the one who boasts, boast in the Lord.”</v>
+			<marker class="begin-verse" mid="v46001032">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:10 Or *brothers and sisters*. In New Testament usage, depending on the context, the plural Greek word *adelphoi* (translated “brothers”) may refer either to *brothers* or to *brothers and sisters*; also verses 11, 26</footnote>
+				<footnote id="2">1:21 Or *the folly of preaching*</footnote>
+				<footnote id="3">1:26 Greek *according to the flesh*</footnote>
+				<footnote id="4">1:29 Greek *no flesh*</footnote>
+				<footnote id="5">1:30 Greek *And from him*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

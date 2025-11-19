@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:56:48.992527</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:56:48.992550</next_refresh_due>
+	</generation_info>
+	<book title="Ezekiel" num="26" testament="old" bookAbbr="ezk" version="ESV">
+		<marker class="begin-verse" mid="v26019001">
+		</marker>
+		<chapter num="19">
+			<heading>
+				Ezekiel 19
+			</heading>
+			<heading>
+				A Lament for the Princes of Israel
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">And you ,<crossref let="x" cid="c26019001.1" />take up a lamentation for the princes of Israel ,</v>
+			<marker class="begin-verse" mid="v26019002">
+			</marker>
+			<v n="2">she reared her cubs .</v>
+			<marker class="begin-verse" mid="v26019003">
+			</marker>
+			<v n="3">he devoured men .</v>
+			<marker class="begin-verse" mid="v26019004">
+			</marker>
+			<v n="4">to the land of Egypt .</v>
+			<marker class="begin-verse" mid="v26019005">
+			</marker>
+			<v n="5">and made him a young lion .</v>
+			<marker class="begin-verse" mid="v26019006">
+			</marker>
+			<v n="6">he devoured men ,</v>
+			<marker class="begin-verse" mid="v26019007">
+			</marker>
+			<v n="7">at the sound of his roaring .</v>
+			<marker class="begin-verse" mid="v26019008">
+			</marker>
+			<v n="8">
+				<crossref let="b" cid="c26019008.1" />he was taken in their pit .</v>
+			<marker class="begin-verse" mid="v26019009">
+			</marker>
+			<v n="9">on<crossref let="h" cid="c26019009.3" />the mountains of Israel .</v>
+			<marker class="begin-verse" mid="v26019010">
+			</marker>
+			<v n="10">
+				<crossref let="k" cid="c26019010.3" />by reason of abundant water .</v>
+			<marker class="begin-verse" mid="v26019011">
+			</marker>
+			<v n="11">with the mass of its branches .</v>
+			<marker class="begin-verse" mid="v26019012">
+			</marker>
+			<v n="12">fire consumed it .</v>
+			<marker class="begin-verse" mid="v26019013">
+			</marker>
+			<v n="13">in a dry and thirsty land .</v>
+			<marker class="begin-verse" mid="v26019014">
+			</marker>
+			<v n="14">This is<crossref let="p" cid="c26019014.3" />a lamentation and has become a lamentation .</v>
+			<marker class="begin-verse" mid="v26019015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">19:7 Hebrew *knew*</footnote>
+				<footnote id="2">19:9 Or *in a wooden collar*</footnote>
+				<footnote id="3">19:10 Some Hebrew manuscripts; most Hebrew manuscripts *in your blood*</footnote>
+				<footnote id="4">19:11 Or *the clouds*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

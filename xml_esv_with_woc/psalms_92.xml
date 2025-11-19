@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:15.337500</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:15.337524</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19092001">
+		</marker>
+		<chapter num="92">
+			<heading>
+				Psalm 92
+			</heading>
+			<heading>
+				How Great Are Your Works
+			</heading>
+			<heading>
+				A Psalm. A Song for the Sabbath.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">O Most High;</v>
+			<marker class="begin-verse" mid="v19092002">
+			</marker>
+			<v n="2">and your<crossref let="h" cid="c19092002.1" />faithfulness by<crossref let="i" cid="c19092002.2" />night,</v>
+			<marker class="begin-verse" mid="v19092003">
+			</marker>
+			<v n="3">the lyre.</v>
+			<marker class="begin-verse" mid="v19092004">
+			</marker>
+			<v n="4">the works of your hands I sing for joy.</v>
+			<marker class="begin-verse" mid="v19092005">
+			</marker>
+			<v n="5">deep!</v>
+			<marker class="begin-verse" mid="v19092006">
+			</marker>
+			<v n="6">the fool cannot understand this:</v>
+			<marker class="begin-verse" mid="v19092007">
+			</marker>
+			<v n="7">they are doomed to destruction forever;</v>
+			<marker class="begin-verse" mid="v19092008">
+			</marker>
+			<v n="8">on high forever.</v>
+			<marker class="begin-verse" mid="v19092009">
+			</marker>
+			<v n="9">scattered.</v>
+			<marker class="begin-verse" mid="v19092010">
+			</marker>
+			<v n="10">poured over me fresh oil.</v>
+			<marker class="begin-verse" mid="v19092011">
+			</marker>
+			<v n="11">my ears have heard the doom of my evil assailants.</v>
+			<marker class="begin-verse" mid="v19092012">
+			</marker>
+			<v n="12">and grow like a cedar in Lebanon.</v>
+			<marker class="begin-verse" mid="v19092013">
+			</marker>
+			<v n="13">the courts of our God.</v>
+			<marker class="begin-verse" mid="v19092014">
+			</marker>
+			<v n="14">they are ever full of sap and green,</v>
+			<marker class="begin-verse" mid="v19092015">
+			</marker>
+			<v n="15">no unrighteousness in him.</v>
+			<marker class="begin-verse" mid="v19092016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">92:10 Compare Syriac; the meaning of the Hebrew is uncertain</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:03:36.886279</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:03:36.886292</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" bookAbbr="zec" version="ESV">
+		<marker class="begin-verse" mid="v38002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Zechariah 2
+			</heading>
+			<heading>
+				A Vision of a Man with a Measuring Line
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">a man with a measuring line in his hand!</v>
+			<marker class="begin-verse" mid="v38002002">
+			</marker>
+			<v n="2">“To measure Jerusalem, to see what is its width and what is its length.”</v>
+			<marker class="begin-verse" mid="v38002003">
+			</marker>
+			<v n="3">the angel who talked with me came forward, and another angel came forward to meet him</v>
+			<marker class="begin-verse" mid="v38002004">
+			</marker>
+			<v n="4">the multitude of people and livestock in it.</v>
+			<marker class="begin-verse" mid="v38002005">
+			</marker>
+			<v n="5">a wall of fire all around, declares the Lord , and I will be the glory in her midst.’”</v>
+			<marker class="begin-verse" mid="v38002006">
+			</marker>
+			<v n="6">spread you abroad as the four winds of the heavens, declares the Lord .</v>
+			<marker class="begin-verse" mid="v38002007">
+			</marker>
+			<v n="7">Up! Escape to Zion, you who dwell with the daughter of Babylon.</v>
+			<marker class="begin-verse" mid="v38002008">
+			</marker>
+			<v n="8">the apple of his eye:</v>
+			<marker class="begin-verse" mid="v38002009">
+			</marker>
+			<v n="9">you will know that the Lord of hosts has sent me.</v>
+			<marker class="begin-verse" mid="v38002010">
+			</marker>
+			<v n="10">and I will dwell in your midst, declares the Lord .</v>
+			<marker class="begin-verse" mid="v38002011">
+			</marker>
+			<v n="11">you shall know that the Lord of hosts has sent me to you.</v>
+			<marker class="begin-verse" mid="v38002012">
+			</marker>
+			<v n="12">choose Jerusalem.”</v>
+			<marker class="begin-verse" mid="v38002013">
+			</marker>
+			<v n="13">Be silent, all flesh, before the Lord , for he has roused himself from his holy dwelling.</v>
+			<marker class="begin-verse" mid="v38002014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">2:1 Ch 2:5 in Hebrew</footnote>
+				<footnote id="2">2:8 Or *he sent me after glory*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

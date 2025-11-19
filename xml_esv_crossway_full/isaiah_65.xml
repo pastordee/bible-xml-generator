@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:54:56.481022</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:54:56.481031</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23065001">
+		</marker>
+		<chapter num="65">
+			<heading>
+				Isaiah 65
+			</heading>
+			<heading>
+				Judgment and Salvation
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">to a nation that was not called by my name .</v>
+			<marker class="begin-verse" mid="v23065002">
+			</marker>
+			<v n="2">following their own devices ;</v>
+			<marker class="begin-verse" mid="v23065003">
+			</marker>
+			<v n="3">and making offerings on bricks ;</v>
+			<marker class="begin-verse" mid="v23065004">
+			</marker>
+			<v n="4">and broth of tainted meat is in their vessels ;</v>
+			<marker class="begin-verse" mid="v23065005">
+			</marker>
+			<v n="5">a fire that burns all the day .</v>
+			<marker class="begin-verse" mid="v23065006">
+			</marker>
+			<v n="6">
+				<crossref let="o" cid="c23065006.3" />I will indeed repay into their lap</v>
+			<marker class="begin-verse" mid="v23065007">
+			</marker>
+			<v n="7">payment for their former deeds . ”</v>
+			<marker class="begin-verse" mid="v23065008">
+			</marker>
+			<v n="8">
+				<crossref let="s" cid="c23065008.2" />and not destroy them all .</v>
+			<marker class="begin-verse" mid="v23065009">
+			</marker>
+			<v n="9">and my servants shall dwell there .</v>
+			<marker class="begin-verse" mid="v23065010">
+			</marker>
+			<v n="10">for my people<crossref let="w" cid="c23065010.3" />who have sought me .</v>
+			<marker class="begin-verse" mid="v23065011">
+			</marker>
+			<v n="11">and<crossref let="z" cid="c23065011.3" />fill cups of mixed wine for Destiny ,</v>
+			<marker class="begin-verse" mid="v23065012">
+			</marker>
+			<v n="12">and chose what I did not delight in . ”</v>
+			<marker class="begin-verse" mid="v23065013">
+			</marker>
+			<v n="13">but you shall be put to shame ;</v>
+			<marker class="begin-verse" mid="v23065014">
+			</marker>
+			<v n="14">and shall wail for breaking of spirit .</v>
+			<marker class="begin-verse" mid="v23065015">
+			</marker>
+			<v n="15">but his servants<crossref let="g" cid="c23065015.3" />he will call by another name ,</v>
+			<marker class="begin-verse" mid="v23065016">
+			</marker>
+			<v n="16">and are hidden from my eyes .</v>
+			<marker class="begin-verse" mid="v23065017">
+			</marker>
+			<v n="17">or come into mind .</v>
+			<marker class="begin-verse" mid="v23065018">
+			</marker>
+			<v n="18">and her people to be a gladness .</v>
+			<marker class="begin-verse" mid="v23065019">
+			</marker>
+			<v n="19">and the cry of distress .</v>
+			<marker class="begin-verse" mid="v23065020">
+			</marker>
+			<v n="20">and<crossref let="p" cid="c23065020.2" />the sinner a hundred years old shall be accursed .</v>
+			<marker class="begin-verse" mid="v23065021">
+			</marker>
+			<v n="21">they shall plant vineyards and eat their fruit .</v>
+			<marker class="begin-verse" mid="v23065022">
+			</marker>
+			<v n="22">and my chosen shall long enjoy the work of their hands .</v>
+			<marker class="begin-verse" mid="v23065023">
+			</marker>
+			<v n="23">and their descendants with them .</v>
+			<marker class="begin-verse" mid="v23065024">
+			</marker>
+			<v n="24">
+				<crossref let="w" cid="c23065024.2" />while they are yet speaking I will hear .</v>
+			<marker class="begin-verse" mid="v23065025">
+			</marker>
+			<v n="25">says the Lord .</v>
+			<marker class="begin-verse" mid="v23065026">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">65:1 Or *that did not call upon*</footnote>
+				<footnote id="2">65:7 Or *I will first measure their payment into their lap*</footnote>
+				<footnote id="3">65:22 Hebrew *shall wear out*</footnote>
+				<footnote id="4">65:23 Or *for sudden terror*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:48.522764</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:48.522785</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19033001">
+		</marker>
+		<chapter num="33">
+			<heading>
+				Psalm 33
+			</heading>
+			<heading>
+				The Steadfast Love of the LORD
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="i" cid="c19033001.2" />Praise befits the upright .</v>
+			<marker class="begin-verse" mid="v19033002">
+			</marker>
+			<v n="2">make melody to him with<crossref let="j" cid="c19033002.1" />the harp of<crossref let="k" cid="c19033002.2" />ten strings !</v>
+			<marker class="begin-verse" mid="v19033003">
+			</marker>
+			<v n="3">play skillfully on the strings , with loud shouts .</v>
+			<marker class="begin-verse" mid="v19033004">
+			</marker>
+			<v n="4">and all his work is done in<crossref let="m" cid="c19033004.1" />faithfulness .</v>
+			<marker class="begin-verse" mid="v19033005">
+			</marker>
+			<v n="5">
+				<crossref let="o" cid="c19033005.2" />the earth is full of the steadfast love of the Lord .</v>
+			<marker class="begin-verse" mid="v19033006">
+			</marker>
+			<v n="6">and by<crossref let="q" cid="c19033006.2" />the breath of his mouth all<crossref let="r" cid="c19033006.3" />their host .</v>
+			<marker class="begin-verse" mid="v19033007">
+			</marker>
+			<v n="7">he<crossref let="t" cid="c19033007.2" />puts the deeps in storehouses .</v>
+			<marker class="begin-verse" mid="v19033008">
+			</marker>
+			<v n="8">let all the inhabitants of the world stand in awe of him !</v>
+			<marker class="begin-verse" mid="v19033009">
+			</marker>
+			<v n="9">he commanded , and it stood firm .</v>
+			<marker class="begin-verse" mid="v19033010">
+			</marker>
+			<v n="10">he frustrates the plans of the peoples .</v>
+			<marker class="begin-verse" mid="v19033011">
+			</marker>
+			<v n="11">the plans of his heart to all generations .</v>
+			<marker class="begin-verse" mid="v19033012">
+			</marker>
+			<v n="12">the people whom he has<crossref let="y" cid="c19033012.2" />chosen as his heritage !</v>
+			<marker class="begin-verse" mid="v19033013">
+			</marker>
+			<v n="13">he sees all the children of man ;</v>
+			<marker class="begin-verse" mid="v19033014">
+			</marker>
+			<v n="14">on all the inhabitants of the earth ,</v>
+			<marker class="begin-verse" mid="v19033015">
+			</marker>
+			<v n="15">and observes all their deeds .</v>
+			<marker class="begin-verse" mid="v19033016">
+			</marker>
+			<v n="16">a warrior is not delivered by his great strength .</v>
+			<marker class="begin-verse" mid="v19033017">
+			</marker>
+			<v n="17">and by its great might it cannot rescue .</v>
+			<marker class="begin-verse" mid="v19033018">
+			</marker>
+			<v n="18">
+				<crossref let="f" cid="c19033018.2" />on those who hope in his steadfast love ,</v>
+			<marker class="begin-verse" mid="v19033019">
+			</marker>
+			<v n="19">and keep them alive in<crossref let="h" cid="c19033019.2" />famine .</v>
+			<marker class="begin-verse" mid="v19033020">
+			</marker>
+			<v n="20">he is our<crossref let="j" cid="c19033020.2" />help and<crossref let="k" cid="c19033020.3" />our shield .</v>
+			<marker class="begin-verse" mid="v19033021">
+			</marker>
+			<v n="21">because we<crossref let="m" cid="c19033021.2" />trust in his holy name .</v>
+			<marker class="begin-verse" mid="v19033022">
+			</marker>
+			<v n="22">even as we hope in you .</v>
+			<marker class="begin-verse" mid="v19033023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

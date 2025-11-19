@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:31.734512</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:31.734520</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" bookAbbr="ecc" version="ESV">
+		<marker class="begin-verse" mid="v21004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				Ecclesiastes 4
+			</heading>
+			<heading>
+				Evil Under the Sun
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">no one to comfort them! On the side of their oppressors there was power, and there was no one to comfort them.</v>
+			<marker class="begin-verse" mid="v21004002">
+			</marker>
+			<v n="2">thought the dead who are already dead more fortunate than the living who are still alive.</v>
+			<marker class="begin-verse" mid="v21004003">
+			</marker>
+			<v n="3">better than both is he who has not yet been and has not seen the evil deeds that are done under the sun.</v>
+			<marker class="begin-verse" mid="v21004004">
+			</marker>
+			<v n="4">vanity and a striving after wind.</v>
+			<marker class="begin-verse" mid="v21004005">
+			</marker>
+			<v n="5">eats his own flesh.</v>
+			<marker class="begin-verse" mid="v21004006">
+			</marker>
+			<v n="6">quietness than two hands full of toil and a striving after wind.</v>
+			<marker class="begin-verse" mid="v21004007">
+			</marker>
+			<v n="7">Again, I saw vanity under the sun:</v>
+			<marker class="begin-verse" mid="v21004008">
+			</marker>
+			<v n="8">business.</v>
+			<marker class="begin-verse" mid="v21004009">
+			</marker>
+			<v n="9">Two are better than one, because they have a good reward for their toil.</v>
+			<marker class="begin-verse" mid="v21004010">
+			</marker>
+			<v n="10">For if they fall, one will lift up his fellow. But woe to him who is alone when he falls and has not another to lift him up!</v>
+			<marker class="begin-verse" mid="v21004011">
+			</marker>
+			<v n="11">but how can one keep warm alone?</v>
+			<marker class="begin-verse" mid="v21004012">
+			</marker>
+			<v n="12">And though a man might prevail against one who is alone, two will withstand him—a threefold cord is not quickly broken.</v>
+			<marker class="begin-verse" mid="v21004013">
+			</marker>
+			<v n="13">to take advice.</v>
+			<marker class="begin-verse" mid="v21004014">
+			</marker>
+			<v n="14">from prison to the throne, though in his own kingdom he had been born poor.</v>
+			<marker class="begin-verse" mid="v21004015">
+			</marker>
+			<v n="15">I saw all the living who move about under the sun, along with that youth who was to stand in the king's place.</v>
+			<marker class="begin-verse" mid="v21004016">
+			</marker>
+			<v n="16">vanity and a striving after wind.</v>
+			<marker class="begin-verse" mid="v21004017">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">4:4 The Hebrew term *hebel* can refer to a “vapor” or “mere breath”; also verses 7, 8, 16 (see note on 1:2)</footnote>
+				<footnote id="2">4:15 Hebrew *the second*</footnote>
+				<footnote id="3">4:15 Hebrew *his*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

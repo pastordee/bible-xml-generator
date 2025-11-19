@@ -1,0 +1,107 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:20.922083</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:20.922105</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19055001">
+		</marker>
+		<chapter num="55">
+			<heading>
+				Psalm 55
+			</heading>
+			<heading>
+				Cast Your Burden on the LORD
+			</heading>
+			<heading>
+				To the choirmaster: with stringed instruments. A Maskil(1) of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and hide not yourself from my plea for mercy!</v>
+			<marker class="begin-verse" mid="v19055002">
+			</marker>
+			<v n="2">moan,</v>
+			<marker class="begin-verse" mid="v19055003">
+			</marker>
+			<v n="3">and in anger they bear a grudge against me.</v>
+			<marker class="begin-verse" mid="v19055004">
+			</marker>
+			<v n="4">the terrors of death have fallen upon me.</v>
+			<marker class="begin-verse" mid="v19055005">
+			</marker>
+			<v n="5">overwhelms me.</v>
+			<marker class="begin-verse" mid="v19055006">
+			</marker>
+			<v n="6">I would fly away and be at rest;</v>
+			<marker class="begin-verse" mid="v19055007">
+			</marker>
+			<v n="7">I would lodge in the wilderness; Selah</v>
+			<marker class="begin-verse" mid="v19055008">
+			</marker>
+			<v n="8">the raging wind and tempest.”</v>
+			<marker class="begin-verse" mid="v19055009">
+			</marker>
+			<v n="9">violence and strife in the city.</v>
+			<marker class="begin-verse" mid="v19055010">
+			</marker>
+			<v n="10">iniquity and trouble are within it;</v>
+			<marker class="begin-verse" mid="v19055011">
+			</marker>
+			<v n="11">do not depart from its marketplace.</v>
+			<marker class="begin-verse" mid="v19055012">
+			</marker>
+			<v n="12">then I could hide from him.</v>
+			<marker class="begin-verse" mid="v19055013">
+			</marker>
+			<v n="13">my companion, my familiar friend.</v>
+			<marker class="begin-verse" mid="v19055014">
+			</marker>
+			<v n="14">the throng.</v>
+			<marker class="begin-verse" mid="v19055015">
+			</marker>
+			<v n="15">for evil is in their dwelling place and in their heart.</v>
+			<marker class="begin-verse" mid="v19055016">
+			</marker>
+			<v n="16">and the Lord will save me.</v>
+			<marker class="begin-verse" mid="v19055017">
+			</marker>
+			<v n="17">and he hears my voice.</v>
+			<marker class="begin-verse" mid="v19055018">
+			</marker>
+			<v n="18">many are arrayed against me.</v>
+			<marker class="begin-verse" mid="v19055019">
+			</marker>
+			<v n="19">and do not fear God.</v>
+			<marker class="begin-verse" mid="v19055020">
+			</marker>
+			<v n="20">he violated his covenant.</v>
+			<marker class="begin-verse" mid="v19055021">
+			</marker>
+			<v n="21">drawn swords.</v>
+			<marker class="begin-verse" mid="v19055022">
+			</marker>
+			<v n="22">the righteous to be moved.</v>
+			<marker class="begin-verse" mid="v19055023">
+			</marker>
+			<v n="23">trust in you.</v>
+			<marker class="begin-verse" mid="v19055024">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">55:1 Probably a musical or liturgical term</footnote>
+				<footnote id="2">55:20 Hebrew *He*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

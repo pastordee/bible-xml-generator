@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:38.046600</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:38.046609</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" bookAbbr="rev" version="ESV">
+		<marker class="begin-verse" mid="v66008001">
+		</marker>
+		<chapter num="8">
+			<heading>
+				Revelation 8
+			</heading>
+			<heading>
+				The Seventh Seal and the Golden Censer
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">the seventh seal, there was silence in heaven for about half an hour.</v>
+			<marker class="begin-verse" mid="v66008002">
+			</marker>
+			<v n="2">who stand before God, and seven trumpets were given to them.</v>
+			<marker class="begin-verse" mid="v66008003">
+			</marker>
+			<v n="3">the golden altar before the throne,</v>
+			<marker class="begin-verse" mid="v66008004">
+			</marker>
+			<v n="4">the smoke of the incense, with the prayers of the saints, rose before God from the hand of the angel.</v>
+			<marker class="begin-verse" mid="v66008005">
+			</marker>
+			<v n="5">thunder, rumblings, flashes of lightning, and an earthquake.</v>
+			<marker class="begin-verse" mid="v66008006">
+			</marker>
+			<v n="6">Now the seven angels who had the seven trumpets prepared to blow them.</v>
+			<marker class="begin-verse" mid="v66008007">
+			</marker>
+			<v n="7">the trees were burned up, and all green grass was burned up.</v>
+			<marker class="begin-verse" mid="v66008008">
+			</marker>
+			<v n="8">became blood.</v>
+			<marker class="begin-verse" mid="v66008009">
+			</marker>
+			<v n="9">the ships were destroyed.</v>
+			<marker class="begin-verse" mid="v66008010">
+			</marker>
+			<v n="10">the springs of water.</v>
+			<marker class="begin-verse" mid="v66008011">
+			</marker>
+			<v n="11">because it had been made bitter.</v>
+			<marker class="begin-verse" mid="v66008012">
+			</marker>
+			<v n="12">the sun was struck, and a third of the moon, and a third of the stars, so that a third of their light might be darkened, and a third of the day might be kept from shining, and likewise a third of the night.</v>
+			<marker class="begin-verse" mid="v66008013">
+			</marker>
+			<v n="13">“Woe, woe, woe to those who dwell on the earth, at the blasts of the other trumpets that the three angels are about to blow!”</v>
+			<marker class="begin-verse" mid="v66008014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">8:5 Or *voices*, or *sounds*</footnote>
+				<footnote id="2">8:11 *Wormwood* is the name of a plant and of the bitter-tasting extract derived from it</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

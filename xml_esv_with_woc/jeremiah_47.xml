@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:56:06.645500</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:56:06.645508</next_refresh_due>
+	</generation_info>
+	<book title="Jeremiah" num="24" testament="old" bookAbbr="jer" version="ESV">
+		<marker class="begin-verse" mid="v24047001">
+		</marker>
+		<chapter num="47">
+			<heading>
+				Jeremiah 47
+			</heading>
+			<heading>
+				Judgment on the Philistines
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">47 The word of the Lord that came to Jeremiah the prophet<crossref let="f" cid="c24047001.1" />concerning the Philistines, before Pharaoh struck down<crossref let="g" cid="c24047001.2" />Gaza.</v>
+			<marker class="begin-verse" mid="v24047002">
+			</marker>
+			<v n="2">and every inhabitant of the land shall wail.</v>
+			<marker class="begin-verse" mid="v24047003">
+			</marker>
+			<v n="3">so feeble are their hands,</v>
+			<marker class="begin-verse" mid="v24047004">
+			</marker>
+			<v n="4">Caphtor.</v>
+			<marker class="begin-verse" mid="v24047005">
+			</marker>
+			<v n="5">how long will you gash yourselves?</v>
+			<marker class="begin-verse" mid="v24047006">
+			</marker>
+			<v n="6">rest and be still!</v>
+			<marker class="begin-verse" mid="v24047007">
+			</marker>
+			<v n="7">he has appointed it.”</v>
+			<marker class="begin-verse" mid="v24047008">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">47:7 Septuagint, Vulgate; Hebrew *you*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

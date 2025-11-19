@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:02:19.004289</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:02:19.004311</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" bookAbbr="deu" version="ESV">
+		<marker class="begin-verse" mid="v05013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				Deuteronomy 13
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">a dreamer of dreams arises among you and gives you a sign or a wonder,</v>
+			<marker class="begin-verse" mid="v05013002">
+			</marker>
+			<v n="2">the sign or wonder that he tells you comes to pass, and if he says, ‘Let us go after other gods,’ which you have not known, ‘and let us serve them,’</v>
+			<marker class="begin-verse" mid="v05013003">
+			</marker>
+			<v n="3">is testing you, to know whether you love the Lord your God with all your heart and with all your soul.</v>
+			<marker class="begin-verse" mid="v05013004">
+			</marker>
+			<v n="4">hold fast to him.</v>
+			<marker class="begin-verse" mid="v05013005">
+			</marker>
+			<v n="5">So you shall purge the evil from your midst.</v>
+			<marker class="begin-verse" mid="v05013006">
+			</marker>
+			<v n="6">which neither you nor your fathers have known,</v>
+			<marker class="begin-verse" mid="v05013007">
+			</marker>
+			<v n="7">of the gods of the peoples who are around you, whether near you or far off from you, from the one end of the earth to the other,</v>
+			<marker class="begin-verse" mid="v05013008">
+			</marker>
+			<v n="8">shall your eye pity him, nor shall you spare him, nor shall you conceal him.</v>
+			<marker class="begin-verse" mid="v05013009">
+			</marker>
+			<v n="9">Your hand shall be first against him to put him to death, and afterward the hand of all the people.</v>
+			<marker class="begin-verse" mid="v05013010">
+			</marker>
+			<v n="10">You shall stone him to death with stones, because he sought to draw you away from the Lord your God, who brought you out of the land of Egypt, out of the house of slavery.</v>
+			<marker class="begin-verse" mid="v05013011">
+			</marker>
+			<v n="11">all Israel shall hear and fear and never again do any such wickedness as this among you.</v>
+			<marker class="begin-verse" mid="v05013012">
+			</marker>
+			<v n="12">“If you hear in one of your cities, which the Lord your God is giving you to dwell there,</v>
+			<marker class="begin-verse" mid="v05013013">
+			</marker>
+			<v n="13">worthless fellows have gone out among you and have drawn away the inhabitants of their city, saying, ‘Let us go and serve other gods,’ which you have not known,</v>
+			<marker class="begin-verse" mid="v05013014">
+			</marker>
+			<v n="14">diligently. And behold, if it be true and certain that such an abomination has been done among you,</v>
+			<marker class="begin-verse" mid="v05013015">
+			</marker>
+			<v n="15">you shall surely put the inhabitants of that city to the sword, devoting it to destruction, all who are in it and its cattle, with the edge of the sword.</v>
+			<marker class="begin-verse" mid="v05013016">
+			</marker>
+			<v n="16">heap forever. It shall not be built again.</v>
+			<marker class="begin-verse" mid="v05013017">
+			</marker>
+			<v n="17">as he swore to your fathers,</v>
+			<marker class="begin-verse" mid="v05013018">
+			</marker>
+			<v n="18">keeping all his commandments that I am commanding you today, and doing what is right in the sight of the Lord your God.</v>
+			<marker class="begin-verse" mid="v05013019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">13:5 Or *evil person*</footnote>
+				<footnote id="2">13:6 Hebrew *the wife of your bosom*</footnote>
+				<footnote id="3">13:15 That is, setting apart (devoting) as an offering to the Lord (for destruction)</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

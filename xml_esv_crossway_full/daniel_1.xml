@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:57:33.084691</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:57:33.084736</next_refresh_due>
+	</generation_info>
+	<book title="Daniel" num="27" testament="old" bookAbbr="dan" version="ESV">
+		<marker class="begin-verse" mid="v27001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Daniel 1
+			</heading>
+			<heading>
+				Daniel Taken to Babylon
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">In the third year of<crossref let="a" cid="c27001001.1" />the reign of Jehoiakim king of Judah , Nebuchadnezzar king of Babylon came to Jerusalem and besieged it .</v>
+			<marker class="begin-verse" mid="v27001002">
+			</marker>
+			<v n="2">And the Lord gave Jehoiakim king of Judah into his hand , with some of<crossref let="b" cid="c27001002.1" />the vessels of the house of God . And he brought them to<crossref let="c" cid="c27001002.2" />the land of Shinar , to the house of his god ,<crossref let="d" cid="c27001002.3" />and placed the vessels in the treasury of his god .</v>
+			<marker class="begin-verse" mid="v27001003">
+			</marker>
+			<v n="3">Then the king commanded Ashpenaz ,<crossref let="e" cid="c27001003.1" />his chief eunuch , to bring some of the people of Israel , both of the royal family and of<crossref let="f" cid="c27001003.2" />the nobility ,</v>
+			<marker class="begin-verse" mid="v27001004">
+			</marker>
+			<v n="4">youths without<crossref let="g" cid="c27001004.1" />blemish , of good appearance and<crossref let="h" cid="c27001004.2" />skillful in all wisdom , endowed with knowledge , understanding learning , and competent to stand in the king’s palace , and to<crossref let="i" cid="c27001004.3" />teach them the literature and language of the<crossref let="j" cid="c27001004.4" />Chaldeans .</v>
+			<marker class="begin-verse" mid="v27001005">
+			</marker>
+			<v n="5">The king assigned them a daily portion of<crossref let="k" cid="c27001005.1" />the food that the king ate , and of<crossref let="l" cid="c27001005.2" />the wine that he drank . They were to be educated for<crossref let="m" cid="c27001005.3" />three years , and at the end of that time they were to<crossref let="n" cid="c27001005.4" />stand before the king .</v>
+			<marker class="begin-verse" mid="v27001006">
+			</marker>
+			<v n="6">Among these were<crossref let="o" cid="c27001006.1" />Daniel ,<crossref let="p" cid="c27001006.2" />Hananiah ,<crossref let="p" cid="c27001006.2" />Mishael , and<crossref let="p" cid="c27001006.2" />Azariah of the tribe of Judah .</v>
+			<marker class="begin-verse" mid="v27001007">
+			</marker>
+			<v n="7">And<crossref let="e" cid="c27001007.1" />the chief of the eunuchs<crossref let="q" cid="c27001007.2" />gave them names :<crossref let="r" cid="c27001007.3" />Daniel he called Belteshazzar , Hananiah he called Shadrach , Mishael he called Meshach , and Azariah he called Abednego .</v>
+			<marker class="begin-verse" mid="v27001008">
+			</marker>
+			<v n="8">But Daniel<crossref let="s" cid="c27001008.3" />resolved that he would not<crossref let="t" cid="c27001008.4" />defile himself with<crossref let="k" cid="c27001008.1" />the king’s food , or with<crossref let="l" cid="c27001008.2" />the wine that he drank . Therefore he asked the chief of the eunuchs to allow him not to<crossref let="t" cid="c27001008.4" />defile himself .</v>
+			<marker class="begin-verse" mid="v27001009">
+			</marker>
+			<v n="9">
+				<crossref let="u" cid="c27001009.1" />And God gave Daniel favor and compassion in the sight of the chief of the eunuchs ,</v>
+			<marker class="begin-verse" mid="v27001010">
+			</marker>
+			<v n="10">and the chief of the eunuchs said to Daniel , “ I fear my lord the king , who assigned your food and your drink ; for why should he see that you were in worse condition than the youths who are of your own age ? So you would endanger my head with the king . ”</v>
+			<marker class="begin-verse" mid="v27001011">
+			</marker>
+			<v n="11">Then Daniel said to the steward whom the chief of the eunuchs had assigned over Daniel , Hananiah , Mishael , and Azariah ,</v>
+			<marker class="begin-verse" mid="v27001012">
+			</marker>
+			<v n="12">“ Test your servants for<crossref let="v" cid="c27001012.1" />ten days ; let us be given vegetables to eat and water to drink .</v>
+			<marker class="begin-verse" mid="v27001013">
+			</marker>
+			<v n="13">Then let our appearance and the appearance of the youths who eat<crossref let="k" cid="c27001013.1" />the king’s food be observed by you , and deal with your servants according to what you see . ”</v>
+			<marker class="begin-verse" mid="v27001014">
+			</marker>
+			<v n="14">So he listened to them in this matter , and tested them for ten days .</v>
+			<marker class="begin-verse" mid="v27001015">
+			</marker>
+			<v n="15">At the end of ten days it was seen that they were better in appearance and fatter in flesh than all the youths who ate<crossref let="k" cid="c27001015.1" />the king’s food .</v>
+			<marker class="begin-verse" mid="v27001016">
+			</marker>
+			<v n="16">
+				<crossref let="w" cid="c27001016.1" />So the steward took away their food and the wine they were to drink , and gave them<crossref let="x" cid="c27001016.2" />vegetables .</v>
+			<marker class="begin-verse" mid="v27001017">
+			</marker>
+			<v n="17">As for these four youths ,<crossref let="y" cid="c27001017.2" />God gave them learning and<crossref let="z" cid="c27001017.3" />skill in all literature and wisdom , and Daniel had<crossref let="a" cid="c27001017.1" />understanding in all visions and dreams .</v>
+			<marker class="begin-verse" mid="v27001018">
+			</marker>
+			<v n="18">At the end of<crossref let="b" cid="c27001018.1" />the time , when the king had commanded that they should be brought in , the chief of the eunuchs brought them in before Nebuchadnezzar .</v>
+			<marker class="begin-verse" mid="v27001019">
+			</marker>
+			<v n="19">And the king spoke with them , and among all of them none was found like Daniel , Hananiah , Mishael , and Azariah . Therefore<crossref let="c" cid="c27001019.1" />they stood before the king .</v>
+			<marker class="begin-verse" mid="v27001020">
+			</marker>
+			<v n="20">And in every matter of wisdom and understanding about which the king inquired of them , he found them ten times better than all<crossref let="d" cid="c27001020.1" />the magicians and<crossref let="e" cid="c27001020.2" />enchanters that were in all his kingdom .</v>
+			<marker class="begin-verse" mid="v27001021">
+			</marker>
+			<v n="21">And Daniel<crossref let="f" cid="c27001021.1" />was there until the first year of<crossref let="g" cid="c27001021.2" />King Cyrus .</v>
+			<marker class="begin-verse" mid="v27001022">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:3 Hebrew *of the seed of the kingdom*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

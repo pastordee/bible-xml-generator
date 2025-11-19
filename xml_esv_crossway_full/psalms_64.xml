@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:34.096629</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:34.096639</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19064001">
+		</marker>
+		<chapter num="64">
+			<heading>
+				Psalm 64
+			</heading>
+			<heading>
+				Hide Me from the Wicked
+			</heading>
+			<heading>
+				To the choirmaster. A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">preserve my life from dread of the enemy .</v>
+			<marker class="begin-verse" mid="v19064002">
+			</marker>
+			<v n="2">from the throng of evildoers ,</v>
+			<marker class="begin-verse" mid="v19064003">
+			</marker>
+			<v n="3">who<crossref let="p" cid="c19064003.2" />aim bitter words like arrows ,</v>
+			<marker class="begin-verse" mid="v19064004">
+			</marker>
+			<v n="4">shooting at him suddenly and<crossref let="r" cid="c19064004.2" />without fear .</v>
+			<marker class="begin-verse" mid="v19064005">
+			</marker>
+			<v n="5">thinking ,<crossref let="u" cid="c19064005.3" />“ Who can see them ? ”</v>
+			<marker class="begin-verse" mid="v19064006">
+			</marker>
+			<v n="6">For<crossref let="v" cid="c19064006.1" />the inward mind and heart of a man are deep .</v>
+			<marker class="begin-verse" mid="v19064007">
+			</marker>
+			<v n="7">they are wounded suddenly .</v>
+			<marker class="begin-verse" mid="v19064008">
+			</marker>
+			<v n="8">all who<crossref let="y" cid="c19064008.2" />see them will<crossref let="z" cid="c19064008.3" />wag their heads .</v>
+			<marker class="begin-verse" mid="v19064009">
+			</marker>
+			<v n="9">and ponder what he has done .</v>
+			<marker class="begin-verse" mid="v19064010">
+			</marker>
+			<v n="10">Let all<crossref let="d" cid="c19064010.3" />the upright in heart exult !</v>
+			<marker class="begin-verse" mid="v19064011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

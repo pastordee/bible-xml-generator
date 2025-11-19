@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:13.596876</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:13.596885</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19050001">
+		</marker>
+		<chapter num="50">
+			<heading>
+				Psalm 50
+			</heading>
+			<heading>
+				God Himself Is Judge
+			</heading>
+			<heading>
+				A Psalm of Asaph.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="p" cid="c19050001.2" />from the rising of the sun to its setting .</v>
+			<marker class="begin-verse" mid="v19050002">
+			</marker>
+			<v n="2">
+				<crossref let="r" cid="c19050002.2" />God shines forth .</v>
+			<marker class="begin-verse" mid="v19050003">
+			</marker>
+			<v n="3">around him a mighty tempest .</v>
+			<marker class="begin-verse" mid="v19050004">
+			</marker>
+			<v n="4">and to the earth , that he may judge his people :</v>
+			<marker class="begin-verse" mid="v19050005">
+			</marker>
+			<v n="5">who made<crossref let="v" cid="c19050005.1" />a covenant with me by sacrifice ! ”</v>
+			<marker class="begin-verse" mid="v19050006">
+			</marker>
+			<v n="6">for<crossref let="x" cid="c19050006.2" />God himself is judge ! Selah</v>
+			<marker class="begin-verse" mid="v19050007">
+			</marker>
+			<v n="7">
+				<crossref let="z" cid="c19050007.2" />I am God , your God .</v>
+			<marker class="begin-verse" mid="v19050008">
+			</marker>
+			<v n="8">your burnt offerings are continually before me .</v>
+			<marker class="begin-verse" mid="v19050009">
+			</marker>
+			<v n="9">or goats from your folds .</v>
+			<marker class="begin-verse" mid="v19050010">
+			</marker>
+			<v n="10">the cattle on a thousand hills .</v>
+			<marker class="begin-verse" mid="v19050011">
+			</marker>
+			<v n="11">and all that moves in the field is mine .</v>
+			<marker class="begin-verse" mid="v19050012">
+			</marker>
+			<v n="12">
+				<crossref let="c" cid="c19050012.1" />for the world and its fullness are mine .</v>
+			<marker class="begin-verse" mid="v19050013">
+			</marker>
+			<v n="13">or drink the blood of goats ?</v>
+			<marker class="begin-verse" mid="v19050014">
+			</marker>
+			<v n="14">and<crossref let="e" cid="c19050014.2" />perform your vows to the Most High ,</v>
+			<marker class="begin-verse" mid="v19050015">
+			</marker>
+			<v n="15">I will<crossref let="g" cid="c19050015.2" />deliver you , and you shall<crossref let="h" cid="c19050015.3" />glorify me . ”</v>
+			<marker class="begin-verse" mid="v19050016">
+			</marker>
+			<v n="16">or take my covenant on your lips ?</v>
+			<marker class="begin-verse" mid="v19050017">
+			</marker>
+			<v n="17">
+				<crossref let="j" cid="c19050017.2" />and you cast my words behind you .</v>
+			<marker class="begin-verse" mid="v19050018">
+			</marker>
+			<v n="18">
+				<crossref let="l" cid="c19050018.2" />and you keep company with adulterers .</v>
+			<marker class="begin-verse" mid="v19050019">
+			</marker>
+			<v n="19">
+				<crossref let="m" cid="c19050019.1" />and your tongue frames deceit .</v>
+			<marker class="begin-verse" mid="v19050020">
+			</marker>
+			<v n="20">you slander your own mother’s son .</v>
+			<marker class="begin-verse" mid="v19050021">
+			</marker>
+			<v n="21">But now I<crossref let="o" cid="c19050021.2" />rebuke you and<crossref let="p" cid="c19050021.3" />lay the charge before you .</v>
+			<marker class="begin-verse" mid="v19050022">
+			</marker>
+			<v n="22">lest I tear you apart , and there be<crossref let="r" cid="c19050022.2" />none to deliver !</v>
+			<marker class="begin-verse" mid="v19050023">
+			</marker>
+			<v n="23">I will show the<crossref let="u" cid="c19050023.3" />salvation of God ! ”</v>
+			<marker class="begin-verse" mid="v19050024">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">50:3 Or *May our God come, and not keep silence*</footnote>
+				<footnote id="2">50:14 Or *Make thanksgiving your sacrifice to God*</footnote>
+				<footnote id="3">50:21 Or *that the I am*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

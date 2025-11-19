@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:08.041108</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:08.041118</next_refresh_due>
+	</generation_info>
+	<book title="Esther" num="17" testament="old" bookAbbr="est" version="ESV">
+		<marker class="begin-verse" mid="v17010001">
+		</marker>
+		<chapter num="10">
+			<heading>
+				Esther 10
+			</heading>
+			<heading>
+				The Greatness of Mordecai
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">the coastlands of the sea.</v>
+			<marker class="begin-verse" mid="v17010002">
+			</marker>
+			<v n="2">the Book of the Chronicles of the kings of Media and Persia?</v>
+			<marker class="begin-verse" mid="v17010003">
+			</marker>
+			<v n="3">sought the welfare of his people and spoke peace to all his people.</v>
+			<marker class="begin-verse" mid="v17010004">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:48.890950</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:48.890959</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18028001">
+		</marker>
+		<chapter num="28">
+			<heading>
+				Job 28
+			</heading>
+			<heading>
+				Job Continues: Where Is Wisdom?
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and a place for gold that they<crossref let="y" cid="c18028001.1" />refine .</v>
+			<marker class="begin-verse" mid="v18028002">
+			</marker>
+			<v n="2">and copper is smelted from the ore .</v>
+			<marker class="begin-verse" mid="v18028003">
+			</marker>
+			<v n="3">the ore in<crossref let="z" cid="c18028003.2" />gloom and<crossref let="a" cid="c18028003.1" />deep darkness .</v>
+			<marker class="begin-verse" mid="v18028004">
+			</marker>
+			<v n="4">they hang in the air , far away from mankind ; they swing to and fro .</v>
+			<marker class="begin-verse" mid="v18028005">
+			</marker>
+			<v n="5">but underneath it is turned up as by fire .</v>
+			<marker class="begin-verse" mid="v18028006">
+			</marker>
+			<v n="6">and it has dust of gold .</v>
+			<marker class="begin-verse" mid="v18028007">
+			</marker>
+			<v n="7">and the falcon’s eye has not seen it .</v>
+			<marker class="begin-verse" mid="v18028008">
+			</marker>
+			<v n="8">
+				<crossref let="e" cid="c18028008.2" />the lion has not passed over it .</v>
+			<marker class="begin-verse" mid="v18028009">
+			</marker>
+			<v n="9">and overturns mountains by the roots .</v>
+			<marker class="begin-verse" mid="v18028010">
+			</marker>
+			<v n="10">and his eye sees every precious thing .</v>
+			<marker class="begin-verse" mid="v18028011">
+			</marker>
+			<v n="11">and the thing that is hidden he brings out to light .</v>
+			<marker class="begin-verse" mid="v18028012">
+			</marker>
+			<v n="12">And where is the place of understanding ?</v>
+			<marker class="begin-verse" mid="v18028013">
+			</marker>
+			<v n="13">and it is not found in<crossref let="h" cid="c18028013.1" />the land of the living .</v>
+			<marker class="begin-verse" mid="v18028014">
+			</marker>
+			<v n="14">and the sea says , ‘ It is not with me . ’</v>
+			<marker class="begin-verse" mid="v18028015">
+			</marker>
+			<v n="15">and silver cannot be weighed as its price .</v>
+			<marker class="begin-verse" mid="v18028016">
+			</marker>
+			<v n="16">in precious<crossref let="m" cid="c18028016.3" />onyx or<crossref let="n" cid="c18028016.4" />sapphire .</v>
+			<marker class="begin-verse" mid="v18028017">
+			</marker>
+			<v n="17">nor can it be exchanged for jewels of fine gold .</v>
+			<marker class="begin-verse" mid="v18028018">
+			</marker>
+			<v n="18">the price of wisdom is above<crossref let="o" cid="c18028018.1" />
+				<crossref let="p" cid="c18028018.2" />pearls .</v>
+			<marker class="begin-verse" mid="v18028019">
+			</marker>
+			<v n="19">nor can it be valued in pure gold .</v>
+			<marker class="begin-verse" mid="v18028020">
+			</marker>
+			<v n="20">And where is the place of understanding ?</v>
+			<marker class="begin-verse" mid="v18028021">
+			</marker>
+			<v n="21">and concealed from the birds of the air .</v>
+			<marker class="begin-verse" mid="v18028022">
+			</marker>
+			<v n="22">‘ We have heard a rumor of it with our ears . ’</v>
+			<marker class="begin-verse" mid="v18028023">
+			</marker>
+			<v n="23">and he knows its place .</v>
+			<marker class="begin-verse" mid="v18028024">
+			</marker>
+			<v n="24">and sees everything under the heavens .</v>
+			<marker class="begin-verse" mid="v18028025">
+			</marker>
+			<v n="25">and apportioned the waters by measure ,</v>
+			<marker class="begin-verse" mid="v18028026">
+			</marker>
+			<v n="26">and<crossref let="w" cid="c18028026.1" />a way for the lightning of the thunder ,</v>
+			<marker class="begin-verse" mid="v18028027">
+			</marker>
+			<v n="27">he established it , and searched it out .</v>
+			<marker class="begin-verse" mid="v18028028">
+			</marker>
+			<v n="28">and to<crossref let="y" cid="c18028028.2" />turn away from evil is understanding . ’ ”</v>
+			<marker class="begin-verse" mid="v18028029">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">28:6 Or *lapis lazuli*; also verse 16</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

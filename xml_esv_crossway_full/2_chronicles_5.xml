@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:31:33.414357</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:31:33.414366</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" bookAbbr="2ch" version="ESV">
+		<marker class="begin-verse" mid="v14005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				2 Chronicles 5
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="c" cid="c14005001.1" />Thus all the work that Solomon did for the house of the Lord was finished . And Solomon brought in the things that David his father had dedicated , and stored the silver , the gold , and all the vessels in the treasuries of the house of God .</v>
+			<marker class="begin-verse" mid="v14005002">
+			</marker>
+			<v n="2">Then Solomon assembled the elders of Israel and all the heads of the tribes , the leaders of the fathers’ houses of the people of Israel , in Jerusalem , to bring up the ark of the covenant of the Lord out of<crossref let="d" cid="c14005002.1" />the city of David , which is Zion .</v>
+			<marker class="begin-verse" mid="v14005003">
+			</marker>
+			<v n="3">And all the men of Israel assembled before the king at the feast that is in the seventh month .</v>
+			<marker class="begin-verse" mid="v14005004">
+			</marker>
+			<v n="4">And all the elders of Israel came ,<crossref let="e" cid="c14005004.1" />and the Levites took up the ark .</v>
+			<marker class="begin-verse" mid="v14005005">
+			</marker>
+			<v n="5">And they brought up the ark , the tent of meeting , and all the holy vessels that were in the tent ;<crossref let="f" cid="c14005005.1" />the Levitical priests brought them up .</v>
+			<marker class="begin-verse" mid="v14005006">
+			</marker>
+			<v n="6">And King Solomon and all the congregation of Israel , who had assembled before him , were before the ark , sacrificing so many sheep and oxen that they could not be counted or numbered .</v>
+			<marker class="begin-verse" mid="v14005007">
+			</marker>
+			<v n="7">Then the priests brought the ark of the covenant of the Lord to its place , in the inner sanctuary of the house , in the Most Holy Place , underneath the wings of the cherubim .</v>
+			<marker class="begin-verse" mid="v14005008">
+			</marker>
+			<v n="8">The cherubim spread out their wings over the place of the ark , so that the cherubim made a covering above the ark and its poles .</v>
+			<marker class="begin-verse" mid="v14005009">
+			</marker>
+			<v n="9">And the poles were so long that the ends of the poles were seen<crossref let="g" cid="c14005009.1" />from the Holy Place before the inner sanctuary , but they could not be seen from outside . And they are there to this day .</v>
+			<marker class="begin-verse" mid="v14005010">
+			</marker>
+			<v n="10">There was nothing in the ark except the two tablets<crossref let="h" cid="c14005010.1" />that Moses put there at Horeb , where the Lord made a covenant with the people of Israel , when they came out of Egypt .</v>
+			<marker class="begin-verse" mid="v14005011">
+			</marker>
+			<v n="11">And when the priests came out of the Holy Place ( for all the priests who were present had consecrated themselves , without regard to<crossref let="i" cid="c14005011.1" />their divisions ,</v>
+			<marker class="begin-verse" mid="v14005012">
+			</marker>
+			<v n="12">and all the Levitical<crossref let="j" cid="c14005012.1" />singers ,<crossref let="k" cid="c14005012.2" />Asaph ,<crossref let="l" cid="c14005012.3" />Heman , and Jeduthun , their sons and kinsmen , arrayed in fine linen , with<crossref let="m" cid="c14005012.4" />cymbals , harps , and lyres , stood east of the altar with 120<crossref let="n" cid="c14005012.5" />priests who were trumpeters ;</v>
+			<marker class="begin-verse" mid="v14005013">
+			</marker>
+			<v n="13">the house , the house of the Lord , was filled with a cloud ,</v>
+			<marker class="begin-verse" mid="v14005014">
+			</marker>
+			<v n="14">so that the priests could not stand to minister because of the cloud ,<crossref let="q" cid="c14005014.1" />for the glory of the Lord filled the house of God .</v>
+			<marker class="begin-verse" mid="v14005015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">5:9 Hebrew *it is*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

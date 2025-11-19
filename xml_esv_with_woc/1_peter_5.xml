@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:10.199546</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:10.199562</next_refresh_due>
+	</generation_info>
+	<book title="1 Peter" num="60" testament="new" bookAbbr="1pe" version="ESV">
+		<marker class="begin-verse" mid="v60005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				1 Peter 5
+			</heading>
+			<heading>
+				Shepherd the Flock of God
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">a witness of the sufferings of Christ, as well as a partaker in the glory that is going to be revealed:</v>
+			<marker class="begin-verse" mid="v60005002">
+			</marker>
+			<v n="2">not for shameful gain, but eagerly;</v>
+			<marker class="begin-verse" mid="v60005003">
+			</marker>
+			<v n="3">being examples to the flock.</v>
+			<marker class="begin-verse" mid="v60005004">
+			</marker>
+			<v n="4">crown of glory.</v>
+			<marker class="begin-verse" mid="v60005005">
+			</marker>
+			<v n="5">“God opposes the proud but gives grace to the humble.”</v>
+			<marker class="begin-verse" mid="v60005006">
+			</marker>
+			<v n="6">Humble yourselves, therefore, under the mighty hand of God so that at the proper time he may exalt you,</v>
+			<marker class="begin-verse" mid="v60005007">
+			</marker>
+			<v n="7">he cares for you.</v>
+			<marker class="begin-verse" mid="v60005008">
+			</marker>
+			<v n="8">like a roaring lion, seeking someone to devour.</v>
+			<marker class="begin-verse" mid="v60005009">
+			</marker>
+			<v n="9">the same kinds of suffering are being experienced by your brotherhood throughout the world.</v>
+			<marker class="begin-verse" mid="v60005010">
+			</marker>
+			<v n="10">confirm, strengthen, and establish you.</v>
+			<marker class="begin-verse" mid="v60005011">
+			</marker>
+			<v n="11">To him be the dominion forever and ever. Amen.</v>
+			<marker class="begin-verse" mid="v60005012">
+			</marker>
+			<v n="12">Stand firm in it.</v>
+			<marker class="begin-verse" mid="v60005013">
+			</marker>
+			<v n="13">Mark, my son.</v>
+			<marker class="begin-verse" mid="v60005014">
+			</marker>
+			<v n="14">Peace to all of you who are in Christ.</v>
+			<marker class="begin-verse" mid="v60005015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">5:2 Some manuscripts omit *exercising oversight*</footnote>
+				<footnote id="2">5:2 Some manuscripts omit *as God would have you*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

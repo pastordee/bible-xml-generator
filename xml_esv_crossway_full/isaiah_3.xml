@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:59.424462</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:59.424510</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Isaiah 3
+			</heading>
+			<heading>
+				Judgment on Judah and Jerusalem
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and all support of water ;</v>
+			<marker class="begin-verse" mid="v23003002">
+			</marker>
+			<v n="2">the diviner and the elder ,</v>
+			<marker class="begin-verse" mid="v23003003">
+			</marker>
+			<v n="3">and the expert in charms .</v>
+			<marker class="begin-verse" mid="v23003004">
+			</marker>
+			<v n="4">and infants shall rule over them .</v>
+			<marker class="begin-verse" mid="v23003005">
+			</marker>
+			<v n="5">and the despised to the honorable .</v>
+			<marker class="begin-verse" mid="v23003006">
+			</marker>
+			<v n="6">shall be under your rule ” ;</v>
+			<marker class="begin-verse" mid="v23003007">
+			</marker>
+			<v n="7">leader of the people . ”</v>
+			<marker class="begin-verse" mid="v23003008">
+			</marker>
+			<v n="8">
+				<crossref let="a" cid="c23003008.1" />defying his glorious presence .</v>
+			<marker class="begin-verse" mid="v23003009">
+			</marker>
+			<v n="9">
+				<crossref let="c" cid="c23003009.2" />For they have brought evil on themselves .</v>
+			<marker class="begin-verse" mid="v23003010">
+			</marker>
+			<v n="10">
+				<crossref let="e" cid="c23003010.2" />for they shall eat the fruit of their deeds .</v>
+			<marker class="begin-verse" mid="v23003011">
+			</marker>
+			<v n="11">for what his hands have dealt out shall be done to him .</v>
+			<marker class="begin-verse" mid="v23003012">
+			</marker>
+			<v n="12">and they have swallowed up the course of your paths .</v>
+			<marker class="begin-verse" mid="v23003013">
+			</marker>
+			<v n="13">he stands to judge peoples .</v>
+			<marker class="begin-verse" mid="v23003014">
+			</marker>
+			<v n="14">
+				<crossref let="l" cid="c23003014.3" />the spoil of the poor is in your houses .</v>
+			<marker class="begin-verse" mid="v23003015">
+			</marker>
+			<v n="15">declares the Lord God of hosts .</v>
+			<marker class="begin-verse" mid="v23003016">
+			</marker>
+			<v n="16">
+				<crossref let="p" cid="c23003016.3" />tinkling with their feet ,</v>
+			<marker class="begin-verse" mid="v23003017">
+			</marker>
+			<v n="17">and the Lord will lay bare their secret parts .</v>
+			<marker class="begin-verse" mid="v23003018">
+			</marker>
+			<v n="18">In that day the Lord will take away<crossref let="r" cid="c23003018.1" />the finery of the anklets , the<crossref let="s" cid="c23003018.2" />headbands , and the<crossref let="t" cid="c23003018.3" />crescents ;</v>
+			<marker class="begin-verse" mid="v23003019">
+			</marker>
+			<v n="19">the pendants , the bracelets , and the scarves ;</v>
+			<marker class="begin-verse" mid="v23003020">
+			</marker>
+			<v n="20">the<crossref let="u" cid="c23003020.1" />headdresses , the armlets , the sashes , the perfume boxes , and the amulets ;</v>
+			<marker class="begin-verse" mid="v23003021">
+			</marker>
+			<v n="21">the signet rings and<crossref let="v" cid="c23003021.1" />nose rings ;</v>
+			<marker class="begin-verse" mid="v23003022">
+			</marker>
+			<v n="22">the<crossref let="w" cid="c23003022.1" />festal robes , the mantles , the cloaks , and the handbags ;</v>
+			<marker class="begin-verse" mid="v23003023">
+			</marker>
+			<v n="23">the mirrors , the linen garments , the turbans , and the veils .</v>
+			<marker class="begin-verse" mid="v23003024">
+			</marker>
+			<v n="24">and<crossref let="c" cid="c23003024.3" />branding instead of beauty .</v>
+			<marker class="begin-verse" mid="v23003025">
+			</marker>
+			<v n="25">and your mighty men in battle .</v>
+			<marker class="begin-verse" mid="v23003026">
+			</marker>
+			<v n="26">empty , she shall<crossref let="e" cid="c23003026.2" />sit on the ground .</v>
+			<marker class="begin-verse" mid="v23003027">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">3:1 Hebrew *staff*</footnote>
+				<footnote id="2">3:4 Or *caprice*</footnote>
+				<footnote id="3">3:7 Hebrew *binder of wounds*</footnote>
+				<footnote id="4">3:8 Hebrew *the eyes of his glory*</footnote>
+				<footnote id="5">3:12 Or *they have confused*</footnote>
+				<footnote id="6">3:14 Or *grazed over*; compare Exodus 22:5</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:50.705208</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:50.705230</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19116001">
+		</marker>
+		<chapter num="116">
+			<heading>
+				Psalm 116
+			</heading>
+			<heading>
+				I Love the LORD
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">my voice and my pleas for mercy .</v>
+			<marker class="begin-verse" mid="v19116002">
+			</marker>
+			<v n="2">therefore I will call on him as long as I live .</v>
+			<marker class="begin-verse" mid="v19116003">
+			</marker>
+			<v n="3">I suffered distress and anguish .</v>
+			<marker class="begin-verse" mid="v19116004">
+			</marker>
+			<v n="4">“ O Lord , I pray , deliver my soul ! ”</v>
+			<marker class="begin-verse" mid="v19116005">
+			</marker>
+			<v n="5">our God is<crossref let="f" cid="c19116005.3" />merciful .</v>
+			<marker class="begin-verse" mid="v19116006">
+			</marker>
+			<v n="6">when<crossref let="h" cid="c19116006.2" />I was brought low , he saved me .</v>
+			<marker class="begin-verse" mid="v19116007">
+			</marker>
+			<v n="7">for the Lord has<crossref let="j" cid="c19116007.2" />dealt bountifully with you .</v>
+			<marker class="begin-verse" mid="v19116008">
+			</marker>
+			<v n="8">my feet from stumbling ;</v>
+			<marker class="begin-verse" mid="v19116009">
+			</marker>
+			<v n="9">
+				<crossref let="l" cid="c19116009.1" />in the land of the living .</v>
+			<marker class="begin-verse" mid="v19116010">
+			</marker>
+			<v n="10">“ I am greatly afflicted ” ;</v>
+			<marker class="begin-verse" mid="v19116011">
+			</marker>
+			<v n="11">
+				<crossref let="p" cid="c19116011.2" />“ All mankind are liars . ”</v>
+			<marker class="begin-verse" mid="v19116012">
+			</marker>
+			<v n="12">for all his benefits to me ?</v>
+			<marker class="begin-verse" mid="v19116013">
+			</marker>
+			<v n="13">and<crossref let="s" cid="c19116013.2" />call on the name of the Lord ,</v>
+			<marker class="begin-verse" mid="v19116014">
+			</marker>
+			<v n="14">in the presence of all his people .</v>
+			<marker class="begin-verse" mid="v19116015">
+			</marker>
+			<v n="15">is the death of his<crossref let="v" cid="c19116015.2" />saints .</v>
+			<marker class="begin-verse" mid="v19116016">
+			</marker>
+			<v n="16">You have<crossref let="y" cid="c19116016.3" />loosed my bonds .</v>
+			<marker class="begin-verse" mid="v19116017">
+			</marker>
+			<v n="17">and<crossref let="s" cid="c19116017.1" />call on the name of the Lord .</v>
+			<marker class="begin-verse" mid="v19116018">
+			</marker>
+			<v n="18">in the presence of all his people ,</v>
+			<marker class="begin-verse" mid="v19116019">
+			</marker>
+			<v n="19">
+				<crossref let="b" cid="c19116019.2" />Praise the Lord !</v>
+			<marker class="begin-verse" mid="v19116020">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">116:10 Or *believed, indeed*; Septuagint *believed, therefore*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

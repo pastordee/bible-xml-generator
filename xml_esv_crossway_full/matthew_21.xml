@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:31.575845</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:31.575872</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40021001">
+		</marker>
+		<chapter num="21">
+			<heading>
+				Matthew 21
+			</heading>
+			<heading>
+				The Triumphal Entry
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="q" cid="c40021001.1" />Now when they drew near to Jerusalem and came to Bethphage , to<crossref let="r" cid="c40021001.2" />the Mount of Olives , then Jesus<crossref let="s" cid="c40021001.3" />sent two disciples ,</v>
+			<marker class="begin-verse" mid="v40021002">
+			</marker>
+			<v n="2">saying to them ,<woc>“ Go into the village in front of you , and immediately you will find a donkey tied , and a colt with her . Untie them and bring them to me .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021003">
+			</marker>
+			<v n="3">
+				<woc>If anyone says anything to you , you shall say , ‘ The Lord needs them , ’ and he will send them at once . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021004">
+			</marker>
+			<v n="4">This took place<crossref let="t" cid="c40021004.1" />to fulfill what was spoken by the prophet , saying ,</v>
+			<marker class="begin-verse" mid="v40021005">
+			</marker>
+			<v n="5">on a colt , the foal of a beast of burden . ’ ”</v>
+			<marker class="begin-verse" mid="v40021006">
+			</marker>
+			<v n="6">The disciples went and did as Jesus had directed them .</v>
+			<marker class="begin-verse" mid="v40021007">
+			</marker>
+			<v n="7">They brought the donkey and the colt and put on them their cloaks , and he sat on them .</v>
+			<marker class="begin-verse" mid="v40021008">
+			</marker>
+			<v n="8">Most of the crowd<crossref let="w" cid="c40021008.1" />spread their cloaks on the road , and others cut branches from the trees and spread them on the road .</v>
+			<marker class="begin-verse" mid="v40021009">
+			</marker>
+			<v n="9">And the crowds that went before him and that followed him were shouting ,<crossref let="x" cid="c40021009.2" />“ Hosanna to<crossref let="y" cid="c40021009.3" />the Son of David !<crossref let="z" cid="c40021009.4" />Blessed is he who comes in the name of the Lord ! Hosanna<crossref let="a" cid="c40021009.1" />in the highest ! ”</v>
+			<marker class="begin-verse" mid="v40021010">
+			</marker>
+			<v n="10">And<crossref let="b" cid="c40021010.1" />when he entered Jerusalem , the whole city was stirred up , saying , “ Who is this ? ”</v>
+			<marker class="begin-verse" mid="v40021011">
+			</marker>
+			<v n="11">And the crowds said , “ This is<crossref let="c" cid="c40021011.1" />the prophet Jesus ,<crossref let="d" cid="c40021011.2" />from Nazareth of Galilee . ”</v>
+			<marker class="begin-verse" mid="v40021012">
+			</marker>
+			<v n="12">
+				<crossref let="e" cid="c40021012.1" />And Jesus entered the temple and drove out all who sold and bought in the temple , and he overturned the tables of<crossref let="f" cid="c40021012.2" />the money-changers and the seats of those who sold<crossref let="g" cid="c40021012.3" />pigeons .</v>
+			<marker class="begin-verse" mid="v40021013">
+			</marker>
+			<v n="13">He said to them ,<woc>“ It is written ,</woc>
+				<crossref let="h" cid="c40021013.1" />
+				<woc>‘ My house shall be called a house of prayer , ’ but</woc>
+				<crossref let="i" cid="c40021013.2" />
+				<woc>you make it a den of robbers . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021014">
+			</marker>
+			<v n="14">
+				<crossref let="j" cid="c40021014.1" />And the blind and the lame came to him in the temple , and he healed them .</v>
+			<marker class="begin-verse" mid="v40021015">
+			</marker>
+			<v n="15">
+				<crossref let="k" cid="c40021015.1" />But when the chief priests and the scribes saw the wonderful things that he did , and the children crying out in the temple ,<crossref let="x" cid="c40021015.2" />“ Hosanna to the Son of David ! ” they were indignant ,</v>
+			<marker class="begin-verse" mid="v40021016">
+			</marker>
+			<v n="16">
+				<woc>you have prepared praise ’ ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021017">
+			</marker>
+			<v n="17">And<crossref let="o" cid="c40021017.1" />leaving them , he<crossref let="p" cid="c40021017.2" />went out of the city to<crossref let="q" cid="c40021017.3" />Bethany and lodged there .</v>
+			<marker class="begin-verse" mid="v40021018">
+			</marker>
+			<v n="18">
+				<crossref let="r" cid="c40021018.1" />In the morning , as he was returning to the city ,<crossref let="s" cid="c40021018.2" />he became hungry .</v>
+			<marker class="begin-verse" mid="v40021019">
+			</marker>
+			<v n="19">
+				<crossref let="t" cid="c40021019.1" />And seeing a fig tree by the wayside , he went to it and found nothing on it but only leaves . And he said to it , And the fig tree withered at once .<woc>“ May no fruit ever come from you again ! ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021020">
+			</marker>
+			<v n="20">When the disciples saw it , they marveled , saying , “ How did the fig tree wither at once ? ”</v>
+			<marker class="begin-verse" mid="v40021021">
+			</marker>
+			<v n="21">And Jesus answered them ,<crossref let="u" cid="c40021021.1" />
+				<woc>“ Truly , I say to you ,</woc>
+				<crossref let="v" cid="c40021021.2" />
+				<woc>if you have faith and</woc>
+				<crossref let="w" cid="c40021021.3" />
+				<woc>do not doubt , you will not only do what has been done to the fig tree , but even if you say to this mountain ,</woc>
+				<crossref let="x" cid="c40021021.4" />
+				<woc>‘ Be taken up and thrown into the sea , ’ it will happen .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021022">
+			</marker>
+			<v n="22">
+				<woc>And</woc>
+				<crossref let="v" cid="c40021022.1" />
+				<woc>whatever you ask in prayer , you will receive ,</woc>
+				<crossref let="y" cid="c40021022.2" />
+				<woc>if you have faith . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021023">
+			</marker>
+			<v n="23">
+				<crossref let="z" cid="c40021023.3" />And when he entered the temple , the chief priests and the elders of the people came up to him<crossref let="a" cid="c40021023.1" />as he was teaching , and said ,<crossref let="b" cid="c40021023.2" />“ By what authority are you doing these things , and who gave you this authority ? ”</v>
+			<marker class="begin-verse" mid="v40021024">
+			</marker>
+			<v n="24">Jesus answered them ,<woc>“ I also will ask you one question , and if you tell me the answer , then I also will tell you by what authority I do these things .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021025">
+			</marker>
+			<v n="25">And they discussed it among themselves , saying , “ If we say , ‘ From heaven , ’ he will say to us ,<woc>The baptism of John ,</woc>
+				<crossref let="c" cid="c40021025.1" />
+				<woc>from where did it come ?</woc>
+				<crossref let="d" cid="c40021025.2" />
+				<woc>From heaven or from man ? ”</woc>
+				<crossref let="e" cid="c40021025.3" />‘ Why then did you not believe him ? ’</v>
+			<marker class="begin-verse" mid="v40021026">
+			</marker>
+			<v n="26">But if we say , ‘ From man , ’<crossref let="f" cid="c40021026.1" />we are afraid of the crowd , for they all hold that John was<crossref let="g" cid="c40021026.2" />a prophet . ”</v>
+			<marker class="begin-verse" mid="v40021027">
+			</marker>
+			<v n="27">So they answered Jesus , “ We do not know . ” And he said to them ,<woc>“ Neither will I tell you by what authority I do these things .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021028">
+			</marker>
+			<v n="28">
+				<crossref let="h" cid="c40021028.1" />
+				<woc>“ What do you think ? A man had two sons . And he went to the first and said , ‘ Son , go and work in</woc>
+				<crossref let="i" cid="c40021028.2" />
+				<woc>the vineyard today . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021029">
+			</marker>
+			<v n="29">
+				<woc>And he answered , ‘ I will not , ’ but afterward he</woc>
+				<crossref let="j" cid="c40021029.1" />
+				<woc>changed his mind and went .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021030">
+			</marker>
+			<v n="30">
+				<woc>And he went to the other son and said the same . And he answered , ‘ I will , sir , ’ but did not go .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021031">
+			</marker>
+			<v n="31">They said , “ The first . ” Jesus said to them ,<woc>Which of the two did the will of his father ? ”</woc>
+				<woc>“ Truly , I say to you ,</woc>
+				<crossref let="k" cid="c40021031.1" />
+				<woc>the tax collectors and</woc>
+				<crossref let="l" cid="c40021031.2" />
+				<woc>the prostitutes go into</woc>
+				<crossref let="m" cid="c40021031.3" />
+				<woc>the kingdom of God before you .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021032">
+			</marker>
+			<v n="32">
+				<woc>For John came to you</woc>
+				<crossref let="n" cid="c40021032.2" />
+				<woc>in the way of righteousness , and</woc>
+				<crossref let="o" cid="c40021032.3" />
+				<woc>you did not believe him , but</woc>
+				<crossref let="p" cid="c40021032.4" />
+				<woc>the tax collectors and the prostitutes believed him . And even when you saw it , you did not afterward</woc>
+				<crossref let="j" cid="c40021032.1" />
+				<woc>change your minds and believe him .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021033">
+			</marker>
+			<v n="33">
+				<crossref let="q" cid="c40021033.1" />
+				<woc>“ Hear another parable . There was a master of a house who planted</woc>
+				<crossref let="r" cid="c40021033.2" />
+				<woc>a vineyard</woc>
+				<crossref let="s" cid="c40021033.3" />
+				<woc>and put a fence around it and dug a winepress in it and built a tower and</woc>
+				<crossref let="t" cid="c40021033.4" />
+				<woc>leased it to tenants , and</woc>
+				<crossref let="u" cid="c40021033.5" />
+				<woc>went into another country .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021034">
+			</marker>
+			<v n="34">
+				<woc>When the season for fruit drew near , he sent his servants to the tenants</woc>
+				<crossref let="t" cid="c40021034.1" />
+				<woc>to get his fruit .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021035">
+			</marker>
+			<v n="35">
+				<crossref let="v" cid="c40021035.1" />
+				<woc>And the tenants took his servants and beat one , killed another , and</woc>
+				<crossref let="w" cid="c40021035.2" />
+				<woc>stoned another .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021036">
+			</marker>
+			<v n="36">
+				<crossref let="x" cid="c40021036.1" />
+				<woc>Again he sent other servants , more than the first . And they did the same to them .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021037">
+			</marker>
+			<v n="37">
+				<woc>Finally he sent his son to them , saying , ‘ They will respect my son . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021038">
+			</marker>
+			<v n="38">
+				<woc>But when the tenants saw the son , they said to themselves ,</woc>
+				<crossref let="y" cid="c40021038.1" />
+				<woc>‘ This is the heir . Come ,</woc>
+				<crossref let="z" cid="c40021038.2" />
+				<woc>let us kill him and have his inheritance . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021039">
+			</marker>
+			<v n="39">
+				<woc>And they took him and</woc>
+				<crossref let="a" cid="c40021039.1" />
+				<woc>threw him out of the vineyard and killed him .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021040">
+			</marker>
+			<v n="40">
+				<crossref let="b" cid="c40021040.1" />
+				<woc>When therefore the owner of the vineyard comes , what will he do to those tenants ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021041">
+			</marker>
+			<v n="41">They said to him ,<crossref let="c" cid="c40021041.1" />“ He will put those wretches to a miserable death and<crossref let="d" cid="c40021041.2" />let out the vineyard to other tenants who will give him the fruits in their seasons . ”</v>
+			<marker class="begin-verse" mid="v40021042">
+			</marker>
+			<v n="42">
+				<woc>and it is marvelous in our eyes ’ ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021043">
+			</marker>
+			<v n="43">
+				<woc>Therefore I tell you , the kingdom of God</woc>
+				<crossref let="g" cid="c40021043.1" />
+				<woc>will be taken away from you and given to a people</woc>
+				<crossref let="h" cid="c40021043.2" />
+				<woc>producing its fruits .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021044">
+			</marker>
+			<v n="44">
+				<woc>And</woc>
+				<crossref let="i" cid="c40021044.1" />
+				<woc>the one who falls on this stone will be broken to pieces ; and</woc>
+				<crossref let="j" cid="c40021044.2" />
+				<woc>when it falls on anyone , it will crush him . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40021045">
+			</marker>
+			<v n="45">When the chief priests and the Pharisees heard his parables , they perceived that he was speaking about them .</v>
+			<marker class="begin-verse" mid="v40021046">
+			</marker>
+			<v n="46">And<crossref let="l" cid="c40021046.1" />although they were seeking to arrest him ,<crossref let="m" cid="c40021046.2" />they feared the crowds , because they held him to be<crossref let="n" cid="c40021046.3" />a prophet .</v>
+			<marker class="begin-verse" mid="v40021047">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:51.244173</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:51.244182</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" bookAbbr="rev" version="ESV">
+		<marker class="begin-verse" mid="v66017001">
+		</marker>
+		<chapter num="17">
+			<heading>
+				Revelation 17
+			</heading>
+			<heading>
+				The Great Prostitute and the Beast
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">who is seated on many waters,</v>
+			<marker class="begin-verse" mid="v66017002">
+			</marker>
+			<v n="2">the dwellers on earth have become drunk.”</v>
+			<marker class="begin-verse" mid="v66017003">
+			</marker>
+			<v n="3">it had seven heads and ten horns.</v>
+			<marker class="begin-verse" mid="v66017004">
+			</marker>
+			<v n="4">a golden cup full of abominations and the impurities of her sexual immorality.</v>
+			<marker class="begin-verse" mid="v66017005">
+			</marker>
+			<v n="5">“Babylon the great, mother of prostitutes and of earth's abominations.”</v>
+			<marker class="begin-verse" mid="v66017006">
+			</marker>
+			<v n="6">When I saw her, I marveled greatly.</v>
+			<marker class="begin-verse" mid="v66017007">
+			</marker>
+			<v n="7">the mystery of the woman, and of the beast with seven heads and ten horns that carries her.</v>
+			<marker class="begin-verse" mid="v66017008">
+			</marker>
+			<v n="8">The beast that you saw<crossref let="u" cid="c66017008.6" />was, and is not, and is about to rise from the bottomless pit and go to destruction. And the dwellers on earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come.</v>
+			<marker class="begin-verse" mid="v66017009">
+			</marker>
+			<v n="9">This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated;</v>
+			<marker class="begin-verse" mid="v66017010">
+			</marker>
+			<v n="10">they are also seven kings, five of whom have fallen, one is, the other has not yet come, and when he does come he must remain only a little while.</v>
+			<marker class="begin-verse" mid="v66017011">
+			</marker>
+			<v n="11">that was and is not, it is an eighth but it belongs to the seven, and it goes to destruction.</v>
+			<marker class="begin-verse" mid="v66017012">
+			</marker>
+			<v n="12">for one hour, together with the beast.</v>
+			<marker class="begin-verse" mid="v66017013">
+			</marker>
+			<v n="13">These are of one mind, and they hand over their power and authority to the beast.</v>
+			<marker class="begin-verse" mid="v66017014">
+			</marker>
+			<v n="14">called and chosen and faithful.”</v>
+			<marker class="begin-verse" mid="v66017015">
+			</marker>
+			<v n="15">“The waters that you saw, where the prostitute is seated, are peoples and multitudes and nations and languages.</v>
+			<marker class="begin-verse" mid="v66017016">
+			</marker>
+			<v n="16">burn her up with fire,</v>
+			<marker class="begin-verse" mid="v66017017">
+			</marker>
+			<v n="17">handing over their royal power to the beast, until the words of God are fulfilled.</v>
+			<marker class="begin-verse" mid="v66017018">
+			</marker>
+			<v n="18">the great city that has dominion over the kings of the earth.”</v>
+			<marker class="begin-verse" mid="v66017019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">17:6 Greek *the witnesses to Jesus*</footnote>
+				<footnote id="2">17:8 Greek *the abyss*</footnote>
+				<footnote id="3">17:15 Greek *he*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

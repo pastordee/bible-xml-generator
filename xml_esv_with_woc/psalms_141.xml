@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:27.468625</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:27.468636</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19141001">
+		</marker>
+		<chapter num="141">
+			<heading>
+				Psalm 141
+			</heading>
+			<heading>
+				Give Ear to My Voice
+			</heading>
+			<heading>
+				A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Give ear to my voice when I call to you!</v>
+			<marker class="begin-verse" mid="v19141002">
+			</marker>
+			<v n="2">the evening sacrifice!</v>
+			<marker class="begin-verse" mid="v19141003">
+			</marker>
+			<v n="3">keep watch over the door of my lips!</v>
+			<marker class="begin-verse" mid="v19141004">
+			</marker>
+			<v n="4">let me not eat of their delicacies!</v>
+			<marker class="begin-verse" mid="v19141005">
+			</marker>
+			<v n="5">my prayer is continually against their evil deeds.</v>
+			<marker class="begin-verse" mid="v19141006">
+			</marker>
+			<v n="6">then they shall hear my words, for they are pleasant.</v>
+			<marker class="begin-verse" mid="v19141007">
+			</marker>
+			<v n="7">be scattered at the mouth of Sheol.</v>
+			<marker class="begin-verse" mid="v19141008">
+			</marker>
+			<v n="8">in you I seek refuge; leave me not defenseless!</v>
+			<marker class="begin-verse" mid="v19141009">
+			</marker>
+			<v n="9">and from the snares of evildoers!</v>
+			<marker class="begin-verse" mid="v19141010">
+			</marker>
+			<v n="10">while I pass by safely.</v>
+			<marker class="begin-verse" mid="v19141011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">141:6 Or *When their judges fall into the hands of the Rock*</footnote>
+				<footnote id="2">141:7 The meaning of the Hebrew in verses 6, 7 is uncertain</footnote>
+				<footnote id="3">141:8 Hebrew *refuge; do not pour out my life!*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

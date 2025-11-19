@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:47.052822</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:47.052829</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19032001">
+		</marker>
+		<chapter num="32">
+			<heading>
+				Psalm 32
+			</heading>
+			<heading>
+				Blessed Are the Forgiven
+			</heading>
+			<heading>
+				A Maskil(1) of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">whose sin is covered .</v>
+			<marker class="begin-verse" mid="v19032002">
+			</marker>
+			<v n="2">and in whose spirit<crossref let="m" cid="c19032002.2" />there is no deceit .</v>
+			<marker class="begin-verse" mid="v19032003">
+			</marker>
+			<v n="3">through my<crossref let="o" cid="c19032003.2" />groaning all day long .</v>
+			<marker class="begin-verse" mid="v19032004">
+			</marker>
+			<v n="4">my strength was dried up as by the heat of summer . Selah</v>
+			<marker class="begin-verse" mid="v19032005">
+			</marker>
+			<v n="5">and you forgave the iniquity of my sin . Selah</v>
+			<marker class="begin-verse" mid="v19032006">
+			</marker>
+			<v n="6">they shall not reach him .</v>
+			<marker class="begin-verse" mid="v19032007">
+			</marker>
+			<v n="7">you surround me with<crossref let="x" cid="c19032007.3" />shouts of deliverance . Selah</v>
+			<marker class="begin-verse" mid="v19032008">
+			</marker>
+			<v n="8">I will<crossref let="z" cid="c19032008.2" />counsel you with my eye upon you .</v>
+			<marker class="begin-verse" mid="v19032009">
+			</marker>
+			<v n="9">or it will not stay near you .</v>
+			<marker class="begin-verse" mid="v19032010">
+			</marker>
+			<v n="10">but steadfast love surrounds the one who<crossref let="d" cid="c19032010.2" />trusts in the Lord .</v>
+			<marker class="begin-verse" mid="v19032011">
+			</marker>
+			<v n="11">and<crossref let="f" cid="c19032011.2" />shout for joy , all you<crossref let="g" cid="c19032011.3" />upright in heart !</v>
+			<marker class="begin-verse" mid="v19032012">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">32:1 Probably a musical or liturgical term</footnote>
+				<footnote id="2">32:4 Hebrew *my vitality was changed*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

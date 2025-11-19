@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:01:10.048593</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:01:10.048600</next_refresh_due>
+	</generation_info>
+	<book title="Numbers" num="4" testament="old" bookAbbr="num" version="ESV">
+		<marker class="begin-verse" mid="v04002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Numbers 2
+			</heading>
+			<heading>
+				Arrangement of the Camp
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">The Lord spoke to Moses and Aaron , saying ,</v>
+			<marker class="begin-verse" mid="v04002002">
+			</marker>
+			<v n="2">
+				<crossref let="s" cid="c04002002.1" />“ The people of Israel shall camp each by his own standard , with the banners of their fathers’ houses . They shall camp facing the tent of meeting on every side .</v>
+			<marker class="begin-verse" mid="v04002003">
+			</marker>
+			<v n="3">Those to camp on the east side toward the sunrise shall be of the standard of the camp of Judah by their companies , the chief of the people of Judah being<crossref let="t" cid="c04002003.1" />Nahshon the son of Amminadab ,</v>
+			<marker class="begin-verse" mid="v04002004">
+			</marker>
+			<v n="4">his company as listed being 74,600 .</v>
+			<marker class="begin-verse" mid="v04002005">
+			</marker>
+			<v n="5">Those to camp next to him shall be the tribe of Issachar , the chief of the people of Issachar being Nethanel the son of Zuar ,</v>
+			<marker class="begin-verse" mid="v04002006">
+			</marker>
+			<v n="6">his company as listed being 54,400 .</v>
+			<marker class="begin-verse" mid="v04002007">
+			</marker>
+			<v n="7">Then the tribe of Zebulun , the chief of the people of Zebulun being Eliab the son of Helon ,</v>
+			<marker class="begin-verse" mid="v04002008">
+			</marker>
+			<v n="8">his company as listed being 57,400 .</v>
+			<marker class="begin-verse" mid="v04002009">
+			</marker>
+			<v n="9">All those listed of the camp of Judah , by their companies , were 186,400 .<crossref let="u" cid="c04002009.1" />They shall set out first on the march .</v>
+			<marker class="begin-verse" mid="v04002010">
+			</marker>
+			<v n="10">“ On the south side shall be the standard of the camp of Reuben by their companies , the chief of the people of Reuben being Elizur the son of Shedeur ,</v>
+			<marker class="begin-verse" mid="v04002011">
+			</marker>
+			<v n="11">his company as listed being 46,500 .</v>
+			<marker class="begin-verse" mid="v04002012">
+			</marker>
+			<v n="12">And those to camp next to him shall be the tribe of Simeon , the chief of the people of Simeon being Shelumiel the son of Zurishaddai ,</v>
+			<marker class="begin-verse" mid="v04002013">
+			</marker>
+			<v n="13">his company as listed being 59,300 .</v>
+			<marker class="begin-verse" mid="v04002014">
+			</marker>
+			<v n="14">Then the tribe of Gad , the chief of the people of Gad being Eliasaph the son of<crossref let="v" cid="c04002014.1" />Reuel ,</v>
+			<marker class="begin-verse" mid="v04002015">
+			</marker>
+			<v n="15">his company as listed being 45,650 .</v>
+			<marker class="begin-verse" mid="v04002016">
+			</marker>
+			<v n="16">All those listed of the camp of Reuben , by their companies , were 151,450 .<crossref let="w" cid="c04002016.1" />They shall set out second .</v>
+			<marker class="begin-verse" mid="v04002017">
+			</marker>
+			<v n="17">
+				<crossref let="x" cid="c04002017.1" />“ Then the tent of meeting shall set out , with the camp of the Levites in the midst of the camps ; as they camp , so shall they set out , each in position , standard by standard .</v>
+			<marker class="begin-verse" mid="v04002018">
+			</marker>
+			<v n="18">“ On the west side shall be the standard of the camp of Ephraim by their companies , the chief of the people of Ephraim being Elishama the son of Ammihud ,</v>
+			<marker class="begin-verse" mid="v04002019">
+			</marker>
+			<v n="19">his company as listed being 40,500 .</v>
+			<marker class="begin-verse" mid="v04002020">
+			</marker>
+			<v n="20">And next to him shall be the tribe of Manasseh , the chief of the people of Manasseh being Gamaliel the son of Pedahzur ,</v>
+			<marker class="begin-verse" mid="v04002021">
+			</marker>
+			<v n="21">his company as listed being 32,200 .</v>
+			<marker class="begin-verse" mid="v04002022">
+			</marker>
+			<v n="22">Then the tribe of Benjamin , the chief of the people of Benjamin being Abidan the son of Gideoni ,</v>
+			<marker class="begin-verse" mid="v04002023">
+			</marker>
+			<v n="23">his company as listed being 35,400 .</v>
+			<marker class="begin-verse" mid="v04002024">
+			</marker>
+			<v n="24">All those listed of the camp of Ephraim , by their companies , were 108,100 .<crossref let="y" cid="c04002024.1" />They shall set out third on the march .</v>
+			<marker class="begin-verse" mid="v04002025">
+			</marker>
+			<v n="25">“ On the north side shall be the standard of the camp of Dan by their companies , the chief of the people of Dan being Ahiezer the son of Ammishaddai ,</v>
+			<marker class="begin-verse" mid="v04002026">
+			</marker>
+			<v n="26">his company as listed being 62,700 .</v>
+			<marker class="begin-verse" mid="v04002027">
+			</marker>
+			<v n="27">And those to camp next to him shall be the tribe of Asher , the chief of the people of Asher being Pagiel the son of Ochran ,</v>
+			<marker class="begin-verse" mid="v04002028">
+			</marker>
+			<v n="28">his company as listed being 41,500 .</v>
+			<marker class="begin-verse" mid="v04002029">
+			</marker>
+			<v n="29">Then the tribe of Naphtali , the chief of the people of Naphtali being Ahira the son of Enan ,</v>
+			<marker class="begin-verse" mid="v04002030">
+			</marker>
+			<v n="30">his company as listed being 53,400 .</v>
+			<marker class="begin-verse" mid="v04002031">
+			</marker>
+			<v n="31">All those listed of the camp of Dan were 157,600 .<crossref let="z" cid="c04002031.1" />They shall set out last , standard by standard . ”</v>
+			<marker class="begin-verse" mid="v04002032">
+			</marker>
+			<v n="32">These are the people of Israel as listed by their fathers’ houses . All those listed in the camps by their companies were<crossref let="a" cid="c04002032.1" />603,550 .</v>
+			<marker class="begin-verse" mid="v04002033">
+			</marker>
+			<v n="33">But<crossref let="b" cid="c04002033.1" />the Levites were not listed among the people of Israel , as the Lord commanded Moses .</v>
+			<marker class="begin-verse" mid="v04002034">
+			</marker>
+			<v n="34">Thus did the people of Israel . According to all that the Lord commanded Moses ,<crossref let="c" cid="c04002034.1" />so they camped by their standards , and so they set out , each one in his clan , according to his fathers’ house .</v>
+			<marker class="begin-verse" mid="v04002035">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

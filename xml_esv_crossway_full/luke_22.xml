@@ -1,0 +1,392 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:37.779909</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:37.779917</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42022001">
+		</marker>
+		<chapter num="22">
+			<heading>
+				Luke 22
+			</heading>
+			<heading>
+				The Plot to Kill Jesus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="r" cid="c42022001.1" />Now the Feast of Unleavened Bread drew near , which is called<crossref let="s" cid="c42022001.2" />the Passover .</v>
+			<marker class="begin-verse" mid="v42022002">
+			</marker>
+			<v n="2">And the chief priests and the scribes<crossref let="t" cid="c42022002.1" />were seeking how to put him to death , for they feared the people .</v>
+			<marker class="begin-verse" mid="v42022003">
+			</marker>
+			<v n="3">
+				<crossref let="u" cid="c42022003.1" />Then<crossref let="v" cid="c42022003.2" />Satan entered into<crossref let="w" cid="c42022003.3" />Judas called Iscariot , who was of the number of the twelve .</v>
+			<marker class="begin-verse" mid="v42022004">
+			</marker>
+			<v n="4">He went away and conferred with the chief priests and<crossref let="x" cid="c42022004.1" />officers how he might betray him to them .</v>
+			<marker class="begin-verse" mid="v42022005">
+			</marker>
+			<v n="5">And they were glad , and agreed to give him money .</v>
+			<marker class="begin-verse" mid="v42022006">
+			</marker>
+			<v n="6">So he consented and sought an opportunity to<crossref let="y" cid="c42022006.1" />betray him to them in the absence of a crowd .</v>
+			<marker class="begin-verse" mid="v42022007">
+			</marker>
+			<v n="7">
+				<crossref let="z" cid="c42022007.2" />Then came<crossref let="a" cid="c42022007.1" />the day of Unleavened Bread , on which the Passover lamb had to be sacrificed .</v>
+			<marker class="begin-verse" mid="v42022008">
+			</marker>
+			<v n="8">So Jesus sent Peter and John , saying ,<woc>“ Go and prepare the Passover for us , that we may eat it . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022009">
+			</marker>
+			<v n="9">They said to him , “ Where will you have us prepare it ? ”</v>
+			<marker class="begin-verse" mid="v42022010">
+			</marker>
+			<v n="10">He said to them ,<woc>“ Behold , when you have entered the city , a man carrying a jar of water will meet you . Follow him into the house that he enters</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022011">
+			</marker>
+			<v n="11">
+				<woc>and tell the master of the house ,</woc>
+				<crossref let="b" cid="c42022011.1" />
+				<woc>‘ The Teacher says to you , Where is</woc>
+				<crossref let="c" cid="c42022011.2" />
+				<woc>the guest room , where I may eat the Passover with my disciples ? ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022012">
+			</marker>
+			<v n="12">
+				<woc>And he will show you</woc>
+				<crossref let="d" cid="c42022012.1" />
+				<woc>a large upper room furnished ; prepare it there . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022013">
+			</marker>
+			<v n="13">And they went and found it<crossref let="e" cid="c42022013.1" />just as he had told them , and they prepared the Passover .</v>
+			<marker class="begin-verse" mid="v42022014">
+			</marker>
+			<v n="14">
+				<crossref let="f" cid="c42022014.1" />And when the hour came , he reclined at table , and the apostles with him .</v>
+			<marker class="begin-verse" mid="v42022015">
+			</marker>
+			<v n="15">And he said to them ,<woc>“ I have earnestly desired to eat this Passover with you before I suffer .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022016">
+			</marker>
+			<v n="16">
+				<woc>For I tell you I will not eat it</woc>
+				<crossref let="g" cid="c42022016.1" />
+				<woc>until it is fulfilled in the kingdom of God . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022017">
+			</marker>
+			<v n="17">And he took a cup , and<crossref let="h" cid="c42022017.1" />when he had given thanks he said ,<woc>“ Take this , and divide it among yourselves .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022018">
+			</marker>
+			<v n="18">
+				<crossref let="i" cid="c42022018.2" />
+				<woc>For I tell you that from now on I will not drink of the fruit of the vine</woc>
+				<crossref let="g" cid="c42022018.1" />
+				<woc>until the kingdom of God comes . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022019">
+			</marker>
+			<v n="19">
+				<crossref let="j" cid="c42022019.2" />And he took bread , and<crossref let="h" cid="c42022019.1" />when he had given thanks , he broke it and gave it to them , saying ,<crossref let="k" cid="c42022019.3" />
+				<woc>“ This is my body , which is given for you . Do this in remembrance of me . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022020">
+			</marker>
+			<v n="20">And likewise the cup after they had eaten , saying ,<crossref let="k" cid="c42022020.1" />
+				<woc>“ This cup that is poured out for you is</woc>
+				<crossref let="l" cid="c42022020.2" />
+				<woc>the new</woc>
+				<crossref let="m" cid="c42022020.3" />
+				<woc>covenant in my blood .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022021">
+			</marker>
+			<v n="21">
+				<crossref let="n" cid="c42022021.1" />
+				<woc>But behold , the hand of him who betrays me is</woc>
+				<crossref let="o" cid="c42022021.2" />
+				<woc>with me on the table .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022022">
+			</marker>
+			<v n="22">
+				<woc>For the Son of Man goes</woc>
+				<crossref let="p" cid="c42022022.1" />
+				<woc>as it has been determined , but woe to that man by whom he is betrayed ! ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022023">
+			</marker>
+			<v n="23">And they began to question one another , which of them it could be who was going to do this .</v>
+			<marker class="begin-verse" mid="v42022024">
+			</marker>
+			<v n="24">
+				<crossref let="q" cid="c42022024.1" />A dispute also arose among them , as to which of them was to be regarded as the greatest .</v>
+			<marker class="begin-verse" mid="v42022025">
+			</marker>
+			<v n="25">
+				<crossref let="r" cid="c42022025.1" />And he said to them ,<woc>“ The kings of the Gentiles</woc>
+				<crossref let="s" cid="c42022025.2" />
+				<woc>exercise lordship over them , and those in authority over them are called benefactors .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022026">
+			</marker>
+			<v n="26">
+				<crossref let="t" cid="c42022026.2" />
+				<woc>But not so with you . Rather , let</woc>
+				<crossref let="s" cid="c42022026.1" />
+				<woc>the greatest among you become as the youngest , and the leader as one who serves .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022027">
+			</marker>
+			<v n="27">
+				<woc>For who is the greater ,</woc>
+				<crossref let="u" cid="c42022027.1" />
+				<woc>one who reclines at table or one who serves ? Is it not the one who reclines at table ? But</woc>
+				<crossref let="v" cid="c42022027.2" />
+				<woc>I am among you as the one who serves .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022028">
+			</marker>
+			<v n="28">
+				<woc>“ You are those who have stayed with me</woc>
+				<crossref let="w" cid="c42022028.1" />
+				<woc>in my trials ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022029">
+			</marker>
+			<v n="29">
+				<woc>and</woc>
+				<crossref let="x" cid="c42022029.1" />
+				<woc>I assign to you , as my Father assigned to me , a kingdom ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022030">
+			</marker>
+			<v n="30">
+				<crossref let="y" cid="c42022030.2" />
+				<woc>that you may eat and drink at my table in my kingdom and</woc>
+				<crossref let="z" cid="c42022030.3" />
+				<woc>sit on thrones judging</woc>
+				<crossref let="a" cid="c42022030.1" />
+				<woc>the twelve tribes of Israel .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022031">
+			</marker>
+			<v n="31">
+				<woc>“ Simon , Simon , behold ,</woc>
+				<crossref let="b" cid="c42022031.1" />
+				<woc>Satan demanded to have you ,</woc>
+				<crossref let="c" cid="c42022031.2" />
+				<woc>that he might sift you like wheat ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022032">
+			</marker>
+			<v n="32">
+				<woc>but</woc>
+				<crossref let="d" cid="c42022032.1" />
+				<woc>I have prayed for you that your faith may not fail . And when you have turned again ,</woc>
+				<crossref let="e" cid="c42022032.2" />
+				<woc>strengthen your brothers . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022033">
+			</marker>
+			<v n="33">Peter said to him , “ Lord , I am ready to go with you both<crossref let="f" cid="c42022033.1" />to prison and<crossref let="g" cid="c42022033.2" />to death . ”</v>
+			<marker class="begin-verse" mid="v42022034">
+			</marker>
+			<v n="34">
+				<crossref let="h" cid="c42022034.1" />Jesus said ,<woc>“ I tell you , Peter , the rooster will not crow this day , until you deny three times that you know me . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022035">
+			</marker>
+			<v n="35">They said , “ Nothing . ”<crossref let="i" cid="c42022035.1" />
+				<woc>“ When I sent you out with no moneybag or knapsack or sandals , did you lack anything ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022036">
+			</marker>
+			<v n="36">He said to them ,<woc>“ But now let the one who has a moneybag take it , and likewise a knapsack . And let the one who has no sword sell his cloak and buy one .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022037">
+			</marker>
+			<v n="37">
+				<woc>For I tell you that</woc>
+				<crossref let="j" cid="c42022037.1" />
+				<woc>this Scripture must be fulfilled in me :</woc>
+				<crossref let="k" cid="c42022037.2" />
+				<woc>‘ And he was numbered with the transgressors . ’ For</woc>
+				<crossref let="l" cid="c42022037.3" />
+				<woc>what is written about me has its fulfillment . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022038">
+			</marker>
+			<v n="38">And they said , “ Look , Lord , here are two<crossref let="m" cid="c42022038.1" />swords . ” And he said to them ,<crossref let="n" cid="c42022038.2" />
+				<woc>“ It is enough . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022039">
+			</marker>
+			<v n="39">
+				<crossref let="o" cid="c42022039.1" />And he came out and went ,<crossref let="p" cid="c42022039.2" />as was his custom , to<crossref let="q" cid="c42022039.3" />the Mount of Olives , and the disciples followed him .</v>
+			<marker class="begin-verse" mid="v42022040">
+			</marker>
+			<v n="40">
+				<crossref let="r" cid="c42022040.1" />And when he came to<crossref let="s" cid="c42022040.2" />the place , he said to them ,<crossref let="t" cid="c42022040.3" />
+				<woc>“ Pray that you may not</woc>
+				<crossref let="u" cid="c42022040.4" />
+				<woc>enter into temptation . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022041">
+			</marker>
+			<v n="41">And he withdrew from them about a stone’s throw , and<crossref let="v" cid="c42022041.1" />knelt down and prayed ,</v>
+			<marker class="begin-verse" mid="v42022042">
+			</marker>
+			<v n="42">saying ,<crossref let="w" cid="c42022042.1" />
+				<woc>“ Father , if you are willing , remove</woc>
+				<crossref let="x" cid="c42022042.2" />
+				<woc>this cup from me .</woc>
+				<crossref let="y" cid="c42022042.3" />
+				<woc>Nevertheless , not my will , but yours , be done . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022043">
+			</marker>
+			<v n="43">And there appeared to him<crossref let="z" cid="c42022043.1" />an angel from heaven , strengthening him .</v>
+			<marker class="begin-verse" mid="v42022044">
+			</marker>
+			<v n="44">And<crossref let="w" cid="c42022044.1" />being in agony he prayed more earnestly ; and his sweat became like great drops of blood falling down to the ground .</v>
+			<marker class="begin-verse" mid="v42022045">
+			</marker>
+			<v n="45">And when he rose from prayer , he came to the disciples and found them sleeping for sorrow ,</v>
+			<marker class="begin-verse" mid="v42022046">
+			</marker>
+			<v n="46">and he said to them ,<woc>“ Why are you sleeping ? Rise and</woc>
+				<crossref let="a" cid="c42022046.1" />
+				<woc>pray that you may not enter into temptation . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022047">
+			</marker>
+			<v n="47">
+				<crossref let="b" cid="c42022047.1" />While he was still speaking , there came a crowd , and the man called<crossref let="c" cid="c42022047.2" />Judas , one of the twelve , was leading them . He drew near to Jesus to kiss him ,</v>
+			<marker class="begin-verse" mid="v42022048">
+			</marker>
+			<v n="48">but Jesus said to him ,<woc>“ Judas , would you betray the Son of Man with a kiss ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022049">
+			</marker>
+			<v n="49">And when those who were around him saw what would follow , they said , “ Lord , shall we strike<crossref let="d" cid="c42022049.1" />with the sword ? ”</v>
+			<marker class="begin-verse" mid="v42022050">
+			</marker>
+			<v n="50">And one of them struck the servant of the high priest and cut off his right ear .</v>
+			<marker class="begin-verse" mid="v42022051">
+			</marker>
+			<v n="51">And he touched his ear and healed him .<woc>“ No more of this ! ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022052">
+			</marker>
+			<v n="52">Then Jesus said to the chief priests and<crossref let="e" cid="c42022052.1" />officers of the temple and elders , who had come out against him ,<woc>“ Have you come out as against a robber , with swords and clubs ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022053">
+			</marker>
+			<v n="53">
+				<woc>When</woc>
+				<crossref let="f" cid="c42022053.1" />
+				<woc>I was with you day after day in the temple , you did not lay hands on me . But this is</woc>
+				<crossref let="g" cid="c42022053.2" />
+				<woc>your hour , and</woc>
+				<crossref let="h" cid="c42022053.3" />
+				<woc>the power of darkness . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022054">
+			</marker>
+			<v n="54">
+				<crossref let="i" cid="c42022054.1" />Then they seized him and led him away , bringing him into the high priest’s house ,<crossref let="j" cid="c42022054.2" />and Peter was following at a distance .</v>
+			<marker class="begin-verse" mid="v42022055">
+			</marker>
+			<v n="55">
+				<crossref let="k" cid="c42022055.1" />And when they had kindled a fire in the middle of<crossref let="l" cid="c42022055.2" />the courtyard and sat down together , Peter sat down among them .</v>
+			<marker class="begin-verse" mid="v42022056">
+			</marker>
+			<v n="56">Then a servant girl , seeing him as he sat in the light and looking closely at him , said , “ This man also was with him . ”</v>
+			<marker class="begin-verse" mid="v42022057">
+			</marker>
+			<v n="57">But he denied it , saying , “ Woman , I do not know him . ”</v>
+			<marker class="begin-verse" mid="v42022058">
+			</marker>
+			<v n="58">And a little later someone else saw him and said , “ You also are one of them . ” But Peter said , “ Man , I am not . ”</v>
+			<marker class="begin-verse" mid="v42022059">
+			</marker>
+			<v n="59">And after an interval of about an hour still another<crossref let="m" cid="c42022059.1" />insisted , saying , “ Certainly this man also was with him , for he too is a Galilean . ”</v>
+			<marker class="begin-verse" mid="v42022060">
+			</marker>
+			<v n="60">But Peter said , “ Man , I do not know what you are talking about . ” And immediately , while he was still speaking , the rooster crowed .</v>
+			<marker class="begin-verse" mid="v42022061">
+			</marker>
+			<v n="61">And the Lord turned and<crossref let="n" cid="c42022061.1" />looked at Peter . And Peter remembered the saying of the Lord , how he had said to him ,<crossref let="o" cid="c42022061.2" />
+				<woc>“ Before the rooster crows today , you will</woc>
+				<crossref let="p" cid="c42022061.3" />
+				<woc>deny me three times . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022062">
+			</marker>
+			<v n="62">And he went out and wept bitterly .</v>
+			<marker class="begin-verse" mid="v42022063">
+			</marker>
+			<v n="63">
+				<crossref let="q" cid="c42022063.1" />Now the men who were holding Jesus in custody were mocking him as they beat him .</v>
+			<marker class="begin-verse" mid="v42022064">
+			</marker>
+			<v n="64">
+				<crossref let="q" cid="c42022064.1" />They also blindfolded him and kept asking him ,<crossref let="r" cid="c42022064.2" />“ Prophesy !<crossref let="r" cid="c42022064.2" />Who is it that struck you ? ”</v>
+			<marker class="begin-verse" mid="v42022065">
+			</marker>
+			<v n="65">And they said many other things against him ,<crossref let="s" cid="c42022065.1" />blaspheming him .</v>
+			<marker class="begin-verse" mid="v42022066">
+			</marker>
+			<v n="66">
+				<crossref let="t" cid="c42022066.1" />When day came ,<crossref let="u" cid="c42022066.2" />the assembly of the elders of the people gathered together , both chief priests and scribes . And they led him away to their<crossref let="v" cid="c42022066.3" />council , and they<crossref let="w" cid="c42022066.4" />said ,</v>
+			<marker class="begin-verse" mid="v42022067">
+			</marker>
+			<v n="67">
+				<crossref let="x" cid="c42022067.1" />“ If you are<crossref let="y" cid="c42022067.2" />the Christ , tell us . ” But he said to them ,<woc>“ If I tell you , you will not believe ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022068">
+			</marker>
+			<v n="68">
+				<woc>and if I ask you , you will not answer .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022069">
+			</marker>
+			<v n="69">
+				<woc>But from now on the Son of Man shall be seated</woc>
+				<crossref let="z" cid="c42022069.1" />
+				<woc>at the right hand of the power of God . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022070">
+			</marker>
+			<v n="70">So they all said , “ Are you<crossref let="a" cid="c42022070.1" />the Son of God , then ? ” And he said to them ,<crossref let="b" cid="c42022070.2" />
+				<woc>“ You say that I am . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42022071">
+			</marker>
+			<v n="71">Then they said , “ What further testimony do we need ? We have heard it ourselves from his own lips . ”</v>
+			<marker class="begin-verse" mid="v42022072">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

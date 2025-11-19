@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:30.376885</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:30.376894</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19143001">
+		</marker>
+		<chapter num="143">
+			<heading>
+				Psalm 143
+			</heading>
+			<heading>
+				My Soul Thirsts for You
+			</heading>
+			<heading>
+				A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">In your faithfulness answer me, in your<crossref let="c" cid="c19143001.1" />righteousness!</v>
+			<marker class="begin-verse" mid="v19143002">
+			</marker>
+			<v n="2">for no one living is righteous<crossref let="e" cid="c19143002.1" />before you.</v>
+			<marker class="begin-verse" mid="v19143003">
+			</marker>
+			<v n="3">
+				<crossref let="g" cid="c19143003.1" />he has made me sit in darkness like those long dead.</v>
+			<marker class="begin-verse" mid="v19143004">
+			</marker>
+			<v n="4">my heart within me is appalled.</v>
+			<marker class="begin-verse" mid="v19143005">
+			</marker>
+			<v n="5">I ponder the work of your hands.</v>
+			<marker class="begin-verse" mid="v19143006">
+			</marker>
+			<v n="6">
+				<crossref let="l" cid="c19143006.1" />my soul thirsts for you like<crossref let="m" cid="c19143006.2" />a parched land. Selah</v>
+			<marker class="begin-verse" mid="v19143007">
+			</marker>
+			<v n="7">
+				<crossref let="q" cid="c19143007.3" />lest I be like those who go down to the pit.</v>
+			<marker class="begin-verse" mid="v19143008">
+			</marker>
+			<v n="8">
+				<crossref let="u" cid="c19143008.3" />for to you I lift up my soul.</v>
+			<marker class="begin-verse" mid="v19143009">
+			</marker>
+			<v n="9">I have fled to you for refuge.</v>
+			<marker class="begin-verse" mid="v19143010">
+			</marker>
+			<v n="10">on<crossref let="z" cid="c19143010.4" />level ground!</v>
+			<marker class="begin-verse" mid="v19143011">
+			</marker>
+			<v n="11">bring my soul out of trouble!</v>
+			<marker class="begin-verse" mid="v19143012">
+			</marker>
+			<v n="12">servant.</v>
+			<marker class="begin-verse" mid="v19143013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">143:9 One Hebrew manuscript, Septuagint; most Hebrew manuscripts *To you I have covered*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

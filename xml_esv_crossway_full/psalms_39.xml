@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:57.328959</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:57.328966</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19039001">
+		</marker>
+		<chapter num="39">
+			<heading>
+				Psalm 39
+			</heading>
+			<heading>
+				What Is the Measure of My Days?
+			</heading>
+			<heading>
+				To the choirmaster: to Jeduthun. A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">so long as the wicked are in my presence . ”</v>
+			<marker class="begin-verse" mid="v19039002">
+			</marker>
+			<v n="2">and my distress grew worse .</v>
+			<marker class="begin-verse" mid="v19039003">
+			</marker>
+			<v n="3">then I spoke with my tongue :</v>
+			<marker class="begin-verse" mid="v19039004">
+			</marker>
+			<v n="4">let me know how fleeting I am !</v>
+			<marker class="begin-verse" mid="v19039005">
+			</marker>
+			<v n="5">Surely<crossref let="d" cid="c19039005.2" />all mankind stands as a mere breath ! Selah</v>
+			<marker class="begin-verse" mid="v19039006">
+			</marker>
+			<v n="6">man<crossref let="f" cid="c19039006.2" />heaps up wealth and does not know who will gather !</v>
+			<marker class="begin-verse" mid="v19039007">
+			</marker>
+			<v n="7">
+				<crossref let="g" cid="c19039007.1" />My hope is in you .</v>
+			<marker class="begin-verse" mid="v19039008">
+			</marker>
+			<v n="8">
+				<crossref let="h" cid="c19039008.1" />Do not make me the scorn of the fool !</v>
+			<marker class="begin-verse" mid="v19039009">
+			</marker>
+			<v n="9">
+				<crossref let="j" cid="c19039009.2" />for it is you who have done it .</v>
+			<marker class="begin-verse" mid="v19039010">
+			</marker>
+			<v n="10">I am spent by the hostility of your hand .</v>
+			<marker class="begin-verse" mid="v19039011">
+			</marker>
+			<v n="11">
+				<crossref let="o" cid="c19039011.4" />surely all mankind is a mere breath ! Selah</v>
+			<marker class="begin-verse" mid="v19039012">
+			</marker>
+			<v n="12">
+				<crossref let="q" cid="c19039012.2" />a guest , like all my fathers .</v>
+			<marker class="begin-verse" mid="v19039013">
+			</marker>
+			<v n="13">
+				<crossref let="s" cid="c19039013.2" />before I depart and<crossref let="t" cid="c19039013.3" />am no more ! ”</v>
+			<marker class="begin-verse" mid="v19039014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">39:6 Hebrew *Surely as a breath*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

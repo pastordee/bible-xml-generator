@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:03:06.005434</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:03:06.005453</next_refresh_due>
+	</generation_info>
+	<book title="Joshua" num="6" testament="old" bookAbbr="jos" version="ESV">
+		<marker class="begin-verse" mid="v06011001">
+		</marker>
+		<chapter num="11">
+			<heading>
+				Joshua 11
+			</heading>
+			<heading>
+				Conquests in Northern Canaan
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">When Jabin , king of Hazor , heard of this , he<crossref let="z" cid="c06011001.1" />sent to Jobab king of Madon , and to the king of Shimron , and to the king of Achshaph ,</v>
+			<marker class="begin-verse" mid="v06011002">
+			</marker>
+			<v n="2">and to the kings who were in the northern hill country , and in the<crossref let="a" cid="c06011002.1" />Arabah south of<crossref let="b" cid="c06011002.2" />Chinneroth , and in the lowland , and<crossref let="c" cid="c06011002.3" />in Naphoth-dor on the<crossref let="d" cid="c06011002.4" />west ,</v>
+			<marker class="begin-verse" mid="v06011003">
+			</marker>
+			<v n="3">to the Canaanites in the east and the west , the Amorites , the Hittites , the Perizzites , and the<crossref let="e" cid="c06011003.1" />Jebusites in the hill country , and the<crossref let="f" cid="c06011003.2" />Hivites under<crossref let="g" cid="c06011003.3" />Hermon in the land of<crossref let="h" cid="c06011003.4" />Mizpah .</v>
+			<marker class="begin-verse" mid="v06011004">
+			</marker>
+			<v n="4">And they came out with all their troops , a great horde , in number<crossref let="i" cid="c06011004.1" />like the sand that is on the seashore , with very many horses and chariots .</v>
+			<marker class="begin-verse" mid="v06011005">
+			</marker>
+			<v n="5">And all these kings joined their forces and came and encamped together at the waters of Merom to fight against Israel .</v>
+			<marker class="begin-verse" mid="v06011006">
+			</marker>
+			<v n="6">And the Lord said to Joshua ,<crossref let="j" cid="c06011006.1" />“ Do not be afraid of them , for tomorrow at this time I will give over all of them , slain , to Israel . You shall<crossref let="k" cid="c06011006.2" />hamstring their horses and burn their<crossref let="l" cid="c06011006.3" />chariots with fire . ”</v>
+			<marker class="begin-verse" mid="v06011007">
+			</marker>
+			<v n="7">So Joshua and all his warriors came<crossref let="m" cid="c06011007.1" />suddenly against them by the waters of Merom and fell upon them .</v>
+			<marker class="begin-verse" mid="v06011008">
+			</marker>
+			<v n="8">And the Lord gave them into the hand of Israel , who struck them and chased them as far as<crossref let="n" cid="c06011008.1" />Great Sidon and<crossref let="o" cid="c06011008.2" />Misrephoth-maim , and eastward as far as the Valley of<crossref let="p" cid="c06011008.3" />Mizpeh . And they struck them until he left none remaining .</v>
+			<marker class="begin-verse" mid="v06011009">
+			</marker>
+			<v n="9">And Joshua did to them<crossref let="q" cid="c06011009.1" />just as the Lord said to him : he hamstrung their horses and burned their chariots with fire .</v>
+			<marker class="begin-verse" mid="v06011010">
+			</marker>
+			<v n="10">And Joshua turned back at that time and captured<crossref let="r" cid="c06011010.1" />Hazor and struck its king with the sword , for Hazor formerly was the head of all those kingdoms .</v>
+			<marker class="begin-verse" mid="v06011011">
+			</marker>
+			<v n="11">And they struck with the sword all who were in it , devoting them to destruction ;<crossref let="s" cid="c06011011.1" />there was none left that breathed . And he burned Hazor with fire .</v>
+			<marker class="begin-verse" mid="v06011012">
+			</marker>
+			<v n="12">And all the cities of those kings , and all their kings , Joshua captured , and struck them with the edge of the sword , devoting them to destruction ,<crossref let="t" cid="c06011012.1" />just as Moses the servant of the Lord had commanded .</v>
+			<marker class="begin-verse" mid="v06011013">
+			</marker>
+			<v n="13">But none of the cities that stood on mounds did Israel burn , except Hazor alone ; that Joshua burned .</v>
+			<marker class="begin-verse" mid="v06011014">
+			</marker>
+			<v n="14">And all the spoil of these cities and the livestock , the people of Israel took for their plunder . But every person they struck with the edge of the sword until they had destroyed them , and they did not leave any who breathed .</v>
+			<marker class="begin-verse" mid="v06011015">
+			</marker>
+			<v n="15">
+				<crossref let="u" cid="c06011015.1" />Just as the Lord had commanded Moses his servant ,<crossref let="v" cid="c06011015.2" />so Moses commanded Joshua ,<crossref let="w" cid="c06011015.3" />and so Joshua did . He left nothing undone of all that the Lord had commanded Moses .</v>
+			<marker class="begin-verse" mid="v06011016">
+			</marker>
+			<v n="16">So Joshua took all that land ,<crossref let="x" cid="c06011016.2" />the hill country and all the Negeb and<crossref let="y" cid="c06011016.3" />all the land of Goshen<crossref let="z" cid="c06011016.4" />and the lowland<crossref let="z" cid="c06011016.4" />and the Arabah<crossref let="a" cid="c06011016.1" />and the hill country of Israel and its lowland</v>
+			<marker class="begin-verse" mid="v06011017">
+			</marker>
+			<v n="17">
+				<crossref let="b" cid="c06011017.1" />from Mount Halak , which rises toward Seir , as far as<crossref let="c" cid="c06011017.2" />Baal-gad in the Valley of Lebanon below<crossref let="d" cid="c06011017.3" />Mount Hermon . And he captured<crossref let="e" cid="c06011017.4" />all their kings and struck them and put them to death .</v>
+			<marker class="begin-verse" mid="v06011018">
+			</marker>
+			<v n="18">Joshua made war<crossref let="f" cid="c06011018.1" />a long time with all those kings .</v>
+			<marker class="begin-verse" mid="v06011019">
+			</marker>
+			<v n="19">There was not a city that made peace with the people of Israel except<crossref let="g" cid="c06011019.1" />the Hivites , the inhabitants of Gibeon . They took them all in battle .</v>
+			<marker class="begin-verse" mid="v06011020">
+			</marker>
+			<v n="20">For it was the Lord ’s doing<crossref let="h" cid="c06011020.1" />to harden their hearts that they should come against Israel in battle , in order that they should be devoted to destruction and should receive no mercy but be destroyed ,<crossref let="i" cid="c06011020.2" />just as the Lord commanded Moses .</v>
+			<marker class="begin-verse" mid="v06011021">
+			</marker>
+			<v n="21">And Joshua came at that time and cut off<crossref let="j" cid="c06011021.1" />the Anakim from the hill country , from Hebron , from Debir , from Anab , and from all the hill country of Judah , and from all the hill country of Israel . Joshua devoted them to destruction with their cities .</v>
+			<marker class="begin-verse" mid="v06011022">
+			</marker>
+			<v n="22">There was none of the Anakim left in the land of the people of Israel . Only in Gaza ,<crossref let="k" cid="c06011022.1" />in Gath , and in Ashdod did some remain .</v>
+			<marker class="begin-verse" mid="v06011023">
+			</marker>
+			<v n="23">So Joshua took the whole land ,<crossref let="l" cid="c06011023.1" />according to all that the Lord had spoken to Moses .<crossref let="m" cid="c06011023.2" />And Joshua gave it for an inheritance to Israel<crossref let="n" cid="c06011023.3" />according to their tribal allotments . And the land had rest from war .</v>
+			<marker class="begin-verse" mid="v06011024">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">11:11 That is, setting apart (devoting) as an offering to the Lord (for destruction); also verses 12, 20, 21</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

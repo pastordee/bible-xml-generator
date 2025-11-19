@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:32:26.781585</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:32:26.781595</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" bookAbbr="ezr" version="ESV">
+		<marker class="begin-verse" mid="v15005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				Ezra 5
+			</heading>
+			<heading>
+				Rebuilding Begins Anew
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">5 Now the prophets,<crossref let="a" cid="c15005001.1" />Haggai and<crossref let="b" cid="c15005001.2" />Zechariah the son of Iddo, prophesied to the Jews who were in Judah and Jerusalem, in the name of the God of Israel who was over them.</v>
+			<marker class="begin-verse" mid="v15005002">
+			</marker>
+			<v n="2">
+				<crossref let="c" cid="c15005002.1" />Then Zerubbabel the son of Shealtiel and<crossref let="d" cid="c15005002.2" />Jeshua the son of Jozadak arose and began to rebuild the house of God that is in Jerusalem, and the prophets of God were<crossref let="e" cid="c15005002.3" />with them, supporting them.</v>
+			<marker class="begin-verse" mid="v15005003">
+			</marker>
+			<v n="3">At the same time<crossref let="f" cid="c15005003.1" />Tattenai the governor of the province Beyond the River and Shethar-bozenai and their associates came to them and spoke to them thus:<crossref let="g" cid="c15005003.2" />“Who gave you a decree to build this house and to finish this structure?”</v>
+			<marker class="begin-verse" mid="v15005004">
+			</marker>
+			<v n="4">They also asked them this: “What are the names of the men who are building this building?”</v>
+			<marker class="begin-verse" mid="v15005005">
+			</marker>
+			<v n="5">But<crossref let="h" cid="c15005005.1" />the eye of their God was on the elders of the Jews, and they did not stop them until the report should reach Darius and then an answer be returned by letter concerning it.</v>
+			<marker class="begin-verse" mid="v15005006">
+			</marker>
+			<v n="6">This is a copy of the letter that<crossref let="i" cid="c15005006.2" />Tattenai the governor of the province Beyond the River and Shethar-bozenai and his associates, the governors who were in the province Beyond the River, sent to Darius the king.</v>
+			<marker class="begin-verse" mid="v15005007">
+			</marker>
+			<v n="7">They sent him a report, in which was written as follows: “To Darius the king, all peace.</v>
+			<marker class="begin-verse" mid="v15005008">
+			</marker>
+			<v n="8">Be it known to the king that we went to the province of Judah, to the house of the great God. It is being built with huge stones, and timber is laid in the walls. This work goes on diligently and prospers in their hands.</v>
+			<marker class="begin-verse" mid="v15005009">
+			</marker>
+			<v n="9">‘Who gave you a decree to build this house and to finish this structure?’</v>
+			<marker class="begin-verse" mid="v15005010">
+			</marker>
+			<v n="10">We also asked them their names, for your information, that we might write down the names of their leaders.</v>
+			<marker class="begin-verse" mid="v15005011">
+			</marker>
+			<v n="11">finished.</v>
+			<marker class="begin-verse" mid="v15005012">
+			</marker>
+			<v n="12">gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this house and carried away the people to Babylonia.</v>
+			<marker class="begin-verse" mid="v15005013">
+			</marker>
+			<v n="13">However, in the first year of Cyrus king of Babylon, Cyrus the king made a decree that this house of God should be rebuilt.</v>
+			<marker class="begin-verse" mid="v15005014">
+			</marker>
+			<v n="14">Sheshbazzar, whom he had made governor;</v>
+			<marker class="begin-verse" mid="v15005015">
+			</marker>
+			<v n="15">and he said to him, “Take these vessels, go and put them in the temple that is in Jerusalem, and let the house of God be rebuilt on its site.”</v>
+			<marker class="begin-verse" mid="v15005016">
+			</marker>
+			<v n="16">not yet finished.’</v>
+			<marker class="begin-verse" mid="v15005017">
+			</marker>
+			<v n="17">let search be made in the royal archives there in Babylon, to see whether a decree was issued by Cyrus the king for the rebuilding of this house of God in Jerusalem. And let the king send us his pleasure in this matter.”</v>
+			<marker class="begin-verse" mid="v15005018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

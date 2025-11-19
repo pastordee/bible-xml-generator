@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:45.414966</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:45.414976</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" bookAbbr="rev" version="ESV">
+		<marker class="begin-verse" mid="v66013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				Revelation 13
+			</heading>
+			<heading>
+				The First Beast
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">blasphemous names on its heads.</v>
+			<marker class="begin-verse" mid="v66013002">
+			</marker>
+			<v n="2">his throne and great authority.</v>
+			<marker class="begin-verse" mid="v66013003">
+			</marker>
+			<v n="3">the whole earth marveled as they followed the beast.</v>
+			<marker class="begin-verse" mid="v66013004">
+			</marker>
+			<v n="4">“Who is like the beast, and who can fight against it?”</v>
+			<marker class="begin-verse" mid="v66013005">
+			</marker>
+			<v n="5">forty-two months.</v>
+			<marker class="begin-verse" mid="v66013006">
+			</marker>
+			<v n="6">It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven.</v>
+			<marker class="begin-verse" mid="v66013007">
+			</marker>
+			<v n="7">to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation,</v>
+			<marker class="begin-verse" mid="v66013008">
+			</marker>
+			<v n="8">who was slain.</v>
+			<marker class="begin-verse" mid="v66013009">
+			</marker>
+			<v n="9">If anyone has an ear, let him hear:</v>
+			<marker class="begin-verse" mid="v66013010">
+			</marker>
+			<v n="10">Here is a call for the endurance and faith of the saints.</v>
+			<marker class="begin-verse" mid="v66013011">
+			</marker>
+			<v n="11">I saw another beast rising out of the earth. It had two horns like a lamb and it spoke like a dragon.</v>
+			<marker class="begin-verse" mid="v66013012">
+			</marker>
+			<v n="12">whose mortal wound was healed.</v>
+			<marker class="begin-verse" mid="v66013013">
+			</marker>
+			<v n="13">making fire come down from heaven to earth in front of people,</v>
+			<marker class="begin-verse" mid="v66013014">
+			</marker>
+			<v n="14">that was wounded by the sword and yet lived.</v>
+			<marker class="begin-verse" mid="v66013015">
+			</marker>
+			<v n="15">to be slain.</v>
+			<marker class="begin-verse" mid="v66013016">
+			</marker>
+			<v n="16">to be marked on the right hand or the forehead,</v>
+			<marker class="begin-verse" mid="v66013017">
+			</marker>
+			<v n="17">the number of its name.</v>
+			<marker class="begin-verse" mid="v66013018">
+			</marker>
+			<v n="18">of a man, and his number is 666.</v>
+			<marker class="begin-verse" mid="v66013019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">13:6 Or *tabernacle*</footnote>
+				<footnote id="2">13:7 Some manuscripts omit this sentence</footnote>
+				<footnote id="3">13:12 Or *on its behalf*</footnote>
+				<footnote id="4">13:14 Or *on behalf of*</footnote>
+				<footnote id="5">13:16 For the contextual rendering of the Greek word *doulos*, see Preface</footnote>
+				<footnote id="6">13:18 Some manuscripts *616*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

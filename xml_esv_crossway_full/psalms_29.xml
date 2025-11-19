@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:42.663422</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:42.663454</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19029001">
+		</marker>
+		<chapter num="29">
+			<heading>
+				Psalm 29
+			</heading>
+			<heading>
+				Ascribe to the LORD Glory
+			</heading>
+			<heading>
+				A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="c" cid="c19029001.1" />ascribe to the Lord glory and strength .</v>
+			<marker class="begin-verse" mid="v19029002">
+			</marker>
+			<v n="2">worship the Lord in<crossref let="d" cid="c19029002.1" />the splendor of holiness .</v>
+			<marker class="begin-verse" mid="v19029003">
+			</marker>
+			<v n="3">the Lord , over many waters .</v>
+			<marker class="begin-verse" mid="v19029004">
+			</marker>
+			<v n="4">the voice of the Lord is full of majesty .</v>
+			<marker class="begin-verse" mid="v19029005">
+			</marker>
+			<v n="5">the Lord breaks<crossref let="h" cid="c19029005.1" />the cedars of Lebanon .</v>
+			<marker class="begin-verse" mid="v19029006">
+			</marker>
+			<v n="6">and<crossref let="j" cid="c19029006.2" />Sirion like a young<crossref let="k" cid="c19029006.3" />wild ox .</v>
+			<marker class="begin-verse" mid="v19029007">
+			</marker>
+			<v n="7">The voice of the Lord flashes forth flames of fire .</v>
+			<marker class="begin-verse" mid="v19029008">
+			</marker>
+			<v n="8">the Lord shakes the wilderness of<crossref let="l" cid="c19029008.1" />Kadesh .</v>
+			<marker class="begin-verse" mid="v19029009">
+			</marker>
+			<v n="9">and in his temple all cry , “ Glory ! ”</v>
+			<marker class="begin-verse" mid="v19029010">
+			</marker>
+			<v n="10">the Lord sits enthroned<crossref let="o" cid="c19029010.2" />as king forever .</v>
+			<marker class="begin-verse" mid="v19029011">
+			</marker>
+			<v n="11">May the Lord bless his people with<crossref let="q" cid="c19029011.2" />peace !</v>
+			<marker class="begin-verse" mid="v19029012">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">29:1 Hebrew *sons of God*, or *sons of might*</footnote>
+				<footnote id="2">29:2 Or *in holy attire*</footnote>
+				<footnote id="3">29:9 Revocalization yields *makes the oaks to shake*</footnote>
+				<footnote id="4">29:11 Or *The Lord will give . . . The Lord will bless*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

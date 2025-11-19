@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:31.678367</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:31.678379</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19103001">
+		</marker>
+		<chapter num="103">
+			<heading>
+				Psalm 103
+			</heading>
+			<heading>
+				Bless the LORD, O My Soul
+			</heading>
+			<heading>
+				Of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">bless his holy name !</v>
+			<marker class="begin-verse" mid="v19103002">
+			</marker>
+			<v n="2">and<crossref let="z" cid="c19103002.2" />forget not all his benefits ,</v>
+			<marker class="begin-verse" mid="v19103003">
+			</marker>
+			<v n="3">who<crossref let="b" cid="c19103003.2" />heals all your diseases ,</v>
+			<marker class="begin-verse" mid="v19103004">
+			</marker>
+			<v n="4">who<crossref let="d" cid="c19103004.2" />crowns you with steadfast love and mercy ,</v>
+			<marker class="begin-verse" mid="v19103005">
+			</marker>
+			<v n="5">so that your youth is renewed like<crossref let="f" cid="c19103005.2" />the eagle’s .</v>
+			<marker class="begin-verse" mid="v19103006">
+			</marker>
+			<v n="6">and justice for all who are oppressed .</v>
+			<marker class="begin-verse" mid="v19103007">
+			</marker>
+			<v n="7">his<crossref let="i" cid="c19103007.2" />acts to the people of Israel .</v>
+			<marker class="begin-verse" mid="v19103008">
+			</marker>
+			<v n="8">slow to anger and abounding in steadfast love .</v>
+			<marker class="begin-verse" mid="v19103009">
+			</marker>
+			<v n="9">nor will he<crossref let="l" cid="c19103009.2" />keep his anger forever .</v>
+			<marker class="begin-verse" mid="v19103010">
+			</marker>
+			<v n="10">nor repay us according to our iniquities .</v>
+			<marker class="begin-verse" mid="v19103011">
+			</marker>
+			<v n="11">so great is his<crossref let="o" cid="c19103011.2" />steadfast love toward<crossref let="p" cid="c19103011.3" />those who fear him ;</v>
+			<marker class="begin-verse" mid="v19103012">
+			</marker>
+			<v n="12">so far does he<crossref let="q" cid="c19103012.1" />remove our transgressions from us .</v>
+			<marker class="begin-verse" mid="v19103013">
+			</marker>
+			<v n="13">so the Lord shows compassion<crossref let="p" cid="c19103013.1" />to those who fear him .</v>
+			<marker class="begin-verse" mid="v19103014">
+			</marker>
+			<v n="14">he<crossref let="s" cid="c19103014.1" />remembers that we are dust .</v>
+			<marker class="begin-verse" mid="v19103015">
+			</marker>
+			<v n="15">he flourishes like<crossref let="u" cid="c19103015.2" />a flower of the field ;</v>
+			<marker class="begin-verse" mid="v19103016">
+			</marker>
+			<v n="16">and<crossref let="x" cid="c19103016.3" />its place knows it no more .</v>
+			<marker class="begin-verse" mid="v19103017">
+			</marker>
+			<v n="17">and his righteousness to<crossref let="z" cid="c19103017.3" />children’s children ,</v>
+			<marker class="begin-verse" mid="v19103018">
+			</marker>
+			<v n="18">and<crossref let="b" cid="c19103018.2" />remember to do his commandments .</v>
+			<marker class="begin-verse" mid="v19103019">
+			</marker>
+			<v n="19">and his<crossref let="d" cid="c19103019.2" />kingdom rules over all .</v>
+			<marker class="begin-verse" mid="v19103020">
+			</marker>
+			<v n="20">obeying the voice of his word !</v>
+			<marker class="begin-verse" mid="v19103021">
+			</marker>
+			<v n="21">his<crossref let="i" cid="c19103021.2" />ministers , who do his will !</v>
+			<marker class="begin-verse" mid="v19103022">
+			</marker>
+			<v n="22">
+				<crossref let="k" cid="c19103022.2" />Bless the Lord , O my soul !</v>
+			<marker class="begin-verse" mid="v19103023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">103:14 Or *knows how we are formed*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

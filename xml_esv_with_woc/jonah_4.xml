@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:34.609864</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:34.609871</next_refresh_due>
+	</generation_info>
+	<book title="Jonah" num="32" testament="old" bookAbbr="jon" version="ESV">
+		<marker class="begin-verse" mid="v32004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				Jonah 4
+			</heading>
+			<heading>
+				Jonah’s Anger and the LORD’s Compassion
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">he was angry.</v>
+			<marker class="begin-verse" mid="v32004002">
+			</marker>
+			<v n="2">relenting from disaster.</v>
+			<marker class="begin-verse" mid="v32004003">
+			</marker>
+			<v n="3">for it is better for me to die than to live.”</v>
+			<marker class="begin-verse" mid="v32004004">
+			</marker>
+			<v n="4">“Do you do well to be angry?”</v>
+			<marker class="begin-verse" mid="v32004005">
+			</marker>
+			<v n="5">made a booth for himself there. He sat under it in the shade, till he should see what would become of the city.</v>
+			<marker class="begin-verse" mid="v32004006">
+			</marker>
+			<v n="6">Now the Lord God appointed a plant and made it come up over Jonah, that it might be a shade over his head, to save him from his discomfort. So Jonah was exceedingly glad because of the plant.</v>
+			<marker class="begin-verse" mid="v32004007">
+			</marker>
+			<v n="7">But when dawn came up the next day, God appointed a worm that attacked the plant, so that it withered.</v>
+			<marker class="begin-verse" mid="v32004008">
+			</marker>
+			<v n="8">“It is better for me to die than to live.”</v>
+			<marker class="begin-verse" mid="v32004009">
+			</marker>
+			<v n="9">“Do you do well to be angry for the plant?” And he said, “Yes, I do well to be angry, angry enough to die.”</v>
+			<marker class="begin-verse" mid="v32004010">
+			</marker>
+			<v n="10">And the Lord said, “You pity the plant, for which you did not labor, nor did you make it grow, which came into being in a night and perished in a night.</v>
+			<marker class="begin-verse" mid="v32004011">
+			</marker>
+			<v n="11">cattle?”</v>
+			<marker class="begin-verse" mid="v32004012">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

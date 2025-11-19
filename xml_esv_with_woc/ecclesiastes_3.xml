@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:30.295294</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:30.295301</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" bookAbbr="ecc" version="ESV">
+		<marker class="begin-verse" mid="v21003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Ecclesiastes 3
+			</heading>
+			<heading>
+				A Time for Everything
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">a time for every matter under heaven:</v>
+			<marker class="begin-verse" mid="v21003002">
+			</marker>
+			<v n="2">a time to plant, and a time to pluck up what is planted;</v>
+			<marker class="begin-verse" mid="v21003003">
+			</marker>
+			<v n="3">a time to break down, and a time to build up;</v>
+			<marker class="begin-verse" mid="v21003004">
+			</marker>
+			<v n="4">dance;</v>
+			<marker class="begin-verse" mid="v21003005">
+			</marker>
+			<v n="5">refrain from embracing;</v>
+			<marker class="begin-verse" mid="v21003006">
+			</marker>
+			<v n="6">cast away;</v>
+			<marker class="begin-verse" mid="v21003007">
+			</marker>
+			<v n="7">keep silence, and a time to speak;</v>
+			<marker class="begin-verse" mid="v21003008">
+			</marker>
+			<v n="8">a time for war, and a time for peace.</v>
+			<marker class="begin-verse" mid="v21003009">
+			</marker>
+			<v n="9">gain has the worker from his toil?</v>
+			<marker class="begin-verse" mid="v21003010">
+			</marker>
+			<v n="10">God has given to the children of man to be busy with.</v>
+			<marker class="begin-verse" mid="v21003011">
+			</marker>
+			<v n="11">find out what God has done from the beginning to the end.</v>
+			<marker class="begin-verse" mid="v21003012">
+			</marker>
+			<v n="12">do good as long as they live;</v>
+			<marker class="begin-verse" mid="v21003013">
+			</marker>
+			<v n="13">God's gift to man.</v>
+			<marker class="begin-verse" mid="v21003014">
+			</marker>
+			<v n="14">nothing can be added to it, nor anything taken from it. God has done it, so that people fear before him.</v>
+			<marker class="begin-verse" mid="v21003015">
+			</marker>
+			<v n="15">seeks what has been driven away.</v>
+			<marker class="begin-verse" mid="v21003016">
+			</marker>
+			<v n="16">there was wickedness, and in the place of righteousness, even there was wickedness.</v>
+			<marker class="begin-verse" mid="v21003017">
+			</marker>
+			<v n="17">a time for every matter and for every work.</v>
+			<marker class="begin-verse" mid="v21003018">
+			</marker>
+			<v n="18">beasts.</v>
+			<marker class="begin-verse" mid="v21003019">
+			</marker>
+			<v n="19">For what happens to the children of man and what happens to the beasts is the same; as one dies, so dies the other. They all have the same breath, and man has no advantage over the beasts, for all is vanity.</v>
+			<marker class="begin-verse" mid="v21003020">
+			</marker>
+			<v n="20">the dust, and to dust all return.</v>
+			<marker class="begin-verse" mid="v21003021">
+			</marker>
+			<v n="21">the spirit of man goes upward and the spirit of the beast goes down into the earth?</v>
+			<marker class="begin-verse" mid="v21003022">
+			</marker>
+			<v n="22">what will be after him?</v>
+			<marker class="begin-verse" mid="v21003023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">3:15 Hebrew *what has been pursued*</footnote>
+				<footnote id="2">3:19 The Hebrew term *hebel* can refer to a “vapor” or “mere breath” (see note on 1:2)</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

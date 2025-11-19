@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:03:39.823545</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:03:39.823553</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" bookAbbr="zec" version="ESV">
+		<marker class="begin-verse" mid="v38004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				Zechariah 4
+			</heading>
+			<heading>
+				A Vision of a Golden Lampstand
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">And<crossref let="f" cid="c38004001.1" />the angel who talked with me came again<crossref let="g" cid="c38004001.2" />and woke me , like a man who is awakened out of his sleep .</v>
+			<marker class="begin-verse" mid="v38004002">
+			</marker>
+			<v n="2">And he said to me , “ What do you see ? ” I said , “ I see , and behold ,<crossref let="h" cid="c38004002.1" />a lampstand all of gold , with a bowl on the top of it , and<crossref let="i" cid="c38004002.2" />seven lamps on it , with seven lips on each of the lamps that are on the top of it .</v>
+			<marker class="begin-verse" mid="v38004003">
+			</marker>
+			<v n="3">And there are<crossref let="j" cid="c38004003.1" />two olive trees by it , one on the right of the bowl and the other on its left . ”</v>
+			<marker class="begin-verse" mid="v38004004">
+			</marker>
+			<v n="4">And I said to<crossref let="f" cid="c38004004.1" />the angel who talked with me , “ What are these , my lord ? ”</v>
+			<marker class="begin-verse" mid="v38004005">
+			</marker>
+			<v n="5">Then the angel who talked with me answered and said to me ,<crossref let="k" cid="c38004005.1" />“ Do you not know what these are ? ” I said , “ No , my lord . ”</v>
+			<marker class="begin-verse" mid="v38004006">
+			</marker>
+			<v n="6">Then he said to me , “ This is the word of the Lord to<crossref let="l" cid="c38004006.1" />Zerubbabel :<crossref let="m" cid="c38004006.2" />Not by might , nor by power , but by my Spirit , says the Lord of hosts .</v>
+			<marker class="begin-verse" mid="v38004007">
+			</marker>
+			<v n="7">Who are you ,<crossref let="n" cid="c38004007.2" />O great mountain ? Before<crossref let="l" cid="c38004007.1" />Zerubbabel<crossref let="o" cid="c38004007.3" />you shall become a plain . And he shall bring forward<crossref let="p" cid="c38004007.4" />the top stone amid shouts of ‘ Grace , grace to it ! ’ ”</v>
+			<marker class="begin-verse" mid="v38004008">
+			</marker>
+			<v n="8">Then the word of the Lord came to me , saying ,</v>
+			<marker class="begin-verse" mid="v38004009">
+			</marker>
+			<v n="9">
+				<crossref let="q" cid="c38004009.2" />“ The hands of<crossref let="l" cid="c38004009.1" />Zerubbabel have laid the foundation of this house ; his hands shall also<crossref let="r" cid="c38004009.3" />complete it .<crossref let="s" cid="c38004009.4" />Then you will know that the Lord of hosts has sent me to you .</v>
+			<marker class="begin-verse" mid="v38004010">
+			</marker>
+			<v n="10">
+				<crossref let="v" cid="c38004010.3" />“ These seven<crossref let="v" cid="c38004010.3" />are the eyes of the Lord ,<crossref let="w" cid="c38004010.4" />which range through the whole earth . ”</v>
+			<marker class="begin-verse" mid="v38004011">
+			</marker>
+			<v n="11">Then I said to him , “ What are these<crossref let="j" cid="c38004011.1" />two olive trees on the right and the left of the lampstand ? ”</v>
+			<marker class="begin-verse" mid="v38004012">
+			</marker>
+			<v n="12">And a second time I answered and said to him , “ What are these<crossref let="j" cid="c38004012.1" />two branches of the olive trees , which are beside the two golden pipes from which the golden oil is poured out ? ”</v>
+			<marker class="begin-verse" mid="v38004013">
+			</marker>
+			<v n="13">He said to me ,<crossref let="x" cid="c38004013.1" />“ Do you not know what these are ? ” I said , “ No , my lord . ”</v>
+			<marker class="begin-verse" mid="v38004014">
+			</marker>
+			<v n="14">Then he said ,<crossref let="y" cid="c38004014.1" />“ These are the two anointed ones who stand by<crossref let="z" cid="c38004014.2" />the Lord of the whole earth . ”</v>
+			<marker class="begin-verse" mid="v38004015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

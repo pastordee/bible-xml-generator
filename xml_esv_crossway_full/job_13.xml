@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:26.955285</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:26.955293</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				Job 13
+			</heading>
+			<heading>
+				Job Continues: Still I Will Hope in God
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">my ear has heard and understood it .</v>
+			<marker class="begin-verse" mid="v18013002">
+			</marker>
+			<v n="2">I am not inferior to you .</v>
+			<marker class="begin-verse" mid="v18013003">
+			</marker>
+			<v n="3">and I desire to<crossref let="e" cid="c18013003.2" />argue my case with God .</v>
+			<marker class="begin-verse" mid="v18013004">
+			</marker>
+			<v n="4">
+				<crossref let="g" cid="c18013004.2" />worthless physicians are you all .</v>
+			<marker class="begin-verse" mid="v18013005">
+			</marker>
+			<v n="5">and it would be your wisdom !</v>
+			<marker class="begin-verse" mid="v18013006">
+			</marker>
+			<v n="6">and listen to the pleadings of my lips .</v>
+			<marker class="begin-verse" mid="v18013007">
+			</marker>
+			<v n="7">and speak<crossref let="i" cid="c18013007.1" />deceitfully for him ?</v>
+			<marker class="begin-verse" mid="v18013008">
+			</marker>
+			<v n="8">Will you<crossref let="j" cid="c18013008.1" />plead the case for God ?</v>
+			<marker class="begin-verse" mid="v18013009">
+			</marker>
+			<v n="9">Or<crossref let="l" cid="c18013009.2" />can you deceive him , as one deceives a man ?</v>
+			<marker class="begin-verse" mid="v18013010">
+			</marker>
+			<v n="10">if in secret you show partiality .</v>
+			<marker class="begin-verse" mid="v18013011">
+			</marker>
+			<v n="11">and the dread of him fall upon you ?</v>
+			<marker class="begin-verse" mid="v18013012">
+			</marker>
+			<v n="12">your defenses are defenses of clay .</v>
+			<marker class="begin-verse" mid="v18013013">
+			</marker>
+			<v n="13">and let come on me what may .</v>
+			<marker class="begin-verse" mid="v18013014">
+			</marker>
+			<v n="14">and<crossref let="o" cid="c18013014.1" />put my life in my hand ?</v>
+			<marker class="begin-verse" mid="v18013015">
+			</marker>
+			<v n="15">yet I will<crossref let="r" cid="c18013015.3" />argue my ways to his face .</v>
+			<marker class="begin-verse" mid="v18013016">
+			</marker>
+			<v n="16">that the godless shall not come before him .</v>
+			<marker class="begin-verse" mid="v18013017">
+			</marker>
+			<v n="17">and let my declaration be in your ears .</v>
+			<marker class="begin-verse" mid="v18013018">
+			</marker>
+			<v n="18">I know that I shall be in the right .</v>
+			<marker class="begin-verse" mid="v18013019">
+			</marker>
+			<v n="19">For then I would be silent and die .</v>
+			<marker class="begin-verse" mid="v18013020">
+			</marker>
+			<v n="20">then I will not<crossref let="v" cid="c18013020.1" />hide myself from your face :</v>
+			<marker class="begin-verse" mid="v18013021">
+			</marker>
+			<v n="21">and let not<crossref let="x" cid="c18013021.2" />dread of you terrify me .</v>
+			<marker class="begin-verse" mid="v18013022">
+			</marker>
+			<v n="22">or let me speak , and you reply to me .</v>
+			<marker class="begin-verse" mid="v18013023">
+			</marker>
+			<v n="23">
+				<crossref let="z" cid="c18013023.1" />Make me know my transgression and my sin .</v>
+			<marker class="begin-verse" mid="v18013024">
+			</marker>
+			<v n="24">and<crossref let="b" cid="c18013024.2" />count me as your enemy ?</v>
+			<marker class="begin-verse" mid="v18013025">
+			</marker>
+			<v n="25">and pursue dry<crossref let="d" cid="c18013025.2" />chaff ?</v>
+			<marker class="begin-verse" mid="v18013026">
+			</marker>
+			<v n="26">and make me inherit<crossref let="f" cid="c18013026.2" />the iniquities of my youth .</v>
+			<marker class="begin-verse" mid="v18013027">
+			</marker>
+			<v n="27">you set a limit for the soles of my feet .</v>
+			<marker class="begin-verse" mid="v18013028">
+			</marker>
+			<v n="28">like a garment that is<crossref let="j" cid="c18013028.2" />moth-eaten .</v>
+			<marker class="begin-verse" mid="v18013029">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">13:15 Or *Behold, he will slay me; I have no hope*</footnote>
+				<footnote id="2">13:27 Or *you marked*</footnote>
+				<footnote id="3">13:28 Hebrew *He*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

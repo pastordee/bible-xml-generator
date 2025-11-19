@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:54:40.446847</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:54:40.446854</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23054001">
+		</marker>
+		<chapter num="54">
+			<heading>
+				Isaiah 54
+			</heading>
+			<heading>
+				The Eternal Covenant of Peace
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">than the children of her who is married,” says the Lord .</v>
+			<marker class="begin-verse" mid="v23054002">
+			</marker>
+			<v n="2">and strengthen your stakes.</v>
+			<marker class="begin-verse" mid="v23054003">
+			</marker>
+			<v n="3">and will people the desolate cities.</v>
+			<marker class="begin-verse" mid="v23054004">
+			</marker>
+			<v n="4">and the reproach of your widowhood you will remember no more.</v>
+			<marker class="begin-verse" mid="v23054005">
+			</marker>
+			<v n="5">the God of the whole earth he is called.</v>
+			<marker class="begin-verse" mid="v23054006">
+			</marker>
+			<v n="6">says your God.</v>
+			<marker class="begin-verse" mid="v23054007">
+			</marker>
+			<v n="7">but with great compassion I will gather you.</v>
+			<marker class="begin-verse" mid="v23054008">
+			</marker>
+			<v n="8">says the Lord , your Redeemer.</v>
+			<marker class="begin-verse" mid="v23054009">
+			</marker>
+			<v n="9">and will not rebuke you.</v>
+			<marker class="begin-verse" mid="v23054010">
+			</marker>
+			<v n="10">says the Lord , who has compassion on you.</v>
+			<marker class="begin-verse" mid="v23054011">
+			</marker>
+			<v n="11">
+				<crossref let="v" cid="c23054011.1" />and lay your foundations with sapphires.</v>
+			<marker class="begin-verse" mid="v23054012">
+			</marker>
+			<v n="12">and all your wall of precious stones.</v>
+			<marker class="begin-verse" mid="v23054013">
+			</marker>
+			<v n="13">
+				<crossref let="y" cid="c23054013.2" />and great shall be the peace of your children.</v>
+			<marker class="begin-verse" mid="v23054014">
+			</marker>
+			<v n="14">and from terror, for it shall not come near you.</v>
+			<marker class="begin-verse" mid="v23054015">
+			</marker>
+			<v n="15">shall fall because of you.</v>
+			<marker class="begin-verse" mid="v23054016">
+			</marker>
+			<v n="16">I have also created the ravager to destroy;</v>
+			<marker class="begin-verse" mid="v23054017">
+			</marker>
+			<v n="17">and their vindication from me, declares the Lord .”</v>
+			<marker class="begin-verse" mid="v23054018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">54:9 Some manuscripts *For this is as the waters of Noah*</footnote>
+				<footnote id="2">54:11 Or *lapis lazuli*</footnote>
+				<footnote id="3">54:12 Or *jasper*, or *ruby*</footnote>
+				<footnote id="4">54:12 Or *crystal*</footnote>
+				<footnote id="5">54:17 Or *righteousness*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

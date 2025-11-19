@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:02.014602</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:02.014611</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19083001">
+		</marker>
+		<chapter num="83">
+			<heading>
+				Psalm 83
+			</heading>
+			<heading>
+				O God, Do Not Keep Silence
+			</heading>
+			<heading>
+				A Song. A Psalm of Asaph.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="h" cid="c19083001.1" />do not hold your peace or be still , O God !</v>
+			<marker class="begin-verse" mid="v19083002">
+			</marker>
+			<v n="2">those who hate you have<crossref let="j" cid="c19083002.2" />raised their heads .</v>
+			<marker class="begin-verse" mid="v19083003">
+			</marker>
+			<v n="3">they consult together against your<crossref let="l" cid="c19083003.2" />treasured ones .</v>
+			<marker class="begin-verse" mid="v19083004">
+			</marker>
+			<v n="4">let the name of Israel be remembered no more ! ”</v>
+			<marker class="begin-verse" mid="v19083005">
+			</marker>
+			<v n="5">against you they make a covenant —</v>
+			<marker class="begin-verse" mid="v19083006">
+			</marker>
+			<v n="6">
+				<crossref let="p" cid="c19083006.3" />Moab and<crossref let="q" cid="c19083006.4" />the Hagrites ,</v>
+			<marker class="begin-verse" mid="v19083007">
+			</marker>
+			<v n="7">
+				<crossref let="t" cid="c19083007.4" />Philistia with the inhabitants of<crossref let="u" cid="c19083007.5" />Tyre ;</v>
+			<marker class="begin-verse" mid="v19083008">
+			</marker>
+			<v n="8">they are the strong arm of<crossref let="w" cid="c19083008.2" />the children of Lot . Selah</v>
+			<marker class="begin-verse" mid="v19083009">
+			</marker>
+			<v n="9">as to<crossref let="y" cid="c19083009.2" />Sisera and Jabin at<crossref let="z" cid="c19083009.3" />the river Kishon ,</v>
+			<marker class="begin-verse" mid="v19083010">
+			</marker>
+			<v n="10">who became<crossref let="b" cid="c19083010.2" />dung for the ground .</v>
+			<marker class="begin-verse" mid="v19083011">
+			</marker>
+			<v n="11">all their princes like<crossref let="d" cid="c19083011.2" />Zebah and Zalmunna ,</v>
+			<marker class="begin-verse" mid="v19083012">
+			</marker>
+			<v n="12">of the pastures of God . ”</v>
+			<marker class="begin-verse" mid="v19083013">
+			</marker>
+			<v n="13">like<crossref let="g" cid="c19083013.2" />chaff before the wind .</v>
+			<marker class="begin-verse" mid="v19083014">
+			</marker>
+			<v n="14">as the flame<crossref let="i" cid="c19083014.2" />sets the mountains ablaze ,</v>
+			<marker class="begin-verse" mid="v19083015">
+			</marker>
+			<v n="15">and terrify them with your hurricane !</v>
+			<marker class="begin-verse" mid="v19083016">
+			</marker>
+			<v n="16">that they may seek your name , O Lord .</v>
+			<marker class="begin-verse" mid="v19083017">
+			</marker>
+			<v n="17">let them perish in disgrace ,</v>
+			<marker class="begin-verse" mid="v19083018">
+			</marker>
+			<v n="18">are<crossref let="o" cid="c19083018.3" />the Most High over all the earth .</v>
+			<marker class="begin-verse" mid="v19083019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">83:13 Or *like a tumbleweed*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

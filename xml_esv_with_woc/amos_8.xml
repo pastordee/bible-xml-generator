@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:25.882705</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:25.882714</next_refresh_due>
+	</generation_info>
+	<book title="Amos" num="30" testament="old" bookAbbr="amo" version="ESV">
+		<marker class="begin-verse" mid="v30008001">
+		</marker>
+		<chapter num="8">
+			<heading>
+				Amos 8
+			</heading>
+			<heading>
+				The Coming Day of Bitter Mourning
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">8<crossref let="a" cid="c30008001.1" />This is what the Lord God showed me: behold, a basket of summer fruit.</v>
+			<marker class="begin-verse" mid="v30008002">
+			</marker>
+			<v n="2">I will never again pass by them.</v>
+			<marker class="begin-verse" mid="v30008003">
+			</marker>
+			<v n="3">
+				<crossref let="h" cid="c30008003.4" />“Silence!”</v>
+			<marker class="begin-verse" mid="v30008004">
+			</marker>
+			<v n="4">and bring the poor of the land to an end,</v>
+			<marker class="begin-verse" mid="v30008005">
+			</marker>
+			<v n="5">and deal deceitfully with false balances,</v>
+			<marker class="begin-verse" mid="v30008006">
+			</marker>
+			<v n="6">and sell the chaff of the wheat?”</v>
+			<marker class="begin-verse" mid="v30008007">
+			</marker>
+			<v n="7">“Surely<crossref let="o" cid="c30008007.2" />I will never forget any of their deeds.</v>
+			<marker class="begin-verse" mid="v30008008">
+			</marker>
+			<v n="8">and be tossed about<crossref let="r" cid="c30008008.3" />and sink again, like the Nile of Egypt?”</v>
+			<marker class="begin-verse" mid="v30008009">
+			</marker>
+			<v n="9">and darken the earth in broad daylight.</v>
+			<marker class="begin-verse" mid="v30008010">
+			</marker>
+			<v n="10">and the end of it like a bitter day.</v>
+			<marker class="begin-verse" mid="v30008011">
+			</marker>
+			<v n="11">but of hearing the words of the Lord .</v>
+			<marker class="begin-verse" mid="v30008012">
+			</marker>
+			<v n="12">but they shall not find it.</v>
+			<marker class="begin-verse" mid="v30008013">
+			</marker>
+			<v n="13">faint for thirst.</v>
+			<marker class="begin-verse" mid="v30008014">
+			</marker>
+			<v n="14">they shall fall, and never rise again.”</v>
+			<marker class="begin-verse" mid="v30008015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">8:2 The Hebrew words for *end* and *summer fruit* sound alike</footnote>
+				<footnote id="2">8:3 Or *palace*</footnote>
+				<footnote id="3">8:3 Or *The singing women of the palace shall wail*</footnote>
+				<footnote id="4">8:5 An *ephah* was about 3/5 bushel or 22 liters; a *shekel* was about 2/5 ounce or 11 grams</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

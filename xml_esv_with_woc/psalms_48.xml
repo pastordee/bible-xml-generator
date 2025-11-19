@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:10.619982</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:10.619991</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19048001">
+		</marker>
+		<chapter num="48">
+			<heading>
+				Psalm 48
+			</heading>
+			<heading>
+				Zion, the City of Our God
+			</heading>
+			<heading>
+				A Song. A Psalm of the Sons of Korah.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">holy mountain,</v>
+			<marker class="begin-verse" mid="v19048002">
+			</marker>
+			<v n="2">the city of the great King.</v>
+			<marker class="begin-verse" mid="v19048003">
+			</marker>
+			<v n="3">has made himself known as a fortress.</v>
+			<marker class="begin-verse" mid="v19048004">
+			</marker>
+			<v n="4">they came on together.</v>
+			<marker class="begin-verse" mid="v19048005">
+			</marker>
+			<v n="5">they were in panic; they took to flight.</v>
+			<marker class="begin-verse" mid="v19048006">
+			</marker>
+			<v n="6">as of a woman in labor.</v>
+			<marker class="begin-verse" mid="v19048007">
+			</marker>
+			<v n="7">Tarshish.</v>
+			<marker class="begin-verse" mid="v19048008">
+			</marker>
+			<v n="8">establish forever. Selah</v>
+			<marker class="begin-verse" mid="v19048009">
+			</marker>
+			<v n="9">in the midst of your temple.</v>
+			<marker class="begin-verse" mid="v19048010">
+			</marker>
+			<v n="10">Your right hand is filled with righteousness.</v>
+			<marker class="begin-verse" mid="v19048011">
+			</marker>
+			<v n="11">because of your judgments!</v>
+			<marker class="begin-verse" mid="v19048012">
+			</marker>
+			<v n="12">number her towers,</v>
+			<marker class="begin-verse" mid="v19048013">
+			</marker>
+			<v n="13">that you may tell the next generation</v>
+			<marker class="begin-verse" mid="v19048014">
+			</marker>
+			<v n="14">guide us forever.</v>
+			<marker class="begin-verse" mid="v19048015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">48:14 Septuagint; another reading is (compare Jerome, Syriac) *He will guide us beyond death*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

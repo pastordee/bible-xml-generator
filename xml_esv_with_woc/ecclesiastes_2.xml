@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:28.845722</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:28.845759</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" bookAbbr="ecc" version="ESV">
+		<marker class="begin-verse" mid="v21002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Ecclesiastes 2
+			</heading>
+			<heading>
+				The Vanity of Self-Indulgence
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">said in my heart, “Come now, I will test you with pleasure; enjoy yourself.” But behold, this also was vanity.</v>
+			<marker class="begin-verse" mid="v21002002">
+			</marker>
+			<v n="2">said of laughter, “It is mad,” and of pleasure, “What use is it?”</v>
+			<marker class="begin-verse" mid="v21002003">
+			</marker>
+			<v n="3">folly, till I might see what was good for the children of man to do under heaven during the few days of their life.</v>
+			<marker class="begin-verse" mid="v21002004">
+			</marker>
+			<v n="4">vineyards for myself.</v>
+			<marker class="begin-verse" mid="v21002005">
+			</marker>
+			<v n="5">gardens and parks, and planted in them all kinds of fruit trees.</v>
+			<marker class="begin-verse" mid="v21002006">
+			</marker>
+			<v n="6">I made myself pools from which to water the forest of growing trees.</v>
+			<marker class="begin-verse" mid="v21002007">
+			</marker>
+			<v n="7">herds and flocks, more than any who had been before me in Jerusalem.</v>
+			<marker class="begin-verse" mid="v21002008">
+			</marker>
+			<v n="8">I also gathered for myself silver and<crossref let="j" cid="c21002008.4" />gold and the treasure of<crossref let="k" cid="c21002008.5" />kings and provinces. I got singers, both men and women, and many concubines, the delight of the sons of man.</v>
+			<marker class="begin-verse" mid="v21002009">
+			</marker>
+			<v n="9">wisdom remained with me.</v>
+			<marker class="begin-verse" mid="v21002010">
+			</marker>
+			<v n="10">reward for all my toil.</v>
+			<marker class="begin-verse" mid="v21002011">
+			</marker>
+			<v n="11">to be gained under the sun.</v>
+			<marker class="begin-verse" mid="v21002012">
+			</marker>
+			<v n="12">what has already been done.</v>
+			<marker class="begin-verse" mid="v21002013">
+			</marker>
+			<v n="13">Then I saw that there is more gain in wisdom than in folly, as there is more gain in light than in darkness.</v>
+			<marker class="begin-verse" mid="v21002014">
+			</marker>
+			<v n="14">same event happens to all of them.</v>
+			<marker class="begin-verse" mid="v21002015">
+			</marker>
+			<v n="15">“What happens to the fool will happen to me also. Why then have I been so very wise?” And I said in my heart that this also is vanity.</v>
+			<marker class="begin-verse" mid="v21002016">
+			</marker>
+			<v n="16">How the wise dies just like the fool!</v>
+			<marker class="begin-verse" mid="v21002017">
+			</marker>
+			<v n="17">all is vanity and a striving after wind.</v>
+			<marker class="begin-verse" mid="v21002018">
+			</marker>
+			<v n="18">leave it to the man who will come after me,</v>
+			<marker class="begin-verse" mid="v21002019">
+			</marker>
+			<v n="19">and who knows whether he will be wise or a fool? Yet he will be master of all for which I toiled and used my wisdom under the sun. This also is vanity.</v>
+			<marker class="begin-verse" mid="v21002020">
+			</marker>
+			<v n="20">over all the toil of my labors under the sun,</v>
+			<marker class="begin-verse" mid="v21002021">
+			</marker>
+			<v n="21">because sometimes a person who has toiled with wisdom and knowledge and skill must leave everything to be enjoyed by someone who did not toil for it. This also is vanity and a great evil.</v>
+			<marker class="begin-verse" mid="v21002022">
+			</marker>
+			<v n="22">all the toil and striving of heart with which he toils beneath the sun?</v>
+			<marker class="begin-verse" mid="v21002023">
+			</marker>
+			<v n="23">work is a vexation. Even in the night his heart does not rest. This also is vanity.</v>
+			<marker class="begin-verse" mid="v21002024">
+			</marker>
+			<v n="24">from the hand of God,</v>
+			<marker class="begin-verse" mid="v21002025">
+			</marker>
+			<v n="25">for apart from him who can eat or who can have enjoyment?</v>
+			<marker class="begin-verse" mid="v21002026">
+			</marker>
+			<v n="26">This also is vanity and a striving after wind.</v>
+			<marker class="begin-verse" mid="v21002027">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">2:1 The Hebrew term *hebel* can refer to a “vapor” or “mere breath”; also verses 11, 15, 17, 19, 21, 23, 26 (see note on 1:2)</footnote>
+				<footnote id="2">2:8 The meaning of the Hebrew word is uncertain</footnote>
+				<footnote id="3">2:24 Or *and make his soul see good*</footnote>
+				<footnote id="4">2:25 Some Hebrew manuscripts, Septuagint, Syriac; most Hebrew manuscripts *apart from me*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

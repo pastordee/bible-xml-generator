@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:56:30.004199</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:56:30.004205</next_refresh_due>
+	</generation_info>
+	<book title="Ezekiel" num="26" testament="old" bookAbbr="ezk" version="ESV">
+		<marker class="begin-verse" mid="v26006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Ezekiel 6
+			</heading>
+			<heading>
+				Judgment Against Idolatry
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">6 The word of the Lord came to me:</v>
+			<marker class="begin-verse" mid="v26006002">
+			</marker>
+			<v n="2">prophesy against them,</v>
+			<marker class="begin-verse" mid="v26006003">
+			</marker>
+			<v n="3">and I will destroy your high places.</v>
+			<marker class="begin-verse" mid="v26006004">
+			</marker>
+			<v n="4">incense altars shall be broken, and I will cast down your slain before your idols.</v>
+			<marker class="begin-verse" mid="v26006005">
+			</marker>
+			<v n="5">and I will scatter your bones around your altars.</v>
+			<marker class="begin-verse" mid="v26006006">
+			</marker>
+			<v n="6">incense altars cut down, and your works wiped out.</v>
+			<marker class="begin-verse" mid="v26006007">
+			</marker>
+			<v n="7">And the slain shall fall in your midst, and you shall know that I am the Lord .</v>
+			<marker class="begin-verse" mid="v26006008">
+			</marker>
+			<v n="8">some who escape the sword, and when you are scattered through the countries,</v>
+			<marker class="begin-verse" mid="v26006009">
+			</marker>
+			<v n="9">And they will be loathsome in their own sight for the evils that they have committed, for all their abominations.</v>
+			<marker class="begin-verse" mid="v26006010">
+			</marker>
+			<v n="10">I have not said in vain that I would do this evil to them.”</v>
+			<marker class="begin-verse" mid="v26006011">
+			</marker>
+			<v n="11">for they shall fall by the sword, by famine, and by pestilence.</v>
+			<marker class="begin-verse" mid="v26006012">
+			</marker>
+			<v n="12">Thus I will spend my fury upon them.</v>
+			<marker class="begin-verse" mid="v26006013">
+			</marker>
+			<v n="13">they offered pleasing aroma to all their idols.</v>
+			<marker class="begin-verse" mid="v26006014">
+			</marker>
+			<v n="14">they will know that I am the Lord .”</v>
+			<marker class="begin-verse" mid="v26006015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">6:6 Or *and punished*</footnote>
+				<footnote id="2">6:14 Some Hebrew manuscripts; most Hebrew manuscripts *Diblah*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:14.259350</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:14.259367</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19132001">
+		</marker>
+		<chapter num="132">
+			<heading>
+				Psalm 132
+			</heading>
+			<heading>
+				The LORD Has Chosen Zion
+			</heading>
+			<heading>
+				A Song of Ascents.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">the hardships he endured,</v>
+			<marker class="begin-verse" mid="v19132002">
+			</marker>
+			<v n="2">the Mighty One of Jacob,</v>
+			<marker class="begin-verse" mid="v19132003">
+			</marker>
+			<v n="3">or get into my bed,</v>
+			<marker class="begin-verse" mid="v19132004">
+			</marker>
+			<v n="4">or slumber to my eyelids,</v>
+			<marker class="begin-verse" mid="v19132005">
+			</marker>
+			<v n="5">the Mighty One of Jacob.”</v>
+			<marker class="begin-verse" mid="v19132006">
+			</marker>
+			<v n="6">the fields of Jaar.</v>
+			<marker class="begin-verse" mid="v19132007">
+			</marker>
+			<v n="7">footstool!”</v>
+			<marker class="begin-verse" mid="v19132008">
+			</marker>
+			<v n="8">might.</v>
+			<marker class="begin-verse" mid="v19132009">
+			</marker>
+			<v n="9">saints shout for joy.</v>
+			<marker class="begin-verse" mid="v19132010">
+			</marker>
+			<v n="10">your anointed one.</v>
+			<marker class="begin-verse" mid="v19132011">
+			</marker>
+			<v n="11">I will set on your throne.</v>
+			<marker class="begin-verse" mid="v19132012">
+			</marker>
+			<v n="12">sit on your throne.”</v>
+			<marker class="begin-verse" mid="v19132013">
+			</marker>
+			<v n="13">desired it for his dwelling place:</v>
+			<marker class="begin-verse" mid="v19132014">
+			</marker>
+			<v n="14">dwell, for I have desired it.</v>
+			<marker class="begin-verse" mid="v19132015">
+			</marker>
+			<v n="15">satisfy her poor with bread.</v>
+			<marker class="begin-verse" mid="v19132016">
+			</marker>
+			<v n="16">saints will shout for joy.</v>
+			<marker class="begin-verse" mid="v19132017">
+			</marker>
+			<v n="17">my anointed.</v>
+			<marker class="begin-verse" mid="v19132018">
+			</marker>
+			<v n="18">but on him his crown will shine.”</v>
+			<marker class="begin-verse" mid="v19132019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">132:11 Hebrew *of your fruit of the womb*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

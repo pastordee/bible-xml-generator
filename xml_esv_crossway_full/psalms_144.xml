@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:31.821425</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:31.821434</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19144001">
+		</marker>
+		<chapter num="144">
+			<heading>
+				Psalm 144
+			</heading>
+			<heading>
+				My Rock and My Fortress
+			</heading>
+			<heading>
+				Of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and my fingers for battle ;</v>
+			<marker class="begin-verse" mid="v19144002">
+			</marker>
+			<v n="2">who<crossref let="m" cid="c19144002.5" />subdues peoples under me .</v>
+			<marker class="begin-verse" mid="v19144003">
+			</marker>
+			<v n="3">or the son of man that you think of him ?</v>
+			<marker class="begin-verse" mid="v19144004">
+			</marker>
+			<v n="4">his days are like<crossref let="q" cid="c19144004.2" />a passing<crossref let="r" cid="c19144004.3" />shadow .</v>
+			<marker class="begin-verse" mid="v19144005">
+			</marker>
+			<v n="5">
+				<crossref let="t" cid="c19144005.2" />Touch the mountains so that they smoke !</v>
+			<marker class="begin-verse" mid="v19144006">
+			</marker>
+			<v n="6">
+				<crossref let="u" cid="c19144006.1" />send out your arrows and rout them !</v>
+			<marker class="begin-verse" mid="v19144007">
+			</marker>
+			<v n="7">from the hand<crossref let="x" cid="c19144007.3" />of foreigners ,</v>
+			<marker class="begin-verse" mid="v19144008">
+			</marker>
+			<v n="8">and whose right hand is<crossref let="z" cid="c19144008.2" />a right hand of falsehood .</v>
+			<marker class="begin-verse" mid="v19144009">
+			</marker>
+			<v n="9">upon<crossref let="a" cid="c19144009.1" />a ten-stringed harp I will play to you ,</v>
+			<marker class="begin-verse" mid="v19144010">
+			</marker>
+			<v n="10">who<crossref let="b" cid="c19144010.1" />rescues David his servant from the cruel sword .</v>
+			<marker class="begin-verse" mid="v19144011">
+			</marker>
+			<v n="11">and whose right hand is a right hand of falsehood .</v>
+			<marker class="begin-verse" mid="v19144012">
+			</marker>
+			<v n="12">cut for the structure of a palace ;</v>
+			<marker class="begin-verse" mid="v19144013">
+			</marker>
+			<v n="13">and ten thousands in our fields ;</v>
+			<marker class="begin-verse" mid="v19144014">
+			</marker>
+			<v n="14">may there be no<crossref let="g" cid="c19144014.1" />cry of distress in our streets !</v>
+			<marker class="begin-verse" mid="v19144015">
+			</marker>
+			<v n="15">
+				<crossref let="i" cid="c19144015.2" />Blessed are the people whose God is the Lord !</v>
+			<marker class="begin-verse" mid="v19144016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">144:2 Many Hebrew manuscripts, Dead Sea Scroll, Jerome, Syriac, Aquila; most Hebrew manuscripts *subdues my people*</footnote>
+				<footnote id="2">144:14 Hebrew *with no breaking in or going out*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

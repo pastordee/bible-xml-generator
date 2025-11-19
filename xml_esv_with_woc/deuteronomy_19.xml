@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:02:27.823247</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:02:27.823266</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" bookAbbr="deu" version="ESV">
+		<marker class="begin-verse" mid="v05019001">
+		</marker>
+		<chapter num="19">
+			<heading>
+				Deuteronomy 19
+			</heading>
+			<heading>
+				Laws Concerning Cities of Refuge
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">the Lord your God cuts off the nations whose land the Lord your God is giving you, and you dispossess them and dwell in their cities and in their houses,</v>
+			<marker class="begin-verse" mid="v05019002">
+			</marker>
+			<v n="2">you shall set apart three cities for yourselves in the land that the Lord your God is giving you to possess.</v>
+			<marker class="begin-verse" mid="v05019003">
+			</marker>
+			<v n="3">You shall measure the distances and divide into three parts the area of the land that the Lord your God gives you as a possession, so that any manslayer can flee to them.</v>
+			<marker class="begin-verse" mid="v05019004">
+			</marker>
+			<v n="4">the manslayer, who by fleeing there may save his life. If anyone kills his neighbor unintentionally without having hated him in the past—</v>
+			<marker class="begin-verse" mid="v05019005">
+			</marker>
+			<v n="5">as when someone goes into the forest with his neighbor to cut wood, and his hand swings the axe to cut down a tree, and the head slips from the handle and strikes his neighbor so that he dies—he may flee to one of these cities and live,</v>
+			<marker class="begin-verse" mid="v05019006">
+			</marker>
+			<v n="6">the avenger of blood in hot anger pursue the manslayer and overtake him, because the way is long, and strike him fatally, though the man did not deserve to die, since he had not hated his neighbor in the past.</v>
+			<marker class="begin-verse" mid="v05019007">
+			</marker>
+			<v n="7">Therefore I command you, You shall set apart three cities.</v>
+			<marker class="begin-verse" mid="v05019008">
+			</marker>
+			<v n="8">gives you all the land that he promised to give to your fathers—</v>
+			<marker class="begin-verse" mid="v05019009">
+			</marker>
+			<v n="9">then you shall add three other cities to these three,</v>
+			<marker class="begin-verse" mid="v05019010">
+			</marker>
+			<v n="10">lest innocent blood be shed in your land that the Lord your God is giving you for an inheritance, and so the guilt of bloodshed be upon you.</v>
+			<marker class="begin-verse" mid="v05019011">
+			</marker>
+			<v n="11">and strikes him fatally so that he dies, and he flees into one of these cities,</v>
+			<marker class="begin-verse" mid="v05019012">
+			</marker>
+			<v n="12">then the elders of his city shall send and take him from there, and hand him over to the avenger of blood, so that he may die.</v>
+			<marker class="begin-verse" mid="v05019013">
+			</marker>
+			<v n="13">but you shall purge the guilt of innocent blood from Israel, so that it may be well with you.</v>
+			<marker class="begin-verse" mid="v05019014">
+			</marker>
+			<v n="14">“You shall not move your neighbor's landmark, which the men of old have set, in the inheritance that you will hold in the land that the Lord your God is giving you to possess.</v>
+			<marker class="begin-verse" mid="v05019015">
+			</marker>
+			<v n="15">Only on the evidence of two witnesses or of three witnesses shall a charge be established.</v>
+			<marker class="begin-verse" mid="v05019016">
+			</marker>
+			<v n="16">a malicious witness arises to accuse a person of wrongdoing,</v>
+			<marker class="begin-verse" mid="v05019017">
+			</marker>
+			<v n="17">before the priests and the judges who are in office in those days.</v>
+			<marker class="begin-verse" mid="v05019018">
+			</marker>
+			<v n="18">inquire diligently, and if the witness is a false witness and has accused his brother falsely,</v>
+			<marker class="begin-verse" mid="v05019019">
+			</marker>
+			<v n="19">then you shall do to him as he had meant to do to his brother. So you shall purge the evil from your midst.</v>
+			<marker class="begin-verse" mid="v05019020">
+			</marker>
+			<v n="20">shall hear and fear, and shall never again commit any such evil among you.</v>
+			<marker class="begin-verse" mid="v05019021">
+			</marker>
+			<v n="21">It shall be life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.</v>
+			<marker class="begin-verse" mid="v05019022">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">19:3 Hebrew *road*</footnote>
+				<footnote id="2">19:13 Or *the blood of the innocent*</footnote>
+				<footnote id="3">19:19 Or *evil person*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

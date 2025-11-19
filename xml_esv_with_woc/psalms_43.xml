@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:03.225254</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:03.225282</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19043001">
+		</marker>
+		<chapter num="43">
+			<heading>
+				Psalm 43
+			</heading>
+			<heading>
+				Send Out Your Light and Your Truth
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">deliver me!</v>
+			<marker class="begin-verse" mid="v19043002">
+			</marker>
+			<v n="2">because of the oppression of the enemy?</v>
+			<marker class="begin-verse" mid="v19043003">
+			</marker>
+			<v n="3">and to your<crossref let="x" cid="c19043003.1" />dwelling!</v>
+			<marker class="begin-verse" mid="v19043004">
+			</marker>
+			<v n="4">O God, my God.</v>
+			<marker class="begin-verse" mid="v19043005">
+			</marker>
+			<v n="5">my salvation and my God.</v>
+			<marker class="begin-verse" mid="v19043006">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

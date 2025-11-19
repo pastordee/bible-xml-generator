@@ -1,0 +1,229 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:06:21.764775</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:06:21.764782</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" bookAbbr="act" version="ESV">
+		<marker class="begin-verse" mid="v44007001">
+		</marker>
+		<chapter num="7">
+			<heading>
+				Acts 7
+			</heading>
+			<heading>
+				Stephen’s Speech
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">And the high priest said , “ Are these things so ? ”</v>
+			<marker class="begin-verse" mid="v44007002">
+			</marker>
+			<v n="2">
+				<crossref let="j" cid="c44007002.1" />“ Brothers and fathers , hear me .<crossref let="k" cid="c44007002.2" />The God<crossref let="l" cid="c44007002.3" />of glory appeared to our father Abraham when he was in Mesopotamia ,<crossref let="m" cid="c44007002.4" />before he lived in Haran ,</v>
+			<marker class="begin-verse" mid="v44007003">
+			</marker>
+			<v n="3">and said to him ,<crossref let="n" cid="c44007003.1" />‘ Go out from your land and from your kindred and go into the land that I will show you . ’</v>
+			<marker class="begin-verse" mid="v44007004">
+			</marker>
+			<v n="4">
+				<crossref let="m" cid="c44007004.1" />Then he went out from the land of the Chaldeans and lived in Haran . And<crossref let="o" cid="c44007004.2" />after his father died ,<crossref let="p" cid="c44007004.3" />God removed him from there into this land in which you are now living .</v>
+			<marker class="begin-verse" mid="v44007005">
+			</marker>
+			<v n="5">Yet he gave him no inheritance in it , not even a foot’s length , but promised<crossref let="q" cid="c44007005.1" />to give it to him as a possession and to his offspring after him ,<crossref let="r" cid="c44007005.2" />though he had no child .</v>
+			<marker class="begin-verse" mid="v44007006">
+			</marker>
+			<v n="6">And God spoke to this effect — that<crossref let="s" cid="c44007006.1" />his offspring would<crossref let="t" cid="c44007006.2" />be sojourners in a land belonging to others , who would enslave them and afflict them<crossref let="u" cid="c44007006.3" />four hundred years .</v>
+			<marker class="begin-verse" mid="v44007007">
+			</marker>
+			<v n="7">‘ But<crossref let="v" cid="c44007007.1" />I will judge the nation that they serve , ’ said God , ‘ and after that they shall come out<crossref let="w" cid="c44007007.2" />and worship me in this place . ’</v>
+			<marker class="begin-verse" mid="v44007008">
+			</marker>
+			<v n="8">And<crossref let="x" cid="c44007008.3" />he gave him the covenant of circumcision . And<crossref let="y" cid="c44007008.4" />so Abraham became the father of Isaac , and<crossref let="z" cid="c44007008.5" />circumcised him on the eighth day , and<crossref let="a" cid="c44007008.1" />Isaac became the father of Jacob , and<crossref let="b" cid="c44007008.2" />Jacob of the twelve patriarchs .</v>
+			<marker class="begin-verse" mid="v44007009">
+			</marker>
+			<v n="9">“ And the patriarchs ,<crossref let="c" cid="c44007009.1" />jealous of Joseph ,<crossref let="d" cid="c44007009.2" />sold him into Egypt ; but<crossref let="e" cid="c44007009.3" />God was with him</v>
+			<marker class="begin-verse" mid="v44007010">
+			</marker>
+			<v n="10">and rescued him out of all his afflictions and<crossref let="f" cid="c44007010.1" />gave him favor and wisdom before Pharaoh , king of Egypt ,<crossref let="g" cid="c44007010.2" />who made him ruler over Egypt and over all his household .</v>
+			<marker class="begin-verse" mid="v44007011">
+			</marker>
+			<v n="11">Now<crossref let="h" cid="c44007011.1" />there came a famine throughout all Egypt and Canaan , and great affliction , and our fathers could find no food .</v>
+			<marker class="begin-verse" mid="v44007012">
+			</marker>
+			<v n="12">
+				<crossref let="i" cid="c44007012.1" />But when Jacob heard that there was grain in Egypt , he sent out our fathers on their first visit .</v>
+			<marker class="begin-verse" mid="v44007013">
+			</marker>
+			<v n="13">And<crossref let="j" cid="c44007013.1" />on the second visit<crossref let="k" cid="c44007013.2" />Joseph made himself known to his brothers , and<crossref let="l" cid="c44007013.3" />Joseph’s family became known to Pharaoh .</v>
+			<marker class="begin-verse" mid="v44007014">
+			</marker>
+			<v n="14">And<crossref let="m" cid="c44007014.1" />Joseph sent and summoned Jacob his father and all his kindred ,<crossref let="n" cid="c44007014.2" />seventy-five persons in all .</v>
+			<marker class="begin-verse" mid="v44007015">
+			</marker>
+			<v n="15">And<crossref let="o" cid="c44007015.1" />Jacob went down into Egypt , and<crossref let="p" cid="c44007015.2" />he died , he<crossref let="q" cid="c44007015.3" />and our fathers ,</v>
+			<marker class="begin-verse" mid="v44007016">
+			</marker>
+			<v n="16">and<crossref let="r" cid="c44007016.1" />they were carried back to Shechem and laid in the tomb that<crossref let="s" cid="c44007016.2" />Abraham had bought for a sum of silver from the sons of Hamor in Shechem .</v>
+			<marker class="begin-verse" mid="v44007017">
+			</marker>
+			<v n="17">“ But<crossref let="t" cid="c44007017.1" />as the time of the promise drew near , which God had granted to Abraham ,<crossref let="u" cid="c44007017.2" />the people increased and multiplied in Egypt</v>
+			<marker class="begin-verse" mid="v44007018">
+			</marker>
+			<v n="18">until there arose over Egypt another king<crossref let="v" cid="c44007018.1" />who did not know Joseph .</v>
+			<marker class="begin-verse" mid="v44007019">
+			</marker>
+			<v n="19">
+				<crossref let="w" cid="c44007019.1" />He dealt shrewdly with our race and forced our fathers to expose their infants ,<crossref let="x" cid="c44007019.2" />so that they would not be kept alive .</v>
+			<marker class="begin-verse" mid="v44007020">
+			</marker>
+			<v n="20">
+				<crossref let="y" cid="c44007020.1" />At this time Moses was born ; and he was beautiful in God’s sight . And he was brought up for three months in his father’s house ,</v>
+			<marker class="begin-verse" mid="v44007021">
+			</marker>
+			<v n="21">and<crossref let="z" cid="c44007021.1" />when he was exposed , Pharaoh’s daughter adopted him and brought him up as her own son .</v>
+			<marker class="begin-verse" mid="v44007022">
+			</marker>
+			<v n="22">And Moses<crossref let="a" cid="c44007022.1" />was instructed in<crossref let="b" cid="c44007022.2" />all the wisdom of the Egyptians , and he was<crossref let="c" cid="c44007022.3" />mighty in his words and deeds .</v>
+			<marker class="begin-verse" mid="v44007023">
+			</marker>
+			<v n="23">“ When he was forty years old , it came into his heart<crossref let="d" cid="c44007023.1" />to visit his brothers , the children of Israel .</v>
+			<marker class="begin-verse" mid="v44007024">
+			</marker>
+			<v n="24">And seeing one of them being wronged , he defended the oppressed man and avenged him by striking down the Egyptian .</v>
+			<marker class="begin-verse" mid="v44007025">
+			</marker>
+			<v n="25">He supposed that his brothers would understand that God was giving them salvation by his hand , but they did not understand .</v>
+			<marker class="begin-verse" mid="v44007026">
+			</marker>
+			<v n="26">
+				<crossref let="e" cid="c44007026.1" />And on the following day he appeared to them as they were quarreling and tried to reconcile them , saying , ‘ Men , you are brothers . Why do you wrong each other ? ’</v>
+			<marker class="begin-verse" mid="v44007027">
+			</marker>
+			<v n="27">But the man who was wronging his neighbor thrust him aside , saying ,<crossref let="f" cid="c44007027.1" />‘ Who made you a ruler and a judge over us ?</v>
+			<marker class="begin-verse" mid="v44007028">
+			</marker>
+			<v n="28">Do you want to kill me as you killed the Egyptian yesterday ? ’</v>
+			<marker class="begin-verse" mid="v44007029">
+			</marker>
+			<v n="29">At this retort<crossref let="g" cid="c44007029.1" />Moses fled and became an exile in the land of Midian ,<crossref let="h" cid="c44007029.2" />where he became the father of two sons .</v>
+			<marker class="begin-verse" mid="v44007030">
+			</marker>
+			<v n="30">“ Now when forty years had passed ,<crossref let="i" cid="c44007030.1" />an angel appeared to him<crossref let="j" cid="c44007030.2" />in the wilderness of Mount Sinai , in a flame of fire in a bush .</v>
+			<marker class="begin-verse" mid="v44007031">
+			</marker>
+			<v n="31">When Moses saw it , he was amazed at the sight , and as he drew near to look , there came the voice of the Lord :</v>
+			<marker class="begin-verse" mid="v44007032">
+			</marker>
+			<v n="32">
+				<crossref let="k" cid="c44007032.1" />‘ I am the God of your fathers , the God of Abraham and of Isaac and of Jacob . ’ And Moses trembled and did not dare to look .</v>
+			<marker class="begin-verse" mid="v44007033">
+			</marker>
+			<v n="33">Then the Lord said to him ,<crossref let="l" cid="c44007033.1" />‘ Take off the sandals from your feet , for the place where you are standing is holy ground .</v>
+			<marker class="begin-verse" mid="v44007034">
+			</marker>
+			<v n="34">
+				<crossref let="m" cid="c44007034.1" />I have surely seen the affliction of my people who are in Egypt , and<crossref let="n" cid="c44007034.2" />have heard their groaning , and<crossref let="o" cid="c44007034.3" />I have come down to deliver them .<crossref let="p" cid="c44007034.4" />And now come , I will send you to Egypt . ’</v>
+			<marker class="begin-verse" mid="v44007035">
+			</marker>
+			<v n="35">“ This Moses , whom they rejected ,<crossref let="q" cid="c44007035.1" />saying , ‘ Who made you a ruler and a judge ? ’ — this man God sent as both ruler and redeemer<crossref let="r" cid="c44007035.2" />by the hand of the angel who appeared to him in the bush .</v>
+			<marker class="begin-verse" mid="v44007036">
+			</marker>
+			<v n="36">
+				<crossref let="s" cid="c44007036.1" />This man led them out , performing<crossref let="t" cid="c44007036.2" />wonders and signs<crossref let="u" cid="c44007036.3" />in Egypt and<crossref let="v" cid="c44007036.4" />at the Red Sea and<crossref let="w" cid="c44007036.5" />in the wilderness for<crossref let="x" cid="c44007036.6" />forty years .</v>
+			<marker class="begin-verse" mid="v44007037">
+			</marker>
+			<v n="37">This is the Moses who said to the Israelites , ‘ God will raise up for you<crossref let="y" cid="c44007037.1" />a prophet like me from your brothers . ’</v>
+			<marker class="begin-verse" mid="v44007038">
+			</marker>
+			<v n="38">This is the one<crossref let="z" cid="c44007038.5" />who was in the congregation in the wilderness with<crossref let="a" cid="c44007038.1" />the angel who spoke to him at Mount Sinai , and with our fathers .<crossref let="b" cid="c44007038.2" />He received<crossref let="c" cid="c44007038.3" />living<crossref let="d" cid="c44007038.4" />oracles to give to us .</v>
+			<marker class="begin-verse" mid="v44007039">
+			</marker>
+			<v n="39">Our fathers refused to obey him , but thrust him aside , and<crossref let="e" cid="c44007039.1" />in their hearts they turned to Egypt ,</v>
+			<marker class="begin-verse" mid="v44007040">
+			</marker>
+			<v n="40">saying to Aaron ,<crossref let="f" cid="c44007040.1" />‘ Make for us gods who will go before us . As for this Moses who led us out from the land of Egypt , we do not know what has become of him . ’</v>
+			<marker class="begin-verse" mid="v44007041">
+			</marker>
+			<v n="41">And<crossref let="g" cid="c44007041.1" />they made a calf in those days , and offered a sacrifice to the idol and<crossref let="h" cid="c44007041.2" />were rejoicing in<crossref let="i" cid="c44007041.3" />the works of their hands .</v>
+			<marker class="begin-verse" mid="v44007042">
+			</marker>
+			<v n="42">
+				<crossref let="n" cid="c44007042.5" />during the forty years in the wilderness , O house of Israel ?</v>
+			<marker class="begin-verse" mid="v44007043">
+			</marker>
+			<v n="43">and I will send you into exile beyond Babylon . ’</v>
+			<marker class="begin-verse" mid="v44007044">
+			</marker>
+			<v n="44">“ Our fathers had<crossref let="p" cid="c44007044.1" />the tent of witness in the wilderness , just as he who spoke to Moses<crossref let="q" cid="c44007044.2" />directed him to make it , according to the pattern that he had seen .</v>
+			<marker class="begin-verse" mid="v44007045">
+			</marker>
+			<v n="45">Our fathers in turn<crossref let="r" cid="c44007045.1" />brought it in with Joshua when they<crossref let="s" cid="c44007045.2" />dispossessed the nations<crossref let="t" cid="c44007045.3" />that God drove out before our fathers . So it was<crossref let="u" cid="c44007045.4" />until the days of David ,</v>
+			<marker class="begin-verse" mid="v44007046">
+			</marker>
+			<v n="46">
+				<crossref let="v" cid="c44007046.1" />who found favor in the sight of God and<crossref let="w" cid="c44007046.2" />asked to find a dwelling place for<crossref let="x" cid="c44007046.3" />the God of Jacob .</v>
+			<marker class="begin-verse" mid="v44007047">
+			</marker>
+			<v n="47">But it was<crossref let="y" cid="c44007047.1" />Solomon who built a house for him .</v>
+			<marker class="begin-verse" mid="v44007048">
+			</marker>
+			<v n="48">
+				<crossref let="z" cid="c44007048.2" />Yet the Most High does not dwell<crossref let="a" cid="c44007048.1" />in houses made by hands , as the prophet says ,</v>
+			<marker class="begin-verse" mid="v44007049">
+			</marker>
+			<v n="49">or what is the place of my rest ?</v>
+			<marker class="begin-verse" mid="v44007050">
+			</marker>
+			<v n="50">Did not my hand make all these things ? ’</v>
+			<marker class="begin-verse" mid="v44007051">
+			</marker>
+			<v n="51">
+				<crossref let="d" cid="c44007051.1" />“ You stiff-necked people ,<crossref let="e" cid="c44007051.2" />uncircumcised in heart and ears , you always resist the Holy Spirit .<crossref let="f" cid="c44007051.3" />As your fathers did , so do you .</v>
+			<marker class="begin-verse" mid="v44007052">
+			</marker>
+			<v n="52">
+				<crossref let="g" cid="c44007052.1" />Which of the prophets did your fathers not persecute ? And they killed those who announced beforehand the coming of<crossref let="h" cid="c44007052.2" />the Righteous One ,<crossref let="i" cid="c44007052.3" />whom you have now betrayed and murdered ,</v>
+			<marker class="begin-verse" mid="v44007053">
+			</marker>
+			<v n="53">you who received the law<crossref let="j" cid="c44007053.1" />as delivered by angels and<crossref let="k" cid="c44007053.2" />did not keep it . ”</v>
+			<marker class="begin-verse" mid="v44007054">
+			</marker>
+			<v n="54">Now when they heard these things<crossref let="l" cid="c44007054.1" />they were enraged , and they<crossref let="m" cid="c44007054.2" />ground their teeth at him .</v>
+			<marker class="begin-verse" mid="v44007055">
+			</marker>
+			<v n="55">But he ,<crossref let="n" cid="c44007055.1" />full of the Holy Spirit , gazed into heaven and saw<crossref let="o" cid="c44007055.2" />the glory of God , and Jesus standing<crossref let="p" cid="c44007055.3" />at the right hand of God .</v>
+			<marker class="begin-verse" mid="v44007056">
+			</marker>
+			<v n="56">And he said , “ Behold , I see<crossref let="q" cid="c44007056.2" />the heavens opened , and<crossref let="r" cid="c44007056.3" />the Son of Man standing<crossref let="p" cid="c44007056.1" />at the right hand of God . ”</v>
+			<marker class="begin-verse" mid="v44007057">
+			</marker>
+			<v n="57">But they cried out with a loud voice and stopped their ears and rushed together at him .</v>
+			<marker class="begin-verse" mid="v44007058">
+			</marker>
+			<v n="58">Then<crossref let="s" cid="c44007058.1" />they cast him out of the city and<crossref let="t" cid="c44007058.2" />stoned him . And<crossref let="u" cid="c44007058.3" />the witnesses laid down their garments<crossref let="v" cid="c44007058.4" />at the feet of a young man named Saul .</v>
+			<marker class="begin-verse" mid="v44007059">
+			</marker>
+			<v n="59">And as they were stoning Stephen ,<crossref let="w" cid="c44007059.1" />he called out , “ Lord Jesus ,<crossref let="x" cid="c44007059.2" />receive my spirit . ”</v>
+			<marker class="begin-verse" mid="v44007060">
+			</marker>
+			<v n="60">And<crossref let="y" cid="c44007060.2" />falling to his knees he cried out with a loud voice ,<crossref let="z" cid="c44007060.3" />“ Lord , do not hold this sin against them . ” And when he had said this ,<crossref let="a" cid="c44007060.1" />he fell asleep .</v>
+			<marker class="begin-verse" mid="v44007061">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">7:46 Some manuscripts *for the house of Jacob*</footnote>
+				<footnote id="2">7:57 Or *rushed with one mind*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

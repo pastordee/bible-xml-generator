@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:42:08.196397</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:42:08.196410</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23009001">
+		</marker>
+		<chapter num="9">
+			<heading>
+				Isaiah 9
+			</heading>
+			<heading>
+				For to Us a Child Is Born
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">has made glorious the way of the sea, the land beyond the Jordan, Galilee of the nations.</v>
+			<marker class="begin-verse" mid="v23009002">
+			</marker>
+			<v n="2">on them has light shone.</v>
+			<marker class="begin-verse" mid="v23009003">
+			</marker>
+			<v n="3">when they divide the spoil.</v>
+			<marker class="begin-verse" mid="v23009004">
+			</marker>
+			<v n="4">on the day of Midian.</v>
+			<marker class="begin-verse" mid="v23009005">
+			</marker>
+			<v n="5">will be burned as fuel for the fire.</v>
+			<marker class="begin-verse" mid="v23009006">
+			</marker>
+			<v n="6">
+				<crossref let="v" cid="c23009006.5" />Everlasting<crossref let="w" cid="c23009006.6" />Father, Prince of<crossref let="x" cid="c23009006.7" />Peace.</v>
+			<marker class="begin-verse" mid="v23009007">
+			</marker>
+			<v n="7">The zeal of the Lord of hosts will do this.</v>
+			<marker class="begin-verse" mid="v23009008">
+			</marker>
+			<v n="8">and it will fall on Israel;</v>
+			<marker class="begin-verse" mid="v23009009">
+			</marker>
+			<v n="9">who say in pride and in arrogance of heart:</v>
+			<marker class="begin-verse" mid="v23009010">
+			</marker>
+			<v n="10">but we will put cedars in their place.”</v>
+			<marker class="begin-verse" mid="v23009011">
+			</marker>
+			<v n="11">and stirs up his enemies.</v>
+			<marker class="begin-verse" mid="v23009012">
+			</marker>
+			<v n="12">and his hand is stretched out still.</v>
+			<marker class="begin-verse" mid="v23009013">
+			</marker>
+			<v n="13">nor inquire of the Lord of hosts.</v>
+			<marker class="begin-verse" mid="v23009014">
+			</marker>
+			<v n="14">palm branch and reed in one day—</v>
+			<marker class="begin-verse" mid="v23009015">
+			</marker>
+			<v n="15">the prophet who teaches lies is the tail;</v>
+			<marker class="begin-verse" mid="v23009016">
+			</marker>
+			<v n="16">and those who are guided by them are swallowed up.</v>
+			<marker class="begin-verse" mid="v23009017">
+			</marker>
+			<v n="17">and his hand is stretched out still.</v>
+			<marker class="begin-verse" mid="v23009018">
+			</marker>
+			<v n="18">and they roll upward in a column of smoke.</v>
+			<marker class="begin-verse" mid="v23009019">
+			</marker>
+			<v n="19">no one spares another.</v>
+			<marker class="begin-verse" mid="v23009020">
+			</marker>
+			<v n="20">each devours the flesh of his own arm,</v>
+			<marker class="begin-verse" mid="v23009021">
+			</marker>
+			<v n="21">and his hand is stretched out still.</v>
+			<marker class="begin-verse" mid="v23009022">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">9:1 Ch 8:23 in Hebrew</footnote>
+				<footnote id="2">9:1 Or *of the Gentiles*</footnote>
+				<footnote id="3">9:2 Ch 9:1 in Hebrew</footnote>
+				<footnote id="4">9:6 Or *is upon*</footnote>
+				<footnote id="5">9:6 Or *is called*</footnote>
+				<footnote id="6">9:17 Or *speaks disgraceful things*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

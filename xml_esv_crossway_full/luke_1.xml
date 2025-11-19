@@ -1,0 +1,297 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:06.907903</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:06.907924</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Luke 1
+			</heading>
+			<heading>
+				Dedication to Theophilus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Inasmuch as many have undertaken to compile a narrative of the things that<crossref let="a" cid="c42001001.1" />have been accomplished among us ,</v>
+			<marker class="begin-verse" mid="v42001002">
+			</marker>
+			<v n="2">
+				<crossref let="b" cid="c42001002.1" />just as those who<crossref let="c" cid="c42001002.2" />from the beginning were<crossref let="d" cid="c42001002.3" />eyewitnesses and<crossref let="e" cid="c42001002.4" />ministers of<crossref let="f" cid="c42001002.5" />the word<crossref let="g" cid="c42001002.6" />have delivered them to us ,</v>
+			<marker class="begin-verse" mid="v42001003">
+			</marker>
+			<v n="3">it seemed good to me also , having followed all things closely for some time past , to write<crossref let="h" cid="c42001003.1" />an orderly account for you ,<crossref let="i" cid="c42001003.2" />most excellent<crossref let="j" cid="c42001003.3" />Theophilus ,</v>
+			<marker class="begin-verse" mid="v42001004">
+			</marker>
+			<v n="4">that you may have<crossref let="k" cid="c42001004.1" />certainty concerning the things<crossref let="l" cid="c42001004.2" />you have been taught .</v>
+			<marker class="begin-verse" mid="v42001005">
+			</marker>
+			<v n="5">
+				<crossref let="m" cid="c42001005.1" />In the days of Herod , king of Judea , there was a priest named Zechariah ,<crossref let="n" cid="c42001005.2" />of<crossref let="o" cid="c42001005.3" />the division of Abijah . And he had a wife from the daughters of Aaron , and her name was Elizabeth .</v>
+			<marker class="begin-verse" mid="v42001006">
+			</marker>
+			<v n="6">And they were both<crossref let="p" cid="c42001006.1" />righteous before God , walking<crossref let="q" cid="c42001006.2" />blamelessly in all the commandments and statutes of the Lord .</v>
+			<marker class="begin-verse" mid="v42001007">
+			</marker>
+			<v n="7">But they had no child , because<crossref let="r" cid="c42001007.1" />Elizabeth was barren , and<crossref let="s" cid="c42001007.2" />both were advanced in years .</v>
+			<marker class="begin-verse" mid="v42001008">
+			</marker>
+			<v n="8">Now<crossref let="t" cid="c42001008.1" />while he was serving as priest before God when<crossref let="u" cid="c42001008.2" />his division was on duty ,</v>
+			<marker class="begin-verse" mid="v42001009">
+			</marker>
+			<v n="9">according to the custom of the priesthood , he was chosen by lot<crossref let="v" cid="c42001009.1" />to enter<crossref let="w" cid="c42001009.2" />the temple of the Lord and burn incense .</v>
+			<marker class="begin-verse" mid="v42001010">
+			</marker>
+			<v n="10">And the whole multitude of the people<crossref let="x" cid="c42001010.1" />were praying<crossref let="y" cid="c42001010.2" />outside at the hour of incense .</v>
+			<marker class="begin-verse" mid="v42001011">
+			</marker>
+			<v n="11">And there appeared to him an angel of the Lord standing on the right side of<crossref let="z" cid="c42001011.1" />the altar of incense .</v>
+			<marker class="begin-verse" mid="v42001012">
+			</marker>
+			<v n="12">And Zechariah was troubled when he saw him , and<crossref let="a" cid="c42001012.1" />fear fell upon him .</v>
+			<marker class="begin-verse" mid="v42001013">
+			</marker>
+			<v n="13">But the angel said to him , “ Do not be afraid , Zechariah , for<crossref let="b" cid="c42001013.1" />your prayer has been heard , and your wife Elizabeth will bear you a son , and<crossref let="c" cid="c42001013.2" />you shall call his name John .</v>
+			<marker class="begin-verse" mid="v42001014">
+			</marker>
+			<v n="14">And you will have joy and gladness , and many will<crossref let="d" cid="c42001014.1" />rejoice at his birth ,</v>
+			<marker class="begin-verse" mid="v42001015">
+			</marker>
+			<v n="15">for he will be<crossref let="e" cid="c42001015.1" />great before the Lord . And<crossref let="f" cid="c42001015.2" />he must not drink wine or strong<crossref let="g" cid="c42001015.3" />drink , and<crossref let="g" cid="c42001015.3" />he will be<crossref let="h" cid="c42001015.4" />filled with the Holy Spirit ,<crossref let="i" cid="c42001015.5" />even from his mother’s womb .</v>
+			<marker class="begin-verse" mid="v42001016">
+			</marker>
+			<v n="16">And he will turn many of the children of Israel to the Lord their God ,</v>
+			<marker class="begin-verse" mid="v42001017">
+			</marker>
+			<v n="17">and<crossref let="j" cid="c42001017.1" />he will go before him<crossref let="k" cid="c42001017.2" />in the spirit and power of Elijah ,<crossref let="l" cid="c42001017.3" />to turn the hearts of the fathers to the children , and<crossref let="m" cid="c42001017.4" />the disobedient to the wisdom of the just ,<crossref let="n" cid="c42001017.5" />to make ready for the Lord a people prepared . ”</v>
+			<marker class="begin-verse" mid="v42001018">
+			</marker>
+			<v n="18">And Zechariah said to the angel ,<crossref let="o" cid="c42001018.1" />“ How shall I know this ? For I am an old man , and my wife is advanced in years . ”</v>
+			<marker class="begin-verse" mid="v42001019">
+			</marker>
+			<v n="19">And the angel answered him , “ I am<crossref let="p" cid="c42001019.1" />Gabriel .<crossref let="q" cid="c42001019.2" />I stand in the presence of God , and I was sent to speak to you and to bring you this good news .</v>
+			<marker class="begin-verse" mid="v42001020">
+			</marker>
+			<v n="20">And behold ,<crossref let="r" cid="c42001020.1" />you will be silent and unable to speak until the day that these things take place , because you did not believe my words , which will be fulfilled in their time . ”</v>
+			<marker class="begin-verse" mid="v42001021">
+			</marker>
+			<v n="21">And the people were waiting for Zechariah , and they were wondering at his delay in<crossref let="s" cid="c42001021.1" />the temple .</v>
+			<marker class="begin-verse" mid="v42001022">
+			</marker>
+			<v n="22">And when he came out , he was unable to speak to them , and they realized that he had seen a vision in<crossref let="s" cid="c42001022.1" />the temple . And<crossref let="t" cid="c42001022.2" />he kept making signs to them and remained mute .</v>
+			<marker class="begin-verse" mid="v42001023">
+			</marker>
+			<v n="23">And<crossref let="u" cid="c42001023.1" />when his time of<crossref let="v" cid="c42001023.2" />service was ended , he went to his home .</v>
+			<marker class="begin-verse" mid="v42001024">
+			</marker>
+			<v n="24">After these days his wife Elizabeth conceived , and for five months she kept herself hidden , saying ,</v>
+			<marker class="begin-verse" mid="v42001025">
+			</marker>
+			<v n="25">“ Thus the Lord has done for me in the days when he looked on me ,<crossref let="w" cid="c42001025.1" />to take away my reproach among people . ”</v>
+			<marker class="begin-verse" mid="v42001026">
+			</marker>
+			<v n="26">In the sixth month the angel<crossref let="x" cid="c42001026.1" />Gabriel was sent from God to a city of Galilee named<crossref let="y" cid="c42001026.2" />Nazareth ,</v>
+			<marker class="begin-verse" mid="v42001027">
+			</marker>
+			<v n="27">
+				<crossref let="z" cid="c42001027.2" />to a virgin betrothed to a man whose name was Joseph ,<crossref let="a" cid="c42001027.1" />of the house of David . And the virgin’s name was Mary .</v>
+			<marker class="begin-verse" mid="v42001028">
+			</marker>
+			<v n="28">And he came to her and said , “ Greetings ,<crossref let="b" cid="c42001028.1" />O favored one ,<crossref let="c" cid="c42001028.2" />the Lord is with you ! ”</v>
+			<marker class="begin-verse" mid="v42001029">
+			</marker>
+			<v n="29">But<crossref let="d" cid="c42001029.1" />she was greatly troubled at the saying , and tried to discern what sort of greeting this might be .</v>
+			<marker class="begin-verse" mid="v42001030">
+			</marker>
+			<v n="30">And the angel said to her , “ Do not be afraid , Mary , for<crossref let="e" cid="c42001030.1" />you have found favor with God .</v>
+			<marker class="begin-verse" mid="v42001031">
+			</marker>
+			<v n="31">And behold ,<crossref let="f" cid="c42001031.1" />you will conceive in your womb and bear a son , and<crossref let="g" cid="c42001031.2" />you shall call his name Jesus .</v>
+			<marker class="begin-verse" mid="v42001032">
+			</marker>
+			<v n="32">He will be great and will be called the Son of<crossref let="h" cid="c42001032.1" />the Most High . And the Lord God<crossref let="i" cid="c42001032.2" />will give to him the throne of<crossref let="j" cid="c42001032.3" />his father David ,</v>
+			<marker class="begin-verse" mid="v42001033">
+			</marker>
+			<v n="33">and he will reign over the house of Jacob<crossref let="k" cid="c42001033.1" />forever , and of his kingdom there will be no end . ”</v>
+			<marker class="begin-verse" mid="v42001034">
+			</marker>
+			<v n="34">And Mary said to the angel , “ How will this be , since I am a virgin ? ”</v>
+			<marker class="begin-verse" mid="v42001035">
+			</marker>
+			<v n="35">And the angel answered her ,<crossref let="l" cid="c42001035.2" />“ The Holy Spirit will come upon you , and the power of<crossref let="h" cid="c42001035.1" />the Most High will overshadow you ; therefore the child to be born will be called<crossref let="m" cid="c42001035.3" />holy —<crossref let="n" cid="c42001035.4" />the Son of God .</v>
+			<marker class="begin-verse" mid="v42001036">
+			</marker>
+			<v n="36">And behold , your relative Elizabeth in her old age has also conceived a son , and this is the sixth month with her<crossref let="o" cid="c42001036.1" />who was called barren .</v>
+			<marker class="begin-verse" mid="v42001037">
+			</marker>
+			<v n="37">For<crossref let="p" cid="c42001037.1" />nothing will be impossible with God . ”</v>
+			<marker class="begin-verse" mid="v42001038">
+			</marker>
+			<v n="38">And Mary said , “ Behold , I am the servant of the Lord ; let it be to me according to your word . ” And<crossref let="q" cid="c42001038.1" />the angel departed from her .</v>
+			<marker class="begin-verse" mid="v42001039">
+			</marker>
+			<v n="39">In those days Mary arose and went with haste into<crossref let="r" cid="c42001039.1" />the hill country , to a town in Judah ,</v>
+			<marker class="begin-verse" mid="v42001040">
+			</marker>
+			<v n="40">and she entered the house of Zechariah and greeted Elizabeth .</v>
+			<marker class="begin-verse" mid="v42001041">
+			</marker>
+			<v n="41">And when Elizabeth heard the greeting of Mary , the baby leaped in her womb . And Elizabeth<crossref let="s" cid="c42001041.1" />was filled with the Holy Spirit ,</v>
+			<marker class="begin-verse" mid="v42001042">
+			</marker>
+			<v n="42">and she exclaimed with a loud cry ,<crossref let="t" cid="c42001042.1" />“ Blessed are you among women , and<crossref let="u" cid="c42001042.2" />blessed is<crossref let="v" cid="c42001042.3" />the fruit of your womb !</v>
+			<marker class="begin-verse" mid="v42001043">
+			</marker>
+			<v n="43">And why is this granted to me that the mother of<crossref let="w" cid="c42001043.1" />my Lord should come to me ?</v>
+			<marker class="begin-verse" mid="v42001044">
+			</marker>
+			<v n="44">For behold , when the sound of your greeting came to my ears , the baby in my womb leaped for joy .</v>
+			<marker class="begin-verse" mid="v42001045">
+			</marker>
+			<v n="45">And<crossref let="x" cid="c42001045.1" />blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord . ”</v>
+			<marker class="begin-verse" mid="v42001046">
+			</marker>
+			<v n="46">
+				<crossref let="y" cid="c42001046.2" />“ My<crossref let="z" cid="c42001046.3" />soul<crossref let="a" cid="c42001046.1" />magnifies the Lord ,</v>
+			<marker class="begin-verse" mid="v42001047">
+			</marker>
+			<v n="47">
+				<crossref let="b" cid="c42001047.1" />and my<crossref let="z" cid="c42001047.3" />spirit rejoices in<crossref let="c" cid="c42001047.2" />God my Savior ,</v>
+			<marker class="begin-verse" mid="v42001048">
+			</marker>
+			<v n="48">For behold , from now on all generations<crossref let="e" cid="c42001048.2" />will call me blessed ;</v>
+			<marker class="begin-verse" mid="v42001049">
+			</marker>
+			<v n="49">and<crossref let="h" cid="c42001049.3" />holy is his name .</v>
+			<marker class="begin-verse" mid="v42001050">
+			</marker>
+			<v n="50">from generation to generation .</v>
+			<marker class="begin-verse" mid="v42001051">
+			</marker>
+			<v n="51">
+				<crossref let="k" cid="c42001051.2" />he has scattered the proud in the thoughts of their hearts ;</v>
+			<marker class="begin-verse" mid="v42001052">
+			</marker>
+			<v n="52">
+				<crossref let="l" cid="c42001052.2" />and exalted those of humble estate ;</v>
+			<marker class="begin-verse" mid="v42001053">
+			</marker>
+			<v n="53">and the rich<crossref let="n" cid="c42001053.2" />he has sent away empty .</v>
+			<marker class="begin-verse" mid="v42001054">
+			</marker>
+			<v n="54">
+				<crossref let="q" cid="c42001054.3" />in remembrance of his mercy ,</v>
+			<marker class="begin-verse" mid="v42001055">
+			</marker>
+			<v n="55">
+				<crossref let="q" cid="c42001055.1" />to Abraham and to his offspring forever . ”</v>
+			<marker class="begin-verse" mid="v42001056">
+			</marker>
+			<v n="56">And Mary remained with her about three months and returned to her home .</v>
+			<marker class="begin-verse" mid="v42001057">
+			</marker>
+			<v n="57">Now the time came for Elizabeth to give birth , and she bore a son .</v>
+			<marker class="begin-verse" mid="v42001058">
+			</marker>
+			<v n="58">And her neighbors and relatives heard that the Lord<crossref let="s" cid="c42001058.1" />had shown great mercy to her , and they rejoiced with her .</v>
+			<marker class="begin-verse" mid="v42001059">
+			</marker>
+			<v n="59">And<crossref let="t" cid="c42001059.1" />on the eighth day they came to circumcise the child . And they would have called him Zechariah after his father ,</v>
+			<marker class="begin-verse" mid="v42001060">
+			</marker>
+			<v n="60">but his mother answered , “ No ;<crossref let="u" cid="c42001060.1" />he shall be called John . ”</v>
+			<marker class="begin-verse" mid="v42001061">
+			</marker>
+			<v n="61">And they said to her , “ None of your relatives is called by this name . ”</v>
+			<marker class="begin-verse" mid="v42001062">
+			</marker>
+			<v n="62">And<crossref let="v" cid="c42001062.1" />they made signs to his father , inquiring what he wanted him to be called .</v>
+			<marker class="begin-verse" mid="v42001063">
+			</marker>
+			<v n="63">And he asked for<crossref let="w" cid="c42001063.2" />a writing tablet and wrote ,<crossref let="u" cid="c42001063.1" />“ His name is John . ” And they all wondered .</v>
+			<marker class="begin-verse" mid="v42001064">
+			</marker>
+			<v n="64">
+				<crossref let="x" cid="c42001064.1" />And immediately his mouth was opened and his tongue<crossref let="y" cid="c42001064.2" />loosed , and he spoke ,<crossref let="z" cid="c42001064.3" />blessing God .</v>
+			<marker class="begin-verse" mid="v42001065">
+			</marker>
+			<v n="65">And<crossref let="a" cid="c42001065.1" />fear came on all their neighbors . And all these things were talked about through all<crossref let="b" cid="c42001065.2" />the hill country of Judea ,</v>
+			<marker class="begin-verse" mid="v42001066">
+			</marker>
+			<v n="66">and all who heard them<crossref let="c" cid="c42001066.1" />laid them up in their hearts , saying , “ What then will this child be ? ” For<crossref let="d" cid="c42001066.2" />the hand of the Lord was with him .</v>
+			<marker class="begin-verse" mid="v42001067">
+			</marker>
+			<v n="67">And his father Zechariah<crossref let="e" cid="c42001067.1" />was filled with the Holy Spirit and<crossref let="f" cid="c42001067.2" />prophesied , saying ,</v>
+			<marker class="begin-verse" mid="v42001068">
+			</marker>
+			<v n="68">for he has<crossref let="i" cid="c42001068.3" />visited and<crossref let="j" cid="c42001068.4" />redeemed his people</v>
+			<marker class="begin-verse" mid="v42001069">
+			</marker>
+			<v n="69">
+				<crossref let="m" cid="c42001069.3" />in the house of his servant David ,</v>
+			<marker class="begin-verse" mid="v42001070">
+			</marker>
+			<v n="70">
+				<crossref let="n" cid="c42001070.1" />as<crossref let="o" cid="c42001070.2" />he spoke by the mouth of his holy prophets from of old ,</v>
+			<marker class="begin-verse" mid="v42001071">
+			</marker>
+			<v n="71">and from the hand of all who hate us ;</v>
+			<marker class="begin-verse" mid="v42001072">
+			</marker>
+			<v n="72">and<crossref let="r" cid="c42001072.2" />to remember his holy<crossref let="s" cid="c42001072.3" />covenant ,</v>
+			<marker class="begin-verse" mid="v42001073">
+			</marker>
+			<v n="73">
+				<crossref let="t" cid="c42001073.1" />the oath that he swore to our father Abraham , to grant us</v>
+			<marker class="begin-verse" mid="v42001074">
+			</marker>
+			<v n="74">might serve him<crossref let="u" cid="c42001074.1" />without fear ,</v>
+			<marker class="begin-verse" mid="v42001075">
+			</marker>
+			<v n="75">
+				<crossref let="v" cid="c42001075.1" />in holiness and righteousness before him<crossref let="w" cid="c42001075.2" />all our days .</v>
+			<marker class="begin-verse" mid="v42001076">
+			</marker>
+			<v n="76">for<crossref let="z" cid="c42001076.3" />you will go before the Lord to prepare his ways ,</v>
+			<marker class="begin-verse" mid="v42001077">
+			</marker>
+			<v n="77">
+				<crossref let="a" cid="c42001077.1" />in the forgiveness of their sins ,</v>
+			<marker class="begin-verse" mid="v42001078">
+			</marker>
+			<v n="78">whereby<crossref let="c" cid="c42001078.2" />the sunrise shall<crossref let="d" cid="c42001078.3" />visit us<crossref let="e" cid="c42001078.4" />from on high</v>
+			<marker class="begin-verse" mid="v42001079">
+			</marker>
+			<v n="79">to guide our feet into<crossref let="h" cid="c42001079.3" />the way of<crossref let="i" cid="c42001079.4" />peace . ”</v>
+			<marker class="begin-verse" mid="v42001080">
+			</marker>
+			<v n="80">
+				<crossref let="j" cid="c42001080.1" />And the child grew and became strong in spirit , and he was<crossref let="k" cid="c42001080.2" />in the wilderness until the day of his public appearance to Israel .</v>
+			<marker class="begin-verse" mid="v42001081">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:5 Greek *Zacharias*</footnote>
+				<footnote id="2">1:27 That is, legally pledged to be married</footnote>
+				<footnote id="3">1:28 Some manuscripts add *Blessed are you among women!*</footnote>
+				<footnote id="4">1:34 Greek *since I do not know a man*</footnote>
+				<footnote id="5">1:35 Some manuscripts add *of you*</footnote>
+				<footnote id="6">1:38 Greek *bondservant*; also verse 48</footnote>
+				<footnote id="7">1:45 Or *believed, for there will be*</footnote>
+				<footnote id="8">1:78 Or *when the sunrise shall dawn upon us*; some manuscripts *since the sunrise has visited us*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

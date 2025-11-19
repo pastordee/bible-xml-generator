@@ -1,0 +1,417 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:19.829847</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:19.829855</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				Matthew 13
+			</heading>
+			<heading>
+				The Parable of the Sower
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">That same day Jesus went out of the house<crossref let="o" cid="c40013001.1" />and sat beside the sea .</v>
+			<marker class="begin-verse" mid="v40013002">
+			</marker>
+			<v n="2">And great crowds gathered about him ,<crossref let="p" cid="c40013002.1" />so that he got into a boat and sat down . And the whole crowd stood on the beach .</v>
+			<marker class="begin-verse" mid="v40013003">
+			</marker>
+			<v n="3">And<crossref let="q" cid="c40013003.1" />he told them many things in parables , saying :<crossref let="r" cid="c40013003.2" />
+				<woc>“ A sower went out to sow .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013004">
+			</marker>
+			<v n="4">
+				<woc>And as he sowed , some seeds fell along the path , and the birds came and devoured them .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013005">
+			</marker>
+			<v n="5">
+				<woc>Other seeds fell on rocky ground , where they did not have much soil , and immediately they sprang up , since they had no depth of soil ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013006">
+			</marker>
+			<v n="6">
+				<woc>but</woc>
+				<crossref let="s" cid="c40013006.1" />
+				<woc>when the sun rose they were scorched . And since they had no root ,</woc>
+				<crossref let="t" cid="c40013006.2" />
+				<woc>they withered away .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013007">
+			</marker>
+			<v n="7">
+				<woc>Other seeds fell among</woc>
+				<crossref let="u" cid="c40013007.1" />
+				<woc>thorns , and the thorns grew up and choked them .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013008">
+			</marker>
+			<v n="8">
+				<woc>Other seeds fell on good soil and produced grain , some</woc>
+				<crossref let="v" cid="c40013008.1" />
+				<woc>a hundredfold , some sixty , some thirty .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013009">
+			</marker>
+			<v n="9">
+				<crossref let="w" cid="c40013009.1" />
+				<woc>He who has ears , let him hear . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013010">
+			</marker>
+			<v n="10">Then the disciples came and said to him , “ Why do you speak to them in parables ? ”</v>
+			<marker class="begin-verse" mid="v40013011">
+			</marker>
+			<v n="11">And he answered them ,<crossref let="x" cid="c40013011.1" />
+				<woc>“ To you it has been given to know</woc>
+				<crossref let="y" cid="c40013011.2" />
+				<woc>the secrets of the kingdom of heaven , but to them it has not been given .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013012">
+			</marker>
+			<v n="12">
+				<crossref let="z" cid="c40013012.2" />
+				<woc>For to the one who has , more will be given , and he will have an abundance , but from the one who has not ,</woc>
+				<crossref let="a" cid="c40013012.1" />
+				<woc>even what he has will be taken away .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013013">
+			</marker>
+			<v n="13">
+				<woc>This is why I speak to them in parables , because</woc>
+				<crossref let="b" cid="c40013013.1" />
+				<woc>seeing they do not see , and hearing they do not hear ,</woc>
+				<crossref let="c" cid="c40013013.2" />
+				<woc>nor do they understand .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013014">
+			</marker>
+			<v n="14">
+				<woc>and you will indeed see but never perceive . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013015">
+			</marker>
+			<v n="15">
+				<woc>and</woc>
+				<crossref let="h" cid="c40013015.4" />
+				<woc>turn , and I would heal them . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013016">
+			</marker>
+			<v n="16">
+				<woc>But</woc>
+				<crossref let="i" cid="c40013016.1" />
+				<woc>blessed are your eyes , for they see , and your ears , for they hear .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013017">
+			</marker>
+			<v n="17">
+				<crossref let="i" cid="c40013017.1" />
+				<woc>For truly , I say to you ,</woc>
+				<crossref let="j" cid="c40013017.2" />
+				<woc>many prophets and righteous people longed to see what you see , and did not see it , and to hear what you hear , and did not hear it .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013018">
+			</marker>
+			<v n="18">
+				<crossref let="k" cid="c40013018.1" />
+				<woc>“ Hear then the parable of the sower :</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013019">
+			</marker>
+			<v n="19">
+				<woc>When anyone hears the word of</woc>
+				<crossref let="l" cid="c40013019.1" />
+				<woc>the kingdom and</woc>
+				<crossref let="m" cid="c40013019.2" />
+				<woc>does not understand it ,</woc>
+				<crossref let="n" cid="c40013019.3" />
+				<woc>the evil one comes and snatches away what has been sown in his heart . This is what was sown along the path .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013020">
+			</marker>
+			<v n="20">
+				<woc>As for what was sown on rocky ground , this is the one who hears the word and immediately</woc>
+				<crossref let="o" cid="c40013020.1" />
+				<woc>receives it with joy ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013021">
+			</marker>
+			<v n="21">
+				<woc>yet he has no root in himself , but</woc>
+				<crossref let="p" cid="c40013021.1" />
+				<woc>endures for a while , and when tribulation or persecution arises on account of the word , immediately</woc>
+				<crossref let="q" cid="c40013021.2" />
+				<woc>he falls away .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013022">
+			</marker>
+			<v n="22">
+				<woc>As for what was sown among thorns , this is the one who hears the word , but</woc>
+				<crossref let="r" cid="c40013022.1" />
+				<woc>the cares of</woc>
+				<crossref let="s" cid="c40013022.2" />
+				<woc>the world and</woc>
+				<crossref let="t" cid="c40013022.3" />
+				<woc>the deceitfulness of riches choke the word , and it proves unfruitful .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013023">
+			</marker>
+			<v n="23">
+				<woc>As for what was sown on good soil , this is the one who hears the word and</woc>
+				<crossref let="m" cid="c40013023.1" />
+				<woc>understands it . He indeed</woc>
+				<crossref let="u" cid="c40013023.2" />
+				<woc>bears fruit and yields , in one case</woc>
+				<crossref let="v" cid="c40013023.3" />
+				<woc>a hundredfold , in another sixty , and in another thirty . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013024">
+			</marker>
+			<v n="24">He put another parable before them , saying ,<crossref let="w" cid="c40013024.1" />
+				<woc>“ The kingdom of heaven may be compared to a man who sowed good seed in his field ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013025">
+			</marker>
+			<v n="25">
+				<woc>but while his men were sleeping , his enemy came and sowed weeds among the wheat and went away .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013026">
+			</marker>
+			<v n="26">
+				<woc>So when the plants came up and bore grain , then the weeds appeared also .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013027">
+			</marker>
+			<v n="27">
+				<woc>And the servants of the master of the house came and said to him , ‘ Master , did you not sow good seed in your field ? How then does it have weeds ? ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013028">
+			</marker>
+			<v n="28">
+				<woc>He said to them , ‘ An enemy has done this . ’ So the servants said to him , ‘ Then do you want us to go and gather them ? ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013029">
+			</marker>
+			<v n="29">
+				<woc>But he said ,</woc>
+				<crossref let="x" cid="c40013029.1" />
+				<woc>‘ No , lest in gathering the weeds you root up the wheat along with them .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013030">
+			</marker>
+			<v n="30">
+				<woc>Let both grow together until the harvest , and at harvest time I will tell the reapers ,</woc>
+				<crossref let="y" cid="c40013030.1" />
+				<woc>“ Gather the weeds first and bind them in bundles to be burned , but gather the wheat into my barn . ” ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013031">
+			</marker>
+			<v n="31">He put another parable before them , saying ,<crossref let="z" cid="c40013031.2" />
+				<woc>“ The kingdom of heaven is like</woc>
+				<crossref let="a" cid="c40013031.1" />
+				<woc>a grain of mustard seed that a man took and sowed in his field .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013032">
+			</marker>
+			<v n="32">
+				<woc>It is the smallest of all seeds , but when it has grown it is larger than all the garden plants and becomes a tree , so that the birds of the air come and make nests in its branches . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013033">
+			</marker>
+			<v n="33">He told them another parable .<crossref let="b" cid="c40013033.1" />
+				<woc>“ The kingdom of heaven is like leaven that a woman took and hid in</woc>
+				<crossref let="c" cid="c40013033.2" />
+				<woc>three measures of flour , till it was</woc>
+				<crossref let="d" cid="c40013033.3" />
+				<woc>all leavened . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013034">
+			</marker>
+			<v n="34">
+				<crossref let="e" cid="c40013034.1" />All these things Jesus said to the crowds in parables ; indeed , he said nothing to them without a parable .</v>
+			<marker class="begin-verse" mid="v40013035">
+			</marker>
+			<v n="35">
+				<crossref let="g" cid="c40013035.2" />I will utter what has been hidden<crossref let="h" cid="c40013035.3" />since the foundation of the world . ”</v>
+			<marker class="begin-verse" mid="v40013036">
+			</marker>
+			<v n="36">Then he left the crowds and went into<crossref let="i" cid="c40013036.1" />the house . And his disciples came to him , saying ,<crossref let="j" cid="c40013036.2" />“ Explain to us the parable of the weeds of the field . ”</v>
+			<marker class="begin-verse" mid="v40013037">
+			</marker>
+			<v n="37">He answered ,<woc>“ The one who sows the good seed is the Son of Man .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013038">
+			</marker>
+			<v n="38">
+				<woc>The field is the world , and the good seed is</woc>
+				<crossref let="k" cid="c40013038.1" />
+				<woc>the sons of the kingdom . The weeds are</woc>
+				<crossref let="l" cid="c40013038.2" />
+				<woc>the sons of the evil one ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013039">
+			</marker>
+			<v n="39">
+				<woc>and the enemy who sowed them is the devil .</woc>
+				<crossref let="m" cid="c40013039.1" />
+				<woc>The harvest is</woc>
+				<crossref let="n" cid="c40013039.2" />
+				<woc>the end of the age , and the reapers are angels .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013040">
+			</marker>
+			<v n="40">
+				<woc>Just as the weeds</woc>
+				<crossref let="o" cid="c40013040.2" />
+				<woc>are gathered and burned with fire , so will it be at</woc>
+				<crossref let="n" cid="c40013040.1" />
+				<woc>the end of the age .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013041">
+			</marker>
+			<v n="41">
+				<crossref let="p" cid="c40013041.1" />
+				<woc>The Son of Man will send his angels , and they will gather out of his kingdom all</woc>
+				<crossref let="q" cid="c40013041.2" />
+				<woc>causes of sin and</woc>
+				<crossref let="r" cid="c40013041.3" />
+				<woc>all law-breakers ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013042">
+			</marker>
+			<v n="42">
+				<crossref let="s" cid="c40013042.1" />
+				<woc>and throw them into the fiery furnace . In that place</woc>
+				<crossref let="t" cid="c40013042.2" />
+				<woc>there will be weeping and gnashing of teeth .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013043">
+			</marker>
+			<v n="43">
+				<woc>Then</woc>
+				<crossref let="u" cid="c40013043.1" />
+				<woc>the righteous will shine like the sun</woc>
+				<crossref let="v" cid="c40013043.2" />
+				<woc>in the kingdom of their Father .</woc>
+				<crossref let="w" cid="c40013043.3" />
+				<woc>He who has ears , let him hear .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013044">
+			</marker>
+			<v n="44">
+				<woc>“ The kingdom of heaven</woc>
+				<crossref let="x" cid="c40013044.1" />
+				<woc>is like treasure hidden in a field , which a man found and covered up . Then in his joy</woc>
+				<crossref let="y" cid="c40013044.2" />
+				<woc>he goes and sells all that he has and</woc>
+				<crossref let="z" cid="c40013044.3" />
+				<woc>buys that field .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013045">
+			</marker>
+			<v n="45">
+				<woc>“ Again , the kingdom of heaven is like a merchant in search of fine pearls ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013046">
+			</marker>
+			<v n="46">
+				<woc>who , on finding</woc>
+				<crossref let="a" cid="c40013046.1" />
+				<woc>one pearl of great value ,</woc>
+				<crossref let="y" cid="c40013046.2" />
+				<woc>went and sold all that he had and</woc>
+				<crossref let="z" cid="c40013046.3" />
+				<woc>bought it .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013047">
+			</marker>
+			<v n="47">
+				<woc>“ Again , the kingdom of heaven is</woc>
+				<crossref let="b" cid="c40013047.1" />
+				<woc>like a net that was thrown into the sea and</woc>
+				<crossref let="c" cid="c40013047.2" />
+				<woc>gathered fish of every kind .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013048">
+			</marker>
+			<v n="48">
+				<woc>When it was full ,</woc>
+				<crossref let="d" cid="c40013048.1" />
+				<woc>men drew it ashore and sat down and sorted the good into containers but threw away the bad .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013049">
+			</marker>
+			<v n="49">
+				<woc>So it will be at</woc>
+				<crossref let="e" cid="c40013049.1" />
+				<woc>the end of the age . The angels will come out and</woc>
+				<crossref let="f" cid="c40013049.2" />
+				<woc>separate the evil from the righteous</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013050">
+			</marker>
+			<v n="50">
+				<crossref let="g" cid="c40013050.1" />
+				<woc>and throw them into the fiery furnace . In that place</woc>
+				<crossref let="g" cid="c40013050.1" />
+				<woc>there will be weeping and gnashing of teeth .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013051">
+			</marker>
+			<v n="51">They said to him , “ Yes . ”<crossref let="h" cid="c40013051.1" />
+				<woc>“ Have you understood all these things ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013052">
+			</marker>
+			<v n="52">And he said to them ,<woc>“ Therefore every</woc>
+				<crossref let="i" cid="c40013052.1" />
+				<woc>scribe</woc>
+				<crossref let="j" cid="c40013052.2" />
+				<woc>who has been trained for the kingdom of heaven is like a master of a house , who</woc>
+				<crossref let="k" cid="c40013052.3" />
+				<woc>brings out of his treasure what is new and what is old . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013053">
+			</marker>
+			<v n="53">And when Jesus had finished these parables , he went away from there ,</v>
+			<marker class="begin-verse" mid="v40013054">
+			</marker>
+			<v n="54">
+				<crossref let="l" cid="c40013054.1" />and coming to<crossref let="m" cid="c40013054.2" />his hometown<crossref let="n" cid="c40013054.3" />he taught them in their synagogue , so that<crossref let="o" cid="c40013054.4" />they were astonished , and said , “ Where did this man get this wisdom and these mighty works ?</v>
+			<marker class="begin-verse" mid="v40013055">
+			</marker>
+			<v n="55">
+				<crossref let="p" cid="c40013055.1" />Is not this<crossref let="q" cid="c40013055.2" />the carpenter’s son ? Is not his mother called Mary ? And are not<crossref let="r" cid="c40013055.3" />his brothers James and Joseph and Simon and Judas ?</v>
+			<marker class="begin-verse" mid="v40013056">
+			</marker>
+			<v n="56">And are not all his sisters with us ? Where then did this man get all these things ? ”</v>
+			<marker class="begin-verse" mid="v40013057">
+			</marker>
+			<v n="57">And<crossref let="s" cid="c40013057.1" />they took offense at him . But Jesus said to them ,<crossref let="t" cid="c40013057.2" />
+				<woc>“ A prophet is not without honor except in his hometown and in his own household . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40013058">
+			</marker>
+			<v n="58">And he did not do many mighty works there ,<crossref let="u" cid="c40013058.1" />because of their unbelief .</v>
+			<marker class="begin-verse" mid="v40013059">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:15.760978</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:15.760995</next_refresh_due>
+	</generation_info>
+	<book title="Romans" num="45" testament="new" bookAbbr="rom" version="ESV">
+		<marker class="begin-verse" mid="v45016001">
+		</marker>
+		<chapter num="16">
+			<heading>
+				Romans 16
+			</heading>
+			<heading>
+				Personal Greetings
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Cenchreae,</v>
+			<marker class="begin-verse" mid="v45016002">
+			</marker>
+			<v n="2">may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well.</v>
+			<marker class="begin-verse" mid="v45016003">
+			</marker>
+			<v n="3">Prisca and Aquila, my fellow workers in Christ Jesus,</v>
+			<marker class="begin-verse" mid="v45016004">
+			</marker>
+			<v n="4">who risked their necks for my life, to whom not only I give thanks but all the churches of the Gentiles give thanks as well.</v>
+			<marker class="begin-verse" mid="v45016005">
+			</marker>
+			<v n="5">the first convert to Christ in Asia.</v>
+			<marker class="begin-verse" mid="v45016006">
+			</marker>
+			<v n="6">Greet Mary, who has worked hard for you.</v>
+			<marker class="begin-verse" mid="v45016007">
+			</marker>
+			<v n="7">fellow prisoners. They are well known to the apostles, and they were in Christ before me.</v>
+			<marker class="begin-verse" mid="v45016008">
+			</marker>
+			<v n="8">Greet Ampliatus, my beloved in the Lord.</v>
+			<marker class="begin-verse" mid="v45016009">
+			</marker>
+			<v n="9">Greet Urbanus, our fellow worker in Christ, and my beloved Stachys.</v>
+			<marker class="begin-verse" mid="v45016010">
+			</marker>
+			<v n="10">who belong to the family of Aristobulus.</v>
+			<marker class="begin-verse" mid="v45016011">
+			</marker>
+			<v n="11">Greet my kinsman Herodion. Greet those in the Lord who belong to the family of Narcissus.</v>
+			<marker class="begin-verse" mid="v45016012">
+			</marker>
+			<v n="12">Greet those workers in the Lord, Tryphaena and Tryphosa. Greet the beloved Persis, who has worked hard in the Lord.</v>
+			<marker class="begin-verse" mid="v45016013">
+			</marker>
+			<v n="13">Greet Rufus, chosen in the Lord; also his mother, who has been a mother to me as well.</v>
+			<marker class="begin-verse" mid="v45016014">
+			</marker>
+			<v n="14">Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers who are with them.</v>
+			<marker class="begin-verse" mid="v45016015">
+			</marker>
+			<v n="15">Greet Philologus, Julia, Nereus and his sister, and Olympas, and all the saints who are with them.</v>
+			<marker class="begin-verse" mid="v45016016">
+			</marker>
+			<v n="16">Greet one another with a holy kiss. All the churches of Christ greet you.</v>
+			<marker class="begin-verse" mid="v45016017">
+			</marker>
+			<v n="17">avoid them.</v>
+			<marker class="begin-verse" mid="v45016018">
+			</marker>
+			<v n="18">by smooth talk and flattery they deceive the hearts of the naive.</v>
+			<marker class="begin-verse" mid="v45016019">
+			</marker>
+			<v n="19">to be wise as to what is good and innocent as to what is evil.</v>
+			<marker class="begin-verse" mid="v45016020">
+			</marker>
+			<v n="20">The grace of our Lord Jesus Christ be with you.</v>
+			<marker class="begin-verse" mid="v45016021">
+			</marker>
+			<v n="21">Timothy, my fellow worker, greets you; so do Lucius and Jason and Sosipater, my kinsmen.</v>
+			<marker class="begin-verse" mid="v45016022">
+			</marker>
+			<v n="22">who wrote this letter, greet you in the Lord.</v>
+			<marker class="begin-verse" mid="v45016023">
+			</marker>
+			<v n="23">Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus, greet you.</v>
+			<marker class="begin-verse" mid="v45016024">
+			</marker>
+			<v n="25">long ages</v>
+			<marker class="begin-verse" mid="v45016026">
+			</marker>
+			<v n="26">to bring about the obedience of faith—</v>
+			<marker class="begin-verse" mid="v45016027">
+			</marker>
+			<v n="27">be glory forevermore through Jesus Christ! Amen.</v>
+			<marker class="begin-verse" mid="v45016028">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">16:1 Or *deaconess*</footnote>
+				<footnote id="2">16:5 Greek *firstfruit*</footnote>
+				<footnote id="3">16:7 Or *Junias*</footnote>
+				<footnote id="4">16:7 Or *messengers*</footnote>
+				<footnote id="5">16:14 Or *brothers and sisters*; also verse 17</footnote>
+				<footnote id="6">16:18 Greek *their own belly*</footnote>
+				<footnote id="7">16:23 Some manuscripts insert verse 24: *The grace of our Lord Jesus Christ be with you all. Amen*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

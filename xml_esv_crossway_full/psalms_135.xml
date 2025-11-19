@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:18.667831</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:18.667856</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19135001">
+		</marker>
+		<chapter num="135">
+			<heading>
+				Psalm 135
+			</heading>
+			<heading>
+				Your Name, O LORD, Endures Forever
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">give praise , O<crossref let="v" cid="c19135001.2" />servants of the Lord ,</v>
+			<marker class="begin-verse" mid="v19135002">
+			</marker>
+			<v n="2">in<crossref let="w" cid="c19135002.2" />the courts of the house of our God !</v>
+			<marker class="begin-verse" mid="v19135003">
+			</marker>
+			<v n="3">sing to his name ,<crossref let="y" cid="c19135003.2" />for it is pleasant !</v>
+			<marker class="begin-verse" mid="v19135004">
+			</marker>
+			<v n="4">Israel as his<crossref let="a" cid="c19135004.1" />own possession .</v>
+			<marker class="begin-verse" mid="v19135005">
+			</marker>
+			<v n="5">and that our Lord is above all gods .</v>
+			<marker class="begin-verse" mid="v19135006">
+			</marker>
+			<v n="6">in the seas and all deeps .</v>
+			<marker class="begin-verse" mid="v19135007">
+			</marker>
+			<v n="7">and brings forth the wind from his<crossref let="f" cid="c19135007.3" />storehouses .</v>
+			<marker class="begin-verse" mid="v19135008">
+			</marker>
+			<v n="8">both of man and of beast ;</v>
+			<marker class="begin-verse" mid="v19135009">
+			</marker>
+			<v n="9">against Pharaoh and all his servants ;</v>
+			<marker class="begin-verse" mid="v19135010">
+			</marker>
+			<v n="10">and killed mighty kings ,</v>
+			<marker class="begin-verse" mid="v19135011">
+			</marker>
+			<v n="11">and<crossref let="l" cid="c19135011.3" />all the kingdoms of Canaan ,</v>
+			<marker class="begin-verse" mid="v19135012">
+			</marker>
+			<v n="12">a heritage to his people Israel .</v>
+			<marker class="begin-verse" mid="v19135013">
+			</marker>
+			<v n="13">
+				<crossref let="o" cid="c19135013.2" />your renown , O Lord , throughout all ages .</v>
+			<marker class="begin-verse" mid="v19135014">
+			</marker>
+			<v n="14">and<crossref let="q" cid="c19135014.2" />have compassion on his servants .</v>
+			<marker class="begin-verse" mid="v19135015">
+			</marker>
+			<v n="15">the work of human hands .</v>
+			<marker class="begin-verse" mid="v19135016">
+			</marker>
+			<v n="16">they have eyes , but do not see ;</v>
+			<marker class="begin-verse" mid="v19135017">
+			</marker>
+			<v n="17">nor is there any breath in their mouths .</v>
+			<marker class="begin-verse" mid="v19135018">
+			</marker>
+			<v n="18">so do all who trust in them .</v>
+			<marker class="begin-verse" mid="v19135019">
+			</marker>
+			<v n="19">O house of Aaron , bless the Lord !</v>
+			<marker class="begin-verse" mid="v19135020">
+			</marker>
+			<v n="20">You who fear the Lord , bless the Lord !</v>
+			<marker class="begin-verse" mid="v19135021">
+			</marker>
+			<v n="21">
+				<crossref let="v" cid="c19135021.3" />Praise the Lord !</v>
+			<marker class="begin-verse" mid="v19135022">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">135:3 Or *for he is beautiful*</footnote>
+				<footnote id="2">135:13 Or *remembrance*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

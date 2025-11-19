@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:49.230287</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:49.230305</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19115001">
+		</marker>
+		<chapter num="115">
+			<heading>
+				Psalm 115
+			</heading>
+			<heading>
+				To Your Name Give Glory
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="b" cid="c19115001.2" />for the sake of your steadfast love and your faithfulness!</v>
+			<marker class="begin-verse" mid="v19115002">
+			</marker>
+			<v n="2">
+				<crossref let="c" cid="c19115002.1" />“Where is their God?”</v>
+			<marker class="begin-verse" mid="v19115003">
+			</marker>
+			<v n="3">
+				<crossref let="e" cid="c19115003.2" />he does all that he pleases.</v>
+			<marker class="begin-verse" mid="v19115004">
+			</marker>
+			<v n="4">
+				<crossref let="g" cid="c19115004.2" />the work of human hands.</v>
+			<marker class="begin-verse" mid="v19115005">
+			</marker>
+			<v n="5">eyes, but do not see.</v>
+			<marker class="begin-verse" mid="v19115006">
+			</marker>
+			<v n="6">noses, but do not smell.</v>
+			<marker class="begin-verse" mid="v19115007">
+			</marker>
+			<v n="7">and they do not make a sound in their throat.</v>
+			<marker class="begin-verse" mid="v19115008">
+			</marker>
+			<v n="8">so do all who trust in them.</v>
+			<marker class="begin-verse" mid="v19115009">
+			</marker>
+			<v n="9">He is their<crossref let="l" cid="c19115009.3" />help and their shield.</v>
+			<marker class="begin-verse" mid="v19115010">
+			</marker>
+			<v n="10">their shield.</v>
+			<marker class="begin-verse" mid="v19115011">
+			</marker>
+			<v n="11">He is their help and their shield.</v>
+			<marker class="begin-verse" mid="v19115012">
+			</marker>
+			<v n="12">the house of Aaron;</v>
+			<marker class="begin-verse" mid="v19115013">
+			</marker>
+			<v n="13">both the small and the great.</v>
+			<marker class="begin-verse" mid="v19115014">
+			</marker>
+			<v n="14">you and your children!</v>
+			<marker class="begin-verse" mid="v19115015">
+			</marker>
+			<v n="15">who made heaven and earth!</v>
+			<marker class="begin-verse" mid="v19115016">
+			</marker>
+			<v n="16">but the earth he has given to the children of man.</v>
+			<marker class="begin-verse" mid="v19115017">
+			</marker>
+			<v n="17">silence.</v>
+			<marker class="begin-verse" mid="v19115018">
+			</marker>
+			<v n="18">Praise the Lord !</v>
+			<marker class="begin-verse" mid="v19115019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">115:9 Masoretic Text; many Hebrew manuscripts, Septuagint, Syriac *O house of Israel*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

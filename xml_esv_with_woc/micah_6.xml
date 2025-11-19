@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:43.360706</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:43.360713</next_refresh_due>
+	</generation_info>
+	<book title="Micah" num="33" testament="old" bookAbbr="mic" version="ESV">
+		<marker class="begin-verse" mid="v33006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Micah 6
+			</heading>
+			<heading>
+				The Indictment of the LORD
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and let the hills hear your voice.</v>
+			<marker class="begin-verse" mid="v33006002">
+			</marker>
+			<v n="2">and he will contend with Israel.</v>
+			<marker class="begin-verse" mid="v33006003">
+			</marker>
+			<v n="3">How have I wearied you? Answer me!</v>
+			<marker class="begin-verse" mid="v33006004">
+			</marker>
+			<v n="4">Miriam.</v>
+			<marker class="begin-verse" mid="v33006005">
+			</marker>
+			<v n="5">the righteous acts of the Lord .”</v>
+			<marker class="begin-verse" mid="v33006006">
+			</marker>
+			<v n="6">with calves a year old?</v>
+			<marker class="begin-verse" mid="v33006007">
+			</marker>
+			<v n="7">the fruit of my body for the sin of my soul?”</v>
+			<marker class="begin-verse" mid="v33006008">
+			</marker>
+			<v n="8">walk humbly with your God?</v>
+			<marker class="begin-verse" mid="v33006009">
+			</marker>
+			<v n="9">the rod and of him who appointed it!</v>
+			<marker class="begin-verse" mid="v33006010">
+			</marker>
+			<v n="10">and the scant measure that is accursed?</v>
+			<marker class="begin-verse" mid="v33006011">
+			</marker>
+			<v n="11">and with a bag of deceitful weights?</v>
+			<marker class="begin-verse" mid="v33006012">
+			</marker>
+			<v n="12">their tongue is deceitful in their mouth.</v>
+			<marker class="begin-verse" mid="v33006013">
+			</marker>
+			<v n="13">making you desolate because of your sins.</v>
+			<marker class="begin-verse" mid="v33006014">
+			</marker>
+			<v n="14">and what you preserve I will give to the sword.</v>
+			<marker class="begin-verse" mid="v33006015">
+			</marker>
+			<v n="15">you shall tread grapes, but not drink wine.</v>
+			<marker class="begin-verse" mid="v33006016">
+			</marker>
+			<v n="16">the scorn of my people.”</v>
+			<marker class="begin-verse" mid="v33006017">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">6:7 Or *Will the Lord accept*</footnote>
+				<footnote id="2">6:8 Or *steadfast love*</footnote>
+				<footnote id="3">6:9 The meaning of the Hebrew is uncertain</footnote>
+				<footnote id="4">6:10 Or *Are there still treasures*</footnote>
+				<footnote id="5">6:12 Hebrew *whose*</footnote>
+				<footnote id="6">6:16 Hebrew *For the statutes of Omri are kept*</footnote>
+				<footnote id="7">6:16 Hebrew *its*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,302 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:29.203238</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:29.203245</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" bookAbbr="rev" version="ESV">
+		<marker class="begin-verse" mid="v66002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Revelation 2
+			</heading>
+			<heading>
+				To the Church in Ephesus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<woc>“ To the angel of the church in Ephesus write : ‘ The words of</woc>
+				<crossref let="e" cid="c66002001.1" />
+				<woc>him who holds the seven stars in his right hand ,</woc>
+				<crossref let="f" cid="c66002001.2" />
+				<woc>who walks among the seven golden lampstands .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002002">
+			</marker>
+			<v n="2">
+				<crossref let="g" cid="c66002002.1" />
+				<woc>“ ‘ I know your works , your toil and your patient endurance , and how you cannot bear with those who are evil , but</woc>
+				<crossref let="h" cid="c66002002.2" />
+				<woc>have tested those</woc>
+				<crossref let="i" cid="c66002002.3" />
+				<woc>who call themselves apostles and are not , and found them to be false .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002003">
+			</marker>
+			<v n="3">
+				<woc>I know you are enduring patiently and bearing up</woc>
+				<crossref let="j" cid="c66002003.1" />
+				<woc>for my name’s sake , and you</woc>
+				<crossref let="k" cid="c66002003.2" />
+				<woc>have not grown weary .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002004">
+			</marker>
+			<v n="4">
+				<woc>But I have this against you , that you have abandoned</woc>
+				<crossref let="l" cid="c66002004.1" />
+				<woc>the love you had at first .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002005">
+			</marker>
+			<v n="5">
+				<woc>Remember therefore from where you have fallen ; repent , and do</woc>
+				<crossref let="m" cid="c66002005.1" />
+				<woc>the works you did at first . If not ,</woc>
+				<crossref let="n" cid="c66002005.2" />
+				<woc>I will come to you and remove your lampstand from its place , unless you repent .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002006">
+			</marker>
+			<v n="6">
+				<woc>Yet this you have : you hate the works of</woc>
+				<crossref let="o" cid="c66002006.1" />
+				<woc>the Nicolaitans , which I also hate .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002007">
+			</marker>
+			<v n="7">
+				<crossref let="p" cid="c66002007.1" />
+				<woc>He who has an ear , let him hear what the Spirit says to the churches .</woc>
+				<crossref let="q" cid="c66002007.2" />
+				<woc>To the one who conquers I will grant to eat of</woc>
+				<crossref let="r" cid="c66002007.3" />
+				<woc>the tree of life , which is in</woc>
+				<crossref let="s" cid="c66002007.4" />
+				<woc>the paradise of God . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002008">
+			</marker>
+			<v n="8">
+				<woc>“ And to the angel of the church in Smyrna write : ‘ The words of</woc>
+				<crossref let="t" cid="c66002008.1" />
+				<woc>the first and the last ,</woc>
+				<crossref let="u" cid="c66002008.2" />
+				<woc>who died and came to life .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002009">
+			</marker>
+			<v n="9">
+				<woc>“ ‘ I know your tribulation and</woc>
+				<crossref let="v" cid="c66002009.1" />
+				<woc>your poverty (</woc>
+				<crossref let="v" cid="c66002009.1" />
+				<woc>but you are rich ) and the slander of</woc>
+				<crossref let="w" cid="c66002009.2" />
+				<woc>those who say that they are Jews and are not , but are a synagogue of Satan .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002010">
+			</marker>
+			<v n="10">
+				<woc>Do not fear what you are about to suffer . Behold , the devil is about to throw some of you into prison ,</woc>
+				<crossref let="w" cid="c66002010.3" />
+				<woc>that you may be tested , and for</woc>
+				<crossref let="x" cid="c66002010.4" />
+				<woc>ten days</woc>
+				<crossref let="y" cid="c66002010.5" />
+				<woc>you will have tribulation .</woc>
+				<crossref let="z" cid="c66002010.6" />
+				<woc>Be faithful</woc>
+				<crossref let="a" cid="c66002010.1" />
+				<woc>unto death , and I will give you</woc>
+				<crossref let="b" cid="c66002010.2" />
+				<woc>the crown of life .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002011">
+			</marker>
+			<v n="11">
+				<crossref let="c" cid="c66002011.1" />
+				<woc>He who has an ear , let him hear what the Spirit says to the churches .</woc>
+				<crossref let="c" cid="c66002011.1" />
+				<woc>The one who conquers will not be hurt by</woc>
+				<crossref let="d" cid="c66002011.2" />
+				<woc>the second death . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002012">
+			</marker>
+			<v n="12">
+				<woc>“ And to the angel of the church in Pergamum write : ‘ The words of him who has</woc>
+				<crossref let="e" cid="c66002012.1" />
+				<woc>the sharp two-edged sword .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002013">
+			</marker>
+			<v n="13">
+				<woc>“ ‘ I know where you dwell ,</woc>
+				<crossref let="f" cid="c66002013.1" />
+				<woc>where Satan’s throne is . Yet you hold fast my name , and you did not</woc>
+				<crossref let="g" cid="c66002013.2" />
+				<woc>deny my faith even in the days of Antipas</woc>
+				<crossref let="h" cid="c66002013.3" />
+				<woc>my faithful witness , who was killed among you , where Satan dwells .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002014">
+			</marker>
+			<v n="14">
+				<woc>But I have a few things against you : you have some there who hold the teaching of</woc>
+				<crossref let="i" cid="c66002014.1" />
+				<woc>Balaam , who taught Balak to put a stumbling block before the sons of Israel , so that they might</woc>
+				<crossref let="j" cid="c66002014.2" />
+				<woc>eat food sacrificed to idols and</woc>
+				<crossref let="k" cid="c66002014.3" />
+				<woc>practice sexual immorality .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002015">
+			</marker>
+			<v n="15">
+				<woc>So also you have some who hold the teaching of</woc>
+				<crossref let="l" cid="c66002015.1" />
+				<woc>the Nicolaitans .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002016">
+			</marker>
+			<v n="16">
+				<woc>Therefore repent . If not ,</woc>
+				<crossref let="m" cid="c66002016.2" />
+				<woc>I will come to you soon and</woc>
+				<crossref let="n" cid="c66002016.3" />
+				<woc>war against them with</woc>
+				<crossref let="e" cid="c66002016.1" />
+				<woc>the sword of my mouth .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002017">
+			</marker>
+			<v n="17">
+				<crossref let="c" cid="c66002017.1" />
+				<woc>He who has an ear , let him hear what the Spirit says to the churches .</woc>
+				<crossref let="c" cid="c66002017.1" />
+				<woc>To the one who conquers I will give some of</woc>
+				<crossref let="o" cid="c66002017.2" />
+				<woc>the hidden manna , and I will give him a white stone , with</woc>
+				<crossref let="p" cid="c66002017.3" />
+				<woc>a new name written on the stone</woc>
+				<crossref let="q" cid="c66002017.4" />
+				<woc>that no one knows except the one who receives it . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002018">
+			</marker>
+			<v n="18">
+				<woc>“ And to the angel of the church in Thyatira write : ‘ The words of the Son of God ,</woc>
+				<crossref let="r" cid="c66002018.1" />
+				<woc>who has eyes like a flame of fire , and whose feet are like burnished bronze .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002019">
+			</marker>
+			<v n="19">
+				<crossref let="s" cid="c66002019.1" />
+				<woc>“ ‘ I know your works , your love and faith and service and patient endurance , and that your latter works exceed the first .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002020">
+			</marker>
+			<v n="20">
+				<woc>But I have this against you , that you tolerate that woman</woc>
+				<crossref let="t" cid="c66002020.1" />
+				<woc>Jezebel , who calls herself a prophetess and is teaching and seducing my servants</woc>
+				<crossref let="u" cid="c66002020.2" />
+				<woc>to practice sexual immorality and</woc>
+				<crossref let="u" cid="c66002020.2" />
+				<woc>to eat food sacrificed to idols .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002021">
+			</marker>
+			<v n="21">
+				<woc>I gave her time to repent , but</woc>
+				<crossref let="v" cid="c66002021.1" />
+				<woc>she refuses to repent of her sexual immorality .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002022">
+			</marker>
+			<v n="22">
+				<woc>Behold , I will throw her onto a sickbed , and those who commit adultery with her I will throw into great tribulation , unless they repent of her works ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002023">
+			</marker>
+			<v n="23">
+				<woc>and I will strike her children dead . And all the churches will know that I am he</woc>
+				<crossref let="w" cid="c66002023.1" />
+				<woc>who searches mind and heart , and</woc>
+				<crossref let="x" cid="c66002023.2" />
+				<woc>I will give to each of you according to your works .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002024">
+			</marker>
+			<v n="24">
+				<woc>But to the rest of you in Thyatira , who do not hold this teaching , who have not learned what some call</woc>
+				<crossref let="y" cid="c66002024.1" />
+				<woc>the deep things of Satan , to you I say , I</woc>
+				<crossref let="z" cid="c66002024.2" />
+				<woc>do not lay on you any other burden .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002025">
+			</marker>
+			<v n="25">
+				<woc>Only hold fast</woc>
+				<crossref let="a" cid="c66002025.1" />
+				<woc>what you have until I come .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002026">
+			</marker>
+			<v n="26">
+				<crossref let="b" cid="c66002026.1" />
+				<woc>The one who conquers and who keeps my works</woc>
+				<crossref let="c" cid="c66002026.2" />
+				<woc>until the end ,</woc>
+				<crossref let="d" cid="c66002026.3" />
+				<woc>to him I will give authority over the nations ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002027">
+			</marker>
+			<v n="27">
+				<woc>and</woc>
+				<crossref let="e" cid="c66002027.1" />
+				<woc>he will</woc>
+				<crossref let="f" cid="c66002027.2" />
+				<woc>rule them with a rod of iron ,</woc>
+				<crossref let="g" cid="c66002027.3" />
+				<woc>as when earthen pots are broken in pieces , even as I myself have received authority from my Father .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002028">
+			</marker>
+			<v n="28">
+				<woc>And I will give him</woc>
+				<crossref let="h" cid="c66002028.1" />
+				<woc>the morning star .</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002029">
+			</marker>
+			<v n="29">
+				<crossref let="p" cid="c66002029.1" />
+				<woc>He who has an ear , let him hear what the Spirit says to the churches . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v66002030">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">2:9 Greek *blasphemy*</footnote>
+				<footnote id="2">2:13 Or *your faith in me*</footnote>
+				<footnote id="3">2:27 Greek *shepherd*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

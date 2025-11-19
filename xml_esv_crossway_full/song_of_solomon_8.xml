@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:55.010485</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:55.010492</next_refresh_due>
+	</generation_info>
+	<book title="Song of Solomon" num="22" testament="old" bookAbbr="sng" version="ESV">
+		<marker class="begin-verse" mid="v22008001">
+		</marker>
+		<chapter num="8">
+			<heading>
+				Song of Solomon 8
+			</heading>
+			<heading>
+				Longing for Her Beloved
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and none would despise me .</v>
+			<marker class="begin-verse" mid="v22008002">
+			</marker>
+			<v n="2">the juice of my pomegranate .</v>
+			<marker class="begin-verse" mid="v22008003">
+			</marker>
+			<v n="3">and his right hand embraces me !</v>
+			<marker class="begin-verse" mid="v22008004">
+			</marker>
+			<v n="4">until it pleases .</v>
+			<marker class="begin-verse" mid="v22008005">
+			</marker>
+			<v n="5">there she who bore you was in labor .</v>
+			<marker class="begin-verse" mid="v22008006">
+			</marker>
+			<v n="6">the very<crossref let="b" cid="c22008006.2" />flame of the Lord .</v>
+			<marker class="begin-verse" mid="v22008007">
+			</marker>
+			<v n="7">he would be utterly despised .</v>
+			<marker class="begin-verse" mid="v22008008">
+			</marker>
+			<v n="8">on the day when she is spoken for ?</v>
+			<marker class="begin-verse" mid="v22008009">
+			</marker>
+			<v n="9">we will enclose her with<crossref let="e" cid="c22008009.1" />boards of cedar .</v>
+			<marker class="begin-verse" mid="v22008010">
+			</marker>
+			<v n="10">as one who finds peace .</v>
+			<marker class="begin-verse" mid="v22008011">
+			</marker>
+			<v n="11">each one was to bring for its fruit<crossref let="k" cid="c22008011.4" />a thousand pieces of silver .</v>
+			<marker class="begin-verse" mid="v22008012">
+			</marker>
+			<v n="12">and<crossref let="l" cid="c22008012.1" />the keepers of the fruit two hundred .</v>
+			<marker class="begin-verse" mid="v22008013">
+			</marker>
+			<v n="13">
+				<crossref let="o" cid="c22008013.3" />let me hear it .</v>
+			<marker class="begin-verse" mid="v22008014">
+			</marker>
+			<v n="14">on<crossref let="r" cid="c22008014.3" />the mountains of spices .</v>
+			<marker class="begin-verse" mid="v22008015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">8:6 Or *ardor*</footnote>
+				<footnote id="2">8:6 Hebrew *as Sheol*</footnote>
+				<footnote id="3">8:7 Or *it*</footnote>
+				<footnote id="4">8:10 Or *brings out*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

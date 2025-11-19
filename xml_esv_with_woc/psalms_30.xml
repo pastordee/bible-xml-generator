@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:44.142029</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:44.142036</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19030001">
+		</marker>
+		<chapter num="30">
+			<heading>
+				Psalm 30
+			</heading>
+			<heading>
+				Joy Comes with the Morning
+			</heading>
+			<heading>
+				A Psalm of David. A song at the dedication of the temple.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">rejoice over me.</v>
+			<marker class="begin-verse" mid="v19030002">
+			</marker>
+			<v n="2">healed me.</v>
+			<marker class="begin-verse" mid="v19030003">
+			</marker>
+			<v n="3">go down to the pit.</v>
+			<marker class="begin-verse" mid="v19030004">
+			</marker>
+			<v n="4">give thanks to his holy name.</v>
+			<marker class="begin-verse" mid="v19030005">
+			</marker>
+			<v n="5">joy comes with the morning.</v>
+			<marker class="begin-verse" mid="v19030006">
+			</marker>
+			<v n="6">moved.”</v>
+			<marker class="begin-verse" mid="v19030007">
+			</marker>
+			<v n="7">dismayed.</v>
+			<marker class="begin-verse" mid="v19030008">
+			</marker>
+			<v n="8">to the Lord I plead for mercy:</v>
+			<marker class="begin-verse" mid="v19030009">
+			</marker>
+			<v n="9">Will it tell of your faithfulness?</v>
+			<marker class="begin-verse" mid="v19030010">
+			</marker>
+			<v n="10">O Lord , be my helper!”</v>
+			<marker class="begin-verse" mid="v19030011">
+			</marker>
+			<v n="11">and clothed me with gladness,</v>
+			<marker class="begin-verse" mid="v19030012">
+			</marker>
+			<v n="12">O Lord my God, I will give thanks to you forever!</v>
+			<marker class="begin-verse" mid="v19030013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">30:3 Or *to life, that I should not go down to the pit*</footnote>
+				<footnote id="2">30:4 Hebrew *to the memorial of his holiness* (see Exodus 3:15)</footnote>
+				<footnote id="3">30:5 Or *and in his favor is life*</footnote>
+				<footnote id="4">30:9 Hebrew *in my blood*</footnote>
+				<footnote id="5">30:9 Or *to corruption*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

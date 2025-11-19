@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:31:54.028730</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:31:54.028740</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" bookAbbr="2ch" version="ESV">
+		<marker class="begin-verse" mid="v14019001">
+		</marker>
+		<chapter num="19">
+			<heading>
+				2 Chronicles 19
+			</heading>
+			<heading>
+				Jehoshaphat’s Reforms
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">19 Jehoshaphat the king of Judah returned in safety to his house in Jerusalem.</v>
+			<marker class="begin-verse" mid="v14019002">
+			</marker>
+			<v n="2">wrath has gone out against you from the Lord .</v>
+			<marker class="begin-verse" mid="v14019003">
+			</marker>
+			<v n="3">set your heart to seek God.”</v>
+			<marker class="begin-verse" mid="v14019004">
+			</marker>
+			<v n="4">the hill country of Ephraim, and brought them back to the Lord , the God of their fathers.</v>
+			<marker class="begin-verse" mid="v14019005">
+			</marker>
+			<v n="5">the fortified cities of Judah, city by city,</v>
+			<marker class="begin-verse" mid="v14019006">
+			</marker>
+			<v n="6">for you judge not for man but for the Lord . He is with you in giving judgment.</v>
+			<marker class="begin-verse" mid="v14019007">
+			</marker>
+			<v n="7">or partiality or taking bribes.”</v>
+			<marker class="begin-verse" mid="v14019008">
+			</marker>
+			<v n="8">to give judgment for the Lord and to decide disputed cases. They had their seat at Jerusalem.</v>
+			<marker class="begin-verse" mid="v14019009">
+			</marker>
+			<v n="9">and with your whole heart:</v>
+			<marker class="begin-verse" mid="v14019010">
+			</marker>
+			<v n="10">wrath may not come upon you and your brothers. Thus you shall do, and you will not incur guilt.</v>
+			<marker class="begin-verse" mid="v14019011">
+			</marker>
+			<v n="11">Deal courageously, and may the Lord be with the upright!”</v>
+			<marker class="begin-verse" mid="v14019012">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">19:11 Hebrew *the good*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

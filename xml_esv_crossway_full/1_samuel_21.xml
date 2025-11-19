@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:25:44.570630</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:25:44.570636</next_refresh_due>
+	</generation_info>
+	<book title="1 Samuel" num="9" testament="old" bookAbbr="1sa" version="ESV">
+		<marker class="begin-verse" mid="v09021001">
+		</marker>
+		<chapter num="21">
+			<heading>
+				1 Samuel 21
+			</heading>
+			<heading>
+				David and the Holy Bread
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Then David came to<crossref let="v" cid="c09021001.1" />Nob , to<crossref let="w" cid="c09021001.2" />Ahimelech the priest . And Ahimelech<crossref let="x" cid="c09021001.3" />came to meet David , trembling , and said to him , “ Why are you alone , and no one with you ? ”</v>
+			<marker class="begin-verse" mid="v09021002">
+			</marker>
+			<v n="2">And David said to Ahimelech the priest , “ The king has charged me with a matter and said to me , ‘ Let no one know anything of the matter about which I send you , and with which I have charged you . ’ I have made an appointment with the young men for such and such a place .</v>
+			<marker class="begin-verse" mid="v09021003">
+			</marker>
+			<v n="3">Now then , what do you have on hand ? Give me five loaves of bread , or whatever is here . ”</v>
+			<marker class="begin-verse" mid="v09021004">
+			</marker>
+			<v n="4">And the priest answered David , “ I have no common bread on hand , but there is<crossref let="y" cid="c09021004.1" />holy bread —<crossref let="z" cid="c09021004.2" />if the young men have kept themselves from women . ”</v>
+			<marker class="begin-verse" mid="v09021005">
+			</marker>
+			<v n="5">And David answered the priest , “ Truly women have been kept from us as always when I go on an expedition . The vessels of the young men are holy even when it is an ordinary journey . How much more today will their vessels be holy ? ”</v>
+			<marker class="begin-verse" mid="v09021006">
+			</marker>
+			<v n="6">So the priest gave him<crossref let="y" cid="c09021006.2" />the holy bread , for there was no bread there but the bread of the Presence ,<crossref let="a" cid="c09021006.1" />which is removed from before the Lord , to be replaced by hot bread on the day it is taken away .</v>
+			<marker class="begin-verse" mid="v09021007">
+			</marker>
+			<v n="7">Now a certain man of the servants of Saul was there that day , detained before the Lord . His name was<crossref let="b" cid="c09021007.1" />Doeg the Edomite , the chief of Saul’s herdsmen .</v>
+			<marker class="begin-verse" mid="v09021008">
+			</marker>
+			<v n="8">Then David said to Ahimelech , “ Then have you not here a spear or a sword at hand ? For I have brought neither my sword nor my weapons with me , because the king’s business required haste . ”</v>
+			<marker class="begin-verse" mid="v09021009">
+			</marker>
+			<v n="9">And the priest said ,<crossref let="c" cid="c09021009.1" />“ The sword of Goliath the Philistine , whom you struck down in<crossref let="d" cid="c09021009.2" />the Valley of Elah , behold , it is here wrapped in a cloth behind the ephod . If you will take that , take it , for there is none but that here . ” And David said , “ There is none like that ; give it to me . ”</v>
+			<marker class="begin-verse" mid="v09021010">
+			</marker>
+			<v n="10">And David rose and fled that day from Saul and went to<crossref let="e" cid="c09021010.1" />Achish the king of Gath .</v>
+			<marker class="begin-verse" mid="v09021011">
+			</marker>
+			<v n="11">and David his ten thousands ’ ? ”</v>
+			<marker class="begin-verse" mid="v09021012">
+			</marker>
+			<v n="12">And David<crossref let="g" cid="c09021012.1" />took these words to heart and was much afraid of Achish the king of Gath .</v>
+			<marker class="begin-verse" mid="v09021013">
+			</marker>
+			<v n="13">So he changed his behavior before them and pretended to be insane in their hands and made marks on the doors of the gate and let his spittle run down his beard .</v>
+			<marker class="begin-verse" mid="v09021014">
+			</marker>
+			<v n="14">Then Achish said to his servants , “ Behold , you see the man is mad . Why then have you brought him to me ?</v>
+			<marker class="begin-verse" mid="v09021015">
+			</marker>
+			<v n="15">Do I lack madmen , that you have brought this fellow to behave as a madman in my presence ? Shall this fellow come into my house ? ”</v>
+			<marker class="begin-verse" mid="v09021016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">21:1 Ch 21:2 in Hebrew</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:15.435546</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:15.435555</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40010001">
+		</marker>
+		<chapter num="10">
+			<heading>
+				Matthew 10
+			</heading>
+			<heading>
+				The Twelve Apostles
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">And he called to him his twelve disciples and gave them authority over unclean spirits, to cast them out, and to heal every disease and every affliction.</v>
+			<marker class="begin-verse" mid="v40010002">
+			</marker>
+			<v n="2">James the son of Zebedee, and John his brother;</v>
+			<marker class="begin-verse" mid="v40010003">
+			</marker>
+			<v n="3">Matthew the tax collector; James the son of Alphaeus, and Thaddaeus;</v>
+			<marker class="begin-verse" mid="v40010004">
+			</marker>
+			<v n="4">Simon the Zealot, and Judas Iscariot, who betrayed him.</v>
+			<marker class="begin-verse" mid="v40010005">
+			</marker>
+			<v n="5">These twelve Jesus sent out, instructing them,<woc>“Go nowhere among the Gentiles and enter no town of</woc>
+				<woc>the Samaritans,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010006">
+			</marker>
+			<v n="6">
+				<woc>but go rather to</woc>
+				<woc>the lost sheep of</woc>
+				<woc>the house of Israel.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010007">
+			</marker>
+			<v n="7">
+				<woc>And proclaim as you go, saying,</woc>
+				<woc>‘The kingdom of heaven is at hand.’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010008">
+			</marker>
+			<v n="8">
+				<woc>Heal the sick, raise the dead, cleanse lepers, cast out demons.</woc>
+				<woc>You received without paying; give without pay.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010009">
+			</marker>
+			<v n="9">
+				<woc>Acquire no gold or silver or copper for your belts,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010010">
+			</marker>
+			<v n="10">
+				<woc>no bag for your journey, or two tunics or sandals or a staff, for</woc>
+				<woc>the laborer deserves his food.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010011">
+			</marker>
+			<v n="11">
+				<woc>And whatever town or village you enter, find out who is worthy in it and stay there until you depart.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010012">
+			</marker>
+			<v n="12">
+				<woc>As you enter the house,</woc>
+				<woc>greet it.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010013">
+			</marker>
+			<v n="13">
+				<woc>And if the house is</woc>
+				<woc>worthy, let</woc>
+				<woc>your peace come upon it, but if it is not worthy, let</woc>
+				<woc>your peace return to you.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010014">
+			</marker>
+			<v n="14">
+				<woc>And if anyone will not receive you or listen to your words,</woc>
+				<woc>shake off the dust from your feet when you leave that house or town.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010015">
+			</marker>
+			<v n="15">
+				<woc>Truly, I say to you,</woc>
+				<woc>it will be more bearable on the day of judgment for</woc>
+				<woc>the land of Sodom and Gomorrah than for that town.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010016">
+			</marker>
+			<v n="16">
+				<woc>“Behold, I am sending you out as sheep in the midst of wolves, so be</woc>
+				<woc>wise as serpents and</woc>
+				<woc>innocent as doves.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010017">
+			</marker>
+			<v n="17">
+				<woc>Beware of men, for</woc>
+				<woc>they will deliver you over to courts and flog you</woc>
+				<woc>in their synagogues,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010018">
+			</marker>
+			<v n="18">
+				<woc>and you will be dragged before governors and kings for my sake,</woc>
+				<woc>to bear witness before them and the Gentiles.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010019">
+			</marker>
+			<v n="19">
+				<woc>When</woc>
+				<woc>they deliver you over,</woc>
+				<woc>do not be anxious how you are to speak or what you are to say, for</woc>
+				<woc>what you are to say will be given to you in that hour.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010020">
+			</marker>
+			<v n="20">
+				<woc>For it is not you who speak, but</woc>
+				<woc>the Spirit of your Father speaking through you.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010021">
+			</marker>
+			<v n="21">
+				<woc>Brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010022">
+			</marker>
+			<v n="22">
+				<woc>and you will be hated by all for my name's sake.</woc>
+				<woc>But the one who endures to the end will be saved.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010023">
+			</marker>
+			<v n="23">
+				<woc>When they</woc>
+				<woc>persecute you in one town,</woc>
+				<woc>flee to the next, for truly, I say to you, you will not have gone through all the towns of Israel</woc>
+				<woc>before the Son of Man comes.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010024">
+			</marker>
+			<v n="24">
+				<woc>“A disciple is not above his teacher, nor a servant above his master.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010025">
+			</marker>
+			<v n="25">
+				<woc>It is enough for the disciple to be like his teacher, and the servant like his master.</woc>
+				<woc>If they have called the master of the house Beelzebul, how much more will they malign those of his household.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010026">
+			</marker>
+			<v n="26">
+				<woc>“So have no fear of them,</woc>
+				<woc>for nothing is covered that will not be revealed, or hidden that will not be known.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010027">
+			</marker>
+			<v n="27">
+				<woc>What I tell you in the dark, say in the light, and what you hear whispered, proclaim on</woc>
+				<woc>the housetops.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010028">
+			</marker>
+			<v n="28">
+				<woc>And</woc>
+				<woc>do not fear those who kill the body but cannot kill the soul. Rather fear him</woc>
+				<woc>who can destroy both soul and body in hell.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010029">
+			</marker>
+			<v n="29">
+				<woc>Are not two sparrows sold for a penny? And not one of them will fall to the ground apart from your Father.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010030">
+			</marker>
+			<v n="30">
+				<woc>But</woc>
+				<woc>even the hairs of your head are all numbered.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010031">
+			</marker>
+			<v n="31">
+				<woc>Fear not, therefore;</woc>
+				<woc>you are of more value than many sparrows.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010032">
+			</marker>
+			<v n="32">
+				<woc>So everyone who acknowledges me before men, I also will acknowledge before my Father who is in heaven,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010033">
+			</marker>
+			<v n="33">
+				<woc>but</woc>
+				<woc>whoever denies me before men,</woc>
+				<woc>I also will deny before my Father who is in heaven.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010034">
+			</marker>
+			<v n="34">
+				<woc>“Do not think that I have come to bring peace to the earth.</woc>
+				<woc>I have not come to bring peace, but a sword.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010035">
+			</marker>
+			<v n="35">
+				<woc>For I have come</woc>
+				<woc>to set a man against his father, and a daughter against her mother, and a daughter-in-law against her mother-in-law.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010036">
+			</marker>
+			<v n="36">
+				<woc>And a person's enemies will be those of his own household.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010037">
+			</marker>
+			<v n="37">
+				<woc>Whoever loves father or mother more than me is not worthy of me, and whoever loves son or daughter more than me is not worthy of me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010038">
+			</marker>
+			<v n="38">
+				<woc>And</woc>
+				<woc>whoever does not take his cross and</woc>
+				<woc>follow me is not worthy of me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010039">
+			</marker>
+			<v n="39">
+				<woc>Whoever finds his life will lose it, and whoever loses his life for my sake will find it.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010040">
+			</marker>
+			<v n="40">
+				<woc>“Whoever receives you receives me, and</woc>
+				<woc>whoever receives me receives him who sent me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010041">
+			</marker>
+			<v n="41">
+				<woc>The one who receives a prophet because he is a prophet will receive a prophet's reward, and the one who receives a righteous person because he is a righteous person will receive a righteous person's reward.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010042">
+			</marker>
+			<v n="42">
+				<woc>And</woc>
+				<woc>whoever gives one of</woc>
+				<woc>these little ones even a cup of cold water because he is a disciple, truly, I say to you, he will by no means lose his reward.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40010043">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

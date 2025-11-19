@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:03:44.234484</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:03:44.234493</next_refresh_due>
+	</generation_info>
+	<book title="Zechariah" num="38" testament="old" bookAbbr="zec" version="ESV">
+		<marker class="begin-verse" mid="v38007001">
+		</marker>
+		<chapter num="7">
+			<heading>
+				Zechariah 7
+			</heading>
+			<heading>
+				A Call for Justice and Mercy
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Chislev.</v>
+			<marker class="begin-verse" mid="v38007002">
+			</marker>
+			<v n="2">to entreat the favor of the Lord ,</v>
+			<marker class="begin-verse" mid="v38007003">
+			</marker>
+			<v n="3">the fifth month, as I have done for so many years?”</v>
+			<marker class="begin-verse" mid="v38007004">
+			</marker>
+			<v n="4">Then the word of the Lord of hosts came to me:</v>
+			<marker class="begin-verse" mid="v38007005">
+			</marker>
+			<v n="5">for me that you fasted?</v>
+			<marker class="begin-verse" mid="v38007006">
+			</marker>
+			<v n="6">And when you eat and when you drink, do you not eat for yourselves and drink for yourselves?</v>
+			<marker class="begin-verse" mid="v38007007">
+			</marker>
+			<v n="7">lowland were inhabited?’”</v>
+			<marker class="begin-verse" mid="v38007008">
+			</marker>
+			<v n="8">And the word of the Lord came to Zechariah, saying,</v>
+			<marker class="begin-verse" mid="v38007009">
+			</marker>
+			<v n="9">Render true judgments, show kindness and mercy to one another,</v>
+			<marker class="begin-verse" mid="v38007010">
+			</marker>
+			<v n="10">let none of you devise evil against another in your heart.”</v>
+			<marker class="begin-verse" mid="v38007011">
+			</marker>
+			<v n="11">and turned a stubborn shoulder and stopped their ears that they might not hear.</v>
+			<marker class="begin-verse" mid="v38007012">
+			</marker>
+			<v n="12">Therefore great anger came from the Lord of hosts.</v>
+			<marker class="begin-verse" mid="v38007013">
+			</marker>
+			<v n="13">so they called, and I would not hear,” says the Lord of hosts,</v>
+			<marker class="begin-verse" mid="v38007014">
+			</marker>
+			<v n="14">and the pleasant land was made desolate.”</v>
+			<marker class="begin-verse" mid="v38007015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">7:11 Hebrew *and made their ears too heavy to hear*</footnote>
+				<footnote id="2">7:13 Hebrew *he*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

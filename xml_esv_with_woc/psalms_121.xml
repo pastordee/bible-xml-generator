@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:58.091313</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:58.091342</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19121001">
+		</marker>
+		<chapter num="121">
+			<heading>
+				Psalm 121
+			</heading>
+			<heading>
+				My Help Comes from the LORD
+			</heading>
+			<heading>
+				A Song of Ascents.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">From where does my help come?</v>
+			<marker class="begin-verse" mid="v19121002">
+			</marker>
+			<v n="2">made heaven and earth.</v>
+			<marker class="begin-verse" mid="v19121003">
+			</marker>
+			<v n="3">keeps you will not slumber.</v>
+			<marker class="begin-verse" mid="v19121004">
+			</marker>
+			<v n="4">will neither slumber nor sleep.</v>
+			<marker class="begin-verse" mid="v19121005">
+			</marker>
+			<v n="5">right hand.</v>
+			<marker class="begin-verse" mid="v19121006">
+			</marker>
+			<v n="6">nor the moon by night.</v>
+			<marker class="begin-verse" mid="v19121007">
+			</marker>
+			<v n="7">keep your life.</v>
+			<marker class="begin-verse" mid="v19121008">
+			</marker>
+			<v n="8">from this time forth and forevermore.</v>
+			<marker class="begin-verse" mid="v19121009">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

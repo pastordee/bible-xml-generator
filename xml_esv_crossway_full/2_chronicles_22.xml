@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:31:58.417198</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:31:58.417218</next_refresh_due>
+	</generation_info>
+	<book title="2 Chronicles" num="14" testament="old" bookAbbr="2ch" version="ESV">
+		<marker class="begin-verse" mid="v14022001">
+		</marker>
+		<chapter num="22">
+			<heading>
+				2 Chronicles 22
+			</heading>
+			<heading>
+				Ahaziah Reigns in Judah
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="b" cid="c14022001.1" />And the inhabitants of Jerusalem made Ahaziah , his youngest son , king in his place , for the band of men that came with<crossref let="c" cid="c14022001.2" />the Arabians to the camp had killed all the older sons . So Ahaziah the son of Jehoram king of Judah reigned .</v>
+			<marker class="begin-verse" mid="v14022002">
+			</marker>
+			<v n="2">Ahaziah was twenty-two years old when he began to reign , and he reigned one year in Jerusalem . His mother’s name was Athaliah ,<crossref let="d" cid="c14022002.1" />the granddaughter of Omri .</v>
+			<marker class="begin-verse" mid="v14022003">
+			</marker>
+			<v n="3">He also walked in the ways of the house of Ahab , for his mother was his counselor in doing wickedly .</v>
+			<marker class="begin-verse" mid="v14022004">
+			</marker>
+			<v n="4">He did what was evil in the sight of the Lord , as the house of Ahab had done . For after the death of his father they were his counselors , to his undoing .</v>
+			<marker class="begin-verse" mid="v14022005">
+			</marker>
+			<v n="5">He even followed their counsel and went with Jehoram the son of Ahab king of Israel to make war against Hazael king of Syria at Ramoth-gilead . And the Syrians wounded Joram ,</v>
+			<marker class="begin-verse" mid="v14022006">
+			</marker>
+			<v n="6">and he returned to be healed in Jezreel of the wounds that he had received at Ramah , when he fought against Hazael king of Syria . And Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel , because he was wounded .</v>
+			<marker class="begin-verse" mid="v14022007">
+			</marker>
+			<v n="7">But it was ordained by God that the downfall of Ahaziah should come about through his going to visit Joram . For when he came there ,<crossref let="e" cid="c14022007.1" />he went out with Jehoram to meet Jehu the son of Nimshi ,<crossref let="f" cid="c14022007.2" />whom the Lord had anointed to destroy the house of Ahab .</v>
+			<marker class="begin-verse" mid="v14022008">
+			</marker>
+			<v n="8">
+				<crossref let="g" cid="c14022008.1" />And when Jehu was<crossref let="h" cid="c14022008.2" />executing judgment on the house of Ahab , he met the princes of Judah and the sons of Ahaziah’s brothers , who attended Ahaziah , and he killed them .</v>
+			<marker class="begin-verse" mid="v14022009">
+			</marker>
+			<v n="9">
+				<crossref let="i" cid="c14022009.1" />He searched for Ahaziah , and he was captured while hiding in Samaria , and he was brought to Jehu and put to death .<crossref let="j" cid="c14022009.2" />They buried him , for they said , “ He is the grandson of Jehoshaphat ,<crossref let="k" cid="c14022009.3" />who sought the Lord with all his heart . ” And the house of Ahaziah had no one able to rule the kingdom .</v>
+			<marker class="begin-verse" mid="v14022010">
+			</marker>
+			<v n="10">
+				<crossref let="l" cid="c14022010.1" />Now when Athaliah the mother of Ahaziah saw that her son was dead , she arose and destroyed all the royal family of the house of Judah .</v>
+			<marker class="begin-verse" mid="v14022011">
+			</marker>
+			<v n="11">But Jehoshabeath , the daughter of the king , took Joash the son of Ahaziah and stole him away from among the king’s sons who were about to be put to death , and she put him and his nurse in a bedroom . Thus Jehoshabeath , the daughter of King Jehoram and wife of Jehoiada the priest , because she was a sister of Ahaziah , hid him from Athaliah , so that she did not put him to death .</v>
+			<marker class="begin-verse" mid="v14022012">
+			</marker>
+			<v n="12">And he remained with them six years , hidden in the house of God , while Athaliah reigned over the land .</v>
+			<marker class="begin-verse" mid="v14022013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">22:2 See 2 Kings 8:26; Hebrew *forty-two*; Septuagint *twenty*</footnote>
+				<footnote id="2">22:7 Hebrew *was from*</footnote>
+				<footnote id="3">22:11 Spelled *Jehosheba* in 2 Kings 11:2</footnote>
+				<footnote id="4">22:11 That is, Joash</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,240 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:45.109493</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:45.109515</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" bookAbbr="jhn" version="ESV">
+		<marker class="begin-verse" mid="v43003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				John 3
+			</heading>
+			<heading>
+				You Must Be Born Again
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Now there was a man of the Pharisees named<crossref let="h" cid="c43003001.1" />Nicodemus ,<crossref let="i" cid="c43003001.2" />a ruler of the Jews .</v>
+			<marker class="begin-verse" mid="v43003002">
+			</marker>
+			<v n="2">This man came to Jesus<crossref let="j" cid="c43003002.1" />by night and said to him ,<crossref let="k" cid="c43003002.2" />“ Rabbi ,<crossref let="l" cid="c43003002.3" />we know that you are a teacher come from God , for no one can do these signs that you do<crossref let="m" cid="c43003002.4" />unless God is with him . ”</v>
+			<marker class="begin-verse" mid="v43003003">
+			</marker>
+			<v n="3">Jesus answered him ,<woc>“ Truly , truly , I say to you , unless one is</woc>
+				<crossref let="n" cid="c43003003.1" />
+				<woc>born</woc>
+				<crossref let="o" cid="c43003003.2" />
+				<woc>again he cannot</woc>
+				<crossref let="p" cid="c43003003.3" />
+				<woc>see the kingdom of God . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003004">
+			</marker>
+			<v n="4">Nicodemus said to him , “ How can a man be born when he is old ? Can he enter a second time into his mother’s womb and be born ? ”</v>
+			<marker class="begin-verse" mid="v43003005">
+			</marker>
+			<v n="5">Jesus answered ,<woc>“ Truly , truly , I say to you , unless one is born</woc>
+				<crossref let="q" cid="c43003005.1" />
+				<woc>of water and the Spirit , he cannot enter the kingdom of God .</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003006">
+			</marker>
+			<v n="6">
+				<crossref let="r" cid="c43003006.1" />
+				<woc>That which is born of the flesh is</woc>
+				<crossref let="s" cid="c43003006.2" />
+				<woc>flesh , and that which is born of the Spirit is spirit .</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003007">
+			</marker>
+			<v n="7">
+				<crossref let="t" cid="c43003007.1" />
+				<woc>Do not marvel that I said to you , ‘ You must be born</woc>
+				<crossref let="u" cid="c43003007.2" />
+				<woc>again . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003008">
+			</marker>
+			<v n="8">
+				<crossref let="v" cid="c43003008.1" />
+				<woc>The wind blows</woc>
+				<crossref let="w" cid="c43003008.2" />
+				<woc>where it wishes , and you hear its sound , but you do not know where it comes from or where it goes . So it is with everyone who is born of the Spirit . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003009">
+			</marker>
+			<v n="9">Nicodemus said to him ,<crossref let="x" cid="c43003009.1" />“ How can these things be ? ”</v>
+			<marker class="begin-verse" mid="v43003010">
+			</marker>
+			<v n="10">Jesus answered him ,<woc>“ Are you the teacher of Israel</woc>
+				<crossref let="y" cid="c43003010.1" />
+				<woc>and yet you do not understand these things ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003011">
+			</marker>
+			<v n="11">
+				<woc>Truly , truly , I say to you ,</woc>
+				<crossref let="z" cid="c43003011.1" />
+				<woc>we speak of what we know , and bear witness to what we have seen , but</woc>
+				<crossref let="z" cid="c43003011.1" />
+				<woc>you do not receive our testimony .</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003012">
+			</marker>
+			<v n="12">
+				<woc>If I have told you earthly things and you do not believe , how can you believe if I tell you heavenly things ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003013">
+			</marker>
+			<v n="13">
+				<crossref let="a" cid="c43003013.1" />
+				<woc>No one has</woc>
+				<crossref let="b" cid="c43003013.2" />
+				<woc>ascended into heaven except</woc>
+				<crossref let="c" cid="c43003013.3" />
+				<woc>he who descended from heaven , the Son of Man .</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003014">
+			</marker>
+			<v n="14">
+				<woc>And</woc>
+				<crossref let="d" cid="c43003014.1" />
+				<woc>as Moses lifted up the serpent in the wilderness , so must the Son of Man</woc>
+				<crossref let="e" cid="c43003014.2" />
+				<woc>be lifted up ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003015">
+			</marker>
+			<v n="15">
+				<woc>that whoever believes</woc>
+				<crossref let="f" cid="c43003015.1" />
+				<woc>in him</woc>
+				<crossref let="g" cid="c43003015.2" />
+				<woc>may have eternal life .</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003016">
+			</marker>
+			<v n="16">
+				<woc>“ For</woc>
+				<crossref let="h" cid="c43003016.1" />
+				<woc>God so loved</woc>
+				<crossref let="i" cid="c43003016.2" />
+				<woc>the world ,</woc>
+				<crossref let="j" cid="c43003016.3" />
+				<woc>that he gave his only Son , that whoever believes in him should not</woc>
+				<crossref let="k" cid="c43003016.4" />
+				<woc>perish but have eternal life .</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003017">
+			</marker>
+			<v n="17">
+				<woc>For</woc>
+				<crossref let="l" cid="c43003017.1" />
+				<woc>God did not send his Son into the world</woc>
+				<crossref let="m" cid="c43003017.2" />
+				<woc>to condemn the world , but in order that the world might be saved through him .</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003018">
+			</marker>
+			<v n="18">
+				<crossref let="n" cid="c43003018.1" />
+				<woc>Whoever believes in him is not condemned , but whoever does not believe is condemned already , because he has not</woc>
+				<crossref let="o" cid="c43003018.2" />
+				<woc>believed in the name of the only Son of God .</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003019">
+			</marker>
+			<v n="19">
+				<crossref let="p" cid="c43003019.1" />
+				<woc>And this is the judgment :</woc>
+				<crossref let="q" cid="c43003019.2" />
+				<woc>the light has come into the world , and</woc>
+				<crossref let="r" cid="c43003019.3" />
+				<woc>people loved the darkness rather than the light because</woc>
+				<crossref let="s" cid="c43003019.4" />
+				<woc>their works were evil .</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003020">
+			</marker>
+			<v n="20">
+				<crossref let="t" cid="c43003020.1" />
+				<woc>For everyone who does wicked things hates the light and does not come to the light ,</woc>
+				<crossref let="u" cid="c43003020.2" />
+				<woc>lest his works should be exposed .</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003021">
+			</marker>
+			<v n="21">
+				<woc>But whoever</woc>
+				<crossref let="v" cid="c43003021.1" />
+				<woc>does what is true</woc>
+				<crossref let="w" cid="c43003021.2" />
+				<woc>comes to the light , so that it may be clearly seen that his works have been carried out in God . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43003022">
+			</marker>
+			<v n="22">After this Jesus and his disciples went into the Judean countryside , and he remained there with them and<crossref let="x" cid="c43003022.1" />was baptizing .</v>
+			<marker class="begin-verse" mid="v43003023">
+			</marker>
+			<v n="23">John also was baptizing at Aenon near Salim , because water was plentiful there , and people were coming and being baptized</v>
+			<marker class="begin-verse" mid="v43003024">
+			</marker>
+			<v n="24">( for<crossref let="y" cid="c43003024.1" />John had not yet been put in prison ) .</v>
+			<marker class="begin-verse" mid="v43003025">
+			</marker>
+			<v n="25">Now a discussion arose between some of John’s disciples and a Jew over<crossref let="z" cid="c43003025.1" />purification .</v>
+			<marker class="begin-verse" mid="v43003026">
+			</marker>
+			<v n="26">And they came to John and said to him ,<crossref let="a" cid="c43003026.1" />“ Rabbi , he who was with you across the Jordan ,<crossref let="b" cid="c43003026.2" />to whom you bore witness — look , he is baptizing , and<crossref let="c" cid="c43003026.3" />all are going to him . ”</v>
+			<marker class="begin-verse" mid="v43003027">
+			</marker>
+			<v n="27">John answered ,<crossref let="d" cid="c43003027.1" />“ A person cannot receive even one thing<crossref let="e" cid="c43003027.2" />unless it is given him<crossref let="f" cid="c43003027.3" />from heaven .</v>
+			<marker class="begin-verse" mid="v43003028">
+			</marker>
+			<v n="28">You yourselves bear me witness , that I said ,<crossref let="g" cid="c43003028.1" />‘ I am not the Christ , but<crossref let="h" cid="c43003028.2" />I have been sent before him . ’</v>
+			<marker class="begin-verse" mid="v43003029">
+			</marker>
+			<v n="29">
+				<crossref let="i" cid="c43003029.1" />The one who has the bride is the bridegroom .<crossref let="j" cid="c43003029.2" />The friend of the bridegroom , who stands and hears him ,<crossref let="k" cid="c43003029.3" />rejoices greatly at the bridegroom’s voice . Therefore this joy of mine is now complete .</v>
+			<marker class="begin-verse" mid="v43003030">
+			</marker>
+			<v n="30">
+				<crossref let="l" cid="c43003030.1" />He must increase , but I must decrease . ”</v>
+			<marker class="begin-verse" mid="v43003031">
+			</marker>
+			<v n="31">
+				<crossref let="m" cid="c43003031.1" />He who comes from above<crossref let="n" cid="c43003031.2" />is above all . He who is of the earth belongs to the earth and<crossref let="o" cid="c43003031.3" />speaks in an earthly way .<crossref let="p" cid="c43003031.4" />He who comes from heaven<crossref let="n" cid="c43003031.2" />is above all .</v>
+			<marker class="begin-verse" mid="v43003032">
+			</marker>
+			<v n="32">
+				<crossref let="q" cid="c43003032.1" />He bears witness to what he has seen and heard ,<crossref let="r" cid="c43003032.2" />yet no one receives his testimony .</v>
+			<marker class="begin-verse" mid="v43003033">
+			</marker>
+			<v n="33">Whoever receives his testimony<crossref let="s" cid="c43003033.1" />sets his seal to this ,<crossref let="t" cid="c43003033.2" />that God is true .</v>
+			<marker class="begin-verse" mid="v43003034">
+			</marker>
+			<v n="34">For he whom<crossref let="u" cid="c43003034.1" />God has sent utters the words of God , for he gives the Spirit<crossref let="v" cid="c43003034.2" />without measure .</v>
+			<marker class="begin-verse" mid="v43003035">
+			</marker>
+			<v n="35">
+				<crossref let="w" cid="c43003035.1" />The Father loves the Son and<crossref let="x" cid="c43003035.2" />has given all things into his hand .</v>
+			<marker class="begin-verse" mid="v43003036">
+			</marker>
+			<v n="36">
+				<crossref let="y" cid="c43003036.2" />Whoever believes in the Son has eternal life ;<crossref let="z" cid="c43003036.3" />whoever does not obey the Son shall not<crossref let="a" cid="c43003036.1" />see life , but the wrath of God remains on him .</v>
+			<marker class="begin-verse" mid="v43003037">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

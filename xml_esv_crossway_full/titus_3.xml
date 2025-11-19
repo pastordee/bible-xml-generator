@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:35.112520</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:35.112530</next_refresh_due>
+	</generation_info>
+	<book title="Titus" num="56" testament="new" bookAbbr="tit" version="ESV">
+		<marker class="begin-verse" mid="v56003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Titus 3
+			</heading>
+			<heading>
+				Be Ready for Every Good Work
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Remind them<crossref let="x" cid="c56003001.1" />to be submissive to rulers and authorities ,<crossref let="y" cid="c56003001.2" />to be obedient , to be ready for every good work ,</v>
+			<marker class="begin-verse" mid="v56003002">
+			</marker>
+			<v n="2">
+				<crossref let="z" cid="c56003002.3" />to speak evil of no one ,<crossref let="a" cid="c56003002.1" />to avoid quarreling , to be gentle , and<crossref let="b" cid="c56003002.2" />to show perfect courtesy toward all people .</v>
+			<marker class="begin-verse" mid="v56003003">
+			</marker>
+			<v n="3">For<crossref let="c" cid="c56003003.1" />we ourselves were once foolish , disobedient , led astray , slaves to various passions and pleasures , passing our days in malice and envy , hated by others and hating one another .</v>
+			<marker class="begin-verse" mid="v56003004">
+			</marker>
+			<v n="4">But when<crossref let="d" cid="c56003004.1" />the goodness and loving kindness of God our Savior appeared ,</v>
+			<marker class="begin-verse" mid="v56003005">
+			</marker>
+			<v n="5">he saved us ,<crossref let="e" cid="c56003005.1" />not because of works done by us in righteousness , but<crossref let="f" cid="c56003005.2" />according to his own mercy , by<crossref let="g" cid="c56003005.3" />the washing of regeneration and<crossref let="h" cid="c56003005.4" />renewal of the Holy Spirit ,</v>
+			<marker class="begin-verse" mid="v56003006">
+			</marker>
+			<v n="6">whom he<crossref let="i" cid="c56003006.1" />poured out on us richly through Jesus Christ our Savior ,</v>
+			<marker class="begin-verse" mid="v56003007">
+			</marker>
+			<v n="7">so that<crossref let="j" cid="c56003007.1" />being justified by his grace we might become<crossref let="k" cid="c56003007.2" />heirs<crossref let="l" cid="c56003007.3" />according to the hope of eternal life .</v>
+			<marker class="begin-verse" mid="v56003008">
+			</marker>
+			<v n="8">The saying is<crossref let="m" cid="c56003008.1" />trustworthy , and I want you to insist on these things , so that those who have believed in God may be careful<crossref let="n" cid="c56003008.2" />to devote themselves to good works . These things are excellent and profitable for people .</v>
+			<marker class="begin-verse" mid="v56003009">
+			</marker>
+			<v n="9">But<crossref let="o" cid="c56003009.1" />avoid foolish<crossref let="p" cid="c56003009.2" />controversies ,<crossref let="q" cid="c56003009.3" />genealogies , dissensions , and quarrels about the law , for<crossref let="r" cid="c56003009.4" />they are unprofitable and worthless .</v>
+			<marker class="begin-verse" mid="v56003010">
+			</marker>
+			<v n="10">As for a person who stirs up division ,<crossref let="s" cid="c56003010.1" />after warning him once and then twice ,<crossref let="t" cid="c56003010.2" />have nothing more to do with him ,</v>
+			<marker class="begin-verse" mid="v56003011">
+			</marker>
+			<v n="11">knowing that such a person is warped and sinful ; he is self-condemned .</v>
+			<marker class="begin-verse" mid="v56003012">
+			</marker>
+			<v n="12">When I send Artemas or<crossref let="u" cid="c56003012.1" />Tychicus to you , do your best to come to me<crossref let="v" cid="c56003012.2" />at Nicopolis , for I have decided to spend the winter there .</v>
+			<marker class="begin-verse" mid="v56003013">
+			</marker>
+			<v n="13">Do your best to speed Zenas the lawyer and<crossref let="w" cid="c56003013.1" />Apollos on their way ; see that they lack nothing .</v>
+			<marker class="begin-verse" mid="v56003014">
+			</marker>
+			<v n="14">And let our people learn<crossref let="x" cid="c56003014.1" />to devote themselves to good works , so as to help cases of urgent need , and not<crossref let="y" cid="c56003014.2" />be unfruitful .</v>
+			<marker class="begin-verse" mid="v56003015">
+			</marker>
+			<v n="15">
+				<crossref let="z" cid="c56003015.1" />Grace be with you all .</v>
+			<marker class="begin-verse" mid="v56003016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

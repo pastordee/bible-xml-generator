@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:09.652675</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:09.652693</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" bookAbbr="hos" version="ESV">
+		<marker class="begin-verse" mid="v28014001">
+		</marker>
+		<chapter num="14">
+			<heading>
+				Hosea 14
+			</heading>
+			<heading>
+				A Plea to Return to the LORD
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">for<crossref let="o" cid="c28014001.2" />you have stumbled because of your iniquity .</v>
+			<marker class="begin-verse" mid="v28014002">
+			</marker>
+			<v n="2">
+				<crossref let="q" cid="c28014002.2" />the vows of our lips .</v>
+			<marker class="begin-verse" mid="v28014003">
+			</marker>
+			<v n="3">
+				<crossref let="u" cid="c28014003.4" />In you the orphan finds mercy . ”</v>
+			<marker class="begin-verse" mid="v28014004">
+			</marker>
+			<v n="4">for my anger has turned from them .</v>
+			<marker class="begin-verse" mid="v28014005">
+			</marker>
+			<v n="5">he shall take root like the trees<crossref let="z" cid="c28014005.3" />of Lebanon ;</v>
+			<marker class="begin-verse" mid="v28014006">
+			</marker>
+			<v n="6">and his fragrance like Lebanon .</v>
+			<marker class="begin-verse" mid="v28014007">
+			</marker>
+			<v n="7">their fame shall be like the wine of Lebanon .</v>
+			<marker class="begin-verse" mid="v28014008">
+			</marker>
+			<v n="8">
+				<crossref let="d" cid="c28014008.2" />from me comes your fruit .</v>
+			<marker class="begin-verse" mid="v28014009">
+			</marker>
+			<v n="9">
+				<crossref let="f" cid="c28014009.2" />but transgressors stumble in them .</v>
+			<marker class="begin-verse" mid="v28014010">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">14:2 Septuagint, Syriac *pay the fruit*</footnote>
+				<footnote id="2">14:7 Hebrew *his*</footnote>
+				<footnote id="3">14:8 Hebrew *him*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

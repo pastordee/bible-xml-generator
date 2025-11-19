@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:40.578938</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:40.578955</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19021001">
+		</marker>
+		<chapter num="21">
+			<heading>
+				Psalm 21
+			</heading>
+			<heading>
+				The King Rejoices in the LORD’s Strength
+			</heading>
+			<heading>
+				To the choirmaster. A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">salvation how greatly he exults!</v>
+			<marker class="begin-verse" mid="v19021002">
+			</marker>
+			<v n="2">and have not withheld the request of his lips. Selah</v>
+			<marker class="begin-verse" mid="v19021003">
+			</marker>
+			<v n="3">you set<crossref let="e" cid="c19021003.3" />a crown of fine gold upon his head.</v>
+			<marker class="begin-verse" mid="v19021004">
+			</marker>
+			<v n="4">length of days forever and ever.</v>
+			<marker class="begin-verse" mid="v19021005">
+			</marker>
+			<v n="5">splendor and majesty you bestow on him.</v>
+			<marker class="begin-verse" mid="v19021006">
+			</marker>
+			<v n="6">joy of your presence.</v>
+			<marker class="begin-verse" mid="v19021007">
+			</marker>
+			<v n="7">moved.</v>
+			<marker class="begin-verse" mid="v19021008">
+			</marker>
+			<v n="8">your right hand will find out those who hate you.</v>
+			<marker class="begin-verse" mid="v19021009">
+			</marker>
+			<v n="9">fire will consume them.</v>
+			<marker class="begin-verse" mid="v19021010">
+			</marker>
+			<v n="10">and their offspring from among the children of man.</v>
+			<marker class="begin-verse" mid="v19021011">
+			</marker>
+			<v n="11">devise mischief, they will not succeed.</v>
+			<marker class="begin-verse" mid="v19021012">
+			</marker>
+			<v n="12">aim at their faces with your bows.</v>
+			<marker class="begin-verse" mid="v19021013">
+			</marker>
+			<v n="13">We will sing and praise your power.</v>
+			<marker class="begin-verse" mid="v19021014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">21:6 Or *make him a source of blessing forever*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

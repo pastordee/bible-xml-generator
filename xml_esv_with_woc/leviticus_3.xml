@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:58:58.356471</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:58:58.356480</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" bookAbbr="lev" version="ESV">
+		<marker class="begin-verse" mid="v03003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Leviticus 3
+			</heading>
+			<heading>
+				Laws for Peace Offerings
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">3 “If his offering is<crossref let="i" cid="c03003001.1" />a sacrifice of peace offering, if he offers an animal from the herd, male or female,<crossref let="j" cid="c03003001.2" />he shall offer it<crossref let="k" cid="c03003001.3" />without blemish before the Lord .</v>
+			<marker class="begin-verse" mid="v03003002">
+			</marker>
+			<v n="2">And<crossref let="l" cid="c03003002.1" />he shall lay his hand on the head of his offering and kill it at the entrance of the tent of meeting, and Aaron's sons the priests shall throw the blood against the sides of the altar.</v>
+			<marker class="begin-verse" mid="v03003003">
+			</marker>
+			<v n="3">And from the sacrifice of the peace offering, as a food offering to the Lord , he shall offer<crossref let="m" cid="c03003003.1" />the fat covering the entrails and all the fat that is on the entrails,</v>
+			<marker class="begin-verse" mid="v03003004">
+			</marker>
+			<v n="4">
+				<crossref let="n" cid="c03003004.1" />and the two kidneys with the fat that is on them at the loins, and the long lobe of the liver that he shall remove with the kidneys.</v>
+			<marker class="begin-verse" mid="v03003005">
+			</marker>
+			<v n="5">Then Aaron's sons<crossref let="o" cid="c03003005.1" />shall burn it on the altar on top of the burnt offering, which is on the wood on the fire; it is a food offering with a pleasing aroma to the Lord .</v>
+			<marker class="begin-verse" mid="v03003006">
+			</marker>
+			<v n="6">without blemish.</v>
+			<marker class="begin-verse" mid="v03003007">
+			</marker>
+			<v n="7">If he offers a lamb for his offering, then he shall offer it before the Lord ,</v>
+			<marker class="begin-verse" mid="v03003008">
+			</marker>
+			<v n="8">lay his hand on the head of his offering, and kill it in front of the tent of meeting; and Aaron's sons shall throw its blood against the sides of the altar.</v>
+			<marker class="begin-verse" mid="v03003009">
+			</marker>
+			<v n="9">fat tail, cut off close to the backbone, and the fat that covers the entrails and all the fat that is on the entrails</v>
+			<marker class="begin-verse" mid="v03003010">
+			</marker>
+			<v n="10">with the kidneys.</v>
+			<marker class="begin-verse" mid="v03003011">
+			</marker>
+			<v n="11">a food offering to the Lord .</v>
+			<marker class="begin-verse" mid="v03003012">
+			</marker>
+			<v n="12">“If his offering is a goat, then he shall offer it before the Lord</v>
+			<marker class="begin-verse" mid="v03003013">
+			</marker>
+			<v n="13">and lay his hand on its head and kill it in front of the tent of meeting, and the sons of Aaron shall throw its blood against the sides of the altar.</v>
+			<marker class="begin-verse" mid="v03003014">
+			</marker>
+			<v n="14">Then he shall offer from it, as his offering for a food offering to the Lord , the fat covering the entrails and all the fat that is on the entrails</v>
+			<marker class="begin-verse" mid="v03003015">
+			</marker>
+			<v n="15">with the kidneys.</v>
+			<marker class="begin-verse" mid="v03003016">
+			</marker>
+			<v n="16">All fat is the Lord 's.</v>
+			<marker class="begin-verse" mid="v03003017">
+			</marker>
+			<v n="17">blood.”</v>
+			<marker class="begin-verse" mid="v03003018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

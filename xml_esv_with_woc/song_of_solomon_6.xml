@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:52.102648</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:52.102657</next_refresh_due>
+	</generation_info>
+	<book title="Song of Solomon" num="22" testament="old" bookAbbr="sng" version="ESV">
+		<marker class="begin-verse" mid="v22006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Song of Solomon 6
+			</heading>
+			<heading>
+				Others
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">that we may seek him with you?</v>
+			<marker class="begin-verse" mid="v22006002">
+			</marker>
+			<v n="2">lilies.</v>
+			<marker class="begin-verse" mid="v22006003">
+			</marker>
+			<v n="3">he grazes among the lilies.</v>
+			<marker class="begin-verse" mid="v22006004">
+			</marker>
+			<v n="4">awesome as an army with banners.</v>
+			<marker class="begin-verse" mid="v22006005">
+			</marker>
+			<v n="5">leaping down the slopes of Gilead.</v>
+			<marker class="begin-verse" mid="v22006006">
+			</marker>
+			<v n="6">not one among them has lost its young.</v>
+			<marker class="begin-verse" mid="v22006007">
+			</marker>
+			<v n="7">behind your veil.</v>
+			<marker class="begin-verse" mid="v22006008">
+			</marker>
+			<v n="8">virgins without number.</v>
+			<marker class="begin-verse" mid="v22006009">
+			</marker>
+			<v n="9">concubines also, and they praised her.</v>
+			<marker class="begin-verse" mid="v22006010">
+			</marker>
+			<v n="10">awesome as an army with banners?”</v>
+			<marker class="begin-verse" mid="v22006011">
+			</marker>
+			<v n="11">whether the pomegranates were in bloom.</v>
+			<marker class="begin-verse" mid="v22006012">
+			</marker>
+			<v n="12">the chariots of my kinsman, a prince.</v>
+			<marker class="begin-verse" mid="v22006013">
+			</marker>
+			<v n="13">two armies?</v>
+			<marker class="begin-verse" mid="v22006014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">6:2 Or *to pasture his flock*; also verse 3</footnote>
+				<footnote id="2">6:12 Or *chariots of Ammi-Nadib*</footnote>
+				<footnote id="3">6:13 Ch 7:1 in Hebrew</footnote>
+				<footnote id="4">6:13 Or *dance of Mahanaim*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

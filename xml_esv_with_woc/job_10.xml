@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:22.595126</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:22.595132</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18010001">
+		</marker>
+		<chapter num="10">
+			<heading>
+				Job 10
+			</heading>
+			<heading>
+				Job Continues: A Plea to God
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">the bitterness of my soul.</v>
+			<marker class="begin-verse" mid="v18010002">
+			</marker>
+			<v n="2">contend against me.</v>
+			<marker class="begin-verse" mid="v18010003">
+			</marker>
+			<v n="3">and favor the designs of the wicked?</v>
+			<marker class="begin-verse" mid="v18010004">
+			</marker>
+			<v n="4">Do you see as man sees?</v>
+			<marker class="begin-verse" mid="v18010005">
+			</marker>
+			<v n="5">years as a man's years,</v>
+			<marker class="begin-verse" mid="v18010006">
+			</marker>
+			<v n="6">and search for my sin,</v>
+			<marker class="begin-verse" mid="v18010007">
+			</marker>
+			<v n="7">none to deliver out of your hand?</v>
+			<marker class="begin-verse" mid="v18010008">
+			</marker>
+			<v n="8">and now you have destroyed me altogether.</v>
+			<marker class="begin-verse" mid="v18010009">
+			</marker>
+			<v n="9">dust?</v>
+			<marker class="begin-verse" mid="v18010010">
+			</marker>
+			<v n="10">and curdle me like cheese?</v>
+			<marker class="begin-verse" mid="v18010011">
+			</marker>
+			<v n="11">and knit me together with bones and sinews.</v>
+			<marker class="begin-verse" mid="v18010012">
+			</marker>
+			<v n="12">and your care has preserved my spirit.</v>
+			<marker class="begin-verse" mid="v18010013">
+			</marker>
+			<v n="13">this was your purpose.</v>
+			<marker class="begin-verse" mid="v18010014">
+			</marker>
+			<v n="14">acquit me of my iniquity.</v>
+			<marker class="begin-verse" mid="v18010015">
+			</marker>
+			<v n="15">look on my affliction.</v>
+			<marker class="begin-verse" mid="v18010016">
+			</marker>
+			<v n="16">wonders against me.</v>
+			<marker class="begin-verse" mid="v18010017">
+			</marker>
+			<v n="17">bring fresh troops against me.</v>
+			<marker class="begin-verse" mid="v18010018">
+			</marker>
+			<v n="18">Would that I had died before any eye had seen me</v>
+			<marker class="begin-verse" mid="v18010019">
+			</marker>
+			<v n="19">carried from the womb to the grave.</v>
+			<marker class="begin-verse" mid="v18010020">
+			</marker>
+			<v n="20">that I may find a little cheer</v>
+			<marker class="begin-verse" mid="v18010021">
+			</marker>
+			<v n="21">deep shadow,</v>
+			<marker class="begin-verse" mid="v18010022">
+			</marker>
+			<v n="22">where light is as thick darkness.”</v>
+			<marker class="begin-verse" mid="v18010023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">10:16 Hebrew lacks *my head*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

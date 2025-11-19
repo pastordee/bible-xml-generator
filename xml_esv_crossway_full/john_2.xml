@@ -1,0 +1,122 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:43.637297</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:43.637317</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" bookAbbr="jhn" version="ESV">
+		<marker class="begin-verse" mid="v43002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				John 2
+			</heading>
+			<heading>
+				The Wedding at Cana
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">On<crossref let="h" cid="c43002001.1" />the third day there was a wedding at<crossref let="i" cid="c43002001.2" />Cana in Galilee , and the mother of Jesus was there .</v>
+			<marker class="begin-verse" mid="v43002002">
+			</marker>
+			<v n="2">Jesus also was invited to the wedding with<crossref let="j" cid="c43002002.1" />his disciples .</v>
+			<marker class="begin-verse" mid="v43002003">
+			</marker>
+			<v n="3">When the wine ran out , the mother of Jesus said to him , “ They have no wine . ”</v>
+			<marker class="begin-verse" mid="v43002004">
+			</marker>
+			<v n="4">And Jesus said to her ,<crossref let="k" cid="c43002004.1" />
+				<woc>“ Woman ,</woc>
+				<crossref let="l" cid="c43002004.2" />
+				<woc>what does this have to do with me ?</woc>
+				<crossref let="m" cid="c43002004.3" />
+				<woc>My hour has not yet come . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43002005">
+			</marker>
+			<v n="5">His mother said to the servants , “ Do whatever he tells you . ”</v>
+			<marker class="begin-verse" mid="v43002006">
+			</marker>
+			<v n="6">Now there were six stone water jars there<crossref let="n" cid="c43002006.1" />for the Jewish rites of purification , each holding twenty or thirty<crossref let="o" cid="c43002006.2" />gallons .</v>
+			<marker class="begin-verse" mid="v43002007">
+			</marker>
+			<v n="7">And they filled them up to the brim .<woc>“ Fill the jars with water . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43002008">
+			</marker>
+			<v n="8">So they took it .<woc>“ Now draw some out and take it to the master of the feast . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43002009">
+			</marker>
+			<v n="9">When the master of the feast tasted<crossref let="p" cid="c43002009.1" />the water now become wine , and did not know where it came from ( though the servants who had drawn the water knew ) , the master of the feast called the bridegroom</v>
+			<marker class="begin-verse" mid="v43002010">
+			</marker>
+			<v n="10">and said to him , “ Everyone serves the good wine first , and when people have drunk freely , then the poor wine . But you have kept the good wine until now . ”</v>
+			<marker class="begin-verse" mid="v43002011">
+			</marker>
+			<v n="11">This , the first of his signs , Jesus did at Cana in Galilee , and manifested<crossref let="q" cid="c43002011.1" />his glory . And<crossref let="r" cid="c43002011.2" />his disciples believed in him .</v>
+			<marker class="begin-verse" mid="v43002012">
+			</marker>
+			<v n="12">After this he went down to Capernaum , with his mother and<crossref let="s" cid="c43002012.1" />his brothers and his disciples , and they stayed there for a few days .</v>
+			<marker class="begin-verse" mid="v43002013">
+			</marker>
+			<v n="13">
+				<crossref let="t" cid="c43002013.1" />The Passover of the Jews was at hand , and Jesus<crossref let="u" cid="c43002013.2" />went up to Jerusalem .</v>
+			<marker class="begin-verse" mid="v43002014">
+			</marker>
+			<v n="14">
+				<crossref let="v" cid="c43002014.1" />In the temple he found those who were selling oxen and sheep and pigeons , and the money-changers sitting there .</v>
+			<marker class="begin-verse" mid="v43002015">
+			</marker>
+			<v n="15">And making a whip of cords , he drove them all out of the temple , with the sheep and oxen . And he poured out the coins of the money-changers and overturned their tables .</v>
+			<marker class="begin-verse" mid="v43002016">
+			</marker>
+			<v n="16">And he told those who sold the pigeons ,<woc>“ Take these things away ; do not make</woc>
+				<crossref let="w" cid="c43002016.1" />
+				<woc>my Father’s house a house of trade . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43002017">
+			</marker>
+			<v n="17">His disciples remembered that it was written ,<crossref let="x" cid="c43002017.1" />“ Zeal for your house will consume me . ”</v>
+			<marker class="begin-verse" mid="v43002018">
+			</marker>
+			<v n="18">So the Jews said to him ,<crossref let="y" cid="c43002018.1" />“ What sign do you show us for doing these things ? ”</v>
+			<marker class="begin-verse" mid="v43002019">
+			</marker>
+			<v n="19">Jesus answered them ,<crossref let="z" cid="c43002019.2" />
+				<woc>“ Destroy this temple , and in three days</woc>
+				<crossref let="a" cid="c43002019.1" />
+				<woc>I will raise it up . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43002020">
+			</marker>
+			<v n="20">The Jews then said , “ It has taken forty-six years to build this temple , and will you raise it up in three days ? ”</v>
+			<marker class="begin-verse" mid="v43002021">
+			</marker>
+			<v n="21">But he was speaking about<crossref let="b" cid="c43002021.1" />the temple of his body .</v>
+			<marker class="begin-verse" mid="v43002022">
+			</marker>
+			<v n="22">When therefore he was raised from the dead ,<crossref let="c" cid="c43002022.1" />his disciples remembered that he had said this , and they believed<crossref let="d" cid="c43002022.2" />the Scripture and the word that Jesus had spoken .</v>
+			<marker class="begin-verse" mid="v43002023">
+			</marker>
+			<v n="23">Now when he was in Jerusalem at the Passover Feast , many believed in his name<crossref let="e" cid="c43002023.1" />when they saw the signs that he was doing .</v>
+			<marker class="begin-verse" mid="v43002024">
+			</marker>
+			<v n="24">But Jesus<crossref let="f" cid="c43002024.1" />on his part did not entrust himself to them , because<crossref let="g" cid="c43002024.2" />he knew all people</v>
+			<marker class="begin-verse" mid="v43002025">
+			</marker>
+			<v n="25">and needed no one to bear witness about man , for<crossref let="g" cid="c43002025.1" />he himself knew what was in man .</v>
+			<marker class="begin-verse" mid="v43002026">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

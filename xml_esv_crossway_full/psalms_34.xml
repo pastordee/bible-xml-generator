@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:49.988660</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:49.988678</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19034001">
+		</marker>
+		<chapter num="34">
+			<heading>
+				Psalm 34
+			</heading>
+			<heading>
+				Taste and See That the LORD Is Good
+			</heading>
+			<heading>
+				(1) Of David, when he changed his behavior before Abimelech, so that he drove him out, and he went away.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">his praise shall continually be in my mouth .</v>
+			<marker class="begin-verse" mid="v19034002">
+			</marker>
+			<v n="2">let the humble hear and<crossref let="r" cid="c19034002.2" />be glad .</v>
+			<marker class="begin-verse" mid="v19034003">
+			</marker>
+			<v n="3">and let us exalt his name together !</v>
+			<marker class="begin-verse" mid="v19034004">
+			</marker>
+			<v n="4">and delivered me from all my fears .</v>
+			<marker class="begin-verse" mid="v19034005">
+			</marker>
+			<v n="5">and their faces shall never be ashamed .</v>
+			<marker class="begin-verse" mid="v19034006">
+			</marker>
+			<v n="6">and<crossref let="w" cid="c19034006.2" />saved him out of all his troubles .</v>
+			<marker class="begin-verse" mid="v19034007">
+			</marker>
+			<v n="7">around those who fear him , and delivers them .</v>
+			<marker class="begin-verse" mid="v19034008">
+			</marker>
+			<v n="8">
+				<crossref let="b" cid="c19034008.2" />Blessed is the man who takes refuge in him !</v>
+			<marker class="begin-verse" mid="v19034009">
+			</marker>
+			<v n="9">for those who fear him have no lack !</v>
+			<marker class="begin-verse" mid="v19034010">
+			</marker>
+			<v n="10">but those who<crossref let="d" cid="c19034010.2" />seek the Lord lack no good thing .</v>
+			<marker class="begin-verse" mid="v19034011">
+			</marker>
+			<v n="11">
+				<crossref let="f" cid="c19034011.2" />I will teach you the fear of the Lord .</v>
+			<marker class="begin-verse" mid="v19034012">
+			</marker>
+			<v n="12">and loves many days , that he may<crossref let="h" cid="c19034012.2" />see good ?</v>
+			<marker class="begin-verse" mid="v19034013">
+			</marker>
+			<v n="13">and your lips from<crossref let="j" cid="c19034013.2" />speaking deceit .</v>
+			<marker class="begin-verse" mid="v19034014">
+			</marker>
+			<v n="14">seek peace and<crossref let="l" cid="c19034014.2" />pursue it .</v>
+			<marker class="begin-verse" mid="v19034015">
+			</marker>
+			<v n="15">
+				<crossref let="n" cid="c19034015.2" />and his ears toward their cry .</v>
+			<marker class="begin-verse" mid="v19034016">
+			</marker>
+			<v n="16">to<crossref let="p" cid="c19034016.2" />cut off the memory of them from the earth .</v>
+			<marker class="begin-verse" mid="v19034017">
+			</marker>
+			<v n="17">and delivers them out of all their troubles .</v>
+			<marker class="begin-verse" mid="v19034018">
+			</marker>
+			<v n="18">and saves<crossref let="r" cid="c19034018.2" />the crushed in spirit .</v>
+			<marker class="begin-verse" mid="v19034019">
+			</marker>
+			<v n="19">
+				<crossref let="t" cid="c19034019.2" />but the Lord delivers him out of them all .</v>
+			<marker class="begin-verse" mid="v19034020">
+			</marker>
+			<v n="20">
+				<crossref let="u" cid="c19034020.1" />not one of them is broken .</v>
+			<marker class="begin-verse" mid="v19034021">
+			</marker>
+			<v n="21">and those who hate the righteous will be condemned .</v>
+			<marker class="begin-verse" mid="v19034022">
+			</marker>
+			<v n="22">none of those who take refuge in him will be<crossref let="x" cid="c19034022.2" />condemned .</v>
+			<marker class="begin-verse" mid="v19034023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">34:1 This psalm is an acrostic poem, each verse beginning with the successive letters of the Hebrew alphabet</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

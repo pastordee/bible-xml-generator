@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:54:55.029587</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:54:55.029597</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23064001">
+		</marker>
+		<chapter num="64">
+			<heading>
+				Isaiah 64
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">that the mountains might quake at your presence—</v>
+			<marker class="begin-verse" mid="v23064002">
+			</marker>
+			<v n="2">and that the nations might tremble at your presence!</v>
+			<marker class="begin-verse" mid="v23064003">
+			</marker>
+			<v n="3">you came down, the mountains quaked at your presence.</v>
+			<marker class="begin-verse" mid="v23064004">
+			</marker>
+			<v n="4">who acts for those who wait for him.</v>
+			<marker class="begin-verse" mid="v23064005">
+			</marker>
+			<v n="5">in our sins we have been a long time, and shall we be saved?</v>
+			<marker class="begin-verse" mid="v23064006">
+			</marker>
+			<v n="6">and our iniquities, like the wind, take us away.</v>
+			<marker class="begin-verse" mid="v23064007">
+			</marker>
+			<v n="7">and have made us melt in the hand of our iniquities.</v>
+			<marker class="begin-verse" mid="v23064008">
+			</marker>
+			<v n="8">we are all the work of your hand.</v>
+			<marker class="begin-verse" mid="v23064009">
+			</marker>
+			<v n="9">Behold, please look, we are all your people.</v>
+			<marker class="begin-verse" mid="v23064010">
+			</marker>
+			<v n="10">Jerusalem a desolation.</v>
+			<marker class="begin-verse" mid="v23064011">
+			</marker>
+			<v n="11">and all our pleasant places have become ruins.</v>
+			<marker class="begin-verse" mid="v23064012">
+			</marker>
+			<v n="12">Will you keep silent, and afflict us so terribly?</v>
+			<marker class="begin-verse" mid="v23064013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">64:2 Ch 64:1 in Hebrew</footnote>
+				<footnote id="2">64:5 Or *in your ways is continuance, that we might be saved*</footnote>
+				<footnote id="3">64:7 Masoretic Text; Septuagint, Syriac, Targum *have delivered us into*</footnote>
+				<footnote id="4">64:11 Or *holy and glorious*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

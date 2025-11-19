@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:57:15.281005</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:57:15.281024</next_refresh_due>
+	</generation_info>
+	<book title="Genesis" num="1" testament="old" bookAbbr="gen" version="ESV">
+		<marker class="begin-verse" mid="v01023001">
+		</marker>
+		<chapter num="23">
+			<heading>
+				Genesis 23
+			</heading>
+			<heading>
+				Sarah’s Death and Burial
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">23 Sarah lived 127 years; these were the years of the life of Sarah.</v>
+			<marker class="begin-verse" mid="v01023002">
+			</marker>
+			<v n="2">And Sarah died at<crossref let="d" cid="c01023002.1" />Kiriath-arba (that is,<crossref let="e" cid="c01023002.2" />Hebron) in the land of Canaan, and Abraham went in to mourn for Sarah and to weep for her.</v>
+			<marker class="begin-verse" mid="v01023003">
+			</marker>
+			<v n="3">And Abraham rose up from before his dead and said to the Hittites,</v>
+			<marker class="begin-verse" mid="v01023004">
+			</marker>
+			<v n="4">
+				<crossref let="f" cid="c01023004.1" />“I am a sojourner and foreigner among you;<crossref let="g" cid="c01023004.2" />give me property among you for a burying place, that I may bury my dead out of my sight.”</v>
+			<marker class="begin-verse" mid="v01023005">
+			</marker>
+			<v n="5">The Hittites answered Abraham,</v>
+			<marker class="begin-verse" mid="v01023006">
+			</marker>
+			<v n="6">“Hear us, my lord; you are a prince of God among us. Bury your dead in the choicest of our tombs. None of us will withhold from you his tomb to hinder you from burying your dead.”</v>
+			<marker class="begin-verse" mid="v01023007">
+			</marker>
+			<v n="7">Abraham rose and bowed to the Hittites, the people of the land.</v>
+			<marker class="begin-verse" mid="v01023008">
+			</marker>
+			<v n="8">And he said to them, “If you are willing that I should bury my dead out of my sight, hear me and entreat for me Ephron the son of Zohar,</v>
+			<marker class="begin-verse" mid="v01023009">
+			</marker>
+			<v n="9">that he may give me the cave of Machpelah, which he owns; it is at the end of his field. For the full price let him give it to me in your presence as property for a burying place.”</v>
+			<marker class="begin-verse" mid="v01023010">
+			</marker>
+			<v n="10">Now Ephron was sitting among the Hittites, and Ephron the Hittite answered Abraham in the hearing of the Hittites, of all who<crossref let="h" cid="c01023010.1" />went in at the gate of his city,</v>
+			<marker class="begin-verse" mid="v01023011">
+			</marker>
+			<v n="11">“No, my lord, hear me: I give you the field, and I give you the cave that is in it. In the sight of the sons of my people I give it to you. Bury your dead.”</v>
+			<marker class="begin-verse" mid="v01023012">
+			</marker>
+			<v n="12">Then Abraham bowed down before the people of the land.</v>
+			<marker class="begin-verse" mid="v01023013">
+			</marker>
+			<v n="13">And he said to Ephron in the hearing of the people of the land, “But if you will, hear me: I give the price of the field. Accept it from me, that I may bury my dead there.”</v>
+			<marker class="begin-verse" mid="v01023014">
+			</marker>
+			<v n="14">Ephron answered Abraham,</v>
+			<marker class="begin-verse" mid="v01023015">
+			</marker>
+			<v n="15">“My lord, listen to me: a piece of land worth four hundred<crossref let="i" cid="c01023015.1" />shekels of silver, what is that between you and me? Bury your dead.”</v>
+			<marker class="begin-verse" mid="v01023016">
+			</marker>
+			<v n="16">Abraham listened to Ephron, and Abraham<crossref let="j" cid="c01023016.1" />weighed out for Ephron the silver that he had named in the hearing of the Hittites, four hundred shekels of silver, according to the weights current among the merchants.</v>
+			<marker class="begin-verse" mid="v01023017">
+			</marker>
+			<v n="17">So<crossref let="k" cid="c01023017.1" />the field of Ephron in Machpelah, which was to the east of Mamre, the field with the cave that was in it and all the trees that were in the field, throughout its whole area, was made over</v>
+			<marker class="begin-verse" mid="v01023018">
+			</marker>
+			<v n="18">to Abraham as a possession in the presence of the Hittites, before all who went in at the gate of his city.</v>
+			<marker class="begin-verse" mid="v01023019">
+			</marker>
+			<v n="19">After this, Abraham buried Sarah his wife in the cave of the field of Machpelah east of Mamre (that is, Hebron) in the land of Canaan.</v>
+			<marker class="begin-verse" mid="v01023020">
+			</marker>
+			<v n="20">The field and the cave that is in it<crossref let="l" cid="c01023020.1" />were made over to Abraham as property for a burying place by the Hittites.</v>
+			<marker class="begin-verse" mid="v01023021">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">23:3 Hebrew *sons of Heth*; also verses 5, 7, 10, 16, 18, 20</footnote>
+				<footnote id="2">23:6 Or *a mighty prince*</footnote>
+				<footnote id="3">23:15 A *shekel* was about 2/5 ounce or 11 grams</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

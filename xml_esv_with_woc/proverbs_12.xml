@@ -1,0 +1,119 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:40:58.138176</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:40:58.138188</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" bookAbbr="pro" version="ESV">
+		<marker class="begin-verse" mid="v20012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				Proverbs 12
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">but he who<crossref let="a" cid="c20012001.1" />hates reproof is stupid.</v>
+			<marker class="begin-verse" mid="v20012002">
+			</marker>
+			<v n="2">but a man of evil devices he condemns.</v>
+			<marker class="begin-verse" mid="v20012003">
+			</marker>
+			<v n="3">the righteous will never be moved.</v>
+			<marker class="begin-verse" mid="v20012004">
+			</marker>
+			<v n="4">but she who<crossref let="g" cid="c20012004.4" />brings shame is like rottenness in his bones.</v>
+			<marker class="begin-verse" mid="v20012005">
+			</marker>
+			<v n="5">the counsels of the wicked are deceitful.</v>
+			<marker class="begin-verse" mid="v20012006">
+			</marker>
+			<v n="6">the mouth of the upright delivers them.</v>
+			<marker class="begin-verse" mid="v20012007">
+			</marker>
+			<v n="7">but the house of the righteous will stand.</v>
+			<marker class="begin-verse" mid="v20012008">
+			</marker>
+			<v n="8">despised.</v>
+			<marker class="begin-verse" mid="v20012009">
+			</marker>
+			<v n="9">than to play the great man and lack bread.</v>
+			<marker class="begin-verse" mid="v20012010">
+			</marker>
+			<v n="10">but the mercy of the wicked is cruel.</v>
+			<marker class="begin-verse" mid="v20012011">
+			</marker>
+			<v n="11">
+				<crossref let="s" cid="c20012011.4" />but he who follows worthless pursuits lacks sense.</v>
+			<marker class="begin-verse" mid="v20012012">
+			</marker>
+			<v n="12">but the root of the righteous bears fruit.</v>
+			<marker class="begin-verse" mid="v20012013">
+			</marker>
+			<v n="13">but the righteous escapes from trouble.</v>
+			<marker class="begin-verse" mid="v20012014">
+			</marker>
+			<v n="14">and the work of a man's hand comes back to him.</v>
+			<marker class="begin-verse" mid="v20012015">
+			</marker>
+			<v n="15">but a wise man listens to advice.</v>
+			<marker class="begin-verse" mid="v20012016">
+			</marker>
+			<v n="16">but the prudent ignores an insult.</v>
+			<marker class="begin-verse" mid="v20012017">
+			</marker>
+			<v n="17">a false witness utters deceit.</v>
+			<marker class="begin-verse" mid="v20012018">
+			</marker>
+			<v n="18">healing.</v>
+			<marker class="begin-verse" mid="v20012019">
+			</marker>
+			<v n="19">a lying tongue is but for a moment.</v>
+			<marker class="begin-verse" mid="v20012020">
+			</marker>
+			<v n="20">but those who plan peace have joy.</v>
+			<marker class="begin-verse" mid="v20012021">
+			</marker>
+			<v n="21">but the wicked are filled with trouble.</v>
+			<marker class="begin-verse" mid="v20012022">
+			</marker>
+			<v n="22">but those who act faithfully are his delight.</v>
+			<marker class="begin-verse" mid="v20012023">
+			</marker>
+			<v n="23">but the heart of fools proclaims folly.</v>
+			<marker class="begin-verse" mid="v20012024">
+			</marker>
+			<v n="24">put to forced labor.</v>
+			<marker class="begin-verse" mid="v20012025">
+			</marker>
+			<v n="25">but a good word makes him glad.</v>
+			<marker class="begin-verse" mid="v20012026">
+			</marker>
+			<v n="26">but the way of the wicked leads them astray.</v>
+			<marker class="begin-verse" mid="v20012027">
+			</marker>
+			<v n="27">but the diligent man will get precious wealth.</v>
+			<marker class="begin-verse" mid="v20012028">
+			</marker>
+			<v n="28">and in its pathway there is no death.</v>
+			<marker class="begin-verse" mid="v20012029">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">12:13 Or *In the transgression of the lips, there is an evil snare*</footnote>
+				<footnote id="2">12:17 Hebrew *breathes out*</footnote>
+				<footnote id="3">12:26 Or *The righteous chooses his friends carefully*</footnote>
+				<footnote id="4">12:27 Or *but diligence is precious wealth*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

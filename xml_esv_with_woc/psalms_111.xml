@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:43.402652</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:43.402666</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19111001">
+		</marker>
+		<chapter num="111">
+			<heading>
+				Psalm 111
+			</heading>
+			<heading>
+				Great Are the LORD’s Works
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">the upright, in the congregation.</v>
+			<marker class="begin-verse" mid="v19111002">
+			</marker>
+			<v n="2">studied by all who delight in them.</v>
+			<marker class="begin-verse" mid="v19111003">
+			</marker>
+			<v n="3">righteousness endures forever.</v>
+			<marker class="begin-verse" mid="v19111004">
+			</marker>
+			<v n="4">the Lord is gracious and merciful.</v>
+			<marker class="begin-verse" mid="v19111005">
+			</marker>
+			<v n="5">remembers his covenant forever.</v>
+			<marker class="begin-verse" mid="v19111006">
+			</marker>
+			<v n="6">in giving them the inheritance of the nations.</v>
+			<marker class="begin-verse" mid="v19111007">
+			</marker>
+			<v n="7">trustworthy;</v>
+			<marker class="begin-verse" mid="v19111008">
+			</marker>
+			<v n="8">faithfulness and uprightness.</v>
+			<marker class="begin-verse" mid="v19111009">
+			</marker>
+			<v n="9">Holy and awesome is his name!</v>
+			<marker class="begin-verse" mid="v19111010">
+			</marker>
+			<v n="10">praise endures forever!</v>
+			<marker class="begin-verse" mid="v19111011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">111:1 This psalm is an acrostic poem, each line beginning with the successive letters of the Hebrew alphabet</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

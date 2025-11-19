@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:37.624293</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:37.624303</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19019001">
+		</marker>
+		<chapter num="19">
+			<heading>
+				Psalm 19
+			</heading>
+			<heading>
+				The Law of the LORD Is Perfect
+			</heading>
+			<heading>
+				To the choirmaster. A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and the sky above proclaims his handiwork.</v>
+			<marker class="begin-verse" mid="v19019002">
+			</marker>
+			<v n="2">and night to night reveals knowledge.</v>
+			<marker class="begin-verse" mid="v19019003">
+			</marker>
+			<v n="3">whose voice is not heard.</v>
+			<marker class="begin-verse" mid="v19019004">
+			</marker>
+			<v n="4">the sun,</v>
+			<marker class="begin-verse" mid="v19019005">
+			</marker>
+			<v n="5">and, like a strong man, runs its course with joy.</v>
+			<marker class="begin-verse" mid="v19019006">
+			</marker>
+			<v n="6">and there is nothing hidden from its heat.</v>
+			<marker class="begin-verse" mid="v19019007">
+			</marker>
+			<v n="7">the simple;</v>
+			<marker class="begin-verse" mid="v19019008">
+			</marker>
+			<v n="8">enlightening the eyes;</v>
+			<marker class="begin-verse" mid="v19019009">
+			</marker>
+			<v n="9">and righteous altogether.</v>
+			<marker class="begin-verse" mid="v19019010">
+			</marker>
+			<v n="10">the honeycomb.</v>
+			<marker class="begin-verse" mid="v19019011">
+			</marker>
+			<v n="11">in keeping them there is great reward.</v>
+			<marker class="begin-verse" mid="v19019012">
+			</marker>
+			<v n="12">hidden faults.</v>
+			<marker class="begin-verse" mid="v19019013">
+			</marker>
+			<v n="13">and innocent of great transgression.</v>
+			<marker class="begin-verse" mid="v19019014">
+			</marker>
+			<v n="14">redeemer.</v>
+			<marker class="begin-verse" mid="v19019015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">19:1 Hebrew *the expanse*; compare Genesis 1:6–8</footnote>
+				<footnote id="2">19:4 Or *Their measuring line*</footnote>
+				<footnote id="3">19:7 Or *blameless*</footnote>
+				<footnote id="4">19:9 Or *just decrees*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

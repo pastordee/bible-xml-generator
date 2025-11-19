@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:03:57.524875</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:03:57.524895</next_refresh_due>
+	</generation_info>
+	<book title="Malachi" num="39" testament="old" bookAbbr="mal" version="ESV">
+		<marker class="begin-verse" mid="v39002001">
+		</marker>
+		<chapter num="2">
+			<heading>
+				Malachi 2
+			</heading>
+			<heading>
+				The LORD Rebukes the Priests
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">this command is for you.</v>
+			<marker class="begin-verse" mid="v39002002">
+			</marker>
+			<v n="2">
+				<crossref let="c" cid="c39002002.3" />If you will not listen, if you will not take it to heart to give honor to my name, says the Lord of hosts, then I will send the curse upon you and I will curse your blessings. Indeed, I have already cursed them, because you do not lay it to heart.</v>
+			<marker class="begin-verse" mid="v39002003">
+			</marker>
+			<v n="3">Behold,<crossref let="f" cid="c39002003.3" />I will rebuke your offspring, and spread dung on your faces, the dung of your offerings, and you shall be taken away with it.</v>
+			<marker class="begin-verse" mid="v39002004">
+			</marker>
+			<v n="4">my covenant with Levi may stand, says the Lord of hosts.</v>
+			<marker class="begin-verse" mid="v39002005">
+			</marker>
+			<v n="5">It was a covenant of fear, and he feared me. He stood in awe of my name.</v>
+			<marker class="begin-verse" mid="v39002006">
+			</marker>
+			<v n="6">turned many from iniquity.</v>
+			<marker class="begin-verse" mid="v39002007">
+			</marker>
+			<v n="7">the lips of a priest should guard knowledge, and people should seek instruction from his mouth, for he is the messenger of the Lord of hosts.</v>
+			<marker class="begin-verse" mid="v39002008">
+			</marker>
+			<v n="8">the covenant of Levi, says the Lord of hosts,</v>
+			<marker class="begin-verse" mid="v39002009">
+			</marker>
+			<v n="9">show partiality in your instruction.”</v>
+			<marker class="begin-verse" mid="v39002010">
+			</marker>
+			<v n="10">Have we not all<crossref let="t" cid="c39002010.3" />one Father? Has not one God created us? Why then are we faithless to one another, profaning the covenant of our fathers?</v>
+			<marker class="begin-verse" mid="v39002011">
+			</marker>
+			<v n="11">Judah has profaned the sanctuary of the Lord , which he loves, and has married the daughter of a foreign god.</v>
+			<marker class="begin-verse" mid="v39002012">
+			</marker>
+			<v n="12">brings an offering to the Lord of hosts!</v>
+			<marker class="begin-verse" mid="v39002013">
+			</marker>
+			<v n="13">You cover the Lord 's altar with tears, with weeping and groaning because he no longer regards the offering or accepts it with favor from your hand.</v>
+			<marker class="begin-verse" mid="v39002014">
+			</marker>
+			<v n="14">you have been faithless, though she is your companion and your wife by covenant.</v>
+			<marker class="begin-verse" mid="v39002015">
+			</marker>
+			<v n="15">faithless to the wife of your youth.</v>
+			<marker class="begin-verse" mid="v39002016">
+			</marker>
+			<v n="16">do not be faithless.”</v>
+			<marker class="begin-verse" mid="v39002017">
+			</marker>
+			<v n="17">“Where is the God of justice?”</v>
+			<marker class="begin-verse" mid="v39002018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">2:3 Hebrew *seed*</footnote>
+				<footnote id="2">2:3 Or *to it*</footnote>
+				<footnote id="3">2:6 Or *law*; also verses 7, 8, 9</footnote>
+				<footnote id="4">2:7 Hebrew *they*</footnote>
+				<footnote id="5">2:12 Hebrew *any who wakes and answers*</footnote>
+				<footnote id="6">2:15 Hebrew *in it*</footnote>
+				<footnote id="7">2:15 Hebrew *the one*</footnote>
+				<footnote id="8">2:15 Or *And not one has done this who has a portion of the Spirit. And what was that one seeking?*</footnote>
+				<footnote id="9">2:15 Or *So take care*; also verse 16</footnote>
+				<footnote id="10">2:16 Hebrew *who hates and divorces*</footnote>
+				<footnote id="11">2:16 Probable meaning (compare Septuagint and Deuteronomy 24:1–4); or *“The Lord, the God of Israel, says that he hates divorce, and him who covers*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

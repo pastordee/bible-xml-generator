@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:00:53.891504</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:00:53.891539</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" bookAbbr="lev" version="ESV">
+		<marker class="begin-verse" mid="v03018001">
+		</marker>
+		<chapter num="18">
+			<heading>
+				Leviticus 18
+			</heading>
+			<heading>
+				Unlawful Sexual Relations
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">And the Lord spoke to Moses , saying ,</v>
+			<marker class="begin-verse" mid="v03018002">
+			</marker>
+			<v n="2">“ Speak to the people of Israel and say to them ,<crossref let="q" cid="c03018002.1" />I am the Lord your God .</v>
+			<marker class="begin-verse" mid="v03018003">
+			</marker>
+			<v n="3">
+				<crossref let="r" cid="c03018003.1" />You shall not do as they do in the land of Egypt , where you lived , and<crossref let="s" cid="c03018003.2" />you shall not do as they do in the land of Canaan , to which I am bringing you . You shall not walk in their statutes .</v>
+			<marker class="begin-verse" mid="v03018004">
+			</marker>
+			<v n="4">
+				<crossref let="t" cid="c03018004.2" />You shall follow my rules and keep my statutes and walk in them .<crossref let="q" cid="c03018004.1" />I am the Lord your God .</v>
+			<marker class="begin-verse" mid="v03018005">
+			</marker>
+			<v n="5">
+				<crossref let="t" cid="c03018005.1" />You shall therefore keep my statutes and my rules ;<crossref let="u" cid="c03018005.2" />if a person does them , he shall live by them : I am the Lord .</v>
+			<marker class="begin-verse" mid="v03018006">
+			</marker>
+			<v n="6">“ None of you shall approach any one of his close relatives to uncover nakedness . I am the Lord .</v>
+			<marker class="begin-verse" mid="v03018007">
+			</marker>
+			<v n="7">
+				<crossref let="v" cid="c03018007.1" />You shall not uncover the nakedness of your father , which is the nakedness of your mother ; she is your mother , you shall not uncover her nakedness .</v>
+			<marker class="begin-verse" mid="v03018008">
+			</marker>
+			<v n="8">
+				<crossref let="w" cid="c03018008.1" />You shall not uncover the nakedness of your father’s wife ; it is your father’s nakedness .</v>
+			<marker class="begin-verse" mid="v03018009">
+			</marker>
+			<v n="9">
+				<crossref let="x" cid="c03018009.1" />You shall not uncover the nakedness of your sister , your father’s daughter or your mother’s daughter , whether brought up in the family or in another home .</v>
+			<marker class="begin-verse" mid="v03018010">
+			</marker>
+			<v n="10">You shall not uncover the nakedness of your son’s daughter or of your daughter’s daughter , for their nakedness is your own nakedness .</v>
+			<marker class="begin-verse" mid="v03018011">
+			</marker>
+			<v n="11">You shall not uncover the nakedness of your father’s wife’s daughter , brought up in your father’s family , since she is your sister .</v>
+			<marker class="begin-verse" mid="v03018012">
+			</marker>
+			<v n="12">You shall not uncover the nakedness of your father’s sister ; she is your father’s relative .</v>
+			<marker class="begin-verse" mid="v03018013">
+			</marker>
+			<v n="13">You shall not uncover the nakedness of your mother’s sister , for she is your mother’s relative .</v>
+			<marker class="begin-verse" mid="v03018014">
+			</marker>
+			<v n="14">You shall not uncover the nakedness of your father’s brother , that is , you shall not approach his wife ; she is your aunt .</v>
+			<marker class="begin-verse" mid="v03018015">
+			</marker>
+			<v n="15">
+				<crossref let="y" cid="c03018015.1" />You shall not uncover the nakedness of your daughter-in-law ; she is your son’s wife , you shall not uncover her nakedness .</v>
+			<marker class="begin-verse" mid="v03018016">
+			</marker>
+			<v n="16">
+				<crossref let="z" cid="c03018016.1" />You shall not uncover the nakedness of your brother’s wife ; it is your brother’s nakedness .</v>
+			<marker class="begin-verse" mid="v03018017">
+			</marker>
+			<v n="17">You shall not uncover the nakedness of a woman and of her daughter , and you shall not take her son’s daughter or her daughter’s daughter to uncover her nakedness ; they are relatives ; it is depravity .</v>
+			<marker class="begin-verse" mid="v03018018">
+			</marker>
+			<v n="18">And you shall not take a woman as a<crossref let="a" cid="c03018018.1" />rival wife to her sister , uncovering her nakedness<crossref let="b" cid="c03018018.2" />while her sister is still alive .</v>
+			<marker class="begin-verse" mid="v03018019">
+			</marker>
+			<v n="19">
+				<crossref let="c" cid="c03018019.1" />“ You shall not approach a woman to uncover her nakedness while she is in her menstrual uncleanness .</v>
+			<marker class="begin-verse" mid="v03018020">
+			</marker>
+			<v n="20">
+				<crossref let="d" cid="c03018020.1" />And you shall not lie sexually with your neighbor’s wife and so make yourself unclean with her .</v>
+			<marker class="begin-verse" mid="v03018021">
+			</marker>
+			<v n="21">You shall not give any of your children to<crossref let="e" cid="c03018021.1" />offer them to<crossref let="f" cid="c03018021.2" />Molech , and so<crossref let="g" cid="c03018021.3" />profane the name of your God : I am the Lord .</v>
+			<marker class="begin-verse" mid="v03018022">
+			</marker>
+			<v n="22">
+				<crossref let="h" cid="c03018022.1" />You shall not lie with a male as with a woman ; it is an abomination .</v>
+			<marker class="begin-verse" mid="v03018023">
+			</marker>
+			<v n="23">
+				<crossref let="i" cid="c03018023.1" />And you shall not lie with any animal and so make yourself unclean with it , neither shall any woman give herself to an animal to lie with it : it is<crossref let="j" cid="c03018023.2" />perversion .</v>
+			<marker class="begin-verse" mid="v03018024">
+			</marker>
+			<v n="24">
+				<crossref let="k" cid="c03018024.1" />“ Do not make yourselves unclean by any of these things ,<crossref let="l" cid="c03018024.2" />for by all these the nations I am driving out before you have become unclean ,</v>
+			<marker class="begin-verse" mid="v03018025">
+			</marker>
+			<v n="25">and the<crossref let="m" cid="c03018025.1" />land became unclean , so that I punished its iniquity , and the land<crossref let="n" cid="c03018025.2" />vomited out its inhabitants .</v>
+			<marker class="begin-verse" mid="v03018026">
+			</marker>
+			<v n="26">But<crossref let="o" cid="c03018026.1" />you shall keep my statutes and my rules and do none of these abominations , either the<crossref let="p" cid="c03018026.2" />native or the stranger who sojourns among you</v>
+			<marker class="begin-verse" mid="v03018027">
+			</marker>
+			<v n="27">( for the people of the land , who were before you , did all of these abominations , so that the land became unclean ) ,</v>
+			<marker class="begin-verse" mid="v03018028">
+			</marker>
+			<v n="28">lest the land vomit you out when you make it unclean , as it vomited out the nation that was before you .</v>
+			<marker class="begin-verse" mid="v03018029">
+			</marker>
+			<v n="29">For everyone who does any of these abominations , the persons who do them shall be cut off from among their people .</v>
+			<marker class="begin-verse" mid="v03018030">
+			</marker>
+			<v n="30">
+				<crossref let="q" cid="c03018030.1" />So keep my charge never to practice<crossref let="r" cid="c03018030.2" />any of these abominable customs that were practiced before you , and never to make yourselves unclean by them :<crossref let="s" cid="c03018030.3" />I am the Lord your God . ”</v>
+			<marker class="begin-verse" mid="v03018031">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">18:4 Or *my just decrees*; also verse 5</footnote>
+				<footnote id="2">18:21 Hebrew *to make them pass through* [the fire]</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

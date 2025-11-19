@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:03.475897</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:03.475907</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19084001">
+		</marker>
+		<chapter num="84">
+			<heading>
+				Psalm 84
+			</heading>
+			<heading>
+				My Soul Longs for the Courts of the LORD
+			</heading>
+			<heading>
+				To the choirmaster: according to The Gittith.(1) A Psalm of the Sons of Korah.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">O Lord of hosts!</v>
+			<marker class="begin-verse" mid="v19084002">
+			</marker>
+			<v n="2">the living God.</v>
+			<marker class="begin-verse" mid="v19084003">
+			</marker>
+			<v n="3">my King and my God.</v>
+			<marker class="begin-verse" mid="v19084004">
+			</marker>
+			<v n="4">singing your praise! Selah</v>
+			<marker class="begin-verse" mid="v19084005">
+			</marker>
+			<v n="5">in whose heart are the highways to Zion.</v>
+			<marker class="begin-verse" mid="v19084006">
+			</marker>
+			<v n="6">pools.</v>
+			<marker class="begin-verse" mid="v19084007">
+			</marker>
+			<v n="7">appears before God in Zion.</v>
+			<marker class="begin-verse" mid="v19084008">
+			</marker>
+			<v n="8">give ear, O God of Jacob! Selah</v>
+			<marker class="begin-verse" mid="v19084009">
+			</marker>
+			<v n="9">look on the face of your anointed!</v>
+			<marker class="begin-verse" mid="v19084010">
+			</marker>
+			<v n="10">than dwell in the tents of wickedness.</v>
+			<marker class="begin-verse" mid="v19084011">
+			</marker>
+			<v n="11">walk uprightly.</v>
+			<marker class="begin-verse" mid="v19084012">
+			</marker>
+			<v n="12">blessed is the one who trusts in you!</v>
+			<marker class="begin-verse" mid="v19084013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">84:1 Probably a musical or liturgical term</footnote>
+				<footnote id="2">84:5 Hebrew lacks *to Zion*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

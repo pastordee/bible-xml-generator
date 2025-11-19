@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:10.897529</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:10.897549</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19089001">
+		</marker>
+		<chapter num="89">
+			<heading>
+				Psalm 89
+			</heading>
+			<heading>
+				I Will Sing of the Steadfast Love of the LORD
+			</heading>
+			<heading>
+				A Maskil(1) of Ethan the Ezrahite.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">with my mouth I will make known your<crossref let="k" cid="c19089001.3" />faithfulness to all generations .</v>
+			<marker class="begin-verse" mid="v19089002">
+			</marker>
+			<v n="2">in the heavens<crossref let="l" cid="c19089002.3" />you will establish your<crossref let="k" cid="c19089002.2" />faithfulness . ”</v>
+			<marker class="begin-verse" mid="v19089003">
+			</marker>
+			<v n="3">I have<crossref let="o" cid="c19089003.3" />sworn to David my servant :</v>
+			<marker class="begin-verse" mid="v19089004">
+			</marker>
+			<v n="4">and build your<crossref let="q" cid="c19089004.2" />throne for all generations . ’ ” Selah</v>
+			<marker class="begin-verse" mid="v19089005">
+			</marker>
+			<v n="5">your faithfulness in the assembly of<crossref let="t" cid="c19089005.3" />the holy ones !</v>
+			<marker class="begin-verse" mid="v19089006">
+			</marker>
+			<v n="6">
+				<crossref let="u" cid="c19089006.1" />Who among the heavenly beings is like the Lord ,</v>
+			<marker class="begin-verse" mid="v19089007">
+			</marker>
+			<v n="7">and awesome above all<crossref let="w" cid="c19089007.3" />who are around him ?</v>
+			<marker class="begin-verse" mid="v19089008">
+			</marker>
+			<v n="8">with your faithfulness all around you ?</v>
+			<marker class="begin-verse" mid="v19089009">
+			</marker>
+			<v n="9">when its waves rise , you<crossref let="z" cid="c19089009.1" />still them .</v>
+			<marker class="begin-verse" mid="v19089010">
+			</marker>
+			<v n="10">you<crossref let="c" cid="c19089010.3" />scattered your enemies with your mighty arm .</v>
+			<marker class="begin-verse" mid="v19089011">
+			</marker>
+			<v n="11">
+				<crossref let="e" cid="c19089011.2" />the world and all that is in it , you have<crossref let="f" cid="c19089011.3" />founded them .</v>
+			<marker class="begin-verse" mid="v19089012">
+			</marker>
+			<v n="12">
+				<crossref let="h" cid="c19089012.2" />Tabor and<crossref let="i" cid="c19089012.3" />Hermon<crossref let="j" cid="c19089012.4" />joyously praise your name .</v>
+			<marker class="begin-verse" mid="v19089013">
+			</marker>
+			<v n="13">strong is your hand , high your right hand .</v>
+			<marker class="begin-verse" mid="v19089014">
+			</marker>
+			<v n="14">
+				<crossref let="l" cid="c19089014.2" />steadfast love and faithfulness go before you .</v>
+			<marker class="begin-verse" mid="v19089015">
+			</marker>
+			<v n="15">who walk , O Lord , in<crossref let="n" cid="c19089015.2" />the light of your face ,</v>
+			<marker class="begin-verse" mid="v19089016">
+			</marker>
+			<v n="16">and in your righteousness are<crossref let="p" cid="c19089016.2" />exalted .</v>
+			<marker class="begin-verse" mid="v19089017">
+			</marker>
+			<v n="17">by your favor our<crossref let="r" cid="c19089017.2" />horn is exalted .</v>
+			<marker class="begin-verse" mid="v19089018">
+			</marker>
+			<v n="18">our king to<crossref let="t" cid="c19089018.2" />the Holy One of Israel .</v>
+			<marker class="begin-verse" mid="v19089019">
+			</marker>
+			<v n="19">I have exalted one<crossref let="x" cid="c19089019.4" />chosen from the people .</v>
+			<marker class="begin-verse" mid="v19089020">
+			</marker>
+			<v n="20">with my holy oil I have<crossref let="z" cid="c19089020.2" />anointed him ,</v>
+			<marker class="begin-verse" mid="v19089021">
+			</marker>
+			<v n="21">my arm also shall strengthen him .</v>
+			<marker class="begin-verse" mid="v19089022">
+			</marker>
+			<v n="22">
+				<crossref let="b" cid="c19089022.1" />the wicked shall not humble him .</v>
+			<marker class="begin-verse" mid="v19089023">
+			</marker>
+			<v n="23">and strike down those who hate him .</v>
+			<marker class="begin-verse" mid="v19089024">
+			</marker>
+			<v n="24">and in my name shall his<crossref let="e" cid="c19089024.2" />horn be exalted .</v>
+			<marker class="begin-verse" mid="v19089025">
+			</marker>
+			<v n="25">and his right hand on<crossref let="f" cid="c19089025.1" />the rivers .</v>
+			<marker class="begin-verse" mid="v19089026">
+			</marker>
+			<v n="26">my God , and<crossref let="h" cid="c19089026.2" />the Rock of my salvation . ’</v>
+			<marker class="begin-verse" mid="v19089027">
+			</marker>
+			<v n="27">
+				<crossref let="j" cid="c19089027.2" />the highest of the kings of the earth .</v>
+			<marker class="begin-verse" mid="v19089028">
+			</marker>
+			<v n="28">and my<crossref let="k" cid="c19089028.1" />covenant will stand firm for him .</v>
+			<marker class="begin-verse" mid="v19089029">
+			</marker>
+			<v n="29">and his<crossref let="l" cid="c19089029.1" />throne as<crossref let="m" cid="c19089029.2" />the days of the heavens .</v>
+			<marker class="begin-verse" mid="v19089030">
+			</marker>
+			<v n="30">and do not walk according to my rules ,</v>
+			<marker class="begin-verse" mid="v19089031">
+			</marker>
+			<v n="31">and do not keep my commandments ,</v>
+			<marker class="begin-verse" mid="v19089032">
+			</marker>
+			<v n="32">and their iniquity with stripes ,</v>
+			<marker class="begin-verse" mid="v19089033">
+			</marker>
+			<v n="33">or be false to my faithfulness .</v>
+			<marker class="begin-verse" mid="v19089034">
+			</marker>
+			<v n="34">or alter the word that went forth from my lips .</v>
+			<marker class="begin-verse" mid="v19089035">
+			</marker>
+			<v n="35">I will not<crossref let="q" cid="c19089035.2" />lie to David .</v>
+			<marker class="begin-verse" mid="v19089036">
+			</marker>
+			<v n="36">
+				<crossref let="r" cid="c19089036.2" />his<crossref let="l" cid="c19089036.1" />throne as long as<crossref let="s" cid="c19089036.3" />the sun before me .</v>
+			<marker class="begin-verse" mid="v19089037">
+			</marker>
+			<v n="37">
+				<crossref let="t" cid="c19089037.2" />a faithful witness in the skies . ” Selah</v>
+			<marker class="begin-verse" mid="v19089038">
+			</marker>
+			<v n="38">you are full of wrath against your<crossref let="v" cid="c19089038.2" />anointed .</v>
+			<marker class="begin-verse" mid="v19089039">
+			</marker>
+			<v n="39">you have<crossref let="y" cid="c19089039.3" />defiled his<crossref let="z" cid="c19089039.4" />crown in the dust .</v>
+			<marker class="begin-verse" mid="v19089040">
+			</marker>
+			<v n="40">you have laid his strongholds in ruins .</v>
+			<marker class="begin-verse" mid="v19089041">
+			</marker>
+			<v n="41">he has become<crossref let="b" cid="c19089041.2" />the scorn of his neighbors .</v>
+			<marker class="begin-verse" mid="v19089042">
+			</marker>
+			<v n="42">you have made all his enemies rejoice .</v>
+			<marker class="begin-verse" mid="v19089043">
+			</marker>
+			<v n="43">and you have not made him stand in battle .</v>
+			<marker class="begin-verse" mid="v19089044">
+			</marker>
+			<v n="44">and cast his throne to the ground .</v>
+			<marker class="begin-verse" mid="v19089045">
+			</marker>
+			<v n="45">you have<crossref let="d" cid="c19089045.2" />covered him with shame . Selah</v>
+			<marker class="begin-verse" mid="v19089046">
+			</marker>
+			<v n="46">How long will your wrath<crossref let="f" cid="c19089046.2" />burn like fire ?</v>
+			<marker class="begin-verse" mid="v19089047">
+			</marker>
+			<v n="47">For what vanity you have created all the children of man !</v>
+			<marker class="begin-verse" mid="v19089048">
+			</marker>
+			<v n="48">Who can deliver his soul from the power of<crossref let="l" cid="c19089048.3" />Sheol ? Selah</v>
+			<marker class="begin-verse" mid="v19089049">
+			</marker>
+			<v n="49">which by your<crossref let="m" cid="c19089049.1" />faithfulness you swore to David ?</v>
+			<marker class="begin-verse" mid="v19089050">
+			</marker>
+			<v n="50">and how I bear in my<crossref let="o" cid="c19089050.2" />heart the insults of all the many nations ,</v>
+			<marker class="begin-verse" mid="v19089051">
+			</marker>
+			<v n="51">with which they mock<crossref let="p" cid="c19089051.1" />the footsteps of your<crossref let="q" cid="c19089051.2" />anointed .</v>
+			<marker class="begin-verse" mid="v19089052">
+			</marker>
+			<v n="52">Amen and Amen .</v>
+			<marker class="begin-verse" mid="v19089053">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">89:1 Probably a musical or liturgical term</footnote>
+				<footnote id="2">89:6 Hebrew *the sons of God*, or *the sons of might*</footnote>
+				<footnote id="3">89:19 Some Hebrew manuscripts *godly ones*</footnote>
+				<footnote id="4">89:28 Or *will remain faithful*</footnote>
+				<footnote id="5">89:30 Or *my just decrees*</footnote>
+				<footnote id="6">89:50 Hebrew lacks *the insults*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,599 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:55.153075</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:55.153095</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19119001">
+		</marker>
+		<chapter num="119">
+			<heading>
+				Psalm 119
+			</heading>
+			<heading>
+				Your Word Is a Lamp to My Feet
+			</heading>
+			<heading>
+				Aleph
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">who<crossref let="l" cid="c19119001.2" />walk in the law of the Lord !</v>
+			<marker class="begin-verse" mid="v19119002">
+			</marker>
+			<v n="2">who<crossref let="o" cid="c19119002.3" />seek him with their whole heart ,</v>
+			<marker class="begin-verse" mid="v19119003">
+			</marker>
+			<v n="3">but walk in his ways !</v>
+			<marker class="begin-verse" mid="v19119004">
+			</marker>
+			<v n="4">to be kept diligently .</v>
+			<marker class="begin-verse" mid="v19119005">
+			</marker>
+			<v n="5">in keeping your statutes !</v>
+			<marker class="begin-verse" mid="v19119006">
+			</marker>
+			<v n="6">having my eyes fixed on all your commandments .</v>
+			<marker class="begin-verse" mid="v19119007">
+			</marker>
+			<v n="7">when I learn<crossref let="t" cid="c19119007.1" />your righteous rules .</v>
+			<marker class="begin-verse" mid="v19119008">
+			</marker>
+			<v n="8">
+				<crossref let="u" cid="c19119008.1" />do not utterly forsake me !</v>
+			<marker class="begin-verse" mid="v19119009">
+			</marker>
+			<v n="9">By guarding it according to your word .</v>
+			<marker class="begin-verse" mid="v19119010">
+			</marker>
+			<v n="10">let me not<crossref let="x" cid="c19119010.2" />wander from your commandments !</v>
+			<marker class="begin-verse" mid="v19119011">
+			</marker>
+			<v n="11">that I might not sin against you .</v>
+			<marker class="begin-verse" mid="v19119012">
+			</marker>
+			<v n="12">
+				<crossref let="z" cid="c19119012.1" />teach me your statutes !</v>
+			<marker class="begin-verse" mid="v19119013">
+			</marker>
+			<v n="13">all the rules of your mouth .</v>
+			<marker class="begin-verse" mid="v19119014">
+			</marker>
+			<v n="14">as much as in all<crossref let="c" cid="c19119014.2" />riches .</v>
+			<marker class="begin-verse" mid="v19119015">
+			</marker>
+			<v n="15">and fix my eyes on your<crossref let="e" cid="c19119015.2" />ways .</v>
+			<marker class="begin-verse" mid="v19119016">
+			</marker>
+			<v n="16">I will not forget your word .</v>
+			<marker class="begin-verse" mid="v19119017">
+			</marker>
+			<v n="17">
+				<crossref let="h" cid="c19119017.2" />that I may live and keep your word .</v>
+			<marker class="begin-verse" mid="v19119018">
+			</marker>
+			<v n="18">wondrous things out of your law .</v>
+			<marker class="begin-verse" mid="v19119019">
+			</marker>
+			<v n="19">
+				<crossref let="j" cid="c19119019.2" />hide not your commandments from me !</v>
+			<marker class="begin-verse" mid="v19119020">
+			</marker>
+			<v n="20">for your rules at all times .</v>
+			<marker class="begin-verse" mid="v19119021">
+			</marker>
+			<v n="21">who<crossref let="n" cid="c19119021.3" />wander from your commandments .</v>
+			<marker class="begin-verse" mid="v19119022">
+			</marker>
+			<v n="22">
+				<crossref let="p" cid="c19119022.2" />for I have kept your testimonies .</v>
+			<marker class="begin-verse" mid="v19119023">
+			</marker>
+			<v n="23">your servant will<crossref let="r" cid="c19119023.2" />meditate on your statutes .</v>
+			<marker class="begin-verse" mid="v19119024">
+			</marker>
+			<v n="24">they are my<crossref let="t" cid="c19119024.2" />counselors .</v>
+			<marker class="begin-verse" mid="v19119025">
+			</marker>
+			<v n="25">
+				<crossref let="v" cid="c19119025.2" />give me life<crossref let="w" cid="c19119025.3" />according to your word !</v>
+			<marker class="begin-verse" mid="v19119026">
+			</marker>
+			<v n="26">
+				<crossref let="y" cid="c19119026.2" />teach me your statutes !</v>
+			<marker class="begin-verse" mid="v19119027">
+			</marker>
+			<v n="27">and I will<crossref let="a" cid="c19119027.1" />meditate on your wondrous works .</v>
+			<marker class="begin-verse" mid="v19119028">
+			</marker>
+			<v n="28">strengthen me according to your word !</v>
+			<marker class="begin-verse" mid="v19119029">
+			</marker>
+			<v n="29">and graciously<crossref let="c" cid="c19119029.1" />teach me your law !</v>
+			<marker class="begin-verse" mid="v19119030">
+			</marker>
+			<v n="30">I<crossref let="d" cid="c19119030.1" />set your rules before me .</v>
+			<marker class="begin-verse" mid="v19119031">
+			</marker>
+			<v n="31">
+				<crossref let="e" cid="c19119031.1" />let me not be put to shame !</v>
+			<marker class="begin-verse" mid="v19119032">
+			</marker>
+			<v n="32">when you<crossref let="f" cid="c19119032.1" />enlarge my heart !</v>
+			<marker class="begin-verse" mid="v19119033">
+			</marker>
+			<v n="33">and I will keep it<crossref let="h" cid="c19119033.2" />to the end .</v>
+			<marker class="begin-verse" mid="v19119034">
+			</marker>
+			<v n="34">and observe it with my whole heart .</v>
+			<marker class="begin-verse" mid="v19119035">
+			</marker>
+			<v n="35">for I<crossref let="k" cid="c19119035.2" />delight in it .</v>
+			<marker class="begin-verse" mid="v19119036">
+			</marker>
+			<v n="36">and not to<crossref let="m" cid="c19119036.2" />selfish gain !</v>
+			<marker class="begin-verse" mid="v19119037">
+			</marker>
+			<v n="37">and<crossref let="o" cid="c19119037.2" />give me life in your ways .</v>
+			<marker class="begin-verse" mid="v19119038">
+			</marker>
+			<v n="38">
+				<crossref let="q" cid="c19119038.2" />that you may be feared .</v>
+			<marker class="begin-verse" mid="v19119039">
+			</marker>
+			<v n="39">for your rules are good .</v>
+			<marker class="begin-verse" mid="v19119040">
+			</marker>
+			<v n="40">
+				<crossref let="t" cid="c19119040.2" />in your righteousness give me life !</v>
+			<marker class="begin-verse" mid="v19119041">
+			</marker>
+			<v n="41">your salvation<crossref let="v" cid="c19119041.2" />according to your promise ;</v>
+			<marker class="begin-verse" mid="v19119042">
+			</marker>
+			<v n="42">for I trust in your word .</v>
+			<marker class="begin-verse" mid="v19119043">
+			</marker>
+			<v n="43">for my<crossref let="x" cid="c19119043.1" />hope is in your rules .</v>
+			<marker class="begin-verse" mid="v19119044">
+			</marker>
+			<v n="44">forever and ever ,</v>
+			<marker class="begin-verse" mid="v19119045">
+			</marker>
+			<v n="45">for I have<crossref let="z" cid="c19119045.2" />sought your precepts .</v>
+			<marker class="begin-verse" mid="v19119046">
+			</marker>
+			<v n="46">and shall not be put to shame ,</v>
+			<marker class="begin-verse" mid="v19119047">
+			</marker>
+			<v n="47">which I love .</v>
+			<marker class="begin-verse" mid="v19119048">
+			</marker>
+			<v n="48">and I will<crossref let="d" cid="c19119048.2" />meditate on your statutes .</v>
+			<marker class="begin-verse" mid="v19119049">
+			</marker>
+			<v n="49">in which you have made me<crossref let="f" cid="c19119049.2" />hope .</v>
+			<marker class="begin-verse" mid="v19119050">
+			</marker>
+			<v n="50">that your promise<crossref let="h" cid="c19119050.2" />gives me life .</v>
+			<marker class="begin-verse" mid="v19119051">
+			</marker>
+			<v n="51">but I do not<crossref let="j" cid="c19119051.2" />turn away from your law .</v>
+			<marker class="begin-verse" mid="v19119052">
+			</marker>
+			<v n="52">I take comfort , O Lord .</v>
+			<marker class="begin-verse" mid="v19119053">
+			</marker>
+			<v n="53">who forsake your law .</v>
+			<marker class="begin-verse" mid="v19119054">
+			</marker>
+			<v n="54">in the house of my<crossref let="l" cid="c19119054.1" />sojourning .</v>
+			<marker class="begin-verse" mid="v19119055">
+			</marker>
+			<v n="55">and keep your law .</v>
+			<marker class="begin-verse" mid="v19119056">
+			</marker>
+			<v n="56">that<crossref let="n" cid="c19119056.1" />I have kept your precepts .</v>
+			<marker class="begin-verse" mid="v19119057">
+			</marker>
+			<v n="57">I promise to keep your words .</v>
+			<marker class="begin-verse" mid="v19119058">
+			</marker>
+			<v n="58">be gracious to me<crossref let="q" cid="c19119058.2" />according to your promise .</v>
+			<marker class="begin-verse" mid="v19119059">
+			</marker>
+			<v n="59">I turn my feet to your testimonies ;</v>
+			<marker class="begin-verse" mid="v19119060">
+			</marker>
+			<v n="60">to keep your commandments .</v>
+			<marker class="begin-verse" mid="v19119061">
+			</marker>
+			<v n="61">I do not<crossref let="t" cid="c19119061.2" />forget your law .</v>
+			<marker class="begin-verse" mid="v19119062">
+			</marker>
+			<v n="62">because of your<crossref let="v" cid="c19119062.2" />righteous rules .</v>
+			<marker class="begin-verse" mid="v19119063">
+			</marker>
+			<v n="63">of those who keep your precepts .</v>
+			<marker class="begin-verse" mid="v19119064">
+			</marker>
+			<v n="64">
+				<crossref let="y" cid="c19119064.2" />teach me your statutes !</v>
+			<marker class="begin-verse" mid="v19119065">
+			</marker>
+			<v n="65">O Lord ,<crossref let="z" cid="c19119065.1" />according to your word .</v>
+			<marker class="begin-verse" mid="v19119066">
+			</marker>
+			<v n="66">for I believe in your commandments .</v>
+			<marker class="begin-verse" mid="v19119067">
+			</marker>
+			<v n="67">but now I keep your word .</v>
+			<marker class="begin-verse" mid="v19119068">
+			</marker>
+			<v n="68">
+				<crossref let="d" cid="c19119068.2" />teach me your statutes .</v>
+			<marker class="begin-verse" mid="v19119069">
+			</marker>
+			<v n="69">but with my whole heart I<crossref let="g" cid="c19119069.3" />keep your precepts ;</v>
+			<marker class="begin-verse" mid="v19119070">
+			</marker>
+			<v n="70">but I<crossref let="i" cid="c19119070.2" />delight in your law .</v>
+			<marker class="begin-verse" mid="v19119071">
+			</marker>
+			<v n="71">that I might learn your statutes .</v>
+			<marker class="begin-verse" mid="v19119072">
+			</marker>
+			<v n="72">than thousands of gold and silver pieces .</v>
+			<marker class="begin-verse" mid="v19119073">
+			</marker>
+			<v n="73">
+				<crossref let="m" cid="c19119073.2" />give me understanding that I may learn your commandments .</v>
+			<marker class="begin-verse" mid="v19119074">
+			</marker>
+			<v n="74">because I have<crossref let="o" cid="c19119074.2" />hoped in your word .</v>
+			<marker class="begin-verse" mid="v19119075">
+			</marker>
+			<v n="75">and that in<crossref let="q" cid="c19119075.2" />faithfulness you have afflicted me .</v>
+			<marker class="begin-verse" mid="v19119076">
+			</marker>
+			<v n="76">according to your promise to your servant .</v>
+			<marker class="begin-verse" mid="v19119077">
+			</marker>
+			<v n="77">for your law is my<crossref let="s" cid="c19119077.2" />delight .</v>
+			<marker class="begin-verse" mid="v19119078">
+			</marker>
+			<v n="78">as for me , I will<crossref let="w" cid="c19119078.4" />meditate on your precepts .</v>
+			<marker class="begin-verse" mid="v19119079">
+			</marker>
+			<v n="79">that they may know your testimonies .</v>
+			<marker class="begin-verse" mid="v19119080">
+			</marker>
+			<v n="80">
+				<crossref let="z" cid="c19119080.2" />that I may not be put to shame !</v>
+			<marker class="begin-verse" mid="v19119081">
+			</marker>
+			<v n="81">I<crossref let="b" cid="c19119081.2" />hope in your word .</v>
+			<marker class="begin-verse" mid="v19119082">
+			</marker>
+			<v n="82">I ask ,<crossref let="d" cid="c19119082.2" />“ When will you comfort me ? ”</v>
+			<marker class="begin-verse" mid="v19119083">
+			</marker>
+			<v n="83">yet I have not forgotten your statutes .</v>
+			<marker class="begin-verse" mid="v19119084">
+			</marker>
+			<v n="84">
+				<crossref let="h" cid="c19119084.2" />When will you judge those who persecute me ?</v>
+			<marker class="begin-verse" mid="v19119085">
+			</marker>
+			<v n="85">they do not live according to your law .</v>
+			<marker class="begin-verse" mid="v19119086">
+			</marker>
+			<v n="86">they persecute me<crossref let="l" cid="c19119086.2" />with falsehood ;<crossref let="m" cid="c19119086.3" />help me !</v>
+			<marker class="begin-verse" mid="v19119087">
+			</marker>
+			<v n="87">but I have not forsaken your precepts .</v>
+			<marker class="begin-verse" mid="v19119088">
+			</marker>
+			<v n="88">that I may keep the testimonies of your mouth .</v>
+			<marker class="begin-verse" mid="v19119089">
+			</marker>
+			<v n="89">is firmly fixed in the heavens .</v>
+			<marker class="begin-verse" mid="v19119090">
+			</marker>
+			<v n="90">you have<crossref let="q" cid="c19119090.2" />established the earth , and it<crossref let="r" cid="c19119090.3" />stands fast .</v>
+			<marker class="begin-verse" mid="v19119091">
+			</marker>
+			<v n="91">for all things are your servants .</v>
+			<marker class="begin-verse" mid="v19119092">
+			</marker>
+			<v n="92">I would have perished in my affliction .</v>
+			<marker class="begin-verse" mid="v19119093">
+			</marker>
+			<v n="93">for by them you have<crossref let="u" cid="c19119093.1" />given me life .</v>
+			<marker class="begin-verse" mid="v19119094">
+			</marker>
+			<v n="94">
+				<crossref let="v" cid="c19119094.1" />for I have sought your precepts .</v>
+			<marker class="begin-verse" mid="v19119095">
+			</marker>
+			<v n="95">but I consider your testimonies .</v>
+			<marker class="begin-verse" mid="v19119096">
+			</marker>
+			<v n="96">but your commandment is exceedingly<crossref let="w" cid="c19119096.1" />broad .</v>
+			<marker class="begin-verse" mid="v19119097">
+			</marker>
+			<v n="97">It is my<crossref let="y" cid="c19119097.2" />meditation all the day .</v>
+			<marker class="begin-verse" mid="v19119098">
+			</marker>
+			<v n="98">for it is ever with me .</v>
+			<marker class="begin-verse" mid="v19119099">
+			</marker>
+			<v n="99">for<crossref let="a" cid="c19119099.1" />your testimonies are my meditation .</v>
+			<marker class="begin-verse" mid="v19119100">
+			</marker>
+			<v n="100">for I<crossref let="c" cid="c19119100.2" />keep your precepts .</v>
+			<marker class="begin-verse" mid="v19119101">
+			</marker>
+			<v n="101">in order to keep your word .</v>
+			<marker class="begin-verse" mid="v19119102">
+			</marker>
+			<v n="102">for you have taught me .</v>
+			<marker class="begin-verse" mid="v19119103">
+			</marker>
+			<v n="103">sweeter than honey to my mouth !</v>
+			<marker class="begin-verse" mid="v19119104">
+			</marker>
+			<v n="104">therefore<crossref let="f" cid="c19119104.1" />I hate every false way .</v>
+			<marker class="begin-verse" mid="v19119105">
+			</marker>
+			<v n="105">and a light to my path .</v>
+			<marker class="begin-verse" mid="v19119106">
+			</marker>
+			<v n="106">to keep your<crossref let="i" cid="c19119106.2" />righteous rules .</v>
+			<marker class="begin-verse" mid="v19119107">
+			</marker>
+			<v n="107">
+				<crossref let="k" cid="c19119107.2" />give me life , O Lord , according to your word !</v>
+			<marker class="begin-verse" mid="v19119108">
+			</marker>
+			<v n="108">and<crossref let="m" cid="c19119108.2" />teach me your rules .</v>
+			<marker class="begin-verse" mid="v19119109">
+			</marker>
+			<v n="109">but I do not<crossref let="o" cid="c19119109.2" />forget your law .</v>
+			<marker class="begin-verse" mid="v19119110">
+			</marker>
+			<v n="110">but<crossref let="q" cid="c19119110.2" />I do not stray from your precepts .</v>
+			<marker class="begin-verse" mid="v19119111">
+			</marker>
+			<v n="111">for they are<crossref let="s" cid="c19119111.2" />the joy of my heart .</v>
+			<marker class="begin-verse" mid="v19119112">
+			</marker>
+			<v n="112">forever ,<crossref let="u" cid="c19119112.2" />to the end .</v>
+			<marker class="begin-verse" mid="v19119113">
+			</marker>
+			<v n="113">but I love<crossref let="w" cid="c19119113.2" />your law .</v>
+			<marker class="begin-verse" mid="v19119114">
+			</marker>
+			<v n="114">I<crossref let="z" cid="c19119114.3" />hope in your word .</v>
+			<marker class="begin-verse" mid="v19119115">
+			</marker>
+			<v n="115">that I may<crossref let="b" cid="c19119115.2" />keep the commandments of my God .</v>
+			<marker class="begin-verse" mid="v19119116">
+			</marker>
+			<v n="116">and let me not be<crossref let="d" cid="c19119116.2" />put to shame in my<crossref let="e" cid="c19119116.3" />hope !</v>
+			<marker class="begin-verse" mid="v19119117">
+			</marker>
+			<v n="117">and have regard for your statutes continually !</v>
+			<marker class="begin-verse" mid="v19119118">
+			</marker>
+			<v n="118">for their cunning is in vain .</v>
+			<marker class="begin-verse" mid="v19119119">
+			</marker>
+			<v n="119">therefore<crossref let="j" cid="c19119119.2" />I love your testimonies .</v>
+			<marker class="begin-verse" mid="v19119120">
+			</marker>
+			<v n="120">and I am afraid of your judgments .</v>
+			<marker class="begin-verse" mid="v19119121">
+			</marker>
+			<v n="121">do not leave me to my oppressors .</v>
+			<marker class="begin-verse" mid="v19119122">
+			</marker>
+			<v n="122">let not<crossref let="m" cid="c19119122.2" />the insolent oppress me .</v>
+			<marker class="begin-verse" mid="v19119123">
+			</marker>
+			<v n="123">and for the fulfillment of your righteous promise .</v>
+			<marker class="begin-verse" mid="v19119124">
+			</marker>
+			<v n="124">and<crossref let="o" cid="c19119124.1" />teach me your statutes .</v>
+			<marker class="begin-verse" mid="v19119125">
+			</marker>
+			<v n="125">that I may know your testimonies !</v>
+			<marker class="begin-verse" mid="v19119126">
+			</marker>
+			<v n="126">for your law has been broken .</v>
+			<marker class="begin-verse" mid="v19119127">
+			</marker>
+			<v n="127">above gold , above fine gold .</v>
+			<marker class="begin-verse" mid="v19119128">
+			</marker>
+			<v n="128">I hate every<crossref let="s" cid="c19119128.1" />false way .</v>
+			<marker class="begin-verse" mid="v19119129">
+			</marker>
+			<v n="129">therefore my soul<crossref let="u" cid="c19119129.2" />keeps them .</v>
+			<marker class="begin-verse" mid="v19119130">
+			</marker>
+			<v n="130">it imparts<crossref let="v" cid="c19119130.1" />understanding to the simple .</v>
+			<marker class="begin-verse" mid="v19119131">
+			</marker>
+			<v n="131">because I<crossref let="y" cid="c19119131.3" />long for your commandments .</v>
+			<marker class="begin-verse" mid="v19119132">
+			</marker>
+			<v n="132">as is your way with those who love your name .</v>
+			<marker class="begin-verse" mid="v19119133">
+			</marker>
+			<v n="133">and let no iniquity<crossref let="b" cid="c19119133.2" />get dominion over me .</v>
+			<marker class="begin-verse" mid="v19119134">
+			</marker>
+			<v n="134">that I may keep your precepts .</v>
+			<marker class="begin-verse" mid="v19119135">
+			</marker>
+			<v n="135">and<crossref let="e" cid="c19119135.2" />teach me your statutes .</v>
+			<marker class="begin-verse" mid="v19119136">
+			</marker>
+			<v n="136">because people<crossref let="g" cid="c19119136.2" />do not keep your law .</v>
+			<marker class="begin-verse" mid="v19119137">
+			</marker>
+			<v n="137">and right are your rules .</v>
+			<marker class="begin-verse" mid="v19119138">
+			</marker>
+			<v n="138">and in all<crossref let="j" cid="c19119138.2" />faithfulness .</v>
+			<marker class="begin-verse" mid="v19119139">
+			</marker>
+			<v n="139">because my foes forget your words .</v>
+			<marker class="begin-verse" mid="v19119140">
+			</marker>
+			<v n="140">and your servant<crossref let="m" cid="c19119140.2" />loves it .</v>
+			<marker class="begin-verse" mid="v19119141">
+			</marker>
+			<v n="141">yet I do not<crossref let="n" cid="c19119141.1" />forget your precepts .</v>
+			<marker class="begin-verse" mid="v19119142">
+			</marker>
+			<v n="142">and your law is<crossref let="o" cid="c19119142.1" />true .</v>
+			<marker class="begin-verse" mid="v19119143">
+			</marker>
+			<v n="143">but your commandments are my<crossref let="p" cid="c19119143.1" />delight .</v>
+			<marker class="begin-verse" mid="v19119144">
+			</marker>
+			<v n="144">
+				<crossref let="q" cid="c19119144.1" />give me understanding that I may<crossref let="r" cid="c19119144.2" />live .</v>
+			<marker class="begin-verse" mid="v19119145">
+			</marker>
+			<v n="145">I will<crossref let="t" cid="c19119145.2" />keep your statutes .</v>
+			<marker class="begin-verse" mid="v19119146">
+			</marker>
+			<v n="146">that I may observe your testimonies .</v>
+			<marker class="begin-verse" mid="v19119147">
+			</marker>
+			<v n="147">I<crossref let="v" cid="c19119147.2" />hope in your words .</v>
+			<marker class="begin-verse" mid="v19119148">
+			</marker>
+			<v n="148">that I may meditate on your promise .</v>
+			<marker class="begin-verse" mid="v19119149">
+			</marker>
+			<v n="149">O Lord ,<crossref let="x" cid="c19119149.1" />according to your justice<crossref let="y" cid="c19119149.2" />give me life .</v>
+			<marker class="begin-verse" mid="v19119150">
+			</marker>
+			<v n="150">they are far from your law .</v>
+			<marker class="begin-verse" mid="v19119151">
+			</marker>
+			<v n="151">and all your commandments are<crossref let="a" cid="c19119151.1" />true .</v>
+			<marker class="begin-verse" mid="v19119152">
+			</marker>
+			<v n="152">that you have<crossref let="b" cid="c19119152.1" />founded them forever .</v>
+			<marker class="begin-verse" mid="v19119153">
+			</marker>
+			<v n="153">for<crossref let="d" cid="c19119153.2" />I do not forget your law .</v>
+			<marker class="begin-verse" mid="v19119154">
+			</marker>
+			<v n="154">
+				<crossref let="f" cid="c19119154.2" />give me life according to your promise !</v>
+			<marker class="begin-verse" mid="v19119155">
+			</marker>
+			<v n="155">
+				<crossref let="h" cid="c19119155.2" />for they do not seek your statutes .</v>
+			<marker class="begin-verse" mid="v19119156">
+			</marker>
+			<v n="156">
+				<crossref let="f" cid="c19119156.1" />give me life according to your rules .</v>
+			<marker class="begin-verse" mid="v19119157">
+			</marker>
+			<v n="157">but I do not<crossref let="k" cid="c19119157.2" />swerve from your testimonies .</v>
+			<marker class="begin-verse" mid="v19119158">
+			</marker>
+			<v n="158">because they do not keep your commands .</v>
+			<marker class="begin-verse" mid="v19119159">
+			</marker>
+			<v n="159">
+				<crossref let="f" cid="c19119159.1" />Give me life , O Lord , according to your steadfast love .</v>
+			<marker class="begin-verse" mid="v19119160">
+			</marker>
+			<v n="160">and every one of your<crossref let="q" cid="c19119160.3" />righteous rules endures forever .</v>
+			<marker class="begin-verse" mid="v19119161">
+			</marker>
+			<v n="161">but my heart<crossref let="t" cid="c19119161.3" />stands in awe of your words .</v>
+			<marker class="begin-verse" mid="v19119162">
+			</marker>
+			<v n="162">like one who<crossref let="u" cid="c19119162.2" />finds great spoil .</v>
+			<marker class="begin-verse" mid="v19119163">
+			</marker>
+			<v n="163">but I love<crossref let="v" cid="c19119163.1" />your law .</v>
+			<marker class="begin-verse" mid="v19119164">
+			</marker>
+			<v n="164">for your<crossref let="q" cid="c19119164.1" />righteous rules .</v>
+			<marker class="begin-verse" mid="v19119165">
+			</marker>
+			<v n="165">
+				<crossref let="x" cid="c19119165.2" />nothing can make them stumble .</v>
+			<marker class="begin-verse" mid="v19119166">
+			</marker>
+			<v n="166">and I do your commandments .</v>
+			<marker class="begin-verse" mid="v19119167">
+			</marker>
+			<v n="167">I<crossref let="v" cid="c19119167.1" />love them exceedingly .</v>
+			<marker class="begin-verse" mid="v19119168">
+			</marker>
+			<v n="168">
+				<crossref let="z" cid="c19119168.1" />for all my ways are before you .</v>
+			<marker class="begin-verse" mid="v19119169">
+			</marker>
+			<v n="169">
+				<crossref let="b" cid="c19119169.2" />give me understanding<crossref let="c" cid="c19119169.3" />according to your word !</v>
+			<marker class="begin-verse" mid="v19119170">
+			</marker>
+			<v n="170">
+				<crossref let="d" cid="c19119170.1" />deliver me according to your word .</v>
+			<marker class="begin-verse" mid="v19119171">
+			</marker>
+			<v n="171">for you<crossref let="f" cid="c19119171.2" />teach me your statutes .</v>
+			<marker class="begin-verse" mid="v19119172">
+			</marker>
+			<v n="172">for<crossref let="g" cid="c19119172.1" />all your commandments are right .</v>
+			<marker class="begin-verse" mid="v19119173">
+			</marker>
+			<v n="173">for I have<crossref let="h" cid="c19119173.1" />chosen your precepts .</v>
+			<marker class="begin-verse" mid="v19119174">
+			</marker>
+			<v n="174">and your law is my<crossref let="j" cid="c19119174.2" />delight .</v>
+			<marker class="begin-verse" mid="v19119175">
+			</marker>
+			<v n="175">and let your rules help me .</v>
+			<marker class="begin-verse" mid="v19119176">
+			</marker>
+			<v n="176">for I do not<crossref let="l" cid="c19119176.2" />forget your commandments .</v>
+			<marker class="begin-verse" mid="v19119177">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">119:1 This psalm is an acrostic poem of twenty-two stanzas, following the letters of the Hebrew alphabet; within a stanza, each verse begins with the same Hebrew letter</footnote>
+				<footnote id="2">119:7 Or *your just and righteous decrees*; also verses 62, 106, 160, 164</footnote>
+				<footnote id="3">119:13 Or *all the just decrees*</footnote>
+				<footnote id="4">119:20 Or *your just decrees*; also verses 30, 39, 43, 52, 75, 102, 108, 137, 156, 175</footnote>
+				<footnote id="5">119:32 Or *for you set my heart free*</footnote>
+				<footnote id="6">119:33 Or *keep it as my reward*</footnote>
+				<footnote id="7">119:84 Hebrew *How many are the days of your servant*?</footnote>
+				<footnote id="8">119:100 Or *the elders*</footnote>
+				<footnote id="9">119:112 Or *statutes; the reward is eternal*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

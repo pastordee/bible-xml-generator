@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:42:14.072452</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:42:14.072470</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				Isaiah 13
+			</heading>
+			<heading>
+				The Judgment of Babylon
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">The oracle concerning<crossref let="f" cid="c23013001.1" />Babylon which<crossref let="g" cid="c23013001.2" />Isaiah the son of Amoz saw .</v>
+			<marker class="begin-verse" mid="v23013002">
+			</marker>
+			<v n="2">the gates of the nobles .</v>
+			<marker class="begin-verse" mid="v23013003">
+			</marker>
+			<v n="3">my proudly exulting ones .</v>
+			<marker class="begin-verse" mid="v23013004">
+			</marker>
+			<v n="4">a host for battle .</v>
+			<marker class="begin-verse" mid="v23013005">
+			</marker>
+			<v n="5">to destroy the whole land .</v>
+			<marker class="begin-verse" mid="v23013006">
+			</marker>
+			<v n="6">as destruction from the Almighty it will come !</v>
+			<marker class="begin-verse" mid="v23013007">
+			</marker>
+			<v n="7">and every human heart<crossref let="o" cid="c23013007.1" />will melt .</v>
+			<marker class="begin-verse" mid="v23013008">
+			</marker>
+			<v n="8">their faces will be aflame .</v>
+			<marker class="begin-verse" mid="v23013009">
+			</marker>
+			<v n="9">and<crossref let="r" cid="c23013009.2" />to destroy its sinners from it .</v>
+			<marker class="begin-verse" mid="v23013010">
+			</marker>
+			<v n="10">and the moon will not shed its light .</v>
+			<marker class="begin-verse" mid="v23013011">
+			</marker>
+			<v n="11">
+				<crossref let="w" cid="c23013011.3" />and lay low the pompous pride of the ruthless .</v>
+			<marker class="begin-verse" mid="v23013012">
+			</marker>
+			<v n="12">and mankind than the<crossref let="y" cid="c23013012.2" />gold of Ophir .</v>
+			<marker class="begin-verse" mid="v23013013">
+			</marker>
+			<v n="13">in the day of his fierce anger .</v>
+			<marker class="begin-verse" mid="v23013014">
+			</marker>
+			<v n="14">and each will flee to his own land .</v>
+			<marker class="begin-verse" mid="v23013015">
+			</marker>
+			<v n="15">and whoever is caught will fall by the sword .</v>
+			<marker class="begin-verse" mid="v23013016">
+			</marker>
+			<v n="16">and their wives ravished .</v>
+			<marker class="begin-verse" mid="v23013017">
+			</marker>
+			<v n="17">and do not delight in gold .</v>
+			<marker class="begin-verse" mid="v23013018">
+			</marker>
+			<v n="18">their eyes will not pity children .</v>
+			<marker class="begin-verse" mid="v23013019">
+			</marker>
+			<v n="19">when God overthrew them .</v>
+			<marker class="begin-verse" mid="v23013020">
+			</marker>
+			<v n="20">no<crossref let="i" cid="c23013020.3" />shepherds will make their flocks lie down there .</v>
+			<marker class="begin-verse" mid="v23013021">
+			</marker>
+			<v n="21">and there wild goats will dance .</v>
+			<marker class="begin-verse" mid="v23013022">
+			</marker>
+			<v n="22">and its days will not be prolonged .</v>
+			<marker class="begin-verse" mid="v23013023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">13:3 Or *those who exult in my majesty*</footnote>
+				<footnote id="2">13:5 Or *earth*; also verse 9</footnote>
+				<footnote id="3">13:6 The Hebrew words for *destruction* and *almighty* sound alike</footnote>
+				<footnote id="4">13:18 Hebrew *dash in pieces*</footnote>
+				<footnote id="5">13:21 Or *owls*</footnote>
+				<footnote id="6">13:22 Or *foxes*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:55:15.478669</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:55:15.478700</next_refresh_due>
+	</generation_info>
+	<book title="Jeremiah" num="24" testament="old" bookAbbr="jer" version="ESV">
+		<marker class="begin-verse" mid="v24012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				Jeremiah 12
+			</heading>
+			<heading>
+				Jeremiah’s Complaint
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Why do all<crossref let="o" cid="c24012001.3" />who are treacherous thrive ?</v>
+			<marker class="begin-verse" mid="v24012002">
+			</marker>
+			<v n="2">and far from their heart .</v>
+			<marker class="begin-verse" mid="v24012003">
+			</marker>
+			<v n="3">and set them apart for<crossref let="t" cid="c24012003.4" />the day of slaughter .</v>
+			<marker class="begin-verse" mid="v24012004">
+			</marker>
+			<v n="4">because they said , “ He will not see our latter end . ”</v>
+			<marker class="begin-verse" mid="v24012005">
+			</marker>
+			<v n="5">what will you do in<crossref let="x" cid="c24012005.1" />the thicket of the Jordan ?</v>
+			<marker class="begin-verse" mid="v24012006">
+			</marker>
+			<v n="6">though they speak friendly words to you . ”</v>
+			<marker class="begin-verse" mid="v24012007">
+			</marker>
+			<v n="7">into the hands of her enemies .</v>
+			<marker class="begin-verse" mid="v24012008">
+			</marker>
+			<v n="8">therefore I hate her .</v>
+			<marker class="begin-verse" mid="v24012009">
+			</marker>
+			<v n="9">bring them to devour .</v>
+			<marker class="begin-verse" mid="v24012010">
+			</marker>
+			<v n="10">a desolate wilderness .</v>
+			<marker class="begin-verse" mid="v24012011">
+			</marker>
+			<v n="11">
+				<crossref let="f" cid="c24012011.1" />but no man lays it to heart .</v>
+			<marker class="begin-verse" mid="v24012012">
+			</marker>
+			<v n="12">no flesh has peace .</v>
+			<marker class="begin-verse" mid="v24012013">
+			</marker>
+			<v n="13">
+				<crossref let="i" cid="c24012013.3" />because of the fierce anger of the Lord . ”</v>
+			<marker class="begin-verse" mid="v24012014">
+			</marker>
+			<v n="14">Thus says the Lord concerning all<crossref let="j" cid="c24012014.1" />my evil neighbors<crossref let="k" cid="c24012014.2" />who touch the heritage that<crossref let="l" cid="c24012014.3" />I have given my people Israel to inherit : “ Behold , I will pluck them up from their land , and I will pluck up the house of Judah from among them .</v>
+			<marker class="begin-verse" mid="v24012015">
+			</marker>
+			<v n="15">And after I have plucked them up , I will again have compassion on them ,<crossref let="m" cid="c24012015.1" />and I will bring them again each to his heritage and each to his land .</v>
+			<marker class="begin-verse" mid="v24012016">
+			</marker>
+			<v n="16">And it shall come to pass , if they will diligently learn the ways of my people ,<crossref let="n" cid="c24012016.1" />to swear by my name , ‘ As the Lord lives , ’ even as they taught my people to swear by Baal ,<crossref let="o" cid="c24012016.2" />then they shall be built up in the midst of my people .</v>
+			<marker class="begin-verse" mid="v24012017">
+			</marker>
+			<v n="17">
+				<crossref let="p" cid="c24012017.1" />But if any nation will not listen , then I will utterly pluck it up and destroy it , declares the Lord . ”</v>
+			<marker class="begin-verse" mid="v24012018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">12:13 Hebrew *your*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

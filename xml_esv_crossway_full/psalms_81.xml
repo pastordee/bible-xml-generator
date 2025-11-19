@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:59.069729</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:59.069769</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19081001">
+		</marker>
+		<chapter num="81">
+			<heading>
+				Psalm 81
+			</heading>
+			<heading>
+				Oh, That My People Would Listen to Me
+			</heading>
+			<heading>
+				To the choirmaster: according to The Gittith.(1) Of Asaph.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="i" cid="c19081001.2" />shout for joy to the God of Jacob !</v>
+			<marker class="begin-verse" mid="v19081002">
+			</marker>
+			<v n="2">
+				<crossref let="k" cid="c19081002.2" />the sweet lyre with<crossref let="k" cid="c19081002.2" />the harp .</v>
+			<marker class="begin-verse" mid="v19081003">
+			</marker>
+			<v n="3">at the full moon , on our feast day .</v>
+			<marker class="begin-verse" mid="v19081004">
+			</marker>
+			<v n="4">a rule of the God of Jacob .</v>
+			<marker class="begin-verse" mid="v19081005">
+			</marker>
+			<v n="5">
+				<crossref let="p" cid="c19081005.4" />I hear a language<crossref let="q" cid="c19081005.5" />I had not known :</v>
+			<marker class="begin-verse" mid="v19081006">
+			</marker>
+			<v n="6">your hands were freed from the basket .</v>
+			<marker class="begin-verse" mid="v19081007">
+			</marker>
+			<v n="7">I<crossref let="v" cid="c19081007.3" />tested you at the waters of Meribah . Selah</v>
+			<marker class="begin-verse" mid="v19081008">
+			</marker>
+			<v n="8">O Israel , if you would but listen to me !</v>
+			<marker class="begin-verse" mid="v19081009">
+			</marker>
+			<v n="9">you shall not bow down to a<crossref let="y" cid="c19081009.2" />foreign god .</v>
+			<marker class="begin-verse" mid="v19081010">
+			</marker>
+			<v n="10">
+				<crossref let="a" cid="c19081010.1" />Open your mouth wide , and I will fill it .</v>
+			<marker class="begin-verse" mid="v19081011">
+			</marker>
+			<v n="11">Israel<crossref let="b" cid="c19081011.1" />would not submit to me .</v>
+			<marker class="begin-verse" mid="v19081012">
+			</marker>
+			<v n="12">to follow their own<crossref let="e" cid="c19081012.3" />counsels .</v>
+			<marker class="begin-verse" mid="v19081013">
+			</marker>
+			<v n="13">that Israel would<crossref let="g" cid="c19081013.2" />walk in my ways !</v>
+			<marker class="begin-verse" mid="v19081014">
+			</marker>
+			<v n="14">and<crossref let="h" cid="c19081014.1" />turn my hand against their foes .</v>
+			<marker class="begin-verse" mid="v19081015">
+			</marker>
+			<v n="15">and their fate would last forever .</v>
+			<marker class="begin-verse" mid="v19081016">
+			</marker>
+			<v n="16">and with<crossref let="k" cid="c19081016.2" />honey from the rock I would satisfy you . ”</v>
+			<marker class="begin-verse" mid="v19081017">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">81:1 Probably a musical or liturgical term</footnote>
+				<footnote id="2">81:4 Or *just decree*</footnote>
+				<footnote id="3">81:5 Or *against*</footnote>
+				<footnote id="4">81:6 Hebrew *his*; also next line</footnote>
+				<footnote id="5">81:16 That is, Israel; Hebrew *him*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:00.284167</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:00.284193</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19041001">
+		</marker>
+		<chapter num="41">
+			<heading>
+				Psalm 41
+			</heading>
+			<heading>
+				O LORD, Be Gracious to Me
+			</heading>
+			<heading>
+				To the choirmaster. A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="f" cid="c19041001.2" />In the day of trouble the Lord delivers him;</v>
+			<marker class="begin-verse" mid="v19041002">
+			</marker>
+			<v n="2">you<crossref let="g" cid="c19041002.1" />do not give him up to the will of his enemies.</v>
+			<marker class="begin-verse" mid="v19041003">
+			</marker>
+			<v n="3">in his illness you restore him to full health.</v>
+			<marker class="begin-verse" mid="v19041004">
+			</marker>
+			<v n="4">
+				<crossref let="i" cid="c19041004.2" />heal me, for I have sinned against you!”</v>
+			<marker class="begin-verse" mid="v19041005">
+			</marker>
+			<v n="5">“When will he die, and his name perish?”</v>
+			<marker class="begin-verse" mid="v19041006">
+			</marker>
+			<v n="6">when he goes out, he tells it abroad.</v>
+			<marker class="begin-verse" mid="v19041007">
+			</marker>
+			<v n="7">they imagine the worst for me.</v>
+			<marker class="begin-verse" mid="v19041008">
+			</marker>
+			<v n="8">he will not rise again from where he lies.”</v>
+			<marker class="begin-verse" mid="v19041009">
+			</marker>
+			<v n="9">who<crossref let="l" cid="c19041009.2" />ate my bread, has lifted his heel against me.</v>
+			<marker class="begin-verse" mid="v19041010">
+			</marker>
+			<v n="10">and raise me up, that I may repay them!</v>
+			<marker class="begin-verse" mid="v19041011">
+			</marker>
+			<v n="11">my enemy will not shout in triumph over me.</v>
+			<marker class="begin-verse" mid="v19041012">
+			</marker>
+			<v n="12">and<crossref let="p" cid="c19041012.3" />set me in your presence<crossref let="q" cid="c19041012.4" />forever.</v>
+			<marker class="begin-verse" mid="v19041013">
+			</marker>
+			<v n="13">Amen and Amen.</v>
+			<marker class="begin-verse" mid="v19041014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">41:1 Or *weak*</footnote>
+				<footnote id="2">41:3 Hebrew *you turn all his bed*</footnote>
+				<footnote id="3">41:4 Hebrew *my soul*</footnote>
+				<footnote id="4">41:7 Or *they devise evil against me*</footnote>
+				<footnote id="5">41:8 Or *has fastened*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

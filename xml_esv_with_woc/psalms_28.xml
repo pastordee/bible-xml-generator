@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:41.202199</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:41.202228</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19028001">
+		</marker>
+		<chapter num="28">
+			<heading>
+				Psalm 28
+			</heading>
+			<heading>
+				The LORD Is My Strength and My Shield
+			</heading>
+			<heading>
+				Of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">I become like those who<crossref let="j" cid="c19028001.1" />go down to the pit.</v>
+			<marker class="begin-verse" mid="v19028002">
+			</marker>
+			<v n="2">
+				<crossref let="m" cid="c19028002.1" />toward your most holy sanctuary.</v>
+			<marker class="begin-verse" mid="v19028003">
+			</marker>
+			<v n="3">while evil is in their hearts.</v>
+			<marker class="begin-verse" mid="v19028004">
+			</marker>
+			<v n="4">render them their due reward.</v>
+			<marker class="begin-verse" mid="v19028005">
+			</marker>
+			<v n="5">he will tear them down and build them up no more.</v>
+			<marker class="begin-verse" mid="v19028006">
+			</marker>
+			<v n="6">heard the voice of my pleas for mercy.</v>
+			<marker class="begin-verse" mid="v19028007">
+			</marker>
+			<v n="7">and with my<crossref let="v" cid="c19028007.1" />song I give thanks to him.</v>
+			<marker class="begin-verse" mid="v19028008">
+			</marker>
+			<v n="8">the saving refuge of his anointed.</v>
+			<marker class="begin-verse" mid="v19028009">
+			</marker>
+			<v n="9">Be their shepherd and<crossref let="z" cid="c19028009.3" />carry them forever.</v>
+			<marker class="begin-verse" mid="v19028010">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">28:2 Hebrew *your innermost sanctuary*</footnote>
+				<footnote id="2">28:8 Some Hebrew manuscripts, Septuagint, Syriac; most Hebrew manuscripts *is their strength*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

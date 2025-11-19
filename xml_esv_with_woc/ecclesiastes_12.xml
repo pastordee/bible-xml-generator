@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:43.346048</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:43.346056</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" bookAbbr="ecc" version="ESV">
+		<marker class="begin-verse" mid="v21012001">
+		</marker>
+		<chapter num="12">
+			<heading>
+				Ecclesiastes 12
+			</heading>
+			<heading>
+				Remember Your Creator in Your Youth
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">you will say, “I have no pleasure in them”;</v>
+			<marker class="begin-verse" mid="v21012002">
+			</marker>
+			<v n="2">the sun and the light and the moon and the stars are darkened and the clouds return after the rain,</v>
+			<marker class="begin-verse" mid="v21012003">
+			</marker>
+			<v n="3">those who look through the windows are dimmed,</v>
+			<marker class="begin-verse" mid="v21012004">
+			</marker>
+			<v n="4">the daughters of song are brought low—</v>
+			<marker class="begin-verse" mid="v21012005">
+			</marker>
+			<v n="5">mourners go about the streets—</v>
+			<marker class="begin-verse" mid="v21012006">
+			</marker>
+			<v n="6">shattered at the fountain, or the wheel broken at the cistern,</v>
+			<marker class="begin-verse" mid="v21012007">
+			</marker>
+			<v n="7">who gave it.</v>
+			<marker class="begin-verse" mid="v21012008">
+			</marker>
+			<v n="8">the Preacher; all is vanity.</v>
+			<marker class="begin-verse" mid="v21012009">
+			</marker>
+			<v n="9">many proverbs with great care.</v>
+			<marker class="begin-verse" mid="v21012010">
+			</marker>
+			<v n="10">The Preacher sought to find words of delight, and uprightly he wrote words of truth.</v>
+			<marker class="begin-verse" mid="v21012011">
+			</marker>
+			<v n="11">one Shepherd.</v>
+			<marker class="begin-verse" mid="v21012012">
+			</marker>
+			<v n="12">much study is a weariness of the flesh.</v>
+			<marker class="begin-verse" mid="v21012013">
+			</marker>
+			<v n="13">Fear God and keep his commandments, for this is the whole duty of man.</v>
+			<marker class="begin-verse" mid="v21012014">
+			</marker>
+			<v n="14">God will bring every deed into judgment, with every secret thing, whether good or evil.</v>
+			<marker class="begin-verse" mid="v21012015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">12:5 Or *is a burden*</footnote>
+				<footnote id="2">12:8 The Hebrew term *hebel* can refer to a “vapor” or “mere breath” (three times in this verse); see note on 1:2</footnote>
+				<footnote id="3">12:13 Or *the duty of all mankind*</footnote>
+				<footnote id="4">12:14 Or *into the judgment on*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

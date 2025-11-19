@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:14.303117</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:14.303130</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Luke 6
+			</heading>
+			<heading>
+				Jesus Is Lord of the Sabbath
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="s" cid="c42006001.1" />On a Sabbath , while he was going through the grainfields , his disciples<crossref let="t" cid="c42006001.2" />plucked and ate some heads of grain , rubbing them in their hands .</v>
+			<marker class="begin-verse" mid="v42006002">
+			</marker>
+			<v n="2">But some of the Pharisees said ,<crossref let="u" cid="c42006002.1" />“ Why are you doing<crossref let="v" cid="c42006002.2" />what is not lawful to do on the Sabbath ? ”</v>
+			<marker class="begin-verse" mid="v42006003">
+			</marker>
+			<v n="3">And Jesus answered them ,<crossref let="w" cid="c42006003.1" />
+				<woc>“ Have you not read</woc>
+				<crossref let="x" cid="c42006003.2" />
+				<woc>what David did when he was hungry , he and those who were with him :</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006004">
+			</marker>
+			<v n="4">
+				<woc>how he entered the house of God and took and ate</woc>
+				<crossref let="y" cid="c42006004.1" />
+				<woc>the bread of the Presence ,</woc>
+				<crossref let="y" cid="c42006004.1" />
+				<woc>which is not lawful for any but the priests to eat , and also gave it to those with him ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006005">
+			</marker>
+			<v n="5">And he said to them ,<crossref let="z" cid="c42006005.1" />
+				<woc>“ The Son of Man is lord of the Sabbath . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006006">
+			</marker>
+			<v n="6">On another Sabbath ,<crossref let="a" cid="c42006006.1" />he entered the synagogue<crossref let="b" cid="c42006006.2" />and was teaching , and a man was there whose right hand was withered .</v>
+			<marker class="begin-verse" mid="v42006007">
+			</marker>
+			<v n="7">And the scribes and the Pharisees<crossref let="c" cid="c42006007.1" />watched him , to see whether he would heal on the Sabbath ,<crossref let="d" cid="c42006007.2" />so that they might find a reason to accuse him .</v>
+			<marker class="begin-verse" mid="v42006008">
+			</marker>
+			<v n="8">But<crossref let="e" cid="c42006008.1" />he knew their thoughts , and he said to the man with the withered hand , And he rose and stood there .<woc>“ Come and stand here . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006009">
+			</marker>
+			<v n="9">And Jesus said to them ,<woc>“ I ask you ,</woc>
+				<crossref let="f" cid="c42006009.1" />
+				<woc>is it lawful on the Sabbath to do good or to do harm , to save life or to destroy it ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006010">
+			</marker>
+			<v n="10">And<crossref let="g" cid="c42006010.1" />after looking around at them all he said to him , And<woc>“ Stretch out your hand . ”</woc>
+				<crossref let="h" cid="c42006010.2" />he did so , and his hand was restored .</v>
+			<marker class="begin-verse" mid="v42006011">
+			</marker>
+			<v n="11">But they were filled with<crossref let="i" cid="c42006011.1" />fury and discussed with one another what they might do to Jesus .</v>
+			<marker class="begin-verse" mid="v42006012">
+			</marker>
+			<v n="12">In these days<crossref let="j" cid="c42006012.1" />he went out to the mountain to pray , and all night he continued in prayer to God .</v>
+			<marker class="begin-verse" mid="v42006013">
+			</marker>
+			<v n="13">And when day came ,<crossref let="k" cid="c42006013.1" />he called his disciples<crossref let="l" cid="c42006013.2" />and<crossref let="m" cid="c42006013.3" />chose from them twelve , whom he named<crossref let="n" cid="c42006013.4" />apostles :</v>
+			<marker class="begin-verse" mid="v42006014">
+			</marker>
+			<v n="14">Simon ,<crossref let="o" cid="c42006014.1" />whom he named Peter , and<crossref let="p" cid="c42006014.2" />Andrew his brother , and<crossref let="p" cid="c42006014.2" />James and John , and Philip , and Bartholomew ,</v>
+			<marker class="begin-verse" mid="v42006015">
+			</marker>
+			<v n="15">and<crossref let="q" cid="c42006015.1" />Matthew , and Thomas , and James the son of Alphaeus , and Simon who was called<crossref let="r" cid="c42006015.2" />the Zealot ,</v>
+			<marker class="begin-verse" mid="v42006016">
+			</marker>
+			<v n="16">and<crossref let="s" cid="c42006016.1" />Judas the son of James , and Judas Iscariot , who became a traitor .</v>
+			<marker class="begin-verse" mid="v42006017">
+			</marker>
+			<v n="17">And<crossref let="t" cid="c42006017.1" />he came down with them and stood on a level place , with<crossref let="u" cid="c42006017.2" />a great crowd of his disciples and a great multitude of people from all Judea and Jerusalem and the seacoast of<crossref let="v" cid="c42006017.3" />Tyre and Sidon ,</v>
+			<marker class="begin-verse" mid="v42006018">
+			</marker>
+			<v n="18">who came to hear him and to be healed of their diseases .<crossref let="w" cid="c42006018.1" />And those who were troubled with unclean spirits were cured .</v>
+			<marker class="begin-verse" mid="v42006019">
+			</marker>
+			<v n="19">And all the crowd<crossref let="x" cid="c42006019.1" />sought to touch him , for<crossref let="y" cid="c42006019.2" />power came out from him and healed them all .</v>
+			<marker class="begin-verse" mid="v42006020">
+			</marker>
+			<v n="20">
+				<woc>“ Blessed are you who are poor , for</woc>
+				<crossref let="b" cid="c42006020.2" />
+				<woc>yours is the kingdom of God .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006021">
+			</marker>
+			<v n="21">
+				<crossref let="d" cid="c42006021.2" />
+				<woc>“ Blessed are you who weep now , for you shall laugh .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006022">
+			</marker>
+			<v n="22">
+				<woc>“ Blessed are you when</woc>
+				<crossref let="e" cid="c42006022.1" />
+				<woc>people hate you and when they</woc>
+				<crossref let="f" cid="c42006022.2" />
+				<woc>exclude you and revile you and</woc>
+				<crossref let="g" cid="c42006022.3" />
+				<woc>spurn your name as evil ,</woc>
+				<crossref let="h" cid="c42006022.4" />
+				<woc>on account of the Son of Man !</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006023">
+			</marker>
+			<v n="23">
+				<crossref let="i" cid="c42006023.1" />
+				<woc>Rejoice in that day , and leap for joy , for behold , your reward is great in heaven ; for</woc>
+				<crossref let="j" cid="c42006023.2" />
+				<woc>so their fathers did to the prophets .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006024">
+			</marker>
+			<v n="24">
+				<crossref let="k" cid="c42006024.1" />
+				<woc>“ But woe to you who are rich ,</woc>
+				<crossref let="l" cid="c42006024.2" />
+				<woc>for you</woc>
+				<crossref let="m" cid="c42006024.3" />
+				<woc>have received your consolation .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006025">
+			</marker>
+			<v n="25">
+				<woc>“ Woe to</woc>
+				<crossref let="o" cid="c42006025.2" />
+				<woc>you who laugh now ,</woc>
+				<crossref let="o" cid="c42006025.2" />
+				<woc>for you shall mourn and weep .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006026">
+			</marker>
+			<v n="26">
+				<woc>“ Woe to you ,</woc>
+				<crossref let="p" cid="c42006026.1" />
+				<woc>when all people speak well of you , for</woc>
+				<crossref let="q" cid="c42006026.2" />
+				<woc>so their fathers did to</woc>
+				<crossref let="r" cid="c42006026.3" />
+				<woc>the false prophets .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006027">
+			</marker>
+			<v n="27">
+				<woc>“ But I say to you who hear ,</woc>
+				<crossref let="s" cid="c42006027.1" />
+				<woc>Love your enemies ,</woc>
+				<crossref let="t" cid="c42006027.2" />
+				<woc>do good to those who hate you ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006028">
+			</marker>
+			<v n="28">
+				<crossref let="u" cid="c42006028.2" />
+				<woc>bless those who curse you ,</woc>
+				<crossref let="s" cid="c42006028.1" />
+				<woc>pray for those who abuse you .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006029">
+			</marker>
+			<v n="29">
+				<crossref let="v" cid="c42006029.1" />
+				<woc>To one who</woc>
+				<crossref let="w" cid="c42006029.2" />
+				<woc>strikes you on the cheek , offer the other also , and from one who takes away your cloak do not withhold your tunic either .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006030">
+			</marker>
+			<v n="30">
+				<crossref let="x" cid="c42006030.1" />
+				<woc>Give to everyone who begs from you , and from one who takes away your goods do not demand them back .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006031">
+			</marker>
+			<v n="31">
+				<woc>And</woc>
+				<crossref let="y" cid="c42006031.1" />
+				<woc>as you wish that others would do to you , do so to them .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006032">
+			</marker>
+			<v n="32">
+				<crossref let="z" cid="c42006032.1" />
+				<woc>“ If you love those who love you , what benefit is that to you ? For even sinners love those who love them .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006033">
+			</marker>
+			<v n="33">
+				<woc>And if you do good to those who do good to you , what benefit is that to you ? For even sinners do the same .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006034">
+			</marker>
+			<v n="34">
+				<woc>And</woc>
+				<crossref let="a" cid="c42006034.1" />
+				<woc>if you</woc>
+				<crossref let="b" cid="c42006034.2" />
+				<woc>lend to those from whom you expect to receive , what credit is that to you ? Even sinners lend to sinners , to get back the same amount .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006035">
+			</marker>
+			<v n="35">
+				<woc>But</woc>
+				<crossref let="c" cid="c42006035.1" />
+				<woc>love your enemies , and do good , and lend , expecting nothing in return , and your reward will be great , and</woc>
+				<crossref let="d" cid="c42006035.2" />
+				<woc>you will be sons of</woc>
+				<crossref let="e" cid="c42006035.3" />
+				<woc>the Most High , for</woc>
+				<crossref let="f" cid="c42006035.4" />
+				<woc>he is kind to the ungrateful and the evil .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006036">
+			</marker>
+			<v n="36">
+				<crossref let="g" cid="c42006036.1" />
+				<woc>Be merciful , even as</woc>
+				<crossref let="h" cid="c42006036.2" />
+				<woc>your Father is merciful .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006037">
+			</marker>
+			<v n="37">
+				<crossref let="i" cid="c42006037.1" />
+				<crossref let="j" cid="c42006037.2" />
+				<woc>“ Judge not , and you will not be judged ; condemn not , and you will not be condemned ;</woc>
+				<crossref let="j" cid="c42006037.2" />
+				<woc>forgive , and you will be forgiven ;</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006038">
+			</marker>
+			<v n="38">
+				<crossref let="k" cid="c42006038.1" />
+				<woc>give , and it will be given to you . Good measure , pressed down , shaken together , running over , will be put</woc>
+				<crossref let="l" cid="c42006038.2" />
+				<woc>into your lap . For</woc>
+				<crossref let="m" cid="c42006038.3" />
+				<woc>with the measure you use it will be measured back to you . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006039">
+			</marker>
+			<v n="39">He also told them a parable :<crossref let="n" cid="c42006039.1" />
+				<woc>“ Can a blind man lead a blind man ? Will they not both fall into a pit ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006040">
+			</marker>
+			<v n="40">
+				<crossref let="o" cid="c42006040.1" />
+				<woc>A disciple is not above his teacher , but everyone when he is</woc>
+				<crossref let="p" cid="c42006040.2" />
+				<woc>fully trained will be like his teacher .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006041">
+			</marker>
+			<v n="41">
+				<crossref let="i" cid="c42006041.1" />
+				<woc>Why do you see the speck that is in your brother’s eye , but</woc>
+				<crossref let="q" cid="c42006041.2" />
+				<woc>do not notice the log that is in your own eye ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006042">
+			</marker>
+			<v n="42">
+				<woc>How can you say to your brother , ‘ Brother , let me take out the speck that is in your eye , ’ when you yourself do not see the log that is in your own eye ? You hypocrite , first take the log out of your own eye , and then you will see clearly to take out the speck that is in your brother’s eye .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006043">
+			</marker>
+			<v n="43">
+				<woc>“ For</woc>
+				<crossref let="r" cid="c42006043.1" />
+				<woc>no good tree bears bad fruit , nor again does a bad tree bear good fruit ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006044">
+			</marker>
+			<v n="44">
+				<woc>for</woc>
+				<crossref let="s" cid="c42006044.1" />
+				<woc>each tree is known by its own fruit . For figs are not gathered from thornbushes , nor are grapes picked from a bramble bush .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006045">
+			</marker>
+			<v n="45">
+				<crossref let="t" cid="c42006045.1" />
+				<woc>The good person out of the good treasure of his heart produces good , and the evil person out of his evil treasure produces</woc>
+				<crossref let="u" cid="c42006045.2" />
+				<woc>evil ,</woc>
+				<crossref let="v" cid="c42006045.3" />
+				<woc>for out of the abundance of the heart his mouth speaks .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006046">
+			</marker>
+			<v n="46">
+				<crossref let="w" cid="c42006046.1" />
+				<woc>“ Why</woc>
+				<crossref let="x" cid="c42006046.2" />
+				<woc>do you call me ‘ Lord , Lord , ’ and not do what I tell you ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006047">
+			</marker>
+			<v n="47">
+				<crossref let="y" cid="c42006047.1" />
+				<woc>Everyone who comes to me and hears my words and does them , I will show you what he is like :</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006048">
+			</marker>
+			<v n="48">
+				<woc>he is like a man building a house , who dug deep and laid the foundation on the rock . And when a flood arose , the stream broke against that house and could not shake it , because it had been well built .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006049">
+			</marker>
+			<v n="49">
+				<crossref let="z" cid="c42006049.2" />
+				<woc>But the one who hears and does not do them is like a man who built a house on the ground without a foundation . When the stream broke against it , immediately it fell , and</woc>
+				<crossref let="a" cid="c42006049.1" />
+				<woc>the ruin of that house was great . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42006050">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

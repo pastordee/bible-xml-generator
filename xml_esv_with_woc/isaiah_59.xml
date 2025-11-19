@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:54:47.740531</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:54:47.740540</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23059001">
+		</marker>
+		<chapter num="59">
+			<heading>
+				Isaiah 59
+			</heading>
+			<heading>
+				Evil and Oppression
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">or his ear dull, that it cannot hear;</v>
+			<marker class="begin-verse" mid="v23059002">
+			</marker>
+			<v n="2">so that he does not hear.</v>
+			<marker class="begin-verse" mid="v23059003">
+			</marker>
+			<v n="3">your tongue mutters wickedness.</v>
+			<marker class="begin-verse" mid="v23059004">
+			</marker>
+			<v n="4">
+				<crossref let="e" cid="c23059004.1" />they conceive mischief and give birth to iniquity.</v>
+			<marker class="begin-verse" mid="v23059005">
+			</marker>
+			<v n="5">and from one that is crushed a viper is hatched.</v>
+			<marker class="begin-verse" mid="v23059006">
+			</marker>
+			<v n="6">and deeds of violence are in their hands.</v>
+			<marker class="begin-verse" mid="v23059007">
+			</marker>
+			<v n="7">desolation and destruction are in their highways.</v>
+			<marker class="begin-verse" mid="v23059008">
+			</marker>
+			<v n="8">no one who treads on them knows peace.</v>
+			<marker class="begin-verse" mid="v23059009">
+			</marker>
+			<v n="9">and for brightness, but we walk in gloom.</v>
+			<marker class="begin-verse" mid="v23059010">
+			</marker>
+			<v n="10">
+				<crossref let="k" cid="c23059010.1" />among those in full vigor we are like dead men.</v>
+			<marker class="begin-verse" mid="v23059011">
+			</marker>
+			<v n="11">for salvation, but it is far from us.</v>
+			<marker class="begin-verse" mid="v23059012">
+			</marker>
+			<v n="12">and we know our iniquities:</v>
+			<marker class="begin-verse" mid="v23059013">
+			</marker>
+			<v n="13">conceiving and uttering from the heart lying words.</v>
+			<marker class="begin-verse" mid="v23059014">
+			</marker>
+			<v n="14">and uprightness cannot enter.</v>
+			<marker class="begin-verse" mid="v23059015">
+			</marker>
+			<v n="15">that there was no justice.</v>
+			<marker class="begin-verse" mid="v23059016">
+			</marker>
+			<v n="16">and his righteousness upheld him.</v>
+			<marker class="begin-verse" mid="v23059017">
+			</marker>
+			<v n="17">and wrapped himself in<crossref let="r" cid="c23059017.1" />zeal as a cloak.</v>
+			<marker class="begin-verse" mid="v23059018">
+			</marker>
+			<v n="18">
+				<crossref let="t" cid="c23059018.1" />to the coastlands he will render repayment.</v>
+			<marker class="begin-verse" mid="v23059019">
+			</marker>
+			<v n="19">which the wind of the Lord drives.</v>
+			<marker class="begin-verse" mid="v23059020">
+			</marker>
+			<v n="20">to those in Jacob who turn from transgression,” declares the Lord .</v>
+			<marker class="begin-verse" mid="v23059021">
+			</marker>
+			<v n="21">“And as for me, this is my covenant with them,” says the Lord : “My Spirit that is upon you,<crossref let="z" cid="c23059021.2" />and my words that I have put in your mouth, shall not depart out of your mouth, or out of the mouth of your offspring, or out of the mouth of your children's offspring,” says the Lord , “from this time forth and forevermore.”</v>
+			<marker class="begin-verse" mid="v23059022">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">59:15 Hebrew *and it was evil in his eyes*</footnote>
+				<footnote id="2">59:19 Hebrew *a narrow river*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

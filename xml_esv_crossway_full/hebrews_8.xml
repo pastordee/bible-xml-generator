@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:48.192407</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:48.192414</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" bookAbbr="heb" version="ESV">
+		<marker class="begin-verse" mid="v58008001">
+		</marker>
+		<chapter num="8">
+			<heading>
+				Hebrews 8
+			</heading>
+			<heading>
+				Jesus, High Priest of a Better Covenant
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Now the point in what we are saying is this : we have such a high priest ,<crossref let="u" cid="c58008001.1" />one who is seated at the right hand of the throne of the Majesty in heaven ,</v>
+			<marker class="begin-verse" mid="v58008002">
+			</marker>
+			<v n="2">a minister in the holy places , in<crossref let="v" cid="c58008002.1" />the true tent that the Lord<crossref let="w" cid="c58008002.2" />set up , not man .</v>
+			<marker class="begin-verse" mid="v58008003">
+			</marker>
+			<v n="3">For<crossref let="x" cid="c58008003.1" />every high priest is appointed to offer gifts and sacrifices ; thus<crossref let="y" cid="c58008003.2" />it is necessary for this priest also to have something to offer .</v>
+			<marker class="begin-verse" mid="v58008004">
+			</marker>
+			<v n="4">Now if he were on earth , he would not be a priest at all , since there are priests who offer gifts according to the law .</v>
+			<marker class="begin-verse" mid="v58008005">
+			</marker>
+			<v n="5">They serve<crossref let="z" cid="c58008005.3" />a copy and<crossref let="a" cid="c58008005.1" />shadow of the heavenly things . For when Moses was about to erect the tent , he was instructed by God , saying ,<crossref let="b" cid="c58008005.2" />“ See that you make everything according to the pattern that was shown you on the mountain . ”</v>
+			<marker class="begin-verse" mid="v58008006">
+			</marker>
+			<v n="6">But as it is , Christ has obtained a ministry that is<crossref let="c" cid="c58008006.1" />as much more excellent than the old as<crossref let="d" cid="c58008006.2" />the covenant<crossref let="e" cid="c58008006.3" />he mediates is better , since it is enacted on better promises .</v>
+			<marker class="begin-verse" mid="v58008007">
+			</marker>
+			<v n="7">
+				<crossref let="f" cid="c58008007.1" />For if that first covenant had been faultless , there would have been no occasion to look for a second .</v>
+			<marker class="begin-verse" mid="v58008008">
+			</marker>
+			<v n="8">and with the house of Judah ,</v>
+			<marker class="begin-verse" mid="v58008009">
+			</marker>
+			<v n="9">and so I showed no concern for them , declares the Lord .</v>
+			<marker class="begin-verse" mid="v58008010">
+			</marker>
+			<v n="10">and they shall be my people .</v>
+			<marker class="begin-verse" mid="v58008011">
+			</marker>
+			<v n="11">from the least of them to the greatest .</v>
+			<marker class="begin-verse" mid="v58008012">
+			</marker>
+			<v n="12">
+				<crossref let="k" cid="c58008012.1" />and I will remember their sins no more . ”</v>
+			<marker class="begin-verse" mid="v58008013">
+			</marker>
+			<v n="13">In speaking of a new covenant , he makes the first one obsolete . And<crossref let="l" cid="c58008013.1" />what is becoming obsolete and growing old is ready to vanish away .</v>
+			<marker class="begin-verse" mid="v58008014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">8:2 Or *tabernacle*; also verse 5</footnote>
+				<footnote id="2">8:6 Greek *he*</footnote>
+				<footnote id="3">8:8 Some manuscripts *For finding fault with it he says to them*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

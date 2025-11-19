@@ -1,0 +1,125 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:41.919807</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:41.919826</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40028001">
+		</marker>
+		<chapter num="28">
+			<heading>
+				Matthew 28
+			</heading>
+			<heading>
+				The Resurrection
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="m" cid="c40028001.1" />Now after the Sabbath , toward the dawn of the first day of the week , Mary Magdalene and<crossref let="n" cid="c40028001.2" />the other Mary went to see the tomb .</v>
+			<marker class="begin-verse" mid="v40028002">
+			</marker>
+			<v n="2">And behold , there was a great earthquake , for<crossref let="o" cid="c40028002.1" />an angel of the Lord descended from heaven and came and rolled back the stone and sat on it .</v>
+			<marker class="begin-verse" mid="v40028003">
+			</marker>
+			<v n="3">
+				<crossref let="p" cid="c40028003.1" />His appearance was like lightning , and<crossref let="q" cid="c40028003.2" />his clothing white as snow .</v>
+			<marker class="begin-verse" mid="v40028004">
+			</marker>
+			<v n="4">And for fear of him the guards trembled and<crossref let="r" cid="c40028004.1" />became like dead men .</v>
+			<marker class="begin-verse" mid="v40028005">
+			</marker>
+			<v n="5">But the angel said to the women , “ Do not be afraid , for I know that you seek Jesus who was crucified .</v>
+			<marker class="begin-verse" mid="v40028006">
+			</marker>
+			<v n="6">He is not here , for he has risen ,<crossref let="s" cid="c40028006.1" />as he said . Come , see the place where he lay .</v>
+			<marker class="begin-verse" mid="v40028007">
+			</marker>
+			<v n="7">Then go quickly and tell his disciples that he has risen from the dead , and behold ,<crossref let="t" cid="c40028007.1" />he is going before you to Galilee ; there you will see him . See , I have told you . ”</v>
+			<marker class="begin-verse" mid="v40028008">
+			</marker>
+			<v n="8">So they departed quickly from the tomb<crossref let="u" cid="c40028008.1" />with fear and great joy , and ran to tell his disciples .</v>
+			<marker class="begin-verse" mid="v40028009">
+			</marker>
+			<v n="9">And behold , Jesus<crossref let="v" cid="c40028009.1" />met them and said , And they came up and<woc>“ Greetings ! ”</woc>
+				<crossref let="w" cid="c40028009.2" />took hold of his feet and<crossref let="x" cid="c40028009.3" />worshiped him .</v>
+			<marker class="begin-verse" mid="v40028010">
+			</marker>
+			<v n="10">Then Jesus said to them ,<woc>“ Do not be afraid ;</woc>
+				<crossref let="y" cid="c40028010.1" />
+				<woc>go and tell</woc>
+				<crossref let="z" cid="c40028010.2" />
+				<woc>my brothers to go to Galilee , and there they will see me . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40028011">
+			</marker>
+			<v n="11">While they were going , behold , some of<crossref let="a" cid="c40028011.1" />the guard went into the city and told the chief priests all that had taken place .</v>
+			<marker class="begin-verse" mid="v40028012">
+			</marker>
+			<v n="12">And when they had assembled with the elders and taken counsel , they gave a sufficient sum of money to the soldiers</v>
+			<marker class="begin-verse" mid="v40028013">
+			</marker>
+			<v n="13">and said , “ Tell people ,<crossref let="b" cid="c40028013.1" />‘ His disciples came by night and stole him away while we were asleep . ’</v>
+			<marker class="begin-verse" mid="v40028014">
+			</marker>
+			<v n="14">And if this comes to<crossref let="c" cid="c40028014.1" />the governor’s ears , we will<crossref let="d" cid="c40028014.2" />satisfy him and keep you out of trouble . ”</v>
+			<marker class="begin-verse" mid="v40028015">
+			</marker>
+			<v n="15">So they took the money and did as they were directed . And this story has been spread among the Jews<crossref let="e" cid="c40028015.1" />to this day .</v>
+			<marker class="begin-verse" mid="v40028016">
+			</marker>
+			<v n="16">Now the eleven disciples<crossref let="f" cid="c40028016.1" />went to Galilee , to the mountain to which Jesus had directed them .</v>
+			<marker class="begin-verse" mid="v40028017">
+			</marker>
+			<v n="17">And when they saw him they<crossref let="g" cid="c40028017.1" />worshiped him , but some doubted .</v>
+			<marker class="begin-verse" mid="v40028018">
+			</marker>
+			<v n="18">And Jesus came and said to them ,<crossref let="h" cid="c40028018.1" />
+				<woc>“ All authority</woc>
+				<crossref let="i" cid="c40028018.2" />
+				<woc>in heaven and on earth has been given to me .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40028019">
+			</marker>
+			<v n="19">
+				<crossref let="j" cid="c40028019.1" />
+				<woc>Go therefore and</woc>
+				<crossref let="k" cid="c40028019.2" />
+				<woc>make disciples of</woc>
+				<crossref let="l" cid="c40028019.3" />
+				<woc>all nations ,</woc>
+				<crossref let="j" cid="c40028019.1" />
+				<woc>baptizing them</woc>
+				<crossref let="m" cid="c40028019.4" />
+				<woc>in</woc>
+				<crossref let="n" cid="c40028019.5" />
+				<woc>the name of the Father and of the Son and of the Holy Spirit ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40028020">
+			</marker>
+			<v n="20">
+				<woc>teaching them</woc>
+				<crossref let="o" cid="c40028020.1" />
+				<woc>to observe all that</woc>
+				<crossref let="p" cid="c40028020.2" />
+				<woc>I have commanded you . And behold ,</woc>
+				<crossref let="q" cid="c40028020.3" />
+				<woc>I am with you always , to</woc>
+				<crossref let="r" cid="c40028020.4" />
+				<woc>the end of the age . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40028021">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

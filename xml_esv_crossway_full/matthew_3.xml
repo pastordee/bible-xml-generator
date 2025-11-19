@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:05.110290</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:05.110314</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Matthew 3
+			</heading>
+			<heading>
+				John the Baptist Prepares the Way
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="h" cid="c40003001.1" />In those days<crossref let="i" cid="c40003001.2" />John the Baptist came preaching in<crossref let="j" cid="c40003001.3" />the wilderness of Judea ,</v>
+			<marker class="begin-verse" mid="v40003002">
+			</marker>
+			<v n="2">
+				<crossref let="k" cid="c40003002.1" />“ Repent , for<crossref let="l" cid="c40003002.2" />the kingdom of heaven is at hand . ”</v>
+			<marker class="begin-verse" mid="v40003003">
+			</marker>
+			<v n="3">make his paths straight . ’ ”</v>
+			<marker class="begin-verse" mid="v40003004">
+			</marker>
+			<v n="4">Now John wore<crossref let="o" cid="c40003004.1" />a garment of camel’s hair and a leather belt around his waist , and his food was<crossref let="p" cid="c40003004.2" />locusts and<crossref let="q" cid="c40003004.3" />wild honey .</v>
+			<marker class="begin-verse" mid="v40003005">
+			</marker>
+			<v n="5">Then Jerusalem and all Judea and all the region about the Jordan were going out to him ,</v>
+			<marker class="begin-verse" mid="v40003006">
+			</marker>
+			<v n="6">and they were baptized by him in the river Jordan ,<crossref let="r" cid="c40003006.1" />confessing their sins .</v>
+			<marker class="begin-verse" mid="v40003007">
+			</marker>
+			<v n="7">But when he saw many of<crossref let="s" cid="c40003007.1" />the Pharisees and<crossref let="t" cid="c40003007.2" />Sadducees coming to his baptism , he said to them ,<crossref let="u" cid="c40003007.3" />“ You brood of<crossref let="v" cid="c40003007.4" />vipers ! Who warned you to flee from<crossref let="w" cid="c40003007.5" />the wrath to come ?</v>
+			<marker class="begin-verse" mid="v40003008">
+			</marker>
+			<v n="8">Bear fruit<crossref let="x" cid="c40003008.1" />in keeping with repentance .</v>
+			<marker class="begin-verse" mid="v40003009">
+			</marker>
+			<v n="9">And do not presume to say to yourselves ,<crossref let="y" cid="c40003009.1" />‘ We have Abraham as our father , ’ for I tell you , God is able from<crossref let="z" cid="c40003009.2" />these stones to raise up children for Abraham .</v>
+			<marker class="begin-verse" mid="v40003010">
+			</marker>
+			<v n="10">Even now the axe is laid to the root of the trees .<crossref let="a" cid="c40003010.1" />Every tree therefore that does not bear good fruit is cut down and thrown into the fire .</v>
+			<marker class="begin-verse" mid="v40003011">
+			</marker>
+			<v n="11">
+				<crossref let="b" cid="c40003011.1" />“ I baptize you with water<crossref let="c" cid="c40003011.2" />for repentance , but<crossref let="d" cid="c40003011.3" />he who is coming after me is mightier than I , whose sandals I am not worthy to carry . He will baptize you<crossref let="e" cid="c40003011.4" />with the Holy Spirit and<crossref let="f" cid="c40003011.5" />fire .</v>
+			<marker class="begin-verse" mid="v40003012">
+			</marker>
+			<v n="12">His<crossref let="g" cid="c40003012.1" />winnowing fork is in his hand , and he will clear his threshing floor and<crossref let="h" cid="c40003012.2" />gather his wheat into the barn ,<crossref let="i" cid="c40003012.3" />but the chaff he will burn with<crossref let="j" cid="c40003012.4" />unquenchable fire . ”</v>
+			<marker class="begin-verse" mid="v40003013">
+			</marker>
+			<v n="13">
+				<crossref let="k" cid="c40003013.1" />Then Jesus came<crossref let="l" cid="c40003013.2" />from Galilee to the Jordan to John , to be baptized by him .</v>
+			<marker class="begin-verse" mid="v40003014">
+			</marker>
+			<v n="14">
+				<crossref let="m" cid="c40003014.1" />John would have prevented him , saying , “ I need to be baptized by you , and do you come to me ? ”</v>
+			<marker class="begin-verse" mid="v40003015">
+			</marker>
+			<v n="15">Then he consented .<woc>“ Let it be so now , for thus it is fitting for us to fulfill all righteousness . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40003016">
+			</marker>
+			<v n="16">And when Jesus was baptized , immediately he went up from the water , and behold ,<crossref let="o" cid="c40003016.1" />the heavens were opened to him , and he<crossref let="p" cid="c40003016.2" />saw the Spirit of God descending like a dove and coming to rest on him ;</v>
+			<marker class="begin-verse" mid="v40003017">
+			</marker>
+			<v n="17">and behold ,<crossref let="q" cid="c40003017.1" />a voice from heaven said ,<crossref let="r" cid="c40003017.2" />“ This is my beloved Son , with whom I am well pleased . ”</v>
+			<marker class="begin-verse" mid="v40003018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

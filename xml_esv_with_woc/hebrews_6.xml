@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:45.256152</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:45.256160</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" bookAbbr="heb" version="ESV">
+		<marker class="begin-verse" mid="v58006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Hebrews 6
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">from dead works and of faith toward God,</v>
+			<marker class="begin-verse" mid="v58006002">
+			</marker>
+			<v n="2">eternal judgment.</v>
+			<marker class="begin-verse" mid="v58006003">
+			</marker>
+			<v n="3">if God permits.</v>
+			<marker class="begin-verse" mid="v58006004">
+			</marker>
+			<v n="4">have shared in the Holy Spirit,</v>
+			<marker class="begin-verse" mid="v58006005">
+			</marker>
+			<v n="5">have tasted the goodness of the word of God and the powers of the age to come,</v>
+			<marker class="begin-verse" mid="v58006006">
+			</marker>
+			<v n="6">they are crucifying once again the Son of God to their own harm and holding him up to contempt.</v>
+			<marker class="begin-verse" mid="v58006007">
+			</marker>
+			<v n="7">land that has drunk the rain that often falls on it, and produces a crop useful to those for whose sake it is cultivated, receives a blessing from God.</v>
+			<marker class="begin-verse" mid="v58006008">
+			</marker>
+			<v n="8">and its end is to be burned.</v>
+			<marker class="begin-verse" mid="v58006009">
+			</marker>
+			<v n="9">Though we speak in this way, yet in your case, beloved, we feel sure of better things—things that belong to salvation.</v>
+			<marker class="begin-verse" mid="v58006010">
+			</marker>
+			<v n="10">serving the saints, as you still do.</v>
+			<marker class="begin-verse" mid="v58006011">
+			</marker>
+			<v n="11">of hope until the end,</v>
+			<marker class="begin-verse" mid="v58006012">
+			</marker>
+			<v n="12">imitators of those who through faith and patience inherit the promises.</v>
+			<marker class="begin-verse" mid="v58006013">
+			</marker>
+			<v n="13">he swore by himself,</v>
+			<marker class="begin-verse" mid="v58006014">
+			</marker>
+			<v n="14">“Surely I will bless you and multiply you.”</v>
+			<marker class="begin-verse" mid="v58006015">
+			</marker>
+			<v n="15">having patiently waited, obtained the promise.</v>
+			<marker class="begin-verse" mid="v58006016">
+			</marker>
+			<v n="16">an oath is final for confirmation.</v>
+			<marker class="begin-verse" mid="v58006017">
+			</marker>
+			<v n="17">he guaranteed it with an oath,</v>
+			<marker class="begin-verse" mid="v58006018">
+			</marker>
+			<v n="18">set before us.</v>
+			<marker class="begin-verse" mid="v58006019">
+			</marker>
+			<v n="19">the inner place behind the curtain,</v>
+			<marker class="begin-verse" mid="v58006020">
+			</marker>
+			<v n="20">having become a high priest forever after the order of Melchizedek.</v>
+			<marker class="begin-verse" mid="v58006021">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">6:2 Or *baptisms* (that is, cleansing rites)</footnote>
+				<footnote id="2">6:15 Greek *he*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

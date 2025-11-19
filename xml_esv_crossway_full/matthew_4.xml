@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:06.561544</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:06.561565</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				Matthew 4
+			</heading>
+			<heading>
+				The Temptation of Jesus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="s" cid="c40004001.1" />Then Jesus was led up by the Spirit into the wilderness<crossref let="t" cid="c40004001.2" />to be tempted by the devil .</v>
+			<marker class="begin-verse" mid="v40004002">
+			</marker>
+			<v n="2">And after fasting<crossref let="u" cid="c40004002.1" />forty days and forty nights , he<crossref let="v" cid="c40004002.2" />was hungry .</v>
+			<marker class="begin-verse" mid="v40004003">
+			</marker>
+			<v n="3">And<crossref let="w" cid="c40004003.1" />the tempter came and said to him , “ If you are<crossref let="x" cid="c40004003.2" />the Son of God , command<crossref let="y" cid="c40004003.3" />these stones to become loaves of bread . ”</v>
+			<marker class="begin-verse" mid="v40004004">
+			</marker>
+			<v n="4">
+				<woc>but by every word that comes from the mouth of God . ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40004005">
+			</marker>
+			<v n="5">
+				<crossref let="b" cid="c40004005.1" />Then the devil took him to<crossref let="c" cid="c40004005.2" />the holy city and set him on the pinnacle of the temple</v>
+			<marker class="begin-verse" mid="v40004006">
+			</marker>
+			<v n="6">lest you strike your foot against a stone . ’ ”</v>
+			<marker class="begin-verse" mid="v40004007">
+			</marker>
+			<v n="7">Jesus said to him ,<woc>“ Again</woc>
+				<crossref let="e" cid="c40004007.1" />
+				<woc>it is written ,</woc>
+				<crossref let="f" cid="c40004007.2" />
+				<woc>‘ You shall not</woc>
+				<crossref let="g" cid="c40004007.3" />
+				<woc>put the Lord your God to the test . ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40004008">
+			</marker>
+			<v n="8">
+				<crossref let="h" cid="c40004008.1" />Again , the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory .</v>
+			<marker class="begin-verse" mid="v40004009">
+			</marker>
+			<v n="9">And he said to him , “ All these I will give you , if you will fall down and worship me . ”</v>
+			<marker class="begin-verse" mid="v40004010">
+			</marker>
+			<v n="10">
+				<woc>and</woc>
+				<crossref let="l" cid="c40004010.4" />
+				<woc>him only shall you serve . ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40004011">
+			</marker>
+			<v n="11">Then the devil left him , and behold ,<crossref let="m" cid="c40004011.1" />angels came and were ministering to him .</v>
+			<marker class="begin-verse" mid="v40004012">
+			</marker>
+			<v n="12">Now when he heard that<crossref let="n" cid="c40004012.1" />John had been arrested ,<crossref let="o" cid="c40004012.2" />he withdrew into Galilee .</v>
+			<marker class="begin-verse" mid="v40004013">
+			</marker>
+			<v n="13">And leaving<crossref let="p" cid="c40004013.1" />Nazareth he went and lived in<crossref let="q" cid="c40004013.2" />Capernaum by<crossref let="r" cid="c40004013.3" />the sea , in the territory of<crossref let="s" cid="c40004013.4" />Zebulun and Naphtali ,</v>
+			<marker class="begin-verse" mid="v40004014">
+			</marker>
+			<v n="14">
+				<crossref let="t" cid="c40004014.1" />so that what was spoken by the prophet Isaiah might be fulfilled :</v>
+			<marker class="begin-verse" mid="v40004015">
+			</marker>
+			<v n="15">the way of the sea , beyond the Jordan , Galilee of the Gentiles —</v>
+			<marker class="begin-verse" mid="v40004016">
+			</marker>
+			<v n="16">on them a light has dawned . ”</v>
+			<marker class="begin-verse" mid="v40004017">
+			</marker>
+			<v n="17">
+				<crossref let="x" cid="c40004017.1" />From that time Jesus began to preach , saying ,<crossref let="z" cid="c40004017.2" />
+				<woc>“ Repent , for the kingdom of heaven is at hand . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40004018">
+			</marker>
+			<v n="18">
+				<crossref let="a" cid="c40004018.1" />While walking by<crossref let="b" cid="c40004018.2" />the Sea of Galilee , he saw two brothers , Simon ( who is called Peter ) and Andrew his brother , casting a net into the sea , for they were fishermen .</v>
+			<marker class="begin-verse" mid="v40004019">
+			</marker>
+			<v n="19">And he said to them ,<woc>“ Follow me , and I will make you</woc>
+				<crossref let="c" cid="c40004019.1" />
+				<woc>fishers of men . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40004020">
+			</marker>
+			<v n="20">Immediately they left their nets and followed him .</v>
+			<marker class="begin-verse" mid="v40004021">
+			</marker>
+			<v n="21">And going on from there he saw two other brothers , James the son of Zebedee and John his brother , in the boat with Zebedee their father , mending their nets , and he called them .</v>
+			<marker class="begin-verse" mid="v40004022">
+			</marker>
+			<v n="22">Immediately they left the boat and their father and followed him .</v>
+			<marker class="begin-verse" mid="v40004023">
+			</marker>
+			<v n="23">
+				<crossref let="d" cid="c40004023.1" />And he went throughout all Galilee ,<crossref let="e" cid="c40004023.2" />teaching in their synagogues and<crossref let="f" cid="c40004023.3" />proclaiming the gospel of the kingdom and<crossref let="g" cid="c40004023.4" />healing every disease and every affliction among the people .</v>
+			<marker class="begin-verse" mid="v40004024">
+			</marker>
+			<v n="24">So his fame spread throughout all<crossref let="h" cid="c40004024.2" />Syria , and<crossref let="g" cid="c40004024.1" />they brought him all the sick , those afflicted with various diseases and<crossref let="i" cid="c40004024.3" />pains ,<crossref let="j" cid="c40004024.4" />those oppressed by demons ,<crossref let="k" cid="c40004024.5" />those having seizures , and<crossref let="l" cid="c40004024.6" />paralytics , and he healed them .</v>
+			<marker class="begin-verse" mid="v40004025">
+			</marker>
+			<v n="25">
+				<crossref let="m" cid="c40004025.1" />And great crowds followed him from Galilee and the<crossref let="n" cid="c40004025.2" />Decapolis , and from Jerusalem and Judea , and from beyond the Jordan .</v>
+			<marker class="begin-verse" mid="v40004026">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,284 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:33.390510</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:33.390521</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42019001">
+		</marker>
+		<chapter num="19">
+			<heading>
+				Luke 19
+			</heading>
+			<heading>
+				Jesus and Zacchaeus
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="c" cid="c42019001.1" />He entered Jericho and was passing through .</v>
+			<marker class="begin-verse" mid="v42019002">
+			</marker>
+			<v n="2">And behold , there was a man named Zacchaeus . He was a chief tax collector and was rich .</v>
+			<marker class="begin-verse" mid="v42019003">
+			</marker>
+			<v n="3">And<crossref let="d" cid="c42019003.1" />he was seeking to see who Jesus was , but on account of the crowd he could not , because he was small in stature .</v>
+			<marker class="begin-verse" mid="v42019004">
+			</marker>
+			<v n="4">So he ran on ahead and climbed up into<crossref let="e" cid="c42019004.1" />a sycamore tree to see him , for he was about to pass that way .</v>
+			<marker class="begin-verse" mid="v42019005">
+			</marker>
+			<v n="5">And when Jesus came to the place , he looked up and said to him ,<woc>“ Zacchaeus , hurry and come down , for</woc>
+				<crossref let="f" cid="c42019005.1" />
+				<woc>I must stay at your house today . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019006">
+			</marker>
+			<v n="6">So he hurried and came down and<crossref let="g" cid="c42019006.1" />received him joyfully .</v>
+			<marker class="begin-verse" mid="v42019007">
+			</marker>
+			<v n="7">And when they saw it , they all<crossref let="h" cid="c42019007.1" />grumbled , “ He has gone in to be the guest of a man who is a sinner . ”</v>
+			<marker class="begin-verse" mid="v42019008">
+			</marker>
+			<v n="8">And Zacchaeus stood and said to the Lord , “ Behold , Lord , the half of my goods<crossref let="i" cid="c42019008.1" />I give to the poor . And if I have<crossref let="j" cid="c42019008.2" />defrauded anyone of anything , I restore it<crossref let="k" cid="c42019008.3" />fourfold . ”</v>
+			<marker class="begin-verse" mid="v42019009">
+			</marker>
+			<v n="9">And Jesus said to him ,<woc>“ Today salvation has come to this house , since</woc>
+				<crossref let="l" cid="c42019009.1" />
+				<woc>he also is a son of Abraham .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019010">
+			</marker>
+			<v n="10">
+				<woc>For</woc>
+				<crossref let="m" cid="c42019010.1" />
+				<woc>the Son of Man came to seek and to save the lost . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019011">
+			</marker>
+			<v n="11">As they heard these things , he proceeded to tell a parable , because he was near to Jerusalem , and because<crossref let="n" cid="c42019011.1" />they supposed that the kingdom of God was to appear immediately .</v>
+			<marker class="begin-verse" mid="v42019012">
+			</marker>
+			<v n="12">He said therefore ,<crossref let="o" cid="c42019012.1" />
+				<woc>“ A nobleman went into a far country to receive for himself a kingdom and then return .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019013">
+			</marker>
+			<v n="13">
+				<woc>Calling</woc>
+				<crossref let="p" cid="c42019013.1" />
+				<woc>ten of his servants , he gave them ten minas , and said to them , ‘ Engage in business</woc>
+				<crossref let="q" cid="c42019013.2" />
+				<woc>until I come . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019014">
+			</marker>
+			<v n="14">
+				<woc>But</woc>
+				<crossref let="r" cid="c42019014.1" />
+				<woc>his citizens hated him and sent a delegation after him , saying , ‘ We do not want this man to reign over us . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019015">
+			</marker>
+			<v n="15">
+				<woc>When he returned , having received the kingdom , he ordered these servants to whom he had given the money to be called to him , that he might know what they had gained by doing business .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019016">
+			</marker>
+			<v n="16">
+				<woc>The first came before him , saying , ‘ Lord , your mina has made ten minas more . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019017">
+			</marker>
+			<v n="17">
+				<woc>And he said to him , ‘ Well done , good servant ! Because you have been</woc>
+				<crossref let="s" cid="c42019017.1" />
+				<woc>faithful in a very little ,</woc>
+				<crossref let="t" cid="c42019017.2" />
+				<woc>you shall have authority over ten cities . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019018">
+			</marker>
+			<v n="18">
+				<woc>And the second came , saying , ‘ Lord , your mina has made five minas . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019019">
+			</marker>
+			<v n="19">
+				<woc>And he said to him , ‘ And you are to be over five cities . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019020">
+			</marker>
+			<v n="20">
+				<woc>Then another came , saying , ‘ Lord , here is your mina , which I kept laid away in</woc>
+				<crossref let="u" cid="c42019020.1" />
+				<woc>a handkerchief ;</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019021">
+			</marker>
+			<v n="21">
+				<woc>for I was afraid of you , because you are</woc>
+				<crossref let="v" cid="c42019021.1" />
+				<woc>a severe man . You take</woc>
+				<crossref let="w" cid="c42019021.2" />
+				<woc>what you did not deposit , and reap what you did not sow . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019022">
+			</marker>
+			<v n="22">
+				<woc>He said to him ,</woc>
+				<crossref let="x" cid="c42019022.2" />
+				<woc>‘ I will condemn you with your own words ,</woc>
+				<crossref let="y" cid="c42019022.3" />
+				<woc>you wicked servant ! You knew that I was</woc>
+				<crossref let="v" cid="c42019022.1" />
+				<woc>a severe man , taking what I did not deposit and reaping what I did not sow ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019023">
+			</marker>
+			<v n="23">
+				<woc>Why then did you not put my money in the bank , and at my coming I might have collected it with interest ? ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019024">
+			</marker>
+			<v n="24">
+				<woc>And he said to those who stood by , ‘ Take the mina from him , and give it to the one who has the ten minas . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019025">
+			</marker>
+			<v n="25">
+				<woc>And they said to him , ‘ Lord , he has ten minas ! ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019026">
+			</marker>
+			<v n="26">
+				<woc>‘ I tell you that</woc>
+				<crossref let="z" cid="c42019026.1" />
+				<woc>to everyone who has , more will be given , but from the one who has not , even what he has will be taken away .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019027">
+			</marker>
+			<v n="27">
+				<woc>But</woc>
+				<crossref let="r" cid="c42019027.2" />
+				<woc>as for these enemies of mine , who did not want me to reign over them , bring them here and</woc>
+				<crossref let="a" cid="c42019027.1" />
+				<woc>slaughter them before me . ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019028">
+			</marker>
+			<v n="28">And when he had said these things ,<crossref let="b" cid="c42019028.1" />he went on ahead ,<crossref let="c" cid="c42019028.2" />going up to Jerusalem .</v>
+			<marker class="begin-verse" mid="v42019029">
+			</marker>
+			<v n="29">
+				<crossref let="d" cid="c42019029.1" />When he drew near to Bethphage and<crossref let="e" cid="c42019029.2" />Bethany , at<crossref let="f" cid="c42019029.3" />the mount that is called Olivet , he sent<crossref let="g" cid="c42019029.4" />two of the disciples ,</v>
+			<marker class="begin-verse" mid="v42019030">
+			</marker>
+			<v n="30">saying ,<woc>“ Go into the village in front of you , where on entering you will find a colt tied ,</woc>
+				<crossref let="h" cid="c42019030.1" />
+				<woc>on which no one has ever yet sat . Untie it and bring it here .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019031">
+			</marker>
+			<v n="31">
+				<woc>If anyone asks you , ‘ Why are you untying it ? ’ you shall say this : ‘ The Lord has need of it . ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019032">
+			</marker>
+			<v n="32">So those who were sent went away and found it<crossref let="i" cid="c42019032.1" />just as he had told them .</v>
+			<marker class="begin-verse" mid="v42019033">
+			</marker>
+			<v n="33">And as they were untying the colt , its owners said to them , “ Why are you untying the colt ? ”</v>
+			<marker class="begin-verse" mid="v42019034">
+			</marker>
+			<v n="34">And they said , “ The Lord has need of it . ”</v>
+			<marker class="begin-verse" mid="v42019035">
+			</marker>
+			<v n="35">And they brought it to Jesus , and throwing their cloaks on the colt , they set Jesus on it .</v>
+			<marker class="begin-verse" mid="v42019036">
+			</marker>
+			<v n="36">And as he rode along , they<crossref let="j" cid="c42019036.1" />spread their cloaks on the road .</v>
+			<marker class="begin-verse" mid="v42019037">
+			</marker>
+			<v n="37">As he was drawing near — already on the way down the Mount of Olives —<crossref let="k" cid="c42019037.1" />the whole multitude of his disciples began to rejoice and praise God with a loud voice<crossref let="l" cid="c42019037.2" />for all the mighty works that they had seen ,</v>
+			<marker class="begin-verse" mid="v42019038">
+			</marker>
+			<v n="38">saying ,<crossref let="m" cid="c42019038.1" />“ Blessed is<crossref let="n" cid="c42019038.2" />the King who comes in the name of the Lord ! Peace in heaven and<crossref let="o" cid="c42019038.3" />glory in the highest ! ”</v>
+			<marker class="begin-verse" mid="v42019039">
+			</marker>
+			<v n="39">
+				<crossref let="p" cid="c42019039.1" />And some of the Pharisees in the crowd said to him , “ Teacher , rebuke your disciples . ”</v>
+			<marker class="begin-verse" mid="v42019040">
+			</marker>
+			<v n="40">He answered ,<woc>“ I tell you , if these were silent ,</woc>
+				<crossref let="q" cid="c42019040.1" />
+				<woc>the very stones would cry out . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019041">
+			</marker>
+			<v n="41">
+				<crossref let="r" cid="c42019041.1" />And when he drew near and saw the city ,<crossref let="s" cid="c42019041.2" />he wept over it ,</v>
+			<marker class="begin-verse" mid="v42019042">
+			</marker>
+			<v n="42">saying ,<crossref let="t" cid="c42019042.1" />
+				<woc>“ Would that you , even you , had known on this day the things that make for peace ! But now</woc>
+				<crossref let="u" cid="c42019042.2" />
+				<woc>they are hidden from your eyes .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019043">
+			</marker>
+			<v n="43">
+				<woc>For</woc>
+				<crossref let="v" cid="c42019043.1" />
+				<woc>the days will come upon you , when your enemies</woc>
+				<crossref let="w" cid="c42019043.2" />
+				<woc>will set up a barricade around you and</woc>
+				<crossref let="x" cid="c42019043.3" />
+				<woc>surround you and hem you in on every side</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019044">
+			</marker>
+			<v n="44">
+				<crossref let="y" cid="c42019044.3" />
+				<woc>and tear you down to the ground , you and your children within you . And</woc>
+				<crossref let="z" cid="c42019044.4" />
+				<woc>they will not leave one stone upon another in you , because you did not know</woc>
+				<crossref let="a" cid="c42019044.1" />
+				<woc>the time of your</woc>
+				<crossref let="b" cid="c42019044.2" />
+				<woc>visitation . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019045">
+			</marker>
+			<v n="45">
+				<crossref let="c" cid="c42019045.1" />And he entered the temple and began to drive out those who sold ,</v>
+			<marker class="begin-verse" mid="v42019046">
+			</marker>
+			<v n="46">saying to them ,<woc>“ It is written ,</woc>
+				<crossref let="d" cid="c42019046.1" />
+				<woc>‘ My house shall be a house of prayer , ’ but</woc>
+				<crossref let="e" cid="c42019046.2" />
+				<woc>you have made it a den of robbers . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42019047">
+			</marker>
+			<v n="47">
+				<crossref let="f" cid="c42019047.1" />And he was teaching daily in the temple .<crossref let="g" cid="c42019047.2" />The chief priests and the scribes and the principal men of the people were seeking to destroy him ,</v>
+			<marker class="begin-verse" mid="v42019048">
+			</marker>
+			<v n="48">but they did not find anything they could do , for all the people were hanging on his words .</v>
+			<marker class="begin-verse" mid="v42019049">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

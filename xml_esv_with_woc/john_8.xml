@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:52.465587</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:52.465595</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" bookAbbr="jhn" version="ESV">
+		<marker class="begin-verse" mid="v43008001">
+		</marker>
+		<chapter num="8">
+			<heading>
+				John 8
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">8 but Jesus went to the Mount of Olives.</v>
+			<marker class="begin-verse" mid="v43008002">
+			</marker>
+			<v n="2">Early in the morning he came again to the temple. All the people came to him, and<crossref let="b" cid="c43008002.1" />he sat down and taught them.</v>
+			<marker class="begin-verse" mid="v43008003">
+			</marker>
+			<v n="3">The scribes and the Pharisees brought a woman who had been caught in adultery, and placing her in the midst</v>
+			<marker class="begin-verse" mid="v43008004">
+			</marker>
+			<v n="4">they said to him, “Teacher, this woman has been caught in the act of adultery.</v>
+			<marker class="begin-verse" mid="v43008005">
+			</marker>
+			<v n="5">Now in the Law, Moses commanded us<crossref let="d" cid="c43008005.1" />to stone such women. So what do you say?”</v>
+			<marker class="begin-verse" mid="v43008006">
+			</marker>
+			<v n="6">This they said to test him,<crossref let="f" cid="c43008006.1" />that they might have some charge to bring against him. Jesus bent down and wrote with his finger on the ground.</v>
+			<marker class="begin-verse" mid="v43008007">
+			</marker>
+			<v n="7">And as they continued to ask him, he stood up and said to them,<woc>“Let him who is without sin among you</woc>
+				<crossref let="h" cid="c43008007.1" />
+				<woc>be the first to throw a stone at her.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008008">
+			</marker>
+			<v n="8">And once more he bent down and wrote on the ground.</v>
+			<marker class="begin-verse" mid="v43008009">
+			</marker>
+			<v n="9">But when they heard it, they went away one by one, beginning with the older ones, and Jesus was left alone with the woman standing before him.</v>
+			<marker class="begin-verse" mid="v43008010">
+			</marker>
+			<v n="10">Jesus stood up and said to her,<woc>“Woman, where are they? Has no one condemned you?”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008011">
+			</marker>
+			<v n="11">]]<woc>“Neither do I condemn you; go, and from now on</woc>
+				<crossref let="j" cid="c43008011.1" />
+				<woc>sin no more.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008012">
+			</marker>
+			<v n="12">Again Jesus spoke to them, saying,<crossref let="l" cid="c43008012.1" />
+				<woc>“I am the light of the world. Whoever</woc>
+				<crossref let="m" cid="c43008012.2" />
+				<woc>follows me will not</woc>
+				<crossref let="n" cid="c43008012.3" />
+				<woc>walk in darkness, but will have the light of life.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008013">
+			</marker>
+			<v n="13">“You are bearing witness about yourself; your testimony is not true.”</v>
+			<marker class="begin-verse" mid="v43008014">
+			</marker>
+			<v n="14">Jesus answered,<woc>“Even if I do bear witness about myself,</woc>
+				<woc>my testimony is true, for I know</woc>
+				<crossref let="q" cid="c43008014.1" />
+				<woc>where I came from and</woc>
+				<crossref let="r" cid="c43008014.2" />
+				<woc>where I am going, but</woc>
+				<crossref let="s" cid="c43008014.3" />
+				<woc>you do not know where I come from or where I am going.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008015">
+			</marker>
+			<v n="15">
+				<woc>You judge according to the flesh;</woc>
+				<crossref let="u" cid="c43008015.1" />
+				<woc>I judge no one.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008016">
+			</marker>
+			<v n="16">
+				<woc>Yet even if I do judge,</woc>
+				<woc>my judgment is true, for</woc>
+				<crossref let="w" cid="c43008016.1" />
+				<woc>it is not I alone who judge, but I and the Father who sent me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008017">
+			</marker>
+			<v n="17">
+				<woc>In your Law it is written that the testimony of two people is true.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008018">
+			</marker>
+			<v n="18">
+				<woc>I am the one who bears witness about myself, and</woc>
+				<woc>the Father who sent me bears witness about me.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008019">
+			</marker>
+			<v n="19">They said to him therefore, “Where is your Father?” Jesus answered,<woc>“You know neither me nor my Father.</woc>
+				<woc>If you knew me, you would know my Father also.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008020">
+			</marker>
+			<v n="20">his hour had not yet come.</v>
+			<marker class="begin-verse" mid="v43008021">
+			</marker>
+			<v n="21">So he said to them again,<woc>“I am going away, and</woc>
+				<woc>you will seek me, and</woc>
+				<woc>you will die in your sin. Where I am going, you cannot come.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008022">
+			</marker>
+			<v n="22">?”<woc>‘Where I am going, you cannot come’</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008023">
+			</marker>
+			<v n="23">He said to them,<woc>“You are from below; I am from above.</woc>
+				<woc>You are of this world;</woc>
+				<woc>I am not of this world.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008024">
+			</marker>
+			<v n="24">
+				<woc>I told you that you</woc>
+				<woc>would die in your sins, for</woc>
+				<woc>unless you believe that</woc>
+				<woc>I am he you will die in your sins.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008025">
+			</marker>
+			<v n="25">So they said to him, “Who are you?” Jesus said to them,<woc>“Just what I have been telling you from the beginning.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008026">
+			</marker>
+			<v n="26">
+				<woc>I have much to say about you and much to judge, but</woc>
+				<woc>he who sent me is true, and I declare</woc>
+				<woc>to the world</woc>
+				<woc>what I have heard from him.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008027">
+			</marker>
+			<v n="27">he had been speaking to them about the Father.</v>
+			<marker class="begin-verse" mid="v43008028">
+			</marker>
+			<v n="28">So Jesus said to them,<woc>“When you have</woc>
+				<woc>lifted up the Son of Man,</woc>
+				<woc>then you will know that</woc>
+				<woc>I am he, and that</woc>
+				<woc>I do nothing on my own authority, but</woc>
+				<woc>speak just as the Father taught me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008029">
+			</marker>
+			<v n="29">
+				<woc>And</woc>
+				<woc>he who sent me is with me.</woc>
+				<woc>He has not left me alone, for</woc>
+				<woc>I always do the things that are pleasing to him.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008030">
+			</marker>
+			<v n="30">many believed in him.</v>
+			<marker class="begin-verse" mid="v43008031">
+			</marker>
+			<v n="31">So Jesus said to the Jews who had believed him,<woc>“If you abide in my word, you are truly my disciples,</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008032">
+			</marker>
+			<v n="32">
+				<woc>and you will</woc>
+				<woc>know the truth, and the truth</woc>
+				<woc>will set you free.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008033">
+			</marker>
+			<v n="33">“We are offspring of Abraham and have never been enslaved to anyone. How is it that you say, ‘You will become free’?”</v>
+			<marker class="begin-verse" mid="v43008034">
+			</marker>
+			<v n="34">Jesus answered them,<woc>“Truly, truly, I say to you,</woc>
+				<woc>everyone who practices sin is a slave to sin.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008035">
+			</marker>
+			<v n="35">
+				<woc>The slave does not remain in the house forever;</woc>
+				<woc>the son remains forever.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008036">
+			</marker>
+			<v n="36">
+				<woc>So if the Son sets you free, you will be free indeed.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008037">
+			</marker>
+			<v n="37">
+				<woc>I know that you are offspring of Abraham; yet</woc>
+				<woc>you seek to kill me because my word finds no place in you.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008038">
+			</marker>
+			<v n="38">
+				<woc>I speak of what I have seen with my Father, and you do what you have heard</woc>
+				<woc>from your father.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008039">
+			</marker>
+			<v n="39">They answered him, “Abraham is our father.” Jesus said to them,<woc>“If you were Abraham's children, you would be doing the works Abraham did,</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008040">
+			</marker>
+			<v n="40">
+				<woc>but now</woc>
+				<woc>you seek to kill me, a man who has told you the truth</woc>
+				<woc>that I heard from God. This is not what Abraham did.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008041">
+			</marker>
+			<v n="41">one Father—even God.”<woc>You are doing the works your father did.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008042">
+			</marker>
+			<v n="42">Jesus said to them,<woc>“If God were your Father, you would love me, for</woc>
+				<woc>I came from God and</woc>
+				<woc>I am here.</woc>
+				<woc>I came not of my own accord, but</woc>
+				<woc>he sent me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008043">
+			</marker>
+			<v n="43">
+				<woc>Why do you not understand what I say? It is because you cannot</woc>
+				<woc>bear to hear my word.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008044">
+			</marker>
+			<v n="44">
+				<woc>You are of your father the devil, and your will is to do your father's desires.</woc>
+				<woc>He was a murderer from the beginning, and</woc>
+				<woc>does not stand in the truth, because there is no truth in him.</woc>
+				<woc>When he lies, he speaks out of his own character, for he is a liar and the father of lies.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008045">
+			</marker>
+			<v n="45">
+				<woc>But because I tell the truth, you do not believe me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008046">
+			</marker>
+			<v n="46">
+				<woc>Which one of you convicts me of sin? If I tell the truth, why do you not believe me?</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008047">
+			</marker>
+			<v n="47">
+				<woc>Whoever is of God hears the words of God.</woc>
+				<woc>The reason why you do not hear them is that</woc>
+				<woc>you are not of God.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008048">
+			</marker>
+			<v n="48">have a demon?”</v>
+			<marker class="begin-verse" mid="v43008049">
+			</marker>
+			<v n="49">Jesus answered,<woc>“I do not have a demon, but</woc>
+				<woc>I honor my Father, and you dishonor me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008050">
+			</marker>
+			<v n="50">
+				<woc>Yet</woc>
+				<woc>I do not seek my own glory; there is One who seeks it, and he is the judge.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008051">
+			</marker>
+			<v n="51">
+				<woc>Truly, truly,</woc>
+				<woc>I say to you, if anyone keeps my word, he will never</woc>
+				<woc>see death.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008052">
+			</marker>
+			<v n="52">The Jews said to him, “Now we know that you have a demon! Abraham died, as did the prophets, yet you say,<woc>‘If anyone keeps my word, he will never</woc>
+				<woc>taste death.’</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008053">
+			</marker>
+			<v n="53">Are you greater than our father Abraham, who died? And the prophets died! Who do you make yourself out to be?”</v>
+			<marker class="begin-verse" mid="v43008054">
+			</marker>
+			<v n="54">Jesus answered,<woc>“If I glorify myself, my glory is nothing.</woc>
+				<woc>It is my Father who glorifies me,</woc>
+				<woc>of whom you say, ‘He is our God.’</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008055">
+			</marker>
+			<v n="55">
+				<woc>But</woc>
+				<woc>you have not known him.</woc>
+				<woc>I know him. If I were to say that I do not know him, I would be</woc>
+				<woc>a liar</woc>
+				<woc>like you, but I do know him and I keep his word.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008056">
+			</marker>
+			<v n="56">
+				<woc>Your father Abraham</woc>
+				<woc>rejoiced</woc>
+				<woc>that he would see my day.</woc>
+				<woc>He saw it and was glad.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008057">
+			</marker>
+			<v n="57">So the Jews said to him, “You are not yet fifty years old, and have you seen Abraham?”</v>
+			<marker class="begin-verse" mid="v43008058">
+			</marker>
+			<v n="58">Jesus said to them,<woc>“Truly, truly, I say to you, before Abraham was,</woc>
+				<woc>I am.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43008059">
+			</marker>
+			<v n="59">they picked up stones to throw at him, but Jesus hid himself and went out of the temple.</v>
+			<marker class="begin-verse" mid="v43008060">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

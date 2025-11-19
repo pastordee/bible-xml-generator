@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:36.319617</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:36.319626</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42021001">
+		</marker>
+		<chapter num="21">
+			<heading>
+				Luke 21
+			</heading>
+			<heading>
+				The Widow’s Offering
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">21<crossref let="a" cid="c42021001.1" />Jesus looked up and saw the rich putting their gifts into the offering box,</v>
+			<marker class="begin-verse" mid="v42021002">
+			</marker>
+			<v n="2">small copper coins.</v>
+			<marker class="begin-verse" mid="v42021003">
+			</marker>
+			<v n="3">And he said,<woc>“Truly, I tell you,</woc>
+				<woc>this poor widow has put in more than all of them.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021004">
+			</marker>
+			<v n="4">
+				<woc>For they all contributed out of their abundance, but she out of her</woc>
+				<woc>poverty put in all</woc>
+				<woc>she had to live on.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021005">
+			</marker>
+			<v n="5">And while some were speaking of the temple, how it was adorned with noble stones and offerings, he said,</v>
+			<marker class="begin-verse" mid="v42021006">
+			</marker>
+			<v n="6">
+				<woc>“As for these things that you see,</woc>
+				<woc>the days will come when there will not be left here one stone upon another that will not be thrown down.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021007">
+			</marker>
+			<v n="7">when will these things be, and what will be the sign when these things are about to take place?”</v>
+			<marker class="begin-verse" mid="v42021008">
+			</marker>
+			<v n="8">And he said,<crossref let="k" cid="c42021008.3" />
+				<woc>“See that you are not led astray. For</woc>
+				<crossref let="l" cid="c42021008.4" />
+				<woc>many will come in my name, saying,</woc>
+				<woc>‘I am he!’ and,</woc>
+				<woc>‘The time is at hand!’ Do not go after them.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021009">
+			</marker>
+			<v n="9">
+				<woc>And when you hear of wars and tumults, do not be</woc>
+				<woc>terrified, for these things</woc>
+				<woc>must first take place, but the end will not be at once.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021010">
+			</marker>
+			<v n="10">Then he said to them,<woc>“Nation will rise against nation, and</woc>
+				<woc>kingdom against kingdom.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021011">
+			</marker>
+			<v n="11">
+				<woc>There will be great</woc>
+				<crossref let="s" cid="c42021011.3" />
+				<woc>earthquakes, and in various places</woc>
+				<crossref let="t" cid="c42021011.4" />
+				<woc>famines and pestilences. And there will be</woc>
+				<woc>terrors and great</woc>
+				<woc>signs from heaven.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021012">
+			</marker>
+			<v n="12">
+				<woc>But before all this</woc>
+				<crossref let="w" cid="c42021012.3" />
+				<woc>they will lay their hands on you and persecute you, delivering you up to</woc>
+				<crossref let="x" cid="c42021012.4" />
+				<woc>the synagogues and</woc>
+				<crossref let="y" cid="c42021012.5" />
+				<woc>prisons, and you</woc>
+				<crossref let="z" cid="c42021012.6" />
+				<woc>will be brought before</woc>
+				<woc>kings and</woc>
+				<woc>governors for my name's sake.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021013">
+			</marker>
+			<v n="13">
+				<woc>This will be your opportunity to bear witness.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021014">
+			</marker>
+			<v n="14">
+				<woc>Settle it therefore in your minds</woc>
+				<woc>not to meditate beforehand how to answer,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021015">
+			</marker>
+			<v n="15">
+				<woc>for</woc>
+				<woc>I will give you a mouth and</woc>
+				<woc>wisdom, which none of your adversaries will be able to withstand or</woc>
+				<woc>contradict.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021016">
+			</marker>
+			<v n="16">
+				<woc>You will be delivered up</woc>
+				<woc>even by parents and brothers and relatives and friends, and some of you they will put to death.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021017">
+			</marker>
+			<v n="17">
+				<woc>You will be hated by all for my name's sake.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021018">
+			</marker>
+			<v n="18">
+				<woc>But</woc>
+				<woc>not a hair of your head will perish.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021019">
+			</marker>
+			<v n="19">
+				<woc>By your</woc>
+				<woc>endurance you will gain your lives.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021020">
+			</marker>
+			<v n="20">
+				<woc>“But</woc>
+				<woc>when you see Jerusalem surrounded by armies, then know that</woc>
+				<woc>its desolation has come near.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021021">
+			</marker>
+			<v n="21">
+				<woc>Then let those who are in Judea flee to the mountains, and let those who are inside the city depart, and let not those who are out in the country enter it,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021022">
+			</marker>
+			<v n="22">
+				<woc>for these are</woc>
+				<woc>days of</woc>
+				<woc>vengeance, to fulfill</woc>
+				<woc>all that is written.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021023">
+			</marker>
+			<v n="23">
+				<woc>Alas for women who are pregnant and for those who are nursing infants in those days! For there will be great distress upon the earth and</woc>
+				<woc>wrath against this people.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021024">
+			</marker>
+			<v n="24">
+				<woc>They will fall by the edge of the sword and</woc>
+				<woc>be led captive among all nations, and</woc>
+				<woc>Jerusalem will be trampled underfoot by the Gentiles,</woc>
+				<woc>until the times of the Gentiles are fulfilled.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021025">
+			</marker>
+			<v n="25">
+				<woc>“And</woc>
+				<woc>there will be signs in sun and moon</woc>
+				<woc>and stars, and on the earth</woc>
+				<woc>distress of nations in perplexity because of the roaring of the sea and the waves,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021026">
+			</marker>
+			<v n="26">
+				<woc>people fainting with fear and with foreboding of what is coming on the world. For</woc>
+				<woc>the powers of the heavens will be shaken.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021027">
+			</marker>
+			<v n="27">
+				<woc>And then they will see</woc>
+				<woc>the Son of Man coming in a cloud</woc>
+				<woc>with power and great glory.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021028">
+			</marker>
+			<v n="28">
+				<woc>Now when these things begin to take place, straighten up and</woc>
+				<woc>raise your heads, because</woc>
+				<woc>your redemption is drawing near.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021029">
+			</marker>
+			<v n="29">And he told them a parable:<woc>“Look at the fig tree, and all the trees.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021030">
+			</marker>
+			<v n="30">
+				<woc>As soon as they come out in leaf, you see</woc>
+				<woc>for yourselves and know that the summer is already near.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021031">
+			</marker>
+			<v n="31">
+				<woc>So also, when you see these things taking place, you know that the kingdom of God is near.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021032">
+			</marker>
+			<v n="32">
+				<woc>Truly, I say to you, this generation will not pass away until all has taken place.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021033">
+			</marker>
+			<v n="33">
+				<woc>Heaven and earth will pass away, but</woc>
+				<woc>my words will not pass away.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021034">
+			</marker>
+			<v n="34">
+				<woc>“But watch yourselves</woc>
+				<woc>lest</woc>
+				<woc>your hearts be weighed down with dissipation and drunkenness and</woc>
+				<woc>cares of this life, and</woc>
+				<woc>that day come upon you suddenly</woc>
+				<woc>like a trap.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021035">
+			</marker>
+			<v n="35">
+				<woc>For it will come upon all who dwell on the face of the whole earth.</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021036">
+			</marker>
+			<v n="36">
+				<woc>But</woc>
+				<woc>stay awake at all times,</woc>
+				<woc>praying that you may</woc>
+				<woc>have strength to escape all these things that are going to take place, and</woc>
+				<woc>to stand before the Son of Man.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42021037">
+			</marker>
+			<v n="37">the mount called Olivet.</v>
+			<marker class="begin-verse" mid="v42021038">
+			</marker>
+			<v n="38">all the people came to him in the temple to hear him.</v>
+			<marker class="begin-verse" mid="v42021039">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:22.942963</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:22.942987</next_refresh_due>
+	</generation_info>
+	<book title="Amos" num="30" testament="old" bookAbbr="amo" version="ESV">
+		<marker class="begin-verse" mid="v30006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Amos 6
+			</heading>
+			<heading>
+				Woe to Those at Ease in Zion
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">to whom the house of Israel comes !</v>
+			<marker class="begin-verse" mid="v30006002">
+			</marker>
+			<v n="2">Or is their territory greater than your territory ,</v>
+			<marker class="begin-verse" mid="v30006003">
+			</marker>
+			<v n="3">
+				<crossref let="f" cid="c30006003.2" />and bring near the seat of violence ?</v>
+			<marker class="begin-verse" mid="v30006004">
+			</marker>
+			<v n="4">
+				<crossref let="i" cid="c30006004.3" />and calves from the midst of the stall ,</v>
+			<marker class="begin-verse" mid="v30006005">
+			</marker>
+			<v n="5">and like David<crossref let="j" cid="c30006005.1" />invent for themselves instruments of music ,</v>
+			<marker class="begin-verse" mid="v30006006">
+			</marker>
+			<v n="6">but are not grieved over the ruin of Joseph !</v>
+			<marker class="begin-verse" mid="v30006007">
+			</marker>
+			<v n="7">and the revelry of those who stretch themselves out shall pass away . ”</v>
+			<marker class="begin-verse" mid="v30006008">
+			</marker>
+			<v n="8">
+				<crossref let="p" cid="c30006008.3" />and I will deliver up the city and all that is in it . ”</v>
+			<marker class="begin-verse" mid="v30006009">
+			</marker>
+			<v n="9">And<crossref let="q" cid="c30006009.1" />if ten men remain in one house , they shall die .</v>
+			<marker class="begin-verse" mid="v30006010">
+			</marker>
+			<v n="10">And when one’s relative ,<crossref let="r" cid="c30006010.1" />the one who anoints him for burial , shall take him up to bring the bones out of the house , and shall say to him who is in the innermost parts of the house , “ Is there still anyone with you ? ” he shall say , “ No ” ; and he shall say ,<crossref let="s" cid="c30006010.2" />“ Silence ! We must not mention the name of the Lord . ”</v>
+			<marker class="begin-verse" mid="v30006011">
+			</marker>
+			<v n="11">and the little house into bits .</v>
+			<marker class="begin-verse" mid="v30006012">
+			</marker>
+			<v n="12">
+				<crossref let="u" cid="c30006012.1" />and the fruit of righteousness into wormwood —</v>
+			<marker class="begin-verse" mid="v30006013">
+			</marker>
+			<v n="13">captured Karnaim for ourselves ? ”</v>
+			<marker class="begin-verse" mid="v30006014">
+			</marker>
+			<v n="14">to the Brook of<crossref let="z" cid="c30006014.3" />the Arabah . ”</v>
+			<marker class="begin-verse" mid="v30006015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">6:12 Or *the sea*</footnote>
+				<footnote id="2">6:12 Or *into bitter fruit*</footnote>
+				<footnote id="3">6:13 *Lo-debar* means *nothing*</footnote>
+				<footnote id="4">6:13 *Karnaim* means *horns* (a symbol of strength)</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

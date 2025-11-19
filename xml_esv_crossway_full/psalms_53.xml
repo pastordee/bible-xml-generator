@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:17.976973</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:17.976986</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19053001">
+		</marker>
+		<chapter num="53">
+			<heading>
+				Psalm 53
+			</heading>
+			<heading>
+				There Is None Who Does Good
+			</heading>
+			<heading>
+				To the choirmaster: according to Mahalath. A Maskil(1) of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">there is none who does good .</v>
+			<marker class="begin-verse" mid="v19053002">
+			</marker>
+			<v n="2">who seek after God .</v>
+			<marker class="begin-verse" mid="v19053003">
+			</marker>
+			<v n="3">not even one .</v>
+			<marker class="begin-verse" mid="v19053004">
+			</marker>
+			<v n="4">and do not call upon God ?</v>
+			<marker class="begin-verse" mid="v19053005">
+			</marker>
+			<v n="5">you put them to shame , for God has rejected them .</v>
+			<marker class="begin-verse" mid="v19053006">
+			</marker>
+			<v n="6">let Jacob rejoice , let Israel be glad .</v>
+			<marker class="begin-verse" mid="v19053007">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">53:1 Probably musical or liturgical terms</footnote>
+				<footnote id="2">53:2 Or *who act wisely*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

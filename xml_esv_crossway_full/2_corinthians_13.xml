@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:58.222614</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:58.222630</next_refresh_due>
+	</generation_info>
+	<book title="2 Corinthians" num="47" testament="new" bookAbbr="2co" version="ESV">
+		<marker class="begin-verse" mid="v47013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				2 Corinthians 13
+			</heading>
+			<heading>
+				Final Warnings
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="k" cid="c47013001.1" />This is the third time I am coming to you . Every charge must be established<crossref let="l" cid="c47013001.2" />by the evidence of two or three witnesses .</v>
+			<marker class="begin-verse" mid="v47013002">
+			</marker>
+			<v n="2">
+				<crossref let="m" cid="c47013002.1" />I warned<crossref let="n" cid="c47013002.2" />those who sinned before and all the others , and I warn them now while absent , as I did when present on my second visit , that<crossref let="o" cid="c47013002.3" />if I come again I will not spare them —</v>
+			<marker class="begin-verse" mid="v47013003">
+			</marker>
+			<v n="3">since you seek proof that Christ<crossref let="p" cid="c47013003.1" />is speaking in me . He is not weak in dealing with you , but<crossref let="q" cid="c47013003.2" />is powerful among you .</v>
+			<marker class="begin-verse" mid="v47013004">
+			</marker>
+			<v n="4">For<crossref let="r" cid="c47013004.1" />he was crucified in weakness , but<crossref let="s" cid="c47013004.2" />lives by the power of God . For<crossref let="t" cid="c47013004.3" />we also are weak in him , but in dealing with you<crossref let="u" cid="c47013004.4" />we will live with him by the power of God .</v>
+			<marker class="begin-verse" mid="v47013005">
+			</marker>
+			<v n="5">Examine yourselves , to see whether you are in the faith .<crossref let="v" cid="c47013005.1" />Test yourselves . Or do you not realize this about yourselves , that<crossref let="w" cid="c47013005.2" />Jesus Christ is in you ? — unless indeed you fail to meet the test !</v>
+			<marker class="begin-verse" mid="v47013006">
+			</marker>
+			<v n="6">I hope you will find out that we have not failed the test .</v>
+			<marker class="begin-verse" mid="v47013007">
+			</marker>
+			<v n="7">But we pray to God that you may not do wrong — not that we may appear to have met the test , but that you may do what is right , though we may seem to have failed .</v>
+			<marker class="begin-verse" mid="v47013008">
+			</marker>
+			<v n="8">For we cannot do anything against the truth , but only for the truth .</v>
+			<marker class="begin-verse" mid="v47013009">
+			</marker>
+			<v n="9">For we are glad when<crossref let="x" cid="c47013009.1" />we are weak and you are strong . Your<crossref let="y" cid="c47013009.2" />restoration is what we pray for .</v>
+			<marker class="begin-verse" mid="v47013010">
+			</marker>
+			<v n="10">For this reason I write these things while I am away from you , that when I come<crossref let="z" cid="c47013010.3" />I may not have to be<crossref let="a" cid="c47013010.1" />severe in my use of<crossref let="b" cid="c47013010.2" />the authority that the Lord has given me for building up and not for tearing down .</v>
+			<marker class="begin-verse" mid="v47013011">
+			</marker>
+			<v n="11">Finally , brothers , rejoice .<crossref let="c" cid="c47013011.1" />Aim for restoration , comfort one another ,<crossref let="d" cid="c47013011.2" />agree with one another ,<crossref let="e" cid="c47013011.3" />live in peace ; and the God of love and<crossref let="f" cid="c47013011.4" />peace will be with you .</v>
+			<marker class="begin-verse" mid="v47013012">
+			</marker>
+			<v n="12">
+				<crossref let="g" cid="c47013012.1" />Greet one another with a holy kiss .</v>
+			<marker class="begin-verse" mid="v47013013">
+			</marker>
+			<v n="13">
+				<crossref let="h" cid="c47013013.1" />All the saints greet you .</v>
+			<marker class="begin-verse" mid="v47013014">
+			</marker>
+			<v n="14">
+				<crossref let="i" cid="c47013014.1" />The grace of the Lord Jesus Christ and<crossref let="j" cid="c47013014.2" />the love of God and<crossref let="k" cid="c47013014.3" />the fellowship of the Holy Spirit be with you all .</v>
+			<marker class="begin-verse" mid="v47013015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">13:11 Or *brothers and sisters*</footnote>
+				<footnote id="2">13:11 Or *listen to my appeal*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,289 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:31.938235</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:31.938243</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42018001">
+		</marker>
+		<chapter num="18">
+			<heading>
+				Luke 18
+			</heading>
+			<heading>
+				The Parable of the Persistent Widow
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">And he told them a parable to the effect that they ought<crossref let="r" cid="c42018001.1" />always to pray and not<crossref let="s" cid="c42018001.2" />lose heart .</v>
+			<marker class="begin-verse" mid="v42018002">
+			</marker>
+			<v n="2">He said ,<woc>“ In a certain city there was a judge who</woc>
+				<crossref let="t" cid="c42018002.1" />
+				<woc>neither feared God nor respected man .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018003">
+			</marker>
+			<v n="3">
+				<woc>And there was a widow in that city who kept coming to him and saying , ‘ Give me justice against my adversary . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018004">
+			</marker>
+			<v n="4">
+				<woc>For a while he refused , but afterward he said to himself ,</woc>
+				<crossref let="u" cid="c42018004.1" />
+				<woc>‘ Though I neither fear God nor respect man ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018005">
+			</marker>
+			<v n="5">
+				<woc>yet because this widow keeps bothering me , I will give her justice , so that she will not beat me down by her continual coming . ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018006">
+			</marker>
+			<v n="6">And the Lord said ,<woc>“ Hear what the unrighteous judge says .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018007">
+			</marker>
+			<v n="7">
+				<woc>And</woc>
+				<crossref let="v" cid="c42018007.1" />
+				<woc>will not God give justice to</woc>
+				<crossref let="w" cid="c42018007.2" />
+				<woc>his elect ,</woc>
+				<crossref let="x" cid="c42018007.3" />
+				<woc>who cry to him day and night ?</woc>
+				<crossref let="y" cid="c42018007.4" />
+				<crossref let="z" cid="c42018007.5" />
+				<woc>Will he delay long over them ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018008">
+			</marker>
+			<v n="8">
+				<woc>I tell you , he will give justice to them</woc>
+				<crossref let="a" cid="c42018008.1" />
+				<woc>speedily . Nevertheless , when the Son of Man comes ,</woc>
+				<crossref let="b" cid="c42018008.2" />
+				<woc>will he find faith on earth ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018009">
+			</marker>
+			<v n="9">He also told this parable to some<crossref let="c" cid="c42018009.1" />who trusted<crossref let="d" cid="c42018009.2" />in themselves that they were righteous ,<crossref let="e" cid="c42018009.3" />and treated others with contempt :</v>
+			<marker class="begin-verse" mid="v42018010">
+			</marker>
+			<v n="10">
+				<woc>“ Two men</woc>
+				<crossref let="f" cid="c42018010.1" />
+				<woc>went up into the temple to pray , one a Pharisee and the other a tax collector .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018011">
+			</marker>
+			<v n="11">
+				<woc>The Pharisee ,</woc>
+				<crossref let="g" cid="c42018011.1" />
+				<woc>standing by himself , prayed</woc>
+				<crossref let="h" cid="c42018011.2" />
+				<woc>thus : ‘ God , I thank you that I am not like other men , extortioners , unjust , adulterers , or even like this tax collector .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018012">
+			</marker>
+			<v n="12">
+				<crossref let="i" cid="c42018012.1" />
+				<woc>I fast twice a week ;</woc>
+				<crossref let="j" cid="c42018012.2" />
+				<woc>I give tithes of all that I get . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018013">
+			</marker>
+			<v n="13">
+				<woc>But the tax collector ,</woc>
+				<crossref let="g" cid="c42018013.1" />
+				<woc>standing far off ,</woc>
+				<crossref let="k" cid="c42018013.2" />
+				<woc>would not even lift up his eyes to heaven , but</woc>
+				<crossref let="l" cid="c42018013.3" />
+				<woc>beat his breast , saying , ‘ God ,</woc>
+				<crossref let="m" cid="c42018013.4" />
+				<woc>be merciful to me , a sinner ! ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018014">
+			</marker>
+			<v n="14">
+				<woc>I tell you , this man went down to his house justified , rather than the other . For</woc>
+				<crossref let="n" cid="c42018014.1" />
+				<woc>everyone who exalts himself will be humbled , but the one who humbles himself will be exalted . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018015">
+			</marker>
+			<v n="15">
+				<crossref let="o" cid="c42018015.1" />Now they were bringing even infants to him that he might touch them . And when the disciples saw it , they<crossref let="p" cid="c42018015.2" />rebuked them .</v>
+			<marker class="begin-verse" mid="v42018016">
+			</marker>
+			<v n="16">But Jesus called them to him , saying ,<crossref let="q" cid="c42018016.1" />
+				<woc>“ Let the children come to me , and</woc>
+				<crossref let="r" cid="c42018016.2" />
+				<woc>do not hinder them ,</woc>
+				<crossref let="q" cid="c42018016.1" />
+				<woc>for to such belongs the kingdom of God .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018017">
+			</marker>
+			<v n="17">
+				<crossref let="s" cid="c42018017.1" />
+				<woc>Truly , I say to you , whoever does not</woc>
+				<crossref let="t" cid="c42018017.2" />
+				<woc>receive the kingdom of God like a child shall not enter it . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018018">
+			</marker>
+			<v n="18">
+				<crossref let="u" cid="c42018018.1" />And a ruler asked him , “ Good Teacher , what must I do to<crossref let="v" cid="c42018018.2" />inherit eternal life ? ”</v>
+			<marker class="begin-verse" mid="v42018019">
+			</marker>
+			<v n="19">And Jesus said to him ,<woc>“ Why do you call me good ? No one is good except God alone .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018020">
+			</marker>
+			<v n="20">
+				<woc>You know the commandments :</woc>
+				<crossref let="w" cid="c42018020.1" />
+				<woc>‘ Do not commit adultery , Do not murder , Do not steal , Do not bear false witness , Honor your father and mother . ’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018021">
+			</marker>
+			<v n="21">And he said ,<crossref let="x" cid="c42018021.1" />“ All these I have kept from my youth . ”</v>
+			<marker class="begin-verse" mid="v42018022">
+			</marker>
+			<v n="22">When Jesus heard this , he said to him ,<woc>“ One thing you still lack .</woc>
+				<crossref let="y" cid="c42018022.1" />
+				<woc>Sell all that you have and distribute to the poor , and you will have</woc>
+				<crossref let="z" cid="c42018022.2" />
+				<woc>treasure in heaven ; and come , follow me . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018023">
+			</marker>
+			<v n="23">
+				<crossref let="a" cid="c42018023.1" />But when he heard these things , he became very sad , for he was extremely rich .</v>
+			<marker class="begin-verse" mid="v42018024">
+			</marker>
+			<v n="24">Jesus , seeing that he had become sad , said ,<crossref let="b" cid="c42018024.1" />
+				<woc>“ How difficult it is for those who have wealth to enter</woc>
+				<crossref let="c" cid="c42018024.2" />
+				<woc>the kingdom of God !</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018025">
+			</marker>
+			<v n="25">
+				<woc>For it is easier for a camel to go through the eye of a needle than for a rich person to enter</woc>
+				<crossref let="c" cid="c42018025.1" />
+				<woc>the kingdom of God . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018026">
+			</marker>
+			<v n="26">Those who heard it said , “ Then who can be saved ? ”</v>
+			<marker class="begin-verse" mid="v42018027">
+			</marker>
+			<v n="27">But he said ,<crossref let="d" cid="c42018027.1" />
+				<woc>“ What is impossible with man is possible with God . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018028">
+			</marker>
+			<v n="28">And Peter said , “ See ,<crossref let="e" cid="c42018028.1" />we have left our homes and followed you . ”</v>
+			<marker class="begin-verse" mid="v42018029">
+			</marker>
+			<v n="29">And he said to them ,<woc>“ Truly , I say to you ,</woc>
+				<crossref let="f" cid="c42018029.1" />
+				<woc>there is no one who has left house or wife or brothers or parents or children , for the sake of the kingdom of God ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018030">
+			</marker>
+			<v n="30">
+				<woc>who will not receive</woc>
+				<crossref let="g" cid="c42018030.1" />
+				<woc>many times more</woc>
+				<crossref let="h" cid="c42018030.2" />
+				<woc>in this time , and in</woc>
+				<crossref let="i" cid="c42018030.3" />
+				<woc>the age to come eternal life . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018031">
+			</marker>
+			<v n="31">
+				<crossref let="j" cid="c42018031.1" />And taking the twelve , he said to them ,<woc>“ See ,</woc>
+				<crossref let="k" cid="c42018031.2" />
+				<woc>we are going up to Jerusalem , and</woc>
+				<crossref let="l" cid="c42018031.3" />
+				<woc>everything that is written about the Son of Man by the prophets will be accomplished .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018032">
+			</marker>
+			<v n="32">
+				<woc>For he will be</woc>
+				<crossref let="m" cid="c42018032.1" />
+				<woc>delivered over to the Gentiles and will be</woc>
+				<crossref let="n" cid="c42018032.2" />
+				<woc>mocked and shamefully treated and</woc>
+				<crossref let="o" cid="c42018032.3" />
+				<woc>spit upon .</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018033">
+			</marker>
+			<v n="33">
+				<woc>And after flogging him , they will kill him , and on</woc>
+				<crossref let="p" cid="c42018033.1" />
+				<woc>the third day he will rise . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018034">
+			</marker>
+			<v n="34">
+				<crossref let="q" cid="c42018034.1" />But they understood none of these things .<crossref let="r" cid="c42018034.2" />This saying was hidden from them , and they did not grasp what was said .</v>
+			<marker class="begin-verse" mid="v42018035">
+			</marker>
+			<v n="35">
+				<crossref let="s" cid="c42018035.1" />As he drew near to Jericho ,<crossref let="t" cid="c42018035.2" />a blind man was sitting by the roadside begging .</v>
+			<marker class="begin-verse" mid="v42018036">
+			</marker>
+			<v n="36">And hearing a crowd going by , he inquired what this meant .</v>
+			<marker class="begin-verse" mid="v42018037">
+			</marker>
+			<v n="37">They told him ,<crossref let="u" cid="c42018037.1" />“ Jesus of Nazareth is passing by . ”</v>
+			<marker class="begin-verse" mid="v42018038">
+			</marker>
+			<v n="38">And he cried out , “ Jesus ,<crossref let="v" cid="c42018038.1" />Son of David , have mercy on me ! ”</v>
+			<marker class="begin-verse" mid="v42018039">
+			</marker>
+			<v n="39">And those who were in front<crossref let="w" cid="c42018039.1" />rebuked him , telling him to be silent . But he cried out all the more , “ Son of David , have mercy on me ! ”</v>
+			<marker class="begin-verse" mid="v42018040">
+			</marker>
+			<v n="40">And Jesus stopped and commanded him to be brought to him . And when he came near , he asked him ,</v>
+			<marker class="begin-verse" mid="v42018041">
+			</marker>
+			<v n="41">He said , “ Lord , let me recover my sight . ”<crossref let="x" cid="c42018041.1" />
+				<woc>“ What do you want me to do for you ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018042">
+			</marker>
+			<v n="42">And Jesus said to him ,<woc>“ Recover your sight ;</woc>
+				<crossref let="y" cid="c42018042.1" />
+				<woc>your faith has</woc>
+				<crossref let="z" cid="c42018042.2" />
+				<woc>made you well . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v42018043">
+			</marker>
+			<v n="43">And immediately he recovered his sight and followed him ,<crossref let="a" cid="c42018043.1" />glorifying God . And<crossref let="b" cid="c42018043.2" />all the people , when they saw it , gave praise to God .</v>
+			<marker class="begin-verse" mid="v42018044">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

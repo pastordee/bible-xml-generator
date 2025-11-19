@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:54:27.324287</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:54:27.324294</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23045001">
+		</marker>
+		<chapter num="45">
+			<heading>
+				Isaiah 45
+			</heading>
+			<heading>
+				Cyrus, God’s Instrument
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">that gates may not be closed :</v>
+			<marker class="begin-verse" mid="v23045002">
+			</marker>
+			<v n="2">and cut through the bars of iron ,</v>
+			<marker class="begin-verse" mid="v23045003">
+			</marker>
+			<v n="3">the God of Israel ,<crossref let="v" cid="c23045003.2" />who call you by your name .</v>
+			<marker class="begin-verse" mid="v23045004">
+			</marker>
+			<v n="4">
+				<crossref let="w" cid="c23045004.2" />I name you , though you do not know me .</v>
+			<marker class="begin-verse" mid="v23045005">
+			</marker>
+			<v n="5">
+				<crossref let="y" cid="c23045005.2" />I equip you , though you do not know me ,</v>
+			<marker class="begin-verse" mid="v23045006">
+			</marker>
+			<v n="6">I am the Lord , and there is no other .</v>
+			<marker class="begin-verse" mid="v23045007">
+			</marker>
+			<v n="7">I am the Lord , who does all these things .</v>
+			<marker class="begin-verse" mid="v23045008">
+			</marker>
+			<v n="8">I the Lord have created it .</v>
+			<marker class="begin-verse" mid="v23045009">
+			</marker>
+			<v n="9">or ‘ Your work has no handles ’ ?</v>
+			<marker class="begin-verse" mid="v23045010">
+			</marker>
+			<v n="10">or to a woman , ‘ With what are you in labor ? ’ ”</v>
+			<marker class="begin-verse" mid="v23045011">
+			</marker>
+			<v n="11">will you command me<crossref let="h" cid="c23045011.3" />concerning my children and<crossref let="i" cid="c23045011.4" />the work of my hands ?</v>
+			<marker class="begin-verse" mid="v23045012">
+			</marker>
+			<v n="12">and<crossref let="l" cid="c23045012.3" />I commanded all their host .</v>
+			<marker class="begin-verse" mid="v23045013">
+			</marker>
+			<v n="13">says the Lord of hosts .</v>
+			<marker class="begin-verse" mid="v23045014">
+			</marker>
+			<v n="14">no god besides him . ’ ”</v>
+			<marker class="begin-verse" mid="v23045015">
+			</marker>
+			<v n="15">O God of Israel , the Savior .</v>
+			<marker class="begin-verse" mid="v23045016">
+			</marker>
+			<v n="16">the makers of idols go in confusion together .</v>
+			<marker class="begin-verse" mid="v23045017">
+			</marker>
+			<v n="17">to all eternity .</v>
+			<marker class="begin-verse" mid="v23045018">
+			</marker>
+			<v n="18">“ I am the Lord , and there is no other .</v>
+			<marker class="begin-verse" mid="v23045019">
+			</marker>
+			<v n="19">I declare what is right .</v>
+			<marker class="begin-verse" mid="v23045020">
+			</marker>
+			<v n="20">that cannot save .</v>
+			<marker class="begin-verse" mid="v23045021">
+			</marker>
+			<v n="21">there is none besides me .</v>
+			<marker class="begin-verse" mid="v23045022">
+			</marker>
+			<v n="22">For I am God , and there is no other .</v>
+			<marker class="begin-verse" mid="v23045023">
+			</marker>
+			<v n="23">every tongue shall swear allegiance . ’</v>
+			<marker class="begin-verse" mid="v23045024">
+			</marker>
+			<v n="24">
+				<crossref let="n" cid="c23045024.3" />all who were incensed against him .</v>
+			<marker class="begin-verse" mid="v23045025">
+			</marker>
+			<v n="25">shall be justified and shall glory . ”</v>
+			<marker class="begin-verse" mid="v23045026">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">45:2 Masoretic Text; Dead Sea Scroll, Septuagint *level the mountains*</footnote>
+				<footnote id="2">45:11 A slight emendation yields *will you question me about my children, or command me concerning the work of my hands*?</footnote>
+				<footnote id="3">45:19 Hebrew *in emptiness*</footnote>
+				<footnote id="4">45:23 Septuagint *every tongue shall confess to God*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

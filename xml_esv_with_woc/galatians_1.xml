@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:59.709706</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:59.709722</next_refresh_due>
+	</generation_info>
+	<book title="Galatians" num="48" testament="new" bookAbbr="gal" version="ESV">
+		<marker class="begin-verse" mid="v48001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Galatians 1
+			</heading>
+			<heading>
+				Greeting
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">1 Paul, an<crossref let="a" cid="c48001001.1" />apostle—<crossref let="b" cid="c48001001.2" />not from men nor through man, but<crossref let="c" cid="c48001001.3" />through Jesus Christ and God the Father,<crossref let="d" cid="c48001001.4" />who raised him from the dead—</v>
+			<marker class="begin-verse" mid="v48001002">
+			</marker>
+			<v n="2">To<crossref let="f" cid="c48001002.2" />the churches of Galatia:</v>
+			<marker class="begin-verse" mid="v48001003">
+			</marker>
+			<v n="3">
+				<crossref let="g" cid="c48001003.1" />Grace to you and peace<crossref let="h" cid="c48001003.2" />from God our Father and the Lord Jesus Christ,</v>
+			<marker class="begin-verse" mid="v48001004">
+			</marker>
+			<v n="4">
+				<crossref let="i" cid="c48001004.1" />who gave himself for our sins to deliver us from the present<crossref let="j" cid="c48001004.2" />evil age, according to the will of<crossref let="k" cid="c48001004.3" />our God and Father,</v>
+			<marker class="begin-verse" mid="v48001005">
+			</marker>
+			<v n="5">to whom be the glory forever and ever. Amen.</v>
+			<marker class="begin-verse" mid="v48001006">
+			</marker>
+			<v n="6">I am astonished that you are<crossref let="l" cid="c48001006.1" />so quickly deserting<crossref let="m" cid="c48001006.2" />him who called you in the grace of Christ and are turning to<crossref let="n" cid="c48001006.3" />a different gospel—</v>
+			<marker class="begin-verse" mid="v48001007">
+			</marker>
+			<v n="7">
+				<crossref let="o" cid="c48001007.1" />not that there is another one, but<crossref let="p" cid="c48001007.2" />there are some who trouble you and want to distort the gospel of Christ.</v>
+			<marker class="begin-verse" mid="v48001008">
+			</marker>
+			<v n="8">But even if we or<crossref let="q" cid="c48001008.1" />an angel from heaven should preach to you a gospel contrary to the one we preached to you,<crossref let="r" cid="c48001008.2" />let him be accursed.</v>
+			<marker class="begin-verse" mid="v48001009">
+			</marker>
+			<v n="9">let him be accursed.</v>
+			<marker class="begin-verse" mid="v48001010">
+			</marker>
+			<v n="10">For am I now seeking the approval of man, or of God? Or am I trying<crossref let="t" cid="c48001010.2" />to please man? If I were still trying to please man, I would not be a servant of Christ.</v>
+			<marker class="begin-verse" mid="v48001011">
+			</marker>
+			<v n="11">For<crossref let="v" cid="c48001011.2" />I would have you know, brothers, that the gospel that was preached by me is not man's gospel.</v>
+			<marker class="begin-verse" mid="v48001012">
+			</marker>
+			<v n="12">
+				<crossref let="x" cid="c48001012.2" />For I did not receive it from any man, nor was I taught it, but I received it through a revelation of Jesus Christ.</v>
+			<marker class="begin-verse" mid="v48001013">
+			</marker>
+			<v n="13">For you have heard of<crossref let="z" cid="c48001013.2" />my former life in Judaism, how I persecuted the church of God violently and tried to destroy it.</v>
+			<marker class="begin-verse" mid="v48001014">
+			</marker>
+			<v n="14">the traditions of my fathers.</v>
+			<marker class="begin-verse" mid="v48001015">
+			</marker>
+			<v n="15">called me by his grace,</v>
+			<marker class="begin-verse" mid="v48001016">
+			</marker>
+			<v n="16">that I might preach him among the Gentiles, I did not immediately consult with anyone;</v>
+			<marker class="begin-verse" mid="v48001017">
+			</marker>
+			<v n="17">nor did I go up to Jerusalem to those who were apostles before me, but I went away into Arabia, and returned again to Damascus.</v>
+			<marker class="begin-verse" mid="v48001018">
+			</marker>
+			<v n="18">after three years I went up to Jerusalem to visit Cephas and remained with him fifteen days.</v>
+			<marker class="begin-verse" mid="v48001019">
+			</marker>
+			<v n="19">the Lord's brother.</v>
+			<marker class="begin-verse" mid="v48001020">
+			</marker>
+			<v n="20">before God, I do not lie!)</v>
+			<marker class="begin-verse" mid="v48001021">
+			</marker>
+			<v n="21">Then I went into the regions of Syria and Cilicia.</v>
+			<marker class="begin-verse" mid="v48001022">
+			</marker>
+			<v n="22">the churches of Judea that are in Christ.</v>
+			<marker class="begin-verse" mid="v48001023">
+			</marker>
+			<v n="23">They only were hearing it said, “He who used to persecute us is now preaching the faith he once tried to destroy.”</v>
+			<marker class="begin-verse" mid="v48001024">
+			</marker>
+			<v n="24">And they glorified God because of me.</v>
+			<marker class="begin-verse" mid="v48001025">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:2 Or *brothers and sisters*. In New Testament usage, depending on the context, the plural Greek word *adelphoi* (translated “brothers”) may refer either to *brothers* or to *brothers and sisters*; also verse 11</footnote>
+				<footnote id="2">1:10 For the contextual rendering of the Greek word *doulos*, see Preface</footnote>
+				<footnote id="3">1:11 Greek *not according to man*</footnote>
+				<footnote id="4">1:15 Greek *set me apart from my mother’s womb*</footnote>
+				<footnote id="5">1:16 Greek *in*</footnote>
+				<footnote id="6">1:16 Greek *with flesh and blood*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:01.367910</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:01.367948</next_refresh_due>
+	</generation_info>
+	<book title="James" num="59" testament="new" bookAbbr="jas" version="ESV">
+		<marker class="begin-verse" mid="v59004001">
+		</marker>
+		<chapter num="4">
+			<heading>
+				James 4
+			</heading>
+			<heading>
+				Warning Against Worldliness
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">What causes quarrels and what causes fights among you ? Is it not this , that your passions are<crossref let="y" cid="c59004001.1" />at war within you ?</v>
+			<marker class="begin-verse" mid="v59004002">
+			</marker>
+			<v n="2">You desire and do not have , so you murder . You covet and cannot obtain , so you fight and quarrel . You do not have , because you do not ask .</v>
+			<marker class="begin-verse" mid="v59004003">
+			</marker>
+			<v n="3">You ask and do not receive , because you ask<crossref let="z" cid="c59004003.1" />wrongly , to spend it on your passions .</v>
+			<marker class="begin-verse" mid="v59004004">
+			</marker>
+			<v n="4">
+				<crossref let="a" cid="c59004004.1" />You adulterous people ! Do you not know that friendship with the world is enmity with God ?<crossref let="b" cid="c59004004.2" />Therefore whoever wishes to be a friend of the world makes himself an enemy of God .</v>
+			<marker class="begin-verse" mid="v59004005">
+			</marker>
+			<v n="5">Or do you suppose it is to no purpose that the Scripture says , “ He yearns jealously over the spirit<crossref let="c" cid="c59004005.1" />that he has made to dwell in us ” ?</v>
+			<marker class="begin-verse" mid="v59004006">
+			</marker>
+			<v n="6">But<crossref let="d" cid="c59004006.1" />he gives more grace . Therefore it says ,<crossref let="e" cid="c59004006.2" />“ God opposes the proud but<crossref let="d" cid="c59004006.1" />gives grace to the humble . ”</v>
+			<marker class="begin-verse" mid="v59004007">
+			</marker>
+			<v n="7">Submit yourselves therefore to God .<crossref let="f" cid="c59004007.1" />Resist the devil , and he will flee from you .</v>
+			<marker class="begin-verse" mid="v59004008">
+			</marker>
+			<v n="8">
+				<crossref let="g" cid="c59004008.1" />Draw near to God , and he will draw near to you .<crossref let="h" cid="c59004008.2" />Cleanse your hands , you sinners , and<crossref let="i" cid="c59004008.3" />purify your hearts ,<crossref let="j" cid="c59004008.4" />you double-minded .</v>
+			<marker class="begin-verse" mid="v59004009">
+			</marker>
+			<v n="9">
+				<crossref let="k" cid="c59004009.1" />Be wretched and mourn and weep . Let your laughter be turned to mourning and your joy to gloom .</v>
+			<marker class="begin-verse" mid="v59004010">
+			</marker>
+			<v n="10">
+				<crossref let="l" cid="c59004010.1" />Humble yourselves before the Lord , and he will exalt you .</v>
+			<marker class="begin-verse" mid="v59004011">
+			</marker>
+			<v n="11">
+				<crossref let="m" cid="c59004011.1" />Do not speak evil against one another , brothers . The one who speaks against a brother or<crossref let="n" cid="c59004011.2" />judges his brother , speaks evil against the law and judges the law . But if you judge the law , you are not a doer of the law but a judge .</v>
+			<marker class="begin-verse" mid="v59004012">
+			</marker>
+			<v n="12">There is only<crossref let="o" cid="c59004012.1" />one lawgiver and<crossref let="p" cid="c59004012.2" />judge , he who is able to save and<crossref let="q" cid="c59004012.3" />to destroy . But<crossref let="r" cid="c59004012.4" />who are you to judge your neighbor ?</v>
+			<marker class="begin-verse" mid="v59004013">
+			</marker>
+			<v n="13">Come now , you who say ,<crossref let="s" cid="c59004013.1" />“ Today or tomorrow we will go into such and such a town and spend a year there and trade and make a profit ” —</v>
+			<marker class="begin-verse" mid="v59004014">
+			</marker>
+			<v n="14">yet you do not know what tomorrow will bring . What is your life ? For<crossref let="t" cid="c59004014.1" />you are a mist that appears for a little time and then vanishes .</v>
+			<marker class="begin-verse" mid="v59004015">
+			</marker>
+			<v n="15">Instead you ought to say ,<crossref let="u" cid="c59004015.1" />“ If the Lord wills , we will live and do this or that . ”</v>
+			<marker class="begin-verse" mid="v59004016">
+			</marker>
+			<v n="16">As it is , you boast in your arrogance .<crossref let="v" cid="c59004016.1" />All such boasting is evil .</v>
+			<marker class="begin-verse" mid="v59004017">
+			</marker>
+			<v n="17">
+				<crossref let="w" cid="c59004017.1" />So whoever knows the right thing to do and fails to do it , for him it is sin .</v>
+			<marker class="begin-verse" mid="v59004018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">4:1 Greek *pleasures*; also verse 3</footnote>
+				<footnote id="2">4:1 Greek *in your members*</footnote>
+				<footnote id="3">4:4 Or *You adulteresses!*</footnote>
+				<footnote id="4">4:11 Or *brothers and sisters*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

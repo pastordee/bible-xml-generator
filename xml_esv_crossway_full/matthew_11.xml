@@ -1,0 +1,251 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:16.878249</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:16.878257</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40011001">
+		</marker>
+		<chapter num="11">
+			<heading>
+				Matthew 11
+			</heading>
+			<heading>
+				Messengers from John the Baptist
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">When Jesus had finished instructing his twelve disciples , he went on from there to teach and preach in their cities .</v>
+			<marker class="begin-verse" mid="v40011002">
+			</marker>
+			<v n="2">
+				<crossref let="e" cid="c40011002.1" />Now when John heard<crossref let="f" cid="c40011002.2" />in prison about the deeds of<crossref let="g" cid="c40011002.3" />the Christ , he sent word by<crossref let="h" cid="c40011002.4" />his disciples</v>
+			<marker class="begin-verse" mid="v40011003">
+			</marker>
+			<v n="3">and said to him , “ Are you<crossref let="i" cid="c40011003.1" />the one who is to come , or shall we<crossref let="j" cid="c40011003.2" />look for another ? ”</v>
+			<marker class="begin-verse" mid="v40011004">
+			</marker>
+			<v n="4">And Jesus answered them ,<woc>“ Go and tell John what you hear and see :</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011005">
+			</marker>
+			<v n="5">
+				<crossref let="k" cid="c40011005.1" />
+				<woc>the blind receive their sight and the lame walk , lepers are cleansed and the deaf hear , and the dead are raised up , and</woc>
+				<crossref let="l" cid="c40011005.2" />
+				<woc>the poor have good news preached to them .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011006">
+			</marker>
+			<v n="6">
+				<woc>And blessed is the one who</woc>
+				<crossref let="m" cid="c40011006.1" />
+				<woc>is not offended by me . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011007">
+			</marker>
+			<v n="7">As they went away , Jesus began to speak to the crowds concerning John :<woc>“ What did you go out</woc>
+				<crossref let="n" cid="c40011007.1" />
+				<woc>into the wilderness to see ?</woc>
+				<crossref let="o" cid="c40011007.2" />
+				<woc>A reed shaken by the wind ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011008">
+			</marker>
+			<v n="8">
+				<woc>What then did you go out to see ? A man dressed in soft clothing ? Behold , those who wear soft clothing are in kings’ houses .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011009">
+			</marker>
+			<v n="9">
+				<woc>What then did you go out to see ?</woc>
+				<crossref let="p" cid="c40011009.1" />
+				<woc>A prophet ? Yes , I tell you , and more than a prophet .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011010">
+			</marker>
+			<v n="10">
+				<woc>who will prepare your way before you . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011011">
+			</marker>
+			<v n="11">
+				<woc>Truly , I say to you , among those born of women there has arisen no one greater than John the Baptist . Yet the one who is least in the kingdom of heaven is greater than he .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011012">
+			</marker>
+			<v n="12">
+				<crossref let="r" cid="c40011012.1" />
+				<woc>From the days of John the Baptist until now the kingdom of heaven has suffered violence , and the violent take it by force .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011013">
+			</marker>
+			<v n="13">
+				<crossref let="r" cid="c40011013.1" />
+				<woc>For all the Prophets and the Law prophesied until John ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011014">
+			</marker>
+			<v n="14">
+				<woc>and if you are willing to accept it , he is</woc>
+				<crossref let="s" cid="c40011014.1" />
+				<woc>Elijah who is to come .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011015">
+			</marker>
+			<v n="15">
+				<crossref let="t" cid="c40011015.1" />
+				<woc>He who has ears to hear , let him hear .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011016">
+			</marker>
+			<v n="16">
+				<woc>“ But to what shall I compare this generation ? It is like children sitting in the marketplaces and calling to their playmates ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011017">
+			</marker>
+			<v n="17">
+				<woc>we sang a dirge , and you did not mourn . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011018">
+			</marker>
+			<v n="18">
+				<woc>For John came</woc>
+				<crossref let="u" cid="c40011018.1" />
+				<woc>neither eating</woc>
+				<crossref let="v" cid="c40011018.2" />
+				<woc>nor drinking , and they say , ‘ He has a demon . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011019">
+			</marker>
+			<v n="19">
+				<woc>The Son of Man came</woc>
+				<crossref let="w" cid="c40011019.1" />
+				<woc>eating and drinking , and they say , ‘ Look at him ! A glutton and a drunkard ,</woc>
+				<crossref let="x" cid="c40011019.2" />
+				<woc>a friend of</woc>
+				<crossref let="y" cid="c40011019.3" />
+				<woc>tax collectors and sinners ! ’ Yet wisdom is justified by her deeds . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011020">
+			</marker>
+			<v n="20">
+				<crossref let="z" cid="c40011020.1" />Then he began to denounce the cities where most of his mighty works had been done , because they did not repent .</v>
+			<marker class="begin-verse" mid="v40011021">
+			</marker>
+			<v n="21">
+				<crossref let="a" cid="c40011021.1" />
+				<woc>“ Woe to you , Chorazin ! Woe to you , Bethsaida ! For if the mighty works done in you had been done in</woc>
+				<crossref let="b" cid="c40011021.2" />
+				<woc>Tyre and Sidon , they would have repented long ago in sackcloth and ashes .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011022">
+			</marker>
+			<v n="22">
+				<crossref let="c" cid="c40011022.2" />
+				<woc>But I tell you , it will be more bearable on</woc>
+				<crossref let="d" cid="c40011022.3" />
+				<woc>the day of judgment for</woc>
+				<crossref let="b" cid="c40011022.1" />
+				<woc>Tyre and Sidon than for you .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011023">
+			</marker>
+			<v n="23">
+				<woc>And you ,</woc>
+				<crossref let="e" cid="c40011023.1" />
+				<woc>Capernaum , will you be exalted to heaven ? You will be brought down to</woc>
+				<crossref let="f" cid="c40011023.2" />
+				<woc>Hades . For if the mighty works done in you had been done in Sodom , it would have remained until this day .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011024">
+			</marker>
+			<v n="24">
+				<crossref let="c" cid="c40011024.1" />
+				<woc>But I tell you that</woc>
+				<crossref let="g" cid="c40011024.3" />
+				<woc>it will be more tolerable on</woc>
+				<crossref let="d" cid="c40011024.2" />
+				<woc>the day of judgment for the land of Sodom than for you . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011025">
+			</marker>
+			<v n="25">
+				<crossref let="h" cid="c40011025.1" />At that time Jesus declared ,<woc>“ I thank you , Father ,</woc>
+				<crossref let="i" cid="c40011025.2" />
+				<woc>Lord of heaven and earth , that</woc>
+				<crossref let="j" cid="c40011025.3" />
+				<woc>you have hidden these things from the wise and understanding and</woc>
+				<crossref let="k" cid="c40011025.4" />
+				<woc>revealed them to little children ;</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011026">
+			</marker>
+			<v n="26">
+				<woc>yes , Father , for such was your</woc>
+				<crossref let="l" cid="c40011026.1" />
+				<woc>gracious will .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011027">
+			</marker>
+			<v n="27">
+				<crossref let="m" cid="c40011027.1" />
+				<woc>All things have been handed over to me by my Father , and no one knows the Son</woc>
+				<crossref let="n" cid="c40011027.2" />
+				<woc>except the Father , and no one knows the Father except the Son and anyone</woc>
+				<crossref let="o" cid="c40011027.3" />
+				<woc>to whom the Son chooses to reveal him .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011028">
+			</marker>
+			<v n="28">
+				<crossref let="p" cid="c40011028.1" />
+				<woc>Come to</woc>
+				<crossref let="q" cid="c40011028.2" />
+				<woc>me , all who labor and are</woc>
+				<crossref let="r" cid="c40011028.3" />
+				<woc>heavy laden , and I will give you rest .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011029">
+			</marker>
+			<v n="29">
+				<woc>Take my yoke upon you , and</woc>
+				<crossref let="s" cid="c40011029.1" />
+				<woc>learn from me , for I am</woc>
+				<crossref let="t" cid="c40011029.2" />
+				<woc>gentle and lowly in heart , and</woc>
+				<crossref let="u" cid="c40011029.3" />
+				<woc>you will find rest for your souls .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011030">
+			</marker>
+			<v n="30">
+				<woc>For</woc>
+				<crossref let="v" cid="c40011030.1" />
+				<woc>my yoke is easy , and my burden is light . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40011031">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">11:5 *Leprosy* was a term for several skin diseases; see Leviticus 13</footnote>
+				<footnote id="2">11:8 Or *Why then did you go out? To see a man*</footnote>
+				<footnote id="3">11:9 Some manuscripts *Why then did you go out? To see a prophet?*</footnote>
+				<footnote id="4">11:12 Or *has been coming violently*</footnote>
+				<footnote id="5">11:15 Some manuscripts omit *to hear*</footnote>
+				<footnote id="6">11:19 Some manuscripts *children* (compare Luke 7:35)</footnote>
+				<footnote id="7">11:26 Or *for so it pleased you well*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

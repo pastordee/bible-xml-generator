@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:37.994847</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:37.994856</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" bookAbbr="heb" version="ESV">
+		<marker class="begin-verse" mid="v58001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Hebrews 1
+			</heading>
+			<heading>
+				The Supremacy of God’s Son
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Long ago , at many times and<crossref let="a" cid="c58001001.1" />in many ways , God spoke to our fathers by the prophets ,</v>
+			<marker class="begin-verse" mid="v58001002">
+			</marker>
+			<v n="2">but<crossref let="b" cid="c58001002.1" />in these last days<crossref let="c" cid="c58001002.2" />he has spoken to us by<crossref let="d" cid="c58001002.3" />his Son , whom he appointed<crossref let="e" cid="c58001002.4" />the heir of all things ,<crossref let="f" cid="c58001002.5" />through whom also he created<crossref let="g" cid="c58001002.6" />the world .</v>
+			<marker class="begin-verse" mid="v58001003">
+			</marker>
+			<v n="3">He is the radiance of the glory of God and<crossref let="h" cid="c58001003.1" />the exact imprint of his nature , and he upholds the universe by the word of his power .<crossref let="i" cid="c58001003.2" />After making purification for sins ,<crossref let="j" cid="c58001003.3" />he sat down<crossref let="k" cid="c58001003.4" />at the right hand of the Majesty on high ,</v>
+			<marker class="begin-verse" mid="v58001004">
+			</marker>
+			<v n="4">having become as much superior to angels as the name<crossref let="l" cid="c58001004.1" />he has inherited is more excellent than theirs .</v>
+			<marker class="begin-verse" mid="v58001005">
+			</marker>
+			<v n="5">and he shall be to me a son ” ?</v>
+			<marker class="begin-verse" mid="v58001006">
+			</marker>
+			<v n="6">
+				<crossref let="p" cid="c58001006.2" />“ Let all God’s angels worship him . ”</v>
+			<marker class="begin-verse" mid="v58001007">
+			</marker>
+			<v n="7">and his ministers a flame of fire . ”</v>
+			<marker class="begin-verse" mid="v58001008">
+			</marker>
+			<v n="8">the scepter of uprightness is the scepter of your kingdom .</v>
+			<marker class="begin-verse" mid="v58001009">
+			</marker>
+			<v n="9">with<crossref let="t" cid="c58001009.2" />the oil of gladness beyond your companions . ”</v>
+			<marker class="begin-verse" mid="v58001010">
+			</marker>
+			<v n="10">and the heavens are the work of your hands ;</v>
+			<marker class="begin-verse" mid="v58001011">
+			</marker>
+			<v n="11">they will all wear out like a garment ,</v>
+			<marker class="begin-verse" mid="v58001012">
+			</marker>
+			<v n="12">and your years will have no end . ”</v>
+			<marker class="begin-verse" mid="v58001013">
+			</marker>
+			<v n="13">
+				<crossref let="x" cid="c58001013.2" />until I make your enemies a footstool for your feet ” ?</v>
+			<marker class="begin-verse" mid="v58001014">
+			</marker>
+			<v n="14">Are they not all ministering spirits<crossref let="y" cid="c58001014.1" />sent out to serve for the sake of those who are to<crossref let="z" cid="c58001014.2" />inherit salvation ?</v>
+			<marker class="begin-verse" mid="v58001015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:12 Some manuscripts omit *like a garment*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:19.448351</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:19.448375</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19054001">
+		</marker>
+		<chapter num="54">
+			<heading>
+				Psalm 54
+			</heading>
+			<heading>
+				The Lord Upholds My Life
+			</heading>
+			<heading>
+				To the choirmaster: with stringed instruments. A Maskil(1) of David, when the Ziphites went and told Saul, “Is not David hiding among us?”
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and vindicate me by your might .</v>
+			<marker class="begin-verse" mid="v19054002">
+			</marker>
+			<v n="2">give ear to the words of my mouth .</v>
+			<marker class="begin-verse" mid="v19054003">
+			</marker>
+			<v n="3">they do not set God before themselves . Selah</v>
+			<marker class="begin-verse" mid="v19054004">
+			</marker>
+			<v n="4">the Lord is the upholder of my life .</v>
+			<marker class="begin-verse" mid="v19054005">
+			</marker>
+			<v n="5">in your<crossref let="b" cid="c19054005.1" />faithfulness<crossref let="c" cid="c19054005.2" />put an end to them .</v>
+			<marker class="begin-verse" mid="v19054006">
+			</marker>
+			<v n="6">I will give thanks to your name , O Lord ,<crossref let="d" cid="c19054006.1" />for it is good .</v>
+			<marker class="begin-verse" mid="v19054007">
+			</marker>
+			<v n="7">and my eye has<crossref let="e" cid="c19054007.1" />looked in triumph on my enemies .</v>
+			<marker class="begin-verse" mid="v19054008">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">54:1 Probably a musical or liturgical term</footnote>
+				<footnote id="2">54:3 Some Hebrew manuscripts and Targum *insolent men* (compare Psalm 86:14)</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

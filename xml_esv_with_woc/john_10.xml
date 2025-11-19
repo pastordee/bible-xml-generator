@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:55.362368</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:55.362378</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" bookAbbr="jhn" version="ESV">
+		<marker class="begin-verse" mid="v43010001">
+		</marker>
+		<chapter num="10">
+			<heading>
+				John 10
+			</heading>
+			<heading>
+				I Am the Good Shepherd
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<woc>10 “Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010002">
+			</marker>
+			<v n="2">
+				<woc>But he who enters by the door is the shepherd of the sheep.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010003">
+			</marker>
+			<v n="3">
+				<woc>To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010004">
+			</marker>
+			<v n="4">
+				<woc>When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010005">
+			</marker>
+			<v n="5">
+				<woc>A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010006">
+			</marker>
+			<v n="6">did not understand what he was saying to them.</v>
+			<marker class="begin-verse" mid="v43010007">
+			</marker>
+			<v n="7">So Jesus again said to them,<woc>“Truly, truly, I say to you,</woc>
+				<woc>I am the door of the sheep.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010008">
+			</marker>
+			<v n="8">
+				<woc>All who came before me are thieves and robbers, but the sheep did not listen to them.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010009">
+			</marker>
+			<v n="9">
+				<woc>I am the door. If anyone enters by me,</woc>
+				<woc>he will be saved and will go in and out and</woc>
+				<woc>find pasture.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010010">
+			</marker>
+			<v n="10">
+				<woc>The thief comes only to steal and</woc>
+				<woc>kill and destroy. I came that they may have life and have it abundantly.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010011">
+			</marker>
+			<v n="11">
+				<woc>I am the good shepherd. The good shepherd</woc>
+				<woc>lays down his life for the sheep.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010012">
+			</marker>
+			<v n="12">
+				<woc>He who is</woc>
+				<crossref let="j" cid="c43010012.3" />
+				<woc>a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and</woc>
+				<woc>leaves the sheep and flees, and the wolf snatches them and</woc>
+				<woc>scatters them.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010013">
+			</marker>
+			<v n="13">
+				<woc>He flees because</woc>
+				<woc>he is a hired hand and</woc>
+				<woc>cares nothing for the sheep.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010014">
+			</marker>
+			<v n="14">
+				<crossref let="o" cid="c43010014.3" />
+				<woc>I am the good shepherd.</woc>
+				<woc>I know my own and</woc>
+				<woc>my own know me,</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010015">
+			</marker>
+			<v n="15">
+				<woc>just as the Father knows me and I know the Father; and</woc>
+				<woc>I lay down my life for the sheep.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010016">
+			</marker>
+			<v n="16">
+				<woc>And</woc>
+				<crossref let="t" cid="c43010016.3" />
+				<woc>I have other sheep that are not of this fold.</woc>
+				<crossref let="u" cid="c43010016.4" />
+				<woc>I must bring them also, and</woc>
+				<crossref let="v" cid="c43010016.5" />
+				<woc>they will listen to my voice. So there will be</woc>
+				<woc>one flock,</woc>
+				<woc>one shepherd.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010017">
+			</marker>
+			<v n="17">
+				<crossref let="y" cid="c43010017.3" />
+				<woc>For this reason the Father loves me,</woc>
+				<woc>because</woc>
+				<woc>I lay down my life that I may take it up again.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010018">
+			</marker>
+			<v n="18">
+				<woc>No one takes it from me, but</woc>
+				<woc>I lay it down</woc>
+				<woc>of my own accord. I have authority to lay it down, and</woc>
+				<woc>I have authority to take it up again.</woc>
+				<woc>This charge I have received from my Father.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010019">
+			</marker>
+			<v n="19">There was again a division among the Jews because of these words.</v>
+			<marker class="begin-verse" mid="v43010020">
+			</marker>
+			<v n="20">is insane; why listen to him?”</v>
+			<marker class="begin-verse" mid="v43010021">
+			</marker>
+			<v n="21">Can a demon open the eyes of the blind?”</v>
+			<marker class="begin-verse" mid="v43010022">
+			</marker>
+			<v n="22">At that time the Feast of Dedication took place at Jerusalem. It was winter,</v>
+			<marker class="begin-verse" mid="v43010023">
+			</marker>
+			<v n="23">in the colonnade of Solomon.</v>
+			<marker class="begin-verse" mid="v43010024">
+			</marker>
+			<v n="24">tell us plainly.”</v>
+			<marker class="begin-verse" mid="v43010025">
+			</marker>
+			<v n="25">Jesus answered them,<woc>“I told you, and you do not believe.</woc>
+				<woc>The works that I do</woc>
+				<woc>in my Father's name bear witness about me,</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010026">
+			</marker>
+			<v n="26">
+				<woc>but</woc>
+				<woc>you do not believe because you are not among my sheep.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010027">
+			</marker>
+			<v n="27">
+				<woc>My sheep hear my voice, and I know them, and they follow me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010028">
+			</marker>
+			<v n="28">
+				<woc>I give them eternal life, and</woc>
+				<woc>they will never perish, and</woc>
+				<woc>no one will snatch them out of my hand.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010029">
+			</marker>
+			<v n="29">
+				<woc>My Father,</woc>
+				<woc>who has given them to me,</woc>
+				<woc>is greater than all, and no one is able to snatch them out of</woc>
+				<woc>the Father's hand.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010030">
+			</marker>
+			<v n="30">
+				<woc>I and the Father are one.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010031">
+			</marker>
+			<v n="31">The Jews picked up stones again to stone him.</v>
+			<marker class="begin-verse" mid="v43010032">
+			</marker>
+			<v n="32">Jesus answered them,<woc>“I have shown you many good works from the Father; for which of them are you going to stone me?”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010033">
+			</marker>
+			<v n="33">make yourself God.”</v>
+			<marker class="begin-verse" mid="v43010034">
+			</marker>
+			<v n="34">Jesus answered them,<woc>“Is it not written in</woc>
+				<woc>your Law,</woc>
+				<woc>‘I said, you are gods’?</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010035">
+			</marker>
+			<v n="35">
+				<woc>If he called them gods to whom the word of God came—and Scripture cannot be</woc>
+				<woc>broken—</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010036">
+			</marker>
+			<v n="36">
+				<woc>do you say of him whom</woc>
+				<woc>the Father consecrated and</woc>
+				<woc>sent into the world, ‘You are blaspheming,’ because</woc>
+				<woc>I said, ‘I am the Son of God’?</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010037">
+			</marker>
+			<v n="37">
+				<woc>If I am not doing the works of my Father, then do not believe me;</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010038">
+			</marker>
+			<v n="38">
+				<woc>but if I do them,</woc>
+				<woc>even though you do not believe me, believe the works, that you may know and understand that</woc>
+				<woc>the Father is in me and I am in the Father.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43010039">
+			</marker>
+			<v n="39">Again they sought to arrest him, but he escaped from their hands.</v>
+			<marker class="begin-verse" mid="v43010040">
+			</marker>
+			<v n="40">where John had been baptizing at first, and there he remained.</v>
+			<marker class="begin-verse" mid="v43010041">
+			</marker>
+			<v n="41">everything that John said about this man was true.”</v>
+			<marker class="begin-verse" mid="v43010042">
+			</marker>
+			<v n="42">many believed in him there.</v>
+			<marker class="begin-verse" mid="v43010043">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">10:29 Some manuscripts *What my Father has given to me*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

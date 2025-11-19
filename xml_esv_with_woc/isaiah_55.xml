@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:54:41.911564</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:54:41.911572</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23055001">
+		</marker>
+		<chapter num="55">
+			<heading>
+				Isaiah 55
+			</heading>
+			<heading>
+				The Compassion of the LORD
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">without money and without price.</v>
+			<marker class="begin-verse" mid="v23055002">
+			</marker>
+			<v n="2">and delight yourselves in rich food.</v>
+			<marker class="begin-verse" mid="v23055003">
+			</marker>
+			<v n="3">
+				<crossref let="i" cid="c23055003.3" />my steadfast, sure love for<crossref let="j" cid="c23055003.4" />David.</v>
+			<marker class="begin-verse" mid="v23055004">
+			</marker>
+			<v n="4">
+				<crossref let="l" cid="c23055004.2" />a leader and commander for the peoples.</v>
+			<marker class="begin-verse" mid="v23055005">
+			</marker>
+			<v n="5">for he has glorified you.</v>
+			<marker class="begin-verse" mid="v23055006">
+			</marker>
+			<v n="6">call upon him while he is near;</v>
+			<marker class="begin-verse" mid="v23055007">
+			</marker>
+			<v n="7">and to our God, for he will abundantly pardon.</v>
+			<marker class="begin-verse" mid="v23055008">
+			</marker>
+			<v n="8">neither are your ways my ways, declares the Lord .</v>
+			<marker class="begin-verse" mid="v23055009">
+			</marker>
+			<v n="9">and my thoughts than your thoughts.</v>
+			<marker class="begin-verse" mid="v23055010">
+			</marker>
+			<v n="10">giving seed to the sower and bread to the eater,</v>
+			<marker class="begin-verse" mid="v23055011">
+			</marker>
+			<v n="11">and shall succeed in the thing for which I sent it.</v>
+			<marker class="begin-verse" mid="v23055012">
+			</marker>
+			<v n="12">and all the trees of the field shall clap their hands.</v>
+			<marker class="begin-verse" mid="v23055013">
+			</marker>
+			<v n="13">an everlasting sign that shall not be cut off.”</v>
+			<marker class="begin-verse" mid="v23055014">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

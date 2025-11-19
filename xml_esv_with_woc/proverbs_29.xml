@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:22.989786</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:22.989793</next_refresh_due>
+	</generation_info>
+	<book title="Proverbs" num="20" testament="old" bookAbbr="pro" version="ESV">
+		<marker class="begin-verse" mid="v20029001">
+		</marker>
+		<chapter num="29">
+			<heading>
+				Proverbs 29
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">will suddenly be<crossref let="b" cid="c20029001.2" />broken beyond healing.</v>
+			<marker class="begin-verse" mid="v20029002">
+			</marker>
+			<v n="2">the wicked rule, the people groan.</v>
+			<marker class="begin-verse" mid="v20029003">
+			</marker>
+			<v n="3">but<crossref let="g" cid="c20029003.3" />a companion of prostitutes squanders his wealth.</v>
+			<marker class="begin-verse" mid="v20029004">
+			</marker>
+			<v n="4">but he who exacts gifts tears it down.</v>
+			<marker class="begin-verse" mid="v20029005">
+			</marker>
+			<v n="5">a net for his feet.</v>
+			<marker class="begin-verse" mid="v20029006">
+			</marker>
+			<v n="6">sings and rejoices.</v>
+			<marker class="begin-verse" mid="v20029007">
+			</marker>
+			<v n="7">understand such knowledge.</v>
+			<marker class="begin-verse" mid="v20029008">
+			</marker>
+			<v n="8">but the wise turn away wrath.</v>
+			<marker class="begin-verse" mid="v20029009">
+			</marker>
+			<v n="9">no quiet.</v>
+			<marker class="begin-verse" mid="v20029010">
+			</marker>
+			<v n="10">and seek the life of the upright.</v>
+			<marker class="begin-verse" mid="v20029011">
+			</marker>
+			<v n="11">but a wise man quietly holds it back.</v>
+			<marker class="begin-verse" mid="v20029012">
+			</marker>
+			<v n="12">all his officials will be wicked.</v>
+			<marker class="begin-verse" mid="v20029013">
+			</marker>
+			<v n="13">gives light to the eyes of both.</v>
+			<marker class="begin-verse" mid="v20029014">
+			</marker>
+			<v n="14">be established forever.</v>
+			<marker class="begin-verse" mid="v20029015">
+			</marker>
+			<v n="15">brings shame to his mother.</v>
+			<marker class="begin-verse" mid="v20029016">
+			</marker>
+			<v n="16">the righteous will look upon their downfall.</v>
+			<marker class="begin-verse" mid="v20029017">
+			</marker>
+			<v n="17">he will give delight to your heart.</v>
+			<marker class="begin-verse" mid="v20029018">
+			</marker>
+			<v n="18">keeps the law.</v>
+			<marker class="begin-verse" mid="v20029019">
+			</marker>
+			<v n="19">for though he understands, he will not respond.</v>
+			<marker class="begin-verse" mid="v20029020">
+			</marker>
+			<v n="20">There is more hope for a fool than for him.</v>
+			<marker class="begin-verse" mid="v20029021">
+			</marker>
+			<v n="21">will in the end find him his heir.</v>
+			<marker class="begin-verse" mid="v20029022">
+			</marker>
+			<v n="22">and one given to anger causes much transgression.</v>
+			<marker class="begin-verse" mid="v20029023">
+			</marker>
+			<v n="23">but he who is lowly in spirit will obtain honor.</v>
+			<marker class="begin-verse" mid="v20029024">
+			</marker>
+			<v n="24">he hears the curse, but discloses nothing.</v>
+			<marker class="begin-verse" mid="v20029025">
+			</marker>
+			<v n="25">but whoever trusts in the Lord is safe.</v>
+			<marker class="begin-verse" mid="v20029026">
+			</marker>
+			<v n="26">gets justice.</v>
+			<marker class="begin-verse" mid="v20029027">
+			</marker>
+			<v n="27">but one whose way is straight is an abomination to the wicked.</v>
+			<marker class="begin-verse" mid="v20029028">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">29:4 Or *who taxes heavily*</footnote>
+				<footnote id="2">29:10 Or *but the upright seek his soul*</footnote>
+				<footnote id="3">29:18 Or *the people are discouraged*</footnote>
+				<footnote id="4">29:21 The meaning of the Hebrew word rendered *his heir* is uncertain</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

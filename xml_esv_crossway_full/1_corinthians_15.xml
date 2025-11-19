@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:37.800041</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:37.800050</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" bookAbbr="1co" version="ESV">
+		<marker class="begin-verse" mid="v46015001">
+		</marker>
+		<chapter num="15">
+			<heading>
+				1 Corinthians 15
+			</heading>
+			<heading>
+				The Resurrection of Christ
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Now I would remind you , brothers , of the gospel<crossref let="g" cid="c46015001.1" />I preached to you , which you received ,<crossref let="h" cid="c46015001.2" />in which you stand ,</v>
+			<marker class="begin-verse" mid="v46015002">
+			</marker>
+			<v n="2">and by which<crossref let="i" cid="c46015002.1" />you are being saved , if you<crossref let="j" cid="c46015002.2" />hold fast to the word I preached to you —<crossref let="k" cid="c46015002.3" />unless you believed in vain .</v>
+			<marker class="begin-verse" mid="v46015003">
+			</marker>
+			<v n="3">For<crossref let="l" cid="c46015003.1" />I delivered to you as of first importance what I also received : that Christ died<crossref let="m" cid="c46015003.2" />for our sins<crossref let="n" cid="c46015003.3" />in accordance with the Scriptures ,</v>
+			<marker class="begin-verse" mid="v46015004">
+			</marker>
+			<v n="4">that he was buried , that he was raised<crossref let="o" cid="c46015004.1" />on the third day<crossref let="p" cid="c46015004.2" />in accordance with the Scriptures ,</v>
+			<marker class="begin-verse" mid="v46015005">
+			</marker>
+			<v n="5">and that<crossref let="q" cid="c46015005.1" />he appeared to Cephas , then<crossref let="r" cid="c46015005.2" />to the twelve .</v>
+			<marker class="begin-verse" mid="v46015006">
+			</marker>
+			<v n="6">Then he appeared to more than five hundred brothers at one time , most of whom are still alive , though some have fallen asleep .</v>
+			<marker class="begin-verse" mid="v46015007">
+			</marker>
+			<v n="7">Then he appeared to<crossref let="s" cid="c46015007.1" />James , then<crossref let="t" cid="c46015007.2" />to all the apostles .</v>
+			<marker class="begin-verse" mid="v46015008">
+			</marker>
+			<v n="8">Last of all , as to one untimely born ,<crossref let="u" cid="c46015008.1" />he appeared also to me .</v>
+			<marker class="begin-verse" mid="v46015009">
+			</marker>
+			<v n="9">For<crossref let="v" cid="c46015009.1" />I am the least of the apostles , unworthy to be called an apostle , because<crossref let="w" cid="c46015009.2" />I persecuted the church of God .</v>
+			<marker class="begin-verse" mid="v46015010">
+			</marker>
+			<v n="10">But by the grace of God I am what I am , and his grace toward me was not in vain . On the contrary ,<crossref let="x" cid="c46015010.1" />I worked harder than any of them ,<crossref let="y" cid="c46015010.2" />though it was not I , but the grace of God that is with me .</v>
+			<marker class="begin-verse" mid="v46015011">
+			</marker>
+			<v n="11">Whether then it was I or they , so we preach and so you believed .</v>
+			<marker class="begin-verse" mid="v46015012">
+			</marker>
+			<v n="12">Now if Christ is proclaimed as raised from the dead ,<crossref let="z" cid="c46015012.1" />how can some of you say that there is no resurrection of the dead ?</v>
+			<marker class="begin-verse" mid="v46015013">
+			</marker>
+			<v n="13">But if there is no resurrection of the dead ,<crossref let="a" cid="c46015013.1" />then not even Christ has been raised .</v>
+			<marker class="begin-verse" mid="v46015014">
+			</marker>
+			<v n="14">And if Christ has not been raised , then our preaching is in vain and your faith is in vain .</v>
+			<marker class="begin-verse" mid="v46015015">
+			</marker>
+			<v n="15">We are even found to be misrepresenting God , because we testified about God that<crossref let="b" cid="c46015015.1" />he raised Christ , whom he did not raise if it is true that the dead are not raised .</v>
+			<marker class="begin-verse" mid="v46015016">
+			</marker>
+			<v n="16">For if the dead are not raised , not even Christ has been raised .</v>
+			<marker class="begin-verse" mid="v46015017">
+			</marker>
+			<v n="17">And if Christ has not been raised , your faith is futile and<crossref let="c" cid="c46015017.1" />you are still in your sins .</v>
+			<marker class="begin-verse" mid="v46015018">
+			</marker>
+			<v n="18">Then those also who<crossref let="d" cid="c46015018.1" />have fallen asleep in Christ have perished .</v>
+			<marker class="begin-verse" mid="v46015019">
+			</marker>
+			<v n="19">If in Christ we have hope in this life only ,<crossref let="e" cid="c46015019.1" />we are of all people most to be pitied .</v>
+			<marker class="begin-verse" mid="v46015020">
+			</marker>
+			<v n="20">But in fact<crossref let="f" cid="c46015020.1" />Christ has been raised from the dead ,<crossref let="g" cid="c46015020.2" />the firstfruits of those who have fallen asleep .</v>
+			<marker class="begin-verse" mid="v46015021">
+			</marker>
+			<v n="21">For as<crossref let="h" cid="c46015021.1" />by a man came death ,<crossref let="i" cid="c46015021.2" />by a man has come also the resurrection of the dead .</v>
+			<marker class="begin-verse" mid="v46015022">
+			</marker>
+			<v n="22">For<crossref let="j" cid="c46015022.1" />as in Adam all die , so also in Christ shall all be made alive .</v>
+			<marker class="begin-verse" mid="v46015023">
+			</marker>
+			<v n="23">But each in his own order : Christ the firstfruits , then<crossref let="k" cid="c46015023.1" />at his coming<crossref let="l" cid="c46015023.2" />those who belong to Christ .</v>
+			<marker class="begin-verse" mid="v46015024">
+			</marker>
+			<v n="24">Then comes the end , when he delivers<crossref let="m" cid="c46015024.1" />the kingdom to God the Father after destroying<crossref let="n" cid="c46015024.2" />every rule and every authority and power .</v>
+			<marker class="begin-verse" mid="v46015025">
+			</marker>
+			<v n="25">For he must reign<crossref let="o" cid="c46015025.1" />until he has put all his enemies under his feet .</v>
+			<marker class="begin-verse" mid="v46015026">
+			</marker>
+			<v n="26">The last enemy to be<crossref let="p" cid="c46015026.1" />destroyed is death .</v>
+			<marker class="begin-verse" mid="v46015027">
+			</marker>
+			<v n="27">For<crossref let="q" cid="c46015027.1" />“ God has put all things in subjection under his feet . ” But when it says , “ all things are put in subjection , ” it is plain that he is excepted who put all things in subjection under him .</v>
+			<marker class="begin-verse" mid="v46015028">
+			</marker>
+			<v n="28">When<crossref let="r" cid="c46015028.1" />all things are subjected to him , then the Son himself will also be subjected to him who put all things in subjection under him , that<crossref let="s" cid="c46015028.2" />God may be all in all .</v>
+			<marker class="begin-verse" mid="v46015029">
+			</marker>
+			<v n="29">Otherwise , what do people mean by being baptized on behalf of the dead ? If the dead are not raised at all , why are people baptized on their behalf ?</v>
+			<marker class="begin-verse" mid="v46015030">
+			</marker>
+			<v n="30">Why are we<crossref let="t" cid="c46015030.1" />in danger every hour ?</v>
+			<marker class="begin-verse" mid="v46015031">
+			</marker>
+			<v n="31">I protest , brothers , by<crossref let="u" cid="c46015031.1" />my pride in you , which I have in Christ Jesus our Lord ,<crossref let="v" cid="c46015031.2" />I die every day !</v>
+			<marker class="begin-verse" mid="v46015032">
+			</marker>
+			<v n="32">What do I gain if , humanly speaking ,<crossref let="w" cid="c46015032.1" />I fought with beasts at Ephesus ? If the dead are not raised ,<crossref let="x" cid="c46015032.2" />“ Let us eat and drink , for tomorrow we die . ”</v>
+			<marker class="begin-verse" mid="v46015033">
+			</marker>
+			<v n="33">
+				<crossref let="y" cid="c46015033.1" />Do not be deceived :<crossref let="z" cid="c46015033.2" />“ Bad company ruins good morals . ”</v>
+			<marker class="begin-verse" mid="v46015034">
+			</marker>
+			<v n="34">
+				<crossref let="a" cid="c46015034.1" />Wake up from your drunken stupor , as is right , and do not go on sinning . For<crossref let="b" cid="c46015034.2" />some have no knowledge of God .<crossref let="c" cid="c46015034.3" />I say this to your shame .</v>
+			<marker class="begin-verse" mid="v46015035">
+			</marker>
+			<v n="35">But someone will ask ,<crossref let="d" cid="c46015035.1" />“ How are the dead raised ? With what kind of body do they come ? ”</v>
+			<marker class="begin-verse" mid="v46015036">
+			</marker>
+			<v n="36">You foolish person !<crossref let="e" cid="c46015036.1" />What you sow does not come to life unless it dies .</v>
+			<marker class="begin-verse" mid="v46015037">
+			</marker>
+			<v n="37">And what you sow is not the body that is to be , but a bare kernel , perhaps of wheat or of some other grain .</v>
+			<marker class="begin-verse" mid="v46015038">
+			</marker>
+			<v n="38">But God gives it a body as he has chosen , and to each kind of seed its own body .</v>
+			<marker class="begin-verse" mid="v46015039">
+			</marker>
+			<v n="39">For not all flesh is the same , but there is one kind for humans , another for animals , another for birds , and another for fish .</v>
+			<marker class="begin-verse" mid="v46015040">
+			</marker>
+			<v n="40">There are heavenly bodies and earthly bodies , but the glory of the heavenly is of one kind , and the glory of the earthly is of another .</v>
+			<marker class="begin-verse" mid="v46015041">
+			</marker>
+			<v n="41">There is one glory of the sun , and another glory of the moon , and another glory of the stars ; for star differs from star in glory .</v>
+			<marker class="begin-verse" mid="v46015042">
+			</marker>
+			<v n="42">
+				<crossref let="f" cid="c46015042.1" />So is it with the resurrection of the dead . What is sown is perishable ; what is raised is imperishable .</v>
+			<marker class="begin-verse" mid="v46015043">
+			</marker>
+			<v n="43">It is sown in dishonor ;<crossref let="g" cid="c46015043.1" />it is raised in glory . It is sown in weakness ; it is raised in power .</v>
+			<marker class="begin-verse" mid="v46015044">
+			</marker>
+			<v n="44">It is sown a natural body ; it is raised a spiritual body . If there is a natural body , there is also a spiritual body .</v>
+			<marker class="begin-verse" mid="v46015045">
+			</marker>
+			<v n="45">Thus it is written ,<crossref let="h" cid="c46015045.1" />“ The first man Adam became a living being ” ;<crossref let="i" cid="c46015045.2" />the last Adam became a<crossref let="j" cid="c46015045.3" />life-giving spirit .</v>
+			<marker class="begin-verse" mid="v46015046">
+			</marker>
+			<v n="46">But it is not the spiritual that is first but the natural , and then the spiritual .</v>
+			<marker class="begin-verse" mid="v46015047">
+			</marker>
+			<v n="47">
+				<crossref let="k" cid="c46015047.1" />The first man was from the earth ,<crossref let="l" cid="c46015047.2" />a man of dust ;<crossref let="m" cid="c46015047.3" />the second man is from heaven .</v>
+			<marker class="begin-verse" mid="v46015048">
+			</marker>
+			<v n="48">As was the man of dust , so also are those who are of the dust , and as is the man of heaven ,<crossref let="n" cid="c46015048.1" />so also are those who are of heaven .</v>
+			<marker class="begin-verse" mid="v46015049">
+			</marker>
+			<v n="49">Just<crossref let="o" cid="c46015049.1" />as we have borne the image of the man of dust ,<crossref let="p" cid="c46015049.2" />we shall also bear the image of the man of heaven .</v>
+			<marker class="begin-verse" mid="v46015050">
+			</marker>
+			<v n="50">I tell you this , brothers :<crossref let="q" cid="c46015050.1" />flesh and blood<crossref let="r" cid="c46015050.2" />cannot inherit the kingdom of God , nor does the perishable inherit the imperishable .</v>
+			<marker class="begin-verse" mid="v46015051">
+			</marker>
+			<v n="51">Behold ! I tell you a mystery .<crossref let="s" cid="c46015051.1" />We shall not all sleep ,<crossref let="t" cid="c46015051.2" />but we shall all be changed ,</v>
+			<marker class="begin-verse" mid="v46015052">
+			</marker>
+			<v n="52">in a moment , in the twinkling of an eye , at the last trumpet . For<crossref let="u" cid="c46015052.1" />the trumpet will sound , and<crossref let="v" cid="c46015052.2" />the dead will be raised imperishable , and we shall be changed .</v>
+			<marker class="begin-verse" mid="v46015053">
+			</marker>
+			<v n="53">For this perishable body must put on the imperishable , and<crossref let="w" cid="c46015053.1" />this mortal body must put on immortality .</v>
+			<marker class="begin-verse" mid="v46015054">
+			</marker>
+			<v n="54">
+				<crossref let="x" cid="c46015054.1" />“ Death is swallowed up in victory . ”</v>
+			<marker class="begin-verse" mid="v46015055">
+			</marker>
+			<v n="55">O death , where is your sting ? ”</v>
+			<marker class="begin-verse" mid="v46015056">
+			</marker>
+			<v n="56">The sting of death is sin , and<crossref let="z" cid="c46015056.1" />the power of sin is the law .</v>
+			<marker class="begin-verse" mid="v46015057">
+			</marker>
+			<v n="57">But thanks be to God ,<crossref let="a" cid="c46015057.1" />who gives us the victory through our Lord Jesus Christ .</v>
+			<marker class="begin-verse" mid="v46015058">
+			</marker>
+			<v n="58">
+				<crossref let="b" cid="c46015058.1" />Therefore , my beloved brothers , be steadfast , immovable , always abounding in<crossref let="c" cid="c46015058.2" />the work of the Lord , knowing that in the Lord<crossref let="d" cid="c46015058.3" />your labor is not in vain .</v>
+			<marker class="begin-verse" mid="v46015059">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">15:1 Or *brothers and sisters*; also verses 6, 31, 50, 58</footnote>
+				<footnote id="2">15:19 Or *we have hoped*</footnote>
+				<footnote id="3">15:27 Greek *he*</footnote>
+				<footnote id="4">15:33 Probably from Menander’s comedy *Thais*</footnote>
+				<footnote id="5">15:45 Greek *a living soul*</footnote>
+				<footnote id="6">15:49 Some manuscripts *let us*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

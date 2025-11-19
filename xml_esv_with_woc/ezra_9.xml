@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:32:32.686832</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:32:32.686840</next_refresh_due>
+	</generation_info>
+	<book title="Ezra" num="15" testament="old" bookAbbr="ezr" version="ESV">
+		<marker class="begin-verse" mid="v15009001">
+		</marker>
+		<chapter num="9">
+			<heading>
+				Ezra 9
+			</heading>
+			<heading>
+				Ezra Prays About Intermarriage
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites.</v>
+			<marker class="begin-verse" mid="v15009002">
+			</marker>
+			<v n="2">mixed itself with the peoples of the lands. And in this faithlessness the hand of the officials and chief men has been foremost.”</v>
+			<marker class="begin-verse" mid="v15009003">
+			</marker>
+			<v n="3">sat appalled.</v>
+			<marker class="begin-verse" mid="v15009004">
+			</marker>
+			<v n="4">appalled until the evening sacrifice.</v>
+			<marker class="begin-verse" mid="v15009005">
+			</marker>
+			<v n="5">And at the<crossref let="k" cid="c15009005.1" />evening sacrifice I rose from my fasting, with my garment and my cloak torn, and fell upon my knees and spread out my hands to the Lord my God,</v>
+			<marker class="begin-verse" mid="v15009006">
+			</marker>
+			<v n="6">“O my God, I am ashamed and blush to lift my face to you, my God, for our iniquities have risen higher than our heads, and our guilt has<crossref let="p" cid="c15009006.1" />mounted up to the heavens.</v>
+			<marker class="begin-verse" mid="v15009007">
+			</marker>
+			<v n="7">
+				<crossref let="q" cid="c15009007.1" />From the days of our fathers to this day we have been in great guilt. And for our iniquities we, our kings, and our priests have been given into the hand of the kings of the lands, to the sword, to captivity, to plundering,<crossref let="s" cid="c15009007.2" />and to utter shame, as it is today.</v>
+			<marker class="begin-verse" mid="v15009008">
+			</marker>
+			<v n="8">But now for a brief moment favor has been shown by the Lord our God, to leave us a remnant and to give us a<crossref let="u" cid="c15009008.1" />secure hold within his holy place, that our God may<crossref let="v" cid="c15009008.2" />brighten our eyes and grant us a little reviving in our slavery.</v>
+			<marker class="begin-verse" mid="v15009009">
+			</marker>
+			<v n="9">For we are slaves. Yet our God has not forsaken us in our slavery,<crossref let="x" cid="c15009009.1" />but has extended to us his steadfast love before the kings of Persia, to grant us some reviving to set up the house of our God, to repair its ruins, and to give us protection in Judea and Jerusalem.</v>
+			<marker class="begin-verse" mid="v15009010">
+			</marker>
+			<v n="10">“And now, O our God, what shall we say after this? For we have forsaken your commandments,</v>
+			<marker class="begin-verse" mid="v15009011">
+			</marker>
+			<v n="11">their uncleanness.</v>
+			<marker class="begin-verse" mid="v15009012">
+			</marker>
+			<v n="12">and leave it for an inheritance to your children forever.’</v>
+			<marker class="begin-verse" mid="v15009013">
+			</marker>
+			<v n="13">remnant as this,</v>
+			<marker class="begin-verse" mid="v15009014">
+			</marker>
+			<v n="14">remnant, nor any to escape?</v>
+			<marker class="begin-verse" mid="v15009015">
+			</marker>
+			<v n="15">for none can stand before you because of this.”</v>
+			<marker class="begin-verse" mid="v15009016">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">9:2 Hebrew *offspring*</footnote>
+				<footnote id="2">9:8 Hebrew *nail*, or *tent-pin*</footnote>
+				<footnote id="3">9:9 Hebrew *a wall*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:41.912570</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:41.912578</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" bookAbbr="ecc" version="ESV">
+		<marker class="begin-verse" mid="v21011001">
+		</marker>
+		<chapter num="11">
+			<heading>
+				Ecclesiastes 11
+			</heading>
+			<heading>
+				Cast Your Bread upon the Waters
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="g" cid="c21011001.2" />for you will find it after many days.</v>
+			<marker class="begin-verse" mid="v21011002">
+			</marker>
+			<v n="2">
+				<crossref let="j" cid="c21011002.3" />for you know not what disaster may happen on earth.</v>
+			<marker class="begin-verse" mid="v21011003">
+			</marker>
+			<v n="3">in the place where the tree falls, there it will lie.</v>
+			<marker class="begin-verse" mid="v21011004">
+			</marker>
+			<v n="4">and he who regards the clouds will not reap.</v>
+			<marker class="begin-verse" mid="v21011005">
+			</marker>
+			<v n="5">As you do not know the way<crossref let="k" cid="c21011005.1" />the spirit comes to<crossref let="l" cid="c21011005.2" />the bones in the womb of a woman with child, so you do not know the work of God who makes everything.</v>
+			<marker class="begin-verse" mid="v21011006">
+			</marker>
+			<v n="6">In the morning sow your seed, and at evening<crossref let="m" cid="c21011006.1" />withhold not your hand, for you do not know which will prosper, this or that, or whether both alike will be good.</v>
+			<marker class="begin-verse" mid="v21011007">
+			</marker>
+			<v n="7">Light is sweet, and it is pleasant for the eyes to<crossref let="n" cid="c21011007.1" />see the sun.</v>
+			<marker class="begin-verse" mid="v21011008">
+			</marker>
+			<v n="8">So if a person lives many years, let him rejoice in them all; but let him remember<crossref let="o" cid="c21011008.1" />that the days of darkness will be many. All that comes is<crossref let="p" cid="c21011008.2" />vanity.</v>
+			<marker class="begin-verse" mid="v21011009">
+			</marker>
+			<v n="9">
+				<crossref let="q" cid="c21011009.1" />Rejoice, O young man, in your youth, and let your heart cheer you in the days of your youth.<crossref let="r" cid="c21011009.2" />Walk in the ways of your heart and<crossref let="s" cid="c21011009.3" />the sight of your eyes. But know that for all these things<crossref let="t" cid="c21011009.4" />God will bring you into judgment.</v>
+			<marker class="begin-verse" mid="v21011010">
+			</marker>
+			<v n="10">Remove vexation from your heart, and<crossref let="u" cid="c21011010.1" />put away pain from your body, for youth and the dawn of life are vanity.</v>
+			<marker class="begin-verse" mid="v21011011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">11:5 Some Hebrew manuscripts, Targum; most Hebrew manuscripts *As you do not know the way of the wind, or how the bones grow in the womb*</footnote>
+				<footnote id="2">11:8 The Hebrew term *hebel* can refer to a “vapor” or “mere breath”; also verse 10 (see note on 1:2)</footnote>
+				<footnote id="3">11:10 Or *evil*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

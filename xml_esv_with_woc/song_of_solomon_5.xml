@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:50.635543</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:50.635551</next_refresh_due>
+	</generation_info>
+	<book title="Song of Solomon" num="22" testament="old" bookAbbr="sng" version="ESV">
+		<marker class="begin-verse" mid="v22005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				Song of Solomon 5
+			</heading>
+			<heading>
+				He
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and be drunk with love!</v>
+			<marker class="begin-verse" mid="v22005002">
+			</marker>
+			<v n="2">locks with the drops of the night.”</v>
+			<marker class="begin-verse" mid="v22005003">
+			</marker>
+			<v n="3">how could I soil them?</v>
+			<marker class="begin-verse" mid="v22005004">
+			</marker>
+			<v n="4">and my heart was thrilled within me.</v>
+			<marker class="begin-verse" mid="v22005005">
+			</marker>
+			<v n="5">on the handles of the bolt.</v>
+			<marker class="begin-verse" mid="v22005006">
+			</marker>
+			<v n="6">I called him, but he gave no answer.</v>
+			<marker class="begin-verse" mid="v22005007">
+			</marker>
+			<v n="7">those watchmen of the walls.</v>
+			<marker class="begin-verse" mid="v22005008">
+			</marker>
+			<v n="8">I am sick with love.</v>
+			<marker class="begin-verse" mid="v22005009">
+			</marker>
+			<v n="9">adjure us?</v>
+			<marker class="begin-verse" mid="v22005010">
+			</marker>
+			<v n="10">distinguished among ten thousand.</v>
+			<marker class="begin-verse" mid="v22005011">
+			</marker>
+			<v n="11">black as a raven.</v>
+			<marker class="begin-verse" mid="v22005012">
+			</marker>
+			<v n="12">sitting beside a full pool.</v>
+			<marker class="begin-verse" mid="v22005013">
+			</marker>
+			<v n="13">liquid myrrh.</v>
+			<marker class="begin-verse" mid="v22005014">
+			</marker>
+			<v n="14">sapphires.</v>
+			<marker class="begin-verse" mid="v22005015">
+			</marker>
+			<v n="15">choice as the cedars.</v>
+			<marker class="begin-verse" mid="v22005016">
+			</marker>
+			<v n="16">daughters of Jerusalem.</v>
+			<marker class="begin-verse" mid="v22005017">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">5:12 The meaning of the Hebrew is uncertain</footnote>
+				<footnote id="2">5:14 The meaning of the Hebrew word is uncertain</footnote>
+				<footnote id="3">5:14 Hebrew *lapis lazuli*</footnote>
+				<footnote id="4">5:16 Hebrew *palate*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

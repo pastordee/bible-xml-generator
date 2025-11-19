@@ -1,0 +1,219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:01:04.187612</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:01:04.187626</next_refresh_due>
+	</generation_info>
+	<book title="Leviticus" num="3" testament="old" bookAbbr="lev" version="ESV">
+		<marker class="begin-verse" mid="v03025001">
+		</marker>
+		<chapter num="25">
+			<heading>
+				Leviticus 25
+			</heading>
+			<heading>
+				The Sabbath Year
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="w" cid="c03025001.1" />The Lord spoke to Moses on Mount Sinai , saying ,</v>
+			<marker class="begin-verse" mid="v03025002">
+			</marker>
+			<v n="2">“ Speak to the people of Israel and say to them , When you come into<crossref let="x" cid="c03025002.1" />the land that I give you , the land shall keep a Sabbath to the Lord .</v>
+			<marker class="begin-verse" mid="v03025003">
+			</marker>
+			<v n="3">For six years you shall sow your field , and for six years you shall prune your vineyard and gather in its fruits ,</v>
+			<marker class="begin-verse" mid="v03025004">
+			</marker>
+			<v n="4">but in the seventh year there shall be a Sabbath of solemn rest for the land , a Sabbath to the Lord . You shall not sow your field or prune your vineyard .</v>
+			<marker class="begin-verse" mid="v03025005">
+			</marker>
+			<v n="5">
+				<crossref let="y" cid="c03025005.1" />You shall not reap what grows of itself in your harvest , or gather the grapes of your undressed vine . It shall be a year of solemn rest for the land .</v>
+			<marker class="begin-verse" mid="v03025006">
+			</marker>
+			<v n="6">The Sabbath of the land shall provide food for you , for yourself and for your male and female slaves and for your hired worker and the sojourner who lives with you ,</v>
+			<marker class="begin-verse" mid="v03025007">
+			</marker>
+			<v n="7">and for your cattle and for the wild animals that are in your land :<crossref let="z" cid="c03025007.1" />all its yield shall be for food .</v>
+			<marker class="begin-verse" mid="v03025008">
+			</marker>
+			<v n="8">“ You shall count seven weeks of years , seven times seven years , so that the time of the seven weeks of years shall give you forty-nine years .</v>
+			<marker class="begin-verse" mid="v03025009">
+			</marker>
+			<v n="9">Then you shall sound<crossref let="a" cid="c03025009.1" />the loud trumpet on the tenth day of the seventh month .<crossref let="b" cid="c03025009.2" />On the Day of Atonement you shall sound the trumpet throughout all your land .</v>
+			<marker class="begin-verse" mid="v03025010">
+			</marker>
+			<v n="10">And you shall consecrate the fiftieth year , and<crossref let="c" cid="c03025010.1" />proclaim liberty throughout the land to all its inhabitants . It shall be a jubilee for you , when each of you shall return to his property and each of<crossref let="d" cid="c03025010.2" />you shall return to his clan .</v>
+			<marker class="begin-verse" mid="v03025011">
+			</marker>
+			<v n="11">That fiftieth year shall be a jubilee for you ; in it<crossref let="e" cid="c03025011.1" />you shall neither sow nor reap<crossref let="y" cid="c03025011.2" />what grows of itself nor gather the grapes from the undressed vines .</v>
+			<marker class="begin-verse" mid="v03025012">
+			</marker>
+			<v n="12">For it is a jubilee . It shall be holy to you .<crossref let="f" cid="c03025012.1" />You may eat the produce of the field .</v>
+			<marker class="begin-verse" mid="v03025013">
+			</marker>
+			<v n="13">
+				<crossref let="d" cid="c03025013.1" />“ In this year of jubilee each of you shall return to his property .</v>
+			<marker class="begin-verse" mid="v03025014">
+			</marker>
+			<v n="14">And if you make a sale to your neighbor or buy from your neighbor ,<crossref let="g" cid="c03025014.1" />you shall not wrong one another .</v>
+			<marker class="begin-verse" mid="v03025015">
+			</marker>
+			<v n="15">
+				<crossref let="h" cid="c03025015.1" />You shall pay your neighbor according to the number of years after the jubilee , and he shall sell to you according to the number of years for crops .</v>
+			<marker class="begin-verse" mid="v03025016">
+			</marker>
+			<v n="16">If the years are many , you shall increase the price , and if the years are few , you shall reduce the price , for it is the number of the crops that he is selling to you .</v>
+			<marker class="begin-verse" mid="v03025017">
+			</marker>
+			<v n="17">
+				<crossref let="i" cid="c03025017.1" />You shall not wrong one another , but you shall fear your God , for I am the Lord your God .</v>
+			<marker class="begin-verse" mid="v03025018">
+			</marker>
+			<v n="18">
+				<crossref let="j" cid="c03025018.1" />“ Therefore you shall do my statutes and keep my rules and perform them , and then<crossref let="k" cid="c03025018.2" />you will dwell in the land securely .</v>
+			<marker class="begin-verse" mid="v03025019">
+			</marker>
+			<v n="19">
+				<crossref let="l" cid="c03025019.2" />The land will yield its fruit , and<crossref let="m" cid="c03025019.3" />you will eat your fill<crossref let="k" cid="c03025019.1" />and dwell in it securely .</v>
+			<marker class="begin-verse" mid="v03025020">
+			</marker>
+			<v n="20">And if you say ,<crossref let="n" cid="c03025020.1" />‘ What shall we eat in the seventh year , if<crossref let="o" cid="c03025020.2" />we may not sow or gather in our crop ? ’</v>
+			<marker class="begin-verse" mid="v03025021">
+			</marker>
+			<v n="21">I will<crossref let="p" cid="c03025021.1" />command my blessing on you in the sixth year , so that it will produce a crop sufficient for three years .</v>
+			<marker class="begin-verse" mid="v03025022">
+			</marker>
+			<v n="22">
+				<crossref let="q" cid="c03025022.1" />When you sow in the eighth year , you will be eating some of<crossref let="r" cid="c03025022.2" />the old crop ; you shall eat the old until the ninth year , when its crop arrives .</v>
+			<marker class="begin-verse" mid="v03025023">
+			</marker>
+			<v n="23">“ The land shall not be sold in perpetuity , for<crossref let="s" cid="c03025023.1" />the land is mine . For you are strangers and sojourners with me .</v>
+			<marker class="begin-verse" mid="v03025024">
+			</marker>
+			<v n="24">And in all the country you possess , you shall allow a redemption of the land .</v>
+			<marker class="begin-verse" mid="v03025025">
+			</marker>
+			<v n="25">“ If your brother becomes poor and sells part of his property ,<crossref let="t" cid="c03025025.1" />then his nearest redeemer shall come and redeem what his brother has sold .</v>
+			<marker class="begin-verse" mid="v03025026">
+			</marker>
+			<v n="26">If a man has no one to redeem it and then himself becomes prosperous and finds sufficient means to redeem it ,</v>
+			<marker class="begin-verse" mid="v03025027">
+			</marker>
+			<v n="27">let<crossref let="u" cid="c03025027.1" />him calculate the years since he sold it and pay back the balance to the man to whom he sold it , and then return to his property .</v>
+			<marker class="begin-verse" mid="v03025028">
+			</marker>
+			<v n="28">But if he does not have sufficient means to recover it , then what he sold shall remain in the hand of the buyer until the year of jubilee . In the jubilee it shall<crossref let="v" cid="c03025028.1" />be released , and<crossref let="w" cid="c03025028.2" />he shall return to his property .</v>
+			<marker class="begin-verse" mid="v03025029">
+			</marker>
+			<v n="29">“ If a man sells a dwelling house in a walled city , he may redeem it within a year of its sale . For a full year he shall have the right of redemption .</v>
+			<marker class="begin-verse" mid="v03025030">
+			</marker>
+			<v n="30">If it is not redeemed within a full year , then the house in the walled city shall belong in perpetuity to the buyer , throughout his generations ;<crossref let="v" cid="c03025030.1" />it shall not be released in the jubilee .</v>
+			<marker class="begin-verse" mid="v03025031">
+			</marker>
+			<v n="31">But the houses of the villages that have no wall around them shall be classified with the fields of the land . They may be redeemed , and<crossref let="v" cid="c03025031.1" />they shall be released in the jubilee .</v>
+			<marker class="begin-verse" mid="v03025032">
+			</marker>
+			<v n="32">As for<crossref let="x" cid="c03025032.1" />the cities of the Levites , the Levites may redeem at any time the houses in the cities they possess .</v>
+			<marker class="begin-verse" mid="v03025033">
+			</marker>
+			<v n="33">And if one of the Levites exercises his right of redemption , then the house that was sold in a city they possess shall be released in the jubilee . For the houses in the cities of the Levites are their possession among the people of Israel .</v>
+			<marker class="begin-verse" mid="v03025034">
+			</marker>
+			<v n="34">But the fields<crossref let="y" cid="c03025034.1" />of pastureland belonging to their cities may not be sold , for that is their possession forever .</v>
+			<marker class="begin-verse" mid="v03025035">
+			</marker>
+			<v n="35">“ If your brother becomes poor and cannot maintain himself with you ,<crossref let="z" cid="c03025035.1" />you shall support him as though he were a stranger and a sojourner , and he shall live with you .</v>
+			<marker class="begin-verse" mid="v03025036">
+			</marker>
+			<v n="36">
+				<crossref let="a" cid="c03025036.1" />Take no interest from him or profit , but<crossref let="b" cid="c03025036.2" />fear your God , that your brother may live beside you .</v>
+			<marker class="begin-verse" mid="v03025037">
+			</marker>
+			<v n="37">
+				<crossref let="a" cid="c03025037.1" />You shall not lend him your money at interest , nor give him your food for profit .</v>
+			<marker class="begin-verse" mid="v03025038">
+			</marker>
+			<v n="38">
+				<crossref let="c" cid="c03025038.1" />I am the Lord your God , who brought you out of the land of Egypt to give you the land of Canaan , and to be your God .</v>
+			<marker class="begin-verse" mid="v03025039">
+			</marker>
+			<v n="39">
+				<crossref let="d" cid="c03025039.1" />“ If your brother becomes poor beside you and sells himself to you , you shall not make him serve as a slave :</v>
+			<marker class="begin-verse" mid="v03025040">
+			</marker>
+			<v n="40">he shall be with you as a hired worker and as a sojourner . He shall serve with you until the year of the jubilee .</v>
+			<marker class="begin-verse" mid="v03025041">
+			</marker>
+			<v n="41">
+				<crossref let="v" cid="c03025041.3" />Then he shall go out from you ,<crossref let="e" cid="c03025041.1" />he and his children with him , and go back to his own clan and return<crossref let="f" cid="c03025041.2" />to the possession of his fathers .</v>
+			<marker class="begin-verse" mid="v03025042">
+			</marker>
+			<v n="42">For they are<crossref let="g" cid="c03025042.1" />my servants , whom I brought out of the land of Egypt ; they shall not be sold as slaves .</v>
+			<marker class="begin-verse" mid="v03025043">
+			</marker>
+			<v n="43">
+				<crossref let="h" cid="c03025043.1" />You shall not rule over him<crossref let="i" cid="c03025043.2" />ruthlessly but<crossref let="j" cid="c03025043.3" />shall fear your God .</v>
+			<marker class="begin-verse" mid="v03025044">
+			</marker>
+			<v n="44">As for your male and female slaves whom you may have : you may buy male and female slaves from among the nations that are around you .</v>
+			<marker class="begin-verse" mid="v03025045">
+			</marker>
+			<v n="45">
+				<crossref let="k" cid="c03025045.1" />You may also buy from among the strangers who sojourn with you and their clans that are with you , who have been born in your land , and they may be your property .</v>
+			<marker class="begin-verse" mid="v03025046">
+			</marker>
+			<v n="46">You may bequeath them to your sons after you to inherit as a possession forever . You may make slaves of them , but over your brothers the people of Israel<crossref let="l" cid="c03025046.1" />you shall not rule , one over another ruthlessly .</v>
+			<marker class="begin-verse" mid="v03025047">
+			</marker>
+			<v n="47">“ If a stranger or sojourner with you becomes rich , and<crossref let="m" cid="c03025047.1" />your brother beside him becomes poor and sells himself to the stranger or sojourner with you or to a member of the stranger’s clan ,</v>
+			<marker class="begin-verse" mid="v03025048">
+			</marker>
+			<v n="48">then after he is sold he may be redeemed . One of his brothers may redeem him ,</v>
+			<marker class="begin-verse" mid="v03025049">
+			</marker>
+			<v n="49">or his uncle or his cousin may<crossref let="n" cid="c03025049.1" />redeem him , or a close relative from his clan may redeem him . Or if he<crossref let="o" cid="c03025049.2" />grows rich he may redeem himself .</v>
+			<marker class="begin-verse" mid="v03025050">
+			</marker>
+			<v n="50">He shall calculate with his buyer from the year when he sold himself to him until the year of jubilee , and the price of his sale shall vary with the number of years . The time he was with his owner shall be<crossref let="p" cid="c03025050.1" />rated as the time of a hired worker .</v>
+			<marker class="begin-verse" mid="v03025051">
+			</marker>
+			<v n="51">If there are still many years left , he shall pay proportionately for his redemption some of his sale price .</v>
+			<marker class="begin-verse" mid="v03025052">
+			</marker>
+			<v n="52">If there remain but a few years until the year of jubilee , he shall calculate and pay for his redemption in proportion to his years of service .</v>
+			<marker class="begin-verse" mid="v03025053">
+			</marker>
+			<v n="53">He shall treat him as a worker hired year by year .<crossref let="l" cid="c03025053.1" />He shall not rule ruthlessly over him in your sight .</v>
+			<marker class="begin-verse" mid="v03025054">
+			</marker>
+			<v n="54">And if he is not redeemed by these means , then<crossref let="q" cid="c03025054.1" />he and his children with him shall be released in the year of jubilee .</v>
+			<marker class="begin-verse" mid="v03025055">
+			</marker>
+			<v n="55">For it is<crossref let="r" cid="c03025055.1" />to me that the people of Israel are servants . They are my servants whom I brought out of the land of Egypt : I am the Lord your God .</v>
+			<marker class="begin-verse" mid="v03025056">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">25:6 That is, the Sabbath produce of the land</footnote>
+				<footnote id="2">25:6 Or *servants*</footnote>
+				<footnote id="3">25:8 Or *Sabbaths*</footnote>
+				<footnote id="4">25:12 Or *countryside*</footnote>
+				<footnote id="5">25:42 Hebrew *slaves*</footnote>
+				<footnote id="6">25:55 Or *slaves*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

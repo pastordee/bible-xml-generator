@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:04:30.104984</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:04:30.105004</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" bookAbbr="mat" version="ESV">
+		<marker class="begin-verse" mid="v40020001">
+		</marker>
+		<chapter num="20">
+			<heading>
+				Matthew 20
+			</heading>
+			<heading>
+				Laborers in the Vineyard
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<woc>“ For the kingdom of heaven is like a master of a house who went out early in the morning to hire laborers for his vineyard .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020002">
+			</marker>
+			<v n="2">
+				<woc>After agreeing with the laborers for a denarius a day , he sent them into his vineyard .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020003">
+			</marker>
+			<v n="3">
+				<woc>And going out about the third hour he saw others standing idle in the marketplace ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020004">
+			</marker>
+			<v n="4">
+				<woc>and to them he said , ‘ You go into the vineyard too , and whatever is right I will give you . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020005">
+			</marker>
+			<v n="5">
+				<woc>So they went .</woc>
+				<woc>Going out again about the sixth hour and the ninth hour , he did the same .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020006">
+			</marker>
+			<v n="6">
+				<woc>And</woc>
+				<crossref let="g" cid="c40020006.1" />
+				<woc>about the eleventh hour he went out and found others standing . And he said to them , ‘ Why do you stand here idle all day ? ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020007">
+			</marker>
+			<v n="7">
+				<woc>They said to him , ‘ Because no one has hired us . ’ He said to them , ‘ You go into the vineyard too . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020008">
+			</marker>
+			<v n="8">
+				<woc>And</woc>
+				<crossref let="h" cid="c40020008.1" />
+				<woc>when evening came , the owner of the vineyard said to his</woc>
+				<crossref let="i" cid="c40020008.2" />
+				<woc>foreman , ‘ Call the laborers and pay them their wages , beginning with the last , up to the first . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020009">
+			</marker>
+			<v n="9">
+				<woc>And when those hired about the eleventh hour came , each of them received a denarius .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020010">
+			</marker>
+			<v n="10">
+				<woc>Now when those hired first came , they thought they would receive more , but each of them also received a denarius .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020011">
+			</marker>
+			<v n="11">
+				<woc>And on receiving it they grumbled at the master of the house ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020012">
+			</marker>
+			<v n="12">
+				<woc>saying , ‘ These last worked only one hour , and you have made them equal to us who have borne the burden of the day and</woc>
+				<crossref let="j" cid="c40020012.1" />
+				<woc>the scorching heat . ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020013">
+			</marker>
+			<v n="13">
+				<woc>But he replied to one of them ,</woc>
+				<crossref let="k" cid="c40020013.1" />
+				<woc>‘ Friend , I am doing you no wrong . Did you not agree with me for a denarius ?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020014">
+			</marker>
+			<v n="14">
+				<woc>Take</woc>
+				<crossref let="l" cid="c40020014.1" />
+				<woc>what belongs to you and go . I choose to give to this last worker as I give to you .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020015">
+			</marker>
+			<v n="15">
+				<crossref let="m" cid="c40020015.1" />
+				<woc>Am I not allowed to do what I choose with what belongs to me ? Or</woc>
+				<crossref let="n" cid="c40020015.2" />
+				<woc>do you begrudge my generosity ? ’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020016">
+			</marker>
+			<v n="16">
+				<woc>So</woc>
+				<crossref let="o" cid="c40020016.1" />
+				<woc>the last will be first , and the first last . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020017">
+			</marker>
+			<v n="17">
+				<crossref let="p" cid="c40020017.1" />And as Jesus was going up to Jerusalem , he took the twelve disciples aside , and on the way he said to them ,</v>
+			<marker class="begin-verse" mid="v40020018">
+			</marker>
+			<v n="18">
+				<woc>“ See ,</woc>
+				<crossref let="q" cid="c40020018.1" />
+				<woc>we are going up to Jerusalem . And the Son of Man will be delivered over to the chief priests and scribes , and they will</woc>
+				<crossref let="r" cid="c40020018.2" />
+				<woc>condemn him to death</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020019">
+			</marker>
+			<v n="19">
+				<woc>and</woc>
+				<crossref let="s" cid="c40020019.1" />
+				<woc>deliver him over to the Gentiles</woc>
+				<crossref let="t" cid="c40020019.2" />
+				<woc>to be mocked and flogged and</woc>
+				<crossref let="u" cid="c40020019.3" />
+				<woc>crucified , and he will be raised on</woc>
+				<crossref let="v" cid="c40020019.4" />
+				<woc>the third day . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020020">
+			</marker>
+			<v n="20">
+				<crossref let="w" cid="c40020020.1" />Then<crossref let="x" cid="c40020020.2" />the mother of the sons of Zebedee came up to him with her sons , and<crossref let="y" cid="c40020020.3" />kneeling before him she asked him for something .</v>
+			<marker class="begin-verse" mid="v40020021">
+			</marker>
+			<v n="21">And he said to her , She said to him , “ Say that these two sons of mine<woc>“ What do you want ? ”</woc>
+				<crossref let="z" cid="c40020021.2" />are to sit , one at your right hand and one at your left ,<crossref let="a" cid="c40020021.1" />in your kingdom . ”</v>
+			<marker class="begin-verse" mid="v40020022">
+			</marker>
+			<v n="22">They said to him , “ We are able . ”<crossref let="b" cid="c40020022.1" />
+				<woc>“ You do not know what you are asking . Are you able</woc>
+				<crossref let="c" cid="c40020022.2" />
+				<woc>to drink the cup that I am to drink ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020023">
+			</marker>
+			<v n="23">He said to them ,<crossref let="d" cid="c40020023.1" />
+				<woc>“ You will drink</woc>
+				<crossref let="e" cid="c40020023.2" />
+				<woc>my cup , but to sit at my right hand and at my left is not mine to grant ,</woc>
+				<crossref let="f" cid="c40020023.3" />
+				<woc>but it is for those for whom it has been</woc>
+				<crossref let="g" cid="c40020023.4" />
+				<woc>prepared by my Father . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020024">
+			</marker>
+			<v n="24">And when the ten heard it , they were indignant at the two brothers .</v>
+			<marker class="begin-verse" mid="v40020025">
+			</marker>
+			<v n="25">But Jesus called them to him and said ,<crossref let="h" cid="c40020025.1" />
+				<woc>“ You know that the rulers of the Gentiles</woc>
+				<crossref let="i" cid="c40020025.2" />
+				<woc>lord it over them , and their great ones exercise authority over them .</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020026">
+			</marker>
+			<v n="26">
+				<crossref let="j" cid="c40020026.1" />
+				<woc>It shall not be so among you . But whoever would be great among you must be your servant ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020027">
+			</marker>
+			<v n="27">
+				<woc>and whoever would be first among you must be your slave ,</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020028">
+			</marker>
+			<v n="28">
+				<woc>even as the Son of Man came not to be served but</woc>
+				<crossref let="k" cid="c40020028.1" />
+				<woc>to serve , and</woc>
+				<crossref let="l" cid="c40020028.2" />
+				<woc>to give his life as a ransom for</woc>
+				<crossref let="m" cid="c40020028.3" />
+				<woc>many . ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020029">
+			</marker>
+			<v n="29">
+				<crossref let="n" cid="c40020029.1" />And as they went out of Jericho , a great crowd followed him .</v>
+			<marker class="begin-verse" mid="v40020030">
+			</marker>
+			<v n="30">And behold , there were two blind men sitting by the roadside , and when they heard that Jesus was passing by , they cried out , “ Lord , have mercy on us ,<crossref let="o" cid="c40020030.1" />Son of David ! ”</v>
+			<marker class="begin-verse" mid="v40020031">
+			</marker>
+			<v n="31">The crowd<crossref let="p" cid="c40020031.1" />rebuked them , telling them to be silent , but they cried out all the more , “ Lord , have mercy on us , Son of David ! ”</v>
+			<marker class="begin-verse" mid="v40020032">
+			</marker>
+			<v n="32">And stopping , Jesus called them and said ,<woc>“ What do you want me to do for you ? ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40020033">
+			</marker>
+			<v n="33">They said to him , “ Lord , let our eyes be opened . ”</v>
+			<marker class="begin-verse" mid="v40020034">
+			</marker>
+			<v n="34">And Jesus in pity touched their eyes , and immediately they recovered their sight and followed him .</v>
+			<marker class="begin-verse" mid="v40020035">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

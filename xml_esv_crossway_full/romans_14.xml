@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:07:12.831911</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:07:12.831922</next_refresh_due>
+	</generation_info>
+	<book title="Romans" num="45" testament="new" bookAbbr="rom" version="ESV">
+		<marker class="begin-verse" mid="v45014001">
+		</marker>
+		<chapter num="14">
+			<heading>
+				Romans 14
+			</heading>
+			<heading>
+				Do Not Pass Judgment on One Another
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">As for<crossref let="m" cid="c45014001.1" />the one who is weak in faith , welcome him , but not to quarrel over opinions .</v>
+			<marker class="begin-verse" mid="v45014002">
+			</marker>
+			<v n="2">
+				<crossref let="n" cid="c45014002.1" />One person believes he may eat anything , while the weak person eats only vegetables .</v>
+			<marker class="begin-verse" mid="v45014003">
+			</marker>
+			<v n="3">Let not the one who eats despise the one who abstains , and<crossref let="o" cid="c45014003.1" />let not the one who abstains pass judgment on the one who eats , for God has welcomed him .</v>
+			<marker class="begin-verse" mid="v45014004">
+			</marker>
+			<v n="4">
+				<crossref let="p" cid="c45014004.1" />Who are you to pass judgment on the servant of another ? It is before his own master that he stands or falls . And he will be upheld , for the Lord is able to make him stand .</v>
+			<marker class="begin-verse" mid="v45014005">
+			</marker>
+			<v n="5">
+				<crossref let="q" cid="c45014005.1" />One person esteems one day as better than another , while another esteems all days alike .<crossref let="r" cid="c45014005.2" />Each one should be fully convinced in his own mind .</v>
+			<marker class="begin-verse" mid="v45014006">
+			</marker>
+			<v n="6">The one who observes the day , observes it in honor of the Lord . The one who eats , eats in honor of the Lord , since<crossref let="s" cid="c45014006.1" />he gives thanks to God , while the one who abstains , abstains in honor of the Lord and gives thanks to God .</v>
+			<marker class="begin-verse" mid="v45014007">
+			</marker>
+			<v n="7">For<crossref let="t" cid="c45014007.1" />none of us lives to himself , and none of us dies to himself .</v>
+			<marker class="begin-verse" mid="v45014008">
+			</marker>
+			<v n="8">For if we live , we live to the Lord , and if we die , we die to the Lord . So then ,<crossref let="u" cid="c45014008.1" />whether we live or whether we die , we are the Lord’s .</v>
+			<marker class="begin-verse" mid="v45014009">
+			</marker>
+			<v n="9">For to this end Christ<crossref let="v" cid="c45014009.1" />died and lived again , that he might be Lord both<crossref let="w" cid="c45014009.2" />of the dead and of the living .</v>
+			<marker class="begin-verse" mid="v45014010">
+			</marker>
+			<v n="10">Why do you pass judgment on your brother ? Or you , why do you despise your brother ? For<crossref let="w" cid="c45014010.1" />we will all stand before<crossref let="x" cid="c45014010.2" />the judgment seat of God ;</v>
+			<marker class="begin-verse" mid="v45014011">
+			</marker>
+			<v n="11">and every tongue shall confess to God . ”</v>
+			<marker class="begin-verse" mid="v45014012">
+			</marker>
+			<v n="12">So then<crossref let="z" cid="c45014012.1" />each of us will give an account of himself to God .</v>
+			<marker class="begin-verse" mid="v45014013">
+			</marker>
+			<v n="13">
+				<crossref let="a" cid="c45014013.1" />Therefore let us not pass judgment on one another any longer , but rather decide<crossref let="b" cid="c45014013.2" />never to put a stumbling block or hindrance in the way of a brother .</v>
+			<marker class="begin-verse" mid="v45014014">
+			</marker>
+			<v n="14">I know and am persuaded in the Lord Jesus<crossref let="c" cid="c45014014.1" />that nothing is unclean in itself ,<crossref let="d" cid="c45014014.2" />but it is unclean for anyone who thinks it unclean .</v>
+			<marker class="begin-verse" mid="v45014015">
+			</marker>
+			<v n="15">For if your brother is grieved by what you eat ,<crossref let="e" cid="c45014015.1" />you are no longer walking in love .<crossref let="f" cid="c45014015.2" />By what you eat , do not destroy the one for whom Christ died .</v>
+			<marker class="begin-verse" mid="v45014016">
+			</marker>
+			<v n="16">
+				<crossref let="g" cid="c45014016.1" />So do not let what you regard as good be spoken of as evil .</v>
+			<marker class="begin-verse" mid="v45014017">
+			</marker>
+			<v n="17">
+				<crossref let="h" cid="c45014017.1" />For the kingdom of God is not a matter of eating and drinking but<crossref let="i" cid="c45014017.2" />of righteousness and<crossref let="j" cid="c45014017.3" />peace and joy in the Holy Spirit .</v>
+			<marker class="begin-verse" mid="v45014018">
+			</marker>
+			<v n="18">Whoever thus serves Christ is<crossref let="k" cid="c45014018.1" />acceptable to God and approved by men .</v>
+			<marker class="begin-verse" mid="v45014019">
+			</marker>
+			<v n="19">So then let us<crossref let="l" cid="c45014019.1" />pursue what makes for peace and for<crossref let="m" cid="c45014019.2" />mutual upbuilding .</v>
+			<marker class="begin-verse" mid="v45014020">
+			</marker>
+			<v n="20">
+				<crossref let="n" cid="c45014020.1" />Do not , for the sake of food , destroy the work of God .<crossref let="o" cid="c45014020.2" />Everything is indeed clean , but<crossref let="p" cid="c45014020.3" />it is wrong for anyone to make another stumble by what he eats .</v>
+			<marker class="begin-verse" mid="v45014021">
+			</marker>
+			<v n="21">
+				<crossref let="q" cid="c45014021.1" />It is good not to eat meat or drink wine or do anything that causes your brother to stumble .</v>
+			<marker class="begin-verse" mid="v45014022">
+			</marker>
+			<v n="22">The faith that you have , keep between yourself and God .<crossref let="r" cid="c45014022.1" />Blessed is the one who has no reason to pass judgment on himself for what he approves .</v>
+			<marker class="begin-verse" mid="v45014023">
+			</marker>
+			<v n="23">But whoever has doubts is condemned if he eats , because the eating is not from faith . For whatever does not proceed from faith is sin .</v>
+			<marker class="begin-verse" mid="v45014024">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">14:4 Or *lord*</footnote>
+				<footnote id="2">14:11 Or *shall give praise*</footnote>
+				<footnote id="3">14:21 Some manuscripts add *or be hindered or be weakened*</footnote>
+				<footnote id="4">14:23 Some manuscripts insert here 16:25–27</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

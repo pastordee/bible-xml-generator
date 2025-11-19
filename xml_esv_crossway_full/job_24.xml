@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:43.018690</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:43.018698</next_refresh_due>
+	</generation_info>
+	<book title="Job" num="18" testament="old" bookAbbr="job" version="ESV">
+		<marker class="begin-verse" mid="v18024001">
+		</marker>
+		<chapter num="24">
+			<heading>
+				Job 24
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">and why do those who know him never see his<crossref let="n" cid="c18024001.3" />days ?</v>
+			<marker class="begin-verse" mid="v18024002">
+			</marker>
+			<v n="2">they seize flocks and pasture them .</v>
+			<marker class="begin-verse" mid="v18024003">
+			</marker>
+			<v n="3">they<crossref let="p" cid="c18024003.1" />take the widow’s ox for a pledge .</v>
+			<marker class="begin-verse" mid="v18024004">
+			</marker>
+			<v n="4">the poor of the earth<crossref let="r" cid="c18024004.2" />all hide themselves .</v>
+			<marker class="begin-verse" mid="v18024005">
+			</marker>
+			<v n="5">the wasteland yields food for their children .</v>
+			<marker class="begin-verse" mid="v18024006">
+			</marker>
+			<v n="6">and they glean the vineyard of the wicked man .</v>
+			<marker class="begin-verse" mid="v18024007">
+			</marker>
+			<v n="7">and have no covering in the cold .</v>
+			<marker class="begin-verse" mid="v18024008">
+			</marker>
+			<v n="8">and<crossref let="v" cid="c18024008.1" />cling to the rock for lack of shelter .</v>
+			<marker class="begin-verse" mid="v18024009">
+			</marker>
+			<v n="9">and they take a pledge against the poor . )</v>
+			<marker class="begin-verse" mid="v18024010">
+			</marker>
+			<v n="10">hungry , they<crossref let="w" cid="c18024010.1" />carry the sheaves ;</v>
+			<marker class="begin-verse" mid="v18024011">
+			</marker>
+			<v n="11">they tread the winepresses , but suffer thirst .</v>
+			<marker class="begin-verse" mid="v18024012">
+			</marker>
+			<v n="12">yet God charges no one with<crossref let="y" cid="c18024012.2" />wrong .</v>
+			<marker class="begin-verse" mid="v18024013">
+			</marker>
+			<v n="13">and do not stay in its paths .</v>
+			<marker class="begin-verse" mid="v18024014">
+			</marker>
+			<v n="14">and in the night he is like a thief .</v>
+			<marker class="begin-verse" mid="v18024015">
+			</marker>
+			<v n="15">and he veils his face .</v>
+			<marker class="begin-verse" mid="v18024016">
+			</marker>
+			<v n="16">they do not know the light .</v>
+			<marker class="begin-verse" mid="v18024017">
+			</marker>
+			<v n="17">for they are friends with the terrors of deep darkness .</v>
+			<marker class="begin-verse" mid="v18024018">
+			</marker>
+			<v n="18">no treader turns toward their vineyards .</v>
+			<marker class="begin-verse" mid="v18024019">
+			</marker>
+			<v n="19">so does<crossref let="g" cid="c18024019.1" />Sheol those who have sinned .</v>
+			<marker class="begin-verse" mid="v18024020">
+			</marker>
+			<v n="20">so wickedness is broken like<crossref let="i" cid="c18024020.2" />a tree . ’</v>
+			<marker class="begin-verse" mid="v18024021">
+			</marker>
+			<v n="21">and do no good to the widow .</v>
+			<marker class="begin-verse" mid="v18024022">
+			</marker>
+			<v n="22">they rise up when they despair of life .</v>
+			<marker class="begin-verse" mid="v18024023">
+			</marker>
+			<v n="23">and his<crossref let="j" cid="c18024023.1" />eyes are upon their ways .</v>
+			<marker class="begin-verse" mid="v18024024">
+			</marker>
+			<v n="24">they are<crossref let="m" cid="c18024024.3" />cut off like the heads of grain .</v>
+			<marker class="begin-verse" mid="v18024025">
+			</marker>
+			<v n="25">and show that there is nothing in what I say ? ”</v>
+			<marker class="begin-verse" mid="v18024026">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">24:5 Hebrew *they*</footnote>
+				<footnote id="2">24:6 Hebrew *his*</footnote>
+				<footnote id="3">24:11 Hebrew *their olive rows*</footnote>
+				<footnote id="4">24:12 Or *the men*</footnote>
+				<footnote id="5">24:22 Hebrew *he*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

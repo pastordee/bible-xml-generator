@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:39:19.737967</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:39:19.737998</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19095001">
+		</marker>
+		<chapter num="95">
+			<heading>
+				Psalm 95
+			</heading>
+			<heading>
+				Let Us Sing Songs of Praise
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">let us<crossref let="f" cid="c19095001.1" />make a joyful noise to<crossref let="g" cid="c19095001.2" />the rock of our salvation!</v>
+			<marker class="begin-verse" mid="v19095002">
+			</marker>
+			<v n="2">make a joyful noise to him with songs of praise!</v>
+			<marker class="begin-verse" mid="v19095003">
+			</marker>
+			<v n="3">above all gods.</v>
+			<marker class="begin-verse" mid="v19095004">
+			</marker>
+			<v n="4">the heights of the mountains are his also.</v>
+			<marker class="begin-verse" mid="v19095005">
+			</marker>
+			<v n="5">the dry land.</v>
+			<marker class="begin-verse" mid="v19095006">
+			</marker>
+			<v n="6">Maker!</v>
+			<marker class="begin-verse" mid="v19095007">
+			</marker>
+			<v n="7">hear his voice,</v>
+			<marker class="begin-verse" mid="v19095008">
+			</marker>
+			<v n="8">Massah in the wilderness,</v>
+			<marker class="begin-verse" mid="v19095009">
+			</marker>
+			<v n="9">work.</v>
+			<marker class="begin-verse" mid="v19095010">
+			</marker>
+			<v n="10">my ways.”</v>
+			<marker class="begin-verse" mid="v19095011">
+			</marker>
+			<v n="11">my rest.”</v>
+			<marker class="begin-verse" mid="v19095012">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

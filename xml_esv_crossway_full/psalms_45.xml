@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:38:06.184145</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:38:06.184197</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19045001">
+		</marker>
+		<chapter num="45">
+			<heading>
+				Psalm 45
+			</heading>
+			<heading>
+				Your Throne, O God, Is Forever
+			</heading>
+			<heading>
+				To the choirmaster: according to Lilies. A Maskil(1) of the Sons of Korah; a love song.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">my tongue is like the pen of<crossref let="w" cid="c19045001.1" />a ready scribe .</v>
+			<marker class="begin-verse" mid="v19045002">
+			</marker>
+			<v n="2">therefore God has blessed you forever .</v>
+			<marker class="begin-verse" mid="v19045003">
+			</marker>
+			<v n="3">in<crossref let="c" cid="c19045003.3" />your splendor and majesty !</v>
+			<marker class="begin-verse" mid="v19045004">
+			</marker>
+			<v n="4">let your right hand teach you<crossref let="e" cid="c19045004.2" />awesome deeds !</v>
+			<marker class="begin-verse" mid="v19045005">
+			</marker>
+			<v n="5">the peoples fall under you .</v>
+			<marker class="begin-verse" mid="v19045006">
+			</marker>
+			<v n="6">The<crossref let="g" cid="c19045006.2" />scepter of your kingdom is a scepter of uprightness ;</v>
+			<marker class="begin-verse" mid="v19045007">
+			</marker>
+			<v n="7">with the oil of<crossref let="k" cid="c19045007.4" />gladness<crossref let="l" cid="c19045007.5" />beyond your companions ;</v>
+			<marker class="begin-verse" mid="v19045008">
+			</marker>
+			<v n="8">From ivory palaces<crossref let="n" cid="c19045008.2" />stringed instruments make you glad ;</v>
+			<marker class="begin-verse" mid="v19045009">
+			</marker>
+			<v n="9">
+				<crossref let="o" cid="c19045009.1" />at your right hand stands the queen in<crossref let="p" cid="c19045009.2" />gold of Ophir .</v>
+			<marker class="begin-verse" mid="v19045010">
+			</marker>
+			<v n="10">forget your people and your father’s house ,</v>
+			<marker class="begin-verse" mid="v19045011">
+			</marker>
+			<v n="11">Since he is your<crossref let="q" cid="c19045011.1" />lord ,<crossref let="r" cid="c19045011.2" />bow to him .</v>
+			<marker class="begin-verse" mid="v19045012">
+			</marker>
+			<v n="12">
+				<crossref let="u" cid="c19045012.3" />the richest of the people .</v>
+			<marker class="begin-verse" mid="v19045013">
+			</marker>
+			<v n="13">All glorious is<crossref let="v" cid="c19045013.1" />the princess in her chamber , with robes interwoven with gold .</v>
+			<marker class="begin-verse" mid="v19045014">
+			</marker>
+			<v n="14">with her virgin companions following behind her .</v>
+			<marker class="begin-verse" mid="v19045015">
+			</marker>
+			<v n="15">as they enter the palace of the king .</v>
+			<marker class="begin-verse" mid="v19045016">
+			</marker>
+			<v n="16">you will make them<crossref let="y" cid="c19045016.1" />princes in all the earth .</v>
+			<marker class="begin-verse" mid="v19045017">
+			</marker>
+			<v n="17">therefore nations will praise you forever and ever .</v>
+			<marker class="begin-verse" mid="v19045018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">45:1 Probably a musical or liturgical term</footnote>
+				<footnote id="2">45:12 Hebrew *daughter*</footnote>
+				<footnote id="3">45:12 Or *The daughter of Tyre is here with gifts, the richest of people seek your favor*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

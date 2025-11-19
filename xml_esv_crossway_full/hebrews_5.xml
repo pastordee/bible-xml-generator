@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:43.802821</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:43.802828</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" bookAbbr="heb" version="ESV">
+		<marker class="begin-verse" mid="v58005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				Hebrews 5
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">For every high priest chosen from among men<crossref let="j" cid="c58005001.1" />is appointed to act on behalf of men<crossref let="k" cid="c58005001.2" />in relation to God ,<crossref let="l" cid="c58005001.3" />to offer gifts and sacrifices for sins .</v>
+			<marker class="begin-verse" mid="v58005002">
+			</marker>
+			<v n="2">
+				<crossref let="m" cid="c58005002.1" />He can deal gently with the ignorant and wayward , since he himself<crossref let="n" cid="c58005002.2" />is beset with weakness .</v>
+			<marker class="begin-verse" mid="v58005003">
+			</marker>
+			<v n="3">Because of this he is obligated to offer sacrifice for his own sins<crossref let="o" cid="c58005003.1" />just as he does for those of the people .</v>
+			<marker class="begin-verse" mid="v58005004">
+			</marker>
+			<v n="4">And<crossref let="p" cid="c58005004.1" />no one takes this honor for himself , but only when called by God ,<crossref let="q" cid="c58005004.2" />just as Aaron was .</v>
+			<marker class="begin-verse" mid="v58005005">
+			</marker>
+			<v n="5">today I have begotten you ” ;</v>
+			<marker class="begin-verse" mid="v58005006">
+			</marker>
+			<v n="6">after the order of Melchizedek . ”</v>
+			<marker class="begin-verse" mid="v58005007">
+			</marker>
+			<v n="7">In the days of his flesh ,<crossref let="u" cid="c58005007.1" />Jesus offered up prayers and supplications ,<crossref let="v" cid="c58005007.2" />with loud cries and tears , to him<crossref let="w" cid="c58005007.3" />who was able to save him from death , and<crossref let="x" cid="c58005007.4" />he was heard because of his reverence .</v>
+			<marker class="begin-verse" mid="v58005008">
+			</marker>
+			<v n="8">Although<crossref let="y" cid="c58005008.1" />he was a son ,<crossref let="z" cid="c58005008.2" />he learned obedience through what he suffered .</v>
+			<marker class="begin-verse" mid="v58005009">
+			</marker>
+			<v n="9">And<crossref let="a" cid="c58005009.1" />being made perfect , he became the source of eternal salvation to all who obey him ,</v>
+			<marker class="begin-verse" mid="v58005010">
+			</marker>
+			<v n="10">being designated by God a high priest<crossref let="b" cid="c58005010.1" />after the order of Melchizedek .</v>
+			<marker class="begin-verse" mid="v58005011">
+			</marker>
+			<v n="11">About this we have much to say , and it is<crossref let="c" cid="c58005011.1" />hard to explain , since you have become dull of hearing .</v>
+			<marker class="begin-verse" mid="v58005012">
+			</marker>
+			<v n="12">For though by this time you ought to be teachers , you need someone to teach you again<crossref let="d" cid="c58005012.1" />the basic principles of the oracles of God . You need<crossref let="e" cid="c58005012.2" />milk , not solid food ,</v>
+			<marker class="begin-verse" mid="v58005013">
+			</marker>
+			<v n="13">for everyone who lives on milk is unskilled in the word of righteousness , since he is<crossref let="f" cid="c58005013.1" />a child .</v>
+			<marker class="begin-verse" mid="v58005014">
+			</marker>
+			<v n="14">But solid food is for<crossref let="g" cid="c58005014.1" />the mature , for those who have their powers<crossref let="h" cid="c58005014.2" />of discernment trained by constant practice to distinguish good from evil .</v>
+			<marker class="begin-verse" mid="v58005015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">5:7 Greek *he*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

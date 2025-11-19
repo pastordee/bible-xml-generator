@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:08:11.396708</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:08:11.396727</next_refresh_due>
+	</generation_info>
+	<book title="Ephesians" num="49" testament="new" bookAbbr="eph" version="ESV">
+		<marker class="begin-verse" mid="v49003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Ephesians 3
+			</heading>
+			<heading>
+				The Mystery of the Gospel Revealed
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">on behalf of you Gentiles—</v>
+			<marker class="begin-verse" mid="v49003002">
+			</marker>
+			<v n="2">God's grace that was given to me for you,</v>
+			<marker class="begin-verse" mid="v49003003">
+			</marker>
+			<v n="3">as I have written briefly.</v>
+			<marker class="begin-verse" mid="v49003004">
+			</marker>
+			<v n="4">the mystery of Christ,</v>
+			<marker class="begin-verse" mid="v49003005">
+			</marker>
+			<v n="5">which was not made known to the sons of men in other generations as it has now been revealed to his holy apostles and prophets by the Spirit.</v>
+			<marker class="begin-verse" mid="v49003006">
+			</marker>
+			<v n="6">partakers of the promise in Christ Jesus through the gospel.</v>
+			<marker class="begin-verse" mid="v49003007">
+			</marker>
+			<v n="7">by the working of his power.</v>
+			<marker class="begin-verse" mid="v49003008">
+			</marker>
+			<v n="8">riches of Christ,</v>
+			<marker class="begin-verse" mid="v49003009">
+			</marker>
+			<v n="9">who created all things,</v>
+			<marker class="begin-verse" mid="v49003010">
+			</marker>
+			<v n="10">in the heavenly places.</v>
+			<marker class="begin-verse" mid="v49003011">
+			</marker>
+			<v n="11">according to the eternal purpose that he has realized in Christ Jesus our Lord,</v>
+			<marker class="begin-verse" mid="v49003012">
+			</marker>
+			<v n="12">faith in him.</v>
+			<marker class="begin-verse" mid="v49003013">
+			</marker>
+			<v n="13">which is your glory.</v>
+			<marker class="begin-verse" mid="v49003014">
+			</marker>
+			<v n="14">For this reason I bow my knees before the Father,</v>
+			<marker class="begin-verse" mid="v49003015">
+			</marker>
+			<v n="15">every family in heaven and on earth is named,</v>
+			<marker class="begin-verse" mid="v49003016">
+			</marker>
+			<v n="16">in your inner being,</v>
+			<marker class="begin-verse" mid="v49003017">
+			</marker>
+			<v n="17">grounded in love,</v>
+			<marker class="begin-verse" mid="v49003018">
+			</marker>
+			<v n="18">height and depth,</v>
+			<marker class="begin-verse" mid="v49003019">
+			</marker>
+			<v n="19">the fullness of God.</v>
+			<marker class="begin-verse" mid="v49003020">
+			</marker>
+			<v n="20">according to the power at work within us,</v>
+			<marker class="begin-verse" mid="v49003021">
+			</marker>
+			<v n="21">to him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.</v>
+			<marker class="begin-verse" mid="v49003022">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">3:6 The words *This mystery is* are inferred from verse 4</footnote>
+				<footnote id="2">3:9 Or *by*</footnote>
+				<footnote id="3">3:15 Or *from whom all fatherhood*; the Greek word *patria* in verse 15 is closely related to the word for *Father* in verse 14</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

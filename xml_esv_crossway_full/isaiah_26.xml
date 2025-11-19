@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:53:59.539264</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:53:59.539272</next_refresh_due>
+	</generation_info>
+	<book title="Isaiah" num="23" testament="old" bookAbbr="isa" version="ESV">
+		<marker class="begin-verse" mid="v23026001">
+		</marker>
+		<chapter num="26">
+			<heading>
+				Isaiah 26
+			</heading>
+			<heading>
+				You Keep Him in Perfect Peace
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">as walls and bulwarks .</v>
+			<marker class="begin-verse" mid="v23026002">
+			</marker>
+			<v n="2">that the righteous nation that keeps faith may enter in .</v>
+			<marker class="begin-verse" mid="v23026003">
+			</marker>
+			<v n="3">because he trusts in you .</v>
+			<marker class="begin-verse" mid="v23026004">
+			</marker>
+			<v n="4">for the Lord God is an everlasting rock .</v>
+			<marker class="begin-verse" mid="v23026005">
+			</marker>
+			<v n="5">casts it to the dust .</v>
+			<marker class="begin-verse" mid="v23026006">
+			</marker>
+			<v n="6">the steps of<crossref let="j" cid="c23026006.1" />the needy . ”</v>
+			<marker class="begin-verse" mid="v23026007">
+			</marker>
+			<v n="7">
+				<crossref let="k" cid="c23026007.1" />you make level the way of the righteous .</v>
+			<marker class="begin-verse" mid="v23026008">
+			</marker>
+			<v n="8">are the desire of our soul .</v>
+			<marker class="begin-verse" mid="v23026009">
+			</marker>
+			<v n="9">the inhabitants of the world learn righteousness .</v>
+			<marker class="begin-verse" mid="v23026010">
+			</marker>
+			<v n="10">and does not see the majesty of the Lord .</v>
+			<marker class="begin-verse" mid="v23026011">
+			</marker>
+			<v n="11">Let<crossref let="q" cid="c23026011.3" />the fire for your adversaries consume them .</v>
+			<marker class="begin-verse" mid="v23026012">
+			</marker>
+			<v n="12">for you have indeed done for us all our works .</v>
+			<marker class="begin-verse" mid="v23026013">
+			</marker>
+			<v n="13">
+				<crossref let="t" cid="c23026013.2" />but your name alone we bring to remembrance .</v>
+			<marker class="begin-verse" mid="v23026014">
+			</marker>
+			<v n="14">and wiped out all remembrance of them .</v>
+			<marker class="begin-verse" mid="v23026015">
+			</marker>
+			<v n="15">
+				<crossref let="v" cid="c23026015.2" />you have enlarged all the borders of the land .</v>
+			<marker class="begin-verse" mid="v23026016">
+			</marker>
+			<v n="16">when your discipline was upon them .</v>
+			<marker class="begin-verse" mid="v23026017">
+			</marker>
+			<v n="17">so were we because of you , O Lord ;</v>
+			<marker class="begin-verse" mid="v23026018">
+			</marker>
+			<v n="18">and the inhabitants of the world have not fallen .</v>
+			<marker class="begin-verse" mid="v23026019">
+			</marker>
+			<v n="19">and the earth will give birth to the dead .</v>
+			<marker class="begin-verse" mid="v23026020">
+			</marker>
+			<v n="20">until the fury has passed by .</v>
+			<marker class="begin-verse" mid="v23026021">
+			</marker>
+			<v n="21">and will no more cover its slain .</v>
+			<marker class="begin-verse" mid="v23026022">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

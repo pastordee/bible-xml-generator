@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:34:28.786765</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:34:28.786795</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19013001">
+		</marker>
+		<chapter num="13">
+			<heading>
+				Psalm 13
+			</heading>
+			<heading>
+				How Long, O LORD?
+			</heading>
+			<heading>
+				To the choirmaster. A Psalm of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">How long will you<crossref let="x" cid="c19013001.3" />hide your face from me ?</v>
+			<marker class="begin-verse" mid="v19013002">
+			</marker>
+			<v n="2">How long shall my enemy be exalted over me ?</v>
+			<marker class="begin-verse" mid="v19013003">
+			</marker>
+			<v n="3">
+				<crossref let="a" cid="c19013003.1" />light up my eyes , lest<crossref let="b" cid="c19013003.2" />I sleep the sleep of death ,</v>
+			<marker class="begin-verse" mid="v19013004">
+			</marker>
+			<v n="4">lest my foes rejoice because I am<crossref let="d" cid="c19013004.2" />shaken .</v>
+			<marker class="begin-verse" mid="v19013005">
+			</marker>
+			<v n="5">my heart shall<crossref let="f" cid="c19013005.2" />rejoice in your salvation .</v>
+			<marker class="begin-verse" mid="v19013006">
+			</marker>
+			<v n="6">because he has dealt bountifully with me .</v>
+			<marker class="begin-verse" mid="v19013007">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

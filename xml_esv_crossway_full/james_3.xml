@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:26:59.897754</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:26:59.897761</next_refresh_due>
+	</generation_info>
+	<book title="James" num="59" testament="new" bookAbbr="jas" version="ESV">
+		<marker class="begin-verse" mid="v59003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				James 3
+			</heading>
+			<heading>
+				Taming the Tongue
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="c" cid="c59003001.1" />Not many of you should become teachers , my brothers , for you know that we who teach will be judged with greater strictness .</v>
+			<marker class="begin-verse" mid="v59003002">
+			</marker>
+			<v n="2">For<crossref let="d" cid="c59003002.1" />we all stumble in many ways . And if anyone does not stumble in what he says ,<crossref let="e" cid="c59003002.2" />he is a perfect man ,<crossref let="f" cid="c59003002.3" />able also to bridle his whole body .</v>
+			<marker class="begin-verse" mid="v59003003">
+			</marker>
+			<v n="3">If we put<crossref let="g" cid="c59003003.1" />bits into the mouths of horses so that they obey us , we guide their whole bodies as well .</v>
+			<marker class="begin-verse" mid="v59003004">
+			</marker>
+			<v n="4">Look at the ships also : though they are so large and are driven by strong winds , they are guided by a very small rudder wherever the will of the pilot directs .</v>
+			<marker class="begin-verse" mid="v59003005">
+			</marker>
+			<v n="5">How great a forest is set ablaze by such a small fire !</v>
+			<marker class="begin-verse" mid="v59003006">
+			</marker>
+			<v n="6">And<crossref let="i" cid="c59003006.1" />the tongue is a fire , a world of unrighteousness . The tongue is set among our members ,<crossref let="j" cid="c59003006.2" />staining the whole body , setting on fire the entire course of life , and set on fire by hell .</v>
+			<marker class="begin-verse" mid="v59003007">
+			</marker>
+			<v n="7">For every kind of beast and bird , of reptile and sea creature , can be tamed and has been tamed by mankind ,</v>
+			<marker class="begin-verse" mid="v59003008">
+			</marker>
+			<v n="8">but no human being can tame the tongue . It is a restless evil ,<crossref let="k" cid="c59003008.1" />full of deadly poison .</v>
+			<marker class="begin-verse" mid="v59003009">
+			</marker>
+			<v n="9">With it we bless our Lord and Father , and with it we curse people<crossref let="l" cid="c59003009.1" />who are made in the likeness of God .</v>
+			<marker class="begin-verse" mid="v59003010">
+			</marker>
+			<v n="10">From the same mouth come blessing and cursing . My brothers , these things ought not to be so .</v>
+			<marker class="begin-verse" mid="v59003011">
+			</marker>
+			<v n="11">Does a spring pour forth from the same opening both fresh and salt water ?</v>
+			<marker class="begin-verse" mid="v59003012">
+			</marker>
+			<v n="12">Can a fig tree , my brothers , bear olives , or a grapevine produce figs ? Neither can a salt pond yield fresh water .</v>
+			<marker class="begin-verse" mid="v59003013">
+			</marker>
+			<v n="13">Who is wise and understanding among you ?<crossref let="m" cid="c59003013.1" />By his good conduct let him show his works<crossref let="n" cid="c59003013.2" />in the meekness of wisdom .</v>
+			<marker class="begin-verse" mid="v59003014">
+			</marker>
+			<v n="14">But if you have bitter<crossref let="o" cid="c59003014.1" />jealousy and selfish ambition in your hearts , do not boast and be false to the truth .</v>
+			<marker class="begin-verse" mid="v59003015">
+			</marker>
+			<v n="15">This is not<crossref let="p" cid="c59003015.1" />the wisdom that comes down from above , but is earthly , unspiritual ,<crossref let="q" cid="c59003015.2" />demonic .</v>
+			<marker class="begin-verse" mid="v59003016">
+			</marker>
+			<v n="16">For where jealousy and selfish ambition exist , there will be disorder and every vile practice .</v>
+			<marker class="begin-verse" mid="v59003017">
+			</marker>
+			<v n="17">But<crossref let="r" cid="c59003017.1" />the wisdom from above is first pure , then<crossref let="s" cid="c59003017.2" />peaceable , gentle , open to reason ,<crossref let="t" cid="c59003017.3" />full of mercy and good fruits ,<crossref let="u" cid="c59003017.4" />impartial and<crossref let="v" cid="c59003017.5" />sincere .</v>
+			<marker class="begin-verse" mid="v59003018">
+			</marker>
+			<v n="18">And<crossref let="w" cid="c59003018.1" />a harvest of righteousness<crossref let="x" cid="c59003018.2" />is sown in peace by those who make peace .</v>
+			<marker class="begin-verse" mid="v59003019">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">3:6 Or *wheel of birth*</footnote>
+				<footnote id="2">3:6 Greek *Gehenna*</footnote>
+				<footnote id="3">3:10 Or *brothers and sisters*; also verse 12</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:37:39.733840</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:37:39.733848</next_refresh_due>
+	</generation_info>
+	<book title="Psalms" num="19" testament="old" bookAbbr="psa" version="ESV">
+		<marker class="begin-verse" mid="v19027001">
+		</marker>
+		<chapter num="27">
+			<heading>
+				Psalm 27
+			</heading>
+			<heading>
+				The LORD Is My Light and My Salvation
+			</heading>
+			<heading>
+				Of David.
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">of whom shall I be afraid ?</v>
+			<marker class="begin-verse" mid="v19027002">
+			</marker>
+			<v n="2">it is they who stumble and fall .</v>
+			<marker class="begin-verse" mid="v19027003">
+			</marker>
+			<v n="3">yet I will be confident .</v>
+			<marker class="begin-verse" mid="v19027004">
+			</marker>
+			<v n="4">and to inquire in his temple .</v>
+			<marker class="begin-verse" mid="v19027005">
+			</marker>
+			<v n="5">he will<crossref let="q" cid="c19027005.2" />lift me high upon a rock .</v>
+			<marker class="begin-verse" mid="v19027006">
+			</marker>
+			<v n="6">
+				<crossref let="t" cid="c19027006.3" />I will sing and make melody to the Lord .</v>
+			<marker class="begin-verse" mid="v19027007">
+			</marker>
+			<v n="7">be gracious to me and answer me !</v>
+			<marker class="begin-verse" mid="v19027008">
+			</marker>
+			<v n="8">“ Your face , Lord , do I seek . ”</v>
+			<marker class="begin-verse" mid="v19027009">
+			</marker>
+			<v n="9">
+				<crossref let="x" cid="c19027009.2" />O God of my salvation !</v>
+			<marker class="begin-verse" mid="v19027010">
+			</marker>
+			<v n="10">but the Lord will<crossref let="z" cid="c19027010.2" />take me in .</v>
+			<marker class="begin-verse" mid="v19027011">
+			</marker>
+			<v n="11">because of my enemies .</v>
+			<marker class="begin-verse" mid="v19027012">
+			</marker>
+			<v n="12">and they<crossref let="e" cid="c19027012.3" />breathe out violence .</v>
+			<marker class="begin-verse" mid="v19027013">
+			</marker>
+			<v n="13">in<crossref let="g" cid="c19027013.2" />the land of the living !</v>
+			<marker class="begin-verse" mid="v19027014">
+			</marker>
+			<v n="14">wait for the Lord !</v>
+			<marker class="begin-verse" mid="v19027015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">27:1 Or *refuge*</footnote>
+				<footnote id="2">27:3 Or *in this*</footnote>
+				<footnote id="3">27:4 Or *meditate*</footnote>
+				<footnote id="4">27:8 The command (*seek*) is addressed to more than one person</footnote>
+				<footnote id="5">27:8 The meaning of the Hebrew verse is uncertain</footnote>
+				<footnote id="6">27:13 Other Hebrew manuscripts *Oh! Had I not believed that I would look*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:42.463947</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:42.463971</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" bookAbbr="rev" version="ESV">
+		<marker class="begin-verse" mid="v66011001">
+		</marker>
+		<chapter num="11">
+			<heading>
+				Revelation 11
+			</heading>
+			<heading>
+				The Two Witnesses
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">a measuring rod like a staff, and I was told, “Rise and measure the temple of God and the altar and those who worship there,</v>
+			<marker class="begin-verse" mid="v66011002">
+			</marker>
+			<v n="2">forty-two months.</v>
+			<marker class="begin-verse" mid="v66011003">
+			</marker>
+			<v n="3">clothed in sackcloth.”</v>
+			<marker class="begin-verse" mid="v66011004">
+			</marker>
+			<v n="4">the two olive trees and the two lampstands that stand before the Lord of the earth.</v>
+			<marker class="begin-verse" mid="v66011005">
+			</marker>
+			<v n="5">this is how he is doomed to be killed.</v>
+			<marker class="begin-verse" mid="v66011006">
+			</marker>
+			<v n="6">to strike the earth with every kind of plague, as often as they desire.</v>
+			<marker class="begin-verse" mid="v66011007">
+			</marker>
+			<v n="7">will make war on them and conquer them and kill them,</v>
+			<marker class="begin-verse" mid="v66011008">
+			</marker>
+			<v n="8">Egypt, where their Lord was crucified.</v>
+			<marker class="begin-verse" mid="v66011009">
+			</marker>
+			<v n="9">refuse to let them be placed in a tomb,</v>
+			<marker class="begin-verse" mid="v66011010">
+			</marker>
+			<v n="10">had been a torment to those who dwell on the earth.</v>
+			<marker class="begin-verse" mid="v66011011">
+			</marker>
+			<v n="11">a breath of life from God entered them, and they stood up on their feet, and great fear fell on those who saw them.</v>
+			<marker class="begin-verse" mid="v66011012">
+			</marker>
+			<v n="12">in a cloud, and their enemies watched them.</v>
+			<marker class="begin-verse" mid="v66011013">
+			</marker>
+			<v n="13">the God of heaven.</v>
+			<marker class="begin-verse" mid="v66011014">
+			</marker>
+			<v n="14">The second woe has passed; behold, the third woe is soon to come.</v>
+			<marker class="begin-verse" mid="v66011015">
+			</marker>
+			<v n="15">he shall reign forever and ever.”</v>
+			<marker class="begin-verse" mid="v66011016">
+			</marker>
+			<v n="16">fell on their faces and worshiped God,</v>
+			<marker class="begin-verse" mid="v66011017">
+			</marker>
+			<v n="17">begun to reign.</v>
+			<marker class="begin-verse" mid="v66011018">
+			</marker>
+			<v n="18">for destroying the destroyers of the earth.”</v>
+			<marker class="begin-verse" mid="v66011019">
+			</marker>
+			<v n="19">heavy hail.</v>
+			<marker class="begin-verse" mid="v66011020">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">11:7 Or *the abyss*</footnote>
+				<footnote id="2">11:8 Greek *spiritually*</footnote>
+				<footnote id="3">11:19 Or *voices*, or *sounds*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

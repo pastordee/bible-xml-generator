@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:33:00.760828</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:33:00.760836</next_refresh_due>
+	</generation_info>
+	<book title="Esther" num="17" testament="old" bookAbbr="est" version="ESV">
+		<marker class="begin-verse" mid="v17005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				Esther 5
+			</heading>
+			<heading>
+				Esther Prepares a Banquet
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">the inner court of the king's palace, in front of the king's quarters, while the king was sitting on his royal throne inside the throne room opposite the entrance to the palace.</v>
+			<marker class="begin-verse" mid="v17005002">
+			</marker>
+			<v n="2">and he held out to Esther the golden scepter that was in his hand. Then Esther approached and touched the tip of the scepter.</v>
+			<marker class="begin-verse" mid="v17005003">
+			</marker>
+			<v n="3">to the half of my kingdom.”</v>
+			<marker class="begin-verse" mid="v17005004">
+			</marker>
+			<v n="4">And Esther said, “If it please the king, let the king and Haman come today to a feast that I have prepared for the king.”</v>
+			<marker class="begin-verse" mid="v17005005">
+			</marker>
+			<v n="5">Then the king said, “Bring Haman quickly, so that we may do as Esther has asked.” So the king and Haman came to the feast that Esther had prepared.</v>
+			<marker class="begin-verse" mid="v17005006">
+			</marker>
+			<v n="6">Even to the half of my kingdom, it shall be fulfilled.”</v>
+			<marker class="begin-verse" mid="v17005007">
+			</marker>
+			<v n="7">Then Esther answered, “My wish and my request is:</v>
+			<marker class="begin-verse" mid="v17005008">
+			</marker>
+			<v n="8">the feast that I will prepare for them, and tomorrow I will do as the king has said.”</v>
+			<marker class="begin-verse" mid="v17005009">
+			</marker>
+			<v n="9">that he neither rose nor trembled before him, he was filled with wrath against Mordecai.</v>
+			<marker class="begin-verse" mid="v17005010">
+			</marker>
+			<v n="10">his wife Zeresh.</v>
+			<marker class="begin-verse" mid="v17005011">
+			</marker>
+			<v n="11">the king had honored him, and how he had advanced him above the officials and the servants of the king.</v>
+			<marker class="begin-verse" mid="v17005012">
+			</marker>
+			<v n="12">Then Haman said, “Even Queen Esther let no one but me come with the king to the feast she prepared. And tomorrow also I am invited by her together with the king.</v>
+			<marker class="begin-verse" mid="v17005013">
+			</marker>
+			<v n="13">at the king's gate.”</v>
+			<marker class="begin-verse" mid="v17005014">
+			</marker>
+			<v n="14">“Let a gallows fifty cubits high be made, and in the morning tell the king to have Mordecai hanged upon it. Then go joyfully with the king to the feast.” This idea pleased Haman, and he had the gallows made.</v>
+			<marker class="begin-verse" mid="v17005015">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">5:4 Hebrew *If it is good to the king*</footnote>
+				<footnote id="2">5:6 Or *done*</footnote>
+				<footnote id="3">5:8 Hebrew *if it is good to the king*</footnote>
+				<footnote id="4">5:14 Or *wooden beam*; twice in this verse (see note on 2:23)</footnote>
+				<footnote id="5">5:14 A *cubit* was about 18 inches or 45 centimeters</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

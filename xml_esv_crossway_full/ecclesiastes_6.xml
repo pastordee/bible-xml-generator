@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:41:34.626184</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:41:34.626193</next_refresh_due>
+	</generation_info>
+	<book title="Ecclesiastes" num="21" testament="old" bookAbbr="ecc" version="ESV">
+		<marker class="begin-verse" mid="v21006001">
+		</marker>
+		<chapter num="6">
+			<heading>
+				Ecclesiastes 6
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">
+				<crossref let="n" cid="c21006001.1" />There is an evil that I have seen under the sun , and it lies heavy on mankind :</v>
+			<marker class="begin-verse" mid="v21006002">
+			</marker>
+			<v n="2">a man<crossref let="o" cid="c21006002.1" />to whom<crossref let="p" cid="c21006002.2" />God gives wealth , possessions , and honor , so that he<crossref let="q" cid="c21006002.3" />lacks nothing of all that he desires , yet God<crossref let="r" cid="c21006002.4" />does not give him power to enjoy them , but a stranger enjoys them . This is vanity ; it is a grievous evil .</v>
+			<marker class="begin-verse" mid="v21006003">
+			</marker>
+			<v n="3">If a man fathers a hundred children and lives many years , so that<crossref let="s" cid="c21006003.1" />the days of his years are many , but his soul is not satisfied with life’s<crossref let="t" cid="c21006003.2" />good things , and he also has no<crossref let="u" cid="c21006003.3" />burial , I say that<crossref let="v" cid="c21006003.4" />a stillborn child is better off than he .</v>
+			<marker class="begin-verse" mid="v21006004">
+			</marker>
+			<v n="4">For it comes in vanity and goes in darkness , and in darkness its name is covered .</v>
+			<marker class="begin-verse" mid="v21006005">
+			</marker>
+			<v n="5">Moreover , it has not<crossref let="w" cid="c21006005.1" />seen the sun or known anything , yet it finds<crossref let="x" cid="c21006005.2" />rest rather than he .</v>
+			<marker class="begin-verse" mid="v21006006">
+			</marker>
+			<v n="6">Even though he should live a thousand years twice over , yet enjoy no good — do not all go to the one place ?</v>
+			<marker class="begin-verse" mid="v21006007">
+			</marker>
+			<v n="7">
+				<crossref let="y" cid="c21006007.1" />All the toil of man is for his mouth , yet his appetite is not satisfied .</v>
+			<marker class="begin-verse" mid="v21006008">
+			</marker>
+			<v n="8">For what advantage has the wise man<crossref let="z" cid="c21006008.1" />over the fool ? And what does the poor man have who knows how to conduct himself before the living ?</v>
+			<marker class="begin-verse" mid="v21006009">
+			</marker>
+			<v n="9">Better<crossref let="a" cid="c21006009.1" />is the sight of the eyes than the wandering of the appetite : this also is<crossref let="b" cid="c21006009.2" />vanity and a striving after wind .</v>
+			<marker class="begin-verse" mid="v21006010">
+			</marker>
+			<v n="10">Whatever has come to be has<crossref let="c" cid="c21006010.1" />already been named , and it is known what man is , and that he is not able to<crossref let="d" cid="c21006010.2" />dispute with one stronger than he .</v>
+			<marker class="begin-verse" mid="v21006011">
+			</marker>
+			<v n="11">The more words , the more vanity , and what is the advantage to man ?</v>
+			<marker class="begin-verse" mid="v21006012">
+			</marker>
+			<v n="12">For who knows what is good for man while he lives the few days of his<crossref let="e" cid="c21006012.1" />vain life , which he passes like<crossref let="f" cid="c21006012.2" />a shadow ? For who can tell man what will be<crossref let="g" cid="c21006012.3" />after him under the sun ?</v>
+			<marker class="begin-verse" mid="v21006013">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">6:2 The Hebrew term *hebel* can refer to a “vapor” or “mere breath”; also verses 4, 9, 11 (see note on 1:2)</footnote>
+				<footnote id="2">6:6 Or *see*</footnote>
+				<footnote id="3">6:7 Hebrew *filled*</footnote>
+				<footnote id="4">6:12 The Hebrew term *hebel* can refer to a “vapor” or “mere breath” (see note on 1:2)</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

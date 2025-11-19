@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:02:29.285704</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:02:29.285710</next_refresh_due>
+	</generation_info>
+	<book title="Deuteronomy" num="5" testament="old" bookAbbr="deu" version="ESV">
+		<marker class="begin-verse" mid="v05020001">
+		</marker>
+		<chapter num="20">
+			<heading>
+				Deuteronomy 20
+			</heading>
+			<heading>
+				Laws Concerning Warfare
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">20 “When you go out to war against your enemies, and see<crossref let="i" cid="c05020001.1" />horses and chariots and an army larger than your own, you shall not be afraid of them, for the Lord your God is<crossref let="j" cid="c05020001.2" />with you, who brought you up out of the land of Egypt.</v>
+			<marker class="begin-verse" mid="v05020002">
+			</marker>
+			<v n="2">And when you draw near to the battle,<crossref let="k" cid="c05020002.1" />the priest shall come forward and speak to the people</v>
+			<marker class="begin-verse" mid="v05020003">
+			</marker>
+			<v n="3">and shall say to them, ‘Hear, O Israel, today you are drawing near for battle against your enemies: let not your heart faint. Do not fear or panic or be in dread of them,</v>
+			<marker class="begin-verse" mid="v05020004">
+			</marker>
+			<v n="4">for the Lord your God is he who goes with you<crossref let="l" cid="c05020004.1" />to fight for you against your enemies, to give you the victory.’</v>
+			<marker class="begin-verse" mid="v05020005">
+			</marker>
+			<v n="5">Then the officers shall speak to the people, saying, ‘Is there any man who has built a new house and has not dedicated it? Let him go back to his house, lest he die in the battle and another man dedicate it.</v>
+			<marker class="begin-verse" mid="v05020006">
+			</marker>
+			<v n="6">And is there any man who has planted a vineyard and has not<crossref let="m" cid="c05020006.1" />enjoyed its fruit? Let him go back to his house, lest he die in the battle and another man enjoy its fruit.</v>
+			<marker class="begin-verse" mid="v05020007">
+			</marker>
+			<v n="7">
+				<crossref let="n" cid="c05020007.1" />And is there any man who has betrothed a wife and has not taken her? Let him go back to his house, lest he die in the battle and another man take her.’</v>
+			<marker class="begin-verse" mid="v05020008">
+			</marker>
+			<v n="8">And the officers shall speak further to the people, and say,<crossref let="o" cid="c05020008.1" />‘Is there any man who is fearful and fainthearted? Let him go back to his house, lest he make the heart of his fellows melt like his own.’</v>
+			<marker class="begin-verse" mid="v05020009">
+			</marker>
+			<v n="9">And when the officers have finished speaking to the people, then commanders shall be appointed at the head of the people.</v>
+			<marker class="begin-verse" mid="v05020010">
+			</marker>
+			<v n="10">“When you draw near to a city to fight against it,<crossref let="p" cid="c05020010.1" />offer terms of peace to it.</v>
+			<marker class="begin-verse" mid="v05020011">
+			</marker>
+			<v n="11">And if it responds to you peaceably and it opens to you, then all the people who are found in it shall do forced labor for you and shall serve you.</v>
+			<marker class="begin-verse" mid="v05020012">
+			</marker>
+			<v n="12">But if it makes no peace with you, but makes war against you, then you shall besiege it.</v>
+			<marker class="begin-verse" mid="v05020013">
+			</marker>
+			<v n="13">And when the Lord your God gives it into your hand,<crossref let="q" cid="c05020013.1" />you shall put all its males to the sword,</v>
+			<marker class="begin-verse" mid="v05020014">
+			</marker>
+			<v n="14">
+				<crossref let="r" cid="c05020014.1" />but the women and the little ones, the livestock, and everything else in the city, all its spoil, you<crossref let="s" cid="c05020014.2" />shall take as plunder for yourselves. And<crossref let="t" cid="c05020014.3" />you shall enjoy the spoil of your enemies, which the Lord your God has given you.</v>
+			<marker class="begin-verse" mid="v05020015">
+			</marker>
+			<v n="15">Thus you shall do to all the cities that are very far from you, which are not cities of the nations here.</v>
+			<marker class="begin-verse" mid="v05020016">
+			</marker>
+			<v n="16">But<crossref let="u" cid="c05020016.1" />in the cities of these peoples that the Lord your God is giving you for an inheritance, you shall save alive nothing that breathes,</v>
+			<marker class="begin-verse" mid="v05020017">
+			</marker>
+			<v n="17">but<crossref let="v" cid="c05020017.1" />you shall devote them to complete destruction, the Hittites and the Amorites, the Canaanites and the Perizzites, the Hivites and the Jebusites, as the Lord your God has commanded,</v>
+			<marker class="begin-verse" mid="v05020018">
+			</marker>
+			<v n="18">that<crossref let="w" cid="c05020018.1" />they may not teach you to do according to all their abominable practices that they have done for their gods, and so you<crossref let="x" cid="c05020018.2" />sin against the Lord your God.</v>
+			<marker class="begin-verse" mid="v05020019">
+			</marker>
+			<v n="19">“When you besiege a city for a long time, making war against it in order to take it,<crossref let="y" cid="c05020019.1" />you shall not destroy its trees by wielding an axe against them. You may eat from them, but you shall not cut them down. Are the trees in the field human, that they should be besieged by you?</v>
+			<marker class="begin-verse" mid="v05020020">
+			</marker>
+			<v n="20">Only the trees that you know are not trees for food you may destroy and cut down, that you may build siegeworks against the city that makes war with you, until it falls.</v>
+			<marker class="begin-verse" mid="v05020021">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">20:17 That is, set apart (devote) as an offering to the Lord (for destruction)</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

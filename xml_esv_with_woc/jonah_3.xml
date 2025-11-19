@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:33.157347</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:33.157380</next_refresh_due>
+	</generation_info>
+	<book title="Jonah" num="32" testament="old" bookAbbr="jon" version="ESV">
+		<marker class="begin-verse" mid="v32003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Jonah 3
+			</heading>
+			<heading>
+				Jonah Goes to Nineveh
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">3 Then the word of the Lord came to Jonah the second time, saying,</v>
+			<marker class="begin-verse" mid="v32003002">
+			</marker>
+			<v n="2">“Arise, go to<crossref let="l" cid="c32003002.1" />Nineveh, that great city, and call out against it the message that I tell you.”</v>
+			<marker class="begin-verse" mid="v32003003">
+			</marker>
+			<v n="3">Nineveh was an exceedingly great city, three days' journey in breadth.</v>
+			<marker class="begin-verse" mid="v32003004">
+			</marker>
+			<v n="4">Jonah began to go into the city, going a day's journey. And he called out, “Yet forty days, and Nineveh shall be overthrown!”</v>
+			<marker class="begin-verse" mid="v32003005">
+			</marker>
+			<v n="5">
+				<crossref let="n" cid="c32003005.2" />And the people of Nineveh believed God.<crossref let="o" cid="c32003005.3" />They called for a fast and put on sackcloth, from the greatest of them to the least of them.</v>
+			<marker class="begin-verse" mid="v32003006">
+			</marker>
+			<v n="6">The word reached the king of Nineveh, and<crossref let="q" cid="c32003006.2" />he arose from his throne, removed his robe, covered himself with sackcloth, and sat in ashes.</v>
+			<marker class="begin-verse" mid="v32003007">
+			</marker>
+			<v n="7">And he issued a proclamation and published through Nineveh,<crossref let="s" cid="c32003007.2" />“By the decree of the king and his nobles: Let neither man nor beast, herd nor flock, taste anything. Let them not feed or drink water,</v>
+			<marker class="begin-verse" mid="v32003008">
+			</marker>
+			<v n="8">but let man and<crossref let="u" cid="c32003008.3" />beast be covered with sackcloth, and let them call out mightily to God. Let everyone turn from his evil way and from the violence that is in his hands.</v>
+			<marker class="begin-verse" mid="v32003009">
+			</marker>
+			<v n="9">and turn from his fierce anger, so that we may not perish.”</v>
+			<marker class="begin-verse" mid="v32003010">
+			</marker>
+			<v n="10">God relented of the disaster that he had said he would do to them, and he did not do it.</v>
+			<marker class="begin-verse" mid="v32003011">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">3:3 Hebrew *a great city to God*</footnote>
+				<footnote id="2">3:3 Or *a visit was a three days’ journey*</footnote>
+				<footnote id="3">3:6 Or *had reached*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

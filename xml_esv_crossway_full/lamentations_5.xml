@@ -1,0 +1,100 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:56:21.271257</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:56:21.271265</next_refresh_due>
+	</generation_info>
+	<book title="Lamentations" num="25" testament="old" bookAbbr="lam" version="ESV">
+		<marker class="begin-verse" mid="v25005001">
+		</marker>
+		<chapter num="5">
+			<heading>
+				Lamentations 5
+			</heading>
+			<heading>
+				Restore Us to Yourself, O LORD
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">look , and see<crossref let="d" cid="c25005001.2" />our disgrace !</v>
+			<marker class="begin-verse" mid="v25005002">
+			</marker>
+			<v n="2">our homes to foreigners .</v>
+			<marker class="begin-verse" mid="v25005003">
+			</marker>
+			<v n="3">our mothers are like widows .</v>
+			<marker class="begin-verse" mid="v25005004">
+			</marker>
+			<v n="4">the wood we get must be bought .</v>
+			<marker class="begin-verse" mid="v25005005">
+			</marker>
+			<v n="5">we are weary ; we are given no rest .</v>
+			<marker class="begin-verse" mid="v25005006">
+			</marker>
+			<v n="6">to get bread enough .</v>
+			<marker class="begin-verse" mid="v25005007">
+			</marker>
+			<v n="7">
+				<crossref let="h" cid="c25005007.1" />and we bear their iniquities .</v>
+			<marker class="begin-verse" mid="v25005008">
+			</marker>
+			<v n="8">there is none to deliver us from their hand .</v>
+			<marker class="begin-verse" mid="v25005009">
+			</marker>
+			<v n="9">because of the sword in the wilderness .</v>
+			<marker class="begin-verse" mid="v25005010">
+			</marker>
+			<v n="10">with<crossref let="l" cid="c25005010.2" />the burning heat of famine .</v>
+			<marker class="begin-verse" mid="v25005011">
+			</marker>
+			<v n="11">young women in the towns of Judah .</v>
+			<marker class="begin-verse" mid="v25005012">
+			</marker>
+			<v n="12">
+				<crossref let="n" cid="c25005012.2" />no respect is shown to the elders .</v>
+			<marker class="begin-verse" mid="v25005013">
+			</marker>
+			<v n="13">and boys stagger<crossref let="p" cid="c25005013.2" />under loads of wood .</v>
+			<marker class="begin-verse" mid="v25005014">
+			</marker>
+			<v n="14">the young men<crossref let="q" cid="c25005014.2" />their music .</v>
+			<marker class="begin-verse" mid="v25005015">
+			</marker>
+			<v n="15">
+				<crossref let="r" cid="c25005015.2" />our dancing has been turned to mourning .</v>
+			<marker class="begin-verse" mid="v25005016">
+			</marker>
+			<v n="16">woe to us , for we have sinned !</v>
+			<marker class="begin-verse" mid="v25005017">
+			</marker>
+			<v n="17">for these things<crossref let="u" cid="c25005017.2" />our eyes have grown dim ,</v>
+			<marker class="begin-verse" mid="v25005018">
+			</marker>
+			<v n="18">
+				<crossref let="v" cid="c25005018.1" />jackals prowl over it .</v>
+			<marker class="begin-verse" mid="v25005019">
+			</marker>
+			<v n="19">your throne endures to all generations .</v>
+			<marker class="begin-verse" mid="v25005020">
+			</marker>
+			<v n="20">why do you forsake us for so many days ?</v>
+			<marker class="begin-verse" mid="v25005021">
+			</marker>
+			<v n="21">Renew our days as of old —</v>
+			<marker class="begin-verse" mid="v25005022">
+			</marker>
+			<v n="22">and you remain exceedingly angry with us .</v>
+			<marker class="begin-verse" mid="v25005023">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+		</chapter>
+	</book>
+</bible>

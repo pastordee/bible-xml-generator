@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:02.343229</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:02.343236</next_refresh_due>
+	</generation_info>
+	<book title="Hosea" num="28" testament="old" bookAbbr="hos" version="ESV">
+		<marker class="begin-verse" mid="v28009001">
+		</marker>
+		<chapter num="9">
+			<heading>
+				Hosea 9
+			</heading>
+			<heading>
+				The LORD Will Punish Israel
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">on all threshing floors.</v>
+			<marker class="begin-verse" mid="v28009002">
+			</marker>
+			<v n="2">the new wine shall fail them.</v>
+			<marker class="begin-verse" mid="v28009003">
+			</marker>
+			<v n="3">they shall eat unclean food in Assyria.</v>
+			<marker class="begin-verse" mid="v28009004">
+			</marker>
+			<v n="4">
+				<crossref let="k" cid="c28009004.1" />it shall not come to the house of the Lord .</v>
+			<marker class="begin-verse" mid="v28009005">
+			</marker>
+			<v n="5">and on the day of the feast of the Lord ?</v>
+			<marker class="begin-verse" mid="v28009006">
+			</marker>
+			<v n="6">thorns shall be in their tents.</v>
+			<marker class="begin-verse" mid="v28009007">
+			</marker>
+			<v n="7">and great hatred.</v>
+			<marker class="begin-verse" mid="v28009008">
+			</marker>
+			<v n="8">and hatred in the house of his God.</v>
+			<marker class="begin-verse" mid="v28009009">
+			</marker>
+			<v n="9">he will punish their sins.</v>
+			<marker class="begin-verse" mid="v28009010">
+			</marker>
+			<v n="10">and<crossref let="z" cid="c28009010.4" />became detestable like the thing they loved.</v>
+			<marker class="begin-verse" mid="v28009011">
+			</marker>
+			<v n="11">no birth, no pregnancy, no conception!</v>
+			<marker class="begin-verse" mid="v28009012">
+			</marker>
+			<v n="12">I depart from them!</v>
+			<marker class="begin-verse" mid="v28009013">
+			</marker>
+			<v n="13">Ephraim must lead his children out to slaughter.</v>
+			<marker class="begin-verse" mid="v28009014">
+			</marker>
+			<v n="14">and dry breasts.</v>
+			<marker class="begin-verse" mid="v28009015">
+			</marker>
+			<v n="15">rebels.</v>
+			<marker class="begin-verse" mid="v28009016">
+			</marker>
+			<v n="16">I will put their beloved children to death.</v>
+			<marker class="begin-verse" mid="v28009017">
+			</marker>
+			<v n="17">they shall be wanderers among the nations.</v>
+			<marker class="begin-verse" mid="v28009018">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">9:13 Or *like Tyre*</footnote>
+				<footnote id="2">9:13 Hebrew *to him who slaughters*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

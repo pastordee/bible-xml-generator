@@ -1,0 +1,157 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:05:09.837911</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:05:09.837949</next_refresh_due>
+	</generation_info>
+	<book title="Luke" num="42" testament="new" bookAbbr="luk" version="ESV">
+		<marker class="begin-verse" mid="v42003001">
+		</marker>
+		<chapter num="3">
+			<heading>
+				Luke 3
+			</heading>
+			<heading>
+				John the Baptist Prepares the Way
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">In the fifteenth year of the reign of<crossref let="j" cid="c42003001.1" />Tiberius Caesar ,<crossref let="k" cid="c42003001.2" />Pontius Pilate<crossref let="l" cid="c42003001.3" />being governor of Judea , and<crossref let="m" cid="c42003001.4" />Herod being tetrarch of Galilee , and his brother Philip tetrarch of the region of Ituraea and Trachonitis , and Lysanias tetrarch of Abilene ,</v>
+			<marker class="begin-verse" mid="v42003002">
+			</marker>
+			<v n="2">during<crossref let="n" cid="c42003002.1" />the high priesthood of Annas and<crossref let="o" cid="c42003002.2" />Caiaphas ,<crossref let="p" cid="c42003002.3" />the word of God came to<crossref let="q" cid="c42003002.4" />John the son of Zechariah in<crossref let="r" cid="c42003002.5" />the wilderness .</v>
+			<marker class="begin-verse" mid="v42003003">
+			</marker>
+			<v n="3">And he went into all the region around the Jordan , proclaiming<crossref let="s" cid="c42003003.1" />a baptism of repentance<crossref let="t" cid="c42003003.2" />for the forgiveness of sins .</v>
+			<marker class="begin-verse" mid="v42003004">
+			</marker>
+			<v n="4">make his paths straight .</v>
+			<marker class="begin-verse" mid="v42003005">
+			</marker>
+			<v n="5">and the rough places shall become level ways ,</v>
+			<marker class="begin-verse" mid="v42003006">
+			</marker>
+			<v n="6">
+				<crossref let="a" cid="c42003006.1" />and all flesh shall see<crossref let="b" cid="c42003006.2" />the salvation of God . ’ ”</v>
+			<marker class="begin-verse" mid="v42003007">
+			</marker>
+			<v n="7">He said therefore to the crowds that came out to be baptized by him ,<crossref let="c" cid="c42003007.1" />“ You brood of<crossref let="d" cid="c42003007.2" />vipers ! Who warned you to flee from<crossref let="e" cid="c42003007.3" />the wrath to come ?</v>
+			<marker class="begin-verse" mid="v42003008">
+			</marker>
+			<v n="8">Bear fruits<crossref let="f" cid="c42003008.1" />in keeping with repentance . And do not begin to say to yourselves ,<crossref let="g" cid="c42003008.2" />‘ We have Abraham as our father . ’ For I tell you , God is able from<crossref let="h" cid="c42003008.3" />these stones to raise up children for Abraham .</v>
+			<marker class="begin-verse" mid="v42003009">
+			</marker>
+			<v n="9">Even now the axe is laid to the root of the trees .<crossref let="i" cid="c42003009.1" />Every tree therefore that does not bear good fruit is cut down and thrown into the fire . ”</v>
+			<marker class="begin-verse" mid="v42003010">
+			</marker>
+			<v n="10">And the crowds asked him ,<crossref let="j" cid="c42003010.1" />“ What then shall we do ? ”</v>
+			<marker class="begin-verse" mid="v42003011">
+			</marker>
+			<v n="11">And he answered them ,<crossref let="k" cid="c42003011.1" />“ Whoever has two tunics is to share with him who has none , and whoever has food is to do likewise . ”</v>
+			<marker class="begin-verse" mid="v42003012">
+			</marker>
+			<v n="12">
+				<crossref let="l" cid="c42003012.2" />Tax collectors also came to be baptized and said to him , “ Teacher ,<crossref let="j" cid="c42003012.1" />what shall we do ? ”</v>
+			<marker class="begin-verse" mid="v42003013">
+			</marker>
+			<v n="13">And he said to them ,<crossref let="m" cid="c42003013.1" />“ Collect no more than you are authorized to do . ”</v>
+			<marker class="begin-verse" mid="v42003014">
+			</marker>
+			<v n="14">Soldiers also asked him , “ And we ,<crossref let="j" cid="c42003014.1" />what shall we do ? ” And he said to them ,<crossref let="m" cid="c42003014.2" />“ Do not extort money from anyone by threats or by false accusation , and be content with your<crossref let="n" cid="c42003014.3" />wages . ”</v>
+			<marker class="begin-verse" mid="v42003015">
+			</marker>
+			<v n="15">As the people were in expectation , and all were questioning in their hearts concerning John ,<crossref let="o" cid="c42003015.1" />whether he might be<crossref let="p" cid="c42003015.2" />the Christ ,</v>
+			<marker class="begin-verse" mid="v42003016">
+			</marker>
+			<v n="16">
+				<crossref let="q" cid="c42003016.1" />John answered them all , saying , “ I baptize you with water , but<crossref let="r" cid="c42003016.2" />he who is mightier than I is coming ,<crossref let="s" cid="c42003016.3" />the strap of whose sandals I am not worthy to untie . He will baptize you<crossref let="t" cid="c42003016.4" />with the Holy Spirit and<crossref let="u" cid="c42003016.5" />fire .</v>
+			<marker class="begin-verse" mid="v42003017">
+			</marker>
+			<v n="17">His<crossref let="v" cid="c42003017.1" />winnowing fork is in his hand , to clear his threshing floor and to<crossref let="w" cid="c42003017.2" />gather the wheat into his barn ,<crossref let="x" cid="c42003017.3" />but the chaff he will burn with<crossref let="y" cid="c42003017.4" />unquenchable fire . ”</v>
+			<marker class="begin-verse" mid="v42003018">
+			</marker>
+			<v n="18">So<crossref let="z" cid="c42003018.1" />with many other exhortations he preached good news to the people .</v>
+			<marker class="begin-verse" mid="v42003019">
+			</marker>
+			<v n="19">But<crossref let="a" cid="c42003019.1" />Herod the tetrarch , who had been reproved by him for Herodias , his brother’s wife , and for all the evil things that Herod had done ,</v>
+			<marker class="begin-verse" mid="v42003020">
+			</marker>
+			<v n="20">added this to them all , that<crossref let="b" cid="c42003020.1" />he locked up John in prison .</v>
+			<marker class="begin-verse" mid="v42003021">
+			</marker>
+			<v n="21">Now when all the people were baptized , and when<crossref let="c" cid="c42003021.1" />Jesus also had been baptized and was praying ,<crossref let="d" cid="c42003021.2" />the heavens were opened ,</v>
+			<marker class="begin-verse" mid="v42003022">
+			</marker>
+			<v n="22">and<crossref let="e" cid="c42003022.1" />the Holy Spirit descended on him in bodily form , like a dove ; and<crossref let="f" cid="c42003022.2" />a voice came from heaven ,<crossref let="g" cid="c42003022.3" />“ You are my beloved Son ; with you I am well pleased . ”</v>
+			<marker class="begin-verse" mid="v42003023">
+			</marker>
+			<v n="23">Jesus ,<crossref let="h" cid="c42003023.1" />when he began his ministry , was about<crossref let="i" cid="c42003023.2" />thirty years of age , being<crossref let="j" cid="c42003023.3" />the son ( as was supposed ) of Joseph , the son of Heli ,</v>
+			<marker class="begin-verse" mid="v42003024">
+			</marker>
+			<v n="24">the son of Matthat , the son of Levi , the son of Melchi , the son of Jannai , the son of Joseph ,</v>
+			<marker class="begin-verse" mid="v42003025">
+			</marker>
+			<v n="25">the son of Mattathias , the son of Amos , the son of Nahum , the son of Esli , the son of Naggai ,</v>
+			<marker class="begin-verse" mid="v42003026">
+			</marker>
+			<v n="26">the son of Maath , the son of Mattathias , the son of Semein , the son of Josech , the son of Joda ,</v>
+			<marker class="begin-verse" mid="v42003027">
+			</marker>
+			<v n="27">the son of Joanan , the son of Rhesa ,<crossref let="k" cid="c42003027.1" />the son of Zerubbabel , the son<crossref let="l" cid="c42003027.2" />of Shealtiel , the son of Neri ,</v>
+			<marker class="begin-verse" mid="v42003028">
+			</marker>
+			<v n="28">the son of Melchi , the son of Addi , the son of Cosam , the son of Elmadam , the son of Er ,</v>
+			<marker class="begin-verse" mid="v42003029">
+			</marker>
+			<v n="29">the son of Joshua , the son of Eliezer , the son of Jorim , the son of Matthat , the son of Levi ,</v>
+			<marker class="begin-verse" mid="v42003030">
+			</marker>
+			<v n="30">the son of Simeon , the son of Judah , the son of Joseph , the son of Jonam , the son of Eliakim ,</v>
+			<marker class="begin-verse" mid="v42003031">
+			</marker>
+			<v n="31">the son of Melea , the son of Menna , the son of Mattatha , the son of<crossref let="m" cid="c42003031.1" />Nathan , the son of David ,</v>
+			<marker class="begin-verse" mid="v42003032">
+			</marker>
+			<v n="32">
+				<crossref let="n" cid="c42003032.1" />the son of Jesse , the son of Obed , the son of Boaz , the son of Sala , the son of Nahshon ,</v>
+			<marker class="begin-verse" mid="v42003033">
+			</marker>
+			<v n="33">the son of Amminadab , the son of Admin , the son of Arni , the son of Hezron , the son of Perez , the son of Judah ,</v>
+			<marker class="begin-verse" mid="v42003034">
+			</marker>
+			<v n="34">
+				<crossref let="o" cid="c42003034.1" />the son of Jacob ,<crossref let="p" cid="c42003034.2" />the son of Isaac ,<crossref let="q" cid="c42003034.3" />the son of Abraham ,<crossref let="r" cid="c42003034.4" />the son of Terah , the son of Nahor ,</v>
+			<marker class="begin-verse" mid="v42003035">
+			</marker>
+			<v n="35">the son of Serug , the son of Reu , the son of Peleg , the son of Eber , the son of Shelah ,</v>
+			<marker class="begin-verse" mid="v42003036">
+			</marker>
+			<v n="36">the son of Cainan , the son of Arphaxad , the son of Shem , the son of Noah , the son of Lamech ,</v>
+			<marker class="begin-verse" mid="v42003037">
+			</marker>
+			<v n="37">the son of Methuselah , the son of Enoch , the son of Jared , the son of Mahalaleel , the son of Cainan ,</v>
+			<marker class="begin-verse" mid="v42003038">
+			</marker>
+			<v n="38">the son of Enos , the son of Seth , the son of Adam , the son of God .</v>
+			<marker class="begin-verse" mid="v42003039">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">3:4 Or *crying, Prepare in the wilderness the way of the Lord*</footnote>
+				<footnote id="2">3:11 Greek *chiton*, a long garment worn under the cloak next to the skin</footnote>
+				<footnote id="3">3:22 Or *my Son, my* (or *the*) *Beloved*</footnote>
+				<footnote id="4">3:22 Some manuscripts *beloved Son; today I have begotten you*</footnote>
+				<footnote id="5">3:27 Greek *Salathiel*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

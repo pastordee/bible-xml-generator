@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:58:11.126447</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:58:11.126477</next_refresh_due>
+	</generation_info>
+	<book title="Joel" num="29" testament="old" bookAbbr="jol" version="ESV">
+		<marker class="begin-verse" mid="v29001001">
+		</marker>
+		<chapter num="1">
+			<heading>
+				Joel 1
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">1 The word of the Lord that came to Joel, the son of Pethuel:</v>
+			<marker class="begin-verse" mid="v29001002">
+			</marker>
+			<v n="2">or in the days of your fathers?</v>
+			<marker class="begin-verse" mid="v29001003">
+			</marker>
+			<v n="3">and their children to another generation.</v>
+			<marker class="begin-verse" mid="v29001004">
+			</marker>
+			<v n="4">the destroying locust has eaten.</v>
+			<marker class="begin-verse" mid="v29001005">
+			</marker>
+			<v n="5">for it is cut off from your mouth.</v>
+			<marker class="begin-verse" mid="v29001006">
+			</marker>
+			<v n="6">and it has the fangs of a lioness.</v>
+			<marker class="begin-verse" mid="v29001007">
+			</marker>
+			<v n="7">their branches are made white.</v>
+			<marker class="begin-verse" mid="v29001008">
+			</marker>
+			<v n="8">for the bridegroom of her youth.</v>
+			<marker class="begin-verse" mid="v29001009">
+			</marker>
+			<v n="9">the ministers of the Lord .</v>
+			<marker class="begin-verse" mid="v29001010">
+			</marker>
+			<v n="10">the oil languishes.</v>
+			<marker class="begin-verse" mid="v29001011">
+			</marker>
+			<v n="11">because the harvest of the field has perished.</v>
+			<marker class="begin-verse" mid="v29001012">
+			</marker>
+			<v n="12">from the children of man.</v>
+			<marker class="begin-verse" mid="v29001013">
+			</marker>
+			<v n="13">are withheld from the house of your God.</v>
+			<marker class="begin-verse" mid="v29001014">
+			</marker>
+			<v n="14">and cry out to the Lord .</v>
+			<marker class="begin-verse" mid="v29001015">
+			</marker>
+			<v n="15">and as destruction from the Almighty it comes.</v>
+			<marker class="begin-verse" mid="v29001016">
+			</marker>
+			<v n="16">from the house of our God?</v>
+			<marker class="begin-verse" mid="v29001017">
+			</marker>
+			<v n="17">the grain has dried up.</v>
+			<marker class="begin-verse" mid="v29001018">
+			</marker>
+			<v n="18">even the flocks of sheep suffer.</v>
+			<marker class="begin-verse" mid="v29001019">
+			</marker>
+			<v n="19">all the trees of the field.</v>
+			<marker class="begin-verse" mid="v29001020">
+			</marker>
+			<v n="20">the pastures of the wilderness.</v>
+			<marker class="begin-verse" mid="v29001021">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">1:8 Or *young woman*</footnote>
+				<footnote id="2">1:11 The Hebrew words for *dry up* and *be ashamed* in verses 10–12, 17 sound alike</footnote>
+				<footnote id="3">1:15 *Destruction* sounds like the Hebrew for *Almighty*</footnote>
+				<footnote id="4">1:17 The meaning of the Hebrew line is uncertain</footnote>
+				<footnote id="5">1:18 Or *are made desolate*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

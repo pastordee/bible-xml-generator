@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:58:20.175617</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:58:20.175637</next_refresh_due>
+	</generation_info>
+	<book title="Exodus" num="2" testament="old" bookAbbr="exo" version="ESV">
+		<marker class="begin-verse" mid="v02017001">
+		</marker>
+		<chapter num="17">
+			<heading>
+				Exodus 17
+			</heading>
+			<heading>
+				Water from the Rock
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">All the congregation of the people of Israel moved on from the wilderness of Sin by stages, according to the commandment of the Lord , and camped at Rephidim, but there was no water for the people to drink.</v>
+			<marker class="begin-verse" mid="v02017002">
+			</marker>
+			<v n="2">test the Lord ?”</v>
+			<marker class="begin-verse" mid="v02017003">
+			</marker>
+			<v n="3">the people grumbled against Moses and said, “Why did you bring us up out of Egypt, to kill us and our children and our livestock with thirst?”</v>
+			<marker class="begin-verse" mid="v02017004">
+			</marker>
+			<v n="4">to stone me.”</v>
+			<marker class="begin-verse" mid="v02017005">
+			</marker>
+			<v n="5">which you struck the Nile, and go.</v>
+			<marker class="begin-verse" mid="v02017006">
+			</marker>
+			<v n="6">Behold, I will stand before you there on the rock at Horeb, and you shall strike the rock, and water shall come out of it, and the people will drink.” And Moses did so, in the sight of the elders of Israel.</v>
+			<marker class="begin-verse" mid="v02017007">
+			</marker>
+			<v n="7">Meribah, because of the quarreling of the people of Israel, and because they tested the Lord by saying, “Is the Lord among us or not?”</v>
+			<marker class="begin-verse" mid="v02017008">
+			</marker>
+			<v n="8">Then Amalek came and fought with Israel at Rephidim.</v>
+			<marker class="begin-verse" mid="v02017009">
+			</marker>
+			<v n="9">the staff of God in my hand.”</v>
+			<marker class="begin-verse" mid="v02017010">
+			</marker>
+			<v n="10">Hur went up to the top of the hill.</v>
+			<marker class="begin-verse" mid="v02017011">
+			</marker>
+			<v n="11">held up his hand, Israel prevailed, and whenever he lowered his hand, Amalek prevailed.</v>
+			<marker class="begin-verse" mid="v02017012">
+			</marker>
+			<v n="12">Hur held up his hands, one on one side, and the other on the other side. So his hands were steady until the going down of the sun.</v>
+			<marker class="begin-verse" mid="v02017013">
+			</marker>
+			<v n="13">Joshua overwhelmed Amalek and his people with the sword.</v>
+			<marker class="begin-verse" mid="v02017014">
+			</marker>
+			<v n="14">I will utterly blot out the memory of Amalek from under heaven.”</v>
+			<marker class="begin-verse" mid="v02017015">
+			</marker>
+			<v n="15">built an altar and called the name of it, The Lord Is My Banner,</v>
+			<marker class="begin-verse" mid="v02017016">
+			</marker>
+			<v n="16">The Lord will have war with Amalek from generation to generation.”</v>
+			<marker class="begin-verse" mid="v02017017">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">17:7 *Massah* means *testing*</footnote>
+				<footnote id="2">17:7 *Meribah* means *quarreling*</footnote>
+				<footnote id="3">17:16 A slight change would yield *upon the banner*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

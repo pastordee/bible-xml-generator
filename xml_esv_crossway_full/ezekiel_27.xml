@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:57:00.734708</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:57:00.734720</next_refresh_due>
+	</generation_info>
+	<book title="Ezekiel" num="26" testament="old" bookAbbr="ezk" version="ESV">
+		<marker class="begin-verse" mid="v26027001">
+		</marker>
+		<chapter num="27">
+			<heading>
+				Ezekiel 27
+			</heading>
+			<heading>
+				A Lament for Tyre
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">The word of the Lord came to me :</v>
+			<marker class="begin-verse" mid="v26027002">
+			</marker>
+			<v n="2">“ Now you ,<crossref let="t" cid="c26027002.1" />son of man ,<crossref let="u" cid="c26027002.2" />raise a lamentation over Tyre ,</v>
+			<marker class="begin-verse" mid="v26027003">
+			</marker>
+			<v n="3">‘ I am<crossref let="x" cid="c26027003.3" />perfect in beauty . ’</v>
+			<marker class="begin-verse" mid="v26027004">
+			</marker>
+			<v n="4">your builders made perfect your beauty .</v>
+			<marker class="begin-verse" mid="v26027005">
+			</marker>
+			<v n="5">to make a mast for you .</v>
+			<marker class="begin-verse" mid="v26027006">
+			</marker>
+			<v n="6">inlaid with ivory .</v>
+			<marker class="begin-verse" mid="v26027007">
+			</marker>
+			<v n="7">was your awning .</v>
+			<marker class="begin-verse" mid="v26027008">
+			</marker>
+			<v n="8">they were<crossref let="f" cid="c26027008.2" />your pilots .</v>
+			<marker class="begin-verse" mid="v26027009">
+			</marker>
+			<v n="9">to barter for your wares .</v>
+			<marker class="begin-verse" mid="v26027010">
+			</marker>
+			<v n="10">
+				<crossref let="i" cid="c26027010.1" />“ Persia and<crossref let="j" cid="c26027010.2" />Lud and<crossref let="i" cid="c26027010.1" />Put were in your army as your men of war .<crossref let="k" cid="c26027010.3" />They hung the shield and helmet in you ; they gave you splendor .</v>
+			<marker class="begin-verse" mid="v26027011">
+			</marker>
+			<v n="11">Men of<crossref let="e" cid="c26027011.1" />Arvad and Helech were on your walls all around , and men of Gamad were in your towers . They hung their shields on your walls all around ; they made<crossref let="x" cid="c26027011.2" />perfect your beauty .</v>
+			<marker class="begin-verse" mid="v26027012">
+			</marker>
+			<v n="12">
+				<crossref let="l" cid="c26027012.1" />“ Tarshish did<crossref let="m" cid="c26027012.2" />business with you because of your great wealth of every kind ; silver , iron , tin , and lead they exchanged for your<crossref let="n" cid="c26027012.3" />wares .</v>
+			<marker class="begin-verse" mid="v26027013">
+			</marker>
+			<v n="13">
+				<crossref let="o" cid="c26027013.1" />Javan ,<crossref let="p" cid="c26027013.2" />Tubal , and<crossref let="p" cid="c26027013.2" />Meshech traded with you ; they exchanged human beings and vessels of bronze for your merchandise .</v>
+			<marker class="begin-verse" mid="v26027014">
+			</marker>
+			<v n="14">From<crossref let="q" cid="c26027014.1" />Beth-togarmah they exchanged horses , war horses , and mules<crossref let="r" cid="c26027014.2" />for your wares .</v>
+			<marker class="begin-verse" mid="v26027015">
+			</marker>
+			<v n="15">The men of<crossref let="s" cid="c26027015.1" />Dedan traded with you . Many coastlands were your own special markets ; they brought you in payment ivory tusks and ebony .</v>
+			<marker class="begin-verse" mid="v26027016">
+			</marker>
+			<v n="16">Syria<crossref let="t" cid="c26027016.1" />did business with you because of your abundant goods ; they exchanged for your wares<crossref let="u" cid="c26027016.2" />emeralds ,<crossref let="u" cid="c26027016.2" />purple ,<crossref let="v" cid="c26027016.3" />embroidered work ,<crossref let="w" cid="c26027016.4" />fine linen , coral , and<crossref let="x" cid="c26027016.5" />ruby .</v>
+			<marker class="begin-verse" mid="v26027017">
+			</marker>
+			<v n="17">Judah and the land of Israel traded with you ; they exchanged for your merchandise<crossref let="y" cid="c26027017.2" />wheat of<crossref let="z" cid="c26027017.3" />Minnith , meal , honey , oil , and<crossref let="a" cid="c26027017.1" />balm .</v>
+			<marker class="begin-verse" mid="v26027018">
+			</marker>
+			<v n="18">
+				<crossref let="b" cid="c26027018.1" />Damascus did business with you for your abundant goods , because of your great wealth of every kind ; wine of Helbon and<crossref let="c" cid="c26027018.2" />wool of Sahar</v>
+			<marker class="begin-verse" mid="v26027019">
+			</marker>
+			<v n="19">and casks of wine from Uzal they exchanged for your wares ; wrought iron ,<crossref let="d" cid="c26027019.1" />cassia , and<crossref let="e" cid="c26027019.2" />calamus were bartered for your merchandise .</v>
+			<marker class="begin-verse" mid="v26027020">
+			</marker>
+			<v n="20">Dedan traded with you in saddlecloths for riding .</v>
+			<marker class="begin-verse" mid="v26027021">
+			</marker>
+			<v n="21">Arabia and all the princes of<crossref let="f" cid="c26027021.1" />Kedar were your favored dealers<crossref let="f" cid="c26027021.1" />in lambs , rams , and goats ; in these they did business with you .</v>
+			<marker class="begin-verse" mid="v26027022">
+			</marker>
+			<v n="22">The traders of<crossref let="g" cid="c26027022.1" />Sheba and<crossref let="g" cid="c26027022.1" />Raamah traded with you ; they exchanged<crossref let="h" cid="c26027022.2" />for your wares<crossref let="i" cid="c26027022.3" />the best of all kinds of spices and all precious stones and gold .</v>
+			<marker class="begin-verse" mid="v26027023">
+			</marker>
+			<v n="23">
+				<crossref let="j" cid="c26027023.1" />Haran , Canneh ,<crossref let="j" cid="c26027023.1" />Eden , traders of Sheba ,<crossref let="k" cid="c26027023.2" />Asshur , and Chilmad traded with you .</v>
+			<marker class="begin-verse" mid="v26027024">
+			</marker>
+			<v n="24">In your market these traded with you in choice garments , in clothes of<crossref let="l" cid="c26027024.1" />blue and<crossref let="l" cid="c26027024.1" />embroidered work , and in carpets of colored material , bound with cords and made secure .</v>
+			<marker class="begin-verse" mid="v26027025">
+			</marker>
+			<v n="25">
+				<crossref let="m" cid="c26027025.1" />The ships of<crossref let="n" cid="c26027025.2" />Tarshish traveled for you with your merchandise . So you were filled and heavily laden<crossref let="o" cid="c26027025.3" />in the heart of the seas .</v>
+			<marker class="begin-verse" mid="v26027026">
+			</marker>
+			<v n="26">in the heart of the seas .</v>
+			<marker class="begin-verse" mid="v26027027">
+			</marker>
+			<v n="27">
+				<crossref let="s" cid="c26027027.3" />on the day of your fall .</v>
+			<marker class="begin-verse" mid="v26027028">
+			</marker>
+			<v n="28">
+				<crossref let="t" cid="c26027028.1" />the countryside shakes ,</v>
+			<marker class="begin-verse" mid="v26027029">
+			</marker>
+			<v n="29">stand on the land</v>
+			<marker class="begin-verse" mid="v26027030">
+			</marker>
+			<v n="30">
+				<crossref let="w" cid="c26027030.3" />and wallow in ashes ;</v>
+			<marker class="begin-verse" mid="v26027031">
+			</marker>
+			<v n="31">with bitter mourning .</v>
+			<marker class="begin-verse" mid="v26027032">
+			</marker>
+			<v n="32">like one destroyed in the midst of the sea ?</v>
+			<marker class="begin-verse" mid="v26027033">
+			</marker>
+			<v n="33">
+				<crossref let="a" cid="c26027033.1" />you enriched the kings of the earth .</v>
+			<marker class="begin-verse" mid="v26027034">
+			</marker>
+			<v n="34">have sunk with you .</v>
+			<marker class="begin-verse" mid="v26027035">
+			</marker>
+			<v n="35">their faces are convulsed .</v>
+			<marker class="begin-verse" mid="v26027036">
+			</marker>
+			<v n="36">and shall be no more forever . ’ ”</v>
+			<marker class="begin-verse" mid="v26027037">
+			</marker>
+			<v n="19">
+				and Dan 
+				
+				and Javan* (ESV)
+			</v>
+			<marker class="begin-verse" mid="v26027020">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">27:15 Hebrew; Septuagint *Rhodes*</footnote>
+				<footnote id="2">27:17 The meaning of the Hebrew word is uncertain</footnote>
+				<footnote id="3">27:19 Probable reading; Hebrew *wool of Sahar</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

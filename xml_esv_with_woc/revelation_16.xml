@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked ESV are taken from The Holy Bible, English Standard Version. ESV® Text Edition: 2016. Copyright © 2001 by Crossway Bibles, a publishing ministry of Good News Publishers.</copyright>
+	<metadata>
+		<name>English Standard Version</name>
+		<abbreviation>ESV</abbreviation>
+		<source_api>Crossway ESV API</source_api>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T13:27:49.786399</generated_date>
+		<api_compliance>ESV API Terms - Content freshness requirement</api_compliance>
+		<next_refresh_due>2025-12-06T13:27:49.786407</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" bookAbbr="rev" version="ESV">
+		<marker class="begin-verse" mid="v66016001">
+		</marker>
+		<chapter num="16">
+			<heading>
+				Revelation 16
+			</heading>
+			<heading>
+				The Seven Bowls of God’s Wrath
+			</heading>
+			<begin-paragraph>
+			</begin-paragraph>
+			<v n="1">the seven bowls of the wrath of God.”</v>
+			<marker class="begin-verse" mid="v66016002">
+			</marker>
+			<v n="2">the mark of the beast and worshiped its image.</v>
+			<marker class="begin-verse" mid="v66016003">
+			</marker>
+			<v n="3">every living thing died that was in the sea.</v>
+			<marker class="begin-verse" mid="v66016004">
+			</marker>
+			<v n="4">they became blood.</v>
+			<marker class="begin-verse" mid="v66016005">
+			</marker>
+			<v n="5">for you brought these judgments.</v>
+			<marker class="begin-verse" mid="v66016006">
+			</marker>
+			<v n="6">It is what they deserve!”</v>
+			<marker class="begin-verse" mid="v66016007">
+			</marker>
+			<v n="7">true and just are your judgments!”</v>
+			<marker class="begin-verse" mid="v66016008">
+			</marker>
+			<v n="8">with fire.</v>
+			<marker class="begin-verse" mid="v66016009">
+			</marker>
+			<v n="9">and give him glory.</v>
+			<marker class="begin-verse" mid="v66016010">
+			</marker>
+			<v n="10">its kingdom was plunged into darkness. People gnawed their tongues in anguish</v>
+			<marker class="begin-verse" mid="v66016011">
+			</marker>
+			<v n="11">They did not repent of their deeds.</v>
+			<marker class="begin-verse" mid="v66016012">
+			</marker>
+			<v n="12">from the east.</v>
+			<marker class="begin-verse" mid="v66016013">
+			</marker>
+			<v n="13">frogs.</v>
+			<marker class="begin-verse" mid="v66016014">
+			</marker>
+			<v n="14">the great day of God the Almighty.</v>
+			<marker class="begin-verse" mid="v66016015">
+			</marker>
+			<v n="15">
+				<woc>(“Behold,</woc>
+				<woc>I am coming like a thief!</woc>
+				<woc>Blessed is the one who stays awake, keeping his garments on,</woc>
+				<woc>that he may not go about naked and be seen exposed!”)</woc>
+			</v>
+			<marker class="begin-verse" mid="v66016016">
+			</marker>
+			<v n="16">Armageddon.</v>
+			<marker class="begin-verse" mid="v66016017">
+			</marker>
+			<v n="17">“It is done!”</v>
+			<marker class="begin-verse" mid="v66016018">
+			</marker>
+			<v n="18">such as there had never been since man was on the earth, so great was that earthquake.</v>
+			<marker class="begin-verse" mid="v66016019">
+			</marker>
+			<v n="19">to make her drain the cup of the wine of the fury of his wrath.</v>
+			<marker class="begin-verse" mid="v66016020">
+			</marker>
+			<v n="20">every island fled away, and no mountains were to be found.</v>
+			<marker class="begin-verse" mid="v66016021">
+			</marker>
+			<v n="21">the plague of the hail, because the plague was so severe.</v>
+			<marker class="begin-verse" mid="v66016022">
+			</marker>
+			<end-paragraph>
+			</end-paragraph>
+			<footnotes>
+				<footnotes-heading>Footnotes</footnotes-heading>
+				<footnote id="1">16:5 Greek *angel of the waters*</footnote>
+				<footnote id="2">16:9 Greek *blasphemed*; also verses 11, 21</footnote>
+				<footnote id="3">16:18 Or *voices*, or *sounds*</footnote>
+				<footnote id="4">16:21 Greek *a talent in weight*</footnote>
+			</footnotes>
+		</chapter>
+	</book>
+</bible>

@@ -17,16 +17,19 @@
 			<heading>The Law Concerning Vows</heading>
 			<begin-paragraph />
 			<v n="1">
+				<crossref let="a" cid="c04030001.1" />
 				Then Moses 
 				
 				 spoke to the heads of the tribes concerning the children of Israel, saying, “This is the thing which the Lord has commanded:
 			</v>
 			<marker class="begin-verse" mid="v04030002" />
 			<v n="2">
+				<crossref let="b" cid="c04030002.2" />
 				
 				If a 
 				
 				 man makes a vow to the Lord, or swears an oath to bind himself by some agreement, he shall not break his word; he shall do according to all that proceeds out of his mouth.
+			<crossref let="c" cid="c04030002.3" />
 			</v>
 			<marker class="begin-verse" mid="v04030003" />
 			<v n="3">
@@ -60,6 +63,7 @@
 			</v>
 			<marker class="begin-verse" mid="v04030008" />
 			<v n="8">
+				<crossref let="e" cid="c04030008.4" />
 				But if 
 				
 				 her husband overrules her on the day that he hears it, he shall make void her vow which she took and what she uttered with her lips, by which she bound herself, and the Lord will release her.

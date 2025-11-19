@@ -1,0 +1,212 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:53:12.048450</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:53:12.048473</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="NKJV" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40012001" />
+		<chapter num="12">
+			<heading>Jesus Is Lord of the Sabbath</heading>
+			<begin-paragraph />
+			<v n="1">12 At that time<crossref let="b" cid="c40012001.2" />Jesus went through the grainfields on the Sabbath. And His disciples were hungry, and began to<crossref let="c" cid="c40012001.3" />pluck heads of grain and to eat.</v>
+			<marker class="begin-verse" mid="v40012002" />
+			<v n="2">And when the Pharisees saw it, they said to Him, “Look, Your disciples are doing what is not lawful to do on the Sabbath!”</v>
+			<marker class="begin-verse" mid="v40012003" />
+			<v n="3">But He said to them,<woc>“Have you not read</woc>
+				<crossref let="d" cid="c40012003.4" />
+				<woc>what David did when he was hungry, he and those who were with him:</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012004" />
+			<v n="4">
+				<woc>how he entered the house of God and ate</woc>
+				<crossref let="e" cid="c40012004.5" />
+				<woc>the showbread which was not lawful for him to eat, nor for those who were with him,</woc>
+				<crossref let="f" cid="c40012004.6" />
+				<woc>but only for the priests?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012005" />
+			<v n="5">
+				<woc>Or have you not read in the</woc>
+				<crossref let="g" cid="c40012005.7" />
+				<woc>law that on the Sabbath the priests in the temple</woc>
+				<woc>profane the Sabbath, and are blameless?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012006" />
+			<v n="6">
+				<woc>Yet I say to you that in this place there is</woc>
+				<crossref let="h" cid="c40012006.8" />
+				<woc>One greater than the temple.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012007" />
+			<v n="7">
+				<woc>But if you had known what this means,</woc>
+				<woc>‘I desire mercy and not sacrifice,’ you would not have condemned the guiltless.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012008" />
+			<v n="8">
+				<woc>For the Son of Man is Lord</woc>
+				<woc>even of the Sabbath.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012009" />
+			<v n="9">
+				<crossref let="k" cid="c40012009.10" />Now when He had departed from there, He went into their synagogue.</v>
+			<marker class="begin-verse" mid="v40012010" />
+			<v n="10">And behold, there was a man who had a withered hand. And they asked Him, saying,<crossref let="l" cid="c40012010.11" />“Is it lawful to heal on the Sabbath?”—that they might accuse Him.</v>
+			<marker class="begin-verse" mid="v40012011" />
+			<v n="11">Then He said to them,<woc>“What man is there among you who has one sheep, and if it falls into a pit on the Sabbath, will not lay hold of it and lift it out?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012012" />
+			<v n="12">
+				<woc>Of how much more value then is a man than a sheep? Therefore it is lawful to do good on the Sabbath.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012013" />
+			<v n="13">Then He said to the man,<woc>“Stretch out your hand.”</woc>And he stretched it out, and it was restored as whole as the other.</v>
+			<marker class="begin-verse" mid="v40012014" />
+			<v n="14">Then<crossref let="m" cid="c40012014.12" />the Pharisees went out and plotted against Him, how they might destroy Him.</v>
+			<marker class="begin-verse" mid="v40012015" />
+			<v n="15">But when Jesus knew it,<crossref let="n" cid="c40012015.13" />He withdrew from there.<crossref let="o" cid="c40012015.14" />And great multitudes followed Him, and He healed them all.</v>
+			<marker class="begin-verse" mid="v40012016" />
+			<v n="16">Yet He<crossref let="p" cid="c40012016.15" />warned them not to make Him known,</v>
+			<marker class="begin-verse" mid="v40012017" />
+			<v n="17">that it might be fulfilled which was spoken by Isaiah the prophet, saying:</v>
+			<marker class="begin-verse" mid="v40012018" />
+			<v n="18">And He will declare justice to the Gentiles.</v>
+			<marker class="begin-verse" mid="v40012019" />
+			<v n="19">Nor will anyone hear His voice in the streets.</v>
+			<marker class="begin-verse" mid="v40012020" />
+			<v n="20">Till He sends forth justice to victory;</v>
+			<marker class="begin-verse" mid="v40012021" />
+			<v n="21">And in His name Gentiles will trust.”</v>
+			<marker class="begin-verse" mid="v40012022" />
+			<v n="22">
+				<crossref let="t" cid="c40012022.18" />Then one was brought to Him who was demon-possessed, blind and mute; and He healed him, so that the blind and mute man both spoke and saw.</v>
+			<marker class="begin-verse" mid="v40012023" />
+			<v n="23">And all the multitudes were amazed and said, “Could this be the<crossref let="u" cid="c40012023.19" />Son of David?”</v>
+			<marker class="begin-verse" mid="v40012024" />
+			<v n="24">
+				<crossref let="v" cid="c40012024.20" />Now when the Pharisees heard it they said, “This fellow does not cast out demons except by Beelzebub, the ruler of the demons.”</v>
+			<marker class="begin-verse" mid="v40012025" />
+			<v n="25">But Jesus<crossref let="w" cid="c40012025.21" />knew their thoughts, and said to them:<woc>“Every kingdom divided against itself is brought to desolation, and every city or house divided against itself will not stand.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012026" />
+			<v n="26">
+				<woc>If Satan casts out Satan, he is divided against himself. How then will his kingdom stand?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012027" />
+			<v n="27">
+				<woc>And if I cast out demons by Beelzebub, by whom do your sons cast them out? Therefore they shall be your judges.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012028" />
+			<v n="28">
+				<woc>But if I cast out demons by the Spirit of God,</woc>
+				<crossref let="x" cid="c40012028.22" />
+				<woc>surely the kingdom of God has come upon you.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012029" />
+			<v n="29">
+				<crossref let="y" cid="c40012029.23" />
+				<woc>Or how can one enter a strong man’s house and plunder his goods, unless he first binds the strong man? And then he will plunder his house.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012030" />
+			<v n="30">
+				<woc>He who is not with Me is against Me, and he who does not gather with Me scatters abroad.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012031" />
+			<v n="31">
+				<woc>“Therefore I say to you,</woc>
+				<woc>every sin and blasphemy will be forgiven men,</woc>
+				<woc>but the blasphemy against the Spirit will not be forgiven men.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012032" />
+			<v n="32">
+				<woc>Anyone who</woc>
+				<woc>speaks a word against the Son of Man,</woc>
+				<woc>it will be forgiven him; but whoever speaks against the Holy Spirit, it will not be forgiven him, either in this age or in the age to come.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012033" />
+			<v n="33">
+				<woc>“Either make the tree good and</woc>
+				<woc>its fruit good, or else make the tree bad and its fruit bad; for a tree is known by its fruit.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012034" />
+			<v n="34">
+				<woc>Brood</woc>
+				<woc>of vipers! How can you, being evil, speak good things?</woc>
+				<woc>For out of the abundance of the heart the mouth speaks.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012035" />
+			<v n="35">
+				<woc>A good man out of the good treasure</woc>
+				<woc>of his heart brings forth good things, and an evil man out of the evil treasure brings forth evil things.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012036" />
+			<v n="36">
+				<woc>But I say to you that for every idle word men may speak, they will give account of it in the day of judgment.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012037" />
+			<v n="37">
+				<woc>For by your words you will be justified, and by your words you will be condemned.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012038" />
+			<v n="38">Then some of the scribes and Pharisees answered, saying, “Teacher, we want to see a sign from You.”</v>
+			<marker class="begin-verse" mid="v40012039" />
+			<v n="39">But He answered and said to them,<woc>“An evil and</woc>
+				<woc>adulterous generation seeks after a sign, and no sign will be given to it except the sign of the prophet Jonah.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012040" />
+			<v n="40">
+				<woc>For as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012041" />
+			<v n="41">
+				<woc>The men of Nineveh will rise up in the judgment with this generation and</woc>
+				<woc>condemn it,</woc>
+				<woc>because they repented at the preaching of Jonah; and indeed a greater than Jonah is here.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012042" />
+			<v n="42">
+				<woc>The queen of the South will rise up in the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon; and indeed a greater than Solomon is here.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012043" />
+			<v n="43">
+				<woc>“When an unclean spirit goes out of a man,</woc>
+				<woc>he goes through dry places, seeking rest, and finds none.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012044" />
+			<v n="44">
+				<woc>Then he says, ‘I will return to my house from which I came.’ And when he comes, he finds it empty, swept, and put in order.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012045" />
+			<v n="45">
+				<woc>Then he goes and takes with him seven other spirits more wicked than himself, and they enter and dwell there;</woc>
+				<woc>and the last state of that man is worse than the first. So shall it also be with this wicked generation.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012046" />
+			<v n="46">brothers stood outside, seeking to speak with Him.</v>
+			<marker class="begin-verse" mid="v40012047" />
+			<v n="47">Your mother and Your brothers are standing outside, seeking to speak with You.”</v>
+			<marker class="begin-verse" mid="v40012048" />
+			<v n="48">But He answered and said to the one who told Him,<woc>“Who is My mother and who are My brothers?”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012049" />
+			<v n="49">And He stretched out His hand toward His disciples and said,<woc>“Here are My mother and My</woc>
+				<woc>brothers!</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012050" />
+			<v n="50">
+				<woc>For</woc>
+				<woc>whoever does the will of My Father in heaven is My brother and sister and mother.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40012051" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

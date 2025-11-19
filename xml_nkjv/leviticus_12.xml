@@ -17,19 +17,23 @@
 			<heading>The Ritual After Childbirth</heading>
 			<begin-paragraph />
 			<v n="1">
+				<crossref let="a" cid="c03012001.1" />
 				Then the 
 				
 				 Lord spoke to Moses, saying,
 			</v>
 			<marker class="begin-verse" mid="v03012002" />
 			<v n="2">
+				<crossref let="b" cid="c03012002.2" />
 				“Speak to 
 				
 				 the children of Israel, saying: ‘If a woman has conceived, and borne a male child, then she shall be unclean seven days; as in the days of her customary impurity she shall be unclean.
 			
+			<crossref let="c" cid="c03012002.3" />
 			</v>
 			<marker class="begin-verse" mid="v03012003" />
 			<v n="3">
+				<crossref let="e" cid="c03012003.4" />
 				And on 
 				
 				 the eighth day the flesh of his foreskin shall be circumcised.
@@ -48,10 +52,12 @@
 			</v>
 			<marker class="begin-verse" mid="v03012006" />
 			<v n="6">
+				<crossref let="f" cid="c03012006.5" />
 				‘When the 
 				
 				 days of her purification are fulfilled, whether for a son or a daughter, she shall bring to the priest a lamb of the first year as a burnt offering, and a young pigeon or a turtledove as a sin offering, to the door of the tabernacle of meeting.
 			
+			<crossref let="g" cid="c03012006.6" />
 			</v>
 			<marker class="begin-verse" mid="v03012007" />
 			<v n="7">
@@ -61,6 +67,7 @@
 			</v>
 			<marker class="begin-verse" mid="v03012008" />
 			<v n="8">
+				<crossref let="j" cid="c03012008.7" />
 				‘And if 
 				
 				 she is not able to bring a lamb, then she may bring two turtledoves or two young pigeons—one as a burnt offering and the other as a sin offering. So the priest shall make atonement for her, and she will be clean.’ ”

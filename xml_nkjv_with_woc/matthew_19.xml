@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:53:49.258018</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:53:49.258035</next_refresh_due>
+	</generation_info>
+	<book title="Matthew" num="40" testament="new" version="NKJV" bookAbbr="mat">
+		<marker class="begin-verse" mid="v40019001" />
+		<chapter num="19">
+			<heading>Marriage and Divorce</heading>
+			<begin-paragraph />
+			<v n="1">19 Now it came to pass,<crossref let="b" cid="c40019001.2" />when Jesus had finished these sayings, that He departed from Galilee and came to the region of Judea beyond the Jordan.</v>
+			<marker class="begin-verse" mid="v40019002" />
+			<v n="2">
+				<crossref let="c" cid="c40019002.3" />And great multitudes followed Him, and He healed them there.</v>
+			<marker class="begin-verse" mid="v40019003" />
+			<v n="3">The Pharisees also came to Him, testing Him, and saying to Him, “Is it lawful for a man to divorce his wife for just any reason?”</v>
+			<marker class="begin-verse" mid="v40019004" />
+			<v n="4">And He answered and said to them,<woc>“Have you not read that He who</woc>
+				<woc>made them at the beginning</woc>
+				<crossref let="d" cid="c40019004.4" />
+				<woc>‘made them male and female,’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019005" />
+			<v n="5">
+				<woc>and said,</woc>
+				<crossref let="e" cid="c40019005.5" />
+				<woc>‘For this reason a man shall leave his father and mother and be joined to his wife, and</woc>
+				<crossref let="f" cid="c40019005.6" />
+				<woc>the two shall become one flesh’?</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019006" />
+			<v n="6">
+				<woc>So then, they are no longer two but one flesh. Therefore what God has joined together, let not man separate.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019007" />
+			<v n="7">They said to Him,<crossref let="g" cid="c40019007.7" />“Why then did Moses command to give a certificate of divorce, and to put her away?”</v>
+			<marker class="begin-verse" mid="v40019008" />
+			<v n="8">He said to them,<woc>“Moses, because of the</woc>
+				<crossref let="h" cid="c40019008.8" />
+				<woc>hardness of your hearts, permitted you to divorce your</woc>
+				<woc>wives, but from the beginning it was not so.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019009" />
+			<v n="9">
+				<crossref let="j" cid="c40019009.9" />
+				<woc>And I say to you, whoever divorces his wife, except for</woc>
+				<woc>sexual immorality, and marries another, commits adultery; and whoever marries her who is divorced commits adultery.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019010" />
+			<v n="10">His disciples said to Him,<crossref let="k" cid="c40019010.10" />“If such is the case of the man with his wife, it is better not to marry.”</v>
+			<marker class="begin-verse" mid="v40019011" />
+			<v n="11">But He said to them,<crossref let="l" cid="c40019011.11" />
+				<woc>“All cannot accept this saying, but only those to whom it has been given:</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019012" />
+			<v n="12">
+				<woc>For there are</woc>
+				<woc>eunuchs who were born thus from their mother’s womb, and</woc>
+				<woc>there are eunuchs who were made eunuchs by men, and there are eunuchs who have made themselves eunuchs for the kingdom of heaven’s sake. He who is able to accept it, let him accept it.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019013" />
+			<v n="13">
+				<crossref let="o" cid="c40019013.13" />Then little children were brought to Him that He might put His hands on them and pray, but the disciples rebuked them.</v>
+			<marker class="begin-verse" mid="v40019014" />
+			<v n="14">But Jesus said,<woc>“Let the little children come to Me, and do not forbid them; for</woc>
+				<crossref let="p" cid="c40019014.14" />
+				<woc>of such is the kingdom of heaven.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019015" />
+			<v n="15">And He laid His hands on them and departed from there.</v>
+			<marker class="begin-verse" mid="v40019016" />
+			<v n="16">
+				<crossref let="r" cid="c40019016.15" />Now behold, one came and said to Him,<crossref let="s" cid="c40019016.16" />“Good Teacher, what good thing shall I do that I may have eternal life?”</v>
+			<marker class="begin-verse" mid="v40019017" />
+			<v n="17">So He said to him,<woc>“Why do you call Me good?</woc>
+				<woc>No one is</woc>
+				<crossref let="t" cid="c40019017.17" />
+				<woc>good but One, that is, God. But if you want to enter into life,</woc>
+				<woc>keep the commandments.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019018" />
+			<v n="18">Jesus said,<crossref let="v" cid="c40019018.18" />
+				<woc>“‘You shall not murder,’ ‘You shall not commit adultery,’ ‘You shall not steal,’ ‘You shall not bear false witness,’</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019019" />
+			<v n="19">
+				<woc>‘Honor your father and your mother,’ and,</woc>
+				<woc>‘You shall love your neighbor as yourself.’</woc>
+				<woc>”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019020" />
+			<v n="20">The young man said to Him, “All these things I have<crossref let="y" cid="c40019020.20" />kept from my youth. What do I still lack?”</v>
+			<marker class="begin-verse" mid="v40019021" />
+			<v n="21">Jesus said to him,<woc>“If you want to be perfect,</woc>
+				<crossref let="z" cid="c40019021.21" />
+				<woc>go, sell what you have and give to the poor, and you will have treasure in heaven; and come, follow Me.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019022" />
+			<v n="22">But when the young man heard that saying, he went away sorrowful, for he had great possessions.</v>
+			<marker class="begin-verse" mid="v40019023" />
+			<v n="23">Then Jesus said to His disciples,<woc>“Assuredly, I say to you that</woc>
+				<woc>it is hard for a rich man to enter the kingdom of heaven.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019024" />
+			<v n="24">
+				<woc>And again I say to you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019025" />
+			<v n="25">When His disciples heard it, they were greatly astonished, saying, “Who then can be saved?”</v>
+			<marker class="begin-verse" mid="v40019026" />
+			<v n="26">But Jesus looked at them and said to them,<woc>“With men this is impossible, but</woc>
+				<woc>with God all things are possible.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019027" />
+			<v n="27">we have left all and followed You. Therefore what shall we have?”</v>
+			<marker class="begin-verse" mid="v40019028" />
+			<v n="28">So Jesus said to them,<woc>“Assuredly I say to you, that in the regeneration, when the Son of Man sits on the throne of His glory,</woc>
+				<woc>you who have followed Me will also sit on twelve thrones, judging the twelve tribes of Israel.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019029" />
+			<v n="29">
+				<woc>And everyone who has left houses or brothers or sisters or father or mother</woc>
+				<woc>or wife or children or</woc>
+				<woc>lands, for My name’s sake, shall receive a hundredfold, and inherit eternal life.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019030" />
+			<v n="30">
+				<woc>But many who are first will be last, and the last first.</woc>
+			</v>
+			<marker class="begin-verse" mid="v40019031" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

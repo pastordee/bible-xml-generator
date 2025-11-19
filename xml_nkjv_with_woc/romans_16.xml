@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:04:02.400941</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:04:02.400977</next_refresh_due>
+	</generation_info>
+	<book title="Romans" num="45" testament="new" version="NKJV" bookAbbr="rom">
+		<marker class="begin-verse" mid="v45016001" />
+		<chapter num="16">
+			<heading>Sister Phoebe Commended</heading>
+			<begin-paragraph />
+			<v n="1">16 I commend to you Phoebe our sister, who is a servant of the church in<crossref let="a" cid="c45016001.1" />Cenchrea,</v>
+			<marker class="begin-verse" mid="v45016002" />
+			<v n="2">
+				<crossref let="b" cid="c45016002.2" />that you may receive her in the Lord<crossref let="c" cid="c45016002.3" />in a manner worthy of the saints, and assist her in whatever business she has need of you; for indeed she has been a helper of many and of myself also.</v>
+			<marker class="begin-verse" mid="v45016003" />
+			<v n="3">Greet<crossref let="d" cid="c45016003.4" />Priscilla and Aquila, my fellow workers in Christ Jesus,</v>
+			<marker class="begin-verse" mid="v45016004" />
+			<v n="4">who risked their own necks for my life, to whom not only I give thanks, but also all the churches of the Gentiles.</v>
+			<marker class="begin-verse" mid="v45016005" />
+			<v n="5">the firstfruits of Achaia to Christ.</v>
+			<marker class="begin-verse" mid="v45016006" />
+			<v n="6">Greet Mary, who labored much for us.</v>
+			<marker class="begin-verse" mid="v45016007" />
+			<v n="7">Greet Andronicus and Junia, my countrymen and my fellow prisoners, who are of note among the<crossref let="g" cid="c45016007.6" />apostles, who also<crossref let="h" cid="c45016007.7" />were in Christ before me.</v>
+			<marker class="begin-verse" mid="v45016008" />
+			<v n="8">Greet Amplias, my beloved in the Lord.</v>
+			<marker class="begin-verse" mid="v45016009" />
+			<v n="9">Greet Urbanus, our fellow worker in Christ, and Stachys, my beloved.</v>
+			<marker class="begin-verse" mid="v45016010" />
+			<v n="10">Greet Apelles, approved in Christ. Greet those who are of the household of Aristobulus.</v>
+			<marker class="begin-verse" mid="v45016011" />
+			<v n="11">Greet Herodion, my countryman. Greet those who are of the household of Narcissus who are in the Lord.</v>
+			<marker class="begin-verse" mid="v45016012" />
+			<v n="12">Greet Tryphena and Tryphosa, who have labored in the Lord. Greet the beloved Persis, who labored much in the Lord.</v>
+			<marker class="begin-verse" mid="v45016013" />
+			<v n="13">chosen in the Lord, and his mother and mine.</v>
+			<marker class="begin-verse" mid="v45016014" />
+			<v n="14">Greet Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren who are with them.</v>
+			<marker class="begin-verse" mid="v45016015" />
+			<v n="15">Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them.</v>
+			<marker class="begin-verse" mid="v45016016" />
+			<v n="16">Greet one another with a holy kiss. The churches of Christ greet you.</v>
+			<marker class="begin-verse" mid="v45016017" />
+			<v n="17">Now I urge you, brethren, note those<crossref let="k" cid="c45016017.10" />who cause divisions and offenses, contrary to the doctrine which you learned, and<crossref let="l" cid="c45016017.11" />avoid them.</v>
+			<marker class="begin-verse" mid="v45016018" />
+			<v n="18">For those who are such do not serve our Lord Jesus Christ, but<crossref let="m" cid="c45016018.12" />their own belly, and<crossref let="n" cid="c45016018.13" />by smooth words and flattering speech deceive the hearts of the simple.</v>
+			<marker class="begin-verse" mid="v45016019" />
+			<v n="19">For<crossref let="o" cid="c45016019.14" />your obedience has become known to all. Therefore I am glad on your behalf; but I want you to be<crossref let="p" cid="c45016019.15" />wise in what is good, and simple concerning evil.</v>
+			<marker class="begin-verse" mid="v45016020" />
+			<v n="20">
+				<crossref let="s" cid="c45016020.18" />The grace of our Lord Jesus Christ be with you. Amen.</v>
+			<marker class="begin-verse" mid="v45016021" />
+			<v n="21">
+				<crossref let="t" cid="c45016021.19" />Timothy, my fellow worker, and<crossref let="u" cid="c45016021.20" />Lucius,<crossref let="v" cid="c45016021.21" />Jason, and<crossref let="w" cid="c45016021.22" />Sosipater, my countrymen, greet you.</v>
+			<marker class="begin-verse" mid="v45016022" />
+			<v n="22">I, Tertius, who wrote this epistle, greet you in the Lord.</v>
+			<marker class="begin-verse" mid="v45016023" />
+			<v n="23">
+				<crossref let="x" cid="c45016023.23" />Gaius, my host and the host of the whole church, greets you.<crossref let="y" cid="c45016023.24" />Erastus, the treasurer of the city, greets you, and Quartus, a brother.</v>
+			<marker class="begin-verse" mid="v45016024" />
+			<v n="24">
+				<crossref let="z" cid="c45016024.25" />The grace of our Lord Jesus Christ be with you all. Amen.</v>
+			<marker class="begin-verse" mid="v45016025" />
+			<v n="25">kept secret since the world began</v>
+			<marker class="begin-verse" mid="v45016026" />
+			<v n="26">obedience to the faith—</v>
+			<marker class="begin-verse" mid="v45016027" />
+			<v n="27">God, alone wise, be glory through Jesus Christ forever. Amen.</v>
+			<marker class="begin-verse" mid="v45016028" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:10:46.375425</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:10:46.375460</next_refresh_due>
+	</generation_info>
+	<book title="Hebrews" num="58" testament="new" version="NKJV" bookAbbr="heb">
+		<marker class="begin-verse" mid="v58004001" />
+		<chapter num="4">
+			<heading>The Promise of Rest</heading>
+			<begin-paragraph />
+			<v n="1">4 Therefore, since a promise remains of entering His rest,<crossref let="a" cid="c58004001.1" />let us fear lest any of you seem to have come short of it.</v>
+			<marker class="begin-verse" mid="v58004002" />
+			<v n="2">For indeed the gospel was preached to us as well as to them; but the word which they heard did not profit them, not being mixed with faith in those who heard it.</v>
+			<marker class="begin-verse" mid="v58004003" />
+			<v n="3">although the works were finished from the foundation of the world.</v>
+			<marker class="begin-verse" mid="v58004004" />
+			<v n="4">“And God rested on the seventh day from all His works” ;</v>
+			<marker class="begin-verse" mid="v58004005" />
+			<v n="5">and again in this place:<crossref let="d" cid="c58004005.4" />“They shall not enter My rest.”</v>
+			<marker class="begin-verse" mid="v58004006" />
+			<v n="6">Since therefore it remains that some must enter it, and those to whom it was first preached did not enter because of disobedience,</v>
+			<marker class="begin-verse" mid="v58004007" />
+			<v n="7">Do not harden your hearts.”</v>
+			<marker class="begin-verse" mid="v58004008" />
+			<v n="8">For if Joshua had<crossref let="f" cid="c58004008.6" />given them rest, then He would not afterward have spoken of another day.</v>
+			<marker class="begin-verse" mid="v58004009" />
+			<v n="9">There remains therefore a rest for the people of God.</v>
+			<marker class="begin-verse" mid="v58004010" />
+			<v n="10">For he who has entered His rest has himself also ceased from his works as God did from His.</v>
+			<marker class="begin-verse" mid="v58004011" />
+			<v n="11">
+				<crossref let="g" cid="c58004011.7" />Let us therefore be diligent to enter that rest, lest anyone fall according to the same example of disobedience.</v>
+			<marker class="begin-verse" mid="v58004012" />
+			<v n="12">For the word of God is<crossref let="h" cid="c58004012.8" />living and powerful, and sharper than any two-edged sword, piercing even to the division of soul and spirit, and of joints and marrow, and is a discerner of the thoughts and intents of the heart.</v>
+			<marker class="begin-verse" mid="v58004013" />
+			<v n="13">
+				<crossref let="l" cid="c58004013.9" />And there is no creature hidden from His sight, but all things are<crossref let="m" cid="c58004013.10" />naked and open to the eyes of Him to whom we must give account.</v>
+			<marker class="begin-verse" mid="v58004014" />
+			<v n="14">Seeing then that we have a great<crossref let="n" cid="c58004014.11" />High Priest who has passed through the heavens, Jesus the Son of God,<crossref let="o" cid="c58004014.12" />let us hold fast our confession.</v>
+			<marker class="begin-verse" mid="v58004015" />
+			<v n="15">For<crossref let="p" cid="c58004015.13" />we do not have a High Priest who cannot sympathize with our weaknesses, but<crossref let="q" cid="c58004015.14" />was in all points tempted as we are,<crossref let="r" cid="c58004015.15" />yet without sin.</v>
+			<marker class="begin-verse" mid="v58004016" />
+			<v n="16">
+				<crossref let="s" cid="c58004016.16" />Let us therefore come boldly to the throne of grace, that we may obtain mercy and find grace to help in time of need.</v>
+			<marker class="begin-verse" mid="v58004017" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

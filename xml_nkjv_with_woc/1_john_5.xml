@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:13:11.261697</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:13:11.261705</next_refresh_due>
+	</generation_info>
+	<book title="1 John" num="62" testament="new" version="NKJV" bookAbbr="1jn">
+		<marker class="begin-verse" mid="v62005001" />
+		<chapter num="5">
+			<begin-paragraph />
+			<v n="1">5 Whoever believes that<crossref let="a" cid="c62005001.1" />Jesus is the Christ is<crossref let="b" cid="c62005001.2" />born of God, and everyone who loves Him who begot also loves him who is begotten of Him.</v>
+			<marker class="begin-verse" mid="v62005002" />
+			<v n="2">By this we know that we love the children of God, when we love God and<crossref let="c" cid="c62005002.3" />keep His commandments.</v>
+			<marker class="begin-verse" mid="v62005003" />
+			<v n="3">
+				<crossref let="d" cid="c62005003.4" />For this is the love of God, that we keep His commandments. And<crossref let="e" cid="c62005003.5" />His commandments are not burdensome.</v>
+			<marker class="begin-verse" mid="v62005004" />
+			<v n="4">For<crossref let="f" cid="c62005004.6" />whatever is born of God overcomes the world. And this is the victory that<crossref let="g" cid="c62005004.7" />has overcome the world— our faith.</v>
+			<marker class="begin-verse" mid="v62005005" />
+			<v n="5">he who believes that Jesus is the Son of God?</v>
+			<marker class="begin-verse" mid="v62005006" />
+			<v n="6">This is He who came by water and blood—Jesus Christ; not only by water, but by water and blood.<crossref let="j" cid="c62005006.9" />And it is the Spirit who bears witness, because the Spirit is truth.</v>
+			<marker class="begin-verse" mid="v62005007" />
+			<v n="7">For there are three that bear witness in heaven: the Father,<crossref let="k" cid="c62005007.10" />the Word, and the Holy Spirit;<crossref let="l" cid="c62005007.11" />and these three are one.</v>
+			<marker class="begin-verse" mid="v62005008" />
+			<v n="8">And there are three that bear witness on earth:<crossref let="m" cid="c62005008.12" />the Spirit, the water, and the blood; and these three agree as one.</v>
+			<marker class="begin-verse" mid="v62005009" />
+			<v n="9">If we receive<crossref let="n" cid="c62005009.13" />the witness of men, the witness of God is greater;<crossref let="o" cid="c62005009.14" />for this is the witness of God which He has testified of His Son.</v>
+			<marker class="begin-verse" mid="v62005010" />
+			<v n="10">He who believes in the Son of God<crossref let="p" cid="c62005010.15" />has the witness in himself; he who does not believe God<crossref let="q" cid="c62005010.16" />has made Him a liar, because he has not believed the testimony that God has given of His Son.</v>
+			<marker class="begin-verse" mid="v62005011" />
+			<v n="11">And this is the testimony: that God has given us eternal life, and this life is in His Son.</v>
+			<marker class="begin-verse" mid="v62005012" />
+			<v n="12">
+				<crossref let="r" cid="c62005012.17" />He who has the Son has life; he who does not have the Son of God does not have life.</v>
+			<marker class="begin-verse" mid="v62005013" />
+			<v n="13">These things I have written to you who believe in the name of the Son of God, that you may know that you have eternal life, and that you may continue to believe in the name of the Son of God.</v>
+			<marker class="begin-verse" mid="v62005014" />
+			<v n="14">Now this is the confidence that we have in Him, that<crossref let="s" cid="c62005014.18" />if we ask anything according to His will, He hears us.</v>
+			<marker class="begin-verse" mid="v62005015" />
+			<v n="15">And if we know that He hears us, whatever we ask, we know that we have the petitions that we have asked of Him.</v>
+			<marker class="begin-verse" mid="v62005016" />
+			<v n="16">If anyone sees his brother sinning a sin which does not lead to death, he will ask, and<crossref let="t" cid="c62005016.19" />He will give him life for those who commit sin not leading to death.<crossref let="u" cid="c62005016.20" />There is sin leading to death.<crossref let="v" cid="c62005016.21" />I do not say that he should pray about that.</v>
+			<marker class="begin-verse" mid="v62005017" />
+			<v n="17">
+				<crossref let="w" cid="c62005017.22" />All unrighteousness is sin, and there is sin not leading to death.</v>
+			<marker class="begin-verse" mid="v62005018" />
+			<v n="18">We know that<crossref let="x" cid="c62005018.23" />whoever is born of God does not sin; but he who has been born of God<crossref let="y" cid="c62005018.24" />keeps himself, and the wicked one does not touch him.</v>
+			<marker class="begin-verse" mid="v62005019" />
+			<v n="19">We know that we are of God, and<crossref let="z" cid="c62005019.25" />the whole world lies under the sway of the wicked one.</v>
+			<marker class="begin-verse" mid="v62005020" />
+			<v n="20">and eternal life.</v>
+			<marker class="begin-verse" mid="v62005021" />
+			<v n="21">Little children, keep yourselves from idols. Amen.</v>
+			<marker class="begin-verse" mid="v62005022" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

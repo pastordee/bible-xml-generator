@@ -35,6 +35,7 @@
 			</v>
 			<marker class="begin-verse" mid="v26015004" />
 			<v n="4">
+				<crossref let="a" cid="c26015004.1" />
 				Instead, it 
 				
 				 is thrown into the fire for fuel; the fire devours both ends of it, and its middle is burned. Is it useful for any work?
@@ -53,11 +54,14 @@
 			</v>
 			<marker class="begin-verse" mid="v26015007" />
 			<v n="7">
+				<crossref let="b" cid="c26015007.2" />
 				
 				and I 
 				
 				 will set My face against them. They will go out from one fire, but another fire shall devour them. Then you shall know that I am the Lord, when I set My face against them.
 			
+			<crossref let="c" cid="c26015007.3" />
+				<crossref let="d" cid="c26015007.4" />
 			</v>
 			<marker class="begin-verse" mid="v26015008" />
 			<v n="8">

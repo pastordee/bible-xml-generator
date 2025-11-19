@@ -17,10 +17,12 @@
 			<heading>The Family Tree of King Saul of Benjamin</heading>
 			<begin-paragraph />
 			<v n="1">
+				<crossref let="a" cid="c13008001.1" />
 				Now Benjamin 
 				
 				 begot Bela his firstborn, Ashbel the second, Aharah the third,
 			
+			<crossref let="b" cid="c13008001.2" />
 			</v>
 			<marker class="begin-verse" mid="v13008002" />
 			<v n="2">
@@ -44,10 +46,12 @@
 			</v>
 			<marker class="begin-verse" mid="v13008006" />
 			<v n="6">
+				<crossref let="c" cid="c13008006.3" />
 				
 				These are 
 				
 				 the sons of Ehud, who were the heads of the fathers’ houses of the inhabitants of Geba, and who forced them to move to Manahath:
+			<crossref let="d" cid="c13008006.4" />
 			</v>
 			<marker class="begin-verse" mid="v13008007" />
 			<v n="7">
@@ -87,6 +91,7 @@
 			</v>
 			<marker class="begin-verse" mid="v13008013" />
 			<v n="13">
+				<crossref let="e" cid="c13008013.5" />
 				and Beriah 
 				
 				 and Shema, who were heads of their fathers’ houses of the inhabitants of Aijalon, who drove out the inhabitants of Gath.
@@ -151,6 +156,7 @@
 			</v>
 			<marker class="begin-verse" mid="v13008029" />
 			<v n="29">
+				<crossref let="f" cid="c13008029.6" />
 				Now the 
 				
 				 father of Gibeon, whose wife’s name was Maacah, dwelt at Gibeon.
@@ -171,12 +177,14 @@
 			</v>
 			<marker class="begin-verse" mid="v13008033" />
 			<v n="33">
+				<crossref let="g" cid="c13008033.7" />
 				Ner begot 
 				
 				 Kish, Kish begot Saul, and Saul begot Jonathan, Malchishua, Abinadab, and Esh-Baal.
 			</v>
 			<marker class="begin-verse" mid="v13008034" />
 			<v n="34">
+				<crossref let="h" cid="c13008034.8" />
 				The son 
 				
 				 of Jonathan was Merib-Baal, and Merib-Baal begot Micah.

@@ -1,0 +1,85 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:07:49.727456</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:07:49.727466</next_refresh_due>
+	</generation_info>
+	<book title="Philippians" num="50" testament="new" version="NKJV" bookAbbr="php">
+		<marker class="begin-verse" mid="v50001001" />
+		<chapter num="1">
+			<heading>Greeting</heading>
+			<begin-paragraph />
+			<v n="1">To all the saints in Christ Jesus who are in Philippi, with the bishops and<crossref let="a" cid="c50001001.1" />deacons:</v>
+			<marker class="begin-verse" mid="v50001002" />
+			<v n="2">Grace to you and peace from God our Father and the Lord Jesus Christ.</v>
+			<marker class="begin-verse" mid="v50001003" />
+			<v n="3">
+				<crossref let="b" cid="c50001003.2" />I thank my God upon every remembrance of you,</v>
+			<marker class="begin-verse" mid="v50001004" />
+			<v n="4">always in<crossref let="c" cid="c50001004.3" />every prayer of mine making request for you all with joy,</v>
+			<marker class="begin-verse" mid="v50001005" />
+			<v n="5">
+				<crossref let="d" cid="c50001005.4" />for your fellowship in the gospel from the first day until now,</v>
+			<marker class="begin-verse" mid="v50001006" />
+			<v n="6">being confident of this very thing, that He who has begun<crossref let="e" cid="c50001006.5" />a good work in you will complete it until the day of Jesus Christ;</v>
+			<marker class="begin-verse" mid="v50001007" />
+			<v n="7">just as it is right for me to think this of you all, because I have you in my heart, inasmuch as both in my chains and in the defense and confirmation of the gospel, you all are partakers with me of grace.</v>
+			<marker class="begin-verse" mid="v50001008" />
+			<v n="8">For God is my witness, how greatly I long for you all with the affection of Jesus Christ.</v>
+			<marker class="begin-verse" mid="v50001009" />
+			<v n="9">And this I pray, that your love may abound still more and more in knowledge and all discernment,</v>
+			<marker class="begin-verse" mid="v50001010" />
+			<v n="10">that you may approve the things that are excellent, that you may be sincere and without offense till the day of Christ,</v>
+			<marker class="begin-verse" mid="v50001011" />
+			<v n="11">being filled with the fruits of righteousness<crossref let="f" cid="c50001011.6" />which are by Jesus Christ,<crossref let="g" cid="c50001011.7" />to the glory and praise of God.</v>
+			<marker class="begin-verse" mid="v50001012" />
+			<v n="12">But I want you to know, brethren, that the things which happened to me have actually turned out for the furtherance of the gospel,</v>
+			<marker class="begin-verse" mid="v50001013" />
+			<v n="13">so that it has become evident<crossref let="h" cid="c50001013.8" />to the whole palace guard, and to all the rest, that my chains are in Christ;</v>
+			<marker class="begin-verse" mid="v50001014" />
+			<v n="14">and most of the brethren in the Lord, having become confident by my chains, are much more bold to speak the word without fear.</v>
+			<marker class="begin-verse" mid="v50001015" />
+			<v n="15">Some indeed preach Christ even from envy and strife, and some also from goodwill:</v>
+			<marker class="begin-verse" mid="v50001016" />
+			<v n="16">The former preach Christ from selfish ambition, not sincerely, supposing to add affliction to my chains;</v>
+			<marker class="begin-verse" mid="v50001017" />
+			<v n="17">but the latter out of love, knowing that I am appointed for the defense of the gospel.</v>
+			<marker class="begin-verse" mid="v50001018" />
+			<v n="18">What then? Only that in every way, whether in pretense or in truth, Christ is preached; and in this I rejoice, yes, and will rejoice.</v>
+			<marker class="begin-verse" mid="v50001019" />
+			<v n="19">this will turn out for my deliverance through your prayer and the supply of the Spirit of Jesus Christ,</v>
+			<marker class="begin-verse" mid="v50001020" />
+			<v n="20">according to my earnest expectation and hope that in nothing I shall be ashamed, but<crossref let="j" cid="c50001020.10" />with all boldness, as always, so now also Christ will be magnified in my body, whether by life<crossref let="k" cid="c50001020.11" />or by death.</v>
+			<marker class="begin-verse" mid="v50001021" />
+			<v n="21">For to me, to live is Christ, and to die is gain.</v>
+			<marker class="begin-verse" mid="v50001022" />
+			<v n="22">But if I live on in the flesh, this will mean fruit from my labor; yet what I shall choose I cannot tell.</v>
+			<marker class="begin-verse" mid="v50001023" />
+			<v n="23">For I am hard-pressed between the two, having a<crossref let="l" cid="c50001023.12" />desire to depart and be with Christ, which is<crossref let="m" cid="c50001023.13" />far better.</v>
+			<marker class="begin-verse" mid="v50001024" />
+			<v n="24">Nevertheless to remain in the flesh is more needful for you.</v>
+			<marker class="begin-verse" mid="v50001025" />
+			<v n="25">And being confident of this, I know that I shall remain and continue with you all for your progress and joy of faith,</v>
+			<marker class="begin-verse" mid="v50001026" />
+			<v n="26">that<crossref let="n" cid="c50001026.14" />your rejoicing for me may be more abundant in Jesus Christ by my coming to you again.</v>
+			<marker class="begin-verse" mid="v50001027" />
+			<v n="27">Only<crossref let="o" cid="c50001027.15" />let your conduct be worthy of the gospel of Christ, so that whether I come and see you or am absent, I may hear of your affairs, that you stand fast in one spirit,<crossref let="p" cid="c50001027.16" />with one mind<crossref let="q" cid="c50001027.17" />striving together for the faith of the gospel,</v>
+			<marker class="begin-verse" mid="v50001028" />
+			<v n="28">and not in any way terrified by your adversaries, which is to them a proof of perdition, but to you of salvation, and that from God.</v>
+			<marker class="begin-verse" mid="v50001029" />
+			<v n="29">For to you<crossref let="r" cid="c50001029.18" />it has been granted on behalf of Christ,<crossref let="s" cid="c50001029.19" />not only to believe in Him, but also to suffer for His sake,</v>
+			<marker class="begin-verse" mid="v50001030" />
+			<v n="30">
+				<crossref let="u" cid="c50001030.20" />having the same conflict<crossref let="v" cid="c50001030.21" />which you saw in me and now hear is in me.</v>
+			<marker class="begin-verse" mid="v50001031" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

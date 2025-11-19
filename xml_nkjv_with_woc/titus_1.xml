@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:10:08.875955</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:10:08.875969</next_refresh_due>
+	</generation_info>
+	<book title="Titus" num="56" testament="new" version="NKJV" bookAbbr="tit">
+		<marker class="begin-verse" mid="v56001001" />
+		<chapter num="1">
+			<heading>Greeting</heading>
+			<begin-paragraph />
+			<v n="1">which accords with godliness,</v>
+			<marker class="begin-verse" mid="v56001002" />
+			<v n="2">in hope of eternal life which God, who<crossref let="c" cid="c56001002.2" />cannot lie, promised before time began,</v>
+			<marker class="begin-verse" mid="v56001003" />
+			<v n="3">but has in due time manifested His word through preaching, which was committed to me according to the commandment of God our Savior;</v>
+			<marker class="begin-verse" mid="v56001004" />
+			<v n="4">Grace, mercy, and peace from God the Father and the Lord Jesus Christ our Savior.</v>
+			<marker class="begin-verse" mid="v56001005" />
+			<v n="5">For this reason I left you in Crete, that you should<crossref let="e" cid="c56001005.4" />set in order the things that are lacking, and appoint elders in every city as I commanded you—</v>
+			<marker class="begin-verse" mid="v56001006" />
+			<v n="6">if a man is blameless, the husband of one wife,<crossref let="f" cid="c56001006.5" />having faithful children not accused of dissipation or insubordination.</v>
+			<marker class="begin-verse" mid="v56001007" />
+			<v n="7">For a bishop must be blameless, as a steward of God, not self-willed, not quick-tempered,<crossref let="g" cid="c56001007.6" />not given to wine, not violent, not greedy for money,</v>
+			<marker class="begin-verse" mid="v56001008" />
+			<v n="8">but hospitable, a lover of what is good, sober-minded, just, holy, self-controlled,</v>
+			<marker class="begin-verse" mid="v56001009" />
+			<v n="9">holding fast the faithful word as he has been taught, that he may be able, by sound doctrine, both to exhort and convict those who contradict.</v>
+			<marker class="begin-verse" mid="v56001010" />
+			<v n="10">For there are many insubordinate, both idle<crossref let="h" cid="c56001010.7" />talkers and deceivers, especially those of the circumcision,</v>
+			<marker class="begin-verse" mid="v56001011" />
+			<v n="11">for the sake of dishonest gain.</v>
+			<marker class="begin-verse" mid="v56001012" />
+			<v n="12">
+				<crossref let="j" cid="c56001012.9" />One of them, a prophet of their own, said, “Cretans are always liars, evil beasts, lazy gluttons.”</v>
+			<marker class="begin-verse" mid="v56001013" />
+			<v n="13">This testimony is true.<crossref let="k" cid="c56001013.10" />Therefore rebuke them sharply, that they may be sound in the faith,</v>
+			<marker class="begin-verse" mid="v56001014" />
+			<v n="14">not giving heed to Jewish fables and<crossref let="l" cid="c56001014.11" />commandments of men who turn from the truth.</v>
+			<marker class="begin-verse" mid="v56001015" />
+			<v n="15">
+				<crossref let="m" cid="c56001015.12" />To the pure all things are pure, but to those who are defiled and unbelieving nothing is pure; but even their mind and conscience are defiled.</v>
+			<marker class="begin-verse" mid="v56001016" />
+			<v n="16">They profess to<crossref let="n" cid="c56001016.13" />know God, but<crossref let="o" cid="c56001016.14" />in works they deny Him, being abominable, disobedient, and disqualified for every good work.</v>
+			<marker class="begin-verse" mid="v56001017" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

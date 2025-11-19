@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:54:54.043794</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:54:54.043837</next_refresh_due>
+	</generation_info>
+	<book title="Mark" num="41" testament="new" version="NKJV" bookAbbr="mrk">
+		<marker class="begin-verse" mid="v41003001" />
+		<chapter num="3">
+			<heading>Healing on the Sabbath</heading>
+			<begin-paragraph />
+			<v n="1">3 And<crossref let="b" cid="c41003001.2" />He entered the synagogue again, and a man was there who had a withered hand.</v>
+			<marker class="begin-verse" mid="v41003002" />
+			<v n="2">So they<crossref let="c" cid="c41003002.3" />watched Him closely, whether He would<crossref let="d" cid="c41003002.4" />heal him on the Sabbath, so that they might accuse Him.</v>
+			<marker class="begin-verse" mid="v41003003" />
+			<v n="3">And He said to the man who had the withered hand,<woc>“Step forward.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41003004" />
+			<v n="4">Then He said to them,<woc>“Is it lawful on the Sabbath to do good or to do evil, to save life or to kill?”</woc>But they kept silent.</v>
+			<marker class="begin-verse" mid="v41003005" />
+			<v n="5">And when He had looked around at them with anger, being grieved by the<crossref let="e" cid="c41003005.5" />hardness of their hearts, He said to the man,<woc>“Stretch out your hand.”</woc>And he stretched it out, and his hand was restored as whole as the other.</v>
+			<marker class="begin-verse" mid="v41003006" />
+			<v n="6">
+				<crossref let="f" cid="c41003006.6" />Then the Pharisees went out and immediately plotted with<crossref let="g" cid="c41003006.7" />the Herodians against Him, how they might destroy Him.</v>
+			<marker class="begin-verse" mid="v41003007" />
+			<v n="7">and from Judea</v>
+			<marker class="begin-verse" mid="v41003008" />
+			<v n="8">and Jerusalem and Idumea and beyond the Jordan; and those from Tyre and Sidon, a great multitude, when they heard how<crossref let="j" cid="c41003008.10" />many things He was doing, came to Him.</v>
+			<marker class="begin-verse" mid="v41003009" />
+			<v n="9">So He told His disciples that a small boat should be kept ready for Him because of the multitude, lest they should crush Him.</v>
+			<marker class="begin-verse" mid="v41003010" />
+			<v n="10">For He healed<crossref let="k" cid="c41003010.11" />many, so that as many as had afflictions pressed about Him to touch Him.</v>
+			<marker class="begin-verse" mid="v41003011" />
+			<v n="11">
+				<crossref let="m" cid="c41003011.12" />And the unclean spirits, whenever they saw Him, fell down before Him and cried out, saying,<crossref let="n" cid="c41003011.13" />“You are the Son of God.”</v>
+			<marker class="begin-verse" mid="v41003012" />
+			<v n="12">But<crossref let="o" cid="c41003012.14" />He sternly warned them that they should not make Him known.</v>
+			<marker class="begin-verse" mid="v41003013" />
+			<v n="13">
+				<crossref let="q" cid="c41003013.15" />And He went up on the mountain and called to Him those He Himself wanted. And they came to Him.</v>
+			<marker class="begin-verse" mid="v41003014" />
+			<v n="14">Then He appointed twelve, that they might be with Him and that He might send them out to preach,</v>
+			<marker class="begin-verse" mid="v41003015" />
+			<v n="15">and to have power to heal sicknesses and to cast out demons:</v>
+			<marker class="begin-verse" mid="v41003016" />
+			<v n="16">Simon,<crossref let="r" cid="c41003016.16" />to whom He gave the name Peter;</v>
+			<marker class="begin-verse" mid="v41003017" />
+			<v n="17">James the son of Zebedee and John the brother of James, to whom He gave the name Boanerges, that is, “Sons of Thunder”;</v>
+			<marker class="begin-verse" mid="v41003018" />
+			<v n="18">Andrew, Philip, Bartholomew, Matthew, Thomas, James the son of Alphaeus, Thaddaeus, Simon the Cananite;</v>
+			<marker class="begin-verse" mid="v41003019" />
+			<v n="19">and Judas Iscariot, who also betrayed Him. And they went into a house.</v>
+			<marker class="begin-verse" mid="v41003020" />
+			<v n="20">Then the multitude came together again,<crossref let="t" cid="c41003020.17" />so that they could not so much as eat bread.</v>
+			<marker class="begin-verse" mid="v41003021" />
+			<v n="21">But when His<crossref let="u" cid="c41003021.18" />own people heard about this, they went out to lay hold of Him,<crossref let="v" cid="c41003021.19" />for they said, “He is out of His mind.”</v>
+			<marker class="begin-verse" mid="v41003022" />
+			<v n="22">And the scribes who came down from Jerusalem said,<crossref let="w" cid="c41003022.20" />“He has Beelzebub,” and, “By the<crossref let="x" cid="c41003022.21" />ruler of the demons He casts out demons.”</v>
+			<marker class="begin-verse" mid="v41003023" />
+			<v n="23">
+				<crossref let="y" cid="c41003023.22" />So He called them to Himself and said to them in parables:<woc>“How can Satan cast out Satan?</woc>
+			</v>
+			<marker class="begin-verse" mid="v41003024" />
+			<v n="24">
+				<woc>If a kingdom is divided against itself, that kingdom cannot stand.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41003025" />
+			<v n="25">
+				<woc>And if a house is divided against itself, that house cannot stand.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41003026" />
+			<v n="26">
+				<woc>And if Satan has risen up against himself, and is divided, he cannot stand, but has an end.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41003027" />
+			<v n="27">
+				<crossref let="z" cid="c41003027.23" />
+				<woc>No one can enter a strong man’s house and plunder his goods, unless he first binds the strong man. And then he will plunder his house.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41003028" />
+			<v n="28">
+				<woc>“Assuredly, I say to you, all sins will be forgiven the sons of men, and whatever blasphemies they may utter;</woc>
+			</v>
+			<marker class="begin-verse" mid="v41003029" />
+			<v n="29">
+				<woc>but he who blasphemes against the Holy Spirit never has forgiveness, but is subject to eternal condemnation”</woc>—</v>
+			<marker class="begin-verse" mid="v41003030" />
+			<v n="30">said, “He has an unclean spirit.”</v>
+			<marker class="begin-verse" mid="v41003031" />
+			<v n="31">Then His brothers and His mother came, and standing outside they sent to Him, calling Him.</v>
+			<marker class="begin-verse" mid="v41003032" />
+			<v n="32">And a multitude was sitting around Him; and they said to Him, “Look, Your mother and Your brothers are outside seeking You.”</v>
+			<marker class="begin-verse" mid="v41003033" />
+			<v n="33">But He answered them, saying,<woc>“Who is My mother, or My brothers?”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41003034" />
+			<v n="34">And He looked around in a circle at those who sat about Him, and said,<woc>“Here are My mother and My brothers!</woc>
+			</v>
+			<marker class="begin-verse" mid="v41003035" />
+			<v n="35">
+				<woc>For whoever does the</woc>
+				<woc>will of God is My brother and My sister and mother.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41003036" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

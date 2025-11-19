@@ -29,6 +29,7 @@
 			</v>
 			<marker class="begin-verse" mid="v19017003" />
 			<v n="3">
+				<crossref let="b" cid="c19017003.1" />
 				You have 
 				
 				 tested my heart;You have visited me in the night;You have tried me and have found nothing;I have purposed that my mouth shall not transgress.
@@ -41,12 +42,14 @@
 			</v>
 			<marker class="begin-verse" mid="v19017005" />
 			<v n="5">
+				<crossref let="c" cid="c19017005.2" />
 				Uphold my 
 				
 				 steps in Your paths,That my footsteps may not slip.
 			</v>
 			<marker class="begin-verse" mid="v19017006" />
 			<v n="6">
+				<crossref let="d" cid="c19017006.3" />
 				I have 
 				
 				 called upon You, for You will hear me, O God;Incline Your ear to me, and hear my speech.
@@ -71,10 +74,12 @@
 			</v>
 			<marker class="begin-verse" mid="v19017010" />
 			<v n="10">
+				<crossref let="e" cid="c19017010.4" />
 				They have 
 				
 				 closed up their fat hearts;With their mouths they speak proudly.
 			
+			<crossref let="f" cid="c19017010.5" />
 			</v>
 			<marker class="begin-verse" mid="v19017011" />
 			<v n="11">
@@ -102,10 +107,12 @@
 			</v>
 			<marker class="begin-verse" mid="v19017015" />
 			<v n="15">
+				<crossref let="g" cid="c19017015.6" />
 				As for 
 				
 				 me, I will see Your face in righteousness;I shall be satisfied when I awake in Your likeness.
 			
+			<crossref let="h" cid="c19017015.7" />
 			</v>
 			<marker class="begin-verse" mid="v19017016" />
 			<end-paragraph />

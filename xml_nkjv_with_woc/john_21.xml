@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:00:06.756710</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:00:06.756740</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" version="NKJV" bookAbbr="jhn">
+		<marker class="begin-verse" mid="v43021001" />
+		<chapter num="21">
+			<heading>Breakfast by the Sea</heading>
+			<begin-paragraph />
+			<v n="1">21 After these things Jesus showed Himself again to the disciples at the<crossref let="a" cid="c43021001.1" />Sea of Tiberias, and in this way He showed Himself:</v>
+			<marker class="begin-verse" mid="v43021002" />
+			<v n="2">Simon Peter,<crossref let="b" cid="c43021002.2" />Thomas called the Twin,<crossref let="c" cid="c43021002.3" />Nathanael of<crossref let="d" cid="c43021002.4" />Cana in Galilee, the sons of Zebedee, and two others of His disciples were together.</v>
+			<marker class="begin-verse" mid="v43021003" />
+			<v n="3">They said to him, “We are going with you also.” They went out and immediately got into the boat, and that night they caught nothing.</v>
+			<marker class="begin-verse" mid="v43021004" />
+			<v n="4">But when the morning had now come, Jesus stood on the shore; yet the disciples<crossref let="f" cid="c43021004.5" />did not know that it was Jesus.</v>
+			<marker class="begin-verse" mid="v43021005" />
+			<v n="5">They answered Him, “No.”</v>
+			<marker class="begin-verse" mid="v43021006" />
+			<v n="6">And He said to them,<crossref let="h" cid="c43021006.7" />
+				<woc>“Cast the net on the right side of the boat, and you will find some.”</woc>So they cast, and now they were not able to draw it in because of the multitude of fish.</v>
+			<marker class="begin-verse" mid="v43021007" />
+			<v n="7">that disciple whom Jesus loved said to Peter, “It is the Lord!” Now when Simon Peter heard that it was the Lord, he put on his outer garment (for he had removed it), and plunged into the sea.</v>
+			<marker class="begin-verse" mid="v43021008" />
+			<v n="8">But the other disciples came in the little boat (for they were not far from land, but about two hundred cubits), dragging the net with fish.</v>
+			<marker class="begin-verse" mid="v43021009" />
+			<v n="9">Then, as soon as they had come to land, they saw a fire of coals there, and fish laid on it, and bread.</v>
+			<marker class="begin-verse" mid="v43021010" />
+			<v n="10">Jesus said to them,<woc>“Bring some of the fish which you have just caught.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43021011" />
+			<v n="11">Simon Peter went up and dragged the net to land, full of large fish, one hundred and fifty-three; and although there were so many, the net was not broken.</v>
+			<marker class="begin-verse" mid="v43021012" />
+			<v n="12">Jesus said to them,<crossref let="j" cid="c43021012.9" />
+				<woc>“Come and eat breakfast.”</woc>Yet none of the disciples dared ask Him, “Who are You?”—knowing that it was the Lord.</v>
+			<marker class="begin-verse" mid="v43021013" />
+			<v n="13">Jesus then came and took the bread and gave it to them, and likewise the fish.</v>
+			<marker class="begin-verse" mid="v43021014" />
+			<v n="14">This is now<crossref let="k" cid="c43021014.10" />the third time Jesus showed Himself to His disciples after He was raised from the dead.</v>
+			<marker class="begin-verse" mid="v43021015" />
+			<v n="15">He said to him,<crossref let="l" cid="c43021015.11" />
+				<woc>“Feed My lambs.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43021016" />
+			<v n="16">
+				<crossref let="m" cid="c43021016.12" />He said to him,<woc>“Tend My</woc>
+				<crossref let="n" cid="c43021016.13" />
+				<woc>sheep.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43021017" />
+			<v n="17">Jesus said to him,<woc>“Feed My sheep.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43021018" />
+			<v n="18">
+				<crossref let="p" cid="c43021018.15" />
+				<woc>Most assuredly, I say to you, when you were younger, you girded yourself and walked where you wished; but when you are old, you will stretch out your hands, and another will gird you and carry you where you do not wish.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43021019" />
+			<v n="19">This He spoke, signifying<crossref let="q" cid="c43021019.16" />by what death he would glorify God. And when He had spoken this, He said to him,<crossref let="r" cid="c43021019.17" />
+				<woc>“Follow Me.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43021020" />
+			<v n="20">Then Peter, turning around, saw the disciple<crossref let="s" cid="c43021020.18" />whom Jesus loved following,<crossref let="t" cid="c43021020.19" />who also had leaned on His breast at the supper, and said, “Lord, who is the one who betrays You?”</v>
+			<marker class="begin-verse" mid="v43021021" />
+			<v n="21">Peter, seeing him, said to Jesus, “But Lord, what about this man?”</v>
+			<marker class="begin-verse" mid="v43021022" />
+			<v n="22">Jesus said to him,<woc>“If I</woc>
+				<woc>will that he remain</woc>
+				<crossref let="u" cid="c43021022.20" />
+				<woc>till I come, what is that to you? You follow Me.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43021023" />
+			<v n="23">Then this saying went out among the brethren that this disciple would not die. Yet Jesus did not say to him that he would not die, but,<woc>“If I will that he remain till I come, what is that to you?”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43021024" />
+			<v n="24">This is the disciple who<crossref let="v" cid="c43021024.21" />testifies of these things, and wrote these things; and we know that his testimony is true.</v>
+			<marker class="begin-verse" mid="v43021025" />
+			<v n="25">
+				<crossref let="w" cid="c43021025.22" />And there are also many other things that Jesus did, which if they were written one by one,<crossref let="x" cid="c43021025.23" />I suppose that even the world itself could not contain the books that would be written. Amen.</v>
+			<marker class="begin-verse" mid="v43021026" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

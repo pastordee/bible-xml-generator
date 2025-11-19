@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:00:01.480208</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:00:01.480237</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" version="NKJV" bookAbbr="jhn">
+		<marker class="begin-verse" mid="v43020001" />
+		<chapter num="20">
+			<heading>The Empty Tomb</heading>
+			<begin-paragraph />
+			<v n="1">20 Now the<crossref let="b" cid="c43020001.2" />first day of the week Mary Magdalene went to the tomb early, while it was still dark, and saw that the<crossref let="c" cid="c43020001.3" />stone had been taken away from the tomb.</v>
+			<marker class="begin-verse" mid="v43020002" />
+			<v n="2">Then she ran and came to Simon Peter, and to the<crossref let="d" cid="c43020002.4" />other disciple,<crossref let="e" cid="c43020002.5" />whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we do not know where they have laid Him.”</v>
+			<marker class="begin-verse" mid="v43020003" />
+			<v n="3">
+				<crossref let="f" cid="c43020003.6" />Peter therefore went out, and the other disciple, and were going to the tomb.</v>
+			<marker class="begin-verse" mid="v43020004" />
+			<v n="4">So they both ran together, and the other disciple outran Peter and came to the tomb first.</v>
+			<marker class="begin-verse" mid="v43020005" />
+			<v n="5">And he, stooping down and looking in, saw<crossref let="g" cid="c43020005.7" />the linen cloths lying there; yet he did not go in.</v>
+			<marker class="begin-verse" mid="v43020006" />
+			<v n="6">Then Simon Peter came, following him, and went into the tomb; and he saw the linen cloths lying there,</v>
+			<marker class="begin-verse" mid="v43020007" />
+			<v n="7">and<crossref let="h" cid="c43020007.8" />the handkerchief that had been around His head, not lying with the linen cloths, but folded together in a place by itself.</v>
+			<marker class="begin-verse" mid="v43020008" />
+			<v n="8">other disciple, who came to the tomb first, went in also; and he saw and believed.</v>
+			<marker class="begin-verse" mid="v43020009" />
+			<v n="9">For as yet they did not know the<crossref let="j" cid="c43020009.10" />Scripture, that He must rise again from the dead.</v>
+			<marker class="begin-verse" mid="v43020010" />
+			<v n="10">Then the disciples went away again to their own homes.</v>
+			<marker class="begin-verse" mid="v43020011" />
+			<v n="11">
+				<crossref let="k" cid="c43020011.11" />But Mary stood outside by the tomb weeping, and as she wept she stooped down and looked into the tomb.</v>
+			<marker class="begin-verse" mid="v43020012" />
+			<v n="12">And she saw two angels in white sitting, one at the head and the other at the feet, where the body of Jesus had lain.</v>
+			<marker class="begin-verse" mid="v43020013" />
+			<v n="13">She said to them, “Because they have taken away my Lord, and I do not know where they have laid Him.”</v>
+			<marker class="begin-verse" mid="v43020014" />
+			<v n="14">
+				<crossref let="l" cid="c43020014.12" />Now when she had said this, she turned around and saw Jesus standing there, and<crossref let="m" cid="c43020014.13" />did not know that it was Jesus.</v>
+			<marker class="begin-verse" mid="v43020015" />
+			<v n="15">She, supposing Him to be the gardener, said to Him, “Sir, if You have carried Him away, tell me where You have laid Him, and I will take Him away.”</v>
+			<marker class="begin-verse" mid="v43020016" />
+			<v n="16">She turned and said to Him, “Rabboni!” (which is to say, Teacher).</v>
+			<marker class="begin-verse" mid="v43020017" />
+			<v n="17">Jesus said to her,<woc>“Do not cling to Me, for I have not yet</woc>
+				<crossref let="o" cid="c43020017.15" />
+				<woc>ascended to My Father; but go to</woc>
+				<crossref let="p" cid="c43020017.16" />
+				<woc>My brethren and say to them,</woc>
+				<crossref let="q" cid="c43020017.17" />
+				<woc>‘I am ascending to My Father and your Father, and to</woc>
+				<woc>My God and your God.’ ”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43020018" />
+			<v n="18">
+				<crossref let="s" cid="c43020018.18" />Mary Magdalene came and told the disciples that she had seen the Lord, and that He had spoken these things to her.</v>
+			<marker class="begin-verse" mid="v43020019" />
+			<v n="19">
+				<crossref let="u" cid="c43020019.19" />Then, the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled, for<crossref let="v" cid="c43020019.20" />fear of the Jews, Jesus came and stood in the midst, and said to them,<crossref let="w" cid="c43020019.21" />
+				<woc>“Peace be with you.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43020020" />
+			<v n="20">Then the disciples were glad when they saw the Lord.</v>
+			<marker class="begin-verse" mid="v43020021" />
+			<v n="21">So Jesus said to them again,<woc>“Peace to you!</woc>
+				<crossref let="z" cid="c43020021.24" />
+				<woc>As the Father has sent Me, I also send you.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43020022" />
+			<v n="22">And when He had said this, He breathed on them, and said to them,<woc>“Receive the Holy Spirit.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43020023" />
+			<v n="23">
+				<woc>If you forgive the sins of any, they are forgiven them; if you retain the sins of any, they are retained.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43020024" />
+			<v n="24">called the Twin, one of the twelve, was not with them when Jesus came.</v>
+			<marker class="begin-verse" mid="v43020025" />
+			<v n="25">So he said to them, “Unless I see in His hands the print of the nails, and put my finger into the print of the nails, and put my hand into His side, I will not believe.”</v>
+			<marker class="begin-verse" mid="v43020026" />
+			<v n="26">And after eight days His disciples were again inside, and Thomas with them. Jesus came, the doors being shut, and stood in the midst, and said,<woc>“Peace to you!”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43020027" />
+			<v n="27">Then He said to Thomas,<woc>“Reach your finger here, and look at My hands; and</woc>
+				<woc>reach your hand here, and put it into My side. Do not be</woc>
+				<woc>unbelieving, but believing.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43020028" />
+			<v n="28">And Thomas answered and said to Him, “My Lord and my God!”</v>
+			<marker class="begin-verse" mid="v43020029" />
+			<v n="29">Jesus said to him,<woc>“Thomas, because you have seen Me, you have believed.</woc>
+				<woc>Blessed are those who have not seen and yet have believed.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43020030" />
+			<v n="30">truly Jesus did many other signs in the presence of His disciples, which are not written in this book;</v>
+			<marker class="begin-verse" mid="v43020031" />
+			<v n="31">and that believing you may have life in His name.</v>
+			<marker class="begin-verse" mid="v43020032" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

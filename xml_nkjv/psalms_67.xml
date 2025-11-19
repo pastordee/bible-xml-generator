@@ -17,16 +17,19 @@
 			<heading>An Invocation and a DoxologyTo the Chief Musician. On stringed instruments. A Psalm. A Song.</heading>
 			<begin-paragraph />
 			<v n="1">
+				<crossref let="a" cid="c19067001.1" />
 				God be 
 				
 				 merciful to us and bless us,And cause His face to shine upon us,Selah
 			</v>
 			<marker class="begin-verse" mid="v19067002" />
 			<v n="2">
+				<crossref let="b" cid="c19067002.2" />
 				That Your 
 				
 				 way may be known on earth,Your salvation among all nations.
 			
+			<crossref let="c" cid="c19067002.3" />
 			</v>
 			<marker class="begin-verse" mid="v19067003" />
 			<v n="3">
@@ -36,6 +39,7 @@
 			</v>
 			<marker class="begin-verse" mid="v19067004" />
 			<v n="4">
+				<crossref let="d" cid="c19067004.4" />
 				Oh, let 
 				
 				 the nations be glad and sing for joy!For You shall judge the people righteously,And govern the nations on earth.Selah
@@ -48,6 +52,7 @@
 			</v>
 			<marker class="begin-verse" mid="v19067006" />
 			<v n="6">
+				<crossref let="e" cid="c19067006.5" />
 				Then the 
 				
 				 earth shall yield her increase;God, our own God, shall bless us.

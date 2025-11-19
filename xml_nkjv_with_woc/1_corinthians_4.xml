@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:04:25.231420</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:04:25.231430</next_refresh_due>
+	</generation_info>
+	<book title="1 Corinthians" num="46" testament="new" version="NKJV" bookAbbr="1co">
+		<marker class="begin-verse" mid="v46004001" />
+		<chapter num="4">
+			<heading>Stewards of the Mysteries of God</heading>
+			<begin-paragraph />
+			<v n="1">4 Let a man so consider us, as<crossref let="a" cid="c46004001.1" />servants of Christ<crossref let="b" cid="c46004001.2" />and stewards of the mysteries of God.</v>
+			<marker class="begin-verse" mid="v46004002" />
+			<v n="2">Moreover it is required in stewards that one be found faithful.</v>
+			<marker class="begin-verse" mid="v46004003" />
+			<v n="3">But with me it is a very small thing that I should be judged by you or by a human court. In fact, I do not even judge myself.</v>
+			<marker class="begin-verse" mid="v46004004" />
+			<v n="4">For I know of nothing against myself, yet I am not justified by this; but He who judges me is the Lord.</v>
+			<marker class="begin-verse" mid="v46004005" />
+			<v n="5">
+				<crossref let="c" cid="c46004005.3" />Therefore judge nothing before the time, until the Lord comes, who will both bring to<crossref let="d" cid="c46004005.4" />light the hidden things of darkness and<crossref let="e" cid="c46004005.5" />reveal the counsels of the hearts. Then each one’s praise will come from God.</v>
+			<marker class="begin-verse" mid="v46004006" />
+			<v n="6">Now these things, brethren, I have figuratively transferred to myself and Apollos for your sakes, that you may learn in us not to think beyond what is written, that none of you may be puffed up on behalf of one against the other.</v>
+			<marker class="begin-verse" mid="v46004007" />
+			<v n="7">For who makes you differ from another? And<crossref let="g" cid="c46004007.6" />what do you have that you did not receive? Now if you did indeed receive it, why do you boast as if you had not received it?</v>
+			<marker class="begin-verse" mid="v46004008" />
+			<v n="8">You are already full!<crossref let="h" cid="c46004008.7" />You are already rich! You have reigned as kings without us—and indeed I could wish you did reign, that we also might reign with you!</v>
+			<marker class="begin-verse" mid="v46004009" />
+			<v n="9">spectacle to the world, both to angels and to men.</v>
+			<marker class="begin-verse" mid="v46004010" />
+			<v n="10">We are<crossref let="j" cid="c46004010.9" />fools for Christ’s sake, but you are wise in Christ! We are weak, but you are strong! You are distinguished, but we are dishonored!</v>
+			<marker class="begin-verse" mid="v46004011" />
+			<v n="11">To the present hour we both hunger and thirst, and we are poorly clothed, and beaten, and homeless.</v>
+			<marker class="begin-verse" mid="v46004012" />
+			<v n="12">
+				<crossref let="l" cid="c46004012.11" />And we labor, working with our own hands.<crossref let="m" cid="c46004012.12" />Being reviled, we bless; being persecuted, we endure;</v>
+			<marker class="begin-verse" mid="v46004013" />
+			<v n="13">being defamed, we entreat.<crossref let="n" cid="c46004013.13" />We have been made as the filth of the world, the offscouring of all things until now.</v>
+			<marker class="begin-verse" mid="v46004014" />
+			<v n="14">I do not write these things to shame you, but<crossref let="o" cid="c46004014.14" />as my beloved children I warn you.</v>
+			<marker class="begin-verse" mid="v46004015" />
+			<v n="15">For though you might have ten thousand instructors in Christ, yet you do not have many fathers; for<crossref let="p" cid="c46004015.15" />in Christ Jesus I have begotten you through the gospel.</v>
+			<marker class="begin-verse" mid="v46004016" />
+			<v n="16">Therefore I urge you,<crossref let="q" cid="c46004016.16" />imitate me.</v>
+			<marker class="begin-verse" mid="v46004017" />
+			<v n="17">For this reason I have sent<crossref let="r" cid="c46004017.17" />Timothy to you,<crossref let="s" cid="c46004017.18" />who is my beloved and faithful son in the Lord, who will<crossref let="t" cid="c46004017.19" />remind you of my ways in Christ, as I<crossref let="u" cid="c46004017.20" />teach everywhere<crossref let="v" cid="c46004017.21" />in every church.</v>
+			<marker class="begin-verse" mid="v46004018" />
+			<v n="18">
+				<crossref let="w" cid="c46004018.22" />Now some are puffed up, as though I were not coming to you.</v>
+			<marker class="begin-verse" mid="v46004019" />
+			<v n="19">
+				<crossref let="x" cid="c46004019.23" />But I will come to you shortly,<crossref let="y" cid="c46004019.24" />if the Lord wills, and I will know, not the word of those who are puffed up, but the power.</v>
+			<marker class="begin-verse" mid="v46004020" />
+			<v n="20">For<crossref let="z" cid="c46004020.25" />the kingdom of God is not in word but in power.</v>
+			<marker class="begin-verse" mid="v46004021" />
+			<v n="21">Shall I come to you with a rod, or in love and a spirit of gentleness?</v>
+			<marker class="begin-verse" mid="v46004022" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

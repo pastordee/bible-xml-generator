@@ -39,7 +39,7 @@ def get_verse_crossrefs_map(crossref_file):
             if not line:
                 continue
             
-            parts = line.split('\t')
+            parts = line.split(None, 1)  # Split on any whitespace, max 2 parts
             if len(parts) < 2:
                 continue
             

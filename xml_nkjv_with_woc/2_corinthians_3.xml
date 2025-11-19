@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:05:45.357903</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:05:45.357913</next_refresh_due>
+	</generation_info>
+	<book title="2 Corinthians" num="47" testament="new" version="NKJV" bookAbbr="2co">
+		<marker class="begin-verse" mid="v47003001" />
+		<chapter num="3">
+			<heading>Christ’s Epistle</heading>
+			<begin-paragraph />
+			<v n="1">3 Do<crossref let="b" cid="c47003001.2" />we begin again to commend ourselves? Or do we need, as some others ,<crossref let="c" cid="c47003001.3" />epistles of commendation to you or letters of commendation from you?</v>
+			<marker class="begin-verse" mid="v47003002" />
+			<v n="2">
+				<crossref let="d" cid="c47003002.4" />You are our epistle written in our hearts, known and read by all men;</v>
+			<marker class="begin-verse" mid="v47003003" />
+			<v n="3">on tablets of flesh, that is, of the heart.</v>
+			<marker class="begin-verse" mid="v47003004" />
+			<v n="4">And we have such trust through Christ toward God.</v>
+			<marker class="begin-verse" mid="v47003005" />
+			<v n="5">
+				<crossref let="h" cid="c47003005.7" />Not that we are sufficient of ourselves to think of anything as being from ourselves, but our sufficiency is from God,</v>
+			<marker class="begin-verse" mid="v47003006" />
+			<v n="6">who also made us sufficient as<crossref let="j" cid="c47003006.8" />ministers of<crossref let="k" cid="c47003006.9" />the new covenant, not<crossref let="l" cid="c47003006.10" />of the letter but of the Spirit; for the letter kills, but the Spirit gives life.</v>
+			<marker class="begin-verse" mid="v47003007" />
+			<v n="7">But if<crossref let="o" cid="c47003007.11" />the ministry of death,<crossref let="p" cid="c47003007.12" />written and engraved on stones, was glorious, so that the children of Israel could not look steadily at the face of Moses because of the glory of his countenance, which glory was passing away,</v>
+			<marker class="begin-verse" mid="v47003008" />
+			<v n="8">how will<crossref let="r" cid="c47003008.13" />the ministry of the Spirit not be more glorious?</v>
+			<marker class="begin-verse" mid="v47003009" />
+			<v n="9">For if the ministry of condemnation had glory, the ministry<crossref let="s" cid="c47003009.14" />of righteousness exceeds much more in glory.</v>
+			<marker class="begin-verse" mid="v47003010" />
+			<v n="10">For even what was made glorious had no glory in this respect, because of the glory that excels.</v>
+			<marker class="begin-verse" mid="v47003011" />
+			<v n="11">For if what is passing away was glorious, what remains is much more glorious.</v>
+			<marker class="begin-verse" mid="v47003012" />
+			<v n="12">Therefore, since we have such hope,<crossref let="t" cid="c47003012.15" />we use great boldness of speech—</v>
+			<marker class="begin-verse" mid="v47003013" />
+			<v n="13">unlike Moses,<crossref let="u" cid="c47003013.16" />who put a veil over his face so that the children of Israel could not look steadily at the end of what was passing away.</v>
+			<marker class="begin-verse" mid="v47003014" />
+			<v n="14">But<crossref let="w" cid="c47003014.17" />their minds were blinded. For until this day the same veil remains unlifted in the reading of the Old Testament, because the veil is taken away in Christ.</v>
+			<marker class="begin-verse" mid="v47003015" />
+			<v n="15">But even to this day, when Moses is read, a veil lies on their heart.</v>
+			<marker class="begin-verse" mid="v47003016" />
+			<v n="16">Nevertheless<crossref let="x" cid="c47003016.18" />when one turns to the Lord,<crossref let="y" cid="c47003016.19" />the veil is taken away.</v>
+			<marker class="begin-verse" mid="v47003017" />
+			<v n="17">Now<crossref let="z" cid="c47003017.20" />the Lord is the Spirit; and where the Spirit of the Lord is , there is liberty.</v>
+			<marker class="begin-verse" mid="v47003018" />
+			<v n="18">are being transformed into the same image from glory to glory, just as by the Spirit of the Lord.</v>
+			<marker class="begin-verse" mid="v47003019" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

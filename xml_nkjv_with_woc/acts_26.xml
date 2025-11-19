@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:02:26.112621</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:02:26.112663</next_refresh_due>
+	</generation_info>
+	<book title="Acts" num="44" testament="new" version="NKJV" bookAbbr="act">
+		<marker class="begin-verse" mid="v44026001" />
+		<chapter num="26">
+			<heading>Paul’s Early Life</heading>
+			<begin-paragraph />
+			<v n="1">So Paul stretched out his hand and answered for himself:</v>
+			<marker class="begin-verse" mid="v44026002" />
+			<v n="2">“I think myself happy, King Agrippa, because today I shall answer<crossref let="b" cid="c44026002.1" />for myself before you concerning all the things of which I am accused by the Jews,</v>
+			<marker class="begin-verse" mid="v44026003" />
+			<v n="3">especially because you are expert in all customs and questions which have to do with the Jews. Therefore I beg you to hear me patiently.</v>
+			<marker class="begin-verse" mid="v44026004" />
+			<v n="4">“My manner of life from my youth, which was spent from the beginning among my own nation at Jerusalem, all the Jews know.</v>
+			<marker class="begin-verse" mid="v44026005" />
+			<v n="5">They knew me from the first, if they were willing to testify, that according to<crossref let="d" cid="c44026005.2" />the strictest sect of our religion I lived a Pharisee.</v>
+			<marker class="begin-verse" mid="v44026006" />
+			<v n="6">
+				<crossref let="e" cid="c44026006.3" />And now I stand and am judged for the hope of the promise made by God to our fathers.</v>
+			<marker class="begin-verse" mid="v44026007" />
+			<v n="7">To this promise<crossref let="g" cid="c44026007.4" />our twelve tribes, earnestly serving God<crossref let="h" cid="c44026007.5" />night and day, hope to attain. For this hope’s sake, King Agrippa, I am accused by the Jews.</v>
+			<marker class="begin-verse" mid="v44026008" />
+			<v n="8">Why should it be thought incredible by you that God raises the dead?</v>
+			<marker class="begin-verse" mid="v44026009" />
+			<v n="9">
+				<crossref let="j" cid="c44026009.6" />“Indeed, I myself thought I must do many things contrary to the name of Jesus of Nazareth.</v>
+			<marker class="begin-verse" mid="v44026010" />
+			<v n="10">
+				<crossref let="l" cid="c44026010.7" />This I also did in Jerusalem, and many of the saints I shut up in prison, having received authority<crossref let="m" cid="c44026010.8" />from the chief priests; and when they were put to death, I cast my vote against them.</v>
+			<marker class="begin-verse" mid="v44026011" />
+			<v n="11">
+				<crossref let="n" cid="c44026011.9" />And I punished them often in every synagogue and compelled them to blaspheme; and being exceedingly enraged against them, I persecuted them even to foreign cities.</v>
+			<marker class="begin-verse" mid="v44026012" />
+			<v n="12">
+				<crossref let="p" cid="c44026012.10" />“While thus occupied, as I journeyed to Damascus with authority and commission from the chief priests,</v>
+			<marker class="begin-verse" mid="v44026013" />
+			<v n="13">at midday, O king, along the road I saw a light from heaven, brighter than the sun, shining around me and those who journeyed with me.</v>
+			<marker class="begin-verse" mid="v44026014" />
+			<v n="14">And when we all had fallen to the ground, I heard a voice speaking to me and saying in the Hebrew language,<woc>‘Saul, Saul, why are you persecuting Me? It is hard for you to kick against the goads.’</woc>
+			</v>
+			<marker class="begin-verse" mid="v44026015" />
+			<v n="15">So I said, ‘Who are You, Lord?’ And He said,<woc>‘I am Jesus, whom you are persecuting.</woc>
+			</v>
+			<marker class="begin-verse" mid="v44026016" />
+			<v n="16">
+				<woc>But rise and stand on your feet; for I have appeared to you for this purpose,</woc>
+				<crossref let="q" cid="c44026016.11" />
+				<woc>to make you a minister and a witness both of the things which you have seen and of the things which I will yet reveal to you.</woc>
+			</v>
+			<marker class="begin-verse" mid="v44026017" />
+			<v n="17">
+				<woc>I will</woc>
+				<woc>deliver you from the Jewish people, as well as from the Gentiles,</woc>
+				<crossref let="r" cid="c44026017.12" />
+				<woc>to whom I</woc>
+				<woc>now send you,</woc>
+			</v>
+			<marker class="begin-verse" mid="v44026018" />
+			<v n="18">
+				<crossref let="s" cid="c44026018.13" />
+				<woc>to open their eyes, in order</woc>
+				<crossref let="t" cid="c44026018.14" />
+				<woc>to turn them from darkness to light, and from the power of Satan to God,</woc>
+				<crossref let="u" cid="c44026018.15" />
+				<woc>that they may receive forgiveness of sins and</woc>
+				<crossref let="v" cid="c44026018.16" />
+				<woc>an inheritance among those who are</woc>
+				<crossref let="w" cid="c44026018.17" />
+				<woc>sanctified</woc>
+				<woc>by faith in Me.’</woc>
+			</v>
+			<marker class="begin-verse" mid="v44026019" />
+			<v n="19">“Therefore, King Agrippa, I was not disobedient to the heavenly vision,</v>
+			<marker class="begin-verse" mid="v44026020" />
+			<v n="20">but<crossref let="x" cid="c44026020.18" />declared first to those in Damascus and in Jerusalem, and throughout all the region of Judea, and then to the Gentiles, that they should repent, turn to God, and do works befitting repentance.</v>
+			<marker class="begin-verse" mid="v44026021" />
+			<v n="21">For these reasons the Jews seized me in the temple and tried to kill me.</v>
+			<marker class="begin-verse" mid="v44026022" />
+			<v n="22">Therefore, having obtained help from God, to this day I stand, witnessing both to small and great, saying no other things than those<crossref let="z" cid="c44026022.19" />which the prophets and Moses said would come—</v>
+			<marker class="begin-verse" mid="v44026023" />
+			<v n="23">would proclaim light to the Jewish people and to the Gentiles.”</v>
+			<marker class="begin-verse" mid="v44026024" />
+			<v n="24">you are beside yourself! Much learning is driving you mad!”</v>
+			<marker class="begin-verse" mid="v44026025" />
+			<v n="25">But he said, “I am not mad, most noble Festus, but speak the words of truth and reason.</v>
+			<marker class="begin-verse" mid="v44026026" />
+			<v n="26">knows these things; for I am convinced that none of these things escapes his attention, since this thing was not done in a corner.</v>
+			<marker class="begin-verse" mid="v44026027" />
+			<v n="27">King Agrippa, do you believe the prophets? I know that you do believe.”</v>
+			<marker class="begin-verse" mid="v44026028" />
+			<v n="28">Then Agrippa said to Paul, “You almost persuade me to become a Christian.”</v>
+			<marker class="begin-verse" mid="v44026029" />
+			<v n="29">“I would to God that not only you, but also all who hear me today, might become both almost and altogether such as I am, except for these chains.”</v>
+			<marker class="begin-verse" mid="v44026030" />
+			<v n="30">When he had said these things, the king stood up, as well as the governor and Bernice and those who sat with them;</v>
+			<marker class="begin-verse" mid="v44026031" />
+			<v n="31">“This man is doing nothing deserving of death or chains.”</v>
+			<marker class="begin-verse" mid="v44026032" />
+			<v n="32">if he had not appealed to Caesar.”</v>
+			<marker class="begin-verse" mid="v44026033" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

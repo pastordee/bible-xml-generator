@@ -1,0 +1,87 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:08:11.237220</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:08:11.237254</next_refresh_due>
+	</generation_info>
+	<book title="Colossians" num="51" testament="new" version="NKJV" bookAbbr="col">
+		<marker class="begin-verse" mid="v51001001" />
+		<chapter num="1">
+			<heading>Greeting</heading>
+			<begin-paragraph />
+			<v n="1">1 Paul,<crossref let="a" cid="c51001001.1" />an apostle of Jesus Christ by the will of God, and Timothy our brother,</v>
+			<marker class="begin-verse" mid="v51001002" />
+			<v n="2">
+				<crossref let="c" cid="c51001002.3" />Grace to you and peace from God our Father and the Lord Jesus Christ.</v>
+			<marker class="begin-verse" mid="v51001003" />
+			<v n="3">
+				<crossref let="d" cid="c51001003.4" />We give thanks to the God and Father of our Lord Jesus Christ, praying always for you,</v>
+			<marker class="begin-verse" mid="v51001004" />
+			<v n="4">
+				<crossref let="e" cid="c51001004.5" />since we heard of your faith in Christ Jesus and of your love for all the saints;</v>
+			<marker class="begin-verse" mid="v51001005" />
+			<v n="5">because of the hope<crossref let="g" cid="c51001005.6" />which is laid up for you in heaven, of which you heard before in the word of the truth of the gospel,</v>
+			<marker class="begin-verse" mid="v51001006" />
+			<v n="6">which has come to you,<crossref let="h" cid="c51001006.7" />as it has also in all the world, and is bringing forth fruit, as it is also among you since the day you heard and knew<crossref let="j" cid="c51001006.8" />the grace of God in truth;</v>
+			<marker class="begin-verse" mid="v51001007" />
+			<v n="7">as you also learned from<crossref let="k" cid="c51001007.9" />Epaphras, our dear fellow servant, who is a faithful minister of Christ on your behalf,</v>
+			<marker class="begin-verse" mid="v51001008" />
+			<v n="8">who also declared to us your<crossref let="m" cid="c51001008.10" />love in the Spirit.</v>
+			<marker class="begin-verse" mid="v51001009" />
+			<v n="9">
+				<crossref let="n" cid="c51001009.11" />For this reason we also, since the day we heard it, do not cease to pray for you, and to ask<crossref let="o" cid="c51001009.12" />that you may be filled with<crossref let="p" cid="c51001009.13" />the knowledge of His will<crossref let="q" cid="c51001009.14" />in all wisdom and spiritual understanding;</v>
+			<marker class="begin-verse" mid="v51001010" />
+			<v n="10">
+				<crossref let="r" cid="c51001010.15" />that you may walk worthy of the Lord,<crossref let="s" cid="c51001010.16" />fully pleasing Him,<crossref let="t" cid="c51001010.17" />being fruitful in every good work and increasing in the<crossref let="u" cid="c51001010.18" />knowledge of God;</v>
+			<marker class="begin-verse" mid="v51001011" />
+			<v n="11">
+				<crossref let="v" cid="c51001011.19" />strengthened with all might, according to His glorious power,<crossref let="w" cid="c51001011.20" />for all patience and longsuffering<crossref let="x" cid="c51001011.21" />with joy;</v>
+			<marker class="begin-verse" mid="v51001012" />
+			<v n="12">
+				<crossref let="y" cid="c51001012.22" />giving thanks to the Father who has qualified us to be partakers of the inheritance of the saints in the light.</v>
+			<marker class="begin-verse" mid="v51001013" />
+			<v n="13">and conveyed us into the kingdom of the Son of His love,</v>
+			<marker class="begin-verse" mid="v51001014" />
+			<v n="14">in whom we have redemption through His blood, the forgiveness of sins.</v>
+			<marker class="begin-verse" mid="v51001015" />
+			<v n="15">the firstborn over all creation.</v>
+			<marker class="begin-verse" mid="v51001016" />
+			<v n="16">through Him and for Him.</v>
+			<marker class="begin-verse" mid="v51001017" />
+			<v n="17">all things consist.</v>
+			<marker class="begin-verse" mid="v51001018" />
+			<v n="18">the firstborn from the dead, that in all things He may have the preeminence.</v>
+			<marker class="begin-verse" mid="v51001019" />
+			<v n="19">in Him all the fullness should dwell,</v>
+			<marker class="begin-verse" mid="v51001020" />
+			<v n="20">having made peace through the blood of His cross.</v>
+			<marker class="begin-verse" mid="v51001021" />
+			<v n="21">reconciled</v>
+			<marker class="begin-verse" mid="v51001022" />
+			<v n="22">to present you holy, and blameless, and above reproach in His sight—</v>
+			<marker class="begin-verse" mid="v51001023" />
+			<v n="23">of which I, Paul, became a minister.</v>
+			<marker class="begin-verse" mid="v51001024" />
+			<v n="24">the sake of His body, which is the church,</v>
+			<marker class="begin-verse" mid="v51001025" />
+			<v n="25">the stewardship from God which was given to me for you, to fulfill the word of God,</v>
+			<marker class="begin-verse" mid="v51001026" />
+			<v n="26">but now has been revealed to His saints.</v>
+			<marker class="begin-verse" mid="v51001027" />
+			<v n="27">the hope of glory.</v>
+			<marker class="begin-verse" mid="v51001028" />
+			<v n="28">that we may present every man perfect in Christ Jesus.</v>
+			<marker class="begin-verse" mid="v51001029" />
+			<v n="29">mightily.</v>
+			<marker class="begin-verse" mid="v51001030" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

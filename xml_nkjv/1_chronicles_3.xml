@@ -17,6 +17,7 @@
 			<heading>The Family of David</heading>
 			<begin-paragraph />
 			<v n="1">
+				<crossref let="a" cid="c13003001.1" />
 				
 				Now these 
 				
@@ -24,32 +25,42 @@
 				
 				 were the sons of David who were born to him in Hebron: The firstborn was Amnon, by Ahinoam the Jezreelitess; the second, Daniel, by Abigail the Carmelitess;
 			
+			<crossref let="b" cid="c13003001.2" />
+				<crossref let="c" cid="c13003001.3" />
+				<crossref let="d" cid="c13003001.4" />
+				<crossref let="e" cid="c13003001.5" />
 			</v>
 			<marker class="begin-verse" mid="v13003002" />
 			<v n="2">
+				<crossref let="f" cid="c13003002.6" />
 				the third, 
 				
 				 Absalom the son of Maacah, the daughter of Talmai, king of Geshur; the fourth, Adonijah the son of Haggith;
 			
+			<crossref let="g" cid="c13003002.7" />
 			</v>
 			<marker class="begin-verse" mid="v13003003" />
 			<v n="3">
+				<crossref let="b" cid="c13003003.8" />
 				the fifth, 
 				
 				 Shephatiah, by Abital; the sixth, Ithream, by his wife Eglah.
 			</v>
 			<marker class="begin-verse" mid="v13003004" />
 			<v n="4">
+				<crossref let="j" cid="c13003004.9" />
 				These six 
 				
 				 were born to him in Hebron. There he reigned seven years and six months, and in Jerusalem he reigned thirty-three years.
 			</v>
 			<marker class="begin-verse" mid="v13003005" />
 			<v n="5">
+				<crossref let="k" cid="c13003005.10" />
 				
 				And these 
 				
 				 were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon—four by Bathshua the daughter of Ammiel.
+			<crossref let="l" cid="c13003005.11" />
 			</v>
 			<marker class="begin-verse" mid="v13003006" />
 			<v n="6">
@@ -61,18 +72,21 @@
 			<v n="7">Nogah, Nepheg, Japhia,</v>
 			<marker class="begin-verse" mid="v13003008" />
 			<v n="8">
+				<crossref let="m" cid="c13003008.12" />
 				Elishama, Eliada, 
 				
 				 and Eliphelet—nine in all.
 			</v>
 			<marker class="begin-verse" mid="v13003009" />
 			<v n="9">
+				<crossref let="n" cid="c13003009.13" />
 				These were 
 				
 				 all the sons of David, besides the sons of the concubines, and Tamar their sister.The Family of Solomon
 			</v>
 			<marker class="begin-verse" mid="v13003010" />
 			<v n="10">
+				<crossref let="s" cid="c13003010.14" />
 				Solomon’s son 
 				
 				 was Rehoboam; Abijah was his son, Asa his son, Jehoshaphat his son,
@@ -109,12 +123,14 @@
 			</v>
 			<marker class="begin-verse" mid="v13003016" />
 			<v n="16">
+				<crossref let="q" cid="c13003016.15" />
 				The sons 
 				
 				 of Jehoiakim were Jeconiah his son and Zedekiah his son.The Family of Jeconiah
 			</v>
 			<marker class="begin-verse" mid="v13003017" />
 			<v n="17">
+				<crossref let="r" cid="c13003017.16" />
 				And the 
 				
 				 sons of Jeconiah were Assir, Shealtiel his son,
@@ -145,6 +161,7 @@
 			</v>
 			<marker class="begin-verse" mid="v13003022" />
 			<v n="22">
+				<crossref let="s" cid="c13003022.17" />
 				The son 
 				
 				 of Shechaniah was Shemaiah. The sons of Shemaiah were Hattush, Igal, Bariah, Neariah, and Shaphat—six in all.

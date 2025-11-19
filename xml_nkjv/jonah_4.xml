@@ -23,16 +23,19 @@
 			</v>
 			<marker class="begin-verse" mid="v32004002" />
 			<v n="2">
+				<crossref let="b" cid="c32004002.1" />
 				So he 
 				
 				 prayed to the Lord, and said, “Ah, Lord, was not this what I said when I was still in my country? Therefore I fled previously to Tarshish; for I know that You are a gracious and merciful God, slow to anger and abundant in lovingkindness, One who relents from doing harm.
 			</v>
 			<marker class="begin-verse" mid="v32004003" />
 			<v n="3">
+				<crossref let="c" cid="c32004003.2" />
 				Therefore now, 
 				
 				 O Lord, please take my life from me, for it is better for me to die than to live!”
 			
+			<crossref let="d" cid="c32004003.3" />
 			</v>
 			<marker class="begin-verse" mid="v32004004" />
 			<v n="4">
@@ -60,6 +63,7 @@
 			</v>
 			<marker class="begin-verse" mid="v32004008" />
 			<v n="8">
+				<crossref let="s" cid="c32004008.4" />
 				And it 
 				
 				 happened, when the sun arose, that God prepared a vehement east wind; and the sun beat on Jonah’s head, so that he grew faint. Then he wished death for himself, and said, “It is better for me to die than to live.”
@@ -78,10 +82,12 @@
 			</v>
 			<marker class="begin-verse" mid="v32004011" />
 			<v n="11">
+				<crossref let="f" cid="c32004011.5" />
 				
 				And should 
 				
 				 I not pity Nineveh, that great city, in which are more than one hundred and twenty thousand persons who cannot discern between their right hand and their left—and much livestock?”
+			<crossref let="g" cid="c32004011.6" />
 			</v>
 			<marker class="begin-verse" mid="v32004012" />
 			<end-paragraph />

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:13:16.631368</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:13:16.631404</next_refresh_due>
+	</generation_info>
+	<book title="2 John" num="63" testament="new" version="NKJV" bookAbbr="2jn">
+		<marker class="begin-verse" mid="v63001001" />
+		<chapter num="1">
+			<heading>Greeting the Elect Lady</heading>
+			<begin-paragraph />
+			<v n="1">To the elect lady and her children, whom I love in truth, and not only I, but also all those who have known<crossref let="a" cid="c63001001.1" />the truth,</v>
+			<marker class="begin-verse" mid="v63001002" />
+			<v n="2">because of the truth which abides in us and will be with us forever:</v>
+			<marker class="begin-verse" mid="v63001003" />
+			<v n="3">
+				<crossref let="b" cid="c63001003.2" />Grace, mercy, and peace will be with you from God the Father and from the Lord Jesus Christ, the Son of the Father, in truth and love.</v>
+			<marker class="begin-verse" mid="v63001004" />
+			<v n="4">I<crossref let="c" cid="c63001004.3" />rejoiced greatly that I have found some of your children walking in truth, as we received commandment from the Father.</v>
+			<marker class="begin-verse" mid="v63001005" />
+			<v n="5">And now I plead with you, lady, not as though I wrote a new commandment to you, but that which we have had from the beginning:<crossref let="d" cid="c63001005.4" />that we love one another.</v>
+			<marker class="begin-verse" mid="v63001006" />
+			<v n="6">
+				<crossref let="e" cid="c63001006.5" />This is love, that we walk according to His commandments. This is the commandment, that<crossref let="f" cid="c63001006.6" />as you have heard from the beginning, you should walk in it.</v>
+			<marker class="begin-verse" mid="v63001007" />
+			<v n="7">For<crossref let="g" cid="c63001007.7" />many deceivers have gone out into the world<crossref let="h" cid="c63001007.8" />who do not confess Jesus Christ as coming in the flesh. This is a deceiver and an antichrist.</v>
+			<marker class="begin-verse" mid="v63001008" />
+			<v n="8">
+				<crossref let="j" cid="c63001008.9" />Look to yourselves,<crossref let="k" cid="c63001008.10" />that we do not lose those things we worked for, but that we may receive a full reward.</v>
+			<marker class="begin-verse" mid="v63001009" />
+			<v n="9">
+				<crossref let="l" cid="c63001009.11" />Whoever transgresses and does not abide in the doctrine of Christ does not have God. He who abides in the doctrine of Christ has both the Father and the Son.</v>
+			<marker class="begin-verse" mid="v63001010" />
+			<v n="10">If anyone comes to you and<crossref let="m" cid="c63001010.12" />does not bring this doctrine, do not receive him into your house nor greet him;</v>
+			<marker class="begin-verse" mid="v63001011" />
+			<v n="11">for he who greets him shares in his evil deeds.</v>
+			<marker class="begin-verse" mid="v63001012" />
+			<v n="12">
+				<crossref let="n" cid="c63001012.13" />Having many things to write to you, I did not wish to do so with paper and ink; but I hope to come to you and speak face to face,<crossref let="o" cid="c63001012.14" />that our joy may be full.</v>
+			<marker class="begin-verse" mid="v63001013" />
+			<v n="13">
+				<crossref let="p" cid="c63001013.15" />The children of your elect sister greet you. Amen.</v>
+			<marker class="begin-verse" mid="v63001014" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

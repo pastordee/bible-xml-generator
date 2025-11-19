@@ -17,40 +17,50 @@
 			<heading>The Family of Adam</heading>
 			<begin-paragraph />
 			<v n="1">
+				<crossref let="a" cid="c01005001.1" />
 				
 				This is 
 				
 				 the book of the genealogy of Adam. In the day that God created man, He made him in the likeness of God.
 			
+			<crossref let="b" cid="c01005001.2" />
+				<crossref let="c" cid="c01005001.3" />
 			</v>
 			<marker class="begin-verse" mid="v01005002" />
 			<v n="2">
+				<crossref let="d" cid="c01005002.4" />
 				He created 
 				
 				 them male and female, and blessed them and called them Mankind in the day they were created.
 			
+			<crossref let="e" cid="c01005002.5" />
 			</v>
 			<marker class="begin-verse" mid="v01005003" />
 			<v n="3">
+				<crossref let="f" cid="c01005003.6" />
 				And Adam 
 				
 				 lived one hundred and thirty years, and begot a son in his own likeness, after his image, and named him Seth.
 			
+			<crossref let="g" cid="c01005003.7" />
 			</v>
 			<marker class="begin-verse" mid="v01005004" />
 			<v n="4">
+				<crossref let="h" cid="c01005004.8" />
 				After he 
 				
 				 begot Seth, the days of Adam were eight hundred years; and he had sons and daughters.
 			</v>
 			<marker class="begin-verse" mid="v01005005" />
 			<v n="5">
+				<crossref let="b" cid="c01005005.9" />
 				So all 
 				
 				 the days that Adam lived were nine hundred and thirty years; and he died.
 			</v>
 			<marker class="begin-verse" mid="v01005006" />
 			<v n="6">
+				<crossref let="k" cid="c01005006.10" />
 				Seth lived 
 				
 				 one hundred and five years, and begot Enosh.
@@ -123,6 +133,7 @@
 			</v>
 			<marker class="begin-verse" mid="v01005018" />
 			<v n="18">
+				<crossref let="l" cid="c01005018.11" />
 				Jared lived 
 				
 				 one hundred and sixty-two years, and begot Enoch.
@@ -147,6 +158,7 @@
 			</v>
 			<marker class="begin-verse" mid="v01005022" />
 			<v n="22">
+				<crossref let="m" cid="c01005022.12" />
 				After he 
 				
 				 begot Methuselah, Enoch walked with God three hundred years, and had sons and daughters.
@@ -159,10 +171,12 @@
 			</v>
 			<marker class="begin-verse" mid="v01005024" />
 			<v n="24">
+				<crossref let="n" cid="c01005024.13" />
 				And Enoch 
 				
 				 walked with God; and he was not, for God took him.
 			
+			<crossref let="o" cid="c01005024.14" />
 			</v>
 			<marker class="begin-verse" mid="v01005025" />
 			<v n="25">
@@ -190,10 +204,12 @@
 			</v>
 			<marker class="begin-verse" mid="v01005029" />
 			<v n="29">
+				<crossref let="p" cid="c01005029.15" />
 				And he 
 				
 				 called his name Noah, saying, “This one will comfort us concerning our work and the toil of our hands, because of the ground which the Lord has cursed.”
 			
+			<crossref let="q" cid="c01005029.16" />
 			</v>
 			<marker class="begin-verse" mid="v01005030" />
 			<v n="30">
@@ -209,10 +225,12 @@
 			</v>
 			<marker class="begin-verse" mid="v01005032" />
 			<v n="32">
+				<crossref let="r" cid="c01005032.17" />
 				And Noah 
 				
 				 was five hundred years old, and Noah begot Shem, Ham, and Japheth.
 			
+			<crossref let="s" cid="c01005032.18" />
 			</v>
 			<marker class="begin-verse" mid="v01005033" />
 			<end-paragraph />

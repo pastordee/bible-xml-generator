@@ -17,13 +17,16 @@
 			<heading>Nations Descended from Noah</heading>
 			<begin-paragraph />
 			<v n="1">
+				<crossref let="a" cid="c01010001.1" />
 				Now this 
 				
 				 is the genealogy of the sons of Noah: Shem, Ham, and Japheth. And sons were born to them after the flood.
 			
+			<crossref let="b" cid="c01010001.2" />
 			</v>
 			<marker class="begin-verse" mid="v01010002" />
 			<v n="2">
+				<crossref let="c" cid="c01010002.3" />
 				The sons 
 				
 				 of Japheth were Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
@@ -42,12 +45,14 @@
 			</v>
 			<marker class="begin-verse" mid="v01010005" />
 			<v n="5">
+				<crossref let="d" cid="c01010005.4" />
 				From these 
 				
 				 the coastland peoples of the Gentiles were separated into their lands, everyone according to his language, according to their families, into their nations.
 			</v>
 			<marker class="begin-verse" mid="v01010006" />
 			<v n="6">
+				<crossref let="e" cid="c01010006.5" />
 				The sons 
 				
 				 of Ham were Cush, Mizraim, Put, and Canaan.
@@ -60,25 +65,30 @@
 			</v>
 			<marker class="begin-verse" mid="v01010008" />
 			<v n="8">
+				<crossref let="f" cid="c01010008.6" />
 				Cush begot 
 				
 				 Nimrod; he began to be a mighty one on the earth.
 			</v>
 			<marker class="begin-verse" mid="v01010009" />
 			<v n="9">
+				<crossref let="g" cid="c01010009.7" />
 				He was 
 				
 				 a mighty hunter before the Lord; therefore it is said, “Like Nimrod the mighty hunter before the Lord.”
 			
+			<crossref let="h" cid="c01010009.8" />
 			</v>
 			<marker class="begin-verse" mid="v01010010" />
 			<v n="10">
+				<crossref let="b" cid="c01010010.9" />
 				And the 
 				
 				 beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.
 			</v>
 			<marker class="begin-verse" mid="v01010011" />
 			<v n="11">
+				<crossref let="k" cid="c01010011.10" />
 				From that 
 				
 				 land he went to Assyria and built Nineveh, Rehoboth Ir, Calah,
@@ -97,18 +107,21 @@
 			</v>
 			<marker class="begin-verse" mid="v01010014" />
 			<v n="14">
+				<crossref let="l" cid="c01010014.11" />
 				Pathrusim, and 
 				
 				 Casluhim (from whom came the Philistines and Caphtorim).
 			</v>
 			<marker class="begin-verse" mid="v01010015" />
 			<v n="15">
+				<crossref let="m" cid="c01010015.12" />
 				Canaan begot 
 				
 				 Sidon his firstborn, and Heth;
 			</v>
 			<marker class="begin-verse" mid="v01010016" />
 			<v n="16">
+				<crossref let="n" cid="c01010016.13" />
 				the Jebusite, 
 				
 				 the Amorite, and the Girgashite;
@@ -127,6 +140,7 @@
 			</v>
 			<marker class="begin-verse" mid="v01010019" />
 			<v n="19">
+				<crossref let="o" cid="c01010019.14" />
 				And the 
 				
 				 border of the Canaanites was from Sidon as you go toward Gerar, as far as Gaza; then as you go toward Sodom, Gomorrah, Admah, and Zeboiim, as far as Lasha.
@@ -145,10 +159,12 @@
 			</v>
 			<marker class="begin-verse" mid="v01010022" />
 			<v n="22">
+				<crossref let="p" cid="c01010022.15" />
 				The sons 
 				
 				 of Shem were Elam, Asshur, Arphaxad, Lud, and Aram.
 			
+			<crossref let="q" cid="c01010022.16" />
 			</v>
 			<marker class="begin-verse" mid="v01010023" />
 			<v n="23">
@@ -158,12 +174,14 @@
 			</v>
 			<marker class="begin-verse" mid="v01010024" />
 			<v n="24">
+				<crossref let="r" cid="c01010024.17" />
 				Arphaxad begot 
 				
 				 Salah, and Salah begot Eber.
 			</v>
 			<marker class="begin-verse" mid="v01010025" />
 			<v n="25">
+				<crossref let="s" cid="c01010025.18" />
 				To Eber 
 				
 				 were born two sons: the name of one was Peleg, for in his days the earth was divided; and his brother’s name was Joktan.
@@ -198,10 +216,12 @@
 			</v>
 			<marker class="begin-verse" mid="v01010032" />
 			<v n="32">
+				<crossref let="t" cid="c01010032.19" />
 				These were 
 				
 				 the families of the sons of Noah, according to their generations, in their nations; and from these the nations were divided on the earth after the flood.
 			
+			<crossref let="u" cid="c01010032.20" />
 			</v>
 			<marker class="begin-verse" mid="v01010033" />
 			<end-paragraph />

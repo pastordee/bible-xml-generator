@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:07:17.026440</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:07:17.026450</next_refresh_due>
+	</generation_info>
+	<book title="Ephesians" num="49" testament="new" version="NKJV" bookAbbr="eph">
+		<marker class="begin-verse" mid="v49001001" />
+		<chapter num="1">
+			<heading>Greeting</heading>
+			<begin-paragraph />
+			<v n="1">To the saints who are in Ephesus, and faithful in Christ Jesus:</v>
+			<marker class="begin-verse" mid="v49001002" />
+			<v n="2">Grace to you and peace from God our Father and the Lord Jesus Christ.</v>
+			<marker class="begin-verse" mid="v49001003" />
+			<v n="3">
+				<crossref let="a" cid="c49001003.1" />Blessed be the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly places in Christ,</v>
+			<marker class="begin-verse" mid="v49001004" />
+			<v n="4">just as<crossref let="b" cid="c49001004.2" />He chose us in Him<crossref let="c" cid="c49001004.3" />before the foundation of the world, that we should be holy and without blame before Him in love,</v>
+			<marker class="begin-verse" mid="v49001005" />
+			<v n="5">
+				<crossref let="e" cid="c49001005.4" />having predestined us to<crossref let="f" cid="c49001005.5" />adoption as sons by Jesus Christ to Himself,<crossref let="g" cid="c49001005.6" />according to the good pleasure of His will,</v>
+			<marker class="begin-verse" mid="v49001006" />
+			<v n="6">to the praise of the glory of His grace,<crossref let="h" cid="c49001006.7" />by which He made us accepted in the Beloved.</v>
+			<marker class="begin-verse" mid="v49001007" />
+			<v n="7">
+				<crossref let="j" cid="c49001007.8" />In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace</v>
+			<marker class="begin-verse" mid="v49001008" />
+			<v n="8">which He made to abound toward us in all wisdom and prudence,</v>
+			<marker class="begin-verse" mid="v49001009" />
+			<v n="9">
+				<crossref let="l" cid="c49001009.9" />having made known to us the mystery of His will, according to His good pleasure<crossref let="m" cid="c49001009.10" />which He purposed in Himself,</v>
+			<marker class="begin-verse" mid="v49001010" />
+			<v n="10">that in the dispensation of<crossref let="n" cid="c49001010.11" />the fullness of the times<crossref let="o" cid="c49001010.12" />He might gather together in one all things in Christ, both which are in heaven and which are on earth—in Him.</v>
+			<marker class="begin-verse" mid="v49001011" />
+			<v n="11">
+				<crossref let="q" cid="c49001011.13" />In Him also we have obtained an inheritance, being predestined according to the purpose of Him who works all things according to the counsel of His will,</v>
+			<marker class="begin-verse" mid="v49001012" />
+			<v n="12">
+				<crossref let="s" cid="c49001012.14" />that we who first trusted in Christ should be to the praise of His glory.</v>
+			<marker class="begin-verse" mid="v49001013" />
+			<v n="13">In Him you also trusted, after you heard<crossref let="u" cid="c49001013.15" />the word of truth, the gospel of your salvation; in whom also, having believed,<crossref let="v" cid="c49001013.16" />you were sealed with the Holy Spirit of promise,</v>
+			<marker class="begin-verse" mid="v49001014" />
+			<v n="14">
+				<crossref let="w" cid="c49001014.17" />who is the guarantee of our inheritance<crossref let="x" cid="c49001014.18" />until the redemption of<crossref let="y" cid="c49001014.19" />the purchased possession, to the praise of His glory.</v>
+			<marker class="begin-verse" mid="v49001015" />
+			<v n="15">after I heard of your faith in the Lord Jesus and your love for all the saints,</v>
+			<marker class="begin-verse" mid="v49001016" />
+			<v n="16">do not cease to give thanks for you, making mention of you in my prayers:</v>
+			<marker class="begin-verse" mid="v49001017" />
+			<v n="17">may give to you the spirit of wisdom and revelation in the knowledge of Him,</v>
+			<marker class="begin-verse" mid="v49001018" />
+			<v n="18">the hope of His calling, what are the riches of the glory of His inheritance in the saints,</v>
+			<marker class="begin-verse" mid="v49001019" />
+			<v n="19">according to the working of His mighty power</v>
+			<marker class="begin-verse" mid="v49001020" />
+			<v n="20">seated Him at His right hand in the heavenly places,</v>
+			<marker class="begin-verse" mid="v49001021" />
+			<v n="21">principality and power and might and dominion, and every name that is named, not only in this age but also in that which is to come.</v>
+			<marker class="begin-verse" mid="v49001022" />
+			<v n="22">to be head over all things to the church,</v>
+			<marker class="begin-verse" mid="v49001023" />
+			<v n="23">who fills all in all.</v>
+			<marker class="begin-verse" mid="v49001024" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

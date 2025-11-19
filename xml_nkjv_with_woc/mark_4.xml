@@ -1,0 +1,193 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:54:59.431579</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:54:59.431618</next_refresh_due>
+	</generation_info>
+	<book title="Mark" num="41" testament="new" version="NKJV" bookAbbr="mrk">
+		<marker class="begin-verse" mid="v41004001" />
+		<chapter num="4">
+			<heading>The Parable of the Sower</heading>
+			<begin-paragraph />
+			<v n="1">4 And<crossref let="b" cid="c41004001.2" />again He began to teach by the sea. And a great multitude was gathered to Him, so that He got into a boat and sat in it on the sea; and the whole multitude was on the land facing the sea.</v>
+			<marker class="begin-verse" mid="v41004002" />
+			<v n="2">Then He taught them many things by parables,<crossref let="c" cid="c41004002.3" />and said to them in His teaching:</v>
+			<marker class="begin-verse" mid="v41004003" />
+			<v n="3">
+				<woc>“Listen! Behold, a sower went out to sow.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004004" />
+			<v n="4">
+				<woc>And it happened, as he sowed, that some seed fell by the wayside; and the birds</woc>
+				<woc>of the air came and devoured it.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004005" />
+			<v n="5">
+				<woc>Some fell on stony ground, where it did not have much earth; and immediately it sprang up because it had no depth of earth.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004006" />
+			<v n="6">
+				<woc>But when the sun was up it was scorched, and because it had no root it withered away.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004007" />
+			<v n="7">
+				<woc>And some seed fell among thorns; and the thorns grew up and choked it, and it yielded no</woc>
+				<woc>crop.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004008" />
+			<v n="8">
+				<woc>But other seed fell on good ground and yielded a crop that sprang up, increased and produced: some thirtyfold, some sixty, and some a hundred.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004009" />
+			<v n="9">And He said to them,<woc>“He who has ears to hear, let him hear!”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004010" />
+			<v n="10">
+				<crossref let="e" cid="c41004010.4" />But when He was alone, those around Him with the twelve asked Him about the parable.</v>
+			<marker class="begin-verse" mid="v41004011" />
+			<v n="11">And He said to them,<woc>“To you it has been given to</woc>
+				<crossref let="f" cid="c41004011.5" />
+				<woc>know the</woc>
+				<woc>mystery of the kingdom of God; but to</woc>
+				<crossref let="g" cid="c41004011.6" />
+				<woc>those who are outside, all things come in parables,</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004012" />
+			<v n="12">
+				<woc>And their sins be forgiven them.’</woc>
+				<woc>”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004013" />
+			<v n="13">And He said to them,<woc>“Do you not understand this parable? How then will you understand all the parables?</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004014" />
+			<v n="14">
+				<crossref let="j" cid="c41004014.9" />
+				<woc>The sower sows the word.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004015" />
+			<v n="15">
+				<woc>And these are the ones by the wayside where the word is sown. When they hear, Satan comes immediately and takes away the word that was sown in their hearts.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004016" />
+			<v n="16">
+				<woc>These likewise are the ones sown on stony ground who, when they hear the word, immediately receive it with gladness;</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004017" />
+			<v n="17">
+				<woc>and they have no root in themselves, and so endure only for a time. Afterward, when tribulation or persecution arises for the word’s sake, immediately they stumble.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004018" />
+			<v n="18">
+				<woc>Now these are the ones sown among thorns; they are the ones who hear the word,</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004019" />
+			<v n="19">
+				<woc>and the</woc>
+				<crossref let="k" cid="c41004019.10" />
+				<woc>cares of this world,</woc>
+				<crossref let="l" cid="c41004019.11" />
+				<woc>the deceitfulness of riches, and the desires for other things entering in choke the word, and it becomes unfruitful.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004020" />
+			<v n="20">
+				<woc>But these are the ones sown on good ground, those who hear the word,</woc>
+				<woc>accept it, and bear</woc>
+				<crossref let="m" cid="c41004020.12" />
+				<woc>fruit: some thirtyfold, some sixty, and some a hundred.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004021" />
+			<v n="21">
+				<crossref let="o" cid="c41004021.13" />Also He said to them,<woc>“Is a lamp brought to be put under a basket or under a bed? Is it not to be set on a lampstand?</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004022" />
+			<v n="22">
+				<crossref let="p" cid="c41004022.14" />
+				<woc>For there is nothing hidden which will not be revealed, nor has anything been kept secret but that it should come to light.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004023" />
+			<v n="23">
+				<crossref let="q" cid="c41004023.15" />
+				<woc>If anyone has ears to hear, let him hear.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004024" />
+			<v n="24">Then He said to them,<woc>“Take heed what you hear.</woc>
+				<crossref let="r" cid="c41004024.16" />
+				<woc>With the same measure you use, it will be measured to you; and to you who hear, more will be given.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004025" />
+			<v n="25">
+				<crossref let="s" cid="c41004025.17" />
+				<woc>For whoever has, to him more will be given; but whoever does not have, even what he has will be taken away from him.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004026" />
+			<v n="26">And He said,<crossref let="t" cid="c41004026.18" />
+				<woc>“The kingdom of God is as if a man should</woc>
+				<woc>scatter seed on the ground,</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004027" />
+			<v n="27">
+				<woc>and should sleep by night and rise by day, and the seed should sprout and</woc>
+				<crossref let="u" cid="c41004027.19" />
+				<woc>grow, he himself does not know how.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004028" />
+			<v n="28">
+				<woc>For the earth</woc>
+				<crossref let="v" cid="c41004028.20" />
+				<woc>yields crops by itself: first the blade, then the head, after that the full grain in the head.</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004029" />
+			<v n="29">
+				<woc>But when the grain ripens, immediately</woc>
+				<crossref let="w" cid="c41004029.21" />
+				<woc>he puts in the sickle, because the harvest has come.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004030" />
+			<v n="30">Then He said,<crossref let="y" cid="c41004030.22" />
+				<woc>“To what shall we liken the kingdom of God? Or with what parable shall we picture it?</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004031" />
+			<v n="31">
+				<woc>It is like a mustard seed which, when it is sown on the ground, is smaller than all the seeds on earth;</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004032" />
+			<v n="32">
+				<woc>but when it is sown, it grows up and becomes greater than all herbs, and shoots out large branches, so that the birds of the air may nest under its shade.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004033" />
+			<v n="33">
+				<crossref let="z" cid="c41004033.23" />And with many such parables He spoke the word to them as they were able to hear it.</v>
+			<marker class="begin-verse" mid="v41004034" />
+			<v n="34">He explained all things to His disciples.</v>
+			<marker class="begin-verse" mid="v41004035" />
+			<v n="35">On the same day, when evening had come, He said to them,<woc>“Let us cross over to the other side.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004036" />
+			<v n="36">Now when they had left the multitude, they took Him along in the boat as He was. And other little boats were also with Him.</v>
+			<marker class="begin-verse" mid="v41004037" />
+			<v n="37">And a great windstorm arose, and the waves beat into the boat, so that it was already filling.</v>
+			<marker class="begin-verse" mid="v41004038" />
+			<v n="38">do You not care that we are perishing?”</v>
+			<marker class="begin-verse" mid="v41004039" />
+			<v n="39">Then He arose and rebuked the wind, and said to the sea,<woc>“Peace,</woc>
+				<woc>be still!”</woc>And the wind ceased and there was a great calm.</v>
+			<marker class="begin-verse" mid="v41004040" />
+			<v n="40">But He said to them,<woc>“Why are you so fearful?</woc>
+				<woc>How</woc>
+				<woc>is it that you have no faith?”</woc>
+			</v>
+			<marker class="begin-verse" mid="v41004041" />
+			<v n="41">And they feared exceedingly, and said to one another, “Who can this be, that even the wind and the sea obey Him!”</v>
+			<marker class="begin-verse" mid="v41004042" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

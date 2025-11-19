@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:02:42.248675</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:02:42.248709</next_refresh_due>
+	</generation_info>
+	<book title="Romans" num="45" testament="new" version="NKJV" bookAbbr="rom">
+		<marker class="begin-verse" mid="v45001001" />
+		<chapter num="1">
+			<heading>Greeting</heading>
+			<begin-paragraph />
+			<v n="1">1 Paul, a bondservant of Jesus Christ, called to be an apostle,<crossref let="b" cid="c45001001.1" />separated to the gospel of God</v>
+			<marker class="begin-verse" mid="v45001002" />
+			<v n="2">
+				<crossref let="c" cid="c45001002.2" />which He promised before<crossref let="d" cid="c45001002.3" />through His prophets in the Holy Scriptures,</v>
+			<marker class="begin-verse" mid="v45001003" />
+			<v n="3">concerning His Son Jesus Christ our Lord, who was<crossref let="e" cid="c45001003.4" />born of the seed of David according to the flesh,</v>
+			<marker class="begin-verse" mid="v45001004" />
+			<v n="4">and<crossref let="f" cid="c45001004.5" />declared to be the Son of God with power according<crossref let="g" cid="c45001004.6" />to the Spirit of holiness, by the resurrection from the dead.</v>
+			<marker class="begin-verse" mid="v45001005" />
+			<v n="5">Through Him<crossref let="h" cid="c45001005.7" />we have received grace and apostleship for obedience to the faith among all nations<crossref let="j" cid="c45001005.8" />for His name,</v>
+			<marker class="begin-verse" mid="v45001006" />
+			<v n="6">among whom you also are the called of Jesus Christ;</v>
+			<marker class="begin-verse" mid="v45001007" />
+			<v n="7">
+				<crossref let="l" cid="c45001007.10" />Grace to you and peace from God our Father and the Lord Jesus Christ.</v>
+			<marker class="begin-verse" mid="v45001008" />
+			<v n="8">First,<crossref let="m" cid="c45001008.11" />I thank my God through Jesus Christ for you all, that<crossref let="n" cid="c45001008.12" />your faith is spoken of throughout the whole world.</v>
+			<marker class="begin-verse" mid="v45001009" />
+			<v n="9">For<crossref let="o" cid="c45001009.13" />God is my witness,<crossref let="p" cid="c45001009.14" />whom I serve with my spirit in the gospel of His Son, that<crossref let="q" cid="c45001009.15" />without ceasing I make mention of you always in my prayers,</v>
+			<marker class="begin-verse" mid="v45001010" />
+			<v n="10">making request if, by some means, now at last I may find a way in the will of God to come to you.</v>
+			<marker class="begin-verse" mid="v45001011" />
+			<v n="11">For I long to see you, that<crossref let="r" cid="c45001011.16" />I may impart to you some spiritual gift, so that you may be established—</v>
+			<marker class="begin-verse" mid="v45001012" />
+			<v n="12">that is, that I may be encouraged together with you by<crossref let="s" cid="c45001012.17" />the mutual faith both of you and me.</v>
+			<marker class="begin-verse" mid="v45001013" />
+			<v n="13">Now I do not want you to be unaware, brethren, that I often planned to come to you (but<crossref let="t" cid="c45001013.18" />was hindered until now), that I might have some<crossref let="u" cid="c45001013.19" />fruit among you also, just as among the other Gentiles.</v>
+			<marker class="begin-verse" mid="v45001014" />
+			<v n="14">I am a debtor both to Greeks and to barbarians, both to wise and to unwise.</v>
+			<marker class="begin-verse" mid="v45001015" />
+			<v n="15">So, as much as is in me, I am ready to preach the gospel to you who are in Rome also.</v>
+			<marker class="begin-verse" mid="v45001016" />
+			<v n="16">For<crossref let="v" cid="c45001016.20" />I am not ashamed of the gospel of Christ, for<crossref let="w" cid="c45001016.21" />it is the power of God to salvation for everyone who believes,<crossref let="x" cid="c45001016.22" />for the Jew first and also for the Greek.</v>
+			<marker class="begin-verse" mid="v45001017" />
+			<v n="17">For<crossref let="y" cid="c45001017.23" />in it the righteousness of God is revealed from faith to faith; as it is written,<crossref let="z" cid="c45001017.24" />“The just shall live by faith.”</v>
+			<marker class="begin-verse" mid="v45001018" />
+			<v n="18">unrighteousness of men, who suppress the truth in unrighteousness,</v>
+			<marker class="begin-verse" mid="v45001019" />
+			<v n="19">God has shown it to them.</v>
+			<marker class="begin-verse" mid="v45001020" />
+			<v n="20">His invisible attributes are clearly seen, being understood by the things that are made, even His eternal power and Godhead, so that they are without excuse,</v>
+			<marker class="begin-verse" mid="v45001021" />
+			<v n="21">became futile in their thoughts, and their foolish hearts were darkened.</v>
+			<marker class="begin-verse" mid="v45001022" />
+			<v n="22">Professing to be wise, they became fools,</v>
+			<marker class="begin-verse" mid="v45001023" />
+			<v n="23">God into an image made like corruptible man—and birds and four-footed animals and creeping things.</v>
+			<marker class="begin-verse" mid="v45001024" />
+			<v n="24">among themselves,</v>
+			<marker class="begin-verse" mid="v45001025" />
+			<v n="25">for the lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.</v>
+			<marker class="begin-verse" mid="v45001026" />
+			<v n="26">vile passions. For even their women exchanged the natural use for what is against nature.</v>
+			<marker class="begin-verse" mid="v45001027" />
+			<v n="27">Likewise also the men, leaving the natural use of the woman, burned in their lust for one another, men with men committing what is shameful, and receiving in themselves the penalty of their error which was due.</v>
+			<marker class="begin-verse" mid="v45001028" />
+			<v n="28">which are not fitting;</v>
+			<marker class="begin-verse" mid="v45001029" />
+			<v n="29">being filled with all unrighteousness, sexual immorality, wickedness, covetousness, maliciousness; full of envy, murder, strife, deceit, evil-mindedness; they are whisperers,</v>
+			<marker class="begin-verse" mid="v45001030" />
+			<v n="30">backbiters, haters of God, violent, proud, boasters, inventors of evil things, disobedient to parents,</v>
+			<marker class="begin-verse" mid="v45001031" />
+			<v n="31">undiscerning, untrustworthy, unloving, unforgiving, unmerciful;</v>
+			<marker class="begin-verse" mid="v45001032" />
+			<v n="32">approve of those who practice them.</v>
+			<marker class="begin-verse" mid="v45001033" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

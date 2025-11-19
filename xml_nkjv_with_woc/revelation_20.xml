@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:15:15.760286</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:15:15.760317</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="NKJV" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66020001" />
+		<chapter num="20">
+			<heading>Satan Bound 1,000 Years</heading>
+			<begin-paragraph />
+			<v n="1">20 Then I saw an angel coming down from heaven,<crossref let="a" cid="c66020001.1" />having the key to the bottomless pit and a great chain in his hand.</v>
+			<marker class="begin-verse" mid="v66020002" />
+			<v n="2">He laid hold of<crossref let="b" cid="c66020002.2" />the dragon, that serpent of old, who is the Devil and Satan, and bound him for a thousand years;</v>
+			<marker class="begin-verse" mid="v66020003" />
+			<v n="3">and he cast him into the bottomless pit, and shut him up, and<crossref let="c" cid="c66020003.3" />set a seal on him,<crossref let="d" cid="c66020003.4" />so that he should deceive the nations no more till the thousand years were finished. But after these things he must be released for a little while.</v>
+			<marker class="begin-verse" mid="v66020004" />
+			<v n="4">And I saw<crossref let="e" cid="c66020004.5" />thrones, and they sat on them, and<crossref let="f" cid="c66020004.6" />judgment was committed to them. Then I saw<crossref let="g" cid="c66020004.7" />the souls of those who had been beheaded for their witness to Jesus and for the word of God,<crossref let="h" cid="c66020004.8" />who had not worshiped the beast or his image, and had not received his mark on their foreheads or on their hands. And they<crossref let="j" cid="c66020004.9" />lived and<crossref let="k" cid="c66020004.10" />reigned with Christ for a thousand years.</v>
+			<marker class="begin-verse" mid="v66020005" />
+			<v n="5">But the rest of the dead did not live again until the thousand years were finished. This is the first resurrection.</v>
+			<marker class="begin-verse" mid="v66020006" />
+			<v n="6">Blessed and holy is he who has part in the first resurrection. Over such<crossref let="l" cid="c66020006.11" />the second death has no power, but they shall be<crossref let="m" cid="c66020006.12" />priests of God and of Christ, and shall reign with Him a thousand years.</v>
+			<marker class="begin-verse" mid="v66020007" />
+			<v n="7">Now when the thousand years have expired, Satan will be released from his prison</v>
+			<marker class="begin-verse" mid="v66020008" />
+			<v n="8">and will go out<crossref let="p" cid="c66020008.14" />to deceive the nations which are in the four corners of the earth,<crossref let="q" cid="c66020008.15" />Gog and Magog,<crossref let="r" cid="c66020008.16" />to gather them together to battle, whose number is as the sand of the sea.</v>
+			<marker class="begin-verse" mid="v66020009" />
+			<v n="9">
+				<crossref let="s" cid="c66020009.17" />They went up on the breadth of the earth and surrounded the camp of the saints and the beloved city. And fire came down from God out of heaven and devoured them.</v>
+			<marker class="begin-verse" mid="v66020010" />
+			<v n="10">The devil, who deceived them, was cast into the lake of fire and brimstone<crossref let="t" cid="c66020010.18" />where the beast and the false prophet are. And they<crossref let="u" cid="c66020010.19" />will be tormented day and night forever and ever.</v>
+			<marker class="begin-verse" mid="v66020011" />
+			<v n="11">Then I saw a great white throne and Him who sat on it, from whose face<crossref let="v" cid="c66020011.20" />the earth and the heaven fled away.<crossref let="w" cid="c66020011.21" />And there was found no place for them.</v>
+			<marker class="begin-verse" mid="v66020012" />
+			<v n="12">And I saw the dead,<crossref let="x" cid="c66020012.22" />small and great, standing before God,<crossref let="y" cid="c66020012.23" />and books were opened. And another<crossref let="z" cid="c66020012.24" />book was opened, which is the Book of Life. And the dead were judged according to their works, by the things which were written in the books.</v>
+			<marker class="begin-verse" mid="v66020013" />
+			<v n="13">And they were judged, each one according to his works.</v>
+			<marker class="begin-verse" mid="v66020014" />
+			<v n="14">This is the second death.</v>
+			<marker class="begin-verse" mid="v66020015" />
+			<v n="15">was cast into the lake of fire.</v>
+			<marker class="begin-verse" mid="v66020016" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

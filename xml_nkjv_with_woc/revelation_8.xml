@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:14:10.865744</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:14:10.865751</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="NKJV" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66008001" />
+		<chapter num="8">
+			<heading>Seventh Seal: Prelude to the Seven Trumpets</heading>
+			<begin-paragraph />
+			<v n="1">8 When<crossref let="a" cid="c66008001.1" />He opened the seventh seal, there was silence in heaven for about half an hour.</v>
+			<marker class="begin-verse" mid="v66008002" />
+			<v n="2">
+				<crossref let="b" cid="c66008002.2" />And I saw the seven angels who stand before God,<crossref let="c" cid="c66008002.3" />and to them were given seven trumpets.</v>
+			<marker class="begin-verse" mid="v66008003" />
+			<v n="3">Then another angel, having a golden censer, came and stood at the altar. He was given much incense, that he should offer it with<crossref let="d" cid="c66008003.4" />the prayers of all the saints upon<crossref let="e" cid="c66008003.5" />the golden altar which was before the throne.</v>
+			<marker class="begin-verse" mid="v66008004" />
+			<v n="4">And<crossref let="f" cid="c66008004.6" />the smoke of the incense, with the prayers of the saints, ascended before God from the angel’s hand.</v>
+			<marker class="begin-verse" mid="v66008005" />
+			<v n="5">Then the angel took the censer, filled it with fire from the altar, and threw it to the earth. And<crossref let="g" cid="c66008005.7" />there were noises, thunderings,<crossref let="h" cid="c66008005.8" />lightnings, and an earthquake.</v>
+			<marker class="begin-verse" mid="v66008006" />
+			<v n="6">So the seven angels who had the seven trumpets prepared themselves to sound.</v>
+			<marker class="begin-verse" mid="v66008007" />
+			<v n="7">The first angel sounded:<crossref let="j" cid="c66008007.9" />And hail and fire followed, mingled with blood, and they were thrown<crossref let="k" cid="c66008007.10" />to the earth. And a third<crossref let="l" cid="c66008007.11" />of the trees were burned up, and all green grass was burned up.</v>
+			<marker class="begin-verse" mid="v66008008" />
+			<v n="8">became blood.</v>
+			<marker class="begin-verse" mid="v66008009" />
+			<v n="9">
+				<crossref let="p" cid="c66008009.15" />And a third of the living creatures in the sea died, and a third of the ships were destroyed.</v>
+			<marker class="begin-verse" mid="v66008010" />
+			<v n="10">Then the third angel sounded:<crossref let="q" cid="c66008010.16" />And a great star fell from heaven, burning like a torch,<crossref let="r" cid="c66008010.17" />and it fell on a third of the rivers and on the springs of water.</v>
+			<marker class="begin-verse" mid="v66008011" />
+			<v n="11">
+				<crossref let="s" cid="c66008011.18" />The name of the star is Wormwood.<crossref let="t" cid="c66008011.19" />A third of the waters became wormwood, and many men died from the water, because it was made bitter.</v>
+			<marker class="begin-verse" mid="v66008012" />
+			<v n="12">
+				<crossref let="u" cid="c66008012.20" />Then the fourth angel sounded: And a third of the sun was struck, a third of the moon, and a third of the stars, so that a third of them were darkened. A third of the day did not shine, and likewise the night.</v>
+			<marker class="begin-verse" mid="v66008013" />
+			<v n="13">And I looked,<crossref let="v" cid="c66008013.21" />and I heard an angel flying through the midst of heaven, saying with a loud voice,<crossref let="w" cid="c66008013.22" />“Woe, woe, woe to the inhabitants of the earth, because of the remaining blasts of the trumpet of the three angels who are about to sound!”</v>
+			<marker class="begin-verse" mid="v66008014" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

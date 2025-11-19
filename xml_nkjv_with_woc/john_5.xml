@@ -1,0 +1,225 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T11:58:40.204589</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T11:58:40.204612</next_refresh_due>
+	</generation_info>
+	<book title="John" num="43" testament="new" version="NKJV" bookAbbr="jhn">
+		<marker class="begin-verse" mid="v43005001" />
+		<chapter num="5">
+			<heading>A Man Healed at the Pool of Bethesda</heading>
+			<begin-paragraph />
+			<v n="1">5 After<crossref let="a" cid="c43005001.1" />this there was a feast of the Jews, and Jesus<crossref let="b" cid="c43005001.2" />went up to Jerusalem.</v>
+			<marker class="begin-verse" mid="v43005002" />
+			<v n="2">Now there is in Jerusalem<crossref let="c" cid="c43005002.3" />by the Sheep Gate a pool, which is called in Hebrew, Bethesda, having five porches.</v>
+			<marker class="begin-verse" mid="v43005003" />
+			<v n="3">In these lay a great multitude of sick people, blind, lame, paralyzed, waiting for the moving of the water.</v>
+			<marker class="begin-verse" mid="v43005004" />
+			<v n="4">For an angel went down at a certain time into the pool and stirred up the water; then whoever stepped in first, after the stirring of the water, was made well of whatever disease he had.</v>
+			<marker class="begin-verse" mid="v43005005" />
+			<v n="5">Now a certain man was there who had an infirmity thirty-eight years.</v>
+			<marker class="begin-verse" mid="v43005006" />
+			<v n="6">When Jesus saw him lying there, and knew that he already had been in that condition a long time, He said to him,<woc>“Do you want to be made well?”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005007" />
+			<v n="7">The sick man answered Him, “Sir, I have no man to put me into the pool when the water is stirred up; but while I am coming, another steps down before me.”</v>
+			<marker class="begin-verse" mid="v43005008" />
+			<v n="8">Jesus said to him,<crossref let="d" cid="c43005008.4" />
+				<woc>“Rise, take up your bed and walk.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005009" />
+			<v n="9">And<crossref let="e" cid="c43005009.5" />that day was the Sabbath.</v>
+			<marker class="begin-verse" mid="v43005010" />
+			<v n="10">The Jews therefore said to him who was cured, “It is the Sabbath;<crossref let="f" cid="c43005010.6" />it is not lawful for you to carry your bed.”</v>
+			<marker class="begin-verse" mid="v43005011" />
+			<v n="11">He answered them, “He who made me well said to me,<woc>‘Take up your bed and walk.’</woc>”</v>
+			<marker class="begin-verse" mid="v43005012" />
+			<v n="12">Then they asked him, “Who is the Man who said to you,<woc>‘Take up your bed and walk’</woc>?”</v>
+			<marker class="begin-verse" mid="v43005013" />
+			<v n="13">But the one who was<crossref let="g" cid="c43005013.7" />healed did not know who it was, for Jesus had withdrawn, a multitude being in that place.</v>
+			<marker class="begin-verse" mid="v43005014" />
+			<v n="14">Afterward Jesus found him in the temple, and said to him,<woc>“See, you have been made well.</woc>
+				<crossref let="h" cid="c43005014.8" />
+				<woc>Sin no more, lest a worse thing come upon you.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005015" />
+			<v n="15">The man departed and told the Jews that it was Jesus who had made him well.</v>
+			<marker class="begin-verse" mid="v43005016" />
+			<v n="16">persecuted Jesus, and sought to kill Him, because He had done these things on the Sabbath.</v>
+			<marker class="begin-verse" mid="v43005017" />
+			<v n="17">But Jesus answered them,<crossref let="j" cid="c43005017.10" />
+				<woc>“My Father has been working until now, and I have been working.”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005018" />
+			<v n="18">Therefore the Jews<crossref let="k" cid="c43005018.11" />sought all the more to kill Him, because He not only broke the Sabbath, but also said that God was His Father,<crossref let="l" cid="c43005018.12" />making Himself equal with God.</v>
+			<marker class="begin-verse" mid="v43005019" />
+			<v n="19">Then Jesus answered and said to them,<woc>“Most assuredly, I say to you,</woc>
+				<crossref let="m" cid="c43005019.13" />
+				<woc>the Son can do nothing of Himself, but what He sees the Father do; for whatever He does, the Son also does in like manner.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005020" />
+			<v n="20">
+				<woc>For</woc>
+				<crossref let="n" cid="c43005020.14" />
+				<woc>the Father loves the Son, and</woc>
+				<crossref let="o" cid="c43005020.15" />
+				<woc>shows Him all things that He Himself does; and He will show Him greater works than these, that you may marvel.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005021" />
+			<v n="21">
+				<woc>For as the Father raises the dead and gives life to them,</woc>
+				<crossref let="p" cid="c43005021.16" />
+				<woc>even so the Son gives life to whom He will.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005022" />
+			<v n="22">
+				<woc>For the Father judges no one, but</woc>
+				<crossref let="q" cid="c43005022.17" />
+				<woc>has committed all judgment to the Son,</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005023" />
+			<v n="23">
+				<woc>that all should honor the Son just as they honor the Father.</woc>
+				<crossref let="r" cid="c43005023.18" />
+				<woc>He who does not honor the Son does not honor the Father who sent Him.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005024" />
+			<v n="24">
+				<woc>“Most assuredly, I say to you,</woc>
+				<crossref let="s" cid="c43005024.19" />
+				<woc>he who hears My word and believes in Him who sent Me has everlasting life, and shall not come into judgment,</woc>
+				<crossref let="t" cid="c43005024.20" />
+				<woc>but has passed from death into life.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005025" />
+			<v n="25">
+				<woc>Most assuredly, I say to you, the hour is coming, and now is, when</woc>
+				<crossref let="u" cid="c43005025.21" />
+				<woc>the dead will hear the voice of the Son of God; and those who hear will live.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005026" />
+			<v n="26">
+				<woc>For</woc>
+				<crossref let="v" cid="c43005026.22" />
+				<woc>as the Father has life in Himself, so He has granted the Son to have</woc>
+				<crossref let="w" cid="c43005026.23" />
+				<woc>life in Himself,</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005027" />
+			<v n="27">
+				<woc>and</woc>
+				<crossref let="x" cid="c43005027.24" />
+				<woc>has given Him authority to execute judgment also,</woc>
+				<crossref let="y" cid="c43005027.25" />
+				<woc>because He is the Son of Man.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005028" />
+			<v n="28">
+				<woc>Do not marvel at this; for the hour is coming in which all who are in the graves will</woc>
+				<crossref let="z" cid="c43005028.26" />
+				<woc>hear His voice</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005029" />
+			<v n="29">
+				<woc>and come forth—</woc>
+				<woc>those who have done good, to the resurrection of life, and those who have done evil, to the resurrection of condemnation.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005030" />
+			<v n="30">
+				<woc>I can of Myself do nothing. As I hear, I judge; and My judgment is righteous, because</woc>
+				<woc>I do not seek My own will but the will of the Father who sent Me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005031" />
+			<v n="31">
+				<woc>“If I bear witness of Myself, My witness is not</woc>
+				<woc>true.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005032" />
+			<v n="32">
+				<woc>There is another who bears witness of Me, and I know that the witness which He witnesses of Me is true.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005033" />
+			<v n="33">
+				<woc>You have sent to John,</woc>
+				<woc>and he has borne witness to the truth.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005034" />
+			<v n="34">
+				<woc>Yet I do not receive testimony from man, but I say these things that you may be saved.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005035" />
+			<v n="35">
+				<woc>He was the burning and</woc>
+				<woc>shining lamp, and</woc>
+				<woc>you were willing for a time to rejoice in his light.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005036" />
+			<v n="36">
+				<woc>But</woc>
+				<woc>I have a greater witness than John’s; for</woc>
+				<woc>the works which the Father has given Me to finish—the very</woc>
+				<woc>works that I do—bear witness of Me, that the Father has sent Me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005037" />
+			<v n="37">
+				<woc>And the Father Himself, who sent Me,</woc>
+				<woc>has testified of Me. You have neither heard His voice at any time,</woc>
+				<woc>nor seen His form.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005038" />
+			<v n="38">
+				<woc>But you do not have His word abiding in you, because whom He sent, Him you do not believe.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005039" />
+			<v n="39">
+				<woc>You search the Scriptures, for in them you think you have eternal life; and</woc>
+				<woc>these are they which testify of Me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005040" />
+			<v n="40">
+				<woc>But you are not willing to come to Me that you may have life.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005041" />
+			<v n="41">
+				<woc>“I do not receive honor from men.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005042" />
+			<v n="42">
+				<woc>But I know you, that you do not have the love of God in you.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005043" />
+			<v n="43">
+				<woc>I have come in My Father’s name, and you do not receive Me; if another comes in his own name, him you will receive.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005044" />
+			<v n="44">
+				<woc>How can you believe, who receive honor from one another, and do not seek</woc>
+				<woc>the honor that comes from the only God?</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005045" />
+			<v n="45">
+				<woc>Do not think that I shall accuse you to the Father;</woc>
+				<woc>there is one who accuses you—Moses, in whom you trust.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005046" />
+			<v n="46">
+				<woc>For if you believed Moses, you would believe Me;</woc>
+				<woc>for he wrote about Me.</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005047" />
+			<v n="47">
+				<woc>But if you</woc>
+				<woc>do not believe his writings, how will you believe My words?”</woc>
+			</v>
+			<marker class="begin-verse" mid="v43005048" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

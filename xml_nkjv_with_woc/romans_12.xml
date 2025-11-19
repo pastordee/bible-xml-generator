@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:03:40.820357</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:03:40.820371</next_refresh_due>
+	</generation_info>
+	<book title="Romans" num="45" testament="new" version="NKJV" bookAbbr="rom">
+		<marker class="begin-verse" mid="v45012001" />
+		<chapter num="12">
+			<heading>Living Sacrifices to God</heading>
+			<begin-paragraph />
+			<v n="1">12 I<crossref let="a" cid="c45012001.1" />beseech you therefore, brethren, by the mercies of God, that you present your bodies<crossref let="b" cid="c45012001.2" />a living sacrifice, holy, acceptable to God, which is your reasonable service.</v>
+			<marker class="begin-verse" mid="v45012002" />
+			<v n="2">And<crossref let="c" cid="c45012002.3" />do not be conformed to this world, but<crossref let="d" cid="c45012002.4" />be transformed by the renewing of your mind, that you may<crossref let="e" cid="c45012002.5" />prove what is that good and acceptable and perfect will of God.</v>
+			<marker class="begin-verse" mid="v45012003" />
+			<v n="3">For I say,<crossref let="f" cid="c45012003.6" />through the grace given to me, to everyone who is among you,<crossref let="g" cid="c45012003.7" />not to think of himself more highly than he ought to think, but to think soberly, as God has dealt<crossref let="h" cid="c45012003.8" />to each one a measure of faith.</v>
+			<marker class="begin-verse" mid="v45012004" />
+			<v n="4">as we have many members in one body, but all the members do not have the same function,</v>
+			<marker class="begin-verse" mid="v45012005" />
+			<v n="5">so<crossref let="j" cid="c45012005.10" />we, being many, are one body in Christ, and individually members of one another.</v>
+			<marker class="begin-verse" mid="v45012006" />
+			<v n="6">Having then gifts differing according to the grace that is<crossref let="k" cid="c45012006.11" />given to us, let us use them: if prophecy, let us<crossref let="l" cid="c45012006.12" />prophesy in proportion to our faith;</v>
+			<marker class="begin-verse" mid="v45012007" />
+			<v n="7">or ministry, let us use it in our ministering;<crossref let="m" cid="c45012007.13" />he who teaches, in teaching;</v>
+			<marker class="begin-verse" mid="v45012008" />
+			<v n="8">
+				<crossref let="n" cid="c45012008.14" />he who exhorts, in exhortation;<crossref let="o" cid="c45012008.15" />he who gives, with liberality;<crossref let="p" cid="c45012008.16" />he who leads, with diligence; he who shows mercy,<crossref let="q" cid="c45012008.17" />with cheerfulness.</v>
+			<marker class="begin-verse" mid="v45012009" />
+			<v n="9">
+				<crossref let="r" cid="c45012009.18" />Let love be without hypocrisy.<crossref let="s" cid="c45012009.19" />Abhor what is evil. Cling to what is good.</v>
+			<marker class="begin-verse" mid="v45012010" />
+			<v n="10">
+				<crossref let="t" cid="c45012010.20" />Be kindly affectionate to one another with brotherly love,<crossref let="u" cid="c45012010.21" />in honor giving preference to one another;</v>
+			<marker class="begin-verse" mid="v45012011" />
+			<v n="11">not lagging in diligence, fervent in spirit, serving the Lord;</v>
+			<marker class="begin-verse" mid="v45012012" />
+			<v n="12">continuing steadfastly in prayer;</v>
+			<marker class="begin-verse" mid="v45012013" />
+			<v n="13">
+				<crossref let="y" cid="c45012013.23" />distributing to the needs of the saints,<crossref let="z" cid="c45012013.24" />given to hospitality.</v>
+			<marker class="begin-verse" mid="v45012014" />
+			<v n="14">Bless those who persecute you; bless and do not curse.</v>
+			<marker class="begin-verse" mid="v45012015" />
+			<v n="15">Rejoice with those who rejoice, and weep with those who weep.</v>
+			<marker class="begin-verse" mid="v45012016" />
+			<v n="16">Do not set your mind on high things, but associate with the humble. Do not be wise in your own opinion.</v>
+			<marker class="begin-verse" mid="v45012017" />
+			<v n="17">Have regard for good things in the sight of all men.</v>
+			<marker class="begin-verse" mid="v45012018" />
+			<v n="18">live peaceably with all men.</v>
+			<marker class="begin-verse" mid="v45012019" />
+			<v n="19">“Vengeance is Mine, I will repay,” says the Lord.</v>
+			<marker class="begin-verse" mid="v45012020" />
+			<v n="20">For in so doing you will heap coals of fire on his head.”</v>
+			<marker class="begin-verse" mid="v45012021" />
+			<v n="21">overcome evil with good.</v>
+			<marker class="begin-verse" mid="v45012022" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

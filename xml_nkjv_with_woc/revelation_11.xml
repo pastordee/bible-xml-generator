@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:14:27.116713</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:14:27.116747</next_refresh_due>
+	</generation_info>
+	<book title="Revelation" num="66" testament="new" version="NKJV" bookAbbr="rev">
+		<marker class="begin-verse" mid="v66011001" />
+		<chapter num="11">
+			<heading>The Two Witnesses</heading>
+			<begin-paragraph />
+			<v n="1">11 Then I was given<crossref let="a" cid="c66011001.1" />a reed like a measuring rod. And the angel stood, saying,<crossref let="b" cid="c66011001.2" />“Rise and measure the temple of God, the altar, and those who worship there.</v>
+			<marker class="begin-verse" mid="v66011002" />
+			<v n="2">But leave out<crossref let="c" cid="c66011002.3" />the court which is outside the temple, and do not measure it,<crossref let="d" cid="c66011002.4" />for it has been given to the Gentiles. And they will<crossref let="e" cid="c66011002.5" />tread the holy city underfoot for<crossref let="f" cid="c66011002.6" />forty-two months.</v>
+			<marker class="begin-verse" mid="v66011003" />
+			<v n="3">And I will give power to my two<crossref let="g" cid="c66011003.7" />witnesses,<crossref let="h" cid="c66011003.8" />and they will prophesy one thousand two hundred and sixty days, clothed in sackcloth.”</v>
+			<marker class="begin-verse" mid="v66011004" />
+			<v n="4">These are the<crossref let="j" cid="c66011004.9" />two olive trees and the two lampstands standing before the God of the earth.</v>
+			<marker class="begin-verse" mid="v66011005" />
+			<v n="5">And if anyone wants to harm them,<crossref let="k" cid="c66011005.10" />fire proceeds from their mouth and devours their enemies.<crossref let="l" cid="c66011005.11" />And if anyone wants to harm them, he must be killed in this manner.</v>
+			<marker class="begin-verse" mid="v66011006" />
+			<v n="6">These<crossref let="m" cid="c66011006.12" />have power to shut heaven, so that no rain falls in the days of their prophecy; and they have power over waters to turn them to blood, and to strike the earth with all plagues, as often as they desire.</v>
+			<marker class="begin-verse" mid="v66011007" />
+			<v n="7">When they<crossref let="n" cid="c66011007.13" />finish their testimony,<crossref let="o" cid="c66011007.14" />the beast that ascends<crossref let="p" cid="c66011007.15" />out of the bottomless pit<crossref let="q" cid="c66011007.16" />will make war against them, overcome them, and kill them.</v>
+			<marker class="begin-verse" mid="v66011008" />
+			<v n="8">And their dead bodies will lie in the street of<crossref let="r" cid="c66011008.17" />the great city which spiritually is called Sodom and Egypt, where also our Lord was crucified.</v>
+			<marker class="begin-verse" mid="v66011009" />
+			<v n="9">
+				<crossref let="t" cid="c66011009.18" />Then those from the peoples, tribes, tongues, and nations will see their dead bodies three-and-a-half days,<crossref let="u" cid="c66011009.19" />and not allow their dead bodies to be put into graves.</v>
+			<marker class="begin-verse" mid="v66011010" />
+			<v n="10">
+				<crossref let="v" cid="c66011010.20" />And those who dwell on the earth will rejoice over them, make merry,<crossref let="w" cid="c66011010.21" />and send gifts to one another,<crossref let="x" cid="c66011010.22" />because these two prophets tormented those who dwell on the earth.</v>
+			<marker class="begin-verse" mid="v66011011" />
+			<v n="11">the breath of life from God entered them, and they stood on their feet, and great fear fell on those who saw them.</v>
+			<marker class="begin-verse" mid="v66011012" />
+			<v n="12">and their enemies saw them.</v>
+			<marker class="begin-verse" mid="v66011013" />
+			<v n="13">and gave glory to the God of heaven.</v>
+			<marker class="begin-verse" mid="v66011014" />
+			<v n="14">The second woe is past. Behold, the third woe is coming quickly.</v>
+			<marker class="begin-verse" mid="v66011015" />
+			<v n="15">and He shall reign forever and ever!”</v>
+			<marker class="begin-verse" mid="v66011016" />
+			<v n="16">worshiped God,</v>
+			<marker class="begin-verse" mid="v66011017" />
+			<v n="17">and reigned.</v>
+			<marker class="begin-verse" mid="v66011018" />
+			<v n="18">And should destroy those who destroy the earth.”</v>
+			<marker class="begin-verse" mid="v66011019" />
+			<v n="19">and great hail.</v>
+			<marker class="begin-verse" mid="v66011020" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

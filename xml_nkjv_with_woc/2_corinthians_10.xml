@@ -1,0 +1,63 @@
+<?xml version='1.0' encoding='utf-8'?>
+<bible>
+	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
+	<metadata>
+		<name>New King James Version</name>
+		<abbreviation>NKJV</abbreviation>
+		<last_updated>2025-10-28T16:18:52.000Z</last_updated>
+	</metadata>
+	<generation_info>
+		<generated_date>2025-11-06T12:06:22.688458</generated_date>
+		<api_compliance>API.Bible Terms of Service - 30-day refresh requirement</api_compliance>
+		<next_refresh_due>2025-12-06T12:06:22.688471</next_refresh_due>
+	</generation_info>
+	<book title="2 Corinthians" num="47" testament="new" version="NKJV" bookAbbr="2co">
+		<marker class="begin-verse" mid="v47010001" />
+		<chapter num="10">
+			<heading>The Spiritual War</heading>
+			<begin-paragraph />
+			<v n="1">10 Now<crossref let="a" cid="c47010001.1" />I, Paul, myself am pleading with you by the meekness and gentleness of Christ—<crossref let="b" cid="c47010001.2" />who in presence am lowly among you, but being absent am bold toward you.</v>
+			<marker class="begin-verse" mid="v47010002" />
+			<v n="2">But I beg you<crossref let="c" cid="c47010002.3" />that when I am present I may not be bold with that confidence by which I intend to be bold against some, who think of us as if we walked according to the flesh.</v>
+			<marker class="begin-verse" mid="v47010003" />
+			<v n="3">For though we walk in the flesh, we do not war according to the flesh.</v>
+			<marker class="begin-verse" mid="v47010004" />
+			<v n="4">
+				<crossref let="d" cid="c47010004.4" />For the weapons<crossref let="e" cid="c47010004.5" />of our warfare are not carnal but<crossref let="f" cid="c47010004.6" />mighty in God<crossref let="g" cid="c47010004.7" />for pulling down strongholds,</v>
+			<marker class="begin-verse" mid="v47010005" />
+			<v n="5">
+				<crossref let="h" cid="c47010005.8" />casting down arguments and every high thing that exalts itself against the knowledge of God, bringing every thought into captivity to the obedience of Christ,</v>
+			<marker class="begin-verse" mid="v47010006" />
+			<v n="6">and being ready to punish all disobedience when<crossref let="j" cid="c47010006.9" />your obedience is fulfilled.</v>
+			<marker class="begin-verse" mid="v47010007" />
+			<v n="7">
+				<crossref let="k" cid="c47010007.10" />Do you look at things according to the outward appearance?<crossref let="l" cid="c47010007.11" />If anyone is convinced in himself that he is Christ’s, let him again consider this in himself, that just as he is Christ’s, even so we are Christ’s.</v>
+			<marker class="begin-verse" mid="v47010008" />
+			<v n="8">For even if I should boast somewhat more<crossref let="n" cid="c47010008.12" />about our authority, which the Lord gave us for edification and not for your destruction,<crossref let="o" cid="c47010008.13" />I shall not be ashamed—</v>
+			<marker class="begin-verse" mid="v47010009" />
+			<v n="9">lest I seem to terrify you by letters.</v>
+			<marker class="begin-verse" mid="v47010010" />
+			<v n="10">speech contemptible.”</v>
+			<marker class="begin-verse" mid="v47010011" />
+			<v n="11">Let such a person consider this, that what we are in word by letters when we are absent, such we will also be in deed when we are present.</v>
+			<marker class="begin-verse" mid="v47010012" />
+			<v n="12">
+				<crossref let="r" cid="c47010012.15" />For we dare not class ourselves or compare ourselves with those who commend themselves. But they, measuring themselves by themselves, and comparing themselves among themselves, are not wise.</v>
+			<marker class="begin-verse" mid="v47010013" />
+			<v n="13">
+				<crossref let="s" cid="c47010013.16" />We, however, will not boast beyond measure, but within the limits of the sphere which God appointed us—a sphere which especially includes you.</v>
+			<marker class="begin-verse" mid="v47010014" />
+			<v n="14">For we are not overextending ourselves (as though our authority did not extend to you),<crossref let="t" cid="c47010014.17" />for it was to you that we came with the gospel of Christ;</v>
+			<marker class="begin-verse" mid="v47010015" />
+			<v n="15">not boasting of things beyond measure, that is,<crossref let="u" cid="c47010015.18" />in other men’s labors, but having hope, that as your faith is increased, we shall be greatly enlarged by you in our sphere,</v>
+			<marker class="begin-verse" mid="v47010016" />
+			<v n="16">to preach the gospel in the regions beyond you, and not to boast in another man’s sphere of accomplishment.</v>
+			<marker class="begin-verse" mid="v47010017" />
+			<v n="17">But<crossref let="v" cid="c47010017.19" />“he who glories, let him glory in the Lord .”</v>
+			<marker class="begin-verse" mid="v47010018" />
+			<v n="18">For<crossref let="w" cid="c47010018.20" />not he who commends himself is approved, but<crossref let="x" cid="c47010018.21" />whom the Lord commends.</v>
+			<marker class="begin-verse" mid="v47010019" />
+			<end-paragraph />
+		</chapter>
+	</book>
+</bible>

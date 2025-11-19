@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <bible>
 	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
 	<metadata>
@@ -12,90 +12,91 @@
 		<next_refresh_due>2025-12-06T11:29:57.817455</next_refresh_due>
 	</generation_info>
 	<book title="Song of Solomon" num="22" testament="old" version="NKJV" bookAbbr="sng">
-		<marker class="begin-verse" mid="v22007001"/>
+		<marker class="begin-verse" mid="v22007001" />
 		<chapter num="7">
 			<heading>Expressions of PraiseThe Beloved</heading>
-			<begin-paragraph/>
+			<begin-paragraph />
 			<v n="1">
 				How beautiful 
-				<crossref let="b" cid="c220071.1"/>
+				
 				 are your feet in sandals,O prince’s daughter!The curves of your thighs are like jewels,The work of the hands of a skillful workman.
 			</v>
-			<marker class="begin-verse" mid="v22007002"/>
+			<marker class="begin-verse" mid="v22007002" />
 			<v n="2">
 				Your navel 
-				<crossref let="c" cid="c220072.1"/>
+				
 				 is a rounded goblet;It lacks no blended beverage.Your waist is a heap of wheatSet about with lilies.
 			</v>
-			<marker class="begin-verse" mid="v22007003"/>
+			<marker class="begin-verse" mid="v22007003" />
 			<v n="3">
 				Your two 
-				<crossref let="d" cid="c220073.1"/>
+				
 				 breasts are like two fawns,Twins of a gazelle.
 			</v>
-			<marker class="begin-verse" mid="v22007004"/>
+			<marker class="begin-verse" mid="v22007004" />
 			<v n="4">
 				Your neck 
-				<crossref let="e" cid="c220074.1"/>
+				
 				 is like an ivory tower,Your eyes like the pools in HeshbonBy the gate of Bath Rabbim.Your nose is like the tower of LebanonWhich looks toward Damascus.
 			</v>
-			<marker class="begin-verse" mid="v22007005"/>
+			<marker class="begin-verse" mid="v22007005" />
 			<v n="5">
 				Your head 
-				<crossref let="f" cid="c220075.1"/>
+				
 				 crowns you like Mount Carmel,And the hair of your head is like purple;A king is held captive by your tresses.
 			</v>
-			<marker class="begin-verse" mid="v22007006"/>
+			<marker class="begin-verse" mid="v22007006" />
 			<v n="6">
 				How fair 
-				<crossref let="g" cid="c220076.1"/>
+				
 				 and how pleasant you are,O love, with your delights!
 			</v>
-			<marker class="begin-verse" mid="v22007007"/>
+			<marker class="begin-verse" mid="v22007007" />
 			<v n="7">
 				This stature 
-				<crossref let="h" cid="c220077.1"/>
+				
 				 of yours is like a palm tree,And your breasts like its clusters.
 			</v>
-			<marker class="begin-verse" mid="v22007008"/>
+			<marker class="begin-verse" mid="v22007008" />
 			<v n="8">
 				I said, 
-				<crossref let="i" cid="c220078.1"/>
+				
 				 “I will go up to the palm tree,I will take hold of its branches.”Let now your breasts be like clusters of the vine,The fragrance of your breath like apples,
 			</v>
-			<marker class="begin-verse" mid="v22007009"/>
+			<marker class="begin-verse" mid="v22007009" />
 			<v n="9">
 				And the 
-				<crossref let="j" cid="c220079.1"/>
+				
 				 roof of your mouth like the best wine.The ShulamiteThe wine goes down smoothly for my beloved,Moving gently the lips of sleepers.
 			</v>
-			<marker class="begin-verse" mid="v22007010"/>
+			<marker class="begin-verse" mid="v22007010" />
 			<v n="10">
+				
 				I am 
-				<crossref let="k" cid="c2200710.1"/>
+				
 				 my beloved’s,And his desire is toward me.
 			</v>
-			<marker class="begin-verse" mid="v22007011"/>
+			<marker class="begin-verse" mid="v22007011" />
 			<v n="11">
 				Come, my 
-				<crossref let="l" cid="c2200711.1"/>
+				
 				 beloved,Let us go forth to the field;Let us lodge in the villages.
 			</v>
-			<marker class="begin-verse" mid="v22007012"/>
+			<marker class="begin-verse" mid="v22007012" />
 			<v n="12">
 				Let us 
-				<crossref let="m" cid="c2200712.1"/>
+				
 				 get up early to the vineyards;Let us see if the vine has budded,Whether the grape blossoms are open,And the pomegranates are in bloom.There I will give you my love.
 			</v>
-			<marker class="begin-verse" mid="v22007013"/>
+			<marker class="begin-verse" mid="v22007013" />
 			<v n="13">
+				
 				The mandrakes 
-				<crossref let="n" cid="c2200713.1"/>
+				
 				 give off a fragrance,And at our gates are pleasant fruits,All manner, new and old,Which I have laid up for you, my beloved.
 			</v>
-			<marker class="begin-verse" mid="v22007014"/>
-			<end-paragraph/>
+			<marker class="begin-verse" mid="v22007014" />
+			<end-paragraph />
 		</chapter>
 	</book>
 </bible>
-

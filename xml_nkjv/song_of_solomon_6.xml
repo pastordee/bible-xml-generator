@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <bible>
 	<copyright>Scripture quotations marked NKJV are taken from New King James Version. New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved.</copyright>
 	<metadata>
@@ -12,90 +12,89 @@
 		<next_refresh_due>2025-12-06T11:29:52.443352</next_refresh_due>
 	</generation_info>
 	<book title="Song of Solomon" num="22" testament="old" version="NKJV" bookAbbr="sng">
-		<marker class="begin-verse" mid="v22006001"/>
+		<marker class="begin-verse" mid="v22006001" />
 		<chapter num="6">
 			<heading>The Daughters of Jerusalem</heading>
-			<begin-paragraph/>
+			<begin-paragraph />
 			<v n="1">
 				Where has 
-				<crossref let="b" cid="c220061.1"/>
+				
 				 your beloved gone,O fairest among women?Where has your beloved turned aside,That we may seek him with you?The Shulamite
 			</v>
-			<marker class="begin-verse" mid="v22006002"/>
+			<marker class="begin-verse" mid="v22006002" />
 			<v n="2">
 				My beloved 
-				<crossref let="c" cid="c220062.1"/>
+				
 				 has gone to his garden,To the beds of spices,To feed his flock in the gardens,And to gather lilies.
 			</v>
-			<marker class="begin-verse" mid="v22006003"/>
+			<marker class="begin-verse" mid="v22006003" />
 			<v n="3">
 				I am 
-				<crossref let="d" cid="c220063.1"/>
+				
 				 my beloved’s,And my beloved is mine.He feeds his flock among the lilies.Praise of the Shulamite’s BeautyThe Beloved
 			</v>
-			<marker class="begin-verse" mid="v22006004"/>
+			<marker class="begin-verse" mid="v22006004" />
 			<v n="4">
 				O my 
-				<crossref let="e" cid="c220064.1"/>
+				
 				 love, you are as beautiful as Tirzah,Lovely as Jerusalem,Awesome as an army with banners!
 			</v>
-			<marker class="begin-verse" mid="v22006005"/>
+			<marker class="begin-verse" mid="v22006005" />
 			<v n="5">
 				Turn your 
-				<crossref let="f" cid="c220065.1"/>
+				
 				 eyes away from me,For they have overcome me.Your hair is like a flock of goatsGoing down from Gilead.
 			</v>
-			<marker class="begin-verse" mid="v22006006"/>
+			<marker class="begin-verse" mid="v22006006" />
 			<v n="6">
 				Your teeth 
-				<crossref let="g" cid="c220066.1"/>
+				
 				 are like a flock of sheepWhich have come up from the washing;Every one bears twins,And none is barren among them.
 			</v>
-			<marker class="begin-verse" mid="v22006007"/>
+			<marker class="begin-verse" mid="v22006007" />
 			<v n="7">
 				Like a 
-				<crossref let="h" cid="c220067.1"/>
+				
 				 piece of pomegranateAre your temples behind your veil.
 			</v>
-			<marker class="begin-verse" mid="v22006008"/>
+			<marker class="begin-verse" mid="v22006008" />
 			<v n="8">
 				There are 
-				<crossref let="i" cid="c220068.1"/>
+				
 				 sixty queensAnd eighty concubines,And virgins without number.
 			</v>
-			<marker class="begin-verse" mid="v22006009"/>
+			<marker class="begin-verse" mid="v22006009" />
 			<v n="9">
 				My dove, 
-				<crossref let="j" cid="c220069.1"/>
+				
 				 my perfect one,Is the only one,The only one of her mother,The favorite of the one who bore her.The daughters saw herAnd called her blessed,The queens and the concubines,And they praised her.
 			</v>
-			<marker class="begin-verse" mid="v22006010"/>
+			<marker class="begin-verse" mid="v22006010" />
 			<v n="10">
 				Who is 
-				<crossref let="k" cid="c2200610.1"/>
+				
 				 she who looks forth as the morning,Fair as the moon,Clear as the sun,Awesome as an army with banners?The Shulamite
 			</v>
-			<marker class="begin-verse" mid="v22006011"/>
+			<marker class="begin-verse" mid="v22006011" />
 			<v n="11">
 				I went 
-				<crossref let="l" cid="c2200611.1"/>
+				
 				 down to the garden of nutsTo see the verdure of the valley,To see whether the vine had buddedAnd the pomegranates had bloomed.
 			</v>
-			<marker class="begin-verse" mid="v22006012"/>
+			<marker class="begin-verse" mid="v22006012" />
 			<v n="12">
 				Before I 
-				<crossref let="m" cid="c2200612.1"/>
+				
 				 was even aware,My soul had made meAs the chariots of my noble people.The Beloved and His Friends
 			</v>
-			<marker class="begin-verse" mid="v22006013"/>
+			<marker class="begin-verse" mid="v22006013" />
 			<v n="13">
 				Return, return, 
-				<crossref let="n" cid="c2200613.1"/>
+				
 				 O Shulamite;Return, return, that we may look upon you!The ShulamiteWhat would you see in the Shulamite—As it were, the dance of the two camps?
 			</v>
-			<marker class="begin-verse" mid="v22006014"/>
-			<end-paragraph/>
+			<marker class="begin-verse" mid="v22006014" />
+			<end-paragraph />
 		</chapter>
 	</book>
 </bible>
-

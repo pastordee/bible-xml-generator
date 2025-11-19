@@ -1,59 +1,55 @@
 #!/bin/bash
 
-# Simple package script for a single version
-# Usage: bash package_single.sh <version_name>
+# Package a single Bible version
+# Usage: bash package_single.sh <version>
+# Example: bash package_single.sh esv
 
 if [ -z "$1" ]; then
-    echo "Usage: bash package_single.sh <version_name>"
-    echo "Example: bash package_single.sh nkjv"
+    echo "Error: Version name required"
+    echo "Usage: bash package_single.sh <version>"
+    echo "Example: bash package_single.sh esv"
     exit 1
 fi
 
-VERSION="$1"
-VERSION_DIR="xml_${VERSION}"
+VERSION=$1
+SOURCE_DIR="xml_${VERSION}"
+OUTPUT_DIR="readyForServer"
+ZIP_FILE="${OUTPUT_DIR}/xml_${VERSION}.zip"
 
-if [ ! -d "$VERSION_DIR" ]; then
-    echo "Error: Directory $VERSION_DIR not found"
+# Check if source directory exists
+if [ ! -d "$SOURCE_DIR" ]; then
+    echo "Error: Directory $SOURCE_DIR not found"
     exit 1
 fi
 
-echo "Packaging $VERSION_DIR..."
+# Create output directory if it doesn't exist
+mkdir -p "$OUTPUT_DIR"
 
-# Create output directory
-mkdir -p readyForServer
+echo "Packaging $SOURCE_DIR..."
 
-# Remove old zip if exists
-rm -f "readyForServer/${VERSION_DIR}.zip"
-
-# Count files
-FILE_COUNT=$(find "$VERSION_DIR" -name "*.xml" | wc -l | tr -d ' ')
+# Count XML files
+FILE_COUNT=$(find "$SOURCE_DIR" -name "*.xml" -type f | wc -l | tr -d ' ')
 echo "Found $FILE_COUNT XML files"
 
-# Create zip in background and wait for it
+# Create zip file
 echo "Creating zip file (this may take a moment)..."
-cd "$VERSION_DIR" && \
-zip -r -q "../readyForServer/${VERSION_DIR}.zip" . \
-    -x "*.git*" \
-    -x "*.DS_Store" \
-    -x "__pycache__/*" \
-    -x "*.pyc" && \
+cd "$SOURCE_DIR" && zip -q -r "../${ZIP_FILE}" *.xml cross_refs/ 2>/dev/null
 cd ..
 
-if [ $? -eq 0 ]; then
-    echo "✓ Created readyForServer/${VERSION_DIR}.zip"
+# Check if zip was created successfully
+if [ -f "$ZIP_FILE" ]; then
+    SIZE=$(du -h "$ZIP_FILE" | cut -f1)
+    MD5=$(md5 -q "$ZIP_FILE")
     
-    # Get size
-    SIZE=$(du -h "readyForServer/${VERSION_DIR}.zip" | cut -f1)
+    # Save MD5 hash
+    echo "$MD5" > "${ZIP_FILE}.hash"
+    
+    echo "✓ Created $ZIP_FILE"
     echo "  Size: $SIZE"
-    
-    # Get MD5
-    HASH=$(md5 -q "readyForServer/${VERSION_DIR}.zip")
-    echo "  MD5: $HASH"
-    echo "$HASH" > "readyForServer/${VERSION_DIR}.zip.hash"
-    
+    echo "  MD5: $MD5"
     echo ""
     echo "✓ Package complete!"
 else
-    echo "✗ Failed to create zip"
+    echo "✗ Failed to create $ZIP_FILE"
     exit 1
 fi

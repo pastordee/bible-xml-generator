@@ -28,7 +28,11 @@ for VERSION in "${VERSIONS[@]}"; do
     
     # Count XML files
     FILE_COUNT=$(find "$SOURCE_DIR" -name "*.xml" -type f | wc -l | tr -d ' ')
-    
+
+    # Normalize word-boundary spacing around inline <crossref> markers so the
+    # published data never ships with glued words (idempotent; no-op if clean).
+    python3 fix_crossref_spacing.py --apply "$SOURCE_DIR"
+
     # Create zip file
     cd "$SOURCE_DIR" && zip -q -r "../${ZIP_FILE}" *.xml cross_refs/ 2>/dev/null
     cd ..

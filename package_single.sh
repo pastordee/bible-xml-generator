@@ -36,8 +36,13 @@ echo "Found $FILE_COUNT XML files"
 python3 fix_crossref_spacing.py --apply "$SOURCE_DIR"
 
 # Create zip file
+# Exclude the consolidated whole-Bible <version>.xml — the app indexes search
+# from the per-chapter files now, so it is dead weight.
+# Remove any stale archive first: `zip` updates in place and would otherwise
+# keep entries for files that no longer exist on disk.
 echo "Creating zip file (this may take a moment)..."
-cd "$SOURCE_DIR" && zip -q -r "../${ZIP_FILE}" *.xml cross_refs/ 2>/dev/null
+rm -f "$ZIP_FILE"
+cd "$SOURCE_DIR" && zip -q -r "../${ZIP_FILE}" *.xml cross_refs/ -x "${VERSION}.xml" 2>/dev/null
 cd ..
 
 # Check if zip was created successfully

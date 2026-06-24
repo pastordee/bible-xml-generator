@@ -34,7 +34,12 @@ for VERSION in "${VERSIONS[@]}"; do
     python3 fix_crossref_spacing.py --apply "$SOURCE_DIR"
 
     # Create zip file
-    cd "$SOURCE_DIR" && zip -q -r "../${ZIP_FILE}" *.xml cross_refs/ 2>/dev/null
+    # Exclude the consolidated whole-Bible <version>.xml — search now indexes
+    # the per-chapter files, so it is dead weight.
+    # Remove any stale archive first: `zip` updates in place and would otherwise
+    # keep entries for files that no longer exist on disk.
+    rm -f "$ZIP_FILE"
+    cd "$SOURCE_DIR" && zip -q -r "../${ZIP_FILE}" *.xml cross_refs/ -x "${VERSION}.xml" 2>/dev/null
     cd ..
     
     # Generate MD5 hash

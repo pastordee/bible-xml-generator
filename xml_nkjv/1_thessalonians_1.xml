@@ -16,7 +16,12 @@
 		<chapter num="1">
 			<heading>Greeting</heading>
 			<begin-paragraph />
-			<v n="1">Grace to you and peace from God our Father and the Lord Jesus Christ.</v>
+			<v n="1">
+				<crossref let="b" cid="c52001001.1" />
+				Paul, Silvanus, 
+				
+				 and Timothy,To the church of the Thessalonians in God the Father and the Lord Jesus Christ:Grace to you and peace from God our Father and the Lord Jesus Christ.Their Good Example
+			</v>
 			<marker class="begin-verse" mid="v52001002" />
 			<v n="2">
 				<crossref let="c" cid="c52001002.2" />We give thanks to God always for you all, making mention of you in our prayers,</v>

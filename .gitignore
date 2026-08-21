@@ -41,3 +41,12 @@ books/
 state.json
 xml_esv/*.xml
 raw/cross_refs_esv/
+xml_twi/*.xml
+xml_twiasante/*.xml
+
+# Dictionary XML: downloaded source plus the cleaned output, both regenerated
+# by make_eastons_dictionary.py and shipped as a zip in readyForServer/.
+dictionaries/*.xml
+
+# Screenshots pasted in during review are not repo content.
+Screenshot*.png

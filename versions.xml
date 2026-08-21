@@ -92,4 +92,42 @@
       </features>
     </info>
   </version>
+
+  <!-- Akuapem Twi Nkwa Asem -->
+  <version
+    id="AKNA"
+    name="Akuapem Twi Nkwa Asem (Akuapem Twi Contemporary Bible)"
+    language="tw-akuapem"
+    year="2020"
+    publisher="Biblica, Inc."
+    copyright="©1996, 2020 Biblica, Inc. — CC BY-SA 4.0"
+    description="Complete Bible in Akuapem Twi (Ghana), the traditional literary Twi dialect; sourced from eBible.org USFX">
+    <info>
+      <website>https://ebible.org/find/details.php?id=twi</website>
+      <features>
+        <feature>Complete OT and NT in Akuapem Twi</feature>
+        <feature>Free to redistribute under CC BY-SA 4.0 with attribution</feature>
+        <feature>Twi book names available via localTitle in books.xml</feature>
+      </features>
+    </info>
+  </version>
+
+  <!-- Asante Twi Nkwa Asem -->
+  <version
+    id="ASNA"
+    name="Asante Twi Nkwa Asem (Asante Twi Contemporary Bible)"
+    language="tw-asante"
+    year="2020"
+    publisher="Biblica, Inc."
+    copyright="©1996, 2020 Biblica, Inc. — CC BY-SA 4.0"
+    description="Complete Bible in Asante Twi (Ghana), the most widely spoken Twi dialect; sourced from eBible.org USFX">
+    <info>
+      <website>https://ebible.org/find/details.php?id=twiasante</website>
+      <features>
+        <feature>Complete OT and NT in Asante Twi</feature>
+        <feature>Free to redistribute under CC BY-SA 4.0 with attribution</feature>
+        <feature>Twi book names available via localTitle in books.xml</feature>
+      </features>
+    </info>
+  </version>
 </versions>

@@ -33,6 +33,11 @@ for VERSION in "${VERSIONS[@]}"; do
     # published data never ships with glued words (idempotent; no-op if clean).
     python3 fix_crossref_spacing.py --apply "$SOURCE_DIR"
 
+    # Restore spacing where a poetry line break was dropped in generation
+    # ("is my shepherd;I shall not want."). Idempotent: once a space is there
+    # the pattern no longer matches, so re-running is a no-op.
+    python3 fix_lost_linebreak_spacing.py "$SOURCE_DIR" >/dev/null
+
     # Create zip file
     # Exclude the consolidated whole-Bible <version>.xml — search now indexes
     # the per-chapter files, so it is dead weight.

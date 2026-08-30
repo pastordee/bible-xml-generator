@@ -126,20 +126,24 @@ def fetch_esv(book_name, chapter, _id):
         return None
     body = BeautifulSoup(r.text, 'html.parser')
     booknum = BOOKNUM_BY_NAME[book_name]
+    # One document-order pass: pair each heading with the next verse ref that
+    # follows it. (find_next per heading would rescan the page ~70 times, once
+    # for every book-navigation <h3> on the page.)
     out = []
-    for h in body.find_all(['h3', 'h4']):
-        text = heading_text(h)
-        if not text or text in SKIP_HEADINGS:
-            continue
-        nxt = h.find_next(attrs={'data-ref': True})
-        if nxt is None:
-            continue
-        ref = nxt.get('data-ref')
-        m = re.fullmatch(r'(\d{2})(\d{3})(\d{3})', ref)
-        # The page bleeds into neighbouring chapters and books; keep only this one.
-        if not m or int(m.group(1)) != booknum or int(m.group(2)) != chapter:
-            continue
-        out.append([int(m.group(3)), text])
+    pending = []
+    for el in body.find_all(['h3', 'h4', 'span', 'div', 'a', 'b']):
+        ref = el.get('data-ref')
+        if ref:
+            if pending:
+                m = re.fullmatch(r'(\d{2})(\d{3})(\d{3})', ref)
+                # The page bleeds into neighbouring chapters and books.
+                if m and int(m.group(1)) == booknum and int(m.group(2)) == chapter:
+                    out.extend([int(m.group(3)), h] for h in pending)
+                pending = []
+        elif el.name in ('h3', 'h4'):
+            text = heading_text(el)
+            if text and text not in SKIP_HEADINGS:
+                pending.append(text)
     return out
 
 
@@ -157,22 +161,23 @@ def fetch_gateway(book_name, chapter, version):
     body = soup.select_one('.passage-text')
     if body is None:
         return None
+    # Single document-order pass, pairing each heading with the next verse span.
     out = []
-    for h in body.find_all(['h3', 'h4']):
-        text = heading_text(h)
-        if not text or text in SKIP_HEADINGS:
+    pending = []
+    for el in body.find_all(['h3', 'h4', 'span']):
+        if el.name in ('h3', 'h4'):
+            text = heading_text(el)
+            if text and text not in SKIP_HEADINGS:
+                pending.append(text)
             continue
-        verse = None
-        for sib in h.find_all_next('span', class_='text'):
-            for cls in sib.get('class', []):
-                m = re.match(r'^[A-Za-z0-9]+-(\d+)-(\d+)', cls)
-                if m and int(m.group(1)) == chapter:
-                    verse = int(m.group(2))
-                    break
-            if verse is not None:
+        if not pending:
+            continue
+        for cls in el.get('class', []):
+            m = re.match(r'^[A-Za-z0-9]+-(\d+)-(\d+)', cls)
+            if m and int(m.group(1)) == chapter:
+                out.extend([int(m.group(2)), h] for h in pending)
+                pending = []
                 break
-        if verse is not None:
-            out.append([verse, text])
     return out
 
 

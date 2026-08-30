@@ -14,6 +14,7 @@ which .gitignore excludes.
 """
 
 import json
+import os
 import re
 import subprocess
 import sys
@@ -37,8 +38,11 @@ def headings(xml):
             for h in re.findall(r'<heading>(.*?)</heading>', xml, re.S)]
 
 
+GIT_REF = os.environ.get('GIT_REF', 'HEAD')
+
+
 def git_before(path):
-    r = subprocess.run(['git', 'show', f'HEAD:{path}'], capture_output=True, text=True)
+    r = subprocess.run(['git', 'show', f'{GIT_REF}:{path}'], capture_output=True, text=True)
     return r.stdout if r.returncode == 0 else None
 
 

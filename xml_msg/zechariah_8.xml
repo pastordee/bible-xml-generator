@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Zechariah" num="38" testament="old" version="MSG" bookAbbr="zec">
 		<marker class="begin-verse" mid="v38008001" />
-		<chapter num="8">
+		<chapter num="8">			<heading>Rebuilding the Temple</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then the 
@@ -93,6 +94,7 @@
 				 Judah and Israel: just as you were considered a curse among the nations, so I will save you and you will become a blessing. Don't be afraid! Be strong!
 			</v>
 			<marker class="begin-verse" mid="v38008014" />
+			<heading>Keep Your Lives Simple and Honest</heading>
 			<v n="14">
 				For this 
 				

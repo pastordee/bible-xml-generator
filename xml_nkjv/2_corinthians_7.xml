@@ -13,15 +13,17 @@
 	</generation_info>
 	<book title="2 Corinthians" num="47" testament="new" version="NKJV" bookAbbr="2co">
 		<marker class="begin-verse" mid="v47007001" />
-		<chapter num="7">
+		<chapter num="7">			<heading>The Corinthians’ Repentance</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c47007001.1" />
 				Therefore,having these 
 				
-				 promises, beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.The Corinthians’ Repentance
+				 promises, beloved, let us cleanse ourselves from all filthiness of the flesh and spirit, perfecting holiness in the fear of God.
 			</v>
 			<marker class="begin-verse" mid="v47007002" />
+			<heading>The Corinthians’ Repentance</heading>
 			<v n="2">Open your hearts to us. We have wronged no one, we have corrupted no one,<crossref let="b" cid="c47007002.2" />we have cheated no one.</v>
 			<marker class="begin-verse" mid="v47007003" />
 			<v n="3">I do not say this to condemn; for<crossref let="c" cid="c47007003.3" /> I have said before that you are in our hearts, to die together and to live together.</v>
@@ -47,9 +49,10 @@
 				<crossref let="r" cid="c47007012.17" />
 				Therefore, although 
 				
-				 I wrote to you, I did not do it for the sake of him who had done the wrong, nor for the sake of him who suffered wrong, but that our care for you in the sight of God might appear to you.The Joy of Titus
+				 I wrote to you, I did not do it for the sake of him who had done the wrong, nor for the sake of him who suffered wrong, but that our care for you in the sight of God might appear to you.
 			</v>
 			<marker class="begin-verse" mid="v47007013" />
+			<heading>The Joy of Titus</heading>
 			<v n="13">Therefore we have been comforted in your comfort. And we rejoiced exceedingly more for the joy of Titus, because his spirit<crossref let="s" cid="c47007013.18" /> has been refreshed by you all.</v>
 			<marker class="begin-verse" mid="v47007014" />
 			<v n="14">For if in anything I have boasted to him about you, I am not ashamed. But as we spoke all things to you in truth, even so our boasting to Titus was found true.</v>

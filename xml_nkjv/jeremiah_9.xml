@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="NKJV" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24009001" />
-		<chapter num="9">
+		<chapter num="9">			<heading>Disobedience Brings God’s Judgment</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c24009001.1" />
@@ -140,10 +141,11 @@
 				
 				I will 
 				
-				 scatter them also among the Gentiles, whom neither they nor their fathers have known. And I will send a sword after them until I have consumed them.”The People Mourn in Judgment
+				 scatter them also among the Gentiles, whom neither they nor their fathers have known. And I will send a sword after them until I have consumed them.”
 			<crossref let="y" cid="c24009016.24" />
 			</v>
 			<marker class="begin-verse" mid="v24009017" />
+			<heading>The People Mourn in Judgment</heading>
 			<v n="17">
 				<crossref let="z" cid="c24009017.25" />
 				Thus says 

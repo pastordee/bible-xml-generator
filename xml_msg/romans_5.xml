@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Romans" num="45" testament="new" version="MSG" bookAbbr="rom">
 		<marker class="begin-verse" mid="v45005001" />
-		<chapter num="5">
+		<chapter num="5">			<heading>Developing Patience</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Now that 
@@ -81,6 +82,7 @@
 				 to this we now celebrate what God has done through our Lord Jesus Christ to reconcile us and make us his friends.
 			</v>
 			<marker class="begin-verse" mid="v45005012" />
+			<heading>The Death-Dealing Sin, the Life-Giving Gift</heading>
 			<v n="12">
 				For through 
 				

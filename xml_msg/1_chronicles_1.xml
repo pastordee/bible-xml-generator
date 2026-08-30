@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Chronicles" num="13" testament="old" version="MSG" bookAbbr="1ch">
 		<marker class="begin-verse" mid="v13001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>Israel’s Family Tree: The Trunk</heading>
+
 			<begin-paragraph />
 			<v n="1">Adam, Seth, Enosh,</v>
 			<marker class="begin-verse" mid="v13001002" />
@@ -31,6 +32,7 @@
 				 of Noah: Shem, Ham, and Japheth.
 			</v>
 			<marker class="begin-verse" mid="v13001005" />
+			<heading>The Japheth Branch</heading>
 			<v n="5">
 				The sons 
 				
@@ -49,6 +51,7 @@
 				 of Javan: Elishah, Tarshish, Kittim, Rodanim.
 			</v>
 			<marker class="begin-verse" mid="v13001008" />
+			<heading>The Ham Branch</heading>
 			<v n="8">
 				The sons 
 				
@@ -95,6 +98,7 @@
 				 and Hamathites.
 			</v>
 			<marker class="begin-verse" mid="v13001017" />
+			<heading>The Shem Branch</heading>
 			<v n="17">
 				The sons 
 				
@@ -147,6 +151,7 @@
 				 of Abraham: Isaac and Ishmael.
 			</v>
 			<marker class="begin-verse" mid="v13001029" />
+			<heading>The Family of Abraham</heading>
 			<v n="29">
 				These were 
 				
@@ -231,6 +236,7 @@
 				 of Ezer: Bilhan, Zaavan and Akan. The sons of Dishan: Uz and Aran.
 			</v>
 			<marker class="begin-verse" mid="v13001043" />
+			<heading>The Edomite King List</heading>
 			<v n="43">
 				These were 
 				

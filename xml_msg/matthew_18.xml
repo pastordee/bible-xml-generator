@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40018001" />
-		<chapter num="18">
+		<chapter num="18">			<heading>Whoever Becomes Simple Again</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Around that 
@@ -75,6 +76,7 @@
 				 you don't look down on these little ones. I tell you that in heaven their angels are always with my heavenly Father.
 			</v>
 			<marker class="begin-verse" mid="v40018011" />
+			<heading>Work It Out Between You</heading>
 			<v n="12">
 				What do 
 				
@@ -129,6 +131,7 @@
 				 two or three gather together in my name, I'm there with them.”
 			</v>
 			<marker class="begin-verse" mid="v40018021" />
+			<heading>A Story About Forgiveness</heading>
 			<v n="21">
 				Peter came 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Chronicles" num="13" testament="old" version="MSG" bookAbbr="1ch">
 		<marker class="begin-verse" mid="v13007001" />
-		<chapter num="7">
+		<chapter num="7">			<heading>The Family of Issachar</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The sons 
@@ -45,6 +46,7 @@
 				 who were warriors belonging to all the families of Issachar, according to their genealogy, were 87,000 in total.
 			</v>
 			<marker class="begin-verse" mid="v13007006" />
+			<heading>The Family of Benjamin</heading>
 			<v n="6">
 				Three sons 
 				
@@ -87,12 +89,14 @@
 				 Huppim were sons of Ir, and Hushim was the son of Aher.
 			</v>
 			<marker class="begin-verse" mid="v13007013" />
+			<heading>The Family of Naphtali</heading>
 			<v n="13">
 				The sons 
 				
 				 of Naphtali: Jahziel, Guni, Jezer, and Shallum—the descendants of Bilhah.
 			</v>
 			<marker class="begin-verse" mid="v13007014" />
+			<heading>The Family of Manasseh</heading>
 			<v n="14">
 				The sons 
 				
@@ -129,6 +133,7 @@
 				 of Shemida were: Ahian, Shechem, Likhi, and Aniam.
 			</v>
 			<marker class="begin-verse" mid="v13007020" />
+			<heading>The Family of Ephraim</heading>
 			<v n="20">
 				The descendants 
 				
@@ -189,6 +194,7 @@
 				 border with Manasseh were Beth Shan, Taanach, Megiddo, and Dor, along with their towns. These were the towns where the descendants of Joseph son of Israel lived.
 			</v>
 			<marker class="begin-verse" mid="v13007030" />
+			<heading>The Family of Asher</heading>
 			<v n="30">
 				The sons 
 				

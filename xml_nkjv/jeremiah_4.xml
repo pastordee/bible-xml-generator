@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="NKJV" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>Jeremiah Laments over Judah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c24004001.1" />
@@ -48,9 +49,10 @@
 				<crossref let="a" cid="c24004004.8" />
 				Circumcise yourselves 
 				
-				 to the Lord, And take away the foreskins of your hearts, You men of Judah and inhabitants of Jerusalem, Lest My fury come forth like fire, And burn so that no one can quench it, Because of the evil of your doings.”An Imminent Invasion
+				 to the Lord, And take away the foreskins of your hearts, You men of Judah and inhabitants of Jerusalem, Lest My fury come forth like fire, And burn so that no one can quench it, Because of the evil of your doings.”
 			</v>
 			<marker class="begin-verse" mid="v24004005" />
+			<heading>An Imminent Invasion</heading>
 			<v n="5">
 				<crossref let="j" cid="c24004005.9" />
 				Declare in 
@@ -153,9 +155,10 @@
 				<crossref let="z" cid="c24004018.25" />
 				“Yourways and 
 				
-				 your doings Have procured these things for you.This is your wickedness, Because it is bitter, Because it reaches to your heart.”Sorrow for the Doomed Nation
+				 your doings Have procured these things for you.This is your wickedness, Because it is bitter, Because it reaches to your heart.”
 			</v>
 			<marker class="begin-verse" mid="v24004019" />
+			<heading>Sorrow for the Doomed Nation</heading>
 			<v n="19">
 				<crossref let="a" cid="c24004019.26" />
 				O my 

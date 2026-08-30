@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Ecclesiastes" num="21" testament="old" version="NKJV" bookAbbr="ecc">
 		<marker class="begin-verse" mid="v21004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>The Uselessness of Selfish Toil</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c21004001.1" />
@@ -33,9 +34,10 @@
 				<crossref let="c" cid="c21004003.3" />
 				Yet, better 
 				
-				 than both is he who has never existed, Who has not seen the evil work that is done under the sun.The Vanity of Selfish Toil
+				 than both is he who has never existed, Who has not seen the evil work that is done under the sun.
 			</v>
 			<marker class="begin-verse" mid="v21004004" />
+			<heading>The Vanity of Selfish Toil</heading>
 			<v n="4">
 				Again, I 
 				
@@ -67,10 +69,11 @@
 				
 				There is 
 				
-				 one alone, without companion: He has neither son nor brother.Yet there is no end to all his labors, Nor is his eye satisfied with riches.But he never asks,“For whom do I toil and deprive myself of good?”This also is vanity and a grave misfortune.The Value of a Friend
+				 one alone, without companion: He has neither son nor brother.Yet there is no end to all his labors, Nor is his eye satisfied with riches.But he never asks,“For whom do I toil and deprive myself of good?”This also is vanity and a grave misfortune.
 			<crossref let="g" cid="c21004008.7" />
 			</v>
 			<marker class="begin-verse" mid="v21004009" />
+			<heading>The Value of a Friend</heading>
 			<v n="9">
 				Two are 
 				
@@ -92,9 +95,10 @@
 			<v n="12">
 				Though one 
 				
-				 may be overpowered by another, two can withstand him.And a threefold cord is not quickly broken.Popularity Passes Away
+				 may be overpowered by another, two can withstand him.And a threefold cord is not quickly broken.
 			</v>
 			<marker class="begin-verse" mid="v21004013" />
+			<heading>Popularity Passes Away</heading>
 			<v n="13">
 				Better a 
 				

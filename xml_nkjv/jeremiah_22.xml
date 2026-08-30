@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="NKJV" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24022001" />
-		<chapter num="22">
+		<chapter num="22">			<heading>Prophecies Against the Kings of Judah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Thus says 
@@ -85,11 +86,12 @@
 				<crossref let="k" cid="c24022010.11" />
 				Weep not 
 				
-				 for the dead, nor bemoan him; Weep bitterly for him who goes away, For he shall return no more, Nor see his native country.Message to the Sons of Josiah
+				 for the dead, nor bemoan him; Weep bitterly for him who goes away, For he shall return no more, Nor see his native country.
 			
 			<crossref let="l" cid="c24022010.12" />
 			</v>
 			<marker class="begin-verse" mid="v24022011" />
+			<heading>Message to the Sons of Josiah</heading>
 			<v n="11">
 				<crossref let="m" cid="c24022011.13" />
 				For thus 
@@ -180,9 +182,10 @@
 				<crossref let="x" cid="c24022023.24" />
 				O inhabitant 
 				
-				 of Lebanon, Making your nest in the cedars, How gracious will you be when pangs come upon you, Like the pain of a woman in labor? Message to Coniah
+				 of Lebanon, Making your nest in the cedars, How gracious will you be when pangs come upon you, Like the pain of a woman in labor?
 			</v>
 			<marker class="begin-verse" mid="v24022024" />
+			<heading>Message to Coniah</heading>
 			<v n="24">
 				<crossref let="y" cid="c24022024.25" />
 				

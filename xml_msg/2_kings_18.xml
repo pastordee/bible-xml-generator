@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Kings" num="12" testament="old" version="MSG" bookAbbr="2ki">
 		<marker class="begin-verse" mid="v12018001" />
-		<chapter num="18">
+		<chapter num="18">			<heading>Hezekiah of Judah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Hezekiah, son 

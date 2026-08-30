@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Chronicles" num="13" testament="old" version="MSG" bookAbbr="1ch">
 		<marker class="begin-verse" mid="v13022001" />
-		<chapter num="22">
+		<chapter num="22">			<heading>David Charges Solomon to Build The Temple</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then David 

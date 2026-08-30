@@ -13,27 +13,31 @@
 	</generation_info>
 	<book title="Song of Solomon" num="22" testament="old" version="NKJV" bookAbbr="sng">
 		<marker class="begin-verse" mid="v22002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>A Country Girl in a Palace</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				I am 
 				
-				 the rose of Sharon, And the lily of the valleys.The Beloved
+				 the rose of Sharon, And the lily of the valleys.
 			</v>
 			<marker class="begin-verse" mid="v22002002" />
+			<heading>The Beloved</heading>
 			<v n="2">
 				Like a 
 				
-				 lily among thorns, So is my love among the daughters.The Shulamite
+				 lily among thorns, So is my love among the daughters.
 			</v>
 			<marker class="begin-verse" mid="v22002003" />
+			<heading>The Shulamite</heading>
 			<v n="3">
 				<crossref let="a" cid="c22002003.1" />
 				Like an 
 				
-				 apple tree among the trees of the woods, So is my beloved among the sons.I sat down in his shade with great delight, And his fruit was sweet to my taste.The Shulamite to the Daughters of Jerusalem
+				 apple tree among the trees of the woods, So is my beloved among the sons.I sat down in his shade with great delight, And his fruit was sweet to my taste.
 			</v>
 			<marker class="begin-verse" mid="v22002004" />
+			<heading>The Shulamite to the Daughters of Jerusalem</heading>
 			<v n="4">
 				He brought 
 				
@@ -57,9 +61,11 @@
 				<crossref let="c" cid="c22002007.3" />
 				I charge 
 				
-				 you, O daughters of Jerusalem, By the gazelles or by the does of the field, Do not stir up nor awaken love Until it pleases.The Beloved’s Request The Shulamite
+				 you, O daughters of Jerusalem, By the gazelles or by the does of the field, Do not stir up nor awaken love Until it pleases.
 			</v>
 			<marker class="begin-verse" mid="v22002008" />
+			<heading>The Beloved’s Request</heading>
+			<heading>The Shulamite</heading>
 			<v n="8">
 				The voice 
 				
@@ -101,23 +107,26 @@
 				<crossref let="e" cid="c22002014.5" />
 				“O my 
 				
-				 dove, in the clefts of the rock, In the secret places of the cliff, Let me see your face, Let me hear your voice; For your voice is sweet, And your face is lovely.”Her Brothers
+				 dove, in the clefts of the rock, In the secret places of the cliff, Let me see your face, Let me hear your voice; For your voice is sweet, And your face is lovely.”
 			</v>
 			<marker class="begin-verse" mid="v22002015" />
+			<heading>Her Brothers</heading>
 			<v n="15">
 				<crossref let="g" cid="c22002015.6" />
 				Catch us 
 				
-				 the foxes, The little foxes that spoil the vines, For our vines have tender grapes.The Shulamite
+				 the foxes, The little foxes that spoil the vines, For our vines have tender grapes.
 			</v>
 			<marker class="begin-verse" mid="v22002016" />
+			<heading>The Shulamite</heading>
 			<v n="16">
 				<crossref let="h" cid="c22002016.7" />
 				My beloved 
 				
-				 is mine, and I am his.He feeds his flock among the lilies.(To Her Beloved)
+				 is mine, and I am his.He feeds his flock among the lilies.
 			</v>
 			<marker class="begin-verse" mid="v22002017" />
+			<heading>(To Her Beloved)</heading>
 			<v n="17">
 				<crossref let="j" cid="c22002017.8" />
 				Until the 

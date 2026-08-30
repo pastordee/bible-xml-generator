@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Ecclesiastes" num="21" testament="old" version="NKJV" bookAbbr="ecc">
 		<marker class="begin-verse" mid="v21012001" />
-		<chapter num="12">
+		<chapter num="12">			<heading>Seek God in Early Life</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c21012001.1" />
@@ -71,9 +72,10 @@
 				<crossref let="a" cid="c21012008.8" />
 				“Vanityof vanities,” 
 				
-				 says the Preacher,“All is vanity.”The Whole Duty of Man
+				 says the Preacher,“All is vanity.”
 			</v>
 			<marker class="begin-verse" mid="v21012009" />
+			<heading>The Whole Duty of Man</heading>
 			<v n="9">
 				<crossref let="j" cid="c21012009.9" />
 				And moreover, 

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Samuel" num="9" testament="old" version="MSG" bookAbbr="1sa">
 		<marker class="begin-verse" mid="v09013001" />
-		<chapter num="13">
+		<chapter num="13">			<heading>“ God Is Out Looking for Your Replacement”</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Saul was 
@@ -105,6 +106,7 @@
 				 left Gilgal. The rest of the soldiers followed Saul to meet the army, going from Gilgal to Geba in Benjamin. Saul counted the number of soldiers who were with him and there were about six hundred.
 			</v>
 			<marker class="begin-verse" mid="v09013016" />
+			<heading>Jonathan and His Armor Bearer</heading>
 			<v n="16">
 				Saul, his 
 				

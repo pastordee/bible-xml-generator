@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Luke" num="42" testament="new" version="MSG" bookAbbr="luk">
 		<marker class="begin-verse" mid="v42013001" />
-		<chapter num="13">
+		<chapter num="13">			<heading>Unless You Turn to God</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				It was 
@@ -69,6 +70,7 @@
 				 produces fruit, then that's fine. If not, then chop it down.’”
 			</v>
 			<marker class="begin-verse" mid="v42013010" />
+			<heading>Healing on the Sabbath</heading>
 			<v n="10">
 				One Sabbath 
 				
@@ -117,6 +119,7 @@
 				 said shamed all his opponents, but everyone in the crowd was delighted by all the wonderful things he was doing.
 			</v>
 			<marker class="begin-verse" mid="v42013018" />
+			<heading>The Way to God</heading>
 			<v n="18">
 				Then Jesus 
 				

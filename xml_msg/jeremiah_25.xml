@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="MSG" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24025001" />
-		<chapter num="25">
+		<chapter num="25">			<heading>Don’t Follow the God-Fads of the Day</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				This is 
@@ -99,6 +100,7 @@
 				 and powerful kings will make slaves of them, the Babylonians, and I will pay them back for the evil they've done.
 			</v>
 			<marker class="begin-verse" mid="v24025015" />
+			<heading>God Puts the Human Race on Trial</heading>
 			<v n="15">
 				This is 
 				

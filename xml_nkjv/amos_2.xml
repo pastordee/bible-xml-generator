@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Amos" num="30" testament="old" version="NKJV" bookAbbr="amo">
 		<marker class="begin-verse" mid="v30002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>Judgment on Israel</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c30002001.1" />
@@ -35,9 +36,10 @@
 				<crossref let="d" cid="c30002003.4" />
 				And I 
 				
-				 will cut off the judge from its midst, And slay all its princes with him,”Says the Lord.Judgment on Judah
+				 will cut off the judge from its midst, And slay all its princes with him,”Says the Lord.
 			</v>
 			<marker class="begin-verse" mid="v30002004" />
+			<heading>Judgment on Judah</heading>
 			<v n="4">
 				<crossref let="e" cid="c30002004.5" />
 				
@@ -53,9 +55,10 @@
 				<crossref let="a" cid="c30002005.8" />
 				But I 
 				
-				 will send a fire upon Judah, And it shall devour the palaces of Jerusalem.”Judgment on Israel
+				 will send a fire upon Judah, And it shall devour the palaces of Jerusalem.”
 			</v>
 			<marker class="begin-verse" mid="v30002006" />
+			<heading>Judgment on Israel</heading>
 			<v n="6">
 				<crossref let="j" cid="c30002006.9" />
 				Thus says 

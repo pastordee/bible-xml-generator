@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Chronicles" num="14" testament="old" version="MSG" bookAbbr="2ch">
 		<marker class="begin-verse" mid="v14025001" />
-		<chapter num="25">
+		<chapter num="25">			<heading>King Amaziah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Amaziah was 

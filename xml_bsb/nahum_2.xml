@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Nahum" num="34" testament="old" version="BSB" bookAbbr="nah">
 		<marker class="begin-verse" mid="v34002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>The Overthrow of Nineveh</heading>
+
 			<begin-paragraph />
 			<v n="1">One who scatters advances against you, O Nineveh. Guard the fortress! Watch the road! Brace yourselves! Summon all your strength!</v>
 			<marker class="begin-verse" mid="v34002002" />

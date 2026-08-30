@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="NKJV" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24008001" />
-		<chapter num="8">
+		<chapter num="8">			<heading>Jeremiah Mourns for His People</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				“At that 
@@ -32,9 +33,10 @@
 				<crossref let="c" cid="c24008003.2" />
 				Then death 
 				
-				 shall be chosen rather than life by all the residue of those who remain of this evil family, who remain in all the places where I have driven them,” says the Lord of hosts.The Peril of False Teaching
+				 shall be chosen rather than life by all the residue of those who remain of this evil family, who remain in all the places where I have driven them,” says the Lord of hosts.
 			</v>
 			<marker class="begin-verse" mid="v24008004" />
+			<heading>The Peril of False Teaching</heading>
 			<v n="4">
 				“Moreover you 
 				
@@ -143,9 +145,10 @@
 				<crossref let="a" cid="c24008017.22" />
 				“For behold, 
 				
-				 I will send serpents among you, Vipers which cannot be charmed, And they shall bite you,” says the Lord.The Prophet Mourns for the People
+				 I will send serpents among you, Vipers which cannot be charmed, And they shall bite you,” says the Lord.
 			</v>
 			<marker class="begin-verse" mid="v24008018" />
+			<heading>The Prophet Mourns for the People</heading>
 			<v n="18">
 				I would 
 				

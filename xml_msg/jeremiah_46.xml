@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="MSG" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24046001" />
-		<chapter num="46">
+		<chapter num="46">			<heading>You Vainly Collect Medicines</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				In the 
@@ -87,6 +88,7 @@
 				 nations have heard how you were humiliated in defeat. Everyone can hear your cries of pain. Soldiers fall over each other, and die together.
 			</v>
 			<marker class="begin-verse" mid="v24046013" />
+			<heading>Egypt’s Army Slithers Like a Snake</heading>
 			<v n="13">
 				This is 
 				

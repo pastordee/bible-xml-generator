@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Leviticus" num="3" testament="old" version="NKJV" bookAbbr="lev">
 		<marker class="begin-verse" mid="v03006001" />
-		<chapter num="6">
+		<chapter num="6">			<heading>Laws About the Burnt Offering, the Grain Offering, and the Sin Offering</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				And the 
@@ -62,9 +63,10 @@
 				<crossref let="j" cid="c03006007.7" />
 				So the 
 				
-				 priest shall make atonement for him before the Lord, and he shall be forgiven for any one of these things that he may have done in which he trespasses.”The Law of the Burnt Offering
+				 priest shall make atonement for him before the Lord, and he shall be forgiven for any one of these things that he may have done in which he trespasses.”
 			</v>
 			<marker class="begin-verse" mid="v03006008" />
+			<heading>The Law of the Burnt Offering</heading>
 			<v n="8">
 				Then the 
 				
@@ -107,9 +109,10 @@
 				<crossref let="q" cid="c03006013.14" />
 				A fire 
 				
-				 shall always be burning on the altar; it shall never go out.The Law of the Grain Offering
+				 shall always be burning on the altar; it shall never go out.
 			</v>
 			<marker class="begin-verse" mid="v03006014" />
+			<heading>The Law of the Grain Offering</heading>
 			<v n="14">
 				‘This is 
 				
@@ -180,9 +183,10 @@
 			<v n="23">
 				For every 
 				
-				 grain offering for the priest shall be wholly burned. It shall not be eaten.”The Law of the Sin Offering
+				 grain offering for the priest shall be wholly burned. It shall not be eaten.”
 			</v>
 			<marker class="begin-verse" mid="v03006024" />
+			<heading>The Law of the Sin Offering</heading>
 			<v n="24">
 				Also the 
 				

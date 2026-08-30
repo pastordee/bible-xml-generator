@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="MSG" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23010001" />
-		<chapter num="10">
+		<chapter num="10">			<heading>You Who Legislate Evil</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Tragedy is 
@@ -39,6 +40,7 @@
 				 be able to do is to bow down as prisoners, or lie among the dead! In all of this he is still angry and his hand is still raised.
 			</v>
 			<marker class="begin-verse" mid="v23010005" />
+			<heading>Doom to Assyria!</heading>
 			<v n="5">
 				Tragedy is 
 				

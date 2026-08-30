@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23010001" />
-		<chapter num="10">
+		<chapter num="10">			<heading>Assyria Shall Be Broken</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c23010001.1" />
@@ -44,10 +45,11 @@
 				
 				Without Me 
 				
-				 they shall bow down among the prisoners, And they shall fall among the slain.”For all this His anger is not turned away, But His hand is stretched out still.Arrogant Assyria Also Judged
+				 they shall bow down among the prisoners, And they shall fall among the slain.”For all this His anger is not turned away, But His hand is stretched out still.
 			<crossref let="f" cid="c23010004.6" />
 			</v>
 			<marker class="begin-verse" mid="v23010005" />
+			<heading>Arrogant Assyria Also Judged</heading>
 			<v n="5">
 				<crossref let="g" cid="c23010005.7" />
 				“Woe to 
@@ -152,9 +154,10 @@
 			<v n="19">
 				Then the 
 				
-				 rest of the trees of his forest Will be so few in number That a child may write them.The Returning Remnant of Israel
+				 rest of the trees of his forest Will be so few in number That a child may write them.
 			</v>
 			<marker class="begin-verse" mid="v23010020" />
+			<heading>The Returning Remnant of Israel</heading>
 			<v n="20">
 				<crossref let="v" cid="c23010020.21" />
 				And it 

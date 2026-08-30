@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="MSG" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>Jerusalem on Its Last Legs</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Take a 
@@ -87,6 +88,7 @@
 				 act in childish ways mistreat my people; women rule over them. My people, your leaders are misleading you, confusing you about which way to go.
 			</v>
 			<marker class="begin-verse" mid="v23003013" />
+			<heading>A City Brought to Her Knees by Her Sorrows</heading>
 			<v n="13">
 				The Lord 
 				

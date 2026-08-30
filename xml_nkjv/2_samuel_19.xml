@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Samuel" num="10" testament="old" version="NKJV" bookAbbr="2sa">
 		<marker class="begin-verse" mid="v10019001" />
-		<chapter num="19">
+		<chapter num="19">			<heading>David Returns to Jerusalem</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c10019001.1" />
@@ -68,11 +69,12 @@
 				<crossref let="g" cid="c10019008.7" />
 				Then the 
 				
-				 king arose and sat in the gate. And they told all the people, saying, “There is the king, sitting in the gate.” So all the people came before the king.For everyone of Israel had fled to his tent.David Returns to Jerusalem
+				 king arose and sat in the gate. And they told all the people, saying, “There is the king, sitting in the gate.” So all the people came before the king.For everyone of Israel had fled to his tent.
 			
 			<crossref let="h" cid="c10019008.8" />
 			</v>
 			<marker class="begin-verse" mid="v10019009" />
+			<heading>David Returns to Jerusalem</heading>
 			<v n="9">
 				<crossref let="j" cid="c10019009.9" />
 				Now all 
@@ -139,6 +141,7 @@
 				 a thousand men of Benjamin with him, and Ziba the servant of the house of Saul, and his fifteen sons and his twenty servants with him; and they went over the Jordan before the king.
 			</v>
 			<marker class="begin-verse" mid="v10019018" />
+			<heading>David’s Mercy to Shimei</heading>
 			<v n="18">
 				Then a 
 				
@@ -183,9 +186,10 @@
 				<crossref let="d" cid="c10019023.26" />
 				Therefore the 
 				
-				 king said to Shimei, “You shall not die.” And the king swore to him.David and Mephibosheth Meet
+				 king said to Shimei, “You shall not die.” And the king swore to him.
 			</v>
 			<marker class="begin-verse" mid="v10019024" />
+			<heading>David and Mephibosheth Meet</heading>
 			<v n="24">
 				<crossref let="e" cid="c10019024.27" />
 				Now Mephibosheth 
@@ -231,9 +235,10 @@
 			<v n="30">
 				Then Mephibosheth 
 				
-				 said to the king, “Rather, let him take it all, inasmuch as my lord the king has come back in peace to his own house.”David’s Kindness to Barzillai
+				 said to the king, “Rather, let him take it all, inasmuch as my lord the king has come back in peace to his own house.”
 			</v>
 			<marker class="begin-verse" mid="v10019031" />
+			<heading>David’s Kindness to Barzillai</heading>
 			<v n="31">
 				<crossref let="j" cid="c10019031.32" />
 				And Barzillai 
@@ -290,9 +295,10 @@
 				<crossref let="a" cid="c10019039.36" />
 				Then all 
 				
-				 the people went over the Jordan. And when the king had crossed over, the king kissed Barzillai and blessed him, and he returned to his own place.The Quarrel About the King
+				 the people went over the Jordan. And when the king had crossed over, the king kissed Barzillai and blessed him, and he returned to his own place.
 			</v>
 			<marker class="begin-verse" mid="v10019040" />
+			<heading>The Quarrel About the King</heading>
 			<v n="40">
 				Now the 
 				

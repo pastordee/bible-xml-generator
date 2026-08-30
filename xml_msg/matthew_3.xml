@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>Thunder in the Desert!</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Some time 

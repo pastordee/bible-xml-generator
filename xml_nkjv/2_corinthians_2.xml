@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Corinthians" num="47" testament="new" version="NKJV" bookAbbr="2co">
 		<marker class="begin-verse" mid="v47002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>Paul Urges Forgiveness</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c47002001.1" />
@@ -26,9 +27,10 @@
 				<crossref let="a" cid="c47002002.2" />
 				For if 
 				
-				 I make you sorrowful, then who is he who makes me glad but the one who is made sorrowful by me? Forgive the Offender
+				 I make you sorrowful, then who is he who makes me glad but the one who is made sorrowful by me?
 			</v>
 			<marker class="begin-verse" mid="v47002003" />
+			<heading>Forgive the Offender</heading>
 			<v n="3">And I wrote this very thing to you, lest, when I came,<crossref let="c" cid="c47002003.3" />I should have sorrow over those from whom I ought to have joy,<crossref let="d" cid="c47002003.4" />having confidence in you all that my joy is the joy of you all.</v>
 			<marker class="begin-verse" mid="v47002004" />
 			<v n="4">For out of much affliction and anguish of heart I wrote to you, with many tears,<crossref let="e" cid="c47002004.5" />not that you should be grieved, but that you might know the love which I have so abundantly for you.</v>
@@ -48,9 +50,10 @@
 			<v n="11">
 				lest Satan 
 				
-				 should take advantage of us; for we are not ignorant of his devices.Triumph in Christ
+				 should take advantage of us; for we are not ignorant of his devices.
 			</v>
 			<marker class="begin-verse" mid="v47002012" />
+			<heading>Triumph in Christ</heading>
 			<v n="12">Furthermore,<crossref let="k" cid="c47002012.11" />when I came to Troas to preach Christ’s gospel, and a door was opened to me by the Lord,</v>
 			<marker class="begin-verse" mid="v47002013" />
 			<v n="13">

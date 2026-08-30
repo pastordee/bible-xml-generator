@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="MSG" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02031001" />
-		<chapter num="31">
+		<chapter num="31">			<heading>Bezalel and Oholiab</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 
@@ -81,6 +82,7 @@
 				 as anointing oil and fragrant incense for the Holy Place. They are to make them following all the instructions I have given you.”
 			</v>
 			<marker class="begin-verse" mid="v02031012" />
+			<heading>Sabbath</heading>
 			<v n="12">
 				The Lord 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Luke" num="42" testament="new" version="MSG" bookAbbr="luk">
 		<marker class="begin-verse" mid="v42019001" />
-		<chapter num="19">
+		<chapter num="19">			<heading>Zacchaeus</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Jesus entered 
@@ -75,6 +76,7 @@
 				 Son of man came to search for and save those who are lost.”
 			</v>
 			<marker class="begin-verse" mid="v42019011" />
+			<heading>The Story About Investment</heading>
 			<v n="11">
 				While they 
 				
@@ -177,6 +179,7 @@
 				 for my enemies who didn't want me to be king over them, bring them here and kill them in front of me.’”
 			</v>
 			<marker class="begin-verse" mid="v42019028" />
+			<heading>God’s Personal Visit</heading>
 			<v n="28">
 				After he'd 
 				

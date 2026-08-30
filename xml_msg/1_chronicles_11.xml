@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Chronicles" num="13" testament="old" version="MSG" bookAbbr="1ch">
 		<marker class="begin-verse" mid="v13011001" />
-		<chapter num="11">
+		<chapter num="11">			<heading>King David</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				All the 
@@ -69,6 +70,7 @@
 				 more and more powerful, for the Lord Almighty was with him.
 			</v>
 			<marker class="begin-verse" mid="v13011010" />
+			<heading>David’s Mighty Men</heading>
 			<v n="10">
 				These were 
 				

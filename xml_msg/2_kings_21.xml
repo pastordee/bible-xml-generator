@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Kings" num="12" testament="old" version="MSG" bookAbbr="2ki">
 		<marker class="begin-verse" mid="v12021001" />
-		<chapter num="21">
+		<chapter num="21">			<heading>Manasseh of Judah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Manasseh was 
@@ -123,6 +124,7 @@
 				 and was buried in his palace garden, the garden of Uzza. His son Amon succeeded him as king.
 			</v>
 			<marker class="begin-verse" mid="v12021019" />
+			<heading>Amon of Judah</heading>
 			<v n="19">
 				Amon was 
 				

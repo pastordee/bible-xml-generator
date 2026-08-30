@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Samuel" num="9" testament="old" version="NKJV" bookAbbr="1sa">
 		<marker class="begin-verse" mid="v09010001" />
-		<chapter num="10">
+		<chapter num="10">			<heading>Samuel Anoints Saul</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c09010001.1" />
@@ -136,9 +137,10 @@
 				<crossref let="w" cid="c09010016.20" />
 				So Saul 
 				
-				 said to his uncle, “He told us plainly that the donkeys had been found.” But about the matter of the kingdom, he did not tell him what Samuel had said.Saul Proclaimed King
+				 said to his uncle, “He told us plainly that the donkeys had been found.” But about the matter of the kingdom, he did not tell him what Samuel had said.
 			</v>
 			<marker class="begin-verse" mid="v09010017" />
+			<heading>Saul Proclaimed King</heading>
 			<v n="17">
 				<crossref let="x" cid="c09010017.21" />
 				Then Samuel 

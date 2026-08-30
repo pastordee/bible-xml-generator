@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Numbers" num="4" testament="old" version="NKJV" bookAbbr="num">
 		<marker class="begin-verse" mid="v04024001" />
-		<chapter num="24">
+		<chapter num="24">			<heading>Balaam Foretells the Happiness of Israel</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c04024001.1" />
@@ -119,11 +120,12 @@
 				<crossref let="t" cid="c04024014.17" />
 				And now, 
 				
-				 indeed, I am going to my people. Come, I will advise you what this people will do to your people in the latter days.”Balaam’s Fourth Prophecy
+				 indeed, I am going to my people. Come, I will advise you what this people will do to your people in the latter days.”
 			
 			<crossref let="u" cid="c04024014.18" />
 			</v>
 			<marker class="begin-verse" mid="v04024015" />
+			<heading>Balaam’s Fourth Prophecy</heading>
 			<v n="15">
 				So he 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Philippians" num="50" testament="new" version="MSG" bookAbbr="php">
 		<marker class="begin-verse" mid="v50002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>He Took on the Status of a Slave</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				So then, 
@@ -81,6 +82,7 @@
 				 will declare that Jesus Christ is Lord, to the glory of God the Father.
 			</v>
 			<marker class="begin-verse" mid="v50002012" />
+			<heading>Rejoicing Together</heading>
 			<v n="12">
 				So, my 
 				

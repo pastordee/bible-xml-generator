@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40015001" />
-		<chapter num="15">
+		<chapter num="15">			<heading>What Pollutes Your Life</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then some 
@@ -135,6 +136,7 @@
 				 are what defile you. Eating with unwashed hands doesn't defile you.”
 			</v>
 			<marker class="begin-verse" mid="v40015021" />
+			<heading>Healing the People</heading>
 			<v n="21">
 				Jesus left 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20015001" />
-		<chapter num="15">
+		<chapter num="15">			<heading>God Doesn’t Miss a Thing</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				A kind 
@@ -81,6 +82,7 @@
 				 dead have no secrets from the Lord—how much more does he know our thoughts!
 			</v>
 			<marker class="begin-verse" mid="v20015012" />
+			<heading>Life Ascends to the Heights</heading>
 			<v n="12">
 				Scoffers don't 
 				

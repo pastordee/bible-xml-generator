@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>Jerusalem’s Glorious Future</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c23004001.1" />
@@ -21,11 +22,12 @@
 				And in 
 				
 				
-				 that day seven women shall take hold of one man, saying,“We will eat our own food and wear our own apparel; Only let us be called by your name, To take away our reproach.”The Renewal of Zion
+				 that day seven women shall take hold of one man, saying,“We will eat our own food and wear our own apparel; Only let us be called by your name, To take away our reproach.”
 			<crossref let="b" cid="c23004001.2" />
 				<crossref let="c" cid="c23004001.3" />
 			</v>
 			<marker class="begin-verse" mid="v23004002" />
+			<heading>The Renewal of Zion</heading>
 			<v n="2">
 				<crossref let="d" cid="c23004002.4" />
 				In that 

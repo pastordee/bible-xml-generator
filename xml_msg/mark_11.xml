@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Mark" num="41" testament="new" version="MSG" bookAbbr="mrk">
 		<marker class="begin-verse" mid="v41011001" />
-		<chapter num="11">
+		<chapter num="11">			<heading>Entering Jerusalem on a Colt</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				As they 
@@ -81,6 +82,7 @@
 				 Jerusalem and went in to the Temple. He looked around him, observing everything, and then, since it was getting late, he returned to Bethany with the twelve disciples.
 			</v>
 			<marker class="begin-verse" mid="v41011012" />
+			<heading>The Cursed Fig Tree</heading>
 			<v n="12">
 				The next 
 				
@@ -165,6 +167,7 @@
 				 you're praying, if you have something against someone, forgive them, so that your Father in heaven may also forgive you your sins.”
 			</v>
 			<marker class="begin-verse" mid="v41011026" />
+			<heading>His Credentials</heading>
 			<v n="27">
 				They returned 
 				

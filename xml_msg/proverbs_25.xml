@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20025001" />
-		<chapter num="25">
+		<chapter num="25">			<heading>The Right Word at the Right Time</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				These are 
@@ -105,6 +106,7 @@
 				 patient you can persuade your superior, and soft words can break down opposition.
 			</v>
 			<marker class="begin-verse" mid="v20025016" />
+			<heading>A Person Without Self-Control</heading>
 			<v n="16">
 				If you 
 				

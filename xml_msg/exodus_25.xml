@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="MSG" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02025001" />
-		<chapter num="25">
+		<chapter num="25">			<heading>Instructions on the Mountain: The Offerings</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 
@@ -69,6 +70,7 @@
 				 make the Tabernacle and all its furnishings according to the design I'm going to show you.
 			</v>
 			<marker class="begin-verse" mid="v02025010" />
+			<heading>The Chest</heading>
 			<v n="10">
 				They are 
 				
@@ -147,6 +149,7 @@
 				 meet with you there as arranged above the atonement cover, between the two cherubim that stand over the Ark of the Testimony, and I will talk with you about all the commands I will give the Israelites.
 			</v>
 			<marker class="begin-verse" mid="v02025023" />
+			<heading>The Table</heading>
 			<v n="23">
 				Then you 
 				
@@ -195,6 +198,7 @@
 				 Bread of the Presence on the table so it is always in my presence.
 			</v>
 			<marker class="begin-verse" mid="v02025031" />
+			<heading>The Lampstand</heading>
 			<v n="31">
 				Make a 
 				

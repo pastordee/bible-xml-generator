@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Job" num="18" testament="old" version="NKJV" bookAbbr="job">
 		<marker class="begin-verse" mid="v18040001" />
-		<chapter num="40">
+		<chapter num="40">			<heading>God’s Power and Wisdom</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c18040001.1" />
@@ -27,10 +28,11 @@
 				
 				“Shall the 
 				
-				 one who contends with the Almighty correct Him? He who rebukes God, let him answer it.”Job’s Response to God
+				 one who contends with the Almighty correct Him? He who rebukes God, let him answer it.”
 			<crossref let="c" cid="c18040002.3" />
 			</v>
 			<marker class="begin-verse" mid="v18040003" />
+			<heading>Job’s Response to God</heading>
 			<v n="3">
 				Then Job 
 				
@@ -49,9 +51,10 @@
 			<v n="5">
 				Once I 
 				
-				 have spoken, but I will not answer; Yes, twice, but I will proceed no further.”God’s Challenge to Job
+				 have spoken, but I will not answer; Yes, twice, but I will proceed no further.”
 			</v>
 			<marker class="begin-verse" mid="v18040006" />
+			<heading>God’s Challenge to Job</heading>
 			<v n="6">
 				<crossref let="f" cid="c18040006.6" />
 				Then the 

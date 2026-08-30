@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Numbers" num="4" testament="old" version="MSG" bookAbbr="num">
 		<marker class="begin-verse" mid="v04006001" />
-		<chapter num="6">
+		<chapter num="6">			<heading>Nazirite Vows</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 
@@ -141,6 +142,7 @@
 				 the rules to be observed when a Nazirite promises to give offerings to the Lord regarding their dedication. They can also bring additional offerings if they can afford it. Every Nazirite must fulfill whatever promises they have made when they dedicated themselves.”
 			</v>
 			<marker class="begin-verse" mid="v04006022" />
+			<heading>The Aaronic Blessing</heading>
 			<v n="22">
 				The Lord 
 				

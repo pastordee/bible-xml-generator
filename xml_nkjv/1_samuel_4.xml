@@ -13,7 +13,9 @@
 	</generation_info>
 	<book title="1 Samuel" num="9" testament="old" version="NKJV" bookAbbr="1sa">
 		<marker class="begin-verse" mid="v09004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>The Death of Eli</heading>
+			<heading>The Ark of God Captured</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c09004001.1" />
@@ -91,10 +93,11 @@
 				
 				Also the 
 				
-				 ark of God was captured; and the two sons of Eli, Hophni and Phinehas, died.Death of Eli
+				 ark of God was captured; and the two sons of Eli, Hophni and Phinehas, died.
 			<crossref let="l" cid="c09004011.11" />
 			</v>
 			<marker class="begin-verse" mid="v09004012" />
+			<heading>Death of Eli</heading>
 			<v n="12">
 				<crossref let="m" cid="c09004012.12" />
 				Then a 
@@ -140,9 +143,10 @@
 			<v n="18">
 				Then it 
 				
-				 happened, when he made mention of the ark of God, that Eli fell off the seat backward by the side of the gate; and his neck was broken and he died, for the man was old and heavy. And he had judged Israel forty years.Ichabod
+				 happened, when he made mention of the ark of God, that Eli fell off the seat backward by the side of the gate; and his neck was broken and he died, for the man was old and heavy. And he had judged Israel forty years.
 			</v>
 			<marker class="begin-verse" mid="v09004019" />
+			<heading>Ichabod</heading>
 			<v n="19">
 				Now his 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>Scholars from the East</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				After Jesus 

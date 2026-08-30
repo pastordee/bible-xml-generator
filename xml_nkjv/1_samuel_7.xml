@@ -13,19 +13,21 @@
 	</generation_info>
 	<book title="1 Samuel" num="9" testament="old" version="NKJV" bookAbbr="1sa">
 		<marker class="begin-verse" mid="v09007001" />
-		<chapter num="7">
+		<chapter num="7">			<heading>Israel Defeats the Philistines</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c09007001.1" />
 				
 				Then the 
 				
-				 men of Kirjath Jearim came and took the ark of the Lord, and brought it into the house of Abinadab on the hill, and consecrated Eleazar his son to keep the ark of the Lord.Samuel Judges Israel
+				 men of Kirjath Jearim came and took the ark of the Lord, and brought it into the house of Abinadab on the hill, and consecrated Eleazar his son to keep the ark of the Lord.
 			
 			<crossref let="b" cid="c09007001.2" />
 				<crossref let="c" cid="c09007001.3" />
 			</v>
 			<marker class="begin-verse" mid="v09007002" />
+			<heading>Samuel Judges Israel</heading>
 			<v n="2">
 				So it 
 				

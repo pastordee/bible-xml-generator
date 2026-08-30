@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="MSG" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23028001" />
-		<chapter num="28">
+		<chapter num="28">			<heading>God Will Speak in Baby Talk</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Tragedy is 
@@ -105,6 +106,7 @@
 				 “We've made an agreement with death; we've got a contract with the grave. When the terrible disaster rushes by, it won't affect us, because our lies protect us and we hide in our own deceptions.”
 			</v>
 			<marker class="begin-verse" mid="v23028016" />
+			<heading>The Meaning of the Stone</heading>
 			<v n="16">
 				Consequently, listen 
 				

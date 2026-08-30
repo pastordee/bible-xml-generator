@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40010001" />
-		<chapter num="10">
+		<chapter num="10">			<heading>The Twelve Harvest Hands</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Jesus called 
@@ -183,6 +184,7 @@
 				 afraid of those who can kill you physically, but can't kill you spiritually. Instead, be afraid of the one who can destroy you physically and spiritually in Gehenna.
 			</v>
 			<marker class="begin-verse" mid="v40010029" />
+			<heading>Forget About Yourself</heading>
 			<v n="29">
 				Aren't two 
 				

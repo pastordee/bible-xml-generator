@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Corinthians" num="47" testament="new" version="MSG" bookAbbr="2co">
 		<marker class="begin-verse" mid="v47011001" />
-		<chapter num="11">
+		<chapter num="11">			<heading>Pseudo-Servants of God</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				I hope 
@@ -105,6 +106,7 @@
 				 no wonder then if those who serve him pretend to be agents of good. But their final end will be in accordance with what they've done.
 			</v>
 			<marker class="begin-verse" mid="v47011016" />
+			<heading>Many a Long and Lonely Night</heading>
 			<v n="16">
 				Let me 
 				

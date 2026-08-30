@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40013001" />
-		<chapter num="13">
+		<chapter num="13">			<heading>A Harvest Story</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Later that 
@@ -69,6 +70,7 @@
 				 has ears should be listening!”
 			</v>
 			<marker class="begin-verse" mid="v40013010" />
+			<heading>Why Tell Stories?</heading>
 			<v n="10">
 				The disciples 
 				
@@ -117,6 +119,7 @@
 				 you, many prophets and good people longed to see what you're seeing, but didn't see it. They longed to hear what you're hearing, but didn't hear it.
 			</v>
 			<marker class="begin-verse" mid="v40013018" />
+			<heading>The Meaning of the Harvest Story</heading>
 			<v n="18">
 				So listen 
 				
@@ -225,6 +228,7 @@
 				 the prophet's words: “I will speak using stories, and I will explain things hidden from the creation of the world.”
 			</v>
 			<marker class="begin-verse" mid="v40013036" />
+			<heading>The Curtain of History</heading>
 			<v n="36">
 				Then Jesus 
 				

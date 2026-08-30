@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Peter" num="60" testament="new" version="MSG" bookAbbr="1pe">
 		<marker class="begin-verse" mid="v60005001" />
-		<chapter num="5">
+		<chapter num="5">			<heading>He’ll Promote You at the Right Time</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				I want 
@@ -57,6 +58,7 @@
 				 your worries to him, because he cares for you.
 			</v>
 			<marker class="begin-verse" mid="v60005008" />
+			<heading>He Gets the Last Word</heading>
 			<v n="8">
 				Be responsible, 
 				

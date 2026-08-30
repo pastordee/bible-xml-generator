@@ -13,15 +13,17 @@
 	</generation_info>
 	<book title="2 Chronicles" num="14" testament="old" version="NKJV" bookAbbr="2ch">
 		<marker class="begin-verse" mid="v14005001" />
-		<chapter num="5">
+		<chapter num="5">			<heading>The Ark Brought into the Temple</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c14005001.1" />
 				So all 
 				
-				 the work that Solomon had done for the house of the Lord was finished; and Solomon brought in the things which his father David had dedicated: the silver and the gold and all the furnishings. And he put them in the treasuries of the house of God.The Ark Brought into the Temple
+				 the work that Solomon had done for the house of the Lord was finished; and Solomon brought in the things which his father David had dedicated: the silver and the gold and all the furnishings. And he put them in the treasuries of the house of God.
 			</v>
 			<marker class="begin-verse" mid="v14005002" />
+			<heading>The Ark Brought into the Temple</heading>
 			<v n="2">
 				<crossref let="c" cid="c14005002.2" />
 				Now Solomon 

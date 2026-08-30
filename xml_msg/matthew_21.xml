@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40021001" />
-		<chapter num="21">
+		<chapter num="21">			<heading>The Royal Welcome</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Jesus and 
@@ -81,6 +82,7 @@
 				 Jesus, the prophet from Nazareth in Galilee,” the crowds replied.
 			</v>
 			<marker class="begin-verse" mid="v40021012" />
+			<heading>He Kicked Over the Tables</heading>
 			<v n="12">
 				Jesus went 
 				
@@ -117,6 +119,7 @@
 				 them and went out of the city to stay at Bethany.
 			</v>
 			<marker class="begin-verse" mid="v40021018" />
+			<heading>The Withered Fig Tree</heading>
 			<v n="18">
 				The next 
 				
@@ -147,6 +150,7 @@
 				 receive everything you ask for in prayer, as long as you trust in God.”
 			</v>
 			<marker class="begin-verse" mid="v40021023" />
+			<heading>True Authority</heading>
 			<v n="23">
 				Jesus went 
 				
@@ -177,6 +181,7 @@
 				 answered Jesus, “We don't know.”“Then I won't tell you by what authority I'm doing these things,” Jesus replied.
 			</v>
 			<marker class="begin-verse" mid="v40021028" />
+			<heading>The Story of Two Sons</heading>
 			<v n="28">
 				“But what 
 				
@@ -207,6 +212,7 @@
 				 to show you the way to live right with God, and you didn't believe him, but the tax collectors and prostitutes did believe him. Later, when you saw what happened, you still didn't repent and believe him.
 			</v>
 			<marker class="begin-verse" mid="v40021033" />
+			<heading>The Story of the Greedy Farmhands</heading>
 			<v n="33">
 				Here's another 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Hosea" num="28" testament="old" version="NKJV" bookAbbr="hos">
 		<marker class="begin-verse" mid="v28007001" />
-		<chapter num="7">
+		<chapter num="7">			<heading>Israel Has Rebelled Against God</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c28007001.1" />
@@ -82,10 +83,11 @@
 				
 				And the 
 				
-				 pride of Israel testifies to his face, But they do not return to the Lord their God, Nor seek Him for all this.Futile Reliance on the Nations
+				 pride of Israel testifies to his face, But they do not return to the Lord their God, Nor seek Him for all this.
 			<crossref let="k" cid="c28007010.10" />
 			</v>
 			<marker class="begin-verse" mid="v28007011" />
+			<heading>Futile Reliance on the Nations</heading>
 			<v n="11">
 				<crossref let="l" cid="c28007011.11" />
 				

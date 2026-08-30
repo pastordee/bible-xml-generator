@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40022001" />
-		<chapter num="22">
+		<chapter num="22">			<heading>The Story of the Wedding Banquet</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Jesus spoke 
@@ -99,6 +100,7 @@
 				 are invited, but few are chosen.”
 			</v>
 			<marker class="begin-verse" mid="v40022015" />
+			<heading>Paying Taxes</heading>
 			<v n="15">
 				Then the 
 				
@@ -147,6 +149,7 @@
 				 heard Jesus' answer they were stunned. They went away and left him.
 			</v>
 			<marker class="begin-verse" mid="v40022023" />
+			<heading>Marriage and Resurrection</heading>
 			<v n="23">
 				Later the 
 				
@@ -213,6 +216,7 @@
 				 crowds heard what he said, they were amazed at his teaching.
 			</v>
 			<marker class="begin-verse" mid="v40022034" />
+			<heading>The Most Important Command</heading>
 			<v n="34">
 				When the 
 				
@@ -255,6 +259,7 @@
 				 law and the writings of the prophets depend on these two commandments.”
 			</v>
 			<marker class="begin-verse" mid="v40022041" />
+			<heading>David’s Son and Master</heading>
 			<v n="41">
 				While the 
 				

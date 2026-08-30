@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40006001" />
-		<chapter num="6">
+		<chapter num="6">			<heading>The World Is Not a Stage</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				“Make sure 
@@ -39,6 +40,7 @@
 				 what you give will be in secret, and your Father who sees what happens in secret will reward you.
 			</v>
 			<marker class="begin-verse" mid="v40006005" />
+			<heading>Pray with Simplicity</heading>
 			<v n="5">
 				When you 
 				
@@ -123,6 +125,7 @@
 				 people won't see you're fasting, and your unseen Father who sees what happens in private will reward you.
 			</v>
 			<marker class="begin-verse" mid="v40006019" />
+			<heading>A Life of God-Worship</heading>
 			<v n="19">
 				Don't pile 
 				

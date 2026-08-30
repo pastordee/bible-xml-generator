@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20023001" />
-		<chapter num="23">
+		<chapter num="23">			<heading>Restrain Yourself</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				When you 
@@ -141,6 +142,7 @@
 				 who get drunk and overeat lose all they've got, and they spend so much time dozing that all they have left to wear is rags.
 			</v>
 			<marker class="begin-verse" mid="v20023022" />
+			<heading>Buy Wisdom, Education, Insight</heading>
 			<v n="22">
 				Pay attention 
 				

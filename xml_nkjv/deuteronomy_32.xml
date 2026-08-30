@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Deuteronomy" num="5" testament="old" version="NKJV" bookAbbr="deu">
 		<marker class="begin-verse" mid="v05032001" />
-		<chapter num="32">
+		<chapter num="32">			<heading>The Song of Moses</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c05032001.1" />
@@ -381,9 +382,10 @@
 				<crossref let="r" cid="c05032047.63" />
 				For it 
 				
-				 is not a futile thing for you, because it is your life, and by this word you shall prolong your days in the land which you cross over the Jordan to possess.”Moses to Die on Mount Nebo
+				 is not a futile thing for you, because it is your life, and by this word you shall prolong your days in the land which you cross over the Jordan to possess.”
 			</v>
 			<marker class="begin-verse" mid="v05032048" />
+			<heading>Moses to Die on Mount Nebo</heading>
 			<v n="48">
 				Then the 
 				

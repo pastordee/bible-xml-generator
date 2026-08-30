@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Chronicles" num="14" testament="old" version="NKJV" bookAbbr="2ch">
 		<marker class="begin-verse" mid="v14006001" />
-		<chapter num="6">
+		<chapter num="6">			<heading>Solomon’s Prayer of Dedication</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c14006001.1" />
@@ -28,9 +29,10 @@
 				<crossref let="c" cid="c14006002.3" />
 				I have 
 				
-				 surely built You an exalted house, And a place for You to dwell in forever.”Solomon’s Speech upon Completion of the Work
+				 surely built You an exalted house, And a place for You to dwell in forever.”
 			</v>
 			<marker class="begin-verse" mid="v14006003" />
+			<heading>Solomon’s Speech upon Completion of the Work</heading>
 			<v n="3">
 				<crossref let="e" cid="c14006003.4" />
 				Then the 
@@ -89,9 +91,10 @@
 				<crossref let="l" cid="c14006011.10" />
 				And there 
 				
-				 I have put the ark, in which is the covenant of the Lord which He made with the children of Israel.”Solomon’s Prayer of Dedication
+				 I have put the ark, in which is the covenant of the Lord which He made with the children of Israel.”
 			</v>
 			<marker class="begin-verse" mid="v14006012" />
+			<heading>Solomon’s Prayer of Dedication</heading>
 			<v n="12">
 				<crossref let="n" cid="c14006012.11" />
 				Then Solomon 

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
 		<marker class="begin-verse" mid="v19136001" />
-		<chapter num="136">
+		<chapter num="136">			<heading>Psalm 136</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Give thanks 

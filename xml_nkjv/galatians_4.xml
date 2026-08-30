@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Galatians" num="48" testament="new" version="NKJV" bookAbbr="gal">
 		<marker class="begin-verse" mid="v48004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>Sons and Heirs Through Christ</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Now I 
@@ -36,9 +37,10 @@
 				<crossref let="a" cid="c48004007.9" />
 				Therefore you 
 				
-				 are no longer a slave but a son, and if a son, then an heir of God through Christ.Fears for the Church
+				 are no longer a slave but a son, and if a son, then an heir of God through Christ.
 			</v>
 			<marker class="begin-verse" mid="v48004008" />
+			<heading>Fears for the Church</heading>
 			<v n="8">But then, indeed,<crossref let="j" cid="c48004008.10" />when you did not know God,<crossref let="k" cid="c48004008.11" />you served those which by nature are not gods.</v>
 			<marker class="begin-verse" mid="v48004009" />
 			<v n="9">But now<crossref let="l" cid="c48004009.12" /> after you have known God, or rather are known by God,<crossref let="m" cid="c48004009.13" />how is it that you turn again to the weak and beggarly elements, to which you desire again to be in bondage?</v>
@@ -68,9 +70,10 @@
 			<v n="20">
 				I would 
 				
-				 like to be present with you now and to change my tone; for I have doubts about you.Two Covenants
+				 like to be present with you now and to change my tone; for I have doubts about you.
 			</v>
 			<marker class="begin-verse" mid="v48004021" />
+			<heading>Two Covenants</heading>
 			<v n="21">Tell me, you who desire to be under the law, do you not hear the law?</v>
 			<marker class="begin-verse" mid="v48004022" />
 			<v n="22">For it is written that Abraham had two sons:<crossref let="x" cid="c48004022.22" />the one by a bondwoman,<crossref let="y" cid="c48004022.23" />the other by a freewoman.</v>

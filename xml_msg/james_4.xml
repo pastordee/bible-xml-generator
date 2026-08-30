@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="James" num="59" testament="new" version="MSG" bookAbbr="jas">
 		<marker class="begin-verse" mid="v59004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>Get Serious</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Where do 
@@ -87,6 +88,7 @@
 				 one lawgiver and judge—the one who can either save or destroy you—so who are you to judge your neighbor?
 			</v>
 			<marker class="begin-verse" mid="v59004013" />
+			<heading>Nothing but a Wisp of Fog</heading>
 			<v n="13">
 				Come on 
 				

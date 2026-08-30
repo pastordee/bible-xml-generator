@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Chronicles" num="14" testament="old" version="MSG" bookAbbr="2ch">
 		<marker class="begin-verse" mid="v14010001" />
-		<chapter num="10">
+		<chapter num="10">			<heading>King Rehoboam</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Rehoboam went 

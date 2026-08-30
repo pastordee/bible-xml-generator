@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Hebrews" num="58" testament="new" version="MSG" bookAbbr="heb">
 		<marker class="begin-verse" mid="v58004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>When the Promises Are Mixed with Faith</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Therefore let's 
@@ -93,6 +94,7 @@
 				 being is hidden from his sight; everything is exposed and visible to the one we're accountable to.
 			</v>
 			<marker class="begin-verse" mid="v58004014" />
+			<heading>The High Priest Who Cried Out in Pain</heading>
 			<v n="14">
 				Since we 
 				

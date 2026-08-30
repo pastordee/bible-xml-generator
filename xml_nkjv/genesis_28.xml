@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Genesis" num="1" testament="old" version="NKJV" bookAbbr="gen">
 		<marker class="begin-verse" mid="v01028001" />
-		<chapter num="28">
+		<chapter num="28">			<heading>Jacob Sent to His Uncle Laban</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c01028001.1" />
@@ -52,9 +53,10 @@
 			<v n="5">
 				So Isaac 
 				
-				 sent Jacob away, and he went to Padan Aram, to Laban the son of Bethuel the Syrian, the brother of Rebekah, the mother of Jacob and Esau.Esau Marries Mahalath
+				 sent Jacob away, and he went to Padan Aram, to Laban the son of Bethuel the Syrian, the brother of Rebekah, the mother of Jacob and Esau.
 			</v>
 			<marker class="begin-verse" mid="v01028006" />
+			<heading>Esau Marries Mahalath</heading>
 			<v n="6">
 				Esau saw 
 				
@@ -79,12 +81,13 @@
 				
 				So Esau 
 				
-				 went to Ishmael and took Mahalath the daughter of Ishmael, Abraham’s son, the sister of Nebajoth, to be his wife in addition to the wives he had.Jacob’s Vow at Bethel
+				 went to Ishmael and took Mahalath the daughter of Ishmael, Abraham’s son, the sister of Nebajoth, to be his wife in addition to the wives he had.
 			
 			<crossref let="m" cid="c01028009.10" />
 				<crossref let="s" cid="c01028009.11" />
 			</v>
 			<marker class="begin-verse" mid="v01028010" />
+			<heading>Jacob’s Vow at Bethel</heading>
 			<v n="10">
 				<crossref let="o" cid="c01028010.12" />
 				Now Jacob 

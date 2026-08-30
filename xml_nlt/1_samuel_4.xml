@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Samuel" num="9" testament="old" version="NLT" bookAbbr="1sa">
 		<marker class="begin-verse" mid="v09004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>The Philistines Capture the Ark</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				And Samuel’s 
@@ -78,9 +79,10 @@
 			<v n="11">
 				The Ark 
 				
-				 of God was captured, and Hophni and Phinehas, the two sons of Eli, were killed.The Death of Eli
+				 of God was captured, and Hophni and Phinehas, the two sons of Eli, were killed.
 			</v>
 			<marker class="begin-verse" mid="v09004012" />
+			<heading>The Death of Eli</heading>
 			<v n="12">
 				A man 
 				

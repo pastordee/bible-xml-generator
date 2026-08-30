@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Luke" num="42" testament="new" version="MSG" bookAbbr="luk">
 		<marker class="begin-verse" mid="v42015001" />
-		<chapter num="15">
+		<chapter num="15">			<heading>The Story of the Lost Sheep</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Tax collectors 
@@ -57,6 +58,7 @@
 				 you that there's more joy in heaven over a sinner that repents than over ninety-nine good people who don't need to repent.
 			</v>
 			<marker class="begin-verse" mid="v42015008" />
+			<heading>The Story of the Lost Coin</heading>
 			<v n="8">
 				Imagine a 
 				
@@ -75,6 +77,7 @@
 				 you there is joy in the presence of God's angels over one sinner that repents.
 			</v>
 			<marker class="begin-verse" mid="v42015011" />
+			<heading>The Story of the Lost Son</heading>
 			<v n="11">
 				Once there 
 				

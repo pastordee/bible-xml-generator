@@ -13,15 +13,17 @@
 	</generation_info>
 	<book title="2 Samuel" num="10" testament="old" version="NKJV" bookAbbr="2sa">
 		<marker class="begin-verse" mid="v10003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>Joab Kills Abner</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c10003001.1" />
 				Now there 
 				
-				 was a long war between the house of Saul and the house of David. But David grew stronger and stronger, and the house of Saul grew weaker and weaker.Sons of David
+				 was a long war between the house of Saul and the house of David. But David grew stronger and stronger, and the house of Saul grew weaker and weaker.
 			</v>
 			<marker class="begin-verse" mid="v10003002" />
+			<heading>Sons of David</heading>
 			<v n="2">
 				<crossref let="b" cid="c10003002.2" />
 				Sons were 
@@ -50,9 +52,10 @@
 			<v n="5">
 				and the 
 				
-				 sixth, Ithream, by David’s wife Eglah. These were born to David in Hebron.Abner Joins Forces with David
+				 sixth, Ithream, by David’s wife Eglah. These were born to David in Hebron.
 			</v>
 			<marker class="begin-verse" mid="v10003006" />
+			<heading>Abner Joins Forces with David</heading>
 			<v n="6">
 				Now it 
 				
@@ -162,11 +165,12 @@
 				<crossref let="t" cid="c10003021.19" />
 				Then Abner 
 				
-				 said to David, “I will arise and go, and gather all Israel to my lord the king, that they may make a covenant with you, and that you may reign over all that your heart desires.” So David sent Abner away, and he went in peace.Joab Murders Abner
+				 said to David, “I will arise and go, and gather all Israel to my lord the king, that they may make a covenant with you, and that you may reign over all that your heart desires.” So David sent Abner away, and he went in peace.
 			
 			<crossref let="u" cid="c10003021.20" />
 			</v>
 			<marker class="begin-verse" mid="v10003022" />
+			<heading>Joab Murders Abner</heading>
 			<v n="22">
 				At that 
 				
@@ -226,9 +230,10 @@
 				<crossref let="b" cid="c10003030.26" />
 				So Joab 
 				
-				 and Abishai his brother killed Abner, because he had killed their brother Asahel at Gibeon in the battle.David’s Mourning for Abner
+				 and Abishai his brother killed Abner, because he had killed their brother Asahel at Gibeon in the battle.
 			</v>
 			<marker class="begin-verse" mid="v10003031" />
+			<heading>David’s Mourning for Abner</heading>
 			<v n="31">
 				<crossref let="c" cid="c10003031.27" />
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Deuteronomy" num="5" testament="old" version="NKJV" bookAbbr="deu">
 		<marker class="begin-verse" mid="v05022001" />
-		<chapter num="22">
+		<chapter num="22">			<heading>Various Laws of Morality</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c05022001.1" />
@@ -92,9 +93,10 @@
 				<crossref let="h" cid="c05022012.8" />
 				“You shall 
 				
-				 make tassels on the four corners of the clothing with which you cover yourself.Laws of Sexual Morality
+				 make tassels on the four corners of the clothing with which you cover yourself.
 			</v>
 			<marker class="begin-verse" mid="v05022013" />
+			<heading>Laws of Sexual Morality</heading>
 			<v n="13">
 				<crossref let="a" cid="c05022013.9" />
 				“If any 

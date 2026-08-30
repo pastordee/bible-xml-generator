@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Joshua" num="6" testament="old" version="MSG" bookAbbr="jos">
 		<marker class="begin-verse" mid="v06018001" />
-		<chapter num="18">
+		<chapter num="18">			<heading>The Shiloh Survey</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The land 
@@ -75,6 +76,7 @@
 				 cast lots for them in the presence of the Lord. There Joshua divided the land up and allotted the different parts to the remaining Israelite tribes.
 			</v>
 			<marker class="begin-verse" mid="v06018011" />
+			<heading>Benjamin</heading>
 			<v n="11">
 				The first 
 				

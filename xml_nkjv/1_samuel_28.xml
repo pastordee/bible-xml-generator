@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Samuel" num="9" testament="old" version="NKJV" bookAbbr="1sa">
 		<marker class="begin-verse" mid="v09028001" />
-		<chapter num="28">
+		<chapter num="28">			<heading>Saul Consults a Medium</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c09028001.1" />
@@ -25,9 +26,10 @@
 			<v n="2">
 				So David 
 				
-				 said to Achish, “Surely you know what your servant can do.”And Achish said to David, “Therefore I will make you one of my chief guardians forever.”Saul Consults a Medium
+				 said to Achish, “Surely you know what your servant can do.”And Achish said to David, “Therefore I will make you one of my chief guardians forever.”
 			</v>
 			<marker class="begin-verse" mid="v09028003" />
+			<heading>Saul Consults a Medium</heading>
 			<v n="3">
 				<crossref let="c" cid="c09028003.2" />
 				Now Samuel 

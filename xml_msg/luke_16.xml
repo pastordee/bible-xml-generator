@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Luke" num="42" testament="new" version="MSG" bookAbbr="luk">
 		<marker class="begin-verse" mid="v42016001" />
-		<chapter num="16">
+		<chapter num="16">			<heading>The Story of the Crooked Manager</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Jesus told 
@@ -69,6 +70,7 @@
 				 you, use the wealth of this world to make friends for yourselves so that when it's gone, you'll be welcomed into an eternal home.
 			</v>
 			<marker class="begin-verse" mid="v42016010" />
+			<heading>God Sees Behind Appearances</heading>
 			<v n="10">
 				If you 
 				
@@ -123,6 +125,7 @@
 				 who divorces his wife and marries someone else commits adultery, and a man who marries a divorced woman commits adultery.
 			</v>
 			<marker class="begin-verse" mid="v42016019" />
+			<heading>The Rich Man and Lazarus</heading>
 			<v n="19">
 				Once there 
 				

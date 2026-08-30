@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Kings" num="11" testament="old" version="MSG" bookAbbr="1ki">
 		<marker class="begin-verse" mid="v11010001" />
-		<chapter num="10">
+		<chapter num="10">			<heading>The Queen of Sheba Visits</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The queen 

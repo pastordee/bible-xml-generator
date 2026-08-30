@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Genesis" num="1" testament="old" version="NKJV" bookAbbr="gen">
 		<marker class="begin-verse" mid="v01050001" />
-		<chapter num="50">
+		<chapter num="50">			<heading>Burial of Jacob</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c01050001.1" />
@@ -109,9 +110,10 @@
 			<v n="14">
 				And after 
 				
-				 he had buried his father, Joseph returned to Egypt, he and his brothers and all who went up with him to bury his father.Joseph Reassures His Brothers
+				 he had buried his father, Joseph returned to Egypt, he and his brothers and all who went up with him to bury his father.
 			</v>
 			<marker class="begin-verse" mid="v01050015" />
+			<heading>Joseph Reassures His Brothers</heading>
 			<v n="15">
 				<crossref let="s" cid="c01050015.11" />
 				When Joseph’s 
@@ -161,9 +163,10 @@
 				<crossref let="t" cid="c01050021.18" />
 				Now therefore, 
 				
-				 do not be afraid; I will provide for you and your little ones.” And he comforted them and spoke kindly to them.Death of Joseph
+				 do not be afraid; I will provide for you and your little ones.” And he comforted them and spoke kindly to them.
 			</v>
 			<marker class="begin-verse" mid="v01050022" />
+			<heading>Death of Joseph</heading>
 			<v n="22">
 				<crossref let="s" cid="c01050022.19" />
 				So Joseph 

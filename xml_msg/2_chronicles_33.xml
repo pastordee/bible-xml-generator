@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Chronicles" num="14" testament="old" version="MSG" bookAbbr="2ch">
 		<marker class="begin-verse" mid="v14033001" />
-		<chapter num="33">
+		<chapter num="33">			<heading>King Manasseh</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Manasseh was 
@@ -135,6 +136,7 @@
 				 and was buried at his palace. His son Amon took over as king.
 			</v>
 			<marker class="begin-verse" mid="v14033021" />
+			<heading>King Amon</heading>
 			<v n="21">
 				Amon was 
 				

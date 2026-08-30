@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23064001" />
-		<chapter num="64">
+		<chapter num="64">			<heading>A Prayer for Help</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c23064001.1" />

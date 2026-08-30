@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20014001" />
-		<chapter num="14">
+		<chapter num="14">			<heading>A Way That Leads to Hell</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Every wise 
@@ -93,6 +94,7 @@
 				 you're laughing you can be feeling sad—joy can end in grief.
 			</v>
 			<marker class="begin-verse" mid="v20014014" />
+			<heading>Sift and Weigh Every Word</heading>
 			<v n="14">
 				Disloyal people 
 				

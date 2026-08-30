@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Deuteronomy" num="5" testament="old" version="MSG" bookAbbr="deu">
 		<marker class="begin-verse" mid="v05031001" />
-		<chapter num="31">
+		<chapter num="31">			<heading>The Charge</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Once Moses 

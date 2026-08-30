@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="John" num="43" testament="new" version="MSG" bookAbbr="jhn">
 		<marker class="begin-verse" mid="v43021001" />
-		<chapter num="21">
+		<chapter num="21">			<heading>Fishing</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Later Jesus 
@@ -99,6 +100,7 @@
 				 the third time Jesus had appeared to the disciples after being raised from the dead.
 			</v>
 			<marker class="begin-verse" mid="v43021015" />
+			<heading>Do You Love Me?</heading>
 			<v n="15">
 				After breakfast, 
 				

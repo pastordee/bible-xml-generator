@@ -13,15 +13,17 @@
 	</generation_info>
 	<book title="Joel" num="29" testament="old" version="NKJV" bookAbbr="jol">
 		<marker class="begin-verse" mid="v29001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>The Locust Plague in Judah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c29001001.1" />
 				The word 
 				
-				 of the Lord that came to Joel the son of Pethuel.The Land Laid Waste
+				 of the Lord that came to Joel the son of Pethuel.
 			</v>
 			<marker class="begin-verse" mid="v29001002" />
+			<heading>The Land Laid Waste</heading>
 			<v n="2">
 				<crossref let="c" cid="c29001002.2" />
 				Hear this, 
@@ -106,11 +108,12 @@
 				<crossref let="s" cid="c29001012.17" />
 				The vine 
 				
-				 has dried up, And the fig tree has withered; The pomegranate tree, The palm tree also, And the apple tree—All the trees of the field are withered; Surely joy has withered away from the sons of men.Mourning for the Land
+				 has dried up, And the fig tree has withered; The pomegranate tree, The palm tree also, And the apple tree—All the trees of the field are withered; Surely joy has withered away from the sons of men.
 			
 			<crossref let="t" cid="c29001012.18" />
 			</v>
 			<marker class="begin-verse" mid="v29001013" />
+			<heading>Mourning for the Land</heading>
 			<v n="13">
 				<crossref let="u" cid="c29001013.19" />
 				Gird yourselves 

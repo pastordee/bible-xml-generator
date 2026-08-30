@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Romans" num="45" testament="new" version="MSG" bookAbbr="rom">
 		<marker class="begin-verse" mid="v45011001" />
-		<chapter num="11">
+		<chapter num="11">			<heading>The Loyal Minority</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				But then 
@@ -75,6 +76,7 @@
 				 eyes become blind so they cannot see, and may their backs always be bent low in dejection.”
 			</v>
 			<marker class="begin-verse" mid="v45011011" />
+			<heading>Pruning and Grafting Branches</heading>
 			<v n="11">
 				So am 
 				
@@ -159,6 +161,7 @@
 				 could be cut from a wild olive tree, and then be grafted artificially onto a cultivated olive tree, how much more easily they could be grafted back naturally to their own tree.
 			</v>
 			<marker class="begin-verse" mid="v45011025" />
+			<heading>A Complete Israel</heading>
 			<v n="25">
 				I don't 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Numbers" num="4" testament="old" version="MSG" bookAbbr="num">
 		<marker class="begin-verse" mid="v04011001" />
-		<chapter num="11">
+		<chapter num="11">			<heading>Camp Taberah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				It wasn't 
@@ -33,6 +34,7 @@
 				 place was named Taberah, because the fire from the Lord burned them.
 			</v>
 			<marker class="begin-verse" mid="v04011004" />
+			<heading>Camp Kibroth Hattaavah</heading>
 			<v n="4">
 				A group 
 				

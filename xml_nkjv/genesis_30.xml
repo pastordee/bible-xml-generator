@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Genesis" num="1" testament="old" version="NKJV" bookAbbr="gen">
 		<marker class="begin-verse" mid="v01030001" />
-		<chapter num="30">
+		<chapter num="30">			<heading>Jacob’s Children</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c01030001.1" />
@@ -177,9 +178,10 @@
 				<crossref let="r" cid="c01030024.17" />
 				So she 
 				
-				 called his name Joseph, and said, “The Lord shall add to me another son.”Jacob’s Agreement with Laban
+				 called his name Joseph, and said, “The Lord shall add to me another son.”
 			</v>
 			<marker class="begin-verse" mid="v01030025" />
+			<heading>Jacob’s Agreement with Laban</heading>
 			<v n="25">
 				<crossref let="s" cid="c01030025.18" />
 				And it 

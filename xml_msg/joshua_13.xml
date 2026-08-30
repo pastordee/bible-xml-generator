@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Joshua" num="6" testament="old" version="MSG" bookAbbr="jos">
 		<marker class="begin-verse" mid="v06013001" />
-		<chapter num="13">
+		<chapter num="13">			<heading>The Receiving of the Land</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Many years 
@@ -57,6 +58,7 @@
 				 this land among the nine tribes and the half-tribe of Manasseh for them to own.”
 			</v>
 			<marker class="begin-verse" mid="v06013008" />
+			<heading>Land East of the Jordan</heading>
 			<v n="8">
 				The other 
 				
@@ -99,6 +101,7 @@
 				 not allocate any land for the Levites to own. Instead they were allotted the offerings made by fire to the Lord, the God of Israel, as the Lord had promised them.
 			</v>
 			<marker class="begin-verse" mid="v06013015" />
+			<heading>Reuben</heading>
 			<v n="15">
 				This was 
 				
@@ -149,6 +152,7 @@
 				 was the boundary for the tribe of Reuben. This was the land, the towns and the villages, allotted to the tribe of Reuben, by families.
 			</v>
 			<marker class="begin-verse" mid="v06013024" />
+			<heading>Gad</heading>
 			<v n="24">
 				This was 
 				
@@ -179,6 +183,7 @@
 				 the land, the towns and the villages, allotted to the tribe of Gad, by families.
 			</v>
 			<marker class="begin-verse" mid="v06013029" />
+			<heading>Half-Tribe of Manasseh</heading>
 			<v n="29">
 				This was 
 				

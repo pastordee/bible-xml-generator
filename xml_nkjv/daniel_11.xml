@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Daniel" num="27" testament="old" version="NKJV" bookAbbr="dan">
 		<marker class="begin-verse" mid="v27011001" />
-		<chapter num="11">
+		<chapter num="11">			<heading>Warring Kings of North and South</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c27011001.1" />
@@ -44,10 +45,11 @@
 				
 				And when 
 				
-				 he has arisen, his kingdom shall be broken up and divided toward the four winds of heaven, but not among his posterity nor according to his dominion with which he ruled; for his kingdom shall be uprooted, even for others besides these.Warring Kings of North and South
+				 he has arisen, his kingdom shall be broken up and divided toward the four winds of heaven, but not among his posterity nor according to his dominion with which he ruled; for his kingdom shall be uprooted, even for others besides these.
 			<crossref let="f" cid="c27011004.6" />
 			</v>
 			<marker class="begin-verse" mid="v27011005" />
+			<heading>Warring Kings of North and South</heading>
 			<v n="5">
 				“Also the 
 				
@@ -210,9 +212,10 @@
 			<v n="28">
 				While returning 
 				
-				 to his land with great riches, his heart shall be moved against the holy covenant; so he shall do damage and return to his own land.The Northern King’s Blasphemies
+				 to his land with great riches, his heart shall be moved against the holy covenant; so he shall do damage and return to his own land.
 			</v>
 			<marker class="begin-verse" mid="v27011029" />
+			<heading>The Northern King’s Blasphemies</heading>
 			<v n="29">
 				“At the 
 				
@@ -281,9 +284,10 @@
 			<v n="39">
 				Thus he 
 				
-				 shall act against the strongest fortresses with a foreign god, which he shall acknowledge, and advance its glory; and he shall cause them to rule over many, and divide the land for gain.The Northern King’s Conquests
+				 shall act against the strongest fortresses with a foreign god, which he shall acknowledge, and advance its glory; and he shall cause them to rule over many, and divide the land for gain.
 			</v>
 			<marker class="begin-verse" mid="v27011040" />
+			<heading>The Northern King’s Conquests</heading>
 			<v n="40">
 				<crossref let="c" cid="c27011040.28" />
 				

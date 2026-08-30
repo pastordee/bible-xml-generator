@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Job" num="18" testament="old" version="MSG" bookAbbr="job">
 		<marker class="begin-verse" mid="v18042001" />
-		<chapter num="42">
+		<chapter num="42">			<heading>I Babbled On About Things Far Beyond Me</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then Job 
@@ -51,6 +52,7 @@
 				 why I'm sorry for what I said, and I repent in dust and ashes.”
 			</v>
 			<marker class="begin-verse" mid="v18042007" />
+			<heading>I Will Accept His Prayer</heading>
 			<v n="7">
 				After the 
 				

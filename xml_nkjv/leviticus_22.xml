@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Leviticus" num="3" testament="old" version="NKJV" bookAbbr="lev">
 		<marker class="begin-verse" mid="v03022001" />
-		<chapter num="22">
+		<chapter num="22">			<heading>The Holiness of the Offerings</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then the 
@@ -131,9 +132,10 @@
 			<v n="16">
 				or allow 
 				
-				 them to bear the guilt of trespass when they eat their holy offerings; for I the Lord sanctify them.’ ”Offerings Accepted and Not Accepted
+				 them to bear the guilt of trespass when they eat their holy offerings; for I the Lord sanctify them.’ ”
 			</v>
 			<marker class="begin-verse" mid="v03022017" />
+			<heading>Offerings Accepted and Not Accepted</heading>
 			<v n="17">
 				And the 
 				

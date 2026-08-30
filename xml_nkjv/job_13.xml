@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Job" num="18" testament="old" version="NKJV" bookAbbr="job">
 		<marker class="begin-verse" mid="v18013001" />
-		<chapter num="13">
+		<chapter num="13">			<heading>Job Defends Himself</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				“Behold, my 
@@ -138,9 +139,10 @@
 				<crossref let="k" cid="c18013019.11" />
 				Who is 
 				
-				 he who will contend with me? If now I hold my tongue, I perish.Job’s Despondent Prayer
+				 he who will contend with me? If now I hold my tongue, I perish.
 			</v>
 			<marker class="begin-verse" mid="v18013020" />
+			<heading>Job’s Despondent Prayer</heading>
 			<v n="20">
 				<crossref let="l" cid="c18013020.12" />
 				“Onlytwo things 

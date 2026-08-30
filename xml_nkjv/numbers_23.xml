@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Numbers" num="4" testament="old" version="NKJV" bookAbbr="num">
 		<marker class="begin-verse" mid="v04023001" />
-		<chapter num="23">
+		<chapter num="23">			<heading>The Prophecies of Balaam</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c04023001.1" />
@@ -101,9 +102,10 @@
 				<crossref let="p" cid="c04023012.14" />
 				So he 
 				
-				 answered and said, “Must I not take heed to speak what the Lord has put in my mouth?”Balaam’s Second Prophecy
+				 answered and said, “Must I not take heed to speak what the Lord has put in my mouth?”
 			</v>
 			<marker class="begin-verse" mid="v04023013" />
+			<heading>Balaam’s Second Prophecy</heading>
 			<v n="13">
 				Then Balak 
 				
@@ -203,9 +205,10 @@
 				<crossref let="d" cid="c04023026.28" />
 				So Balaam 
 				
-				 answered and said to Balak, “Did I not tell you, saying, ‘All that the Lord speaks, that I must do’?”Balaam’s Third Prophecy
+				 answered and said to Balak, “Did I not tell you, saying, ‘All that the Lord speaks, that I must do’?”
 			</v>
 			<marker class="begin-verse" mid="v04023027" />
+			<heading>Balaam’s Third Prophecy</heading>
 			<v n="27">
 				Then Balak 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Acts" num="44" testament="new" version="NKJV" bookAbbr="act">
 		<marker class="begin-verse" mid="v44023001" />
-		<chapter num="23">
+		<chapter num="23">			<heading>The Jerusalem Jews Plot to Kill Paul</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c44023001.1" />
@@ -42,9 +43,10 @@
 			<v n="10">
 				Now when 
 				
-				 there arose a great dissension, the commander, fearing lest Paul might be pulled to pieces by them, commanded the soldiers to go down and take him by force from among them, and bring him into the barracks.The Plot Against Paul
+				 there arose a great dissension, the commander, fearing lest Paul might be pulled to pieces by them, commanded the soldiers to go down and take him by force from among them, and bring him into the barracks.
 			</v>
 			<marker class="begin-verse" mid="v44023011" />
+			<heading>The Plot Against Paul</heading>
 			<v n="11">But<crossref let="l" cid="c44023011.11" /> the following night the Lord stood by him and said,<woc>“Be of good cheer, Paul; for as you have testified for Me in</woc>
 				<woc>Jerusalem, so you must also bear witness at</woc>
 				<woc>Rome.”</woc>
@@ -73,9 +75,10 @@
 			<v n="22">
 				So the 
 				
-				 commander let the young man depart, and commanded him, “Tell no one that you have revealed these things to me.”Sent to Felix
+				 commander let the young man depart, and commanded him, “Tell no one that you have revealed these things to me.”
 			</v>
 			<marker class="begin-verse" mid="v44023023" />
+			<heading>Sent to Felix</heading>
 			<v n="23">
 				<crossref let="a" cid="c44023023.16" />
 				And he 

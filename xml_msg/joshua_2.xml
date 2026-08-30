@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Joshua" num="6" testament="old" version="MSG" bookAbbr="jos">
 		<marker class="begin-verse" mid="v06002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>Rahab</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then Joshua, 

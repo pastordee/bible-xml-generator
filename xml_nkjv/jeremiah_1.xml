@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="NKJV" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>Jeremiah Called to Be a Priest</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c24001001.1" />
@@ -35,11 +36,12 @@
 				It came 
 				
 				
-				 also in the days of Jehoiakim the son of Josiah, king of Judah, until the end of the eleventh year of Zedekiah the son of Josiah, king of Judah, until the carrying away of Jerusalem captive in the fifth month.The Prophet Is Called
+				 also in the days of Jehoiakim the son of Josiah, king of Judah, until the end of the eleventh year of Zedekiah the son of Josiah, king of Judah, until the carrying away of Jerusalem captive in the fifth month.
 			<crossref let="e" cid="c24001003.4" />
 				<crossref let="f" cid="c24001003.5" />
 			</v>
 			<marker class="begin-verse" mid="v24001004" />
+			<heading>The Prophet Is Called</heading>
 			<v n="4">
 				Then the 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="MSG" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24040001" />
-		<chapter num="40">
+		<chapter num="40">			<heading>Go and Live Wherever You Wish</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				This is 
@@ -51,6 +52,7 @@
 				 went to Gedaliah son of Ahikam at Mizpah and stayed with him with the people who were still left in the country.
 			</v>
 			<marker class="begin-verse" mid="v24040007" />
+			<heading>Take Care of the Land</heading>
 			<v n="7">
 				The Judean 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Genesis" num="1" testament="old" version="NKJV" bookAbbr="gen">
 		<marker class="begin-verse" mid="v01002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>The Garden of Eden</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c01002001.1" />
@@ -65,12 +66,13 @@
 				
 				And the 
 				
-				 Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living being.Life in God’s Garden
+				 Lord God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living being.
 			
 			<crossref let="j" cid="c01002007.9" />
 				<crossref let="k" cid="c01002007.10" />
 			</v>
 			<marker class="begin-verse" mid="v01002008" />
+			<heading>Life in God’s Garden</heading>
 			<v n="8">
 				<crossref let="l" cid="c01002008.11" />
 				The Lord 

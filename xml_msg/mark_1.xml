@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Mark" num="41" testament="new" version="MSG" bookAbbr="mrk">
 		<marker class="begin-verse" mid="v41001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>John the Baptizer</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Here is 
@@ -81,6 +82,7 @@
 				 from heaven said, “You are my son, the one I love. I am very pleased with you.”
 			</v>
 			<marker class="begin-verse" mid="v41001012" />
+			<heading>God’s Kingdom Is Here</heading>
 			<v n="12">
 				Right after 
 				
@@ -135,6 +137,7 @@
 				 called them to follow him, and they left their father Zebedee in the boat with the hired workers, and followed Jesus.
 			</v>
 			<marker class="begin-verse" mid="v41001021" />
+			<heading>Confident Teaching</heading>
 			<v n="21">
 				They left 
 				
@@ -219,6 +222,7 @@
 				 many people who had various diseases, and threw out many demons. He did not permit the demons to speak, for they knew who he was.
 			</v>
 			<marker class="begin-verse" mid="v41001035" />
+			<heading>The Leper</heading>
 			<v n="35">
 				Very early 
 				

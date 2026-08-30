@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="MSG" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23063001" />
-		<chapter num="63">
+		<chapter num="63">			<heading>Who Goes There?</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Who is 
@@ -51,6 +52,7 @@
 				 down the nations in my anger; in my fury I made them drunk, and spilled their blood upon the ground.
 			</v>
 			<marker class="begin-verse" mid="v23063007" />
+			<heading>All the Things God Has Done That Need Praising</heading>
 			<v n="7">
 				I want 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Numbers" num="4" testament="old" version="MSG" bookAbbr="num">
 		<marker class="begin-verse" mid="v04003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>The Levites</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				This is 

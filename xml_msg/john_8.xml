@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="John" num="43" testament="new" version="MSG" bookAbbr="jhn">
 		<marker class="begin-verse" mid="v43008001" />
-		<chapter num="8">
+		<chapter num="8">			<heading>To Throw the Stone</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				but Jesus 
@@ -81,6 +82,7 @@
 				 did, sir,” she replied.“I don't condemn you either,” Jesus told her. “Go, and don't sin anymore.”
 			</v>
 			<marker class="begin-verse" mid="v43008012" />
+			<heading>You’re Missing God in All This</heading>
 			<v n="12">
 				Jesus spoke 
 				
@@ -195,6 +197,7 @@
 				 heard Jesus say these things put their trust in him.
 			</v>
 			<marker class="begin-verse" mid="v43008031" />
+			<heading>If the Son Sets You Free</heading>
 			<v n="31">
 				Then Jesus 
 				
@@ -297,6 +300,7 @@
 				 belongs to God listens to what God says. The reason you don't listen is because you don't belong to God.”
 			</v>
 			<marker class="begin-verse" mid="v43008048" />
+			<heading>I Am Who I Am</heading>
 			<v n="48">
 				“Aren't we 
 				

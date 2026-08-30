@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="NKJV" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02006001" />
-		<chapter num="6">
+		<chapter num="6">			<heading>God Renews His Promise to Israel</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c02006001.1" />
@@ -112,9 +113,10 @@
 				<crossref let="t" cid="c02006013.16" />
 				Then the 
 				
-				 Lord spoke to Moses and Aaron, and gave them a command for the children of Israel and for Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.The Family of Moses and Aaron
+				 Lord spoke to Moses and Aaron, and gave them a command for the children of Israel and for Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.
 			</v>
 			<marker class="begin-verse" mid="v02006014" />
+			<heading>The Family of Moses and Aaron</heading>
 			<v n="14">
 				<crossref let="v" cid="c02006014.17" />
 				These are 
@@ -219,6 +221,7 @@
 				 the ones who spoke to Pharaoh king of Egypt, to bring out the children of Israel from Egypt. These are the same Moses and Aaron.Aaron Is Moses’s Spokesman
 			</v>
 			<marker class="begin-verse" mid="v02006028" />
+			<heading>Aaron Is Moses’ Spokesman</heading>
 			<v n="28">
 				And it 
 				

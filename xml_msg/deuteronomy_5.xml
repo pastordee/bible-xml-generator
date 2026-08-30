@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Deuteronomy" num="5" testament="old" version="MSG" bookAbbr="deu">
 		<marker class="begin-verse" mid="v05005001" />
-		<chapter num="5">
+		<chapter num="5">			<heading>Moses Teaches Israel on the Plains of Moab</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then Moses 

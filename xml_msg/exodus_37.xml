@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="MSG" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02037001" />
-		<chapter num="37">
+		<chapter num="37">			<heading>The Chest</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Bezalel made 
@@ -69,6 +70,7 @@
 				 were designed with spread wings pointing upward, covering the atonement cover. The cherubim were placed facing each other, looking down towards the atonement cover.
 			</v>
 			<marker class="begin-verse" mid="v02037010" />
+			<heading>The Table</heading>
 			<v n="10">
 				Then he 
 				
@@ -111,6 +113,7 @@
 				 utensils for the table from pure gold: plates and dishes, bowls and pitchers for pouring out drink offerings.
 			</v>
 			<marker class="begin-verse" mid="v02037017" />
+			<heading>The Lampstand</heading>
 			<v n="17">
 				He made 
 				
@@ -159,6 +162,7 @@
 				 and all these utensils required a talent of pure gold.
 			</v>
 			<marker class="begin-verse" mid="v02037025" />
+			<heading>The Altar of Incense</heading>
 			<v n="25">
 				He made 
 				

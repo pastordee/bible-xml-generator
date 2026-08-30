@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Acts" num="44" testament="new" version="NLT" bookAbbr="act">
 		<marker class="begin-verse" mid="v44008001" />
-		<chapter num="8">
+		<chapter num="8">			<heading>Persecution Scatters the Believers</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Saul was 
@@ -30,9 +31,10 @@
 			<v n="3">
 				But Saul 
 				
-				 was going everywhere to destroy the church. He went from house to house, dragging out both men and women to throw them into prison.Philip Preaches in Samaria
+				 was going everywhere to destroy the church. He went from house to house, dragging out both men and women to throw them into prison.
 			</v>
 			<marker class="begin-verse" mid="v44008004" />
+			<heading>Philip Preaches in Samaria</heading>
 			<v n="4">
 				But the 
 				
@@ -162,9 +164,10 @@
 			<v n="25">
 				After testifying 
 				
-				 and preaching the word of the Lord in Samaria, Peter and John returned to Jerusalem. And they stopped in many Samaritan villages along the way to preach the Good News.Philip and the Ethiopian Eunuch
+				 and preaching the word of the Lord in Samaria, Peter and John returned to Jerusalem. And they stopped in many Samaritan villages along the way to preach the Good News.
 			</v>
 			<marker class="begin-verse" mid="v44008026" />
+			<heading>Philip and the Ethiopian Eunuch</heading>
 			<v n="26">
 				As for 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Kings" num="12" testament="old" version="MSG" bookAbbr="2ki">
 		<marker class="begin-verse" mid="v12015001" />
-		<chapter num="15">
+		<chapter num="15">			<heading>Azariah (Uzziah) of Judah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Azariah, son 
@@ -57,6 +58,7 @@
 				 and was buried with his forefathers in the City of David. His son Jotham succeeded him as king.
 			</v>
 			<marker class="begin-verse" mid="v12015008" />
+			<heading>Zechariah of Israel</heading>
 			<v n="8">
 				Zechariah, son 
 				
@@ -87,6 +89,7 @@
 				 way what the Lord told Jehu came true: “Your descendants will sit on the throne of Israel to the fourth generation.”
 			</v>
 			<marker class="begin-verse" mid="v12015013" />
+			<heading>Shallum of Israel</heading>
 			<v n="13">
 				Shallum, son 
 				
@@ -105,6 +108,7 @@
 				 of the events of Shallum's reign and the rebellion he plotted are recorded in the Book of Chronicles of the Kings of Israel.
 			</v>
 			<marker class="begin-verse" mid="v12015016" />
+			<heading>Menahem of Israel</heading>
 			<v n="16">
 				At that 
 				
@@ -147,6 +151,7 @@
 				 and his son Pekahiah succeeded him as king.
 			</v>
 			<marker class="begin-verse" mid="v12015023" />
+			<heading>Pekahiah of Israel</heading>
 			<v n="23">
 				Pekahiah, son 
 				
@@ -171,6 +176,7 @@
 				 of what happened in Pekahiah's reign and all he did are recorded in the Book of Chronicles of the Kings of Israel.
 			</v>
 			<marker class="begin-verse" mid="v12015027" />
+			<heading>Pekah of Israel</heading>
 			<v n="27">
 				Pekah, son 
 				
@@ -201,6 +207,7 @@
 				 of what happened in Pekah's reign and all he did are recorded in the Book of Chronicles of the Kings of Israel.
 			</v>
 			<marker class="begin-verse" mid="v12015032" />
+			<heading>Jotham of Judah</heading>
 			<v n="32">
 				Jotham, son 
 				

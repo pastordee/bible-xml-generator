@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Ezra" num="15" testament="old" version="MSG" bookAbbr="ezr">
 		<marker class="begin-verse" mid="v15007001" />
-		<chapter num="7">
+		<chapter num="7">			<heading>Ezra Arrives</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				After all 
@@ -171,6 +172,7 @@
 				 does not keep the law of your God and the law of the king, will be severely punished, either by death, banishment, seizure of property, or imprisonment.”
 			</v>
 			<marker class="begin-verse" mid="v15007027" />
+			<heading>Ezra: “I Was Ready to Go”</heading>
 			<v n="27">
 				Praise the 
 				

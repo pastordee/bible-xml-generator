@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="MSG" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24006001" />
-		<chapter num="6">
+		<chapter num="6">			<heading>A City Full of Lies</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Run and 
@@ -69,6 +70,7 @@
 				 what the Lord Almighty says: Even those left in Israel will be taken, just as grapes left on a vine are taken by the one harvesting the grapes who checks the branches again.
 			</v>
 			<marker class="begin-verse" mid="v24006010" />
+			<heading>Is Anybody Listening?</heading>
 			<v n="10">
 				Who can 
 				
@@ -105,6 +107,7 @@
 				 ashamed of the disgusting things they did? No, they weren't ashamed at all, they couldn't even blush. So they will fall just like the others, when I punish them; they will drop down dead, says the Lord.
 			</v>
 			<marker class="begin-verse" mid="v24006016" />
+			<heading>Death Is on the Prowl</heading>
 			<v n="16">
 				This is 
 				

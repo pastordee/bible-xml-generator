@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Nahum" num="34" testament="old" version="BSB" bookAbbr="nah">
 		<marker class="begin-verse" mid="v34003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>Judgment on Nineveh</heading>
+
 			<begin-paragraph />
 			<v n="1">Woe to the city of blood, full of lies, full of plunder, never without prey.</v>
 			<marker class="begin-verse" mid="v34003002" />

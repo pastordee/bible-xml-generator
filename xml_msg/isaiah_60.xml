@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="MSG" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23060001" />
-		<chapter num="60">
+		<chapter num="60">			<heading>People Returning for the Reunion</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Stand up 
@@ -57,6 +58,7 @@
 				 flocks of Kedar will be brought to you, the rams of Nebaioth will be placed at your disposal. I will accept them as they are sacrificed on my altar, and I will glorify the Temple where I'm honored.
 			</v>
 			<marker class="begin-verse" mid="v23060008" />
+			<heading>What’s That We See in the Distance?</heading>
 			<v n="8">
 				What are 
 				

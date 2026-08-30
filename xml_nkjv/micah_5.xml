@@ -13,15 +13,17 @@
 	</generation_info>
 	<book title="Micah" num="33" testament="old" version="NKJV" bookAbbr="mic">
 		<marker class="begin-verse" mid="v33005001" />
-		<chapter num="5">
+		<chapter num="5">			<heading>The Messiah Will Be Born at Bethlehem</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c33005001.1" />
 				Now gather 
 				
-				 yourself in troops, O daughter of troops; He has laid siege against us; They will strike the judge of Israel with a rod on the cheek.The Coming Messiah
+				 yourself in troops, O daughter of troops; He has laid siege against us; They will strike the judge of Israel with a rod on the cheek.
 			</v>
 			<marker class="begin-verse" mid="v33005002" />
+			<heading>The Coming Messiah</heading>
 			<v n="2">
 				<crossref let="b" cid="c33005002.2" />
 				
@@ -55,6 +57,7 @@
 			<crossref let="k" cid="c33005004.10" />
 			</v>
 			<marker class="begin-verse" mid="v33005005" />
+			<heading>Judgment on Israel’s Enemies</heading>
 			<v n="5">
 				<crossref let="a" cid="c33005005.11" />
 				And this 

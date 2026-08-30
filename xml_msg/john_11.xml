@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="John" num="43" testament="new" version="MSG" bookAbbr="jhn">
 		<marker class="begin-verse" mid="v43011001" />
-		<chapter num="11">
+		<chapter num="11">			<heading>The Death of Lazarus</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				A man 
@@ -279,6 +280,7 @@
 				 man came out, his hands and feet bound with strips of linen, and with a cloth around his face.“Unbind him and set him free,” Jesus told them.
 			</v>
 			<marker class="begin-verse" mid="v43011045" />
+			<heading>The Man Who Creates God-Signs</heading>
 			<v n="45">
 				Consequently many 
 				

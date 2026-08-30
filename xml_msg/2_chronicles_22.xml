@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Chronicles" num="14" testament="old" version="MSG" bookAbbr="2ch">
 		<marker class="begin-verse" mid="v14022001" />
-		<chapter num="22">
+		<chapter num="22">			<heading>King Ahaziah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The people 
@@ -69,6 +70,7 @@
 				 went looking for Ahaziah. His men found him in Samaria and captured him, and took him to Jehu where they killed him. They buried him, for they said, “He is the grandson of Jehoshaphat, who was completely committed to following the Lord.” There was no one left from Ahaziah's family to rule the kingdom.
 			</v>
 			<marker class="begin-verse" mid="v14022010" />
+			<heading>Queen Athaliah</heading>
 			<v n="10">
 				When Athaliah 
 				

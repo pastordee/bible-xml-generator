@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20024001" />
-		<chapter num="24">
+		<chapter num="24">			<heading>Intelligence Outranks Muscle</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Don't be 
@@ -69,6 +70,7 @@
 				 up by stupid people are sinful. Everyone hates those who are scornful of others.
 			</v>
 			<marker class="begin-verse" mid="v20024010" />
+			<heading>Rescue the Perishing</heading>
 			<v n="10">
 				If you 
 				
@@ -147,6 +149,7 @@
 				 will suddenly fall on them. Who knows how the Lord and king will punish them?
 			</v>
 			<marker class="begin-verse" mid="v20024023" />
+			<heading>An Honest Answer</heading>
 			<v n="23">
 				These are 
 				

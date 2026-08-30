@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Luke" num="42" testament="new" version="MSG" bookAbbr="luk">
 		<marker class="begin-verse" mid="v42009001" />
-		<chapter num="9">
+		<chapter num="9">			<heading>Keep It Simple</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Jesus called 
@@ -81,6 +82,7 @@
 				 crowds found out where he was going and followed him there. He welcomed them and explained the kingdom of God to them, and healed those who needed healing.
 			</v>
 			<marker class="begin-verse" mid="v42009012" />
+			<heading>Bread and Fish for Five Thousand</heading>
 			<v n="12">
 				Late in 
 				
@@ -117,6 +119,7 @@
 				 until they were full, and then twelve baskets of leftovers were collected.
 			</v>
 			<marker class="begin-verse" mid="v42009018" />
+			<heading>Don’t Run from Suffering</heading>
 			<v n="18">
 				At another 
 				
@@ -177,6 +180,7 @@
 				 you the truth, some standing here won't taste death until they see the kingdom of God.”
 			</v>
 			<marker class="begin-verse" mid="v42009028" />
+			<heading>Jesus in His Glory</heading>
 			<v n="28">
 				About eight 
 				
@@ -261,6 +265,7 @@
 				 unbelieving and corrupt people you are! How long do I have to remain here with you, and put up with you?” said Jesus. “Bring your son here.”
 			</v>
 			<marker class="begin-verse" mid="v42009042" />
+			<heading>Your Business Is Life</heading>
 			<v n="42">
 				Even as 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40008001" />
-		<chapter num="8">
+		<chapter num="8">			<heading>He Carried Our Diseases</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Large crowds 
@@ -117,6 +118,7 @@
 				 what the prophet Isaiah said: “He healed our diseases, and freed us from our illnesses.”
 			</v>
 			<marker class="begin-verse" mid="v40008018" />
+			<heading>Your Business Is Life, Not Death</heading>
 			<v n="18">
 				When Jesus 
 				
@@ -177,6 +179,7 @@
 				 were astonished, and said, “Who is this? Even the winds and the waves obey him!”
 			</v>
 			<marker class="begin-verse" mid="v40008028" />
+			<heading>The Madmen and the Pigs</heading>
 			<v n="28">
 				When he 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Mark" num="41" testament="new" version="MSG" bookAbbr="mrk">
 		<marker class="begin-verse" mid="v41010001" />
-		<chapter num="10">
+		<chapter num="10">			<heading>Divorce</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Jesus left 
@@ -111,6 +112,7 @@
 				 the children, placed his hands on them, and blessed them.
 			</v>
 			<marker class="begin-verse" mid="v41010017" />
+			<heading>To Enter God’s Kingdom</heading>
 			<v n="17">
 				As Jesus 
 				
@@ -219,6 +221,7 @@
 				 mock him, spit on him, flog him, and kill him. But three days later he will rise again.”
 			</v>
 			<marker class="begin-verse" mid="v41010035" />
+			<heading>The Highest Places of Honor</heading>
 			<v n="35">
 				James and 
 				

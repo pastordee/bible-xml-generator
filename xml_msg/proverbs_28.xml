@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20028001" />
-		<chapter num="28">
+		<chapter num="28">			<heading>If You Desert God’s Law</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The wicked 
@@ -123,6 +124,7 @@
 				 have integrity, you'll be kept safe, but if you live deviously, you'll fall.
 			</v>
 			<marker class="begin-verse" mid="v20028019" />
+			<heading>Doing Great Harm in Seemingly Harmless Ways</heading>
 			<v n="19">
 				If you 
 				

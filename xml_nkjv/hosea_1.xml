@@ -13,19 +13,21 @@
 	</generation_info>
 	<book title="Hosea" num="28" testament="old" version="NKJV" bookAbbr="hos">
 		<marker class="begin-verse" mid="v28001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>Hosea’s Unfaithful Wife</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="b" cid="c28001001.1" />
 				
 				The word 
 				
-				 of the Lord that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.The Family of Hosea
+				 of the Lord that came to Hosea the son of Beeri, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah, and in the days of Jeroboam the son of Joash, king of Israel.
 			
 			<crossref let="c" cid="c28001001.2" />
 				<crossref let="d" cid="c28001001.3" />
 			</v>
 			<marker class="begin-verse" mid="v28001002" />
+			<heading>The Family of Hosea</heading>
 			<v n="2">
 				<crossref let="f" cid="c28001002.4" />
 				When the 
@@ -80,9 +82,10 @@
 			<v n="9">
 				Then God 
 				
-				 said:“Call his name Lo-Ammi, For you are not My people, And I will not be your God.The Restoration of Israel
+				 said:“Call his name Lo-Ammi, For you are not My people, And I will not be your God.
 			</v>
 			<marker class="begin-verse" mid="v28001010" />
+			<heading>The Restoration of Israel</heading>
 			<v n="10">
 				<crossref let="n" cid="c28001010.11" />
 				

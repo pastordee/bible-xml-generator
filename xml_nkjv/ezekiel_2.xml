@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Ezekiel" num="26" testament="old" version="NKJV" bookAbbr="ezk">
 		<marker class="begin-verse" mid="v26002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>Ezekiel Called to Be a Prophet</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c26002001.1" />

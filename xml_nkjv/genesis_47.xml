@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Genesis" num="1" testament="old" version="NKJV" bookAbbr="gen">
 		<marker class="begin-verse" mid="v01047001" />
-		<chapter num="47">
+		<chapter num="47">			<heading>Joseph Is Governor of Egypt</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c01047001.1" />
@@ -108,9 +109,10 @@
 				<crossref let="s" cid="c01047012.17" />
 				Then Joseph 
 				
-				 provided his father, his brothers, and all his father’s household with bread, according to the number in their families.Joseph Deals with the Famine
+				 provided his father, his brothers, and all his father’s household with bread, according to the number in their families.
 			</v>
 			<marker class="begin-verse" mid="v01047013" />
+			<heading>Joseph Deals with the Famine</heading>
 			<v n="13">
 				<crossref let="t" cid="c01047013.18" />
 				Now there 
@@ -202,9 +204,10 @@
 				<crossref let="b" cid="c01047026.26" />
 				And Joseph 
 				
-				 made it a law over the land of Egypt to this day, that Pharaoh should have one-fifth, except for the land of the priests only, which did not become Pharaoh’s.Joseph’s Vow to Jacob
+				 made it a law over the land of Egypt to this day, that Pharaoh should have one-fifth, except for the land of the priests only, which did not become Pharaoh’s.
 			</v>
 			<marker class="begin-verse" mid="v01047027" />
+			<heading>Joseph’s Vow to Jacob</heading>
 			<v n="27">
 				<crossref let="c" cid="c01047027.27" />
 				So Israel 

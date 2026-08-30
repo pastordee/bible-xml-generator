@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="MSG" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24014001" />
-		<chapter num="14">
+		<chapter num="14">			<heading>Time and Again We’ve Betrayed God</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				This is 
@@ -75,6 +76,7 @@
 				 what the Lord says about his people: They really love to wander away from me—they don't even try to stop themselves. So the Lord refuses to accept them. Now he'll remember their guilty actions and punish them for their sins.
 			</v>
 			<marker class="begin-verse" mid="v24014011" />
+			<heading>The Killing Fields</heading>
 			<v n="11">
 				The Lord 
 				

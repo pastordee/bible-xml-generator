@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>Don’t Assume You Know It All</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				My son, 
@@ -87,6 +88,7 @@
 				 Lord corrects those he loves, as a father corrects a son who pleases him.
 			</v>
 			<marker class="begin-verse" mid="v20003013" />
+			<heading>The Very Tree of Life</heading>
 			<v n="13">
 				Happy are 
 				
@@ -135,6 +137,7 @@
 				 through his knowledge the waters of the deep were broken open, and the clouds sent down the dew.
 			</v>
 			<marker class="begin-verse" mid="v20003021" />
+			<heading>Never Walk Away</heading>
 			<v n="21">
 				My son, 
 				

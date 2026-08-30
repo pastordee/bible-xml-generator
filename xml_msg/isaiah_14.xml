@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="MSG" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23014001" />
-		<chapter num="14">
+		<chapter num="14">			<heading>Now You Are Nothing</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				But the 
@@ -153,6 +154,7 @@
 				 make Babylon into a place for water birds and into marshland. I will sweep her away with the broom of destruction, declares the Lord Almighty.”
 			</v>
 			<marker class="begin-verse" mid="v23014024" />
+			<heading>Who Could Ever Cancel Such Plans?</heading>
 			<v n="24">
 				The Lord 
 				

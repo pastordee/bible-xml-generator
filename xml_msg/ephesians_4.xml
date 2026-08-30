@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Ephesians" num="49" testament="new" version="MSG" bookAbbr="eph">
 		<marker class="begin-verse" mid="v49004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>To Be Mature</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				So I—this 
@@ -111,6 +112,7 @@
 				 of him that the whole body operates, every joint holding it together as each individual part does what it's supposed to, and the whole body grows, building itself up in love.
 			</v>
 			<marker class="begin-verse" mid="v49004017" />
+			<heading>The Old Way Has to Go</heading>
 			<v n="17">
 				So let 
 				

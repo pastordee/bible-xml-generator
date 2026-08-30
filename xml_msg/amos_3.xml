@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Amos" num="30" testament="old" version="MSG" bookAbbr="amo">
 		<marker class="begin-verse" mid="v30003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>The Lion Has Roared</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				People of 

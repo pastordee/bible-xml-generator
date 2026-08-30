@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="MSG" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>Quit Your Worship Charades</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				This is 
@@ -117,6 +118,7 @@
 				 do good; strive for justice, condemn those who oppress others; support the rights of orphans, take up cases to defend widows.
 			</v>
 			<marker class="begin-verse" mid="v23001018" />
+			<heading>Let’s Argue This Out</heading>
 			<v n="18">
 				Come on, 
 				
@@ -135,6 +137,7 @@
 				 you are defiant, and if you are rebellious, you'll be killed by the sword. This is what the Lord has declared!
 			</v>
 			<marker class="begin-verse" mid="v23001021" />
+			<heading>Those Who Walk Out on God</heading>
 			<v n="21">
 				The city 
 				

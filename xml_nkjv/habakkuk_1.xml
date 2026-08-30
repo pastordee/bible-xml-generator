@@ -13,14 +13,16 @@
 	</generation_info>
 	<book title="Habakkuk" num="35" testament="old" version="NKJV" bookAbbr="hab">
 		<marker class="begin-verse" mid="v35001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>The Prophet Questions God’s Judgments</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The burden 
 				
-				 which the prophet Habakkuk saw.The Prophet’s Question
+				 which the prophet Habakkuk saw.
 			</v>
 			<marker class="begin-verse" mid="v35001002" />
+			<heading>The Prophet’s Question</heading>
 			<v n="2">
 				<crossref let="b" cid="c35001002.1" />
 				
@@ -43,6 +45,7 @@
 				 law is powerless, And justice never goes forth.For the wicked surround the righteous; Therefore perverse judgment proceeds.The Lord’s Reply
 			</v>
 			<marker class="begin-verse" mid="v35001005" />
+			<heading>The Lord ’s Reply</heading>
 			<v n="5">
 				<crossref let="e" cid="c35001005.4" />
 				“Lookamong the 
@@ -86,9 +89,10 @@
 				<crossref let="j" cid="c35001011.7" />
 				Then his 
 				
-				 mind changes, and he transgresses; He commits offense, Ascribing this power to his god.”The Prophet’s Second Question
+				 mind changes, and he transgresses; He commits offense, Ascribing this power to his god.”
 			</v>
 			<marker class="begin-verse" mid="v35001012" />
+			<heading>The Prophet’s Second Question</heading>
 			<v n="12">
 				<crossref let="k" cid="c35001012.8" />
 				

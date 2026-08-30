@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="MSG" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02035001" />
-		<chapter num="35">
+		<chapter num="35">			<heading>Building the Place of Worship</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Moses summoned 
@@ -33,6 +34,7 @@
 				 light a fire in any of your homes on the Sabbath day.”
 			</v>
 			<marker class="begin-verse" mid="v02035004" />
+			<heading>The Offerings</heading>
 			<v n="4">
 				Moses also 
 				
@@ -189,6 +191,7 @@
 				 Israelite men and women who were willing brought a freewill offering to the Lord for all the work in making what the Lord through Moses had ordered them to do.
 			</v>
 			<marker class="begin-verse" mid="v02035030" />
+			<heading>Bezalel and Oholiab</heading>
 			<v n="30">
 				Then Moses 
 				

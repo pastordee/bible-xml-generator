@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40027001" />
-		<chapter num="27">
+		<chapter num="27">			<heading>Thirty Silver Coins</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Early in 
@@ -75,6 +76,7 @@
 				 them to pay for the potter's field, just as the Lord instructed me to do.”
 			</v>
 			<marker class="begin-verse" mid="v40027011" />
+			<heading>Pilate</heading>
 			<v n="11">
 				Jesus was 
 				
@@ -171,6 +173,7 @@
 				 released Barabbas to them, but he had Jesus flogged and sent to be crucified.
 			</v>
 			<marker class="begin-verse" mid="v40027027" />
+			<heading>The Crucifixion</heading>
 			<v n="27">
 				The governor's 
 				
@@ -351,6 +354,7 @@
 				 Mary Magdalene, Mary the mother of James and Joseph, and the mother of the sons of Zebedee.
 			</v>
 			<marker class="begin-verse" mid="v40027057" />
+			<heading>The Tomb</heading>
 			<v n="57">
 				When evening 
 				

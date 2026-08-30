@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Acts" num="44" testament="new" version="NKJV" bookAbbr="act">
 		<marker class="begin-verse" mid="v44022001" />
-		<chapter num="22">
+		<chapter num="22">			<heading>Paul’s Defense at Jerusalem</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c44022001.1" />
@@ -92,9 +93,10 @@
 				<crossref let="h" cid="c44022021.31" />
 				Then He 
 				
-				 said to me, <woc>‘Depart,</woc><woc>for I will send you far from here to the Gentiles.’</woc> ”Paul’s Roman Citizenship
+				 said to me, <woc>‘Depart,</woc><woc>for I will send you far from here to the Gentiles.’</woc> ”
 			</v>
 			<marker class="begin-verse" mid="v44022022" />
+			<heading>Paul’s Roman Citizenship</heading>
 			<v n="22">
 				<crossref let="a" cid="c44022022.32" />
 				And they 
@@ -132,9 +134,10 @@
 			<v n="29">
 				Then immediately 
 				
-				 those who were about to examine him withdrew from him; and the commander was also afraid after he found out that he was a Roman, and because he had bound him.The Sanhedrin Divided
+				 those who were about to examine him withdrew from him; and the commander was also afraid after he found out that he was a Roman, and because he had bound him.
 			</v>
 			<marker class="begin-verse" mid="v44022030" />
+			<heading>The Sanhedrin Divided</heading>
 			<v n="30">The next day, because he wanted to know for certain why he was accused by the Jews, he released him from his bonds, and commanded the chief priests and all their council to appear, and brought Paul down and set him before them.</v>
 			<marker class="begin-verse" mid="v44022031" />
 			<end-paragraph />

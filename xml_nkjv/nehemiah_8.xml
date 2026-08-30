@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Nehemiah" num="16" testament="old" version="NKJV" bookAbbr="neh">
 		<marker class="begin-verse" mid="v16008001" />
-		<chapter num="8">
+		<chapter num="8">			<heading>Ezra Reads and Explains the Law</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c16008001.1" />
@@ -107,9 +108,10 @@
 				<crossref let="q" cid="c16008012.16" />
 				And all 
 				
-				 the people went their way to eat and drink, to send portions and rejoice greatly, because they understood the words that were declared to them.The Feast of Tabernacles
+				 the people went their way to eat and drink, to send portions and rejoice greatly, because they understood the words that were declared to them.
 			</v>
 			<marker class="begin-verse" mid="v16008013" />
+			<heading>The Feast of Tabernacles</heading>
 			<v n="13">
 				<crossref let="a" cid="c16008013.17" />
 				Now on 

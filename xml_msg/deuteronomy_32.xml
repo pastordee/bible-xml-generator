@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Deuteronomy" num="5" testament="old" version="MSG" bookAbbr="deu">
 		<marker class="begin-verse" mid="v05032001" />
-		<chapter num="32">
+		<chapter num="32">			<heading>The Song</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Heaven, listen 

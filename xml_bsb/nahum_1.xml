@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Nahum" num="34" testament="old" version="BSB" bookAbbr="nah">
 		<marker class="begin-verse" mid="v34001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>The Burden against Nineveh</heading>
+
 			<begin-paragraph />
 			<v n="1">This is the burden against Nineveh, the book of the vision of Nahum the Elkoshite:</v>
 			<marker class="begin-verse" mid="v34001002" />

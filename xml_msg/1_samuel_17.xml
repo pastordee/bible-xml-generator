@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Samuel" num="9" testament="old" version="MSG" bookAbbr="1sa">
 		<marker class="begin-verse" mid="v09017001" />
-		<chapter num="17">
+		<chapter num="17">			<heading>Goliath</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Philistine 
@@ -165,6 +166,7 @@
 				 seen this man who keeps on coming out to mock Israel?” they asked. “The king will make the man who kills him really rich. He will also give him his daughter in marriage, and his family will live tax-free in Israel.”
 			</v>
 			<marker class="begin-verse" mid="v09017026" />
+			<heading>Five Smooth Stones</heading>
 			<v n="26">
 				David asked 
 				

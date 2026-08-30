@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Mark" num="41" testament="new" version="NKJV" bookAbbr="mrk">
 		<marker class="begin-verse" mid="v41009001" />
-		<chapter num="9">
+		<chapter num="9">			<heading>The Transfiguration of Christ</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c41009001.1" />
@@ -60,6 +61,7 @@
 				 say to you that  Elijah has also come, and they did to him whatever they wished, as it is written of him.”</woc>A Boy Is Healed
 			</v>
 			<marker class="begin-verse" mid="v41009014" />
+			<heading>A Boy Is Healed</heading>
 			<v n="14">
 				<crossref let="p" cid="c41009014.13" />And when He came to the disciples, He saw a great multitude around them, and scribes disputing with them.</v>
 			<marker class="begin-verse" mid="v41009015" />
@@ -126,9 +128,10 @@
 				<crossref let="b" cid="c41009032.25" />
 				But they 
 				
-				 did not understand this saying, and were afraid to ask Him.Who Is the Greatest?
+				 did not understand this saying, and were afraid to ask Him.
 			</v>
 			<marker class="begin-verse" mid="v41009033" />
+			<heading>Who Is the Greatest?</heading>
 			<v n="33">Then He came to Capernaum. And when He was in the house He asked them,<woc>“What was it you</woc>
 				<woc>disputed among yourselves on the road?”</woc>
 			</v>
@@ -176,9 +179,10 @@
 				<crossref let="a" cid="c41009041.35" />
 				For whoever 
 				
-				 gives you a cup of water to drink in My name, because you belong to Christ, assuredly, I say to you, he will by no means lose his reward.Jesus Warns of Offenses
+				 gives you a cup of water to drink in My name, because you belong to Christ, assuredly, I say to you, he will by no means lose his reward.
 			</v>
 			<marker class="begin-verse" mid="v41009042" />
+			<heading>Jesus Warns of Offenses</heading>
 			<v n="42">
 				<woc>“But whoever causes one of these little ones who believe in Me</woc>
 				<woc>to stumble, it would be better for him if a millstone were hung around his neck, and he were thrown into the sea.</woc>
@@ -222,6 +226,7 @@
 				 does not die And the</woc> <woc>fire is not quenched.’</woc>Tasteless Salt Is Worthless
 			</v>
 			<marker class="begin-verse" mid="v41009049" />
+			<heading>Tasteless Salt Is Worthless</heading>
 			<v n="49">
 				<woc>“For everyone will be</woc>
 				<woc>seasoned with fire,</woc>

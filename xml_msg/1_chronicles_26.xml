@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Chronicles" num="13" testament="old" version="MSG" bookAbbr="1ch">
 		<marker class="begin-verse" mid="v13026001" />
-		<chapter num="26">
+		<chapter num="26">			<heading>The Security Guards</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				This is 
@@ -129,6 +130,7 @@
 				 the divisions of the gatekeepers from the sons of Korah and the sons of Merari.
 			</v>
 			<marker class="begin-verse" mid="v13026020" />
+			<heading>Financial Affairs: Accountants and Bookkeepers</heading>
 			<v n="20">
 				Other Levites 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="MSG" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02005001" />
-		<chapter num="5">
+		<chapter num="5">			<heading>Moses and Aaron and Pharaoh</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				After this 

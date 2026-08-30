@@ -13,14 +13,16 @@
 	</generation_info>
 	<book title="Malachi" num="39" testament="old" version="NKJV" bookAbbr="mal">
 		<marker class="begin-verse" mid="v39001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>Polluted Offerings to God</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The burden 
 				
-				 of the word of the Lord to Israel by Malachi.Israel Beloved of God
+				 of the word of the Lord to Israel by Malachi.
 			</v>
 			<marker class="begin-verse" mid="v39001002" />
+			<heading>Israel Beloved of God</heading>
 			<v n="2">
 				<crossref let="s" cid="c39001002.1" />
 				“Ihave loved 
@@ -46,9 +48,10 @@
 				<crossref let="e" cid="c39001005.4" />
 				Your eyes 
 				
-				 shall see, And you shall say,‘The Lord is magnified beyond the border of Israel.’Polluted Offerings
+				 shall see, And you shall say,‘The Lord is magnified beyond the border of Israel.’
 			</v>
 			<marker class="begin-verse" mid="v39001006" />
+			<heading>Polluted Offerings</heading>
 			<v n="6">
 				<crossref let="f" cid="c39001006.5" />
 				

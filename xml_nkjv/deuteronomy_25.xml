@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Deuteronomy" num="5" testament="old" version="NKJV" bookAbbr="deu">
 		<marker class="begin-verse" mid="v05025001" />
-		<chapter num="25">
+		<chapter num="25">			<heading>Laws of Social Responsibility</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c05025001.1" />
@@ -46,9 +47,10 @@
 				<crossref let="g" cid="c05025004.7" />
 				“You shall 
 				
-				 not muzzle an ox while it treads out the grain.Marriage Duty of the Surviving Brother
+				 not muzzle an ox while it treads out the grain.
 			</v>
 			<marker class="begin-verse" mid="v05025005" />
+			<heading>Marriage Duty of the Surviving Brother</heading>
 			<v n="5">
 				<crossref let="h" cid="c05025005.8" />
 				“If brothers 
@@ -89,9 +91,10 @@
 			<v n="10">
 				And his 
 				
-				 name shall be called in Israel, ‘The house of him who had his sandal removed.’Miscellaneous Laws
+				 name shall be called in Israel, ‘The house of him who had his sandal removed.’
 			</v>
 			<marker class="begin-verse" mid="v05025011" />
+			<heading>Miscellaneous Laws</heading>
 			<v n="11">
 				“If two 
 				
@@ -129,9 +132,10 @@
 				<crossref let="r" cid="c05025016.17" />
 				For all 
 				
-				 who do such things, all who behave unrighteously, are an abomination to the Lord your God.Destroy the Amalekites
+				 who do such things, all who behave unrighteously, are an abomination to the Lord your God.
 			</v>
 			<marker class="begin-verse" mid="v05025017" />
+			<heading>Destroy the Amalekites</heading>
 			<v n="17">
 				<crossref let="s" cid="c05025017.18" />
 				“Remember what 

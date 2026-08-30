@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="MSG" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23024001" />
-		<chapter num="24">
+		<chapter num="24">			<heading>The Landscape Will Be a Moonscape</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Watch out! 
@@ -39,6 +40,7 @@
 				 dries up and withers away; the world shrivels up and withers away, the high and mighty people shrivel up along with the earth.
 			</v>
 			<marker class="begin-verse" mid="v23024005" />
+			<heading>Earth Polluted by Its Very Own People</heading>
 			<v n="5">
 				The earth 
 				

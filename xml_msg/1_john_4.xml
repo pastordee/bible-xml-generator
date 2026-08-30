@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 John" num="62" testament="new" version="MSG" bookAbbr="1jn">
 		<marker class="begin-verse" mid="v62004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>Don’t Believe Everything You Hear</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Dear friends, 
@@ -51,6 +52,7 @@
 				 to God and whoever knows God listens to us, while whoever doesn't belong to God doesn't listen to us. This is how we can distinguish the spirit of truth from the spirit of deception.
 			</v>
 			<marker class="begin-verse" mid="v62004007" />
+			<heading>God Is Love</heading>
 			<v n="7">
 				Dear friends, 
 				
@@ -111,6 +113,7 @@
 				 experienced and trusted in the love that God has for us. God is love, and those who live in love, live in God, and God lives in them.
 			</v>
 			<marker class="begin-verse" mid="v62004017" />
+			<heading>To Love, to Be Loved</heading>
 			<v n="17">
 				This is 
 				

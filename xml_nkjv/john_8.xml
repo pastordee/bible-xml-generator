@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="John" num="43" testament="new" version="NKJV" bookAbbr="jhn">
 		<marker class="begin-verse" mid="v43008001" />
-		<chapter num="8">
+		<chapter num="8">			<heading>Jesus the Light of the World</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				But Jesus 
@@ -60,6 +61,7 @@
 				 spoke to them again, saying, <woc>“I am the light of the world. He who</woc> <woc>follows Me shall not walk in darkness, but have the light of life.”</woc>Jesus Defends His Self-Witness
 			</v>
 			<marker class="begin-verse" mid="v43008013" />
+			<heading>Jesus Defends His Self-Witness</heading>
 			<v n="13">The Pharisees therefore said to Him,<crossref let="k" cid="c43008013.10" />“You bear witness of Yourself; Your witness is not true.”</v>
 			<marker class="begin-verse" mid="v43008014" />
 			<v n="14">Jesus answered and said to them,<woc>“Even if I bear witness of Myself, My witness is true, for I know where I came from and where I am going; but</woc>
@@ -105,10 +107,11 @@
 				
 				These words 
 				
-				 Jesus spoke in the treasury, as He taught in the temple; and no one laid hands on Him, for His hour had not yet come.Jesus Predicts His Departure
+				 Jesus spoke in the treasury, as He taught in the temple; and no one laid hands on Him, for His hour had not yet come.
 			<crossref let="u" cid="c43008020.20" />
 			</v>
 			<marker class="begin-verse" mid="v43008021" />
+			<heading>Jesus Predicts His Departure</heading>
 			<v n="21">Then Jesus said to them again,<woc>“I am going away, and</woc>
 				<crossref let="w" cid="c43008021.21" />
 				<woc>you will seek Me, and</woc>
@@ -163,9 +166,10 @@
 				<crossref let="a" cid="c43008030.37" />
 				As He 
 				
-				 spoke these words, many believed in Him.The Truth Shall Make You Free
+				 spoke these words, many believed in Him.
 			</v>
 			<marker class="begin-verse" mid="v43008031" />
+			<heading>The Truth Shall Make You Free</heading>
 			<v n="31">Then Jesus said to those Jews who believed Him,<woc>“If you</woc>
 				<woc>abide in My word, you are My disciples indeed.</woc>
 			</v>
@@ -191,9 +195,10 @@
 				<crossref let="s" cid="c43008036.44" />
 				Therefore if 
 				
-				 the Son makes you free, you shall be free indeed.Abraham’s Seed and Satan’s
+				 the Son makes you free, you shall be free indeed.
 			</v>
 			<marker class="begin-verse" mid="v43008037" />
+			<heading>Abraham’s Seed and Satan’s</heading>
 			<v n="37">
 				<woc>“I know that you are Abraham’s descendants, but</woc>
 				<woc>you seek to kill Me, because My word has no place in you.</woc>
@@ -253,9 +258,10 @@
 				<crossref let="j" cid="c43008047.59" />
 				He who 
 				
-				 is of God hears God’s words; therefore you do not hear, because you are not of God.”Before Abraham Was, I AM
+				 is of God hears God’s words; therefore you do not hear, because you are not of God.”
 			</v>
 			<marker class="begin-verse" mid="v43008048" />
+			<heading>Before Abraham Was, I AM</heading>
 			<v n="48">
 				<crossref let="k" cid="c43008048.60" />
 				Then the 

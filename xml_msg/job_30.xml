@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Job" num="18" testament="old" version="MSG" bookAbbr="job">
 		<marker class="begin-verse" mid="v18030001" />
-		<chapter num="30">
+		<chapter num="30">			<heading>The Pain Never Lets Up</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				But now 
@@ -129,6 +130,7 @@
 				 thrown me in the mud; he has humbled me like dust and ashes.
 			</v>
 			<marker class="begin-verse" mid="v18030020" />
+			<heading>What Did I Do to Deserve This?</heading>
 			<v n="20">
 				God, I 
 				

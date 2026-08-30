@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Numbers" num="4" testament="old" version="MSG" bookAbbr="num">
 		<marker class="begin-verse" mid="v04010001" />
-		<chapter num="10">
+		<chapter num="10">			<heading>The Two Bugles</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 
@@ -75,6 +76,7 @@
 				 trumpets when you celebrate too, at your regular feasts and at the beginning of each month. This is when you give your burnt offerings and fellowship offerings which act as a reminder for you before your God. I am the Lord your God.”
 			</v>
 			<marker class="begin-verse" mid="v04010011" />
+			<heading>The March from Sinai to Paran</heading>
 			<v n="11">
 				The cloud 
 				

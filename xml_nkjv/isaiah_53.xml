@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23053001" />
-		<chapter num="53">
+		<chapter num="53">			<heading>The Sin-Bearing Messiah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c23053001.1" />

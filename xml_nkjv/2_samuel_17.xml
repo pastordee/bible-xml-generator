@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Samuel" num="10" testament="old" version="NKJV" bookAbbr="2sa">
 		<marker class="begin-verse" mid="v10017001" />
-		<chapter num="17">
+		<chapter num="17">			<heading>The Advice of Ahithophel and Hushai</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Moreover Ahithophel 
@@ -38,9 +39,10 @@
 				<crossref let="c" cid="c10017004.2" />
 				And the 
 				
-				 saying pleased Absalom and all the elders of Israel.The Advice of Hushai
+				 saying pleased Absalom and all the elders of Israel.
 			</v>
 			<marker class="begin-verse" mid="v10017005" />
+			<heading>The Advice of Hushai</heading>
 			<v n="5">
 				<crossref let="d" cid="c10017005.3" />
 				Then Absalom 
@@ -106,9 +108,10 @@
 				<crossref let="j" cid="c10017014.9" />
 				So Absalom 
 				
-				 and all the men of Israel said, “The advice of Hushai the Archite is better than the advice of Ahithophel.” For the Lord had purposed to defeat the good advice of Ahithophel, to the intent that the Lord might bring disaster on Absalom.Hushai Warns David to Escape
+				 and all the men of Israel said, “The advice of Hushai the Archite is better than the advice of Ahithophel.” For the Lord had purposed to defeat the good advice of Ahithophel, to the intent that the Lord might bring disaster on Absalom.
 			</v>
 			<marker class="begin-verse" mid="v10017015" />
+			<heading>Hushai Warns David to Escape</heading>
 			<v n="15">
 				<crossref let="k" cid="c10017015.10" />
 				Then Hushai 

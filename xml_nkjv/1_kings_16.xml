@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Kings" num="11" testament="old" version="NKJV" bookAbbr="1ki">
 		<marker class="begin-verse" mid="v11016001" />
-		<chapter num="16">
+		<chapter num="16">			<heading>The Reigns of Elah, Zimri, Omri, and Ahab</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c11016001.1" />
@@ -70,10 +71,11 @@
 				
 				And also 
 				
-				 the word of the Lord came by the prophet Jehu the son of Hanani against Baasha and his house, because of all the evil that he did in the sight of the Lord in provoking Him to anger with the work of his hands, in being like the house of Jeroboam, and because he killed them.Elah Reigns in Israel
+				 the word of the Lord came by the prophet Jehu the son of Hanani against Baasha and his house, because of all the evil that he did in the sight of the Lord in provoking Him to anger with the work of his hands, in being like the house of Jeroboam, and because he killed them.
 			<crossref let="l" cid="c11016007.12" />
 			</v>
 			<marker class="begin-verse" mid="v11016008" />
+			<heading>Elah Reigns in Israel</heading>
 			<v n="8">
 				In the 
 				
@@ -119,9 +121,10 @@
 			<v n="14">
 				Now the 
 				
-				 rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel? Zimri Reigns in Israel
+				 rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel?
 			</v>
 			<marker class="begin-verse" mid="v11016015" />
+			<heading>Zimri Reigns in Israel</heading>
 			<v n="15">
 				<crossref let="r" cid="c11016015.18" />
 				In the 
@@ -159,9 +162,10 @@
 			<v n="20">
 				Now the 
 				
-				 rest of the acts of Zimri, and the treason he committed, are they not written in the book of the chronicles of the kings of Israel? Omri Reigns in Israel
+				 rest of the acts of Zimri, and the treason he committed, are they not written in the book of the chronicles of the kings of Israel?
 			</v>
 			<marker class="begin-verse" mid="v11016021" />
+			<heading>Omri Reigns in Israel</heading>
 			<v n="21">
 				Then the 
 				
@@ -211,9 +215,10 @@
 			<v n="28">
 				So Omri 
 				
-				 rested with his fathers and was buried in Samaria. Then Ahab his son reigned in his place.Ahab Reigns in Israel
+				 rested with his fathers and was buried in Samaria. Then Ahab his son reigned in his place.
 			</v>
 			<marker class="begin-verse" mid="v11016029" />
+			<heading>Ahab Reigns in Israel</heading>
 			<v n="29">
 				In the 
 				

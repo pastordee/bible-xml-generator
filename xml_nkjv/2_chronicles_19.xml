@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Chronicles" num="14" testament="old" version="NKJV" bookAbbr="2ch">
 		<marker class="begin-verse" mid="v14019001" />
-		<chapter num="19">
+		<chapter num="19">			<heading>Jehoshaphat’s Additional Reforms</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then Jehoshaphat 
@@ -35,10 +36,11 @@
 				
 				Nevertheless good 
 				
-				 things are found in you, in that you have removed the wooden images from the land, and have prepared your heart to seek God.”The Reforms of Jehoshaphat
+				 things are found in you, in that you have removed the wooden images from the land, and have prepared your heart to seek God.”
 			<crossref let="e" cid="c14019003.4" />
 			</v>
 			<marker class="begin-verse" mid="v14019004" />
+			<heading>The Reforms of Jehoshaphat</heading>
 			<v n="4">
 				<crossref let="f" cid="c14019004.5" />
 				So Jehoshaphat 

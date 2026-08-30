@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Samuel" num="9" testament="old" version="MSG" bookAbbr="1sa">
 		<marker class="begin-verse" mid="v09004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>The Chest of God Is Taken</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				and Samuel's 
@@ -81,6 +82,7 @@
 				 of God was captured, and Hophni and Phinehas, Eli's two sons, died.
 			</v>
 			<marker class="begin-verse" mid="v09004012" />
+			<heading>Glory Is Exiled from Israel</heading>
 			<v n="12">
 				A man 
 				

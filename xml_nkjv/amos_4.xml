@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Amos" num="30" testament="old" version="NKJV" bookAbbr="amo">
 		<marker class="begin-verse" mid="v30004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>God’s Punishments Have Not Reformed Israel</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c30004001.1" />
@@ -53,11 +54,12 @@
 				<crossref let="k" cid="c30004005.8" />
 				Offer a 
 				
-				 sacrifice of thanksgiving with leaven, Proclaim and announce the freewill offerings; For this you love, You children of Israel!”Says the Lord God.Israel Did Not Accept Correction
+				 sacrifice of thanksgiving with leaven, Proclaim and announce the freewill offerings; For this you love, You children of Israel!”Says the Lord God.
 			
 			<crossref let="l" cid="c30004005.9" />
 			</v>
 			<marker class="begin-verse" mid="v30004006" />
+			<heading>Israel Did Not Accept Correction</heading>
 			<v n="6">
 				<crossref let="m" cid="c30004006.10" />
 				“Also I 

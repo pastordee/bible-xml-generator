@@ -13,15 +13,17 @@
 	</generation_info>
 	<book title="Zephaniah" num="36" testament="old" version="NKJV" bookAbbr="zep">
 		<marker class="begin-verse" mid="v36001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>The Great Day of the Lord</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="b" cid="c36001001.1" />
 				The word 
 				
-				 of the Lord which came to Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah the son of Amon, king of Judah.The Great Day of the Lord
+				 of the Lord which came to Zephaniah the son of Cushi, the son of Gedaliah, the son of Amariah, the son of Hezekiah, in the days of Josiah the son of Amon, king of Judah.
 			</v>
 			<marker class="begin-verse" mid="v36001002" />
+			<heading>The Great Day of the Lord</heading>
 			<v n="2">
 				“I will 
 				

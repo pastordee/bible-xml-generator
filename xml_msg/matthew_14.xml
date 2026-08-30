@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40014001" />
-		<chapter num="14">
+		<chapter num="14">			<heading>The Death of John</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				At that 
@@ -87,6 +88,7 @@
 				 came and took the body, and buried him. Then they went and told Jesus.
 			</v>
 			<marker class="begin-verse" mid="v40014013" />
+			<heading>Supper for Five Thousand</heading>
 			<v n="13">
 				When Jesus 
 				
@@ -141,6 +143,7 @@
 				 thousand men ate the food, not counting women and children.
 			</v>
 			<marker class="begin-verse" mid="v40014022" />
+			<heading>Walking on the Water</heading>
 			<v n="22">
 				Right after 
 				

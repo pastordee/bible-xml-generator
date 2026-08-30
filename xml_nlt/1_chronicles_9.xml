@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Chronicles" num="13" testament="old" version="NLT" bookAbbr="1ch">
 		<marker class="begin-verse" mid="v13009001" />
-		<chapter num="9">
+		<chapter num="9">			<heading>The Returning Exiles</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				So all 
@@ -66,9 +67,10 @@
 			<v n="9">
 				These men 
 				
-				 were all leaders of clans, and they were listed in their genealogical records. In all, 956 families from the tribe of Benjamin returned.The Returning Priests
+				 were all leaders of clans, and they were listed in their genealogical records. In all, 956 families from the tribe of Benjamin returned.
 			</v>
 			<marker class="begin-verse" mid="v13009010" />
+			<heading>The Returning Priests</heading>
 			<v n="10">
 				Among the 
 				
@@ -90,9 +92,10 @@
 			<v n="13">
 				In all, 
 				
-				 1,760 priests returned. They were heads of clans and very able men. They were responsible for ministering at the house of God.The Returning Levites
+				 1,760 priests returned. They were heads of clans and very able men. They were responsible for ministering at the house of God.
 			</v>
 			<marker class="begin-verse" mid="v13009014" />
+			<heading>The Returning Levites</heading>
 			<v n="14">
 				The Levites 
 				
@@ -216,9 +219,10 @@
 			<v n="34">
 				All these 
 				
-				 men lived in Jerusalem. They were the heads of Levite families and were listed as prominent leaders in their genealogical records.King Saul’s Family Tree
+				 men lived in Jerusalem. They were the heads of Levite families and were listed as prominent leaders in their genealogical records.
 			</v>
 			<marker class="begin-verse" mid="v13009035" />
+			<heading>King Saul’s Family Tree</heading>
 			<v n="35">
 				Jeiel (the 
 				

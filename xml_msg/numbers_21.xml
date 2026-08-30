@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Numbers" num="4" testament="old" version="MSG" bookAbbr="num">
 		<marker class="begin-verse" mid="v04021001" />
-		<chapter num="21">
+		<chapter num="21">			<heading>Hormah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Canaanite 
@@ -33,6 +34,7 @@
 				 responded to their appeal and handed over the Canaanites to them. The Israelites completely destroyed them and their towns, and named the place Hormah.
 			</v>
 			<marker class="begin-verse" mid="v04021004" />
+			<heading>The Snake of Fiery Copper</heading>
 			<v n="4">
 				The Israelites 
 				
@@ -69,6 +71,7 @@
 				 a snake out of bronze and put it on a pole. Those who looked at it did live.
 			</v>
 			<marker class="begin-verse" mid="v04021010" />
+			<heading>Camping on the Way to Moab</heading>
 			<v n="10">
 				The Israelites 
 				

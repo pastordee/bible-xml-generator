@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Leviticus" num="3" testament="old" version="MSG" bookAbbr="lev">
 		<marker class="begin-verse" mid="v03025001" />
-		<chapter num="25">
+		<chapter num="25">			<heading>“The Land Will Observe a Sabbath to God ”</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 
@@ -57,6 +58,7 @@
 				 your livestock and the wild animals living in your land. Whatever grows can be used for food.
 			</v>
 			<marker class="begin-verse" mid="v03025008" />
+			<heading>“The Fiftieth Year Is Your Jubilee Year”</heading>
 			<v n="8">
 				Count seven 
 				

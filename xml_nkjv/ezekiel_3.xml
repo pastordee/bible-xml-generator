@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Ezekiel" num="26" testament="old" version="NKJV" bookAbbr="ezk">
 		<marker class="begin-verse" mid="v26003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>The Responsibility of the Prophet</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c26003001.1" />
@@ -120,9 +121,10 @@
 				<crossref let="n" cid="c26003015.14" />
 				Then I 
 				
-				 came to the captives at Tel Abib, who dwelt by the River Chebar; and I sat where they sat, and remained there astonished among them seven days.Ezekiel Is a Watchman
+				 came to the captives at Tel Abib, who dwelt by the River Chebar; and I sat where they sat, and remained there astonished among them seven days.
 			</v>
 			<marker class="begin-verse" mid="v26003016" />
+			<heading>Ezekiel Is a Watchman</heading>
 			<v n="16">
 				<crossref let="o" cid="c26003016.15" />
 				Now it 

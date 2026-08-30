@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Joshua" num="6" testament="old" version="MSG" bookAbbr="jos">
 		<marker class="begin-verse" mid="v06023001" />
-		<chapter num="23">
+		<chapter num="23">			<heading>Joshua’s Charge</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				A long 

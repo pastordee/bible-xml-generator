@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Mark" num="41" testament="new" version="MSG" bookAbbr="mrk">
 		<marker class="begin-verse" mid="v41004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>The Story of the Scattered Seed</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Jesus began 
@@ -135,6 +136,7 @@
 				 seeds sown on good soil illustrate those who hear the word, accept it, and are productive—producing thirty, sixty, and a hundred times what was originally sown.
 			</v>
 			<marker class="begin-verse" mid="v41004021" />
+			<heading>Giving, Not Getting</heading>
 			<v n="21">
 				Who puts 
 				
@@ -165,6 +167,7 @@
 				 be given to those who already have understanding, but those who don't want to know will have what little understanding they have taken from them.
 			</v>
 			<marker class="begin-verse" mid="v41004026" />
+			<heading>Never Without a Story</heading>
 			<v n="26">
 				God's kingdom 
 				
@@ -219,6 +222,7 @@
 				 when he spoke publicly, he only used stories; however in private he explained everything to his disciples.
 			</v>
 			<marker class="begin-verse" mid="v41004035" />
+			<heading>The Wind Ran Out of Breath</heading>
 			<v n="35">
 				Later that 
 				

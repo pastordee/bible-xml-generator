@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Ecclesiastes" num="21" testament="old" version="MSG" bookAbbr="ecc">
 		<marker class="begin-verse" mid="v21003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>There’s a Right Time for Everything</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Everything has 
@@ -105,6 +106,7 @@
 				 is; and whatever will be, has been, and God examines the whole of time.
 			</v>
 			<marker class="begin-verse" mid="v21003016" />
+			<heading>God’s Testing Us</heading>
 			<v n="16">
 				I also 
 				

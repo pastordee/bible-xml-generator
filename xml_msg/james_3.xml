@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="James" num="59" testament="new" version="MSG" bookAbbr="jas">
 		<marker class="begin-verse" mid="v59003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>When You Open Your Mouth</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				My friends, 
@@ -87,6 +88,7 @@
 				 a fig tree can't produce olives, and a vine can't produce figs, any more than a salt water spring can produce fresh water!
 			</v>
 			<marker class="begin-verse" mid="v59003013" />
+			<heading>Live Well, Live Wisely</heading>
 			<v n="13">
 				Who among 
 				

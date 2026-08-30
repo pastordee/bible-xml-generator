@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Joshua" num="6" testament="old" version="MSG" bookAbbr="jos">
 		<marker class="begin-verse" mid="v06021001" />
-		<chapter num="21">
+		<chapter num="21">			<heading>Cities for the Levites</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The leaders 
@@ -63,6 +64,7 @@
 				 Israelites gave the Levites by lot these towns and pastures, as the Lord had instructed through Moses.
 			</v>
 			<marker class="begin-verse" mid="v06021009" />
+			<heading>Cities for the Descendants of Aaron</heading>
 			<v n="9">
 				They gave 
 				

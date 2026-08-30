@@ -22,7 +22,7 @@ import tarfile
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
-from apply_headings import normalise
+from apply_headings import heading_anchors, normalise, similar
 
 
 def verses(xml):
@@ -87,23 +87,42 @@ def main():
         for n in sorted(set(ov) & set(nv)):
             if ov[n] == nv[n]:
                 continue
+            # Peel repeatedly: a verse can have had several headings glued to
+            # its tail (Song of Solomon stacks a section heading and a speaker
+            # label), and each is only exposed once the one after it is gone.
             removed = ov[n]
-            for h in headings(new):
-                if removed.endswith(h):
-                    removed = removed[: -len(h)].strip()
+            changed_any = True
+            while changed_any:
+                changed_any = False
+                # Longest first: 'Nebuchadnezzar's Dream' is a suffix of 'God
+                # Reveals Nebuchadnezzar's Dream', and peeling the short one
+                # first would strand the rest.
+                for h in sorted(headings(new), key=len, reverse=True):
+                    if h and removed.endswith(h):
+                        removed = removed[: -len(h)].strip()
+                        changed_any = True
             if re.sub(r'\s+', ' ', removed).strip() != nv[n]:
                 problems.append(
                     f'{path} v{n}: text changed beyond heading removal\n'
                     f'    old: ...{ov[n][-90:]!r}\n    new: ...{nv[n][-90:]!r}')
 
         hs = headings(new)
-        dupes = {h for h in hs if [normalise(x) for x in hs].count(normalise(h)) > 1}
-        if dupes:
-            problems.append(f'{path}: duplicate headings {sorted(dupes)}')
+        # A heading may legitimately repeat in a chapter (Song of Solomon's
+        # speaker labels), but never twice against the same verse.
+        seen = set()
+        for verse, text in heading_anchors(new):
+            if (verse, normalise(text)) in seen:
+                problems.append(f'{path}: heading {text!r} twice at v{verse}')
+            seen.add((verse, normalise(text)))
 
-        have = {normalise(h) for h in hs}
         for _verse, text in want:
-            if normalise(text) not in have:
+            # Numeric "headings" are Bible Gateway's MSG saying-numbers; the
+            # applier deliberately drops them.
+            if text.isdigit():
+                continue
+            # `similar` so a heading the import shipped with a cross-reference
+            # parenthetical, or with slightly different wording, still counts.
+            if not any(similar(h, text) for h in hs):
                 problems.append(f'{path}: fetched heading missing after apply: {text!r}')
 
     print(f'{version}: validated {checked} changed chapters — '

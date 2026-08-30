@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Acts" num="44" testament="new" version="MSG" bookAbbr="act">
 		<marker class="begin-verse" mid="v44001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>To the Ends of the World</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Dear Theophilus, 
@@ -81,6 +82,7 @@
 				 Galilee, why are you standing here staring at the sky?” they asked. “This same Jesus who has been taken up from you to heaven shall come in the same way you saw him go into heaven.”
 			</v>
 			<marker class="begin-verse" mid="v44001012" />
+			<heading>Returning to Jerusalem</heading>
 			<v n="12">
 				Then the 
 				
@@ -99,6 +101,7 @@
 				 joined together in prayer, together with the women and Mary, Jesus' mother, and his brothers.
 			</v>
 			<marker class="begin-verse" mid="v44001015" />
+			<heading>Replacing Judas</heading>
 			<v n="15">
 				At this 
 				

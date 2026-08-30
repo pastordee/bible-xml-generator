@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="MSG" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02040001" />
-		<chapter num="40">
+		<chapter num="40">			<heading>“Moses Finished the Work”</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 

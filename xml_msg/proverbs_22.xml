@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20022001" />
-		<chapter num="22">
+		<chapter num="22">			<heading>The Cure Comes Through Discipline</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				A good 
@@ -111,6 +112,7 @@
 				 oppress the poor to make yourself rich, or if you're generous to the rich, you'll end up poor yourself.
 			</v>
 			<marker class="begin-verse" mid="v20022017" />
+			<heading>Don’t Move Back the Boundary Lines</heading>
 			<v n="17">
 				Pay attention 
 				

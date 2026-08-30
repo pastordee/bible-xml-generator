@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>The Test</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then Jesus 
@@ -81,6 +82,7 @@
 				 devil left him, and angels came to care for him.
 			</v>
 			<marker class="begin-verse" mid="v40004012" />
+			<heading>Teaching and Healing</heading>
 			<v n="12">
 				When Jesus 
 				

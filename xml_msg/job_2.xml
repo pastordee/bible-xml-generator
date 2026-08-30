@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Job" num="18" testament="old" version="MSG" bookAbbr="job">
 		<marker class="begin-verse" mid="v18002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>The Second Test: Health</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				One day 
@@ -75,6 +76,7 @@
 				 told her, “You're talking just like any foolish woman would! Should we receive only good from God, and not evil?” Despite all this, Job said nothing sinful.
 			</v>
 			<marker class="begin-verse" mid="v18002011" />
+			<heading>Job’s Three Friends</heading>
 			<v n="11">
 				When three 
 				

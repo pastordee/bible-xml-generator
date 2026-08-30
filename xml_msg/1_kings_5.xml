@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Kings" num="11" testament="old" version="MSG" bookAbbr="1ki">
 		<marker class="begin-verse" mid="v11005001" />
-		<chapter num="5">
+		<chapter num="5">			<heading>International Fame</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				When Hiram 
@@ -87,6 +88,7 @@
 				 gave Solomon wisdom just as he had promised him. Hiram and Solomon had a good relationship and they made a peace treaty with each other.
 			</v>
 			<marker class="begin-verse" mid="v11005013" />
+			<heading>The Temple Work Begins</heading>
 			<v n="13">
 				King Solomon 
 				

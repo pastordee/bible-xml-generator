@@ -13,15 +13,17 @@
 	</generation_info>
 	<book title="Isaiah" num="23" testament="old" version="NKJV" bookAbbr="isa">
 		<marker class="begin-verse" mid="v23001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>Judah Called to Repentance</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="b" cid="c23001001.1" />
 				The vision 
 				
-				 of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.The Wickedness of Judah
+				 of Isaiah the son of Amoz, which he saw concerning Judah and Jerusalem in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 			</v>
 			<marker class="begin-verse" mid="v23001002" />
+			<heading>The Wickedness of Judah</heading>
 			<v n="2">
 				<crossref let="c" cid="c23001002.2" />
 				Hear, O 
@@ -161,9 +163,10 @@
 				<crossref let="z" cid="c23001020.23" />
 				But if 
 				
-				 you refuse and rebel, You shall be devoured by the sword”; For the mouth of the Lord has spoken.The Degenerate City
+				 you refuse and rebel, You shall be devoured by the sword”; For the mouth of the Lord has spoken.
 			</v>
 			<marker class="begin-verse" mid="v23001021" />
+			<heading>The Degenerate City</heading>
 			<v n="21">
 				<crossref let="a" cid="c23001021.24" />
 				How the 

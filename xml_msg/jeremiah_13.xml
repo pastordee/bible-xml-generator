@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="MSG" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24013001" />
-		<chapter num="13">
+		<chapter num="13">			<heading>People Who Do Only What They Want to Do</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				This is 
@@ -99,6 +100,7 @@
 				 to smash them against each other like wine jars, both parents and children, declares the Lord. I won't let any mercy or pity or compassion stop me from destroying them.
 			</v>
 			<marker class="begin-verse" mid="v24013015" />
+			<heading>The Light You Always Took for Granted</heading>
 			<v n="15">
 				Listen and 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20006001" />
-		<chapter num="6">
+		<chapter num="6">			<heading>Like a Deer from the Hunter</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				My son, 
@@ -45,6 +46,7 @@
 				 of it like a gazelle escaping from a trap, like a bird from a bird-catcher's net.
 			</v>
 			<marker class="begin-verse" mid="v20006006" />
+			<heading>A Lesson from the Ant</heading>
 			<v n="6">
 				Go and 
 				
@@ -81,6 +83,7 @@
 				 will attack you like a robber, destitution like an armed warrior.
 			</v>
 			<marker class="begin-verse" mid="v20006012" />
+			<heading>Always Cooking Up Something Nasty</heading>
 			<v n="12">
 				Rebellious and 
 				
@@ -105,6 +108,7 @@
 				 result, disaster falls suddenly on such people; in just a moment they're destroyed without hope of healing.
 			</v>
 			<marker class="begin-verse" mid="v20006016" />
+			<heading>Seven Things God Hates</heading>
 			<v n="16">
 				There are 
 				
@@ -129,6 +133,7 @@
 				 witness that speaks lies, those who caused arguments in families.
 			</v>
 			<marker class="begin-verse" mid="v20006020" />
+			<heading>Warning on Adultery</heading>
 			<v n="20">
 				My son, 
 				

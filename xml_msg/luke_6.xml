@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Luke" num="42" testament="new" version="MSG" bookAbbr="luk">
 		<marker class="begin-verse" mid="v42006001" />
-		<chapter num="6">
+		<chapter num="6">			<heading>In Charge of the Sabbath</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				One Sabbath 
@@ -81,6 +82,7 @@
 				 flew into a rage, and began to discuss what they could do to Jesus.
 			</v>
 			<marker class="begin-verse" mid="v42006012" />
+			<heading>The Twelve Apostles</heading>
 			<v n="12">
 				One day 
 				
@@ -111,6 +113,7 @@
 				 son of James, and Judas Iscariot (who became a traitor).
 			</v>
 			<marker class="begin-verse" mid="v42006017" />
+			<heading>You’re Blessed</heading>
 			<v n="17">
 				Jesus went 
 				
@@ -153,6 +156,7 @@
 				 day comes, be happy. Jump for joy, for great is your reward in heaven. Don't forget their forefathers mistreated the prophets just like this.
 			</v>
 			<marker class="begin-verse" mid="v42006024" />
+			<heading>Give Away Your Life</heading>
 			<v n="24">
 				But how 
 				
@@ -267,6 +271,7 @@
 				 you say to your brother, ‘Brother, let me take out the speck that's in your eye,’ when you don't even see the plank that's in your own eye? Hypocrite! Take out the plank from your own eye first, and then you'll be able to see well enough to take out the speck from your brother's eye.
 			</v>
 			<marker class="begin-verse" mid="v42006043" />
+			<heading>Work the Words into Your Life</heading>
 			<v n="43">
 				A good 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="John" num="43" testament="new" version="MSG" bookAbbr="jhn">
 		<marker class="begin-verse" mid="v43002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>From Water to Wine</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Two days 
@@ -87,6 +88,7 @@
 				 Jesus left for Capernaum with his mother, brothers, and disciples where they stayed for a few days.
 			</v>
 			<marker class="begin-verse" mid="v43002013" />
+			<heading>Tear Down This Temple . . .</heading>
 			<v n="13">
 				Since it 
 				

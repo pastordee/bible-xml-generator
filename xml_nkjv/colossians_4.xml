@@ -13,15 +13,17 @@
 	</generation_info>
 	<book title="Colossians" num="51" testament="new" version="NKJV" bookAbbr="col">
 		<marker class="begin-verse" mid="v51004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>Christian Graces; Final Greetings</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c51004001.1" />
 				Masters,give your 
 				
-				 bondservants what is just and fair, knowing that you also have a Master in heaven.Christian Graces
+				 bondservants what is just and fair, knowing that you also have a Master in heaven.
 			</v>
 			<marker class="begin-verse" mid="v51004002" />
+			<heading>Christian Graces</heading>
 			<v n="2">
 				<crossref let="b" cid="c51004002.2" />Continue earnestly in prayer, being vigilant in it<crossref let="c" cid="c51004002.3" /> with thanksgiving;</v>
 			<marker class="begin-verse" mid="v51004003" />
@@ -37,11 +39,12 @@
 				<crossref let="k" cid="c51004006.10" />
 				Let your 
 				
-				 speech always be with grace, seasoned with salt, that you may know how you ought to answer each one.Final Greetings
+				 speech always be with grace, seasoned with salt, that you may know how you ought to answer each one.
 			
 			<crossref let="l" cid="c51004006.11" />
 			</v>
 			<marker class="begin-verse" mid="v51004007" />
+			<heading>Final Greetings</heading>
 			<v n="7">
 				<crossref let="o" cid="c51004007.12" />Tychicus, a beloved brother, faithful minister, and fellow servant in the Lord, will tell you all the news about me.</v>
 			<marker class="begin-verse" mid="v51004008" />
@@ -67,9 +70,10 @@
 				<crossref let="y" cid="c51004015.22" />
 				Greet the 
 				
-				 brethren who are in Laodicea, and Nymphas and the church that is in his house.Closing Exhortations and Blessing
+				 brethren who are in Laodicea, and Nymphas and the church that is in his house.
 			</v>
 			<marker class="begin-verse" mid="v51004016" />
+			<heading>Closing Exhortations and Blessing</heading>
 			<v n="16">Now when<crossref let="z" cid="c51004016.23" /> this epistle is read among you, see that it is read also in the church of the Laodiceans, and that you likewise read the epistle from Laodicea.</v>
 			<marker class="begin-verse" mid="v51004017" />
 			<v n="17">

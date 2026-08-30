@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Kings" num="12" testament="old" version="MSG" bookAbbr="2ki">
 		<marker class="begin-verse" mid="v12013001" />
-		<chapter num="13">
+		<chapter num="13">			<heading>Jehoahaz of Israel</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Jehoahaz, son 
@@ -69,6 +70,7 @@
 				 and was buried in Samaria. His son Jehoash succeeded him as king.
 			</v>
 			<marker class="begin-verse" mid="v12013010" />
+			<heading>Jehoash of Israel</heading>
 			<v n="10">
 				Jehoash, son 
 				

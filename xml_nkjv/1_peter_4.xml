@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Peter" num="60" testament="new" version="NKJV" bookAbbr="1pe">
 		<marker class="begin-verse" mid="v60004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>Christ’s Example to Be Followed</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Therefore, since 
@@ -34,10 +35,11 @@
 				
 				For this 
 				
-				 reason the gospel was preached also to those who are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.Serving for God’s Glory
+				 reason the gospel was preached also to those who are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.
 			<crossref let="d" cid="c60004006.4" />
 			</v>
 			<marker class="begin-verse" mid="v60004007" />
+			<heading>Serving for God’s Glory</heading>
 			<v n="7">But<crossref let="e" cid="c60004007.5" /> the end of all things is at hand; therefore be serious and watchful in your prayers.</v>
 			<marker class="begin-verse" mid="v60004008" />
 			<v n="8">And above all things have fervent love for one another, for<crossref let="f" cid="c60004008.6" />“love will cover a multitude of sins.”</v>
@@ -51,11 +53,12 @@
 				<crossref let="l" cid="c60004011.10" />
 				If anyone 
 				
-				 speaks, let him speak as the oracles of God. If anyone ministers, let him do it as with the ability which God supplies, that in all things God may be glorified through Jesus Christ, to whom belong the glory and the dominion forever and ever. Amen.Suffering for God’s Glory
+				 speaks, let him speak as the oracles of God. If anyone ministers, let him do it as with the ability which God supplies, that in all things God may be glorified through Jesus Christ, to whom belong the glory and the dominion forever and ever. Amen.
 			
 			<crossref let="m" cid="c60004011.11" />
 			</v>
 			<marker class="begin-verse" mid="v60004012" />
+			<heading>Suffering for God’s Glory</heading>
 			<v n="12">Beloved, do not think it strange concerning the fiery trial which is to try you, as though some strange thing happened to you;</v>
 			<marker class="begin-verse" mid="v60004013" />
 			<v n="13">but rejoice<crossref let="n" cid="c60004013.12" /> to the extent that you partake of Christ’s sufferings, that when His glory is revealed, you may also be glad with exceeding joy.</v>

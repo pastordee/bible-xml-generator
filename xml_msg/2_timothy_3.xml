@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Timothy" num="55" testament="new" version="MSG" bookAbbr="2ti">
 		<marker class="begin-verse" mid="v55003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>Difficult Times Ahead</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Be aware 
@@ -69,6 +70,7 @@
 				 won't get far. Their stupidity will be obvious to everyone, just like that of Jannes and Jambres.
 			</v>
 			<marker class="begin-verse" mid="v55003010" />
+			<heading>Keep the Message Alive</heading>
 			<v n="10">
 				But you 
 				

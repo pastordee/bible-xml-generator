@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Numbers" num="4" testament="old" version="MSG" bookAbbr="num">
 		<marker class="begin-verse" mid="v04004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>Duties of the Kohathites</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 
@@ -135,6 +136,7 @@
 				 must not go in and look at the things that are most holy, even for just a moment, otherwise they'll die.”
 			</v>
 			<marker class="begin-verse" mid="v04004021" />
+			<heading>Duties of the Gershonites</heading>
 			<v n="21">
 				The Lord 
 				
@@ -183,6 +185,7 @@
 				 their responsibilities for moving the Tent of Meeting, carried out under the direction of Ithamar, son of Aaron the priest.
 			</v>
 			<marker class="begin-verse" mid="v04004029" />
+			<heading>Duties of the Merarites</heading>
 			<v n="29">
 				Register the 
 				

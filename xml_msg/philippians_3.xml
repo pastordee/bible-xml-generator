@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Philippians" num="50" testament="new" version="MSG" bookAbbr="php">
 		<marker class="begin-verse" mid="v50003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>To Know Him Personally</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				To sum 
@@ -81,6 +82,7 @@
 				 somehow I might be part of the resurrection from the dead!
 			</v>
 			<marker class="begin-verse" mid="v50003012" />
+			<heading>Focused on the Goal</heading>
 			<v n="12">
 				Not that 
 				

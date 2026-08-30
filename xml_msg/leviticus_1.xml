@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Leviticus" num="3" testament="old" version="MSG" bookAbbr="lev">
 		<marker class="begin-verse" mid="v03001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>Whole-Burnt-Offering</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 

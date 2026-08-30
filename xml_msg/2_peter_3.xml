@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Peter" num="61" testament="new" version="MSG" bookAbbr="2pe">
 		<marker class="begin-verse" mid="v61003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>In the Last Days</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				My friends, 
@@ -57,6 +58,7 @@
 				 means of that same divine command the heavens and the earth that now exist are reserved for destruction by fire at the day of judgment when the wicked will be destroyed.
 			</v>
 			<marker class="begin-verse" mid="v61003008" />
+			<heading>The Day the Sky Will Collapse</heading>
 			<v n="8">
 				However, my 
 				

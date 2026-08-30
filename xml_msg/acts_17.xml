@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Acts" num="44" testament="new" version="MSG" bookAbbr="act">
 		<marker class="begin-verse" mid="v44017001" />
-		<chapter num="17">
+		<chapter num="17">			<heading>Thessalonica</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				After Paul 
@@ -69,6 +70,7 @@
 				 made Jason and the others post bail before they let them go.
 			</v>
 			<marker class="begin-verse" mid="v44017010" />
+			<heading>Berea</heading>
 			<v n="10">
 				The believers 
 				
@@ -105,6 +107,7 @@
 				 Paul took him as far as Athens, and then returned with instructions from Paul to Silas and Timothy that they should join him there as soon as possible.
 			</v>
 			<marker class="begin-verse" mid="v44017016" />
+			<heading>Athens</heading>
 			<v n="16">
 				While Paul 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Genesis" num="1" testament="old" version="MSG" bookAbbr="gen">
 		<marker class="begin-verse" mid="v01011001" />
-		<chapter num="11">
+		<chapter num="11">			<heading>“ God Turned Their Language into ‘Babble’”</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				At that 
@@ -171,6 +172,7 @@
 				 was 70, he had Abram, Nahor, and Haran.
 			</v>
 			<marker class="begin-verse" mid="v01011027" />
+			<heading>The Family Tree of Terah</heading>
 			<v n="27">
 				The following 
 				

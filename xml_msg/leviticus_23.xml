@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Leviticus" num="3" testament="old" version="MSG" bookAbbr="lev">
 		<marker class="begin-verse" mid="v03023001" />
-		<chapter num="23">
+		<chapter num="23">			<heading>The Feasts</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 

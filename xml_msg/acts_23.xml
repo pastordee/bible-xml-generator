@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Acts" num="44" testament="new" version="MSG" bookAbbr="act">
 		<marker class="begin-verse" mid="v44023001" />
-		<chapter num="23">
+		<chapter num="23">			<heading>Before the High Council</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Paul, looking 
@@ -75,6 +76,7 @@
 				 was getting out of hand, so the commander, concerned that they would tear Paul to pieces, ordered the soldiers to go and rescue him from them by force, and take him back into the fortress.
 			</v>
 			<marker class="begin-verse" mid="v44023011" />
+			<heading>A Plot Against Paul</heading>
 			<v n="11">
 				Afterwards, during 
 				

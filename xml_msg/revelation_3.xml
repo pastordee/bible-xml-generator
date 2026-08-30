@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Revelation" num="66" testament="new" version="MSG" bookAbbr="rev">
 		<marker class="begin-verse" mid="v66003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>To Sardis</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				“Write this 
@@ -51,6 +52,7 @@
 				 have ears, listen to what the Spirit is telling the churches.
 			</v>
 			<marker class="begin-verse" mid="v66003007" />
+			<heading>To Philadelphia</heading>
 			<v n="7">
 				Write this 
 				
@@ -93,6 +95,7 @@
 				 have ears, listen to what the Spirit is telling the churches.
 			</v>
 			<marker class="begin-verse" mid="v66003014" />
+			<heading>To Laodicea</heading>
 			<v n="14">
 				Write this 
 				

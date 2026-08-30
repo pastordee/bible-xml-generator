@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="MSG" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02030001" />
-		<chapter num="30">
+		<chapter num="30">			<heading>The Altar of Incense</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				“Make from 
@@ -75,6 +76,7 @@
 				 year Aaron must perform the atonement ritual by placing blood on the horns of the altar from the sin offering for atonement. This yearly atonement ritual must be carried out for generations to come. This is the Lord's holy altar.”
 			</v>
 			<marker class="begin-verse" mid="v02030011" />
+			<heading>The Atonement-Tax</heading>
 			<v n="11">
 				The Lord 
 				
@@ -111,6 +113,7 @@
 				 money paid by the Israelites and use it for the expenses involved in the services of the Tent of Meeting. It will serve as a reminder for the Israelites to buy back your lives in the presence of the Lord.”
 			</v>
 			<marker class="begin-verse" mid="v02030017" />
+			<heading>The Washbasin</heading>
 			<v n="17">
 				The Lord 
 				
@@ -141,6 +144,7 @@
 				 also wash so that they will not die. This requirement is to be observed by them and their descendants for all generations.”
 			</v>
 			<marker class="begin-verse" mid="v02030022" />
+			<heading>Holy Anointing Oil</heading>
 			<v n="22">
 				The Lord 
 				
@@ -213,6 +217,7 @@
 				 mixes anointing oil like it, or puts it on someone other than a priest, will be expelled from their people.’”
 			</v>
 			<marker class="begin-verse" mid="v02030034" />
+			<heading>Holy Incense</heading>
 			<v n="34">
 				The Lord 
 				

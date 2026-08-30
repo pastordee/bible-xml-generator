@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Numbers" num="4" testament="old" version="MSG" bookAbbr="num">
 		<marker class="begin-verse" mid="v04020001" />
-		<chapter num="20">
+		<chapter num="20">			<heading>Camp Kadesh</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				It was 
@@ -141,6 +142,7 @@
 				 king of Edom refused to allow Israel to travel through his territory, the Israelites had to turn back.
 			</v>
 			<marker class="begin-verse" mid="v04020022" />
+			<heading>Camp Hor</heading>
 			<v n="22">
 				The Israelites 
 				

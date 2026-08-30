@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Timothy" num="54" testament="new" version="MSG" bookAbbr="1ti">
 		<marker class="begin-verse" mid="v54006001" />
-		<chapter num="6">
+		<chapter num="6">			<heading>The Lust for Money</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				All who 
@@ -75,6 +76,7 @@
 				 desire to be rich leads to many kinds of evil results. Some of those who longed for this have turned away from the truth, and have hurt themselves, experiencing a lot of pain.
 			</v>
 			<marker class="begin-verse" mid="v54006011" />
+			<heading>Running Hard</heading>
 			<v n="11">
 				But you 
 				

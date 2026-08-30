@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20026001" />
-		<chapter num="26">
+		<chapter num="26">			<heading>Fools Recycle Silliness</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Honoring someone 
@@ -105,6 +106,7 @@
 				 put their hands in a dish, but are too tired to lift the food to their mouths.
 			</v>
 			<marker class="begin-verse" mid="v20026016" />
+			<heading>Like Glaze on Cracked Pottery</heading>
 			<v n="16">
 				In their 
 				

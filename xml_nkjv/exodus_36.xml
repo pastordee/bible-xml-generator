@@ -13,17 +13,19 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="NKJV" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02036001" />
-		<chapter num="36">
+		<chapter num="36">			<heading>Building the Tabernacle</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c02036001.1" />
 				“And Bezalel 
 				
-				 and Aholiab, and every gifted artisan in whom the Lord has put wisdom and understanding, to know how to do all manner of work for the service of the sanctuary, shall do according to all that the Lord has commanded.”The People Give More than Enough
+				 and Aholiab, and every gifted artisan in whom the Lord has put wisdom and understanding, to know how to do all manner of work for the service of the sanctuary, shall do according to all that the Lord has commanded.”
 			
 			<crossref let="b" cid="c02036001.2" />
 			</v>
 			<marker class="begin-verse" mid="v02036002" />
+			<heading>The People Give More than Enough</heading>
 			<v n="2">
 				<crossref let="c" cid="c02036002.3" />
 				Then Moses 
@@ -63,9 +65,10 @@
 				<crossref let="g" cid="c02036007.7" />
 				for the 
 				
-				 material they had was sufficient for all the work to be done—indeed too much.Building the Tabernacle
+				 material they had was sufficient for all the work to be done—indeed too much.
 			</v>
 			<marker class="begin-verse" mid="v02036008" />
+			<heading>Building the Tabernacle</heading>
 			<v n="8">
 				<crossref let="a" cid="c02036008.8" />
 				Then all 

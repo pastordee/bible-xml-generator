@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Luke" num="42" testament="new" version="MSG" bookAbbr="luk">
 		<marker class="begin-verse" mid="v42003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>A Baptism of Life-Change</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				By now 
@@ -147,6 +148,7 @@
 				 Holy Spirit descended upon him, taking the form of a dove. A voice came from heaven, saying, “You are my son, the one I love. I am truly pleased with you.”
 			</v>
 			<marker class="begin-verse" mid="v42003023" />
+			<heading>Son of Adam, Son of God</heading>
 			<v n="23">
 				Jesus was 
 				

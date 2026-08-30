@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Luke" num="42" testament="new" version="MSG" bookAbbr="luk">
 		<marker class="begin-verse" mid="v42022001" />
-		<chapter num="22">
+		<chapter num="22">			<heading>The Passover Meal</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Now the 
@@ -153,6 +154,7 @@
 				 to argue among themselves as to who this might be and who could do this.
 			</v>
 			<marker class="begin-verse" mid="v42022024" />
+			<heading>Get Ready for Trouble</heading>
 			<v n="24">
 				At the 
 				
@@ -243,6 +245,7 @@
 				 here are two swords,” they said.“That's enough,” he replied.
 			</v>
 			<marker class="begin-verse" mid="v42022039" />
+			<heading>A Dark Night</heading>
 			<v n="39">
 				Jesus left 
 				
@@ -333,6 +336,7 @@
 				 arrest me before, even though I was with you in the Temple every day. But this is your moment now, the time when darkness is in power.”
 			</v>
 			<marker class="begin-verse" mid="v42022054" />
+			<heading>A Rooster Crowed</heading>
 			<v n="54">
 				They arrested 
 				
@@ -387,6 +391,7 @@
 				 out and wept bitterly.
 			</v>
 			<marker class="begin-verse" mid="v42022063" />
+			<heading>Slapping Him Around</heading>
 			<v n="63">
 				The men 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="NKJV" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02007001" />
-		<chapter num="7">
+		<chapter num="7">			<heading>Moses Before Pharaoh</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c02007001.1" />
@@ -71,9 +72,10 @@
 				<crossref let="b" cid="c02007007.12" />
 				And Moses 
 				
-				 was eighty years old and Aaron eighty-three years old when they spoke to Pharaoh.Aaron’s Miraculous Rod
+				 was eighty years old and Aaron eighty-three years old when they spoke to Pharaoh.
 			</v>
 			<marker class="begin-verse" mid="v02007008" />
+			<heading>Aaron’s Miraculous Rod</heading>
 			<v n="8">
 				<crossref let="a" cid="c02007008.13" />
 				Then the 
@@ -117,9 +119,10 @@
 			<v n="13">
 				And Pharaoh’s 
 				
-				 heart grew hard, and he did not heed them, as the Lord had said.The First Plague: Waters Become Blood
+				 heart grew hard, and he did not heed them, as the Lord had said.
 			</v>
 			<marker class="begin-verse" mid="v02007014" />
+			<heading>The First Plague: Waters Become Blood</heading>
 			<v n="14">
 				<crossref let="x" cid="c02007014.20" />
 				So the 

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Ezekiel" num="26" testament="old" version="MSG" bookAbbr="ezk">
 		<marker class="begin-verse" mid="v26045001" />
-		<chapter num="45">
+		<chapter num="45">			<heading>Sacred Space for God</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				When you 
@@ -87,6 +88,7 @@
 				 make one shekel. Sixty shekels make one mina.
 			</v>
 			<marker class="begin-verse" mid="v26045013" />
+			<heading>Everyone in the Land Must Contribute</heading>
 			<v n="13">
 				These are 
 				

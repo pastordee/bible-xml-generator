@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Timothy" num="54" testament="new" version="MSG" bookAbbr="1ti">
 		<marker class="begin-verse" mid="v54003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>Leadership in the Church</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				This is 

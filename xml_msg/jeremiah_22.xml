@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Jeremiah" num="24" testament="old" version="MSG" bookAbbr="jer">
 		<marker class="begin-verse" mid="v24022001" />
-		<chapter num="22">
+		<chapter num="22">			<heading>Walking Out on the Covenant of God</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				This is 
@@ -69,6 +70,7 @@
 				 answer, “Because they broke the agreement of the Lord their God. They went and worshiped other gods.”
 			</v>
 			<marker class="begin-verse" mid="v24022010" />
+			<heading>Building a Fine House but Destroying Lives</heading>
 			<v n="10">
 				Don't weep 
 				
@@ -129,6 +131,7 @@
 				 will be that of a donkey. He'll be dragged off and thrown away outside the gates of Jerusalem.
 			</v>
 			<marker class="begin-verse" mid="v24022020" />
+			<heading>You’ve Made a Total Mess of Your Life</heading>
 			<v n="20">
 				Go to 
 				

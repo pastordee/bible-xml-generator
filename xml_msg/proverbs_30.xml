@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20030001" />
-		<chapter num="30">
+		<chapter num="30">			<heading>God? Who Needs Him?</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				These are 
@@ -99,6 +100,7 @@
 				 some who have teeth like swords, incisors like knives, ready to devour the poor from the earth, the needy from society.
 			</v>
 			<marker class="begin-verse" mid="v20030015" />
+			<heading>Four Insatiables</heading>
 			<v n="15">
 				The leech 
 				
@@ -117,6 +119,7 @@
 				 ridicule their fathers and despise obedience to the mother will have their eyes pecked out by wild ravens and eaten by young vultures.
 			</v>
 			<marker class="begin-verse" mid="v20030018" />
+			<heading>Four Mysteries</heading>
 			<v n="18">
 				These three 
 				
@@ -135,6 +138,7 @@
 				 the way of a woman who commits adultery: she eats, she wipes her mouth, and then says, “I haven't done anything wrong!”
 			</v>
 			<marker class="begin-verse" mid="v20030021" />
+			<heading>Four Intolerables</heading>
 			<v n="21">
 				Three things 
 				
@@ -153,6 +157,7 @@
 				 woman getting married, and a maidservant taking her mistress's place.
 			</v>
 			<marker class="begin-verse" mid="v20030024" />
+			<heading>Four Small Wonders</heading>
 			<v n="24">
 				There are 
 				
@@ -183,6 +188,7 @@
 				 catch them in your hands, but they live in the king's palace.
 			</v>
 			<marker class="begin-verse" mid="v20030029" />
+			<heading>Four Dignitaries</heading>
 			<v n="29">
 				There are 
 				

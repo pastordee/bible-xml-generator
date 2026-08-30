@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Hebrews" num="58" testament="new" version="MSG" bookAbbr="heb">
 		<marker class="begin-verse" mid="v58010001" />
-		<chapter num="10">
+		<chapter num="10">			<heading>The Sacrifice of Jesus</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The law 
@@ -123,6 +124,7 @@
 				 from such things, sin offerings are no longer needed.
 			</v>
 			<marker class="begin-verse" mid="v58010019" />
+			<heading>Don’t Throw It All Away</heading>
 			<v n="19">
 				Now we 
 				

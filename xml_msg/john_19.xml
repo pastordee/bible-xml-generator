@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="John" num="43" testament="new" version="MSG" bookAbbr="jhn">
 		<marker class="begin-verse" mid="v43019001" />
-		<chapter num="19">
+		<chapter num="19">			<heading>The Thorn Crown of the King</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then Pilate 
@@ -105,6 +106,7 @@
 				 Kill him! Crucify him!” they screamed out.“Do you want me to crucify your king?” Pilate asked.“The only king we have is Caesar,” the chief priests replied.
 			</v>
 			<marker class="begin-verse" mid="v43019016" />
+			<heading>The Crucifixion</heading>
 			<v n="16">
 				So he 
 				

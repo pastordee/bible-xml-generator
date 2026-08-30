@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Chronicles" num="14" testament="old" version="MSG" bookAbbr="2ch">
 		<marker class="begin-verse" mid="v14029001" />
-		<chapter num="29">
+		<chapter num="29">			<heading>King Hezekiah</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Hezekiah was 

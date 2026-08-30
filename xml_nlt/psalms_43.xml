@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Psalms" num="19" testament="old" version="NLT" bookAbbr="psa">
 		<marker class="begin-verse" mid="v19043001" />
-		<chapter num="43">
+		<chapter num="43">			<heading>Psalm 43</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Declare me 

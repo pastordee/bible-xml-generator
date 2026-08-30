@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20031001" />
-		<chapter num="31">
+		<chapter num="31">			<heading>Speak Out for Justice</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				These are 
@@ -69,6 +70,7 @@
 				 and judge fairly; defend the poor and destitute.
 			</v>
 			<marker class="begin-verse" mid="v20031010" />
+			<heading>Hymn to a Good Wife</heading>
 			<v n="10">
 				Who can 
 				

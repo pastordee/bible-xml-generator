@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Deuteronomy" num="5" testament="old" version="NKJV" bookAbbr="deu">
 		<marker class="begin-verse" mid="v05017001" />
-		<chapter num="17">
+		<chapter num="17">			<heading>Various Instructions</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c05017001.1" />
@@ -113,9 +114,10 @@
 				<crossref let="q" cid="c05017013.17" />
 				And all 
 				
-				 the people shall hear and fear, and no longer act presumptuously.Principles Governing Kings
+				 the people shall hear and fear, and no longer act presumptuously.
 			</v>
 			<marker class="begin-verse" mid="v05017014" />
+			<heading>Principles Governing Kings</heading>
 			<v n="14">
 				<crossref let="r" cid="c05017014.18" />
 				“When you 

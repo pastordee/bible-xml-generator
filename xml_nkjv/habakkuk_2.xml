@@ -13,15 +13,17 @@
 	</generation_info>
 	<book title="Habakkuk" num="35" testament="old" version="NKJV" bookAbbr="hab">
 		<marker class="begin-verse" mid="v35002001" />
-		<chapter num="2">
+		<chapter num="2">			<heading>The Just Shall Live by Faith</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c35002001.1" />
 				I will 
 				
-				 stand my watch And set myself on the rampart, And watch to see what He will say to me, And what I will answer when I am corrected.The Just Live by Faith
+				 stand my watch And set myself on the rampart, And watch to see what He will say to me, And what I will answer when I am corrected.
 			</v>
 			<marker class="begin-verse" mid="v35002002" />
+			<heading>The Just Live by Faith</heading>
 			<v n="2">
 				<crossref let="a" cid="c35002002.2" />
 				Then the 
@@ -46,9 +48,10 @@
 				<crossref let="g" cid="c35002004.7" />
 				“Behold the 
 				
-				 proud, His soul is not upright in him; But the just shall live by his faith.Woe to the Wicked
+				 proud, His soul is not upright in him; But the just shall live by his faith.
 			</v>
 			<marker class="begin-verse" mid="v35002005" />
+			<heading>Woe to the Wicked</heading>
 			<v n="5">
 				<crossref let="h" cid="c35002005.8" />
 				“Indeed, because 

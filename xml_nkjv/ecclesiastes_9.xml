@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Ecclesiastes" num="21" testament="old" version="NKJV" bookAbbr="ecc">
 		<marker class="begin-verse" mid="v21009001" />
-		<chapter num="9">
+		<chapter num="9">			<heading>Death Comes to All</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c21009001.1" />
@@ -96,11 +97,12 @@
 				<crossref let="k" cid="c21009012.10" />
 				For man 
 				
-				 also does not know his time: Like fish taken in a cruel net, Like birds caught in a snare, So the sons of men are snared in an evil time, When it falls suddenly upon them.Wisdom Superior to Folly
+				 also does not know his time: Like fish taken in a cruel net, Like birds caught in a snare, So the sons of men are snared in an evil time, When it falls suddenly upon them.
 			
 			<crossref let="l" cid="c21009012.11" />
 			</v>
 			<marker class="begin-verse" mid="v21009013" />
+			<heading>Wisdom Superior to Folly</heading>
 			<v n="13">
 				This wisdom 
 				

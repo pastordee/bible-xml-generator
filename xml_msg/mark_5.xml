@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Mark" num="41" testament="new" version="MSG" bookAbbr="mrk">
 		<marker class="begin-verse" mid="v41005001" />
-		<chapter num="5">
+		<chapter num="5">			<heading>The Madman</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				They arrived 
@@ -135,6 +136,7 @@
 				 man went on his way and began to tell the people of the Ten Cities everything Jesus had done for him, and everyone was amazed.
 			</v>
 			<marker class="begin-verse" mid="v41005021" />
+			<heading>A Risk of Faith</heading>
 			<v n="21">
 				Jesus went 
 				

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Amos" num="30" testament="old" version="MSG" bookAbbr="amo">
 		<marker class="begin-verse" mid="v30009001" />
-		<chapter num="9">
+		<chapter num="9">			<heading>Israel Thrown into a Sieve</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Then I 
@@ -75,6 +76,7 @@
 				 sinners of my people will be killed by the sword—all those who say, “Nothing bad is going to happen; no disaster will fall on us.”
 			</v>
 			<marker class="begin-verse" mid="v30009011" />
+			<heading>Blessings Like Wine Pouring off the Mountains</heading>
 			<v n="11">
 				On that 
 				

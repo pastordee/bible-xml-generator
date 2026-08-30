@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Acts" num="44" testament="new" version="MSG" bookAbbr="act">
 		<marker class="begin-verse" mid="v44020001" />
-		<chapter num="20">
+		<chapter num="20">			<heading>Macedonia and Greece</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Once the 
@@ -111,6 +112,7 @@
 				 planned to sail on past Ephesus so he wouldn't have to spend time in the province of Asia. He was keen to get to Jerusalem in time for the Day of Pentecost.
 			</v>
 			<marker class="begin-verse" mid="v44020017" />
+			<heading>On to Jerusalem</heading>
 			<v n="17">
 				From Miletus 
 				

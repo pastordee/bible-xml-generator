@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Kings" num="11" testament="old" version="MSG" bookAbbr="1ki">
 		<marker class="begin-verse" mid="v11012001" />
-		<chapter num="12">
+		<chapter num="12">			<heading>Rehoboam</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Rehoboam went 
@@ -129,6 +130,7 @@
 				 result, Israel has been in rebellion against the house of David to this day.
 			</v>
 			<marker class="begin-verse" mid="v11012020" />
+			<heading>Jeroboam of Israel</heading>
 			<v n="20">
 				When all 
 				

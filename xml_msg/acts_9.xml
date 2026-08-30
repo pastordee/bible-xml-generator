@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Acts" num="44" testament="new" version="MSG" bookAbbr="act">
 		<marker class="begin-verse" mid="v44009001" />
-		<chapter num="9">
+		<chapter num="9">			<heading>The Blinding of Saul</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				But meanwhile 
@@ -111,6 +112,7 @@
 				 show him what he'll have to suffer for my name's sake.”
 			</v>
 			<marker class="begin-verse" mid="v44009017" />
+			<heading>Plots Against Saul</heading>
 			<v n="17">
 				So Ananias 
 				
@@ -201,6 +203,7 @@
 				 time the whole church throughout Judea, Galilee, and Samaria was left in peace. The church grew strong and increased rapidly in numbers as the believers lived reverently for the Lord, encouraged by the Holy Spirit.
 			</v>
 			<marker class="begin-verse" mid="v44009032" />
+			<heading>Tabitha</heading>
 			<v n="32">
 				Peter was 
 				

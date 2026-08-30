@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Genesis" num="1" testament="old" version="MSG" bookAbbr="gen">
 		<marker class="begin-verse" mid="v01012001" />
-		<chapter num="12">
+		<chapter num="12">			<heading>Abram and Sarai</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 

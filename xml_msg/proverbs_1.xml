@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Proverbs" num="20" testament="old" version="MSG" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>A Manual for Living</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The proverbs 
@@ -51,6 +52,7 @@
 				 proverbs and puzzles, the sayings and questions of the wise.
 			</v>
 			<marker class="begin-verse" mid="v20001007" />
+			<heading>Start with God</heading>
 			<v n="7">
 				Honoring the 
 				
@@ -129,6 +131,7 @@
 				 what happens to you if you try to become rich through crime—it kills you!
 			</v>
 			<marker class="begin-verse" mid="v20001020" />
+			<heading>Lady Wisdom</heading>
 			<v n="20">
 				Wisdom calls 
 				

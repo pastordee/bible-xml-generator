@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="2 Chronicles" num="14" testament="old" version="MSG" bookAbbr="2ch">
 		<marker class="begin-verse" mid="v14024001" />
-		<chapter num="24">
+		<chapter num="24">			<heading>King Joash</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				Joash was 

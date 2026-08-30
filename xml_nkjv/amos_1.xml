@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Amos" num="30" testament="old" version="NKJV" bookAbbr="amo">
 		<marker class="begin-verse" mid="v30001001" />
-		<chapter num="1">
+		<chapter num="1">			<heading>Judgments on Israel’s Neighbors</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="b" cid="c30001001.1" />
@@ -26,9 +27,10 @@
 				<crossref let="f" cid="c30001002.2" />
 				And he 
 				
-				 said:“The Lord roars from Zion, And utters His voice from Jerusalem; The pastures of the shepherds mourn, And the top of Carmel withers.”Judgment on the Nations
+				 said:“The Lord roars from Zion, And utters His voice from Jerusalem; The pastures of the shepherds mourn, And the top of Carmel withers.”
 			</v>
 			<marker class="begin-verse" mid="v30001003" />
+			<heading>Judgment on the Nations</heading>
 			<v n="3">
 				<crossref let="h" cid="c30001003.3" />
 				Thus says 

@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="1 Samuel" num="9" testament="old" version="MSG" bookAbbr="1sa">
 		<marker class="begin-verse" mid="v09016001" />
-		<chapter num="16">
+		<chapter num="16">			<heading>God Looks into the Heart</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The Lord 
@@ -93,6 +94,7 @@
 				 the flask of olive oil and anointed him in the presence of his brothers, and the Spirit of the Lord came on David in power from that day on. Then Samuel left and returned to Ramah.
 			</v>
 			<marker class="begin-verse" mid="v09016014" />
+			<heading>David—An Excellent Musician</heading>
 			<v n="14">
 				The Spirit 
 				

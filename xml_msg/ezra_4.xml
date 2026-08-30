@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Ezra" num="15" testament="old" version="MSG" bookAbbr="ezr">
 		<marker class="begin-verse" mid="v15004001" />
-		<chapter num="4">
+		<chapter num="4">			<heading>The Building Stopped</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				The enemies 

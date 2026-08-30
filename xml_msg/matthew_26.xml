@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40026001" />
-		<chapter num="26">
+		<chapter num="26">			<heading>Anointed for Burial</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				After Jesus 
@@ -111,6 +112,7 @@
 				 on he looked for an opportunity to betray Jesus.
 			</v>
 			<marker class="begin-verse" mid="v40026017" />
+			<heading>The Traitor</heading>
 			<v n="17">
 				On the 
 				
@@ -165,6 +167,7 @@
 				 one who would betray Jesus, asked, “It's not me, is it, Rabbi?”“You said it,” Jesus replied.
 			</v>
 			<marker class="begin-verse" mid="v40026026" />
+			<heading>The Bread and the Cup</heading>
 			<v n="26">
 				While they 
 				
@@ -195,6 +198,7 @@
 				 sung a song, they left for the Mount of Olives.
 			</v>
 			<marker class="begin-verse" mid="v40026031" />
+			<heading>Gethsemane</heading>
 			<v n="31">
 				“All of 
 				
@@ -291,6 +295,7 @@
 				 let's go! Look, the one who's betraying me has arrived.”
 			</v>
 			<marker class="begin-verse" mid="v40026047" />
+			<heading>With Swords and Clubs</heading>
 			<v n="47">
 				As he 
 				
@@ -351,6 +356,7 @@
 				 this is happening to fulfill what the prophets wrote.” Then all the disciples abandoned him and ran away.
 			</v>
 			<marker class="begin-verse" mid="v40026057" />
+			<heading>False Charges</heading>
 			<v n="57">
 				Those who'd 
 				
@@ -423,6 +429,7 @@
 				 “Prophesy to us, you ‘Messiah’! Who just hit you?”
 			</v>
 			<marker class="begin-verse" mid="v40026069" />
+			<heading>Denial in the Courtyard</heading>
 			<v n="69">
 				Meanwhile Peter 
 				

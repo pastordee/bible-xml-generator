@@ -13,17 +13,19 @@
 	</generation_info>
 	<book title="Ecclesiastes" num="21" testament="old" version="NKJV" bookAbbr="ecc">
 		<marker class="begin-verse" mid="v21008001" />
-		<chapter num="8">
+		<chapter num="8">			<heading>Obey Authorities for God’s Sake</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c21008001.1" />
 				Who is 
 				
-				 like a wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, And the sternness of his face is changed.Obey Authorities for God’s Sake
+				 like a wise man? And who knows the interpretation of a thing? A man’s wisdom makes his face shine, And the sternness of his face is changed.
 			
 			<crossref let="b" cid="c21008001.2" />
 			</v>
 			<marker class="begin-verse" mid="v21008002" />
+			<heading>Obey Authorities for God’s Sake</heading>
 			<v n="2">
 				<crossref let="s" cid="c21008002.3" />
 				I say, 
@@ -75,9 +77,10 @@
 			<v n="9">
 				All this 
 				
-				 I have seen, and applied my heart to every work that is done under the sun: There is a time in which one man rules over another to his own hurt.Death Comes to All
+				 I have seen, and applied my heart to every work that is done under the sun: There is a time in which one man rules over another to his own hurt.
 			</v>
 			<marker class="begin-verse" mid="v21008010" />
+			<heading>Death Comes to All</heading>
 			<v n="10">
 				<crossref let="j" cid="c21008010.9" />
 				Then I 

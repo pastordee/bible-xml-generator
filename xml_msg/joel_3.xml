@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Joel" num="29" testament="old" version="MSG" bookAbbr="jol">
 		<marker class="begin-verse" mid="v29003001" />
-		<chapter num="3">
+		<chapter num="3">			<heading>God Is a Safe Hiding Place</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				At that 
@@ -117,6 +118,7 @@
 				 will know that I, the Lord your God, dwell in Zion, my holy mountain, and Jerusalem will be a holy place forever, and no foreigners will ever march through her again.
 			</v>
 			<marker class="begin-verse" mid="v29003018" />
+			<heading>Milk Rivering out of the Hills</heading>
 			<v n="18">
 				At that 
 				

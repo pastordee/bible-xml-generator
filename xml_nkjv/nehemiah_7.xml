@@ -13,7 +13,8 @@
 	</generation_info>
 	<book title="Nehemiah" num="16" testament="old" version="NKJV" bookAbbr="neh">
 		<marker class="begin-verse" mid="v16007001" />
-		<chapter num="7">
+		<chapter num="7">			<heading>List of Returning Exiles</heading>
+
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c16007001.1" />
@@ -36,9 +37,10 @@
 			<v n="3">
 				And I 
 				
-				 said to them, “Do not let the gates of Jerusalem be opened until the sun is hot; and while they stand guard, let them shut and bar the doors; and appoint guards from among the inhabitants of Jerusalem, one at his watch station and another in front of his own house.”The Captives Who Returned to Jerusalem
+				 said to them, “Do not let the gates of Jerusalem be opened until the sun is hot; and while they stand guard, let them shut and bar the doors; and appoint guards from among the inhabitants of Jerusalem, one at his watch station and another in front of his own house.”
 			</v>
 			<marker class="begin-verse" mid="v16007004" />
+			<heading>The Captives Who Returned to Jerusalem</heading>
 			<v n="4">
 				<crossref let="f" cid="c16007004.5" />
 				Now the 
@@ -463,6 +465,7 @@
 				 which the rest of the people gave was twenty thousand gold drachmas, two thousand silver minas, and sixty-seven priestly garments.
 			</v>
 			<marker class="begin-verse" mid="v16007073" />
+			<heading>Ezra Reads the Law</heading>
 			<v n="73">
 				<crossref let="p" cid="c16007073.15" />
 				So the 

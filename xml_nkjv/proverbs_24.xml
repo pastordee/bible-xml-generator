@@ -14,6 +14,7 @@
 	<book title="Proverbs" num="20" testament="old" version="NKJV" bookAbbr="pro">
 		<marker class="begin-verse" mid="v20024001" />
 		<chapter num="24">
+			<heading>Do Not Envy Evil Men</heading>
 			<begin-paragraph />
 			<v n="1">
 				<crossref let="a" cid="c20024001.1" />
@@ -163,6 +164,7 @@
 				 calamity will rise suddenly, And who knows the ruin those two can bring? Further Sayings of the Wise
 			</v>
 			<marker class="begin-verse" mid="v20024023" />
+			<heading>Further Sayings of the Wise</heading>
 			<v n="23">
 				<crossref let="q" cid="c20024023.16" />
 				These things 

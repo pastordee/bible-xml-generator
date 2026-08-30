@@ -13,8 +13,7 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="MSG" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02027001" />
-		<chapter num="27">			<heading>The Altar</heading>
-
+		<chapter num="27">
 			<begin-paragraph />
 			<v n="1">
 				Make an 
@@ -64,7 +63,6 @@
 				 altar hollow, using boards, just as you were shown on the mountain.
 			</v>
 			<marker class="begin-verse" mid="v02027009" />
-			<heading>The Courtyard</heading>
 			<v n="9">
 				Make a 
 				

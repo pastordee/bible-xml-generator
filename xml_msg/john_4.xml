@@ -13,8 +13,7 @@
 	</generation_info>
 	<book title="John" num="43" testament="new" version="MSG" bookAbbr="jhn">
 		<marker class="begin-verse" mid="v43004001" />
-		<chapter num="4">			<heading>The Woman at the Well</heading>
-
+		<chapter num="4">
 			<begin-paragraph />
 			<v n="1">
 				When Jesus 
@@ -196,7 +195,6 @@
 				 went out of the town to go and see him.
 			</v>
 			<marker class="begin-verse" mid="v43004031" />
-			<heading>It’s Harvest Time</heading>
 			<v n="31">
 				Meanwhile Jesus' 
 				

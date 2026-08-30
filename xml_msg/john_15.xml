@@ -13,8 +13,7 @@
 	</generation_info>
 	<book title="John" num="43" testament="new" version="MSG" bookAbbr="jhn">
 		<marker class="begin-verse" mid="v43015001" />
-		<chapter num="15">			<heading>The Vine and the Branches</heading>
-
+		<chapter num="15">
 			<begin-paragraph />
 			<v n="1">
 				“I am 
@@ -118,7 +117,6 @@
 				 my command to you: love one another.
 			</v>
 			<marker class="begin-verse" mid="v43015018" />
-			<heading>Hated by the World</heading>
 			<v n="18">
 				If the 
 				

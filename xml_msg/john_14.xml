@@ -13,8 +13,7 @@
 	</generation_info>
 	<book title="John" num="43" testament="new" version="MSG" bookAbbr="jhn">
 		<marker class="begin-verse" mid="v43014001" />
-		<chapter num="14">			<heading>The Road</heading>
-
+		<chapter num="14">
 			<begin-paragraph />
 			<v n="1">
 				“Don't be 
@@ -100,7 +99,6 @@
 				 ask for in my name, I will do it.
 			</v>
 			<marker class="begin-verse" mid="v43014015" />
-			<heading>The Spirit of Truth</heading>
 			<v n="15">
 				If you 
 				

@@ -13,8 +13,7 @@
 	</generation_info>
 	<book title="Luke" num="42" testament="new" version="MSG" bookAbbr="luk">
 		<marker class="begin-verse" mid="v42023001" />
-		<chapter num="23">			<heading>Pilate</heading>
-
+		<chapter num="23">
 			<begin-paragraph />
 			<v n="1">
 				The whole 
@@ -160,7 +159,6 @@
 				 the man imprisoned for rebellion and murder, but he sent Jesus to be put to death in accordance with their demands.
 			</v>
 			<marker class="begin-verse" mid="v42023026" />
-			<heading>Skull Hill</heading>
 			<v n="26">
 				As the 
 				

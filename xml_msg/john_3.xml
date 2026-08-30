@@ -13,8 +13,7 @@
 	</generation_info>
 	<book title="John" num="43" testament="new" version="MSG" bookAbbr="jhn">
 		<marker class="begin-verse" mid="v43003001" />
-		<chapter num="3">			<heading>Born from Above</heading>
-
+		<chapter num="3">
 			<begin-paragraph />
 			<v n="1">
 				There was 
@@ -142,7 +141,6 @@
 				 who do good come into the light, so that what God accomplishes in them can be revealed.”
 			</v>
 			<marker class="begin-verse" mid="v43003022" />
-			<heading>The Bridegroom’s Friend</heading>
 			<v n="22">
 				After this 
 				

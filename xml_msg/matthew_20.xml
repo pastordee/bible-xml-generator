@@ -13,8 +13,7 @@
 	</generation_info>
 	<book title="Matthew" num="40" testament="new" version="MSG" bookAbbr="mat">
 		<marker class="begin-verse" mid="v40020001" />
-		<chapter num="20">			<heading>A Story About Workers</heading>
-
+		<chapter num="20">
 			<begin-paragraph />
 			<v n="1">
 				For the 
@@ -112,7 +111,6 @@
 				 way the last shall be first and the first shall be last.”
 			</v>
 			<marker class="begin-verse" mid="v40020017" />
-			<heading>To Drink from the Cup</heading>
 			<v n="17">
 				On the 
 				

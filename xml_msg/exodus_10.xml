@@ -13,8 +13,7 @@
 	</generation_info>
 	<book title="Exodus" num="2" testament="old" version="MSG" bookAbbr="exo">
 		<marker class="begin-verse" mid="v02010001" />
-		<chapter num="10">			<heading>Strike Eight: Locusts</heading>
-
+		<chapter num="10">
 			<begin-paragraph />
 			<v n="1">
 				The Lord 
@@ -136,7 +135,6 @@
 				 Lord made Pharaoh stubborn, and he would not let the Israelites go.
 			</v>
 			<marker class="begin-verse" mid="v02010021" />
-			<heading>Strike Nine: Darkness</heading>
 			<v n="21">
 				The Lord 
 				
